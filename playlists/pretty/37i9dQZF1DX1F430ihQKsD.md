@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > 100 % chill, 100 % Montréal w/ Joseph Lorange
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,971 likes - 63 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,972 likes - 63 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

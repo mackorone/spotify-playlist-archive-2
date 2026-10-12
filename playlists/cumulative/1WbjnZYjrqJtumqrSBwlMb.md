@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,387 songs - 3 day 13 hr 24 min
+1,388 songs - 3 day 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -516,6 +516,7 @@
 | [Here With Me](https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 4:02 | 2024-04-23 | 2025-09-24 |
 | [HERMANOS](https://open.spotify.com/track/4BFteJu5Hv7XStDXghJbQ7) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Danny Brown](https://open.spotify.com/artist/2vMpqIUldNe7m83WAUqIdC) | [SCARING THE HOES: DLC PACK](https://open.spotify.com/album/20KXgVL9yHtkk6Its2bmpO) | 4:25 | 2023-07-11 |  |
 | [Hero](https://open.spotify.com/track/6lg8POBTkaNP3QziiL2Wa1) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [I Heard That Noise](https://open.spotify.com/album/3hXswlXaEoYMiBQ9TZN2wR) | 3:14 | 2025-04-22 |  |
+| [Heroes](https://open.spotify.com/track/2MhJNvtkInVsS4zXXflvoV) | [Hollywood Vampires](https://open.spotify.com/artist/3k4YA0uPsWc2PuOQlJNpdH), [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS), [Johnny Depp](https://open.spotify.com/artist/3OsHwkxpSIEqqmYoQxZTT5) | [Rise](https://open.spotify.com/album/0tbq3LgCA3BlNKLZ2E0vOO) | 4:08 | 2026-10-12 |  |
 | [Heroin](https://open.spotify.com/track/0N9HoTDxy2pVRHV7Zmt9Ok) | [Sugar Cherry](https://open.spotify.com/artist/0XL4FAwlMdPd4UxmPnTPUd) | [Land of Pine](https://open.spotify.com/album/0mMyd6IDLycxlDihDuOIaM) | 2:10 | 2025-12-10 |  |
 | [hesitation](https://open.spotify.com/track/1QwYL1JmXingJ2UQeLEeBH) | [Andrew Garden](https://open.spotify.com/artist/52edEK1d76neXRL7odUZwi) | [hesitation](https://open.spotify.com/album/2O1vUJU8wqdnoUDOUdllIi) | 2:57 | 2022-04-07 |  |
 | [Hey Jane](https://open.spotify.com/track/3Umj02ZNl4d356pS1D38mn) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:00 | 2024-11-01 |  |

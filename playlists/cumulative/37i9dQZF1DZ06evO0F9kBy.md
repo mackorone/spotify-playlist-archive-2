@@ -4,7 +4,7 @@
 
 > This is Matt Maher\. The essential tracks, all in one playlist.
 
-115 songs - 8 hr 34 min
+116 songs - 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Burning In My Soul](https://open.spotify.com/track/39mcodzxm2M8FgxVsUzV9K) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [All The People Said Amen](https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu) | 3:45 | 2022-09-14 |  |
 | [Center of All History](https://open.spotify.com/track/5RJ7qUnmGgOey1zv6tO5av) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Forever Amen](https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY) | 4:21 | 2022-09-14 |  |
 | [Christ is Lower Still](https://open.spotify.com/track/3Z2KoAJMtXuUUcXRixQWsI) | [The Porter's Gate](https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Sanctuary Songs](https://open.spotify.com/album/2xtIB6EI9M4qilg51YSuzB) | 5:56 | 2025-03-14 | 2026-09-29 |
+| [Christ Is Lower Still](https://open.spotify.com/track/3hCHePNdNzGkhYtSeU13Y6) | [The Porter's Gate](https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Sanctuary Songs](https://open.spotify.com/album/4kkaT37xGlszLXcJ0cVpbF) | 5:56 | 2026-10-12 |  |
 | [Christ is Lower Still](https://open.spotify.com/track/3khXjhwcTYr2wcZX2umXUy) | [The Porter's Gate](https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Christ is Lower Still](https://open.spotify.com/album/6WDO8iw502euvnrfushQDL) | 5:56 | 2023-08-19 | 2023-11-11 |
 | [Christ is Lower Still](https://open.spotify.com/track/4stQGKTkAR2OY0uopaXZfq) | [The Porter's Gate](https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Sanctuary Songs](https://open.spotify.com/album/1CSfutoC6m5nK6LIAAI0ai) | 5:56 | 2023-11-10 | 2025-03-14 |
 | [Christ Is Risen](https://open.spotify.com/track/27q0d0DgZrcnUNr2K0kMPC) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive Again](https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX) | 4:54 | 2022-09-14 |  |
@@ -83,7 +84,7 @@
 | [One Heart at a Time](https://open.spotify.com/track/6JWRtXvUGFUyNNv768OL7v) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [One Heart at a Time](https://open.spotify.com/album/0nmUmA7IASmi7wu1f6ooZG) | 4:22 | 2022-09-24 | 2024-06-30 |
 | [Only Good Will Grow \(feat\. Brian Elmquist\)](https://open.spotify.com/track/4wVD5bjDg7vJErEv0a4apm) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Brian Elmquist](https://open.spotify.com/artist/5EfuemsjOXqraQLj0WAjHM) | [Only Good Will Grow](https://open.spotify.com/album/36OsXL7Ib4ux8PGSrvTi5P) | 2:32 | 2022-09-14 | 2022-10-24 |
 | [Praise The Giver](https://open.spotify.com/track/7qU5CtWCaDBFvHQ20MeZTL) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Wait / Praise The Giver](https://open.spotify.com/album/1trTP6UbgtdJmY2tcyXH1i) | 4:01 | 2025-03-20 | 2026-01-05 |
-| [Remembrance \(Communion Song\)](https://open.spotify.com/track/4U1kozpFOiKDYb7CDjqPt7) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive Again](https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX) | 5:18 | 2022-09-14 |  |
+| [Remembrance \(Communion Song\)](https://open.spotify.com/track/4U1kozpFOiKDYb7CDjqPt7) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive Again](https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX) | 5:18 | 2022-09-14 | 2026-10-12 |
 | [Rest](https://open.spotify.com/track/7nEzee6SW3xOxh5ciJsei2) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Saints and Sinners](https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP) | 4:40 | 2022-09-14 | 2023-02-02 |
 | [Run To The Father](https://open.spotify.com/track/2Sl2SQCQ3SAqB9u08FVeSc) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive & Breathing](https://open.spotify.com/album/1BxJ93fbfJSKQ4GWqUcQB9) | 4:41 | 2022-09-14 |  |
 | [Señor, Te Necesito](https://open.spotify.com/track/2EullfPQH8lklDEZSVPDJM) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Señor, Te Necesito](https://open.spotify.com/album/6prmSJ9bjlXsxKqIQVxNxK) | 3:24 | 2022-09-14 |  |

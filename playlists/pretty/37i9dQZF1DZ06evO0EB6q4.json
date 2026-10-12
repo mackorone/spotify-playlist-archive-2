@@ -1,6 +1,6 @@
 {
   "description": "This is Nanpa B\u00e1sico. The essential tracks, all in one playlist.",
-  "num_followers": 269431,
+  "num_followers": 269462,
   "original_name": "This Is Nanpa B\u00e1sico",
   "owner": {
     "name": "Spotify",
@@ -211,26 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AFROROCKSTAR",
-        "url": "https://open.spotify.com/album/6dk6SJoigUMz87JrvrAhdG"
-      },
-      "artists": [
-        {
-          "name": "Hamilton",
-          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 183891,
-      "name": "Mi Reina",
-      "url": "https://open.spotify.com/track/4QuvjR6DLUuH1SqcfJN7gL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Paz Mental",
         "url": "https://open.spotify.com/album/2Dxid0n6fLgS8gtAf0Xlze"
       },
@@ -251,6 +231,26 @@
       "duration_ms": 209032,
       "name": "Paz Mental",
       "url": "https://open.spotify.com/track/6NBmlO9D9y32zDjf3PsF6G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AFROROCKSTAR",
+        "url": "https://open.spotify.com/album/6dk6SJoigUMz87JrvrAhdG"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 183891,
+      "name": "Mi Reina",
+      "url": "https://open.spotify.com/track/4QuvjR6DLUuH1SqcfJN7gL"
     },
     {
       "added_at": null,
@@ -563,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi amor",
-        "url": "https://open.spotify.com/album/1W1xb28Qsjn4PEzfF5TWyE"
+        "name": "Para los Dolidos",
+        "url": "https://open.spotify.com/album/5SvkYjltTnPtiSoQayLNEh"
       },
       "artists": [
         {
@@ -572,13 +572,13 @@
           "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
         },
         {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
         }
       ],
-      "duration_ms": 178619,
-      "name": "Mi amor",
-      "url": "https://open.spotify.com/track/4MSfzsuYdlcvNH1jogSjb2"
+      "duration_ms": 156403,
+      "name": "Para los Dolidos",
+      "url": "https://open.spotify.com/track/2viWABT14AgG9wTbTxyD7a"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para los Dolidos",
-        "url": "https://open.spotify.com/album/5SvkYjltTnPtiSoQayLNEh"
+        "name": "Mi amor",
+        "url": "https://open.spotify.com/album/1W1xb28Qsjn4PEzfF5TWyE"
       },
       "artists": [
         {
@@ -612,13 +612,33 @@
           "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
         },
         {
-          "name": "Yeison Jimenez",
-          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
         }
       ],
-      "duration_ms": 156403,
-      "name": "Para los Dolidos",
-      "url": "https://open.spotify.com/track/2viWABT14AgG9wTbTxyD7a"
+      "duration_ms": 178619,
+      "name": "Mi amor",
+      "url": "https://open.spotify.com/track/4MSfzsuYdlcvNH1jogSjb2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "1+1=1",
+        "url": "https://open.spotify.com/album/1FWB8Xe1840KMmDWKsfS7b"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bueno",
+          "url": "https://open.spotify.com/artist/3frx2nsVBAA3DvbKTE9JeT"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 163404,
+      "name": "1+1=1",
+      "url": "https://open.spotify.com/track/3aJCdoXJpMXaGOMttPeR6R"
     },
     {
       "added_at": null,
@@ -643,26 +663,6 @@
       "duration_ms": 189098,
       "name": "Volvernos a Amar",
       "url": "https://open.spotify.com/track/3W1HtrBRDTYdvDJ6Ty4bfn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "1+1=1",
-        "url": "https://open.spotify.com/album/1FWB8Xe1840KMmDWKsfS7b"
-      },
-      "artists": [
-        {
-          "name": "Miguel Bueno",
-          "url": "https://open.spotify.com/artist/3frx2nsVBAA3DvbKTE9JeT"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 163404,
-      "name": "1+1=1",
-      "url": "https://open.spotify.com/track/3aJCdoXJpMXaGOMttPeR6R"
     },
     {
       "added_at": null,

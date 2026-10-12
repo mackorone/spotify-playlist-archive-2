@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 
 > Canciones de ayer y de hoy grabadas a fuego en el corazón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,629 likes - 90 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,653 likes - 90 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 45 | [La Paloma](https://open.spotify.com/track/1xbueGvTrxbpYNtOSFKdTJ) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [La Paloma](https://open.spotify.com/album/6DgVAve7m06lb2ubFqp3J3) | 3:44 |
 | 46 | [Luna Llena](https://open.spotify.com/track/27682VM2spSTjaneKmvNjk) | [Juan Fuentes](https://open.spotify.com/artist/3sTzey9Yo1tfeSQD0PIYRF) | [Luna Llena](https://open.spotify.com/album/3qNKPQP0exJIApWPz1SzWR) | 3:07 |
 | 47 | [Ya No Juegues Conmigo](https://open.spotify.com/track/46aBmruUOkNlmUQAyHwImt) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Tierra Mia](https://open.spotify.com/album/70IwXC5EAQkxGD2wvSNWIK) | 2:45 |
-| 48 | [Una Noche Más](https://open.spotify.com/track/5zkVIqB0REw19AXIl9rH2q) | [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [Una Noche Más](https://open.spotify.com/album/55VoL4ZTESAMk4zl3lX9IH) | 3:25 |
-| 49 | [Bailando](https://open.spotify.com/track/28EYezyEmrA6vTwm8qOUXf) | [Los Puesteros](https://open.spotify.com/artist/0wTashas0gzU0N4bKe7xxY) | [Bailando](https://open.spotify.com/album/3TzvWWu1YKbzTFRucQo3Rp) | 3:38 |
+| 48 | [Bailando](https://open.spotify.com/track/28EYezyEmrA6vTwm8qOUXf) | [Los Puesteros](https://open.spotify.com/artist/0wTashas0gzU0N4bKe7xxY) | [Bailando](https://open.spotify.com/album/3TzvWWu1YKbzTFRucQo3Rp) | 3:38 |
+| 49 | [Una Noche Más](https://open.spotify.com/track/5zkVIqB0REw19AXIl9rH2q) | [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [Una Noche Más](https://open.spotify.com/album/55VoL4ZTESAMk4zl3lX9IH) | 3:25 |
 | 50 | [La del Olvido](https://open.spotify.com/track/3bCKQK2PKLBIRZvUL4kROh) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Natural](https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx) | 4:09 |
 | 51 | [Por las costas entrerrianas](https://open.spotify.com/track/159w8FAaY0OVg8H0rXX26C) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Quien Me Quita Lo Cantado](https://open.spotify.com/album/74SPPqaCtI8Ny6PQiUBMdf) | 3:21 |
 | 52 | [Nada](https://open.spotify.com/track/3MZj5HNiSCfcBE4fMRiSpX) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc) | [Nada](https://open.spotify.com/album/0vfHVUcxFuIesJnzwubbbB) | 3:33 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZESE3fHLhmD.md) - [plain]
 
 > songs so golden wie der herbst
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,302,445 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,302,393 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,13 +48,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZESE3fHLhmD.md) - [plain]
 | 38 | [Silver Springs \- 2004 Remaster](https://open.spotify.com/track/4nZi6XNe36Ut4Nij3IQ1yC) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:48 |
 | 39 | [Bad At Love](https://open.spotify.com/track/3OzCF9i6Ey7EkkAYJztmKp) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [hopeless fountain kingdom \(Deluxe Plus\)](https://open.spotify.com/album/5ZvnIKEq0HAwDHNR8f2yIx) | 3:01 |
 | 40 | [Edge of the Earth](https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 2:40 |
-| 41 | [Doors](https://open.spotify.com/track/3iU2qsthCTo5EeTE03l3Si) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 3:51 |
-| 42 | [Evergreen](https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [RMCM](https://open.spotify.com/album/2weOG4ZiOjfxiuFMsHm9JQ) | 1:27 |
+| 41 | [Evergreen](https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [RMCM](https://open.spotify.com/album/2weOG4ZiOjfxiuFMsHm9JQ) | 1:27 |
+| 42 | [Doors](https://open.spotify.com/track/3iU2qsthCTo5EeTE03l3Si) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 3:51 |
 | 43 | [maggots for brains](https://open.spotify.com/track/6jfiwkcwt8iYCdkbLukxeI) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY) | 4:00 |
 | 44 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 |
 | 45 | [Manic](https://open.spotify.com/track/2AeNxclEw1gqrZJH7ED34W) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc) | [Ars Valendi](https://open.spotify.com/album/5LxbIjaNQZvvtWUFj2GOrh) | 2:50 |
-| 46 | [Brazil](https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Do You Think About the Car?](https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ) | 4:12 |
-| 47 | [Sally, When The Wine Runs Out](https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore \(The Longest Goodbye\)](https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f) | 3:38 |
+| 46 | [Sally, When The Wine Runs Out](https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore \(The Longest Goodbye\)](https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f) | 3:38 |
+| 47 | [Brazil](https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Do You Think About the Car?](https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ) | 4:12 |
 | 48 | [UNETHICAL](https://open.spotify.com/track/7G8EmDx7L5zRHb6rBJDqEG) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [FILM NOIR](https://open.spotify.com/album/0FffqcK2whBazSFcAIxebQ) | 3:39 |
 | 49 | [My Moon My Man](https://open.spotify.com/track/4fQVQKIiidREPI0MhFEuDn) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/27Y2wm3WcFThQocgjLI5wF) | 3:48 |
 | 50 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 |

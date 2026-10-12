@@ -1,6 +1,6 @@
 {
   "description": "if you wanna party, come over to my house",
-  "num_followers": 3762077,
+  "num_followers": 3761424,
   "original_name": "Party Hits",
   "owner": {
     "name": "Spotify",
@@ -879,6 +879,22 @@
     {
       "added_at": "2026-10-09 18:14:15",
       "album": {
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 172626,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
+    },
+    {
+      "added_at": "2026-10-09 18:14:15",
+      "album": {
         "name": "The Days (NOTION Remix)",
         "url": "https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 233229,
       "name": "The Days - NOTION Remix",
       "url": "https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8"
-    },
-    {
-      "added_at": "2026-10-09 18:14:15",
-      "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 172626,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
     },
     {
       "added_at": "2026-10-09 18:14:15",
@@ -967,26 +967,6 @@
     {
       "added_at": "2026-10-09 18:14:15",
       "album": {
-        "name": "Camila",
-        "url": "https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 217308,
-      "name": "Havana (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W"
-    },
-    {
-      "added_at": "2026-10-09 18:14:15",
-      "album": {
         "name": "Planet Her",
         "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 208666,
       "name": "Kiss Me More (feat. SZA)",
       "url": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz"
+    },
+    {
+      "added_at": "2026-10-09 18:14:15",
+      "album": {
+        "name": "Camila",
+        "url": "https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 217308,
+      "name": "Havana (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W"
     },
     {
       "added_at": "2026-10-09 18:14:15",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-10-09 18:14:15",
       "album": {
-        "name": "Rebel",
-        "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
-      },
-      "artists": [
-        {
-          "name": "EsDeeKid",
-          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "4 Raws",
-      "url": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT"
-    },
-    {
-      "added_at": "2026-10-09 18:14:15",
-      "album": {
         "name": "Dracula",
         "url": "https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 205308,
       "name": "Dracula",
       "url": "https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM"
+    },
+    {
+      "added_at": "2026-10-09 18:14:15",
+      "album": {
+        "name": "Rebel",
+        "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
+      },
+      "artists": [
+        {
+          "name": "EsDeeKid",
+          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
+        }
+      ],
+      "duration_ms": 146666,
+      "name": "4 Raws",
+      "url": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT"
     },
     {
       "added_at": "2026-10-09 18:14:15",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-10-09 18:14:15",
       "album": {
-        "name": "Midnight Sun",
-        "url": "https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 189898,
-      "name": "Midnight Sun",
-      "url": "https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY"
-    },
-    {
-      "added_at": "2026-10-09 18:14:15",
-      "album": {
         "name": "brand new chanel$",
         "url": "https://open.spotify.com/album/75NIUjwFzYkzok7nRwNurg"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 238505,
       "name": "brand new chanel$",
       "url": "https://open.spotify.com/track/3FZoov0ORtnr8TznSNI1y2"
+    },
+    {
+      "added_at": "2026-10-09 18:14:15",
+      "album": {
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 189898,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY"
     },
     {
       "added_at": "2026-10-09 18:14:15",
@@ -1227,18 +1227,22 @@
     {
       "added_at": "2026-10-09 18:14:15",
       "album": {
-        "name": "Si Antes Te Hubiera Conocido",
-        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
+        "name": "Quevedo: Bzrp Music Sessions, Vol. 52/66",
+        "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
       },
       "artists": [
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
         }
       ],
-      "duration_ms": 195824,
-      "name": "Si Antes Te Hubiera Conocido",
-      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
+      "duration_ms": 198937,
+      "name": "Quevedo: Bzrp Music Sessions, Vol. 52/66",
+      "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
     },
     {
       "added_at": "2026-10-09 18:14:15",
@@ -1259,22 +1263,18 @@
     {
       "added_at": "2026-10-09 18:14:15",
       "album": {
-        "name": "Quevedo: Bzrp Music Sessions, Vol. 52/66",
-        "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
+        "name": "Si Antes Te Hubiera Conocido",
+        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
       },
       "artists": [
         {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 198937,
-      "name": "Quevedo: Bzrp Music Sessions, Vol. 52/66",
-      "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
+      "duration_ms": 195824,
+      "name": "Si Antes Te Hubiera Conocido",
+      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
     },
     {
       "added_at": "2026-10-09 18:14:15",
@@ -1375,30 +1375,6 @@
     {
       "added_at": "2026-10-09 18:14:15",
       "album": {
-        "name": "ICEMAN",
-        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Molly Santana",
-          "url": "https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU"
-        }
-      ],
-      "duration_ms": 247183,
-      "name": "Ran To Atlanta (feat. Future & Molly Santana)",
-      "url": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph"
-    },
-    {
-      "added_at": "2026-10-09 18:14:15",
-      "album": {
         "name": "The Middle",
         "url": "https://open.spotify.com/album/7nEiwcUSwycvC77kZ9ub7c"
       },
@@ -1419,6 +1395,30 @@
       "duration_ms": 184732,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/09IStsImFySgyp0pIQdqAc"
+    },
+    {
+      "added_at": "2026-10-09 18:14:15",
+      "album": {
+        "name": "ICEMAN",
+        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Molly Santana",
+          "url": "https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU"
+        }
+      ],
+      "duration_ms": 247183,
+      "name": "Ran To Atlanta (feat. Future & Molly Santana)",
+      "url": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph"
     },
     {
       "added_at": "2026-10-09 18:14:15",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2026-10-09 18:14:15",
       "album": {
+        "name": "DANGEROUS SUMMER",
+        "url": "https://open.spotify.com/album/61PCQeDaTD2gwfpHFikpbh"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 198620,
+      "name": "COM\u00cb N GO",
+      "url": "https://open.spotify.com/track/2mNGL7mZILSqZHxGboJaO9"
+    },
+    {
+      "added_at": "2026-10-09 18:14:15",
+      "album": {
         "name": "Dying to Live",
         "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
       },
@@ -1483,38 +1499,6 @@
     {
       "added_at": "2026-10-09 18:14:15",
       "album": {
-        "name": "$ome $exy $ongs 4 U",
-        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 241023,
-      "name": "NOKIA",
-      "url": "https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg"
-    },
-    {
-      "added_at": "2026-10-09 18:14:15",
-      "album": {
-        "name": "DANGEROUS SUMMER",
-        "url": "https://open.spotify.com/album/61PCQeDaTD2gwfpHFikpbh"
-      },
-      "artists": [
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        }
-      ],
-      "duration_ms": 198620,
-      "name": "COM\u00cb N GO",
-      "url": "https://open.spotify.com/track/2mNGL7mZILSqZHxGboJaO9"
-    },
-    {
-      "added_at": "2026-10-09 18:14:15",
-      "album": {
         "name": "Invasion of Privacy",
         "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 253390,
       "name": "I Like It",
       "url": "https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z"
+    },
+    {
+      "added_at": "2026-10-09 18:14:15",
+      "album": {
+        "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 241023,
+      "name": "NOKIA",
+      "url": "https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg"
     },
     {
       "added_at": "2026-10-09 18:14:15",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2026-10-09 18:14:15",
       "album": {
-        "name": "Lovin On Me",
-        "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 138411,
-      "name": "Lovin On Me",
-      "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
-    },
-    {
-      "added_at": "2026-10-09 18:14:15",
-      "album": {
         "name": "i like the way you kiss me",
         "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 142514,
       "name": "i like the way you kiss me",
       "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
+    },
+    {
+      "added_at": "2026-10-09 18:14:15",
+      "album": {
+        "name": "Lovin On Me",
+        "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 138411,
+      "name": "Lovin On Me",
+      "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
     },
     {
       "added_at": "2026-10-09 18:14:15",
@@ -1891,18 +1891,18 @@
     {
       "added_at": "2026-10-09 18:14:15",
       "album": {
-        "name": "DON'T TAP THE GLASS",
-        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
+        "name": "M\u00e9lo D\u00e9cal\u00e9",
+        "url": "https://open.spotify.com/album/0CPYOg6Axx4W3qFGqqbNcc"
       },
       "artists": [
         {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
         }
       ],
-      "duration_ms": 153332,
-      "name": "Sugar On My Tongue",
-      "url": "https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj"
+      "duration_ms": 156066,
+      "name": "M\u00e9lo D\u00e9cal\u00e9",
+      "url": "https://open.spotify.com/track/4Olg35ikUrPTvhqwFWveRL"
     }
   ],
   "unique_name": "Party Hits",

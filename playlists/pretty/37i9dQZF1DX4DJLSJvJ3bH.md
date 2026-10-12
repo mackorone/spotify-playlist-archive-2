@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 
 > All your favourite holiday jazz classics for your christmas dinner party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,267 likes - 125 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,263 likes - 125 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 38 | [Embraced by White](https://open.spotify.com/track/1vdUu2zoWVijUqmPu2dVV4) | [Smooth Heisters](https://open.spotify.com/artist/0wng90OL4CECFslp36CVSf) | [Embraced by White](https://open.spotify.com/album/329EHbBqemJFz5CKXt6IDp) | 2:25 |
 | 39 | [Tis the season](https://open.spotify.com/track/7lA5vslbewlQUi7gRiAbOJ) | [Wonder Eve](https://open.spotify.com/artist/2UWIuNSfLubqitB2Kf0rAa) | [Tis the season](https://open.spotify.com/album/02lApfaX6ADtpenYYHS3nC) | 3:34 |
 | 40 | [God Rest Ye, Merry Gentlemen](https://open.spotify.com/track/4uTqFlXMoLOn8qbc50Ib5d) | [Rossdale Junction](https://open.spotify.com/artist/07lLIhOAtuwjGaZ0goh3iO) | [God Rest Ye, Merry Gentlemen](https://open.spotify.com/album/4YL35s4guMbT7Sfn696Rny) | 2:00 |
-| 41 | [Bells Of The Season](https://open.spotify.com/track/2ua7VXHPJ1WDYenHa3tTHk) | [Voluntary Dreamers](https://open.spotify.com/artist/42xc9e1Cs3WxkcZ517zNMD) | [Bells of the Season](https://open.spotify.com/album/0f6vnxZ1sYzWJTNz98JPGV) | 2:19 |
-| 42 | [It's Not Christmas 'Til You Come Home \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5DoGwwQAlYumpSSlDNMOwY) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Spotify Singles \- Holiday](https://open.spotify.com/album/1knkuS0R3qoY1pmwYrMQ4N) | 3:12 |
+| 41 | [It's Not Christmas 'Til You Come Home \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5DoGwwQAlYumpSSlDNMOwY) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Spotify Singles \- Holiday](https://open.spotify.com/album/1knkuS0R3qoY1pmwYrMQ4N) | 3:12 |
+| 42 | [Bells Of The Season](https://open.spotify.com/track/2ua7VXHPJ1WDYenHa3tTHk) | [Voluntary Dreamers](https://open.spotify.com/artist/42xc9e1Cs3WxkcZ517zNMD) | [Bells of the Season](https://open.spotify.com/album/0f6vnxZ1sYzWJTNz98JPGV) | 2:19 |
 | 43 | [O Holy Night](https://open.spotify.com/track/7HuuaSBXERQWt396J4fxuC) | [Whitby Snell](https://open.spotify.com/artist/3OTOWvIOtIuWDCLStPVCKi) | [O Holy Night](https://open.spotify.com/album/47cnEsOj15N4yVqUg8xq2B) | 4:17 |
 | 44 | [All I Want For Christmas \(Is My Two Front Teeth\)](https://open.spotify.com/track/4xXMJbzVQSCyprr4PG5sBj) | [Nat King Cole Trio](https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ) | [Christmas Classics](https://open.spotify.com/album/3f22Ap0VSZYWsqrGcphUnY) | 2:31 |
 | 45 | [The Night Before Christmas](https://open.spotify.com/track/4aFHfT8vtA7DCamwvh1Rad) | [Greenwich Quartet](https://open.spotify.com/artist/0WfKXLxFT8BbognJ98vMlh) | [The Night Before Christmas](https://open.spotify.com/album/17h2pP4o8KoCOoFpS4IDy7) | 3:38 |
@@ -107,8 +107,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 97 | [All That Glitters](https://open.spotify.com/track/7K9H3ZyzAxl7cffJjyt4da) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Mark Limacher](https://open.spotify.com/artist/2FyolspKay4voViiywFNFs) | [All That Glitters](https://open.spotify.com/album/5WEhtvqTyHk5GGTToRQYzm) | 3:19 |
 | 98 | [Rudolph, the Red\-Nosed Reindeer](https://open.spotify.com/track/0QnznO6imspkpxHFY1c34b) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx), [Matthew Barber](https://open.spotify.com/artist/2mhqgf0GxdfXpO6gwLohyX) | [Rudolph, the Red\-Nosed Reindeer](https://open.spotify.com/album/6lal9JhZK4ctetNcVb4OJK) | 2:36 |
 | 99 | [Beautiful, Altogether](https://open.spotify.com/track/7qsv2ZaehJN4uIkCDsubKQ) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [The Pianoman at Christmas](https://open.spotify.com/album/6vWS3FRodKtNLbH25ZbNt5) | 3:30 |
-| 100 | [Silent Night](https://open.spotify.com/track/2NvbRCk08L3clDF9BqVtEo) | [Count Basie Orchestra](https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe) | [A Very Swingin’ Basie Christmas!](https://open.spotify.com/album/2YeKSxPeuQYiml0g6pzn7S) | 3:24 |
-| 101 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/4zVgLxk3wgdRUZi73eKCty) | [Foster Davies](https://open.spotify.com/artist/78Pm7H24T9om74ZfNs4UF7) | [Hark! The Herald Angels Sing](https://open.spotify.com/album/3wP0qYEVSwTpxpFtuAyUko) | 2:42 |
+| 100 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/4zVgLxk3wgdRUZi73eKCty) | [Foster Davies](https://open.spotify.com/artist/78Pm7H24T9om74ZfNs4UF7) | [Hark! The Herald Angels Sing](https://open.spotify.com/album/3wP0qYEVSwTpxpFtuAyUko) | 2:42 |
+| 101 | [Silent Night](https://open.spotify.com/track/2NvbRCk08L3clDF9BqVtEo) | [Count Basie Orchestra](https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe) | [A Very Swingin’ Basie Christmas!](https://open.spotify.com/album/2YeKSxPeuQYiml0g6pzn7S) | 3:24 |
 | 102 | [Baby It's Cold Outside](https://open.spotify.com/track/7m7tdsmeN4M0rZXJR4PHN7) | [Matt Belsante](https://open.spotify.com/artist/4xJmGeK78D0iQa6rk4wlgz) | [White Christmas](https://open.spotify.com/album/3YsRLmD4nlPi6fJOEmsO30) | 4:26 |
 | 103 | [What Are You Doing New Year's Eve?](https://open.spotify.com/track/3nr5SzU7pt0IvNCvk7m4np) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [A Nancy Wilson Christmas](https://open.spotify.com/album/5tI1MB1rVlks6MYEPARQI1) | 4:50 |
 | 104 | [A Holly Jolly Christmas](https://open.spotify.com/track/2qIufYDNP1YlmKVsNuOFdn) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Christmas Eve](https://open.spotify.com/album/5cexNJyM1uYPlM3EH2bSpP) | 2:22 |
@@ -131,7 +131,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 121 | [Christmas Calling \(Jolly Jones\)](https://open.spotify.com/track/7bA6fNlWEMMKhjathJ1Rfi) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Christmas Calling \(Jolly Jones\)](https://open.spotify.com/album/05UWD0k7AO2IgySGbmPoaI) | 3:20 |
 | 122 | [Christmas In New Orleans](https://open.spotify.com/track/4Jj3HUcLGj0ysrJRmtgN3a) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Best Of / 20th Century \- Christmas](https://open.spotify.com/album/6ZDopFxyk160WEpKuIuhUq) | 2:54 |
 | 123 | [A Toast to Friends](https://open.spotify.com/track/3UzsKmSvlmLtQupgAoUfbZ) | [Gabriel Latchin Trio](https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl) | [I'll Be Home for Christmas](https://open.spotify.com/album/2279rFm900f7XZRc1qKUmh) | 5:09 |
-| 124 | [Winter Wonderland](https://open.spotify.com/track/7cbaFyvM1Cbl8xr4YT0qWw) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL), [Clayton\-Hamilton Jazz Orchestra](https://open.spotify.com/artist/3BDNDjVtAxrIqFDIO5cUgy) | [Christmas Songs](https://open.spotify.com/album/3ZHBI81GwgJyEfkbj3ueAr) | 3:13 |
+| 124 | [Christmas Time Is Here](https://open.spotify.com/track/5a0H5FJlnPdRt66TM6Kz9r) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Christmas Songs](https://open.spotify.com/album/3ZHBI81GwgJyEfkbj3ueAr) | 3:32 |
 | 125 | [Last Christmas](https://open.spotify.com/track/2E55IaqlqMsF0NxU7oIIpC) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU) | [Jingle Bells](https://open.spotify.com/album/4MC3Lul2Dm1ooAtGVARP0a) | 3:45 |
 
 Snapshot ID: `AAAAAE7FJaWKejk1mXqhp0FZFxcgEG/N`

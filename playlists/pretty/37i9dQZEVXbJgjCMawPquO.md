@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJgjCMawPquO.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bolivia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,329 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,333 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJgjCMawPquO.md) - [plain]
 | 25 | [EXCESOS](https://open.spotify.com/track/6UtWwuheJr5LLDeVypPNx7) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 3:07 |
 | 26 | [Niño](https://open.spotify.com/track/4aDbrgm1ZaebS1Bb2dOXac) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [La Vida Era Más Corta](https://open.spotify.com/album/0sQR1p7NyAUqMPmWdZ6UBd) | 3:30 |
 | 27 | [Diles](https://open.spotify.com/track/6C1RD7YQVvt3YQj0CmuTeu) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK) | [Diles](https://open.spotify.com/album/6kTizLfVRIbzMzT1tb7dex) | 4:46 |
-| 28 | [El Teléfono](https://open.spotify.com/track/614NVFo5csQqRnryl4jXs2) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [The Bad Boy](https://open.spotify.com/album/5eklEkHSU1l3yewxdePzRL) | 3:55 |
+| 28 | [El Teléfono](https://open.spotify.com/track/5qE8PzKYJhbl0gnLwJSASu) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [The Bad Boy \(The Most Wanted Edition\)](https://open.spotify.com/album/4wucK3TtoeQPDQO0UVY0eS) | 3:55 |
 | 29 | [SOBERBIO \- REMIX](https://open.spotify.com/track/6VTfA2QAYBlKGsts4IBDvH) | [JERÔME](https://open.spotify.com/artist/2MFxzEk0GXxdNpCYdLnRy2), [Corona](https://open.spotify.com/artist/61HN3ENIM36CPLXzPTvfxJ), [Mc Tota](https://open.spotify.com/artist/3GDW0G0V4tmHof4ujHvnOW) | [FUNKY BOLIVIANO](https://open.spotify.com/album/2UIW682CeMgntYrTluGn5y) | 3:01 |
 | 30 | [Fanática Sensual](https://open.spotify.com/track/1FWD08y0cTKR31BNn8awLt) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Love And Sex](https://open.spotify.com/album/2c3UCT6duZO82Fk1QZ9D7G) | 4:00 |
 | 31 | [LA CANCIÓN](https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 4:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJgjCMawPquO.md) - [plain]
 | 49 | [Luna \- En Vivo](https://open.spotify.com/track/7b3k8I1fncAzbk9PHnLkbX) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [MTV Unplugged Música De Fondo \(Reissue/Live\)](https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV) | 4:40 |
 | 50 | [Columbia](https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Columbia](https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX) | 3:06 |
 
-Snapshot ID: `Ml26iAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Ml8QuAAAAAAAAAAAAAAAAAAAAAAAAGVu`

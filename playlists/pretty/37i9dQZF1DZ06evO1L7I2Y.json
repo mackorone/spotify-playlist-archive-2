@@ -1,12 +1,12 @@
 {
   "description": "This is N.I.N.A. The essential tracks, all in one playlist.",
-  "num_followers": 3709,
+  "num_followers": 3710,
   "original_name": "This Is N.I.N.A",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asgugAAAAAAgn3Xu6D9IWMvPFTIrl9ua",
+  "snapshot_id": "asgugAAAAADSYM+H1iRiOl5W01TidY9V",
   "tracks": [
     {
       "added_at": null,
@@ -314,15 +314,11 @@
         {
           "name": "Terra",
           "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
-        },
-        {
-          "name": "Baco Exu do Blues",
-          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Prece",
-      "url": "https://open.spotify.com/track/6UmJjde5JUyvqMm2lqvPyD"
+      "duration_ms": 197142,
+      "name": "Ferve",
+      "url": "https://open.spotify.com/track/0O2sovjHJwWJb9IgeDIa3R"
     },
     {
       "added_at": null,
@@ -406,11 +402,15 @@
         {
           "name": "Terra",
           "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
+        },
+        {
+          "name": "Baco Exu do Blues",
+          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
         }
       ],
-      "duration_ms": 197142,
-      "name": "Ferve",
-      "url": "https://open.spotify.com/track/0O2sovjHJwWJb9IgeDIa3R"
+      "duration_ms": 160000,
+      "name": "Prece",
+      "url": "https://open.spotify.com/track/6UmJjde5JUyvqMm2lqvPyD"
     },
     {
       "added_at": null,
@@ -648,13 +648,17 @@
           "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
         },
         {
+          "name": "Boombeat",
+          "url": "https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg"
+        },
+        {
           "name": "Terra",
           "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
         }
       ],
-      "duration_ms": 157714,
-      "name": "Setor Norte",
-      "url": "https://open.spotify.com/track/0zdTPSdNRsIHL7eYzGtek1"
+      "duration_ms": 158896,
+      "name": "Fruto da V\u00e1rzea",
+      "url": "https://open.spotify.com/track/1VUFeSWY5QpK8BSwDbZ0a2"
     },
     {
       "added_at": null,
@@ -732,17 +736,13 @@
           "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
         },
         {
-          "name": "Boombeat",
-          "url": "https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg"
-        },
-        {
           "name": "Terra",
           "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
         }
       ],
-      "duration_ms": 158896,
-      "name": "Fruto da V\u00e1rzea",
-      "url": "https://open.spotify.com/track/1VUFeSWY5QpK8BSwDbZ0a2"
+      "duration_ms": 157714,
+      "name": "Setor Norte",
+      "url": "https://open.spotify.com/track/0zdTPSdNRsIHL7eYzGtek1"
     },
     {
       "added_at": null,

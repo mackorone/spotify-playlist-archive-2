@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: The Interrupters
 
-[Spotify](https://open.spotify.com/user/spotify) - 960,750 likes - 205 songs - 12 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 960,763 likes - 205 songs - 12 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

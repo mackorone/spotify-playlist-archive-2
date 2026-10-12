@@ -124,8 +124,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDU180SwHkZi.md) - [plain]
 | 114 | [Burned Out](https://open.spotify.com/track/3Aofkcqfh8ebCQ6YiMxfpM) | [Parth Parekh](https://open.spotify.com/artist/33jblYy5ECptw7tLCvzjOb), [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX), [Mikey McCleary](https://open.spotify.com/artist/6p4FpOvJaSSljYGlkKsS40), [Naquita D'souza](https://open.spotify.com/artist/1zgVFfNaXfoa3tDYKMuOEq) | [Four More Shots Please! Season 3 \(Original Series Soundtrack\)](https://open.spotify.com/album/4VCr1CMHyeW8NQaB5njvAC) | 2:51 |
 | 115 | [FACTS](https://open.spotify.com/track/1MaRSqwpT56kqFNhdID0vd) | [XY](https://open.spotify.com/artist/2MOWJsCM7TRwG7K7eIZzxC) | [XY](https://open.spotify.com/album/2L3TRZmEPzIiuDCs3pd12F) | 1:52 |
 | 116 | [Wild & Free](https://open.spotify.com/track/05Sb9KO8eHqAHeUSSzLlfT) | [Alma Mater](https://open.spotify.com/artist/16YKNdADpeH4T6V9QLXR70) | [Wild & Free](https://open.spotify.com/album/48XSx8Zm25U8yXvg1xDOSx) | 2:24 |
-| 117 | [Die Happy](https://open.spotify.com/track/42iy1n6ZMIjayR0MxlFjMB) | [Miranda Glory](https://open.spotify.com/artist/3LU5ho1MrktZxpRBGYPISK) | [Die Happy](https://open.spotify.com/album/25XVdH27KKP7h16HwH2hPW) | 2:53 |
-| 118 | [Midnight Black](https://open.spotify.com/track/7HDg0pVM0VODtA9oX5lFtg) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [I understand you sometimes](https://open.spotify.com/album/7zZ19yOpQtttHW3EbP5j6R) | 2:36 |
+| 117 | [Midnight Black](https://open.spotify.com/track/7HDg0pVM0VODtA9oX5lFtg) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [I understand you sometimes](https://open.spotify.com/album/7zZ19yOpQtttHW3EbP5j6R) | 2:36 |
+| 118 | [Die Happy](https://open.spotify.com/track/42iy1n6ZMIjayR0MxlFjMB) | [Miranda Glory](https://open.spotify.com/artist/3LU5ho1MrktZxpRBGYPISK) | [Die Happy](https://open.spotify.com/album/25XVdH27KKP7h16HwH2hPW) | 2:53 |
 | 119 | [Winning](https://open.spotify.com/track/0agf564lzLLdk3NBEAEVgB) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Winning](https://open.spotify.com/album/2UPsKOlorU3IYqvC1E3IjG) | 2:13 |
 | 120 | [If I've Learned Anything](https://open.spotify.com/track/0OFumCYdFr7Vdd8DPeh5pL) | [Liam Mogan](https://open.spotify.com/artist/1Q3xk1O4cQZ6uEOIEkOgvi) | [If I've Learned Anything](https://open.spotify.com/album/1NCYQ53NisX6au1S1SJTv5) | 3:12 |
 | 121 | [Us](https://open.spotify.com/track/0FY8cOuPMXEjys4gyapW1Q) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Us](https://open.spotify.com/album/0WvjvqCSR2kLQPRm7q6lDw) | 2:17 |
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDU180SwHkZi.md) - [plain]
 | 139 | [Jump To It](https://open.spotify.com/track/1JWOGu5W04ctGD9enbPzjs) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Winning](https://open.spotify.com/album/2UPsKOlorU3IYqvC1E3IjG) | 2:34 |
 | 140 | [Get Dat](https://open.spotify.com/track/1t1eeYi7HjDQxcgjZavRGu) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Winning](https://open.spotify.com/album/2UPsKOlorU3IYqvC1E3IjG) | 2:43 |
 
-Snapshot ID: `AcemkAAAAAA30dMAvPZOlmCoOav5RNqQ`
+Snapshot ID: `AcesbAAAAADu6qLpaSmUpeQR/ehX+FwF`

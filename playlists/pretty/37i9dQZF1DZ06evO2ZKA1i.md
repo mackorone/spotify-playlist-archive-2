@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZKA1i.md) - [plain]
 
 > This is Deep Purple\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,935 likes - 50 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,937 likes - 50 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZKA1i.md) - [plain]
 | 49 | [Anthem \- 2000 Remaster](https://open.spotify.com/track/5Umq1zAmNYuE2o9oG6R1bR) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [The Book of Taliesyn](https://open.spotify.com/album/4pFFGEuoEmxtOTbp22tva9) | 6:31 |
 | 50 | [Uncommon Man](https://open.spotify.com/track/7t49MeETMEZ3QaFM0oXw0C) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Now What ?!](https://open.spotify.com/album/4OiFn20i3aTu2FsMgP1yB5) | 7:00 |
 
-Snapshot ID: `asbdAAAAAADQNXKBGRHqB8NQ3Wy2sqGg`
+Snapshot ID: `asgugAAAAAAHVoqprCxHQcTQ6NJ+lCg2`

@@ -4,7 +4,7 @@
 
 > Buenas vibras para limpiar la casa! The best vibes to keep the house clean!
 
-294 songs - 17 hr 23 min
+295 songs - 17 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,7 @@
 | [La Vida Es Un Carnaval](https://open.spotify.com/track/0wrMVjP7zS5fN7piwv5Gxq) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Carnaval De Exitos](https://open.spotify.com/album/4O1Y013q4dkng1GGwaEgwM) | 4:37 | 2022-02-14 | 2022-07-29 |
 | [La Vida Es Un Carnaval](https://open.spotify.com/track/1BwrMGGhPA6GarWIYaFrW8) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Para La Eternidad](https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB) | 4:38 | 2022-07-19 | 2024-04-19 |
 | [LA VILLA](https://open.spotify.com/track/6YkGw5op7PeyP2gmMMMrfJ) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Gangsta](https://open.spotify.com/artist/5ayJu41CsIbLfnMldF6bj3) | [LA VILLA](https://open.spotify.com/album/1XVigPq3MfLv2kDIwWu1tq) | 3:12 | 2026-02-27 |  |
-| [Lamento Boliviano](https://open.spotify.com/track/62FQCSvSUSG3m9uajVkvWe) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Coleccion Aniversario](https://open.spotify.com/album/2KPLQ2qLxKlUj0ltGusgVc) | 3:43 | 2022-02-14 |  |
+| [Lamento Boliviano](https://open.spotify.com/track/62FQCSvSUSG3m9uajVkvWe) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Coleccion Aniversario](https://open.spotify.com/album/2KPLQ2qLxKlUj0ltGusgVc) | 3:43 | 2022-02-14 | 2026-10-12 |
 | [Las Caleñas](https://open.spotify.com/track/5RbOjQNjaZ6IXmWg8cl4j8) | [Pastor Lopez Y Su Combo](https://open.spotify.com/artist/1OaJc4r2SBZ7Iokg2Gkwde) | [Los Originales \- 110 Discos de Oro](https://open.spotify.com/album/5sUNKgnZMbu7f4GBALClN6) | 3:32 | 2022-02-14 | 2022-07-28 |
 | [Las guapas](https://open.spotify.com/track/2USuWC60sd6pQtTjH7lv4Z) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [¿Y ahora qué +?](https://open.spotify.com/album/2oBvsAEB09BYyv3Dnzn2Lb) | 3:30 | 2025-12-10 |  |
 | [Let's Get Loud](https://open.spotify.com/track/42nSaPdT6g3ZIMHmKLlP2p) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On The 6](https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc) | 3:59 | 2022-07-19 | 2024-04-19 |
@@ -218,6 +218,7 @@
 | [Ojitos Lindos](https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:18 | 2022-10-03 |  |
 | [Ojos Marrones \- Con Sebastián Yatra](https://open.spotify.com/track/2GQclWZHwE4fMdqShvOPWU) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Ojos Marrones \(Con Sebastián Yatra\)](https://open.spotify.com/album/6KY4FnsrJZWQNjMw0zgDgd) | 3:18 | 2022-10-03 |  |
 | [Ojos Verdes](https://open.spotify.com/track/2RmtEc2ZNDCzAU3vH0AbKx) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Ojos Verdes](https://open.spotify.com/album/4EeOwzI5OcHYrETtQqkmQk) | 2:22 | 2024-05-07 |  |
+| [Ooh Laka Laka La](https://open.spotify.com/track/1daYqzioWz91LXUzgGYwjA) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [SANTOS BRAVOS](https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G) | [Ooh Laka Laka La](https://open.spotify.com/album/2DvVwgvTeursrplYuXc1Xj) | 2:14 | 2026-10-09 |  |
 | [Otra Vez](https://open.spotify.com/track/5iwezY285OvcvpWZ5DOwHc) | [Chavi Leons](https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx) | [Otra Vez](https://open.spotify.com/album/1b50tBHDr0LWi7GAOHPwey) | 2:30 | 2022-02-14 | 2022-07-25 |
 | [Oye Mi Amor](https://open.spotify.com/track/5TA7wLBogohCKbyuCMHBKY) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Você É Minha Religião: O Melhor Do Maná \(Deluxe Version\)](https://open.spotify.com/album/0T6xjJtpq2ZFsGb8WVBPfO) | 4:23 | 2022-02-14 | 2022-07-29 |
 | [Oye Mi Canto](https://open.spotify.com/track/3J6vrRMz6EfwH2sgYiyNhc) | [N.O.R.E.](https://open.spotify.com/artist/4GMgdB3vwbBOc42hbXEi9p), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Nina Sky](https://open.spotify.com/artist/6eBYLQONaYZhZNAVK061t6), [Gemstar](https://open.spotify.com/artist/5WooWF4HvIcgW0BDA2VBPN), [Big Mato](https://open.spotify.com/artist/0tG3OtnzCjdbL1ZVkDprlS) | [N.O.R.E\. Y La Familia](https://open.spotify.com/album/0RLMAxS9mhy149lu93u7GA) | 4:00 | 2022-02-14 |  |

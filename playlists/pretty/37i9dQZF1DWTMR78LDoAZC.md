@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 
 > Left of center indie/alternative/rock LGBTQIA+ artists\. Cover: Caroline Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,741 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,736 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 | 8 | [Naked In Manhattan](https://open.spotify.com/track/4LKYOetuIF5c9XjeLBL9av) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:31 |
 | 9 | [Darling](https://open.spotify.com/track/1Xl7BcVmwEW6FpnnIAFGJm) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Darling](https://open.spotify.com/album/2x8RBnasrwFI2F9DS3uG3a) | 3:34 |
 | 10 | [I'll Take It](https://open.spotify.com/track/0FAlG6uOeaXWuRdDxaeIQY) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [Object Permanence \(Deluxe Edition\)](https://open.spotify.com/album/2wupSocGm47JxOKTZtStrw) | 3:23 |
-| 11 | [Nothing Matters](https://open.spotify.com/track/5crY7axm3GejOxy5PsnnPk) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn) | 3:02 |
+| 11 | [October Passed Me By](https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [October Passed Me By](https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E) | 2:45 |
 | 12 | [Fanboy](https://open.spotify.com/track/6Mr3mQH2lHUztIKPU2rPjc) | [Dawson Fuss](https://open.spotify.com/artist/4HmXxGWmonNjO3VfrgBRVQ) | [Fanboy](https://open.spotify.com/album/5ZmVX9sOQ5mKmkAVxAIFBv) | 3:01 |
-| 13 | [October Passed Me By](https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [October Passed Me By](https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E) | 2:45 |
+| 13 | [Nothing Matters](https://open.spotify.com/track/5crY7axm3GejOxy5PsnnPk) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn) | 3:02 |
 | 14 | [Beauty Sleep](https://open.spotify.com/track/1RrEB90qVYRsVE1DQsqwuJ) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Beauty Sleep](https://open.spotify.com/album/3xI4q1yRS4Vr1wMkQxlQjj) | 3:42 |
 | 15 | [Ankles](https://open.spotify.com/track/4VhbsGXRGDncpi79aiX8eE) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Forever Is A Feeling](https://open.spotify.com/album/2PedUC4azy5ywqWp8gVVrs) | 3:11 |
 | 16 | [Lighter](https://open.spotify.com/track/7ljOGJKQLO3bdsyrbDHTsj) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Big After I Die](https://open.spotify.com/album/65wi9EEeBdOlzjWPxQIG2D) | 4:06 |
@@ -45,16 +45,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 | 35 | [Angel Wings](https://open.spotify.com/track/3iy584wHI5wWPYKVMr95W3) | [Vienna Vienna](https://open.spotify.com/artist/5ZVQRC3rtUNBJVrrrSl17r) | [Angel Wings](https://open.spotify.com/album/5SqZNJucNQDJiwTFrChQzF) | 3:44 |
 | 36 | [Eastside Girls](https://open.spotify.com/track/2GmMuH5UXe9DazNasUgGgM) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3) | 3:50 |
 | 37 | [She Plays Bass](https://open.spotify.com/track/52zzYSu7RUsSFn8cZlVjWp) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [She Plays Bass](https://open.spotify.com/album/6aSy1zAuCiFQxUFITf3ymw) | 3:27 |
-| 38 | [\(You\) On My Arm](https://open.spotify.com/track/29nzgSkf11owK8vO9iBgCq) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [To Learn](https://open.spotify.com/album/5k6lsjpZK4l4J9oMQmBR1l) | 4:04 |
-| 39 | [You Feel Me](https://open.spotify.com/track/05sR5BjeSAvvq4inZZ7H2Y) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [You Feel Me](https://open.spotify.com/album/3wtZIu80biIckrUYUaj0nj) | 2:49 |
+| 38 | [You Feel Me](https://open.spotify.com/track/05sR5BjeSAvvq4inZZ7H2Y) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [You Feel Me](https://open.spotify.com/album/3wtZIu80biIckrUYUaj0nj) | 2:49 |
+| 39 | [\(You\) On My Arm](https://open.spotify.com/track/29nzgSkf11owK8vO9iBgCq) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [To Learn](https://open.spotify.com/album/5k6lsjpZK4l4J9oMQmBR1l) | 4:04 |
 | 40 | [Talk Too Much](https://open.spotify.com/track/1ekAgx1qOdnVoSlmkHghKq) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z) | 3:16 |
 | 41 | [I Know A Place](https://open.spotify.com/track/0bPSRn4crnh5f1JhELPlyL) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 4:32 |
 | 42 | [Natural High](https://open.spotify.com/track/2ltTipWlzX9L8ofFKJioJi) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Natural High](https://open.spotify.com/album/7JLoQup5FmnWodYaoFfpBt) | 5:45 |
 | 43 | [Your Mother's Name](https://open.spotify.com/track/6andWFPbmPzbgdKcEamIq9) | [Susannah Joffe](https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw) | [Your Mother's Name](https://open.spotify.com/album/71Ylf2ND4lfFUJmJ4gTk3U) | 3:51 |
-| 44 | [Told You So](https://open.spotify.com/track/5KoJig6d5aMMIYt858WcUO) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Told You So](https://open.spotify.com/album/6j8oQrOeXEyrkaJ7SNXrjq) | 3:23 |
-| 45 | [Tilted](https://open.spotify.com/track/4U6GYrZi0xvNkUmFitCDED) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Christine and the Queens](https://open.spotify.com/album/5qYhFUAumctJEgm6nFJJfO) | 3:53 |
+| 44 | [Tilted](https://open.spotify.com/track/4U6GYrZi0xvNkUmFitCDED) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Christine and the Queens](https://open.spotify.com/album/5qYhFUAumctJEgm6nFJJfO) | 3:53 |
+| 45 | [Your Dog](https://open.spotify.com/track/3BpUZB0tw4zNmG3Iw1mclL) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Clean](https://open.spotify.com/album/36NLDBi2kX7XRHnyLzLOS8) | 3:14 |
 | 46 | [One That Got Away](https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [One That Got Away](https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond) | 3:52 |
-| 47 | [Your Dog](https://open.spotify.com/track/3BpUZB0tw4zNmG3Iw1mclL) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Clean](https://open.spotify.com/album/36NLDBi2kX7XRHnyLzLOS8) | 3:14 |
+| 47 | [Told You So](https://open.spotify.com/track/5KoJig6d5aMMIYt858WcUO) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Told You So](https://open.spotify.com/album/6j8oQrOeXEyrkaJ7SNXrjq) | 3:23 |
 | 48 | [Leave It On The Dancefloor](https://open.spotify.com/track/30ae9cv36eD4Q6Zc8PVF8v) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Leave It On The Dancefloor](https://open.spotify.com/album/07Vt92F3DMX0GHMKSJ6A3o) | 2:55 |
 | 49 | [2SIDED](https://open.spotify.com/track/1WJYPxpQw3hfuZvEdKRqUo) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Ambiguous Desire](https://open.spotify.com/album/2l7Qtf3Mffx6ZIDTpyaMtS) | 2:57 |
 | 50 | [It's Been a Little Heavy Lately](https://open.spotify.com/track/6z8ovqE9jd2IatNvOfFq7S) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Permanent Damage](https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF) | 3:41 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 | 58 | [Big Time Nothing](https://open.spotify.com/track/7F1xUyDoz9vSbwSaCryT5x) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [All Born Screaming](https://open.spotify.com/album/3nRlJXz5W39luXRto5hc4f) | 2:58 |
 | 59 | [Miss Misunderstood](https://open.spotify.com/track/2tzCRiOiHRhp6q5LwfVHDI) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Hell's Belles](https://open.spotify.com/album/62W8uslGsNVWJzU3c1N8jR) | 2:43 |
 | 60 | [Vertigo](https://open.spotify.com/track/7q32daOSf12k8WynvXBcyh) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Vertigo](https://open.spotify.com/album/31N0p91JhTyeJaiP0VxRky) | 2:28 |
-| 61 | [Always Forever](https://open.spotify.com/track/2kSeF6yZz3wLFchfnX0xfO) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Always Forever](https://open.spotify.com/album/65otcCeyfEPtdY4DZMgPtF) | 3:05 |
-| 62 | [Chow Mein](https://open.spotify.com/track/5ofvcryS5oA4M6QrHAxvYM) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [Chow Mein](https://open.spotify.com/album/5ExnO8v8OcdR2fHWVhBY3T) | 2:24 |
+| 61 | [Chow Mein](https://open.spotify.com/track/5ofvcryS5oA4M6QrHAxvYM) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [Chow Mein](https://open.spotify.com/album/5ExnO8v8OcdR2fHWVhBY3T) | 2:24 |
+| 62 | [Always Forever](https://open.spotify.com/track/2kSeF6yZz3wLFchfnX0xfO) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Always Forever](https://open.spotify.com/album/65otcCeyfEPtdY4DZMgPtF) | 3:05 |
 | 63 | [Mad](https://open.spotify.com/track/49U0v3W8dVb48l1Dd2DtyG) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Mad](https://open.spotify.com/album/268yQJnYEw2Zdu8ZPwyifa) | 3:48 |
 | 64 | [Faith Healer](https://open.spotify.com/track/5M7jnmPrtHgL5H4fTewJch) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Little Oblivions](https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A) | 2:54 |
 | 65 | [Valentine](https://open.spotify.com/track/1RcGoniZzjY3oOatGifYK1) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Valentine](https://open.spotify.com/album/0zNWhYDalgisc4uweLIGZJ) | 3:16 |

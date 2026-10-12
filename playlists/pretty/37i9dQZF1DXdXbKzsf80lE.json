@@ -1,6 +1,6 @@
 {
   "description": "Queeeima pared\u00e3o! Pra forrozeiro sofrer dan\u00e7ando e dan\u00e7ar sofrendo, bora.",
-  "num_followers": 283003,
+  "num_followers": 283009,
   "original_name": "Bora arrochar",
   "owner": {
     "name": "Spotify",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2026-04-30 22:01:08",
       "album": {
+        "name": "Nossa Hist\u00f3ria - Pt.1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6ZgVLQPG1FsY7JCT5tFPeY"
+      },
+      "artists": [
+        {
+          "name": "Tarc\u00edsio do Acordeon",
+          "url": "https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC"
+        }
+      ],
+      "duration_ms": 195750,
+      "name": "N\u00e3o Digita - Ao Vivo",
+      "url": "https://open.spotify.com/track/3pj8CGadPM5hYJjC1gxpP8"
+    },
+    {
+      "added_at": "2026-04-30 22:01:08",
+      "album": {
         "name": "Quem Nunca (Ao Vivo em Fortaleza)",
         "url": "https://open.spotify.com/album/0PZXHqmn7bvqduX5BAYDZX"
       },
@@ -1043,38 +1059,22 @@
     {
       "added_at": "2026-04-30 22:01:08",
       "album": {
-        "name": "Nossa Hist\u00f3ria - Pt.1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6ZgVLQPG1FsY7JCT5tFPeY"
+        "name": "O Apostador",
+        "url": "https://open.spotify.com/album/5Djfedu3tD8JnJ27Te8LcX"
       },
       "artists": [
         {
-          "name": "Tarc\u00edsio do Acordeon",
-          "url": "https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC"
-        }
-      ],
-      "duration_ms": 195750,
-      "name": "N\u00e3o Digita - Ao Vivo",
-      "url": "https://open.spotify.com/track/3pj8CGadPM5hYJjC1gxpP8"
-    },
-    {
-      "added_at": "2026-04-30 22:01:08",
-      "album": {
-        "name": "Aquelas Coisas / Me Ama Sem Pausa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2RRxbzWPrBQ305aRt48anL"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gomes",
-          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+          "name": "Z\u00e9 Vaqueiro",
+          "url": "https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt"
         },
         {
-          "name": "Tarc\u00edsio do Acordeon",
-          "url": "https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC"
+          "name": "Alanzim Coreano",
+          "url": "https://open.spotify.com/artist/3z1hkcmUuBH6lmB91l73MC"
         }
       ],
-      "duration_ms": 251396,
-      "name": "Aquelas Coisas / Me Ama Sem Pausa - Ao Vivo",
-      "url": "https://open.spotify.com/track/5755b7FAJceOZauY3qBJze"
+      "duration_ms": 136304,
+      "name": "O Apostador",
+      "url": "https://open.spotify.com/track/4JCNKUDiJi9GOKjfur6R9S"
     },
     {
       "added_at": "2026-04-30 22:01:08",

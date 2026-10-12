@@ -6,7 +6,7 @@
     "name": "BennyE456",
     "url": "https://open.spotify.com/user/bennyellison4"
   },
-  "snapshot_id": "AAAKIHtg9jgmIDAz6yMAG5w+UwTX2HtV",
+  "snapshot_id": "AAAKIagl0UVF3REqE/iyZ8iV7J93BFjt",
   "tracks": [
     {
       "added_at": "2019-06-08 21:56:13",
@@ -22475,6 +22475,30 @@
       "duration_ms": 222440,
       "name": "Problem Child",
       "url": "https://open.spotify.com/track/6jpiquknSI0v7bMTYwSaqx"
+    },
+    {
+      "added_at": "2026-10-12 00:25:03",
+      "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/0tbq3LgCA3BlNKLZ2E0vOO"
+      },
+      "artists": [
+        {
+          "name": "Hollywood Vampires",
+          "url": "https://open.spotify.com/artist/3k4YA0uPsWc2PuOQlJNpdH"
+        },
+        {
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+        },
+        {
+          "name": "Johnny Depp",
+          "url": "https://open.spotify.com/artist/3OsHwkxpSIEqqmYoQxZTT5"
+        }
+      ],
+      "duration_ms": 248653,
+      "name": "Heroes",
+      "url": "https://open.spotify.com/track/2MhJNvtkInVsS4zXXflvoV"
     }
   ],
   "unique_name": "The True Benny Mix",

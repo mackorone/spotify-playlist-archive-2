@@ -1,6 +1,6 @@
 {
   "description": "The soft sound of some of the smoothest and sweetest vocal Jazz.",
-  "num_followers": 299063,
+  "num_followers": 299104,
   "original_name": "Sweet Jazz",
   "owner": {
     "name": "Spotify",
@@ -123,26 +123,6 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
-        "name": "Sarah Vaughan",
-        "url": "https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        },
-        {
-          "name": "Clifford Brown",
-          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
-        }
-      ],
-      "duration_ms": 291173,
-      "name": "Embraceable You",
-      "url": "https://open.spotify.com/track/5m3XMzewNg9EADweC7j7Nn"
-    },
-    {
-      "added_at": "2026-07-03 04:00:58",
-      "album": {
         "name": "Renee Olstead",
         "url": "https://open.spotify.com/album/0xBTBaqqZd6Vnmp0tJ3g42"
       },
@@ -159,22 +139,22 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
-        "name": "Chambre avec vue",
-        "url": "https://open.spotify.com/album/1EE8dKVd22YHhZT2LoiEOB"
+        "name": "Sarah Vaughan",
+        "url": "https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG"
       },
       "artists": [
         {
-          "name": "Henri Salvador",
-          "url": "https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6"
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
         },
         {
-          "name": "Lisa Ekdahl",
-          "url": "https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE"
+          "name": "Clifford Brown",
+          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
         }
       ],
-      "duration_ms": 248306,
-      "name": "All I Really Want Is Love",
-      "url": "https://open.spotify.com/track/4EtULbS8K8zZ3apaEX36oI"
+      "duration_ms": 291173,
+      "name": "Embraceable You",
+      "url": "https://open.spotify.com/track/5m3XMzewNg9EADweC7j7Nn"
     },
     {
       "added_at": "2026-07-03 04:00:58",
@@ -207,6 +187,26 @@
       "duration_ms": 237800,
       "name": "To Love You All Over Again",
       "url": "https://open.spotify.com/track/4EPwpBN0t11bIxjsAI8oaF"
+    },
+    {
+      "added_at": "2026-07-03 04:00:58",
+      "album": {
+        "name": "Chambre avec vue",
+        "url": "https://open.spotify.com/album/1EE8dKVd22YHhZT2LoiEOB"
+      },
+      "artists": [
+        {
+          "name": "Henri Salvador",
+          "url": "https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6"
+        },
+        {
+          "name": "Lisa Ekdahl",
+          "url": "https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE"
+        }
+      ],
+      "duration_ms": 248306,
+      "name": "All I Really Want Is Love",
+      "url": "https://open.spotify.com/track/4EtULbS8K8zZ3apaEX36oI"
     },
     {
       "added_at": "2026-07-03 04:00:58",
@@ -275,22 +275,6 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
-        "name": "I Love A Love Song!",
-        "url": "https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD"
-      },
-      "artists": [
-        {
-          "name": "Rachael & Vilray",
-          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
-        }
-      ],
-      "duration_ms": 213010,
-      "name": "Join Me in a Dream",
-      "url": "https://open.spotify.com/track/7uNgFlcMfpYMt3bbqREIE3"
-    },
-    {
-      "added_at": "2026-07-03 04:00:58",
-      "album": {
         "name": "These Are the Memories",
         "url": "https://open.spotify.com/album/4wmAugLcz7Whavrrr1t1Kb"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 273670,
       "name": "These Are the Memories",
       "url": "https://open.spotify.com/track/6cBAQr4SjyDLDfkUa1oprE"
+    },
+    {
+      "added_at": "2026-07-03 04:00:58",
+      "album": {
+        "name": "I Love A Love Song!",
+        "url": "https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD"
+      },
+      "artists": [
+        {
+          "name": "Rachael & Vilray",
+          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
+        }
+      ],
+      "duration_ms": 213010,
+      "name": "Join Me in a Dream",
+      "url": "https://open.spotify.com/track/7uNgFlcMfpYMt3bbqREIE3"
     },
     {
       "added_at": "2026-07-03 04:00:58",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
-        "name": "Castles in the Air",
-        "url": "https://open.spotify.com/album/1gqx5mQl7BM8A1j5QtZt0S"
-      },
-      "artists": [
-        {
-          "name": "Laura & Anton",
-          "url": "https://open.spotify.com/artist/5zhAV9E0xJDguU5SBk39Zy"
-        }
-      ],
-      "duration_ms": 233848,
-      "name": "Castles in the Air",
-      "url": "https://open.spotify.com/track/2EHOINS6ULWahXvResI7mo"
-    },
-    {
-      "added_at": "2026-07-03 04:00:58",
-      "album": {
         "name": "That Bad Eartha",
         "url": "https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 183960,
       "name": "My Heart Belongs to Daddy",
       "url": "https://open.spotify.com/track/1fbTAHZGgmlnXWcNXyB42G"
+    },
+    {
+      "added_at": "2026-07-03 04:00:58",
+      "album": {
+        "name": "Castles in the Air",
+        "url": "https://open.spotify.com/album/1gqx5mQl7BM8A1j5QtZt0S"
+      },
+      "artists": [
+        {
+          "name": "Laura & Anton",
+          "url": "https://open.spotify.com/artist/5zhAV9E0xJDguU5SBk39Zy"
+        }
+      ],
+      "duration_ms": 233848,
+      "name": "Castles in the Air",
+      "url": "https://open.spotify.com/track/2EHOINS6ULWahXvResI7mo"
     },
     {
       "added_at": "2026-07-03 04:00:58",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
+        "name": "Midnight",
+        "url": "https://open.spotify.com/album/1h6FCpMolvagTQpoj9hlO9"
+      },
+      "artists": [
+        {
+          "name": "Diane Schuur",
+          "url": "https://open.spotify.com/artist/3YowTUlFJJA6E5Yd67GZNv"
+        }
+      ],
+      "duration_ms": 210346,
+      "name": "Our Love Will Always Be There",
+      "url": "https://open.spotify.com/track/7aX4JxBER6j1OaMMOOfW1m"
+    },
+    {
+      "added_at": "2026-07-03 04:00:58",
+      "album": {
         "name": "Misty Blue",
         "url": "https://open.spotify.com/album/6p3WU83zSriSXPAMxGZRhQ"
       },
@@ -1143,22 +1159,6 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
-        "name": "Midnight",
-        "url": "https://open.spotify.com/album/1h6FCpMolvagTQpoj9hlO9"
-      },
-      "artists": [
-        {
-          "name": "Diane Schuur",
-          "url": "https://open.spotify.com/artist/3YowTUlFJJA6E5Yd67GZNv"
-        }
-      ],
-      "duration_ms": 210346,
-      "name": "Our Love Will Always Be There",
-      "url": "https://open.spotify.com/track/7aX4JxBER6j1OaMMOOfW1m"
-    },
-    {
-      "added_at": "2026-07-03 04:00:58",
-      "album": {
         "name": "This Dream Of You",
         "url": "https://open.spotify.com/album/2axVAnC2sE98xigU2BV1TY"
       },
@@ -1171,22 +1171,6 @@
       "duration_ms": 290440,
       "name": "But Beautiful",
       "url": "https://open.spotify.com/track/2QJTjKjGH9JUHRwXKUrLFI"
-    },
-    {
-      "added_at": "2026-07-03 04:00:58",
-      "album": {
-        "name": "My Romance",
-        "url": "https://open.spotify.com/album/6AvSqSUra3xOiwS6Y30Ztb"
-      },
-      "artists": [
-        {
-          "name": "Lara Louise",
-          "url": "https://open.spotify.com/artist/0rwgLdQ7uMiqUxEpMLOGyI"
-        }
-      ],
-      "duration_ms": 170767,
-      "name": "My Romance",
-      "url": "https://open.spotify.com/track/6YkOwCo6FUsyKTU8LcH1SY"
     },
     {
       "added_at": "2026-07-03 04:00:58",
@@ -1215,6 +1199,22 @@
       "duration_ms": 233820,
       "name": "I'm Old Fashioned",
       "url": "https://open.spotify.com/track/7yrPfSmKX8q8y2DWgmmzOM"
+    },
+    {
+      "added_at": "2026-07-03 04:00:58",
+      "album": {
+        "name": "My Romance",
+        "url": "https://open.spotify.com/album/6AvSqSUra3xOiwS6Y30Ztb"
+      },
+      "artists": [
+        {
+          "name": "Lara Louise",
+          "url": "https://open.spotify.com/artist/0rwgLdQ7uMiqUxEpMLOGyI"
+        }
+      ],
+      "duration_ms": 170767,
+      "name": "My Romance",
+      "url": "https://open.spotify.com/track/6YkOwCo6FUsyKTU8LcH1SY"
     },
     {
       "added_at": "2026-07-03 04:00:58",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
-        "name": "Skylark",
-        "url": "https://open.spotify.com/album/3eqgxkZCEJ8dlBTMqGhgiF"
-      },
-      "artists": [
-        {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
-        }
-      ],
-      "duration_ms": 274945,
-      "name": "Skylark",
-      "url": "https://open.spotify.com/track/7pM1ZCbo5MamKTCVhTKLY0"
-    },
-    {
-      "added_at": "2026-07-03 04:00:58",
-      "album": {
         "name": "Sea of Love",
         "url": "https://open.spotify.com/album/3viYc1A9PygUx2PTHyzJ8O"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 164866,
       "name": "Sea of Love",
       "url": "https://open.spotify.com/track/76nJXcFAhwy1w1Sld9AhqW"
+    },
+    {
+      "added_at": "2026-07-03 04:00:58",
+      "album": {
+        "name": "Skylark",
+        "url": "https://open.spotify.com/album/3eqgxkZCEJ8dlBTMqGhgiF"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 274945,
+      "name": "Skylark",
+      "url": "https://open.spotify.com/track/7pM1ZCbo5MamKTCVhTKLY0"
     },
     {
       "added_at": "2026-07-03 04:00:58",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
-        "name": "Because Of Billie",
-        "url": "https://open.spotify.com/album/6Bz3G8ZBPt3raos669LnuB"
-      },
-      "artists": [
-        {
-          "name": "Molly Johnson",
-          "url": "https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "You've Changed",
-      "url": "https://open.spotify.com/track/6R8E6KJoBLcSEtWRUcKali"
-    },
-    {
-      "added_at": "2026-07-03 04:00:58",
-      "album": {
         "name": "Stella Cole",
         "url": "https://open.spotify.com/album/4mH5g7GuW3KGMziYDMHMUx"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 201186,
       "name": "My Future",
       "url": "https://open.spotify.com/track/6U47K1QjLeN3lcaWVb48SQ"
+    },
+    {
+      "added_at": "2026-07-03 04:00:58",
+      "album": {
+        "name": "Because Of Billie",
+        "url": "https://open.spotify.com/album/6Bz3G8ZBPt3raos669LnuB"
+      },
+      "artists": [
+        {
+          "name": "Molly Johnson",
+          "url": "https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "You've Changed",
+      "url": "https://open.spotify.com/track/6R8E6KJoBLcSEtWRUcKali"
     },
     {
       "added_at": "2026-07-03 04:00:58",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
+        "name": "When I Get Low",
+        "url": "https://open.spotify.com/album/70ljTIleoi86TjqilzoR3r"
+      },
+      "artists": [
+        {
+          "name": "Tia Brazda",
+          "url": "https://open.spotify.com/artist/50hsY3SvrJloPHqVfBTI1R"
+        }
+      ],
+      "duration_ms": 165921,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/5H09kZp2YiQjnzhrjch3Ae"
+    },
+    {
+      "added_at": "2026-07-03 04:00:58",
+      "album": {
         "name": "Desperado",
         "url": "https://open.spotify.com/album/37ZtGtGstCyBZRre6ashNa"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 239380,
       "name": "Desperado",
       "url": "https://open.spotify.com/track/5Cbq127eIsrkHDvGweTzYB"
-    },
-    {
-      "added_at": "2026-07-03 04:00:58",
-      "album": {
-        "name": "When I Get Low",
-        "url": "https://open.spotify.com/album/70ljTIleoi86TjqilzoR3r"
-      },
-      "artists": [
-        {
-          "name": "Tia Brazda",
-          "url": "https://open.spotify.com/artist/50hsY3SvrJloPHqVfBTI1R"
-        }
-      ],
-      "duration_ms": 165921,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/5H09kZp2YiQjnzhrjch3Ae"
     },
     {
       "added_at": "2026-07-03 04:00:58",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
+        "name": "The Very Thought of You",
+        "url": "https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO"
+      },
+      "artists": [
+        {
+          "name": "Nicole Henry",
+          "url": "https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn"
+        }
+      ],
+      "duration_ms": 319906,
+      "name": "The Very Thought of You",
+      "url": "https://open.spotify.com/track/7kzjAhj3kJadhAhQbApApZ"
+    },
+    {
+      "added_at": "2026-07-03 04:00:58",
+      "album": {
         "name": "Lento",
         "url": "https://open.spotify.com/album/3rwV6PZl7zZqDT0BO05eb2"
       },
@@ -1735,22 +1751,6 @@
       "duration_ms": 260502,
       "name": "Empty Dream",
       "url": "https://open.spotify.com/track/5BsUXjwjAofWEnPbETcK35"
-    },
-    {
-      "added_at": "2026-07-03 04:00:58",
-      "album": {
-        "name": "The Very Thought of You",
-        "url": "https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO"
-      },
-      "artists": [
-        {
-          "name": "Nicole Henry",
-          "url": "https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn"
-        }
-      ],
-      "duration_ms": 319906,
-      "name": "The Very Thought of You",
-      "url": "https://open.spotify.com/track/7kzjAhj3kJadhAhQbApApZ"
     },
     {
       "added_at": "2026-07-03 04:00:58",
@@ -1879,26 +1879,6 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
-        "name": "The Glory of Love",
-        "url": "https://open.spotify.com/album/3ylEwTcLkfbtgogR5T9AY5"
-      },
-      "artists": [
-        {
-          "name": "Ann Hampton Callaway",
-          "url": "https://open.spotify.com/artist/5wHvUotfxzSccrzX9x9g6e"
-        },
-        {
-          "name": "John Pizzarelli",
-          "url": "https://open.spotify.com/artist/5Yc3oYPNlABAj17eZiNJqf"
-        }
-      ],
-      "duration_ms": 156786,
-      "name": "The Glory of Love",
-      "url": "https://open.spotify.com/track/5eeKS8jHuWUF70KQlPBz3g"
-    },
-    {
-      "added_at": "2026-07-03 04:00:58",
-      "album": {
         "name": "Let's Face the Music",
         "url": "https://open.spotify.com/album/68a61URtiemSLZn6UcHizY"
       },
@@ -1915,6 +1895,26 @@
       "duration_ms": 227867,
       "name": "Why Should I Care?",
       "url": "https://open.spotify.com/track/0rGRDmusUJI3byaiZWcurV"
+    },
+    {
+      "added_at": "2026-07-03 04:00:58",
+      "album": {
+        "name": "The Glory of Love",
+        "url": "https://open.spotify.com/album/3ylEwTcLkfbtgogR5T9AY5"
+      },
+      "artists": [
+        {
+          "name": "Ann Hampton Callaway",
+          "url": "https://open.spotify.com/artist/5wHvUotfxzSccrzX9x9g6e"
+        },
+        {
+          "name": "John Pizzarelli",
+          "url": "https://open.spotify.com/artist/5Yc3oYPNlABAj17eZiNJqf"
+        }
+      ],
+      "duration_ms": 156786,
+      "name": "The Glory of Love",
+      "url": "https://open.spotify.com/track/5eeKS8jHuWUF70KQlPBz3g"
     },
     {
       "added_at": "2026-07-03 04:00:58",
@@ -1951,22 +1951,6 @@
       "duration_ms": 136813,
       "name": "Doop-Doo-De-Doop a Doodlin' Song",
       "url": "https://open.spotify.com/track/3EjfZfDx8fxsUZrhomIkNA"
-    },
-    {
-      "added_at": "2026-07-03 04:00:58",
-      "album": {
-        "name": "Because Of Billie",
-        "url": "https://open.spotify.com/album/6Bz3G8ZBPt3raos669LnuB"
-      },
-      "artists": [
-        {
-          "name": "Molly Johnson",
-          "url": "https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU"
-        }
-      ],
-      "duration_ms": 263266,
-      "name": "Do Nothing 'Til You Hear From Me",
-      "url": "https://open.spotify.com/track/3by6ghRkTX4PwXVAbt61E5"
     },
     {
       "added_at": "2026-07-03 04:00:58",
@@ -2019,6 +2003,22 @@
       "duration_ms": 233093,
       "name": "Just a Word",
       "url": "https://open.spotify.com/track/0KUWzd4xWLHOfAWu7fvqfe"
+    },
+    {
+      "added_at": "2026-07-03 04:00:58",
+      "album": {
+        "name": "Because Of Billie",
+        "url": "https://open.spotify.com/album/6Bz3G8ZBPt3raos669LnuB"
+      },
+      "artists": [
+        {
+          "name": "Molly Johnson",
+          "url": "https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU"
+        }
+      ],
+      "duration_ms": 263266,
+      "name": "Do Nothing 'Til You Hear From Me",
+      "url": "https://open.spotify.com/track/3by6ghRkTX4PwXVAbt61E5"
     },
     {
       "added_at": "2026-07-03 04:00:58",
@@ -2475,26 +2475,6 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
-        "name": "Yellow Rose",
-        "url": "https://open.spotify.com/album/5DLSXBQx09pE2XbMdB6yVn"
-      },
-      "artists": [
-        {
-          "name": "Alex Tremblay",
-          "url": "https://open.spotify.com/artist/0bB79xoFIl2U5jjhxiDZ3t"
-        },
-        {
-          "name": "Vanisha Gould",
-          "url": "https://open.spotify.com/artist/0z7qSkfrWXvgNrSgnidiag"
-        }
-      ],
-      "duration_ms": 307600,
-      "name": "Yellow Rose",
-      "url": "https://open.spotify.com/track/6zxeA2sdHQJTXsElhc4K6z"
-    },
-    {
-      "added_at": "2026-07-03 04:00:58",
-      "album": {
         "name": "Nothing Standard",
         "url": "https://open.spotify.com/album/6pPKvmWEDPEcEyGo3PSRXH"
       },
@@ -2511,18 +2491,22 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
-        "name": "Give My Charlest (A Tribute to the Charleston)",
-        "url": "https://open.spotify.com/album/0mB8mupcVZruSMADvYDCHz"
+        "name": "Yellow Rose",
+        "url": "https://open.spotify.com/album/5DLSXBQx09pE2XbMdB6yVn"
       },
       "artists": [
         {
-          "name": "Jazzy Sky",
-          "url": "https://open.spotify.com/artist/3lYsqGJrmzAKm3WHc8zpE3"
+          "name": "Alex Tremblay",
+          "url": "https://open.spotify.com/artist/0bB79xoFIl2U5jjhxiDZ3t"
+        },
+        {
+          "name": "Vanisha Gould",
+          "url": "https://open.spotify.com/artist/0z7qSkfrWXvgNrSgnidiag"
         }
       ],
-      "duration_ms": 170875,
-      "name": "Give My Charlest (A Tribute to the Charleston)",
-      "url": "https://open.spotify.com/track/2WnL3BZV02fdXUVWVmOby2"
+      "duration_ms": 307600,
+      "name": "Yellow Rose",
+      "url": "https://open.spotify.com/track/6zxeA2sdHQJTXsElhc4K6z"
     },
     {
       "added_at": "2026-07-03 04:00:58",
@@ -2547,6 +2531,22 @@
       "duration_ms": 278898,
       "name": "The Sweetest Moments",
       "url": "https://open.spotify.com/track/0RiaJTqHbBt9gSuhos3pla"
+    },
+    {
+      "added_at": "2026-07-03 04:00:58",
+      "album": {
+        "name": "Give My Charlest (A Tribute to the Charleston)",
+        "url": "https://open.spotify.com/album/0mB8mupcVZruSMADvYDCHz"
+      },
+      "artists": [
+        {
+          "name": "Jazzy Sky",
+          "url": "https://open.spotify.com/artist/3lYsqGJrmzAKm3WHc8zpE3"
+        }
+      ],
+      "duration_ms": 170875,
+      "name": "Give My Charlest (A Tribute to the Charleston)",
+      "url": "https://open.spotify.com/track/2WnL3BZV02fdXUVWVmOby2"
     },
     {
       "added_at": "2026-07-03 04:00:58",
@@ -2619,22 +2619,6 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
-        "name": "Duke Ellington's Sound of Love",
-        "url": "https://open.spotify.com/album/2psYSrYQkVIF4PtoQT0Y8Z"
-      },
-      "artists": [
-        {
-          "name": "Sophie Wellington",
-          "url": "https://open.spotify.com/artist/2QsDhtqBdhs5RAyMnKye7C"
-        }
-      ],
-      "duration_ms": 289902,
-      "name": "Duke Ellington's Sound of Love",
-      "url": "https://open.spotify.com/track/0pfBWnd4W7AoFA4BawU1GT"
-    },
-    {
-      "added_at": "2026-07-03 04:00:58",
-      "album": {
         "name": "All Or Nothing At All",
         "url": "https://open.spotify.com/album/0Y9LX6aX9SxXZnvd1K0HAz"
       },
@@ -2647,6 +2631,22 @@
       "duration_ms": 224016,
       "name": "All Or Nothing At All",
       "url": "https://open.spotify.com/track/0j6BoHPikfrtJFYZdVnIT8"
+    },
+    {
+      "added_at": "2026-07-03 04:00:58",
+      "album": {
+        "name": "Duke Ellington's Sound of Love",
+        "url": "https://open.spotify.com/album/2psYSrYQkVIF4PtoQT0Y8Z"
+      },
+      "artists": [
+        {
+          "name": "Sophie Wellington",
+          "url": "https://open.spotify.com/artist/2QsDhtqBdhs5RAyMnKye7C"
+        }
+      ],
+      "duration_ms": 289902,
+      "name": "Duke Ellington's Sound of Love",
+      "url": "https://open.spotify.com/track/0pfBWnd4W7AoFA4BawU1GT"
     },
     {
       "added_at": "2026-07-03 04:00:58",
@@ -2763,22 +2763,6 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
-        "name": "Disclosure",
-        "url": "https://open.spotify.com/album/0CRTddNeha55cCvPDQrEcQ"
-      },
-      "artists": [
-        {
-          "name": "Katherine Kostoff",
-          "url": "https://open.spotify.com/artist/6iejr7uXjNOIaqvE5R9t8W"
-        }
-      ],
-      "duration_ms": 287041,
-      "name": "Disclosure",
-      "url": "https://open.spotify.com/track/0VjBHtyg5rKmjZyLOKt3sn"
-    },
-    {
-      "added_at": "2026-07-03 04:00:58",
-      "album": {
         "name": "Angel",
         "url": "https://open.spotify.com/album/6uQ7ls8RWxnZ2wbe7rJr8G"
       },
@@ -2791,6 +2775,22 @@
       "duration_ms": 287277,
       "name": "Angel",
       "url": "https://open.spotify.com/track/3aNQimKCvTw7Ag3vHei2NX"
+    },
+    {
+      "added_at": "2026-07-03 04:00:58",
+      "album": {
+        "name": "Disclosure",
+        "url": "https://open.spotify.com/album/0CRTddNeha55cCvPDQrEcQ"
+      },
+      "artists": [
+        {
+          "name": "Katherine Kostoff",
+          "url": "https://open.spotify.com/artist/6iejr7uXjNOIaqvE5R9t8W"
+        }
+      ],
+      "duration_ms": 287041,
+      "name": "Disclosure",
+      "url": "https://open.spotify.com/track/0VjBHtyg5rKmjZyLOKt3sn"
     },
     {
       "added_at": "2026-07-03 04:00:58",
@@ -2859,22 +2859,6 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
-        "name": "It Happens Like That",
-        "url": "https://open.spotify.com/album/5ojWrYc5keKYq774cZicWo"
-      },
-      "artists": [
-        {
-          "name": "Katherine Kostoff",
-          "url": "https://open.spotify.com/artist/6iejr7uXjNOIaqvE5R9t8W"
-        }
-      ],
-      "duration_ms": 211740,
-      "name": "It Happens Like That",
-      "url": "https://open.spotify.com/track/6U0y4ZrWLqrUb82XmJEmLP"
-    },
-    {
-      "added_at": "2026-07-03 04:00:58",
-      "album": {
         "name": "Old Love and New",
         "url": "https://open.spotify.com/album/435DJSlvexja6r2st5AjJ6"
       },
@@ -2887,6 +2871,22 @@
       "duration_ms": 253741,
       "name": "Old Love and New",
       "url": "https://open.spotify.com/track/74ma44w5wGAx3cGlLSVC7x"
+    },
+    {
+      "added_at": "2026-07-03 04:00:58",
+      "album": {
+        "name": "It Happens Like That",
+        "url": "https://open.spotify.com/album/5ojWrYc5keKYq774cZicWo"
+      },
+      "artists": [
+        {
+          "name": "Katherine Kostoff",
+          "url": "https://open.spotify.com/artist/6iejr7uXjNOIaqvE5R9t8W"
+        }
+      ],
+      "duration_ms": 211740,
+      "name": "It Happens Like That",
+      "url": "https://open.spotify.com/track/6U0y4ZrWLqrUb82XmJEmLP"
     },
     {
       "added_at": "2026-07-03 04:00:58",
@@ -3483,22 +3483,6 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
-        "name": "Nikki By Starlight",
-        "url": "https://open.spotify.com/album/6cCPj3K2gGar75Uo9r47iz"
-      },
-      "artists": [
-        {
-          "name": "Nikki Yanofsky",
-          "url": "https://open.spotify.com/artist/1n02UdnML6G4wR162YsSRi"
-        }
-      ],
-      "duration_ms": 138706,
-      "name": "Comment Allez Vous",
-      "url": "https://open.spotify.com/track/6lz582LMeRURcWgJIozmzm"
-    },
-    {
-      "added_at": "2026-07-03 04:00:58",
-      "album": {
         "name": "Isn't It Romantic?",
         "url": "https://open.spotify.com/album/3pizrquomee0WmQEuksn08"
       },
@@ -3511,6 +3495,22 @@
       "duration_ms": 245866,
       "name": "I Remember You",
       "url": "https://open.spotify.com/track/2VHSj38QBpDCqCrAYv5ErA"
+    },
+    {
+      "added_at": "2026-07-03 04:00:58",
+      "album": {
+        "name": "Nikki By Starlight",
+        "url": "https://open.spotify.com/album/6cCPj3K2gGar75Uo9r47iz"
+      },
+      "artists": [
+        {
+          "name": "Nikki Yanofsky",
+          "url": "https://open.spotify.com/artist/1n02UdnML6G4wR162YsSRi"
+        }
+      ],
+      "duration_ms": 138706,
+      "name": "Comment Allez Vous",
+      "url": "https://open.spotify.com/track/6lz582LMeRURcWgJIozmzm"
     },
     {
       "added_at": "2026-07-03 04:00:58",
@@ -3571,22 +3571,6 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
-        "name": "Behind Me",
-        "url": "https://open.spotify.com/album/5Vskn4NaSK6MfLoUm6PawW"
-      },
-      "artists": [
-        {
-          "name": "Karen Rosenberg",
-          "url": "https://open.spotify.com/artist/7oJ7DWbjYx4lzl9ysPfQ77"
-        }
-      ],
-      "duration_ms": 380380,
-      "name": "Behind Me",
-      "url": "https://open.spotify.com/track/3dvLY6aOCjl3ufY3fykmzO"
-    },
-    {
-      "added_at": "2026-07-03 04:00:58",
-      "album": {
         "name": "It Could Happen to You",
         "url": "https://open.spotify.com/album/5eLzriz99PfQs49eCfHAZ6"
       },
@@ -3599,6 +3583,22 @@
       "duration_ms": 212906,
       "name": "It Could Happen to You",
       "url": "https://open.spotify.com/track/6rZWAzKugoYcEqlhPN9DWv"
+    },
+    {
+      "added_at": "2026-07-03 04:00:58",
+      "album": {
+        "name": "Behind Me",
+        "url": "https://open.spotify.com/album/5Vskn4NaSK6MfLoUm6PawW"
+      },
+      "artists": [
+        {
+          "name": "Karen Rosenberg",
+          "url": "https://open.spotify.com/artist/7oJ7DWbjYx4lzl9ysPfQ77"
+        }
+      ],
+      "duration_ms": 380380,
+      "name": "Behind Me",
+      "url": "https://open.spotify.com/track/3dvLY6aOCjl3ufY3fykmzO"
     },
     {
       "added_at": "2026-07-03 04:00:58",

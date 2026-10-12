@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcbAIldMQMIs.md) - [plain]
 
 > we choose the bear
 
-[Spotify](https://open.spotify.com/user/spotify) - 890,933 likes - 75 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 891,347 likes - 75 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcbAIldMQMIs.md) - [plain]
 | 38 | [bad idea right?](https://open.spotify.com/track/3IX0yuEVvDbnqUwMBB3ouC) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:04 |
 | 39 | [THE GREATEST](https://open.spotify.com/track/6TGd66r0nlPaYm3KIoI7ET) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:53 |
 | 40 | [I Love It \(feat\. Charli XCX\)](https://open.spotify.com/track/2U8NXPTXZWG2O0ye2sYRiH) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [THIS IS..\. ICONA POP](https://open.spotify.com/album/3qpAHoOLWeXRNTaGzeYf13) | 2:37 |
-| 41 | [Orange Juice](https://open.spotify.com/track/07UFnnK3uPIuKv5Rs9TmXl) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 4:57 |
-| 42 | [It's ok I'm ok](https://open.spotify.com/track/3OfqwyE7RrZrtuxCRixfII) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:36 |
+| 41 | [It's ok I'm ok](https://open.spotify.com/track/3OfqwyE7RrZrtuxCRixfII) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:36 |
+| 42 | [Orange Juice](https://open.spotify.com/track/07UFnnK3uPIuKv5Rs9TmXl) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 4:57 |
 | 43 | [Waiting Room](https://open.spotify.com/track/04mAOoQNsXmDJlyupJwmkO) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Lost Ark Studio Compilation, Vol\. 8](https://open.spotify.com/album/1SiSNGAf4CVJgF63NJyTw9) | 6:33 |
 | 44 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw) | 3:48 |
 | 45 | [We Hug Now](https://open.spotify.com/track/7zFio8WT0tTBqLs1pXYKqy) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [We Hug Now](https://open.spotify.com/album/30h62oCDd1lhOsJibIFieh) | 4:08 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcbAIldMQMIs.md) - [plain]
 | 65 | [Black Out Days](https://open.spotify.com/track/2IWtloZYQDcP8Ashwx8QEF) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Voices](https://open.spotify.com/album/2R2Cwe4kI8b2WObXZ90wOC) | 3:47 |
 | 66 | [euphoria](https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [euphoria](https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN) | 6:23 |
 | 67 | [Thru Your Phone](https://open.spotify.com/track/74cVJfmK18rhWnscIpGXjt) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 3:08 |
-| 68 | [Everything Is Embarrassing](https://open.spotify.com/track/70v5mCvyPRquTyU7qTIU81) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Ghost](https://open.spotify.com/album/0ktookQxpwDrShMBr1U4Sf) | 4:09 |
-| 69 | [IFHY \(feat\. Pharrell\)](https://open.spotify.com/track/0NjW4SKY3gbfl2orl1p8hr) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Wolf](https://open.spotify.com/album/40QTqOBBxCEIQlLNdSjFQB) | 5:19 |
+| 68 | [IFHY \(feat\. Pharrell\)](https://open.spotify.com/track/0NjW4SKY3gbfl2orl1p8hr) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Wolf](https://open.spotify.com/album/40QTqOBBxCEIQlLNdSjFQB) | 5:19 |
+| 69 | [Everything Is Embarrassing](https://open.spotify.com/track/70v5mCvyPRquTyU7qTIU81) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Ghost](https://open.spotify.com/album/0ktookQxpwDrShMBr1U4Sf) | 4:09 |
 | 70 | [Crush](https://open.spotify.com/track/0nsIevK1SeDfZzDOi6Si75) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Inbred](https://open.spotify.com/album/013WXRAOja0kZ6gnlTCwJ5) | 3:24 |
 | 71 | [I Hope](https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:30 |
 | 72 | [Down Bad](https://open.spotify.com/track/1kbEbBdEgQdQeLXCJh28pJ) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 4:21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Pjfzk.md) - [plain]
 
 > This is Lainey Wilson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,097 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,128 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Pjfzk.md) - [plain]
 | 49 | [Yesterday, All Day, Every Day](https://open.spotify.com/track/6g3b9wRGkNqxwWmhRkLc7O) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind \(Deluxe\)](https://open.spotify.com/album/4jzl02ZBUX359L5VlqLNCQ) | 3:04 |
 | 50 | [Tougher](https://open.spotify.com/track/0lJhjZ46DHqNbRjBILfnox) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Tougher](https://open.spotify.com/album/139iXhHdS8eCKVx7tOaOqo) | 3:39 |
 
-Snapshot ID: `asbdAAAAAABjGQPWcdW2z7WMXCCvf9Dm`
+Snapshot ID: `asgugAAAAACv2nSNOR7/boxCv9/iiVTR`

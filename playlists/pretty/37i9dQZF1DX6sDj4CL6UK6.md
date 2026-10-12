@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 
 > English songs from Indian artists.<br/>Cover: The F16s
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,253 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,260 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,14 +22,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 12 | [Sunbeam](https://open.spotify.com/track/15MOuM5Jz3KJAmPPWDZI5G) | [ASHWYN](https://open.spotify.com/artist/4pw28rawqJIdrpW9BBcTUd), [Gurl](https://open.spotify.com/artist/6pvE17zpH50Jwgyl8FfeuO) | [Sunbeam](https://open.spotify.com/album/1cl634ubs2v0l1gSPO6gGk) | 2:51 |
 | 13 | [I Love You Baby, I Love You Doll](https://open.spotify.com/track/1uC8CoidgacQzx9f01n73h) | [Parekh & Singh](https://open.spotify.com/artist/5HyacDSdBkCTDOBoX49ayp) | [Ocean](https://open.spotify.com/album/3Go4qMxReIx9sTKGYMLakO) | 2:49 |
 | 14 | [I'm Coming Home](https://open.spotify.com/track/2jSzZzNlmi9kIh1QHGUYNg) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [I'm Coming Home](https://open.spotify.com/album/0FBJyrE6rFKntb4lRDA9GA) | 2:45 |
-| 15 | [Too Much?](https://open.spotify.com/track/3paF4msOUqJzGjSthSHkmE) | [Mary Ann Alexander](https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd) | [Love or a Lesson](https://open.spotify.com/album/4bGWHsVCpGicKsEGqlrnqH) | 2:45 |
+| 15 | [Everybody Dances to Techno](https://open.spotify.com/track/15QjfJ0VnKMtTBQxbH2Eqg) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4) | [Practice Rooms](https://open.spotify.com/album/0tAfAgg0qwIO5UDGdCDvtw) | 2:33 |
 | 16 | [Blush](https://open.spotify.com/track/56Rdvp163gJ4Bn9v1UqMC2) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Blush](https://open.spotify.com/album/6BlYYjKLjE1FzoJFaftbXh) | 3:06 |
-| 17 | [Everybody Dances to Techno](https://open.spotify.com/track/15QjfJ0VnKMtTBQxbH2Eqg) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4) | [Practice Rooms](https://open.spotify.com/album/0tAfAgg0qwIO5UDGdCDvtw) | 2:33 |
+| 17 | [Too Much?](https://open.spotify.com/track/3paF4msOUqJzGjSthSHkmE) | [Mary Ann Alexander](https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd) | [Love or a Lesson](https://open.spotify.com/album/4bGWHsVCpGicKsEGqlrnqH) | 2:45 |
 | 18 | [Halfway](https://open.spotify.com/track/3o3GYMcTzZi3bowHsoGAbi) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Halfway](https://open.spotify.com/album/7grcqqugy7VGt4GV72oxpC) | 3:28 |
 | 19 | [Ear Candy](https://open.spotify.com/track/6Pnf0VIWVFTZqRNytCpfDr) | [Malvika](https://open.spotify.com/artist/0amamV04S1qWI3XHMh9qpl) | [Ear Candy](https://open.spotify.com/album/6ca3CWTuYwsE66koP391Jz) | 3:21 |
-| 20 | [Student of Love](https://open.spotify.com/track/4LEhWsijtlLqwjctr2bsxx) | [Mary Ann Alexander](https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd) | [Student of Love](https://open.spotify.com/album/6NU9gREQED90QHgrTUZPRx) | 2:37 |
+| 20 | [People Never Change \- Radio Edit](https://open.spotify.com/track/0BEU8reIpQUKYtFg6O7fU9) | [Peter Cat Recording Co.](https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV) | [People Never Change](https://open.spotify.com/album/44fRKtfgTRHDYyUnC0N4LR) | 2:45 |
 | 21 | [I'm Someone New](https://open.spotify.com/track/7hG3voGIQnOEYRqcUQ5hbD) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [I'm Someone New](https://open.spotify.com/album/5QwDXdYTzUiaY6geFpTgZX) | 4:13 |
-| 22 | [People Never Change \- Radio Edit](https://open.spotify.com/track/0BEU8reIpQUKYtFg6O7fU9) | [Peter Cat Recording Co.](https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV) | [People Never Change](https://open.spotify.com/album/44fRKtfgTRHDYyUnC0N4LR) | 2:45 |
+| 22 | [Student of Love](https://open.spotify.com/track/4LEhWsijtlLqwjctr2bsxx) | [Mary Ann Alexander](https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd) | [Student of Love](https://open.spotify.com/album/6NU9gREQED90QHgrTUZPRx) | 2:37 |
 | 23 | [NOT A ROCKSTAR](https://open.spotify.com/track/3A8cLBzIsB5iIr8Byu5eqE) | [Shikhar](https://open.spotify.com/artist/0P5toqZxqkmKyhFXYES2k9), [Janisht Joshi](https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z) | [NOT A ROCKSTAR](https://open.spotify.com/album/2NrjqOYMj6FQzf7SwRg3IR) | 2:46 |
 | 24 | [Find Me](https://open.spotify.com/track/3kItJhN5lLgF2J97BiemJe) | [Trance Effect](https://open.spotify.com/artist/21P08lfKfkMN14Fs25E93A), [MongDoll](https://open.spotify.com/artist/7b4YrLbDfaE2rbhbWZvTYf) | [Find Me](https://open.spotify.com/album/72RTHcmSea8xyDuVzDWTnm) | 3:01 |
 | 25 | [Unicorn and the Sheep](https://open.spotify.com/track/4YWeZa7AfJArkijVVq8ayc) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Unicorn And The Sheep](https://open.spotify.com/album/1Gd4ISqgkzf5WZHLjzUaHI) | 2:31 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 46 | [Over the Moon](https://open.spotify.com/track/47m0YD9ERn5IZIjRcxxJ9B) | [axe.shay](https://open.spotify.com/artist/5nGvxnSGQEICmBXZojfqH7) | [Over the Moon](https://open.spotify.com/album/0f7P0KplCgbOXCuZ2RCPQJ) | 3:56 |
 | 47 | [forget your name](https://open.spotify.com/track/5HMJr3qOYf7Bjd58UNvGDY) | [Ramya Pothuri](https://open.spotify.com/artist/0JgLc59DdeDlgyZtnvAJQ6) | [forget your name](https://open.spotify.com/album/2ZwwjE0KXrvn5UnHXcbaR3) | 3:55 |
 | 48 | [the party song](https://open.spotify.com/track/3KPXbXXOS2oJbXOaX6xP27) | [Shikhar](https://open.spotify.com/artist/0P5toqZxqkmKyhFXYES2k9), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [the party song](https://open.spotify.com/album/63sVUToNMo3Buh9GwODQRZ) | 3:04 |
-| 49 | [sad in chanel](https://open.spotify.com/track/1sWWUmC2Suwv8Cy3UxvjBC) | [Krameri](https://open.spotify.com/artist/1hxuMlq1xCyjGyhoPsiIM0), [Kelly](https://open.spotify.com/artist/2fy0bN8wj1mLvD3phe5iYY), [Hades Serapis](https://open.spotify.com/artist/6L1XzLfJpfn5UdQenms7Xw) | [sad in chanel](https://open.spotify.com/album/6zmc99bgNGTTiWrDALkf1G) | 3:57 |
-| 50 | [Glimpses](https://open.spotify.com/track/45mn7PSl1pgVo23ufjcGjT) | [Nida](https://open.spotify.com/artist/3uJI2m1BhqeAmoYBzRcuLs), [Derric D'souza](https://open.spotify.com/artist/5d5eoKkR83aVdBq4CCHG1b) | [Glimpses](https://open.spotify.com/album/1sPxlbBKXOEEpaf6tCYuY1) | 3:33 |
+| 49 | [Glimpses](https://open.spotify.com/track/45mn7PSl1pgVo23ufjcGjT) | [Nida](https://open.spotify.com/artist/3uJI2m1BhqeAmoYBzRcuLs), [Derric D'souza](https://open.spotify.com/artist/5d5eoKkR83aVdBq4CCHG1b) | [Glimpses](https://open.spotify.com/album/1sPxlbBKXOEEpaf6tCYuY1) | 3:33 |
+| 50 | [sad in chanel](https://open.spotify.com/track/1sWWUmC2Suwv8Cy3UxvjBC) | [Krameri](https://open.spotify.com/artist/1hxuMlq1xCyjGyhoPsiIM0), [Kelly](https://open.spotify.com/artist/2fy0bN8wj1mLvD3phe5iYY), [Hades Serapis](https://open.spotify.com/artist/6L1XzLfJpfn5UdQenms7Xw) | [sad in chanel](https://open.spotify.com/album/6zmc99bgNGTTiWrDALkf1G) | 3:57 |
 
 Snapshot ID: `AAAAAJf7oCvSznaVRrrJUQQOG4js0Vzv`

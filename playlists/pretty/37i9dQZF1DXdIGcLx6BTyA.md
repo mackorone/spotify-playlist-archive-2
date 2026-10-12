@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 
 > take the road less traveled
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,609 likes - 80 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,617 likes - 80 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 | 75 | [Let Me Get There](https://open.spotify.com/track/51JNZr0bBwOMFoSnB2oDNv) | [Hope Sandoval & The Warm Inventions](https://open.spotify.com/artist/38u18VoGaIwVeSyVoA0eU5), [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Until the Hunter](https://open.spotify.com/album/72uDE3xlSwejX3iYZqWTWU) | 7:30 |
 | 76 | [Bag of Bones](https://open.spotify.com/track/1M2AqYT4Y6X0zRboZgIw8K) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Bag of Bones](https://open.spotify.com/album/4tWOuqMX9aMpFxvNU1WkYl) | 4:04 |
 | 77 | [Worry 'Bout My Wandering](https://open.spotify.com/track/1gKPM0k1iyhwSKnTvIoE1L) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Wandering \(Love Me Back\)](https://open.spotify.com/album/3DEtpqVl2R2gEe9fLCa1DE) | 3:06 |
-| 78 | [Younger Years](https://open.spotify.com/track/6UXVFOpFv2WQSs3RF4OC8E) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [All the Things That I Did and All the Things That I Didn't Do](https://open.spotify.com/album/1BpQ1yTs26aKJg0aWqnzEq) | 3:49 |
-| 79 | [Riding For The Feeling](https://open.spotify.com/track/6qo9HElLHUptcwpVprsS4C) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Apocalypse](https://open.spotify.com/album/13VVtuvboNAaPFcKsQsjLP) | 6:05 |
+| 78 | [Riding For The Feeling](https://open.spotify.com/track/6qo9HElLHUptcwpVprsS4C) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Apocalypse](https://open.spotify.com/album/13VVtuvboNAaPFcKsQsjLP) | 6:05 |
+| 79 | [Younger Years](https://open.spotify.com/track/6UXVFOpFv2WQSs3RF4OC8E) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [All the Things That I Did and All the Things That I Didn't Do](https://open.spotify.com/album/1BpQ1yTs26aKJg0aWqnzEq) | 3:49 |
 | 80 | [Rhododendron](https://open.spotify.com/track/7s8gLWAkwL8F7WggHYzZR4) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Among Other Things](https://open.spotify.com/album/3xFMep9WfDGEqDveIQQf1V) | 4:48 |
 
 Snapshot ID: `AAAAAE6KC3vcECrQwjvbZUmBfTvtDh/V`

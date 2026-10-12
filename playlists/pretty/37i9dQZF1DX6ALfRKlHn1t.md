@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 
 > the soundtrack for your vitamin d fix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,137,203 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,137,123 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 | 59 | [Tell Me \(U Want It\)](https://open.spotify.com/track/2fIv98BZ6NdkeYLZAvNzP7) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [U](https://open.spotify.com/album/1qSS0T6Ffrb3rFVpizzOuk) | 3:33 |
 | 60 | [Seventeen](https://open.spotify.com/track/4gsR34XSIE2fUY4odwZqym) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Seventeen](https://open.spotify.com/album/4BrJEabBSw59bwSjKZl25p) | 3:45 |
 | 61 | [Back in Love](https://open.spotify.com/track/62S62F7p3A7qOjkbApWe5i) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Loveland](https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1) | 3:14 |
-| 62 | [Annie](https://open.spotify.com/track/0C7ArEWOoGnMbIA4Xxl2X7) | [Sun Room](https://open.spotify.com/artist/4ANMwDtqwfkzPgFoUoLZ3Y) | [Annie](https://open.spotify.com/album/6Xw7JEdRTUg7XEncbsWQBn) | 3:29 |
-| 63 | [Feel Like That \(feat\. Bradley Nowell\)](https://open.spotify.com/track/193RlTGibelHrNqyAMEbLl) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Jakobs Castle](https://open.spotify.com/artist/0D4JnDxTBaTWJzH4BXU8Ro), [Bradley Nowell](https://open.spotify.com/artist/2SN17aji6ZUYSjeWTgk8RG) | [Feel Like That \(feat\. Bradley Nowell\)](https://open.spotify.com/album/4Ocj71UOGUGwtn9PSH2wwY) | 3:47 |
+| 62 | [Feel Like That \(feat\. Bradley Nowell\)](https://open.spotify.com/track/193RlTGibelHrNqyAMEbLl) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Jakobs Castle](https://open.spotify.com/artist/0D4JnDxTBaTWJzH4BXU8Ro), [Bradley Nowell](https://open.spotify.com/artist/2SN17aji6ZUYSjeWTgk8RG) | [Feel Like That \(feat\. Bradley Nowell\)](https://open.spotify.com/album/4Ocj71UOGUGwtn9PSH2wwY) | 3:47 |
+| 63 | [Annie](https://open.spotify.com/track/0C7ArEWOoGnMbIA4Xxl2X7) | [Sun Room](https://open.spotify.com/artist/4ANMwDtqwfkzPgFoUoLZ3Y) | [Annie](https://open.spotify.com/album/6Xw7JEdRTUg7XEncbsWQBn) | 3:29 |
 | 64 | [Dashboard](https://open.spotify.com/track/0Fe3WxeO6lZZxj7ytvbDUh) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [We Were Dead Before The Ship Even Sank](https://open.spotify.com/album/2lXBCL76UL5PCPbfAqKBkz) | 4:06 |
 | 65 | [Cross The Street](https://open.spotify.com/track/2jsqoaZJqHF1t25vVuONHn) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [My Star \(Deluxe\)](https://open.spotify.com/album/3jXRErosrQELn4XWbP4Ucw) | 2:47 |
 | 66 | [Dance The Pain Away](https://open.spotify.com/track/2CDWWw0WuhGbWhTD348n8a) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Big Disgrace](https://open.spotify.com/album/3iyn2K7YlhKie8qrmUV6lS) | 3:39 |

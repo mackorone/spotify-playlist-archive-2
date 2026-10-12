@@ -1,6 +1,6 @@
 {
   "description": "A sizzling hot soundtrack for your sunshine social.",
-  "num_followers": 658657,
+  "num_followers": 658621,
   "original_name": "Summer BBQ",
   "owner": {
     "name": "Spotify",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2026-04-14 13:28:35",
       "album": {
+        "name": "Funky Kingston",
+        "url": "https://open.spotify.com/album/7a341nZsSfwyBsq1tMPETz"
+      },
+      "artists": [
+        {
+          "name": "Toots & The Maytals",
+          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
+        }
+      ],
+      "duration_ms": 295666,
+      "name": "Funky Kingston",
+      "url": "https://open.spotify.com/track/26WPI2aksB9XdqmeLfca5z"
+    },
+    {
+      "added_at": "2026-04-14 13:28:35",
+      "album": {
         "name": "Legend Of The Wu-Tang: Wu-Tang Clan's Greatest Hits",
         "url": "https://open.spotify.com/album/6FePdYF8RNzmH05uXIMW76"
       },
@@ -1047,18 +1063,18 @@
     {
       "added_at": "2026-04-14 13:28:35",
       "album": {
-        "name": "Funky Kingston",
-        "url": "https://open.spotify.com/album/7a341nZsSfwyBsq1tMPETz"
+        "name": "The Essentials",
+        "url": "https://open.spotify.com/album/1N4pAgoZjA2oGnh4bTk8oh"
       },
       "artists": [
         {
-          "name": "Toots & The Maytals",
-          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
         }
       ],
-      "duration_ms": 295666,
-      "name": "Funky Kingston",
-      "url": "https://open.spotify.com/track/26WPI2aksB9XdqmeLfca5z"
+      "duration_ms": 260306,
+      "name": "It Was A Good Day",
+      "url": "https://open.spotify.com/track/2MuJbBWAVewREJmB8WdGJ3"
     },
     {
       "added_at": "2026-04-14 13:28:35",
@@ -1079,22 +1095,6 @@
       "duration_ms": 226013,
       "name": "Sunshine (feat. Anthony Hamilton)",
       "url": "https://open.spotify.com/track/5y8WWi1BaKHXfuln0XoIZs"
-    },
-    {
-      "added_at": "2026-04-14 13:28:35",
-      "album": {
-        "name": "The Essentials",
-        "url": "https://open.spotify.com/album/1N4pAgoZjA2oGnh4bTk8oh"
-      },
-      "artists": [
-        {
-          "name": "Ice Cube",
-          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
-        }
-      ],
-      "duration_ms": 260306,
-      "name": "It Was A Good Day",
-      "url": "https://open.spotify.com/track/2MuJbBWAVewREJmB8WdGJ3"
     },
     {
       "added_at": "2026-04-14 13:28:35",

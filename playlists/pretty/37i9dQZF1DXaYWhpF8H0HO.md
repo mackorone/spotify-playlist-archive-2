@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover: The Midnight Darlings
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,928 likes - 103 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,926 likes - 103 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

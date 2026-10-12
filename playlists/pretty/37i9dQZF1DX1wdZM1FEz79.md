@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 
 > Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: Roy Kim\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,375 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,372 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,14 +48,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 | 38 | [Hello, goodbye.](https://open.spotify.com/track/6QSkLzLRAwPMaYnesYdqdX) | [Isaac Hong](https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB) | [Hello, goodbye.](https://open.spotify.com/album/5MTTOYSuCUp7Wz6P57lAja) | 3:06 |
 | 39 | [Life goes on](https://open.spotify.com/track/2svtm7O8mhNGflEdsxsZtt) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Journey](https://open.spotify.com/album/2ZiNV3uCWEno9JIDtCaSaP) | 3:43 |
 | 40 | [My secret, My everything](https://open.spotify.com/track/6VNyKGgsdiRCh7943735wV) | [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp), [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [Sh\*\*ting Stars \(Original Television Soundtrack\) Pt.3](https://open.spotify.com/album/3CtH176Djh4qoKAaV2NHdL) | 4:11 |
-| 41 | [Be the Light](https://open.spotify.com/track/61B7mbo3BAGqHmPpL29Ehf) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Hometown Cha\-Cha\-Cha, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/52fvqDulBcB8L2D4MXbtXB) | 3:54 |
-| 42 | [Find You](https://open.spotify.com/track/7lhuwwTReovk2mqGUNvy2M) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Find You](https://open.spotify.com/album/2qa2XETaR8FBmu1I4tH1Tz) | 2:55 |
-| 43 | [You're My Pretty Star](https://open.spotify.com/track/5X9mxcrFU743Y2XhkrBZUw) | [MRT](https://open.spotify.com/artist/2wczizmPu6o01FTA7XpIYj) | [You're My Pretty Star](https://open.spotify.com/album/3bvzvHQBoYwrSIX6M1cgVf) | 3:36 |
-| 44 | [In You](https://open.spotify.com/track/6GnRaHVTPcM0y5z9qWKZcD) | [Isaac Hong](https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB) | [Our Unwritten Seoul \(Original Soundtrack\) Part.4](https://open.spotify.com/album/6Jaw045Rl2CuvYgkD43vW3) | 3:46 |
-| 45 | [friend to lover](https://open.spotify.com/track/7un5FM27KmkEMpsPQ2T062) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [friend to lover](https://open.spotify.com/album/4bjDmQW2Vu2Br4RPCi12hr) | 3:07 |
-| 46 | [Summer Breeze](https://open.spotify.com/track/1g1sttRV6Dy2tj6aE92TnM) | [Lee Sora](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [Summer Breeze](https://open.spotify.com/album/4slUF3getoU3xR2UcxFMUL) | 3:42 |
-| 47 | [Stupid love song \(with Crush\)](https://open.spotify.com/track/66NRKCEurE3Oq12BViuqAQ) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:08 |
-| 48 | [in your control](https://open.spotify.com/track/1ub0uODuO4zmKdGUEEJW09) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [in your control](https://open.spotify.com/album/7nIKIh4C23jA2dAnahIRrF) | 2:19 |
+| 41 | [in your control](https://open.spotify.com/track/1ub0uODuO4zmKdGUEEJW09) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [in your control](https://open.spotify.com/album/7nIKIh4C23jA2dAnahIRrF) | 2:19 |
+| 42 | [Be the Light](https://open.spotify.com/track/61B7mbo3BAGqHmPpL29Ehf) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Hometown Cha\-Cha\-Cha, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/52fvqDulBcB8L2D4MXbtXB) | 3:54 |
+| 43 | [Find You](https://open.spotify.com/track/7lhuwwTReovk2mqGUNvy2M) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Find You](https://open.spotify.com/album/2qa2XETaR8FBmu1I4tH1Tz) | 2:55 |
+| 44 | [You're My Pretty Star](https://open.spotify.com/track/5X9mxcrFU743Y2XhkrBZUw) | [MRT](https://open.spotify.com/artist/2wczizmPu6o01FTA7XpIYj) | [You're My Pretty Star](https://open.spotify.com/album/3bvzvHQBoYwrSIX6M1cgVf) | 3:36 |
+| 45 | [In You](https://open.spotify.com/track/6GnRaHVTPcM0y5z9qWKZcD) | [Isaac Hong](https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB) | [Our Unwritten Seoul \(Original Soundtrack\) Part.4](https://open.spotify.com/album/6Jaw045Rl2CuvYgkD43vW3) | 3:46 |
+| 46 | [friend to lover](https://open.spotify.com/track/7un5FM27KmkEMpsPQ2T062) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [friend to lover](https://open.spotify.com/album/4bjDmQW2Vu2Br4RPCi12hr) | 3:07 |
+| 47 | [Summer Breeze](https://open.spotify.com/track/1g1sttRV6Dy2tj6aE92TnM) | [Lee Sora](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [Summer Breeze](https://open.spotify.com/album/4slUF3getoU3xR2UcxFMUL) | 3:42 |
+| 48 | [Stupid love song \(with Crush\)](https://open.spotify.com/track/66NRKCEurE3Oq12BViuqAQ) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:08 |
 | 49 | [Yours Sincerely](https://open.spotify.com/track/5qwR0wO4SgTyg70ob5Gb3I) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [3rd Mini Album 'In a million noises, I'll be your harmony'](https://open.spotify.com/album/1kOSueM1uqixinJjvk6ivV) | 3:02 |
 | 50 | [seesaw](https://open.spotify.com/track/1YWGqISxSJrSP7bXGEYFxd) | [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [Mutualism](https://open.spotify.com/album/11AWQhHWIgSbDeKnpD3ch1) | 3:21 |
 

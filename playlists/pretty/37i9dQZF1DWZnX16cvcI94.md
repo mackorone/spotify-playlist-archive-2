@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnX16cvcI94.md) - [plain]
 
 > Los clásicos no pasan de moda\. <a href=https://spotify.com/descubretuflow>Descubre tu Flow</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,045 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,096 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnX16cvcI94.md) - [plain]
 | 6 | [Ella Y Yo \- Featuring Don Omar](https://open.spotify.com/track/6G4U9avyBNEfP0fAIduev3) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi), [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [God's Project](https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5) | 4:27 |
 | 7 | [Ay Vamos](https://open.spotify.com/track/6Ges5C2IE738iJh4HyQizQ) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [La Familia B Sides](https://open.spotify.com/album/4loQMkHOAbqVdyb59KBbsp) | 3:46 |
 | 8 | [Guaya Guaya](https://open.spotify.com/track/79zvVrn65ksbiGQxrtV4I5) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [The Last Don II](https://open.spotify.com/album/57mWSm5UtRGT08KeJuyZqu) | 3:13 |
-| 9 | [Reggaetón Lento \(Bailemos\)](https://open.spotify.com/track/3AEZUABDXNtecAOSC1qTfo) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Primera Cita](https://open.spotify.com/album/0YLrAWUbY0nyM7PFtqnYld) | 3:42 |
-| 10 | [Rompe](https://open.spotify.com/track/4Xtlw8oXkIOvzV7crUBKeZ) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Barrio Fino En Directo](https://open.spotify.com/album/2rNUIqPFIbq5bSH46jHUZy) | 3:08 |
+| 9 | [Rompe](https://open.spotify.com/track/4Xtlw8oXkIOvzV7crUBKeZ) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Barrio Fino En Directo](https://open.spotify.com/album/2rNUIqPFIbq5bSH46jHUZy) | 3:08 |
+| 10 | [Reggaetón Lento \(Bailemos\)](https://open.spotify.com/track/3AEZUABDXNtecAOSC1qTfo) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Primera Cita](https://open.spotify.com/album/0YLrAWUbY0nyM7PFtqnYld) | 3:42 |
 | 11 | [Yo Voy \(feat\. Daddy Yankee\)](https://open.spotify.com/track/5gflgO9EPbIBf16n5TKnQS) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Motivando a la Yal](https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF) | 3:52 |
 | 12 | [Por Que Te Demoras?](https://open.spotify.com/track/6URNgz911jj10KXTFtevcS) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House of Pleasure](https://open.spotify.com/album/4s9iYsrtBIvkZn5AEbUbl0) | 3:11 |
 | 13 | [Dale Don Dale](https://open.spotify.com/track/1PZrHbJjt5t7dP9OGRxcD0) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [The Last Don](https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz) | 3:32 |
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnX16cvcI94.md) - [plain]
 | 30 | [Una Vaina Loca](https://open.spotify.com/track/6YYmoV9YbBefsspGmqFHbs) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [Una Vaina Loca](https://open.spotify.com/album/7biGrCxUFSXo530GF0E9RP) | 3:08 |
 | 31 | [Que Va](https://open.spotify.com/track/6J1R5wtPXiHiwiPstOSI56) | [Alex Sensation](https://open.spotify.com/artist/0OROVBEZCocg0FcgJpyBse), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Que Va](https://open.spotify.com/album/1mt3ZuNrHnd6gtRJhSy7Fn) | 3:58 |
 | 32 | [Bandoleros](https://open.spotify.com/track/4BxzNZpcm1j3JczZzGNe2k) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [The Fast And The Furious: Tokyo Drift \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4SJhZBuuLYlwUJGxWf8Pj0) | 5:05 |
-| 33 | [Dura](https://open.spotify.com/track/6KuqAtoeVzxAYOaMveLNpH) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Dura](https://open.spotify.com/album/1copqxpiZy0dn219MSyPR7) | 3:20 |
+| 33 | [Flow Natural](https://open.spotify.com/track/2oeyvFG0mFFDHUxhPVObNk) | [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh), [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Deevani](https://open.spotify.com/artist/0vLywSuTQGaeNiq9pN8sD0) | [Top Of The Line](https://open.spotify.com/album/0GERlfOuy87BuTAcwuO5Kb) | 2:53 |
 | 34 | [Porque Me Tratas Así?](https://open.spotify.com/track/6NoFVCCFpjWsHVYvinUeZG) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Wisin Vs Yandel "Los Extraterrestres"](https://open.spotify.com/album/1wqojXZPs45MXFSPlqcVkh) | 4:03 |
-| 35 | [Flow Natural](https://open.spotify.com/track/2oeyvFG0mFFDHUxhPVObNk) | [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh), [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Deevani](https://open.spotify.com/artist/0vLywSuTQGaeNiq9pN8sD0) | [Top Of The Line](https://open.spotify.com/album/0GERlfOuy87BuTAcwuO5Kb) | 2:53 |
+| 35 | [Dura](https://open.spotify.com/track/6KuqAtoeVzxAYOaMveLNpH) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Dura](https://open.spotify.com/album/1copqxpiZy0dn219MSyPR7) | 3:20 |
 | 36 | [Al Natural \(feat\. Yandel\)](https://open.spotify.com/track/49vwUeeauJgEQxDViXA01C) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [El Enemy de Los Guasíbiri](https://open.spotify.com/album/69rKlAM3KXEHw6vPtM6e9L) | 3:24 |
 | 37 | [5 Letras](https://open.spotify.com/track/0tDSgSmZsbxCkdkfUPjg59) | [Alexis y Fido](https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA) | [Sobrenatural](https://open.spotify.com/album/2TBu0mCd9swbPWIzpSZgvf) | 3:15 |
 | 38 | [Solitaria](https://open.spotify.com/track/07hNUXX5QqXgOAbcst7CPP) | [Alkilados](https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB) | [Pura Playa](https://open.spotify.com/album/4MKfVmMrhQzmlolHL7VIlk) | 3:38 |

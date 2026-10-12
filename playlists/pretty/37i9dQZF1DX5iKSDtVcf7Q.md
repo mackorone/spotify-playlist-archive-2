@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iKSDtVcf7Q.md) - [plain]
 
 > Music paying tribute to the Heartland of America\. Cover: Drew Baldridge
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,165 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,158 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iKSDtVcf7Q.md) - [plain]
 | 69 | [Mayberry](https://open.spotify.com/track/04rZkq3ihHmGNfKPgBiTX1) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Melt](https://open.spotify.com/album/6kGMwYN1ChjX0yyhN7tDs2) | 4:32 |
 | 70 | [Heartland \- From "Pure Country/" Soundtrack](https://open.spotify.com/track/0U4R6UqrJo43TmImPku9H8) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Pure Country](https://open.spotify.com/album/5K0Ic5xrsWbWzlDFse0KCX) | 2:18 |
 | 71 | [Caught Up In The Country](https://open.spotify.com/track/2BgunkkepMPFpArQj1Dx5s) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2), [The Fisk Jubilee Singers](https://open.spotify.com/artist/0UGSKGxAJfltNONQ4AtETL) | [Caught Up In The Country](https://open.spotify.com/album/0SeZnTLIuPbHvuuNTJDHLh) | 2:40 |
-| 72 | [Red Light](https://open.spotify.com/track/66EhdSD4MPXk5ZXljDJWI6) | [David Nail](https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6) | [I'm About To Come Alive](https://open.spotify.com/album/33DAhrPxgxfXeljwzpgi0y) | 4:06 |
-| 73 | [See You Again](https://open.spotify.com/track/7jP7iCJ1cXVXYHWIkYtP6d) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Blown Away](https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9) | 4:07 |
+| 72 | [See You Again](https://open.spotify.com/track/7jP7iCJ1cXVXYHWIkYtP6d) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Blown Away](https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9) | 4:07 |
+| 73 | [Red Light](https://open.spotify.com/track/66EhdSD4MPXk5ZXljDJWI6) | [David Nail](https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6) | [I'm About To Come Alive](https://open.spotify.com/album/33DAhrPxgxfXeljwzpgi0y) | 4:06 |
 | 74 | [Save The Roses](https://open.spotify.com/track/4r8tnUcdD9kVETRZSTIa5E) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Hey World](https://open.spotify.com/album/7zhKZcqIJkkeqrswshd15r) | 3:21 |
 | 75 | [Alabama Nights](https://open.spotify.com/track/0wKZraHIi51smdFZOjJgc5) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Alabama Nights](https://open.spotify.com/album/3oE0zEeUQbTKpnFyVUA1uj) | 3:10 |
 | 76 | [It’s America](https://open.spotify.com/track/6QbcLktLNe7eYqh8TjZeCd) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2) | [It's America](https://open.spotify.com/album/1bWrDfZLiqzpac2iNiFAJH) | 3:33 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iKSDtVcf7Q.md) - [plain]
 | 79 | [Blessings](https://open.spotify.com/track/7dnDBbHKyJNFXoeVwO8KBY) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Can't Say I Ain't Country](https://open.spotify.com/album/64nhe9s692yKECAoMcEQ8U) | 3:18 |
 | 80 | [The Long Way](https://open.spotify.com/track/5vuMtXS5kQ7F0o9V9rG1dG) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Brett Eldredge](https://open.spotify.com/album/1NUKNYLtePSiZnQj0QeZlo) | 3:28 |
 | 81 | [Where I Come From](https://open.spotify.com/track/10ps1I1sIMRNZW11eceN7W) | [Montgomery Gentry](https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a) | [Rebels on the Run](https://open.spotify.com/album/5Fyd02GgT2LAvd812dZ0Lm) | 3:21 |
-| 82 | [Red Dirt Road](https://open.spotify.com/track/5QHElgktygMkgRdpPhXfn2) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [\#1s ..\. and then some](https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO) | 4:20 |
-| 83 | [Time’s Ticking](https://open.spotify.com/track/1lcsXjEeKLhYbnvmmqYY3l) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk), [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [This Is My Dirt](https://open.spotify.com/album/1itULb5WhYN3cBKplditfW) | 3:00 |
+| 82 | [Time’s Ticking](https://open.spotify.com/track/1lcsXjEeKLhYbnvmmqYY3l) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk), [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [This Is My Dirt](https://open.spotify.com/album/1itULb5WhYN3cBKplditfW) | 3:00 |
+| 83 | [Red Dirt Road](https://open.spotify.com/track/5QHElgktygMkgRdpPhXfn2) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [\#1s ..\. and then some](https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO) | 4:20 |
 | 84 | [Bigger Houses](https://open.spotify.com/track/021oE3KXSweagIO0HsgzcI) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Save Me The Trouble, Heartbreak On The Map, Bigger Houses](https://open.spotify.com/album/0k3Twwed7AzLrgaKywvQWF) | 3:17 |
 | 85 | [A Little Dive Bar in Dahlonega](https://open.spotify.com/track/7qcRDEpmDWS0bLHaZRYE8c) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Girl Going Nowhere](https://open.spotify.com/album/2FeaUU9jFydTIsVO5F8rNU) | 3:29 |
 | 86 | [My Town](https://open.spotify.com/track/5M8oqeozsjPMSXbkjo0SyD) | [Montgomery Gentry](https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a) | [Something To Be Proud Of: Best Of 1999\-2005](https://open.spotify.com/album/5xPDOWC4cy0sS9FrF7HiHZ) | 4:45 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21hEmly67Fg.md) - [plain]
 
 > Chill to these laid\-back classical covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,831 likes - 142 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,877 likes - 142 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Give your day a warm and fruity vibe with Latin music! \ud83c\udf1e\ud83c\udf34\ud83c\udf4d\ud83c\udf49",
-  "num_followers": 732600,
+  "num_followers": 732589,
   "original_name": "Tropical Vibe",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,22 @@
     {
       "added_at": "2026-09-25 06:00:07",
       "album": {
+        "name": "El Caribefunk",
+        "url": "https://open.spotify.com/album/1L3nJbcVnDFhy1EGMjlEur"
+      },
+      "artists": [
+        {
+          "name": "El Caribefunk",
+          "url": "https://open.spotify.com/artist/25UVM4HwATaXX6M7SXT1JI"
+        }
+      ],
+      "duration_ms": 298450,
+      "name": "Juanita la Chismosa",
+      "url": "https://open.spotify.com/track/155XcCEwMrHE3YcJciCnvi"
+    },
+    {
+      "added_at": "2026-09-25 06:00:07",
+      "album": {
         "name": "Se Fue (Con Ximena Sari\u00f1ana y Elsa y Elmar)",
         "url": "https://open.spotify.com/album/0p5xq9uQOB2ziYR9GWqI1K"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 247733,
       "name": "Se Fue - Con Ximena Sari\u00f1ana y Elsa y Elmar",
       "url": "https://open.spotify.com/track/6C2nsLf4lmP890KLXbn3UC"
-    },
-    {
-      "added_at": "2026-09-25 06:00:07",
-      "album": {
-        "name": "El Caribefunk",
-        "url": "https://open.spotify.com/album/1L3nJbcVnDFhy1EGMjlEur"
-      },
-      "artists": [
-        {
-          "name": "El Caribefunk",
-          "url": "https://open.spotify.com/artist/25UVM4HwATaXX6M7SXT1JI"
-        }
-      ],
-      "duration_ms": 298450,
-      "name": "Juanita la Chismosa",
-      "url": "https://open.spotify.com/track/155XcCEwMrHE3YcJciCnvi"
     },
     {
       "added_at": "2026-09-25 06:00:07",
@@ -635,26 +635,6 @@
     {
       "added_at": "2026-09-25 06:00:07",
       "album": {
-        "name": "AIO (Bosq Remix)",
-        "url": "https://open.spotify.com/album/398yIs7sB6fNFJkpbMJcAg"
-      },
-      "artists": [
-        {
-          "name": "BALTHVS",
-          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
-        },
-        {
-          "name": "Bosq",
-          "url": "https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U"
-        }
-      ],
-      "duration_ms": 193542,
-      "name": "AIO - Bosq Remix",
-      "url": "https://open.spotify.com/track/185ggbhnpTgHC5E5yEqYTE"
-    },
-    {
-      "added_at": "2026-09-25 06:00:07",
-      "album": {
         "name": "Cosas Del Universo",
         "url": "https://open.spotify.com/album/036AR7pZFfjmQ6wX2c2dCk"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 237244,
       "name": "Mas Paz",
       "url": "https://open.spotify.com/track/6Js2gWnnIDA9lrn7l1mIxg"
+    },
+    {
+      "added_at": "2026-09-25 06:00:07",
+      "album": {
+        "name": "AIO (Bosq Remix)",
+        "url": "https://open.spotify.com/album/398yIs7sB6fNFJkpbMJcAg"
+      },
+      "artists": [
+        {
+          "name": "BALTHVS",
+          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
+        },
+        {
+          "name": "Bosq",
+          "url": "https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U"
+        }
+      ],
+      "duration_ms": 193542,
+      "name": "AIO - Bosq Remix",
+      "url": "https://open.spotify.com/track/185ggbhnpTgHC5E5yEqYTE"
     },
     {
       "added_at": "2026-09-25 06:00:07",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-09-25 06:00:07",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/77CJTWwnnZit2KO3LSMpyI"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 215480,
-      "name": "Wish You Were Gay - Versi\u00f3n en Espa\u00f1ol - Spotify Singles",
-      "url": "https://open.spotify.com/track/7pRw8jLLLSlGw3Xhc7bYHK"
-    },
-    {
-      "added_at": "2026-09-25 06:00:07",
-      "album": {
         "name": "Amor Entre Mujer",
         "url": "https://open.spotify.com/album/4tRbLBaf7fQaYZnZp41ttO"
       },
@@ -835,6 +819,22 @@
     {
       "added_at": "2026-09-25 06:00:07",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/77CJTWwnnZit2KO3LSMpyI"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 215480,
+      "name": "Wish You Were Gay - Versi\u00f3n en Espa\u00f1ol - Spotify Singles",
+      "url": "https://open.spotify.com/track/7pRw8jLLLSlGw3Xhc7bYHK"
+    },
+    {
+      "added_at": "2026-09-25 06:00:07",
+      "album": {
         "name": "chiquita suelta",
         "url": "https://open.spotify.com/album/5Hc9NaLoW5cXLRwxqxgxxL"
       },
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-09-25 06:00:07",
       "album": {
-        "name": "S\u00e3o Paulo Motoboy",
-        "url": "https://open.spotify.com/album/120c6Vr3TyGwYhL2rX9BfP"
-      },
-      "artists": [
-        {
-          "name": "Manu Chao",
-          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
-        }
-      ],
-      "duration_ms": 148600,
-      "name": "S\u00e3o Paulo Motoboy",
-      "url": "https://open.spotify.com/track/7vCbKxrU2y0wZpuogiuuEf"
-    },
-    {
-      "added_at": "2026-09-25 06:00:07",
-      "album": {
         "name": "Sacatela",
         "url": "https://open.spotify.com/album/06nue4Ry0BmfBW1aX3RWNe"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 172026,
       "name": "Sacatela",
       "url": "https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku"
+    },
+    {
+      "added_at": "2026-09-25 06:00:07",
+      "album": {
+        "name": "S\u00e3o Paulo Motoboy",
+        "url": "https://open.spotify.com/album/120c6Vr3TyGwYhL2rX9BfP"
+      },
+      "artists": [
+        {
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+        }
+      ],
+      "duration_ms": 148600,
+      "name": "S\u00e3o Paulo Motoboy",
+      "url": "https://open.spotify.com/track/7vCbKxrU2y0wZpuogiuuEf"
     },
     {
       "added_at": "2026-09-25 06:00:07",
@@ -903,26 +903,6 @@
     {
       "added_at": "2026-09-25 06:00:07",
       "album": {
-        "name": "Satingarona Pt. 2",
-        "url": "https://open.spotify.com/album/1dZQRZHQUDcXHwZpKwZHF2"
-      },
-      "artists": [
-        {
-          "name": "The Bongo Hop",
-          "url": "https://open.spotify.com/artist/0vIM6xovGnCeWUNYR42Zsk"
-        },
-        {
-          "name": "Nidia Gongora",
-          "url": "https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8"
-        }
-      ],
-      "duration_ms": 327923,
-      "name": "Sonora",
-      "url": "https://open.spotify.com/track/40dO8vPGa93ccLunHyN9cK"
-    },
-    {
-      "added_at": "2026-09-25 06:00:07",
-      "album": {
         "name": "Laberinto (Bosq Remix)",
         "url": "https://open.spotify.com/album/5vfciS3URPiFrOBnzSIy2k"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 224211,
       "name": "Laberinto - Bosq Remix",
       "url": "https://open.spotify.com/track/73EADOHLCpA5Fk4EM8vzO1"
+    },
+    {
+      "added_at": "2026-09-25 06:00:07",
+      "album": {
+        "name": "Satingarona Pt. 2",
+        "url": "https://open.spotify.com/album/1dZQRZHQUDcXHwZpKwZHF2"
+      },
+      "artists": [
+        {
+          "name": "The Bongo Hop",
+          "url": "https://open.spotify.com/artist/0vIM6xovGnCeWUNYR42Zsk"
+        },
+        {
+          "name": "Nidia Gongora",
+          "url": "https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8"
+        }
+      ],
+      "duration_ms": 327923,
+      "name": "Sonora",
+      "url": "https://open.spotify.com/track/40dO8vPGa93ccLunHyN9cK"
     },
     {
       "added_at": "2026-09-25 06:00:07",
@@ -999,6 +999,22 @@
     {
       "added_at": "2026-09-25 06:00:07",
       "album": {
+        "name": "\u00daltimos D\u00edas",
+        "url": "https://open.spotify.com/album/0djIGaaGS2IqwXOPO8bGj3"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 319933,
+      "name": "\u00daltimos D\u00edas",
+      "url": "https://open.spotify.com/track/4XHpwVBeG6b5blmdsBRPrk"
+    },
+    {
+      "added_at": "2026-09-25 06:00:07",
+      "album": {
         "name": "So\u00f1ando",
         "url": "https://open.spotify.com/album/5HDXllRh6Kyp0TWilBuDsr"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 186386,
       "name": "Amor De Verano",
       "url": "https://open.spotify.com/track/0ftQLiC3Whfsb3b6nWAoPK"
-    },
-    {
-      "added_at": "2026-09-25 06:00:07",
-      "album": {
-        "name": "\u00daltimos D\u00edas",
-        "url": "https://open.spotify.com/album/0djIGaaGS2IqwXOPO8bGj3"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 319933,
-      "name": "\u00daltimos D\u00edas",
-      "url": "https://open.spotify.com/track/4XHpwVBeG6b5blmdsBRPrk"
     },
     {
       "added_at": "2026-09-25 06:00:07",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-09-25 06:00:07",
       "album": {
-        "name": "French Samba",
-        "url": "https://open.spotify.com/album/4HY9SRfYRPhM0yNsOIlejt"
-      },
-      "artists": [
-        {
-          "name": "ASHA",
-          "url": "https://open.spotify.com/artist/0GKwVF8JH8RpfTUe3x6pyN"
-        }
-      ],
-      "duration_ms": 163181,
-      "name": "French Samba",
-      "url": "https://open.spotify.com/track/6wLK0SBUsxpfsl8XhxII7c"
-    },
-    {
-      "added_at": "2026-09-25 06:00:07",
-      "album": {
         "name": "Gar\u00faa (Sabor a Querer)",
         "url": "https://open.spotify.com/album/0XiN7T7kky8LzThoVwbgNO"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 222000,
       "name": "Gar\u00faa (Sabor a Querer)",
       "url": "https://open.spotify.com/track/39jlkB93dZvtx8RG0Zkhdc"
+    },
+    {
+      "added_at": "2026-09-25 06:00:07",
+      "album": {
+        "name": "French Samba",
+        "url": "https://open.spotify.com/album/4HY9SRfYRPhM0yNsOIlejt"
+      },
+      "artists": [
+        {
+          "name": "ASHA",
+          "url": "https://open.spotify.com/artist/0GKwVF8JH8RpfTUe3x6pyN"
+        }
+      ],
+      "duration_ms": 163181,
+      "name": "French Samba",
+      "url": "https://open.spotify.com/track/6wLK0SBUsxpfsl8XhxII7c"
     },
     {
       "added_at": "2026-09-25 06:00:07",
@@ -1471,42 +1471,6 @@
     {
       "added_at": "2026-09-25 06:00:07",
       "album": {
-        "name": "Agua",
-        "url": "https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        }
-      ],
-      "duration_ms": 230893,
-      "name": "Deja",
-      "url": "https://open.spotify.com/track/70um118ETgSKTghQNF9iEC"
-    },
-    {
-      "added_at": "2026-09-25 06:00:07",
-      "album": {
-        "name": "Pupilas Lejanas",
-        "url": "https://open.spotify.com/album/00vEFgnSrsj2EaiL9L06Cn"
-      },
-      "artists": [
-        {
-          "name": "Bahiano",
-          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
-        },
-        {
-          "name": "Muerdo",
-          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Pupilas Lejanas",
-      "url": "https://open.spotify.com/track/6tsPTremXK46tOWQfgjQXx"
-    },
-    {
-      "added_at": "2026-09-25 06:00:07",
-      "album": {
         "name": "Ll\u00e9vame",
         "url": "https://open.spotify.com/album/4MUmKDn5xEfGpBo2ihzTJM"
       },
@@ -1527,6 +1491,22 @@
     {
       "added_at": "2026-09-25 06:00:07",
       "album": {
+        "name": "Agua",
+        "url": "https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 230893,
+      "name": "Deja",
+      "url": "https://open.spotify.com/track/70um118ETgSKTghQNF9iEC"
+    },
+    {
+      "added_at": "2026-09-25 06:00:07",
+      "album": {
         "name": "Mojo",
         "url": "https://open.spotify.com/album/0SMSBq8yQiGXqultNvsRWy"
       },
@@ -1543,6 +1523,26 @@
       "duration_ms": 206284,
       "name": "Mojo",
       "url": "https://open.spotify.com/track/70NxnUV2P0uOus3V5eL9gs"
+    },
+    {
+      "added_at": "2026-09-25 06:00:07",
+      "album": {
+        "name": "Pupilas Lejanas",
+        "url": "https://open.spotify.com/album/00vEFgnSrsj2EaiL9L06Cn"
+      },
+      "artists": [
+        {
+          "name": "Bahiano",
+          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
+        },
+        {
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Pupilas Lejanas",
+      "url": "https://open.spotify.com/track/6tsPTremXK46tOWQfgjQXx"
     },
     {
       "added_at": "2026-09-25 06:00:07",
@@ -1647,26 +1647,22 @@
     {
       "added_at": "2026-09-25 06:00:07",
       "album": {
-        "name": "Porvenir",
-        "url": "https://open.spotify.com/album/26QGGhsiHOsXfCGpWwf9Dh"
+        "name": "R-A-B-I-A",
+        "url": "https://open.spotify.com/album/2l0v6JRCpZdnIRoe5AJn33"
       },
       "artists": [
         {
-          "name": "Sotomayor",
-          "url": "https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH"
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
         },
         {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        },
-        {
-          "name": "Tonga Conga",
-          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
+          "name": "Mula",
+          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
         }
       ],
-      "duration_ms": 180388,
-      "name": "Porvenir",
-      "url": "https://open.spotify.com/track/2LKZIwpZK8TwlTsmzBW6ZI"
+      "duration_ms": 185210,
+      "name": "No me opongo",
+      "url": "https://open.spotify.com/track/0k6JmVpT4JZrFz4SIIh0iS"
     },
     {
       "added_at": "2026-09-25 06:00:07",
@@ -1687,22 +1683,26 @@
     {
       "added_at": "2026-09-25 06:00:07",
       "album": {
-        "name": "R-A-B-I-A",
-        "url": "https://open.spotify.com/album/2l0v6JRCpZdnIRoe5AJn33"
+        "name": "Porvenir",
+        "url": "https://open.spotify.com/album/26QGGhsiHOsXfCGpWwf9Dh"
       },
       "artists": [
         {
-          "name": "CERO39",
-          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+          "name": "Sotomayor",
+          "url": "https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH"
         },
         {
-          "name": "Mula",
-          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "Tonga Conga",
+          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
         }
       ],
-      "duration_ms": 185210,
-      "name": "No me opongo",
-      "url": "https://open.spotify.com/track/0k6JmVpT4JZrFz4SIIh0iS"
+      "duration_ms": 180388,
+      "name": "Porvenir",
+      "url": "https://open.spotify.com/track/2LKZIwpZK8TwlTsmzBW6ZI"
     },
     {
       "added_at": "2026-09-25 06:00:07",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Alberto Vazquez 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,429 likes - 80 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,426 likes - 80 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,16 +37,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 27 | [La Perra](https://open.spotify.com/track/2l34uHM6mHVi6glzqRpk3y) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [La Perra](https://open.spotify.com/album/7bsNQ0GpPPiP7mRvOGsCzw) | 3:08 |
 | 28 | [Malagradecido](https://open.spotify.com/track/09GKeaFkvYFasYLWC0S0Fm) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV), [Los Horóscopos De Durango](https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid) | [Malagradecido](https://open.spotify.com/album/5krkvlcYYbvYnuiUVwDFa9) | 2:54 |
 | 29 | [Segunda Opción](https://open.spotify.com/track/0x4XZXxwOmAsbMCuAnIqpN) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Segunda Opción](https://open.spotify.com/album/3Y5wuyGo040iGF41w8Az6t) | 3:29 |
-| 30 | [Cielito Lindo \- Live](https://open.spotify.com/track/10pbth84T3pKmAwb6Pn9kU) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Cielito Lindo \(Live\)](https://open.spotify.com/album/1rxc2o8hqZEomeDpS7yD9B) | 3:26 |
-| 31 | [Dónde y Cuándo](https://open.spotify.com/track/4d31MVRPbQOgBs1BT9s9ea) | [Dayanara](https://open.spotify.com/artist/6HxyqkGDMKQmzp9OsI9e0Q) | [Dónde y Cuándo](https://open.spotify.com/album/3ZwteVEY5IEjLNwDSKyKzN) | 2:43 |
+| 30 | [Dónde y Cuándo](https://open.spotify.com/track/4d31MVRPbQOgBs1BT9s9ea) | [Dayanara](https://open.spotify.com/artist/6HxyqkGDMKQmzp9OsI9e0Q) | [Dónde y Cuándo](https://open.spotify.com/album/3ZwteVEY5IEjLNwDSKyKzN) | 2:43 |
+| 31 | [Cielito Lindo \- Live](https://open.spotify.com/track/10pbth84T3pKmAwb6Pn9kU) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Cielito Lindo \(Live\)](https://open.spotify.com/album/1rxc2o8hqZEomeDpS7yD9B) | 3:26 |
 | 32 | [⁠Cuatro Caminos](https://open.spotify.com/track/1yVjUAt8Jn2ZCwXpWJ8Ohp) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [La Nostalgia](https://open.spotify.com/album/3kX6Sov6xamwye4u7n5aJr) | 2:29 |
 | 33 | [Tu Eterno Enamorado](https://open.spotify.com/track/2Q5f4WrxWWdZgQybH6edxg) | [Osbaldo Lopez](https://open.spotify.com/artist/1BkSj4IPSrMfdLttjbYj0d) | [Tu Eterno Enamorado](https://open.spotify.com/album/1u0hzSTwrrbm5HbHOCAcDV) | 3:02 |
-| 34 | [Contigo Quiero \(A Caballo\)](https://open.spotify.com/track/0A0SUCIQPukRmRMHhCe52z) | [Reyli Barba](https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ) | [Contigo Quiero \(A Caballo\)](https://open.spotify.com/album/4EsebZYxCbdKCa8HHGmpL5) | 4:11 |
-| 35 | [Vives En Mí](https://open.spotify.com/track/5wWtNPiu1pd9jzdJ7MJqMm) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Vives En Mí](https://open.spotify.com/album/1vQADX1pnQEI17CjpAe5UQ) | 3:30 |
-| 36 | [Te Vi](https://open.spotify.com/track/5Y8frlGLc3QL2RftusJQwo) | [Fatima Campo](https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn) | [Endeble](https://open.spotify.com/album/1h1nLkBcMSHBbcRZuHss6Y) | 3:10 |
-| 37 | [Casí 16](https://open.spotify.com/track/1HnlNGgq9Y0tRJdh1jqz8i) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Casí 16](https://open.spotify.com/album/1RTYkT9Z40oP1lASdKEGhB) | 3:12 |
-| 38 | [Esclavo y Amo \- Live](https://open.spotify.com/track/7AudDJj0o5KPq1SZ4Vibqn) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Esclavo y Amo \(Live\)](https://open.spotify.com/album/6f3JaQoDmn2QWhcfzJERkE) | 3:18 |
-| 39 | [Se Me Acabó El Dinero](https://open.spotify.com/track/0Bg0GMvfDXvljuAaLLUMJJ) | [El As De La Sierra](https://open.spotify.com/artist/6uQMkB156uIN27tFar9qQl), [Leonel el Ranchero](https://open.spotify.com/artist/1DN5Y1Kdhvz5LCWe5n61p6) | [Se Me Acabó El Dinero](https://open.spotify.com/album/6fyYoTUPob7hoPx9Qtp7a7) | 2:58 |
+| 34 | [Vives En Mí](https://open.spotify.com/track/5wWtNPiu1pd9jzdJ7MJqMm) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Vives En Mí](https://open.spotify.com/album/1vQADX1pnQEI17CjpAe5UQ) | 3:30 |
+| 35 | [Contigo Quiero \(A Caballo\)](https://open.spotify.com/track/0A0SUCIQPukRmRMHhCe52z) | [Reyli Barba](https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ) | [Contigo Quiero \(A Caballo\)](https://open.spotify.com/album/4EsebZYxCbdKCa8HHGmpL5) | 4:11 |
+| 36 | [Casí 16](https://open.spotify.com/track/1HnlNGgq9Y0tRJdh1jqz8i) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Casí 16](https://open.spotify.com/album/1RTYkT9Z40oP1lASdKEGhB) | 3:12 |
+| 37 | [Te Vi](https://open.spotify.com/track/5Y8frlGLc3QL2RftusJQwo) | [Fatima Campo](https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn) | [Endeble](https://open.spotify.com/album/1h1nLkBcMSHBbcRZuHss6Y) | 3:10 |
+| 38 | [Se Me Acabó El Dinero](https://open.spotify.com/track/0Bg0GMvfDXvljuAaLLUMJJ) | [El As De La Sierra](https://open.spotify.com/artist/6uQMkB156uIN27tFar9qQl), [Leonel el Ranchero](https://open.spotify.com/artist/1DN5Y1Kdhvz5LCWe5n61p6) | [Se Me Acabó El Dinero](https://open.spotify.com/album/6fyYoTUPob7hoPx9Qtp7a7) | 2:58 |
+| 39 | [Esclavo y Amo \- Live](https://open.spotify.com/track/7AudDJj0o5KPq1SZ4Vibqn) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Esclavo y Amo \(Live\)](https://open.spotify.com/album/6f3JaQoDmn2QWhcfzJERkE) | 3:18 |
 | 40 | [Yo No Se Que Me Paso](https://open.spotify.com/track/3MNuURpGZTS9NvbNFZqWDO) | [Osbaldo Lopez](https://open.spotify.com/artist/1BkSj4IPSrMfdLttjbYj0d) | [Yo No Se Que Me Paso](https://open.spotify.com/album/2O8QiGKmYZ4wQuoL5EY9hk) | 4:48 |
 | 41 | [MIL RAZONES](https://open.spotify.com/track/2Wa2x4jWNGIyWWSc1vg0oa) | [Alexander Acha](https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh) | [MIL RAZONES](https://open.spotify.com/album/6iYxOAcJG12yCBuNrNY27x) | 2:56 |
 | 42 | [Vete](https://open.spotify.com/track/4XMpHNazONIhzh3hr2TQmF) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Vete](https://open.spotify.com/album/2MowOz3kjdjFX9zs8BgZvq) | 3:03 |

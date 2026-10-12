@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 
 > La playlist qui fait du bien ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,292 likes - 70 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,276 likes - 70 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 | 16 | [Some Kind Of High](https://open.spotify.com/track/4tVACv3zcfxSC4M1P43X9y) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Some Kind Of High](https://open.spotify.com/album/6prMnt4ighpUNRRqJU9Ofz) | 2:30 |
 | 17 | [Joy](https://open.spotify.com/track/4WOsZ7Rq8NmEiLpXM8Zvd5) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Joy](https://open.spotify.com/album/1XXUdRkbwKWm8hCcHLwdGl) | 3:34 |
 | 18 | [I Love Life \(feat\. RANI\)](https://open.spotify.com/track/79pT7sUpGnVQqjvlwM9sq8) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [I Love Life \(feat\. RANI\)](https://open.spotify.com/album/33cQtUeuBcXsUHoWuRoDlO) | 2:36 |
-| 19 | [Level Up](https://open.spotify.com/track/3zIIFXu5MthG98bX7mvx8Y) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [Level Up](https://open.spotify.com/album/0UXWjC9RsVw3RlWXqFPQf0) | 2:24 |
-| 20 | [Easy To Love](https://open.spotify.com/track/2qod3v3MbuBamYUZebS88U) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [Tom McFarland](https://open.spotify.com/artist/2Lk6Kznui3rNEKOhjGtwM7) | [Easy To Love](https://open.spotify.com/album/5dsGIAbn6byAl76d7O8F0S) | 3:19 |
+| 19 | [Easy To Love](https://open.spotify.com/track/2qod3v3MbuBamYUZebS88U) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [Tom McFarland](https://open.spotify.com/artist/2Lk6Kznui3rNEKOhjGtwM7) | [Easy To Love](https://open.spotify.com/album/5dsGIAbn6byAl76d7O8F0S) | 3:19 |
+| 20 | [Level Up](https://open.spotify.com/track/3zIIFXu5MthG98bX7mvx8Y) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [Level Up](https://open.spotify.com/album/0UXWjC9RsVw3RlWXqFPQf0) | 2:24 |
 | 21 | [lost](https://open.spotify.com/track/73hvoZggXDE0TGl0qqj1zo) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [lost](https://open.spotify.com/album/1FU8yl2KBTgZITcuQFlzSp) | 3:01 |
 | 22 | [Joven y Salvaje \(with Bb trickz\)](https://open.spotify.com/track/2NyVUkfya4KZDw5qd4qWeZ) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [Joven y Salvaje \(with Bb trickz\)](https://open.spotify.com/album/7FfZfslQwa0TUrQkRFqeKk) | 2:02 |
 | 23 | [Boogie's in My Soul](https://open.spotify.com/track/3auasA1oQjH9hXr5Ux72Sk) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Boogie's in My Soul](https://open.spotify.com/album/58mYTAij5IQXuuDo3ojhTQ) | 3:42 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 | 69 | [folding chairs on the moon](https://open.spotify.com/track/6kU8m88hdo7QyQ1EPqBQVF) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [folding chairs on the moon](https://open.spotify.com/album/3pNeAqZF4s1icAo94ovwOc) | 3:20 |
 | 70 | [Eden](https://open.spotify.com/track/5jFiIiqGyS35QMov2WvFaT) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Eden](https://open.spotify.com/album/1PIpblTFI5xO71o0SWj5Ca) | 4:07 |
 
-Snapshot ID: `AAAAABJ43GaYWhYjLowC+V9KO1udN1Xx`
+Snapshot ID: `AAAAAAYKFl/MkG/T4vDpmQ6L45gKPKW6`

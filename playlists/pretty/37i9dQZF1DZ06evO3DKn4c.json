@@ -1,6 +1,6 @@
 {
   "description": "This is Black Alien. The essential tracks, all in one playlist.",
-  "num_followers": 42437,
+  "num_followers": 42436,
   "original_name": "This Is Black Alien",
   "owner": {
     "name": "Spotify",
@@ -307,34 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FRAGMENTADO",
-        "url": "https://open.spotify.com/album/5PP4dIofBUIsPc1M6Mws9c"
-      },
-      "artists": [
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        },
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        },
-        {
-          "name": "Gustah",
-          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
-        }
-      ],
-      "duration_ms": 178948,
-      "name": "TOCA NO MORRO E NA PISTA",
-      "url": "https://open.spotify.com/track/3oezMGNZJd9WVQNl2qMXyJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "JAH-VAN",
         "url": "https://open.spotify.com/album/6jPDVtAx9fIrwS6KKTWYDO"
       },
@@ -359,6 +331,34 @@
       "duration_ms": 284466,
       "name": "Meu Bem Querer - JAH-VAN",
       "url": "https://open.spotify.com/track/2FlIG6qvcKd73lqqedlgEX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FRAGMENTADO",
+        "url": "https://open.spotify.com/album/5PP4dIofBUIsPc1M6Mws9c"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        },
+        {
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+        }
+      ],
+      "duration_ms": 178948,
+      "name": "TOCA NO MORRO E NA PISTA",
+      "url": "https://open.spotify.com/track/3oezMGNZJd9WVQNl2qMXyJ"
     },
     {
       "added_at": null,
@@ -679,6 +679,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "BASEADO EM FATOS REAIS: 30 ANOS DE FUMA\u00c7A (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7MFlfX1nH78XBjiSnHcTew"
+      },
+      "artists": [
+        {
+          "name": "Planet Hemp",
+          "url": "https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU"
+        },
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 53488,
+      "name": "DEISDAZSEIS - Ao Vivo",
+      "url": "https://open.spotify.com/track/3IcmVwyD3LKYE23vsuoTU4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bambas & Biritas, Vol. 1",
         "url": "https://open.spotify.com/album/6VXrWuih63rlLPkWHI0Lqa"
       },
@@ -699,26 +719,6 @@
       "duration_ms": 307253,
       "name": "Na Noite Se Resolve",
       "url": "https://open.spotify.com/track/0LudrxIEUQT7P2f8DkBfDU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BASEADO EM FATOS REAIS: 30 ANOS DE FUMA\u00c7A (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7MFlfX1nH78XBjiSnHcTew"
-      },
-      "artists": [
-        {
-          "name": "Planet Hemp",
-          "url": "https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU"
-        },
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 53488,
-      "name": "DEISDAZSEIS - Ao Vivo",
-      "url": "https://open.spotify.com/track/3IcmVwyD3LKYE23vsuoTU4"
     },
     {
       "added_at": null,
@@ -755,42 +755,6 @@
       "duration_ms": 154413,
       "name": "O RITMO E A RAIVA",
       "url": "https://open.spotify.com/track/4jYaCHJA2Kuu7ETTdBN3Lf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "300",
-        "url": "https://open.spotify.com/album/3YH7cVQKsWvxM5Aa6HirtJ"
-      },
-      "artists": [
-        {
-          "name": "Costa Gold",
-          "url": "https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        },
-        {
-          "name": "Menestrel",
-          "url": "https://open.spotify.com/artist/3P3lkDIOlpOLZAk3dcjf2i"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Marechal",
-          "url": "https://open.spotify.com/artist/2CUoA5eNl575NSKMDwy9Ej"
-        },
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 420674,
-      "name": "Feeling",
-      "url": "https://open.spotify.com/track/3qMZllzbXn78eELMyhAdDv"
     },
     {
       "added_at": null,
@@ -835,6 +799,42 @@
       "duration_ms": 331776,
       "name": "Sinto Muito Baby",
       "url": "https://open.spotify.com/track/5dWnzsv1zr2H7howC8wKKV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "300",
+        "url": "https://open.spotify.com/album/3YH7cVQKsWvxM5Aa6HirtJ"
+      },
+      "artists": [
+        {
+          "name": "Costa Gold",
+          "url": "https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "Menestrel",
+          "url": "https://open.spotify.com/artist/3P3lkDIOlpOLZAk3dcjf2i"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Marechal",
+          "url": "https://open.spotify.com/artist/2CUoA5eNl575NSKMDwy9Ej"
+        },
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 420674,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/3qMZllzbXn78eELMyhAdDv"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "This is John Lee Hooker. The essential tracks, all in one playlist.",
-  "num_followers": 52859,
+  "num_followers": 52869,
   "original_name": "This Is John Lee Hooker",
   "owner": {
     "name": "Spotify",
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Person",
-        "url": "https://open.spotify.com/album/6u1wI0W4YkfqmBE61nSeKz"
+        "name": "Urban Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         }
       ],
-      "duration_ms": 212120,
-      "name": "It Serves Me Right",
-      "url": "https://open.spotify.com/track/4a0RlE6Mde0N59OLuBQn42"
+      "duration_ms": 123800,
+      "name": "Think Twice Before You Go",
+      "url": "https://open.spotify.com/track/2IV2NdDBpCUhKmmIT841Po"
     },
     {
       "added_at": null,
@@ -271,8 +271,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Urban Blues (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x"
+        "name": "In Person",
+        "url": "https://open.spotify.com/album/6u1wI0W4YkfqmBE61nSeKz"
       },
       "artists": [
         {
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         }
       ],
-      "duration_ms": 123800,
-      "name": "Think Twice Before You Go",
-      "url": "https://open.spotify.com/track/2IV2NdDBpCUhKmmIT841Po"
+      "duration_ms": 212120,
+      "name": "It Serves Me Right",
+      "url": "https://open.spotify.com/track/4a0RlE6Mde0N59OLuBQn42"
     },
     {
       "added_at": null,
@@ -323,22 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chill Out",
-        "url": "https://open.spotify.com/album/1gHlGo1eKQl5ppd7pdihNy"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 319693,
-      "name": "Annie Mae - 2007 - Remaster",
-      "url": "https://open.spotify.com/track/4L7cUoSuj5zjZ96x9YcUYI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Urban Blues (Expanded Edition)",
         "url": "https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 158800,
       "name": "Cry Before I Go",
       "url": "https://open.spotify.com/track/7jskfadkwgveJrlF3KNqbb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chill Out",
+        "url": "https://open.spotify.com/album/1gHlGo1eKQl5ppd7pdihNy"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 319693,
+      "name": "Annie Mae - 2007 - Remaster",
+      "url": "https://open.spotify.com/track/4L7cUoSuj5zjZ96x9YcUYI"
     },
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Real Folk Blues: The Missing Album",
-        "url": "https://open.spotify.com/album/5lwxL0qai9arfOIorpQL11"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 208800,
-      "name": "I Can't Quit You Baby",
-      "url": "https://open.spotify.com/track/1RgxsdVXU33n2po7sFdMHD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Whiskey & Wimmen: John Lee Hooker's Finest",
         "url": "https://open.spotify.com/album/2IREyf1bkFTWuZMCayQ5V7"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 148013,
       "name": "I Need Some Money",
       "url": "https://open.spotify.com/track/4SjUzT00ytvjmhpd2LaWDo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "More Real Folk Blues: The Missing Album",
+        "url": "https://open.spotify.com/album/5lwxL0qai9arfOIorpQL11"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 208800,
+      "name": "I Can't Quit You Baby",
+      "url": "https://open.spotify.com/track/1RgxsdVXU33n2po7sFdMHD"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Endless Boogie",
-        "url": "https://open.spotify.com/album/0MMLYQDdCJ3niwUmG1FJS5"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 211533,
-      "name": "Doin' The Shout",
-      "url": "https://open.spotify.com/track/2Rmw5jvEl6kiHVUFQJanZN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Half A Stranger Vol 1",
         "url": "https://open.spotify.com/album/1UKljueptyRlVnuHNYNJOe"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 183706,
       "name": "Hobo Blues",
       "url": "https://open.spotify.com/track/15u5oLagRuxJUNebO6mpgX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Endless Boogie",
+        "url": "https://open.spotify.com/album/0MMLYQDdCJ3niwUmG1FJS5"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 211533,
+      "name": "Doin' The Shout",
+      "url": "https://open.spotify.com/track/2Rmw5jvEl6kiHVUFQJanZN"
     },
     {
       "added_at": null,

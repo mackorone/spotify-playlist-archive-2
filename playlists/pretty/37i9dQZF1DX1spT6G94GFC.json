@@ -1,6 +1,6 @@
 {
   "description": "These songs rocked the 80s.",
-  "num_followers": 4100995,
+  "num_followers": 4101125,
   "original_name": "80s Rock Anthems",
   "owner": {
     "name": "Spotify",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-09-13 16:58:23",
       "album": {
-        "name": "Survivor Greatest Hits",
-        "url": "https://open.spotify.com/album/2wBiw6c2bGb4c9pnRdHw6X"
-      },
-      "artists": [
-        {
-          "name": "Survivor",
-          "url": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
-        }
-      ],
-      "duration_ms": 230106,
-      "name": "Burning Heart - From \"Rocky IV\" Soundtrack",
-      "url": "https://open.spotify.com/track/2VN7uPrbryJ7nE2MXX3f9a"
-    },
-    {
-      "added_at": "2024-09-13 16:58:23",
-      "album": {
         "name": "Open Up And Say...Ahh! (20th Anniversary Edition)",
         "url": "https://open.spotify.com/album/2AMWVB3FWknjcMeb6hMZnd"
       },
@@ -699,18 +683,18 @@
     {
       "added_at": "2024-09-13 16:58:23",
       "album": {
-        "name": "Brothers in Arms",
-        "url": "https://open.spotify.com/album/7jvcSnCnugLcisBCNBm60s"
+        "name": "Survivor Greatest Hits",
+        "url": "https://open.spotify.com/album/2wBiw6c2bGb4c9pnRdHw6X"
       },
       "artists": [
         {
-          "name": "Dire Straits",
-          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+          "name": "Survivor",
+          "url": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
         }
       ],
-      "duration_ms": 506400,
-      "name": "Money for Nothing",
-      "url": "https://open.spotify.com/track/4yqtwO7MQIIXqoiRBPHAgR"
+      "duration_ms": 230106,
+      "name": "Burning Heart - From \"Rocky IV\" Soundtrack",
+      "url": "https://open.spotify.com/track/2VN7uPrbryJ7nE2MXX3f9a"
     },
     {
       "added_at": "2024-09-13 16:58:23",
@@ -727,6 +711,22 @@
       "duration_ms": 393666,
       "name": "Shout",
       "url": "https://open.spotify.com/track/2gQaQUhDCNGfBVXTvxAmXQ"
+    },
+    {
+      "added_at": "2024-09-13 16:58:23",
+      "album": {
+        "name": "Brothers in Arms",
+        "url": "https://open.spotify.com/album/7jvcSnCnugLcisBCNBm60s"
+      },
+      "artists": [
+        {
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+        }
+      ],
+      "duration_ms": 506400,
+      "name": "Money for Nothing",
+      "url": "https://open.spotify.com/track/4yqtwO7MQIIXqoiRBPHAgR"
     },
     {
       "added_at": "2024-09-13 16:58:23",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-09-13 16:58:23",
       "album": {
-        "name": "The Game (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 214653,
-      "name": "Another One Bites The Dust - Remastered 2011",
-      "url": "https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J"
-    },
-    {
-      "added_at": "2024-09-13 16:58:23",
-      "album": {
         "name": "Flesh & Blood",
         "url": "https://open.spotify.com/album/7alngtync76VqYWSKxcBhB"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 228066,
       "name": "Unskinny Bop",
       "url": "https://open.spotify.com/track/1Z6lKdYhwp8WYoBqGCKxlM"
+    },
+    {
+      "added_at": "2024-09-13 16:58:23",
+      "album": {
+        "name": "The Game (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 214653,
+      "name": "Another One Bites The Dust - Remastered 2011",
+      "url": "https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J"
     },
     {
       "added_at": "2024-09-13 16:58:23",

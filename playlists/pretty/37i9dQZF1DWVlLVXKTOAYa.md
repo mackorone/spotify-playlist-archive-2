@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlLVXKTOAYa.md) - [plain]
 
 > The most interesting tracks in the current world of pop music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,155,485 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,155,383 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,15 +62,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlLVXKTOAYa.md) - [plain]
 | 52 | [Old Phone](https://open.spotify.com/track/2QxviKpVdEXKDWs706MUZB) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Old Phone](https://open.spotify.com/album/002MjQVkI2aHS733fGjj3S) | 3:41 |
 | 53 | [Pretty Ugly](https://open.spotify.com/track/0lWcOHxfnxj1GlVr4zpnyD) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Pretty Ugly](https://open.spotify.com/album/2RpD5PXqz86sdgk9T0nhuc) | 2:38 |
 | 54 | [MILLION PLACES](https://open.spotify.com/track/4HJNGbmQomaeZoh6aOYDIT) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [MILLION PLACES](https://open.spotify.com/album/5JAV9kfx7bcxgdJFFfdHd4) | 3:24 |
-| 55 | [Need You More](https://open.spotify.com/track/6Vm9qOpIk6m1MgLCFi2Wro) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Complete Edition\)](https://open.spotify.com/album/6LF3BvWhKsiGgiG1yymOZT) | 3:10 |
-| 56 | [Die For Me](https://open.spotify.com/track/15tkKpcwBE3XJhaBdLPBKJ) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Die For Me](https://open.spotify.com/album/3sEuskgtxTNNvdJAsMk9kG) | 3:00 |
-| 57 | [Funeral](https://open.spotify.com/track/3KcmK26eTYJ3Rz1Vb8qs5Z) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Funeral](https://open.spotify.com/album/2VoAHTnvBelhAFvUPN1Ghm) | 4:03 |
-| 58 | [Headphones On](https://open.spotify.com/track/1efXUbx5gsLd2sqjszBtx1) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Headphones On](https://open.spotify.com/album/7f72kJL3HyP6q6wW7Zvayn) | 4:00 |
+| 55 | [Die For Me](https://open.spotify.com/track/15tkKpcwBE3XJhaBdLPBKJ) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Die For Me](https://open.spotify.com/album/3sEuskgtxTNNvdJAsMk9kG) | 3:00 |
+| 56 | [Need You More](https://open.spotify.com/track/6Vm9qOpIk6m1MgLCFi2Wro) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Complete Edition\)](https://open.spotify.com/album/6LF3BvWhKsiGgiG1yymOZT) | 3:10 |
+| 57 | [Headphones On](https://open.spotify.com/track/1efXUbx5gsLd2sqjszBtx1) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Headphones On](https://open.spotify.com/album/7f72kJL3HyP6q6wW7Zvayn) | 4:00 |
+| 58 | [Funeral](https://open.spotify.com/track/3KcmK26eTYJ3Rz1Vb8qs5Z) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Funeral](https://open.spotify.com/album/2VoAHTnvBelhAFvUPN1Ghm) | 4:03 |
 | 59 | [Kiss It Kiss It](https://open.spotify.com/track/0kvklDSNAkcENUPfEvQNvC) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 2:52 |
 | 60 | [All I Know \(with Khalid\)](https://open.spotify.com/track/2rgWhlzASxN4MKk7c3RAGP) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [All I Know \(with Khalid\)](https://open.spotify.com/album/1TNPKEmo5TSj8NpXpDgMsf) | 2:56 |
 | 61 | [boom](https://open.spotify.com/track/6zhyXTuRkMSabSHvmMchpp) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [boom](https://open.spotify.com/album/2F9Hj91XXDt5FRvJyyLG6X) | 2:43 |
-| 62 | [Silver Lining](https://open.spotify.com/track/4kfXaAAZlfBrimPJYHlCEM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Silver Lining](https://open.spotify.com/album/0jAVa8PcQSqGTFIXVyxFoy) | 3:17 |
-| 63 | [Gold](https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute, A Moment...](https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj) | 2:44 |
+| 62 | [Gold](https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute, A Moment...](https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj) | 2:44 |
+| 63 | [Silver Lining](https://open.spotify.com/track/4kfXaAAZlfBrimPJYHlCEM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Silver Lining](https://open.spotify.com/album/0jAVa8PcQSqGTFIXVyxFoy) | 3:17 |
 | 64 | [Past Won't Leave My Bed](https://open.spotify.com/track/0DTSnA1bcVI5niJzoyBPyZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Past Won't Leave My Bed](https://open.spotify.com/album/5JJpyK4SILx6UXJBiT1twN) | 2:46 |
 | 65 | [Bluest Flame](https://open.spotify.com/track/41goAg1ZxePWjXXfZ7PhG7) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First](https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR) | 2:42 |
 | 66 | [Orbit](https://open.spotify.com/track/6LBMBIzdGj4RKhJeTcTBjr) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Fools Gold](https://open.spotify.com/album/2jYLzXEZ5ki5itbFQhADAV) | 3:12 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlLVXKTOAYa.md) - [plain]
 | 71 | [Fast](https://open.spotify.com/track/0o7fAE9dLRLx4kGMh3QFot) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Fast](https://open.spotify.com/album/5Gxs3DFHTwi9yeE5Uj64uI) | 3:01 |
 | 72 | [Can’t Get Enough](https://open.spotify.com/track/6zY829UlOMYoOIULHiGIZz) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [Can’t Get Enough](https://open.spotify.com/album/3AjPHQqgkjcqwhpRxwiFP2) | 2:45 |
 | 73 | [Pookie](https://open.spotify.com/track/6vw9OTw8rBhatDSdlxVIuF) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Day & Night](https://open.spotify.com/album/087SnCtQCK0szSftQ2KYTF) | 2:32 |
-| 74 | [All Night](https://open.spotify.com/track/6Qs5f4GnWPnKM0vTK8LdUI) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [All Night](https://open.spotify.com/album/1xQ8Rh75TdIzj9sIK4mzGD) | 2:45 |
-| 75 | [Hemingway](https://open.spotify.com/track/1BBVsOxgQ2soUs87ypiMZH) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Hemingway](https://open.spotify.com/album/3JKMx86ymxWRpnBhmbBAus) | 3:16 |
+| 74 | [Hemingway](https://open.spotify.com/track/1BBVsOxgQ2soUs87ypiMZH) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Hemingway](https://open.spotify.com/album/3JKMx86ymxWRpnBhmbBAus) | 3:16 |
+| 75 | [All Night](https://open.spotify.com/track/6Qs5f4GnWPnKM0vTK8LdUI) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [All Night](https://open.spotify.com/album/1xQ8Rh75TdIzj9sIK4mzGD) | 2:45 |
 | 76 | [Let's Ride Away](https://open.spotify.com/track/4tdSojwmf4vNZMWS6HcQWb) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Avicii Forever](https://open.spotify.com/album/5VPw18vPykfaX5s3jiS0Ox) | 2:53 |
 | 77 | [This Song](https://open.spotify.com/track/2k6FKrR0wDIs6xCtU51GZ7) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [This Song](https://open.spotify.com/album/5PawlLnqcZnrqiAEDLwH2G) | 3:33 |
 | 78 | [Momma Song](https://open.spotify.com/track/2TOEn8TnvwiQgwZdqVtfH5) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Momma Song](https://open.spotify.com/album/6kJgAmZWR69446e3gVZbxE) | 3:17 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlLVXKTOAYa.md) - [plain]
 | 80 | [Hello My Old Lover](https://open.spotify.com/track/2ZMetkVW6HlEE5T0Paei2Z) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Hello My Old Lover](https://open.spotify.com/album/576OBHrTMTv0uNbSrCZQHp) | 3:09 |
 | 81 | [Saddle Again](https://open.spotify.com/track/0lD78Oo18JztVRHK8GyFXR) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Nobody Wants This Season 2: The Soundtrack](https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe) | 2:56 |
 | 82 | [Dancer](https://open.spotify.com/track/04v7ZYv0TQHluugW9Tzccy) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Dancer](https://open.spotify.com/album/21WB3xmAukyafQysJdV8C9) | 3:00 |
-| 83 | [Whateverrrr](https://open.spotify.com/track/7rmqj2wCUD7rmeFLrcEfNC) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [If That Makes Sense](https://open.spotify.com/album/7G31WimJFKHnf53ZwtKUXn) | 2:58 |
-| 84 | [i guess u never really cared about me](https://open.spotify.com/track/2hyyp0mZc5QFY5YQeyv7oP) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i guess u never really cared about me](https://open.spotify.com/album/7CHoqxYsAtC7YZZDa1t95z) | 3:11 |
+| 83 | [i guess u never really cared about me](https://open.spotify.com/track/2hyyp0mZc5QFY5YQeyv7oP) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i guess u never really cared about me](https://open.spotify.com/album/7CHoqxYsAtC7YZZDa1t95z) | 3:11 |
+| 84 | [Whateverrrr](https://open.spotify.com/track/7rmqj2wCUD7rmeFLrcEfNC) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [If That Makes Sense](https://open.spotify.com/album/7G31WimJFKHnf53ZwtKUXn) | 2:58 |
 | 85 | [Gucci Mane](https://open.spotify.com/track/4uK4BCS6H19pOAknY1qj0K) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Gucci Mane](https://open.spotify.com/album/6ixnfAvvM9Wdjb0hEPIUIW) | 2:46 |
 | 86 | [SOS](https://open.spotify.com/track/3jGIqKgMsSAx7KAdDqWvjF) | [George Alice](https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL) | [SOS](https://open.spotify.com/album/5IynLYV3MapaGkcVNAezlt) | 2:51 |
 | 87 | [CUNTISSIMO](https://open.spotify.com/track/3a9P1PqOV6gr4A9ywDZ7mg) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [CUNTISSIMO](https://open.spotify.com/album/0Y25OO4Whcw7FLJkhdJSKq) | 4:00 |

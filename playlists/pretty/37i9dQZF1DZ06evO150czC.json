@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asbdAAAAAADz2rkY2P+uT093jb3x2mLF",
+  "snapshot_id": "asgugAAAAAAZxilJAqm8eGqp8I4igtdb",
   "tracks": [
     {
       "added_at": null,
@@ -407,26 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Posso Clamar + N\u00e3o Pare (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1FOnoSgx0KWPzCFzniMiLH"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 381280,
-      "name": "Posso Clamar + N\u00e3o Pare (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2aduecse2bIIWbGr1mKlAO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sarah Farias (Ao Vivo) - Live MK 10 MI",
         "url": "https://open.spotify.com/album/0xXezrYxjC5yA7X5i7jiNG"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 281983,
       "name": "Sobrevivi - Live MK 10 MI",
       "url": "https://open.spotify.com/track/2AhWt8NoWzWQOlIj1Ko95B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Posso Clamar + N\u00e3o Pare (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1FOnoSgx0KWPzCFzniMiLH"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 381280,
+      "name": "Posso Clamar + N\u00e3o Pare (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2aduecse2bIIWbGr1mKlAO"
     },
     {
       "added_at": null,
@@ -535,54 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Midian Lima (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 333067,
-      "name": "O Rei Est\u00e1 Voltando (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6zB5D61eW6SxQWGXn8jzle"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vai Ter Vida A\u00ed",
-        "url": "https://open.spotify.com/album/1ZozrNvdcx0F6vmowuIuiX"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 270512,
-      "name": "Vai Ter Vida A\u00ed",
-      "url": "https://open.spotify.com/track/4mQ6f7PV6XaCDRzMtZFoZq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "N\u00e3o Pare",
-        "url": "https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 275853,
-      "name": "Grande Dia",
-      "url": "https://open.spotify.com/track/5FdWIIivMbJHD7eAY6FtBB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Enquanto a Igreja Ora (Ao Vivo)",
         "url": "https://open.spotify.com/album/6YRM1eHk7l5y80liFJCdOr"
       },
@@ -603,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quem Me Tocou (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3NISHwhL3IJcTfETLbsvK2"
+        "name": "Midian Lima (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi"
       },
       "artists": [
         {
@@ -612,15 +564,15 @@
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 293030,
-      "name": "Quem Me Tocou (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6vonokUeMLYePK8oznQMCD"
+      "duration_ms": 333067,
+      "name": "O Rei Est\u00e1 Voltando (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6zB5D61eW6SxQWGXn8jzle"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Milagre",
-        "url": "https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R"
+        "name": "N\u00e3o Pare",
+        "url": "https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM"
       },
       "artists": [
         {
@@ -628,15 +580,15 @@
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 220589,
-      "name": "Jesus N\u00e3o Esqueceu de Voc\u00ea",
-      "url": "https://open.spotify.com/track/6IuN3ae4pAmPXJNsr6p1rj"
+      "duration_ms": 275853,
+      "name": "Grande Dia",
+      "url": "https://open.spotify.com/track/5FdWIIivMbJHD7eAY6FtBB"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Midian Lima Live Session",
-        "url": "https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr"
+        "name": "Vai Ter Vida A\u00ed",
+        "url": "https://open.spotify.com/album/1ZozrNvdcx0F6vmowuIuiX"
       },
       "artists": [
         {
@@ -644,41 +596,9 @@
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 229552,
-      "name": "Jesus n\u00e3o se esqueceu de voc\u00ea",
-      "url": "https://open.spotify.com/track/7zvrd90Kxt7ueDJvMqjMuL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Rei da Gl\u00f3ria (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3PrVbs7hzBdR760BHcO1qW"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 327534,
-      "name": "O Rei da Gl\u00f3ria (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0Mw9rQpLgrucUSCZU8H5cs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reescreve a Minha Hist\u00f3ria (Ao Vivo)",
-        "url": "https://open.spotify.com/album/58XvmnEv0FeuIPOm9J24It"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 289598,
-      "name": "Reescreve a Minha Hist\u00f3ria (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5ASFmAqQWs1vLMkfHBeNPN"
+      "duration_ms": 270512,
+      "name": "Vai Ter Vida A\u00ed",
+      "url": "https://open.spotify.com/track/4mQ6f7PV6XaCDRzMtZFoZq"
     },
     {
       "added_at": null,
@@ -699,6 +619,70 @@
     {
       "added_at": null,
       "album": {
+        "name": "Midian Lima Live Session",
+        "url": "https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 229552,
+      "name": "Jesus n\u00e3o se esqueceu de voc\u00ea",
+      "url": "https://open.spotify.com/track/7zvrd90Kxt7ueDJvMqjMuL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quem Me Tocou (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3NISHwhL3IJcTfETLbsvK2"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 293030,
+      "name": "Quem Me Tocou (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6vonokUeMLYePK8oznQMCD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Rei da Gl\u00f3ria (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3PrVbs7hzBdR760BHcO1qW"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 327534,
+      "name": "O Rei da Gl\u00f3ria (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0Mw9rQpLgrucUSCZU8H5cs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Milagre",
+        "url": "https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 220589,
+      "name": "Jesus N\u00e3o Esqueceu de Voc\u00ea",
+      "url": "https://open.spotify.com/track/6IuN3ae4pAmPXJNsr6p1rj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "O Melhor Pra Ti",
         "url": "https://open.spotify.com/album/6d2Zx3I2bl97lhQAl2m2dd"
       },
@@ -715,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Reescreve a Minha Hist\u00f3ria (Ao Vivo)",
+        "url": "https://open.spotify.com/album/58XvmnEv0FeuIPOm9J24It"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 289598,
+      "name": "Reescreve a Minha Hist\u00f3ria (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5ASFmAqQWs1vLMkfHBeNPN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "N\u00e3o Pare",
         "url": "https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM"
       },
@@ -727,22 +727,6 @@
       "duration_ms": 276456,
       "name": "O Pre\u00e7o Foi de Sangue",
       "url": "https://open.spotify.com/track/7xjM5HubCVLFcgfRCCDO7U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Midian Lima Live Session",
-        "url": "https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 243112,
-      "name": "O Poder do Sangue",
-      "url": "https://open.spotify.com/track/46hfcKPBhqemiyit7rH7ap"
     },
     {
       "added_at": null,
@@ -783,6 +767,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Midian Lima Live Session",
+        "url": "https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 243112,
+      "name": "O Poder do Sangue",
+      "url": "https://open.spotify.com/track/46hfcKPBhqemiyit7rH7ap"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eu Creio (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3sl8u53yQIpRQ5mj26brdI"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        },
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 321574,
+      "name": "Eu Creio (Ao Vivo)",
+      "url": "https://open.spotify.com/track/7EgXcH7sYVoWdaqkVF9FFr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Escolhidas",
         "url": "https://open.spotify.com/album/4ull6HOMUtcjs9hhlOb3YC"
       },
@@ -807,26 +827,6 @@
       "duration_ms": 247756,
       "name": "Escolhidas",
       "url": "https://open.spotify.com/track/67iZyjUMkdGl8RSXsXaYET"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eu Creio (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3sl8u53yQIpRQ5mj26brdI"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        },
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 321574,
-      "name": "Eu Creio (Ao Vivo)",
-      "url": "https://open.spotify.com/track/7EgXcH7sYVoWdaqkVF9FFr"
     },
     {
       "added_at": null,

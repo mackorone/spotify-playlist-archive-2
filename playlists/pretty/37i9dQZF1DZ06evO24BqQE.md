@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24BqQE.md) - [plain]
 
 > This is BNXN\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,681 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,731 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24BqQE.md) - [plain]
 | 49 | [Loose Emotions](https://open.spotify.com/track/6PAHjYMVquDNSYAA8nvgkd) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Bad Since '97](https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio) | 2:45 |
 | 50 | [Traboski](https://open.spotify.com/track/2woGTVY8Vx46aYuXfMmwwE) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Traboski](https://open.spotify.com/album/7A0qUYFzVQZGI6IcFebIiN) | 2:35 |
 
-Snapshot ID: `asgugAAAAAD571vAk+O4AFtwfRFEskDP`
+Snapshot ID: `asmAAAAAAADCjFxRxkka//nVASZXUtwN`

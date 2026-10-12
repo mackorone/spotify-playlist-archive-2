@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/48Q13iE86Fuum0tHaLrfoq">Joel Little</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,548 likes - 182 songs - 10 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,547 likes - 182 songs - 10 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 81 | [intimate moments](https://open.spotify.com/track/5nWjUNo9bEAyXUgu9GbQLP) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [evil twin](https://open.spotify.com/album/0veq4sEuFjopH21yI3u7QH) | 3:30 |
 | 82 | [The Greatest](https://open.spotify.com/track/2nyO4biHF67KoEqUJYDWxn) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Delirium \(Deluxe\)](https://open.spotify.com/album/20Ol6zZ0nLlc5EGTH1zA0j) | 3:31 |
 | 83 | [Paradise](https://open.spotify.com/track/5xeajK82i4dxlzzM56moef) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Delirium \(Deluxe\)](https://open.spotify.com/album/20Ol6zZ0nLlc5EGTH1zA0j) | 3:44 |
-| 84 | [Everytime](https://open.spotify.com/track/2q2jR9QQKo3aaGX74nR0di) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Evergreen](https://open.spotify.com/album/0HrAEwPOV0brDG0wvTWXUB) | 3:41 |
-| 85 | [Don't Say That](https://open.spotify.com/track/7ncgSRdJ2GFM2EyJhKMSFs) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Kicking My Feet & Screaming](https://open.spotify.com/album/7tuCSmaWXzKkddysic3dvS) | 3:30 |
+| 84 | [Don't Say That](https://open.spotify.com/track/7ncgSRdJ2GFM2EyJhKMSFs) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Kicking My Feet & Screaming](https://open.spotify.com/album/7tuCSmaWXzKkddysic3dvS) | 3:30 |
+| 85 | [Everytime](https://open.spotify.com/track/2q2jR9QQKo3aaGX74nR0di) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Evergreen](https://open.spotify.com/album/0HrAEwPOV0brDG0wvTWXUB) | 3:41 |
 | 86 | [Mistaken](https://open.spotify.com/track/7FWBpcfcsWhlfpcE2xomDr) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Sunshine Kitty](https://open.spotify.com/album/5kaCqETtik8oE7M9D8wxrW) | 2:56 |
 | 87 | [Just A Little Bit](https://open.spotify.com/track/7bWmqzwKg2sYa7Ft996MR1) | [Kids Of 88](https://open.spotify.com/artist/4XLDU2AQL3oFnd27IMcNqY) | [Sugarpills](https://open.spotify.com/album/0DFO84aF9tQ6zcHXGHqJtg) | 3:00 |
 | 88 | [Recovery](https://open.spotify.com/track/5Tzum6abyRqlGk0dElTwoL) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Conscious](https://open.spotify.com/album/61RfrwKu6wJmaZYh3xt0mF) | 3:58 |
@@ -114,8 +114,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 104 | [Okay](https://open.spotify.com/track/4fdo8V4TLA1aonfI4NxFjE) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Awake](https://open.spotify.com/album/6Jwpxghteb64iHg6ftMnNo) | 3:53 |
 | 105 | [Pretty](https://open.spotify.com/track/1X2npDWQpg9lvM8MOw2mqm) | [Terror Jr](https://open.spotify.com/artist/5QatamYwvUTOmMHW6WA0AG) | [Unfortunately, Terror Jr](https://open.spotify.com/album/6b2KfLOzzs3nOKKaPbi47J) | 3:15 |
 | 106 | [Muscle](https://open.spotify.com/track/1CVh1re4QmrSmZ47cDiwz3) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Night Call \(Deluxe\)](https://open.spotify.com/album/5JnUGpLYBxqEDuot5vlfSC) | 3:07 |
-| 107 | [Therapy](https://open.spotify.com/track/0aHtbFNZz1XOi8KfZcyS4A) | [Brooke Fraser](https://open.spotify.com/artist/1W2FTsCUlviVRhHNjZwWiN) | [A Sides](https://open.spotify.com/album/44jqZY3DRBmZE1tCrQScbT) | 3:20 |
-| 108 | [Worth The Fight](https://open.spotify.com/track/3Exd6fFMpHMbsSzWd5NHvk) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Conscious](https://open.spotify.com/album/61RfrwKu6wJmaZYh3xt0mF) | 4:03 |
+| 107 | [Worth The Fight](https://open.spotify.com/track/3Exd6fFMpHMbsSzWd5NHvk) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Conscious](https://open.spotify.com/album/61RfrwKu6wJmaZYh3xt0mF) | 4:03 |
+| 108 | [Therapy](https://open.spotify.com/track/0aHtbFNZz1XOi8KfZcyS4A) | [Brooke Fraser](https://open.spotify.com/artist/1W2FTsCUlviVRhHNjZwWiN) | [A Sides](https://open.spotify.com/album/44jqZY3DRBmZE1tCrQScbT) | 3:20 |
 | 109 | [Step Down](https://open.spotify.com/track/1IfaWGDXebhYxCewwPftp8) | [Elliphant](https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY) | [Living Life Golden](https://open.spotify.com/album/5w5V7Vi6RuRV40G4cM9pMP) | 3:18 |
 | 110 | [Unfortunate Soul](https://open.spotify.com/track/1fE5elkDubOWunpWJNVFKK) | [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0) | [Medusa](https://open.spotify.com/album/2cNdx2Guop1r7MT8dBucEd) | 3:07 |
 | 111 | [Home](https://open.spotify.com/track/11vxl6GuoJixb43JXzYHur) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Welcome to the Mood \(Special Edition\)](https://open.spotify.com/album/3DBaYwShtoRDePdSskpsHf) | 3:11 |
@@ -191,4 +191,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 181 | [The Way I Are \(Dance with Somebody\)](https://open.spotify.com/track/1TLwImbhpQtHiNrbfqmVdl) | [Flashback Avenue](https://open.spotify.com/artist/1HANinT2rV1dtgfmxTTucL) | [Up All Night \- House Party Energy](https://open.spotify.com/album/36wq5YXDyqJIA895HmnpHn) | 3:11 |
 | 182 | [Cut](https://open.spotify.com/track/0kquTeSKAQkZj14ND6eTJr) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Versions of Maren Morris](https://open.spotify.com/album/4cFGrpSd3gaieAIM0WiNjO) | 2:36 |
 
-Snapshot ID: `AcemkAAAAAAFsWN8gzMA2Okz/mSObtSu`
+Snapshot ID: `AcesbAAAAABxfwo0r4gyC8cia4pZyh95`

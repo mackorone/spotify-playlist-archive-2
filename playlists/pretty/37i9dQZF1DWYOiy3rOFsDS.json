@@ -1,6 +1,6 @@
 {
   "description": "Romance a la antig\u00fcita con Valdo Rodr\u00edguez y Wuicho Kun en portada.",
-  "num_followers": 536407,
+  "num_followers": 536306,
   "original_name": "nuevo bolero",
   "owner": {
     "name": "Spotify",
@@ -327,6 +327,22 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
+        "name": "Gracias",
+        "url": "https://open.spotify.com/album/1VOXsJ8ly2QTliQgdqpHzi"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 181744,
+      "name": "Gracias",
+      "url": "https://open.spotify.com/track/52sJwN0u3ER2iko7yqV449"
+    },
+    {
+      "added_at": "2026-10-02 06:00:21",
+      "album": {
         "name": "Nombre y Apellido",
         "url": "https://open.spotify.com/album/1w2Yqtcb9tTGRx93hKSawe"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 271208,
       "name": "Nombre y Apellido",
       "url": "https://open.spotify.com/track/5T3GPd0C19r3y4ahADtiXH"
-    },
-    {
-      "added_at": "2026-10-02 06:00:21",
-      "album": {
-        "name": "Gracias",
-        "url": "https://open.spotify.com/album/1VOXsJ8ly2QTliQgdqpHzi"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 181744,
-      "name": "Gracias",
-      "url": "https://open.spotify.com/track/52sJwN0u3ER2iko7yqV449"
     },
     {
       "added_at": "2026-10-02 06:00:21",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
-        "name": "Solo La Noche",
-        "url": "https://open.spotify.com/album/3JZRclTqpAQaqsX1NWhSw8"
-      },
-      "artists": [
-        {
-          "name": "Laura Itandehui",
-          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
-        }
-      ],
-      "duration_ms": 146960,
-      "name": "Solo La Noche",
-      "url": "https://open.spotify.com/track/7Han9waq7SuDjoRqUGut0F"
-    },
-    {
-      "added_at": "2026-10-02 06:00:21",
-      "album": {
         "name": "Timidez (feat. Natalia Lafourcade)",
         "url": "https://open.spotify.com/album/2XaspQ17g3BU4Xkl2fDjV3"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 214186,
       "name": "Timidez (feat. Natalia Lafourcade)",
       "url": "https://open.spotify.com/track/3Riytw4egMe357gWrANdAr"
+    },
+    {
+      "added_at": "2026-10-02 06:00:21",
+      "album": {
+        "name": "Solo La Noche",
+        "url": "https://open.spotify.com/album/3JZRclTqpAQaqsX1NWhSw8"
+      },
+      "artists": [
+        {
+          "name": "Laura Itandehui",
+          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
+        }
+      ],
+      "duration_ms": 146960,
+      "name": "Solo La Noche",
+      "url": "https://open.spotify.com/track/7Han9waq7SuDjoRqUGut0F"
     },
     {
       "added_at": "2026-10-02 06:00:21",
@@ -851,26 +851,18 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
-        "name": "No te puedes ir",
-        "url": "https://open.spotify.com/album/15dUsTMz9I1piWJZetHq9H"
+        "name": "Te Ofrezco",
+        "url": "https://open.spotify.com/album/7zi3SKDbuhjapBGcCyv1tY"
       },
       "artists": [
         {
-          "name": "Ivan de la Rioja",
-          "url": "https://open.spotify.com/artist/4wpcrUKNf1pPMdUyJyDzVA"
-        },
-        {
-          "name": "xel",
-          "url": "https://open.spotify.com/artist/2WQxQy1J84edOBZrpXGyLD"
-        },
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
         }
       ],
-      "duration_ms": 213333,
-      "name": "No te puedes ir",
-      "url": "https://open.spotify.com/track/7dQ72oGTDZ1M3vhGJuRsGg"
+      "duration_ms": 206520,
+      "name": "Te Ofrezco",
+      "url": "https://open.spotify.com/track/4HTteIyy5JZ9YhHmdGcTJA"
     },
     {
       "added_at": "2026-10-02 06:00:21",
@@ -891,18 +883,26 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
-        "name": "Te Ofrezco",
-        "url": "https://open.spotify.com/album/7zi3SKDbuhjapBGcCyv1tY"
+        "name": "No te puedes ir",
+        "url": "https://open.spotify.com/album/15dUsTMz9I1piWJZetHq9H"
       },
       "artists": [
         {
-          "name": "Escarlata",
-          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
+          "name": "Ivan de la Rioja",
+          "url": "https://open.spotify.com/artist/4wpcrUKNf1pPMdUyJyDzVA"
+        },
+        {
+          "name": "xel",
+          "url": "https://open.spotify.com/artist/2WQxQy1J84edOBZrpXGyLD"
+        },
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
         }
       ],
-      "duration_ms": 206520,
-      "name": "Te Ofrezco",
-      "url": "https://open.spotify.com/track/4HTteIyy5JZ9YhHmdGcTJA"
+      "duration_ms": 213333,
+      "name": "No te puedes ir",
+      "url": "https://open.spotify.com/track/7dQ72oGTDZ1M3vhGJuRsGg"
     },
     {
       "added_at": "2026-10-02 06:00:21",
@@ -995,26 +995,6 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
-        "name": "SER AMIGOS (olvida)",
-        "url": "https://open.spotify.com/album/6fjvO0I7QKkKLrpr4esvh1"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        },
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 247790,
-      "name": "SER AMIGOS (olvida)",
-      "url": "https://open.spotify.com/track/1Hgqs710QBTM5lp7Tbv8ad"
-    },
-    {
-      "added_at": "2026-10-02 06:00:21",
-      "album": {
         "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
         "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
       },
@@ -1035,6 +1015,26 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
+        "name": "SER AMIGOS (olvida)",
+        "url": "https://open.spotify.com/album/6fjvO0I7QKkKLrpr4esvh1"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        },
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 247790,
+      "name": "SER AMIGOS (olvida)",
+      "url": "https://open.spotify.com/track/1Hgqs710QBTM5lp7Tbv8ad"
+    },
+    {
+      "added_at": "2026-10-02 06:00:21",
+      "album": {
         "name": "Hola Perdido",
         "url": "https://open.spotify.com/album/2YnBDgXq5ZrFzD0rZL6fiV"
       },
@@ -1047,26 +1047,6 @@
       "duration_ms": 185338,
       "name": "Hola Perdido",
       "url": "https://open.spotify.com/track/5jfNRbOLT0aRlrq4iChbTw"
-    },
-    {
-      "added_at": "2026-10-02 06:00:21",
-      "album": {
-        "name": "La Barca",
-        "url": "https://open.spotify.com/album/78FMbZCEDk8whyk5hqCcLj"
-      },
-      "artists": [
-        {
-          "name": "MIA",
-          "url": "https://open.spotify.com/artist/5VDLfzakHXjOYeai6w9jDq"
-        },
-        {
-          "name": "Lucero Mijares",
-          "url": "https://open.spotify.com/artist/3NRfvOGwdqnzGWuHE15nGW"
-        }
-      ],
-      "duration_ms": 192123,
-      "name": "La Barca",
-      "url": "https://open.spotify.com/track/1qdncO7O7jMjJsXjhOFfaq"
     },
     {
       "added_at": "2026-10-02 06:00:21",
@@ -1091,6 +1071,26 @@
       "duration_ms": 268146,
       "name": "Me Vuelves Loca",
       "url": "https://open.spotify.com/track/4b2VrKk6vR7304vrY3v0f0"
+    },
+    {
+      "added_at": "2026-10-02 06:00:21",
+      "album": {
+        "name": "La Barca",
+        "url": "https://open.spotify.com/album/78FMbZCEDk8whyk5hqCcLj"
+      },
+      "artists": [
+        {
+          "name": "MIA",
+          "url": "https://open.spotify.com/artist/5VDLfzakHXjOYeai6w9jDq"
+        },
+        {
+          "name": "Lucero Mijares",
+          "url": "https://open.spotify.com/artist/3NRfvOGwdqnzGWuHE15nGW"
+        }
+      ],
+      "duration_ms": 192123,
+      "name": "La Barca",
+      "url": "https://open.spotify.com/track/1qdncO7O7jMjJsXjhOFfaq"
     },
     {
       "added_at": "2026-10-02 06:00:21",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
-        "name": "Cuando Yo Fui Tu Clavel",
-        "url": "https://open.spotify.com/album/1MsQyfkAyCio9tBVjdJIBd"
-      },
-      "artists": [
-        {
-          "name": "Soyiby",
-          "url": "https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn"
-        }
-      ],
-      "duration_ms": 112500,
-      "name": "Cuando Yo Fui Tu Clavel",
-      "url": "https://open.spotify.com/track/1OgtfmFUelshO9fLczAjPl"
-    },
-    {
-      "added_at": "2026-10-02 06:00:21",
-      "album": {
         "name": "Mil Vidas",
         "url": "https://open.spotify.com/album/1MDYbIPaUShFYhmEGowygz"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 182733,
       "name": "Amar Y Vivir - En Vivo",
       "url": "https://open.spotify.com/track/1nqOX76aLJYNY74ZDBPSBO"
+    },
+    {
+      "added_at": "2026-10-02 06:00:21",
+      "album": {
+        "name": "Cuando Yo Fui Tu Clavel",
+        "url": "https://open.spotify.com/album/1MsQyfkAyCio9tBVjdJIBd"
+      },
+      "artists": [
+        {
+          "name": "Soyiby",
+          "url": "https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn"
+        }
+      ],
+      "duration_ms": 112500,
+      "name": "Cuando Yo Fui Tu Clavel",
+      "url": "https://open.spotify.com/track/1OgtfmFUelshO9fLczAjPl"
     },
     {
       "added_at": "2026-10-02 06:00:21",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
-        "name": "Se Me Esta Yendo La Vida",
-        "url": "https://open.spotify.com/album/1rcvdzVO3zQqMe2oGKq0yQ"
-      },
-      "artists": [
-        {
-          "name": "Soyiby",
-          "url": "https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn"
-        }
-      ],
-      "duration_ms": 182717,
-      "name": "Se Me Esta Yendo La Vida",
-      "url": "https://open.spotify.com/track/0ndENUoSD83yGr9lXbJQFH"
-    },
-    {
-      "added_at": "2026-10-02 06:00:21",
-      "album": {
         "name": "Matina",
         "url": "https://open.spotify.com/album/22Tb1zKcJiUELDEnSRA34A"
       },
@@ -1335,6 +1319,22 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
+        "name": "Se Me Esta Yendo La Vida",
+        "url": "https://open.spotify.com/album/1rcvdzVO3zQqMe2oGKq0yQ"
+      },
+      "artists": [
+        {
+          "name": "Soyiby",
+          "url": "https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn"
+        }
+      ],
+      "duration_ms": 182717,
+      "name": "Se Me Esta Yendo La Vida",
+      "url": "https://open.spotify.com/track/0ndENUoSD83yGr9lXbJQFH"
+    },
+    {
+      "added_at": "2026-10-02 06:00:21",
+      "album": {
         "name": "Ra\u00edces",
         "url": "https://open.spotify.com/album/3HhbkUjg8eI5chZUn3v0Ng"
       },
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
-        "name": "Desde Cu\u00e1ndo",
-        "url": "https://open.spotify.com/album/2040erAeJrkzHBcxYHaj2T"
+        "name": "Apasionadamente",
+        "url": "https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks"
       },
       "artists": [
         {
-          "name": "Escarlata",
-          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
         }
       ],
-      "duration_ms": 164791,
-      "name": "Desde Cu\u00e1ndo",
-      "url": "https://open.spotify.com/track/3srXo4ebUPLbzuDvuze63p"
+      "duration_ms": 180588,
+      "name": "Apasionadamente",
+      "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
     },
     {
       "added_at": "2026-10-02 06:00:21",
@@ -1383,18 +1383,18 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
-        "name": "Apasionadamente",
-        "url": "https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks"
+        "name": "Desde Cu\u00e1ndo",
+        "url": "https://open.spotify.com/album/2040erAeJrkzHBcxYHaj2T"
       },
       "artists": [
         {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
         }
       ],
-      "duration_ms": 180588,
-      "name": "Apasionadamente",
-      "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
+      "duration_ms": 164791,
+      "name": "Desde Cu\u00e1ndo",
+      "url": "https://open.spotify.com/track/3srXo4ebUPLbzuDvuze63p"
     },
     {
       "added_at": "2026-10-02 06:00:21",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
-        "name": "Puro Teatro",
-        "url": "https://open.spotify.com/album/5UgeLQE0d8rZ1txCWPjS2E"
-      },
-      "artists": [
-        {
-          "name": "Celeste Sanazi",
-          "url": "https://open.spotify.com/artist/7IDLdCC97Mb5DE7zpk6Tmd"
-        }
-      ],
-      "duration_ms": 137131,
-      "name": "Puro Teatro",
-      "url": "https://open.spotify.com/track/1AI3Ut3V1vrFqvzZyxncHL"
-    },
-    {
-      "added_at": "2026-10-02 06:00:21",
-      "album": {
         "name": "Lo esencial de Or\u00edgenes: El Bolero",
         "url": "https://open.spotify.com/album/6JJJE2Mp1nfIHVdKR7C8MZ"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 174066,
       "name": "No me reproches",
       "url": "https://open.spotify.com/track/3dYMoXfLNJveflEypwaUeA"
+    },
+    {
+      "added_at": "2026-10-02 06:00:21",
+      "album": {
+        "name": "Aquellos Ojos Verdes",
+        "url": "https://open.spotify.com/album/1n9kSE3g9kTSVfUlBEAImx"
+      },
+      "artists": [
+        {
+          "name": "Japonica",
+          "url": "https://open.spotify.com/artist/2cI95BrKbMFINYuR0IanPD"
+        }
+      ],
+      "duration_ms": 190985,
+      "name": "Aquellos Ojos Verdes",
+      "url": "https://open.spotify.com/track/7dtD3zuEh0Kx6HsVKHQIJg"
     },
     {
       "added_at": "2026-10-02 06:00:21",
@@ -1735,18 +1735,18 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
-        "name": "Aquellos Ojos Verdes",
-        "url": "https://open.spotify.com/album/1n9kSE3g9kTSVfUlBEAImx"
+        "name": "Puro Teatro",
+        "url": "https://open.spotify.com/album/5UgeLQE0d8rZ1txCWPjS2E"
       },
       "artists": [
         {
-          "name": "Japonica",
-          "url": "https://open.spotify.com/artist/2cI95BrKbMFINYuR0IanPD"
+          "name": "Celeste Sanazi",
+          "url": "https://open.spotify.com/artist/7IDLdCC97Mb5DE7zpk6Tmd"
         }
       ],
-      "duration_ms": 190985,
-      "name": "Aquellos Ojos Verdes",
-      "url": "https://open.spotify.com/track/7dtD3zuEh0Kx6HsVKHQIJg"
+      "duration_ms": 137131,
+      "name": "Puro Teatro",
+      "url": "https://open.spotify.com/track/1AI3Ut3V1vrFqvzZyxncHL"
     },
     {
       "added_at": "2026-10-02 06:00:21",

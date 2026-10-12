@@ -1,6 +1,6 @@
 {
   "description": "The best Canadian songs of the month, handpicked by Spotify Canada editors. Cover: Lennon Stella",
-  "num_followers": 2811,
+  "num_followers": 2813,
   "original_name": "Editors' Picks: Best Canadian Songs of September",
   "owner": {
     "name": "Spotify",
@@ -179,22 +179,6 @@
     {
       "added_at": "2026-10-01 04:01:04",
       "album": {
-        "name": "Everything's the same",
-        "url": "https://open.spotify.com/album/0c3fqqv3MGSb0vN8ckYHp0"
-      },
-      "artists": [
-        {
-          "name": "MICO",
-          "url": "https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG"
-        }
-      ],
-      "duration_ms": 172363,
-      "name": "Everything's the same",
-      "url": "https://open.spotify.com/track/0JR7Pjg8QzNbZ4b4FEYxtX"
-    },
-    {
-      "added_at": "2026-10-01 04:01:04",
-      "album": {
         "name": "REAL PROBLEMS",
         "url": "https://open.spotify.com/album/18AdfVQewytxSSuNQ3HmSa"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 152250,
       "name": "GASOLINA",
       "url": "https://open.spotify.com/track/2K5Hbzw7Kwcsy4jQePskYZ"
+    },
+    {
+      "added_at": "2026-10-01 04:01:04",
+      "album": {
+        "name": "Everything's the same",
+        "url": "https://open.spotify.com/album/0c3fqqv3MGSb0vN8ckYHp0"
+      },
+      "artists": [
+        {
+          "name": "MICO",
+          "url": "https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG"
+        }
+      ],
+      "duration_ms": 172363,
+      "name": "Everything's the same",
+      "url": "https://open.spotify.com/track/0JR7Pjg8QzNbZ4b4FEYxtX"
     },
     {
       "added_at": "2026-10-01 04:01:04",
@@ -351,22 +351,6 @@
     {
       "added_at": "2026-10-01 04:01:04",
       "album": {
-        "name": "Just Us In The Room",
-        "url": "https://open.spotify.com/album/2QtkSbLYwufnr1IeCfszHT"
-      },
-      "artists": [
-        {
-          "name": "TOBi",
-          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
-        }
-      ],
-      "duration_ms": 168046,
-      "name": "Just Us In The Room",
-      "url": "https://open.spotify.com/track/5VIyXmWvIgi5QPJ8CKqgKg"
-    },
-    {
-      "added_at": "2026-10-01 04:01:04",
-      "album": {
         "name": "ON THE SCHEDULE",
         "url": "https://open.spotify.com/album/7vHO368QppzJL9g1jnozna"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 196566,
       "name": "ON THE SCHEDULE",
       "url": "https://open.spotify.com/track/4YSqHMRMRjREUrWqmj2tFS"
+    },
+    {
+      "added_at": "2026-10-01 04:01:04",
+      "album": {
+        "name": "Just Us In The Room",
+        "url": "https://open.spotify.com/album/2QtkSbLYwufnr1IeCfszHT"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        }
+      ],
+      "duration_ms": 168046,
+      "name": "Just Us In The Room",
+      "url": "https://open.spotify.com/track/5VIyXmWvIgi5QPJ8CKqgKg"
     },
     {
       "added_at": "2026-10-01 04:01:04",
@@ -451,6 +451,22 @@
     {
       "added_at": "2026-10-01 04:01:04",
       "album": {
+        "name": "Love You Again",
+        "url": "https://open.spotify.com/album/0FWR4B2fQpwheyYqrcgTp1"
+      },
+      "artists": [
+        {
+          "name": "CARV",
+          "url": "https://open.spotify.com/artist/5YQT7e8jtdgdaT8lJsOx9A"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Wondering Why",
+      "url": "https://open.spotify.com/track/65ZZgxIc3G2WJzAZliSMui"
+    },
+    {
+      "added_at": "2026-10-01 04:01:04",
+      "album": {
         "name": "Kiss Me When I",
         "url": "https://open.spotify.com/album/4XHdkmdLdgRCsW2IUXQd5c"
       },
@@ -471,22 +487,6 @@
     {
       "added_at": "2026-10-01 04:01:04",
       "album": {
-        "name": "Cry When I'm Alone",
-        "url": "https://open.spotify.com/album/3yKLkTQNKi6T6Q6KWpAbXK"
-      },
-      "artists": [
-        {
-          "name": "JON VINYL",
-          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
-        }
-      ],
-      "duration_ms": 167226,
-      "name": "Cry When I'm Alone",
-      "url": "https://open.spotify.com/track/58bq6cxZFEmzL35rW4Ad59"
-    },
-    {
-      "added_at": "2026-10-01 04:01:04",
-      "album": {
         "name": "how about you",
         "url": "https://open.spotify.com/album/0LKNZWKYoMpgkyEhxUVxWl"
       },
@@ -503,18 +503,18 @@
     {
       "added_at": "2026-10-01 04:01:04",
       "album": {
-        "name": "Love You Again",
-        "url": "https://open.spotify.com/album/0FWR4B2fQpwheyYqrcgTp1"
+        "name": "Cry When I'm Alone",
+        "url": "https://open.spotify.com/album/3yKLkTQNKi6T6Q6KWpAbXK"
       },
       "artists": [
         {
-          "name": "CARV",
-          "url": "https://open.spotify.com/artist/5YQT7e8jtdgdaT8lJsOx9A"
+          "name": "JON VINYL",
+          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Wondering Why",
-      "url": "https://open.spotify.com/track/65ZZgxIc3G2WJzAZliSMui"
+      "duration_ms": 167226,
+      "name": "Cry When I'm Alone",
+      "url": "https://open.spotify.com/track/58bq6cxZFEmzL35rW4Ad59"
     },
     {
       "added_at": "2026-10-01 04:01:04",
@@ -819,6 +819,22 @@
     {
       "added_at": "2026-10-01 04:01:04",
       "album": {
+        "name": "pauvre pomme",
+        "url": "https://open.spotify.com/album/3ZTHNhGuk2adX1dIEQVxNv"
+      },
+      "artists": [
+        {
+          "name": "Etienne Dufresne",
+          "url": "https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv"
+        }
+      ],
+      "duration_ms": 237253,
+      "name": "pauvre pomme",
+      "url": "https://open.spotify.com/track/4W5Ny48E1oUxnYDRqurBPX"
+    },
+    {
+      "added_at": "2026-10-01 04:01:04",
+      "album": {
         "name": "Prends soin de toi",
         "url": "https://open.spotify.com/album/3Vngym1DZ8rtUONTeq6mIB"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 289468,
       "name": "Toi",
       "url": "https://open.spotify.com/track/5cBkJueWCq7NiW4DVD1UUK"
-    },
-    {
-      "added_at": "2026-10-01 04:01:04",
-      "album": {
-        "name": "pauvre pomme",
-        "url": "https://open.spotify.com/album/3ZTHNhGuk2adX1dIEQVxNv"
-      },
-      "artists": [
-        {
-          "name": "Etienne Dufresne",
-          "url": "https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv"
-        }
-      ],
-      "duration_ms": 237253,
-      "name": "pauvre pomme",
-      "url": "https://open.spotify.com/track/4W5Ny48E1oUxnYDRqurBPX"
     }
   ],
   "unique_name": "Editors' Picks: Best Canadian Songs of September",

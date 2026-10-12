@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTc452KG008d.md) - [plain]
 
 > Because a quiet Sunday every now and again doesn't hurt anybody.
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,906 likes - 80 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,961 likes - 80 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTc452KG008d.md) - [plain]
 | 30 | [Guilty](https://open.spotify.com/track/6SEE7iA69AF9N8fqUYRdQr) | [Sammi Heaney](https://open.spotify.com/artist/6ooPINF78eV5CFLBPAaVZq) | [Guilty](https://open.spotify.com/album/52axGYJ0PQQiTOtFnJMo6F) | 3:46 |
 | 31 | [Bleeding Love](https://open.spotify.com/track/7wZUrN8oemZfsEd1CGkbXE) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/0VaAFegRAAn4OCg7p4QjN5) | 4:22 |
 | 32 | [Count on Me](https://open.spotify.com/track/7l1qvxWjxcKpB9PCtBuTbU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:17 |
-| 33 | [Beautiful Crazy](https://open.spotify.com/track/2rxQMGVafnNaRaXlRMWPde) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You Too \(Deluxe Edition\)](https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz) | 3:13 |
-| 34 | [Thank You](https://open.spotify.com/track/3yUcJwYu7fXAfqMj9krY6l) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [No Angel](https://open.spotify.com/album/7ydMeYrv8bFFRkkHepoJM4) | 3:38 |
+| 33 | [Thank You](https://open.spotify.com/track/3yUcJwYu7fXAfqMj9krY6l) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [No Angel](https://open.spotify.com/album/7ydMeYrv8bFFRkkHepoJM4) | 3:38 |
+| 34 | [Beautiful Crazy](https://open.spotify.com/track/2rxQMGVafnNaRaXlRMWPde) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You Too \(Deluxe Edition\)](https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz) | 3:13 |
 | 35 | [Stuck with U \(with Justin Bieber\)](https://open.spotify.com/track/4HBZA5flZLE435QTztThqH) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Stuck with U](https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi) | 3:48 |
 | 36 | [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 |
 | 37 | [Your Song](https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0) | 4:01 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTc452KG008d.md) - [plain]
 | 53 | [You've Got The Love](https://open.spotify.com/track/244AvzGQ4Ksa5637JQu5Gy) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Version\)](https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5) | 2:48 |
 | 54 | [Love Is Gone \- Acoustic](https://open.spotify.com/track/7F1CiKqrY44kh5cDqwHOnx) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Dylan Matthew](https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX) | [Love Is Gone \(Acoustic\)](https://open.spotify.com/album/4sFNNIc9t1SS1FnuVKXR3J) | 2:56 |
 | 55 | [Hold Me While You Wait](https://open.spotify.com/track/60iSKGrGazRzICtMjADNSM) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:25 |
-| 56 | [Lights Are On](https://open.spotify.com/track/4IhTXiZLKATmwhMZIb1GQN) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Z\-Sides](https://open.spotify.com/album/6wOJyevNYXevqTZCn6Xk5T) | 3:13 |
-| 57 | [Rehab](https://open.spotify.com/track/1L5tZi0izXsi5Kk5OJf4W0) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 3:33 |
+| 56 | [Rehab](https://open.spotify.com/track/1L5tZi0izXsi5Kk5OJf4W0) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 3:33 |
+| 57 | [Lights Are On](https://open.spotify.com/track/4IhTXiZLKATmwhMZIb1GQN) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Z\-Sides](https://open.spotify.com/album/6wOJyevNYXevqTZCn6Xk5T) | 3:13 |
 | 58 | [Light On](https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:53 |
 | 59 | [The A Team](https://open.spotify.com/track/1VdZ0vKfR5jneCmWIUAMxK) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [+](https://open.spotify.com/album/0W5GGnapMz0VwemQvJDqa7) | 4:18 |
 | 60 | [You Say](https://open.spotify.com/track/6Up545NUflOiXo8cEraH49) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 4:34 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTc452KG008d.md) - [plain]
 | 67 | [Better Together](https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo) | 3:27 |
 | 68 | [Cold Little Heart \- Radio Edit](https://open.spotify.com/track/7KX65PC1UZuImsUInThbav) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cold Little Heart \(Radio Edit\)](https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A) | 3:30 |
 | 69 | [Slow Hands](https://open.spotify.com/track/2cOUlop2ZakjOKe4WinesN) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:08 |
-| 70 | [Alaska](https://open.spotify.com/track/4HfLQJtVT1KiX1eVedDyTm) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:08 |
-| 71 | [Tourniquet](https://open.spotify.com/track/3EvZ03hGAFwGZ2Ebcu86YH) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:09 |
+| 70 | [Tourniquet](https://open.spotify.com/track/3EvZ03hGAFwGZ2Ebcu86YH) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:09 |
+| 71 | [Alaska](https://open.spotify.com/track/4HfLQJtVT1KiX1eVedDyTm) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:08 |
 | 72 | [Never Going Back Again \- 2004 Remaster](https://open.spotify.com/track/19Shlms2uTnOjIUg50TXzd) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 2:14 |
 | 73 | [Home](https://open.spotify.com/track/18V1UiYRvWYwn01CRDbbuR) | [Edith Whiskers](https://open.spotify.com/artist/15K8w0bfYieOr55vhSMgJN) | [Stop Stealing The Covers!](https://open.spotify.com/album/7mCxkaPLj0IGKmbBuLDYah) | 3:17 |
 | 74 | [Wonderful Tonight](https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Slowhand 35th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP) | 3:45 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZY0QOQ.md) - [plain]
 
 > This is CKay\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,819 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,821 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,14 +31,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZY0QOQ.md) - [plain]
 | 21 | [Skoin Skoin \(feat\. Bianca Costa\)](https://open.spotify.com/track/55Rnsl2V2IjPf7wiwCyEFq) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Bianca Costa](https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT) | [Boyfriend](https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D) | 2:53 |
 | 22 | [E CLEAR](https://open.spotify.com/track/1D2K8VnbpswyKR401j2fl1) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [E CLEAR](https://open.spotify.com/album/4t2mGEpHQDrrSfUNiqdSKm) | 2:44 |
 | 23 | [WATAWI \(feat\. Davido, Focalistic & Abidoza\)](https://open.spotify.com/track/0mGcsaIOK2wL7ECV3BN5XD) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Abidoza](https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 5:05 |
-| 24 | [DORIME \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/154GtlyXeS8mEwNytNJyI4) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [EMOTIONS](https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI) | 2:34 |
+| 24 | [RIDE OR DIE?](https://open.spotify.com/track/2Tf0nTcooiuOWxflvDI3oI) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [EMOTIONS](https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI) | 3:01 |
 | 25 | [Kiss Me Like You Miss Me](https://open.spotify.com/track/0qO1vvKmRvBVH60KsfS8Gh) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Boyfriend](https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D) | 2:53 |
-| 26 | [ZERO](https://open.spotify.com/track/0A0guIoWqPINmiLwWu2Phg) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [BANGER BOY](https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN) | 2:45 |
-| 27 | [dtf](https://open.spotify.com/track/4RAuM2qWLBDrNtzfz3bBKs) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The First](https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih) | 3:31 |
-| 28 | [RIDE OR DIE?](https://open.spotify.com/track/2Tf0nTcooiuOWxflvDI3oI) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [EMOTIONS](https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI) | 3:01 |
+| 26 | [dtf](https://open.spotify.com/track/4RAuM2qWLBDrNtzfz3bBKs) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The First](https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih) | 3:31 |
+| 27 | [ZERO](https://open.spotify.com/track/0A0guIoWqPINmiLwWu2Phg) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [BANGER BOY](https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN) | 2:45 |
+| 28 | [DORIME \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/154GtlyXeS8mEwNytNJyI4) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [EMOTIONS](https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI) | 2:34 |
 | 29 | [Shakara](https://open.spotify.com/track/5XeMITYsLdefeCB0Q1RVOU) | [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Fire & Ice](https://open.spotify.com/album/3EZt8wq3KWXB7gVM9SuLWR) | 3:20 |
-| 30 | [NDA](https://open.spotify.com/track/4UijNUSyQ3b7XehryTR7jf) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [BANGER BOY](https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN) | 2:58 |
-| 31 | [love nwantiti x dumebi \- Midé Naike Remix](https://open.spotify.com/track/5h3lq0x9KKwYhPcWAUVdOj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Midé Naike](https://open.spotify.com/artist/7qYDPQS76PSE3OzJZ48JCc) | [love nwantiti x dumebi \(Midé Naike Remix\)](https://open.spotify.com/album/7AzISzDV84yvlneRn6OL3j) | 3:14 |
+| 30 | [love nwantiti x dumebi \- Midé Naike Remix](https://open.spotify.com/track/5h3lq0x9KKwYhPcWAUVdOj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Midé Naike](https://open.spotify.com/artist/7qYDPQS76PSE3OzJZ48JCc) | [love nwantiti x dumebi \(Midé Naike Remix\)](https://open.spotify.com/album/7AzISzDV84yvlneRn6OL3j) | 3:14 |
+| 31 | [NDA](https://open.spotify.com/track/4UijNUSyQ3b7XehryTR7jf) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [BANGER BOY](https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN) | 2:58 |
 | 32 | [EGWU EJI](https://open.spotify.com/track/7HeqbuykOPm9DZ965bHhsg) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [EMOTIONS](https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI) | 2:52 |
 | 33 | [nothing spoil](https://open.spotify.com/track/2E8pricPqOChg1bWIf6fLS) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [CKay The Second](https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf) | 3:58 |
 | 34 | [Wetin Be Love](https://open.spotify.com/track/0IRuh90YBK9a99cW3R9skS) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Body & Soul](https://open.spotify.com/album/1TGcgugu0CxUp5rhS7SyCW) | 2:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZY0QOQ.md) - [plain]
 | 49 | [say no more](https://open.spotify.com/track/6b6KwJ5Ig1SmOKM9cD3Bem) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The Second](https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf) | 2:40 |
 | 50 | [beeni \(feat\. Barry Jhay\)](https://open.spotify.com/track/17JuQJJwiZz8xLExCOf59u) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [CKay The First](https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih) | 3:19 |
 
-Snapshot ID: `asgugAAAAACiKJqmzupk6AaCLDpL9q6I`
+Snapshot ID: `asmAAAAAAADhckwoXZa/6xS9eVKBeSLz`

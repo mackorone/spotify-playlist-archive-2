@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: HELA
 
-1,006 songs - 2 day 1 hr 7 min
+1,007 songs - 2 day 1 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,7 +196,7 @@
 | [Daję Ci słowo](https://open.spotify.com/track/3vascTwzAFu8bvHbhvEduF) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4), [Blinders](https://open.spotify.com/artist/26JVnujQQ3lEML8t9p3X1J), [Karbid](https://open.spotify.com/artist/69Tmta3dLLced5SbYhTg4l) | [Daję Ci słowo](https://open.spotify.com/album/4D1LPMuAnWE10544yIQY5T) | 2:07 | 2024-07-11 | 2024-08-02 |
 | [Dance King](https://open.spotify.com/track/39M1vHVjacFSQroeRSTV4V) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Dance King](https://open.spotify.com/album/6Uv7kHf6Jroa2W24NSzPQ8) | 2:30 | 2025-07-17 | 2025-08-08 |
 | [Dancechlor](https://open.spotify.com/track/3Gi9KxBBxjpYnXgxULVqBN) | [Zuza Jabłońska](https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt) | [Dancechlor](https://open.spotify.com/album/3PISRyQEHa8sJBTy7BnGzA) | 2:41 | 2024-06-28 | 2024-09-14 |
-| [dancefloor?](https://open.spotify.com/track/5GV9AMBtRstMTBuWaS55rn) | [bartek turski](https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR), [kurtis baker](https://open.spotify.com/artist/3r9YAOUaPgQV22zcFmHMXv) | [dancefloor?](https://open.spotify.com/album/3i5O62x02dnd85CGy3vdSw) | 3:21 | 2026-07-16 |  |
+| [dancefloor?](https://open.spotify.com/track/5GV9AMBtRstMTBuWaS55rn) | [bartek turski](https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR), [kurtis baker](https://open.spotify.com/artist/3r9YAOUaPgQV22zcFmHMXv) | [dancefloor?](https://open.spotify.com/album/3i5O62x02dnd85CGy3vdSw) | 3:21 | 2026-07-16 | 2026-10-12 |
 | [Dancer](https://open.spotify.com/track/04v7ZYv0TQHluugW9Tzccy) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Dancer](https://open.spotify.com/album/21WB3xmAukyafQysJdV8C9) | 3:00 | 2025-08-19 | 2025-11-19 |
 | [Danse Macabre](https://open.spotify.com/track/6q3mJXFVhnRuECh5qyM0wM) | [nita](https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi) | [Danse Macabre](https://open.spotify.com/album/01Ud1JJmY6UbrqjMOQa8rt) | 2:47 | 2024-09-13 | 2025-01-24 |
 | [Day Off](https://open.spotify.com/track/0CHNm6X7QyULKOG5nTtQhj) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Day Off](https://open.spotify.com/album/3BERK2KU0lyYSFfJclRuYD) | 2:22 | 2024-06-28 | 2024-09-20 |
@@ -566,6 +566,7 @@
 | [NIEBA](https://open.spotify.com/track/12kODAZcfMh99l0AitMXFC) | [NAUTOFON](https://open.spotify.com/artist/5zNO7pJVe7GFYrkqdYUsqG), [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8), [Dawid Płonka](https://open.spotify.com/artist/6P8H6nSX040u58IuahsdvF) | [NIEBA](https://open.spotify.com/album/0ZkBawe69ftL7Eiv5eeJu9) | 2:57 | 2025-06-05 | 2025-07-23 |
 | [Niebezpiecznie mi](https://open.spotify.com/track/5xi57gTzYxZ7LuSR5FglaT) | [Jan Majewski](https://open.spotify.com/artist/22jvbmwhlcx0iogTUmMMyi) | [Niebezpiecznie mi](https://open.spotify.com/album/4kC9nmSSW6BlPKI06bD23F) | 4:16 | 2024-06-28 | 2024-07-19 |
 | [Nieboskłon](https://open.spotify.com/track/5zLdBe3yVkWpu6lSsp2Xme) | [the small town kids](https://open.spotify.com/artist/1cUvJtU1uL59tjCScnbUUk), [Wiktoria Zwolińska](https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf) | [Nieboskłon](https://open.spotify.com/album/53fKRn1YK40EyjLcUNoTl8) | 3:28 | 2025-04-10 | 2025-04-18 |
+| [niech nie żyje nam](https://open.spotify.com/track/0sNuqgwVY7j4ArP5v8cBnR) | [wiśniosz](https://open.spotify.com/artist/4UcIjZwZDS7epHIoNUtwzu) | [niech nie żyje nam](https://open.spotify.com/album/2F4muJlqRh0Owmoxa8pgJW) | 2:36 | 2026-10-08 |  |
 | [Niedosyt](https://open.spotify.com/track/79cmiNPdQVHeu2qs6x4JMp) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [Central Park](https://open.spotify.com/album/0gUKAbUK0UwJsERX22e9rx) | 2:47 | 2024-06-28 | 2024-07-05 |
 | [Nienawidzisz](https://open.spotify.com/track/3hZY4ACHC3uSFZo4h8DWp8) | [huskie](https://open.spotify.com/artist/7qAmqo6RdMhZmRWNSIK8kS) | [Nienawidzisz](https://open.spotify.com/album/2FKdXqSCSlmXVcaBlZzxMk) | 3:56 | 2025-11-11 | 2026-03-13 |
 | [nieoczywiste](https://open.spotify.com/track/1plVKUf9fux7zP5ZFRgkTJ) | [Julia Mreńca](https://open.spotify.com/artist/0o67bNa457im54EQIpinH2) | [nieoczywiste](https://open.spotify.com/album/0Azj5kyi9uPhadMt3ejhB1) | 2:34 | 2024-12-13 | 2025-01-31 |

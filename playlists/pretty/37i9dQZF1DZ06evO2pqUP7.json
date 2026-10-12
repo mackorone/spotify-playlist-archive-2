@@ -1,12 +1,12 @@
 {
   "description": "This is Lunay. The essential tracks, all in one playlist.",
-  "num_followers": 70336,
+  "num_followers": 70332,
   "original_name": "This Is Lunay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asgugAAAAAAn8r79mF+43nBnsX+h2MVU",
+  "snapshot_id": "asmAAAAAAAAvK/MEBFsXTFZl3/lZwJB7",
   "tracks": [
     {
       "added_at": null,
@@ -579,34 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luz Apaga",
-        "url": "https://open.spotify.com/album/4Xk6SrGHC6vSevAkyTZiLh"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "Luz Apaga",
-      "url": "https://open.spotify.com/track/5Q3e16qE1RE5oilN3ukasm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Mi Habitaci\u00f3n",
         "url": "https://open.spotify.com/album/5YluAzUmLLk8ajKIsHj0lY"
       },
@@ -631,6 +603,34 @@
       "duration_ms": 235226,
       "name": "En Mi Habitaci\u00f3n",
       "url": "https://open.spotify.com/track/4ie9colBgieHEOULuCfK3E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Luz Apaga",
+        "url": "https://open.spotify.com/album/4Xk6SrGHC6vSevAkyTZiLh"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Luz Apaga",
+      "url": "https://open.spotify.com/track/5Q3e16qE1RE5oilN3ukasm"
     },
     {
       "added_at": null,
@@ -959,6 +959,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Ni\u00f1o",
+        "url": "https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "ENERO",
+      "url": "https://open.spotify.com/track/6i9OFbEx4fELdEbI8Q9XtO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u00c9pico",
         "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 190951,
       "name": "Amigos Na' Mas",
       "url": "https://open.spotify.com/track/1zuMoycNBmpN4p6X8sJeh5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Ni\u00f1o",
-        "url": "https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "ENERO",
-      "url": "https://open.spotify.com/track/6i9OFbEx4fELdEbI8Q9XtO"
     },
     {
       "added_at": null,

@@ -10506,7 +10506,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 133848,
       "name": "Girls MIA",
       "url": "https://open.spotify.com/track/7dHtHyIsxcDzgeFWLxfW4q"
@@ -11108,6 +11108,24 @@
       "duration_ms": 163208,
       "name": "Goosebumps",
       "url": "https://open.spotify.com/track/20McUFi8KCIVdNDLrkTDuZ"
+    },
+    {
+      "album": {
+        "name": "Got To Do",
+        "url": "https://open.spotify.com/album/20TS1WaOBsMkzH0zdOeevB"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169323,
+      "name": "Got To Do",
+      "url": "https://open.spotify.com/track/3JGVhjbPvMdxKqDE7NDJEK"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "pop that *hits different* featuring nick ward",
-  "num_followers": 626896,
+  "num_followers": 626821,
   "original_name": "*hits different*",
   "owner": {
     "name": "Spotify",
@@ -387,18 +387,18 @@
     {
       "added_at": "2026-10-05 23:43:38",
       "album": {
-        "name": "Come Over",
-        "url": "https://open.spotify.com/album/2xXG0abKT34biU7L9siPde"
+        "name": "The Secret of Us",
+        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
       },
       "artists": [
         {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 178603,
-      "name": "Come Over",
-      "url": "https://open.spotify.com/track/6uvw8GFIqdqaJ4Nr3kN8Rs"
+      "duration_ms": 157146,
+      "name": "I Love You, I'm Sorry",
+      "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
     },
     {
       "added_at": "2026-10-05 23:43:38",
@@ -419,34 +419,18 @@
     {
       "added_at": "2026-10-05 23:43:38",
       "album": {
-        "name": "The Secret of Us",
-        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
+        "name": "Come Over",
+        "url": "https://open.spotify.com/album/2xXG0abKT34biU7L9siPde"
       },
       "artists": [
         {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
-      "duration_ms": 157146,
-      "name": "I Love You, I'm Sorry",
-      "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
-    },
-    {
-      "added_at": "2026-10-05 23:43:38",
-      "album": {
-        "name": "MAMIHLAPINATAPAI",
-        "url": "https://open.spotify.com/album/5VIt2dA2StboE900mllWdJ"
-      },
-      "artists": [
-        {
-          "name": "ILLIT",
-          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
-        }
-      ],
-      "duration_ms": 138284,
-      "name": "It's Me",
-      "url": "https://open.spotify.com/track/1D5L58KLBbceOynTP4DQnY"
+      "duration_ms": 178603,
+      "name": "Come Over",
+      "url": "https://open.spotify.com/track/6uvw8GFIqdqaJ4Nr3kN8Rs"
     },
     {
       "added_at": "2026-10-05 23:43:38",
@@ -467,6 +451,22 @@
     {
       "added_at": "2026-10-05 23:43:38",
       "album": {
+        "name": "MAMIHLAPINATAPAI",
+        "url": "https://open.spotify.com/album/5VIt2dA2StboE900mllWdJ"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "duration_ms": 138284,
+      "name": "It's Me",
+      "url": "https://open.spotify.com/track/1D5L58KLBbceOynTP4DQnY"
+    },
+    {
+      "added_at": "2026-10-05 23:43:38",
+      "album": {
         "name": "Boston",
         "url": "https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2"
       },
@@ -483,22 +483,6 @@
     {
       "added_at": "2026-10-05 23:43:38",
       "album": {
-        "name": "REDRED",
-        "url": "https://open.spotify.com/album/52J8GQoNp2vgDJ6992NjiM"
-      },
-      "artists": [
-        {
-          "name": "CORTIS",
-          "url": "https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P"
-        }
-      ],
-      "duration_ms": 163001,
-      "name": "REDRED",
-      "url": "https://open.spotify.com/track/2fCwv2ppU5nTRTckomIGsd"
-    },
-    {
-      "added_at": "2026-10-05 23:43:38",
-      "album": {
         "name": "Babydoll",
         "url": "https://open.spotify.com/album/2FRSDXehsQLDy2rYnZ9Drq"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 178822,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/1o9mAOmNm3wT2NdyGV1Ard"
+    },
+    {
+      "added_at": "2026-10-05 23:43:38",
+      "album": {
+        "name": "REDRED",
+        "url": "https://open.spotify.com/album/52J8GQoNp2vgDJ6992NjiM"
+      },
+      "artists": [
+        {
+          "name": "CORTIS",
+          "url": "https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P"
+        }
+      ],
+      "duration_ms": 163001,
+      "name": "REDRED",
+      "url": "https://open.spotify.com/track/2fCwv2ppU5nTRTckomIGsd"
     },
     {
       "added_at": "2026-10-05 23:43:38",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-10-05 23:43:38",
       "album": {
-        "name": "Asleep Talking",
-        "url": "https://open.spotify.com/album/5zj7gmiu7g1xDyHbs5yUX3"
-      },
-      "artists": [
-        {
-          "name": "Magnus Ferrell",
-          "url": "https://open.spotify.com/artist/5CljSCTqoS1Yu0tNJZJcKe"
-        }
-      ],
-      "duration_ms": 156329,
-      "name": "Asleep Talking",
-      "url": "https://open.spotify.com/track/7CY8b7fwDQfYvlRegNGITC"
-    },
-    {
-      "added_at": "2026-10-05 23:43:38",
-      "album": {
         "name": "If I Ever Talk To God",
         "url": "https://open.spotify.com/album/11YEqBXjQnDej8wmDEyJSy"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 160120,
       "name": "If I Ever Talk To God",
       "url": "https://open.spotify.com/track/6b9389wXP725IPkaa4qbJL"
+    },
+    {
+      "added_at": "2026-10-05 23:43:38",
+      "album": {
+        "name": "Asleep Talking",
+        "url": "https://open.spotify.com/album/5zj7gmiu7g1xDyHbs5yUX3"
+      },
+      "artists": [
+        {
+          "name": "Magnus Ferrell",
+          "url": "https://open.spotify.com/artist/5CljSCTqoS1Yu0tNJZJcKe"
+        }
+      ],
+      "duration_ms": 156329,
+      "name": "Asleep Talking",
+      "url": "https://open.spotify.com/track/7CY8b7fwDQfYvlRegNGITC"
     },
     {
       "added_at": "2026-10-05 23:43:38",
@@ -979,18 +979,18 @@
     {
       "added_at": "2026-10-05 23:43:38",
       "album": {
-        "name": "The light in the painting",
-        "url": "https://open.spotify.com/album/2skGI69m0mNWQ4o5hguQbY"
+        "name": "Loveland",
+        "url": "https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1"
       },
       "artists": [
         {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
         }
       ],
-      "duration_ms": 224595,
-      "name": "The light in the painting",
-      "url": "https://open.spotify.com/track/6E8YhQRxBowTWXmHbhmJTJ"
+      "duration_ms": 211280,
+      "name": "Weirdo",
+      "url": "https://open.spotify.com/track/0sZLzafgqCzvnzhh8B97r2"
     },
     {
       "added_at": "2026-10-05 23:43:38",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2026-10-05 23:43:38",
       "album": {
-        "name": "Loveland",
-        "url": "https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1"
+        "name": "The light in the painting",
+        "url": "https://open.spotify.com/album/2skGI69m0mNWQ4o5hguQbY"
       },
       "artists": [
         {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 211280,
-      "name": "Weirdo",
-      "url": "https://open.spotify.com/track/0sZLzafgqCzvnzhh8B97r2"
+      "duration_ms": 224595,
+      "name": "The light in the painting",
+      "url": "https://open.spotify.com/track/6E8YhQRxBowTWXmHbhmJTJ"
     },
     {
       "added_at": "2026-10-05 23:43:38",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2026-10-05 23:43:38",
       "album": {
-        "name": "someone new",
-        "url": "https://open.spotify.com/album/2tMJTMdoSMJJwOd56sjyRV"
-      },
-      "artists": [
-        {
-          "name": "Arden Jones",
-          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
-        }
-      ],
-      "duration_ms": 154105,
-      "name": "someone new",
-      "url": "https://open.spotify.com/track/6suGx0q6SlzZSp8dc64yiS"
-    },
-    {
-      "added_at": "2026-10-05 23:43:38",
-      "album": {
         "name": "Twizzler",
         "url": "https://open.spotify.com/album/2F1Za0y4KX2xJifGiCg47z"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 174349,
       "name": "Twizzler",
       "url": "https://open.spotify.com/track/55kn7P8aUDI3CyGx1jlCLT"
+    },
+    {
+      "added_at": "2026-10-05 23:43:38",
+      "album": {
+        "name": "someone new",
+        "url": "https://open.spotify.com/album/2tMJTMdoSMJJwOd56sjyRV"
+      },
+      "artists": [
+        {
+          "name": "Arden Jones",
+          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
+        }
+      ],
+      "duration_ms": 154105,
+      "name": "someone new",
+      "url": "https://open.spotify.com/track/6suGx0q6SlzZSp8dc64yiS"
     },
     {
       "added_at": "2026-10-05 23:43:38",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-10-05 23:43:38",
       "album": {
-        "name": "HALO",
-        "url": "https://open.spotify.com/album/4T7qu6MdxoGjzZPErRWgsO"
-      },
-      "artists": [
-        {
-          "name": "Tiffany Day",
-          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
-        }
-      ],
-      "duration_ms": 135111,
-      "name": "EVERYTHING I'VE EVER WANTED",
-      "url": "https://open.spotify.com/track/40p1AU9WjnKzgUTQu3FBEN"
-    },
-    {
-      "added_at": "2026-10-05 23:43:38",
-      "album": {
         "name": "Big Disgrace",
         "url": "https://open.spotify.com/album/3iyn2K7YlhKie8qrmUV6lS"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 187658,
       "name": "Shy Girl",
       "url": "https://open.spotify.com/track/2LIOTreGvPk5GdpeGUqYIu"
+    },
+    {
+      "added_at": "2026-10-05 23:43:38",
+      "album": {
+        "name": "HALO",
+        "url": "https://open.spotify.com/album/4T7qu6MdxoGjzZPErRWgsO"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Day",
+          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
+        }
+      ],
+      "duration_ms": 135111,
+      "name": "EVERYTHING I'VE EVER WANTED",
+      "url": "https://open.spotify.com/track/40p1AU9WjnKzgUTQu3FBEN"
     },
     {
       "added_at": "2026-10-05 23:43:38",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-10-05 23:43:38",
       "album": {
-        "name": "Too Fast To Live, Too Young To Die",
-        "url": "https://open.spotify.com/album/7izVNMquDzVFQSKhdG3nrP"
-      },
-      "artists": [
-        {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
-        }
-      ],
-      "duration_ms": 201340,
-      "name": "Too Fast To Live, Too Young To Die",
-      "url": "https://open.spotify.com/track/21MKQAjN27atrgu5jAlzaL"
-    },
-    {
-      "added_at": "2026-10-05 23:43:38",
-      "album": {
         "name": "HALO",
         "url": "https://open.spotify.com/album/4T7qu6MdxoGjzZPErRWgsO"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 224661,
       "name": "SAME LA",
       "url": "https://open.spotify.com/track/5PYrRnaRsCOOE0c65L4y2M"
+    },
+    {
+      "added_at": "2026-10-05 23:43:38",
+      "album": {
+        "name": "Wishbone",
+        "url": "https://open.spotify.com/album/1Q0kTJx8DrQd8RJW9L7eIN"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 234228,
+      "name": "Caramel",
+      "url": "https://open.spotify.com/track/7H5jHyfHk4sAYoS8J8f112"
     }
   ],
   "unique_name": "*hits different*",

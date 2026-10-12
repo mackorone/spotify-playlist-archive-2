@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > いま話題のバイラルヒット曲をまとめてチェック。Cover: Zara Larsson
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,192 likes - 60 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,184 likes - 60 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

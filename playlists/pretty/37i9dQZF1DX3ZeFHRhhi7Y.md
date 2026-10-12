@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZeFHRhhi7Y.md) - [plain]
 
 > Workout to K\-Pop? Count me in! \(Cover: BOYNEXTDOOR\) \(신나는 케이팝 댄스 음악과 함께 운동을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,324,947 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,324,898 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZeFHRhhi7Y.md) - [plain]
 | 4 | [It's Me](https://open.spotify.com/track/1D5L58KLBbceOynTP4DQnY) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [MAMIHLAPINATAPAI](https://open.spotify.com/album/5VIt2dA2StboE900mllWdJ) | 2:18 |
 | 5 | [BAD](https://open.spotify.com/track/55UDXtbNJBAdTdUdbRu8T3) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.5](https://open.spotify.com/album/6Eg6B1mgGj2dGLBajzsVpV) | 2:36 |
 | 6 | [RUDE!](https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [RUDE!](https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s) | 3:20 |
-| 7 | [BOOMPALA](https://open.spotify.com/track/41d2WjuL0ikRKVjxmL7ZFz) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | ['PUREFLOW', Pt\. 1](https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko) | 2:56 |
-| 8 | [Catch Catch](https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [LOVE CATCHER](https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F) | 3:00 |
+| 7 | [Catch Catch](https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [LOVE CATCHER](https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F) | 3:00 |
+| 8 | [BOOMPALA](https://open.spotify.com/track/41d2WjuL0ikRKVjxmL7ZFz) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | ['PUREFLOW', Pt\. 1](https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko) | 2:56 |
 | 9 | [NOT CUTE ANYMORE](https://open.spotify.com/track/1k0JAiH11gHL9dc5dfQjQr) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [NOT CUTE ANYMORE](https://open.spotify.com/album/6wKHLrZczZAhDVsMEG4JXt) | 2:11 |
 | 10 | [CHOOM](https://open.spotify.com/track/4cox7ONwuCwUvfZ9fsGDVu) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [춤 \(CHOOM\)](https://open.spotify.com/album/1VmMG3mtIWHWm618Cwiku7) | 2:58 |
 | 11 | [Lemon Tang](https://open.spotify.com/track/0NGFAcYQVHCIdQea2qSs1I) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [Lemon Tang \- The 2nd Mini Album](https://open.spotify.com/album/39xlBHb1gQvMVqRZLjaTjI) | 2:43 |
@@ -39,16 +39,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZeFHRhhi7Y.md) - [plain]
 | 29 | [LEMONADE](https://open.spotify.com/track/6vjt2smGK75oc9r2OGFfgp) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [LEMONADE \- The 2nd Album](https://open.spotify.com/album/1GjT1mri5wvJAYZ3rnZamk) | 3:07 |
 | 30 | [SWEAT](https://open.spotify.com/track/503e19tHN0QmaraGxAQzt7) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [SWEAT](https://open.spotify.com/album/4yEWhrGAxvMhNtL4TuO2rq) | 2:53 |
 | 31 | [Vanilla Days](https://open.spotify.com/track/6J0lnKcH7C1Hu0tn5hv7pI) | [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [Training Day](https://open.spotify.com/album/7z5ZIN7o44Tk8EUkm7AVar) | 2:50 |
-| 32 | [Supersonic](https://open.spotify.com/track/6oNLSQX8bcAdbCElZYju3v) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Supersonic](https://open.spotify.com/album/1sxOavrEVy7krHpcbCsiJi) | 2:54 |
-| 33 | [NEMONEMO](https://open.spotify.com/track/4UwsXGVppRRJpKBHy0mtyK) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [NEMONEMO](https://open.spotify.com/album/6FLiJ4318RtpA5lYWJt2cL) | 2:58 |
+| 32 | [NEMONEMO](https://open.spotify.com/track/4UwsXGVppRRJpKBHy0mtyK) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [NEMONEMO](https://open.spotify.com/album/6FLiJ4318RtpA5lYWJt2cL) | 2:58 |
+| 33 | [Supersonic](https://open.spotify.com/track/6oNLSQX8bcAdbCElZYju3v) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Supersonic](https://open.spotify.com/album/1sxOavrEVy7krHpcbCsiJi) | 2:54 |
 | 34 | [BOTH SIDES](https://open.spotify.com/track/3b8RmBMHKwhVzsn3EMGqpK) | [NCT JNJM](https://open.spotify.com/artist/1LljMyYd0jLd4Q7z1iDR5H) | [BOTH SIDES \- The 1st Mini Album](https://open.spotify.com/album/6bRPrpiUj5AFPkJLcIfMQh) | 2:51 |
 | 35 | [Who is she](https://open.spotify.com/track/16iOs2f9G9qRknDgM9cfAw) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Who is she](https://open.spotify.com/album/3oKZB7YNsYSvmI4YQjhtdS) | 2:39 |
 | 36 | [body](https://open.spotify.com/track/4LJJxB4a47mreJAfKwbGEM) | [DAYOUNG](https://open.spotify.com/artist/5SQHuBLqaasC50vOL9s8Mz) | [gonna love me, right?](https://open.spotify.com/album/0OvHcZkbrNQbPHKi5JzyWb) | 2:48 |
 | 37 | [UNCHILD](https://open.spotify.com/track/4wElGORjS56XtTvOJTPHVb) | [UNCHILD](https://open.spotify.com/artist/6TKweJiG4KC62YFs5KKUqu) | [We Are UNCHILD](https://open.spotify.com/album/4NVBboBjuyeBp0qIojiDbP) | 2:28 |
 | 38 | [SIGN](https://open.spotify.com/track/6vBVBzf0VeRO4aPwABnohX) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [SIGN](https://open.spotify.com/album/5AAT3LhKilv2xkdFPrdNfd) | 2:46 |
 | 39 | [404 \(New Era\)](https://open.spotify.com/track/1rEa59P5yEal5cp1h7kl2e) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [Delulu Pack](https://open.spotify.com/album/4TLi6XAREzVWWkgtMQagJc) | 2:59 |
-| 40 | [GOOD STUFF \- KARINA Solo](https://open.spotify.com/track/19iJj3pCMwGxrA6pltPat3) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [SYNK : aeXIS LINE \- 2025 Special Digital Single](https://open.spotify.com/album/74gHwFGwl4KWA3sD8ZmAbJ) | 2:55 |
-| 41 | [CRASH](https://open.spotify.com/track/1pU7ywmV4nJsgJcnuPMLyw) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [CRASH](https://open.spotify.com/album/2aYxa2gszF0aAZI8adt7oI) | 2:52 |
+| 40 | [CRASH](https://open.spotify.com/track/1pU7ywmV4nJsgJcnuPMLyw) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [CRASH](https://open.spotify.com/album/2aYxa2gszF0aAZI8adt7oI) | 2:52 |
+| 41 | [GOOD STUFF \- KARINA Solo](https://open.spotify.com/track/19iJj3pCMwGxrA6pltPat3) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [SYNK : aeXIS LINE \- 2025 Special Digital Single](https://open.spotify.com/album/74gHwFGwl4KWA3sD8ZmAbJ) | 2:55 |
 | 42 | [LOOP \(feat\. Lil Cherry\)](https://open.spotify.com/track/1JNsKjaCFgTxjP3EkKfYZo) | [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce), [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4) | [LOOP](https://open.spotify.com/album/1j8kzYnKuztDWliT8V8Qto) | 2:43 |
 | 43 | [Crown](https://open.spotify.com/track/4iu11uPXYHUJaq5vr9cLwW) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [REVERXE \- The 8th Album](https://open.spotify.com/album/4ZXDMoZKLnkxFyqRGmCLnB) | 3:18 |
 | 44 | [Heavy Serenade](https://open.spotify.com/track/2adYJ0qJw5Io8nhtQ9KjHq) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Heavy Serenade](https://open.spotify.com/album/0TOh2mF9pf00hxvePxpJFj) | 3:00 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZeFHRhhi7Y.md) - [plain]
 | 69 | [BLACKHOLE](https://open.spotify.com/track/0MtiWniV24IBXmBPeW1v1m) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REVIVE+](https://open.spotify.com/album/28fYAUhRzVQM5nu4EmlDvo) | 3:14 |
 | 70 | [Key Beats](https://open.spotify.com/track/78LggIu7ieohPUuP91SmBI) | [Keyveatz](https://open.spotify.com/artist/6f8BfBKDA1P0yLj6uAmLLF) | [Key Beats](https://open.spotify.com/album/0kBBaam9McJndyPBpfkWOK) | 2:10 |
 | 71 | [Hit 'Em](https://open.spotify.com/track/36vNPZ4chJ8IWfirSQMHN0) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [BITE NOW](https://open.spotify.com/album/1vD1hoR6vP6V4mpytBeCtB) | 2:48 |
-| 72 | [BORN DIRE](https://open.spotify.com/track/4ArQoiE0uz58FkG9AtEzkv) | [ALPHA DRIVE ONE](https://open.spotify.com/artist/1Sal7hVz3weo0mvYZPiWHT) | [UNBREAKABLE : 少年BEAST](https://open.spotify.com/album/0OSPd91szcWQ2FaQspx7T7) | 2:42 |
-| 73 | [I DONT CARE](https://open.spotify.com/track/7h6DJy4HspkjUtOdYtfqv4) | [Baby DONT Cry](https://open.spotify.com/artist/0dXoF2Q2WnVrhRT26SJNvs) | [I DONT CARE](https://open.spotify.com/album/1gB4PCBKB6QeHH3IBBWX7X) | 3:19 |
+| 72 | [I DONT CARE](https://open.spotify.com/track/7h6DJy4HspkjUtOdYtfqv4) | [Baby DONT Cry](https://open.spotify.com/artist/0dXoF2Q2WnVrhRT26SJNvs) | [I DONT CARE](https://open.spotify.com/album/1gB4PCBKB6QeHH3IBBWX7X) | 3:19 |
+| 73 | [BORN DIRE](https://open.spotify.com/track/4ArQoiE0uz58FkG9AtEzkv) | [ALPHA DRIVE ONE](https://open.spotify.com/artist/1Sal7hVz3weo0mvYZPiWHT) | [UNBREAKABLE : 少年BEAST](https://open.spotify.com/album/0OSPd91szcWQ2FaQspx7T7) | 2:42 |
 | 74 | [Impossible](https://open.spotify.com/track/2cN2qkaSnO5KKAMSa5ZfIm) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [RIIZING \- The 1st Mini Album](https://open.spotify.com/album/52DnBWGBeFmhQP5fkpVPoO) | 3:02 |
 | 75 | [EXTRA](https://open.spotify.com/track/5ZuF7Gfj4f1IBta90LWrxI) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [EXTRA](https://open.spotify.com/album/1QMdzkRQl9XBsZtRQXcLL1) | 2:30 |
 | 76 | [WHERE YOU AT](https://open.spotify.com/track/6vfcaWsN8gBLpfpSCru0Co) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2), [ANNIE](https://open.spotify.com/artist/4w6pewq4FAdlIHxweADBh4), [WOOCHAN](https://open.spotify.com/artist/3aJJ3PgNVHdHGZ1XPgtSEc) | [ALLDAY PROJECT](https://open.spotify.com/album/2SdkMYexkvmQaUmgawGJkA) | 2:42 |

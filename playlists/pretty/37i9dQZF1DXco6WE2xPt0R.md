@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 
 > longe dos perigos noturnos
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,206 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,208 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 | 55 | [Want Love](https://open.spotify.com/track/0dxjbuwxOFFYFIPlsOhcPw) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Want Love](https://open.spotify.com/album/4Vuu72qzPAzs6gIBio67hf) | 3:20 |
 | 56 | [Hoodie](https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Hoodie](https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN) | 4:04 |
 | 57 | [Diamonds And Pearls](https://open.spotify.com/track/2fKW2z6VAOGSaEeOTBTOWt) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx) | [Diamonds And Pearls](https://open.spotify.com/album/17v5uQhPTOV1xbNcHBWivY) | 3:09 |
-| 58 | [Seamless \(with Kehlani\)](https://open.spotify.com/track/2UqMwz0vqVDdkLHZrzSLOp) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Seamless \(with Kehlani\)](https://open.spotify.com/album/0gKMMJm0FAVhgL8HUJdWLV) | 3:15 |
-| 59 | [Coração \- A COLORS SHOW](https://open.spotify.com/track/7Cc6xpJYfWtv5rd6njoscP) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Coração \- A COLORS SHOW](https://open.spotify.com/album/50E5vM6nba29Ue1RDs16kk) | 2:52 |
+| 58 | [Coração \- A COLORS SHOW](https://open.spotify.com/track/7Cc6xpJYfWtv5rd6njoscP) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Coração \- A COLORS SHOW](https://open.spotify.com/album/50E5vM6nba29Ue1RDs16kk) | 2:52 |
+| 59 | [Seamless \(with Kehlani\)](https://open.spotify.com/track/2UqMwz0vqVDdkLHZrzSLOp) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Seamless \(with Kehlani\)](https://open.spotify.com/album/0gKMMJm0FAVhgL8HUJdWLV) | 3:15 |
 | 60 | [He Will Follow You With His Eyes](https://open.spotify.com/track/4kP5P9xl4iu191ZvPzGuZW) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Black Rainbows](https://open.spotify.com/album/741jF1Njwj0i1dQAPdvKZ1) | 3:45 |
 | 61 | [Back To Love \[Feat\. SiR & Alex Isley\]](https://open.spotify.com/track/5Szrve8Y2ly9uxZupBIwgg) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Back To Love \[Feat\. SiR & Alex Isley\]](https://open.spotify.com/album/0MZOBJmTVwcxhlAkVmuhN7) | 3:21 |
 | 62 | [Choosin'](https://open.spotify.com/track/6ixs1OVZpJ4gIPDdpzZqvn) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx) | [Choosin'](https://open.spotify.com/album/6bW3Tm54WdO1OdHtBKckdy) | 2:56 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 | 79 | [Stay Down](https://open.spotify.com/track/2kE7QJTNVVr3P0iYi7D0ia) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg) | [Most Wanted](https://open.spotify.com/album/1qW6lKOXE6XsrZp0WjqB4H) | 3:28 |
 | 80 | [Let Me See Your Phone](https://open.spotify.com/track/5rBXXZWDsIRsi5Ur2JWTsC) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Let Me See Your Phone](https://open.spotify.com/album/4f6ijLrllKsvvUEhiuqVv4) | 3:22 |
 | 81 | [Precious](https://open.spotify.com/track/20djsOOXlbSIeO2idY99c3) | [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH), [High Klassified](https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O), [Gäelle](https://open.spotify.com/artist/6aiaoT7eRRVYKgpYDB4s6T) | [Precious](https://open.spotify.com/album/7Mv6IVfkVlzxlyAihQspQK) | 2:32 |
-| 82 | [Falling or flying](https://open.spotify.com/track/7uiBtN7MLqQfaclC74DX3J) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Falling or flying](https://open.spotify.com/album/1hWYt17game3yX5FEa3O7M) | 3:24 |
-| 83 | [Stay Here Tonight](https://open.spotify.com/track/35osWEtUUselhnoFpwA3X2) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [Good Life](https://open.spotify.com/album/2aFulxeOIYdakdVXjgaHDz) | 2:57 |
+| 82 | [Stay Here Tonight](https://open.spotify.com/track/35osWEtUUselhnoFpwA3X2) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [Good Life](https://open.spotify.com/album/2aFulxeOIYdakdVXjgaHDz) | 2:57 |
+| 83 | [Falling or flying](https://open.spotify.com/track/7uiBtN7MLqQfaclC74DX3J) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Falling or flying](https://open.spotify.com/album/1hWYt17game3yX5FEa3O7M) | 3:24 |
 | 84 | [Love Like This \(feat\. Phonte & Carmen Rodgers\)](https://open.spotify.com/track/7mWAiYyAwKuH2rSmMbmtj6) | [Darien Brockington](https://open.spotify.com/artist/2yNKEtbsHXCHkkluxANoD8), [Phonte](https://open.spotify.com/artist/5SyCTZ8X8YQCI0J1VRp4iC), [Carmen Rodgers](https://open.spotify.com/artist/0IxItpWQ00GD5UNtK9nqYX) | [Where Love Grows](https://open.spotify.com/album/5lzP8FF6iJ02BZbtcZSnki) | 3:14 |
 | 85 | [Lovely](https://open.spotify.com/track/7H4SWnkASjuDpQ0IBJMdxN) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Lovely](https://open.spotify.com/album/6Z9wZe07ALndfH3Q0Ne876) | 2:53 |
 | 86 | [No Pussy For Losers](https://open.spotify.com/track/5VDF6rpkDLlbmB8Vf8sxea) | [Jesse Boykins III](https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29) | [New Growth](https://open.spotify.com/album/5FqqxmI6py4VQuCDCvGFJO) | 2:57 |

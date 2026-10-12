@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3zfnzDqNkjEZUNLWFpMiBs">E.Y\. "Yip" Harburg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-342 songs - 17 hr 50 min
+343 songs - 17 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -335,7 +335,8 @@
 | [What Good Does It Do](https://open.spotify.com/track/4WNQLcFZlZsrDx4oYAg9bC) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Tony Bennett Sings A String Of Harold Arlen](https://open.spotify.com/album/6MYMgEXvAzClsDSFRaKDNr) | 4:08 | 2024-07-24 |  |
 | [What Is There To Say?](https://open.spotify.com/track/5l0TSFftfKMk7FF84EO7FO) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Everybody Digs Bill Evans](https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt) | 4:55 | 2026-04-14 |  |
 | [Whatever That May Be](https://open.spotify.com/track/02owUdlPG20wF59xIfDEO4) | [Janice Rule](https://open.spotify.com/artist/0Jj6ZBoSkG9LN6J52d3RaJ), [The Happiest Girl In The World Ensemble](https://open.spotify.com/artist/6p5k1yzxlF3tzhuI949z8j) | [The Happiest Girl in the World \(Original Broadway Cast Recording\)](https://open.spotify.com/album/68dIWqtunt3hlYtKDFUY2C) | 2:07 | 2024-07-24 |  |
-| [When I'm Not Near The Girl I Love](https://open.spotify.com/track/2p6sMTDDGKKIHAlBrcAb7R) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra ’65](https://open.spotify.com/album/22dAgxWXl4mZ8L3O0YPMkA) | 3:25 | 2025-06-27 |  |
+| [When I'm Not Near the Girl I Love](https://open.spotify.com/track/3pIXf6WqA5BsDV3hGZ8ztZ) | [Burton Lane](https://open.spotify.com/artist/2I94yBi5nYiyVs00T7NxWA), [Yip Harburg](https://open.spotify.com/artist/7MrL6dlW8gcb7T3YhhCdOA), [Christopher Fitzgerald](https://open.spotify.com/artist/1Yq9Q4bPuxh1N4wtIEXyII) | [Finian's Rainbow \(New Broadway Cast Recording\)](https://open.spotify.com/album/03R8He29oPPJAQC3uYyAq1) | 3:56 | 2026-10-11 |  |
+| [When I'm Not Near The Girl I Love](https://open.spotify.com/track/2p6sMTDDGKKIHAlBrcAb7R) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra ’65](https://open.spotify.com/album/22dAgxWXl4mZ8L3O0YPMkA) | 3:25 | 2025-06-27 | 2026-10-12 |
 | [When the Idle Poor Become the Idle Rich](https://open.spotify.com/track/4IqJDmH7yZhoCoDCKaL4AR) | [Burton Lane](https://open.spotify.com/artist/2I94yBi5nYiyVs00T7NxWA), [Yip Harburg](https://open.spotify.com/artist/7MrL6dlW8gcb7T3YhhCdOA), [Jim Norton](https://open.spotify.com/artist/3vIOYTxzWZMXnPJl0G7O0r), [Kate Baldwin](https://open.spotify.com/artist/7v9S5rwclGrPpm3jdoJcJa) | [Finian's Rainbow \(New Broadway Cast Recording\)](https://open.spotify.com/album/03R8He29oPPJAQC3uYyAq1) | 5:34 | 2024-07-24 |  |
 | [When We Were Young](https://open.spotify.com/track/5OxWNIpnedq0bhdUhmNrJT) | [Falls](https://open.spotify.com/artist/0SP0jz4htYhpiCuNEvKr0l) | [Omaha](https://open.spotify.com/album/7BfVNstl3oipb2ZGWyKQxH) | 3:18 | 2024-07-24 | 2025-06-28 |
 | [When We Were Young](https://open.spotify.com/track/0GaNcqO0EVrzGjLqyZHTcu) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Moments](https://open.spotify.com/album/1woKCA8dTokL647kKXySq6) | 4:18 | 2025-06-27 | 2025-07-10 |

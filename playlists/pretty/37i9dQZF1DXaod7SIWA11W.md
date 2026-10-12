@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 
 > Get lifted by the waves of faith\-infused music\.  Cover: Kirk Franklin
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,471 likes - 79 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,486 likes - 79 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 | 78 | [Show Me](https://open.spotify.com/track/2PdQRUYXMLPqf8ckw9McyO) | [Ochaè](https://open.spotify.com/artist/3BQA6DkdnDx5Gd07dFgFeI) | [Prodigal](https://open.spotify.com/album/2Ia0jrSaVw8Xu5AmsZQCM5) | 4:05 |
 | 79 | [The Name](https://open.spotify.com/track/1M4eecu2KuQHmoAPGhHSjV) | [JustCordell](https://open.spotify.com/artist/4kyOIXivEHCVnJOfSo6lYn) | [The Name](https://open.spotify.com/album/75Z4KcPduTS3dbIvZSELee) | 2:17 |
 
-Snapshot ID: `AAAAAMWbfnWEYhR//FTFiZG1NfLA4pSo`
+Snapshot ID: `AAAAALWFWRO3/0dtlvGQRvoz8nMkViZD`

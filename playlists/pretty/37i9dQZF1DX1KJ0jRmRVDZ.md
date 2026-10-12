@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネットカルチャーから生まれたサウンドの記録。A collection of sounds shaped by internet culture\. <br/>Cover: Daoko
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,139 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,128 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

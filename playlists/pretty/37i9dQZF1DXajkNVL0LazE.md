@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 
 > Indie folk that defined the 2000s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,569 likes - 100 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,601 likes - 100 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 | 32 | [Jesus, Etc.](https://open.spotify.com/track/4wd09wCccmxUB7XVJp0RNn) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Yankee Hotel Foxtrot](https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv) | 3:51 |
 | 33 | [The Blower's Daughter](https://open.spotify.com/track/4B2lJinAkeNLSJjcq3dg8Q) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 4:46 |
 | 34 | [The Wrote & The Writ](https://open.spotify.com/track/1vLH58T2L3uHryV2JAT8rk) | [Johnny Flynn](https://open.spotify.com/artist/1UQRtt7eHW6Bt4INNTUtb3) | [A Larum](https://open.spotify.com/album/4si1HNK1gPFAYfONE19eih) | 4:07 |
-| 35 | [I Want Wind to Blow](https://open.spotify.com/track/1bAZV1EBTRi9t1cVg75i8t) | [The Microphones](https://open.spotify.com/artist/7Ht57YadlBXcFJDK3plmhO) | [The Glow, Pt\. 2](https://open.spotify.com/album/6QYoRO2sXThCORAifrP4Bl) | 5:32 |
-| 36 | [Roscoe](https://open.spotify.com/track/01qJhVPCHFFR6wJ5ptyw17) | [Midlake](https://open.spotify.com/artist/4YsP5zmteLQ7etNjHAOu30) | [The Trials of Van Occupanther](https://open.spotify.com/album/034XwDisEPdZwJWTOaUaVs) | 4:46 |
+| 35 | [Roscoe](https://open.spotify.com/track/01qJhVPCHFFR6wJ5ptyw17) | [Midlake](https://open.spotify.com/artist/4YsP5zmteLQ7etNjHAOu30) | [The Trials of Van Occupanther](https://open.spotify.com/album/034XwDisEPdZwJWTOaUaVs) | 4:46 |
+| 36 | [I Want Wind to Blow](https://open.spotify.com/track/1bAZV1EBTRi9t1cVg75i8t) | [The Microphones](https://open.spotify.com/artist/7Ht57YadlBXcFJDK3plmhO) | [The Glow, Pt\. 2](https://open.spotify.com/album/6QYoRO2sXThCORAifrP4Bl) | 5:32 |
 | 37 | [Star Witness](https://open.spotify.com/track/17fWdcSAhLc6559youmLap) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Fox Confessor Brings The Flood \(Bonus Track Version\)](https://open.spotify.com/album/5yIiFmVkza1N3ddMtftxIZ) | 5:16 |
 | 38 | [Sycamore](https://open.spotify.com/track/0do3zfmbVl5DiGxUXrbhrT) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Woke On A Whaleheart](https://open.spotify.com/album/4ZrfprqjbFWKGV0prZfDGH) | 5:35 |
 | 39 | [Mushaboom](https://open.spotify.com/track/66olzBxCgKlpFRB1LKH5pO) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Let It Die](https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI) | 3:44 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 | 61 | [You May Be Blue](https://open.spotify.com/track/7pzSiISHRFQTlMKLZ94Z54) | [Vetiver](https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E) | [To Find Me Gone](https://open.spotify.com/album/1pqDv5gYGWNrkfb7iFj6NB) | 4:40 |
 | 62 | [Mightiest of Guns](https://open.spotify.com/track/0JIx11Ysmmmy0VnV0KwP19) | [A.A\. Bondy](https://open.spotify.com/artist/4l8UbJGiXxbfyDJPvcVH23) | [When the Devil's Loose](https://open.spotify.com/album/3mUX3hUieJOQxmaJLWTuwq) | 3:47 |
 | 63 | [2 Dollar Shoes](https://open.spotify.com/track/6cpH4I4eWPsWyusvMbpDHY) | [Rosie Thomas](https://open.spotify.com/artist/5Tw6OSRLoU7IHTO8kHGRQr) | [When We Were Small](https://open.spotify.com/album/5ldZ6r1WahI5BB2MdXF43x) | 3:10 |
-| 64 | [Good Man](https://open.spotify.com/track/3gFqVpiJk7pcKzy4aerQrW) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [The Animal Years](https://open.spotify.com/album/123dbllYoWDsMqESeUqAbw) | 4:08 |
-| 65 | [Hutterite Mile](https://open.spotify.com/track/6p80ag5QuK3b609DMpD7AM) | [16 Horsepower](https://open.spotify.com/artist/188gwh9RnRT58ZQPwqwHE3) | [Folklore](https://open.spotify.com/album/0zYc9YpWV3n6txRxLjtOef) | 4:04 |
+| 64 | [Hutterite Mile](https://open.spotify.com/track/6p80ag5QuK3b609DMpD7AM) | [16 Horsepower](https://open.spotify.com/artist/188gwh9RnRT58ZQPwqwHE3) | [Folklore](https://open.spotify.com/album/0zYc9YpWV3n6txRxLjtOef) | 4:04 |
+| 65 | [Good Man](https://open.spotify.com/track/3gFqVpiJk7pcKzy4aerQrW) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [The Animal Years](https://open.spotify.com/album/123dbllYoWDsMqESeUqAbw) | 4:08 |
 | 66 | [The Lonesome Border, Pt\. 1](https://open.spotify.com/track/5W0j7P73UBuiRvExwNVbYc) | [Dear Nora](https://open.spotify.com/artist/1imEozQrzLhh9b8LOZESx5) | [Mountain Rock](https://open.spotify.com/album/3kk8UwJ5VAWx8l4wfnRzsy) | 1:31 |
 | 67 | [The Swimming Song](https://open.spotify.com/track/6ulFhQ1pfkUNuCY1zxClmv) | [Vetiver](https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E) | [Thing Of The Past](https://open.spotify.com/album/1c1QSSEh3Hv8FHoCQM4R7Y) | 2:42 |
 | 68 | [Northern Lights](https://open.spotify.com/track/4r9PnuIGOJOZ6UofWyMdow) | [Bowerbirds](https://open.spotify.com/artist/4MoGkOmfK6oKi1Isc8Iv9m) | [Upper Air](https://open.spotify.com/album/6j7VkUjGahbmwgPchYezpZ) | 2:54 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 | 89 | [Little Lion Man](https://open.spotify.com/track/6JnufVNLIO5F5Lk4sEVLeI) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/6w5W6ZGTvDsppKUOiGMuMo) | 4:06 |
 | 90 | [Home](https://open.spotify.com/track/7w5cxTEzp1rfV3KCy0Bd5N) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Up from Below](https://open.spotify.com/album/39xrkt8RILtwa9DMyLkv32) | 5:03 |
 | 91 | [Skinny Love](https://open.spotify.com/track/2cbic3TiUENlJX91y67ARR) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/4SxFsOO0h4Nz3lFJuysKq5) | 3:58 |
-| 92 | [5 Years Time](https://open.spotify.com/track/1KlDcHrlDPUJJPmMup3tUp) | [Noah And The Whale](https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP) | [Peaceful, The World Lays Me Down](https://open.spotify.com/album/4bzNinbJcnth182w03fSL2) | 3:34 |
-| 93 | [Trouble](https://open.spotify.com/track/5aGkIyzLVYGuLIHkxpNAFF) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Trouble](https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9) | 4:01 |
+| 92 | [Trouble](https://open.spotify.com/track/5aGkIyzLVYGuLIHkxpNAFF) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Trouble](https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9) | 4:01 |
+| 93 | [5 Years Time](https://open.spotify.com/track/1KlDcHrlDPUJJPmMup3tUp) | [Noah And The Whale](https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP) | [Peaceful, The World Lays Me Down](https://open.spotify.com/album/4bzNinbJcnth182w03fSL2) | 3:34 |
 | 94 | [The Cave](https://open.spotify.com/track/7IxVWmdabNVhfLBV3JD0nJ) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/6w5W6ZGTvDsppKUOiGMuMo) | 3:37 |
 | 95 | [Special Death](https://open.spotify.com/track/1Y7SunUEcwxyev6VtXRnZd) | [Mirah](https://open.spotify.com/artist/5AZHg5fZjuN4FzGUnaiQcj) | [Advisory Committee](https://open.spotify.com/album/4PFZFBAC72pNx0PuJaBNui) | 2:32 |
 | 96 | [Misread](https://open.spotify.com/track/3hxoYmSHzIBwSS2bPTOfbg) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Riot On An Empty Street](https://open.spotify.com/album/5QE8eXeN0q8M7atLb1fT6c) | 3:08 |

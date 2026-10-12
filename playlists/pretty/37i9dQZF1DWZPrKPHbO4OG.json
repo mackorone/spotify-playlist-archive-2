@@ -1,6 +1,6 @@
 {
   "description": "Your ultimate gym playlist featuring upbeat Marathi tracks.",
-  "num_followers": 39531,
+  "num_followers": 39545,
   "original_name": "Marathi Workout",
   "owner": {
     "name": "Spotify",
@@ -507,6 +507,22 @@
     {
       "added_at": "2026-09-24 07:16:44",
       "album": {
+        "name": "Halgi Original Mix 2021",
+        "url": "https://open.spotify.com/album/0e5VIf0iCEAXwMSrCq1sCO"
+      },
+      "artists": [
+        {
+          "name": "Dj Sagar Barshi",
+          "url": "https://open.spotify.com/artist/2xxMr85ClJANTBZzwqQrz6"
+        }
+      ],
+      "duration_ms": 253283,
+      "name": "Halgi Original Mix 2021",
+      "url": "https://open.spotify.com/track/65MsTGfDr0E3OyVYXqtugi"
+    },
+    {
+      "added_at": "2026-09-24 07:16:44",
+      "album": {
         "name": "Govyachya Kinaryav",
         "url": "https://open.spotify.com/album/0U5aoS77dw5YsgwZR6avZv"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 214357,
       "name": "Govyachya Kinaryav",
       "url": "https://open.spotify.com/track/188jpJestqxy1d8FOQcKJh"
-    },
-    {
-      "added_at": "2026-09-24 07:16:44",
-      "album": {
-        "name": "Halgi Original Mix 2021",
-        "url": "https://open.spotify.com/album/0e5VIf0iCEAXwMSrCq1sCO"
-      },
-      "artists": [
-        {
-          "name": "Dj Sagar Barshi",
-          "url": "https://open.spotify.com/artist/2xxMr85ClJANTBZzwqQrz6"
-        }
-      ],
-      "duration_ms": 253283,
-      "name": "Halgi Original Mix 2021",
-      "url": "https://open.spotify.com/track/65MsTGfDr0E3OyVYXqtugi"
     },
     {
       "added_at": "2026-09-24 07:16:44",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLS4T1o0HG9.md) - [plain]
 
 > The essential pop rock songs from the 80s\. Cover: The Go\-Go's
 
-[Spotify](https://open.spotify.com/user/spotify) - 593,775 likes - 100 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 593,992 likes - 100 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLS4T1o0HG9.md) - [plain]
 | 15 | [Bette Davis Eyes](https://open.spotify.com/track/0odIT9B9BvOCnXfS0e4lB5) | [Kim Carnes](https://open.spotify.com/artist/5PN2aHIvLEM98XIorsPMhE) | [Mistaken Identity](https://open.spotify.com/album/3iMwQk5yE0UDDKbLCdcxZA) | 3:48 |
 | 16 | [Walking On Sunshine](https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0) | [Katrina & The Waves](https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3) | [Katrina & The Waves](https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7) | 3:58 |
 | 17 | [We Didn't Start the Fire](https://open.spotify.com/track/3Cx4yrFaX8CeHwBMReOWXI) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Storm Front](https://open.spotify.com/album/1Vw2uoVkLAJFVViJ1QyK1D) | 4:51 |
-| 18 | [We Built This City](https://open.spotify.com/track/6OnfBiiSc9RGKiBKKtZXgQ) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [Knee Deep In The Hoopla](https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6) | 4:56 |
-| 19 | [She Drives Me Crazy](https://open.spotify.com/track/4d6eqRtpDX7tydHJGDZUBQ) | [Fine Young Cannibals](https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp) | [The Raw & The Cooked](https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F) | 3:35 |
+| 18 | [She Drives Me Crazy](https://open.spotify.com/track/4d6eqRtpDX7tydHJGDZUBQ) | [Fine Young Cannibals](https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp) | [The Raw & The Cooked](https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F) | 3:35 |
+| 19 | [We Built This City](https://open.spotify.com/track/6OnfBiiSc9RGKiBKKtZXgQ) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [Knee Deep In The Hoopla](https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6) | 4:56 |
 | 20 | [Drive \- 2017 Remaster](https://open.spotify.com/track/2lFFiNm0XtgJ6wkdncTB4k) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [Heartbeat City \(Expanded Edition\)](https://open.spotify.com/album/7LPfdVDw4uXf9Bw5LQDESf) | 3:54 |
 | 21 | [You Give Love A Bad Name](https://open.spotify.com/track/0rmGAIH9LNJewFw7nKzZnc) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t) | 3:42 |
 | 22 | [You Can Call Me Al](https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Graceland \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky) | 4:40 |
@@ -94,11 +94,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLS4T1o0HG9.md) - [plain]
 | 84 | [Mr\. Roboto](https://open.spotify.com/track/7C0rG4oWO7VeZcffyW1sK9) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [Kilroy Was Here](https://open.spotify.com/album/0fRptUxZ5A1EAJww9bcqu6) | 5:28 |
 | 85 | [We Got The Beat](https://open.spotify.com/track/5kz9GDBTX846OXwqWoyKzF) | [The Go\-Go's](https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE) | [Beauty And The Beat](https://open.spotify.com/album/1L4HE00En7eNK74voVZums) | 2:33 |
 | 86 | [In Your Eyes \- 2012 Remaster](https://open.spotify.com/track/4qN7nSAVTjPfOOz0wkRQpM) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [So \(2012 Remastered\)](https://open.spotify.com/album/2ikq6LspaBbUG2qyiV5qdx) | 5:30 |
-| 87 | [Our House](https://open.spotify.com/track/1qV6e4ITnfGmA6m6Vklvbi) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [Madness](https://open.spotify.com/album/2P1bkVHSonLBBSKvrBbdbw) | 3:21 |
-| 88 | [Kyrie \- Single Version](https://open.spotify.com/track/5BXj1QDRU77J1ngVavG1tI) | [Mr\. Mister](https://open.spotify.com/artist/7Bah8E0kCETqEpAHI6CPzQ) | [The Best of Mr\. Mister](https://open.spotify.com/album/0qCccU99b8JabM1xPpWJKh) | 4:16 |
-| 89 | [Little Lies \- 2017 Remaster](https://open.spotify.com/track/4EcM86vNf0QIOGkpf4O0UP) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango in the Night \(2017 Remaster\)](https://open.spotify.com/album/7CWZNdANL2ZYQs3JfdxoM5) | 3:41 |
+| 87 | [Kyrie \- Single Version](https://open.spotify.com/track/5BXj1QDRU77J1ngVavG1tI) | [Mr\. Mister](https://open.spotify.com/artist/7Bah8E0kCETqEpAHI6CPzQ) | [The Best of Mr\. Mister](https://open.spotify.com/album/0qCccU99b8JabM1xPpWJKh) | 4:16 |
+| 88 | [Our House](https://open.spotify.com/track/1qV6e4ITnfGmA6m6Vklvbi) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [Madness](https://open.spotify.com/album/2P1bkVHSonLBBSKvrBbdbw) | 3:21 |
+| 89 | [The Tide Is High \- Remastered 2001](https://open.spotify.com/track/3lGBRoe3c6oV398Xwgf7c7) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Autoamerican \(Remastered 2001\)](https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya) | 4:40 |
 | 90 | [Vacation](https://open.spotify.com/track/0oc7YoWV783fGr2GbdcIrz) | [The Go\-Go's](https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE) | [Vacation](https://open.spotify.com/album/7qSxcMI3rTQaD1oTi1vel0) | 2:59 |
-| 91 | [The Tide Is High \- Remastered 2001](https://open.spotify.com/track/3lGBRoe3c6oV398Xwgf7c7) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Autoamerican \(Remastered 2001\)](https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya) | 4:40 |
+| 91 | [Little Lies \- 2017 Remaster](https://open.spotify.com/track/4EcM86vNf0QIOGkpf4O0UP) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango in the Night \(2017 Remaster\)](https://open.spotify.com/album/7CWZNdANL2ZYQs3JfdxoM5) | 3:41 |
 | 92 | [Little Red Corvette](https://open.spotify.com/track/4iozhXt27eMl39W5z7R8H6) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [1999](https://open.spotify.com/album/3U1ht9EdWEI9nMvaqdQI67) | 5:03 |
 | 93 | [Some Guys Have All the Luck](https://open.spotify.com/track/53Eqyg5eFqyuUCaSwozq4f) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Camouflage \(Expanded Edition\)](https://open.spotify.com/album/7KSz8zPpNi8D6ADUSStB2K) | 4:34 |
 | 94 | [Allentown](https://open.spotify.com/track/59xhCcRskqyMtKzdvLZDfV) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Nylon Curtain](https://open.spotify.com/album/50bajZpetfL5T0iRCOR74J) | 3:52 |

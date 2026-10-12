@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YiLbd.md) - [plain]
 
 > This is Yuki Hayashi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,344 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,345 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YiLbd.md) - [plain]
 | 49 | [極限スイッチ](https://open.spotify.com/track/1NZo15KUTNsKN5cR7NIZ6P) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!! セカンドシーズン』オリジナル・サウンドトラック \(Vol.2\)](https://open.spotify.com/album/54yg1VofNhuje44hH5ySea) | 2:42 |
 | 50 | [私から君へ](https://open.spotify.com/track/6sd9efoxeKdEssItdXtLIm) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「僕のヒーローアカデミア」 2nd オリジナル･サウンドトラック](https://open.spotify.com/album/45dUggEwLrNKqgCJuMgRrR) | 2:55 |
 
-Snapshot ID: `asgugAAAAAAPRnkRttX6eL9q2yu2uDkl`
+Snapshot ID: `asmAAAAAAACA44Eqj9lT8Uprfyz5IUD8`

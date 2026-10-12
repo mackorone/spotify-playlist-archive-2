@@ -8513,6 +8513,24 @@
     },
     {
       "album": {
+        "name": "Stop The Wedding!",
+        "url": "https://open.spotify.com/album/4dem9qxmFf4RD6fqoCH6wc"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198840,
+      "name": "Stop The Wedding!",
+      "url": "https://open.spotify.com/track/3zOYmiNOuyDL0ClxJcEJ0T"
+    },
+    {
+      "album": {
         "name": "you seem pretty sad for a girl so in love",
         "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
       },

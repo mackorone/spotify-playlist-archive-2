@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RbMTl2YnQ8.md) - [plain]
 
 > Lo mejor del rock en español en la década de los 2000.
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,074 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,168 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RbMTl2YnQ8.md) - [plain]
 | 31 | [Mariposa Traicionera](https://open.spotify.com/track/0Pjsm4AaJGPOXHoB6xCgJB) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Revolución De Amor](https://open.spotify.com/album/6HrRHewMLfZLSkwJyZgr3V) | 4:24 |
 | 32 | [Algo Contigo](https://open.spotify.com/track/4zsDA31stWMtLveU61hejd) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Vicentico](https://open.spotify.com/album/6Qt9Yiol5QcAEeKPyIQafo) | 3:38 |
 | 33 | [Personalmente](https://open.spotify.com/track/7q7XFO9av9VpNJSXKJwJxD) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Despierta](https://open.spotify.com/album/0289kJfdXVBPSDJfQ1fPJz) | 4:10 |
-| 34 | [Sognare](https://open.spotify.com/track/3EYPZf5gtyU9suVqTWChzk) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p) | [Defecto Perfecto](https://open.spotify.com/album/2nbI0uW9IoyZg23xNL08Bx) | 5:13 |
-| 35 | [Corazon Espinado \(feat\. Mana\)](https://open.spotify.com/track/2WoqgtWEBbbBKMDN6Becs7) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Supernatural \(Remastered\)](https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq) | 4:34 |
+| 34 | [Corazon Espinado \(feat\. Mana\)](https://open.spotify.com/track/2WoqgtWEBbbBKMDN6Becs7) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Supernatural \(Remastered\)](https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq) | 4:34 |
+| 35 | [Sognare](https://open.spotify.com/track/3EYPZf5gtyU9suVqTWChzk) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p) | [Defecto Perfecto](https://open.spotify.com/album/2nbI0uW9IoyZg23xNL08Bx) | 5:13 |
 | 36 | [Te Quiero Comer La Boca](https://open.spotify.com/track/6Y5k0NupErwLzOQXDxfVFa) | [La Mosca](https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W) | [Buenos Muchachos](https://open.spotify.com/album/5a1eBYCKsIcd5yIHtKBUzM) | 3:24 |
 | 37 | [Aunque no sea conmigo](https://open.spotify.com/track/0dRY4OrSY53yUjVgfgne1W) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Hijos del pueblo](https://open.spotify.com/album/69JZWukakNJGpGhJILhyTl) | 3:32 |
 | 38 | [Monitor](https://open.spotify.com/track/7on4qNO1Iu5EX61mD80Cgv) | [Volován](https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA) | [Monitor](https://open.spotify.com/album/4HTEL3Aof6nEnNLGrnUtdB) | 3:57 |

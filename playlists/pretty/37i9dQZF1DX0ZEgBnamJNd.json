@@ -1,6 +1,6 @@
 {
   "description": "Allerbeste songs uit de 60's. Cover: Shocking Blue",
-  "num_followers": 55750,
+  "num_followers": 55758,
   "original_name": "60's Allerbeste",
   "owner": {
     "name": "Spotify",
@@ -223,18 +223,18 @@
     {
       "added_at": "2020-04-20 05:39:13",
       "album": {
-        "name": "The Beatles 1967 - 1970 (Remastered 2009)",
-        "url": "https://open.spotify.com/album/1cTeNkeINtXiaMLlashAKs"
+        "name": "More of The Monkees (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX"
       },
       "artists": [
         {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+          "name": "The Monkees",
+          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
         }
       ],
-      "duration_ms": 431333,
-      "name": "Hey Jude - Remastered 2009",
-      "url": "https://open.spotify.com/track/3m7V717IKZqZLW5qUIOxdD"
+      "duration_ms": 167373,
+      "name": "I'm a Believer - 2006 Remaster",
+      "url": "https://open.spotify.com/track/3G7tRC24Uh09Hmp1KZ7LQ2"
     },
     {
       "added_at": "2020-04-20 05:39:13",
@@ -271,18 +271,18 @@
     {
       "added_at": "2020-04-20 05:39:13",
       "album": {
-        "name": "More of The Monkees (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX"
+        "name": "The Beatles 1967 - 1970 (Remastered 2009)",
+        "url": "https://open.spotify.com/album/1cTeNkeINtXiaMLlashAKs"
       },
       "artists": [
         {
-          "name": "The Monkees",
-          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
         }
       ],
-      "duration_ms": 167373,
-      "name": "I'm a Believer - 2006 Remaster",
-      "url": "https://open.spotify.com/track/3G7tRC24Uh09Hmp1KZ7LQ2"
+      "duration_ms": 431333,
+      "name": "Hey Jude - Remastered 2009",
+      "url": "https://open.spotify.com/track/3m7V717IKZqZLW5qUIOxdD"
     },
     {
       "added_at": "2020-04-20 05:39:13",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2020-04-20 05:39:13",
       "album": {
-        "name": "Ramona",
-        "url": "https://open.spotify.com/album/39D5aGnLcMzH1PGVbh2iVk"
-      },
-      "artists": [
-        {
-          "name": "Blue Diamonds",
-          "url": "https://open.spotify.com/artist/24Lps8ntSfwOszkZjDKhye"
-        }
-      ],
-      "duration_ms": 154133,
-      "name": "Ramona (Englische Version)",
-      "url": "https://open.spotify.com/track/5zhoOwKWXYeHEIss16DK65"
-    },
-    {
-      "added_at": "2020-04-20 05:39:13",
-      "album": {
         "name": "Travelling In The U.S.A.",
         "url": "https://open.spotify.com/album/5Tq6iaG37W6XUccYr47qIT"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 171714,
       "name": "Travellin In The Usa",
       "url": "https://open.spotify.com/track/2uI9Y14I02IjcwnMTPE9Y3"
+    },
+    {
+      "added_at": "2020-04-20 05:39:13",
+      "album": {
+        "name": "Ramona",
+        "url": "https://open.spotify.com/album/39D5aGnLcMzH1PGVbh2iVk"
+      },
+      "artists": [
+        {
+          "name": "Blue Diamonds",
+          "url": "https://open.spotify.com/artist/24Lps8ntSfwOszkZjDKhye"
+        }
+      ],
+      "duration_ms": 154133,
+      "name": "Ramona (Englische Version)",
+      "url": "https://open.spotify.com/track/5zhoOwKWXYeHEIss16DK65"
     },
     {
       "added_at": "2020-04-20 05:39:13",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2020-04-20 05:39:13",
       "album": {
-        "name": "Een Hele Tour (Live 1669-1997)",
-        "url": "https://open.spotify.com/album/5OBrTvVskylOXnZfCdLQsI"
-      },
-      "artists": [
-        {
-          "name": "Boudewijn de Groot",
-          "url": "https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO"
-        }
-      ],
-      "duration_ms": 242800,
-      "name": "Meester Prikkebeen - Live In Paradiso",
-      "url": "https://open.spotify.com/track/0uObHr02DToIyUOFtJ0xZF"
-    },
-    {
-      "added_at": "2020-04-20 05:39:13",
-      "album": {
         "name": "60s Icons",
         "url": "https://open.spotify.com/album/0Pnr1Qcf2SzEcFz6RnFYMC"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 198653,
       "name": "Hi Ho Silver Lining - First Stereo Mix",
       "url": "https://open.spotify.com/track/5l4N58q1RuZlvz6rzhsnmT"
+    },
+    {
+      "added_at": "2020-04-20 05:39:13",
+      "album": {
+        "name": "Een Hele Tour (Live 1669-1997)",
+        "url": "https://open.spotify.com/album/5OBrTvVskylOXnZfCdLQsI"
+      },
+      "artists": [
+        {
+          "name": "Boudewijn de Groot",
+          "url": "https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO"
+        }
+      ],
+      "duration_ms": 242800,
+      "name": "Meester Prikkebeen - Live In Paradiso",
+      "url": "https://open.spotify.com/track/0uObHr02DToIyUOFtJ0xZF"
     },
     {
       "added_at": "2020-04-20 05:39:13",

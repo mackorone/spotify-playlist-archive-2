@@ -1,6 +1,6 @@
 {
   "description": "This is Isadora Pompeo. The essential tracks, all in one playlist.",
-  "num_followers": 117163,
+  "num_followers": 117162,
   "original_name": "This Is Isadora Pompeo",
   "owner": {
     "name": "Spotify",
@@ -267,26 +267,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Palavra Atrav\u00e9s do Pandeiro Vol.2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/04JRZQxRJBC8KpZhaQFvPm"
+        "name": "Deus Faz Al\u00e9m (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2WPOOdQp05sOWXcbHVEs9B"
       },
       "artists": [
         {
-          "name": "Carol Tauber",
-          "url": "https://open.spotify.com/artist/6rK1HFXiEMatdQGeQQA1VK"
+          "name": "Bruna Olly",
+          "url": "https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ"
         },
         {
           "name": "Isadora Pompeo",
           "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        },
-        {
-          "name": "Maria Mar\u00e7al",
-          "url": "https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk"
         }
       ],
-      "duration_ms": 322130,
-      "name": "Os Sonhos de Deus - Ao Vivo",
-      "url": "https://open.spotify.com/track/6OSWTd3XcVNiXSFumvl2Uo"
+      "duration_ms": 290080,
+      "name": "Deus Faz Al\u00e9m - Ao Vivo",
+      "url": "https://open.spotify.com/track/5tteTRlti30bR43W34YYbQ"
     },
     {
       "added_at": null,
@@ -307,22 +303,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deus Faz Al\u00e9m (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2WPOOdQp05sOWXcbHVEs9B"
+        "name": "A Palavra Atrav\u00e9s do Pandeiro Vol.2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/04JRZQxRJBC8KpZhaQFvPm"
       },
       "artists": [
         {
-          "name": "Bruna Olly",
-          "url": "https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ"
+          "name": "Carol Tauber",
+          "url": "https://open.spotify.com/artist/6rK1HFXiEMatdQGeQQA1VK"
         },
         {
           "name": "Isadora Pompeo",
           "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        },
+        {
+          "name": "Maria Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk"
         }
       ],
-      "duration_ms": 290080,
-      "name": "Deus Faz Al\u00e9m - Ao Vivo",
-      "url": "https://open.spotify.com/track/5tteTRlti30bR43W34YYbQ"
+      "duration_ms": 322130,
+      "name": "Os Sonhos de Deus - Ao Vivo",
+      "url": "https://open.spotify.com/track/6OSWTd3XcVNiXSFumvl2Uo"
     },
     {
       "added_at": null,

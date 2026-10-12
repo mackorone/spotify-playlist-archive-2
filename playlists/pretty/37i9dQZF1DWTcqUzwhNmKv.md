@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Calva Louise are on top of today's best Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,658,563 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,658,588 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

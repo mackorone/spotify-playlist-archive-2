@@ -4,7 +4,7 @@
 
 > 
 
-8,879 songs - 22 day 14 hr 25 min
+8,880 songs - 22 day 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2410,7 +2410,7 @@
 | [Fun Tonight](https://open.spotify.com/track/4MmO631CdxuFOm18UVbhkp) | [Macross 82\-99](https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow) | [CHAM!](https://open.spotify.com/album/4mk2tlpNn3mQKa6TlNNhnc) | 2:42 | 2025-01-04 |  |
 | [Funeral](https://open.spotify.com/track/2CNaYt7KbFqUrATbZZPY21) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Faces](https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY) | 3:43 | 2025-01-04 |  |
 | [Funeral \(with slowthai\)](https://open.spotify.com/track/1gf4Ez9r1h74QZiTFcb3wy) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [Friends That Break Your Heart \(Bonus\)](https://open.spotify.com/album/33GolaWGqgLY4fB5IPwxjq) | 2:35 | 2025-01-03 |  |
-| [Funky Ho'$](https://open.spotify.com/track/1rZvU5sb2E8LuJTAqEdAiw) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [1999](https://open.spotify.com/album/5ra51AaWF3iVebyhlZ1aqq) | 4:29 | 2025-01-03 |  |
+| [Funky Ho'$](https://open.spotify.com/track/1rZvU5sb2E8LuJTAqEdAiw) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [1999](https://open.spotify.com/album/5ra51AaWF3iVebyhlZ1aqq) | 4:29 | 2025-01-03 | 2026-10-12 |
 | [Funky Lovely Girl](https://open.spotify.com/track/43J0Mmcg3wJ0NAXNXMRG84) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Funky Lovely Girl](https://open.spotify.com/album/7AjNWrJY5Psf79navIAE1p) | 3:44 | 2026-01-10 |  |
 | [Funkytown](https://open.spotify.com/track/0KQh7AuuZvpTKWhcJa8Pbr) | [Lipps Inc.](https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ) | [Casablanca Records Greatest Hits](https://open.spotify.com/album/2a9NqNKkXva9vZanCUmOjc) | 3:59 | 2025-12-29 |  |
 | [Funny Papers](https://open.spotify.com/track/4pu58kqegTnOxPNJpY3kr9) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Balloonerism](https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY) | 4:23 | 2025-12-08 |  |
@@ -5054,7 +5054,7 @@
 | [Party We Will Throw Now!](https://open.spotify.com/track/0KbIwqCAHmXWu7hrszXY6j) | [Warren G](https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h), [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI) | [Party We Will Throw Now! \- Single](https://open.spotify.com/album/0bTkYfBstiSW4maInjgqVi) | 3:29 | 2025-01-15 |  |
 | [Pasilyo](https://open.spotify.com/track/0uZFcsx96wzbixsULmrg8o) | [SunKissed Lola](https://open.spotify.com/artist/4bLLB1dbsRVUTcMpnDGDO2) | [Pasilyo](https://open.spotify.com/album/4shoxv60vMxSDq40tp5cSK) | 4:30 | 2025-01-15 |  |
 | [Passenger Princess \(feat\. Smino\)](https://open.spotify.com/track/4XXARhW0U9SKGQJcnYIDAC) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Passenger Princess / Adam](https://open.spotify.com/album/6eszObM49D1h61rbPxS7po) | 2:27 | 2025-07-19 |  |
-| [Passin' Me By](https://open.spotify.com/track/4G3dZN9o3o2X4VKwt4CLts) | [The Pharcyde](https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w) | [Bizarre Ride II The Pharcyde](https://open.spotify.com/album/48kU5gP41TqZEw32Cwhsna) | 5:03 | 2025-01-15 |  |
+| [Passin' Me By](https://open.spotify.com/track/4G3dZN9o3o2X4VKwt4CLts) | [The Pharcyde](https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w) | [Bizarre Ride II The Pharcyde](https://open.spotify.com/album/48kU5gP41TqZEw32Cwhsna) | 5:03 | 2025-01-15 | 2026-10-12 |
 | [Passing Through \(Can't the Future Just Wait\)](https://open.spotify.com/track/3tHd50688EEocgRLmeSiWV) | [Kaden MacKay](https://open.spotify.com/artist/3pvdhTDfKYnjDZ0R41qY3x) | [Passing Through \(Can't the Future Just Wait\)](https://open.spotify.com/album/5UGxCLRU8NaCVYpznC2Exd) | 3:13 | 2025-09-13 |  |
 | [Passion](https://open.spotify.com/track/5CisUC4TUiKGo0FETfOxma) | [KYT](https://open.spotify.com/artist/0QNzgimIjJDcLFLFhnG6M9) | [Passion](https://open.spotify.com/album/5PobQscEtitaB9OVJ9Q1y9) | 3:57 | 2025-01-03 | 2026-09-21 |
 | [Passionfruit](https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [More Life](https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK) | 4:58 | 2025-01-03 |  |
@@ -8287,6 +8287,7 @@
 | [悲しみがとまらない　I CAN'T STOP THE LONELINESS](https://open.spotify.com/track/3FYDqY5BRtx3IVSaiQZSze) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [Timely!!](https://open.spotify.com/album/3OvZYx7AAGplmJjwD29JiV) | 4:23 | 2026-01-12 |  |
 | [想いきり](https://open.spotify.com/track/722KsbM8nAmtP9quY41MO1) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [Crying End Roll](https://open.spotify.com/album/51owlfny6Qc0iy6IHA15BM) | 3:17 | 2025-01-03 |  |
 | [想い人](https://open.spotify.com/track/1IsvrdrbWewoPKpeOgWMBl) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [想い人](https://open.spotify.com/album/7a5ihsGBlChk54EySvNqEG) | 4:31 | 2025-01-15 |  |
+| [愛してるばんざーい！](https://open.spotify.com/track/7Exaeh8O7wnOuO3cPX0N0v) | [μ's](https://open.spotify.com/artist/2hYjPkmTry3LYVVSymws5i) | [ラブライブ！ μ's Best Album Best Live! collection](https://open.spotify.com/album/7psTSuTuWkVqwL1WImELJB) | 4:53 | 2026-10-11 |  |
 | [愛し君へ](https://open.spotify.com/track/5Zb5lgIYbId6yVVgO7SeVp) | [GReeeeN](https://open.spotify.com/artist/14T8NkbwXVZgbOvwnuGV89) | [今から親指が消える手品しまーす。](https://open.spotify.com/album/2BeCdVbLMGZWDh3Cl3ge9Z) | 4:17 | 2025-01-03 |  |
 | [愛って](https://open.spotify.com/track/4GXixjDgCB8eUwe9IukVkW) | [adieu](https://open.spotify.com/artist/18tXnGJKmrSwXynnxWHy3Y) | [adieu 2](https://open.spotify.com/album/7hNKzyiMPGszMZJsdnxLyN) | 4:14 | 2024-12-05 |  |
 | [愛にできることはまだあるかい](https://open.spotify.com/track/0PUoNLjLtrSCNwIvvbERS2) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [天気の子](https://open.spotify.com/album/6IScXwjWgXRIwD5S2MsJNk) | 6:54 | 2025-01-15 |  |

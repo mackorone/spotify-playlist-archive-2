@@ -765,6 +765,24 @@
     },
     {
       "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/3oEPgnaHXwi02DjenAQRyT"
+      },
+      "artists": [
+        {
+          "name": "Moonica Mac",
+          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271442,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/5LfNKvdfzxkWB94LvKWlFG"
+    },
+    {
+      "album": {
         "name": "Back To The Sea",
         "url": "https://open.spotify.com/album/6i7fu0R1ZzqIIeSDkx4N5B"
       },
@@ -7194,7 +7212,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 178499,
       "name": "More!",
       "url": "https://open.spotify.com/track/0Q3xlAwtGbNhqrDvHrozHk"

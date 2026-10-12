@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: 森七菜
 
-3,904 songs - 10 day 8 hr 23 min
+3,905 songs - 10 day 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2664,6 +2664,7 @@
 | [キャラクター](https://open.spotify.com/track/1WkMPKhw6w2PAaZyKpITNi) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [キャラクター](https://open.spotify.com/album/2ylk0z5v9TVDEbexjpVh8c) | 4:09 | 2022-05-31 | 2023-02-22 |
 | [キャリーケースは重いままで](https://open.spotify.com/track/2ADl3dTfftKsYTVQjdY7iH) | [やましたりな](https://open.spotify.com/artist/1O235Li0262kkP7gfP6B5W) | [バイバイ、私 / キャリーケースは重いままで](https://open.spotify.com/album/6ywtlcRbSCR213Z70OZIgK) | 4:05 | 2022-06-07 | 2022-06-10 |
 | [キャリーバッグ](https://open.spotify.com/track/1h0H9Hp0jZvZh1MuRWBk9J) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [キャリーバッグ](https://open.spotify.com/album/3kQ4vUmfCaVfTx8DtRni7T) | 3:00 | 2026-03-10 | 2026-07-11 |
+| [キライのちスキ！](https://open.spotify.com/track/6c6tWAr4vul7O7i0MaAnlT) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [キライのちスキ！](https://open.spotify.com/album/5AzdFKB1GHLGdX8pLaC2CL) | 3:14 | 2026-10-06 |  |
 | [キライキライ](https://open.spotify.com/track/2bxeuMx4zkZwFMIBueowbY) | [ざらめ](https://open.spotify.com/artist/79S25nNlhtMOOMLV30SvHM) | [キライキライ](https://open.spotify.com/album/0Thk7AwgYbKr7i8ZObpEj3) | 3:06 | 2023-05-16 | 2023-05-31 |
 | [キラボシ](https://open.spotify.com/track/6XTcLBGaDOafFwg39GBjv3) | [Momoka Kisaki](https://open.spotify.com/artist/1CP2ElxvOk08sIZn9xXfl4) | [キラボシ](https://open.spotify.com/album/4VdxIfLBEu7K9gZZwyIxwx) | 3:07 | 2022-10-25 | 2022-11-16 |
 | [キラーワード](https://open.spotify.com/track/6lOrtgsvN9QKtN4h7S1Y5j) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [キラーワード](https://open.spotify.com/album/0hTDFgya1BSBjCucfBfaTQ) | 4:01 | 2023-11-30 | 2023-12-02 |
@@ -3879,7 +3880,7 @@
 | [風になって](https://open.spotify.com/track/4rz9SL6tnC4Pno1DQQCk2y) | [地球から2ミリ浮いてる人たち](https://open.spotify.com/artist/4KjgDrlQ5okGyYFrDe0xWn) | [風になって](https://open.spotify.com/album/2s7KGADcWkxCNpui3yFsoG) | 3:40 | 2024-04-09 | 2024-04-17 |
 | [風になる](https://open.spotify.com/track/7iOP2oBbDqunQh17og4nRW) | [BURNABLE/UNBURNABLE](https://open.spotify.com/artist/18gC8b8KN9bId452Xdbl3p) | [風になる](https://open.spotify.com/album/1mBGyvwKiFeHmDG4DNKKvJ) | 2:55 | 2024-09-10 | 2024-09-18 |
 | [風になる](https://open.spotify.com/track/6uLGtBgR9D9GjpHu3vT76s) | [Sakurako Ohara](https://open.spotify.com/artist/5TS11vZTUaDP4maTjFCcBU) | [スタジオジブリトリビュートアルバム「ジブリをうたう その2」](https://open.spotify.com/album/4aSh6EozLaP8nPrgvSpazt) | 4:19 | 2026-02-24 | 2026-03-04 |
-| [風になる](https://open.spotify.com/track/612Ohtq2pdCo4VC57pDqh0) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Live Bluesy](https://open.spotify.com/album/0lyhY506F1qbNSmkU1GfoP) | 3:13 | 2026-08-04 |  |
+| [風になる](https://open.spotify.com/track/612Ohtq2pdCo4VC57pDqh0) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Live Bluesy](https://open.spotify.com/album/0lyhY506F1qbNSmkU1GfoP) | 3:13 | 2026-08-04 | 2026-10-12 |
 | [風になれ](https://open.spotify.com/track/0UhsOaWMD73pfGS4BrcUad) | [Toko Miura](https://open.spotify.com/artist/5nyjJRg5OdmKDdG2s9qljE) | [風になれ](https://open.spotify.com/album/3bYOLJiz5t2ZbzOn7HfW42) | 3:18 | 2022-11-01 | 2022-12-07 |
 | [風になれ](https://open.spotify.com/track/6X4v5ATZMXOiGhqXnpck8v) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [SLITS](https://open.spotify.com/album/2IPl9sPYjnqOXUsU9QmBvF) | 4:27 | 2024-06-11 | 2024-07-05 |
 | [風に乗る](https://open.spotify.com/track/6cnTc9TUiWPnORVWCRdwXD) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [風に乗る](https://open.spotify.com/album/3SAOqFr1FNxtHm3yNoKWKt) | 3:36 | 2026-03-10 |  |

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance</a> to the rhythm and move your feet!
 
-1,392 songs - 3 day 2 hr 24 min
+1,393 songs - 3 day 2 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -487,7 +487,7 @@
 | [girl$](https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [girl$](https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc) | 3:29 | 2024-06-07 |  |
 | [Girl's Girl \- Girls Trip](https://open.spotify.com/track/1eA6Uh2q01uLdV8aXupWtY) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Midnight Sun: Girls Trip](https://open.spotify.com/album/4WMcRlbt7NvpKrrqO8ykQf) | 3:15 | 2026-05-15 | 2026-09-05 |
 | [Girls](https://open.spotify.com/track/5HwuXxHQsHptTQPgFPOc2C) | [Charlotte Devaney](https://open.spotify.com/artist/58quCP7j2McEeEtRungVle), [SHOSH](https://open.spotify.com/artist/1emgVmY6u8GGlRhkHESKKH) | [Girls](https://open.spotify.com/album/3v9d9gmeLR3CQ2Yz2Q7rgY) | 3:00 | 2021-03-14 | 2022-04-21 |
-| [Girls MIA](https://open.spotify.com/track/7dHtHyIsxcDzgeFWLxfW4q) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Adam Sellouk](https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq), [CARLA](https://open.spotify.com/artist/3dBpGX6fuWAYxWhDspbVbQ) | [Girls MIA](https://open.spotify.com/album/54bjkUTJnTTktRXEBnMfJc) | 2:13 | 2025-09-26 |  |
+| [Girls MIA](https://open.spotify.com/track/7dHtHyIsxcDzgeFWLxfW4q) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Adam Sellouk](https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq), [CARLA](https://open.spotify.com/artist/3dBpGX6fuWAYxWhDspbVbQ) | [Girls MIA](https://open.spotify.com/album/54bjkUTJnTTktRXEBnMfJc) | 2:13 | 2025-09-26 | 2026-10-12 |
 | [Give It To Me \- Full Vocal Mix](https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS) | [Give It To Me \(Full Vocal Mix\)](https://open.spotify.com/album/1jbRY71konakrKvDUiW7Rp) | 1:42 | 2022-08-18 |  |
 | [Giving Me](https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Giving Me](https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc) | 2:49 | 2023-04-06 | 2024-06-08 |
 | [Giving Up](https://open.spotify.com/track/61rELAKbEKXdidjxXviWd0) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Mafro](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Giving Up](https://open.spotify.com/album/2u0L2wbAbJAw5cx00Wk6zE) | 3:23 | 2022-07-14 | 2022-07-30 |
@@ -515,6 +515,7 @@
 | [Goodbye](https://open.spotify.com/track/4crczEC1PpoD8TsDsmoWNI) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Goodbye](https://open.spotify.com/album/2wUKHXscUlHKW0tEVVYqRs) | 2:24 | 2020-12-29 | 2021-01-07 |
 | [Goodies](https://open.spotify.com/track/1rGd2CoMxEg2dnaytLY5ZG) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Goodies](https://open.spotify.com/album/67bFXY7O9MCywon0nEyS1Z) | 2:01 | 2022-09-16 | 2024-01-18 |
 | [Goosebumps](https://open.spotify.com/track/20McUFi8KCIVdNDLrkTDuZ) | [HVME](https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9) | [Goosebumps](https://open.spotify.com/album/49HjM8mnjS9PgYjSC03tkS) | 2:43 | 2020-12-27 | 2022-12-15 |
+| [Got To Do](https://open.spotify.com/track/3JGVhjbPvMdxKqDE7NDJEK) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [Got To Do](https://open.spotify.com/album/20TS1WaOBsMkzH0zdOeevB) | 2:49 | 2026-10-09 |  |
 | [Gotta Get Thru This \- D'N'D Radio Edit](https://open.spotify.com/track/267sk93o3IxlZzYnfTfKuZ) | [Daniel Bedingfield](https://open.spotify.com/artist/11hIqBsGRPztdjBHCSLClX) | [Lost & Found: Noughties Pop Volume 1](https://open.spotify.com/album/6pHCHKNM0hRDgKRR52tW7X) | 2:42 | 2022-07-14 | 2022-07-29 |
 | [Gotta Get Thru This \- D'N'D Radio Edit](https://open.spotify.com/track/747tpec1a0Hfqvj2za1pBs) | [Daniel Bedingfield](https://open.spotify.com/artist/11hIqBsGRPztdjBHCSLClX), [D'N'D Productions](https://open.spotify.com/artist/7cp62T0Av3mTgy0imKzat7) | [Gotta Get Thru This](https://open.spotify.com/album/2EdZjwEgBXjtdkwkZ73fFA) | 2:41 | 2022-07-14 | 2022-07-30 |
 | [Gotta Let You Go](https://open.spotify.com/track/7Ikf5qsW8GxJq0ZfpZUHsX) | [Felix Leiter](https://open.spotify.com/artist/0NgdQNyMEbiVR0HBpzMptO), [Ango Tamarin](https://open.spotify.com/artist/7uSgmPTHeYgIu7Q5JwQpQy), [Dominica](https://open.spotify.com/artist/6bETcPKjsI4UE4ZMHtcZCh) | [Gotta Let You Go](https://open.spotify.com/album/6yCg2t2ZZ7LBjIHsR3DVND) | 2:47 | 2023-04-14 | 2023-07-16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 
 > Live fast, die awesome! A great mix of the best rockabilly tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 547,443 likes - 60 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 547,441 likes - 60 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 | 39 | [Far Too Far Away](https://open.spotify.com/track/26LN2TRg48VT6qKVo5O7Wt) | [Cat Lee King & His Cocks](https://open.spotify.com/artist/0TW61xr4ymSp2KxgiBXRJT) | [Cock Tales](https://open.spotify.com/album/0R9uSz4xu1Vxqpxp5sK52O) | 2:37 |
 | 40 | [Keep On Loving Me Baby \- The original live recordings](https://open.spotify.com/track/6sQjLATFOYyHE61ZW0xBkE) | [Bluebirds](https://open.spotify.com/artist/2tSCSRIiOya3O652PDmu3S) | [You Take My Blues Away \(The original live recordings\)](https://open.spotify.com/album/5OEyHOsTdKftIsSbzKl8Ci) | 3:38 |
 | 41 | [Jungle Rock](https://open.spotify.com/track/6dA1oRPKhfAm1hHO6sKrGy) | [Hank Mizell](https://open.spotify.com/artist/3RGF93b8Qtz77GLJBgdBH6) | [Windy City Bop \- Chicago Rockabilly 1945\-1958](https://open.spotify.com/album/1cqS5uzgVFJLhGuP7G089N) | 2:46 |
-| 42 | [Rock\-a\-Cha](https://open.spotify.com/track/33G6G0xbQmKm9uQuBTW6sK) | [Jack Rabbit Slim](https://open.spotify.com/artist/3nDZWi1wEZpaiEEa9jFLwI) | [From the Waist Down](https://open.spotify.com/album/6PpVaRCUlMLnO5Evrp3rxj) | 2:01 |
-| 43 | [Rich Little Bitch](https://open.spotify.com/track/12680M4NXeEB27oywHfCxg) | [Melrose](https://open.spotify.com/artist/7wEF4N6aICDlkHnCy3PLan) | [Melrose](https://open.spotify.com/album/4RE5Q4pm0CqEXpfva5NoXz) | 3:51 |
+| 42 | [Rich Little Bitch](https://open.spotify.com/track/12680M4NXeEB27oywHfCxg) | [Melrose](https://open.spotify.com/artist/7wEF4N6aICDlkHnCy3PLan) | [Melrose](https://open.spotify.com/album/4RE5Q4pm0CqEXpfva5NoXz) | 3:51 |
+| 43 | [Rock\-a\-Cha](https://open.spotify.com/track/33G6G0xbQmKm9uQuBTW6sK) | [Jack Rabbit Slim](https://open.spotify.com/artist/3nDZWi1wEZpaiEEa9jFLwI) | [From the Waist Down](https://open.spotify.com/album/6PpVaRCUlMLnO5Evrp3rxj) | 2:01 |
 | 44 | [Drinking Wine Spo\-Dee\-O\-Dee \- Single Version](https://open.spotify.com/track/2kfSF4imGkVpJXR4MSKccm) | [Johnny Burnette & The Rock 'N' Roll Trio](https://open.spotify.com/artist/1neKWNZP74NEuvHZmvMS58) | [Tear It Up: The Complete Legedary Coral Recordings](https://open.spotify.com/album/5EEZg4wJpSRVqRi1nxwKL6) | 2:12 |
 | 45 | [Love You To Death](https://open.spotify.com/track/2Ibsm42tOiFzlMIKyDsAQc) | [Screamin' Sins](https://open.spotify.com/artist/5TbvUklHVsA9ckRCb9WhQO), [Jen Blackwood](https://open.spotify.com/artist/6GInh8N8tyz8W1ebQR7wQ1) | [Love You To Death](https://open.spotify.com/album/1SuhxLmkkd8B2ePP5PkWaD) | 3:04 |
 | 46 | [American Music](https://open.spotify.com/track/0NsEEXFLXDNjpgBwRZ143g) | [The Blasters](https://open.spotify.com/artist/5dr7fkIRO4K14g7U8SCue5) | [The Blasters](https://open.spotify.com/album/4RifE9ClJmHaP0j0Qtux3B) | 2:07 |

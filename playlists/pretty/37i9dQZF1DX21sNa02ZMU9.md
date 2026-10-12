@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21sNa02ZMU9.md) - [plain]
 
 > Feel on top of the world with these uplifting anthems of the 00s
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,937 likes - 70 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,942 likes - 70 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,14 +31,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21sNa02ZMU9.md) - [plain]
 | 21 | [Drops of Jupiter \(Tell Me\)](https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Drops Of Jupiter](https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT) | 4:19 |
 | 22 | [Disturbia](https://open.spotify.com/track/2VOomzT6VavJOGBeySqaMc) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 3:58 |
 | 23 | [My Love \(feat\. T.I.\)](https://open.spotify.com/track/4NeOWqHmlrGRuBvsLJC9rL) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [FutureSex/LoveSounds Deluxe Edition](https://open.spotify.com/album/0tcExuDWMQdBbwSpqN8Ku2) | 4:36 |
-| 24 | [Island In The Sun](https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 3:20 |
-| 25 | [Lady \- Hear Me Tonight](https://open.spotify.com/track/49X0LAl6faAusYq02PRAY6) | [Modjo](https://open.spotify.com/artist/0AkpPlFLnr0VQwZQeMGht0) | [Modjo \(Remastered\)](https://open.spotify.com/album/0vwDxngkhZuwNbcxzebCXI) | 5:07 |
-| 26 | [Family Affair](https://open.spotify.com/track/3aw9iWUQ3VrPQltgwvN9Xu) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [No More Drama](https://open.spotify.com/album/5QJmKwPveBV4IwLlo4OcG4) | 4:25 |
+| 24 | [Family Affair](https://open.spotify.com/track/3aw9iWUQ3VrPQltgwvN9Xu) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [No More Drama](https://open.spotify.com/album/5QJmKwPveBV4IwLlo4OcG4) | 4:25 |
+| 25 | [Island In The Sun](https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 3:20 |
+| 26 | [Lady \- Hear Me Tonight](https://open.spotify.com/track/49X0LAl6faAusYq02PRAY6) | [Modjo](https://open.spotify.com/artist/0AkpPlFLnr0VQwZQeMGht0) | [Modjo \(Remastered\)](https://open.spotify.com/album/0vwDxngkhZuwNbcxzebCXI) | 5:07 |
 | 27 | [Meet Me Halfway](https://open.spotify.com/track/3F9ByoUqu31xU0I3G5xfVg) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\) \[Deluxe Version\]](https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX) | 4:44 |
 | 28 | [Valerie \(feat\. Amy Winehouse\) \- Version Revisited](https://open.spotify.com/track/6kopmMZiyLmw7h66uXcXR7) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Version](https://open.spotify.com/album/15uqXXD0sAdZuxNxTxktlR) | 3:39 |
 | 29 | [In Da Club](https://open.spotify.com/track/7iL6o9tox1zgHpKUfh9vuC) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/5G5rgQHzdQnw32SI0WjIo5) | 3:13 |
-| 30 | [One More Time](https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 5:20 |
-| 31 | [Hung Up](https://open.spotify.com/track/3850dYVgOFIXJh5U4BFEWH) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 5:37 |
+| 30 | [Hung Up](https://open.spotify.com/track/3850dYVgOFIXJh5U4BFEWH) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 5:37 |
+| 31 | [One More Time](https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 5:20 |
 | 32 | [Party In The U.S.A.](https://open.spotify.com/track/3E7dfMvvCLUddWissuqMwr) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [The Time Of Our Lives \(International Version\)](https://open.spotify.com/album/0IuHVgAvbNDJnJepuSZ8Oz) | 3:22 |
 | 33 | [Club Can't Handle Me \(feat\. David Guetta\)](https://open.spotify.com/track/6ebkx7Q5tTxrCxKq4GYj0Y) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Only One Flo \(Part 1\)](https://open.spotify.com/album/1TwNATuAqnNjTd5BSvFZlS) | 3:54 |
 | 34 | [Me & U](https://open.spotify.com/track/7k6IzwMGpxnRghE7YosnXT) | [Cassie](https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH) | [Cassie \(U.S\. Version\)](https://open.spotify.com/album/0j1qzjaJmsF1FkcICf3hRu) | 3:12 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21sNa02ZMU9.md) - [plain]
 | 39 | [Love Me Like You Do \- From "Fifty Shades Of Grey"](https://open.spotify.com/track/3zHq9ouUJQFQRf3cm1rRLu) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Delirium \(Deluxe\)](https://open.spotify.com/album/20Ol6zZ0nLlc5EGTH1zA0j) | 4:12 |
 | 40 | [Ride Wit Me](https://open.spotify.com/track/3Gf5nttwcX9aaSQXRWidEZ) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [City Spud](https://open.spotify.com/artist/3L2SIGZah4QZSvN4wC8rHl) | [Country Grammar](https://open.spotify.com/album/5v7Icroz1sQsK2sQyLrWzE) | 4:51 |
 | 41 | [Young Folks](https://open.spotify.com/track/4dyx5SzxPPaD8xQIid5Wjj) | [Peter Bjorn and John](https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86) | [Writer's Block](https://open.spotify.com/album/5g4E06cxsFEMFE9hSekAt2) | 4:36 |
-| 42 | [Electric Feel](https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 3:49 |
-| 43 | [Whenever, Wherever](https://open.spotify.com/track/2lnzGkdtDj5mtlcOW2yRtG) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 3:16 |
+| 42 | [Whenever, Wherever](https://open.spotify.com/track/2lnzGkdtDj5mtlcOW2yRtG) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 3:16 |
+| 43 | [Electric Feel](https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 3:49 |
 | 44 | [Put Your Records On](https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 3:35 |
 | 45 | [What's Luv? \(feat\. Ja\-Rule & Ashanti\)](https://open.spotify.com/track/2mKouqwAIdQnMP43zxR89r) | [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Jealous Ones Still Envy \(J.O.S.E\)](https://open.spotify.com/album/6vMgb2mih3pPiWUxF8VEdI) | 4:27 |
 | 46 | [Crazy In Love \(feat\. JAŸ\-Z\)](https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 3:56 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21sNa02ZMU9.md) - [plain]
 | 67 | [Better Together](https://open.spotify.com/track/2iXdwVdzA0KrI2Q0iZNJbX) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX) | 3:27 |
 | 68 | [Beautiful Day](https://open.spotify.com/track/0gzqZ9d1jIKo9psEIthwXe) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN) | 4:08 |
 | 69 | [Butterfly](https://open.spotify.com/track/4BggEwLhGfrbrl7JBhC8EC) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [The Gift Of Game](https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin) | 3:36 |
-| 70 | [Tears Dry On Their Own](https://open.spotify.com/track/6yLX8QnxlnEqZfs3YKCfjF) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 3:05 |
+| 70 | [Shut Up And Drive](https://open.spotify.com/track/4Tn2llBm1g0UlWctmgPL8Z) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 3:32 |
 
 Snapshot ID: `AAAAANBBUiIMtlYD3uBZ8EMSU9qF1Md2`

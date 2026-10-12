@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-3,767 songs - 9 day 20 hr 41 min
+3,768 songs - 9 day 20 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -414,6 +414,7 @@
 | [Blur](https://open.spotify.com/track/0DHRn7rRoaqH2pA2CopoCN) | [KaizanBlu](https://open.spotify.com/artist/7xSBYOQmRbnWrhKJQETfNV), [Ignacio Arrúa](https://open.spotify.com/artist/3hh15aODtgiToY2V2lR9qD) | [Blur](https://open.spotify.com/album/28P6u8GFLmkmqidihSbMe9) | 2:14 | 2025-03-28 | 2025-04-03 |
 | [Blur](https://open.spotify.com/track/4p0jMYKo77atWbW4oeXZIR) | [Riff Wood](https://open.spotify.com/artist/7oXwujbsaxe9NN4RTYLWcO) | [Blur](https://open.spotify.com/album/68JPjllP8VCzvVpOSqJLHv) | 2:48 | 2024-12-20 | 2024-12-24 |
 | [Blurry Creatures](https://open.spotify.com/track/4efv0a4iPvex1Kx51KCkZf) | [If These Trees Could Talk](https://open.spotify.com/artist/2GVzsXcXyU95u2EahzwqN7) | [Blurry Creatures](https://open.spotify.com/album/66iw9oiZ2Q6f7ZgGbjFa4U) | 6:00 | 2026-05-09 | 2026-05-31 |
+| [Blut \- Live In Krakow](https://open.spotify.com/track/3LhO24F2pKPbrv0VwBBSQ7) | [Till Lindemann](https://open.spotify.com/artist/2a5G7JLmVJNjfFNg8rwLcP) | [Live In Krakow](https://open.spotify.com/album/2TsxHULDHOfbHXGcxizmai) | 4:54 | 2026-10-09 |  |
 | [BMF](https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 3:00 | 2025-01-17 | 2025-01-25 |
 | [Bob Marley \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/3C7d01iaveVr4HmVygcWRR) | [Jflexxx](https://open.spotify.com/artist/4T6xxsoAF89NuOi6JzDboR), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Bob Marley \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/63bYZTarvv7Yd2FNwMUg3c) | 1:48 | 2024-08-16 | 2024-08-31 |
 | [BOBBY ON THE DIGITAL](https://open.spotify.com/track/0ZyWUNPYd7kx09U40YX0BN) | [YOKAY](https://open.spotify.com/artist/1mqNtc8stMyp6fvbWvro2Y), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe) | [BOBBY ON THE DIGITAL](https://open.spotify.com/album/3emzO8yEOyIxkfpJbMmdAr) | 2:30 | 2023-11-03 | 2023-11-14 |
@@ -1299,7 +1300,7 @@
 | [Golden](https://open.spotify.com/track/5URsT6B9lcgk0M8av28q4u) | [Tommy J](https://open.spotify.com/artist/3xjgxBP5F0xxUr2Srjc2IO), [Jocke Wallgren](https://open.spotify.com/artist/3yOu8VFdxs6dKm3BWDMsfm) | [Golden](https://open.spotify.com/album/2NneSQCbKUuZfHwzlGvUmk) | 3:09 | 2026-04-04 | 2026-05-05 |
 | [Golden \(Goes Metal\)](https://open.spotify.com/track/4qeRXoKDj8BfEnrbBc7yNq) | [Anthony Vincent](https://open.spotify.com/artist/5f18KeztDInZIN7cRyRdp6), [Artificial Fear](https://open.spotify.com/artist/1CFxbBr11nVJSQ0lB9RPgr) | [Golden \(Goes Metal\)](https://open.spotify.com/album/5i4bEqBHZTkxAcq6619icq) | 3:32 | 2025-10-03 | 2025-10-12 |
 | [Golden \(KPop Demon Hunters\)](https://open.spotify.com/track/3QTyZisBmEM3b7Pqm0I2GC) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Golden \(KPop Demon Hunters\)](https://open.spotify.com/album/4wVccijheCSiL6BWcJRGvd) | 3:02 | 2025-09-19 | 2025-09-27 |
-| [Golden Shower \- Live In Krakow](https://open.spotify.com/track/6abushQObMifGaSrI7CbUl) | [Till Lindemann](https://open.spotify.com/artist/2a5G7JLmVJNjfFNg8rwLcP) | [Live In Krakow](https://open.spotify.com/album/2TsxHULDHOfbHXGcxizmai) | 4:55 | 2026-09-25 |  |
+| [Golden Shower \- Live In Krakow](https://open.spotify.com/track/6abushQObMifGaSrI7CbUl) | [Till Lindemann](https://open.spotify.com/artist/2a5G7JLmVJNjfFNg8rwLcP) | [Live In Krakow](https://open.spotify.com/album/2TsxHULDHOfbHXGcxizmai) | 4:55 | 2026-09-25 | 2026-10-12 |
 | [GOMD \(Remix\) \[feat\. Lil Uzi Vert\]](https://open.spotify.com/track/4ncoZ4PKxvyzVoSIJsOLo0) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [GOMD \(Remix\) \[feat\. Lil Uzi Vert\]](https://open.spotify.com/album/1XTi2AYI6uOEonUfsLSm3s) | 4:36 | 2023-05-12 | 2023-06-02 |
 | [GOMD \(Remix\) \[feat\. Lil Uzi Vert\]](https://open.spotify.com/track/7wYgd9KnYvtwqXOeDKpBEL) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [GOMD \(Remix\) \[feat\. Lil Uzi Vert\]](https://open.spotify.com/album/6QDwI3PVyKahJbYF6fZekd) | 4:36 | 2023-05-12 | 2023-06-03 |
 | [Good Brother](https://open.spotify.com/track/2OjpcpsNXvrqDJ6ltfzkeW) | [Justus West](https://open.spotify.com/artist/1Rr0QwTQSGjUCpYFfXqnWO), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Good Brother](https://open.spotify.com/album/58pAjB9W3xHw1aX0L9Jw3X) | 3:13 | 2023-09-08 | 2023-10-08 |

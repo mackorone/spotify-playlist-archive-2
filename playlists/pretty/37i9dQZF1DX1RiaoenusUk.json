@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 35547,
+  "num_followers": 35549,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
@@ -795,6 +795,22 @@
     {
       "added_at": "2026-08-11 14:09:20",
       "album": {
+        "name": "One Night",
+        "url": "https://open.spotify.com/album/7pxArAvPLT49D1pujkSm9P"
+      },
+      "artists": [
+        {
+          "name": "N\u00fakuma",
+          "url": "https://open.spotify.com/artist/52HtCVkBSfLDGRHlugmOlg"
+        }
+      ],
+      "duration_ms": 274102,
+      "name": "One Night",
+      "url": "https://open.spotify.com/track/6bDvwo63vUW9qWUUgWGBby"
+    },
+    {
+      "added_at": "2026-08-11 14:09:20",
+      "album": {
         "name": "RE$FRIADO",
         "url": "https://open.spotify.com/album/4FZez58BNMMijlt8M1npl5"
       },
@@ -815,22 +831,6 @@
     {
       "added_at": "2026-08-11 14:09:20",
       "album": {
-        "name": "Vos No",
-        "url": "https://open.spotify.com/album/2zLtFQC86cAi4Pn5wI3ief"
-      },
-      "artists": [
-        {
-          "name": "NAFTA",
-          "url": "https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6"
-        }
-      ],
-      "duration_ms": 220752,
-      "name": "Vos No",
-      "url": "https://open.spotify.com/track/6VGl3go59jQhn1vSnOW7Ol"
-    },
-    {
-      "added_at": "2026-08-11 14:09:20",
-      "album": {
         "name": "Bienvenidos al Presente",
         "url": "https://open.spotify.com/album/7qFI4bipXWEoqWBXK9trKS"
       },
@@ -847,18 +847,18 @@
     {
       "added_at": "2026-08-11 14:09:20",
       "album": {
-        "name": "One Night",
-        "url": "https://open.spotify.com/album/7pxArAvPLT49D1pujkSm9P"
+        "name": "Vos No",
+        "url": "https://open.spotify.com/album/2zLtFQC86cAi4Pn5wI3ief"
       },
       "artists": [
         {
-          "name": "N\u00fakuma",
-          "url": "https://open.spotify.com/artist/52HtCVkBSfLDGRHlugmOlg"
+          "name": "NAFTA",
+          "url": "https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6"
         }
       ],
-      "duration_ms": 274102,
-      "name": "One Night",
-      "url": "https://open.spotify.com/track/6bDvwo63vUW9qWUUgWGBby"
+      "duration_ms": 220752,
+      "name": "Vos No",
+      "url": "https://open.spotify.com/track/6VGl3go59jQhn1vSnOW7Ol"
     },
     {
       "added_at": "2026-08-11 14:09:20",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2026-08-11 14:09:20",
       "album": {
+        "name": "Sudamericano",
+        "url": "https://open.spotify.com/album/0aicK68Tg0bOAb7vPOFmwt"
+      },
+      "artists": [
+        {
+          "name": "Tony 70",
+          "url": "https://open.spotify.com/artist/1laEjxa14vAVGj1bkkkQUv"
+        }
+      ],
+      "duration_ms": 252120,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/69CrLrn3sGEiwxmki7IwlN"
+    },
+    {
+      "added_at": "2026-08-11 14:09:20",
+      "album": {
         "name": "Baba",
         "url": "https://open.spotify.com/album/3fyQsRwHWt4G4Tx8VTa3SN"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 235836,
       "name": "Baba",
       "url": "https://open.spotify.com/track/3pvpIE1dcLrYhYex0CUKxA"
-    },
-    {
-      "added_at": "2026-08-11 14:09:20",
-      "album": {
-        "name": "Sudamericano",
-        "url": "https://open.spotify.com/album/0aicK68Tg0bOAb7vPOFmwt"
-      },
-      "artists": [
-        {
-          "name": "Tony 70",
-          "url": "https://open.spotify.com/artist/1laEjxa14vAVGj1bkkkQUv"
-        }
-      ],
-      "duration_ms": 252120,
-      "name": "Insomnia",
-      "url": "https://open.spotify.com/track/69CrLrn3sGEiwxmki7IwlN"
     },
     {
       "added_at": "2026-08-11 14:09:20",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2026-08-11 14:09:20",
       "album": {
+        "name": "No la Ves",
+        "url": "https://open.spotify.com/album/0ja7i6140pD18DMHukGkeP"
+      },
+      "artists": [
+        {
+          "name": "Warlock ARG",
+          "url": "https://open.spotify.com/artist/3Et7l92EvT83F7NsmtDYzV"
+        }
+      ],
+      "duration_ms": 259553,
+      "name": "No la Ves",
+      "url": "https://open.spotify.com/track/4ql5SX2c5PVj8FDYRGmdLX"
+    },
+    {
+      "added_at": "2026-08-11 14:09:20",
+      "album": {
         "name": "7 Am",
         "url": "https://open.spotify.com/album/18Gy6Xx7OqnlKksIerzJQN"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 239387,
       "name": "7 Am",
       "url": "https://open.spotify.com/track/0ODREAhFrzSo6Amvw31QA4"
-    },
-    {
-      "added_at": "2026-08-11 14:09:20",
-      "album": {
-        "name": "No la Ves",
-        "url": "https://open.spotify.com/album/0ja7i6140pD18DMHukGkeP"
-      },
-      "artists": [
-        {
-          "name": "Warlock ARG",
-          "url": "https://open.spotify.com/artist/3Et7l92EvT83F7NsmtDYzV"
-        }
-      ],
-      "duration_ms": 259553,
-      "name": "No la Ves",
-      "url": "https://open.spotify.com/track/4ql5SX2c5PVj8FDYRGmdLX"
     },
     {
       "added_at": "2026-08-11 14:09:20",
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2026-08-11 14:09:20",
       "album": {
-        "name": "Selva",
-        "url": "https://open.spotify.com/album/03n9iLQLygvipVP1B6AsjC"
+        "name": "Therapy",
+        "url": "https://open.spotify.com/album/5vtaMgXdhnI7HaiVBYmoJn"
       },
       "artists": [
         {
-          "name": "De La Rivera",
-          "url": "https://open.spotify.com/artist/4U48zETkokPB76fnXQiO2b"
+          "name": "Croupier Funk",
+          "url": "https://open.spotify.com/artist/5eRF4FkmH7eLChZufSBf3p"
         }
       ],
-      "duration_ms": 210796,
-      "name": "Selva",
-      "url": "https://open.spotify.com/track/6io5gRjR6wkb6nlEmi7rIr"
+      "duration_ms": 230250,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/3PqP0GbtQpZy9cHvNFrhl9"
     },
     {
       "added_at": "2026-08-11 14:09:20",
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2026-08-11 14:09:20",
       "album": {
-        "name": "Therapy",
-        "url": "https://open.spotify.com/album/5vtaMgXdhnI7HaiVBYmoJn"
+        "name": "Selva",
+        "url": "https://open.spotify.com/album/03n9iLQLygvipVP1B6AsjC"
       },
       "artists": [
         {
-          "name": "Croupier Funk",
-          "url": "https://open.spotify.com/artist/5eRF4FkmH7eLChZufSBf3p"
+          "name": "De La Rivera",
+          "url": "https://open.spotify.com/artist/4U48zETkokPB76fnXQiO2b"
         }
       ],
-      "duration_ms": 230250,
-      "name": "Therapy",
-      "url": "https://open.spotify.com/track/3PqP0GbtQpZy9cHvNFrhl9"
+      "duration_ms": 210796,
+      "name": "Selva",
+      "url": "https://open.spotify.com/track/6io5gRjR6wkb6nlEmi7rIr"
     },
     {
       "added_at": "2026-08-11 14:09:20",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2026-08-11 14:09:20",
       "album": {
-        "name": "Sepia",
-        "url": "https://open.spotify.com/album/7n8DQxmEU59eGsqK89zqaE"
-      },
-      "artists": [
-        {
-          "name": "Ekath\u00e9",
-          "url": "https://open.spotify.com/artist/2QodtlX1l4FWXEETTWtLvz"
-        }
-      ],
-      "duration_ms": 326661,
-      "name": "Sepia",
-      "url": "https://open.spotify.com/track/5tNssisrG10u3i8M2tuK8X"
-    },
-    {
-      "added_at": "2026-08-11 14:09:20",
-      "album": {
         "name": "Melod\u00edas",
         "url": "https://open.spotify.com/album/4KtxaUtnvHgtieeMvlA1Kj"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 185312,
       "name": "Melod\u00edas",
       "url": "https://open.spotify.com/track/6FFVgXUdy3hQepL1FtjbVH"
+    },
+    {
+      "added_at": "2026-08-11 14:09:20",
+      "album": {
+        "name": "Sepia",
+        "url": "https://open.spotify.com/album/7n8DQxmEU59eGsqK89zqaE"
+      },
+      "artists": [
+        {
+          "name": "Ekath\u00e9",
+          "url": "https://open.spotify.com/artist/2QodtlX1l4FWXEETTWtLvz"
+        }
+      ],
+      "duration_ms": 326661,
+      "name": "Sepia",
+      "url": "https://open.spotify.com/track/5tNssisrG10u3i8M2tuK8X"
     }
   ],
   "unique_name": "Nota Funk",

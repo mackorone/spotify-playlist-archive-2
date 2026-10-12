@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 
 > Big bands and tuxedos\. The playlist for the wedding or just an elegant evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,210,080 likes - 80 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,210,198 likes - 80 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Somethin' Stupid](https://open.spotify.com/track/4kSKacywUJHdhyst4PL6pl) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw), [Nicole Kidman](https://open.spotify.com/artist/0ExYzTb7raTAfsXPtiI5vq) | [Swing When You're Winning](https://open.spotify.com/album/3eWoVPAUtBO8JpwOkWpvnw) | 2:50 |
 | 2 | [Fly Me To The Moon](https://open.spotify.com/track/2dR5WkrpwylTuT3jRWNufa) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Ultimate Sinatra](https://open.spotify.com/album/7gmak9ZGm10y4PtZa9SBQn) | 2:27 |
-| 3 | [Moon River \(From "Breakfast at Tiffany's"\)](https://open.spotify.com/track/24AIahNHzBxm9S12peXbnG) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [Moon River And Other Great Movie Themes](https://open.spotify.com/album/1RLfn8e4cQvC0WsYJM6rh2) | 2:42 |
-| 4 | [On The Street Where You Live \- Remastered 1998](https://open.spotify.com/track/6qMMQzYTKabamnMPlCmfxb) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Time I'm Swingin'](https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y) | 3:41 |
+| 3 | [On The Street Where You Live \- Remastered 1998](https://open.spotify.com/track/6qMMQzYTKabamnMPlCmfxb) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Time I'm Swingin'](https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y) | 3:41 |
+| 4 | [Moon River \(From "Breakfast at Tiffany's"\)](https://open.spotify.com/track/24AIahNHzBxm9S12peXbnG) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [Moon River And Other Great Movie Themes](https://open.spotify.com/album/1RLfn8e4cQvC0WsYJM6rh2) | 2:42 |
 | 5 | [All of Me](https://open.spotify.com/track/1LGqJ3nvxpVXDWpEzq4DJD) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady Day: The Complete Billie Holiday On Columbia \(1933\-1944\)](https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy) | 3:01 |
 | 6 | [September In The Rain](https://open.spotify.com/track/2csA2nDUNR5TfQEn1I7nt4) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [September In The Rain](https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV) | 2:09 |
 | 7 | [Smile](https://open.spotify.com/track/1oDCK7PW72XEZ1pE5rh87A) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 2:53 |

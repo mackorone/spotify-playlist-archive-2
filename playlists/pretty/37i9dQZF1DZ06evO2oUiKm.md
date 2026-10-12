@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oUiKm.md) - [plain]
 
 > This is Cynthia Erivo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,634 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,633 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oUiKm.md) - [plain]
 | 49 | [Si Pudiera Leer Tus Sueños](https://open.spotify.com/track/1ZPFEGzfCOQP8qaEhRVNKm) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Singing You Home \- Children's Songs for Family Reunification](https://open.spotify.com/album/4J65ICYdG58WI6HMlPVbyv) | 2:37 |
 | 50 | [Together \(Soundtrack from Year in Search\)](https://open.spotify.com/track/4P3YIQ8etgONpiS1DIpFat) | [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Chicago Children's Choir](https://open.spotify.com/artist/6e64nPdtxyICfh90RJukpg), [Matt Jones \(Re\-Collective Orchestra\)](https://open.spotify.com/artist/5aIudIa5jdxKBDLH1qVPWC) | [Together \(Soundtrack from Year in Search\)](https://open.spotify.com/album/1lBWCio6Lq0FcZTkyV7GWy) | 3:12 |
 
-Snapshot ID: `asgugAAAAABHZ3VVHzhp/hEdtIW17zUc`
+Snapshot ID: `asmAAAAAAADEL9JgzPdSB+4GWcqQVqf4`

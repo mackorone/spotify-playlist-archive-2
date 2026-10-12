@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmmr74INQlb.md) - [plain]
 
 > Celebrating 20 years of B'Day\. Cover: Beyoncé
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,812,502 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,812,461 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmmr74INQlb.md) - [plain]
 | 50 | [Do It To It](https://open.spotify.com/track/6MBEjJlXQYXr8dfxDvZuoA) | [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo), [Sean Paul](https://open.spotify.com/artist/2ZVEnkCKF0ytNHpj9cLxte) | [Unappreciated](https://open.spotify.com/album/5nHZP6EqmhfNwxe71tpyKn) | 3:46 |
 | 51 | [Oh \(feat\. Ludacris\)](https://open.spotify.com/track/7i7UIbm5E0DD7aSOYvwp2v) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Goodies](https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3) | 4:16 |
 | 52 | [Blame It](https://open.spotify.com/track/08uGhvS5MfBk7crUCpnjva) | [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Intuition](https://open.spotify.com/album/4Tk1gvdwy7TL3Ma2s9iZ9f) | 4:49 |
-| 53 | [1 Thing](https://open.spotify.com/track/1mnqraQ8oV8MX92rdOFLWW) | [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [Touch](https://open.spotify.com/album/2PFK4dMZkqUQfxfSrK8WMf) | 3:58 |
-| 54 | [Take You Down](https://open.spotify.com/track/1vwUsp52io0AGQ5yv470IC) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Exclusive \(Expanded Edition\)](https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI) | 4:05 |
+| 53 | [Take You Down](https://open.spotify.com/track/1vwUsp52io0AGQ5yv470IC) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Exclusive \(Expanded Edition\)](https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI) | 4:05 |
+| 54 | [1 Thing](https://open.spotify.com/track/1mnqraQ8oV8MX92rdOFLWW) | [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [Touch](https://open.spotify.com/album/2PFK4dMZkqUQfxfSrK8WMf) | 3:58 |
 | 55 | [All For You](https://open.spotify.com/track/5X8kkUaUlAyAUr9TYqDFTH) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [All For You](https://open.spotify.com/album/0IfJey7ibEDtWNxAQw2ub9) | 5:29 |
 | 56 | [Frontin' \(feat\. JAY\-Z\) \- Club Mix](https://open.spotify.com/track/0iFOG4Ki9aDmJUYUFHQlPG) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Neptunes Present..\. Clones](https://open.spotify.com/album/0AO5ibcO686oWXf96D83pM) | 3:56 |
 | 57 | [Bed](https://open.spotify.com/track/6TlRNJaezOdzdECnQeRuMM) | [J\. Holiday](https://open.spotify.com/artist/7G6hXrjGpi6I7waNl4wxAk) | [Back Of My Lac'](https://open.spotify.com/album/1Ypwht853ZVmsplg2DnZLI) | 4:35 |
@@ -82,12 +82,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmmr74INQlb.md) - [plain]
 | 72 | [Case Of The Ex \(Whatcha Gonna Do\)](https://open.spotify.com/track/1ak0S3NhwWrUgNlQhJ1412) | [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Fear Of Flying](https://open.spotify.com/album/4LPScJnCr71D6oXB1MfQJ7) | 3:56 |
 | 73 | [Shawty Is Da Shit](https://open.spotify.com/track/5RC9YDHON0nXKmcQrL6WV6) | [THE\-DREAM](https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [Love/Hate](https://open.spotify.com/album/5yZReyaWQzR6jvaw4OBxzV) | 4:22 |
 | 74 | [Shake It Off](https://open.spotify.com/track/4VKnkoNNM6yTb4cXXX3wqD) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation of Mimi](https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo) | 3:52 |
-| 75 | [Peaches & Cream](https://open.spotify.com/track/2SLZ2rX5773RS16mcqBxG7) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Part III](https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb) | 3:13 |
-| 76 | [Lose My Breath](https://open.spotify.com/track/4dvQg9sD8k9y4qiEURuj8v) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Destiny Fulfilled](https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO) | 4:02 |
+| 75 | [Lose My Breath](https://open.spotify.com/track/4dvQg9sD8k9y4qiEURuj8v) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Destiny Fulfilled](https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO) | 4:02 |
+| 76 | [Peaches & Cream](https://open.spotify.com/track/2SLZ2rX5773RS16mcqBxG7) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Part III](https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb) | 3:13 |
 | 77 | [Say Yes](https://open.spotify.com/track/2fE4MbwX3QGMzNaMjGVhtw) | [Floetry](https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM) | [Floetic](https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi) | 4:28 |
 | 78 | [Do You](https://open.spotify.com/track/0JKjqJLo145b1mqA6MnhIl) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Because Of You](https://open.spotify.com/album/52q9xNv8COtSU9phlbO5sg) | 3:48 |
-| 79 | [Be Your Girl](https://open.spotify.com/track/4AOUkAWdXPucnYe6GYdZjk) | [Teedra Moses](https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE) | [Complex Simplicity: 15th Anniversary Edition](https://open.spotify.com/album/5ds3BcAZoYcGl8H1yMbnHg) | 4:09 |
-| 80 | [Why Don't We Fall in Love](https://open.spotify.com/track/4bnjq8zqtCnxTGxll5ezOO) | [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [All I Have](https://open.spotify.com/album/3KUaoEXmzVovDKWionaofI) | 2:39 |
+| 79 | [Why Don't We Fall in Love](https://open.spotify.com/track/4bnjq8zqtCnxTGxll5ezOO) | [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [All I Have](https://open.spotify.com/album/3KUaoEXmzVovDKWionaofI) | 2:39 |
+| 80 | [Be Your Girl](https://open.spotify.com/track/4AOUkAWdXPucnYe6GYdZjk) | [Teedra Moses](https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE) | [Complex Simplicity: 15th Anniversary Edition](https://open.spotify.com/album/5ds3BcAZoYcGl8H1yMbnHg) | 4:09 |
 | 81 | [Promise](https://open.spotify.com/track/1pLdjo3lOBbMaoR4ZpybFH) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [The Evolution](https://open.spotify.com/album/0hfJ35SzCkWesdUpLKXLto) | 4:27 |
 | 82 | [Just Friends \(Sunny\)](https://open.spotify.com/track/5jgEJXjECdlhzNgfITSTVm) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Aijuswanaseing](https://open.spotify.com/album/2RmMKj20xouC3Mqq1CyZ3c) | 4:11 |
 | 83 | [Bust Your Windows](https://open.spotify.com/track/56z2qI0gKcPthQF6l8AW3E) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Fearless](https://open.spotify.com/album/2V99Z0aZgSK6XTbh19UYTU) | 4:26 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmmr74INQlb.md) - [plain]
 | 96 | [Baby](https://open.spotify.com/track/6cZPfzVtkicrA3CyjqYKhu) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Ashanti](https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X) | 4:25 |
 | 97 | [It's Over Now](https://open.spotify.com/track/769geiA8btidGHda4BBDOJ) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Part III](https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb) | 4:24 |
 | 98 | [Pretty Wings \- uncut](https://open.spotify.com/track/22NLm3IIR9NLG0cUYtmHMW) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [BLACKsummers'night \(2009\)](https://open.spotify.com/album/1cXFSOdjxmS13cOTtnNQAo) | 5:10 |
-| 99 | [Send It On](https://open.spotify.com/track/5LIwaG8Wl9LfExcmiRQm7J) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 5:56 |
-| 100 | [A Long Walk](https://open.spotify.com/track/1CeizRCGEYPWooEeVfmyFL) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Who Is Jill Scott? \- Words and Sounds, Vol\. 1](https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG) | 4:40 |
+| 99 | [A Long Walk](https://open.spotify.com/track/1CeizRCGEYPWooEeVfmyFL) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Who Is Jill Scott? \- Words and Sounds, Vol\. 1](https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG) | 4:40 |
+| 100 | [Send It On](https://open.spotify.com/track/5LIwaG8Wl9LfExcmiRQm7J) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 5:56 |
 
 Snapshot ID: `AAAAAH2oldfIqFHsQdZnrWWL50fcXsrf`

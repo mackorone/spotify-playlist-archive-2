@@ -9649,6 +9649,32 @@
     },
     {
       "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/0tbq3LgCA3BlNKLZ2E0vOO"
+      },
+      "artists": [
+        {
+          "name": "Hollywood Vampires",
+          "url": "https://open.spotify.com/artist/3k4YA0uPsWc2PuOQlJNpdH"
+        },
+        {
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+        },
+        {
+          "name": "Johnny Depp",
+          "url": "https://open.spotify.com/artist/3OsHwkxpSIEqqmYoQxZTT5"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248653,
+      "name": "Heroes",
+      "url": "https://open.spotify.com/track/2MhJNvtkInVsS4zXXflvoV"
+    },
+    {
+      "album": {
         "name": "Land of Pine",
         "url": "https://open.spotify.com/album/0mMyd6IDLycxlDihDuOIaM"
       },

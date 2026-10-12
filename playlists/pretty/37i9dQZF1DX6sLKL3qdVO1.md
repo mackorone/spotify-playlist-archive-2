@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sLKL3qdVO1.md) - [plain]
 
 > Shawty lo que necesitas es darle flow\.  Julianno Sosa y Pablo Chill\-E en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 682,801 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 682,788 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

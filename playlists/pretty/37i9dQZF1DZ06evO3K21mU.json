@@ -1,12 +1,12 @@
 {
   "description": "This is J. Cole. The essential tracks, all in one playlist.",
-  "num_followers": 949407,
+  "num_followers": 949480,
   "original_name": "This Is J. Cole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asgugAAAAAB+9ndaIovsZhGuuLF/CwI4",
+  "snapshot_id": "asmAAAAAAACVMxD2/0TtjzUCoOojSxxs",
   "tracks": [
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "4 Your Eyez Only",
-        "url": "https://open.spotify.com/album/3CCnGldVQ90c26aFATC1PW"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 264746,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/6I6NX6tjGsxFAsIfGzY9lJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CLEAR 2: SOFT LIFE EP",
         "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 147666,
       "name": "To Summer, From Cole - Audio Hug",
       "url": "https://open.spotify.com/track/2f86Ae3R4OKAu1lEIqouih"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "4 Your Eyez Only",
+        "url": "https://open.spotify.com/album/3CCnGldVQ90c26aFATC1PW"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 331480,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/3pjUyVbFmM96tYhSaKJwTt"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "4 Your Eyez Only",
-        "url": "https://open.spotify.com/album/3CCnGldVQ90c26aFATC1PW"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 331480,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/3pjUyVbFmM96tYhSaKJwTt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Revenge Of The Dreamers III",
         "url": "https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 202040,
       "name": "Under The Sun (with J. Cole & Lute feat. DaBaby)",
       "url": "https://open.spotify.com/track/6MF4tRr5lU8qok8IKaFOBE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "4 Your Eyez Only",
+        "url": "https://open.spotify.com/album/3CCnGldVQ90c26aFATC1PW"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 264746,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/6I6NX6tjGsxFAsIfGzY9lJ"
     },
     {
       "added_at": null,
@@ -775,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Port Antonio",
+        "url": "https://open.spotify.com/album/5PsNxZIlqO0zVMxDF9zulW"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 316235,
+      "name": "Port Antonio",
+      "url": "https://open.spotify.com/track/74QLfg69aVm4Afw3VGhDTY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "on the street (with J. Cole)",
         "url": "https://open.spotify.com/album/70xdtgH5XuYTqBNdNbUwGO"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 214701,
       "name": "on the street (with J. Cole)",
       "url": "https://open.spotify.com/track/5wxYxygyHpbgv0EXZuqb9V"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Port Antonio",
-        "url": "https://open.spotify.com/album/5PsNxZIlqO0zVMxDF9zulW"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 316235,
-      "name": "Port Antonio",
-      "url": "https://open.spotify.com/track/74QLfg69aVm4Afw3VGhDTY"
     },
     {
       "added_at": null,
@@ -911,8 +911,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Birthday Blizzard \u201826",
-        "url": "https://open.spotify.com/album/5jydEh8Ck5yNP92arzgntO"
+        "name": "4 Your Eyez Only",
+        "url": "https://open.spotify.com/album/3CCnGldVQ90c26aFATC1PW"
       },
       "artists": [
         {
@@ -920,9 +920,9 @@
           "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 233079,
-      "name": "99 Build Freestyle",
-      "url": "https://open.spotify.com/track/62tMGw9ce46XFOroYM0hrt"
+      "duration_ms": 530253,
+      "name": "4 Your Eyez Only",
+      "url": "https://open.spotify.com/track/1vvnYpYEMVB4aq9I6tHIEB"
     },
     {
       "added_at": null,

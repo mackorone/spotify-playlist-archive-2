@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 
 > rock alternativo y sudamericano\. <br/>📷 Pizza
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,020 likes - 106 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,026 likes - 106 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

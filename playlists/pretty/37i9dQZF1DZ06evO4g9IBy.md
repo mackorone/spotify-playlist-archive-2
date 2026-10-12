@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4g9IBy.md) - [plain]
 
 > This is Stevie Nicks\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,964 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,983 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4g9IBy.md) - [plain]
 | 49 | [New Orleans](https://open.spotify.com/track/1HKApG1WCilb4B82fIUoje) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [In Your Dreams](https://open.spotify.com/album/1mJFn6QQYSHfArKZzvrNvj) | 5:34 |
 | 50 | [What Has Rock And Roll Ever Done For You](https://open.spotify.com/track/5XRE1d7LrJJ3yA5AbpRogE) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Rockstar](https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2) | 5:01 |
 
-Snapshot ID: `asgugAAAAAD6yk5vfmreConZciubTzSA`
+Snapshot ID: `asmAAAAAAAAQwSLbWhN5olpEHxTPnnEd`

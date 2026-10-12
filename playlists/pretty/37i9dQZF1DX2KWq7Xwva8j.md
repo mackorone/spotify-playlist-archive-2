@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 
 > El futuro ya está aquí, con nuestra nueva promoción\. Foto: Teo Planell.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,131 likes - 43 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,138 likes - 43 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

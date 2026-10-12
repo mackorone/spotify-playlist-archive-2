@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2017. Cover: The xx",
-  "num_followers": 163334,
+  "num_followers": 163337,
   "original_name": "Best of Indie 2017",
   "owner": {
     "name": "Spotify",
@@ -607,18 +607,18 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "For Crying Out Loud (Deluxe)",
-        "url": "https://open.spotify.com/album/0ymsF6XO1mZM1VKqI680jU"
+        "name": "Crack-Up",
+        "url": "https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v"
       },
       "artists": [
         {
-          "name": "Kasabian",
-          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
         }
       ],
-      "duration_ms": 215737,
-      "name": "You're in Love with a Psycho",
-      "url": "https://open.spotify.com/track/0AJhcuRl3i1FfPNr88ZScv"
+      "duration_ms": 210506,
+      "name": "If You Need To, Keep Time on Me",
+      "url": "https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -639,18 +639,18 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Crack-Up",
-        "url": "https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v"
+        "name": "Rest",
+        "url": "https://open.spotify.com/album/5nalJu58LJj7AMMyHwtbLX"
       },
       "artists": [
         {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+          "name": "Charlotte Gainsbourg",
+          "url": "https://open.spotify.com/artist/2rBcvLKWCZs9w1qIWv560v"
         }
       ],
-      "duration_ms": 210506,
-      "name": "If You Need To, Keep Time on Me",
-      "url": "https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ"
+      "duration_ms": 364986,
+      "name": "Deadly Valentine",
+      "url": "https://open.spotify.com/track/0pfTlQJBOV4LUmF8qqrVy5"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -671,18 +671,18 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Rest",
-        "url": "https://open.spotify.com/album/5nalJu58LJj7AMMyHwtbLX"
+        "name": "For Crying Out Loud (Deluxe)",
+        "url": "https://open.spotify.com/album/0ymsF6XO1mZM1VKqI680jU"
       },
       "artists": [
         {
-          "name": "Charlotte Gainsbourg",
-          "url": "https://open.spotify.com/artist/2rBcvLKWCZs9w1qIWv560v"
+          "name": "Kasabian",
+          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
         }
       ],
-      "duration_ms": 364986,
-      "name": "Deadly Valentine",
-      "url": "https://open.spotify.com/track/0pfTlQJBOV4LUmF8qqrVy5"
+      "duration_ms": 215737,
+      "name": "You're in Love with a Psycho",
+      "url": "https://open.spotify.com/track/0AJhcuRl3i1FfPNr88ZScv"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Mt. Joy",
-        "url": "https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 186133,
-      "name": "Astrovan",
-      "url": "https://open.spotify.com/track/14e46mURUUwB3i2vTe1gFz"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "Erratic Cinematic",
         "url": "https://open.spotify.com/album/6fyMUlF3m4s4aMrbpT6HIL"
       },
@@ -1323,18 +1307,34 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Blood Type",
-        "url": "https://open.spotify.com/album/1xpNb3oOnWsZJYQyomLe4Z"
+        "name": "Mt. Joy",
+        "url": "https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01"
       },
       "artists": [
         {
-          "name": "Cautious Clay",
-          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
         }
       ],
-      "duration_ms": 202597,
-      "name": "Cold War",
-      "url": "https://open.spotify.com/track/6DwiGVCgXGREeCyJZtX7S1"
+      "duration_ms": 186133,
+      "name": "Astrovan",
+      "url": "https://open.spotify.com/track/14e46mURUUwB3i2vTe1gFz"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "Stranger in the Alps",
+        "url": "https://open.spotify.com/album/0AkAmg94XyiHODJaiGHh9O"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 229760,
+      "name": "Motion Sickness",
+      "url": "https://open.spotify.com/track/6LxcPUqx6noURdA5qc4BAT"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1371,34 +1371,18 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Stranger in the Alps",
-        "url": "https://open.spotify.com/album/0AkAmg94XyiHODJaiGHh9O"
+        "name": "Blood Type",
+        "url": "https://open.spotify.com/album/1xpNb3oOnWsZJYQyomLe4Z"
       },
       "artists": [
         {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
         }
       ],
-      "duration_ms": 229760,
-      "name": "Motion Sickness",
-      "url": "https://open.spotify.com/track/6LxcPUqx6noURdA5qc4BAT"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
-        "name": "Beautiful People Will Ruin Your Life",
-        "url": "https://open.spotify.com/album/4kUbTSoTsbKP5MRdYMDBx1"
-      },
-      "artists": [
-        {
-          "name": "The Wombats",
-          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
-        }
-      ],
-      "duration_ms": 207679,
-      "name": "Turn",
-      "url": "https://open.spotify.com/track/11IJA30efHAJLO3qroPh5L"
+      "duration_ms": 202597,
+      "name": "Cold War",
+      "url": "https://open.spotify.com/track/6DwiGVCgXGREeCyJZtX7S1"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1415,6 +1399,22 @@
       "duration_ms": 176760,
       "name": "You Say I'm in Love",
       "url": "https://open.spotify.com/track/5Ss6DqCldgTmIo6BekVOJT"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "Beautiful People Will Ruin Your Life",
+        "url": "https://open.spotify.com/album/4kUbTSoTsbKP5MRdYMDBx1"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "duration_ms": 207679,
+      "name": "Turn",
+      "url": "https://open.spotify.com/track/11IJA30efHAJLO3qroPh5L"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "No Shape",
-        "url": "https://open.spotify.com/album/7awgq3vvlsIeA7dZduR9x4"
-      },
-      "artists": [
-        {
-          "name": "Perfume Genius",
-          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
-        }
-      ],
-      "duration_ms": 165329,
-      "name": "Slip Away",
-      "url": "https://open.spotify.com/track/3Gda1sTo2ZjbztjjsnAsP3"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "Goodie Bag",
         "url": "https://open.spotify.com/album/31u58iuxrUOJeKJj4SKqOl"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 146390,
       "name": "Goodie Bag",
       "url": "https://open.spotify.com/track/297rZsBEjFw9d0Gl3iBLnd"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "Stranger in the Alps",
+        "url": "https://open.spotify.com/album/0AkAmg94XyiHODJaiGHh9O"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 232373,
+      "name": "Funeral",
+      "url": "https://open.spotify.com/track/2Tbym0L4Xlox9nol0YzPct"
     },
     {
       "added_at": "2024-03-18 13:08:31",

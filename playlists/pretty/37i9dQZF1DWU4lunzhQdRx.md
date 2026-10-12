@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4lunzhQdRx.md) - [plain]
 
 > what if the missing you don't ever go away?
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,374 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,426 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4lunzhQdRx.md) - [plain]
 | 26 | [Burning House](https://open.spotify.com/track/2zhk0kypGeOPsaaZcjyc14) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Untamed](https://open.spotify.com/album/5KlzsMAsw5NujrJVQtjQAB) | 3:51 |
 | 27 | [Whiskey Lullaby \(feat\. Alison Krauss\)](https://open.spotify.com/track/4BXkf6yww23Vdju7E1fUrn) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Hits Alive](https://open.spotify.com/album/10XgYRGRtKApBh2P1K9yHS) | 4:21 |
 | 28 | [Come Home to You](https://open.spotify.com/track/3OZIdWrjR85DbTX8DC4myC) | [Emily Ann Roberts](https://open.spotify.com/artist/4ZuggB1YawAAZOBL4pI9J8) | [Come Home to You](https://open.spotify.com/album/3HmBqHCOjU219BMkGljj4t) | 3:53 |
-| 29 | [More Hearts Than Mine](https://open.spotify.com/track/60RFlt48hm0l4Fu0JoccOl) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 3:34 |
+| 29 | [Stay](https://open.spotify.com/track/0jn2XqaHliEpWd04ZykIHy) | [Sugarland](https://open.spotify.com/artist/0hYxQe3AK5jBPCr5MumLHD) | [Enjoy The Ride](https://open.spotify.com/album/6CtZVmlfVS5SSUBHnjgFKG) | 4:44 |
 | 30 | [I Only Miss You \(feat\. Ed Sheeran\)](https://open.spotify.com/track/5smzdAtuOJOp3jEKjTno3p) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Cloud 9](https://open.spotify.com/album/6UpHmlakegfavZms7ZBAIS) | 4:05 |
-| 31 | [Stay](https://open.spotify.com/track/0jn2XqaHliEpWd04ZykIHy) | [Sugarland](https://open.spotify.com/artist/0hYxQe3AK5jBPCr5MumLHD) | [Enjoy The Ride](https://open.spotify.com/album/6CtZVmlfVS5SSUBHnjgFKG) | 4:44 |
+| 31 | [More Hearts Than Mine](https://open.spotify.com/track/60RFlt48hm0l4Fu0JoccOl) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 3:34 |
 | 32 | [Back To December](https://open.spotify.com/track/3DrjZArsPsoqbLzUZZV1Id) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now](https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy) | 4:53 |
 | 33 | [Flower Shops](https://open.spotify.com/track/0De9jFjJ4eRLl7Yww2eBw1) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [FLOWER SHOPS](https://open.spotify.com/album/5mTNFZBZyKIZSYrIAf9c5L) | 3:34 |
 | 34 | [Peter Pan](https://open.spotify.com/track/2wqXQjOmQ9KoBm9Ssgt4Fo) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [The First Time](https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf) | 3:20 |

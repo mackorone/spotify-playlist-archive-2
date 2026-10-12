@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 357 likes - 2,741 songs - 6 day 15 hr 44 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 358 likes - 2,743 songs - 6 day 15 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2749,5 +2749,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2739 | [Midnight Rain Memories](https://open.spotify.com/track/03iJkNfAoB0zr5pBZxl1Mi) | [Celo Relax](https://open.spotify.com/artist/7clLuVpdgcqkETFLfdLlOw) | [Midnight Rain Memories](https://open.spotify.com/album/4Aj1gfLDaIKBGb4uPx5Cqa) | 2:46 |
 | 2740 | [Alone in December](https://open.spotify.com/track/46EnMxmiepQ2RtZvjFFet8) | [Celo Relax](https://open.spotify.com/artist/7clLuVpdgcqkETFLfdLlOw) | [Alone in December](https://open.spotify.com/album/60lSdW7y6So3soJqh71IKW) | 2:23 |
 | 2741 | [The Frame](https://open.spotify.com/track/2n8swjsvLVGr9g4kGq285Q) | [Hasamura](https://open.spotify.com/artist/1bbe83p1En6vfNkPTvTErG) | [Timewave](https://open.spotify.com/album/0Uwi3TbDhS0BdFe3S0hsnb) | 4:43 |
+| 2742 | [i wish i could forget](https://open.spotify.com/track/0bDCWL9NJFMOWbiyaxim95) | [Cold Water](https://open.spotify.com/artist/5kazB8wdgdWlnTuByuKYVw) | [i wish i could forget](https://open.spotify.com/album/6ILNFS3HG0VqlvyKjeserQ) | 1:26 |
+| 2743 | [Slow Morning](https://open.spotify.com/track/0Ri3JL1PRvBwfIu7HTjk00) | [Bon Echo](https://open.spotify.com/artist/0cptB7nxVh6aCVkUZcrSLy) | [Slow Morning](https://open.spotify.com/album/3V64xs8qTljjhW5BRkiNum) | 1:30 |
 
-Snapshot ID: `AAALvgJwZR10f3FXJ6rX3oR6cpqLv9wO`
+Snapshot ID: `AAALwGLp9aILj1BTVZ4HNVTzV39vcbMD`

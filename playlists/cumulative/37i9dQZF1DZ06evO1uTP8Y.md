@@ -4,7 +4,7 @@
 
 > This is Odeal\. The essential tracks, all in one playlist.
 
-87 songs - 4 hr 16 min
+88 songs - 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Gave You My All](https://open.spotify.com/track/2WEgOHRhsCMNiV4qcWNxAX) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [EMIL](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb) | [Thoughts I Never Said](https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl) | 3:01 | 2025-08-02 |  |
 | [Get Down](https://open.spotify.com/track/13J4slEnjXywIEE4r9CHPh) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [For A Good Time...](https://open.spotify.com/album/55uMsvthBm45JtBhyadkPa) | 2:28 | 2026-08-02 |  |
 | [HBTS \(Haven't Been The Same\)](https://open.spotify.com/track/6rWgCitTZWRCk8DgfJWsiV) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Lustropolis](https://open.spotify.com/album/6fxMeTRs7F0zyooUfR9YSa) | 3:03 | 2025-08-15 | 2026-09-26 |
-| [Hold You Down](https://open.spotify.com/track/58rGKqZE9EiSAmPIeMLaKu) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Peace and Love](https://open.spotify.com/album/1Vro9qhKIVfWoJSSfCYd01) | 2:38 | 2025-08-02 |  |
+| [Hold You Down](https://open.spotify.com/track/58rGKqZE9EiSAmPIeMLaKu) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Peace and Love](https://open.spotify.com/album/1Vro9qhKIVfWoJSSfCYd01) | 2:38 | 2025-08-02 | 2026-10-12 |
 | [Holier \(SHOWBIZ\)](https://open.spotify.com/track/5kMGUDbBjN6uNHEmIrnYXH) | [Olli P](https://open.spotify.com/artist/1sVeCzkWGI0b1Y8NyyAJCx), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Holier \(SHOWBIZ\)](https://open.spotify.com/album/3bj5fZFxgQrTOzc2deaNhG) | 2:26 | 2026-01-20 |  |
 | [i'm ready \(feat\. Odeal\)](https://open.spotify.com/track/6E8TyGYNEu1Y5vns35uyHa) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [WONDERLOVE +](https://open.spotify.com/album/2T9YYatIZcgwuXx8BYpISd) | 3:26 | 2025-10-12 | 2026-08-02 |
 | [In the Chair](https://open.spotify.com/track/1GPJiUz5W8pJpmeqopYmPe) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Summer That Saved Me](https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z) | 2:17 | 2025-08-02 |  |
@@ -93,6 +93,7 @@
 | [Water](https://open.spotify.com/track/33LzALMkQ2EmCnCoKS8K6w) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Thoughts I Never Said](https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl) | 2:21 | 2025-08-02 |  |
 | [What You Need](https://open.spotify.com/track/5cQmw2ggmqGN7IERoGJdZe) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [OVMBR: Roses](https://open.spotify.com/album/66LEmqkDYl5OFC62EA5M7q) | 4:10 | 2025-08-09 | 2025-11-23 |
 | [Wicked](https://open.spotify.com/track/617frgZYXehBNs3Sz6zwS8) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Fall That Saved Us](https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl) | 2:21 | 2025-11-23 |  |
+| [Wish I Knew \- feat\. Odeal](https://open.spotify.com/track/63CcTfHILsttIHnUjUUbv2) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [MACHIKO](https://open.spotify.com/album/4sbsIebNfM8SrLOnQNXOgc) | 3:47 | 2026-10-12 |  |
 | [You're Stuck](https://open.spotify.com/track/5lqrfNrGrMfNlPxcCrlmyp) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Lustropolis](https://open.spotify.com/album/6fxMeTRs7F0zyooUfR9YSa) | 4:04 | 2025-08-02 |  |
 | [You, The World Vs Me](https://open.spotify.com/track/7n1nwXK2rEsixUkwtRtETK) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Thoughts I Never Said](https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl) | 2:03 | 2025-08-02 |  |
 

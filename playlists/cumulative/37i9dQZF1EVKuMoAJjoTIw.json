@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-29",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIZIiJvqaSAaz>sombr</a>, <a href=spotify:playlist:37i9dQZF1EIUZByzgp9TdY>Lewis Capaldi</a>, <a href=spotify:playlist:37i9dQZF1EIUXx6OHYXD1I>pupsies</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIWPqWChV5GmM>Anuv Jain</a>, <a href=spotify:playlist:37i9dQZF1EIWI4rTf402lQ>Coldplay</a>, <a href=spotify:playlist:37i9dQZF1EIXIanoPjZlfL>Gigi Perez</a> and more",
   "name": "Sad Mix",
   "tracks": [
     {
@@ -394,7 +394,7 @@
       ],
       "date_added": "2026-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 185343,
       "name": "A Lei",
       "url": "https://open.spotify.com/track/50uGP4Bs22S1iPNn1hTo3R"
@@ -1668,10 +1668,28 @@
       ],
       "date_added": "2026-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 183321,
       "name": "Arsenico",
       "url": "https://open.spotify.com/track/7anzuQWuiCCULZhfJdXTyw"
+    },
+    {
+      "album": {
+        "name": "Arz Kiya Hai | Coke Studio Bharat",
+        "url": "https://open.spotify.com/album/5JnqJs94bARmhFoOSW3H5h"
+      },
+      "artists": [
+        {
+          "name": "Anuv Jain",
+          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294500,
+      "name": "Arz Kiya Hai | Coke Studio Bharat",
+      "url": "https://open.spotify.com/track/1bMkimTb47umgNP6xCi4A1"
     },
     {
       "album": {
@@ -1924,7 +1942,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
@@ -2840,7 +2858,7 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-08",
+      "date_removed": null,
       "duration_ms": 189867,
       "name": "Bottiglie Priv\u00e8",
       "url": "https://open.spotify.com/track/4TQmmasocRmAr8QC0Uchsf"
@@ -3368,7 +3386,7 @@
       ],
       "date_added": "2026-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 170196,
       "name": "Cenere",
       "url": "https://open.spotify.com/track/45xyKCey4BM3fMeFEsF1Hp"
@@ -3824,6 +3842,24 @@
       "duration_ms": 204794,
       "name": "Coleccionando Heridas",
       "url": "https://open.spotify.com/track/3ddJ8Vbc5tYPxq5zKRVke6"
+    },
+    {
+      "album": {
+        "name": "Going Hard 2",
+        "url": "https://open.spotify.com/album/1IAGA62BsUpc8TjhBZuDsn"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203076,
+      "name": "Come mi guardi",
+      "url": "https://open.spotify.com/track/7115pIZRP1L0MaJCPFPPFM"
     },
     {
       "album": {
@@ -4512,7 +4548,7 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-07",
+      "date_removed": null,
       "duration_ms": 225459,
       "name": "Davide e Golia",
       "url": "https://open.spotify.com/track/0qGIqm3xGuugqoXzpnP6sX"
@@ -7120,7 +7156,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-08",
+      "date_removed": null,
       "duration_ms": 201182,
       "name": "Girasole (feat. Rkomi)",
       "url": "https://open.spotify.com/track/6QYSy0nHV8WoBRLqtz6Oa2"
@@ -7312,7 +7348,7 @@
       ],
       "date_added": "2026-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 156144,
       "name": "Grazie, Addio",
       "url": "https://open.spotify.com/track/1LqJ8OhvEjnMRKq4PWiaik"
@@ -7830,7 +7866,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-11",
+      "date_removed": null,
       "duration_ms": 136357,
       "name": "HEARTEATER",
       "url": "https://open.spotify.com/track/0MW5zwGXciXyVdFwQbvBq8"
@@ -9020,7 +9056,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 245172,
       "name": "idfc",
       "url": "https://open.spotify.com/track/2rWUPo6aFtDDD63CdY9XH2"
@@ -9168,7 +9204,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-11",
+      "date_removed": null,
       "duration_ms": 199386,
       "name": "If You Want Love",
       "url": "https://open.spotify.com/track/3i5qVV8azKqGFK4Gzdt5YS"
@@ -9186,7 +9222,7 @@
       ],
       "date_added": "2026-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 146333,
       "name": "Il Filmografo",
       "url": "https://open.spotify.com/track/5nqOdSrqurNq8ejE7Ujc9l"
@@ -10506,7 +10542,7 @@
       ],
       "date_added": "2026-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 202000,
       "name": "La citt\u00e0",
       "url": "https://open.spotify.com/track/4bOIIWa8c2p0Qj64ZOQfJm"
@@ -10818,7 +10854,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-10",
+      "date_removed": null,
       "duration_ms": 182787,
       "name": "Le tre di notte",
       "url": "https://open.spotify.com/track/3VX4Sh9oLOHD6Nm9v7ohgC"
@@ -10858,7 +10894,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-15",
+      "date_removed": null,
       "duration_ms": 164848,
       "name": "Lei \u00c8...",
       "url": "https://open.spotify.com/track/6VJCsvAbFi0webNvv8zzWZ"
@@ -12930,7 +12966,7 @@
       ],
       "date_added": "2026-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 124865,
       "name": "Midnight Thoughts",
       "url": "https://open.spotify.com/track/2lbl6RWx8acFsyvYcasK0H"
@@ -13078,7 +13114,7 @@
       ],
       "date_added": "2026-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 166401,
       "name": "misery.",
       "url": "https://open.spotify.com/track/6De8sirPzVyAoBDlQpcutY"
@@ -13686,7 +13722,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 168308,
       "name": "Never Be Alright",
       "url": "https://open.spotify.com/track/6v5vr3SqSczkqIIVeW8RjZ"
@@ -13784,7 +13820,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-10",
+      "date_removed": null,
       "duration_ms": 181373,
       "name": "Niente Panico",
       "url": "https://open.spotify.com/track/1GVDt0vn0wJ1QemPfMEWTU"
@@ -14363,6 +14399,24 @@
     },
     {
       "album": {
+        "name": "Hustle Mixtape Vol. 2",
+        "url": "https://open.spotify.com/album/4BmvCSV4ZqsnyAcQQQnv0S"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207230,
+      "name": "Ogni Male",
+      "url": "https://open.spotify.com/track/28v57vssZ488EEIBivY3NF"
+    },
+    {
+      "album": {
         "name": "Prisma",
         "url": "https://open.spotify.com/album/3p9YnUYZyns6PGxTbKeLFq"
       },
@@ -14414,7 +14468,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 179372,
       "name": "Olv\u00eddala",
       "url": "https://open.spotify.com/track/0nrQctfuJf5yEjPKHlMiBp"
@@ -14688,7 +14742,7 @@
       ],
       "date_added": "2026-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 163404,
       "name": "Paranoie",
       "url": "https://open.spotify.com/track/5dvs1LY4pqUhUsVOQXtx2M"
@@ -14880,7 +14934,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 214934,
       "name": "PER TE",
       "url": "https://open.spotify.com/track/6DhMZVuD6TH0jd4bMNChCU"
@@ -15378,7 +15432,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-11",
+      "date_removed": null,
       "duration_ms": 192500,
       "name": "Que des cendres",
       "url": "https://open.spotify.com/track/5HgYDX7xLixalIpQ26y02J"
@@ -16326,7 +16380,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-11",
+      "date_removed": null,
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap"
@@ -16668,7 +16722,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 163416,
       "name": "se ne va",
       "url": "https://open.spotify.com/track/3zWXAQuZ2cgRb2p0xqAORS"
@@ -17676,7 +17730,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 182160,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf"
@@ -19556,7 +19610,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 90231,
       "name": "they'll post it online",
       "url": "https://open.spotify.com/track/6yZzK6O3NRSv5TxcQMFmX3"
@@ -19700,7 +19754,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 124437,
       "name": "TI SENTI FRAGILE",
       "url": "https://open.spotify.com/track/5JTpxCtoBfS21t2qPUt2cW"
@@ -20246,6 +20300,24 @@
       "duration_ms": 215999,
       "name": "UFFA (feat. Silent Bob)",
       "url": "https://open.spotify.com/track/6Z5xZS3W3zLJGGDA5hv64H"
+    },
+    {
+      "album": {
+        "name": "TUTTO \u00c8 POSSIBILE",
+        "url": "https://open.spotify.com/album/0LX0TCYflredDlV7BZt4P2"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196681,
+      "name": "UN RICCO E UN POVERO",
+      "url": "https://open.spotify.com/track/5IR9UiTqoJCGJRBUO34cIA"
     },
     {
       "album": {
@@ -21514,7 +21586,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 95680,
       "name": "Why Am I Waiting",
       "url": "https://open.spotify.com/track/2po3166NqW72LwAwh8Hbld"
@@ -21990,7 +22062,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-31",
+      "date_removed": null,
       "duration_ms": 266773,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"

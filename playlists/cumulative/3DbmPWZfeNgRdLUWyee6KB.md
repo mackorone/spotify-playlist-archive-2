@@ -4,7 +4,7 @@
 
 > The best new indie music, indie folk &amp; rock discoveries\. Fresh songs for your daily chill, focus and road trips\. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists\. Updated daily with new releases — hit save to stay tuned!
 
-1,582 songs - 3 day 20 hr 8 min
+1,585 songs - 3 day 20 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [12 Am Lunch with Mayor](https://open.spotify.com/track/15hoZhFK5LO9XUvhsDIOyV) | [Bob Salmieri Bastarduna Quintet](https://open.spotify.com/artist/3IdFWdDrVGP4KOF3F6BHc3), [Danilo Gambardella](https://open.spotify.com/artist/79S5c90qxy2Bo0AxYfZMJE), [Giancarlo Romani](https://open.spotify.com/artist/59gxTwI7Wu2hNmNyj5l4Su) | [12 Am Lunch with Mayor](https://open.spotify.com/album/5cGBSHDbt9P79JmESAjbrD) | 3:40 | 2024-04-27 | 2025-12-28 |
 | [2 Souls](https://open.spotify.com/track/2CX2M3xjYsztZ0jN5LfL8S) | [Kanak Pandey](https://open.spotify.com/artist/2W2dbTuAZi3xnyVaQ3lRVW), [Jorji](https://open.spotify.com/artist/05mUVwDPrCAq1FgKvtG3i5) | [2 Souls](https://open.spotify.com/album/3nmkNOHhjyYlGE4cIYAY1m) | 4:16 | 2026-05-15 | 2026-07-03 |
 | [20th Century Nostalgia](https://open.spotify.com/track/3ryNBZ8PhbTZ9o4hEeaFdX) | [ぼんち](https://open.spotify.com/artist/45f47Q4810sHd1HFlh5Biz) | [20th Century Nostalgia](https://open.spotify.com/album/31qHxCoAmGcjoxVjEVs98y) | 3:41 | 2026-08-05 | 2026-09-17 |
+| [22 Settembre](https://open.spotify.com/track/3RficKMy181JNMFoV82XE8) | [Michele Blasco](https://open.spotify.com/artist/0LsldhiLiieaUY63tH9QfW) | [22 Settembre](https://open.spotify.com/album/2rPJTpAO6Fvwn7athS4Jxn) | 4:06 | 2026-10-11 |  |
 | [23 de Maio](https://open.spotify.com/track/18Lw7AUnhUT646LdPFMvni) | [Allan Fontes](https://open.spotify.com/artist/1SoCnTztxzCxvqVuPwEamz), [Jess.](https://open.spotify.com/artist/00PMCgBFFMXLtUO1prdXTI) | [23 de Maio](https://open.spotify.com/album/4bTJKqCamfHhSnsomTxKEd) | 1:43 | 2026-01-30 | 2026-02-28 |
 | [24](https://open.spotify.com/track/0auAhRNjTNd5rzOEnpLFqX) | [Sush 28](https://open.spotify.com/artist/2VSNYqXIGA7Sr8XyIDMczK) | [24](https://open.spotify.com/album/3sVAjWg3oST76Lb1xxgQhv) | 2:12 | 2026-02-11 | 2026-03-15 |
 | [2805](https://open.spotify.com/track/6OkThCextlbfDydfSO4cHp) | [sullivan grace band](https://open.spotify.com/artist/3ksrh2WkrKJmEeerKl2bpd) | [2805](https://open.spotify.com/album/3AqgwXEQaDCS5awPbA1vk8) | 2:41 | 2026-03-10 | 2026-04-12 |
@@ -177,6 +178,7 @@
 | [Boltneck](https://open.spotify.com/track/6igTRenZofbW7sR9zElLja) | [The Trespassers](https://open.spotify.com/artist/4uLDuEBgtKBoOjCjBYMrtF) | [Boltneck](https://open.spotify.com/album/2GZSgTWpVYLXapQsOfjgYZ) | 4:20 | 2025-12-16 | 2026-01-15 |
 | [Bomboclat](https://open.spotify.com/track/7iJykwxcRyzWcJazK3hyrU) | [LUVVY BLAZE](https://open.spotify.com/artist/15PHS0SuounNY9wPmSxxe4) | [Bomboclat](https://open.spotify.com/album/7C8g2GrGqJtmTv4wMLYaRY) | 2:38 | 2026-08-08 | 2026-09-17 |
 | [Book Of The Year](https://open.spotify.com/track/3LWoSvKMSDb8u9fCe9AUk2) | [Cardinal Verlengo](https://open.spotify.com/artist/7qTS4fsJD0uBmFW0H7cdh1) | [Book Of The Year](https://open.spotify.com/album/5I0bWkG5rFppcyHwWKjwvu) | 3:01 | 2026-07-22 | 2026-08-30 |
+| [Born Again](https://open.spotify.com/track/4LT9snGF4EdfDCw5F1zkxZ) | [Nathaniel Bawden](https://open.spotify.com/artist/2Bqs2btB0esnZVHqHYU2aA) | [The Cost of Loving](https://open.spotify.com/album/2VBq7c4lL5qXbceQpCQiCD) | 3:07 | 2026-10-11 |  |
 | [BORN OF LOVE](https://open.spotify.com/track/5JEBbEpMBo1ndQdtMD9RhL) | [Crazy Trottles](https://open.spotify.com/artist/6N3TSJcbEEqiHeiv6qqFxz) | [BORN OF LOVE](https://open.spotify.com/album/4iqBnm4G4xEOz4YSDSOJEQ) | 2:28 | 2026-08-01 | 2026-08-30 |
 | [Bossa](https://open.spotify.com/track/4YqjBKMp0QekJsGedjTNUI) | [J.T](https://open.spotify.com/artist/3x5QUokzTmSvhQxAkTGong) | [Take 1](https://open.spotify.com/album/4EnaDPAzy3jeEzx0L8Fgi2) | 2:57 | 2026-01-14 | 2026-02-20 |
 | [Boy Next Door](https://open.spotify.com/track/5EHR4uVoXlshVyS5GpsiaD) | [Puri](https://open.spotify.com/artist/66Fil4hOah2YFjf7HRBRGz) | [Boy Next Door](https://open.spotify.com/album/5dqky6vKPGW81nAaSshzr3) | 2:03 | 2026-06-13 | 2026-07-19 |
@@ -490,6 +492,7 @@
 | [Gitani di camargue](https://open.spotify.com/track/4ebdvjJR1ILzkbmZwrodlJ) | [Erodoto Project](https://open.spotify.com/artist/0xRMcCIFa30RXvMGpTaDir) | [Molòn Labè \(Come and Get Them!\)](https://open.spotify.com/album/7IaWrlaoTDtILz5I2fzDY7) | 3:53 | 2023-04-20 | 2025-11-29 |
 | [Glimpse](https://open.spotify.com/track/6gLTJWbw0uEtvQi128RsdR) | [Field of View](https://open.spotify.com/artist/77F2OeJqiPVTeAwBeu2gxG) | [In My Own Way](https://open.spotify.com/album/5eBSKHjtj9mFF6QwkKYYBi) | 2:30 | 2026-04-21 | 2026-06-05 |
 | [Gloves and Pants](https://open.spotify.com/track/1hlahbgfZDJURKR0Rkbuz4) | [Echo Boulevard](https://open.spotify.com/artist/1gALePO988dZS6ODOta7q4) | [Gloves and Pants](https://open.spotify.com/album/4Dhr841dZ5UIfWigaDpEqp) | 3:09 | 2026-08-22 | 2026-09-17 |
+| [Glowing Cactus](https://open.spotify.com/track/22hpgnYXuwVD913Z6pqjm7) | [J\. Lee Bone](https://open.spotify.com/artist/6gGiDRa5txAU73w00S1zXs) | [Glowing Cactus](https://open.spotify.com/album/2nl2fjbG6SyUp8QOqGPU0w) | 3:17 | 2026-10-11 |  |
 | [Go Slow](https://open.spotify.com/track/7FeVe1B2FFXwVryiT2ZKgg) | [LONES](https://open.spotify.com/artist/4yh7vFViUknQaxgIe23tw0), [Mo Diouf](https://open.spotify.com/artist/4Nne5hP9leA5aw8agP3OiV) | [Go Slow](https://open.spotify.com/album/3wGEbBtQuDEK0jp1LdjYRf) | 3:23 | 2026-06-09 | 2026-07-19 |
 | [Go To Mars](https://open.spotify.com/track/1hdZyrKOcW5YR9VbQ2cRLO) | [LGJ](https://open.spotify.com/artist/61bVVHlWXm0W0GSU9LiwxO), [Roi Aknin](https://open.spotify.com/artist/7yrnNLKe4mLE6OLb8EtO1u) | [Go To Mars](https://open.spotify.com/album/4uB6KPZUt2bKSrt5SceOQr) | 3:10 | 2026-03-15 | 2026-04-12 |
 | [GO, ASPES, GO!](https://open.spotify.com/track/1mpuTkfVafb22RRsbyVYqm) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [GO, ASPES, GO!](https://open.spotify.com/album/5v5VtoURQd0LyfEumtJwW9) | 2:13 | 2026-04-21 | 2026-06-05 |

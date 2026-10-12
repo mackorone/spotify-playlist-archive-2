@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,319 songs - 3 day 9 hr 20 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,320 songs - 3 day 9 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1327,5 +1327,6 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1317 | [crystallized](https://open.spotify.com/track/5yUwlZ1IS6Yg1FqyAqK9Ro) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [crystallized & death rolL](https://open.spotify.com/album/1dvP2ORk7syTl4Q72C7VIU) | 2:39 |
 | 1318 | [death rolL](https://open.spotify.com/track/2WyamBrb8ICGHr42YxTZt6) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [crystallized & death rolL](https://open.spotify.com/album/1dvP2ORk7syTl4Q72C7VIU) | 4:14 |
 | 1319 | [Problem Child](https://open.spotify.com/track/6jpiquknSI0v7bMTYwSaqx) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [Problem Child](https://open.spotify.com/album/4wKgbBsCSTmLrQXhqvlqe1) | 3:42 |
+| 1320 | [Heroes](https://open.spotify.com/track/2MhJNvtkInVsS4zXXflvoV) | [Hollywood Vampires](https://open.spotify.com/artist/3k4YA0uPsWc2PuOQlJNpdH), [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS), [Johnny Depp](https://open.spotify.com/artist/3OsHwkxpSIEqqmYoQxZTT5) | [Rise](https://open.spotify.com/album/0tbq3LgCA3BlNKLZ2E0vOO) | 4:08 |
 
-Snapshot ID: `AAAKIHtg9jgmIDAz6yMAG5w+UwTX2HtV`
+Snapshot ID: `AAAKIagl0UVF3REqE/iyZ8iV7J93BFjt`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oyOhG.md) - [plain]
 
 > This is CHiCO with HoneyWorks\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,573 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,570 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oyOhG.md) - [plain]
 | 49 | [人生のオーケストラ](https://open.spotify.com/track/49QaYX0XchfWTTldxGinEj) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [くすぐったい。](https://open.spotify.com/album/3OV9LPuJd3C6cALSGhIUdy) | 3:10 |
 | 50 | [ラブホイッスル Alert！](https://open.spotify.com/track/5eSzaeDXNvFWvUZgl8vKyZ) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ラブホイッスル Special edition](https://open.spotify.com/album/69BC6aULa8qJQ7CrpIVcHZ) | 2:56 |
 
-Snapshot ID: `asbdAAAAAAAhdntr9TyzffixCC7gLFfw`
+Snapshot ID: `asmAAAAAAAAjh4m2mRZTDz5bdm5j5Aq7`

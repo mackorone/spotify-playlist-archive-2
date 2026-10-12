@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 
 > slap house on repeat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,632 likes - 60 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,630 likes - 60 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 | 53 | [Ride Ride Ride](https://open.spotify.com/track/0eJR1Clmkx9HiVy1mSpUWz) | [Victoria Kern](https://open.spotify.com/artist/2urS0Cb0MlOXiBod34tyyv), [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [Ride Ride Ride](https://open.spotify.com/album/6TgRlzezBctLSkimeChvCg) | 2:42 |
 | 54 | [Another Level \(ft\. Lovespeake\)](https://open.spotify.com/track/2jSVBVxFFQY15Ce0V8HUH9) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Lovespeake](https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk) | [Another Level \(ft\. Lovespeake\)](https://open.spotify.com/album/2xeEcUG4blN1kzZYfid0Wd) | 2:25 |
 | 55 | [Always You And Me](https://open.spotify.com/track/40hcepAhhkVpYRRPjhXmi9) | [Tob!as](https://open.spotify.com/artist/3jNi6egCA3DtlMBLEqqt6O), [Sula](https://open.spotify.com/artist/5eZVJzX99tmM2goIPe5rCq) | [Always You And Me](https://open.spotify.com/album/2NvOJ8MahUL3r6YzxyNAXt) | 2:09 |
-| 56 | [Skippin](https://open.spotify.com/track/6UmkLiuqMDw88HKr9H4B2F) | [MAXAM](https://open.spotify.com/artist/3dBS6HZxtKdJwcNyx9kThH), [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe) | [Skippin](https://open.spotify.com/album/114HqXOv5hLDuk7SVP0XVB) | 2:37 |
-| 57 | [Heaven \(feat\. Sofia Quinn\)](https://open.spotify.com/track/3V1eIzRyGQpFyt4EAUeZzl) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk), [Sofia Quinn](https://open.spotify.com/artist/7aa9NIJCeJoYtpUL56UH6Q) | [Heaven \(feat\. Sofia Quinn\)](https://open.spotify.com/album/1mpwmzS71USpO99PFvwIGg) | 2:51 |
+| 56 | [Heaven \(feat\. Sofia Quinn\)](https://open.spotify.com/track/3V1eIzRyGQpFyt4EAUeZzl) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk), [Sofia Quinn](https://open.spotify.com/artist/7aa9NIJCeJoYtpUL56UH6Q) | [Heaven \(feat\. Sofia Quinn\)](https://open.spotify.com/album/1mpwmzS71USpO99PFvwIGg) | 2:51 |
+| 57 | [Skippin](https://open.spotify.com/track/6UmkLiuqMDw88HKr9H4B2F) | [MAXAM](https://open.spotify.com/artist/3dBS6HZxtKdJwcNyx9kThH), [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe) | [Skippin](https://open.spotify.com/album/114HqXOv5hLDuk7SVP0XVB) | 2:37 |
 | 58 | [Fantasy Girl](https://open.spotify.com/track/0x0UAeFDjDrFr9mahXB7ti) | [Stereoact](https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a), [Sarah Lahn](https://open.spotify.com/artist/54mlM6Oc1sqUvyI2RC5sYa) | [Fantasy Girl](https://open.spotify.com/album/3H1EjhaEw3ZPi2oXpP9mcC) | 3:15 |
 | 59 | [Wind Me Up](https://open.spotify.com/track/01oKml0Y3E0ASCSYgcYgfe) | [Sunlike Brothers](https://open.spotify.com/artist/6ag0HxAKmKQFDXVdt6FUVx), [MAD SNAX](https://open.spotify.com/artist/33MJONPoMWD0sKQvCHCdnu) | [Wind Me Up](https://open.spotify.com/album/5SpRP87LFF2kAtanojTQLG) | 2:10 |
 | 60 | [MAMA](https://open.spotify.com/track/6ipBg7UZGv2mCbUWdmnGtA) | [D.T.E](https://open.spotify.com/artist/72HNCRVjK93J4ZnCY8rb1q) | [MAMA](https://open.spotify.com/album/4IpbHR99K8mA2BxKMDiZaI) | 2:30 |

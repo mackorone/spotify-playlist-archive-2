@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tyCD9QhIWF.md) - [plain]
 
 > Big riffs and pounding drums to help you strut the streets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,280,357 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,280,339 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,10 +38,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tyCD9QhIWF.md) - [plain]
 | 28 | [Babylon](https://open.spotify.com/track/0JlNtj7KalsjE4MWnwfv3U) | [Normandie](https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6) | [Dark & Beautiful Secrets](https://open.spotify.com/album/6vs7bZaPZ1gGZV3d6oRn30) | 4:05 |
 | 29 | [Dad Vibes](https://open.spotify.com/track/3XM6V7K5nbZf5AQz20fDDb) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Dad Vibes](https://open.spotify.com/album/7tadqEjXzmv9fgy21AelkR) | 2:12 |
 | 30 | [Italian Horror](https://open.spotify.com/track/0NZvjVlwXHLUeLgZV8zk98) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Happenings](https://open.spotify.com/album/2R7o2dTaDASc1IaS5SzeAc) | 2:35 |
-| 31 | [HONEY](https://open.spotify.com/track/7AVf3MdvwHM5CdOdquzu9c) | [LUNA AURA](https://open.spotify.com/artist/18UrIT17pqz5fG7J85iwSh) | [HONEY](https://open.spotify.com/album/5xaKQhMQZELvqDgxs8iLyQ) | 2:35 |
-| 32 | [Cheer Up London](https://open.spotify.com/track/6YwYfxEFDUZZ1xX5vlBYmF) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Are You Satisfied?](https://open.spotify.com/album/5wzGjIYYUnx1jtosNeqTdR) | 2:33 |
-| 33 | [kinda smacks](https://open.spotify.com/track/4cwi0Yd3pq1GfvHj7FLMdn) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0), [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [kinda smacks](https://open.spotify.com/album/09Aw6tRqufmeBbVjR5kHrm) | 2:16 |
-| 34 | [Mustang](https://open.spotify.com/track/5y1kheWw8d3DHl8bv5aEE8) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Mustang](https://open.spotify.com/album/00aKd415VlHgSv5uzQotNW) | 3:14 |
+| 31 | [Cheer Up London](https://open.spotify.com/track/6YwYfxEFDUZZ1xX5vlBYmF) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Are You Satisfied?](https://open.spotify.com/album/5wzGjIYYUnx1jtosNeqTdR) | 2:33 |
+| 32 | [HONEY](https://open.spotify.com/track/7AVf3MdvwHM5CdOdquzu9c) | [LUNA AURA](https://open.spotify.com/artist/18UrIT17pqz5fG7J85iwSh) | [HONEY](https://open.spotify.com/album/5xaKQhMQZELvqDgxs8iLyQ) | 2:35 |
+| 33 | [Mustang](https://open.spotify.com/track/5y1kheWw8d3DHl8bv5aEE8) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Mustang](https://open.spotify.com/album/00aKd415VlHgSv5uzQotNW) | 3:14 |
+| 34 | [kinda smacks](https://open.spotify.com/track/4cwi0Yd3pq1GfvHj7FLMdn) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0), [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [kinda smacks](https://open.spotify.com/album/09Aw6tRqufmeBbVjR5kHrm) | 2:16 |
 | 35 | [Boilermaker](https://open.spotify.com/track/6Ci6L6EeLqR6VHV1DBJy2S) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Boilermaker](https://open.spotify.com/album/0PNu9d50xKqwQbEwq9vqd7) | 3:29 |
 | 36 | [Weird Leisure](https://open.spotify.com/track/0cJZTQ1x6ko3gbtoLKaoQe) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [A Celebration Of Endings](https://open.spotify.com/album/5yAXUpsKaby5IcXgzrNFAw) | 4:08 |
 | 37 | [Dead Weight](https://open.spotify.com/track/7hM9ShrZMCV7xYOQwqBnNb) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [Dead Weight](https://open.spotify.com/album/7pyv1fWhBIstEJVTyuMZK5) | 3:27 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tyCD9QhIWF.md) - [plain]
 | 51 | [Oh!](https://open.spotify.com/track/4e72LGraX8sW5iztJvS5fo) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Oh!](https://open.spotify.com/album/13YVOGugpbcH7MZCwDEWnE) | 2:35 |
 | 52 | [Don't You Feel Amazing?](https://open.spotify.com/track/6BxlRoxVztZNLsaSOnh3ja) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Don't You Feel Amazing?](https://open.spotify.com/album/2pxn1lifrye1RIlrLDrzD3) | 3:45 |
 | 53 | [God Complex \(Mojo\)](https://open.spotify.com/track/1B3ouXA9iRkqY1ywvZbzZ5) | [poutyface](https://open.spotify.com/artist/0H44O4IYqpTOGx4c5nV37f) | [God Complex \(Mojo\)](https://open.spotify.com/album/6muDFrXDsitHPkwyZXS6Xu) | 1:46 |
-| 54 | [I KNOW BETTER](https://open.spotify.com/track/4rGq5yELBmIZBryQjFIakM) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [I KNOW BETTER](https://open.spotify.com/album/4yfzXgctHlcunH186PCB2S) | 4:09 |
-| 55 | [Get Down](https://open.spotify.com/track/1PNkX69uB2KUsmJIAh5yiB) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [Get Down](https://open.spotify.com/album/1q6grMLrlXI4o1fANDnovc) | 3:39 |
+| 54 | [Get Down](https://open.spotify.com/track/1PNkX69uB2KUsmJIAh5yiB) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [Get Down](https://open.spotify.com/album/1q6grMLrlXI4o1fANDnovc) | 3:39 |
+| 55 | [I KNOW BETTER](https://open.spotify.com/track/4rGq5yELBmIZBryQjFIakM) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [I KNOW BETTER](https://open.spotify.com/album/4yfzXgctHlcunH186PCB2S) | 4:09 |
 | 56 | [The Delicate Nature](https://open.spotify.com/track/4oLwiIzyp1FZoxK1MM6Ow1) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ), [Laurie Vincent](https://open.spotify.com/artist/4MjaFbBLl18vGqTY7QnmNV) | [The Delicate Nature](https://open.spotify.com/album/0Q0ghRfGZQjZdSUud8KElY) | 3:02 |
 | 57 | [Slow](https://open.spotify.com/track/7llRb02z7gNG2cWKmtuKaq) | [Airways](https://open.spotify.com/artist/5fRpvt0RU5UL6YwQekpofE) | [Slow](https://open.spotify.com/album/5lQGSDgLordQGd0Mq0LF4D) | 3:07 |
 | 58 | [What Went Down](https://open.spotify.com/track/0LJDalpISq604gw21RVwIV) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [What Went Down](https://open.spotify.com/album/3WCvpOcMme3VoJqeKYk9BY) | 5:00 |

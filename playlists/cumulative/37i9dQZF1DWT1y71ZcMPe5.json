@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-26",
-  "description": "The hottest songs you need to listen to right now. Cover: Noah Kahan",
+  "description": "The hottest songs you need to listen to right now. Cover: Troye Sivan",
   "name": "It's a Hit!",
   "tracks": [
     {
@@ -2842,6 +2842,24 @@
       "duration_ms": 209000,
       "name": "Blue",
       "url": "https://open.spotify.com/track/7KOijaSUhe0dyiKNZLsl8X"
+    },
+    {
+      "album": {
+        "name": "blue",
+        "url": "https://open.spotify.com/album/3kxuW16FADFPyKmeke0wlR"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250049,
+      "name": "blue",
+      "url": "https://open.spotify.com/track/0RJB6ldc79QC6jW5OR2Pv1"
     },
     {
       "album": {
@@ -6993,6 +7011,24 @@
     },
     {
       "album": {
+        "name": "She\u2019s the Best",
+        "url": "https://open.spotify.com/album/5iTekfXxLiU55JUINVxeeQ"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262896,
+      "name": "FF",
+      "url": "https://open.spotify.com/track/2tTsOuRT1QUS9pNJ2vXgEK"
+    },
+    {
+      "album": {
         "name": "FINE PLACE TO DIE",
         "url": "https://open.spotify.com/album/5BE6sXUzT8u1Dm02n1pN5r"
       },
@@ -8358,7 +8394,7 @@
       ],
       "date_added": "2026-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 173975,
       "name": "Great Expectation",
       "url": "https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe"
@@ -8706,6 +8742,24 @@
       "duration_ms": 181840,
       "name": "HE KNOWS (feat. Lil Nas X)",
       "url": "https://open.spotify.com/track/6G53gri09h5KXRegSCcWy9"
+    },
+    {
+      "album": {
+        "name": "He's Not Me",
+        "url": "https://open.spotify.com/album/16vD8UhksZLKL2yRX5y9vV"
+      },
+      "artists": [
+        {
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186928,
+      "name": "He's Not Me",
+      "url": "https://open.spotify.com/track/5uNQin7lRGJmqiIYA2YTT4"
     },
     {
       "album": {
@@ -9260,7 +9314,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 194376,
       "name": "Hit the Wall",
       "url": "https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ"
@@ -9492,7 +9546,7 @@
       ],
       "date_added": "2026-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 140720,
       "name": "Hootie Frutti",
       "url": "https://open.spotify.com/track/6oUUmBcUbZa5O48V5pjgAD"
@@ -10406,6 +10460,24 @@
       "duration_ms": 189569,
       "name": "I Saw Your Face",
       "url": "https://open.spotify.com/track/3cLBx0lEWPKSM99hx5RVcx"
+    },
+    {
+      "album": {
+        "name": "i think he's got a girl",
+        "url": "https://open.spotify.com/album/0S3Afd9nLzxbruNzzGPbJ0"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214559,
+      "name": "i think he's got a girl",
+      "url": "https://open.spotify.com/track/5KJwFcJc0m1u4F8mVkwT5Y"
     },
     {
       "album": {
@@ -13060,6 +13132,24 @@
       "duration_ms": 192078,
       "name": "Love At First Fight",
       "url": "https://open.spotify.com/track/4mSrpsvyDlfDOLjmDX71VE"
+    },
+    {
+      "album": {
+        "name": "Day and Night (Continued)",
+        "url": "https://open.spotify.com/album/4mu0jAPhEFU1f8KYltS3g0"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180686,
+      "name": "Love Depressed",
+      "url": "https://open.spotify.com/track/7dob6HYh8OhMqUXdklI9l5"
     },
     {
       "album": {
@@ -16228,7 +16318,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 171818,
       "name": "Out Of Time with Tomoko Aran",
       "url": "https://open.spotify.com/track/0nc2dv3B8W2FhBgwCkZxJa"
@@ -16640,7 +16730,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 184248,
       "name": "petal",
       "url": "https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e"

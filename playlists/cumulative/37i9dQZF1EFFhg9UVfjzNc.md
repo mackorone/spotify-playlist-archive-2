@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5JjUlPENcVZsqsYpaLmlDl">Hananiel Eduardo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-171 songs - 17 hr 46 min
+172 songs - 17 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Anseio por Ti](https://open.spotify.com/track/2W12vYVznKRTuW34TM2j0V) | [Simone Medeiros](https://open.spotify.com/artist/07Ax7WxyKbSR0aIFGzalA5) | [Deixa\-Te Modelar](https://open.spotify.com/album/06sZ6iCaL7EV1HOy8bFGhq) | 7:17 | 2022-06-04 |  |
 | [Apocalipse 4 \- Ao Vivo](https://open.spotify.com/track/4KvwPgAJMWNqx4lCll9Ldp) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Apocalipse 4 \(Ao Vivo\)](https://open.spotify.com/album/2C8V8hCKIAkZMtSr532PBO) | 6:33 | 2022-06-04 |  |
 | [Apocalipse 5](https://open.spotify.com/track/1zAbs0HlGxAYsYAmWjUjOz) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4), [Daiana Celano](https://open.spotify.com/artist/0A7O8vWr8zmjwcZrmswa9o) | [Eternidade](https://open.spotify.com/album/6XUYRDiVKiUvHwrwi2kuiY) | 6:08 | 2025-09-22 |  |
-| [Atos 2](https://open.spotify.com/track/0L3UFMmq5An0W3j1Q9cLG6) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [EP Gabriela Rocha](https://open.spotify.com/album/2rUBQJxzkFWK2Qofmitap9) | 5:14 | 2022-06-04 |  |
+| [Atos 2](https://open.spotify.com/track/0L3UFMmq5An0W3j1Q9cLG6) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [EP Gabriela Rocha](https://open.spotify.com/album/2rUBQJxzkFWK2Qofmitap9) | 5:14 | 2022-06-04 | 2026-10-12 |
 | [Atos 2](https://open.spotify.com/track/0uF1zqOnB1Kn0dAFPROjph) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Sucessos Gospel \- Hinos Evangélicos](https://open.spotify.com/album/6eiWJIJBVNxTLuxaC1mlXB) | 5:14 | 2026-08-26 | 2026-08-29 |
 | [Atos 2](https://open.spotify.com/track/13zXdzyy8rXBQrkjYpJpv2) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Gospel Clássico \- Louvores Evangélicos \(Ao Vivo\)](https://open.spotify.com/album/1FuCMhN4ocJo7KVXKJz61s) | 5:14 | 2026-08-28 | 2026-08-30 |
 | [Atos 2](https://open.spotify.com/track/1rajaZ4DDCng2HcvlZBamu) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Gabriela Rocha \- As Antigas](https://open.spotify.com/album/0epYcqvIeizaqzim6bHHXm) | 5:14 | 2025-01-27 | 2026-08-26 |
@@ -165,6 +165,7 @@
 | [Tudo que Deus Falou \(Ao Vivo\)](https://open.spotify.com/track/4fjPQ2wFE3R3vYEXR0w4wd) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Kemilly Santos ao Vivo em São Paulo](https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9) | 4:54 | 2025-12-06 |  |
 | [Tú és Bom \(feat\. Julia Vitória\)](https://open.spotify.com/track/0Ch6OjGZ4HM6zAD42LDGhA) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Quarentena Gospel](https://open.spotify.com/album/5GMusFOZnWAf6MxEoU7Ves) | 3:22 | 2023-02-08 | 2023-02-16 |
 | [Tú és Bom \(feat\. Julia Vitória\)](https://open.spotify.com/track/7nz1eeQL0lCCTkne6QNuUV) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Tú és Bom \(feat\. Julia Vitória\)](https://open.spotify.com/album/5F61gVaGDjUHfxpxPVHXMj) | 3:22 | 2022-06-04 | 2023-02-09 |
+| [Vai Acontecer](https://open.spotify.com/track/1l6NBOvI61llAXguX5lYJB) | [Raquel Mello](https://open.spotify.com/artist/3dlQ2CtcGsR7lOtLGATtSd), [ CGM \- Central Gospel Music](https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq) | [O Céu Vai Reagir](https://open.spotify.com/album/5aCATw31quieZfzXQnYp58) | 5:41 | 2026-10-11 |  |
 | [Vem Habitar / Lugar Secreto \- Ao Vivo](https://open.spotify.com/track/1wJs0TM87njimCs1tkOdsA) | [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73), [Mari Rocha](https://open.spotify.com/artist/3kOU0Zi90LGs8q9kIlrvq6) | [Nada Mais \(Ao Vivo\)](https://open.spotify.com/album/1yDqFhqtcaX8yzN9RgKYd9) | 12:43 | 2025-07-20 |  |
 | [Vem Habitar / Lugar Secreto \- Ao Vivo](https://open.spotify.com/track/53xSvWXon2R0UWBr1Wfx8J) | [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73), [Mari Rocha](https://open.spotify.com/artist/3kOU0Zi90LGs8q9kIlrvq6) | [Vem Habitar / Lugar Secreto \(Ao Vivo\)](https://open.spotify.com/album/2dOy0nOstnfU4QsLmTc0m7) | 12:43 | 2025-05-26 | 2025-07-21 |
 | [Vem Me Consumir \- Acústico](https://open.spotify.com/track/2YXga0CJMlsp4edq1Iyf7j) | [Matheus Goulart](https://open.spotify.com/artist/0ktFffygQwR4rvwb44CYMh) | [Vem Me Consumir \(Acústico\)](https://open.spotify.com/album/5dBGkhxeuUFRkBA1aejjfr) | 4:38 | 2024-04-18 | 2024-09-09 |

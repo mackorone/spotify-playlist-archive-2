@@ -1,6 +1,6 @@
 {
   "description": "Las mujeres que la rompieron este a\u00f1o con su m\u00fasica. Mon Laferte en portada.",
-  "num_followers": 343706,
+  "num_followers": 343684,
   "original_name": "Mujeres latinas del 2025",
   "owner": {
     "name": "Spotify",
@@ -787,6 +787,22 @@
     {
       "added_at": "2025-12-03 13:14:43",
       "album": {
+        "name": "NoNoNo",
+        "url": "https://open.spotify.com/album/3cVp5DmksK8HNLRn8gPGyh"
+      },
+      "artists": [
+        {
+          "name": "Ysa C",
+          "url": "https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "NoNoNo",
+      "url": "https://open.spotify.com/track/2nHLeUWCPePxL12o5JbHzZ"
+    },
+    {
+      "added_at": "2025-12-03 13:14:43",
+      "album": {
         "name": "Am\u00e9monos de Nuevo",
         "url": "https://open.spotify.com/album/7MqsaLdOrhHItr6GxzsedJ"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 171886,
       "name": "Am\u00e9monos de Nuevo",
       "url": "https://open.spotify.com/track/6U5Dim2CugbX7O6oK34gTt"
-    },
-    {
-      "added_at": "2025-12-03 13:14:43",
-      "album": {
-        "name": "NoNoNo",
-        "url": "https://open.spotify.com/album/3cVp5DmksK8HNLRn8gPGyh"
-      },
-      "artists": [
-        {
-          "name": "Ysa C",
-          "url": "https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "NoNoNo",
-      "url": "https://open.spotify.com/track/2nHLeUWCPePxL12o5JbHzZ"
     },
     {
       "added_at": "2025-12-03 13:14:43",
@@ -907,22 +907,18 @@
     {
       "added_at": "2025-12-03 13:14:43",
       "album": {
-        "name": "Yo Jurar\u00e9",
-        "url": "https://open.spotify.com/album/6WK40xeKl43KrMPVDUcyFS"
+        "name": "FAN\u00c1TICA",
+        "url": "https://open.spotify.com/album/2RYZVAoIgf1UuMuah4CNVq"
       },
       "artists": [
         {
-          "name": "Vale Garz\u00f3n",
-          "url": "https://open.spotify.com/artist/24fjoKudgR9S4p2flzJuzJ"
-        },
-        {
-          "name": "Jules",
-          "url": "https://open.spotify.com/artist/1FCMSevL19uHKsMEPcTwfU"
+          "name": "LUSILLON",
+          "url": "https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up"
         }
       ],
-      "duration_ms": 175662,
-      "name": "Yo Jurar\u00e9",
-      "url": "https://open.spotify.com/track/7KXYHnbv4tA0AhYhNbhbND"
+      "duration_ms": 168926,
+      "name": "Safe Place",
+      "url": "https://open.spotify.com/track/6y2aS3OHLTB14TB7srQ1dN"
     },
     {
       "added_at": "2025-12-03 13:14:43",
@@ -943,18 +939,22 @@
     {
       "added_at": "2025-12-03 13:14:43",
       "album": {
-        "name": "FAN\u00c1TICA",
-        "url": "https://open.spotify.com/album/2RYZVAoIgf1UuMuah4CNVq"
+        "name": "Yo Jurar\u00e9",
+        "url": "https://open.spotify.com/album/6WK40xeKl43KrMPVDUcyFS"
       },
       "artists": [
         {
-          "name": "LUSILLON",
-          "url": "https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up"
+          "name": "Vale Garz\u00f3n",
+          "url": "https://open.spotify.com/artist/24fjoKudgR9S4p2flzJuzJ"
+        },
+        {
+          "name": "Jules",
+          "url": "https://open.spotify.com/artist/1FCMSevL19uHKsMEPcTwfU"
         }
       ],
-      "duration_ms": 168926,
-      "name": "Safe Place",
-      "url": "https://open.spotify.com/track/6y2aS3OHLTB14TB7srQ1dN"
+      "duration_ms": 175662,
+      "name": "Yo Jurar\u00e9",
+      "url": "https://open.spotify.com/track/7KXYHnbv4tA0AhYhNbhbND"
     },
     {
       "added_at": "2025-12-03 13:14:43",

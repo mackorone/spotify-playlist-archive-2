@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPeYMCDRQeg.md) - [plain]
 
 > My love language is all of em, do all that $\#\*!
 
-[Spotify](https://open.spotify.com/user/spotify) - 643,345 likes - 131 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 643,468 likes - 131 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

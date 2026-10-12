@@ -1,6 +1,6 @@
 {
   "description": "bailando en el antro con Marcos Villalobos y Martinwhite hasta el amanecer ",
-  "num_followers": 24784,
+  "num_followers": 24783,
   "original_name": "ANTRO ",
   "owner": {
     "name": "Spotify",
@@ -271,8 +271,8 @@
     {
       "added_at": "2026-09-11 06:00:13",
       "album": {
-        "name": "pAL_veranito.mp3",
-        "url": "https://open.spotify.com/album/2FAyVjETQ3RSG1vrNtf87z"
+        "name": "la vuelta",
+        "url": "https://open.spotify.com/album/5KCeDTcZYLehMtRszwxkoD"
       },
       "artists": [
         {
@@ -280,21 +280,13 @@
           "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
         },
         {
-          "name": "Rvssian",
-          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "Natt Calma",
+          "url": "https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH"
         }
       ],
-      "duration_ms": 169846,
-      "name": "pongo remix",
-      "url": "https://open.spotify.com/track/1Z02pAigkKXgTfy3GMiQ6x"
+      "duration_ms": 199846,
+      "name": "la vuelta",
+      "url": "https://open.spotify.com/track/1u41eVZyEYWh1FxzPS55mD"
     },
     {
       "added_at": "2026-09-11 06:00:13",
@@ -371,8 +363,8 @@
     {
       "added_at": "2026-09-11 06:00:13",
       "album": {
-        "name": "la vuelta",
-        "url": "https://open.spotify.com/album/5KCeDTcZYLehMtRszwxkoD"
+        "name": "pAL_veranito.mp3",
+        "url": "https://open.spotify.com/album/2FAyVjETQ3RSG1vrNtf87z"
       },
       "artists": [
         {
@@ -380,13 +372,21 @@
           "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
         },
         {
-          "name": "Natt Calma",
-          "url": "https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH"
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 199846,
-      "name": "la vuelta",
-      "url": "https://open.spotify.com/track/1u41eVZyEYWh1FxzPS55mD"
+      "duration_ms": 169846,
+      "name": "pongo remix",
+      "url": "https://open.spotify.com/track/1Z02pAigkKXgTfy3GMiQ6x"
     },
     {
       "added_at": "2026-09-11 06:00:13",
@@ -571,26 +571,6 @@
     {
       "added_at": "2026-09-11 06:00:13",
       "album": {
-        "name": "No Hay Nah",
-        "url": "https://open.spotify.com/album/76k7mBdvyAxpkBjQ8FOu1W"
-      },
-      "artists": [
-        {
-          "name": "Sayuri & Sopholov",
-          "url": "https://open.spotify.com/artist/6IcW0vncoYwp4NQWSm4uXc"
-        },
-        {
-          "name": "Fuentes Prod",
-          "url": "https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV"
-        }
-      ],
-      "duration_ms": 188764,
-      "name": "No Hay Nah",
-      "url": "https://open.spotify.com/track/1k2Q7IJ6zqeM6gA4POyC1v"
-    },
-    {
-      "added_at": "2026-09-11 06:00:13",
-      "album": {
         "name": "PO2054AZ (Vol.I)",
         "url": "https://open.spotify.com/album/2FQ1wvw5azk1cHo1YDzNXT"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 165350,
       "name": "Uno De Eses Gatos",
       "url": "https://open.spotify.com/track/7yG955s3KEoDrJkx5qa3WY"
+    },
+    {
+      "added_at": "2026-09-11 06:00:13",
+      "album": {
+        "name": "No Hay Nah",
+        "url": "https://open.spotify.com/album/76k7mBdvyAxpkBjQ8FOu1W"
+      },
+      "artists": [
+        {
+          "name": "Sayuri & Sopholov",
+          "url": "https://open.spotify.com/artist/6IcW0vncoYwp4NQWSm4uXc"
+        },
+        {
+          "name": "Fuentes Prod",
+          "url": "https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV"
+        }
+      ],
+      "duration_ms": 188764,
+      "name": "No Hay Nah",
+      "url": "https://open.spotify.com/track/1k2Q7IJ6zqeM6gA4POyC1v"
     },
     {
       "added_at": "2026-09-11 06:00:13",
@@ -999,26 +999,6 @@
     {
       "added_at": "2026-09-11 06:00:13",
       "album": {
-        "name": "Ya entregamos el depa",
-        "url": "https://open.spotify.com/album/7nkd5A2CFzvl3nEyCkrExA"
-      },
-      "artists": [
-        {
-          "name": "Easykid",
-          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
-        },
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Ya entregamos el depa",
-      "url": "https://open.spotify.com/track/2g9qtIpesI41FsO2uqKdt8"
-    },
-    {
-      "added_at": "2026-09-11 06:00:13",
-      "album": {
         "name": "Millonari",
         "url": "https://open.spotify.com/album/6A7j3iU4dHUmnLeRANOpio"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 156444,
       "name": "Millonari",
       "url": "https://open.spotify.com/track/4bUZERmbU1gjvQlGv5JKSb"
+    },
+    {
+      "added_at": "2026-09-11 06:00:13",
+      "album": {
+        "name": "Ya entregamos el depa",
+        "url": "https://open.spotify.com/album/7nkd5A2CFzvl3nEyCkrExA"
+      },
+      "artists": [
+        {
+          "name": "Easykid",
+          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
+        },
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Ya entregamos el depa",
+      "url": "https://open.spotify.com/track/2g9qtIpesI41FsO2uqKdt8"
     },
     {
       "added_at": "2026-09-11 06:00:13",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-09-11 06:00:13",
       "album": {
-        "name": "Bichifokel",
-        "url": "https://open.spotify.com/album/2KK0e8yhpfGi6ABlslC21Q"
-      },
-      "artists": [
-        {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
-        }
-      ],
-      "duration_ms": 187091,
-      "name": "Bichifokel",
-      "url": "https://open.spotify.com/track/2vm7BVVuxtrEGNa9sV3ceI"
-    },
-    {
-      "added_at": "2026-09-11 06:00:13",
-      "album": {
         "name": "Pens\u00e1ndote",
         "url": "https://open.spotify.com/album/1INSoJE5lu00Fs2zAW90uw"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 173400,
       "name": "Pens\u00e1ndote",
       "url": "https://open.spotify.com/track/5vdtdW6gXrJKzHQZp5CICO"
+    },
+    {
+      "added_at": "2026-09-11 06:00:13",
+      "album": {
+        "name": "Bichifokel",
+        "url": "https://open.spotify.com/album/2KK0e8yhpfGi6ABlslC21Q"
+      },
+      "artists": [
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "duration_ms": 187091,
+      "name": "Bichifokel",
+      "url": "https://open.spotify.com/track/2vm7BVVuxtrEGNa9sV3ceI"
     },
     {
       "added_at": "2026-09-11 06:00:13",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2026-09-11 06:00:13",
       "album": {
-        "name": "Hoja al Viento",
-        "url": "https://open.spotify.com/album/1HY5dDTh9hSO1SaNWemeFe"
-      },
-      "artists": [
-        {
-          "name": "Maria Daniela Y Su Sonido Lasser",
-          "url": "https://open.spotify.com/artist/077cgSU8i5wTnz5lZGQ7z4"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Hoja al Viento",
-      "url": "https://open.spotify.com/track/2sEtxXOYvDoiYqnUoWCTxr"
-    },
-    {
-      "added_at": "2026-09-11 06:00:13",
-      "album": {
         "name": "T.V ADDICT",
         "url": "https://open.spotify.com/album/6KfTjOfKY3UKBHeonlTH8K"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 161657,
       "name": "cash cash",
       "url": "https://open.spotify.com/track/6EzomjCdOsOBJna2gFxJ6Q"
+    },
+    {
+      "added_at": "2026-09-11 06:00:13",
+      "album": {
+        "name": "Hoja al Viento",
+        "url": "https://open.spotify.com/album/1HY5dDTh9hSO1SaNWemeFe"
+      },
+      "artists": [
+        {
+          "name": "Maria Daniela Y Su Sonido Lasser",
+          "url": "https://open.spotify.com/artist/077cgSU8i5wTnz5lZGQ7z4"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Hoja al Viento",
+      "url": "https://open.spotify.com/track/2sEtxXOYvDoiYqnUoWCTxr"
     },
     {
       "added_at": "2026-09-11 06:00:13",
@@ -1427,6 +1427,26 @@
     {
       "added_at": "2026-09-11 06:00:13",
       "album": {
+        "name": "mineminemine",
+        "url": "https://open.spotify.com/album/3iFsdYgFIewy4fXDv3D1YD"
+      },
+      "artists": [
+        {
+          "name": "Ximena Soto",
+          "url": "https://open.spotify.com/artist/2UMDsP7y51fWknYFriceqC"
+        },
+        {
+          "name": "Fntwxy",
+          "url": "https://open.spotify.com/artist/6rxrgRFcJO761tilGL0VPH"
+        }
+      ],
+      "duration_ms": 156764,
+      "name": "mineminemine",
+      "url": "https://open.spotify.com/track/5LspgGqZ9jI2JNSfTShgoL"
+    },
+    {
+      "added_at": "2026-09-11 06:00:13",
+      "album": {
         "name": "Miraverah\u00ed (Slow Jamz Remix)",
         "url": "https://open.spotify.com/album/4boDswbpYB6q9ikDzAgEkf"
       },
@@ -1463,26 +1483,6 @@
     {
       "added_at": "2026-09-11 06:00:13",
       "album": {
-        "name": "mineminemine",
-        "url": "https://open.spotify.com/album/3iFsdYgFIewy4fXDv3D1YD"
-      },
-      "artists": [
-        {
-          "name": "Ximena Soto",
-          "url": "https://open.spotify.com/artist/2UMDsP7y51fWknYFriceqC"
-        },
-        {
-          "name": "Fntwxy",
-          "url": "https://open.spotify.com/artist/6rxrgRFcJO761tilGL0VPH"
-        }
-      ],
-      "duration_ms": 156764,
-      "name": "mineminemine",
-      "url": "https://open.spotify.com/track/5LspgGqZ9jI2JNSfTShgoL"
-    },
-    {
-      "added_at": "2026-09-11 06:00:13",
-      "album": {
         "name": "Mirando La Luna",
         "url": "https://open.spotify.com/album/34gFohcqtnjgqRdOgQ2htm"
       },
@@ -1499,26 +1499,6 @@
       "duration_ms": 211200,
       "name": "Mirando La Luna",
       "url": "https://open.spotify.com/track/15yszUKTD6eJGFIEvDR6m5"
-    },
-    {
-      "added_at": "2026-09-11 06:00:13",
-      "album": {
-        "name": "Explicaci\u00f3n",
-        "url": "https://open.spotify.com/album/2nJGIhn24efI0YQVCvAxDp"
-      },
-      "artists": [
-        {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
-        },
-        {
-          "name": "PBJ",
-          "url": "https://open.spotify.com/artist/4dkYg7BkqHtFtAYb5JsDsP"
-        }
-      ],
-      "duration_ms": 162980,
-      "name": "Explicaci\u00f3n",
-      "url": "https://open.spotify.com/track/3EmPNpenfX19hm2eIBIsoe"
     },
     {
       "added_at": "2026-09-11 06:00:13",
@@ -1543,6 +1523,26 @@
       "duration_ms": 129229,
       "name": "ENTE VIRTUAL",
       "url": "https://open.spotify.com/track/3C03edn86LdGuAMO3bIDqr"
+    },
+    {
+      "added_at": "2026-09-11 06:00:13",
+      "album": {
+        "name": "Explicaci\u00f3n",
+        "url": "https://open.spotify.com/album/2nJGIhn24efI0YQVCvAxDp"
+      },
+      "artists": [
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        },
+        {
+          "name": "PBJ",
+          "url": "https://open.spotify.com/artist/4dkYg7BkqHtFtAYb5JsDsP"
+        }
+      ],
+      "duration_ms": 162980,
+      "name": "Explicaci\u00f3n",
+      "url": "https://open.spotify.com/track/3EmPNpenfX19hm2eIBIsoe"
     },
     {
       "added_at": "2026-09-11 06:00:13",

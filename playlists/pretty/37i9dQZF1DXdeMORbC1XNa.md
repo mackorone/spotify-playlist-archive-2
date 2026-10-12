@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeMORbC1XNa.md) - [plain]
 
 > A perfect link up to soundtrack your day\. Cover: Victony
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,137 likes - 49 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,155 likes - 49 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeMORbC1XNa.md) - [plain]
 | 16 | [Baddies](https://open.spotify.com/track/7arCRGABaKdEFvGa3gCM9d) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Baddies](https://open.spotify.com/album/0jFImXcAyYYxdCB7z9lYtJ) | 3:27 |
 | 17 | [ZAAZAA](https://open.spotify.com/track/3s4WNh0WnfhwvIlrp6RTBj) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [ZAAZAA](https://open.spotify.com/album/0XkWzZBBmgflP8EycXeaFB) | 2:36 |
 | 18 | [CONNECTED](https://open.spotify.com/track/4uFOYZtzKEJElfzpbqbk6N) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [CONNECTED](https://open.spotify.com/album/2g4OdxufIvT7n1QyJhosWC) | 2:38 |
-| 19 | [Till The Wheels Fall Off](https://open.spotify.com/track/2L3CJQFfnVTewLPdQ0iR19) | [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Till The Wheels Fall Off](https://open.spotify.com/album/6TxDe2gHUaquCy80v8aFQm) | 2:49 |
-| 20 | [Escaladizzy](https://open.spotify.com/track/78lEwmE6xpWtwHhS8D9Fw2) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [WAVE$TAR](https://open.spotify.com/artist/35l6bXa97M4hhvQ3e058PZ) | [Escaladizzy](https://open.spotify.com/album/12X7eTRII9XQr1ZRDPfx5k) | 2:44 |
+| 19 | [Escaladizzy](https://open.spotify.com/track/78lEwmE6xpWtwHhS8D9Fw2) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [WAVE$TAR](https://open.spotify.com/artist/35l6bXa97M4hhvQ3e058PZ) | [Escaladizzy](https://open.spotify.com/album/12X7eTRII9XQr1ZRDPfx5k) | 2:44 |
+| 20 | [Till The Wheels Fall Off](https://open.spotify.com/track/2L3CJQFfnVTewLPdQ0iR19) | [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Till The Wheels Fall Off](https://open.spotify.com/album/6TxDe2gHUaquCy80v8aFQm) | 2:49 |
 | 21 | [Vele Uyena \(Risk It All\) \(feat\. Elaine, JAZZWRLD, Thukuthela & Solaariss\)](https://open.spotify.com/track/1YwkMl9hCzyinkiioqo6kl) | [Skyla Tylaa](https://open.spotify.com/artist/65nasTOHBmMP0qoo6Xa245), [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx), [JAZZWRLD](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz), [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n), [Solaariss](https://open.spotify.com/artist/1GskkPL2vDRKoWKD0BwV9y) | [Vele Uyena \(Risk It All\) \(feat\. Elaine, JAZZWRLD, Thukuthela & Solaariss\)](https://open.spotify.com/album/7weLnc8ITNXPCwG2tVxUXs) | 6:14 |
 | 22 | [when the party's over](https://open.spotify.com/track/18FFF8WK84eJXvg1xlXJjV) | [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [when the party's over](https://open.spotify.com/album/75mltEWsKzhP0XZQdDiqN5) | 3:04 |
 | 23 | [Turn It Up](https://open.spotify.com/track/3kihf5wWzLdE0xwmVDtPSU) | [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Turn It Up](https://open.spotify.com/album/4YNfqUF8keHTgZuNpz7vPE) | 2:53 |

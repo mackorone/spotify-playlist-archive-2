@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Ljg6k.md) - [plain]
 
 > This is D'Angelo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,104 likes - 35 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,105 likes - 36 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,19 +29,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Ljg6k.md) - [plain]
 | 19 | [One Mo'Gin](https://open.spotify.com/track/4KdHmcUVArJeN7XPjp6Czx) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 6:13 |
 | 20 | [Be Here](https://open.spotify.com/track/7x6ev0H9OAmvuDnyuItBZS) | [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Instant Vintage](https://open.spotify.com/album/2Dfk3iSj303wZD28aXq5ov) | 3:48 |
 | 21 | [Smooth](https://open.spotify.com/track/1ZZCkUToFBOEwjssB1hzU4) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Brown Sugar](https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4) | 4:19 |
-| 22 | [Another Life](https://open.spotify.com/track/2f9mmR37OEceYERbXml0Nj) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Black Messiah](https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6) | 5:58 |
+| 22 | [Sugah Daddy](https://open.spotify.com/track/53l4LGUeZKCDZI1u25kQDN) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Black Messiah](https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6) | 5:02 |
 | 23 | [The Line](https://open.spotify.com/track/3RE93xPC29qZqbubAUeXTt) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 5:16 |
 | 24 | [Imagine](https://open.spotify.com/track/0FNPiAAdWdWaGr7JOnlKmi) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Tha Blue Carpet Treatment](https://open.spotify.com/album/5EyEI8tm60S6y2YKbjE0xI) | 4:42 |
 | 25 | [Heaven Must Be Like This](https://open.spotify.com/track/6NA2IIPkgNN9johIhFrByb) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [The Best So Far](https://open.spotify.com/album/1MXR2vMRldZITKc1Zk6bLe) | 4:12 |
-| 26 | [Sugah Daddy](https://open.spotify.com/track/53l4LGUeZKCDZI1u25kQDN) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Black Messiah](https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6) | 5:02 |
+| 26 | [Another Life](https://open.spotify.com/track/2f9mmR37OEceYERbXml0Nj) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Black Messiah](https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6) | 5:58 |
 | 27 | [Can't Hide Love \- Live At The Jazz Cafe, London/1995](https://open.spotify.com/track/2gpTbzVPDMtxsDjLn2FrII) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Live At The Jazz Cafe, London](https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi) | 4:06 |
 | 28 | [Ain't Nobody Home](https://open.spotify.com/track/3hCIZ8sgJm5MUh7ulehPGX) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Deuces Wild](https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV) | 4:59 |
 | 29 | [So Far To Go](https://open.spotify.com/track/5Hu9CX99Rdyuyweh5mGcah) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Finding Forever](https://open.spotify.com/album/0XFFBEzvJ7Zit24MY5oVV3) | 4:27 |
 | 30 | [Ain't That Easy](https://open.spotify.com/track/2yx7XX9v7M6yhm2fBG7K3E) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Black Messiah](https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6) | 4:49 |
 | 31 | [Water No Get Enemy](https://open.spotify.com/track/5WFSTTKZxDnvr0EVBJTFpe) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd), [Femi Kuti](https://open.spotify.com/artist/6kgrtA0dlnVpWB6zjpXrRb), [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa), [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [The Soultronics](https://open.spotify.com/artist/4b3u2gT5QT5SApOmMUGDeN), [Positive Force](https://open.spotify.com/artist/6kDuO7eG1AJika9vpTF6yG) | [Red Hot + Riot](https://open.spotify.com/album/1A8CTj3nDNQrxNs6kXEYsq) | 10:10 |
-| 32 | [The Hypnotic](https://open.spotify.com/track/5dCi1Y8lJT6o97MtEINbjU) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Illadelph Halflife](https://open.spotify.com/album/4hkERQVrmM9JQ9g2eie2tL) | 5:19 |
-| 33 | [Jonz In My Bones \- Live At The Jazz Cafe, London/1995](https://open.spotify.com/track/0cUMdJl2C1WFcnSsgYjBF9) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Live At The Jazz Cafe, London](https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi) | 3:55 |
+| 32 | [Jonz In My Bones \- Live At The Jazz Cafe, London/1995](https://open.spotify.com/track/0cUMdJl2C1WFcnSsgYjBF9) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Live At The Jazz Cafe, London](https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi) | 3:55 |
+| 33 | [The Hypnotic](https://open.spotify.com/track/5dCi1Y8lJT6o97MtEINbjU) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Illadelph Halflife](https://open.spotify.com/album/4hkERQVrmM9JQ9g2eie2tL) | 5:19 |
 | 34 | [Till It's Done \(Tutu\)](https://open.spotify.com/track/1tgmyTEKDOkwyvyE37AJDj) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Black Messiah](https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6) | 3:51 |
-| 35 | [Believe](https://open.spotify.com/track/1HeuJBxrVjtxLeEJKm8Tez) | [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [The Renaissance](https://open.spotify.com/album/3asZSLOAAtCNJz5W2LGuFJ) | 2:56 |
+| 35 | [Tell Me](https://open.spotify.com/track/2Xr7QVhLRYwXRR1oteyo9I) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Fan\-Tas\-Tic, Vol\. 2](https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja) | 4:37 |
+| 36 | [Believe](https://open.spotify.com/track/1HeuJBxrVjtxLeEJKm8Tez) | [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [The Renaissance](https://open.spotify.com/album/3asZSLOAAtCNJz5W2LGuFJ) | 2:56 |
 
-Snapshot ID: `asbdAAAAAADYUMiORgYw3O1mpd+374zw`
+Snapshot ID: `asgugAAAAACN0uKdWrZTf10OizQELrgv`

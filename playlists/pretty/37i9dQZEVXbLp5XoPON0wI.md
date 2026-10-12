@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLp5XoPON0wI.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- USA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,736 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,761 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLp5XoPON0wI.md) - [plain]
 | 49 | [Ordinary](https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid \(Chapter 1\)](https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo) | 3:06 |
 | 50 | [The Fate of Ophelia](https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:46 |
 
-Snapshot ID: `Ml26iAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Ml8QuAAAAAAAAAAAAAAAAAAAAAAAAGVu`

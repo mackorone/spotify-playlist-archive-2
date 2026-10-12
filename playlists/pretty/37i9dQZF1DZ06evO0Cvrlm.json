@@ -1,6 +1,6 @@
 {
   "description": "This is George Michael. The essential tracks, all in one playlist.",
-  "num_followers": 599384,
+  "num_followers": 599417,
   "original_name": "This Is George Michael",
   "owner": {
     "name": "Spotify",
@@ -531,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/1Ys4joU6TESJ4eh00lvUoI"
       },
       "artists": [
         {
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 557293,
-      "name": "I Want Your Sex - Pts. 1 & 2 Remastered",
-      "url": "https://open.spotify.com/track/6QnFHieoch6U9J8zfv6hml"
+      "duration_ms": 411133,
+      "name": "Flawless (Go to the City)",
+      "url": "https://open.spotify.com/track/6HwgNXpldZ0WfY4kzJgexr"
     },
     {
       "added_at": null,
@@ -563,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Patience",
-        "url": "https://open.spotify.com/album/1Ys4joU6TESJ4eh00lvUoI"
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 411133,
-      "name": "Flawless (Go to the City)",
-      "url": "https://open.spotify.com/track/6HwgNXpldZ0WfY4kzJgexr"
+      "duration_ms": 557293,
+      "name": "I Want Your Sex - Pts. 1 & 2 Remastered",
+      "url": "https://open.spotify.com/track/6QnFHieoch6U9J8zfv6hml"
     },
     {
       "added_at": null,
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 159546,
-      "name": "Secret Love",
-      "url": "https://open.spotify.com/track/5DvAuonLamxQJUiY44tBiq"
+      "duration_ms": 105946,
+      "name": "My Baby Just Cares for Me",
+      "url": "https://open.spotify.com/track/6iu9Pko748wfZbn3COSZe3"
     }
   ],
   "unique_name": "This Is George Michael",

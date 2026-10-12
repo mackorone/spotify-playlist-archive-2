@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2csqsN.md) - [plain]
 
 > This is Latto\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,887 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,886 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2csqsN.md) - [plain]
 | 49 | [For the Night](https://open.spotify.com/track/6y39UI6gdUexBGprn6pQo6) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [For the Night](https://open.spotify.com/album/6Y3MgnjUXqGRYtDdfE5e0Q) | 3:25 |
 | 50 | [A\-Town Girl](https://open.spotify.com/track/2FPn9y8gvvrp9gydZmGpvT) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [COMING HOME](https://open.spotify.com/album/7Ic1aiLXMmyyi0cVkk04aS) | 3:32 |
 
-Snapshot ID: `asgugAAAAABj2gCiXIToFlvytnJqbVmG`
+Snapshot ID: `asmAAAAAAACM4gwySPVjZ9m0AqbROXLJ`

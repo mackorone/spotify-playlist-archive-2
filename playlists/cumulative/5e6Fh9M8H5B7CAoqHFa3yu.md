@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,680 songs - 6 day 12 hr 2 min
+2,682 songs - 6 day 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1055,6 +1055,7 @@
 | [I Want Peace](https://open.spotify.com/track/3a3b6NjEuZDNKYFbYt8KV5) | [Voices](https://open.spotify.com/artist/3MOrMslYZqpstKVeCLSnuq) | [Original Songs From The Early Years](https://open.spotify.com/album/3gKKNdLkrW2V9sgXHRw5qL) | 2:43 | 2026-05-04 |  |
 | [I Will Take Care Of You](https://open.spotify.com/track/7KfuESxjtKlThWgj4Hh6hA) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [Doll Revolution](https://open.spotify.com/album/3tiizVJLaNkbeQV4BJFiGY) | 3:56 | 2026-03-15 |  |
 | [I Wish](https://open.spotify.com/track/7pgjoLcAIiG5wf7Vbs6ToQ) | [Soul Fire](https://open.spotify.com/artist/7pqC9YBhVcQk75OWWkuLjc) | [Wake Up Your Lion](https://open.spotify.com/album/14G1h8BQAZu5Dfa6T7UKNl) | 3:32 | 2024-05-01 |  |
+| [i wish i could forget](https://open.spotify.com/track/0bDCWL9NJFMOWbiyaxim95) | [Cold Water](https://open.spotify.com/artist/5kazB8wdgdWlnTuByuKYVw) | [i wish i could forget](https://open.spotify.com/album/6ILNFS3HG0VqlvyKjeserQ) | 1:26 | 2026-10-11 |  |
 | [I won't miss your love](https://open.spotify.com/track/209RrSiJAMLzAYqPJlzvyt) | [Yerevano](https://open.spotify.com/artist/1BqVDWK7PBR22ARnaBVRCB) | [I won't miss your love](https://open.spotify.com/album/59oh3OScYWBYAoFFAygixX) | 3:58 | 2026-07-28 |  |
 | [I'll be back](https://open.spotify.com/track/28YNy52CqI0UwMa5n70wwA) | [Apex89](https://open.spotify.com/artist/0jdPGIACeHmp89qaOUEsWZ) | [I'll be back](https://open.spotify.com/album/31d7cMUoGxAt9bIKedgJJV) | 4:22 | 2026-05-29 |  |
 | [I'll Let Go](https://open.spotify.com/track/3k5NyjxlzKvSbPrZKcS7uM) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [I'll Let Go](https://open.spotify.com/album/0l61DNg32FUICvJGrSnqL2) | 2:54 | 2026-02-05 |  |
@@ -2079,6 +2080,7 @@
 | [Sleepless](https://open.spotify.com/track/73rXOHpBcGCPbY6hKETvBD) | [Woendzi](https://open.spotify.com/artist/0w9WB3GylPavLzSl78Wl4r) | [Sleepless](https://open.spotify.com/album/0N1E9ekYWFOiE6HV747vF0) | 5:00 | 2025-07-13 |  |
 | [Sleepwalking](https://open.spotify.com/track/6xNhkMIB2tswmMAOe7T1u2) | [Inside Trading](https://open.spotify.com/artist/6d9cVe6aUDxQpbclXVmzLw), [Mista Ed](https://open.spotify.com/artist/5QwfAuiGOyHkhKLAejUxGG) | [Sleepwalking](https://open.spotify.com/album/4p8UuK2DJphGhd9Avy2cts) | 2:33 | 2026-09-28 |  |
 | [Slipping Away](https://open.spotify.com/track/4w6vZbPYs0nIzA84Vu041d) | [Adam Briscoe](https://open.spotify.com/artist/3CcEHcp22NtPVNDeR80z2y) | [Slipping Away](https://open.spotify.com/album/4RysAhFglAR4ZeZQGsCkPD) | 3:04 | 2025-12-14 |  |
+| [Slow Morning](https://open.spotify.com/track/0Ri3JL1PRvBwfIu7HTjk00) | [Bon Echo](https://open.spotify.com/artist/0cptB7nxVh6aCVkUZcrSLy) | [Slow Morning](https://open.spotify.com/album/3V64xs8qTljjhW5BRkiNum) | 1:30 | 2026-10-11 |  |
 | [Slow Motion](https://open.spotify.com/track/3sMEKIvwYzIwx2jYjR8arx) | [Solar Twin](https://open.spotify.com/artist/50Ekd3KAzVMWwInjY87Gaj) | [Pink Noise](https://open.spotify.com/album/5J06ZzjwMI5FUOiWaaTgux) | 3:01 | 2025-07-02 |  |
 | [Slow whine](https://open.spotify.com/track/4gOppN4JCefB2cpDtMqxV1) | [80won](https://open.spotify.com/artist/2nFYBEeJwCKg9EKrAO9q1g) | [Slow whine](https://open.spotify.com/album/5UGgt0SHtTXycuL4kr4TSe) | 3:06 | 2026-06-15 |  |
 | [Snake Attack Dub](https://open.spotify.com/track/47zy5LaINRR7YvsDI7YOOY) | [Foshan Roots](https://open.spotify.com/artist/0Erm3ZsKDZVUF4NdUMfYtj) | [Sky Warrior Dub](https://open.spotify.com/album/6mgr4wFK7XSJOdmapRBjun) | 4:10 | 2024-05-01 |  |

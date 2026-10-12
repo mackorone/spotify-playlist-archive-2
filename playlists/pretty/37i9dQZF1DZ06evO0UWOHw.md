@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UWOHw.md) - [plain]
 
 > This is Victony\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,456 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,470 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UWOHw.md) - [plain]
 | 23 | [Ave Maria](https://open.spotify.com/track/6al03F4hh8LUPRMcnrM3H5) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Ave Maria](https://open.spotify.com/album/5vlT6FIqF6Rh25v1EWZ2Kj) | 3:02 |
 | 24 | [Tanko \(feat\. Terry G\)](https://open.spotify.com/track/3XoYWo0jdGq0T25KfNIr3L) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Terry G](https://open.spotify.com/artist/0Azkx5tjOLekLGEavycJ3S) | [Tanko \(feat\. Terry G\)](https://open.spotify.com/album/7FyAwmXXi3r1fwJZI7HZXN) | 3:47 |
 | 25 | [Pier 46](https://open.spotify.com/track/6EUg3wVnfrqwDzOqLFWovl) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [KTIZO](https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr) | [Stubborn](https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr) | 2:38 |
-| 26 | [Ordinary Things](https://open.spotify.com/track/6k0SRtfpOvDqjplj5YF8XO) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Very Stubborn](https://open.spotify.com/album/4qvBmFi6a3W6Fz5Wvzj6X6) | 3:04 |
-| 27 | [Jolene](https://open.spotify.com/track/6OeHAhsVn22nStOm1XRHLQ) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [KTIZO](https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr) | [Outlaw](https://open.spotify.com/album/2k9UloVzoBNJtCY1TvxTNj) | 2:55 |
-| 28 | [Jaga Jaga \(with Babyboy AV\)](https://open.spotify.com/track/7vCTeLGRwAkLqZr1fphHg1) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [Jaga Jaga \(with Babyboy AV\)](https://open.spotify.com/album/6ceb9dx3TsqZBcBrt3es8n) | 3:46 |
+| 26 | [Jaga Jaga \(with Babyboy AV\)](https://open.spotify.com/track/7vCTeLGRwAkLqZr1fphHg1) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [Jaga Jaga \(with Babyboy AV\)](https://open.spotify.com/album/6ceb9dx3TsqZBcBrt3es8n) | 3:46 |
+| 27 | [Ordinary Things](https://open.spotify.com/track/6k0SRtfpOvDqjplj5YF8XO) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Very Stubborn](https://open.spotify.com/album/4qvBmFi6a3W6Fz5Wvzj6X6) | 3:04 |
+| 28 | [Jolene](https://open.spotify.com/track/6OeHAhsVn22nStOm1XRHLQ) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [KTIZO](https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr) | [Outlaw](https://open.spotify.com/album/2k9UloVzoBNJtCY1TvxTNj) | 2:55 |
 | 29 | [Ludo](https://open.spotify.com/track/5kK5jnEhQ5vC9YHPYCK7VD) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Stubborn](https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr) | 3:32 |
 | 30 | [Hypnotize](https://open.spotify.com/track/7LNQltPtE6ChZrHdbYn6BJ) | [S high](https://open.spotify.com/artist/1C0amI9hInKEqXOrJsc6lp), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Hypnotize](https://open.spotify.com/album/5yEFZR4xk6tSmCUz7TU5dl) | 3:26 |
 | 31 | [Skido \(with Olamide\)](https://open.spotify.com/track/6Qd4tLoc62yDQCQHBrCmDy) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Skido \(with Olamide\)](https://open.spotify.com/album/280b951vtW2SPhfRNXOFW6) | 2:46 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UWOHw.md) - [plain]
 | 33 | [Sunday School](https://open.spotify.com/track/0wpQP0UhO1KkvAIB0jYlT5) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Stubborn](https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr) | 3:03 |
 | 34 | [Pray](https://open.spotify.com/track/5GNDZaBc7yHUp7003hPPDw) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Dark Times](https://open.spotify.com/album/6bCbQPwKbD0NRVlN22s7Kt) | 2:46 |
 | 35 | [Apollo](https://open.spotify.com/track/5IHBw52L273HUsx3vphKZt) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Apollo](https://open.spotify.com/album/26BUwXrqR3fJFMeSNA2NcS) | 2:50 |
-| 36 | [Glory](https://open.spotify.com/track/1wQzfGryAzTNKSeDyBcP1z) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Glory](https://open.spotify.com/album/4hT9e7lkQ6lbXP1QHW35pZ) | 2:38 |
-| 37 | [Many Man \- A COLORS SHOW](https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Many Man \- A COLORS SHOW](https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI) | 3:10 |
+| 36 | [Many Man \- A COLORS SHOW](https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Many Man \- A COLORS SHOW](https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI) | 3:10 |
+| 37 | [Glory](https://open.spotify.com/track/1wQzfGryAzTNKSeDyBcP1z) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Glory](https://open.spotify.com/album/4hT9e7lkQ6lbXP1QHW35pZ) | 2:38 |
 | 38 | [Holy Water \(feat\. Victony & Musa Keys\)](https://open.spotify.com/track/3HdiLzN2f7VpCzBR0Zz3JP) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 3:47 |
 | 39 | [Gangsta Cry](https://open.spotify.com/track/3hUc6LvbawUZOUEspluMDs) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Very Stubborn](https://open.spotify.com/album/4qvBmFi6a3W6Fz5Wvzj6X6) | 2:24 |
 | 40 | [All Power](https://open.spotify.com/track/12TjLPC70MRIDDnx8Ob3x4) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Outlaw](https://open.spotify.com/album/2k9UloVzoBNJtCY1TvxTNj) | 3:12 |

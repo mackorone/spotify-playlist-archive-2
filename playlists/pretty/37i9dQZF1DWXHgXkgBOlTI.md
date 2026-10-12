@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 
 > ジャズを基調にロックやラテン音楽、電子音楽、時にはクラシックなどを融合させた「ジャズフュージョン」を牽引する日本のアーティストを特集。cover: SALVALAI
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,491 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,499 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 | 23 | [The bell tolls](https://open.spotify.com/track/0cwy8I1xQFXDZ0bMR5BHLp) | [a picture of her](https://open.spotify.com/artist/6vUn7EgNei8hY7jZSV0lsT) | [C](https://open.spotify.com/album/4rQJ0xVXD7OKZmV5hXL4tW) | 5:27 |
 | 24 | [Blue Eyed Monster](https://open.spotify.com/track/5wG5pbeTBYzAhlT6iE8Ptg) | [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [TVアニメーション「BEM」オリジナルサウンドトラック　OUTSIDE](https://open.spotify.com/album/2kXmIAi8Y1CrvIObUJRMVr) | 4:10 |
 | 25 | [Soft Departure](https://open.spotify.com/track/3VIqNUACL8f1IGCSX8fgp0) | [SLAK](https://open.spotify.com/artist/0axatT20L7PAw25ZyCnbJ0) | [Soft Departure](https://open.spotify.com/album/1isWDAJWi8FOFzXBU3jPBD) | 6:12 |
-| 26 | [Moonlight Syndrome](https://open.spotify.com/track/7EkfLobuyqgITbfn3BFmXh) | [ADAM at](https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo) | [トワイライトシンドローム](https://open.spotify.com/album/4b3k9LC24PNvgX9ExlAS8K) | 4:07 |
-| 27 | [regalecus glesne \- feat.元晴 & 柴田亮](https://open.spotify.com/track/21VomxDANSnbiaVzcqaNC7) | [BimBomBam Orchestra](https://open.spotify.com/artist/6LglW9con0IEpWmE6XjvT6), [元晴](https://open.spotify.com/artist/4O9JglJVkDAOWTC5kNO04L), [柴田亮](https://open.spotify.com/artist/0sKQ57LUMTe7U2v15D3lXu) | [regalecus glesne \(feat.元晴 & 柴田亮\)](https://open.spotify.com/album/0jbynTtZoFFmrUyL9OD6SZ) | 7:07 |
+| 26 | [regalecus glesne \- feat.元晴 & 柴田亮](https://open.spotify.com/track/21VomxDANSnbiaVzcqaNC7) | [BimBomBam Orchestra](https://open.spotify.com/artist/6LglW9con0IEpWmE6XjvT6), [元晴](https://open.spotify.com/artist/4O9JglJVkDAOWTC5kNO04L), [柴田亮](https://open.spotify.com/artist/0sKQ57LUMTe7U2v15D3lXu) | [regalecus glesne \(feat.元晴 & 柴田亮\)](https://open.spotify.com/album/0jbynTtZoFFmrUyL9OD6SZ) | 7:07 |
+| 27 | [Moonlight Syndrome](https://open.spotify.com/track/7EkfLobuyqgITbfn3BFmXh) | [ADAM at](https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo) | [トワイライトシンドローム](https://open.spotify.com/album/4b3k9LC24PNvgX9ExlAS8K) | 4:07 |
 | 28 | [SKY SO HIGH](https://open.spotify.com/track/6jgQrjaRM6gKBQfabAhnzy) | [CASIOPEA](https://open.spotify.com/artist/0lRXEutklZUeNdWIJA1NI0) | [TRUE BLUE](https://open.spotify.com/album/0mvSa2TjHsZKhP3whGKmdP) | 4:36 |
 | 29 | [サファリ](https://open.spotify.com/track/4MEXW1zCYDjD3vZy8Sa9uR) | [Sadao Watanabe](https://open.spotify.com/artist/2hGDAhezELu9olOncSWZYI) | [マイ・ディア・ライフ](https://open.spotify.com/album/7dn9EVB0Joi88kXKeFR1qD) | 7:06 |
 | 30 | [Blue Bird](https://open.spotify.com/track/5ahPlz7M3s4F0GZohCatqn) | [Schroeder\-Headz](https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo) | [Synesthesia](https://open.spotify.com/album/1VVpMXHWeaLIxyvGnzEqC8) | 5:09 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 | 46 | [犬、逃げた。\-ver\. 2.0\-](https://open.spotify.com/track/69So29DLz3KKHUuxs6iiHX) | [Calmera](https://open.spotify.com/artist/5EQqINW9nAQs8lw8BzjQXw) | [REAL KICKS](https://open.spotify.com/album/6Y1gGXJMEzmur74PIrYFUL) | 3:06 |
 | 47 | [Solitude](https://open.spotify.com/track/7ESu5dNSc30xnlQkWlSN9d) | [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [Ordinary Landscape](https://open.spotify.com/album/7Jkzw2xlE48wN2dUKPxw7V) | 4:16 |
 | 48 | [Cross View \- from "UNTITLED" 2026 Take](https://open.spotify.com/track/4V8gkmFZCgI0T3Vz0u40Vd) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [Cross View \(from "UNTITLED" 2026 Take\)](https://open.spotify.com/album/5IMFC9Jhz7q5hzq5wpct0U) | 4:46 |
-| 49 | [Hale no sola sita \-LA YELLOW SAMBA\-](https://open.spotify.com/track/2PshJ3niqCAbzdKPtwSa7Z) | [PEZ](https://open.spotify.com/artist/6jCTuQ4WpvTPoyGrSGIicE) | [九月の空 \-KUGATSU NO SOLA\-](https://open.spotify.com/album/6roaJKXBTODhmG7GcrSRdC) | 3:39 |
-| 50 | [フル・スロットル](https://open.spotify.com/track/32Ke9fTiDF4EH7QAhWVa9L) | [Megapteras](https://open.spotify.com/artist/1QvXTydThOanpD5ERmVM0r) | [フル・スロットル](https://open.spotify.com/album/2F1lao3ZpMCXsnBqtuTc7f) | 3:56 |
+| 49 | [フル・スロットル](https://open.spotify.com/track/32Ke9fTiDF4EH7QAhWVa9L) | [Megapteras](https://open.spotify.com/artist/1QvXTydThOanpD5ERmVM0r) | [フル・スロットル](https://open.spotify.com/album/2F1lao3ZpMCXsnBqtuTc7f) | 3:56 |
+| 50 | [Hale no sola sita \-LA YELLOW SAMBA\-](https://open.spotify.com/track/2PshJ3niqCAbzdKPtwSa7Z) | [PEZ](https://open.spotify.com/artist/6jCTuQ4WpvTPoyGrSGIicE) | [九月の空 \-KUGATSU NO SOLA\-](https://open.spotify.com/album/6roaJKXBTODhmG7GcrSRdC) | 3:39 |
 
 Snapshot ID: `AAAAAOeHAgnkxjto8K+PX2SZp+TTlasX`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BSRFe.md) - [plain]
 
 > This is Banda Machos\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,227 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,240 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BSRFe.md) - [plain]
 | 26 | [Cuatro Meses \(Que Se Te Quite Ese Orgullo\)](https://open.spotify.com/track/7nBdxRmU1GvUf4ZbOLKQEx) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [A Pesar de Todo](https://open.spotify.com/album/2yVyjnqGVXytCjfMqe1lp9) | 3:02 |
 | 27 | [El viejo joven](https://open.spotify.com/track/2TW92ifivpD4xUxXsEFTVp) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [25 Bandazos de Machos \(Vol\. 1\) \[USA\]](https://open.spotify.com/album/641IjGwd385qV3RVouieUv) | 2:38 |
 | 28 | [Te lo debo a ti](https://open.spotify.com/track/24RmszriFqvujOsycO1NID) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Mi chica ideal \(Lo Básico\)](https://open.spotify.com/album/5339bPdH9NLYMEvDZQZS90) | 3:35 |
-| 29 | [Se lo dejo a Dios](https://open.spotify.com/track/2dNGdHoNz5MatMvKnmiOhs) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Palabra de machos](https://open.spotify.com/album/6nHukDTFU4XLZs9F3YR5KM) | 4:13 |
-| 30 | [Esclavo y amo](https://open.spotify.com/track/6M9PBbQwZ73hKQoQBq2i3X) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Gracias Mujer](https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr) | 2:36 |
+| 29 | [Esclavo y amo](https://open.spotify.com/track/6M9PBbQwZ73hKQoQBq2i3X) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Gracias Mujer](https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr) | 2:36 |
+| 30 | [Se lo dejo a Dios](https://open.spotify.com/track/2dNGdHoNz5MatMvKnmiOhs) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Palabra de machos](https://open.spotify.com/album/6nHukDTFU4XLZs9F3YR5KM) | 4:13 |
 | 31 | [Motivos](https://open.spotify.com/track/65lfzguWycfHortBjpZAwr) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Los machos también lloran](https://open.spotify.com/album/4bJgYukI8yFOsia5HXeS30) | 3:08 |
 | 32 | [Usted](https://open.spotify.com/track/0QTosUG7yMB9UBNzhU4ZmF) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Mi chica ideal \(Lo Básico\)](https://open.spotify.com/album/5339bPdH9NLYMEvDZQZS90) | 2:52 |
 | 33 | [La suegra](https://open.spotify.com/track/5JPZJyZ7fIvlgaKDO0pPm3) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [12 Grandes exitos Vol\. 2](https://open.spotify.com/album/4EQuspAsyfJtB7A0p5zdZf) | 3:17 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BSRFe.md) - [plain]
 | 45 | [En toda la chapa](https://open.spotify.com/track/2bYFjXeMwQ9S17ZUbUQ9gq) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Rancheras de oro](https://open.spotify.com/album/4aPS74SgbMHdVmhcfHEsXD) | 2:33 |
 | 46 | [Vivir sin ella](https://open.spotify.com/track/2CAPJjivO1styJgQW0ukVP) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Vivir sin ella](https://open.spotify.com/album/0CcVWEAEAyZiKxGRkcIOwE) | 3:51 |
 | 47 | [El mandilon](https://open.spotify.com/track/6jLka2PiSCyGNpSTLiVB1l) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Pura pasión](https://open.spotify.com/album/2o7KaI8uRQcQd8TXfcC2uG) | 3:10 |
-| 48 | [El pañuelo](https://open.spotify.com/track/2jZuDQPI6TFiN15wYsmaDS) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Palabra de machos](https://open.spotify.com/album/6nHukDTFU4XLZs9F3YR5KM) | 2:21 |
+| 48 | [Dime Ven](https://open.spotify.com/track/17VnG9xcYjwMJ17zNopP13) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [La Culebra](https://open.spotify.com/album/1bpYuP1QPy42QBbMzc1lEU) | 3:37 |
 | 49 | [Recuérdame y ven](https://open.spotify.com/track/0wS7IYnBpQIq5EGipjSmeu) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Rancheras de oro](https://open.spotify.com/album/4aPS74SgbMHdVmhcfHEsXD) | 3:24 |
-| 50 | [Dime Ven](https://open.spotify.com/track/17VnG9xcYjwMJ17zNopP13) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [La Culebra](https://open.spotify.com/album/1bpYuP1QPy42QBbMzc1lEU) | 3:37 |
+| 50 | [El pañuelo](https://open.spotify.com/track/2jZuDQPI6TFiN15wYsmaDS) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Palabra de machos](https://open.spotify.com/album/6nHukDTFU4XLZs9F3YR5KM) | 2:21 |
 
 Snapshot ID: `asgugAAAAAByMOI2hhmN/hIdEqKixdlA`

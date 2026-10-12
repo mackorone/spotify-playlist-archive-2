@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XF2hFaHoss.md) - [plain]
 
 > The very best acoustic songs from singer\-songwriters making waves\. Cover: I'm With Her
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,848 likes - 90 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,847 likes - 90 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XF2hFaHoss.md) - [plain]
 | 39 | [Dream in Blue](https://open.spotify.com/track/1Bx9I2NyzUpTfmpAQ4BSsR) | [The Stray Birds](https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM) | [The Stray Birds](https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t) | 3:32 |
 | 40 | [Queen of Silver Linings](https://open.spotify.com/track/2v705YlYolKiu6P2FbqOat) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [Queen of Silver Linings](https://open.spotify.com/album/7D92mNHIk4xJf4ydx4fLPS) | 3:32 |
 | 41 | [Little Runaway](https://open.spotify.com/track/12GVuNDjD80UjEmkO46Hd8) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Little Runaway](https://open.spotify.com/album/3l0s7gDB5V4xj4TSsEMHj6) | 2:59 |
-| 42 | [Feel Alive Again](https://open.spotify.com/track/2wgCnWW5jtA6aNAJxgcEN2) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Rosemary](https://open.spotify.com/album/4FH3kwVRrLQHwp88j1i22h) | 4:14 |
-| 43 | [generations in the making](https://open.spotify.com/track/5uLNEjToaNlAGaN2qvbjdQ) | [Abby Powledge](https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ) | [if i'm honest for once](https://open.spotify.com/album/1KO7Ww4aCb59EumfKV2BhM) | 4:17 |
+| 42 | [generations in the making](https://open.spotify.com/track/5uLNEjToaNlAGaN2qvbjdQ) | [Abby Powledge](https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ) | [if i'm honest for once](https://open.spotify.com/album/1KO7Ww4aCb59EumfKV2BhM) | 4:17 |
+| 43 | [Feel Alive Again](https://open.spotify.com/track/2wgCnWW5jtA6aNAJxgcEN2) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Rosemary](https://open.spotify.com/album/4FH3kwVRrLQHwp88j1i22h) | 4:14 |
 | 44 | [Better Now \- Acoustic](https://open.spotify.com/track/7iqqjQINhAvsNNwXWMU8ga) | [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [Better Now \(Acoustic\)](https://open.spotify.com/album/2kFBZkUYEkrV2LdibnX0tu) | 3:54 |
 | 45 | [Shiver](https://open.spotify.com/track/1ODA4mZMaoBzT1TbPBW8B1) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Like I Used To \(Deluxe Edition\)](https://open.spotify.com/album/6ZKC2f7C1xnBYJAoRLBha3) | 3:53 |
 | 46 | [Collarbones](https://open.spotify.com/track/1ufQW3SOuHHxO8rsxJCAaR) | [Anna Hamilton](https://open.spotify.com/artist/5l81swbnEwWXCTQiEYmATF) | [Collarbones](https://open.spotify.com/album/2Nbf58InZWvZUxvgNoqRkL) | 3:00 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XF2hFaHoss.md) - [plain]
 | 85 | [Nothing We Say](https://open.spotify.com/track/2IoUZxXF26o9NIiYmfw34d) | [Courtney Hartman](https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7) | [Nothing We Say \- EP](https://open.spotify.com/album/5iHIUbynfBik6g0Ik3zhl7) | 3:31 |
 | 86 | [American Crow](https://open.spotify.com/track/1Z1Fo7DlxPhlbR7Q9hhgKg) | [Missy Raines](https://open.spotify.com/artist/5puV4r3ntz4XyzN6QnBKep), [Missy Raines & the New Hip](https://open.spotify.com/artist/3A9RsQhAsUFqIdTKJdK51d) | [New Frontier](https://open.spotify.com/album/6FU2w4wTADCGBJsYKkyz47) | 3:19 |
 | 87 | [Good for Something](https://open.spotify.com/track/2KKPd7nqbhDzgAYsFjC9WA) | [The Sea The Sea](https://open.spotify.com/artist/3uKFW2tuZB4NFThJfHJtZ1) | [Good for Something](https://open.spotify.com/album/7rh14CSLmsm9HXtLIfq6tC) | 3:20 |
-| 88 | [Unsteady Ground](https://open.spotify.com/track/5aU5EVIbdKn6Xg4ujLTrll) | [Angel Snow](https://open.spotify.com/artist/4awtkia1cywuwJ2OrxNw6j) | [Low](https://open.spotify.com/album/1wMYbFE4Xxeb6qxe2nkeIX) | 3:51 |
-| 89 | [Real Love](https://open.spotify.com/track/2rQMHZq7jnK0J2izGbCj0Z) | [Cammy Enaharo](https://open.spotify.com/artist/0iM6AplgWF7ISiwJaBhXLF) | [Hard To Look At](https://open.spotify.com/album/22dE6uGzAupKicgRGotoNv) | 2:29 |
-| 90 | [How Could I Forget](https://open.spotify.com/track/38Kbca2Yc3eGMwRYbbI8so) | [Chastity Brown](https://open.spotify.com/artist/6vRqjrYlvurWLEwRKvTdEw) | [The Acoustic Guitar Project: Minneapolis 2014](https://open.spotify.com/album/2qdU8Zs5lu87f49YCzNL8E) | 4:02 |
+| 88 | [How Could I Forget](https://open.spotify.com/track/38Kbca2Yc3eGMwRYbbI8so) | [Chastity Brown](https://open.spotify.com/artist/6vRqjrYlvurWLEwRKvTdEw) | [The Acoustic Guitar Project: Minneapolis 2014](https://open.spotify.com/album/2qdU8Zs5lu87f49YCzNL8E) | 4:02 |
+| 89 | [Unsteady Ground](https://open.spotify.com/track/5aU5EVIbdKn6Xg4ujLTrll) | [Angel Snow](https://open.spotify.com/artist/4awtkia1cywuwJ2OrxNw6j) | [Low](https://open.spotify.com/album/1wMYbFE4Xxeb6qxe2nkeIX) | 3:51 |
+| 90 | [Real Love](https://open.spotify.com/track/2rQMHZq7jnK0J2izGbCj0Z) | [Cammy Enaharo](https://open.spotify.com/artist/0iM6AplgWF7ISiwJaBhXLF) | [Hard To Look At](https://open.spotify.com/album/22dE6uGzAupKicgRGotoNv) | 2:29 |
 
 Snapshot ID: `AAAAAJ2msfV0m6QWufNT7xWtbptiYQjj`

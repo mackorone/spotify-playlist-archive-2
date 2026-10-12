@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 
 > A salute to all of the women who open up the pit\. Cover: Amy Lee of Evanescence, Poppy & Courtney LaPlante of Spiritbox
 
-[Spotify](https://open.spotify.com/user/spotify) - 796,795 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 796,877 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 72 | [Frozen Throne](https://open.spotify.com/track/1Ekn40vhRVubeR3JNRPjWr) | [Kalidia](https://open.spotify.com/artist/0CNwIzfosLnGPKiVrLtLxA) | [The Frozen Throne](https://open.spotify.com/album/4p6FLayBpSuuIagjhDjBhZ) | 4:53 |
 | 73 | [Turn It Up \(Keyboard Warriors Social Club\)](https://open.spotify.com/track/0PkWNpQAsH7xQHtzYJHgSD) | [NOVELISTS](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Turn It Up \(Keyboard Warriors Social Club\)](https://open.spotify.com/album/4NFy4DOMmDAdtoW3Ep5EtO) | 3:58 |
 | 74 | [Exoskeleton](https://open.spotify.com/track/7eP2AL5TLlVUmGNmFyAAXD) | [GAUPA](https://open.spotify.com/artist/2xODNufQxAtc0gmDIhsjkg) | [Myriad](https://open.spotify.com/album/3wGofyxNWI01dZbQV97czC) | 4:34 |
-| 75 | [Throne Of Want](https://open.spotify.com/track/3Hrdh8vuUbeCK6bFkd4HZX) | [Cenobia](https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG) | [Throne Of Want](https://open.spotify.com/album/0xt9zIEWpL563lgwEgFE0x) | 5:53 |
-| 76 | [My Demon](https://open.spotify.com/track/53Lw9RbJ8JoU4HddmFF9HR) | [Stitched Up Heart](https://open.spotify.com/artist/4XG961Y3fzZF5k2gfpnaNt) | [Darkness](https://open.spotify.com/album/31w55jlg4HsGp2lp9ZgnG9) | 3:09 |
+| 75 | [My Demon](https://open.spotify.com/track/53Lw9RbJ8JoU4HddmFF9HR) | [Stitched Up Heart](https://open.spotify.com/artist/4XG961Y3fzZF5k2gfpnaNt) | [Darkness](https://open.spotify.com/album/31w55jlg4HsGp2lp9ZgnG9) | 3:09 |
+| 76 | [Throne Of Want](https://open.spotify.com/track/3Hrdh8vuUbeCK6bFkd4HZX) | [Cenobia](https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG) | [Throne Of Want](https://open.spotify.com/album/0xt9zIEWpL563lgwEgFE0x) | 5:53 |
 | 77 | [Neon Lights](https://open.spotify.com/track/1SiIFmd9cSHOfE43NSP10x) | [Crimson Sun](https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9) | [Sorrowbreaker](https://open.spotify.com/album/1WrNIfj3IqN4dUo6lKQi7Q) | 3:10 |
 | 78 | [Fresh Blood, Fresh Pussy](https://open.spotify.com/track/4NSMvwVeZBMZ5MfErlKQ2p) | [Witch Club Satan](https://open.spotify.com/artist/395rqoVSDgQIF7fzRfZIoy) | [Witch Club Satan](https://open.spotify.com/album/0c0hlchA9Q66PcL7xlPPfp) | 3:35 |
 | 79 | [Year of the Rat](https://open.spotify.com/track/3tSPzD7A31dohGDH2DAAhZ) | [Tristania](https://open.spotify.com/artist/2EOmvmVtYMTgn45w9mWUTV) | [Rubicon](https://open.spotify.com/album/6dlToGhcA5HASShTBq60Q8) | 4:35 |
@@ -98,9 +98,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 88 | [Cross the Divide](https://open.spotify.com/track/4wBQ6nLedd6HDDYrGcJuSJ) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [Cross The Divide](https://open.spotify.com/album/58fCrpLJa3BwBmGKcTthV2) | 4:18 |
 | 89 | [Wicked Woman](https://open.spotify.com/track/0s0ik3hbf0S1EgYfjX8TrF) | [Coven](https://open.spotify.com/artist/6eTKX1Kyy9gMamdDyj736Y) | [Witchcraft Destroys Minds And Reaps Souls](https://open.spotify.com/album/3aJozZhPbj8hKmJePJ2LtF) | 2:57 |
 | 90 | [Selkie](https://open.spotify.com/track/7KmOdUvmCw5VQSXRt4qsef) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [Selkie](https://open.spotify.com/album/30S5mUJoW5fMUGFNUxSHOE) | 4:23 |
-| 91 | [Labyrinth](https://open.spotify.com/track/27fpZXWUZbS4v1fIcPpJEF) | [Showing Teeth](https://open.spotify.com/artist/6NmmsGOQdDqyXlNVA6uGWv) | [Labyrinth](https://open.spotify.com/album/28Hi8MXegxVlzYlI6FCXEE) | 2:40 |
-| 92 | [Poison](https://open.spotify.com/track/19Rr3ODfVAbleAlXhnNG3Z) | [BUNNY](https://open.spotify.com/artist/5Dccem9dkRqim9eKHXkSd3) | [Poison](https://open.spotify.com/album/5U8IQqKfTpAAdVtTgwpNTr) | 2:52 |
-| 93 | [Never Again \(Parasite\)](https://open.spotify.com/track/5gXIDQDs0ur8CjPg6BFLoG) | [Tetrarch](https://open.spotify.com/artist/5e43m4iYsZF54tHcJNAVU2) | [Never Again \(Parasite\)](https://open.spotify.com/album/6JiZnSdiYzpqUBdmHZVnWv) | 3:24 |
+| 91 | [Poison](https://open.spotify.com/track/19Rr3ODfVAbleAlXhnNG3Z) | [BUNNY](https://open.spotify.com/artist/5Dccem9dkRqim9eKHXkSd3) | [Poison](https://open.spotify.com/album/5U8IQqKfTpAAdVtTgwpNTr) | 2:52 |
+| 92 | [Never Again \(Parasite\)](https://open.spotify.com/track/5gXIDQDs0ur8CjPg6BFLoG) | [Tetrarch](https://open.spotify.com/artist/5e43m4iYsZF54tHcJNAVU2) | [Never Again \(Parasite\)](https://open.spotify.com/album/6JiZnSdiYzpqUBdmHZVnWv) | 3:24 |
+| 93 | [Labyrinth](https://open.spotify.com/track/27fpZXWUZbS4v1fIcPpJEF) | [Showing Teeth](https://open.spotify.com/artist/6NmmsGOQdDqyXlNVA6uGWv) | [Labyrinth](https://open.spotify.com/album/28Hi8MXegxVlzYlI6FCXEE) | 2:40 |
 | 94 | [Weeping Willow](https://open.spotify.com/track/3d0l1isydFqQz7TNWx9wtR) | [The Hellfreaks](https://open.spotify.com/artist/2gwo7JN0Ug8xOQZKevs5Pr) | [Pitch Black Sunset](https://open.spotify.com/album/7gnr6a0QR9Cq8HQtENW1MB) | 4:28 |
 | 95 | [Thorn In My Side](https://open.spotify.com/track/7jDhrmsTOZ6TeT9LcC14OF) | [Harper](https://open.spotify.com/artist/1zhymMZgQLPrt0bSh3UGL3) | [Thorn In My Side](https://open.spotify.com/album/1c8liuYJUzptwOiOubrKRh) | 3:45 |
 | 96 | [Bang Ya Head \(feat\. Fred Durst\)](https://open.spotify.com/track/6cGoPSnvtuT3NnHH4DaDU0) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB), [Fred Durst](https://open.spotify.com/artist/6xs3t4VrfszbO3YJg2wLPa) | [Bang Ya Head](https://open.spotify.com/album/4O8mwmSl0t6AX3fObXRqB5) | 3:36 |

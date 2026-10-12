@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvABJXBIyiY.md) - [plain]
 
 > Wrap yourself up and revel in a gray day with these dusky, dreamy tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,519 likes - 60 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,505 likes - 60 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvABJXBIyiY.md) - [plain]
 | 54 | [Scattershot](https://open.spotify.com/track/450v4iRyLvyOwNInkQVCbP) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Motel Bouquet](https://open.spotify.com/album/1wzGEFBlLXHmoW4OK4Qapu) | 3:40 |
 | 55 | [Lullaby](https://open.spotify.com/track/3yMCUholqG6FuApwrI3FXA) | [Mary Glenn](https://open.spotify.com/artist/2ffB2Wk1UD0wQ7fJZDXEH0) | [Mary Glenn](https://open.spotify.com/album/3mqZniFwoADxKEz4QETQTR) | 4:32 |
 | 56 | [Bell Under Water](https://open.spotify.com/track/1TdEe9o0xaL0nZc07kpRc2) | [Lotte Kestner](https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI) | [Until](https://open.spotify.com/album/2f0gZFhdTlMT64KpZmVOCH) | 5:17 |
-| 57 | [Ricochet](https://open.spotify.com/track/5dkeCTaxNQDlFiJEkpbMsx) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Ricochet](https://open.spotify.com/album/5sp2DSZbmZoy1FhjNbCAS2) | 3:18 |
-| 58 | [Home](https://open.spotify.com/track/0eOPBCItAtCgtQZj5vxNRa) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Home](https://open.spotify.com/album/6wPsaRI9Oz9Cd8lysOgIAe) | 4:32 |
+| 57 | [Home](https://open.spotify.com/track/0eOPBCItAtCgtQZj5vxNRa) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Home](https://open.spotify.com/album/6wPsaRI9Oz9Cd8lysOgIAe) | 4:32 |
+| 58 | [Ricochet](https://open.spotify.com/track/5dkeCTaxNQDlFiJEkpbMsx) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Ricochet](https://open.spotify.com/album/5sp2DSZbmZoy1FhjNbCAS2) | 3:18 |
 | 59 | [I Should Live in Salt \- The National Cover \- Live from Spotify, London](https://open.spotify.com/track/1LF3VWJhOqD2VuuruLMSmu) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Spotify Live](https://open.spotify.com/album/315m5F9Xqwhfptakbs0fG8) | 4:12 |
 | 60 | [Send My Regards](https://open.spotify.com/track/4k5N65CQWpIFuLmLOfSyRI) | [Anthony da Costa](https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Send My Regards](https://open.spotify.com/album/0P0fxg3LcDZuYnMNqSlBmH) | 4:07 |
 

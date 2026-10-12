@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3suc4V.md) - [plain]
 
 > This is Ravyn Lenae\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,443 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,447 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3suc4V.md) - [plain]
 | 35 | [MF GROOVE \(with Ravyn Lenae\)](https://open.spotify.com/track/3f0wlG15mXf22WOraAYwJ7) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [NOIR](https://open.spotify.com/album/5rVlqi2fHOmWB764N8PsWF) | 4:06 |
 | 36 | [Venom](https://open.spotify.com/track/5E0P7zYAZ0k22RwNgWxUXA) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [HYPNOS](https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ) | 3:29 |
 | 37 | [Spice \- EP Version](https://open.spotify.com/track/2QmU4B8fsyWcTQLVDl06Pk) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Midnight Moonlight EP](https://open.spotify.com/album/5NylLkiLTn2sF3U8mZ9bd7) | 3:39 |
-| 38 | [Romeo + Ravyn Lenae](https://open.spotify.com/track/5kXkNj56XlSPdHVj5RW5O9) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 2:12 |
-| 39 | [Love Is Blind](https://open.spotify.com/track/5BYJ8m1VJZUXUe8SoYAq2n) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:51 |
+| 38 | [Love Is Blind](https://open.spotify.com/track/5BYJ8m1VJZUXUe8SoYAq2n) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:51 |
+| 39 | [Romeo + Ravyn Lenae](https://open.spotify.com/track/5kXkNj56XlSPdHVj5RW5O9) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 2:12 |
 | 40 | [Communicate](https://open.spotify.com/track/5PqVcm1TdqsjXkShVVV7UY) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [The Healing Component](https://open.spotify.com/album/2IjEb3Ob7GHEpLwSgaWJiX) | 3:57 |
 | 41 | [Forever](https://open.spotify.com/track/3MoQWxjYFWm5wh7Q5XwSBp) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Joseph Chilliams](https://open.spotify.com/artist/6lirZ0ouvh4l3fz3HSnIwi) | [Telefone](https://open.spotify.com/album/5kjqLxeQxdW3CcUdOXuO2c) | 3:38 |
 | 42 | [Deep In The World](https://open.spotify.com/track/4JU3zRpbyFSw2Jqt2RzsIv) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [HYPNOS](https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3suc4V.md) - [plain]
 | 49 | [Tequan \(feat\. Ravyn Lenae\)](https://open.spotify.com/track/4RAhtF99hGmz9sxTJ48gqX) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Maybe in Nirvana](https://open.spotify.com/album/7jZyhVwszdGpCFnhRGZqAv) | 4:45 |
 | 50 | [Unknown \- EP Version](https://open.spotify.com/track/1wCManUnBwrfpnwTaV93ho) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Midnight Moonlight EP](https://open.spotify.com/album/5NylLkiLTn2sF3U8mZ9bd7) | 3:18 |
 
-Snapshot ID: `asgugAAAAADgiMwAYKiV6G1DQuptbK6M`
+Snapshot ID: `asmAAAAAAAA9gWYfVHegh6hdLlE7Wg0e`

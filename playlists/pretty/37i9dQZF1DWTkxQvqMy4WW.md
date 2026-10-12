@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkxQvqMy4WW.md) - [plain]
 
 > Country music to get you back to the basics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,406,207 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,406,081 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkxQvqMy4WW.md) - [plain]
 | 41 | [Play It Again](https://open.spotify.com/track/03fT3OHB9KyMtGMt2zwqCT) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Crash My Party](https://open.spotify.com/album/5M8gr5RV2eR6UkztC69ogB) | 3:46 |
 | 42 | [American Kids](https://open.spotify.com/track/1dgWTMoHwTUnQhOQ8SR5fV) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [The Big Revival](https://open.spotify.com/album/2R5PAxygJ4YeRuSwoalKam) | 3:02 |
 | 43 | [Night Shift](https://open.spotify.com/track/0bPnT6i9H1p8Vd85GS6Z7I) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [California Sunrise](https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ) | 2:52 |
-| 44 | [World on Fire](https://open.spotify.com/track/5ya0TmUQw2wHMkq36rPsnd) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [NATE SMITH \(DELUXE\)](https://open.spotify.com/album/2WSeZEFsZKPJQ09abZCIaz) | 3:09 |
-| 45 | [Good Directions](https://open.spotify.com/track/7GQjJEwqlp6m5HNWVQd6OR) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Doin' Somethin' Right](https://open.spotify.com/album/01XmoBPJ8VwC6IyOEvGhy5) | 3:35 |
+| 44 | [Good Directions](https://open.spotify.com/track/7GQjJEwqlp6m5HNWVQd6OR) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Doin' Somethin' Right](https://open.spotify.com/album/01XmoBPJ8VwC6IyOEvGhy5) | 3:35 |
+| 45 | [World on Fire](https://open.spotify.com/track/5ya0TmUQw2wHMkq36rPsnd) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [NATE SMITH \(DELUXE\)](https://open.spotify.com/album/2WSeZEFsZKPJQ09abZCIaz) | 3:09 |
 | 46 | [Move On](https://open.spotify.com/track/2jo7RsXd2f4TCA7N3mbMZC) | [Kevin Powers](https://open.spotify.com/artist/4X8TR9pBFyewFlIDYt1o2s), [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Move On](https://open.spotify.com/album/46kMFHuPM7lebSmP47lGfA) | 3:11 |
 | 47 | [In Case You Didn't Know](https://open.spotify.com/track/10M2Ex445zw585Ducldzkw) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Brett Young](https://open.spotify.com/album/6MTPPsqX8KnmDWmnQmbxJ5) | 3:44 |
 | 48 | [She Had Me At Heads Carolina](https://open.spotify.com/track/200x8ONbPfFzByUr3fVz46) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Stereotype](https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa) | 3:26 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkxQvqMy4WW.md) - [plain]
 | 54 | [What He'll Never Have](https://open.spotify.com/track/61SRKyox0R9jCzci4JXKBS) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Livin' My Best Life \(Still\)](https://open.spotify.com/album/3B38AH4XMqDiI9W2Yd6mDT) | 2:33 |
 | 55 | [I Can't Love You Anymore](https://open.spotify.com/track/5aVBxVa0kz9uzv0F4gwdEn) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I Can't Love You Anymore](https://open.spotify.com/album/5BFfobflVIOwebqy5RtBcP) | 3:48 |
 | 56 | [Drink In My Hand](https://open.spotify.com/track/1cktZnxiONH0hR6Q3DKy8h) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Chief](https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF) | 3:11 |
-| 57 | [I Hope](https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:30 |
-| 58 | [Burn Out](https://open.spotify.com/track/7yrJnekdlwWARt5lmVqJ6L) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [On The Rocks](https://open.spotify.com/album/5p5lKDY6Ag62f8HWfIFzQ0) | 3:08 |
+| 57 | [Burn Out](https://open.spotify.com/track/7yrJnekdlwWARt5lmVqJ6L) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [On The Rocks](https://open.spotify.com/album/5p5lKDY6Ag62f8HWfIFzQ0) | 3:08 |
+| 58 | [I Hope](https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:30 |
 | 59 | [Dancin’ In The Country](https://open.spotify.com/track/2KtGiBi5CrX2ERPD2PAS34) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Tyler Hubbard](https://open.spotify.com/album/2S3Q7phoa4bZEijkTRYaLu) | 2:59 |
 | 60 | [Somebody Like That](https://open.spotify.com/track/62SvLj5dBDI9Ee3eBA0BxL) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Love, Heartbreak, & Everything in Between](https://open.spotify.com/album/6Jetxgkv7jYVQJhyOBqAPa) | 3:18 |
 | 61 | [you look like you love me \(feat\. Riley Green\)](https://open.spotify.com/track/0y5Ex8oQ8zCH5TQxHUy1Eo) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8), [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [you look like you love me \(feat\. Riley Green\)](https://open.spotify.com/album/69iNwop7x6VMhFMLEEtY1j) | 3:44 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkxQvqMy4WW.md) - [plain]
 | 71 | [Woman](https://open.spotify.com/track/7lJv6f6HBpUoLBnM0RxuKB) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Woman](https://open.spotify.com/album/2thPfbnjMxEs3RwK1LRL2C) | 2:46 |
 | 72 | [Meant to Be \(feat\. Florida Georgia Line\)](https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [All Your Fault: Pt\. 2](https://open.spotify.com/album/6t5D6LEgHxqUVOxJItkzfb) | 2:43 |
 | 73 | [Think I'm In Love With You](https://open.spotify.com/track/65M92JpTbAdHmTQm4jGaDa) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Think I’m In Love With You](https://open.spotify.com/album/52lLryGmbfkDOayypXEhhR) | 3:42 |
-| 74 | [Don't We](https://open.spotify.com/track/45UDzIWgqj5hgQKXLlfdp7) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I’m The Problem](https://open.spotify.com/album/1o844O5I0qVpZKiePtIGcF) | 3:11 |
-| 75 | [Blue Ain't Your Color](https://open.spotify.com/track/6wycnu8FWXsj68ig7BEot9) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Ripcord](https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq) | 3:50 |
+| 74 | [Blue Ain't Your Color](https://open.spotify.com/track/6wycnu8FWXsj68ig7BEot9) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Ripcord](https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq) | 3:50 |
+| 75 | [Don't We](https://open.spotify.com/track/45UDzIWgqj5hgQKXLlfdp7) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I’m The Problem](https://open.spotify.com/album/1o844O5I0qVpZKiePtIGcF) | 3:11 |
 | 76 | [What Ifs \(feat\. Lauren Alaina\)](https://open.spotify.com/track/7zVCrzzEJU7u24sbJPXA5W) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Kane Brown](https://open.spotify.com/album/4hhvgHjPqUOAYkclDkhL2T) | 3:08 |
 | 77 | [Take A Back Road](https://open.spotify.com/track/7B6m8tHAYZsOKOKMU5SR2n) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2) | [Take A Back Road](https://open.spotify.com/album/2qLz69eIC6A7GggjGvxEMp) | 3:28 |
 | 78 | [House Party](https://open.spotify.com/track/1TwLKNsCnhi1HxbIi4bAW0) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Montevallo](https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E) | 3:10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRPjCBAuFj3.md) - [plain]
 
 > dagood in cover 🇲🇽🌮🌶️
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,316 likes - 105 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,313 likes - 105 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

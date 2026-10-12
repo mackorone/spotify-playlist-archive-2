@@ -4,7 +4,7 @@
 
 > Obama&\#x27;s actual playlist? Nope, just a fan who grouped all his summer song picks into one list\. \(2026, 2024 &amp; 2023 + bonus tracks\) Enjoy!
 
-6,635 songs - 15 day 11 hr 16 min
+6,636 songs - 15 day 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6537,6 +6537,7 @@
 | [Yes, hello?](https://open.spotify.com/track/6P7izoKWNKLDg8K9ZpMWrs) | [Avi Ares](https://open.spotify.com/artist/1XGnWyeasFqaUVkpTJoQOR) | [Yes, hello?](https://open.spotify.com/album/3fOniWEZIXqivXoORe5Oy0) | 4:10 | 2025-04-30 | 2025-05-12 |
 | [Yesterday](https://open.spotify.com/track/6sT0ChSYBtJuUDI4qHBGx6) | [ØZWALD](https://open.spotify.com/artist/7pwk3M6iETEiAFLwqkgLrk) | [Yesterday](https://open.spotify.com/album/67Xto05h5XsZCMCPlucARK) | 2:07 | 2021-10-09 | 2021-10-23 |
 | [Yesterday Go Away](https://open.spotify.com/track/3uzk7B4bxkREIJdifoaJz7) | [EZIA](https://open.spotify.com/artist/0NlGvbM8SmFXmaBb6pu1qg) | [Yesterday Go Away](https://open.spotify.com/album/0w281eyXrb2PqiZ1zw5tsm) | 3:39 | 2021-09-18 | 2021-10-04 |
+| [Yo Nací Flor](https://open.spotify.com/track/6jcaJFymqncEGJs033SXrM) | [Yovanna Ventura](https://open.spotify.com/artist/1XTfflXB63H4e5loKP6S4L) | [Unzipped](https://open.spotify.com/album/6gaOVvEuhwwS1vPustVqzt) | 3:13 | 2026-10-11 |  |
 | [YO PAMI TE QUIERO](https://open.spotify.com/track/42PTkqNb9VBHBKMr76KCAr) | [ADIEL](https://open.spotify.com/artist/7kIY0YemfqOMRAmcn0zRvr) | [YO PAMI TE QUIERO](https://open.spotify.com/album/5wjpIh1KEF5bp9BZtfxLdO) | 1:46 | 2025-12-14 | 2025-12-26 |
 | [Yo\-yo](https://open.spotify.com/track/7CpeVkCFSTX2MYLMhCXAf6) | [Matt Bippart](https://open.spotify.com/artist/6BZYylxLk92Vx37lUXKaBS) | [Yo\-yo](https://open.spotify.com/album/0H9etKaOQrMtLnB0qU4Ywh) | 2:37 | 2023-02-26 | 2023-03-20 |
 | [you](https://open.spotify.com/track/67UKQlayHF4L4ACUOj24Pr) | [Alma Owren](https://open.spotify.com/artist/6PYAyyoym2n9PB5sVrplSE) | [you](https://open.spotify.com/album/2PRGWFu3khYvrnZYgZz4Q2) | 3:35 | 2025-02-14 | 2025-03-08 |

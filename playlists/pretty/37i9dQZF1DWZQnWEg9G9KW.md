@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQnWEg9G9KW.md) - [plain]
 
 > Camp Rock 3 is available now! Head back to camp with new tracks from the movie and old favorites from Camp Rock 1 & 2
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,457 likes - 62 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,627 likes - 62 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQnWEg9G9KW.md) - [plain]
 | 13 | [Tomorrow \(Acoustic\)](https://open.spotify.com/track/5tF85iHwGbLMK1ohZTg0Fr) | [Malachi Barton](https://open.spotify.com/artist/3fknxSm9gKHsiN2C6lcRme), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Camp Rock 3 \(Original Soundtrack\)](https://open.spotify.com/album/7AsM74VTRiioLdXffW05lh) | 1:17 |
 | 14 | [What It Takes](https://open.spotify.com/track/5wU1mElxYEvLFFMtwdnqwf) | [Brooklynn Pitts](https://open.spotify.com/artist/6YycNqexZlKjguzwTsvfup), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Camp Rock 3 \(Original Soundtrack\)](https://open.spotify.com/album/7AsM74VTRiioLdXffW05lh) | 2:30 |
 | 15 | [Brand New Day](https://open.spotify.com/track/7fWqPukuuFHFuZO8AXBtQh) | [Liamani](https://open.spotify.com/artist/3aN48TzSXlQbemkDdIBO2v), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Camp Rock 3 \(Original Soundtrack\)](https://open.spotify.com/album/7AsM74VTRiioLdXffW05lh) | 3:21 |
-| 16 | [It's On](https://open.spotify.com/track/4WuEynUO41tcYDvSYHnvJE) | [Lumi Pollack](https://open.spotify.com/artist/7keuWJj8bdN00mkEAfovAk), [Hudson Stone](https://open.spotify.com/artist/2i8MybJZlckvB0dnB8oLFH), [Ava Jean](https://open.spotify.com/artist/6oHvFoOXhOalfJA4TfF3gg), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Camp Rock 3 \(Original Soundtrack\)](https://open.spotify.com/album/7AsM74VTRiioLdXffW05lh) | 2:18 |
+| 16 | [It's On](https://open.spotify.com/track/4WuEynUO41tcYDvSYHnvJE) | [Lumi Pollack](https://open.spotify.com/artist/7keuWJj8bdN00mkEAfovAk), [Hudson Stone](https://open.spotify.com/artist/2i8MybJZlckvB0dnB8oLFH), [Ava Jean](https://open.spotify.com/artist/2spB3zn75r15bLF7H2uaE9), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Camp Rock 3 \(Original Soundtrack\)](https://open.spotify.com/album/7AsM74VTRiioLdXffW05lh) | 2:18 |
 | 17 | [Score Suite](https://open.spotify.com/track/7wmg0bbedaKEJFArWKjaUc) | [Tom Howe](https://open.spotify.com/artist/5784JqAJvI24V2Kr3xhoX6), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Camp Rock 3 \(Original Soundtrack\)](https://open.spotify.com/album/7AsM74VTRiioLdXffW05lh) | 5:01 |
 | 18 | [This Is Me](https://open.spotify.com/track/5pomCBdsTZSDCFHH8BAUQe) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [Camp Rock](https://open.spotify.com/album/1v1i6nqVmLWXKv2a7ByqxJ) | 3:09 |
 | 19 | [We Rock](https://open.spotify.com/track/7r6ubHsaieaig4kORmmsDy) | [Cast Of Camp Rock](https://open.spotify.com/artist/6BaEtrOzEuvmxmHZRR1nNa) | [Camp Rock](https://open.spotify.com/album/1v1i6nqVmLWXKv2a7ByqxJ) | 3:10 |

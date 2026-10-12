@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO08InPG.md) - [plain]
 
 > This is Machine Head\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,168 likes - 50 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,174 likes - 50 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO08InPG.md) - [plain]
 | 49 | [Struck a Nerve](https://open.spotify.com/track/296Tab5qscBCWU8rsOb8uf) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The More Things Change...](https://open.spotify.com/album/60l0eb8lzf8jNF0K6XsbWL) | 3:33 |
 | 50 | [ADDICTED TØ PAIN](https://open.spotify.com/track/3aDissFCQVBlEvImNXK8A7) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [UNATØNED](https://open.spotify.com/album/197VDX6RBWHRl7w89XcJWE) | 3:10 |
 
-Snapshot ID: `asgugAAAAAADI2F5Q4sNhYTXB7GiTBaU`
+Snapshot ID: `asmAAAAAAAAblz4QB8b8zd7xaz7q9uuq`

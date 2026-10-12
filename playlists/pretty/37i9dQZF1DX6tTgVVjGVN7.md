@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTgVVjGVN7.md) - [plain]
 
 > Bandas legendarias y canciones que hicieron historia\. Foto: Los Prisioneros.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,573 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,580 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTgVVjGVN7.md) - [plain]
 | 24 | [No Dejes Que...](https://open.spotify.com/track/5nzEilkVhvnCD0xpW3raTy) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [El Silencio](https://open.spotify.com/album/1WrK98KVZxkTgMD3a9Kpnl) | 4:39 |
 | 25 | [Cuando Pase El Temblor \- Remasterizado 2007](https://open.spotify.com/track/3uMYq07Kj5m564OQwdSCrD) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Nada Personal \(Remastered\)](https://open.spotify.com/album/0hyq754QnaKHYpH32QnWqs) | 3:49 |
 | 26 | [Tren Al Sur](https://open.spotify.com/track/6W1BLmVBxkqZwFQcORQLnv) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [Corazones](https://open.spotify.com/album/1XqzXn8a7Z15Z5tBSouXcH) | 5:36 |
-| 27 | [Sultans of Swing](https://open.spotify.com/track/6cr6UDpkjEaMQ80OjWqEBQ) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Dire Straits](https://open.spotify.com/album/4dKdxly4ji1vfl7sEYuqBe) | 5:48 |
-| 28 | [One Way Or Another \- Remastered 2001](https://open.spotify.com/track/4cQJ27R11K634x5qCOwKW5) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Parallel Lines \(Remastered\)](https://open.spotify.com/album/5wc12ZsmXNIlppTmNFZFLU) | 3:35 |
+| 27 | [One Way Or Another \- Remastered 2001](https://open.spotify.com/track/4cQJ27R11K634x5qCOwKW5) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Parallel Lines \(Remastered\)](https://open.spotify.com/album/5wc12ZsmXNIlppTmNFZFLU) | 3:35 |
+| 28 | [Sultans of Swing](https://open.spotify.com/track/6cr6UDpkjEaMQ80OjWqEBQ) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Dire Straits](https://open.spotify.com/album/4dKdxly4ji1vfl7sEYuqBe) | 5:48 |
 | 29 | [La Planta](https://open.spotify.com/track/2GggG2lQVYuus2aeAybe8M) | [Caos](https://open.spotify.com/artist/4GGc0ZcZkaWFiQRhfUJZ8F) | [La Vida Gacha](https://open.spotify.com/album/46qlKidNmBw0FSJzFpb8LM) | 4:05 |
 | 30 | [Lobo\-hombre en París](https://open.spotify.com/track/3M1H1CWjrSq7nxABHc8EXv) | [La Unión](https://open.spotify.com/artist/2Ax9wZpdlg4r2zkc3pcI8U) | [Grandes Exitos](https://open.spotify.com/album/7bYD4tCxzQOzGZmKBKtT3m) | 3:53 |
 | 31 | [Mentira](https://open.spotify.com/track/5Em7MA991Gn3yhheaul0CX) | [La Ley](https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK) | [La Ley MTV Unplugged](https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi) | 4:48 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTgVVjGVN7.md) - [plain]
 | 42 | [Call Me](https://open.spotify.com/track/4qO03RMQm88DdpTJcxlglY) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Atomic/Atomix](https://open.spotify.com/album/5HRB9TeaIHRBxfIm4XZTj6) | 3:32 |
 | 43 | [Y Que](https://open.spotify.com/track/5YRhQ7h8w2cMCY2teyjax6) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspector](https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB) | 3:45 |
 | 44 | [Gimme Tha Power](https://open.spotify.com/track/7bN2XAxC3SN8Ie16xP6lpm) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [¿Dónde Jugarán Las Niñas?](https://open.spotify.com/album/7EIqLMVIGdxmuXIscBAyn0) | 4:10 |
-| 45 | [Mi Vida](https://open.spotify.com/track/4f6bE40jl7zuFJ3cOCwaI1) | [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [José José, Un Tributo 1 & 2](https://open.spotify.com/album/103zw9Qm9BRCdlb3mYsBOl) | 4:42 |
-| 46 | [D'yer Mak'er \- Remaster](https://open.spotify.com/track/4ItljeeAXtHsnsnnQojaO2) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Houses of the Holy \(Deluxe Edition\)](https://open.spotify.com/album/7gS8ozSkvPW3VBPLnXOZ7S) | 4:22 |
+| 45 | [D'yer Mak'er \- Remaster](https://open.spotify.com/track/4ItljeeAXtHsnsnnQojaO2) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Houses of the Holy \(Deluxe Edition\)](https://open.spotify.com/album/7gS8ozSkvPW3VBPLnXOZ7S) | 4:22 |
+| 46 | [Mi Vida](https://open.spotify.com/track/4f6bE40jl7zuFJ3cOCwaI1) | [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [José José, Un Tributo 1 & 2](https://open.spotify.com/album/103zw9Qm9BRCdlb3mYsBOl) | 4:42 |
 | 47 | [Arréglame el Alma \(feat\. Maria Barracuda\) \- En Vivo](https://open.spotify.com/track/7wL7mQUpStsapIkNuy0d2Z) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5), [María Barracuda](https://open.spotify.com/artist/39wff4xdW1Xg88XzoTvySv) | [XX Años \(En Vivo\)](https://open.spotify.com/album/4YfBlW4L2iqbqq7masWr9V) | 4:40 |
 | 48 | [Aunque no sea conmigo](https://open.spotify.com/track/0dRY4OrSY53yUjVgfgne1W) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Hijos del pueblo](https://open.spotify.com/album/69JZWukakNJGpGhJILhyTl) | 3:32 |
 | 49 | [Smoke on the Water](https://open.spotify.com/track/5SAUIWdZ04OxYfJFDchC7S) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Machine Head](https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty) | 5:42 |

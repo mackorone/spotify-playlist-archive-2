@@ -903,6 +903,24 @@
     },
     {
       "album": {
+        "name": "MudaH",
+        "url": "https://open.spotify.com/album/7KpY255V8Z2lC5du1920wJ"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2026-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195141,
+      "name": "El Bolero",
+      "url": "https://open.spotify.com/track/1sS6eNZnp8cmgVNd5gnsVm"
+    },
+    {
+      "album": {
         "name": "Palabra De To's",
         "url": "https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP"
       },

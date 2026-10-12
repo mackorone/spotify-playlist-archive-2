@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,917 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,923 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [урод](https://open.spotify.com/track/0Q4LbRWTxhYRVKpjt1Y7D1) | [CUPSIZE](https://open.spotify.com/artist/6piaRBSk79hfoHINy7DMGO) | [заставь меня плакать](https://open.spotify.com/album/30cAXP9iph7hbTDn0pvNy2) | 3:02 |
 | 50 | [Беспечный рыцарь тьмы](https://open.spotify.com/track/2ZqAhOPCeE3t4MbRzdybEA) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [PAYCHECK](https://open.spotify.com/album/62iiHIIzp0PwureC2D17ud) | 3:53 |
 
-Snapshot ID: `Ml26iAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Ml8QuAAAAAAAAAAAAAAAAAAAAAAAAGVu`

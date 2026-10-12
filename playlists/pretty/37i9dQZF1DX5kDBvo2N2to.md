@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 
 > låtarna som inte går att få nog av.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,432 likes - 90 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,435 likes - 90 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 | 39 | [To Love Somebody](https://open.spotify.com/track/17LuVd2gBc7UvcgZbm1cFV) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [To Love Somebody](https://open.spotify.com/album/0YZQHiFydiWcBpISxOCFdc) | 3:57 |
 | 40 | [Lucky Again](https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Lucky Again](https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD) | 3:01 |
 | 41 | [My System](https://open.spotify.com/track/74s87wGi4ZIqgoBPg7fzyj) | [FELICIA](https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa) | [My System \(Acoustic\)](https://open.spotify.com/album/4SJkfGs1KQDsfFGbN7LAfZ) | 3:02 |
-| 42 | [Räddare i nöden](https://open.spotify.com/track/1yHJl9qbcH58PEHLiRlywQ) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Förr nu & forever](https://open.spotify.com/album/0VgMibLJeMzYTBq4jVXUqC) | 4:01 |
-| 43 | [Håller Mig Själv](https://open.spotify.com/track/1nBqEg9NUvwh0D0xauvzy4) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [ROMANOS](https://open.spotify.com/artist/5GT8ltnqVPe7Zf8Ynrb5mV) | [Nya Skolans Ledare](https://open.spotify.com/album/1ptguIZWJepEbkOFyZ05SJ) | 1:49 |
+| 42 | [Håller Mig Själv](https://open.spotify.com/track/1nBqEg9NUvwh0D0xauvzy4) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [ROMANOS](https://open.spotify.com/artist/5GT8ltnqVPe7Zf8Ynrb5mV) | [Nya Skolans Ledare](https://open.spotify.com/album/1ptguIZWJepEbkOFyZ05SJ) | 1:49 |
+| 43 | [Räddare i nöden](https://open.spotify.com/track/1yHJl9qbcH58PEHLiRlywQ) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Förr nu & forever](https://open.spotify.com/album/0VgMibLJeMzYTBq4jVXUqC) | 4:01 |
 | 44 | [Sommarkatt](https://open.spotify.com/track/57AHVmaxTYWoBBB5CFr9Ts) | [Lovet](https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK) | [Sommarkatt](https://open.spotify.com/album/17jcApM4Eibe8do5pJTNCD) | 3:28 |
 | 45 | [X](https://open.spotify.com/track/7DYvcwCrtckSM5bidztQhj) | [JIREEL](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [Reyn](https://open.spotify.com/artist/0fyeRmbc7XdKio5Fm13LPB) | [YEMAYA II](https://open.spotify.com/album/6xqiRAirHxigWJD1nHiXUj) | 2:42 |
 | 46 | [Svagare än jag](https://open.spotify.com/track/5xsHQu1SXYS6DYOJwIWhSC) | [Ida\-Lova](https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO) | [Svagare än jag](https://open.spotify.com/album/1G4oPYw6MmSYJH04bBIdtr) | 3:07 |

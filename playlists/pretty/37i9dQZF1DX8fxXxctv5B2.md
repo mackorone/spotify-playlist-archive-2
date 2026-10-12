@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8fxXxctv5B2.md) - [plain]
 
 > Windows down, volume up\. The soundtrack to your road trip.
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,998 likes - 80 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,008 likes - 80 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8fxXxctv5B2.md) - [plain]
 | 16 | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl) | 5:39 |
 | 17 | [Time After Time](https://open.spotify.com/track/7o9uu2GDtVDr9nsR7ZRN73) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual](https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0) | 4:05 |
 | 18 | [Young Folks](https://open.spotify.com/track/4dyx5SzxPPaD8xQIid5Wjj) | [Peter Bjorn and John](https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86) | [Writer's Block](https://open.spotify.com/album/5g4E06cxsFEMFE9hSekAt2) | 4:36 |
-| 19 | [Electric Feel](https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 3:49 |
+| 19 | [Bette Davis Eyes](https://open.spotify.com/track/0odIT9B9BvOCnXfS0e4lB5) | [Kim Carnes](https://open.spotify.com/artist/5PN2aHIvLEM98XIorsPMhE) | [Mistaken Identity](https://open.spotify.com/album/3iMwQk5yE0UDDKbLCdcxZA) | 3:48 |
 | 20 | [Love Was A Stranger](https://open.spotify.com/track/33hVymJErBDnJpIpMoBGn6) | [Keli Holiday](https://open.spotify.com/artist/53IyqdnGZpmI0dRsySPdIM) | [Love Was A Stranger](https://open.spotify.com/album/0fLy3kLTDCIxnny0HHiGDk) | 2:31 |
-| 21 | [Bette Davis Eyes](https://open.spotify.com/track/0odIT9B9BvOCnXfS0e4lB5) | [Kim Carnes](https://open.spotify.com/artist/5PN2aHIvLEM98XIorsPMhE) | [Mistaken Identity](https://open.spotify.com/album/3iMwQk5yE0UDDKbLCdcxZA) | 3:48 |
+| 21 | [Electric Feel](https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 3:49 |
 | 22 | [Right Down the Line](https://open.spotify.com/track/2Xb6wJYGi0QXwURw5WWvI5) | [Gerry Rafferty](https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb) | [City to City](https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf) | 4:27 |
 | 23 | [What Once Was](https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Songs of Her's](https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw) | 4:15 |
 | 24 | [Is It True](https://open.spotify.com/track/6RZmhpvukfyeSURhf4kZ0d) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 3:59 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8fxXxctv5B2.md) - [plain]
 | 72 | [Ready To Ride](https://open.spotify.com/track/5Ov3TERXJhFfuHcTpJR0iV) | [Hori Shaw](https://open.spotify.com/artist/3weDT5G04NSpPg2q1lvcJh), [Te Wehi](https://open.spotify.com/artist/2DkCh3TikVqqOAKrbMNIVc) | [Ready To Ride](https://open.spotify.com/album/6G4cGs3sIKpnL8hdIVUrGB) | 3:41 |
 | 73 | [Something in the Water \- Single Version](https://open.spotify.com/track/3AYcaeTecNpJGgcTZOzkXU) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Something in the Water](https://open.spotify.com/album/7oPD1sFHv0dsyTHgK7A4FF) | 3:47 |
 | 74 | [Left Hand Free \- Extended Version](https://open.spotify.com/track/4DhAIX3t4yC5O7QmBMAL14) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [This Is All Yours](https://open.spotify.com/album/1xTtRRvxdf226r9IGfL1Hq) | 2:53 |
-| 75 | [Last Call](https://open.spotify.com/track/0KvyZOngjOdF37hwIyS9sq) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Last Call](https://open.spotify.com/album/6TzxE8PAjmOLmcQ2qBBuiZ) | 1:35 |
-| 76 | [Chaise Longue](https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Chaise Longue](https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6) | 3:16 |
+| 75 | [Chaise Longue](https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Chaise Longue](https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6) | 3:16 |
+| 76 | [Last Call](https://open.spotify.com/track/0KvyZOngjOdF37hwIyS9sq) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Last Call](https://open.spotify.com/album/6TzxE8PAjmOLmcQ2qBBuiZ) | 1:35 |
 | 77 | [Hold Me Up \(Thank You\)](https://open.spotify.com/track/0juMDnoo3u3uDJ32wjK2BF) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A LA SALA](https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2) | 3:49 |
 | 78 | [My Fun](https://open.spotify.com/track/306xT15GTuDs3NyopIANrh) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [My Fun](https://open.spotify.com/album/2obv9kAuyDBzo5jTwAOHob) | 2:42 |
 | 79 | [Plans](https://open.spotify.com/track/1TZGMJxT3gPDkwZyfcc9ED) | [Birds Of Tokyo](https://open.spotify.com/artist/25ou7Y6W7L1fcMoCZMbf86) | [Birds Of Tokyo](https://open.spotify.com/album/5SJkYrOgbOHRPTtvVm23FI) | 3:38 |

@@ -1,6 +1,6 @@
 {
   "description": "This is Alfredo Olivas. The essential tracks, all in one playlist.",
-  "num_followers": 1102040,
+  "num_followers": 1102145,
   "original_name": "This Is Alfredo Olivas",
   "owner": {
     "name": "Spotify",
@@ -27,6 +27,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "As\u00ed Es Esto",
+        "url": "https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 186360,
+      "name": "El Precio De La Soledad",
+      "url": "https://open.spotify.com/track/179TZwPk0txEvjkraVTVKo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Recuerdos en Com\u00fan",
         "url": "https://open.spotify.com/album/7AQjCCvBckdQQ1OJ3zv9iT"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 214700,
       "name": "Recuerdos en Com\u00fan",
       "url": "https://open.spotify.com/track/1OTu4EnkuDeqXc737rTPkf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "As\u00ed Es Esto",
-        "url": "https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 186360,
-      "name": "El Precio De La Soledad",
-      "url": "https://open.spotify.com/track/179TZwPk0txEvjkraVTVKo"
     },
     {
       "added_at": null,
@@ -131,8 +131,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "MAYDAY",
-        "url": "https://open.spotify.com/album/3CzFEoSPC9MDTwaQZR2ap3"
+        "name": "Privilegio",
+        "url": "https://open.spotify.com/album/6eYQRNqomQ8q5R2xysBeGj"
       },
       "artists": [
         {
@@ -140,9 +140,9 @@
           "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 218106,
-      "name": "MAYDAY",
-      "url": "https://open.spotify.com/track/5tpoc6yo7yjxQEnAOPbs0B"
+      "duration_ms": 215640,
+      "name": "El Malo De Culiac\u00e1n",
+      "url": "https://open.spotify.com/track/32MQwnY0WUaNVT7i4W9d9F"
     },
     {
       "added_at": null,
@@ -195,8 +195,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Privilegio",
-        "url": "https://open.spotify.com/album/6eYQRNqomQ8q5R2xysBeGj"
+        "name": "MAYDAY",
+        "url": "https://open.spotify.com/album/3CzFEoSPC9MDTwaQZR2ap3"
       },
       "artists": [
         {
@@ -204,9 +204,9 @@
           "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 215640,
-      "name": "El Malo De Culiac\u00e1n",
-      "url": "https://open.spotify.com/track/32MQwnY0WUaNVT7i4W9d9F"
+      "duration_ms": 218106,
+      "name": "MAYDAY",
+      "url": "https://open.spotify.com/track/5tpoc6yo7yjxQEnAOPbs0B"
     },
     {
       "added_at": null,
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 196666,
-      "name": "Seguramente",
-      "url": "https://open.spotify.com/track/21QPEewQy6P4l6mY0OE1fL"
+      "duration_ms": 195893,
+      "name": "El Problema - Versi\u00f3n Banda",
+      "url": "https://open.spotify.com/track/30pKCtnq9axMXlyLat7Rnu"
     },
     {
       "added_at": null,
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 195893,
-      "name": "El Problema - Versi\u00f3n Banda",
-      "url": "https://open.spotify.com/track/30pKCtnq9axMXlyLat7Rnu"
+      "duration_ms": 196666,
+      "name": "Seguramente",
+      "url": "https://open.spotify.com/track/21QPEewQy6P4l6mY0OE1fL"
     },
     {
       "added_at": null,
@@ -423,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Privilegio",
-        "url": "https://open.spotify.com/album/6eYQRNqomQ8q5R2xysBeGj"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 220466,
-      "name": "Y Porque No",
-      "url": "https://open.spotify.com/track/4tgo5UD0x1z4wG0iAryYSk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El D\u00eda De Los Muertos",
         "url": "https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 206813,
       "name": "La Danza Del Venado",
       "url": "https://open.spotify.com/track/468U6z141Dy1dVPikBwKfY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Privilegio",
+        "url": "https://open.spotify.com/album/6eYQRNqomQ8q5R2xysBeGj"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 220466,
+      "name": "Y Porque No",
+      "url": "https://open.spotify.com/track/4tgo5UD0x1z4wG0iAryYSk"
     },
     {
       "added_at": null,
@@ -471,8 +471,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Privilegio",
-        "url": "https://open.spotify.com/album/6eYQRNqomQ8q5R2xysBeGj"
+        "name": "La Rueda De La Fortuna",
+        "url": "https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd"
       },
       "artists": [
         {
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 180960,
-      "name": "Ya No Es Normal",
-      "url": "https://open.spotify.com/track/1atlhbxPVJOZbTfvMw1quB"
+      "duration_ms": 234013,
+      "name": "Todo O Nada",
+      "url": "https://open.spotify.com/track/0snAM2wzhyQkT1zQmFliLG"
     },
     {
       "added_at": null,
@@ -503,8 +503,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Rueda De La Fortuna",
-        "url": "https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd"
+        "name": "Privilegio",
+        "url": "https://open.spotify.com/album/6eYQRNqomQ8q5R2xysBeGj"
       },
       "artists": [
         {
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 234013,
-      "name": "Todo O Nada",
-      "url": "https://open.spotify.com/track/0snAM2wzhyQkT1zQmFliLG"
+      "duration_ms": 180960,
+      "name": "Ya No Es Normal",
+      "url": "https://open.spotify.com/track/1atlhbxPVJOZbTfvMw1quB"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\"V1V0\"",
-        "url": "https://open.spotify.com/album/20kVQXyFb1SnWdCxBI9jht"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 207157,
-      "name": "Voy Queri\u00e9ndote",
-      "url": "https://open.spotify.com/track/5wbyzeqiYoM3JEaCDW8aX1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Esta Mi Pasi\u00f3n",
         "url": "https://open.spotify.com/album/75bnY3wmNEEUkPNMTDVq9O"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 159273,
       "name": "No Te Limites",
       "url": "https://open.spotify.com/track/3fcVnF22FBqh0fDDVpLhCF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\"V1V0\"",
+        "url": "https://open.spotify.com/album/20kVQXyFb1SnWdCxBI9jht"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 207157,
+      "name": "Voy Queri\u00e9ndote",
+      "url": "https://open.spotify.com/track/5wbyzeqiYoM3JEaCDW8aX1"
     },
     {
       "added_at": null,
@@ -767,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Esta Mi Pasi\u00f3n",
+        "url": "https://open.spotify.com/album/75bnY3wmNEEUkPNMTDVq9O"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 148468,
+      "name": "Por los Clavos de Cristo",
+      "url": "https://open.spotify.com/track/2zB0A1RXXcESBz8CeO7ahN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los Inadaptados",
         "url": "https://open.spotify.com/album/7Fz369S1erEQYmnrbZawsB"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 175040,
       "name": "Los Inadaptados",
       "url": "https://open.spotify.com/track/15v0ra246PDmiT5Vh9YzWO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Esta Mi Pasi\u00f3n",
-        "url": "https://open.spotify.com/album/75bnY3wmNEEUkPNMTDVq9O"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 148468,
-      "name": "Por los Clavos de Cristo",
-      "url": "https://open.spotify.com/track/2zB0A1RXXcESBz8CeO7ahN"
     },
     {
       "added_at": null,
@@ -839,22 +839,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Caballo",
-        "url": "https://open.spotify.com/album/5QBM7AxynUoEX92nJho9hH"
+        "name": "Esta Mi Pasi\u00f3n",
+        "url": "https://open.spotify.com/album/75bnY3wmNEEUkPNMTDVq9O"
       },
       "artists": [
-        {
-          "name": "Reyli Barba",
-          "url": "https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ"
-        },
         {
           "name": "Alfredo Olivas",
           "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 262608,
-      "name": "Amor Del Bueno (con Alfredo Olivas)",
-      "url": "https://open.spotify.com/track/5ckl6DcMSiDJV80U1uPhVP"
+      "duration_ms": 177673,
+      "name": "Temporal Sin Ti",
+      "url": "https://open.spotify.com/track/2tT8oWNwy6h9kPoEsy2eF1"
     }
   ],
   "unique_name": "This Is Alfredo Olivas",

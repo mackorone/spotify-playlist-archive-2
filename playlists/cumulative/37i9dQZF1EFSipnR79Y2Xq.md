@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3b2p5bqgVUvcoYInmwMBH3">Nathan Galante</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-165 songs - 8 hr 16 min
+166 songs - 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Doble T](https://open.spotify.com/track/0psYURhcteRbFcW9MH3Rj9) | [Viviann Baeza](https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo), [Emilio](https://open.spotify.com/artist/63AURDJ3zaxKaBcrm9q74B) | [Doble T](https://open.spotify.com/album/4P6cszM5VvuNEqBRpSPfgs) | 2:39 | 2025-08-26 |  |
 | [Día De Bajón](https://open.spotify.com/track/3iZFmfp6v6u4sldfg7HgRo) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6) | [Día De Bajón](https://open.spotify.com/album/3u6jVCx2tYFPRQtzKpUyaM) | 2:24 | 2022-09-16 |  |
 | [Díganle A Mi Ex](https://open.spotify.com/track/3wAB6BoHzcy4OQg040Jydm) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Díganle A Mi Ex](https://open.spotify.com/album/0t0rQcO5MICiLAjTwVZZbn) | 3:00 | 2025-01-09 | 2025-04-12 |
+| [El Bolero](https://open.spotify.com/track/1sS6eNZnp8cmgVNd5gnsVm) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [MudaH](https://open.spotify.com/album/7KpY255V8Z2lC5du1920wJ) | 3:15 | 2026-10-11 |  |
 | [El Curioso](https://open.spotify.com/track/0X4cL61mUXjCGXUM0YNHRu) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Palabra De To's](https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP) | 2:22 | 2025-08-26 |  |
 | [El Dinero Viene y Va \- En Vivo](https://open.spotify.com/track/7xHqoVzhNbHcMAV5LTIUyU) | [Lorenzo Mendez](https://open.spotify.com/artist/4ZfUIdc5Zm3N4E05eRSGac), [Adal Loreto](https://open.spotify.com/artist/1tm0tic1v5wuq9mfqln574) | [El Dinero Viene y Va \(En Vivo\)](https://open.spotify.com/album/3kUlyLl45C3pnlvP4FaZsA) | 3:13 | 2025-01-09 | 2025-04-12 |
 | [El Migajero](https://open.spotify.com/track/0ie7ujONjpBeKcDs8VoaNW) | [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Gravedad](https://open.spotify.com/album/2OwsYFE6lN5idbIGI8eFSg) | 3:19 | 2026-08-15 |  |

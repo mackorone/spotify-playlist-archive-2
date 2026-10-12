@@ -1,12 +1,12 @@
 {
   "description": "This is Codiciado. The essential tracks, all in one playlist.",
-  "num_followers": 46904,
+  "num_followers": 46928,
   "original_name": "This Is Codiciado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asbdAAAAAABBb+31KziOkMF3d+iLP6J5",
+  "snapshot_id": "asgugAAAAAALoNZMQrXD4GBF8SHrxRpT",
   "tracks": [
     {
       "added_at": null,
@@ -187,6 +187,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Formula",
+        "url": "https://open.spotify.com/album/44P5j9NbwEeTTJSCd8xOcd"
+      },
+      "artists": [
+        {
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 171676,
+      "name": "Cheers",
+      "url": "https://open.spotify.com/track/3Yog7KA5IteljJITMJZwSn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Que Se Fue",
         "url": "https://open.spotify.com/album/39VyjyZRf9Rctib71z1A0I"
       },
@@ -207,26 +227,6 @@
       "duration_ms": 267300,
       "name": "La Que Se Fue",
       "url": "https://open.spotify.com/track/1iYx0oRtpqkM6yMUll6eQY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Formula",
-        "url": "https://open.spotify.com/album/44P5j9NbwEeTTJSCd8xOcd"
-      },
-      "artists": [
-        {
-          "name": "El Rabbanito",
-          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
-        },
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 171676,
-      "name": "Cheers",
-      "url": "https://open.spotify.com/track/3Yog7KA5IteljJITMJZwSn"
     },
     {
       "added_at": null,
@@ -387,26 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DOSIS",
-        "url": "https://open.spotify.com/album/3ubgQrcjkyLeiRuTSfOR3Z"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        },
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 214403,
-      "name": "Se Me Amanece",
-      "url": "https://open.spotify.com/track/17LTvUNcDekp4pivzWQ283"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Voy A Cambiar",
         "url": "https://open.spotify.com/album/1kgLWHrvpuZuZ40DguJmbf"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 165865,
       "name": "No Voy A Cambiar",
       "url": "https://open.spotify.com/track/7mLqaJfinPdwZ9evLFaG5p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DOSIS",
+        "url": "https://open.spotify.com/album/3ubgQrcjkyLeiRuTSfOR3Z"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 214403,
+      "name": "Se Me Amanece",
+      "url": "https://open.spotify.com/track/17LTvUNcDekp4pivzWQ283"
     },
     {
       "added_at": null,
@@ -515,26 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "T\u00fa Eres X",
-        "url": "https://open.spotify.com/album/4QVOIM5apRmHWV7seReXi2"
-      },
-      "artists": [
-        {
-          "name": "Los Bohemios de Sinaloa",
-          "url": "https://open.spotify.com/artist/3x1ZLPgWf6jDKeGUifNxE7"
-        },
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 197418,
-      "name": "T\u00fa Eres X",
-      "url": "https://open.spotify.com/track/1OChsjdKyi2K486e0dTWKu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ni\u00f1o De Oro",
         "url": "https://open.spotify.com/album/2LtooHAvxsaUywYzKxfjhZ"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 177704,
       "name": "Relojito Adiamantado",
       "url": "https://open.spotify.com/track/0ECe0wvJwuLcfopJLBaEb1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "T\u00fa Eres X",
+        "url": "https://open.spotify.com/album/4QVOIM5apRmHWV7seReXi2"
+      },
+      "artists": [
+        {
+          "name": "Los Bohemios de Sinaloa",
+          "url": "https://open.spotify.com/artist/3x1ZLPgWf6jDKeGUifNxE7"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 197418,
+      "name": "T\u00fa Eres X",
+      "url": "https://open.spotify.com/track/1OChsjdKyi2K486e0dTWKu"
     },
     {
       "added_at": null,
@@ -603,6 +603,62 @@
     {
       "added_at": null,
       "album": {
+        "name": "PISTEANDO DESDE LOS ANGELES (En Vivo)",
+        "url": "https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 242928,
+      "name": "AMOR LIMOSNERO - En Vivo desde Los \u00c1ngeles",
+      "url": "https://open.spotify.com/track/2YJP21RyT4UKKocPJQJGku"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DISTORSI\u00d3N",
+        "url": "https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 178500,
+      "name": "Mexican Flan",
+      "url": "https://open.spotify.com/track/5EnoBLm3M7rN7XWQ1nfhXv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "As\u00ed Es La Vida",
+        "url": "https://open.spotify.com/album/0TWwVA2SLE68qEemMfl9NC"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 200357,
+      "name": "Pachamama",
+      "url": "https://open.spotify.com/track/7yF2xSIHaFSWTdaZWW5IPw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Habemus Conciliaci\u00f3n (En Vivo)",
         "url": "https://open.spotify.com/album/3kRHNXeqTgVaY1q5IPvOen"
       },
@@ -636,45 +692,9 @@
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 242928,
-      "name": "AMOR LIMOSNERO - En Vivo desde Los \u00c1ngeles",
-      "url": "https://open.spotify.com/track/2YJP21RyT4UKKocPJQJGku"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "As\u00ed Es La Vida",
-        "url": "https://open.spotify.com/album/0TWwVA2SLE68qEemMfl9NC"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 200357,
-      "name": "Pachamama",
-      "url": "https://open.spotify.com/track/7yF2xSIHaFSWTdaZWW5IPw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DISTORSI\u00d3N",
-        "url": "https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT"
-      },
-      "artists": [
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 178500,
-      "name": "Mexican Flan",
-      "url": "https://open.spotify.com/track/5EnoBLm3M7rN7XWQ1nfhXv"
+      "duration_ms": 158298,
+      "name": "DELANTE DE MI - En Vivo desde Los \u00c1ngeles",
+      "url": "https://open.spotify.com/track/0zCDvSDndSus3dDtcsyAoI"
     },
     {
       "added_at": null,
@@ -691,26 +711,6 @@
       "duration_ms": 184192,
       "name": "Flotando En El Aire",
       "url": "https://open.spotify.com/track/5C20Df5lKns5u5CxBrHel2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PISTEANDO DESDE LOS ANGELES (En Vivo)",
-        "url": "https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 158298,
-      "name": "DELANTE DE MI - En Vivo desde Los \u00c1ngeles",
-      "url": "https://open.spotify.com/track/0zCDvSDndSus3dDtcsyAoI"
     },
     {
       "added_at": null,

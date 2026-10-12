@@ -1,6 +1,6 @@
 {
   "description": "\uc194\ub85c\uc5ec\ub3c4 \uad1c\ucc2e\uc740 \ub098\ub97c \uc704\ud55c \ub178\ub798\ub4e4",
-  "num_followers": 21392,
+  "num_followers": 21394,
   "original_name": "I'M FINE, SOLO. AND U?",
   "owner": {
     "name": "Spotify",
@@ -779,6 +779,22 @@
     {
       "added_at": "2026-07-03 07:32:57",
       "album": {
+        "name": "Ask Bout Me",
+        "url": "https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 221693,
+      "name": "Sexy 4 Eva",
+      "url": "https://open.spotify.com/track/1RPQAYvomUz5QAim2hj6cn"
+    },
+    {
+      "added_at": "2026-07-03 07:32:57",
+      "album": {
         "name": "Mar\u00eda",
         "url": "https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 132746,
       "name": "I\u2019m bad too (Feat. DPR LIVE)",
       "url": "https://open.spotify.com/track/4JcfDrtQWE45N1X4MkcbiV"
-    },
-    {
-      "added_at": "2026-07-03 07:32:57",
-      "album": {
-        "name": "Ask Bout Me",
-        "url": "https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 221693,
-      "name": "Sexy 4 Eva",
-      "url": "https://open.spotify.com/track/1RPQAYvomUz5QAim2hj6cn"
     },
     {
       "added_at": "2026-07-03 07:32:57",

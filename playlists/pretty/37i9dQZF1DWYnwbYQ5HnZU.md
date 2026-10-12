@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnwbYQ5HnZU.md) - [plain]
 
 > Spotify country fan favorites\. Cover: Jon Pardi
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,190,014 likes - 95 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,189,848 likes - 95 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,12 +34,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnwbYQ5HnZU.md) - [plain]
 | 24 | [Things a Man Oughta Know](https://open.spotify.com/track/5QS8PNEWbqTEZyQ6e9ZbJf) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Sayin' What I'm Thinkin'](https://open.spotify.com/album/3I0SEplNpqsPfnLVZsNPif) | 3:23 |
 | 25 | [It's A Great Day To Be Alive](https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Down The Road I Go](https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB) | 4:01 |
 | 26 | [American Honey](https://open.spotify.com/track/4xInIiKipU1mtUogJ3ZdYr) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Need You Now](https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA) | 3:44 |
-| 27 | [One Of Them Girls](https://open.spotify.com/track/6uyiyatWPCqC59Mm4rO8xL) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Hey World](https://open.spotify.com/album/7zhKZcqIJkkeqrswshd15r) | 3:08 |
+| 27 | [Rumor](https://open.spotify.com/track/56eGOeSsqdg3FLxdo83TwV) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Lee Brice](https://open.spotify.com/album/3GyH4lUfzEkbxlaW5xTYYL) | 3:18 |
 | 28 | [My Church](https://open.spotify.com/track/1LM5zQv5pBKPyO7rm7Uz6U) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [HERO \(Deluxe Edition\)](https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK) | 3:17 |
 | 29 | [Die A Happy Man](https://open.spotify.com/track/5kNe7PE09d6Kvw5pAsx23n) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Tangled Up](https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy) | 3:47 |
 | 30 | [Gunpowder & Lead](https://open.spotify.com/track/3z1PqYwMtct2Dm4R9lhWnT) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Crazy Ex\-Girlfriend](https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb) | 3:11 |
 | 31 | [Drink In My Hand](https://open.spotify.com/track/1cktZnxiONH0hR6Q3DKy8h) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Chief](https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF) | 3:11 |
-| 32 | [Rumor](https://open.spotify.com/track/56eGOeSsqdg3FLxdo83TwV) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Lee Brice](https://open.spotify.com/album/3GyH4lUfzEkbxlaW5xTYYL) | 3:18 |
+| 32 | [One Of Them Girls](https://open.spotify.com/track/6uyiyatWPCqC59Mm4rO8xL) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Hey World](https://open.spotify.com/album/7zhKZcqIJkkeqrswshd15r) | 3:08 |
 | 33 | [What Was I Thinkin'](https://open.spotify.com/track/0r8iDf65NHgFgZOGLwj5r8) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Dierks Bentley](https://open.spotify.com/album/2yeODPn8igz9qQiitOZRyJ) | 4:20 |
 | 34 | [Every Little Thing](https://open.spotify.com/track/1Dm4iAvqwYrZjgSFJNW5TG) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Every Little Thing \(Big Machine Radio Release Special\)](https://open.spotify.com/album/39oSpHIfcM8sHBWh9340Aj) | 3:01 |
 | 35 | [Something Like That](https://open.spotify.com/track/6leiB1fEsTnVCuPiielde5) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [A Place In The Sun](https://open.spotify.com/album/2EkJjknrgd5DeIH2x9HLjD) | 3:03 |
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnwbYQ5HnZU.md) - [plain]
 | 60 | [If You're Going Through Hell \(Before The Devil Even Knows\)](https://open.spotify.com/track/7vSn3VNbzOtPebdj6ZSebj) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2) | [If You're Going Through Hell](https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ) | 3:36 |
 | 61 | [Follow Your Arrow](https://open.spotify.com/track/4CLPNURPcKztF9RRdcWLGP) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Same Trailer Different Park](https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6) | 3:19 |
 | 62 | [Hell Of A View](https://open.spotify.com/track/4mXGooManGPH6xAWRAtRJU) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Soul](https://open.spotify.com/album/4MRgsu0MBuBHzMhTLBgnNz) | 2:55 |
-| 63 | [I'm Comin' Over](https://open.spotify.com/track/0H04yVa3DJxoXbLBpAb7iV) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [I'm Comin' Over](https://open.spotify.com/album/7IOSachS7KZNuqRZrPcdD0) | 3:17 |
-| 64 | [She Thinks My Tractor's Sexy](https://open.spotify.com/track/3QV7NYkrmV0Q0IHdFJw9hO) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Everywhere We Go](https://open.spotify.com/album/67qNNUSHekqSliS7Q1XZj6) | 4:08 |
-| 65 | [Stay A Little Longer](https://open.spotify.com/track/23EkfwUdsRIz7jAZIcC8gb) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Pawn Shop](https://open.spotify.com/album/6BId6JLmkyr9QC81RdUWqT) | 5:35 |
+| 63 | [She Thinks My Tractor's Sexy](https://open.spotify.com/track/3QV7NYkrmV0Q0IHdFJw9hO) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Everywhere We Go](https://open.spotify.com/album/67qNNUSHekqSliS7Q1XZj6) | 4:08 |
+| 64 | [Stay A Little Longer](https://open.spotify.com/track/23EkfwUdsRIz7jAZIcC8gb) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Pawn Shop](https://open.spotify.com/album/6BId6JLmkyr9QC81RdUWqT) | 5:35 |
+| 65 | [I'm Comin' Over](https://open.spotify.com/track/0H04yVa3DJxoXbLBpAb7iV) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [I'm Comin' Over](https://open.spotify.com/album/7IOSachS7KZNuqRZrPcdD0) | 3:17 |
 | 66 | [Somewhere On A Beach](https://open.spotify.com/track/5CG9Ps5ynNjpKJHmwc95pa) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Black](https://open.spotify.com/album/2GIrLP0PWskhZAJaHQtDux) | 3:17 |
 | 67 | [The House That Built Me](https://open.spotify.com/track/02eD9ymfJOJOhM97HYp5R9) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Revolution](https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA) | 3:56 |
 | 68 | [Do I Make You Wanna](https://open.spotify.com/track/3I7krC8kr0gFR7P6vInR1I) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Summer Forever](https://open.spotify.com/album/3OkqAak6KhIQExElXif7UW) | 3:54 |

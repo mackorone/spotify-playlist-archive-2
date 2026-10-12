@@ -4,7 +4,7 @@
 
 > This is Britney Spears\. The essential tracks, all in one playlist.
 
-85 songs - 5 hr 9 min
+86 songs - 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Mood Ring \(By Demand\)](https://open.spotify.com/track/6NKjfTR7VV2oJnCeKVPNSw) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Glory \(Deluxe\)](https://open.spotify.com/album/4Dx1H8qhJ2hFkChgfZuqQV) | 3:50 | 2024-06-15 | 2024-06-16 |
 | [My Only Wish \(This Year\)](https://open.spotify.com/track/0YWUHZPJVg4iujddsJDwhM) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [My Only Wish \(This Year\)](https://open.spotify.com/album/3Hocp9QorapDRHSyZ1AOVL) | 4:15 | 2023-12-13 | 2025-04-04 |
 | [My Prerogative](https://open.spotify.com/track/2JxftzENN2rhpXxnOmtQBR) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Greatest Hits: My Prerogative](https://open.spotify.com/album/3caKTh2tJMowPiMz0cguLI) | 3:33 | 2023-07-28 |  |
-| [Ooh La La \(from "The Smurfs 2"\)](https://open.spotify.com/track/7bpvfjoneSQvW0tbtVm1Jk) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Ooh La La \(from "The Smurfs 2"\)](https://open.spotify.com/album/7qMTrZjF1sh0rujrgczf8P) | 4:17 | 2023-07-28 |  |
+| [Ooh La La \(from "The Smurfs 2"\)](https://open.spotify.com/track/7bpvfjoneSQvW0tbtVm1Jk) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Ooh La La \(from "The Smurfs 2"\)](https://open.spotify.com/album/7qMTrZjF1sh0rujrgczf8P) | 4:17 | 2023-07-28 | 2026-10-12 |
 | [Ooh Ooh Baby](https://open.spotify.com/track/68rqXl8LTdwEd2u0QMkWvi) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Blackout](https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj) | 3:28 | 2024-03-31 | 2024-07-20 |
 | [Oops!...I Did It Again](https://open.spotify.com/track/6naxalmIoLFWR0siv8dnQQ) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Oops!..\. I Did It Again](https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll) | 3:31 | 2023-07-28 |  |
 | [Outrageous](https://open.spotify.com/track/2vPCRs3g0vdLU8sHlAEytO) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [In The Zone](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) | 3:21 | 2023-07-28 |  |
@@ -76,6 +76,7 @@
 | [Scream & Shout](https://open.spotify.com/track/2iJuuzV8P9Yz0VSurttIV5) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [\#willpower](https://open.spotify.com/album/6edYDxspt9uQj21mbAfFIb) | 4:43 | 2023-07-28 |  |
 | [Selfish](https://open.spotify.com/track/2w3PyJC61SAVM7KR6tyDwF) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Femme Fatale \(Deluxe Version\)](https://open.spotify.com/album/0oFBaXLFsUVa2gEmJf4FcJ) | 3:43 | 2024-01-27 | 2024-09-22 |
 | [Shattered Glass](https://open.spotify.com/track/3sJx8qerYrs92oqVAa9S0Z) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Circus \(Deluxe Version\)](https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j) | 2:52 | 2023-12-13 | 2026-08-27 |
+| [She'll Never Be Me](https://open.spotify.com/track/3wgrOVBvLSjPujrxDjdWeV) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [She'll Never Be Me](https://open.spotify.com/album/6bJ8cNQanzgNNzKIfQMxUC) | 3:05 | 2026-10-12 |  |
 | [Showdown](https://open.spotify.com/track/0NkMVd3YtZXN5hsuSZUefO) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [In The Zone](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) | 3:16 | 2023-12-13 | 2026-08-27 |
 | [Slumber Party](https://open.spotify.com/track/5xohcwt1FZVGBzdfNRMhfp) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Glory \(Deluxe\)](https://open.spotify.com/album/4Dx1H8qhJ2hFkChgfZuqQV) | 3:34 | 2023-07-28 |  |
 | [SMS \(Bangerz\) \(feat\. Britney Spears\)](https://open.spotify.com/track/0mRWl4amZn1FtRx2cE5jf3) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Bangerz \(Deluxe Version\)](https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0) | 2:49 | 2023-07-30 | 2023-11-11 |

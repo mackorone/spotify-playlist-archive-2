@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iznkj.md) - [plain]
 
 > This is Gunna\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,729 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,790 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iznkj.md) - [plain]
 | 49 | [200 FOR LUNCH](https://open.spotify.com/track/6SpBKyfn9BnvnoQbUGPlYM) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [WUNNA \(Deluxe\)](https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq) | 2:29 |
 | 50 | [Heat \(feat\. Gunna\)](https://open.spotify.com/track/1GIYmwtBbPSHrqcSaukZck) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Indigo](https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV) | 3:52 |
 
-Snapshot ID: `asgugAAAAABPGeDbGfdcRYkaauW90MUq`
+Snapshot ID: `asmAAAAAAAA9Bx13RYzCXHxAHAVVWd4u`

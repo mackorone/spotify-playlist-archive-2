@@ -1,6 +1,6 @@
 {
   "description": "where future beats meet timeless soul.\n",
-  "num_followers": 377980,
+  "num_followers": 378001,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -727,6 +727,30 @@
     {
       "added_at": "2026-09-03 23:00:36",
       "album": {
+        "name": "Salve",
+        "url": "https://open.spotify.com/album/6yNKAnJYX9v5joiP25hhw8"
+      },
+      "artists": [
+        {
+          "name": "dublon",
+          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
+        },
+        {
+          "name": "TABLE",
+          "url": "https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy"
+        },
+        {
+          "name": "Deza",
+          "url": "https://open.spotify.com/artist/2HoaVzOMwwXNauX5cjdXwg"
+        }
+      ],
+      "duration_ms": 193032,
+      "name": "Salve",
+      "url": "https://open.spotify.com/track/68N8LWiI28QpOe80WQ96b1"
+    },
+    {
+      "added_at": "2026-09-03 23:00:36",
+      "album": {
         "name": "Risk It All (feat. Maverick Sabre)",
         "url": "https://open.spotify.com/album/1CjMIMDADSu9lKwYtHfCrc"
       },
@@ -767,30 +791,6 @@
     {
       "added_at": "2026-09-03 23:00:36",
       "album": {
-        "name": "Salve",
-        "url": "https://open.spotify.com/album/6yNKAnJYX9v5joiP25hhw8"
-      },
-      "artists": [
-        {
-          "name": "dublon",
-          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
-        },
-        {
-          "name": "TABLE",
-          "url": "https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy"
-        },
-        {
-          "name": "Deza",
-          "url": "https://open.spotify.com/artist/2HoaVzOMwwXNauX5cjdXwg"
-        }
-      ],
-      "duration_ms": 193032,
-      "name": "Salve",
-      "url": "https://open.spotify.com/track/68N8LWiI28QpOe80WQ96b1"
-    },
-    {
-      "added_at": "2026-09-03 23:00:36",
-      "album": {
         "name": "Hypnotised",
         "url": "https://open.spotify.com/album/1KeOKmz86ujYQKPcmVO8SO"
       },
@@ -823,6 +823,26 @@
       "duration_ms": 161068,
       "name": "Orpheus",
       "url": "https://open.spotify.com/track/6IN34fpoCdMi8fovTdjQfJ"
+    },
+    {
+      "added_at": "2026-09-03 23:00:36",
+      "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/5UcjmnionWq0WqmpxXmfjD"
+      },
+      "artists": [
+        {
+          "name": "dublon",
+          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
+        },
+        {
+          "name": "Con Cook",
+          "url": "https://open.spotify.com/artist/6akmHflFVzgeDWJtP98n7v"
+        }
+      ],
+      "duration_ms": 125084,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/13LojN5HDhICPdgLz6QmIG"
     },
     {
       "added_at": "2026-09-03 23:00:36",
@@ -863,26 +883,6 @@
       "duration_ms": 189651,
       "name": "Piece Of Me",
       "url": "https://open.spotify.com/track/65EwgM3cxN9aPUDKopCFif"
-    },
-    {
-      "added_at": "2026-09-03 23:00:36",
-      "album": {
-        "name": "Deja Vu",
-        "url": "https://open.spotify.com/album/5UcjmnionWq0WqmpxXmfjD"
-      },
-      "artists": [
-        {
-          "name": "dublon",
-          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
-        },
-        {
-          "name": "Con Cook",
-          "url": "https://open.spotify.com/artist/6akmHflFVzgeDWJtP98n7v"
-        }
-      ],
-      "duration_ms": 125084,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/13LojN5HDhICPdgLz6QmIG"
     },
     {
       "added_at": "2026-09-03 23:00:36",
@@ -951,6 +951,30 @@
     {
       "added_at": "2026-09-03 23:00:36",
       "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/1IMVxyvpjNg5hWCv7DU8KX"
+      },
+      "artists": [
+        {
+          "name": "Kadeem Tyrell",
+          "url": "https://open.spotify.com/artist/5EpRGVPs8i7MKQSCxLLauh"
+        },
+        {
+          "name": "p-rallel",
+          "url": "https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD"
+        },
+        {
+          "name": "Wilfy D",
+          "url": "https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR"
+        }
+      ],
+      "duration_ms": 186500,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/1YXp3qxCTdW2sw7xKjeGvG"
+    },
+    {
+      "added_at": "2026-09-03 23:00:36",
+      "album": {
         "name": "All This Love",
         "url": "https://open.spotify.com/album/353L5BWNL1PQaHeF6gTkBb"
       },
@@ -975,30 +999,6 @@
       "duration_ms": 233196,
       "name": "All This Love",
       "url": "https://open.spotify.com/track/6Pq4GUlLHeEvtxDE7QJLPE"
-    },
-    {
-      "added_at": "2026-09-03 23:00:36",
-      "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/1IMVxyvpjNg5hWCv7DU8KX"
-      },
-      "artists": [
-        {
-          "name": "Kadeem Tyrell",
-          "url": "https://open.spotify.com/artist/5EpRGVPs8i7MKQSCxLLauh"
-        },
-        {
-          "name": "p-rallel",
-          "url": "https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD"
-        },
-        {
-          "name": "Wilfy D",
-          "url": "https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR"
-        }
-      ],
-      "duration_ms": 186500,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/1YXp3qxCTdW2sw7xKjeGvG"
     },
     {
       "added_at": "2026-09-03 23:00:36",
@@ -1263,6 +1263,30 @@
     {
       "added_at": "2026-09-03 23:00:36",
       "album": {
+        "name": "Sounds of My World",
+        "url": "https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        },
+        {
+          "name": "George The Poet",
+          "url": "https://open.spotify.com/artist/7v8N36cC4msGrIM2YT4LNC"
+        }
+      ],
+      "duration_ms": 287037,
+      "name": "Summer In The Ends",
+      "url": "https://open.spotify.com/track/3ttIBQv2qjIWXbHeoCnoVm"
+    },
+    {
+      "added_at": "2026-09-03 23:00:36",
+      "album": {
         "name": "Tom\u00e1s",
         "url": "https://open.spotify.com/album/19BB8M6tNxHMOUWKbxBL0c"
       },
@@ -1303,30 +1327,6 @@
       "duration_ms": 212922,
       "name": "Fantasy (feat. Franc Moody)",
       "url": "https://open.spotify.com/track/6AVAhgUJ3nnDzO2l9oJnpQ"
-    },
-    {
-      "added_at": "2026-09-03 23:00:36",
-      "album": {
-        "name": "Sounds of My World",
-        "url": "https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH"
-      },
-      "artists": [
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        },
-        {
-          "name": "Jaz Karis",
-          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
-        },
-        {
-          "name": "George The Poet",
-          "url": "https://open.spotify.com/artist/7v8N36cC4msGrIM2YT4LNC"
-        }
-      ],
-      "duration_ms": 287037,
-      "name": "Summer In The Ends",
-      "url": "https://open.spotify.com/track/3ttIBQv2qjIWXbHeoCnoVm"
     },
     {
       "added_at": "2026-09-03 23:00:36",
@@ -1391,22 +1391,18 @@
     {
       "added_at": "2026-09-03 23:00:36",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/0pAeOztdTpCdExPMEbziSn"
+        "name": "Ching",
+        "url": "https://open.spotify.com/album/3yi0ROeSX8rwuWMkH9tkGa"
       },
       "artists": [
         {
-          "name": "Coco & Breezy",
-          "url": "https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG"
-        },
-        {
-          "name": "Hadiya George",
-          "url": "https://open.spotify.com/artist/1KbGFGECxJ5p23kuYlJ6l9"
+          "name": "GEE LEE",
+          "url": "https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5"
         }
       ],
-      "duration_ms": 195716,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/3y724rQBroUUOfibQcqLnC"
+      "duration_ms": 118604,
+      "name": "Ching",
+      "url": "https://open.spotify.com/track/2R3HS8kEKMtYpoXxwuqHlK"
     }
   ],
   "unique_name": "Soultronic",

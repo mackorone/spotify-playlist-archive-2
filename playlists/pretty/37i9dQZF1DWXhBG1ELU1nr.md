@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhBG1ELU1nr.md) - [plain]
 
 > Uma seleção de hits pra te acompanhar no home office.
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,318 likes - 100 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,304 likes - 100 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhBG1ELU1nr.md) - [plain]
 | 4 | [Everybody Wants To Rule The World](https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair \(Super Deluxe Edition\)](https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W) | 4:11 |
 | 5 | [Black](https://open.spotify.com/track/5Xak5fmy089t0FYmh3VJiY) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) | 5:42 |
 | 6 | [Sweet Home Alabama](https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Second Helping \(Expanded Edition\)](https://open.spotify.com/album/54V1ljNtyzAm053oJqi0SH) | 4:43 |
-| 7 | [Like a Stone](https://open.spotify.com/track/3YuaBvuZqcwN3CEAyyoaei) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Audioslave](https://open.spotify.com/album/78guAsers0klWl6RwzgDLd) | 4:53 |
-| 8 | [It Ain't Over 'Til It's Over](https://open.spotify.com/track/6VnpKLtfNH4Dk09YSGPSyR) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Mama Said](https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks) | 4:02 |
+| 7 | [It Ain't Over 'Til It's Over](https://open.spotify.com/track/6VnpKLtfNH4Dk09YSGPSyR) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Mama Said](https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks) | 4:02 |
+| 8 | [Like a Stone](https://open.spotify.com/track/3YuaBvuZqcwN3CEAyyoaei) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Audioslave](https://open.spotify.com/album/78guAsers0klWl6RwzgDLd) | 4:53 |
 | 9 | [Stairway to Heaven \- Remaster](https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Deluxe Edition\)](https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK) | 8:02 |
 | 10 | [1979 \- Remastered 2012](https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 4:26 |
 | 11 | [Ordinary World](https://open.spotify.com/track/0wokCRaKD0zPNhMRXAgVsr) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Duran Duran](https://open.spotify.com/album/0PqCkTvKFJxzr9uujq7a3T) | 5:40 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhBG1ELU1nr.md) - [plain]
 | 75 | [Purple Rain](https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 8:40 |
 | 76 | [The Reason](https://open.spotify.com/track/77loZpT5Y5PRP1S451P9Yz) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason \(15th Anniversary Deluxe\)](https://open.spotify.com/album/2zE1YKY7Okj10Tjl09jjth) | 3:52 |
 | 77 | [Nothing Else Matters](https://open.spotify.com/track/3ZFwuJwUpIl0GeXsvF1ELf) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/37lWyRxkf3wQHCOlXM5WfX) | 6:28 |
-| 78 | [Cryin'](https://open.spotify.com/track/0NJC0FDCODpPUntRTTQq97) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip](https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79) | 5:08 |
-| 79 | [Every Breath You Take \- Remastered 2003](https://open.spotify.com/track/5C0LFQARavkPpn7JgA4sLk) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered\)](https://open.spotify.com/album/28eOriEfl7IGbQDNvWIWXK) | 4:13 |
+| 78 | [Every Breath You Take \- Remastered 2003](https://open.spotify.com/track/5C0LFQARavkPpn7JgA4sLk) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered\)](https://open.spotify.com/album/28eOriEfl7IGbQDNvWIWXK) | 4:13 |
+| 79 | [Cryin'](https://open.spotify.com/track/0NJC0FDCODpPUntRTTQq97) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip](https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79) | 5:08 |
 | 80 | [Losing My Religion](https://open.spotify.com/track/74EV0g12ihUoOUXMprFpZB) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Out Of Time \(U.S\. Version\)](https://open.spotify.com/album/4v5hSLj6ClyLqj2nnaPbfD) | 4:27 |
 | 81 | [I Remember You](https://open.spotify.com/track/4ZpXHlV2vQVfPXUvbDSZ92) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Skid Row](https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi) | 5:13 |
 | 82 | [Listen To Your Heart](https://open.spotify.com/track/78TnMTAFmWUWWCgNXR7D3K) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Look Sharp! \(2009 Version\)](https://open.spotify.com/album/1iI5YZkqNUV7VmrEi4uOP9) | 5:28 |

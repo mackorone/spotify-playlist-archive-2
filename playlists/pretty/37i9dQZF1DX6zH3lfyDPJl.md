@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6zH3lfyDPJl.md) - [plain]
 
 > 센치한 감정을 노래하는 감성적인 곡들과 함께 물 멍에 잠겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,850 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,867 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6zH3lfyDPJl.md) - [plain]
 | 14 | [THE LONELIEST](https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [THE LONELIEST](https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc) | 4:07 |
 | 15 | [Never Not](https://open.spotify.com/track/1MaQMMOR80DNUWVBM7L9fz) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/2iIqqSVeH04ytD0DIWrrA6) | 3:28 |
 | 16 | [0+0](https://open.spotify.com/track/3sOAwRg5esaxDcWnUigWPv) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [JAMONG SALGU CLUB](https://open.spotify.com/album/2DV7iVJ7L5DRQijgjyqLyQ) | 3:12 |
-| 17 | [Break My Heart Again](https://open.spotify.com/track/7zw6nQHTwml1mVuQDf5V6k) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony \(Deluxe\)](https://open.spotify.com/album/52Kcim8psSCfCJN2kktKDj) | 3:57 |
-| 18 | [Forever Has Always Been](https://open.spotify.com/track/3tbHqU6PKS2bIGWx9cn082) | [Redoor](https://open.spotify.com/artist/5xhi1KB7WkPiTYb5Fm3YvS) | [Forever Has Always Been](https://open.spotify.com/album/4zbGo5oU2rocTxouxbt6Df) | 3:57 |
+| 17 | [Forever Has Always Been](https://open.spotify.com/track/3tbHqU6PKS2bIGWx9cn082) | [Redoor](https://open.spotify.com/artist/5xhi1KB7WkPiTYb5Fm3YvS) | [Forever Has Always Been](https://open.spotify.com/album/4zbGo5oU2rocTxouxbt6Df) | 3:57 |
+| 18 | [Break My Heart Again](https://open.spotify.com/track/7zw6nQHTwml1mVuQDf5V6k) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony \(Deluxe\)](https://open.spotify.com/album/52Kcim8psSCfCJN2kktKDj) | 3:57 |
 | 19 | [Backslide](https://open.spotify.com/track/6fNaHkjAxP6rI2sZhT7QJn) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Clancy](https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI) | 3:00 |
 | 20 | [The Most Beautiful Thing](https://open.spotify.com/track/07koEqsKHZTlGVMC9eoEjO) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz) | 3:55 |
 | 21 | [Alonica](https://open.spotify.com/track/25wNGoRO6hViX3AIPPFjpo) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [a beautiful blur](https://open.spotify.com/album/5w3zZsY4gg9M0L599NNmV2) | 3:58 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6zH3lfyDPJl.md) - [plain]
 | 47 | [Blue rain](https://open.spotify.com/track/3R56jKicl9gSzdJxcr4wrd) | [Redoor](https://open.spotify.com/artist/5xhi1KB7WkPiTYb5Fm3YvS) | [My blue wavy room](https://open.spotify.com/album/7BVdZTMTaqFoXbXXlg1DLr) | 3:49 |
 | 48 | [Ride](https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Ride](https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs) | 3:01 |
 | 49 | [Superstar](https://open.spotify.com/track/2H28TK2PMVBeRZKelRJewg) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Love Hate Music Box](https://open.spotify.com/album/2bOwdC37gg057sITTY8Ovj) | 3:13 |
-| 50 | [You Keep Me Here](https://open.spotify.com/track/2a686rjbxnMQPFgXjhBxXM) | [hrtz.wav](https://open.spotify.com/artist/4xCz4boMkoSCzVWULUNeVg) | [Perfect Crown OST Part.8](https://open.spotify.com/album/4SrWORwSxnQDx7g6luKMt9) | 3:44 |
+| 50 | [Euphoria](https://open.spotify.com/track/1g8wBEgEYyyi8jz7ASQovq) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [To Dry a Tear](https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id) | 3:29 |
 
 Snapshot ID: `AAAAABCxL9GOrl34hbJu6n0d7Ce+QXQg`

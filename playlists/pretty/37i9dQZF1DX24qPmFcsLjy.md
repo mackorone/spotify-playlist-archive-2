@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24qPmFcsLjy.md) - [plain]
 
 > Allerbeste songs van de 80's! Cover: U2
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,954 likes - 100 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,975 likes - 100 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24qPmFcsLjy.md) - [plain]
 | 4 | [I Wanna Dance with Somebody \(Who Loves Me\)](https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney](https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t) | 4:52 |
 | 5 | [Everybody Wants To Rule The World](https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair \(Super Deluxe Edition\)](https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W) | 4:11 |
 | 6 | [Uptown Girl](https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [An Innocent Man](https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc) | 3:18 |
-| 7 | [9 to 5](https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [9 To 5 And Odd Jobs](https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd) | 2:46 |
-| 8 | [Don't Dream It's Over](https://open.spotify.com/track/7G7tgVYORlDuVprcYHuFJh) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [Crowded House](https://open.spotify.com/album/1dJpgn1rqvvr4yyNYLEYBG) | 3:56 |
+| 7 | [Don't Dream It's Over](https://open.spotify.com/track/7G7tgVYORlDuVprcYHuFJh) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [Crowded House](https://open.spotify.com/album/1dJpgn1rqvvr4yyNYLEYBG) | 3:56 |
+| 8 | [9 to 5](https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [9 To 5 And Odd Jobs](https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd) | 2:46 |
 | 9 | [Summer Of '69](https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL) | 3:36 |
 | 10 | [Dancing In the Dark](https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:05 |
 | 11 | [Fast Car](https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 4:56 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24qPmFcsLjy.md) - [plain]
 | 73 | [Annabel](https://open.spotify.com/track/41Wklq87430ovCkiHchbN2) | [Hans De Booij](https://open.spotify.com/artist/7cdRThov7spzODFHbygauO) | [Annabel En Andere Grote Hits](https://open.spotify.com/album/5x0sWY505mKv9as3L2Caqf) | 3:32 |
 | 74 | [Vriendschap](https://open.spotify.com/track/13mvLR1T0GesAY3jhM9lAw) | [Het Goede Doel](https://open.spotify.com/artist/73G7RMWMbWUGc8tkXeQoJQ) | [Belgie](https://open.spotify.com/album/3FhvAa1JUA71NTX6AJBfpc) | 4:07 |
 | 75 | [Suzanne](https://open.spotify.com/track/3MrtadqfvO2VrIfiCCBVo6) | [V.O.F\. De Kunst](https://open.spotify.com/artist/3iAS2g4qFW5aHDv4fOtXGl) | [Monsterhits](https://open.spotify.com/album/5qmW8BY18VtDOBhYDSFwY5) | 4:45 |
-| 76 | [Radio Ga Ga \- Remastered 2011](https://open.spotify.com/track/1nQRg9q9uwALGzouOX5OyQ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works \(2011 Remaster\)](https://open.spotify.com/album/5RS9xkMuDmeVISqGDBmnSa) | 5:48 |
-| 77 | [I Knew You Were Waiting \(For Me\)](https://open.spotify.com/track/58lTbZKr7XkkR4zEpoLhYH) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo), [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha \(Expanded Edition\)](https://open.spotify.com/album/0U59W3AMVxEVDzHrEe8UFW) | 4:01 |
+| 76 | [I Knew You Were Waiting \(For Me\)](https://open.spotify.com/track/58lTbZKr7XkkR4zEpoLhYH) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo), [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha \(Expanded Edition\)](https://open.spotify.com/album/0U59W3AMVxEVDzHrEe8UFW) | 4:01 |
+| 77 | [Radio Ga Ga \- Remastered 2011](https://open.spotify.com/track/1nQRg9q9uwALGzouOX5OyQ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works \(2011 Remaster\)](https://open.spotify.com/album/5RS9xkMuDmeVISqGDBmnSa) | 5:48 |
 | 78 | [It's The First Time \- Bonus Track](https://open.spotify.com/track/654dt49Xo0k44VF0xUhypy) | [Loïs Lane](https://open.spotify.com/artist/6XtqgoAYl2mXQhn9ZmDEdt) | [Fortune Fairytales](https://open.spotify.com/album/0zruE1rfLXfU4MG2SSWrZn) | 3:58 |
 | 79 | [Doris Day](https://open.spotify.com/track/2ePX2r2elB35PhEE0jCQUb) | [Doe Maar](https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE) | [Doe Maar \- De Singles \(Het Complete Singles Overzicht\)](https://open.spotify.com/album/5dEuc3PFwHlw3OR2IwCX4S) | 3:48 |
 | 80 | [I'm Specialized in You](https://open.spotify.com/track/2ZFePG6kPGYaKXj3aMzbXV) | [Time Bandits](https://open.spotify.com/artist/23DeFeMRFRhnfMfawvqFne) | [Greatest Hits](https://open.spotify.com/album/5KqK05b9TO7a5rmDnKX2da) | 3:51 |

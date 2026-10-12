@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Aina Abdul, Troye Sivan, Slayyyter, 蔡恩雨 Priscilla Abby, Ara Johari, Dalia Farhana, mimpi\. and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,160 likes - 102 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,147 likes - 102 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

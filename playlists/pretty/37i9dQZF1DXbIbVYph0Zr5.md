@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIbVYph0Zr5.md) - [plain]
 
 > The perfect soundtrack recipe for a backyard barbecue!
 
-[Spotify](https://open.spotify.com/user/spotify) - 808,792 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 808,867 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIbVYph0Zr5.md) - [plain]
 | 41 | [Move On](https://open.spotify.com/track/2jo7RsXd2f4TCA7N3mbMZC) | [Kevin Powers](https://open.spotify.com/artist/4X8TR9pBFyewFlIDYt1o2s), [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Move On](https://open.spotify.com/album/46kMFHuPM7lebSmP47lGfA) | 3:11 |
 | 42 | [She Had Me At Heads Carolina](https://open.spotify.com/track/200x8ONbPfFzByUr3fVz46) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Stereotype](https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa) | 3:26 |
 | 43 | [It's A Great Day To Be Alive](https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Down The Road I Go](https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB) | 4:01 |
-| 44 | [One Of Them Girls](https://open.spotify.com/track/6uyiyatWPCqC59Mm4rO8xL) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Hey World](https://open.spotify.com/album/7zhKZcqIJkkeqrswshd15r) | 3:08 |
+| 44 | [Rumor](https://open.spotify.com/track/56eGOeSsqdg3FLxdo83TwV) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Lee Brice](https://open.spotify.com/album/3GyH4lUfzEkbxlaW5xTYYL) | 3:18 |
 | 45 | [Not At This Party](https://open.spotify.com/track/2V45ERWv9xrvV7Udm0a8di) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Not At This Party](https://open.spotify.com/album/3HeSxkLXlUx9ugabrCXa4t) | 3:32 |
 | 46 | [Die A Happy Man](https://open.spotify.com/track/5kNe7PE09d6Kvw5pAsx23n) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Tangled Up](https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy) | 3:47 |
 | 47 | [Sleepless in a Hotel Room](https://open.spotify.com/track/2za9t2qpWyUpIhnJcwopPt) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Sleepless in a Hotel Room](https://open.spotify.com/album/4svTVbjxKUxzSUBI0HYvds) | 2:57 |
 | 48 | [Dixieland Delight](https://open.spotify.com/track/0bM1z18RQpr61UuI1LemIK) | [Alabama](https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC) | [The Closer You Get...](https://open.spotify.com/album/0eMs6LyA1bTZm8Mx8FPshM) | 5:25 |
-| 49 | [Rumor](https://open.spotify.com/track/56eGOeSsqdg3FLxdo83TwV) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Lee Brice](https://open.spotify.com/album/3GyH4lUfzEkbxlaW5xTYYL) | 3:18 |
+| 49 | [One Of Them Girls](https://open.spotify.com/track/6uyiyatWPCqC59Mm4rO8xL) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Hey World](https://open.spotify.com/album/7zhKZcqIJkkeqrswshd15r) | 3:08 |
 | 50 | [Family Tradition](https://open.spotify.com/track/73ZTWCuwudUVvvWipRnQnQ) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Family Tradition](https://open.spotify.com/album/3nJf4jGn7mru28s5ZUVIx4) | 4:02 |
 | 51 | [Drink In My Hand](https://open.spotify.com/track/1cktZnxiONH0hR6Q3DKy8h) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Chief](https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF) | 3:11 |
 | 52 | [Write This Down](https://open.spotify.com/track/1TanmIWbaUj5NVwJ3k4XPd) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Always Never The Same](https://open.spotify.com/album/2Kudx2lMsMx3svYdb2xe2F) | 3:39 |
@@ -68,10 +68,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIbVYph0Zr5.md) - [plain]
 | 58 | [This Is How We Roll](https://open.spotify.com/track/2TR7A4ulH9R1PNwMyd8o8U) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Here's To The Good Times...This Is How We Roll](https://open.spotify.com/album/0uqAyKT7oMZDFMyteJOJWI) | 3:40 |
 | 59 | [The Good Ones](https://open.spotify.com/track/3hLuHKzG1cmlRpq53ZVWd8) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:35 |
 | 60 | [Loving Life Again](https://open.spotify.com/track/0n09hxqzKFxW1MBxIjctny) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Loving Life Again](https://open.spotify.com/album/2QMHxhhWF1hicphwlSAtJC) | 3:46 |
-| 61 | [Margaritaville](https://open.spotify.com/track/4EEjMyQub6tgFVshlM9j1M) | [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [Changes In Latitudes, Changes In Attitudes](https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD) | 4:10 |
-| 62 | [Little Bitty](https://open.spotify.com/track/2IY559smG7SXYk229NA2Vl) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Everything I Love](https://open.spotify.com/album/4kZm2gtXOwFsXXQZZaYEhW) | 2:38 |
-| 63 | [Alright](https://open.spotify.com/track/5JlH51YDYsGj2dyEJKKjcN) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Learn To Live](https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK) | 3:51 |
-| 64 | [Copperhead Road](https://open.spotify.com/track/0VU5k3vCrpqDgUygMjiFYj) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Copperhead Road](https://open.spotify.com/album/6IjDVtuYfRW1KjqQy2UzPJ) | 4:29 |
+| 61 | [Little Bitty](https://open.spotify.com/track/2IY559smG7SXYk229NA2Vl) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Everything I Love](https://open.spotify.com/album/4kZm2gtXOwFsXXQZZaYEhW) | 2:38 |
+| 62 | [Margaritaville](https://open.spotify.com/track/4EEjMyQub6tgFVshlM9j1M) | [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [Changes In Latitudes, Changes In Attitudes](https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD) | 4:10 |
+| 63 | [Copperhead Road](https://open.spotify.com/track/0VU5k3vCrpqDgUygMjiFYj) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Copperhead Road](https://open.spotify.com/album/6IjDVtuYfRW1KjqQy2UzPJ) | 4:29 |
+| 64 | [Alright](https://open.spotify.com/track/5JlH51YDYsGj2dyEJKKjcN) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Learn To Live](https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK) | 3:51 |
 | 65 | [Darlin'](https://open.spotify.com/track/727x6SZXGF0LfU2vi3rjaH) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [We All Grow Up](https://open.spotify.com/album/1XXkk3jAPfmW5jyRbRON7x) | 2:45 |
 | 66 | [Woman](https://open.spotify.com/track/7lJv6f6HBpUoLBnM0RxuKB) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Woman](https://open.spotify.com/album/2thPfbnjMxEs3RwK1LRL2C) | 2:46 |
 | 67 | [Meant to Be \(feat\. Florida Georgia Line\)](https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [All Your Fault: Pt\. 2](https://open.spotify.com/album/6t5D6LEgHxqUVOxJItkzfb) | 2:43 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIbVYph0Zr5.md) - [plain]
 | 74 | [Check Yes Or No](https://open.spotify.com/track/6iy4PoAuZBMvtrlDX4VxC7) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Strait Out Of The Box](https://open.spotify.com/album/2j7URVIN8GPGqzb8xi2hYW) | 3:20 |
 | 75 | [House Party](https://open.spotify.com/track/1TwLKNsCnhi1HxbIi4bAW0) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Montevallo](https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E) | 3:10 |
 | 76 | [Good Time](https://open.spotify.com/track/6lyKOW0FNW6aAZdKVgoM8m) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Good Time](https://open.spotify.com/album/3HfbZ0TmLbCesnG7tjf6Lh) | 5:06 |
-| 77 | [Good News](https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Good News](https://open.spotify.com/album/7cBvtedB1E62VoOdnGx51w) | 3:19 |
-| 78 | [Boondocks](https://open.spotify.com/track/3duP6mBVDsHM8ioN7o7dAK) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Road To Here](https://open.spotify.com/album/54vjTimZqQsDgXYVJFDJqm) | 4:32 |
+| 77 | [Boondocks](https://open.spotify.com/track/3duP6mBVDsHM8ioN7o7dAK) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Road To Here](https://open.spotify.com/album/54vjTimZqQsDgXYVJFDJqm) | 4:32 |
+| 78 | [Good News](https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Good News](https://open.spotify.com/album/7cBvtedB1E62VoOdnGx51w) | 3:19 |
 | 79 | [Heaven](https://open.spotify.com/track/1HXy5I3HTWq8OvxCn0z7G7) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Kane Brown \(Deluxe Edition\)](https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp) | 2:57 |
 | 80 | [Outskirts](https://open.spotify.com/track/2E0bqoMlIb2xmFyZHRjtzK) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Outskirts](https://open.spotify.com/album/6neohHPB8tUq8yVM7sacBh) | 3:02 |
 | 81 | [Get Along](https://open.spotify.com/track/6n6OQfBpCgzF9oEg8zhBN7) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Songs for the Saints](https://open.spotify.com/album/77spqXa3VNN0mw13PgWWyY) | 3:19 |

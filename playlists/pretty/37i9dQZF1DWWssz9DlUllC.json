@@ -1,6 +1,6 @@
 {
   "description": "Where afrobeats meets amapiano.\nCover:  NO11",
-  "num_followers": 101012,
+  "num_followers": 101238,
   "original_name": "afro-piano",
   "owner": {
     "name": "Spotify",
@@ -103,22 +103,6 @@
     {
       "added_at": "2026-10-09 00:01:55",
       "album": {
-        "name": "ON MY BIRTHDAY",
-        "url": "https://open.spotify.com/album/2VPFXrVDrzxxcLaIP2Gpvf"
-      },
-      "artists": [
-        {
-          "name": "Famous Pluto",
-          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
-        }
-      ],
-      "duration_ms": 167433,
-      "name": "Tap Am",
-      "url": "https://open.spotify.com/track/547Gs3aRtCBJFW7SdPD33x"
-    },
-    {
-      "added_at": "2026-10-09 00:01:55",
-      "album": {
         "name": "SOUTH GIDI",
         "url": "https://open.spotify.com/album/5hgdQMsPGxPnhZrAMi1IUQ"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 375535,
       "name": "MONEY CONSTANT",
       "url": "https://open.spotify.com/track/12jMMRyPNMTNp3CRmdWMve"
+    },
+    {
+      "added_at": "2026-10-09 00:01:55",
+      "album": {
+        "name": "ON MY BIRTHDAY",
+        "url": "https://open.spotify.com/album/2VPFXrVDrzxxcLaIP2Gpvf"
+      },
+      "artists": [
+        {
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        }
+      ],
+      "duration_ms": 167433,
+      "name": "Tap Am",
+      "url": "https://open.spotify.com/track/547Gs3aRtCBJFW7SdPD33x"
     },
     {
       "added_at": "2026-10-09 00:01:55",
@@ -931,6 +931,22 @@
     {
       "added_at": "2026-10-09 00:01:55",
       "album": {
+        "name": "Wahala Pikin",
+        "url": "https://open.spotify.com/album/3DVSsOwiOvKGN6t639kjy4"
+      },
+      "artists": [
+        {
+          "name": "Zhus Jdo",
+          "url": "https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv"
+        }
+      ],
+      "duration_ms": 118801,
+      "name": "Opium Amapiano",
+      "url": "https://open.spotify.com/track/7oocZnr0yjZxJfRkbOHkYv"
+    },
+    {
+      "added_at": "2026-10-09 00:01:55",
+      "album": {
         "name": "Fi Kan We Kan",
         "url": "https://open.spotify.com/album/6EKtDHfQtcqhwIPoZr7jTp"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 159339,
       "name": "Fi Kan We Kan",
       "url": "https://open.spotify.com/track/771KDfpsOtJPQmocQpMdkR"
-    },
-    {
-      "added_at": "2026-10-09 00:01:55",
-      "album": {
-        "name": "Wahala Pikin",
-        "url": "https://open.spotify.com/album/3DVSsOwiOvKGN6t639kjy4"
-      },
-      "artists": [
-        {
-          "name": "Zhus Jdo",
-          "url": "https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv"
-        }
-      ],
-      "duration_ms": 118801,
-      "name": "Opium Amapiano",
-      "url": "https://open.spotify.com/track/7oocZnr0yjZxJfRkbOHkYv"
     },
     {
       "added_at": "2026-10-09 00:01:55",
@@ -1051,26 +1051,6 @@
     {
       "added_at": "2026-10-09 00:01:55",
       "album": {
-        "name": "Jembe / 14DRoad",
-        "url": "https://open.spotify.com/album/6GQm5kwFN5tyyZroeexRew"
-      },
-      "artists": [
-        {
-          "name": "Famous Pluto",
-          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
-        },
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        }
-      ],
-      "duration_ms": 138208,
-      "name": "Jembe",
-      "url": "https://open.spotify.com/track/5c208bYsRosPrQkSchuNFE"
-    },
-    {
-      "added_at": "2026-10-09 00:01:55",
-      "album": {
         "name": "Dangbana Riddim",
         "url": "https://open.spotify.com/album/0xDIG4BwF9QgxdKVNwee9D"
       },
@@ -1087,6 +1067,26 @@
       "duration_ms": 160587,
       "name": "Dangbana Riddim",
       "url": "https://open.spotify.com/track/07eJSSPcNlkR34wVlkrCcY"
+    },
+    {
+      "added_at": "2026-10-09 00:01:55",
+      "album": {
+        "name": "Jembe / 14DRoad",
+        "url": "https://open.spotify.com/album/6GQm5kwFN5tyyZroeexRew"
+      },
+      "artists": [
+        {
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        },
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "duration_ms": 138208,
+      "name": "Jembe",
+      "url": "https://open.spotify.com/track/5c208bYsRosPrQkSchuNFE"
     },
     {
       "added_at": "2026-10-09 00:01:55",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2026-10-09 00:01:55",
       "album": {
+        "name": "MAMACITA",
+        "url": "https://open.spotify.com/album/0LV2GpXvsqTmyCPP0jm2wR"
+      },
+      "artists": [
+        {
+          "name": "SSSoundGawd",
+          "url": "https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw"
+        }
+      ],
+      "duration_ms": 177857,
+      "name": "MAMACITA",
+      "url": "https://open.spotify.com/track/5H2emdTxGl0iBPPwY78XSm"
+    },
+    {
+      "added_at": "2026-10-09 00:01:55",
+      "album": {
         "name": "The Wellness Package",
         "url": "https://open.spotify.com/album/1kEUq0Waq0I4HaFtNJISiV"
       },
@@ -1451,18 +1467,18 @@
     {
       "added_at": "2026-10-09 00:01:55",
       "album": {
-        "name": "MAMACITA",
-        "url": "https://open.spotify.com/album/0LV2GpXvsqTmyCPP0jm2wR"
+        "name": "For You",
+        "url": "https://open.spotify.com/album/5gu7XDn325yHFlVxAGZJlP"
       },
       "artists": [
         {
-          "name": "SSSoundGawd",
-          "url": "https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw"
+          "name": "BoyPee",
+          "url": "https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh"
         }
       ],
-      "duration_ms": 177857,
-      "name": "MAMACITA",
-      "url": "https://open.spotify.com/track/5H2emdTxGl0iBPPwY78XSm"
+      "duration_ms": 166858,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/0Cn0RxpysoQYWvjHmoR1Px"
     },
     {
       "added_at": "2026-10-09 00:01:55",
@@ -1479,22 +1495,6 @@
       "duration_ms": 174857,
       "name": "eko",
       "url": "https://open.spotify.com/track/3UjlL5RS2cd3p7CT8kvfuq"
-    },
-    {
-      "added_at": "2026-10-09 00:01:55",
-      "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/5gu7XDn325yHFlVxAGZJlP"
-      },
-      "artists": [
-        {
-          "name": "BoyPee",
-          "url": "https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh"
-        }
-      ],
-      "duration_ms": 166858,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/0Cn0RxpysoQYWvjHmoR1Px"
     },
     {
       "added_at": "2026-10-09 00:01:55",
@@ -1519,6 +1519,26 @@
     {
       "added_at": "2026-10-09 00:01:55",
       "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/5CLCO0SqSGlVqtMhFfu1ui"
+      },
+      "artists": [
+        {
+          "name": "Khid Ceejay",
+          "url": "https://open.spotify.com/artist/36t7TPKT0j5ZHpFNfx1mk9"
+        },
+        {
+          "name": "Ema Onigah",
+          "url": "https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD"
+        }
+      ],
+      "duration_ms": 141818,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/6Ac0KghKbblpZnAcG9NbK0"
+    },
+    {
+      "added_at": "2026-10-09 00:01:55",
+      "album": {
         "name": "ROAD TO PARATI",
         "url": "https://open.spotify.com/album/4hrsqASn4jdNwpEB3xhq2f"
       },
@@ -1539,26 +1559,6 @@
       "duration_ms": 172631,
       "name": "Stack",
       "url": "https://open.spotify.com/track/0IrPrIOOIq8d0KRb8QQ4xQ"
-    },
-    {
-      "added_at": "2026-10-09 00:01:55",
-      "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/5CLCO0SqSGlVqtMhFfu1ui"
-      },
-      "artists": [
-        {
-          "name": "Khid Ceejay",
-          "url": "https://open.spotify.com/artist/36t7TPKT0j5ZHpFNfx1mk9"
-        },
-        {
-          "name": "Ema Onigah",
-          "url": "https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD"
-        }
-      ],
-      "duration_ms": 141818,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/6Ac0KghKbblpZnAcG9NbK0"
     }
   ],
   "unique_name": "afro-piano",

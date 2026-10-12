@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7udthHrZCWz.md) - [plain]
 
 > Unwind to these easy classics from the 2010s...
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,229 likes - 80 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,222 likes - 80 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7udthHrZCWz.md) - [plain]
 | 32 | [Love Me Like You Do \- From "Fifty Shades Of Grey"](https://open.spotify.com/track/3zHq9ouUJQFQRf3cm1rRLu) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Delirium \(Deluxe\)](https://open.spotify.com/album/20Ol6zZ0nLlc5EGTH1zA0j) | 4:12 |
 | 33 | [Girl on Fire](https://open.spotify.com/track/4esOae7i4rqTbAu9o5Pxco) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Girl on Fire \(Remixes\) \- EP](https://open.spotify.com/album/3zZSz5VOYSu0jE4MkPCOvN) | 3:44 |
 | 34 | [Royals](https://open.spotify.com/track/2dLLR6qlu5UJ5gk0dKz0h3) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 3:10 |
-| 35 | [Dancing On My Own](https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Deluxe\)](https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf) | 4:20 |
-| 36 | [What About Us](https://open.spotify.com/track/0Qh38w01QRXK6KHIv0e3hb) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Beautiful Trauma](https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz) | 4:29 |
+| 35 | [What About Us](https://open.spotify.com/track/0Qh38w01QRXK6KHIv0e3hb) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Beautiful Trauma](https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz) | 4:29 |
+| 36 | [Dancing On My Own](https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Deluxe\)](https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf) | 4:20 |
 | 37 | [Billionaire \(feat\. Bruno Mars\)](https://open.spotify.com/track/2qPUnoasNe4Ep43emVXEig) | [Travie McCoy](https://open.spotify.com/artist/7o9Nl7K1Al6NNAHX6jn6iG), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Lazarus](https://open.spotify.com/album/7kOivwbxDlUcVa4dCBCsWg) | 3:31 |
 | 38 | [This Town](https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:52 |
 | 39 | [i hate u, i love u \(feat\. olivia o'brien\)](https://open.spotify.com/track/7vRriwrloYVaoAe3a9wJHe) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw), [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [us](https://open.spotify.com/album/3L0H4RjVXpEkwfDgi3XOdf) | 4:11 |

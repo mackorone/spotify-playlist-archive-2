@@ -12612,7 +12612,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-30",
+      "date_removed": null,
       "duration_ms": 194607,
       "name": "Golden",
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
@@ -19712,7 +19712,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 236133,
       "name": "Love Me Harder",
       "url": "https://open.spotify.com/track/5J4ZkQpzMUFojo1CtAZYpn"
@@ -21802,6 +21802,24 @@
       "duration_ms": 184213,
       "name": "Motley Crew",
       "url": "https://open.spotify.com/track/40uMIn2zJLAQhNXghRjBed"
+    },
+    {
+      "album": {
+        "name": "Hot Fuss",
+        "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "date_added": "2026-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222973,
+      "name": "Mr. Brightside",
+      "url": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B"
     },
     {
       "album": {
@@ -39616,7 +39634,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 295940,
       "name": "\u6d77\u5c7f\u4f60",
       "url": "https://open.spotify.com/track/6UO9nrihAk6sFGvVHDVTz8"
@@ -39634,7 +39652,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-11",
+      "date_removed": null,
       "duration_ms": 296000,
       "name": "\u6d77\u5c7f\u4f60",
       "url": "https://open.spotify.com/track/3LZ9j8ja4j6ycSUpCA8fXX"
@@ -40236,7 +40254,7 @@
       ],
       "date_added": "2025-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 295890,
       "name": "\u904e\u4e86\u5e7e\u5929(\u5408\u5531\u7248)",
       "url": "https://open.spotify.com/track/4GEWZ1vDFVkmhG55zpKFLO"

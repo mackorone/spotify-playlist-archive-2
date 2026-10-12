@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQEX0JVX8Yuv.md) - [plain]
 | 91 | [Stars Are Blind \(Paris' Version\) \[feat\. Kim Petras\]](https://open.spotify.com/track/5GUZiPY2HnJMk6ZMpevpMS) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Stars Are Blind \(Paris' Version\) \[feat\. Kim Petras\]](https://open.spotify.com/album/5dEiXfnGyPT4FhM7eJ4I1H) | 4:19 |
 | 92 | [DTLA](https://open.spotify.com/track/0ad9g8OoHG7u872SaLRlcy) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Detour](https://open.spotify.com/album/1sWzJ2hL5b64u7n9a8owqc) | 3:20 |
 | 93 | [Slut Pop Reprise](https://open.spotify.com/track/2Tg91qUR63QRquyBtb0Vyz) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop Miami](https://open.spotify.com/album/32hFJhRyYyZF2e3JRkE0bK) | 1:35 |
-| 94 | [Castle In The Sky](https://open.spotify.com/track/2stGSXmjqk9f74aUsozVEK) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Feed The Beast](https://open.spotify.com/album/2izzggtAmxtZaKs35JCurA) | 2:25 |
-| 95 | [Pop Sound](https://open.spotify.com/track/1IEKU3WzzShCxANW5Jfv6g) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Detour \(Rare N' Deluxe\)](https://open.spotify.com/album/5z3r0mH5guiXBrN8z3iEWh) | 2:51 |
+| 94 | [Pop Sound](https://open.spotify.com/track/1IEKU3WzzShCxANW5Jfv6g) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Detour \(Rare N' Deluxe\)](https://open.spotify.com/album/5z3r0mH5guiXBrN8z3iEWh) | 2:51 |
+| 95 | [Castle In The Sky](https://open.spotify.com/track/2stGSXmjqk9f74aUsozVEK) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Feed The Beast](https://open.spotify.com/album/2izzggtAmxtZaKs35JCurA) | 2:25 |
 | 96 | [Everybody Dies](https://open.spotify.com/track/3y8XT7OLZNymJtGpLPxODX) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [TURN OFF THE LIGHT](https://open.spotify.com/album/6uqXwF2cBNS3V4fw8YM575) | 3:24 |
 | 97 | [All She Wants \(feat\. Paris Hilton\)](https://open.spotify.com/track/5fHSOGdo0f7kQ1utFRsWck) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK) | [Problématique](https://open.spotify.com/album/4jNUzWbnKjO05E4VtLCHth) | 3:52 |
 | 98 | [Cockblocker](https://open.spotify.com/track/7uUVoeU594e9hCtHyHx9oX) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop Miami](https://open.spotify.com/album/32hFJhRyYyZF2e3JRkE0bK) | 2:28 |
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQEX0JVX8Yuv.md) - [plain]
 | 128 | [That's What's Up](https://open.spotify.com/track/1hGKDzYbd9lHbhD50y0nnj) | [Skylar Simone](https://open.spotify.com/artist/4Xt0mNxZEZWjgJwsZKDuvQ) | [This Is Me \(Signature Edition\)](https://open.spotify.com/album/6wDQvIx1HJYBX8IBRGysOR) | 2:59 |
 | 129 | [Eintausend Teile](https://open.spotify.com/track/1tvEuaJGDFnERVynxzuRp6) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Eintausend Teile](https://open.spotify.com/album/7Itq48oKL1MTHG2hLud7bc) | 2:23 |
 
-Snapshot ID: `AcemkAAAAAArbCdn/ycOrVYHSf5p1yJe`
+Snapshot ID: `AcesbAAAAACidZ3JosF2Wl/rAfGgH4Zv`

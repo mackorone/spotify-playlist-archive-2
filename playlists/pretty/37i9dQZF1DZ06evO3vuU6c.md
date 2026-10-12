@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3vuU6c.md) - [plain]
 
 > This is Sia\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,435,333 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,435,360 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,12 +45,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3vuU6c.md) - [plain]
 | 35 | [California Dreamin'](https://open.spotify.com/track/1QzIPFcpaapCryW5wRsgU4) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [San Andreas \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2dI9CqM7hsrg2g8HbrnAES) | 3:36 |
 | 36 | [Gimme Love \(Reasonable Woman Version\)](https://open.spotify.com/track/5o4XJKRxUK6nXhFLAIS33A) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Gimme Love \(Reasonable Woman Version\)](https://open.spotify.com/album/4jLwuz6VaUKuIiS799cU2z) | 3:34 |
 | 37 | [Soon We'll Be Found](https://open.spotify.com/track/4eiL3JVHop31N0PwPv6M9D) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Some People Have REAL Problems](https://open.spotify.com/album/6jwrliQ4758qVYMtdgQtZt) | 4:20 |
-| 38 | [Big Girls Cry](https://open.spotify.com/track/75xgoXAGed7jiNDdV8TNOe) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear](https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9) | 3:30 |
-| 39 | [MTG DA SIA \- ANGEL BY THE WINGS](https://open.spotify.com/track/0K5Wbzan94w91ImAKQcjsw) | [DJ Lucas Beat](https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [MC Matheuzim](https://open.spotify.com/artist/1oXymTbsxIYd9cP8u9yfGo) | [MTG DA SIA \- ANGEL BY THE WINGS](https://open.spotify.com/album/7KYLDnvpL3yGcLLxRYgFfu) | 2:03 |
+| 38 | [MTG DA SIA \- ANGEL BY THE WINGS](https://open.spotify.com/track/0K5Wbzan94w91ImAKQcjsw) | [DJ Lucas Beat](https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [MC Matheuzim](https://open.spotify.com/artist/1oXymTbsxIYd9cP8u9yfGo) | [MTG DA SIA \- ANGEL BY THE WINGS](https://open.spotify.com/album/7KYLDnvpL3yGcLLxRYgFfu) | 2:03 |
+| 39 | [Big Girls Cry](https://open.spotify.com/track/75xgoXAGed7jiNDdV8TNOe) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear](https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9) | 3:30 |
 | 40 | [I'm Still Here](https://open.spotify.com/track/5KGTKwOePys7aH4o6EzXEP) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [I'm Still Here](https://open.spotify.com/album/61rbnX1w8qupnV0CyNH1Or) | 4:01 |
 | 41 | [Je te pardonne \(feat\. Sia\) \- Pilule bleue](https://open.spotify.com/track/6ftEA8CwMP4vtlL7F6VKsj) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Mon coeur avait raison](https://open.spotify.com/album/4tYyNNlbRGlS6FNphD8mur) | 3:33 |
-| 42 | [Fire Meet Gasoline](https://open.spotify.com/track/3Rw6shHCDFRWv3g2WmEFKv) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear](https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9) | 4:01 |
-| 43 | [Alive](https://open.spotify.com/track/25R5Tdr4K7ENb6umHzdCXn) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 4:23 |
+| 42 | [Alive](https://open.spotify.com/track/25R5Tdr4K7ENb6umHzdCXn) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 4:23 |
+| 43 | [Fire Meet Gasoline](https://open.spotify.com/track/3Rw6shHCDFRWv3g2WmEFKv) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear](https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9) | 4:01 |
 | 44 | [Dynamite \(feat\. Sia\)](https://open.spotify.com/track/0LcLOyu9n5qRTeax5IdewO) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Scorcha](https://open.spotify.com/album/1hVo8fqEJffd9IjV8gHjQ5) | 3:32 |
 | 45 | [Gimme Love Orchestra](https://open.spotify.com/track/3e3zugz8yZ7Y48RyLWyKWd) | [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [MOVIE](https://open.spotify.com/album/34b2JCGkaXuPeYZk1FB4SR) | 2:59 |
 | 46 | [You're Never Fully Dressed Without a Smile \(2014 Film Version\)](https://open.spotify.com/track/0IjQeHaDwRljTnROP955YG) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [You're Never Fully Dressed Without a Smile \(2014 Film Version\)](https://open.spotify.com/album/3S9fcmRyIt5K4jwh7wXmKG) | 3:10 |

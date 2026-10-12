@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK4BFAukDzj3.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Netherlands.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,236 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,241 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK4BFAukDzj3.md) - [plain]
 | 49 | [Edge of Desire](https://open.spotify.com/track/4A56h4B9xUuMMXoKuj18HT) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Malive](https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm) | [Edge of Desire](https://open.spotify.com/album/53b1lFTsC7lV3pieOFYZ9i) | 2:14 |
 | 50 | [Pilé](https://open.spotify.com/track/0PMhBcbq0a5EDngAlVQLAy) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [L'undertaker](https://open.spotify.com/album/1rXL3cUD3A3EU693Dolxrn) | 2:36 |
 
-Snapshot ID: `Ml26iAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Ml8QuAAAAAAAAAAAAAAAAAAAAAAAAGVu`

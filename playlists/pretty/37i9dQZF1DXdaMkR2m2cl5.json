@@ -575,6 +575,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "For Their Love",
+        "url": "https://open.spotify.com/album/1pesl95uJqfN7kIOFozSHt"
+      },
+      "artists": [
+        {
+          "name": "Other Lives",
+          "url": "https://open.spotify.com/artist/3bw0A7x5AgdJsK20ai5iS6"
+        }
+      ],
+      "duration_ms": 221662,
+      "name": "We Wait",
+      "url": "https://open.spotify.com/track/3QeaXGKRvt8cfHdrfdk5pL"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Thousand (acoustic)",
         "url": "https://open.spotify.com/album/2Xi1N0ITpSzirX15uhBFpI"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 202720,
       "name": "Thousand - Acoustic",
       "url": "https://open.spotify.com/track/0NSqOUjf55rgVEqN7e9fhb"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "For Their Love",
-        "url": "https://open.spotify.com/album/1pesl95uJqfN7kIOFozSHt"
-      },
-      "artists": [
-        {
-          "name": "Other Lives",
-          "url": "https://open.spotify.com/artist/3bw0A7x5AgdJsK20ai5iS6"
-        }
-      ],
-      "duration_ms": 221662,
-      "name": "We Wait",
-      "url": "https://open.spotify.com/track/3QeaXGKRvt8cfHdrfdk5pL"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Stay Alive",
+        "url": "https://open.spotify.com/album/17ibSQkQUrD4LQ0uZSyQ7H"
+      },
+      "artists": [
+        {
+          "name": "Mustafa",
+          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
+        }
+      ],
+      "duration_ms": 181372,
+      "name": "Stay Alive",
+      "url": "https://open.spotify.com/track/1COWb4m8g8jY7fi3wXzo5b"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Officer of Love",
         "url": "https://open.spotify.com/album/7JQPBE6v0PxayunYaJ0CiT"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 162106,
       "name": "Grow into Love",
       "url": "https://open.spotify.com/track/6FloUWDjW3r51mRYyw0vv5"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Stay Alive",
-        "url": "https://open.spotify.com/album/17ibSQkQUrD4LQ0uZSyQ7H"
-      },
-      "artists": [
-        {
-          "name": "Mustafa",
-          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
-        }
-      ],
-      "duration_ms": 181372,
-      "name": "Stay Alive",
-      "url": "https://open.spotify.com/track/1COWb4m8g8jY7fi3wXzo5b"
     },
     {
       "added_at": "2023-09-15 04:00:00",

@@ -6,8 +6,344 @@
     "name": "dreamscape",
     "url": "https://open.spotify.com/user/9rn7brfa1vc5yomz3r115w8kf"
   },
-  "snapshot_id": "AAACsI6oeaoIU+IUa72xjtMinPlbNUwP",
+  "snapshot_id": "AAACsaf0PXW4T+JEb/dClYNv4u1ha7xz",
   "tracks": [
+    {
+      "added_at": "2026-10-11 07:47:25",
+      "album": {
+        "name": "ambient furniture vol. 1",
+        "url": "https://open.spotify.com/album/67UXMf6wcWrn6t8tkRDukq"
+      },
+      "artists": [
+        {
+          "name": "hir\u00e6th",
+          "url": "https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf"
+        },
+        {
+          "name": "\u00e9nouement",
+          "url": "https://open.spotify.com/artist/4Si65uDCzmOuXSLocLHiaU"
+        }
+      ],
+      "duration_ms": 101375,
+      "name": "voener",
+      "url": "https://open.spotify.com/track/68pDOV1Ba3VtXZGzurNhJk"
+    },
+    {
+      "added_at": "2026-10-11 07:47:25",
+      "album": {
+        "name": "inflammation",
+        "url": "https://open.spotify.com/album/6XEgssab4ShxPAliYOvNZr"
+      },
+      "artists": [
+        {
+          "name": "remind me",
+          "url": "https://open.spotify.com/artist/60xAlF5GiiiIY7uvQL9NxI"
+        }
+      ],
+      "duration_ms": 87782,
+      "name": "inflammation",
+      "url": "https://open.spotify.com/track/45vCqdblZZlMMsqrL85uyA"
+    },
+    {
+      "added_at": "2026-10-11 07:47:25",
+      "album": {
+        "name": "ambient furniture vol. 1",
+        "url": "https://open.spotify.com/album/67UXMf6wcWrn6t8tkRDukq"
+      },
+      "artists": [
+        {
+          "name": "hir\u00e6th",
+          "url": "https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf"
+        },
+        {
+          "name": "\u00e9nouement",
+          "url": "https://open.spotify.com/artist/4Si65uDCzmOuXSLocLHiaU"
+        }
+      ],
+      "duration_ms": 80001,
+      "name": "why should i care",
+      "url": "https://open.spotify.com/track/46XPoYRknluruTXs2oQEwY"
+    },
+    {
+      "added_at": "2026-10-11 07:47:25",
+      "album": {
+        "name": "thunderstorm",
+        "url": "https://open.spotify.com/album/2T8GUggfRJ83OVQ0UnlBB5"
+      },
+      "artists": [
+        {
+          "name": "furosha",
+          "url": "https://open.spotify.com/artist/2zOnDIoiXCQvxNUEkhLM8l"
+        }
+      ],
+      "duration_ms": 80637,
+      "name": "thunderstorm",
+      "url": "https://open.spotify.com/track/5Lrr58B8NY4aHUM95obUln"
+    },
+    {
+      "added_at": "2026-10-11 07:47:25",
+      "album": {
+        "name": "ambient furniture vol. 1",
+        "url": "https://open.spotify.com/album/67UXMf6wcWrn6t8tkRDukq"
+      },
+      "artists": [
+        {
+          "name": "hir\u00e6th",
+          "url": "https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf"
+        },
+        {
+          "name": "\u00e9nouement",
+          "url": "https://open.spotify.com/artist/4Si65uDCzmOuXSLocLHiaU"
+        }
+      ],
+      "duration_ms": 83317,
+      "name": "till eternity",
+      "url": "https://open.spotify.com/track/7A0MI7RMJQcDuaVDu15QeP"
+    },
+    {
+      "added_at": "2026-10-11 07:47:25",
+      "album": {
+        "name": "sun after rain",
+        "url": "https://open.spotify.com/album/0wNuKmKptahp2gSKm2KGxg"
+      },
+      "artists": [
+        {
+          "name": "thell",
+          "url": "https://open.spotify.com/artist/18uDXgDVkVM8z9nHhRaeWQ"
+        }
+      ],
+      "duration_ms": 103783,
+      "name": "sun after rain",
+      "url": "https://open.spotify.com/track/55RS5zznMeS589zlhJUq1t"
+    },
+    {
+      "added_at": "2026-10-11 07:47:25",
+      "album": {
+        "name": "ambient furniture vol. 1",
+        "url": "https://open.spotify.com/album/67UXMf6wcWrn6t8tkRDukq"
+      },
+      "artists": [
+        {
+          "name": "hir\u00e6th",
+          "url": "https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf"
+        },
+        {
+          "name": "\u00e9nouement",
+          "url": "https://open.spotify.com/artist/4Si65uDCzmOuXSLocLHiaU"
+        }
+      ],
+      "duration_ms": 105071,
+      "name": "breathing",
+      "url": "https://open.spotify.com/track/6BGjfkXXnHoTCf6Z5AeAGd"
+    },
+    {
+      "added_at": "2026-10-11 07:47:25",
+      "album": {
+        "name": "field",
+        "url": "https://open.spotify.com/album/0sGakocaMQz6SIdk5JGcFF"
+      },
+      "artists": [
+        {
+          "name": "n\u0153m.",
+          "url": "https://open.spotify.com/artist/04nJ7yf5t9iE3QMW5APTwE"
+        },
+        {
+          "name": "Fujiwara",
+          "url": "https://open.spotify.com/artist/2Cr0utmWeACahVtcJwnwVX"
+        }
+      ],
+      "duration_ms": 188358,
+      "name": "rustling grass",
+      "url": "https://open.spotify.com/track/3ymhmKzLvUohwSiuF6S8Ix"
+    },
+    {
+      "added_at": "2026-10-11 07:47:25",
+      "album": {
+        "name": "ambient furniture vol. 1",
+        "url": "https://open.spotify.com/album/67UXMf6wcWrn6t8tkRDukq"
+      },
+      "artists": [
+        {
+          "name": "hir\u00e6th",
+          "url": "https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf"
+        },
+        {
+          "name": "\u00e9nouement",
+          "url": "https://open.spotify.com/artist/4Si65uDCzmOuXSLocLHiaU"
+        }
+      ],
+      "duration_ms": 96676,
+      "name": "after dark",
+      "url": "https://open.spotify.com/track/7f3tde251kOR2mUidAyYnY"
+    },
+    {
+      "added_at": "2026-10-11 07:47:25",
+      "album": {
+        "name": "field",
+        "url": "https://open.spotify.com/album/0sGakocaMQz6SIdk5JGcFF"
+      },
+      "artists": [
+        {
+          "name": "Fujiwara",
+          "url": "https://open.spotify.com/artist/2Cr0utmWeACahVtcJwnwVX"
+        },
+        {
+          "name": "n\u0153m.",
+          "url": "https://open.spotify.com/artist/04nJ7yf5t9iE3QMW5APTwE"
+        }
+      ],
+      "duration_ms": 96006,
+      "name": "breeze",
+      "url": "https://open.spotify.com/track/5RrLU6BZ8MaH84f7I5k3kK"
+    },
+    {
+      "added_at": "2026-10-11 07:47:25",
+      "album": {
+        "name": "ambient furniture vol. 1",
+        "url": "https://open.spotify.com/album/67UXMf6wcWrn6t8tkRDukq"
+      },
+      "artists": [
+        {
+          "name": "hir\u00e6th",
+          "url": "https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf"
+        },
+        {
+          "name": "\u00e9nouement",
+          "url": "https://open.spotify.com/artist/4Si65uDCzmOuXSLocLHiaU"
+        }
+      ],
+      "duration_ms": 104357,
+      "name": "from the clouds",
+      "url": "https://open.spotify.com/track/3RcnfW5eL5iRv5iAXfnQ6O"
+    },
+    {
+      "added_at": "2026-10-11 07:47:25",
+      "album": {
+        "name": "cold vision",
+        "url": "https://open.spotify.com/album/4aV8tz5rDnfiOoKHmWA6QT"
+      },
+      "artists": [
+        {
+          "name": "lienu",
+          "url": "https://open.spotify.com/artist/0WRJNZY1CNsywmFn89i6GP"
+        }
+      ],
+      "duration_ms": 115327,
+      "name": "cold vision",
+      "url": "https://open.spotify.com/track/5jN91fsrSQeZ8TiKmaV0wL"
+    },
+    {
+      "added_at": "2026-10-11 07:47:25",
+      "album": {
+        "name": "ambient furniture vol. 1",
+        "url": "https://open.spotify.com/album/67UXMf6wcWrn6t8tkRDukq"
+      },
+      "artists": [
+        {
+          "name": "hir\u00e6th",
+          "url": "https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf"
+        },
+        {
+          "name": "\u00e9nouement",
+          "url": "https://open.spotify.com/artist/4Si65uDCzmOuXSLocLHiaU"
+        }
+      ],
+      "duration_ms": 99285,
+      "name": "memories",
+      "url": "https://open.spotify.com/track/5jpTg9ZKrCBfDvpnRHISjb"
+    },
+    {
+      "added_at": "2026-10-11 07:47:25",
+      "album": {
+        "name": "moments with you",
+        "url": "https://open.spotify.com/album/17ANwHQ3nqhYl4DiQWRzKP"
+      },
+      "artists": [
+        {
+          "name": "empty street",
+          "url": "https://open.spotify.com/artist/7ELpHgqHZTRYMlIt1vm89X"
+        }
+      ],
+      "duration_ms": 130205,
+      "name": "moments with you",
+      "url": "https://open.spotify.com/track/6IFYKYYrUEbZWmnimIctDi"
+    },
+    {
+      "added_at": "2026-10-11 07:47:25",
+      "album": {
+        "name": "ambient furniture vol. 1",
+        "url": "https://open.spotify.com/album/67UXMf6wcWrn6t8tkRDukq"
+      },
+      "artists": [
+        {
+          "name": "hir\u00e6th",
+          "url": "https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf"
+        },
+        {
+          "name": "\u00e9nouement",
+          "url": "https://open.spotify.com/artist/4Si65uDCzmOuXSLocLHiaU"
+        }
+      ],
+      "duration_ms": 116575,
+      "name": "silent tears",
+      "url": "https://open.spotify.com/track/3VC6mympATt28ev3fyhtCp"
+    },
+    {
+      "added_at": "2026-10-11 07:47:25",
+      "album": {
+        "name": "dreaming about us",
+        "url": "https://open.spotify.com/album/1beUOpNNYv6UnKFxuaDrq8"
+      },
+      "artists": [
+        {
+          "name": "austen",
+          "url": "https://open.spotify.com/artist/0mGVTqV5kBBY2gd7Yo1mTx"
+        }
+      ],
+      "duration_ms": 87329,
+      "name": "dreaming about us",
+      "url": "https://open.spotify.com/track/2M0ElI6imEVooWJQlvf0HP"
+    },
+    {
+      "added_at": "2026-10-11 07:47:25",
+      "album": {
+        "name": "ambient furniture vol. 1",
+        "url": "https://open.spotify.com/album/67UXMf6wcWrn6t8tkRDukq"
+      },
+      "artists": [
+        {
+          "name": "hir\u00e6th",
+          "url": "https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf"
+        },
+        {
+          "name": "\u00e9nouement",
+          "url": "https://open.spotify.com/artist/4Si65uDCzmOuXSLocLHiaU"
+        }
+      ],
+      "duration_ms": 106667,
+      "name": "winter",
+      "url": "https://open.spotify.com/track/2rOSnYbzDBzWdpjmdBE09v"
+    },
+    {
+      "added_at": "2026-10-11 07:47:25",
+      "album": {
+        "name": "ambient furniture vol. 1",
+        "url": "https://open.spotify.com/album/67UXMf6wcWrn6t8tkRDukq"
+      },
+      "artists": [
+        {
+          "name": "hir\u00e6th",
+          "url": "https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf"
+        },
+        {
+          "name": "\u00e9nouement",
+          "url": "https://open.spotify.com/artist/4Si65uDCzmOuXSLocLHiaU"
+        }
+      ],
+      "duration_ms": 81540,
+      "name": "i feel safe",
+      "url": "https://open.spotify.com/track/1UzfnIMhbIur4SjA55BABS"
+    },
     {
       "added_at": "2026-10-04 06:21:05",
       "album": {

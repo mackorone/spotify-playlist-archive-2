@@ -1,6 +1,6 @@
 {
   "description": "De beste tunes op repeat. Cover: Langa",
-  "num_followers": 141865,
+  "num_followers": 141866,
   "original_name": "Pull Up Hits",
   "owner": {
     "name": "Spotify",
@@ -855,6 +855,26 @@
     {
       "added_at": "2026-09-28 22:00:24",
       "album": {
+        "name": "Damage",
+        "url": "https://open.spotify.com/album/3hQ8L8ZqfLGe2gXPNWXBrk"
+      },
+      "artists": [
+        {
+          "name": "Noano",
+          "url": "https://open.spotify.com/artist/5eDdy8QxB47JsLASK2FI1m"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "duration_ms": 130615,
+      "name": "Damage",
+      "url": "https://open.spotify.com/track/1b6G5YNi5akoOpwlqnulH8"
+    },
+    {
+      "added_at": "2026-09-28 22:00:24",
+      "album": {
         "name": "Carrousel",
         "url": "https://open.spotify.com/album/7yTJXbUMRfyHnkRqoXtkLt"
       },
@@ -875,26 +895,6 @@
       "duration_ms": 130546,
       "name": "Carrousel",
       "url": "https://open.spotify.com/track/3L5rczaS3ZiXepUbTIvHAp"
-    },
-    {
-      "added_at": "2026-09-28 22:00:24",
-      "album": {
-        "name": "Damage",
-        "url": "https://open.spotify.com/album/3hQ8L8ZqfLGe2gXPNWXBrk"
-      },
-      "artists": [
-        {
-          "name": "Noano",
-          "url": "https://open.spotify.com/artist/5eDdy8QxB47JsLASK2FI1m"
-        },
-        {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
-        }
-      ],
-      "duration_ms": 130615,
-      "name": "Damage",
-      "url": "https://open.spotify.com/track/1b6G5YNi5akoOpwlqnulH8"
     },
     {
       "added_at": "2026-09-28 22:00:24",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-09-28 22:00:24",
       "album": {
-        "name": "Trop parler",
-        "url": "https://open.spotify.com/album/6Qeq7qS0CVx0s81e0eftvY"
-      },
-      "artists": [
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
-        }
-      ],
-      "duration_ms": 183865,
-      "name": "Trop parler",
-      "url": "https://open.spotify.com/track/403UULZfsCNgiCJlf7kii4"
-    },
-    {
-      "added_at": "2026-09-28 22:00:24",
-      "album": {
         "name": "yawa",
         "url": "https://open.spotify.com/album/3x4uU6LegVMe04Dn5fLiLw"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 180000,
       "name": "yawa",
       "url": "https://open.spotify.com/track/5tM3Fo4qBqDAwWJ9ZY5AtX"
+    },
+    {
+      "added_at": "2026-09-28 22:00:24",
+      "album": {
+        "name": "Trop parler",
+        "url": "https://open.spotify.com/album/6Qeq7qS0CVx0s81e0eftvY"
+      },
+      "artists": [
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "duration_ms": 183865,
+      "name": "Trop parler",
+      "url": "https://open.spotify.com/track/403UULZfsCNgiCJlf7kii4"
     },
     {
       "added_at": "2026-09-28 22:00:24",
@@ -1127,26 +1127,6 @@
     {
       "added_at": "2026-09-28 22:00:24",
       "album": {
-        "name": "van mij zijn",
-        "url": "https://open.spotify.com/album/4umTGjL6WgGnfoJWgz1uHe"
-      },
-      "artists": [
-        {
-          "name": "KATNUF",
-          "url": "https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo"
-        },
-        {
-          "name": "YAM",
-          "url": "https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E"
-        }
-      ],
-      "duration_ms": 166911,
-      "name": "van mij zijn",
-      "url": "https://open.spotify.com/track/3oFKhY9iW9S0iA9OHO9tN6"
-    },
-    {
-      "added_at": "2026-09-28 22:00:24",
-      "album": {
         "name": "Samen (Niet Alleen)",
         "url": "https://open.spotify.com/album/68hXkfVxsDWyBj7DDtz8Vg"
       },
@@ -1163,6 +1143,26 @@
       "duration_ms": 145296,
       "name": "Samen (Niet Alleen)",
       "url": "https://open.spotify.com/track/0lDTAuwGNLvOiavYF9GmFe"
+    },
+    {
+      "added_at": "2026-09-28 22:00:24",
+      "album": {
+        "name": "van mij zijn",
+        "url": "https://open.spotify.com/album/4umTGjL6WgGnfoJWgz1uHe"
+      },
+      "artists": [
+        {
+          "name": "KATNUF",
+          "url": "https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo"
+        },
+        {
+          "name": "YAM",
+          "url": "https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E"
+        }
+      ],
+      "duration_ms": 166911,
+      "name": "van mij zijn",
+      "url": "https://open.spotify.com/track/3oFKhY9iW9S0iA9OHO9tN6"
     },
     {
       "added_at": "2026-09-28 22:00:24",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2026-09-28 22:00:24",
       "album": {
+        "name": "Appel Mint Puur",
+        "url": "https://open.spotify.com/album/38hA8Zqn3mR4pO5us9D6uQ"
+      },
+      "artists": [
+        {
+          "name": "Broederliefde",
+          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
+        }
+      ],
+      "duration_ms": 207430,
+      "name": "Appel Mint Puur",
+      "url": "https://open.spotify.com/track/3Pv2qL5XAHqx6j1L5ZkeY3"
+    },
+    {
+      "added_at": "2026-09-28 22:00:24",
+      "album": {
         "name": "hit me up",
         "url": "https://open.spotify.com/album/7FSH6pSfUO5wCZpFnszXV1"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 152615,
       "name": "hit me up",
       "url": "https://open.spotify.com/track/4IunKjJY3tOuERmzYufNcL"
-    },
-    {
-      "added_at": "2026-09-28 22:00:24",
-      "album": {
-        "name": "Appel Mint Puur",
-        "url": "https://open.spotify.com/album/38hA8Zqn3mR4pO5us9D6uQ"
-      },
-      "artists": [
-        {
-          "name": "Broederliefde",
-          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
-        }
-      ],
-      "duration_ms": 207430,
-      "name": "Appel Mint Puur",
-      "url": "https://open.spotify.com/track/3Pv2qL5XAHqx6j1L5ZkeY3"
     },
     {
       "added_at": "2026-09-28 22:00:24",
@@ -1327,26 +1327,6 @@
     {
       "added_at": "2026-09-28 22:00:24",
       "album": {
-        "name": "Je Bent Leuk",
-        "url": "https://open.spotify.com/album/0ylQLQW9UUNOs0uINvTkgt"
-      },
-      "artists": [
-        {
-          "name": "Frsh",
-          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
-        },
-        {
-          "name": "LA$$A",
-          "url": "https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR"
-        }
-      ],
-      "duration_ms": 122812,
-      "name": "Je Bent Leuk",
-      "url": "https://open.spotify.com/track/4ZI2g8wtdJOLdPf6TFwitA"
-    },
-    {
-      "added_at": "2026-09-28 22:00:24",
-      "album": {
         "name": "Strandje Aan De Maas",
         "url": "https://open.spotify.com/album/6p6fROC9FzKXHBY7RyVjuA"
       },
@@ -1363,6 +1343,26 @@
       "duration_ms": 206527,
       "name": "Stunten",
       "url": "https://open.spotify.com/track/6n4LMiU6CQu8NuGeuhBwwa"
+    },
+    {
+      "added_at": "2026-09-28 22:00:24",
+      "album": {
+        "name": "Je Bent Leuk",
+        "url": "https://open.spotify.com/album/0ylQLQW9UUNOs0uINvTkgt"
+      },
+      "artists": [
+        {
+          "name": "Frsh",
+          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
+        },
+        {
+          "name": "LA$$A",
+          "url": "https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR"
+        }
+      ],
+      "duration_ms": 122812,
+      "name": "Je Bent Leuk",
+      "url": "https://open.spotify.com/track/4ZI2g8wtdJOLdPf6TFwitA"
     },
     {
       "added_at": "2026-09-28 22:00:24",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2026-09-28 22:00:24",
       "album": {
+        "name": "Dansvloerkiller",
+        "url": "https://open.spotify.com/album/1pIFdaWneZM9kRMYDsYcxD"
+      },
+      "artists": [
+        {
+          "name": "Broederliefde",
+          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
+        }
+      ],
+      "duration_ms": 188160,
+      "name": "Dansvloerkiller",
+      "url": "https://open.spotify.com/track/47tS35fPyJjIHLk95OBeHc"
+    },
+    {
+      "added_at": "2026-09-28 22:00:24",
+      "album": {
         "name": "Noncha",
         "url": "https://open.spotify.com/album/24JYo2Oexp5FVyvSpFVWNQ"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 198750,
       "name": "Noncha",
       "url": "https://open.spotify.com/track/0eAi8M0qEFxa9EfCAuemKk"
-    },
-    {
-      "added_at": "2026-09-28 22:00:24",
-      "album": {
-        "name": "Dansvloerkiller",
-        "url": "https://open.spotify.com/album/1pIFdaWneZM9kRMYDsYcxD"
-      },
-      "artists": [
-        {
-          "name": "Broederliefde",
-          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
-        }
-      ],
-      "duration_ms": 188160,
-      "name": "Dansvloerkiller",
-      "url": "https://open.spotify.com/track/47tS35fPyJjIHLk95OBeHc"
     },
     {
       "added_at": "2026-09-28 22:00:24",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2026-09-28 22:00:24",
       "album": {
-        "name": "In De Nacht",
-        "url": "https://open.spotify.com/album/7B52kWwf8iXkjpA11lMDp0"
-      },
-      "artists": [
-        {
-          "name": "Shah",
-          "url": "https://open.spotify.com/artist/7lPPiwLIuHV5fPlN6jLi13"
-        }
-      ],
-      "duration_ms": 150840,
-      "name": "In De Nacht",
-      "url": "https://open.spotify.com/track/2yiXHStn90Xf7i9DcFv4Wy"
-    },
-    {
-      "added_at": "2026-09-28 22:00:24",
-      "album": {
         "name": "Tiptop",
         "url": "https://open.spotify.com/album/02pGycUh9gWr3r1T7b2yQN"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 153554,
       "name": "Tiptop",
       "url": "https://open.spotify.com/track/1Bs3psfhOUzwgyHDwJuOhh"
+    },
+    {
+      "added_at": "2026-09-28 22:00:24",
+      "album": {
+        "name": "In De Nacht",
+        "url": "https://open.spotify.com/album/7B52kWwf8iXkjpA11lMDp0"
+      },
+      "artists": [
+        {
+          "name": "Shah",
+          "url": "https://open.spotify.com/artist/7lPPiwLIuHV5fPlN6jLi13"
+        }
+      ],
+      "duration_ms": 150840,
+      "name": "In De Nacht",
+      "url": "https://open.spotify.com/track/2yiXHStn90Xf7i9DcFv4Wy"
     },
     {
       "added_at": "2026-09-28 22:00:24",
@@ -1815,6 +1815,22 @@
     {
       "added_at": "2026-09-28 22:00:24",
       "album": {
+        "name": "Amaria",
+        "url": "https://open.spotify.com/album/2QDTlTSuwPiVmtTd2B9fYL"
+      },
+      "artists": [
+        {
+          "name": "Jinho 9",
+          "url": "https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk"
+        }
+      ],
+      "duration_ms": 196211,
+      "name": "Amaria",
+      "url": "https://open.spotify.com/track/14E6VXR7nqhhdybb57asuu"
+    },
+    {
+      "added_at": "2026-09-28 22:00:24",
+      "album": {
         "name": "Loro Piana",
         "url": "https://open.spotify.com/album/0egHLSkTArwzqumnOHzejS"
       },
@@ -1835,22 +1851,6 @@
       "duration_ms": 188160,
       "name": "Loro Piana",
       "url": "https://open.spotify.com/track/11sTBZXqq6nKIFHFRDBKnu"
-    },
-    {
-      "added_at": "2026-09-28 22:00:24",
-      "album": {
-        "name": "Amaria",
-        "url": "https://open.spotify.com/album/2QDTlTSuwPiVmtTd2B9fYL"
-      },
-      "artists": [
-        {
-          "name": "Jinho 9",
-          "url": "https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk"
-        }
-      ],
-      "duration_ms": 196211,
-      "name": "Amaria",
-      "url": "https://open.spotify.com/track/14E6VXR7nqhhdybb57asuu"
     }
   ],
   "unique_name": "Pull Up Hits",

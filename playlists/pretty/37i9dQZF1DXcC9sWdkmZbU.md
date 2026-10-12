@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC9sWdkmZbU.md) - [plain]
 
 > Christian & Gospel songs for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,575 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,606 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,11 +47,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC9sWdkmZbU.md) - [plain]
 | 37 | [I Could Sing Of Your Love Forever](https://open.spotify.com/track/5DitwE7RJ4424F09PUe2xq) | [Kids Worship Performers](https://open.spotify.com/artist/5FjG20GrL65IRBtxWMua2I) | [Kids Worship](https://open.spotify.com/album/4UJ8RjRSXUu08DahKcivwc) | 4:06 |
 | 38 | [This Little Light of Mine](https://open.spotify.com/track/0tBb8VIT8MWo9mGHFOt1Ed) | [Slugs and Bugs](https://open.spotify.com/artist/5OqR2VGSqk60tMFN8eINMN), [John\-Mark McGaha](https://open.spotify.com/artist/7ezsbMLZMM8Ntm9zq2EGY3) | [This Little Light of Mine](https://open.spotify.com/album/3Eaa14k1FtRd3GpQBoB0Uw) | 2:46 |
 | 39 | [Your Ways \(Isaiah 55\) \- Live](https://open.spotify.com/track/3jmXhvsA6Y9SQX5HohC26n) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied), [Kingdom Kids](https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ) | [Your Ways \(Isaiah 55\) \[Live\]](https://open.spotify.com/album/6h3ij29LgLW3qannd61h1Q) | 4:02 |
-| 40 | [Jesus Loves Me](https://open.spotify.com/track/70AOGWKZWH7cuiNnaTiTZ5) | [The Wonder Kids](https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI) | [Jesus Loves Me](https://open.spotify.com/album/3KOm9XWmIqqVmGbcovRnUS) | 1:26 |
-| 41 | [Prayed for This Day](https://open.spotify.com/track/2GZK4aAvR7QYTPuQOoJCVN) | [Chrissy Metz](https://open.spotify.com/artist/1UxVEV7mxsSuRZG7niH70a) | [Prayed for This Day](https://open.spotify.com/album/13Ii0A5r6l30sUK74lMsYS) | 3:18 |
-| 42 | [Amazing Grace](https://open.spotify.com/track/2a2p5OmUg1cf9qH2ruF9qt) | [Juana](https://open.spotify.com/artist/5uK5UNdzOWT47tcq2VLsek), [Canticuentos](https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j) | [Amazing Grace](https://open.spotify.com/album/77kMAZ0oUkx5dqNkoLaEcw) | 3:39 |
-| 43 | [Noah’s Tool Song](https://open.spotify.com/track/5O0xXWn6F22vREhajrP4Nc) | [Good News Guys](https://open.spotify.com/artist/038QYILIEprTICwzqqU0jY) | [Noah's Ark](https://open.spotify.com/album/2d2QmUb4A24jKT8XOuYWup) | 4:07 |
-| 44 | [Awesome God](https://open.spotify.com/track/4k8xg3hXmatho793UA1DBQ) | [Here I Am To Worship For Kids Performers](https://open.spotify.com/artist/4swSTrcaD1kMk6B0QhYgrW) | [Worship For Your Family \(Yellow\)](https://open.spotify.com/album/7FVmb7lT2S4FIT30LkAorA) | 3:14 |
+| 40 | [Prayed for This Day](https://open.spotify.com/track/2GZK4aAvR7QYTPuQOoJCVN) | [Chrissy Metz](https://open.spotify.com/artist/1UxVEV7mxsSuRZG7niH70a) | [Prayed for This Day](https://open.spotify.com/album/13Ii0A5r6l30sUK74lMsYS) | 3:18 |
+| 41 | [Jesus Loves Me](https://open.spotify.com/track/70AOGWKZWH7cuiNnaTiTZ5) | [The Wonder Kids](https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI) | [Jesus Loves Me](https://open.spotify.com/album/3KOm9XWmIqqVmGbcovRnUS) | 1:26 |
+| 42 | [Awesome God](https://open.spotify.com/track/4k8xg3hXmatho793UA1DBQ) | [Here I Am To Worship For Kids Performers](https://open.spotify.com/artist/4swSTrcaD1kMk6B0QhYgrW) | [Worship For Your Family \(Yellow\)](https://open.spotify.com/album/7FVmb7lT2S4FIT30LkAorA) | 3:14 |
+| 43 | [Amazing Grace](https://open.spotify.com/track/2a2p5OmUg1cf9qH2ruF9qt) | [Juana](https://open.spotify.com/artist/5uK5UNdzOWT47tcq2VLsek), [Canticuentos](https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j) | [Amazing Grace](https://open.spotify.com/album/77kMAZ0oUkx5dqNkoLaEcw) | 3:39 |
+| 44 | [Noah’s Tool Song](https://open.spotify.com/track/5O0xXWn6F22vREhajrP4Nc) | [Good News Guys](https://open.spotify.com/artist/038QYILIEprTICwzqqU0jY) | [Noah's Ark](https://open.spotify.com/album/2d2QmUb4A24jKT8XOuYWup) | 4:07 |
 | 45 | [This Is Amazing Grace](https://open.spotify.com/track/416g5ZwpOBOmfRt44SJzJg) | [Kids Sing Praise](https://open.spotify.com/artist/2naj1WalUXZdDxG61MODFm) | [Praise Songs for Kids](https://open.spotify.com/album/7iZulFdEIYZRQ9gXCYlaYJ) | 4:44 |
 | 46 | [I've Got Peace Like A River](https://open.spotify.com/track/1QNzSJpXT821Ywcw70jf9S) | [Cedarmont Kids](https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt) | [100 Singalong Songs For Kids](https://open.spotify.com/album/2EiryC1JLLMcy6SDeOuT7F) | 1:34 |
 | 47 | [Wherever Whatever](https://open.spotify.com/track/5DVdqxQlrCtotYOwsro4aA) | [Amber Sky Records](https://open.spotify.com/artist/6cAxRZyhkM7NqvV2hSc7Wb) | [I Count on You](https://open.spotify.com/album/7mMVwfLd4OtTX1dfs5UQrY) | 2:30 |

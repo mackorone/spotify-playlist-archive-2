@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSfa3jsASp1.md) - [plain]
 
 > Rock on repeat during the summers of the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,459 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,453 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSfa3jsASp1.md) - [plain]
 | 25 | [Ain't It Fun](https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 4:56 |
 | 26 | [Ex's & Oh's](https://open.spotify.com/track/70eDxAyAraNTiD6lx2ZEnH) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Love Stuff](https://open.spotify.com/album/0B4eikFaUJcf3hc6DaSVov) | 3:22 |
 | 27 | [Pompeii](https://open.spotify.com/track/4Ub8UsjWuewQrPhuepfVpd) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:34 |
-| 28 | [Tear in My Heart](https://open.spotify.com/track/3bnVBN67NBEzedqQuWrpP4) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 3:08 |
-| 29 | [Renegades](https://open.spotify.com/track/0fYVliAYKHuPmECRs1pbRf) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [VHS](https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN) | 3:15 |
+| 28 | [Renegades](https://open.spotify.com/track/0fYVliAYKHuPmECRs1pbRf) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [VHS](https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN) | 3:15 |
+| 29 | [Tear in My Heart](https://open.spotify.com/track/3bnVBN67NBEzedqQuWrpP4) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 3:08 |
 | 30 | [Could Have Been Me](https://open.spotify.com/track/3IyCL4Em1GOpNGDf451Hg1) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Everybody Wants](https://open.spotify.com/album/7iLnNik9W0ttekJblYrVfj) | 3:07 |
 | 31 | [Feel Invincible](https://open.spotify.com/track/0i8JFpqe9cKwnrcvoNgl1L) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Unleashed](https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO) | 3:49 |
 | 32 | [It's Not Living \(If It's Not With You\)](https://open.spotify.com/track/3TgMcrV32NUKjEG2ujn9eh) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 4:08 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSfa3jsASp1.md) - [plain]
 | 73 | [Believe](https://open.spotify.com/track/3OgZdIAHaDMOtYq8Z5iCQ5) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind](https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ) | 3:40 |
 | 74 | [Little Monster](https://open.spotify.com/track/5fpj84RsT9cOTfWUCxBTXu) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Royal Blood](https://open.spotify.com/album/0BFzNaeaNv4mahOzwZFGHK) | 3:32 |
 | 75 | [High](https://open.spotify.com/track/17aDyX39gb1iV1ZWvD1ffE) | [Sir Sly](https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue) | [Don't You Worry, Honey](https://open.spotify.com/album/5VvCD7gVffRgdPfExxLfF4) | 3:51 |
-| 76 | [House of The Rising Sun](https://open.spotify.com/track/4ZmX8elKMkH0MfniNi0Adu) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 2](https://open.spotify.com/album/0RP9MT74WH7Yis10EO7tZS) | 4:07 |
-| 77 | [Anna Sun](https://open.spotify.com/track/3e0yTP5trHBBVvV32jwXqF) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [Walk The Moon](https://open.spotify.com/album/1QhonXpNQq8wrGEKX0ofbk) | 5:21 |
+| 76 | [Anna Sun](https://open.spotify.com/track/3e0yTP5trHBBVvV32jwXqF) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [Walk The Moon](https://open.spotify.com/album/1QhonXpNQq8wrGEKX0ofbk) | 5:21 |
+| 77 | [House of The Rising Sun](https://open.spotify.com/track/4ZmX8elKMkH0MfniNi0Adu) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 2](https://open.spotify.com/album/0RP9MT74WH7Yis10EO7tZS) | 4:07 |
 | 78 | [BLOW \(with Chris Stapleton & Bruno Mars\)](https://open.spotify.com/track/7hvO2qCwJVZxiyoA7c9i5d) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [No.6 Collaborations Project](https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx) | 3:29 |
 | 79 | [Lights Out](https://open.spotify.com/track/1060gzllf4b0UETAXisR5l) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [How Did We Get So Dark?](https://open.spotify.com/album/3Rz6kF8eGqrDOEteo5YsBj) | 3:56 |
 | 80 | [Shake Me Down](https://open.spotify.com/track/1Hb1IJ9bBCa6wo3fRtexnJ) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Thank You Happy Birthday](https://open.spotify.com/album/0WizSRN8LuMWhliou9PFlg) | 3:31 |

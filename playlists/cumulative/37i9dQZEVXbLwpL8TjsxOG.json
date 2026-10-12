@@ -5166,7 +5166,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-07",
+      "date_removed": null,
       "duration_ms": 151500,
       "name": "Earrings",
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
@@ -15294,7 +15294,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 151646,
       "name": "Running Wild",
       "url": "https://open.spotify.com/track/50zAEIE4B1QqhPjRMK2Xmh"
@@ -20594,7 +20594,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-10",
+      "date_removed": null,
       "duration_ms": 234895,
       "name": "Winter Ahead (with PARK HYO SHIN)",
       "url": "https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9"
@@ -21420,6 +21420,24 @@
       "duration_ms": 213000,
       "name": "\u4e00\u64ca\u5373\u4e2d",
       "url": "https://open.spotify.com/track/1rlODr95iOaPruwCEEc17B"
+    },
+    {
+      "album": {
+        "name": "On My Story",
+        "url": "https://open.spotify.com/album/3IG8frZ9jDCbxCUUZbCvA2"
+      },
+      "artists": [
+        {
+          "name": "Andy Hui",
+          "url": "https://open.spotify.com/artist/1q8BvOdpOtapWOIgO26sOn"
+        }
+      ],
+      "date_added": "2026-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210280,
+      "name": "\u4e00\u6b65\u4e00\u751f",
+      "url": "https://open.spotify.com/track/3KX0nFmTrl722UBcrS1CV6"
     },
     {
       "album": {
@@ -25482,7 +25500,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 244054,
       "name": "\u6211\u770b\u898b\u4eca\u665a\u7684\u6708\u8272\u5f88\u7f8e\uff0c\u4f60\u5462\uff1f",
       "url": "https://open.spotify.com/track/0m6n3IqumWw9HVEDo930CZ"
@@ -26128,7 +26146,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 266013,
       "name": "\u6628\u9072\u4eba",
       "url": "https://open.spotify.com/track/5E6KZyyZ54RETXYEDeqq94"
@@ -26146,7 +26164,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 266333,
       "name": "\u6628\u9072\u4eba",
       "url": "https://open.spotify.com/track/0JaChJKM1XYJE48rKaUvG8"
@@ -27837,6 +27855,24 @@
     },
     {
       "album": {
+        "name": "On Hits",
+        "url": "https://open.spotify.com/album/1xgpuUCtXFhGXsA1JHYvYl"
+      },
+      "artists": [
+        {
+          "name": "Andy Hui",
+          "url": "https://open.spotify.com/artist/1q8BvOdpOtapWOIgO26sOn"
+        }
+      ],
+      "date_added": "2026-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197333,
+      "name": "\u721b\u6ce5",
+      "url": "https://open.spotify.com/track/0hC9HupMhDpbMgA3QXx8JZ"
+    },
+    {
+      "album": {
         "name": "SEVEN",
         "url": "https://open.spotify.com/album/3jNEnRhkbV5FvHeX6ENm8o"
       },
@@ -29208,7 +29244,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 249266,
       "name": "\u7f8e\u9e97\u4e4b\u6700",
       "url": "https://open.spotify.com/track/0Iz6uTneQ9aVAAEveG3ORL"
@@ -29512,7 +29548,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 296900,
       "name": "\u81ea\u7531\u7684\u4f60",
       "url": "https://open.spotify.com/track/2a3CGolEag3y3weurGvkLV"

@@ -1,6 +1,6 @@
 {
   "description": "The world series of Ska. Cover: Massendefekt\n",
-  "num_followers": 73463,
+  "num_followers": 73494,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2026-08-21 06:00:30",
       "album": {
+        "name": "Inflammable",
+        "url": "https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al"
+      },
+      "artists": [
+        {
+          "name": "Skampida",
+          "url": "https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno"
+        }
+      ],
+      "duration_ms": 171693,
+      "name": "La Manifestacion",
+      "url": "https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9"
+    },
+    {
+      "added_at": "2026-08-21 06:00:30",
+      "album": {
         "name": "Paz y Baile",
         "url": "https://open.spotify.com/album/3QInNg3IGdnIn8NaSwuUOr"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 218750,
       "name": "Paz y Baile",
       "url": "https://open.spotify.com/track/2eSYkbxRBkfJTm8ILlnB9P"
-    },
-    {
-      "added_at": "2026-08-21 06:00:30",
-      "album": {
-        "name": "Inflammable",
-        "url": "https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al"
-      },
-      "artists": [
-        {
-          "name": "Skampida",
-          "url": "https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno"
-        }
-      ],
-      "duration_ms": 171693,
-      "name": "La Manifestacion",
-      "url": "https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9"
     },
     {
       "added_at": "2026-08-21 06:00:30",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-08-21 06:00:30",
       "album": {
-        "name": "Estoy en Paz",
-        "url": "https://open.spotify.com/album/2rAz4h0MvhaX1dScUuBGmM"
-      },
-      "artists": [
-        {
-          "name": "Los Estramboticos",
-          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
-        }
-      ],
-      "duration_ms": 172285,
-      "name": "Estoy en Paz",
-      "url": "https://open.spotify.com/track/0VXeUMWXIGIE6uOtPzlk7Z"
-    },
-    {
-      "added_at": "2026-08-21 06:00:30",
-      "album": {
         "name": "Ruder Than Rude",
         "url": "https://open.spotify.com/album/5fYmxYffEECoKcstBe37qU"
       },
@@ -1315,18 +1299,18 @@
     {
       "added_at": "2026-08-21 06:00:30",
       "album": {
-        "name": "Juntos",
-        "url": "https://open.spotify.com/album/38DiXVpaDu8xDofJE3xJHd"
+        "name": "Estoy en Paz",
+        "url": "https://open.spotify.com/album/2rAz4h0MvhaX1dScUuBGmM"
       },
       "artists": [
         {
-          "name": "Los Calzones",
-          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
         }
       ],
-      "duration_ms": 199565,
-      "name": "Juntos",
-      "url": "https://open.spotify.com/track/3zJizV0VAlItx99aOKEtLo"
+      "duration_ms": 172285,
+      "name": "Estoy en Paz",
+      "url": "https://open.spotify.com/track/0VXeUMWXIGIE6uOtPzlk7Z"
     },
     {
       "added_at": "2026-08-21 06:00:30",
@@ -1343,6 +1327,22 @@
       "duration_ms": 106724,
       "name": "Gr\u00fc\u00dfe ins Neandertal",
       "url": "https://open.spotify.com/track/0ezLFIbttTjHHlhP7D1uOx"
+    },
+    {
+      "added_at": "2026-08-21 06:00:30",
+      "album": {
+        "name": "Juntos",
+        "url": "https://open.spotify.com/album/38DiXVpaDu8xDofJE3xJHd"
+      },
+      "artists": [
+        {
+          "name": "Los Calzones",
+          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
+        }
+      ],
+      "duration_ms": 199565,
+      "name": "Juntos",
+      "url": "https://open.spotify.com/track/3zJizV0VAlItx99aOKEtLo"
     },
     {
       "added_at": "2026-08-21 06:00:30",
@@ -1495,18 +1495,22 @@
     {
       "added_at": "2026-08-21 06:00:30",
       "album": {
-        "name": "Don't Worry Be Happy",
-        "url": "https://open.spotify.com/album/5FexSOMJcqzhSt3NFXqbLY"
+        "name": "Don't Speak",
+        "url": "https://open.spotify.com/album/7b7AM8NvWaj5A8iyEAvjTw"
       },
       "artists": [
         {
-          "name": "The Locos",
-          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        },
+        {
+          "name": "The Skints",
+          "url": "https://open.spotify.com/artist/39k4UDTgsWe6NCi6hgnfc1"
         }
       ],
-      "duration_ms": 225018,
-      "name": "Don`t Worry Be Happy",
-      "url": "https://open.spotify.com/track/6jo4CR3Efx6g2peyiXmzAU"
+      "duration_ms": 280293,
+      "name": "Don't Speak",
+      "url": "https://open.spotify.com/track/7D823Ok1jHreqNkVwic81R"
     },
     {
       "added_at": "2026-08-21 06:00:30",
@@ -1543,22 +1547,18 @@
     {
       "added_at": "2026-08-21 06:00:30",
       "album": {
-        "name": "Don't Speak",
-        "url": "https://open.spotify.com/album/7b7AM8NvWaj5A8iyEAvjTw"
+        "name": "Don't Worry Be Happy",
+        "url": "https://open.spotify.com/album/5FexSOMJcqzhSt3NFXqbLY"
       },
       "artists": [
         {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        },
-        {
-          "name": "The Skints",
-          "url": "https://open.spotify.com/artist/39k4UDTgsWe6NCi6hgnfc1"
+          "name": "The Locos",
+          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
         }
       ],
-      "duration_ms": 280293,
-      "name": "Don't Speak",
-      "url": "https://open.spotify.com/track/7D823Ok1jHreqNkVwic81R"
+      "duration_ms": 225018,
+      "name": "Don`t Worry Be Happy",
+      "url": "https://open.spotify.com/track/6jo4CR3Efx6g2peyiXmzAU"
     },
     {
       "added_at": "2026-08-21 06:00:30",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2026-08-21 06:00:30",
       "album": {
-        "name": "BAALBEK",
-        "url": "https://open.spotify.com/album/1qJp7wv0a4SqCO0BANGjC4"
-      },
-      "artists": [
-        {
-          "name": "De Baron",
-          "url": "https://open.spotify.com/artist/2xASE2c5LniZXcraRO0RML"
-        }
-      ],
-      "duration_ms": 167691,
-      "name": "Worm in de Appel",
-      "url": "https://open.spotify.com/track/3jQZOvllBN8zXOsVY7nJpq"
-    },
-    {
-      "added_at": "2026-08-21 06:00:30",
-      "album": {
         "name": "El \u00c1tico",
         "url": "https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 242813,
       "name": "El \u00c1tico",
       "url": "https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj"
+    },
+    {
+      "added_at": "2026-08-21 06:00:30",
+      "album": {
+        "name": "BAALBEK",
+        "url": "https://open.spotify.com/album/1qJp7wv0a4SqCO0BANGjC4"
+      },
+      "artists": [
+        {
+          "name": "De Baron",
+          "url": "https://open.spotify.com/artist/2xASE2c5LniZXcraRO0RML"
+        }
+      ],
+      "duration_ms": 167691,
+      "name": "Worm in de Appel",
+      "url": "https://open.spotify.com/track/3jQZOvllBN8zXOsVY7nJpq"
     },
     {
       "added_at": "2026-08-21 06:00:30",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2026-08-21 06:00:30",
       "album": {
-        "name": "\u98a8\u306b\u6226\u3050\u30d6\u30eb\u30fc\u30ba [feat.TAKUMA (10-FEET)]",
-        "url": "https://open.spotify.com/album/6rtIq83ix9y8z2AeQhAoOh"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        }
-      ],
-      "duration_ms": 303466,
-      "name": "\u98a8\u306b\u6226\u3050\u30d6\u30eb\u30fc\u30ba - feat.TAKUMA (10-FEET)",
-      "url": "https://open.spotify.com/track/1bst6b0Ax3XzPECji6z5Fq"
-    },
-    {
-      "added_at": "2026-08-21 06:00:30",
-      "album": {
         "name": "Dead Man's Party",
         "url": "https://open.spotify.com/album/38oI82wRnQPtqzrnKvPFWO"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 258019,
       "name": "Dead Man's Party",
       "url": "https://open.spotify.com/track/3rRpozx2ZA7M3wFpA46BX6"
+    },
+    {
+      "added_at": "2026-08-21 06:00:30",
+      "album": {
+        "name": "\u98a8\u306b\u6226\u3050\u30d6\u30eb\u30fc\u30ba [feat.TAKUMA (10-FEET)]",
+        "url": "https://open.spotify.com/album/6rtIq83ix9y8z2AeQhAoOh"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        }
+      ],
+      "duration_ms": 303466,
+      "name": "\u98a8\u306b\u6226\u3050\u30d6\u30eb\u30fc\u30ba - feat.TAKUMA (10-FEET)",
+      "url": "https://open.spotify.com/track/1bst6b0Ax3XzPECji6z5Fq"
     },
     {
       "added_at": "2026-08-21 06:00:30",

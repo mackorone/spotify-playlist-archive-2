@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 
 > La casa del trap chileno al mando de AK4:20
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,281 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,290 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

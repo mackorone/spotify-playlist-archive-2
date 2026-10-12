@@ -11632,7 +11632,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 278413,
       "name": "Lifetime (Reimagined)",
       "url": "https://open.spotify.com/track/6vdy4GJNemrTHWhXojtM8k"
@@ -12692,7 +12692,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 201951,
       "name": "Mahika",
       "url": "https://open.spotify.com/track/2nqlM3gNBMi5Zf9MDzp2Xi"
@@ -13080,6 +13080,36 @@
       "duration_ms": 191039,
       "name": "Mastermind",
       "url": "https://open.spotify.com/track/7zcJSflhqcSGICHUjgncnj"
+    },
+    {
+      "album": {
+        "name": "MATIKAS",
+        "url": "https://open.spotify.com/album/2QTyml7RetBQsH6cUxnwoI"
+      },
+      "artists": [
+        {
+          "name": "Gat Putch",
+          "url": "https://open.spotify.com/artist/641Pd0RfQQ81mnWu7Vlb8v"
+        },
+        {
+          "name": "Icetizy",
+          "url": "https://open.spotify.com/artist/29HItbAuiAW54evQC60jOh"
+        },
+        {
+          "name": "Uncle Dags",
+          "url": "https://open.spotify.com/artist/3RM6NEfGA58GBtXSUs3G5l"
+        },
+        {
+          "name": "Smugglaz",
+          "url": "https://open.spotify.com/artist/2FvXtuMlYRrEkSF7kdAfFq"
+        }
+      ],
+      "date_added": "2026-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283795,
+      "name": "MATIKAS",
+      "url": "https://open.spotify.com/track/3rhLse4xpSYpuXuvYOrOo6"
     },
     {
       "album": {
@@ -15414,7 +15444,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-11",
+      "date_removed": null,
       "duration_ms": 280828,
       "name": "Pag-ibig ng Ikaw at Ako",
       "url": "https://open.spotify.com/track/2DABJpDDPUaCWqZ9nMgkw4"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Autoimmune, Jon Drake, Bad Scullianz and more",
+  "description": "With Bad Scullianz, Jon Drake, Pablo Mercedes and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -850,7 +850,7 @@
       ],
       "date_added": "2026-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-11",
+      "date_removed": null,
       "duration_ms": 220000,
       "name": "Apache",
       "url": "https://open.spotify.com/track/4IgoUMRncx2KtiaZy9Iv4w"
@@ -1016,7 +1016,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-10",
+      "date_removed": null,
       "duration_ms": 191225,
       "name": "Attrition",
       "url": "https://open.spotify.com/track/4RMccHZii59g4LsuXKdiCd"
@@ -1514,7 +1514,7 @@
       ],
       "date_added": "2026-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 242853,
       "name": "Bitch Slap Rapper",
       "url": "https://open.spotify.com/track/3tXV6j9iKqsw7x7P6xgcns"
@@ -1881,6 +1881,24 @@
     },
     {
       "album": {
+        "name": "Brain Bleed",
+        "url": "https://open.spotify.com/album/2vrxXnqB1JoOSNdpQdbWua"
+      },
+      "artists": [
+        {
+          "name": "Ten Year Day",
+          "url": "https://open.spotify.com/artist/7KPxxlGJhH206VK8rFEWti"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283500,
+      "name": "Brain Bleed",
+      "url": "https://open.spotify.com/track/2xOgJckO9fsLaqtINgW7bA"
+    },
+    {
+      "album": {
         "name": "Normal",
         "url": "https://open.spotify.com/album/0GOoyMXJwYAbnCGOHHzirV"
       },
@@ -2022,6 +2040,24 @@
       "duration_ms": 190000,
       "name": "Burning - Live at Paradiso",
       "url": "https://open.spotify.com/track/5AKzIkcSU2RH94rP6xJwdw"
+    },
+    {
+      "album": {
+        "name": "Troxler Effect",
+        "url": "https://open.spotify.com/album/61Lj0japi3esZuYiHz82q8"
+      },
+      "artists": [
+        {
+          "name": "C.Hanson",
+          "url": "https://open.spotify.com/artist/6q5dAbelQzOYnXXRPrUYdj"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214966,
+      "name": "Burning Bright",
+      "url": "https://open.spotify.com/track/52VYoaI6Vv8QXgRuPXQ26B"
     },
     {
       "album": {
@@ -2274,7 +2310,7 @@
       ],
       "date_added": "2026-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 216756,
       "name": "Carry The Light",
       "url": "https://open.spotify.com/track/01QlANmhnuBGjN4ZzACMhR"
@@ -2778,7 +2814,7 @@
       ],
       "date_added": "2026-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 201996,
       "name": "Complaining",
       "url": "https://open.spotify.com/track/3GHf6JZCs41fBZXTrbWQzO"
@@ -3171,6 +3207,24 @@
     },
     {
       "album": {
+        "name": "Hadal Zone Express",
+        "url": "https://open.spotify.com/album/0by4G2hWsVkcBEAI0uc3jz"
+      },
+      "artists": [
+        {
+          "name": "M\u00e4rvel",
+          "url": "https://open.spotify.com/artist/0cRrj2b89lPadBQvkSoK42"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175169,
+      "name": "Danish Rush",
+      "url": "https://open.spotify.com/track/53xrVLMMQzs3aJUJK6QSQ5"
+    },
+    {
+      "album": {
         "name": "Overdrive",
         "url": "https://open.spotify.com/album/35jdHkfOSAAGord4z8iIKZ"
       },
@@ -3236,7 +3290,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-19",
+      "date_removed": null,
       "duration_ms": 226758,
       "name": "Days and Roses",
       "url": "https://open.spotify.com/track/3zpfjxjnfosCaGLfJeZdEf"
@@ -3824,7 +3878,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-10",
+      "date_removed": null,
       "duration_ms": 198765,
       "name": "Do As I Do",
       "url": "https://open.spotify.com/track/2ZQKK2ivat6J4nK0xe6aMI"
@@ -7358,7 +7412,7 @@
       ],
       "date_added": "2026-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 204999,
       "name": "Hvis jeg f\u00e5r lov",
       "url": "https://open.spotify.com/track/0442X9eSmosvLUvC2hgL8V"
@@ -7618,7 +7672,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 189899,
       "name": "I wanna feel like an Animal",
       "url": "https://open.spotify.com/track/2pj1FkIeSO102FUof0vd7E"
@@ -8144,7 +8198,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-11",
+      "date_removed": null,
       "duration_ms": 167285,
       "name": "Iron Line",
       "url": "https://open.spotify.com/track/4NVfZCQJskqECiopkrCFws"
@@ -8578,7 +8632,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-11",
+      "date_removed": null,
       "duration_ms": 155846,
       "name": "Kick the Shit",
       "url": "https://open.spotify.com/track/3kvludAdfWJNKxacq95b5u"
@@ -8668,7 +8722,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 214001,
       "name": "Klokkene ringer for kvelden",
       "url": "https://open.spotify.com/track/3nO9J7Dfm4GTQkcQtYRVO0"
@@ -9184,7 +9238,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-11",
+      "date_removed": null,
       "duration_ms": 87251,
       "name": "Life In Prison",
       "url": "https://open.spotify.com/track/1fZgTjAaFx0KJRhbmtU09N"
@@ -9874,7 +9928,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 199578,
       "name": "Mamma Africa",
       "url": "https://open.spotify.com/track/6Xk6wl1An7cH9RRpKIBdr9"
@@ -9982,7 +10036,7 @@
       ],
       "date_added": "2026-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 227600,
       "name": "Mannen i speilet",
       "url": "https://open.spotify.com/track/2XMkSnJrJwg7NbkJaiYFXY"
@@ -10108,7 +10162,7 @@
       ],
       "date_added": "2026-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 163846,
       "name": "Maybe Now",
       "url": "https://open.spotify.com/track/73s0QLKk5Ys610y8yho2TW"
@@ -10303,6 +10357,24 @@
     },
     {
       "album": {
+        "name": "Mercury (In Retrograde)",
+        "url": "https://open.spotify.com/album/3GpzNNG8OP1sByLaeouBos"
+      },
+      "artists": [
+        {
+          "name": "Greg Maclennan",
+          "url": "https://open.spotify.com/artist/5UGq1GbypOeWsNOT7sxx0p"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151500,
+      "name": "Mercury (In Retrograde)",
+      "url": "https://open.spotify.com/track/7j6MPoDgVUSwvzNLJkdLf7"
+    },
+    {
+      "album": {
         "name": "Mesolithic",
         "url": "https://open.spotify.com/album/23fdBziE1NnoTE1mkUkV87"
       },
@@ -10408,7 +10480,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-10",
+      "date_removed": null,
       "duration_ms": 167051,
       "name": "Minnefond",
       "url": "https://open.spotify.com/track/4UzE44sX6mQj2uFxX1Byff"
@@ -11014,7 +11086,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-07",
+      "date_removed": null,
       "duration_ms": 299896,
       "name": "My Remains",
       "url": "https://open.spotify.com/track/2CgUeZgikS4M19YwxgxLte"
@@ -11498,7 +11570,7 @@
       ],
       "date_added": "2026-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 222763,
       "name": "Nomad",
       "url": "https://open.spotify.com/track/5qUFjHOWPpy5kwVQaC8y2v"
@@ -14196,7 +14268,7 @@
       ],
       "date_added": "2026-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 177562,
       "name": "She's Outside",
       "url": "https://open.spotify.com/track/5h0OQLMrwlAHKC1xlO5DG3"
@@ -14214,7 +14286,7 @@
       ],
       "date_added": "2026-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 245000,
       "name": "Ship of Sorrow",
       "url": "https://open.spotify.com/track/4nM1YRktjwhcRg41vBbKaA"
@@ -14286,7 +14358,7 @@
       ],
       "date_added": "2026-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 220056,
       "name": "Silhouette",
       "url": "https://open.spotify.com/track/0Bif5hnjXGpCVLVqaYHBWG"
@@ -14520,7 +14592,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 251281,
       "name": "Sn\u00f8r i Helvete",
       "url": "https://open.spotify.com/track/38ehb2DHLwwVAPr0rD0IjR"
@@ -15590,7 +15662,7 @@
       ],
       "date_added": "2026-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-11",
+      "date_removed": null,
       "duration_ms": 287413,
       "name": "Take Me for a While - Edition 2022",
       "url": "https://open.spotify.com/track/3nMqFVYcktz5ZVxa4clYb7"
@@ -18370,7 +18442,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 128600,
       "name": "Virus Potus",
       "url": "https://open.spotify.com/track/53uCwcLsShSd664eg4eOSz"
@@ -19878,7 +19950,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-11",
+      "date_removed": null,
       "duration_ms": 142321,
       "name": "\u00c6 G\u00e5r R\u00e6tt P\u00e5",
       "url": "https://open.spotify.com/track/3VxDsrk7ktvrkjv3JFz1ms"

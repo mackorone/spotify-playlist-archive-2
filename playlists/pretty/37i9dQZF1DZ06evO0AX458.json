@@ -1,12 +1,12 @@
 {
   "description": "This is Touch\u00e9 Amor\u00e9. The essential tracks, all in one playlist.",
-  "num_followers": 4883,
+  "num_followers": 4884,
   "original_name": "This Is Touch\u00e9 Amor\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asgugAAAAACiDREbykB1va9FLrew8Jul",
+  "snapshot_id": "asmAAAAAAACybMjvUm1Z0N3+X5emdhgk",
   "tracks": [
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spiral In A Straight Line",
-        "url": "https://open.spotify.com/album/0P5CZ4l155R1udzsELjXSC"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 175934,
-      "name": "Force of Habit",
-      "url": "https://open.spotify.com/track/5lEMusDshGXLe6vGoshGH6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Is Survived By",
         "url": "https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj"
       },
@@ -435,6 +419,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Spiral In A Straight Line",
+        "url": "https://open.spotify.com/album/0P5CZ4l155R1udzsELjXSC"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 175934,
+      "name": "Force of Habit",
+      "url": "https://open.spotify.com/track/5lEMusDshGXLe6vGoshGH6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Parting the Sea Between Brightness and Me",
         "url": "https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh"
       },
@@ -444,25 +444,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 98866,
-      "name": "Art Official",
-      "url": "https://open.spotify.com/track/1d51f4Xw1FjpwVTC8gsAHk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Searching For A Pulse/The Worth Of The World",
-        "url": "https://open.spotify.com/album/6tZip1UYmRLpKlI6wIfWQI"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 103520,
-      "name": "I'll Deserve Just That",
-      "url": "https://open.spotify.com/track/31Aw4lTh5VI3lnlifsIP4G"
+      "duration_ms": 113040,
+      "name": "Method Act",
+      "url": "https://open.spotify.com/track/4dnRxoWjd0xHcqxpt6UZsL"
     },
     {
       "added_at": null,
@@ -479,6 +463,22 @@
       "duration_ms": 97429,
       "name": "And Now It's Happening in Mine",
       "url": "https://open.spotify.com/track/4i2ZnG3km6mvQ3zqcsEAio"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Searching For A Pulse/The Worth Of The World",
+        "url": "https://open.spotify.com/album/6tZip1UYmRLpKlI6wIfWQI"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 103520,
+      "name": "I'll Deserve Just That",
+      "url": "https://open.spotify.com/track/31Aw4lTh5VI3lnlifsIP4G"
     },
     {
       "added_at": null,
@@ -508,25 +508,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 113040,
-      "name": "Method Act",
-      "url": "https://open.spotify.com/track/4dnRxoWjd0xHcqxpt6UZsL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Covers Vol. 1",
-        "url": "https://open.spotify.com/album/7Mb0ExnQg3xbgj9OIdhelq"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 210154,
-      "name": "Hard to Explain",
-      "url": "https://open.spotify.com/track/4Ptjci84oTDIh4iSkygdNC"
+      "duration_ms": 98866,
+      "name": "Art Official",
+      "url": "https://open.spotify.com/track/1d51f4Xw1FjpwVTC8gsAHk"
     },
     {
       "added_at": null,
@@ -543,6 +527,22 @@
       "duration_ms": 98517,
       "name": "Suckerfish",
       "url": "https://open.spotify.com/track/24GkGstdibYrnnhfZWsFE4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Covers Vol. 1",
+        "url": "https://open.spotify.com/album/7Mb0ExnQg3xbgj9OIdhelq"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 210154,
+      "name": "Hard to Explain",
+      "url": "https://open.spotify.com/track/4Ptjci84oTDIh4iSkygdNC"
     },
     {
       "added_at": null,

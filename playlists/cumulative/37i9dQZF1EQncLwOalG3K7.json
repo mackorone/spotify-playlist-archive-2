@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-11-19",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIXH666jdFxWB>OneRepublic</a>, <a href=spotify:playlist:37i9dQZF1EIVaqdm8JIWAo>Olivia Dean</a>, <a href=spotify:playlist:37i9dQZF1EIWR2Z7ggXEKn>Drake</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIZlNy1eYPptu>Shawn Mendes</a>, <a href=spotify:playlist:37i9dQZF1EIV1oCGxzhRed>Taylor Swift</a>, <a href=spotify:playlist:37i9dQZF1EIYIe6aZAczQL>Harry Styles</a> and more",
   "name": "Pop Mix",
   "tracks": [
     {
@@ -570,7 +570,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 144374,
       "name": "Ara Beni",
       "url": "https://open.spotify.com/track/2avZvyhP3vKSXUGKIjpDSr"
@@ -754,7 +754,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-11",
+      "date_removed": null,
       "duration_ms": 294573,
       "name": "Bad Romance",
       "url": "https://open.spotify.com/track/0SiywuOBRcynK0uKGWdCnn"
@@ -1395,6 +1395,32 @@
     },
     {
       "album": {
+        "name": "Brightest Blue",
+        "url": "https://open.spotify.com/album/7hCfgsycCFH4bBjEfUwh3S"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182626,
+      "name": "Close To Me",
+      "url": "https://open.spotify.com/track/2GjMaJ7DacMIkgoe8oMXGg"
+    },
+    {
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/0rSLgV8p5FzfnqlEk4GzxE"
       },
@@ -1410,7 +1436,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-10",
+      "date_removed": null,
       "duration_ms": 244960,
       "name": "Closer",
       "url": "https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw"
@@ -1558,7 +1584,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 223448,
       "name": "Dai Dai",
       "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
@@ -1784,7 +1810,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ"
@@ -2424,7 +2450,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0"
@@ -2554,7 +2580,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 201733,
       "name": "FRIENDS",
       "url": "https://open.spotify.com/track/1wIyr1y5wiWqo7nqbxHpWt"
@@ -2644,7 +2670,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-10",
+      "date_removed": null,
       "duration_ms": 153190,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
@@ -3312,7 +3338,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-28",
+      "date_removed": null,
       "duration_ms": 212973,
       "name": "I Just Might",
       "url": "https://open.spotify.com/track/6f68Ac5tt5BQOpwr0BV9oN"
@@ -3914,7 +3940,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 203807,
       "name": "Levitating",
       "url": "https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP"
@@ -4178,7 +4204,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-11",
+      "date_removed": null,
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
@@ -4402,7 +4428,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-07",
+      "date_removed": null,
       "duration_ms": 184000,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
@@ -4554,7 +4580,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 189898,
       "name": "Midnight Sun",
       "url": "https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ"
@@ -5064,7 +5090,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 284866,
       "name": "On The Floor",
       "url": "https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN"
@@ -5090,7 +5116,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 173986,
       "name": "One Dance",
       "url": "https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0"
@@ -5792,7 +5818,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 251173,
       "name": "Rockabye (feat. Sean Paul & Anne-Marie)",
       "url": "https://open.spotify.com/track/2hrUO4drrO63i7FYbCLBl2"
@@ -6240,7 +6266,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 169000,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
@@ -6356,7 +6382,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 230453,
       "name": "Starboy",
       "url": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"
@@ -6396,7 +6422,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 184761,
       "name": "Stateside + Zara Larsson",
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
@@ -6598,7 +6624,7 @@
       ],
       "date_added": "2026-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-11",
+      "date_removed": null,
       "duration_ms": 170320,
       "name": "Sue me",
       "url": "https://open.spotify.com/track/6ZAuQOgLrNQb9s7BXheuTy"
@@ -6804,7 +6830,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-30",
+      "date_removed": null,
       "duration_ms": 160183,
       "name": "Tears",
       "url": "https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4"
@@ -7128,7 +7154,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 199693,
       "name": "TiK ToK",
       "url": "https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i"
@@ -7240,7 +7266,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 220937,
       "name": "Training Season (Live from the Royal Albert Hall)",
       "url": "https://open.spotify.com/track/4jiOgEp2ZPjzoUF5DxaOjG"
@@ -7676,7 +7702,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 199986,
       "name": "What Makes You Beautiful",
       "url": "https://open.spotify.com/track/4cluDES4hQEUhmXj6TXkSo"
@@ -7856,7 +7882,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-15",
+      "date_removed": null,
       "duration_ms": 221366,
       "name": "Wrecking Ball",
       "url": "https://open.spotify.com/track/2vwlzO0Qp8kfEtzTsCXfyE"

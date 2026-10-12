@@ -1,6 +1,6 @@
 {
   "description": "So mote it be. Cover: Phoebe Bridgers",
-  "num_followers": 157978,
+  "num_followers": 157994,
   "original_name": "Witchy",
   "owner": {
     "name": "Spotify",
@@ -819,6 +819,22 @@
     {
       "added_at": "2026-09-11 04:01:16",
       "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/0ZuL0j8jVfNydM5P4Zzxix"
+      },
+      "artists": [
+        {
+          "name": "Lauren O'Connell",
+          "url": "https://open.spotify.com/artist/5k58ro6wizhwH6oPwICLns"
+        }
+      ],
+      "duration_ms": 185263,
+      "name": "House of the Rising Sun",
+      "url": "https://open.spotify.com/track/2tB5sTm4Lb8e6U0dNGuqtz"
+    },
+    {
+      "added_at": "2026-09-11 04:01:16",
+      "album": {
         "name": "House featuring John Cale",
         "url": "https://open.spotify.com/album/6bUbneSMvxPLFuOEeyHgJo"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 228200,
       "name": "Dear Prudence",
       "url": "https://open.spotify.com/track/34tFidHrETMAjsiK87WVVW"
-    },
-    {
-      "added_at": "2026-09-11 04:01:16",
-      "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/0ZuL0j8jVfNydM5P4Zzxix"
-      },
-      "artists": [
-        {
-          "name": "Lauren O'Connell",
-          "url": "https://open.spotify.com/artist/5k58ro6wizhwH6oPwICLns"
-        }
-      ],
-      "duration_ms": 185263,
-      "name": "House of the Rising Sun",
-      "url": "https://open.spotify.com/track/2tB5sTm4Lb8e6U0dNGuqtz"
     },
     {
       "added_at": "2026-09-11 04:01:16",

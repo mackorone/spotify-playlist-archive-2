@@ -4,7 +4,7 @@
 
 > Here it is, the playlist for the ultimate throwback bash!
 
-460 songs - 1 day 5 hr 32 min
+461 songs - 1 day 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [Jump \- 2015 Remaster](https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [1984 \(Remastered\)](https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0) | 4:01 | 2022-03-23 |  |
 | [Jump Around](https://open.spotify.com/track/2oTDOIAdsxPTE7yAp4YOcv) | [House Of Pain](https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV) | [House Of Pain](https://open.spotify.com/album/6aQe8pwmbv89DodASvyuSq) | 3:34 | 2022-03-23 | 2022-04-20 |
 | [Jump Around \- 30 Years Remaster](https://open.spotify.com/track/7L93GESzq43UkKUt5FsOCq) | [House Of Pain](https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV) | [House of Pain \(Fine Malt Lyrics\) \[30 Years\] \[Deluxe Edition\]](https://open.spotify.com/album/1GYvmeraQXDxxSC9T3RDvM) | 3:38 | 2022-08-26 | 2024-04-19 |
+| [Jumpin', Jumpin'](https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [The Writing's On The Wall](https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG) | 3:50 | 2023-09-08 |  |
 | [Just Can't Get Enough](https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Speak and Spell \(Deluxe\)](https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu) | 3:40 | 2022-03-23 |  |
 | [Just Dance](https://open.spotify.com/track/1dzQoRqT5ucxXVaAhTcT0J) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Colby O'Donis](https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z) | [The Fame](https://open.spotify.com/album/1qwlxZTNLe1jq3b0iidlue) | 4:01 | 2021-12-15 |  |
 | [Just Dance](https://open.spotify.com/track/2x7MyWybabEz6Y6wvHuwGE) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Colby O'Donis](https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z) | [The Fame](https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV) | 4:01 | 2022-07-07 | 2024-04-19 |
@@ -418,7 +419,7 @@
 | [Toxic](https://open.spotify.com/track/6I9VzXrHxO9rA9A5euc8Ak) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [In The Zone](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) | 3:18 | 2021-12-15 |  |
 | [Tubthumping](https://open.spotify.com/track/22HYEJveCvykVDHDiEEmjZ) | [Chumbawamba](https://open.spotify.com/artist/0TcYeHEK9sBtv7xPbKhzHz) | [Tubthumper](https://open.spotify.com/album/5yaumQgV6xGqCy014aOREt) | 4:38 | 2022-03-23 |  |
 | [Turn Around \- Radio Edit](https://open.spotify.com/track/2nx86MrPkXWQctveAEFJBf) | [Phats & Small](https://open.spotify.com/artist/4WLGcWrkSExCqILxDk7ol6), [Toney Lee](https://open.spotify.com/artist/1bqxl4NUclRsHX98Z3bn2v) | [Turn Around \- Single](https://open.spotify.com/album/0ekbBXoxN1AsU6dMJxpyzJ) | 3:32 | 2021-12-15 | 2022-04-19 |
-| [Turn Me On](https://open.spotify.com/track/0BBOLOV5JntPL3341swIre) | [Kevin Lyttle](https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba) | [Kevin Lyttle \(US Domestic Release\)](https://open.spotify.com/album/0OWwtYwEZFMquSeHGNv3cw) | 3:12 | 2021-12-15 |  |
+| [Turn Me On](https://open.spotify.com/track/0BBOLOV5JntPL3341swIre) | [Kevin Lyttle](https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba) | [Kevin Lyttle \(US Domestic Release\)](https://open.spotify.com/album/0OWwtYwEZFMquSeHGNv3cw) | 3:12 | 2021-12-15 | 2026-10-12 |
 | [Turn Up the Music](https://open.spotify.com/track/1RMRkCn07y2xtBip9DzwmC) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Fortune \(Expanded Edition\)](https://open.spotify.com/album/4AGQTp6rk7v8fPbFu739l7) | 3:47 | 2022-02-22 | 2022-02-24 |
 | [Two Princes](https://open.spotify.com/track/4ePP9So5xRzspjLFVVbj90) | [Spin Doctors](https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m) | [Pocket Full Of Kryptonite](https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK) | 4:16 | 2022-03-23 | 2022-03-28 |
 | [Two Princes](https://open.spotify.com/track/0cuq829zRNq4AEdmDJA4aw) | [Spin Doctors](https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m) | [Pocket Full Of Kryptonite \(Anniversary Edition\)](https://open.spotify.com/album/3jx5C8Z66FwdjNkqsSDBQh) | 4:16 | 2022-03-23 |  |

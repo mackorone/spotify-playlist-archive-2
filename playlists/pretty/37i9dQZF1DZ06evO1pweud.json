@@ -1,6 +1,6 @@
 {
   "description": "This is The Mar\u00edas. The essential tracks, all in one playlist.",
-  "num_followers": 142582,
+  "num_followers": 142616,
   "original_name": "This Is The Mar\u00edas",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si Me Voy (with The Mar\u00edas)",
-        "url": "https://open.spotify.com/album/5TZm9qi0223t20ypmJevEq"
+        "name": "Jupiter",
+        "url": "https://open.spotify.com/album/3U7jdirSqKYriJCSIucl10"
       },
       "artists": [
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        },
         {
           "name": "The Mar\u00edas",
           "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         }
       ],
-      "duration_ms": 203219,
-      "name": "Si Me Voy (with The Mar\u00edas)",
-      "url": "https://open.spotify.com/track/6GiCszfL4D2GlCU8tFU3sR"
+      "duration_ms": 191888,
+      "name": "Jupiter",
+      "url": "https://open.spotify.com/track/2EPuv7zyLpFqReJoYrIFzm"
     },
     {
       "added_at": null,
@@ -407,18 +403,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jupiter",
-        "url": "https://open.spotify.com/album/3U7jdirSqKYriJCSIucl10"
+        "name": "Si Me Voy (with The Mar\u00edas)",
+        "url": "https://open.spotify.com/album/5TZm9qi0223t20ypmJevEq"
       },
       "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        },
         {
           "name": "The Mar\u00edas",
           "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         }
       ],
-      "duration_ms": 191888,
-      "name": "Jupiter",
-      "url": "https://open.spotify.com/track/2EPuv7zyLpFqReJoYrIFzm"
+      "duration_ms": 203219,
+      "name": "Si Me Voy (with The Mar\u00edas)",
+      "url": "https://open.spotify.com/track/6GiCszfL4D2GlCU8tFU3sR"
     },
     {
       "added_at": null,

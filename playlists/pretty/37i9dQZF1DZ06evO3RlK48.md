@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RlK48.md) - [plain]
 
 > This is MUNA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,619 likes - 36 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,625 likes - 36 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dancing On The Wall](https://open.spotify.com/track/7G2NR2p31c87FwPAmT5HJJ) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3) | 4:03 |
 | 2 | [Silk Chiffon](https://open.spotify.com/track/5ECxiK4Vigo1yRRmAoZc1f) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 3:26 |
 | 3 | [I Know A Place](https://open.spotify.com/track/0bPSRn4crnh5f1JhELPlyL) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 4:32 |
-| 4 | [One That Got Away](https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [One That Got Away](https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond) | 3:52 |
+| 4 | [Number One Fan](https://open.spotify.com/track/69WAiCaEdxACKzB4B7Bv27) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Saves The World](https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz) | 3:25 |
 | 5 | [Eastside Girls](https://open.spotify.com/track/2GmMuH5UXe9DazNasUgGgM) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3) | 3:50 |
 | 6 | [Anything But Me](https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 3:33 |
-| 7 | [Number One Fan](https://open.spotify.com/track/69WAiCaEdxACKzB4B7Bv27) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Saves The World](https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz) | 3:25 |
-| 8 | [Into Your Room \(with MUNA\)](https://open.spotify.com/track/3RaG1pAMRHFiCAqcE9KKNo) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Into Your Room \(with MUNA\)](https://open.spotify.com/album/5xoc8PmIs7xsuxaA7t4Oun) | 3:31 |
+| 7 | [One That Got Away](https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [One That Got Away](https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond) | 3:52 |
+| 8 | [Stayaway](https://open.spotify.com/track/3vnyzhfVRh3agMjP6nABJw) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Saves The World](https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz) | 3:31 |
 | 9 | [It Gets So Hot](https://open.spotify.com/track/7gaAXsjeXLtaRJPm1QvdKA) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3) | 2:41 |
 | 10 | [Home By Now](https://open.spotify.com/track/5vYaBqOAT6JpZlAD3gO1AO) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 4:28 |
-| 11 | [Stayaway](https://open.spotify.com/track/3vnyzhfVRh3agMjP6nABJw) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Saves The World](https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz) | 3:31 |
+| 11 | [Into Your Room \(with MUNA\)](https://open.spotify.com/track/3RaG1pAMRHFiCAqcE9KKNo) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Into Your Room \(with MUNA\)](https://open.spotify.com/album/5xoc8PmIs7xsuxaA7t4Oun) | 3:31 |
 | 12 | [Bodies](https://open.spotify.com/track/2xeIWTt1cWvRa8R31RPOip) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [HISTORY](https://open.spotify.com/album/6IwONZNPHt81ip42NboklH) | 3:29 |
 | 13 | [On Call](https://open.spotify.com/track/3ktBsGHC3bilfpYNCrnzMm) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3) | 2:35 |
 | 14 | [What I Want](https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 4:03 |
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RlK48.md) - [plain]
 | 18 | [Solid](https://open.spotify.com/track/3TN26MWVgoxlt7rbtZ8Xb8) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 2:21 |
 | 19 | [Sometimes \- From "Fire Island"](https://open.spotify.com/track/18O6oj2DtAA9lPlP9Kl9R2) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Sometimes \(From "Fire Island"\)](https://open.spotify.com/album/1OHC7T6smHk6ApFRemE8VE) | 3:03 |
 | 20 | [Taken](https://open.spotify.com/track/1DCf4TQUJdWWXLM8LOIWA7) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Saves The World](https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz) | 4:05 |
-| 21 | [Big Stick](https://open.spotify.com/track/1VgAgeHvB45Y5ZgqAnCA82) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3) | 2:36 |
+| 21 | [Wannabeher](https://open.spotify.com/track/4412CfupPqPn61n1nVew0s) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3) | 2:34 |
 | 22 | [Runner’s High](https://open.spotify.com/track/0h0A93X0cOihhnuOv6EPtF) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 3:43 |
 | 23 | [Crying On The Bathroom Floor](https://open.spotify.com/track/6nVKC0GCQrf9MQSJgYiaEr) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 4:15 |
 | 24 | [Motivation \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/6vFifFwgq4Z3csFE6zi9Fd) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Spotify Singles](https://open.spotify.com/album/7xPNSOtnXFMOsTnvQrLeXH) | 3:26 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RlK48.md) - [plain]
 | 35 | [So Special](https://open.spotify.com/track/50EsWUxLBSS4nQnTuagVjF) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 3:57 |
 | 36 | [Everything](https://open.spotify.com/track/7amhPuxeGqyhpSuBfkx9lO) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 4:06 |
 
-Snapshot ID: `asgugAAAAAD2sBQ0xdUf8y5sYRdfjE1j`
+Snapshot ID: `asmAAAAAAACHIMmx7IgTkzdHkviFGpWe`

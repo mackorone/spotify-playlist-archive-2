@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSWYCNwaARB.md) - [plain]
 
 > All your girl crushes\(걸크러쉬\) in one place\. \(Cover: X:IN\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 924,351 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 924,395 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSWYCNwaARB.md) - [plain]
 | 47 | [You & Me](https://open.spotify.com/track/6gcuJpHu0Ey30D5WR76y98) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [JENNIE Special Single \[You & Me\]](https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL) | 2:59 |
 | 48 | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch) | 2:59 |
 | 49 | [ICONIC BY MISTAKE](https://open.spotify.com/track/1PdN2pC5LYxnapVB8h6C6r) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN), [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [ICONIC BY MISTAKE](https://open.spotify.com/album/7yys068oxBNuFHNbF8HMam) | 2:57 |
-| 50 | [WDA \(Whole Different Animal\) \(feat\. G\-DRAGON\)](https://open.spotify.com/track/59QIYdXAL9XeNtM0j8vN0k) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [WDA \(Whole Different Animal\) \(feat\. G\-DRAGON\)](https://open.spotify.com/album/4AbQDUPzGwI0QKqdZsLdNL) | 2:54 |
+| 50 | [CRY FOR ME](https://open.spotify.com/track/2xtP8RNbo2BEMzLX7tK7aq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [CRY FOR ME](https://open.spotify.com/album/2aRAPmBCEdo9pWimsI5l87) | 3:24 |
 
 Snapshot ID: `AAAAANVDLeVMIm6k5x7dhIG8u2gdUjFQ`

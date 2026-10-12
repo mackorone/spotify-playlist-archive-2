@@ -4,11 +4,12 @@
 
 > This is Clara Schumann\. The essential tracks, all in one playlist.
 
-107 songs - 7 hr 41 min
+108 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3 Lieder, Op\. 12: II\. Liebst du um Schönheit](https://open.spotify.com/track/1CqMjtsEdC24rrJgVCterT) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Hélène Grimaud](https://open.spotify.com/artist/0VkQgzGZUmazUc7ouT5S79), [Anne Sofie von Otter](https://open.spotify.com/artist/4pFlv4QVInj7bAo0MqHpwW) | [The Echoes of Women \- International Women's Day 2024](https://open.spotify.com/album/0wmLZVzrWZrwmNH20OdYrd) | 2:01 | 2026-08-26 | 2026-08-28 |
+| [3 Romances , Op\. 21: No\. 3, Agitato](https://open.spotify.com/track/65uLPKKfOrPAANpKURmp20) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Susan Tomes](https://open.spotify.com/artist/3OP4EwLAnli8pp9rvEossC) | [Women Composers & The Piano](https://open.spotify.com/album/3VnZU0WMsbDURQ6FbAqm3U) | 4:29 | 2026-10-12 |  |
 | [3 Romances For Violin And Piano, Op\. 22: 1\. Andante molto](https://open.spotify.com/track/6tpTj0gRqA8C9VdQEtD65e) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Clara Jumi Kang](https://open.spotify.com/artist/3XX1R9to17BaujFMbjCG3f), [Yeol Eum Son](https://open.spotify.com/artist/2QBjNinkTc5i8PLOYYlHsl) | [The Echoes of Women \- International Women's Day 2024](https://open.spotify.com/album/0wmLZVzrWZrwmNH20OdYrd) | 2:57 | 2025-08-12 |  |
 | [3 Romances For Violin And Piano, Op\. 22: 2\. Allegretto](https://open.spotify.com/track/3TcjCoobMf3uFFpTzDSRuR) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Clara Jumi Kang](https://open.spotify.com/artist/3XX1R9to17BaujFMbjCG3f), [Yeol Eum Son](https://open.spotify.com/artist/2QBjNinkTc5i8PLOYYlHsl) | [The Echoes of Women \- International Women's Day 2024](https://open.spotify.com/album/0wmLZVzrWZrwmNH20OdYrd) | 3:00 | 2026-08-26 | 2026-08-28 |
 | [3 Romances For Violin And Piano, Op\. 22: 3\. Leidenschaftlich schnell](https://open.spotify.com/track/56mLuqJLHHzyynOo6v99eE) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Clara Jumi Kang](https://open.spotify.com/artist/3XX1R9to17BaujFMbjCG3f), [Yeol Eum Son](https://open.spotify.com/artist/2QBjNinkTc5i8PLOYYlHsl) | [The Echoes of Women \- International Women's Day 2024](https://open.spotify.com/album/0wmLZVzrWZrwmNH20OdYrd) | 3:46 | 2026-08-18 | 2026-08-28 |

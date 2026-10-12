@@ -1,5 +1,5 @@
 {
-  "description": "<a href=spotify:playlist:37i9dQZF1EIZ1HkjHHzYzZ>Billie Eilish</a>, <a href=spotify:playlist:37i9dQZF1EIVyWVIFafx7W>Dave</a>, <a href=spotify:playlist:37i9dQZF1EIWebDwhi0Xn3>Steve Lacy</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIVSVBvHzTcKt>Tame Impala</a>, <a href=spotify:playlist:37i9dQZF1EIWR2Z7ggXEKn>Drake</a>, <a href=spotify:playlist:37i9dQZF1EIVaqdm8JIWAo>Olivia Dean</a> and more",
   "num_followers": 0,
   "original_name": "Chill Mix",
   "owner": {
@@ -11,54 +11,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+        "name": "Currents",
+        "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
         }
       ],
-      "duration_ms": 210373,
-      "name": "BIRDS OF A FEATHER",
-      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+      "duration_ms": 216320,
+      "name": "The Less I Know The Better",
+      "url": "https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ"
     },
     {
       "added_at": null,
       "album": {
-        "name": "The Boy Who Played the Harp",
-        "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
+        "name": "ICEMAN",
+        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
       },
       "artists": [
         {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 219743,
-      "name": "Raindance (feat. Tems)",
-      "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
+      "duration_ms": 237344,
+      "name": "Janice STFU",
+      "url": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Oh yeah?",
-        "url": "https://open.spotify.com/album/289GZwycrFReuNB706obBx"
+        "name": "The Art of Loving",
+        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
       },
       "artists": [
         {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
         }
       ],
-      "duration_ms": 170584,
-      "name": "oh yeah?",
-      "url": "https://open.spotify.com/track/22NHkFYbgxB2Zirj29Gbp8"
+      "duration_ms": 169000,
+      "name": "So Easy (To Fall In Love)",
+      "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
     },
     {
       "added_at": null,
@@ -91,6 +87,22 @@
       "duration_ms": 164571,
       "name": "Shut up My Moms Calling",
       "url": "https://open.spotify.com/track/3hxIUxnT27p5WcmjGUXNwx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oh yeah?",
+        "url": "https://open.spotify.com/album/289GZwycrFReuNB706obBx"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 170584,
+      "name": "oh yeah?",
+      "url": "https://open.spotify.com/track/22NHkFYbgxB2Zirj29Gbp8"
     },
     {
       "added_at": null,
@@ -259,22 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deadbeat",
-        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 223069,
-      "name": "Loser",
-      "url": "https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Why Me?",
         "url": "https://open.spotify.com/album/3dyhRPCr4QEJ2is0hnQrYT"
       },
@@ -439,6 +435,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Deadbeat",
+        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 223069,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HEAVEN SENT ME",
         "url": "https://open.spotify.com/album/0IJxIySqYXoJuOgBJ38ZZW"
       },
@@ -491,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ivory",
-        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 216680,
-      "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
-      "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stevie Doesn't Wonder",
         "url": "https://open.spotify.com/album/4QOjBDPM9AbaxFzV9khrca"
       },
@@ -519,6 +515,22 @@
       "duration_ms": 164571,
       "name": "Stevie Doesn't Wonder",
       "url": "https://open.spotify.com/track/7BgyWwbbybJr2IbQoI1gzH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 216680,
+      "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
+      "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
     },
     {
       "added_at": null,
@@ -783,22 +795,6 @@
       "duration_ms": 176453,
       "name": "DAISIES",
       "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AM",
-        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 243131,
-      "name": "No. 1 Party Anthem",
-      "url": "https://open.spotify.com/track/5TTGoX70AFrTvuEtqHK37S"
     },
     {
       "added_at": null,

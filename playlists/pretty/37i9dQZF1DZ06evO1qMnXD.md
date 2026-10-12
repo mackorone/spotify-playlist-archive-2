@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1qMnXD.md) - [plain]
 
 > This is Mitski\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,452 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,455 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1qMnXD.md) - [plain]
 | 39 | [Dead Women](https://open.spotify.com/track/6fn7Fdrf5VxQg2Df8zDBpb) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Nothing's About to Happen to Me](https://open.spotify.com/album/2M9F3AsbWy7n4LwmJ8pqEu) | 3:09 |
 | 40 | [Fireproof](https://open.spotify.com/track/5zIK1hBFlopgt6hZHfuTon) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Puberty 2 \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/1HgxS3QtHoYbHvmjtHnsci) | 1:49 |
 | 41 | [Heaven](https://open.spotify.com/track/5T00EN4oZmDQx3hqVAC4Fx) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 3:44 |
-| 42 | [Cop Car](https://open.spotify.com/track/76uPM2ijcGSNinnRQmWMJF) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Cop Car](https://open.spotify.com/album/38W7WU8kz5SHqcNdx9ZtmC) | 3:08 |
-| 43 | [Because Dreaming Costs Money, My Dear](https://open.spotify.com/track/4Ghr5ZxYQ9ti06fRTltVop) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Retired from Sad, New Career in Business](https://open.spotify.com/album/7K4SuWzgUEweJScduBcC6f) | 3:05 |
+| 42 | [Because Dreaming Costs Money, My Dear](https://open.spotify.com/track/4Ghr5ZxYQ9ti06fRTltVop) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Retired from Sad, New Career in Business](https://open.spotify.com/album/7K4SuWzgUEweJScduBcC6f) | 3:05 |
+| 43 | [Cop Car](https://open.spotify.com/track/76uPM2ijcGSNinnRQmWMJF) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Cop Car](https://open.spotify.com/album/38W7WU8kz5SHqcNdx9ZtmC) | 3:08 |
 | 44 | [Love Me More](https://open.spotify.com/track/4PUT0cH2iggaje5hTJZeGe) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 3:32 |
 | 45 | [When Memories Snow](https://open.spotify.com/track/0QzJS1fQv5l0s1mqKTECRX) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 1:44 |
 | 46 | [Square](https://open.spotify.com/track/64u6Y9b4sRGREmG4a6PX9E) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Retired from Sad, New Career in Business](https://open.spotify.com/album/7K4SuWzgUEweJScduBcC6f) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1qMnXD.md) - [plain]
 | 49 | [I Guess](https://open.spotify.com/track/39K4dMGtlkHv5lWlLajAQh) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 2:15 |
 | 50 | [Stay Soft](https://open.spotify.com/track/07zVQBJfbOuaAhpT3stRFL) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 3:16 |
 
-Snapshot ID: `asgugAAAAACEIVaYSPWwA4MVtXPLGqY8`
+Snapshot ID: `asmAAAAAAAA4xSQ7YhjLZY6oq3q2aD15`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX57hHpm3vGiU.md) - [plain]
 
 > Respira y medita con los sonidos de este ancestral instrumento.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,923 likes - 90 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,953 likes - 90 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is St. Vincent. The essential tracks, all in one playlist.",
-  "num_followers": 55862,
+  "num_followers": 55863,
   "original_name": "This Is St. Vincent",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asgugAAAAAArdScDHddStoazOTXZKoN6",
+  "snapshot_id": "asmAAAAAAAABb1IysLmKm73uoCqI2OYn",
   "tracks": [
     {
       "added_at": null,
@@ -175,8 +175,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "St. Vincent",
-        "url": "https://open.spotify.com/album/2CJnMhwEEkS8R1ctgt5llf"
+        "name": "Strange Mercy",
+        "url": "https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1"
       },
       "artists": [
         {
@@ -184,9 +184,9 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 202000,
-      "name": "Digital Witness",
-      "url": "https://open.spotify.com/track/5L16tlSHNt93RiiRiCc8ya"
+      "duration_ms": 214986,
+      "name": "Cruel",
+      "url": "https://open.spotify.com/track/6FPw780c3azvSQXDuV5Z52"
     },
     {
       "added_at": null,
@@ -223,8 +223,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strange Mercy",
-        "url": "https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1"
+        "name": "St. Vincent",
+        "url": "https://open.spotify.com/album/2CJnMhwEEkS8R1ctgt5llf"
       },
       "artists": [
         {
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 214986,
-      "name": "Cruel",
-      "url": "https://open.spotify.com/track/6FPw780c3azvSQXDuV5Z52"
+      "duration_ms": 202000,
+      "name": "Digital Witness",
+      "url": "https://open.spotify.com/track/5L16tlSHNt93RiiRiCc8ya"
     },
     {
       "added_at": null,
@@ -291,6 +291,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Daddy's Home",
+        "url": "https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 183880,
+      "name": "Pay Your Way In Pain",
+      "url": "https://open.spotify.com/track/1nLaoWVhNRZ38irY0LZjL6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love This Giant",
         "url": "https://open.spotify.com/album/4Pu1Qeg26ACk8ZH00bk3Q4"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 229960,
       "name": "Who",
       "url": "https://open.spotify.com/track/5Fik3NpxT1qBKSXfXe8YBr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Daddy's Home",
-        "url": "https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 183880,
-      "name": "Pay Your Way In Pain",
-      "url": "https://open.spotify.com/track/1nLaoWVhNRZ38irY0LZjL6"
     },
     {
       "added_at": null,
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX"
         }
       ],
-      "duration_ms": 88024,
-      "name": "We Put A Pearl In the Ground - Live",
-      "url": "https://open.spotify.com/track/3lk3HVxUJYCErXukieewbV"
+      "duration_ms": 256321,
+      "name": "Black Rainbow - Live",
+      "url": "https://open.spotify.com/track/5HqFOpyH9vzfWr60qVD7pf"
     },
     {
       "added_at": null,
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX"
         }
       ],
-      "duration_ms": 256321,
-      "name": "Black Rainbow - Live",
-      "url": "https://open.spotify.com/track/5HqFOpyH9vzfWr60qVD7pf"
+      "duration_ms": 88024,
+      "name": "We Put A Pearl In the Ground - Live",
+      "url": "https://open.spotify.com/track/3lk3HVxUJYCErXukieewbV"
     },
     {
       "added_at": null,

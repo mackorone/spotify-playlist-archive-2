@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto: Yoly Saa.",
-  "num_followers": 22964,
+  "num_followers": 22962,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -431,18 +431,18 @@
     {
       "added_at": "2026-09-07 22:00:31",
       "album": {
-        "name": "favorita de la vida",
-        "url": "https://open.spotify.com/album/0sN55xZeR9VTYNUjplmblW"
+        "name": "Full time papi",
+        "url": "https://open.spotify.com/album/1Ed3cPiyucgrHAiIohB63I"
       },
       "artists": [
         {
-          "name": "RUSLANA",
-          "url": "https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB"
+          "name": "Guitarricadelafuente",
+          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
         }
       ],
-      "duration_ms": 170360,
-      "name": "favorita de la vida",
-      "url": "https://open.spotify.com/track/3Ai6dySKDJj7M9D7oz1Yxx"
+      "duration_ms": 167500,
+      "name": "Full time papi",
+      "url": "https://open.spotify.com/track/0a8rvYEGeBv8gLCEpRsFcJ"
     },
     {
       "added_at": "2026-09-07 22:00:31",
@@ -539,6 +539,22 @@
     {
       "added_at": "2026-09-07 22:00:31",
       "album": {
+        "name": "favorita de la vida",
+        "url": "https://open.spotify.com/album/0sN55xZeR9VTYNUjplmblW"
+      },
+      "artists": [
+        {
+          "name": "RUSLANA",
+          "url": "https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB"
+        }
+      ],
+      "duration_ms": 170360,
+      "name": "favorita de la vida",
+      "url": "https://open.spotify.com/track/3Ai6dySKDJj7M9D7oz1Yxx"
+    },
+    {
+      "added_at": "2026-09-07 22:00:31",
+      "album": {
         "name": "Primavera",
         "url": "https://open.spotify.com/album/15sj9DWaanj1WbtHnvcYbn"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 237228,
       "name": "Mocatriz",
       "url": "https://open.spotify.com/track/4FpRhJ7lOtetHL1zwZSYuP"
-    },
-    {
-      "added_at": "2026-09-07 22:00:31",
-      "album": {
-        "name": "Full time papi",
-        "url": "https://open.spotify.com/album/1Ed3cPiyucgrHAiIohB63I"
-      },
-      "artists": [
-        {
-          "name": "Guitarricadelafuente",
-          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
-        }
-      ],
-      "duration_ms": 167500,
-      "name": "Full time papi",
-      "url": "https://open.spotify.com/track/0a8rvYEGeBv8gLCEpRsFcJ"
     },
     {
       "added_at": "2026-09-07 22:00:31",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-09-07 22:00:31",
       "album": {
-        "name": "Toujours oui <3",
-        "url": "https://open.spotify.com/album/641w6gi2pPsJG6kcQU6vcA"
-      },
-      "artists": [
-        {
-          "name": "Yoly Saa",
-          "url": "https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW"
-        }
-      ],
-      "duration_ms": 205738,
-      "name": "Toujours oui <3",
-      "url": "https://open.spotify.com/track/0G2h1Z7o0xLIkhCyPnUrGO"
-    },
-    {
-      "added_at": "2026-09-07 22:00:31",
-      "album": {
         "name": "Ouineta Verificada",
         "url": "https://open.spotify.com/album/5lMyr087un4jnw6KUKqTus"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 181001,
       "name": "NOIS",
       "url": "https://open.spotify.com/track/2r56sJEcjVH6EFSemjgjQC"
+    },
+    {
+      "added_at": "2026-09-07 22:00:31",
+      "album": {
+        "name": "Toujours oui <3",
+        "url": "https://open.spotify.com/album/641w6gi2pPsJG6kcQU6vcA"
+      },
+      "artists": [
+        {
+          "name": "Yoly Saa",
+          "url": "https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW"
+        }
+      ],
+      "duration_ms": 205738,
+      "name": "Toujours oui <3",
+      "url": "https://open.spotify.com/track/0G2h1Z7o0xLIkhCyPnUrGO"
     },
     {
       "added_at": "2026-09-07 22:00:31",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-09-07 22:00:31",
       "album": {
-        "name": "Yo quiero un affaire",
-        "url": "https://open.spotify.com/album/4xZJ0Ak8kZS4XdDVJOxkmj"
-      },
-      "artists": [
-        {
-          "name": "Jimena Amarillo",
-          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
-        }
-      ],
-      "duration_ms": 184970,
-      "name": "Yo quiero un affaire",
-      "url": "https://open.spotify.com/track/3z9X4FONGlgEjttQHW2gLV"
-    },
-    {
-      "added_at": "2026-09-07 22:00:31",
-      "album": {
         "name": "Recardelino",
         "url": "https://open.spotify.com/album/4xNK43jp9NdfRVC2BliZ2H"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 151849,
       "name": "Virgen de Magall\u00f3n",
       "url": "https://open.spotify.com/track/6isno2Q3cVT0XA9Adnkanz"
+    },
+    {
+      "added_at": "2026-09-07 22:00:31",
+      "album": {
+        "name": "Yo quiero un affaire",
+        "url": "https://open.spotify.com/album/4xZJ0Ak8kZS4XdDVJOxkmj"
+      },
+      "artists": [
+        {
+          "name": "Jimena Amarillo",
+          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
+        }
+      ],
+      "duration_ms": 184970,
+      "name": "Yo quiero un affaire",
+      "url": "https://open.spotify.com/track/3z9X4FONGlgEjttQHW2gLV"
     },
     {
       "added_at": "2026-09-07 22:00:31",

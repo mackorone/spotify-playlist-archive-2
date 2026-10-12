@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vstj9.md) - [plain]
 
 > This is Elmiene\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,324 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,333 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vstj9.md) - [plain]
 | 12 | [Light Work](https://open.spotify.com/track/2N9pTSlybRM6XIqOvSfkM1) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Light Work](https://open.spotify.com/album/6FNasJ0jCCBUinHhm00oOe) | 3:37 |
 | 13 | [Lie With Me](https://open.spotify.com/track/5DKau2qqKNHSipkNO57wYK) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [sounds for someone](https://open.spotify.com/album/1kGkWn2PHljzeqiOu4wGum) | 3:19 |
 | 14 | [Damage Control](https://open.spotify.com/track/1gdTV2QtxG4jgrYdJCR8L1) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Heat The Streets](https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB) | 2:30 |
-| 15 | [Endless No Mores \- A COLORS SHOW](https://open.spotify.com/track/0UpZJ1hUK4q1yzjQzXI32B) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Endless No Mores \- A COLORS SHOW](https://open.spotify.com/album/50yfipy2MBrEIxT36zC1gk) | 2:59 |
-| 16 | [Drowning](https://open.spotify.com/track/3PA3lTvvSyEM8jED6QEWqm) | [Dahi](https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der), [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Black Boy \(Alternative\)](https://open.spotify.com/album/6DMwCmRxKHQtbCtGcFqljG) | 4:05 |
+| 15 | [Drowning](https://open.spotify.com/track/3PA3lTvvSyEM8jED6QEWqm) | [Dahi](https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der), [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Black Boy \(Alternative\)](https://open.spotify.com/album/6DMwCmRxKHQtbCtGcFqljG) | 4:05 |
+| 16 | [Endless No Mores \- A COLORS SHOW](https://open.spotify.com/track/0UpZJ1hUK4q1yzjQzXI32B) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Endless No Mores \- A COLORS SHOW](https://open.spotify.com/album/50yfipy2MBrEIxT36zC1gk) | 2:59 |
 | 17 | [Honour](https://open.spotify.com/track/3ZutfABtOFwuY0QTt1QVfi) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [sounds for someone](https://open.spotify.com/album/1kGkWn2PHljzeqiOu4wGum) | 4:10 |
 | 18 | [Different Too](https://open.spotify.com/track/4A69nC7B7l17CuO6lLVSC4) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Heat The Streets](https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB) | 2:45 |
 | 19 | [Pool \(feat\. Elmiene\)](https://open.spotify.com/track/0csHRGsK3gKsERufowurNK) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [DAROLD](https://open.spotify.com/album/4jNVrFSF7UzQdvQtzHjWM0) | 4:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vstj9.md) - [plain]
 | 49 | [Remember](https://open.spotify.com/track/4L2xiqRQ5IKQoIwn3XaVkr) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Marking My Time \(Again\)](https://open.spotify.com/album/4iJJ7qtR7T8v0CarMWIM04) | 3:55 |
 | 50 | [Coraline \- Live From 525](https://open.spotify.com/track/3K5n6dkpyYLlqWuEWiGz20) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Live From 525](https://open.spotify.com/album/09FRB4tzCfBnHUS1E4XvdA) | 2:50 |
 
-Snapshot ID: `asbdAAAAAAAMvuerHTAxSmOa/Xok0Axz`
+Snapshot ID: `asgugAAAAAA0jWKqh5tMdHn2qLo8wzyV`

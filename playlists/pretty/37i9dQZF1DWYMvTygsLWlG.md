@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMvTygsLWlG.md) - [plain]
 
 > Some of the worlds most beautiful love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,195,362 likes - 100 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,195,425 likes - 100 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,10 +61,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMvTygsLWlG.md) - [plain]
 | 51 | [Amazed](https://open.spotify.com/track/6qc34bnVOyqGDPni8H5W0U) | [Lonestar](https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK) | [Lonely Grill](https://open.spotify.com/album/7ykiOoPC4GLrVYSDVdDGq2) | 4:00 |
 | 52 | [True Colors](https://open.spotify.com/track/2A6yzRGMgSQCUapR2ptm6A) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [True Colors](https://open.spotify.com/album/31TRqoVBTQi0lzlPLtvINn) | 3:47 |
 | 53 | [I'll Make Love To You](https://open.spotify.com/track/7dfl9X38RhIvB3oSmmneq3) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [II](https://open.spotify.com/album/1DjxZpmeR9Dzu9tF4J44S7) | 3:56 |
-| 54 | [Now And Forever](https://open.spotify.com/track/2V2pxcEfn5zs79sE7qcewA) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Paid Vacation](https://open.spotify.com/album/4Rrm9Du0htwyux1jNjsYCx) | 3:34 |
-| 55 | [When a Man Loves a Woman](https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av) | [Percy Sledge](https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO) | [When a Man Loves a Woman](https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M) | 2:53 |
-| 56 | [Don't Know Much \(with Aaron Neville\)](https://open.spotify.com/track/5z3ZDMP02xF33yCvPFnct3) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc), [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [Cry Like a Rainstorm Howl Like the Wind](https://open.spotify.com/album/3f8tUCF1ThwqtNdifZiExM) | 3:31 |
-| 57 | [Woman in Love](https://open.spotify.com/track/1pTGc8pwyo6xtgXBKCBcFn) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [Guilty](https://open.spotify.com/album/5mMebbufullX8FIhpCxwCt) | 3:53 |
+| 54 | [When a Man Loves a Woman](https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av) | [Percy Sledge](https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO) | [When a Man Loves a Woman](https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M) | 2:53 |
+| 55 | [Now And Forever](https://open.spotify.com/track/2V2pxcEfn5zs79sE7qcewA) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Paid Vacation](https://open.spotify.com/album/4Rrm9Du0htwyux1jNjsYCx) | 3:34 |
+| 56 | [Woman in Love](https://open.spotify.com/track/1pTGc8pwyo6xtgXBKCBcFn) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [Guilty](https://open.spotify.com/album/5mMebbufullX8FIhpCxwCt) | 3:53 |
+| 57 | [Don't Know Much \(with Aaron Neville\)](https://open.spotify.com/track/5z3ZDMP02xF33yCvPFnct3) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc), [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [Cry Like a Rainstorm Howl Like the Wind](https://open.spotify.com/album/3f8tUCF1ThwqtNdifZiExM) | 3:31 |
 | 58 | [Said I Loved You...But I Lied](https://open.spotify.com/track/2nfMrwg3aRhSAv4HX7IzJL) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [The One Thing](https://open.spotify.com/album/76UFgbtfCFi3mGjckycfvX) | 5:04 |
 | 59 | [Perfect Duet \(Ed Sheeran & Beyoncé\)](https://open.spotify.com/track/1bhUWB0zJMIKr9yVPrkEuI) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Perfect Duet \(Ed Sheeran & Beyoncé\)](https://open.spotify.com/album/52kvZcbEDm0v2kWZQXjuuA) | 4:19 |
 | 60 | [Breathe](https://open.spotify.com/track/3y4LxiYMgDl4RethdzpmNe) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Breathe](https://open.spotify.com/album/3BGPil8BDPVoDK0lnUPtvb) | 4:10 |

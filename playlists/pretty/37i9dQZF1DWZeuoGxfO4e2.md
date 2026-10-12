@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeuoGxfO4e2.md) - [plain]
 
 > Celebramos a las figuras legendarias del rock en nuestro idioma\. Foto: Soda Stereo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 765,505 likes - 100 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 765,586 likes - 100 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,12 +67,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeuoGxfO4e2.md) - [plain]
 | 57 | [Oye Como Va](https://open.spotify.com/track/5u6y4u5EgDv0peILf60H5t) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Abraxas](https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6) | 4:20 |
 | 58 | [Vendedora de Caricias](https://open.spotify.com/track/4jikVslCvDrDysc3p4tFHM) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Panteón Rococó](https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg) | 3:45 |
 | 59 | [Para no olvidar](https://open.spotify.com/track/1ZGs4W7LBJy68hRPTsvMFc) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K) | [Palabras más, palabras menos](https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t) | 3:54 |
-| 60 | [Y Que](https://open.spotify.com/track/5YRhQ7h8w2cMCY2teyjax6) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspector](https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB) | 3:45 |
-| 61 | [Putita](https://open.spotify.com/track/0SaKhiBPgdRaQKA7Bxu3ek) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Infame](https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn) | 3:45 |
-| 62 | [Será](https://open.spotify.com/track/60IzIxSuVAtU71yCmHjxHH) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Esperando el Milagro](https://open.spotify.com/album/7nXlmH0p6PfgKTsxy3DzCT) | 3:01 |
+| 60 | [Putita](https://open.spotify.com/track/0SaKhiBPgdRaQKA7Bxu3ek) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Infame](https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn) | 3:45 |
+| 61 | [Será](https://open.spotify.com/track/60IzIxSuVAtU71yCmHjxHH) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Esperando el Milagro](https://open.spotify.com/album/7nXlmH0p6PfgKTsxy3DzCT) | 3:01 |
+| 62 | [Y Que](https://open.spotify.com/track/5YRhQ7h8w2cMCY2teyjax6) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspector](https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB) | 3:45 |
 | 63 | [Seguir Viviendo Sin Tu Amor](https://open.spotify.com/track/2qBirMakpTdz9ymxrZEyzg) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Peluson Of Milk](https://open.spotify.com/album/0sEqp7Del2dp8HmXE8Geqv) | 2:40 |
-| 64 | [Lady Blue](https://open.spotify.com/track/492aSGsuE0dOOBKB66781Z) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Flamingos](https://open.spotify.com/album/2MUTc0OJT6lOZCwifS1LyB) | 5:29 |
-| 65 | [Razón](https://open.spotify.com/track/2dSz2px33HmyFwL5rDlh2e) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Bailarín Apocalíptico](https://open.spotify.com/album/1wLDlwN9FfneiyC5ZuJIeQ) | 3:15 |
+| 64 | [Razón](https://open.spotify.com/track/2dSz2px33HmyFwL5rDlh2e) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Bailarín Apocalíptico](https://open.spotify.com/album/1wLDlwN9FfneiyC5ZuJIeQ) | 3:15 |
+| 65 | [Lady Blue](https://open.spotify.com/track/492aSGsuE0dOOBKB66781Z) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Flamingos](https://open.spotify.com/album/2MUTc0OJT6lOZCwifS1LyB) | 5:29 |
 | 66 | [Luna de Miel en la Mano](https://open.spotify.com/track/1qWLCuCnNcQVVzJm4pu7Zv) | [Virus](https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV) | [Locura](https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r) | 5:16 |
 | 67 | [Lago en el Cielo](https://open.spotify.com/track/17eJyYLIlMNlOqcwHYJ9F2) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Ahí Vamos](https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP) | 5:08 |
 | 68 | [Gimme Tha Power](https://open.spotify.com/track/7bN2XAxC3SN8Ie16xP6lpm) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [¿Dónde Jugarán Las Niñas?](https://open.spotify.com/album/7EIqLMVIGdxmuXIscBAyn0) | 4:10 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeuoGxfO4e2.md) - [plain]
 | 71 | [La Lola](https://open.spotify.com/track/5hyq5k3Do9gW3HGvDg5ZEJ) | [Café Quijano](https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z) | [La Extraordinaria Paradoja Del Sonido Quijano](https://open.spotify.com/album/5PvhfeSnVId3ZknKo9ztID) | 3:17 |
 | 72 | [Pobre soñador](https://open.spotify.com/track/6UjxBtLPznyXztlMAFrtOW) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [25 años](https://open.spotify.com/album/1nscC8n3kewpA9DAHybQ9L) | 3:50 |
 | 73 | [Las flores](https://open.spotify.com/track/0oakHTPj4SF7Si0NAsLwi8) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Re](https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84) | 2:15 |
-| 74 | [Mi Vida](https://open.spotify.com/track/4f6bE40jl7zuFJ3cOCwaI1) | [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [José José, Un Tributo 1 & 2](https://open.spotify.com/album/103zw9Qm9BRCdlb3mYsBOl) | 4:42 |
-| 75 | [Personalmente](https://open.spotify.com/track/7q7XFO9av9VpNJSXKJwJxD) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Despierta](https://open.spotify.com/album/0289kJfdXVBPSDJfQ1fPJz) | 4:10 |
+| 74 | [Personalmente](https://open.spotify.com/track/7q7XFO9av9VpNJSXKJwJxD) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Despierta](https://open.spotify.com/album/0289kJfdXVBPSDJfQ1fPJz) | 4:10 |
+| 75 | [Mi Vida](https://open.spotify.com/track/4f6bE40jl7zuFJ3cOCwaI1) | [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [José José, Un Tributo 1 & 2](https://open.spotify.com/album/103zw9Qm9BRCdlb3mYsBOl) | 4:42 |
 | 76 | [Arrancacorazones](https://open.spotify.com/track/2zogXcCqvKJwh3o67W3GG3) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [Antihumano](https://open.spotify.com/album/3NsuNDcnIc0jAxpC9svIbz) | 4:19 |
 | 77 | [Loco](https://open.spotify.com/track/0jePqZlutXGa8xz6NNyKAy) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Alta Suciedad](https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6) | 3:37 |
 | 78 | [El amor después del amor](https://open.spotify.com/track/1PQzZbitOJ6XPFg7FFzsKQ) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [El Amor Después del Amor](https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5) | 5:11 |
@@ -102,9 +102,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeuoGxfO4e2.md) - [plain]
 | 92 | [Nos Siguen Pegando Abajo](https://open.spotify.com/track/4VikOud5ZmdmHH6h7uQeDB) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Clics Modernos](https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H) | 3:26 |
 | 93 | [Monitor](https://open.spotify.com/track/7on4qNO1Iu5EX61mD80Cgv) | [Volován](https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA) | [Monitor](https://open.spotify.com/album/4HTEL3Aof6nEnNLGrnUtdB) | 3:57 |
 | 94 | [¿Qué Ves?](https://open.spotify.com/track/0aad6vDkOmu9d1aFNvOwYC) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [La Era De La Boludez](https://open.spotify.com/album/4D1aIzUYKG6jytRjgT0QIx) | 5:13 |
-| 95 | [Vivo](https://open.spotify.com/track/5IfhLKhOBkHazqaoqFzH8G) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Amor Chiquito](https://open.spotify.com/album/1oNccmu6KxWyQnGi9P7g5u) | 4:43 |
+| 95 | [Manuel Santillán, el León \(Versión Reggae\) \- Remasterizado 2008](https://open.spotify.com/track/41MfyUSxQoo1BgIsNj8eDS) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [El León](https://open.spotify.com/album/3ECynr5YW2UuIJFPOGve9H) | 3:57 |
 | 96 | [Aquí](https://open.spotify.com/track/4aDtCVcQCkR7zYa8jwLciP) | [La Ley](https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK) | [Uno](https://open.spotify.com/album/0cbMRBnrfgHOfy8O5qRxcK) | 4:44 |
-| 97 | [Manuel Santillán, el León \(Versión Reggae\) \- Remasterizado 2008](https://open.spotify.com/track/41MfyUSxQoo1BgIsNj8eDS) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [El León](https://open.spotify.com/album/3ECynr5YW2UuIJFPOGve9H) | 3:57 |
+| 97 | [Vivo](https://open.spotify.com/track/5IfhLKhOBkHazqaoqFzH8G) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Amor Chiquito](https://open.spotify.com/album/1oNccmu6KxWyQnGi9P7g5u) | 4:43 |
 | 98 | [Grita](https://open.spotify.com/track/0wmYFlVkmGVUtfcY1r0SrP) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [La Flaca](https://open.spotify.com/album/6mD9lN6mqu4313KpY1RfIp) | 3:32 |
 | 99 | [Zafar](https://open.spotify.com/track/1wIUWGdTdhVk5gIPd0ULxX) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [A Contraluz](https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL) | 4:22 |
 | 100 | [Beber de Tu Sangre](https://open.spotify.com/track/3Gr4OWY7lAXAq7PpgUbctG) | [Los Amantes De Lola](https://open.spotify.com/artist/7IwYwKG6VacXOThKHvPgUc) | [Rock En Espanol \- Lo Mejor De Los Amantes De Lola](https://open.spotify.com/album/38l9gB9jzOiWkQaR36ZhUG) | 4:36 |

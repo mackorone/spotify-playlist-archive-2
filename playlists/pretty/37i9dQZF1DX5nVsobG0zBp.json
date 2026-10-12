@@ -1,6 +1,6 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Richie Campbell",
-  "num_followers": 88388,
+  "num_followers": 88401,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2026-09-25 12:58:09",
       "album": {
-        "name": "Devia Ir",
-        "url": "https://open.spotify.com/album/1Sg69oASUTiS8NM0XlGqaZ"
+        "name": "Lua",
+        "url": "https://open.spotify.com/album/7tMIxE9bA5hgemL5tUzvI1"
       },
       "artists": [
         {
-          "name": "Wet Bed Gang",
-          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
         }
       ],
-      "duration_ms": 293748,
-      "name": "Devia Ir",
-      "url": "https://open.spotify.com/track/1ftBvRj542ol7LT1A0EtL7"
+      "duration_ms": 192631,
+      "name": "Lua",
+      "url": "https://open.spotify.com/track/7BELSQR2lAJLELaKvVkct3"
     },
     {
       "added_at": "2026-09-25 12:58:09",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2026-09-25 12:58:09",
       "album": {
-        "name": "Lua",
-        "url": "https://open.spotify.com/album/7tMIxE9bA5hgemL5tUzvI1"
+        "name": "Devia Ir",
+        "url": "https://open.spotify.com/album/1Sg69oASUTiS8NM0XlGqaZ"
       },
       "artists": [
         {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
         }
       ],
-      "duration_ms": 192631,
-      "name": "Lua",
-      "url": "https://open.spotify.com/track/7BELSQR2lAJLELaKvVkct3"
+      "duration_ms": 293748,
+      "name": "Devia Ir",
+      "url": "https://open.spotify.com/track/1ftBvRj542ol7LT1A0EtL7"
     },
     {
       "added_at": "2026-09-25 12:58:09",
@@ -1395,22 +1395,6 @@
       "duration_ms": 222642,
       "name": "S\u00f3 Queria Sorrir",
       "url": "https://open.spotify.com/track/5oGOwG8FhaKQyXrruJKkk6"
-    },
-    {
-      "added_at": "2026-09-25 12:58:09",
-      "album": {
-        "name": "Bairro",
-        "url": "https://open.spotify.com/album/430C90nJt95Ie8YPDZFA46"
-      },
-      "artists": [
-        {
-          "name": "Wet Bed Gang",
-          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
-        }
-      ],
-      "duration_ms": 258590,
-      "name": "Bairro",
-      "url": "https://open.spotify.com/track/1ai9FDnFQDv18WAtFhMTIz"
     },
     {
       "added_at": "2026-09-25 12:58:09",
@@ -1459,6 +1443,22 @@
       "duration_ms": 223100,
       "name": "Imagina",
       "url": "https://open.spotify.com/track/2dWbucCC3cVXQWi6JaL7js"
+    },
+    {
+      "added_at": "2026-09-25 12:58:09",
+      "album": {
+        "name": "Bairro",
+        "url": "https://open.spotify.com/album/430C90nJt95Ie8YPDZFA46"
+      },
+      "artists": [
+        {
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
+        }
+      ],
+      "duration_ms": 258590,
+      "name": "Bairro",
+      "url": "https://open.spotify.com/track/1ai9FDnFQDv18WAtFhMTIz"
     }
   ],
   "unique_name": "Rap Tuga Hits",

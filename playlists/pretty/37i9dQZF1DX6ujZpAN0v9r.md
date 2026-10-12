@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 
 > The essential beautiful noise: sweet and sour fuzz to warm your heart\. Slowdive on cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 704,971 likes - 156 songs - 12 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 705,033 likes - 156 songs - 12 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 6 | [Catch The Breeze](https://open.spotify.com/track/4cz5bBa239LZ0Pt5DrJXYK) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Just For A Day](https://open.spotify.com/album/7761KE2C9rH1QO9WAE1Ysb) | 4:19 |
 | 7 | [Mayonaise \- 2011 Remaster](https://open.spotify.com/track/0AJTKW9fVFo3rIXbtTVE3T) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Siamese Dream \(2011 \- Remaster\)](https://open.spotify.com/album/2Qs2SpclDToB087fLolhCN) | 5:48 |
 | 8 | [Scenic](https://open.spotify.com/track/7mneRO01pJtLWlIiSptL9d) | [Ozean](https://open.spotify.com/artist/7oG49IUY8ulam2msuMN8v0) | [Ozean](https://open.spotify.com/album/3FTlAoDqVX3LDdsRdAe8jM) | 4:48 |
-| 9 | [When You Sleep](https://open.spotify.com/track/3HfEgAaf0koxBpBB8NvGda) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Loveless](https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6) | 4:11 |
-| 10 | [Leave Them All Behind \- 2001 Remaster](https://open.spotify.com/track/0t4JQeO8qLKzQFcXuTitgk) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX) | [Going Blank Again \(Expanded\)](https://open.spotify.com/album/5l70cCHX1QzN680J68rblF) | 8:17 |
+| 9 | [Leave Them All Behind \- 2001 Remaster](https://open.spotify.com/track/0t4JQeO8qLKzQFcXuTitgk) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX) | [Going Blank Again \(Expanded\)](https://open.spotify.com/album/5l70cCHX1QzN680J68rblF) | 8:17 |
+| 10 | [When You Sleep](https://open.spotify.com/track/3HfEgAaf0koxBpBB8NvGda) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Loveless](https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6) | 4:11 |
 | 11 | [40 Days](https://open.spotify.com/track/3jQBAyQVJSl9fc6l4tsWWP) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Souvlaki](https://open.spotify.com/album/4i21O3uVh5palcfFhCjlT7) | 3:15 |
 | 12 | [flower](https://open.spotify.com/track/01fudEnybVTbUfAbIsXz8q) | [Blue Smiley](https://open.spotify.com/artist/4zaUiALGzCjfr0s9WKXCXL) | [ok](https://open.spotify.com/album/0rdqoGy3iMbJJDjiOKrywY) | 1:15 |
 | 13 | [Tastes Like Honey](https://open.spotify.com/track/7801eWQNK09cfzQ5By5n8T) | [Swallow](https://open.spotify.com/artist/6HXzAVwfQyS92X8UN6JVAu) | [Blow](https://open.spotify.com/album/1Zy8fVIXPCW8Y0K0xpd7Cz) | 4:41 |
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 21 | [Slide Away \- Remastered 2016](https://open.spotify.com/track/0Sr9uJqXFAvqHcgwg3UjY5) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [A Storm In Heaven \(Remastered 2016 / Deluxe\)](https://open.spotify.com/album/02hoMMI8uT38gkU2mJN10t) | 4:03 |
 | 22 | [Time Baby III](https://open.spotify.com/track/5tujK4iuRbqaDQv94ZRH98) | [Medicine](https://open.spotify.com/artist/61uYVpJPgBq9dNrfUy6kTp), [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC) | [The Crow Original Motion Picture Soundtrack](https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n) | 3:51 |
 | 23 | [bird](https://open.spotify.com/track/6aC2oJJirBozj0cT6E2g1t) | [Blue Smiley](https://open.spotify.com/artist/4zaUiALGzCjfr0s9WKXCXL) | [return](https://open.spotify.com/album/2wSCeijPFFOhlfvOQhgdss) | 1:42 |
-| 24 | [Pancake](https://open.spotify.com/track/00YCRrySf0dJ6nRCKYSAkA) | [Swirlies](https://open.spotify.com/artist/0Zk7We5BZoDR40himAI86D) | [Blonder Tongue Audio Baton](https://open.spotify.com/album/0bOwhaZsDgLWVIUd4mU7U5) | 3:15 |
+| 24 | [Dark Stone](https://open.spotify.com/track/4WVb36fxYnEHVKDKiMRZHw) | [Holy Fawn](https://open.spotify.com/artist/13rS3lCWshTVt6HsCNjvBI) | [Death Spells](https://open.spotify.com/album/3L9kfqui54S1V2MvOHKmJC) | 6:22 |
 | 25 | [Calendar](https://open.spotify.com/track/0f5zmYlqbw8szBtaVZhnGE) | [Alison's Halo](https://open.spotify.com/artist/1xD4rzgPGOwrc7RHZywzKg) | [Eyedazzler](https://open.spotify.com/album/0FN1w00CzlN3HMdkmqiWls) | 5:48 |
-| 26 | [Dark Stone](https://open.spotify.com/track/4WVb36fxYnEHVKDKiMRZHw) | [Holy Fawn](https://open.spotify.com/artist/13rS3lCWshTVt6HsCNjvBI) | [Death Spells](https://open.spotify.com/album/3L9kfqui54S1V2MvOHKmJC) | 6:22 |
+| 26 | [Pancake](https://open.spotify.com/track/00YCRrySf0dJ6nRCKYSAkA) | [Swirlies](https://open.spotify.com/artist/0Zk7We5BZoDR40himAI86D) | [Blonder Tongue Audio Baton](https://open.spotify.com/album/0bOwhaZsDgLWVIUd4mU7U5) | 3:15 |
 | 27 | [Pearl \- 12'' Version](https://open.spotify.com/track/19QGKOXTqmk1ezHQpiUIwA) | [Chapterhouse](https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ) | [Best Of](https://open.spotify.com/album/3aZ04o7EWxUYaJiQA1f9EE) | 5:14 |
 | 28 | [Rocket \- 2011 Remaster](https://open.spotify.com/track/1nbXNrayQOc9UGVEudhlaT) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Siamese Dream \(2011 \- Remaster\)](https://open.spotify.com/album/2Qs2SpclDToB087fLolhCN) | 4:06 |
 | 29 | [Fall](https://open.spotify.com/track/0nxOpJ3zHKAvrWtx8l7XQ8) | [Ozean](https://open.spotify.com/artist/7oG49IUY8ulam2msuMN8v0) | [Ozean](https://open.spotify.com/album/3FTlAoDqVX3LDdsRdAe8jM) | 4:59 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 66 | [A Fading Smile](https://open.spotify.com/track/4zV1IR8ZGLMWgBbVNGnYgd) | [Alcian Blue](https://open.spotify.com/artist/3hIgKWB9U0IMNJsBLfixET) | [Years Too Late](https://open.spotify.com/album/3HEEpQxUXRB7GX9HUcwu6v) | 4:20 |
 | 67 | [Dance AM](https://open.spotify.com/track/6MJh7i7sDHNcjXoW0XWP1s) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Dance AM](https://open.spotify.com/album/52R2Lt3CRjW7tvf0slRYtE) | 4:32 |
 | 68 | [The Seaside \- Edit](https://open.spotify.com/track/1NzrEMlDGFMhVpkquqO8zZ) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [EP1](https://open.spotify.com/album/0nXVT3uABRGS2yObbKA2eQ) | 3:27 |
-| 69 | [Sunshy](https://open.spotify.com/track/5BiVdcPY0rIgP8kEWSwN7J) | [Alison's Halo](https://open.spotify.com/artist/0QqpFsm55FdqfpCEIiHUgS) | [Cherry Stars Collide: Dream Pop, Shoegaze and Ethereal Rock 1986\-1995](https://open.spotify.com/album/3MFsMOGhABJMO6DIuoyLUF) | 5:53 |
-| 70 | [Heavy Water / I'd Rather Be Sleeping](https://open.spotify.com/track/2lKvOmRdGrctk2AMPcKhjn) | [Nothing](https://open.spotify.com/artist/6wgWGtoBlNofKC6Z1i4yyW) | [Heavy Water / I'd Rather Be Sleeping](https://open.spotify.com/album/5vMsogprlxHsjreQ57Zz8d) | 4:08 |
+| 69 | [Heavy Water / I'd Rather Be Sleeping](https://open.spotify.com/track/2lKvOmRdGrctk2AMPcKhjn) | [Nothing](https://open.spotify.com/artist/6wgWGtoBlNofKC6Z1i4yyW) | [Heavy Water / I'd Rather Be Sleeping](https://open.spotify.com/album/5vMsogprlxHsjreQ57Zz8d) | 4:08 |
+| 70 | [Sunshy](https://open.spotify.com/track/5BiVdcPY0rIgP8kEWSwN7J) | [Alison's Halo](https://open.spotify.com/artist/0QqpFsm55FdqfpCEIiHUgS) | [Cherry Stars Collide: Dream Pop, Shoegaze and Ethereal Rock 1986\-1995](https://open.spotify.com/album/3MFsMOGhABJMO6DIuoyLUF) | 5:53 |
 | 71 | [Square Wave](https://open.spotify.com/track/2clQfhmmnq7jUBWjloMGsW) | [The Ecstasy Of Saint Theresa](https://open.spotify.com/artist/37WxvPv7fSfSDpy1H0D4AO) | [Still In A Dream: A Story Of Shoegaze 1988\-1995](https://open.spotify.com/album/6Ttk5uAzFj13ribmHHcBao) | 3:41 |
 | 72 | [Prayer Song](https://open.spotify.com/track/3CIkfgQ4r6MPCDmWOl2AEo) | [The Charlottes](https://open.spotify.com/artist/4kgTkv0kJu4b2psOX7yJNL) | [Cherry Stars Collide: Dream Pop, Shoegaze and Ethereal Rock 1986\-1995](https://open.spotify.com/album/3MFsMOGhABJMO6DIuoyLUF) | 4:27 |
 | 73 | [Splashdown](https://open.spotify.com/track/2BikDWeXjSKJIZsaphX9JX) | [The Telescopes](https://open.spotify.com/artist/5MTQzge85m3QSefD2LdS1J) | [Splashdown: The Complete Creation Recordings 1990\-1992](https://open.spotify.com/album/2g4LXTfn5vxwW2nO1tt6FG) | 3:11 |

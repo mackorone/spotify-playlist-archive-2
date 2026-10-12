@@ -4,7 +4,7 @@
 
 > Calming music accompanied by the waves of the ocean\. Breathe with the ebb and flow of the sea.
 
-244 songs - 11 hr 38 min
+245 songs - 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Blue Sky \(by the Ocean\) \- Piano](https://open.spotify.com/track/7zrogcxka5pmhoeBhJicES) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Ocean Lullaby](https://open.spotify.com/album/7356b9TsGhH8iAxUjWuVEp) | 2:12 | 2024-04-01 | 2024-07-09 |
 | [Breath](https://open.spotify.com/track/3ynjx5qNqunqg3x9HxW01h) | [Sweep Bliss](https://open.spotify.com/artist/55CnRvpF9JA5WhyNPemvY9) | [Eternals](https://open.spotify.com/album/6fmoSPgmDhT0vfblMgUT4z) | 2:14 | 2023-10-23 |  |
 | [Breathe \(In\)](https://open.spotify.com/track/6UekpPcGc2aDL7aS6dPxJI) | [JourneyBox](https://open.spotify.com/artist/0ocsTfx1K6pwl9U26u9sc1) | [Synchrony](https://open.spotify.com/album/4TpOJqxAzu1yb2DCwZcux0) | 4:08 | 2025-02-18 |  |
-| [Breezing](https://open.spotify.com/track/6pvbXU9Iop7E38IDOR269J) | [turquoise waters](https://open.spotify.com/artist/3N7b5YuDB0LngChyXbKZZK) | [Breezing](https://open.spotify.com/album/0V4ZUcZU62VwEtuKxrDGZ4) | 2:43 | 2023-10-26 |  |
+| [Breezing](https://open.spotify.com/track/6pvbXU9Iop7E38IDOR269J) | [turquoise waters](https://open.spotify.com/artist/3N7b5YuDB0LngChyXbKZZK) | [Breezing](https://open.spotify.com/album/0V4ZUcZU62VwEtuKxrDGZ4) | 2:43 | 2023-10-26 | 2026-10-12 |
 | [Brionglóid \(Sound Bath\)](https://open.spotify.com/track/6Kvv8jjMQzOROquokHQ2FF) | [Tamila Gagan](https://open.spotify.com/artist/7hIHAT0tpW2OySiuVog60k) | [Brionglóid \(Sound Bath\)](https://open.spotify.com/album/59lt6zR15MfN9LUnMpTD1Y) | 2:45 | 2023-10-23 |  |
 | [By The Ocean](https://open.spotify.com/track/7uuDzZ9bfedUL6XTyYah9T) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [By The Ocean](https://open.spotify.com/album/4s8hwiM2MR8KrP04R9kZv4) | 2:46 | 2025-04-01 |  |
 | [By the Ocean](https://open.spotify.com/track/3wiPradzeWPto8383InaTd) | [Refugium](https://open.spotify.com/artist/4zMvYPGhp76vbz8bGgxjjC) | [By the Ocean](https://open.spotify.com/album/7nwYwuMy0khyxJl7hgfCE4) | 3:05 | 2025-01-15 | 2026-06-13 |
@@ -181,6 +181,7 @@
 | [Pra Ae](https://open.spotify.com/track/0PZQezoyHDKnpk28LwAtfc) | [Forrest Gomez](https://open.spotify.com/artist/1PHHfV4BP0QFgommlTuc6Q) | [Pra Ae](https://open.spotify.com/album/50y0X3amN6i9ekVr9tggXU) | 2:17 | 2024-03-01 |  |
 | [precious](https://open.spotify.com/track/6X33ozLJBIbYDFnvqqmIFm) | [Fred Russ](https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K) | [precious](https://open.spotify.com/album/6nmYVTu0G7AW4pf7LJkWN4) | 2:16 | 2024-09-04 |  |
 | [Pukaki Passion](https://open.spotify.com/track/0AUpYDRGRJzA4gKkYQc1c5) | [Greet The Day](https://open.spotify.com/artist/1NOoLv44Fhhctc2GYYMD7R) | [Pukaki Passion](https://open.spotify.com/album/2iXVcEH9ABo2oIZelDAbnj) | 3:09 | 2023-10-26 |  |
+| [Quem Tem Mar](https://open.spotify.com/track/65JSauwaxiMo1bPDIESTnx) | [Fernando Alegre](https://open.spotify.com/artist/3dz7P4W10BnNyKKvT8RWWn) | [Quem Tem Mar](https://open.spotify.com/album/532hJEdb0fX04tOndreU1u) | 3:09 | 2026-10-05 |  |
 | [Reaching Waves](https://open.spotify.com/track/1hIgkWfHCKetneFMw5H3Td) | [Fleurs de Son](https://open.spotify.com/artist/4vlZU5f5zVuZsVk11MeDd3) | [Reaching Waves](https://open.spotify.com/album/6qQ71QzjNiDyncq5UzHW5s) | 2:38 | 2023-10-26 | 2025-10-03 |
 | [Rebuild](https://open.spotify.com/track/6xYoQ0EtHqtvhgm8zlxHUa) | [Toni Fairbanks](https://open.spotify.com/artist/11M2X5cWg29k0Xg2eHLJHy) | [Rebuild](https://open.spotify.com/album/38zNoXSDR3Isa9xG2li7vY) | 4:28 | 2024-02-06 | 2024-08-01 |
 | [Restore](https://open.spotify.com/track/0hqSBm1sipCxHVl3qj1pNX) | [Misha Burton](https://open.spotify.com/artist/4jjbyStVj5wtgQpHtxL3ue) | [Restore](https://open.spotify.com/album/27FSIb0jOgNAiRthYgCWZ0) | 3:02 | 2023-10-23 | 2026-02-28 |

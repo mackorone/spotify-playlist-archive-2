@@ -1,6 +1,6 @@
 {
   "description": "If you're blessed!",
-  "num_followers": 22145,
+  "num_followers": 22155,
   "original_name": "Blessed",
   "owner": {
     "name": "Spotify",
@@ -469,6 +469,30 @@
       "url": "https://open.spotify.com/track/5WDbJHOq4PksAQVxQbWEQV"
     },
     {
+      "added_at": "2026-08-28 00:01:38",
+      "album": {
+        "name": "FAVOUR",
+        "url": "https://open.spotify.com/album/1wTcgfvbZAABUaM7pytnq5"
+      },
+      "artists": [
+        {
+          "name": "Daniel Mylez",
+          "url": "https://open.spotify.com/artist/3PoZsBUVUU8Veps0p9dabE"
+        },
+        {
+          "name": "Festizie",
+          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
+        },
+        {
+          "name": "Protek Illasheva",
+          "url": "https://open.spotify.com/artist/5E8DCdcnM0P7tHQP9CjXcP"
+        }
+      ],
+      "duration_ms": 242285,
+      "name": "FAVOUR",
+      "url": "https://open.spotify.com/track/2A5T6u23iRWLAB9pmDONkX"
+    },
+    {
       "added_at": "2026-07-17 00:01:08",
       "album": {
         "name": "Yours Truly",
@@ -503,30 +527,6 @@
       "duration_ms": 257644,
       "name": "Omemma",
       "url": "https://open.spotify.com/track/4YfOEXttugon5YXM3TjJGz"
-    },
-    {
-      "added_at": "2026-08-28 00:01:38",
-      "album": {
-        "name": "FAVOUR",
-        "url": "https://open.spotify.com/album/1wTcgfvbZAABUaM7pytnq5"
-      },
-      "artists": [
-        {
-          "name": "Daniel Mylez",
-          "url": "https://open.spotify.com/artist/3PoZsBUVUU8Veps0p9dabE"
-        },
-        {
-          "name": "Festizie",
-          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
-        },
-        {
-          "name": "Protek Illasheva",
-          "url": "https://open.spotify.com/artist/5E8DCdcnM0P7tHQP9CjXcP"
-        }
-      ],
-      "duration_ms": 242285,
-      "name": "FAVOUR",
-      "url": "https://open.spotify.com/track/2A5T6u23iRWLAB9pmDONkX"
     },
     {
       "added_at": "2025-02-14 00:01:09",
@@ -733,22 +733,6 @@
       "url": "https://open.spotify.com/track/7FzPrWUZ5WCBPYICSTZmmr"
     },
     {
-      "added_at": "2026-04-03 00:01:46",
-      "album": {
-        "name": "Yeshua!",
-        "url": "https://open.spotify.com/album/6f1T835QYYd56uvPFg2gj8"
-      },
-      "artists": [
-        {
-          "name": "Vic Lucas",
-          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
-        }
-      ],
-      "duration_ms": 220766,
-      "name": "Yeshua!",
-      "url": "https://open.spotify.com/track/1j9kTaj53ZnU2JOXPbgGhN"
-    },
-    {
       "added_at": "2026-08-07 00:01:10",
       "album": {
         "name": "Many",
@@ -763,6 +747,22 @@
       "duration_ms": 158478,
       "name": "Many",
       "url": "https://open.spotify.com/track/38Bc8Z1AFPpUoWnolmwi7Y"
+    },
+    {
+      "added_at": "2026-04-03 00:01:46",
+      "album": {
+        "name": "Yeshua!",
+        "url": "https://open.spotify.com/album/6f1T835QYYd56uvPFg2gj8"
+      },
+      "artists": [
+        {
+          "name": "Vic Lucas",
+          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
+        }
+      ],
+      "duration_ms": 220766,
+      "name": "Yeshua!",
+      "url": "https://open.spotify.com/track/1j9kTaj53ZnU2JOXPbgGhN"
     },
     {
       "added_at": "2026-05-15 00:01:23",
@@ -797,22 +797,6 @@
       "url": "https://open.spotify.com/track/53y4ULVul9iY3XnUx5720J"
     },
     {
-      "added_at": "2026-08-21 00:01:32",
-      "album": {
-        "name": "Reign Jesus",
-        "url": "https://open.spotify.com/album/4vsstCcMsyok7uakh0qBs1"
-      },
-      "artists": [
-        {
-          "name": "Evans Ighodalo",
-          "url": "https://open.spotify.com/artist/0g3JSjP5xE0ljj4TmNv6Av"
-        }
-      ],
-      "duration_ms": 186318,
-      "name": "Reign Jesus",
-      "url": "https://open.spotify.com/track/4QHPE3bbVO88z8hVlezd0f"
-    },
-    {
       "added_at": "2026-07-31 00:01:30",
       "album": {
         "name": "This Joy",
@@ -831,6 +815,22 @@
       "duration_ms": 243692,
       "name": "This Joy",
       "url": "https://open.spotify.com/track/072Sq0ueJbKXahJvg21OC8"
+    },
+    {
+      "added_at": "2026-08-21 00:01:32",
+      "album": {
+        "name": "Reign Jesus",
+        "url": "https://open.spotify.com/album/4vsstCcMsyok7uakh0qBs1"
+      },
+      "artists": [
+        {
+          "name": "Evans Ighodalo",
+          "url": "https://open.spotify.com/artist/0g3JSjP5xE0ljj4TmNv6Av"
+        }
+      ],
+      "duration_ms": 186318,
+      "name": "Reign Jesus",
+      "url": "https://open.spotify.com/track/4QHPE3bbVO88z8hVlezd0f"
     },
     {
       "added_at": "2024-09-30 14:25:52",
@@ -901,6 +901,22 @@
       "url": "https://open.spotify.com/track/4dlkdZmcHiNQwyg248UXH0"
     },
     {
+      "added_at": "2026-10-09 00:01:36",
+      "album": {
+        "name": "No Other Saviour",
+        "url": "https://open.spotify.com/album/3gczJFglRLc8S2VALfEwIe"
+      },
+      "artists": [
+        {
+          "name": "Minister GUC",
+          "url": "https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL"
+        }
+      ],
+      "duration_ms": 1026979,
+      "name": "No Other Saviour",
+      "url": "https://open.spotify.com/track/4aBITS0tTpnPkCjH5dVgPI"
+    },
+    {
       "added_at": "2026-05-01 00:02:08",
       "album": {
         "name": "Will Be Done",
@@ -941,6 +957,22 @@
       "url": "https://open.spotify.com/track/3pKSt41GhJwhCn5JFIeEcf"
     },
     {
+      "added_at": "2026-10-02 00:01:17",
+      "album": {
+        "name": "Hollow of Your Hands",
+        "url": "https://open.spotify.com/album/1WxjNXWW9tcct8k9Z07GIK"
+      },
+      "artists": [
+        {
+          "name": "Moses Akoh",
+          "url": "https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT"
+        }
+      ],
+      "duration_ms": 277000,
+      "name": "Hollow of Your Hands",
+      "url": "https://open.spotify.com/track/0qNXioiAXhoRi5IuCBSRGN"
+    },
+    {
       "added_at": "2026-08-14 00:01:28",
       "album": {
         "name": "Eze Mo (Live)",
@@ -975,22 +1007,6 @@
       "duration_ms": 836670,
       "name": "Covenant Keeping God",
       "url": "https://open.spotify.com/track/1hhgSr6jl97R9znizeUrM0"
-    },
-    {
-      "added_at": "2026-10-02 00:01:17",
-      "album": {
-        "name": "Hollow of Your Hands",
-        "url": "https://open.spotify.com/album/1WxjNXWW9tcct8k9Z07GIK"
-      },
-      "artists": [
-        {
-          "name": "Moses Akoh",
-          "url": "https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT"
-        }
-      ],
-      "duration_ms": 277000,
-      "name": "Hollow of Your Hands",
-      "url": "https://open.spotify.com/track/0qNXioiAXhoRi5IuCBSRGN"
     },
     {
       "added_at": "2026-05-22 00:01:37",
@@ -1041,22 +1057,6 @@
       "url": "https://open.spotify.com/track/2GYMuD74LVwPQRz5KrFzid"
     },
     {
-      "added_at": "2026-10-09 00:01:36",
-      "album": {
-        "name": "No Other Saviour",
-        "url": "https://open.spotify.com/album/3gczJFglRLc8S2VALfEwIe"
-      },
-      "artists": [
-        {
-          "name": "Minister GUC",
-          "url": "https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL"
-        }
-      ],
-      "duration_ms": 1026979,
-      "name": "No Other Saviour",
-      "url": "https://open.spotify.com/track/4aBITS0tTpnPkCjH5dVgPI"
-    },
-    {
       "added_at": "2026-08-14 00:01:28",
       "album": {
         "name": "My Story",
@@ -1071,6 +1071,22 @@
       "duration_ms": 442538,
       "name": "My Story",
       "url": "https://open.spotify.com/track/7ewTmEmwPoxfKESz9kwciK"
+    },
+    {
+      "added_at": "2026-08-28 00:01:38",
+      "album": {
+        "name": "how can it be?",
+        "url": "https://open.spotify.com/album/3BHP9ySnmW6KI75vNfehtM"
+      },
+      "artists": [
+        {
+          "name": "Sinmidele",
+          "url": "https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj"
+        }
+      ],
+      "duration_ms": 229120,
+      "name": "how can it be?",
+      "url": "https://open.spotify.com/track/4LGVb3Rhr5zQGtH3xWwjzm"
     },
     {
       "added_at": "2026-06-26 00:01:41",
@@ -1089,20 +1105,24 @@
       "url": "https://open.spotify.com/track/2IKGA1CxxaDvYkdowBCvbN"
     },
     {
-      "added_at": "2026-08-28 00:01:38",
+      "added_at": "2026-10-02 00:01:17",
       "album": {
-        "name": "how can it be?",
-        "url": "https://open.spotify.com/album/3BHP9ySnmW6KI75vNfehtM"
+        "name": "When I Walk (Psalm 23) [World Version]",
+        "url": "https://open.spotify.com/album/2OmCFEVSl0ne69VgwsRk1e"
       },
       "artists": [
         {
-          "name": "Sinmidele",
-          "url": "https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj"
+          "name": "The Scally Brothers",
+          "url": "https://open.spotify.com/artist/1zxZJBr1JIL8X4zDvpkFos"
+        },
+        {
+          "name": "De Stanley Brothers",
+          "url": "https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3"
         }
       ],
-      "duration_ms": 229120,
-      "name": "how can it be?",
-      "url": "https://open.spotify.com/track/4LGVb3Rhr5zQGtH3xWwjzm"
+      "duration_ms": 222162,
+      "name": "When I Walk (Psalm 23) - World Version",
+      "url": "https://open.spotify.com/track/5qN1eGLDxoLPxp2TQGDGmA"
     },
     {
       "added_at": "2025-12-05 00:01:10",
@@ -1145,24 +1165,24 @@
       "url": "https://open.spotify.com/track/0yHrFrklGXZZ5FWWyMg3ay"
     },
     {
-      "added_at": "2026-10-02 00:01:17",
+      "added_at": "2026-07-17 00:01:08",
       "album": {
-        "name": "When I Walk (Psalm 23) [World Version]",
-        "url": "https://open.spotify.com/album/2OmCFEVSl0ne69VgwsRk1e"
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/1DuFxJroz9nlmVRxqVoAmw"
       },
       "artists": [
         {
-          "name": "The Scally Brothers",
-          "url": "https://open.spotify.com/artist/1zxZJBr1JIL8X4zDvpkFos"
+          "name": "Younggod Supreme",
+          "url": "https://open.spotify.com/artist/0pg7CWNeRHMdplKLwlKD31"
         },
         {
-          "name": "De Stanley Brothers",
-          "url": "https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3"
+          "name": "Kelar Thrillz",
+          "url": "https://open.spotify.com/artist/4G7gnjFEISCa9aKBdoUvMb"
         }
       ],
-      "duration_ms": 222162,
-      "name": "When I Walk (Psalm 23) - World Version",
-      "url": "https://open.spotify.com/track/5qN1eGLDxoLPxp2TQGDGmA"
+      "duration_ms": 196271,
+      "name": "Good News",
+      "url": "https://open.spotify.com/track/6xRCBlLNQkvUePxFgUNnTN"
     },
     {
       "added_at": "2026-05-01 00:02:08",
@@ -1209,24 +1229,24 @@
       "url": "https://open.spotify.com/track/5v8dMFDfK1i9ssKKfWJNCD"
     },
     {
-      "added_at": "2026-07-17 00:01:08",
+      "added_at": "2026-02-20 00:01:25",
       "album": {
-        "name": "Good News",
-        "url": "https://open.spotify.com/album/1DuFxJroz9nlmVRxqVoAmw"
+        "name": "Your Love II",
+        "url": "https://open.spotify.com/album/1y8ooTIE4Yld3QGMjReUwk"
       },
       "artists": [
         {
-          "name": "Younggod Supreme",
-          "url": "https://open.spotify.com/artist/0pg7CWNeRHMdplKLwlKD31"
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
         },
         {
-          "name": "Kelar Thrillz",
-          "url": "https://open.spotify.com/artist/4G7gnjFEISCa9aKBdoUvMb"
+          "name": "Soweto Gospel Choir",
+          "url": "https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl"
         }
       ],
-      "duration_ms": 196271,
-      "name": "Good News",
-      "url": "https://open.spotify.com/track/6xRCBlLNQkvUePxFgUNnTN"
+      "duration_ms": 220235,
+      "name": "Your Love II",
+      "url": "https://open.spotify.com/track/1sc1pQKdOvTJfNAcqci9Xv"
     },
     {
       "added_at": "2026-05-15 00:01:23",
@@ -1251,26 +1271,6 @@
     {
       "added_at": "2026-02-20 00:01:25",
       "album": {
-        "name": "Your Love II",
-        "url": "https://open.spotify.com/album/1y8ooTIE4Yld3QGMjReUwk"
-      },
-      "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        },
-        {
-          "name": "Soweto Gospel Choir",
-          "url": "https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl"
-        }
-      ],
-      "duration_ms": 220235,
-      "name": "Your Love II",
-      "url": "https://open.spotify.com/track/1sc1pQKdOvTJfNAcqci9Xv"
-    },
-    {
-      "added_at": "2026-02-20 00:01:25",
-      "album": {
         "name": "You Are There",
         "url": "https://open.spotify.com/album/0rFk98XNaIJkoPATUDYCjm"
       },
@@ -1287,22 +1287,6 @@
       "duration_ms": 381970,
       "name": "You Are There",
       "url": "https://open.spotify.com/track/3EAHBjhFMwuIdAS5FodQTF"
-    },
-    {
-      "added_at": "2026-08-28 00:01:38",
-      "album": {
-        "name": "Emmanuel",
-        "url": "https://open.spotify.com/album/29P8UW5L87YJXyI6rKbtQZ"
-      },
-      "artists": [
-        {
-          "name": "Hope Philipz",
-          "url": "https://open.spotify.com/artist/3qf1dpTwBxGfk43Rp2lhNV"
-        }
-      ],
-      "duration_ms": 169822,
-      "name": "Emmanuel",
-      "url": "https://open.spotify.com/track/7JkJ68w1TOwKOfV5wnlpse"
     },
     {
       "added_at": "2026-08-14 00:01:28",
@@ -1339,6 +1323,22 @@
       "duration_ms": 204036,
       "name": "Impossibility Shatterer",
       "url": "https://open.spotify.com/track/4NCR1DUnHd1HHrCRfJu68P"
+    },
+    {
+      "added_at": "2026-08-28 00:01:38",
+      "album": {
+        "name": "Emmanuel",
+        "url": "https://open.spotify.com/album/29P8UW5L87YJXyI6rKbtQZ"
+      },
+      "artists": [
+        {
+          "name": "Hope Philipz",
+          "url": "https://open.spotify.com/artist/3qf1dpTwBxGfk43Rp2lhNV"
+        }
+      ],
+      "duration_ms": 169822,
+      "name": "Emmanuel",
+      "url": "https://open.spotify.com/track/7JkJ68w1TOwKOfV5wnlpse"
     },
     {
       "added_at": "2026-06-26 00:01:41",
@@ -1421,20 +1421,20 @@
       "url": "https://open.spotify.com/track/7AAVNwpxVjSysgKs0St8bX"
     },
     {
-      "added_at": "2026-09-11 00:01:55",
+      "added_at": "2026-07-10 00:01:15",
       "album": {
-        "name": "Gata 2 (Gospel According to Amapiano)",
-        "url": "https://open.spotify.com/album/7f3AFQFqN86wyR3wW057Rp"
+        "name": "K'OSENI",
+        "url": "https://open.spotify.com/album/14GZ39xl38lVY7kyMquigq"
       },
       "artists": [
         {
-          "name": "Pastor Courage",
-          "url": "https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf"
+          "name": "Teninlanimi",
+          "url": "https://open.spotify.com/artist/3v1jjJ9WiMfU0BO3IcsWBJ"
         }
       ],
-      "duration_ms": 189000,
-      "name": "I Am Blessed - Amapiano",
-      "url": "https://open.spotify.com/track/4DleBkMi8V323WLZE9KQt3"
+      "duration_ms": 187826,
+      "name": "K'OSENI",
+      "url": "https://open.spotify.com/track/2Nnj7poR9QgUPCP17r3PLP"
     },
     {
       "added_at": "2026-05-29 00:01:36",
@@ -1457,20 +1457,20 @@
       "url": "https://open.spotify.com/track/4PH7CkhsXd4hlc1iTnUV4p"
     },
     {
-      "added_at": "2026-07-10 00:01:15",
+      "added_at": "2026-09-11 00:01:55",
       "album": {
-        "name": "K'OSENI",
-        "url": "https://open.spotify.com/album/14GZ39xl38lVY7kyMquigq"
+        "name": "Gata 2 (Gospel According to Amapiano)",
+        "url": "https://open.spotify.com/album/7f3AFQFqN86wyR3wW057Rp"
       },
       "artists": [
         {
-          "name": "Teninlanimi",
-          "url": "https://open.spotify.com/artist/3v1jjJ9WiMfU0BO3IcsWBJ"
+          "name": "Pastor Courage",
+          "url": "https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf"
         }
       ],
-      "duration_ms": 187826,
-      "name": "K'OSENI",
-      "url": "https://open.spotify.com/track/2Nnj7poR9QgUPCP17r3PLP"
+      "duration_ms": 189000,
+      "name": "I Am Blessed - Amapiano",
+      "url": "https://open.spotify.com/track/4DleBkMi8V323WLZE9KQt3"
     },
     {
       "added_at": "2026-03-06 00:01:07",

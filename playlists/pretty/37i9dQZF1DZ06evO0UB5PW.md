@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UB5PW.md) - [plain]
 
 > This is Mastodon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,613 likes - 50 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,624 likes - 50 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,20 +38,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UB5PW.md) - [plain]
 | 28 | [Crack the Skye](https://open.spotify.com/track/4nwwFLQqopxAL0g2L0Fg0B) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Crack the Skye](https://open.spotify.com/album/2W2nqEKXWBorbq5yvm3jZg) | 5:54 |
 | 29 | [Floods of Triton](https://open.spotify.com/track/08IpZZZPvzDMED3oq9F8Or) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT), [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Floods of Triton](https://open.spotify.com/album/3Cyx76Qa9H1lFjOM7yRqSp) | 4:29 |
 | 30 | [Jaguar God](https://open.spotify.com/track/7lGOFEVWK0jzpLMFuR4ANh) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Emperor of Sand](https://open.spotify.com/album/1VzmKgEG38fsUBZVe15wuF) | 7:56 |
-| 31 | [The Beast](https://open.spotify.com/track/334K6B7IWJUFFWxWdYjdXq) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Hushed and Grim](https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC) | 6:03 |
-| 32 | [Colony of Birchmen](https://open.spotify.com/track/6nmsnhkJYvyYu8TheUa0Xf) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Blood Mountain](https://open.spotify.com/album/1n8QZFcwx5aQ2LIIlj0iYe) | 4:19 |
+| 31 | [Colony of Birchmen](https://open.spotify.com/track/6nmsnhkJYvyYu8TheUa0Xf) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Blood Mountain](https://open.spotify.com/album/1n8QZFcwx5aQ2LIIlj0iYe) | 4:19 |
+| 32 | [The Beast](https://open.spotify.com/track/334K6B7IWJUFFWxWdYjdXq) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Hushed and Grim](https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC) | 6:03 |
 | 33 | [Naked Burn](https://open.spotify.com/track/348pOMYZ4f4j8bkbX0hQcZ) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Leviathan](https://open.spotify.com/album/6khFoLWnJZDQvZ7Pijym3b) | 3:42 |
 | 34 | [Precious Stones](https://open.spotify.com/track/4GPne3vf5okCDszbmeCUZz) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Emperor of Sand](https://open.spotify.com/album/1VzmKgEG38fsUBZVe15wuF) | 3:45 |
-| 35 | [Pain with an Anchor](https://open.spotify.com/track/4rFC258Osi9vYljhOU0r6u) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Hushed and Grim](https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC) | 5:01 |
-| 36 | [Blue Walsh](https://open.spotify.com/track/60DY0OKJPAtAbXZydBxtXz) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Cold Dark Place](https://open.spotify.com/album/6uSD9SU0j8xgQAIxzPg0Fv) | 5:12 |
+| 35 | [Blue Walsh](https://open.spotify.com/track/60DY0OKJPAtAbXZydBxtXz) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Cold Dark Place](https://open.spotify.com/album/6uSD9SU0j8xgQAIxzPg0Fv) | 5:12 |
+| 36 | [Pain with an Anchor](https://open.spotify.com/track/4rFC258Osi9vYljhOU0r6u) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Hushed and Grim](https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC) | 5:01 |
 | 37 | [The Czar: Usurper / Escape / Martyr / Spiral](https://open.spotify.com/track/2LMjQnKH7sQzOD0l8q6eWz) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Crack the Skye](https://open.spotify.com/album/2W2nqEKXWBorbq5yvm3jZg) | 10:54 |
 | 38 | [Ancient Kingdom](https://open.spotify.com/track/0k8CNAD5ADcMCOdTOMxUHk) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Emperor of Sand](https://open.spotify.com/album/1VzmKgEG38fsUBZVe15wuF) | 4:54 |
-| 39 | [Pushing the Tides](https://open.spotify.com/track/0svFlmFdw4sxlJzsLTXeTo) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Hushed and Grim](https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC) | 3:29 |
-| 40 | [Toe to Toes](https://open.spotify.com/track/7ppgV0Y4cDjNWFtNYmRzsD) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Toe to Toes](https://open.spotify.com/album/0u1dWanZBy4vkzZnLJZmZ3) | 4:29 |
+| 39 | [Toe to Toes](https://open.spotify.com/track/7ppgV0Y4cDjNWFtNYmRzsD) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Toe to Toes](https://open.spotify.com/album/0u1dWanZBy4vkzZnLJZmZ3) | 4:29 |
+| 40 | [Pushing the Tides](https://open.spotify.com/track/0svFlmFdw4sxlJzsLTXeTo) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Hushed and Grim](https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC) | 3:29 |
 | 41 | [Capillarian Crest](https://open.spotify.com/track/4GZ3qSMYlQODUdxAzM1S1E) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Blood Mountain](https://open.spotify.com/album/1n8QZFcwx5aQ2LIIlj0iYe) | 4:25 |
 | 42 | [Ghost of Karelia](https://open.spotify.com/track/2VzyWKHUmuxUq7J7I8wbng) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Crack the Skye](https://open.spotify.com/album/2W2nqEKXWBorbq5yvm3jZg) | 5:24 |
-| 43 | [Sickle and Peace](https://open.spotify.com/track/47RRcu032tugUTX8i6OGlt) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Hushed and Grim](https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC) | 6:17 |
-| 44 | [Curl of the Burl](https://open.spotify.com/track/7hUKxjrojKK6r4wiO3G9iU) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [The Hunter \(Deluxe\)](https://open.spotify.com/album/7GHaFBpmPwSAWaw4rHhVyF) | 3:40 |
+| 43 | [Curl of the Burl](https://open.spotify.com/track/7hUKxjrojKK6r4wiO3G9iU) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [The Hunter \(Deluxe\)](https://open.spotify.com/album/7GHaFBpmPwSAWaw4rHhVyF) | 3:40 |
+| 44 | [Sickle and Peace](https://open.spotify.com/track/47RRcu032tugUTX8i6OGlt) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Hushed and Grim](https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC) | 6:17 |
 | 45 | [Cold Dark Place](https://open.spotify.com/track/23CIAx7uGrtUH5CwRf3BC5) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Cold Dark Place](https://open.spotify.com/album/6uSD9SU0j8xgQAIxzPg0Fv) | 5:59 |
 | 46 | [Circle of Cysquatch](https://open.spotify.com/track/02YSFQqaj2WClCrMmfIW4V) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Blood Mountain](https://open.spotify.com/album/1n8QZFcwx5aQ2LIIlj0iYe) | 3:19 |
 | 47 | [Quintessence](https://open.spotify.com/track/7n2K9HW8OhwFpWEdzeYu79) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Crack the Skye](https://open.spotify.com/album/2W2nqEKXWBorbq5yvm3jZg) | 5:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UB5PW.md) - [plain]
 | 49 | [North Side Star](https://open.spotify.com/track/5BLSVhMrtqVBjKREM6rY1z) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Cold Dark Place](https://open.spotify.com/album/6uSD9SU0j8xgQAIxzPg0Fv) | 6:10 |
 | 50 | [March of the Fire Ants](https://open.spotify.com/track/1KcVOoLXfpbadmBz0HkJ1r) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Remission](https://open.spotify.com/album/1aQZecM7d2R3SvPs2HNNIA) | 4:25 |
 
-Snapshot ID: `asbdAAAAAAD10vtzaIJb1Cmp2Rzq88vi`
+Snapshot ID: `asgugAAAAAAM9qpomYiqrnqkcTDPrhEU`

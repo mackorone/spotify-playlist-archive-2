@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjsMIYcvmi.md) - [plain]
 
 > Hey \(office\) DJ, turn the music up! 👩🏽‍💼💻
 
-[Spotify](https://open.spotify.com/user/spotify) - 190 likes - 70 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 191 likes - 70 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjsMIYcvmi.md) - [plain]
 | 22 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 |
 | 23 | [Unforgettable](https://open.spotify.com/track/3B54sVLJ402zGa6Xm4YGNe) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Jungle Rules](https://open.spotify.com/album/4c2p3TdN7NcQfCXyueCNnC) | 3:53 |
 | 24 | [Lose Control](https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:30 |
-| 25 | [Another Love](https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 4:04 |
-| 26 | [Love On The Brain](https://open.spotify.com/track/5oO3drDxtziYU2H1X23ZIp) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:44 |
+| 25 | [Love On The Brain](https://open.spotify.com/track/5oO3drDxtziYU2H1X23ZIp) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:44 |
+| 26 | [Another Love](https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 4:04 |
 | 27 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 |
 | 28 | [Something Just Like This](https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Memories...Do Not Open](https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr) | 4:07 |
 | 29 | [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjsMIYcvmi.md) - [plain]
 | 48 | [Gnarly](https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gnarly](https://open.spotify.com/album/25oD4E4cwmG7SCQIoF3ez5) | 2:17 |
 | 49 | [You](https://open.spotify.com/track/5Y77SQxEr1eiofPeUTPHxM) | [Lloyd](https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Street Love](https://open.spotify.com/album/6Lq7nLkIq7C0zVJp0OGSGO) | 4:33 |
 | 50 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |
-| 51 | [when the party's over](https://open.spotify.com/track/43zdsphuZLzwA9k4DJhU0I) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:16 |
-| 52 | [no tiene sentido](https://open.spotify.com/track/1HEwEN64NjgTaHmo7LfkX8) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [BORONDO](https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4) | 2:38 |
+| 51 | [no tiene sentido](https://open.spotify.com/track/1HEwEN64NjgTaHmo7LfkX8) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [BORONDO](https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4) | 2:38 |
+| 52 | [when the party's over](https://open.spotify.com/track/43zdsphuZLzwA9k4DJhU0I) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:16 |
 | 53 | [WAIT FOR U \(feat\. Drake & Tems\)](https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 3:09 |
 | 54 | [La Plena \- W Sound 05](https://open.spotify.com/track/6iOndD4OFo7GkaDypWQIou) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [La Plena \(W Sound 05\)](https://open.spotify.com/album/4Xdo78uvvt1P7rWRX8TOPt) | 2:30 |
 | 55 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjsMIYcvmi.md) - [plain]
 | 66 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [A Bar Song \(Tipsy\)](https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ) | 2:51 |
 | 67 | [NOKIA](https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 4:01 |
 | 68 | [Morena](https://open.spotify.com/track/4oB8Xd7gMlUEtWoD8bmCXW) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Mi Vida Mi Muerte](https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3) | 3:13 |
-| 69 | [Busy Woman](https://open.spotify.com/track/0b0Dz0Gi86SVdBxYeiQcCP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet \(Deluxe\)](https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk) | 3:06 |
-| 70 | [Show Me Love](https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Show Me Love](https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6) | 2:56 |
+| 69 | [Abracadabra](https://open.spotify.com/track/2LHNTC9QZxsL3nWpt8iaSR) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:43 |
+| 70 | [Busy Woman](https://open.spotify.com/track/0b0Dz0Gi86SVdBxYeiQcCP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet \(Deluxe\)](https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk) | 3:06 |
 
 Snapshot ID: `AAAAAIYMJpjhxrPj69ZIVro+HYCBY6jN`

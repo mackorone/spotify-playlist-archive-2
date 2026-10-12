@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4HwNAFq2CF0.md) - [plain]
 
 > The hits that keep on rocking your world\. Cover: Angine de Poitrine
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,844 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,845 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,20 +74,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4HwNAFq2CF0.md) - [plain]
 | 64 | [Going Shopping](https://open.spotify.com/track/4dUOhTTMy4ITIbNQKPKYFP) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Going Shopping](https://open.spotify.com/album/4XCAqkLSm0CozIX5dQRXPI) | 4:21 |
 | 65 | [Patience](https://open.spotify.com/track/0cMyMeOTBeweBZRfP6MJ6e) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [No One Sings Like You Anymore](https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45) | 4:13 |
 | 66 | [Wall of Glass](https://open.spotify.com/track/5qlSYa5PePLAuAsAFgqVxW) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [As You Were \(Deluxe Edition\)](https://open.spotify.com/album/2V3WS9tlPYmscBNWHHYu9X) | 3:43 |
-| 67 | [Running Out Of Time](https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:12 |
-| 68 | [Starburster](https://open.spotify.com/track/1cg4xD453Wuol9fNsRDbsV) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Starburster](https://open.spotify.com/album/1KkyOpscmbPAQzLNZDyI6o) | 3:41 |
+| 67 | [Starburster](https://open.spotify.com/track/1cg4xD453Wuol9fNsRDbsV) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Starburster](https://open.spotify.com/album/1KkyOpscmbPAQzLNZDyI6o) | 3:41 |
+| 68 | [Running Out Of Time](https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:12 |
 | 69 | [Loud Bark](https://open.spotify.com/track/4iaSz388a4iRMNRJZSClVG) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [I Got Heaven](https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp) | 3:03 |
 | 70 | [Do Your Worst](https://open.spotify.com/track/1ZDq0oRT40CkuADdE4Jvrq) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Feral Roots](https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu) | 3:30 |
 | 71 | [Eyes Wide Shut](https://open.spotify.com/track/556awMv4WQP0h1VXMU8rSU) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [ILLENIUM](https://open.spotify.com/album/0ValflNlWce21wm5PlwV60) | 2:32 |
 | 72 | [Nobody](https://open.spotify.com/track/4tjTsxTBcacHcx0AvWERLE) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Nobody](https://open.spotify.com/album/4SeaFQDKygggRW9lrmwAhy) | 5:53 |
-| 73 | [Sleepyhead](https://open.spotify.com/track/7qiYSGc57LcmKTdBi0J14a) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Sleepyhead](https://open.spotify.com/album/16ks7N4Ur7Zz3wycIUfIMw) | 3:12 |
-| 74 | [boy](https://open.spotify.com/track/3Qw0WuniULBdYjXe2jsqCy) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [boy](https://open.spotify.com/album/7ddxzwtg0QQj9kXYK29rpG) | 3:18 |
+| 73 | [boy](https://open.spotify.com/track/3Qw0WuniULBdYjXe2jsqCy) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [boy](https://open.spotify.com/album/7ddxzwtg0QQj9kXYK29rpG) | 3:18 |
+| 74 | [Sleepyhead](https://open.spotify.com/track/7qiYSGc57LcmKTdBi0J14a) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Sleepyhead](https://open.spotify.com/album/16ks7N4Ur7Zz3wycIUfIMw) | 3:12 |
 | 75 | [I’m a Mess \(with YUNGBLUD\)](https://open.spotify.com/track/1yvArCvZLTHiawRdWKSAWj) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [I’m a Mess \(with YUNGBLUD\)](https://open.spotify.com/album/7kpLyQOiE4j9bNCZhKvWBr) | 3:07 |
-| 76 | [Dreams](https://open.spotify.com/track/14zhqtMI5xHrfCFCLhFcsn) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Colors](https://open.spotify.com/album/6BOQkxcHspMoRWEwEexf4l) | 5:14 |
-| 77 | [Meeting The Master](https://open.spotify.com/track/6jXwOrrBoutMICNxckeDNQ) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Starcatcher](https://open.spotify.com/album/7i1NJXQNNFZPyjE0W3GPgE) | 5:12 |
+| 76 | [Meeting The Master](https://open.spotify.com/track/6jXwOrrBoutMICNxckeDNQ) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Starcatcher](https://open.spotify.com/album/7i1NJXQNNFZPyjE0W3GPgE) | 5:12 |
+| 77 | [Dreams](https://open.spotify.com/track/14zhqtMI5xHrfCFCLhFcsn) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Colors](https://open.spotify.com/album/6BOQkxcHspMoRWEwEexf4l) | 5:14 |
 | 78 | [Tea Leaves](https://open.spotify.com/track/4kN4CZD5UQiVdmjcHMIwWP) | [Good Kid](https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP) | [Can We Hang Out Sometime?](https://open.spotify.com/album/7pGzGYHDOMvdyqY1RBzBjB) | 2:52 |
-| 79 | [Flames \(feat\. Avril Lavigne\)](https://open.spotify.com/track/4nEYidcaoFBLj9veMFc0Qf) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Internet Killed The Rockstar](https://open.spotify.com/album/2XeTY6zdUIUfItgZxXKsiO) | 2:31 |
-| 80 | [You Make Me Feel Like It’s Halloween](https://open.spotify.com/track/4k0hvjglHbcZI203QI4pF7) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 3:00 |
+| 79 | [You Make Me Feel Like It’s Halloween](https://open.spotify.com/track/4k0hvjglHbcZI203QI4pF7) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 3:00 |
+| 80 | [Flames \(feat\. Avril Lavigne\)](https://open.spotify.com/track/4nEYidcaoFBLj9veMFc0Qf) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Internet Killed The Rockstar](https://open.spotify.com/album/2XeTY6zdUIUfItgZxXKsiO) | 2:31 |
 | 81 | [Time Machine](https://open.spotify.com/track/0Id1uGKixXaLt8v4wFfUS6) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Time Machine](https://open.spotify.com/album/6nygUYRnelgPrDgOTSvV3U) | 3:45 |
 | 82 | [MENTHOL\*](https://open.spotify.com/track/2nMTBUdxkdCZWo7n3upy1e) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [MENTHOL\*](https://open.spotify.com/album/1KTVkY7i6Ry8QMtPTBzYOf) | 3:07 |
 | 83 | [All Comes Crashing](https://open.spotify.com/track/4XRvI0XtqdOGYeC36VkbwA) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Formentera](https://open.spotify.com/album/1S5vq5vSHCnCJnMljIiuS6) | 4:23 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4HwNAFq2CF0.md) - [plain]
 | 97 | [Knocking At The Door](https://open.spotify.com/track/01afuV689RNz1MKDhGuwWG) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Morning Report \(Deluxe\)](https://open.spotify.com/album/2qzcSOkX6xYvlC2RPAqboQ) | 3:42 |
 | 98 | [Beautiful People \(Stay High\)](https://open.spotify.com/track/2meH4dMuvGlooo2tpiPjJp) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Ohio Players](https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI) | 2:47 |
 | 99 | [Sans Soleil](https://open.spotify.com/track/2HxHylSuO7W9hLL2t1Dk3s) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Otherness](https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr) | 5:04 |
-| 100 | [Violins](https://open.spotify.com/track/2xgOrdZIgcckxGam4dZNVA) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Violins](https://open.spotify.com/album/2dkOtTHYlj2DzIgLaf6FGy) | 4:10 |
+| 100 | [T\-Shirt](https://open.spotify.com/track/6T0Nh56rt7qHHaG6tAcGiz) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Late Show](https://open.spotify.com/album/3UC6PUVkyKlZ2ygOYH2RGN) | 3:06 |
 
 Snapshot ID: `AAAAAP2/AGnskDeRPewfZ6GuZqkg22Hn`

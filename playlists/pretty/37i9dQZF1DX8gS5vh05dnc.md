@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gS5vh05dnc.md) - [plain]
 
 > 想紓解緊張壓力，就聽這些輕鬆、愉快的歌曲來讓自己放輕鬆。
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,932 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,923 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gS5vh05dnc.md) - [plain]
 | 54 | [I Choose You](https://open.spotify.com/track/7jJH8F3PHlNvxfqEAAfFDl) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [The Blessed Unrest](https://open.spotify.com/album/7lpbyGc4fHsQkBTsfWVBhp) | 3:38 |
 | 55 | [I Feel Good](https://open.spotify.com/track/3lUQpvfWFcxZC3RYAVGE7F) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [I Feel Good](https://open.spotify.com/album/4wKGNANAC9OHjccAiihjGO) | 2:16 |
 | 56 | [Humbug Mountain Song](https://open.spotify.com/track/3HdcqQpq7zb5GbEKBDY34p) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Absolute Loser](https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB) | 3:04 |
-| 57 | [Teach Me How To Love](https://open.spotify.com/track/5LZtB6nxvjIhUoElp3Zqk0) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Wonder](https://open.spotify.com/album/3Lp4JKk2ZgNkybMRS3eZR5) | 3:22 |
-| 58 | [Skyline](https://open.spotify.com/track/1QxIFMs4M8qd5cbJJu80v4) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Skyline](https://open.spotify.com/album/7CrDnyaqZVhO6UupmkQiHe) | 3:02 |
+| 57 | [Skyline](https://open.spotify.com/track/1QxIFMs4M8qd5cbJJu80v4) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Skyline](https://open.spotify.com/album/7CrDnyaqZVhO6UupmkQiHe) | 3:02 |
+| 58 | [Teach Me How To Love](https://open.spotify.com/track/5LZtB6nxvjIhUoElp3Zqk0) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Wonder](https://open.spotify.com/album/3Lp4JKk2ZgNkybMRS3eZR5) | 3:22 |
 | 59 | [Stay With Me \(with Justin Timberlake, Halsey, & Pharrell\)](https://open.spotify.com/track/5lfWrciYtohtIMVDVZd0Rf) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Stay With Me \(with Justin Timberlake, Halsey, & Pharrell\)](https://open.spotify.com/album/62SWIKrov7HPXU0Jpc6LY1) | 3:49 |
 | 60 | [Frankenstein](https://open.spotify.com/track/1xSmjB0t19q4CSJ0X0ymGB) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Frankenstein](https://open.spotify.com/album/740ehwZADpfoezUB54h6zE) | 3:22 |
 | 61 | [When I Get Old](https://open.spotify.com/track/5f2CcxzZoW7hNs1O8NhG6y) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [When I Get Old](https://open.spotify.com/album/3mJMHqT2w0HwjQkneNVE14) | 3:04 |

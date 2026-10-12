@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new indie music, indie folk &amp; rock discoveries\. Fresh songs for your daily chill, focus and road trips\. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists\. Updated daily with new releases — hit save to stay tuned!
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,336 likes - 124 songs - 7 hr 15 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,336 likes - 127 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,5 +132,8 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 122 | [I See Scared](https://open.spotify.com/track/4mx6MPSWrSJT6QD9IqS0BJ) | [Carl Schonbeck](https://open.spotify.com/artist/64G455sXZCInt8gPhAe7mF) | [I See Scared](https://open.spotify.com/album/6QIiAKhYUUATIqKNQt0zV3) | 3:53 |
 | 123 | [Dime Que Puedo Hacer Sin Ti \- Remix](https://open.spotify.com/track/0WhxLpotzzMvKdF0HKpLcb) | [Dr\. Leo](https://open.spotify.com/artist/1KPjYNSnNtKiZXCyeDfuw5), [Bernal Villegas](https://open.spotify.com/artist/3odi1BKZOHNVgJ1fOpEkWM), [Melany Cubero](https://open.spotify.com/artist/4OrIEJHh24oAbE1evJRR7c) | [Dime Que Puedo Hacer Sin Ti \(Remix\)](https://open.spotify.com/album/1nSXeJ5KaW8cCFkjXQSgQe) | 6:38 |
 | 124 | [Kangkung Darat](https://open.spotify.com/track/5tyyqNFUOqYemUMzNHLTy9) | [Vicz GeoHam](https://open.spotify.com/artist/1t5itTb1ZUb5ToCBQR9V1R) | [Kangkung Darat](https://open.spotify.com/album/56HBquJLEOgFYmsHbLpt5O) | 1:54 |
+| 125 | [Born Again](https://open.spotify.com/track/4LT9snGF4EdfDCw5F1zkxZ) | [Nathaniel Bawden](https://open.spotify.com/artist/2Bqs2btB0esnZVHqHYU2aA) | [The Cost of Loving](https://open.spotify.com/album/2VBq7c4lL5qXbceQpCQiCD) | 3:07 |
+| 126 | [Glowing Cactus](https://open.spotify.com/track/22hpgnYXuwVD913Z6pqjm7) | [J\. Lee Bone](https://open.spotify.com/artist/6gGiDRa5txAU73w00S1zXs) | [Glowing Cactus](https://open.spotify.com/album/2nl2fjbG6SyUp8QOqGPU0w) | 3:17 |
+| 127 | [22 Settembre](https://open.spotify.com/track/3RficKMy181JNMFoV82XE8) | [Michele Blasco](https://open.spotify.com/artist/0LsldhiLiieaUY63tH9QfW) | [22 Settembre](https://open.spotify.com/album/2rPJTpAO6Fvwn7athS4Jxn) | 4:06 |
 
-Snapshot ID: `AAAYmtUyGdelmirtTbQl0V9nGoahKnW4`
+Snapshot ID: `AAAYnZ26hsEc4CIOdJeT8NUOMzddAhky`

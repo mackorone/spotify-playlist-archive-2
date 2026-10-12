@@ -1,6 +1,6 @@
 {
   "description": "From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.",
-  "num_followers": 324256,
+  "num_followers": 324228,
   "original_name": "Island Anthems",
   "owner": {
     "name": "Spotify",
@@ -871,6 +871,22 @@
     {
       "added_at": "2026-08-20 23:00:30",
       "album": {
+        "name": "Be Mine",
+        "url": "https://open.spotify.com/album/7gTfixsGtCkHxwzd82rsaE"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        }
+      ],
+      "duration_ms": 113702,
+      "name": "Be Mine",
+      "url": "https://open.spotify.com/track/3BENVzgDdwCiTGVtJbZGJd"
+    },
+    {
+      "added_at": "2026-08-20 23:00:30",
+      "album": {
         "name": "Don't You Worry Child",
         "url": "https://open.spotify.com/album/3RKhRsifs4RWrqvWV1YpPY"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 212862,
       "name": "Don't You Worry Child - Radio Edit",
       "url": "https://open.spotify.com/track/2V65y3PX4DkRhy1djlxd9p"
-    },
-    {
-      "added_at": "2026-08-20 23:00:30",
-      "album": {
-        "name": "Be Mine",
-        "url": "https://open.spotify.com/album/7gTfixsGtCkHxwzd82rsaE"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        }
-      ],
-      "duration_ms": 113702,
-      "name": "Be Mine",
-      "url": "https://open.spotify.com/track/3BENVzgDdwCiTGVtJbZGJd"
     },
     {
       "added_at": "2026-08-20 23:00:30",
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-08-20 23:00:30",
       "album": {
-        "name": "Pjanoo",
-        "url": "https://open.spotify.com/album/7zlMxh1NR0Shklu48L4e7x"
-      },
-      "artists": [
-        {
-          "name": "Eric Prydz",
-          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
-        }
-      ],
-      "duration_ms": 157432,
-      "name": "Pjanoo - Radio Edit",
-      "url": "https://open.spotify.com/track/0F2BxpbxH8Yc3pLub48hrb"
-    },
-    {
-      "added_at": "2026-08-20 23:00:30",
-      "album": {
         "name": "Push It",
         "url": "https://open.spotify.com/album/6vuQ8hA2TcPUcG98Xnzvio"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 129302,
       "name": "Push It",
       "url": "https://open.spotify.com/track/5Ef5Df4m9y7X4ixO4TgBWy"
+    },
+    {
+      "added_at": "2026-08-20 23:00:30",
+      "album": {
+        "name": "Pjanoo",
+        "url": "https://open.spotify.com/album/7zlMxh1NR0Shklu48L4e7x"
+      },
+      "artists": [
+        {
+          "name": "Eric Prydz",
+          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
+        }
+      ],
+      "duration_ms": 157432,
+      "name": "Pjanoo - Radio Edit",
+      "url": "https://open.spotify.com/track/0F2BxpbxH8Yc3pLub48hrb"
     },
     {
       "added_at": "2026-08-20 23:00:30",
@@ -1819,6 +1819,22 @@
     {
       "added_at": "2026-08-20 23:00:30",
       "album": {
+        "name": "Million Things",
+        "url": "https://open.spotify.com/album/4EDiQsBlwDTJkquzyOcymi"
+      },
+      "artists": [
+        {
+          "name": "Tommy Phillips",
+          "url": "https://open.spotify.com/artist/3Z1hS6haFjSDvQc8TORkIW"
+        }
+      ],
+      "duration_ms": 160641,
+      "name": "Million Things",
+      "url": "https://open.spotify.com/track/5LfXCy5ZJXdztuu5ophHzm"
+    },
+    {
+      "added_at": "2026-08-20 23:00:30",
+      "album": {
         "name": "On A Wave",
         "url": "https://open.spotify.com/album/1Dt7fCJPdgPrJtxeJuW2dK"
       },
@@ -1835,22 +1851,6 @@
       "duration_ms": 199384,
       "name": "On A Wave",
       "url": "https://open.spotify.com/track/3muLFpPgteeIB5djrsEjk6"
-    },
-    {
-      "added_at": "2026-08-20 23:00:30",
-      "album": {
-        "name": "Million Things",
-        "url": "https://open.spotify.com/album/4EDiQsBlwDTJkquzyOcymi"
-      },
-      "artists": [
-        {
-          "name": "Tommy Phillips",
-          "url": "https://open.spotify.com/artist/3Z1hS6haFjSDvQc8TORkIW"
-        }
-      ],
-      "duration_ms": 160641,
-      "name": "Million Things",
-      "url": "https://open.spotify.com/track/5LfXCy5ZJXdztuu5ophHzm"
     },
     {
       "added_at": "2026-08-20 23:00:30",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2026-08-20 23:00:30",
       "album": {
-        "name": "Can You Feel It",
-        "url": "https://open.spotify.com/album/42YRQ9d1vVUEzHu9krAPwO"
-      },
-      "artists": [
-        {
-          "name": "Robbie Doherty",
-          "url": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
-        }
-      ],
-      "duration_ms": 159685,
-      "name": "Can You Feel It",
-      "url": "https://open.spotify.com/track/4v6w9jrnOWOE1WwpHBd0uC"
-    },
-    {
-      "added_at": "2026-08-20 23:00:30",
-      "album": {
         "name": "Loneliness",
         "url": "https://open.spotify.com/album/5LOLNALdP8O97CMeGdqOOM"
       },
@@ -1927,18 +1911,42 @@
     {
       "added_at": "2026-08-20 23:00:30",
       "album": {
-        "name": "Clubland 26",
-        "url": "https://open.spotify.com/album/6yamu4APmhOijtj3jEsRLs"
+        "name": "Can You Feel It",
+        "url": "https://open.spotify.com/album/42YRQ9d1vVUEzHu9krAPwO"
       },
       "artists": [
         {
-          "name": "Sigma",
-          "url": "https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS"
+          "name": "Robbie Doherty",
+          "url": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
         }
       ],
-      "duration_ms": 189010,
-      "name": "Nobody To Love - Radio Edit",
-      "url": "https://open.spotify.com/track/6PTwoCCzthLLmeRvNqEa5Q"
+      "duration_ms": 159685,
+      "name": "Can You Feel It",
+      "url": "https://open.spotify.com/track/4v6w9jrnOWOE1WwpHBd0uC"
+    },
+    {
+      "added_at": "2026-08-20 23:00:30",
+      "album": {
+        "name": "Show Me Love (feat. Robin S)",
+        "url": "https://open.spotify.com/album/2miu8ZVhdGb34StwR5Ve6w"
+      },
+      "artists": [
+        {
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        },
+        {
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+        },
+        {
+          "name": "Robin S",
+          "url": "https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3"
+        }
+      ],
+      "duration_ms": 187640,
+      "name": "Show Me Love (feat. Robin S)",
+      "url": "https://open.spotify.com/track/55eFVWZ4lLq8kbJ0VwSfA4"
     }
   ],
   "unique_name": "Island Anthems",

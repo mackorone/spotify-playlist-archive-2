@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Offset, Gunna, Cardi B and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,938 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,970 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

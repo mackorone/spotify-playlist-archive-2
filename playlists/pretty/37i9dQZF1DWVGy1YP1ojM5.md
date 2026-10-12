@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 
 > Silky sounds for the sheets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,303,388 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,303,225 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 | 56 | [Kickin’ Back](https://open.spotify.com/track/5xjTqz4aYQeBnFhwMPmfx9) | [Mila J](https://open.spotify.com/artist/6cN9XwPMj9bWzJ32GC6V7v) | [213](https://open.spotify.com/album/3wlzfD1t9CCQToaqR0rYFG) | 3:22 |
 | 57 | [All To Me](https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [When It's All Said And Done..\. Take Time](https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd) | 2:07 |
 | 58 | [Every Kind Of Way](https://open.spotify.com/track/0Aa3g9EQoPNt6PiKjaUeb7) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [H.E.R.](https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY) | 2:40 |
-| 59 | [Vixen](https://open.spotify.com/track/3HBZIY3FVzXu6YjhExNqWe) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:01 |
+| 59 | [Rain](https://open.spotify.com/track/4G1qRhOk1YY0kewtMaCrMC) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [Release Some Tension](https://open.spotify.com/album/2bHrxJQDBQdvow7vktRVUj) | 4:24 |
 | 60 | [Attention](https://open.spotify.com/track/7tr8SXmP9j0uVqUU0qoapb) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Bryson Tiller](https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX) | 3:36 |
-| 61 | [Rain](https://open.spotify.com/track/4G1qRhOk1YY0kewtMaCrMC) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [Release Some Tension](https://open.spotify.com/album/2bHrxJQDBQdvow7vktRVUj) | 4:24 |
+| 61 | [Vixen](https://open.spotify.com/track/3HBZIY3FVzXu6YjhExNqWe) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:01 |
 | 62 | [KEEPER](https://open.spotify.com/track/0oG6bJKzXgqzsaaEy1M510) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [BELOVED](https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ) | 3:42 |
 | 63 | [VIBES DON'T LIE](https://open.spotify.com/track/1WwrfoGe0K33z1tVI6mevJ) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 3:21 |
 | 64 | [Say Yes](https://open.spotify.com/track/2fE4MbwX3QGMzNaMjGVhtw) | [Floetry](https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM) | [Floetic](https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi) | 4:28 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 | 66 | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/track/7eRJjg52FkSmQvmNQDYpMl) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/album/6tEqHl8uemF0Hmb0iGs6vJ) | 3:33 |
 | 67 | [Superstar](https://open.spotify.com/track/18JosZY3HzD3lMy6iOOSAY) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 3:11 |
 | 68 | [Calling On You](https://open.spotify.com/track/7wYhcfgPUyML3FKfLwvBwk) | [Jon B.](https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX) | [Pleasures U Like](https://open.spotify.com/album/1uVZharbta7UF0rqb1AU1F) | 4:40 |
-| 69 | [CPR](https://open.spotify.com/track/5Tp4UJvnsF4Zd05k0zXUte) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 3:23 |
-| 70 | [2 Sugar \(feat\. Ayra Starr\)](https://open.spotify.com/track/1DA2ADZs6O28y2rmdmpekw) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [More Love, Less Ego](https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY) | 3:07 |
+| 69 | [2 Sugar \(feat\. Ayra Starr\)](https://open.spotify.com/track/1DA2ADZs6O28y2rmdmpekw) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [More Love, Less Ego](https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY) | 3:07 |
+| 70 | [CPR](https://open.spotify.com/track/5Tp4UJvnsF4Zd05k0zXUte) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 3:23 |
 | 71 | [22](https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [22](https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC) | 2:22 |
 | 72 | [On The Way \(feat\. Mila J\)](https://open.spotify.com/track/423NhOTzoqgeaIJbrUzSoo) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Mila J](https://open.spotify.com/artist/6cN9XwPMj9bWzJ32GC6V7v) | [Chilombo \(Deluxe\)](https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v) | 3:42 |
 | 73 | [Comfortable](https://open.spotify.com/track/3f3cliOygeuUpGRwdohy12) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Comfortable](https://open.spotify.com/album/04w2ildzatiXBlYq4AwIOm) | 4:15 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 | 95 | [Stingy](https://open.spotify.com/track/6De63WRULDaa1fxOyLilnv) | [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [The Senior](https://open.spotify.com/album/3t4OgAvvOzvXw8D2NHUeDR) | 4:19 |
 | 96 | [Signs of Love Makin'](https://open.spotify.com/track/6RYynPLHZLnpwjejfGWpQl) | [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [I Wanna Go There](https://open.spotify.com/album/3skbBjGnAOqfy6ndwwOT4G) | 4:05 |
 | 97 | [F.U.C.K.](https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [F.U.C.K.](https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC) | 3:25 |
-| 98 | [Company Pt\. 3](https://open.spotify.com/track/5KYOcGJM1wQHwrE6rVfg9y) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Love Sick](https://open.spotify.com/album/26z5llzd194mcCZHADWd6k) | 3:00 |
+| 98 | [SAME MISTAKE](https://open.spotify.com/track/2WFPw4XpswToe0t3MhzhCN) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [SUBMISSIVE2](https://open.spotify.com/album/0qxSlnuP5AvTEeQJwPWYlo) | 2:58 |
 | 99 | [CUFF IT \- WETTER REMIX](https://open.spotify.com/track/7eQpbVg3tjHmtdOlAHxaTr) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [CUFF IT](https://open.spotify.com/album/7BJjZgzGzpll0t8CEzjILs) | 4:09 |
-| 100 | [SAME MISTAKE](https://open.spotify.com/track/2WFPw4XpswToe0t3MhzhCN) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [SUBMISSIVE2](https://open.spotify.com/album/0qxSlnuP5AvTEeQJwPWYlo) | 2:58 |
+| 100 | [Company Pt\. 3](https://open.spotify.com/track/5KYOcGJM1wQHwrE6rVfg9y) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Love Sick](https://open.spotify.com/album/26z5llzd194mcCZHADWd6k) | 3:00 |
 
 Snapshot ID: `AAAAACEXcrqzLsSOqXk+Gw3n/YGRo1dj`

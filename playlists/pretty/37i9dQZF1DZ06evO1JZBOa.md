@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JZBOa.md) - [plain]
 
 > This is Manu Dibango\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,239 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,240 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JZBOa.md) - [plain]
 | 49 | [Les garçons ne pleurent pas](https://open.spotify.com/track/3p6yYoGeqGQZnaBLopd0HY) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Taciturne](https://open.spotify.com/album/2WCnXqrZUmN7mdioYMbyMC) | 4:34 |
 | 50 | [Perfidia](https://open.spotify.com/track/7AfMFFiBBucmgydjQIaO8R) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Balade en Saxo](https://open.spotify.com/album/4DJqtm93qTlJk2jEynoocr) | 3:17 |
 
-Snapshot ID: `asgugAAAAAAe9fEIOaShn21vXAE3zDIf`
+Snapshot ID: `asmAAAAAAAABRTBUs5KltRjmAbOOKaPn`

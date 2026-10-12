@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 
 > TURNSTILE SUMMER
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,947 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,953 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 | 23 | [Neon Pill](https://open.spotify.com/track/0cgyeBU54kjmI54TflMANg) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Neon Pill](https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd) | 3:21 |
 | 24 | [Figure It Out](https://open.spotify.com/track/4LJ9rJfTgp1L2HS37wkPhx) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Figure It Out](https://open.spotify.com/album/6aj0THdfoTZmLqFOeN2bQy) | 3:09 |
 | 25 | [The Rope](https://open.spotify.com/track/6HYHIPcS5U0PLhD6u43MRX) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [The Rope](https://open.spotify.com/album/27ABxgs5YasDR0BxiPMiId) | 3:10 |
-| 26 | [You Hear Yes \(feat\. Mannequin Pussy and Scowl\)](https://open.spotify.com/track/3XSCsuqhAqaVoYkYHHFrNC) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5), [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9), [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Funeral Soundtrack \#4](https://open.spotify.com/album/612gMZhBmHiDyWwA5phdZl) | 2:43 |
-| 27 | [Love](https://open.spotify.com/track/4Bk7wqOixpEsDtNM39YZ0e) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Who Let The Dogs Out](https://open.spotify.com/album/4GzF4Yg3GSkKi4hAzmjBKV) | 3:40 |
+| 26 | [Love](https://open.spotify.com/track/4Bk7wqOixpEsDtNM39YZ0e) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Who Let The Dogs Out](https://open.spotify.com/album/4GzF4Yg3GSkKi4hAzmjBKV) | 3:40 |
+| 27 | [You Hear Yes \(feat\. Mannequin Pussy and Scowl\)](https://open.spotify.com/track/3XSCsuqhAqaVoYkYHHFrNC) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5), [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9), [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Funeral Soundtrack \#4](https://open.spotify.com/album/612gMZhBmHiDyWwA5phdZl) | 2:43 |
 | 28 | [I’ve Never Met Anyone I Thought I Could Really Love \(Until I Met You\)](https://open.spotify.com/track/0o2JLyPbVzGDVGSZ3MhPb7) | [Westside Cowboy](https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2) | [I’ve Never Met Anyone I Thought I Could Really Love \(Until I Met You\)](https://open.spotify.com/album/4cLGjXCAyGx2HEbyICOK0k) | 2:47 |
 | 29 | [Smile](https://open.spotify.com/track/0mjOx4zUlL5t4rF1xnrfvi) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1zt521PK0lam6J79DNMIJi) | 3:16 |
 | 30 | [C’est Comme Ça](https://open.spotify.com/track/1Nx7KvCw6D3O0W2HwYg9tq) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 2:29 |
@@ -76,10 +76,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 | 66 | [Bored of Being Sad](https://open.spotify.com/track/77rk2TGUhxlWMLuQq4iIlV) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Let's Start Degeneracy](https://open.spotify.com/album/63F30pJnKvFr2kI9TK08dW) | 3:20 |
 | 67 | [Would You?](https://open.spotify.com/track/7GI0ukZzgs6bVCZg9OrBrj) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Would You?](https://open.spotify.com/album/6X2rpNXyGFDcGKziNLWkRP) | 2:30 |
 | 68 | [All the Noise](https://open.spotify.com/track/6Tgj4AN3ufqIeIVqxnCE1N) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [All the Noise](https://open.spotify.com/album/1vqh5RgezLNVZwDLxTsdKc) | 2:59 |
-| 69 | [Year of the Snake](https://open.spotify.com/track/2MEgMkZ0VtzHqjgw427cb5) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Year of the Snake](https://open.spotify.com/album/40kcviBHQOANd1C29Qwp25) | 5:10 |
-| 70 | [Alright Alright Alright](https://open.spotify.com/track/6FoYuFpYLbu4kKIKOtARBm) | [Westside Cowboy](https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2) | [Alright Alright Alright](https://open.spotify.com/album/2loYX0tWMVfFu6AyWSZTDw) | 2:04 |
-| 71 | [Nobody’s](https://open.spotify.com/track/3WBFG43oD1qU3yJSDjQJ2O) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Spiral In A Straight Line](https://open.spotify.com/album/0P5CZ4l155R1udzsELjXSC) | 2:15 |
-| 72 | [Sucker](https://open.spotify.com/track/7KoEgsFYq8mk37AiPqQZKP) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Love Me Please](https://open.spotify.com/album/66ZYTPi0jLZ6geTByqUiIv) | 2:38 |
+| 69 | [Sucker](https://open.spotify.com/track/7KoEgsFYq8mk37AiPqQZKP) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Love Me Please](https://open.spotify.com/album/66ZYTPi0jLZ6geTByqUiIv) | 2:38 |
+| 70 | [Year of the Snake](https://open.spotify.com/track/2MEgMkZ0VtzHqjgw427cb5) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Year of the Snake](https://open.spotify.com/album/40kcviBHQOANd1C29Qwp25) | 5:10 |
+| 71 | [Alright Alright Alright](https://open.spotify.com/track/6FoYuFpYLbu4kKIKOtARBm) | [Westside Cowboy](https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2) | [Alright Alright Alright](https://open.spotify.com/album/2loYX0tWMVfFu6AyWSZTDw) | 2:04 |
+| 72 | [Nobody’s](https://open.spotify.com/track/3WBFG43oD1qU3yJSDjQJ2O) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Spiral In A Straight Line](https://open.spotify.com/album/0P5CZ4l155R1udzsELjXSC) | 2:15 |
 | 73 | [Can EU Hear Me?](https://open.spotify.com/track/7LUVmUWiSvtI2tJvYHFRAs) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [There Goes The Neighbourhood](https://open.spotify.com/album/3o6ih9edQcACGSYAW6eXTb) | 2:58 |
 | 74 | [ALL OF U](https://open.spotify.com/track/4ealCIKR5aAYaKYuxVWJ0J) | [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F) | [ALL OF U](https://open.spotify.com/album/0qzN96GJVCxQJ1YNGkXlN3) | 3:32 |
 | 75 | [You're So Impatient](https://open.spotify.com/track/2kqc0DW78CyMemrXnK0PQA) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [The Night the Zombies Came](https://open.spotify.com/album/2kL3JicKZpvBfIeDeDPDUX) | 2:08 |

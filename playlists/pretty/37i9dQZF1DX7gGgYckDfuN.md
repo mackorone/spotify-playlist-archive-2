@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gGgYckDfuN.md) - [plain]
 
 > Enjoy Music From "JoJo's Bizarre Adventure" series! ©LUCKY LAND COMMUNICATIONS/集英社・ジョジョの奇妙な冒険SBR製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,529 likes - 54 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,770 likes - 54 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

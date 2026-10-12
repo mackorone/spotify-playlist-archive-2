@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWEJ7IcHiFv.md) - [plain]
 
 > The Latin soundtrack of the 80s! Cover: Gloria Estefan
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,618 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,655 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWEJ7IcHiFv.md) - [plain]
 | 15 | [Ya Lo Sé Que Tú Te Vas](https://open.spotify.com/track/5KSwwf96ITyukZpWfazLzS) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Cosas De Enamorados](https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG) | 3:42 |
 | 16 | [Ni tú ni nadie](https://open.spotify.com/track/7LpS82vPDLgZAHWRtWBBRj) | [Alaska Y Dinarama](https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh) | [Deseo Carnal](https://open.spotify.com/album/0WCUpdYXsvpM8Bed8w4vQF) | 3:37 |
 | 17 | [Triste canción](https://open.spotify.com/track/11dn3mAagE0hOvd35rBNeV) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Simplemente](https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y) | 5:42 |
-| 18 | [Como Fui A Enamorarme De Ti](https://open.spotify.com/track/6CxvpsqUxUD5xSrYCA8JHr) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Y Para Siempre ...](https://open.spotify.com/album/4moS1H6d049CbtVXZwd4rs) | 4:29 |
+| 18 | [La Bamba](https://open.spotify.com/track/0uMMLry3hzWGn3q3loqMkm) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [La Bamba / Charlena](https://open.spotify.com/album/0FPwLfwQWd91kV5rZTzMlZ) | 2:54 |
 | 19 | [Lo Dudo](https://open.spotify.com/track/65vU70CBDU0sQDfOWkwUEH) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Secretos](https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh) | 3:39 |
-| 20 | [La Bamba](https://open.spotify.com/track/0uMMLry3hzWGn3q3loqMkm) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [La Bamba / Charlena](https://open.spotify.com/album/0FPwLfwQWd91kV5rZTzMlZ) | 2:54 |
+| 20 | [Como Fui A Enamorarme De Ti](https://open.spotify.com/track/6CxvpsqUxUD5xSrYCA8JHr) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Y Para Siempre ...](https://open.spotify.com/album/4moS1H6d049CbtVXZwd4rs) | 4:29 |
 | 21 | [Amor Eterno](https://open.spotify.com/track/2TC4v9YiuQYk3Tk8RH7fV4) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Canta A Juan Gabriel](https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M) | 6:49 |
 | 22 | [Asi Fue](https://open.spotify.com/track/419FFiitGchOUaIMEY7Dqi) | [Isabel Pantoja](https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo) | [Desde Andalucia](https://open.spotify.com/album/2z0nGeab4W4lk2AjxG3kbw) | 5:25 |
 | 23 | [Con Todos Menos Conmigo](https://open.spotify.com/track/4d7N2lqEJMbQwVy1LCqhXv) | [Timbiriche](https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO) | [Timbiriche 7](https://open.spotify.com/album/5srfo2XTGJPW9EAiky3TdM) | 3:04 |
@@ -41,22 +41,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWEJ7IcHiFv.md) - [plain]
 | 31 | [Amante Bandido](https://open.spotify.com/track/1hj6nYHeGclSY0VNTHMi27) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Bandido](https://open.spotify.com/album/29QmPdVjXD0c5DpS4U51di) | 4:21 |
 | 32 | [Cómo Te Va Mi Amor](https://open.spotify.com/track/6Vy53iriyX8Vqx0V68Jzn2) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Locas Por La Música](https://open.spotify.com/album/5skXUuGQ0Pg7H07k6NywN5) | 3:42 |
 | 33 | [Venezia](https://open.spotify.com/track/1wncA7mz0ntqvZ8UzFokGk) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Hombres G \(Edición 30 Aniversario\)](https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y) | 4:30 |
-| 34 | [Me Va a Extrañar \(Unchain My Heart\)](https://open.spotify.com/track/35436ddSANnATz1eBT5FAY) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Ricardo Montaner Con La London Metropolitan Orchestra](https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE) | 4:58 |
-| 35 | [Si No Es Ahora](https://open.spotify.com/track/1SugSbcbW78x4VAgixwiG0) | [Timbiriche](https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO) | [Timbiriche 7](https://open.spotify.com/album/5srfo2XTGJPW9EAiky3TdM) | 3:53 |
+| 34 | [Si No Es Ahora](https://open.spotify.com/track/1SugSbcbW78x4VAgixwiG0) | [Timbiriche](https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO) | [Timbiriche 7](https://open.spotify.com/album/5srfo2XTGJPW9EAiky3TdM) | 3:53 |
+| 35 | [Me Va a Extrañar \(Unchain My Heart\)](https://open.spotify.com/track/35436ddSANnATz1eBT5FAY) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Ricardo Montaner Con La London Metropolitan Orchestra](https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE) | 4:58 |
 | 36 | [A quién le importa](https://open.spotify.com/track/7Eb5AYiiGWItBNddlmxvnh) | [Alaska Y Dinarama](https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh) | [No Es Pecado \-Remasters](https://open.spotify.com/album/4WVr9fj0yFPIUbyb9tjOQh) | 3:25 |
 | 37 | [Obsesión](https://open.spotify.com/track/1l0mEM93oZMERzBmOCuiHe) | [Miguel Mateos](https://open.spotify.com/artist/02Nbktg6lCJiazPM6YYTMz) | [Lo Esencial](https://open.spotify.com/album/7zrwTOHJUTWDJBSED3mhbD) | 4:05 |
 | 38 | [Tu Pirata Soy Yo](https://open.spotify.com/track/2bHEObIToIMkdZRXsC04Kt) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Chayanne](https://open.spotify.com/album/20LKBgzwk7zrSSn0N8ukFV) | 2:53 |
-| 39 | [Cama e Mesa \- Versão Remasterizada](https://open.spotify.com/track/4lN2okBBRNDimttONXGggW) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Roberto Carlos \(1981 Remasterizado\)](https://open.spotify.com/album/1BUoeZ3aXcdcn6vN2lOPLQ) | 3:19 |
-| 40 | [No Voy en Tren](https://open.spotify.com/track/0rliTXrA8nLBuJcxDuueWU) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Parte De La Religion](https://open.spotify.com/album/4MrFVzdNEgxfZbJyC2RQt9) | 3:01 |
-| 41 | [Visa Para un Sueño](https://open.spotify.com/track/6mmcsCrrASekHEUfjuNFOO) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Ojalá Que Llueva Café](https://open.spotify.com/album/1wLyFmyTJ8jUb4J6TwC9uc) | 3:28 |
+| 39 | [Visa Para un Sueño](https://open.spotify.com/track/6mmcsCrrASekHEUfjuNFOO) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Ojalá Que Llueva Café](https://open.spotify.com/album/1wLyFmyTJ8jUb4J6TwC9uc) | 3:28 |
+| 40 | [Cama e Mesa \- Versão Remasterizada](https://open.spotify.com/track/4lN2okBBRNDimttONXGggW) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Roberto Carlos \(1981 Remasterizado\)](https://open.spotify.com/album/1BUoeZ3aXcdcn6vN2lOPLQ) | 3:19 |
+| 41 | [No Voy en Tren](https://open.spotify.com/track/0rliTXrA8nLBuJcxDuueWU) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Parte De La Religion](https://open.spotify.com/album/4MrFVzdNEgxfZbJyC2RQt9) | 3:01 |
 | 42 | [Bazar](https://open.spotify.com/track/7CLxH03q65I3aktL79k4vE) | [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT) | [Flans](https://open.spotify.com/album/1otqQgjwtYN6jQR61jaE4A) | 3:29 |
 | 43 | [Cada Vez Que Digo Adiós](https://open.spotify.com/track/2WKWskcwqz0KKFRDkQleda) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Contrareloj](https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd) | 3:52 |
-| 44 | [Claridad](https://open.spotify.com/track/2Rh8bcrw6tt8wrRM8NljN0) | [Menudo](https://open.spotify.com/artist/3Edq1eT7m7GX0PvHW7yEDF) | [15 Años De Historia](https://open.spotify.com/album/4b1Ou1qQJRq6SvS18o0Vyp) | 4:10 |
-| 45 | [Qué Voy A Hacer Sin El?](https://open.spotify.com/track/2C0JSxStREzKhqthOmP0uo) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Que Hago Aquí?](https://open.spotify.com/album/6CQphijyJq4b6slAFrRXf6) | 3:23 |
-| 46 | [Ojalá Que Llueva Café](https://open.spotify.com/track/2HQqhVP8NOaoIhPTQ8I5bm) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Ojalá Que Llueva Café](https://open.spotify.com/album/1wLyFmyTJ8jUb4J6TwC9uc) | 4:13 |
+| 44 | [Ojalá Que Llueva Café](https://open.spotify.com/track/2HQqhVP8NOaoIhPTQ8I5bm) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Ojalá Que Llueva Café](https://open.spotify.com/album/1wLyFmyTJ8jUb4J6TwC9uc) | 4:13 |
+| 45 | [Claridad](https://open.spotify.com/track/2Rh8bcrw6tt8wrRM8NljN0) | [Menudo](https://open.spotify.com/artist/3Edq1eT7m7GX0PvHW7yEDF) | [15 Años De Historia](https://open.spotify.com/album/4b1Ou1qQJRq6SvS18o0Vyp) | 4:10 |
+| 46 | [Qué Voy A Hacer Sin El?](https://open.spotify.com/track/2C0JSxStREzKhqthOmP0uo) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Que Hago Aquí?](https://open.spotify.com/album/6CQphijyJq4b6slAFrRXf6) | 3:23 |
 | 47 | [Bamboleo](https://open.spotify.com/track/5siwoDxCGDYnmfWV5SlUpE) | [Gipsy Kings](https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL) | [Gipsy Kings](https://open.spotify.com/album/4aDmHcFNChCXPle7tMeoWS) | 3:23 |
 | 48 | [Querida](https://open.spotify.com/track/3UHfhZ4MZfwfSJDw9DhspX) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Juan Gabriel \- 40 Aniversario](https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah) | 5:23 |
 | 49 | [El Baile del Perrito](https://open.spotify.com/track/2XESoQVXG9ssxyjxXSrmxo) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [The Reventon: 30 Pegaditas](https://open.spotify.com/album/1BVdrfS67jHUUNBF4epJeD) | 4:23 |
 | 50 | [Fiesta En América](https://open.spotify.com/track/5x6K9Bz1StBFAWTNMRAwmn) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Chayanne](https://open.spotify.com/album/5aabwyD2EqwA17390Og3Ff) | 3:44 |
 
-Snapshot ID: `AAAAAO+NtBtSL+JhecAZ4s3/Fbry+9LZ`
+Snapshot ID: `AAAAAPbqxeuUPme+Xgw2pu2B458RSpZQ`

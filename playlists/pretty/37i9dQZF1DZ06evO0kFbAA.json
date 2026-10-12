@@ -1,12 +1,12 @@
 {
   "description": "This is Stan Getz. The essential tracks, all in one playlist.",
-  "num_followers": 58363,
+  "num_followers": 59511,
   "original_name": "This Is Stan Getz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asbdAAAAAADQ3W+j4JVu+JM/ry98+i51",
+  "snapshot_id": "asmAAAAAAABpwVKtVIe3ReuWk009cD9r",
   "tracks": [
     {
       "added_at": null,
@@ -191,6 +191,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nobody Else But Me",
+        "url": "https://open.spotify.com/album/4InQkjgxCqUbFmPeQjCKIC"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 251346,
+      "name": "Nobody Else But Me",
+      "url": "https://open.spotify.com/track/2QDrvpbDt5WnHIwqGZZSX0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stan Getz And The Oscar Peterson Trio",
         "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 278253,
       "name": "I'm Glad There Is You",
       "url": "https://open.spotify.com/track/6NYInW0268sHuxPDhH8pRM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nobody Else But Me",
-        "url": "https://open.spotify.com/album/4InQkjgxCqUbFmPeQjCKIC"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 251346,
-      "name": "Nobody Else But Me",
-      "url": "https://open.spotify.com/track/2QDrvpbDt5WnHIwqGZZSX0"
     },
     {
       "added_at": null,
@@ -427,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Getz For Lovers",
+        "url": "https://open.spotify.com/album/4gfH6Bco0I18IEHqXClxdG"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 133506,
+      "name": "If Ever I Would Leave You",
+      "url": "https://open.spotify.com/track/5oTTjuVsncAETARz6yDmiJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jazz Samba",
         "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 283626,
       "name": "Samba Triste",
       "url": "https://open.spotify.com/track/6y2YxIUeM9uMgAINRnb11K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Getz For Lovers",
-        "url": "https://open.spotify.com/album/4gfH6Bco0I18IEHqXClxdG"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 133506,
-      "name": "If Ever I Would Leave You",
-      "url": "https://open.spotify.com/track/5oTTjuVsncAETARz6yDmiJ"
     },
     {
       "added_at": null,
@@ -495,6 +495,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stan Getz Plays",
+        "url": "https://open.spotify.com/album/5VDjsnQKRNJyR90or4Tsjw"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 195480,
+      "name": "Body And Soul",
+      "url": "https://open.spotify.com/track/5B1XEvV3NaVPulBCafMGZg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jazz Samba",
         "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 369280,
       "name": "Samba De Uma Nota So",
       "url": "https://open.spotify.com/track/5bKrCtDuBoFGqeMrKRVH3V"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stan Getz Plays",
-        "url": "https://open.spotify.com/album/5VDjsnQKRNJyR90or4Tsjw"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 195480,
-      "name": "Body And Soul",
-      "url": "https://open.spotify.com/track/5B1XEvV3NaVPulBCafMGZg"
     },
     {
       "added_at": null,
@@ -571,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stan Getz Plays",
+        "url": "https://open.spotify.com/album/5VDjsnQKRNJyR90or4Tsjw"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 194173,
+      "name": "'Tis Autumn",
+      "url": "https://open.spotify.com/track/0WdiW7zP35hfIAw6jKxwIS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jazz Samba",
         "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 220493,
       "name": "E Luxo So",
       "url": "https://open.spotify.com/track/0J27dNCeCg9yEG9qJpEMFq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stan Getz Plays",
-        "url": "https://open.spotify.com/album/5VDjsnQKRNJyR90or4Tsjw"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 194173,
-      "name": "'Tis Autumn",
-      "url": "https://open.spotify.com/track/0WdiW7zP35hfIAw6jKxwIS"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stan Getz And The Cool Sounds",
-        "url": "https://open.spotify.com/album/4wTBjSOFmJQ0IWTdulEFVU"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 199440,
-      "name": "A Handful Of Stars",
-      "url": "https://open.spotify.com/track/1MWgBm6oR6sVhNwwh1roUh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stan Getz Plays (Expanded Edition)",
         "url": "https://open.spotify.com/album/5J8t5L6DsSDEtcRLJZCp7b"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 179160,
       "name": "You Turned The Tables On Me",
       "url": "https://open.spotify.com/track/02ZDihrLEri1ZOF5pla55f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stan Getz And The Cool Sounds",
+        "url": "https://open.spotify.com/album/4wTBjSOFmJQ0IWTdulEFVU"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 199440,
+      "name": "A Handful Of Stars",
+      "url": "https://open.spotify.com/track/1MWgBm6oR6sVhNwwh1roUh"
     },
     {
       "added_at": null,
@@ -727,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stan Getz And The Oscar Peterson Trio",
+        "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 607573,
+      "name": "Ballad Medley",
+      "url": "https://open.spotify.com/track/2sKBNj0ZnhjdoNabEHzCMp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stan Getz And Gerry Mulligan/Stan Getz And The Oscar Peterson Trio",
         "url": "https://open.spotify.com/album/4Q0U8YpUSIcQ8cl08SbYkf"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 542733,
       "name": "I Didn't Know What Time It Was",
       "url": "https://open.spotify.com/track/1ZO96LBkBu7BCO2xF5twWo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stan Getz And The Oscar Peterson Trio",
-        "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 607573,
-      "name": "Ballad Medley",
-      "url": "https://open.spotify.com/track/2sKBNj0ZnhjdoNabEHzCMp"
     },
     {
       "added_at": null,

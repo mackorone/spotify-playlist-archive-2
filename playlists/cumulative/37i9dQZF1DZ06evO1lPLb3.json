@@ -401,6 +401,28 @@
     },
     {
       "album": {
+        "name": "CONFESSIONS II: Afterhours Edition",
+        "url": "https://open.spotify.com/album/4WRWbEYaN1pzFud6NWccqs"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267508,
+      "name": "I Feel So Free - Peggy Gou Energy Mix",
+      "url": "https://open.spotify.com/track/1r6w4GOBuTgzlHdlVkKZOG"
+    },
+    {
+      "album": {
         "name": "I Feel So Free (Peggy Gou Energy Mix)",
         "url": "https://open.spotify.com/album/1ceKmL44svlYzu0218VoPt"
       },
@@ -416,7 +438,7 @@
       ],
       "date_added": "2026-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 267508,
       "name": "I Feel So Free - Peggy Gou Energy Mix",
       "url": "https://open.spotify.com/track/5zZQc0Dgvz81P4BRt2jGE8"

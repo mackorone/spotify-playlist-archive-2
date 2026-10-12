@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RSJAsEDz7H.md) - [plain]
 
 > Listen to all the music from Grand Theft Auto VI, out Nov 19.
 
-[Spotify](https://open.spotify.com/user/spotify) - 536,053 likes - 29 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 538,014 likes - 29 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

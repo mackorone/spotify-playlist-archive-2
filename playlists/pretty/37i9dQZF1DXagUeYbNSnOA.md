@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring seye\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,299 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,346 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [FINAL SEASON](https://open.spotify.com/track/2ZDeQRvTj3WixBJAVePQbH) | [NEZZA](https://open.spotify.com/artist/0cRKBhWUTEtR1vmA06kVKz) | [FINAL SEASON](https://open.spotify.com/album/5MYrVhJfD3YrZsVaYtT548) | 2:53 |
 | 50 | [va a pasar](https://open.spotify.com/track/78vtCWytc2AKWD0mpBFT2I) | [day2k](https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3) | [va a pasar](https://open.spotify.com/album/6HNw6oS7oQo1hlWPGJVT4n) | 3:31 |
 
-Snapshot ID: `AAAAAMz7VLR8DsgngKCNHOQf+uDMjXHx`
+Snapshot ID: `AAAAAFJv5Hi0QM/G7xI3DPiBdGrwN1OV`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lo nuevo de toda Iberoamérica\. Foto: Judeline
 
-[Spotify](https://open.spotify.com/user/spotify) - 829,187 likes - 51 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 829,039 likes - 51 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

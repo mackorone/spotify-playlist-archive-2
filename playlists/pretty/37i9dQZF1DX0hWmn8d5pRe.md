@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hWmn8d5pRe.md) - [plain]
 
 > Run to this collection of rock jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,006,564 likes - 70 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,006,550 likes - 70 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,11 +44,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hWmn8d5pRe.md) - [plain]
 | 34 | [Born to Run](https://open.spotify.com/track/6hTcuIQa0sxrrByu9wTD7s) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 4:29 |
 | 35 | [Call Me](https://open.spotify.com/track/7HKxTNVlkHsfMLhigmhC0I) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Call Me](https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K) | 3:32 |
 | 36 | [Every Rose Has Its Thorn \- 2003 Remaster](https://open.spotify.com/track/43GS3mtezoIFiuIZCLLiDY) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Open Up And Say...Ahh! \(20th Anniversary Edition\)](https://open.spotify.com/album/2AMWVB3FWknjcMeb6hMZnd) | 4:20 |
-| 37 | [Money for Nothing](https://open.spotify.com/track/4yqtwO7MQIIXqoiRBPHAgR) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Brothers in Arms](https://open.spotify.com/album/7jvcSnCnugLcisBCNBm60s) | 8:26 |
-| 38 | [Shout](https://open.spotify.com/track/2gQaQUhDCNGfBVXTvxAmXQ) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair](https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5) | 6:33 |
+| 37 | [Shout](https://open.spotify.com/track/2gQaQUhDCNGfBVXTvxAmXQ) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair](https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5) | 6:33 |
+| 38 | [Money for Nothing](https://open.spotify.com/track/4yqtwO7MQIIXqoiRBPHAgR) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Brothers in Arms](https://open.spotify.com/album/7jvcSnCnugLcisBCNBm60s) | 8:26 |
 | 39 | [Bad Medicine](https://open.spotify.com/track/72hcFp4tYkd3dbNA9dZ3Pv) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [New Jersey \(Deluxe Edition\)](https://open.spotify.com/album/3mcKOl0KNe65BqiBa40WxR) | 5:16 |
-| 40 | [Fight For Your Right](https://open.spotify.com/track/5NLuC70kZQv8q34QyQa1DP) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Licensed To Ill](https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb) | 3:28 |
-| 41 | [Cum on Feel the Noize](https://open.spotify.com/track/3vV3cr2TpPqFk07zxYUbla) | [Quiet Riot](https://open.spotify.com/artist/1dLWg6m8RRhizsdqJbhyj3) | [Metal Health](https://open.spotify.com/album/3Q3rQ8FK1e9Fd9Gv9xm3CK) | 4:50 |
+| 40 | [Cum on Feel the Noize](https://open.spotify.com/track/3vV3cr2TpPqFk07zxYUbla) | [Quiet Riot](https://open.spotify.com/artist/1dLWg6m8RRhizsdqJbhyj3) | [Metal Health](https://open.spotify.com/album/3Q3rQ8FK1e9Fd9Gv9xm3CK) | 4:50 |
+| 41 | [Fight For Your Right](https://open.spotify.com/track/5NLuC70kZQv8q34QyQa1DP) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Licensed To Ill](https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb) | 3:28 |
 | 42 | [Cherry Pie](https://open.spotify.com/track/7LygtNjQ65PSdzVjUnHXQb) | [Warrant](https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq) | [Cherry Pie](https://open.spotify.com/album/4LgsHyufRmmcB1HIqTES19) | 3:21 |
 | 43 | [Dude \(Looks Like A Lady\)](https://open.spotify.com/track/6gQUbFwwdYXlKdmqRoWKJe) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Permanent Vacation](https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp) | 4:25 |
 | 44 | [Epic](https://open.spotify.com/track/4ReyTz0y3TGkX48wO3Llot) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [The Real Thing](https://open.spotify.com/album/6LEP3L94jnkqjOxYJWPRP0) | 4:53 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hWmn8d5pRe.md) - [plain]
 | 57 | [Minority](https://open.spotify.com/track/4qjfQnccStTR8zNsb6Mizo) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Warning](https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB) | 2:48 |
 | 58 | [The Safety Dance](https://open.spotify.com/track/5O4NFbDqJ8SOfbjnIhdPDt) | [Men Without Hats](https://open.spotify.com/artist/34PLzyi7CdXUekiLHYyqXq) | [Greatest](https://open.spotify.com/album/0qj6LhMLgU1ferLbZ8Rbnw) | 2:44 |
 | 59 | [Blue Monday \- 2016 Remaster](https://open.spotify.com/track/1RSy7B2vfPi84N80QJ6frX) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Singles \(2016 Remaster\)](https://open.spotify.com/album/2ODAEaYlqS88SU4ZZu1bI6) | 7:30 |
-| 60 | [Another One Bites The Dust \- Remastered 2011](https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Remastered Version\)](https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa) | 3:34 |
-| 61 | [Unskinny Bop](https://open.spotify.com/track/1Z6lKdYhwp8WYoBqGCKxlM) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Flesh & Blood](https://open.spotify.com/album/7alngtync76VqYWSKxcBhB) | 3:48 |
+| 60 | [Unskinny Bop](https://open.spotify.com/track/1Z6lKdYhwp8WYoBqGCKxlM) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Flesh & Blood](https://open.spotify.com/album/7alngtync76VqYWSKxcBhB) | 3:48 |
+| 61 | [Another One Bites The Dust \- Remastered 2011](https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Remastered Version\)](https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa) | 3:34 |
 | 62 | [Lift Me Up \(feat\. Rob Halford of Judas Priest\)](https://open.spotify.com/track/1LHZMWefF9502NPfArRfvP) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 1](https://open.spotify.com/album/6vMTdFzBPjyrBSFkCvjUh3) | 4:06 |
 | 63 | [Lola Montez](https://open.spotify.com/track/1wnq9TwifJ9ipLUFsm8vKx) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Outlaw Gentlemen & Shady Ladies](https://open.spotify.com/album/5SBrIIYCvThaqN9r1SV2pv) | 4:27 |
 | 64 | [Desire](https://open.spotify.com/track/4D01oA1mGouaAT7fubvKRT) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Rattle And Hum](https://open.spotify.com/album/7hIoJcH4ObWasDFq78u1x9) | 2:59 |

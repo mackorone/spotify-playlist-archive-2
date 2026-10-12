@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEdamGPOi1T.md) - [plain]
 
 > De la vitamine D en musique!
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,869 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,868 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,10 +90,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEdamGPOi1T.md) - [plain]
 | 80 | [Cool for the Summer](https://open.spotify.com/track/4YieJ8UoB4t4w8Ua0N3nGv) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Confident \(Deluxe Edition\)](https://open.spotify.com/album/5Q2UCYr67vEfrueFndo434) | 3:34 |
 | 81 | [Soleil dans ma tête](https://open.spotify.com/track/62j5dQuXwRnUOZGoDhwBOd) | [Keen' V](https://open.spotify.com/artist/5iZMWWLoDJH1u6Ru2rOEsd) | [Soleil dans ma tête](https://open.spotify.com/album/4wtfS8im6vop0N1u5EsDMj) | 2:30 |
 | 82 | [Onde sensuelle](https://open.spotify.com/track/3NmN4hypKhZ7eMlJecsP0z) | [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6) | [Je Dis Aime](https://open.spotify.com/album/0kTDINWpwSWZP2ohupAGav) | 3:04 |
-| 83 | [Midnight Ride](https://open.spotify.com/track/2BFnfCnAW6O1a1vZ8NZvkO) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Midnight Ride](https://open.spotify.com/album/0q0asrBrmBwrRMXeqxDvBY) | 3:31 |
-| 84 | [La vérité](https://open.spotify.com/track/239VMs4BzjqIRdFtltxfPo) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [On s'enverra des fleurs](https://open.spotify.com/album/5C9adKmsorWrba3oDcgeGH) | 2:20 |
-| 85 | [Video \(feat\. Ravyn Lenae\)](https://open.spotify.com/track/7CPz32jHbtNIZev8vpa9yb) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 3:12 |
-| 86 | [Miami](https://open.spotify.com/track/5JgaSkvLDbERK7BkekoQi6) | [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [22h22](https://open.spotify.com/album/2HdjJqBfxdOKa4LHZB21X8) | 2:46 |
+| 83 | [La vérité](https://open.spotify.com/track/239VMs4BzjqIRdFtltxfPo) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [On s'enverra des fleurs](https://open.spotify.com/album/5C9adKmsorWrba3oDcgeGH) | 2:20 |
+| 84 | [Midnight Ride](https://open.spotify.com/track/2BFnfCnAW6O1a1vZ8NZvkO) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Midnight Ride](https://open.spotify.com/album/0q0asrBrmBwrRMXeqxDvBY) | 3:31 |
+| 85 | [Miami](https://open.spotify.com/track/5JgaSkvLDbERK7BkekoQi6) | [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [22h22](https://open.spotify.com/album/2HdjJqBfxdOKa4LHZB21X8) | 2:46 |
+| 86 | [Video \(feat\. Ravyn Lenae\)](https://open.spotify.com/track/7CPz32jHbtNIZev8vpa9yb) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 3:12 |
 | 87 | [Last Girls At The Party](https://open.spotify.com/track/3T00vgU0eKHjHwrEM6BlUT) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Last Girls At The Party](https://open.spotify.com/album/1PST65sjjkEcFJnktmglWU) | 2:42 |
 | 88 | [J't'en vacances \(j'fais c'que j'veux\) \[feat\. Orange Lessard\]](https://open.spotify.com/track/3cgOQLfKsHchjogpWaFE41) | [Classe Moyenne](https://open.spotify.com/artist/4MStgkjCDOLFVmyMMmUo9v), [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4), [Zach Chico](https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37), [Justin Roy](https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc), [Phil Rxcket](https://open.spotify.com/artist/6WvhHcxi6ddlrEoaeYrRVt), [Orange Lessard](https://open.spotify.com/artist/4Y7Z6989C1MbKYFpCVtvC6) | [J't'en vacances \(j'fais c'que j'veux\)](https://open.spotify.com/album/2MKmI0ZxUvXA5ZlEHeuvml) | 3:05 |
 | 89 | [Flamme](https://open.spotify.com/track/0bFRxLr67t3gtavWOVr51y) | [Juliette Armanet](https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa) | [Brûler le feu](https://open.spotify.com/album/7ftWS2YkyqOJvh602ob2l5) | 2:44 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHkietQPUHvT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3sTYeZ3X2HX2cjaNDyKRcP">Bill Maybury</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 311 likes - 97 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 312 likes - 97 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHkietQPUHvT.md) - [plain]
 | 46 | [Knife](https://open.spotify.com/track/5fImcQz9mXs1s7akdU9Jc3) | [Lenii](https://open.spotify.com/artist/63X5yxHWDkAl13ZIOWHV94) | [Knife](https://open.spotify.com/album/6mjq2qxsezwSGkdiWN8ml9) | 3:13 |
 | 47 | [Circus](https://open.spotify.com/track/0HKV81jHT0tFxoLLYskYOr) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Amber Van Day](https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf) | [Circus](https://open.spotify.com/album/5gJ8mM7bAsCGEwm47Ak99J) | 2:32 |
 | 48 | [biting my tongue](https://open.spotify.com/track/1717Jvw2vyq7KNiutIJmLO) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [biting my tongue](https://open.spotify.com/album/4Xl9cCcZARYBmV4SK9SysK) | 2:35 |
-| 49 | [Baggage](https://open.spotify.com/track/5B1ZzhdccdLGZFNHksTcOx) | [Persia Holder](https://open.spotify.com/artist/3b6h32F8106P4eodXJHhmd) | [Baggage](https://open.spotify.com/album/0Lfi7gQjlxf7HMy0HzYt6p) | 2:41 |
-| 50 | [waste my time](https://open.spotify.com/track/2xSllS4AsXs2AjbKhtQuFy) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [waste my time](https://open.spotify.com/album/5ePyXmFNZNEmKfzuFBCTtI) | 3:32 |
+| 49 | [waste my time](https://open.spotify.com/track/2xSllS4AsXs2AjbKhtQuFy) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [waste my time](https://open.spotify.com/album/5ePyXmFNZNEmKfzuFBCTtI) | 3:32 |
+| 50 | [Baggage](https://open.spotify.com/track/5B1ZzhdccdLGZFNHksTcOx) | [Persia Holder](https://open.spotify.com/artist/3b6h32F8106P4eodXJHhmd) | [Baggage](https://open.spotify.com/album/0Lfi7gQjlxf7HMy0HzYt6p) | 2:41 |
 | 51 | [Hurt When You Hurt Me](https://open.spotify.com/track/3Fl5MQNYh1MIpAOpHYAVpr) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Victory](https://open.spotify.com/album/4T0KHJNt0mCuAyXSXfhQc3) | 4:01 |
 | 52 | [Waiting For You](https://open.spotify.com/track/6CG4xX5mY60t2DzdNt7kFQ) | [Ewan Mainwood](https://open.spotify.com/artist/0sYD7tLwt7uBajEg4adh6u) | [Waiting For You](https://open.spotify.com/album/0dLzKyJTrAQYFC26js8zjo) | 2:41 |
 | 53 | [bugfood](https://open.spotify.com/track/3s5ztgTkbaWTYuiLCgf3SY) | [Alissic](https://open.spotify.com/artist/0xl41ilVNOin4ycHsggk7u) | [bugfood](https://open.spotify.com/album/52xufJVqlIC2itNpk3Hc8r) | 3:26 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHkietQPUHvT.md) - [plain]
 | 96 | [Fairytales Are Nightmares](https://open.spotify.com/track/4osk5RIQHGsm4aMkvfsy9l) | [Bailey333](https://open.spotify.com/artist/5DQGlDPmc9tzUORPhavWet) | [Fairytales Are Nightmares](https://open.spotify.com/album/59j6XNKxuJUs7Lpw8eCEad) | 2:31 |
 | 97 | [Pieces](https://open.spotify.com/track/58pdFtaryYVwyHsjYDGw4W) | [Milo Meskens](https://open.spotify.com/artist/2os0uvECng2MYlxDj5iEbc) | [Plimsoll Road](https://open.spotify.com/album/6S5eFUOBD9mToIr9iIW32u) | 3:56 |
 
-Snapshot ID: `AcemmgAAAABQkE5HNTbCJwwaI+zHV4L3`
+Snapshot ID: `AcesOgAAAADmFSS3A3FxassDUl54QE5A`

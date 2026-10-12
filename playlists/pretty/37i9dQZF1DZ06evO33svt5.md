@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33svt5.md) - [plain]
 
 > This is Doja Cat\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,105,604 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,105,648 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33svt5.md) - [plain]
 | 49 | [Attention](https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Attention](https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E) | 4:37 |
 | 50 | [Wet Vagina](https://open.spotify.com/track/5MqauQV2PhcEFfhKtBOTua) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 3:12 |
 
-Snapshot ID: `asgugAAAAACdr0PDTxzJIpMu8FUkDucE`
+Snapshot ID: `asmAAAAAAABUqhwlzJHOTTaHy5Gt3Qu9`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1EOn1bt5GXJPBxrZZ7SUlg">RAYE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,842 likes - 150 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,846 likes - 150 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 61 | [Tipsy \(feat\. RAYE\)](https://open.spotify.com/track/5Wt7ngK753xBhSjb9lRfSR) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3XCNZRsJxQotyHT2POii79), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Tipsy \(feat\. RAYE\)](https://open.spotify.com/album/5vTEYsgyE0C0ADqZo0Qy3F) | 3:28 |
 | 62 | [Dreamer \- Compound Version](https://open.spotify.com/track/7Coulic7di20MlW1bEytkQ) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Starrah](https://open.spotify.com/artist/6DpWtzfwV8fcwP6fXckDVu), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Number 1 Angel](https://open.spotify.com/album/37rI2gAtakAmSFtbIE9THq) | 3:58 |
 | 63 | [Follow The White Rabbit](https://open.spotify.com/track/2Txj791OlOaNSMpps0gz5K) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Life Support](https://open.spotify.com/album/1TKYO9znkrY14VayHze05r) | 2:59 |
-| 64 | [Breathing](https://open.spotify.com/track/4bhe0XXBRo4EAPKgy4M2xz) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Therapy](https://open.spotify.com/album/4AeowfpQNCScPBpPhnovKM) | 3:24 |
-| 65 | [Life Boat.](https://open.spotify.com/track/7BguGjelfXyHttxhfQVxzr) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 4:15 |
+| 64 | [Life Boat.](https://open.spotify.com/track/7BguGjelfXyHttxhfQVxzr) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 4:15 |
+| 65 | [Breathing](https://open.spotify.com/track/4bhe0XXBRo4EAPKgy4M2xz) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Therapy](https://open.spotify.com/album/4AeowfpQNCScPBpPhnovKM) | 3:24 |
 | 66 | [Confidence](https://open.spotify.com/track/5nhG9nkIXaPA89Yd9BLOZU) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg), [Nana Rogues](https://open.spotify.com/artist/24HNTbd7Y2qVOCyzIosYi9) | [Side Tape](https://open.spotify.com/album/6VpSHPH5y0YyCajycHp6PL) | 2:50 |
 | 67 | [Goodbye Henry\. \(feat\. Al Green\)](https://open.spotify.com/track/5lBL8xRTXIDpPDJcuPL9UH) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 5:20 |
 | 68 | [Supermarket](https://open.spotify.com/track/5TQq3QfG2tXGZum3GvBmkm) | [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [Supermarket](https://open.spotify.com/album/2DdMFIN9ixfj0egXGlcfPy) | 3:04 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 149 | [2\-2](https://open.spotify.com/track/7bwBoVmrfB0xMbUose7HYb) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Perrie \(Fan Edition\)](https://open.spotify.com/album/3VYER2TreguhiDUlXnTkli) | 3:01 |
 | 150 | [Magic](https://open.spotify.com/track/6Is9lEdN1IJQcD6sfFJiTo) | [Rachel Alejandro](https://open.spotify.com/artist/4oMk1QJuMWUWrNmchRJGWL) | [Heart's Desire](https://open.spotify.com/album/2hx6aKJg9nktlobIjmFiW8) | 3:12 |
 
-Snapshot ID: `AcempAAAAAAuiEHU5nHnbiaL1qF5VTud`
+Snapshot ID: `AcesRAAAAAAZTvtDZLoR2g70xE/yH7+X`

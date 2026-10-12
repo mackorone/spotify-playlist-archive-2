@@ -19959,6 +19959,24 @@
     },
     {
       "album": {
+        "name": "i wish i could forget",
+        "url": "https://open.spotify.com/album/6ILNFS3HG0VqlvyKjeserQ"
+      },
+      "artists": [
+        {
+          "name": "Cold Water",
+          "url": "https://open.spotify.com/artist/5kazB8wdgdWlnTuByuKYVw"
+        }
+      ],
+      "date_added": "2026-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86000,
+      "name": "i wish i could forget",
+      "url": "https://open.spotify.com/track/0bDCWL9NJFMOWbiyaxim95"
+    },
+    {
+      "album": {
         "name": "I won't miss your love",
         "url": "https://open.spotify.com/album/59oh3OScYWBYAoFFAygixX"
       },
@@ -39340,6 +39358,24 @@
       "duration_ms": 184126,
       "name": "Slipping Away",
       "url": "https://open.spotify.com/track/4w6vZbPYs0nIzA84Vu041d"
+    },
+    {
+      "album": {
+        "name": "Slow Morning",
+        "url": "https://open.spotify.com/album/3V64xs8qTljjhW5BRkiNum"
+      },
+      "artists": [
+        {
+          "name": "Bon Echo",
+          "url": "https://open.spotify.com/artist/0cptB7nxVh6aCVkUZcrSLy"
+        }
+      ],
+      "date_added": "2026-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90588,
+      "name": "Slow Morning",
+      "url": "https://open.spotify.com/track/0Ri3JL1PRvBwfIu7HTjk00"
     },
     {
       "album": {

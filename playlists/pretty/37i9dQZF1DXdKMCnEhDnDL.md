@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKMCnEhDnDL.md) - [plain]
 
 > De beste Nederlandse liedjes! Cover: Isabèl Usher \(<a href="spotify:playlist:37i9dQZF1DXaxwXKCsImRe">RADAR</a>\-artiest\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 529,169 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 529,181 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

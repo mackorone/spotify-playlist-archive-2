@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSP55jZj2ES3.md) - [plain]
 
 > Indie jams that sound like lounging under the sun with friends.
 
-[Spotify](https://open.spotify.com/user/spotify) - 530,556 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 530,545 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSP55jZj2ES3.md) - [plain]
 | 37 | [waves \- Tame Impala Remix](https://open.spotify.com/track/3lB0GMiI5KxDbTOG8V3bOx) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Rogue Waves](https://open.spotify.com/album/4sJXyIfwduIWFISb4iCq2f) | 4:13 |
 | 38 | [Don't Take The Money](https://open.spotify.com/track/3ySU5vwQB33iGulwcUL9qQ) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Gone Now](https://open.spotify.com/album/10HKbC9lKDHGQvndGck6XJ) | 3:35 |
 | 39 | [Warm](https://open.spotify.com/track/4rxD9Ar3OlsgGOnblWUKqr) | [Dre'es](https://open.spotify.com/artist/4pc5r183mYvIzGyFv2S0hO), [Lali Bi Baby](https://open.spotify.com/artist/1oaQGhAjHfjKF7Mqh8FY7O) | [Warm](https://open.spotify.com/album/6VCVsHg0OzSEKRnFLtOQcg) | 4:15 |
-| 40 | [Ways to Go](https://open.spotify.com/track/57nNNkgk768QVXq3uHxu5e) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Spreading Rumours](https://open.spotify.com/album/1VNBZDM7OxEQPFbEtVqUuf) | 3:35 |
-| 41 | [FAMJAM4000](https://open.spotify.com/track/08vlprFBmwh9TQnjXUtZDG) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [FORWARD](https://open.spotify.com/album/367frJ4GG9UMlXlMrVanYL) | 2:38 |
+| 40 | [FAMJAM4000](https://open.spotify.com/track/08vlprFBmwh9TQnjXUtZDG) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [FORWARD](https://open.spotify.com/album/367frJ4GG9UMlXlMrVanYL) | 2:38 |
+| 41 | [Ways to Go](https://open.spotify.com/track/57nNNkgk768QVXq3uHxu5e) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Spreading Rumours](https://open.spotify.com/album/1VNBZDM7OxEQPFbEtVqUuf) | 3:35 |
 | 42 | [Nanã](https://open.spotify.com/track/0Psz3az3RIYfJpnsajBT8N) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Caravelle](https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT) | 3:10 |
 | 43 | [Bodies](https://open.spotify.com/track/59JXLBosh2OFLMCARkINnB) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Sunburn](https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH) | 2:04 |
 | 44 | [Better Give U Up](https://open.spotify.com/track/4c60yLpE5lXvICT0pyEaZ5) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [French Kiwi Juice](https://open.spotify.com/album/0jJ7mMkCkTe7p9EJgSRxgi) | 4:16 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSP55jZj2ES3.md) - [plain]
 | 51 | [Take Care](https://open.spotify.com/track/1igtKwX3EHjN95HanbkHNg) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Teen Dream](https://open.spotify.com/album/51AxfjN2gEt5qeJqPY5w0e) | 5:48 |
 | 52 | [Iceblink Luck](https://open.spotify.com/track/0Coai3QxvjCXWMhVN1hpgE) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven or Las Vegas](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | 3:18 |
 | 53 | [Campus](https://open.spotify.com/track/1eNrlXlW7Cj1QB1YUcZmpb) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 2:56 |
-| 54 | [Soaked](https://open.spotify.com/track/4zIiarkbaDt2cm6sukb1Xt) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [FIRE ON MARZZ](https://open.spotify.com/album/6pTMhQX8gt1xegiIwo3Ekb) | 4:00 |
-| 55 | [Prism](https://open.spotify.com/track/0tpaVCA6VnQOUAI0EpFZpk) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Prism](https://open.spotify.com/album/7FYVjCHeJAhgDi2zFmDV3n) | 3:52 |
+| 54 | [Prism](https://open.spotify.com/track/0tpaVCA6VnQOUAI0EpFZpk) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Prism](https://open.spotify.com/album/7FYVjCHeJAhgDi2zFmDV3n) | 3:52 |
+| 55 | [Soaked](https://open.spotify.com/track/4zIiarkbaDt2cm6sukb1Xt) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [FIRE ON MARZZ](https://open.spotify.com/album/6pTMhQX8gt1xegiIwo3Ekb) | 4:00 |
 | 56 | [Buttercup](https://open.spotify.com/track/6iCJCZqDJjmBxt07Oid6FI) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Landmark](https://open.spotify.com/album/0vb1g018puu47StlIi9wxC) | 3:46 |
 | 57 | [I Wanna Help Your Mind](https://open.spotify.com/track/08ZZ7SILfKcreLtA3K6Gqr) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [I Wanna Help Your Mind](https://open.spotify.com/album/2G6xRZxWrt9mBXgHclg2i4) | 2:51 |
 | 58 | [1st Time](https://open.spotify.com/track/4udjo5nLK61pKajakfrndc) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [1st Time](https://open.spotify.com/album/1ecGfFfdYXsJnRRLuENEtG) | 3:01 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSP55jZj2ES3.md) - [plain]
 | 66 | [Crush](https://open.spotify.com/track/3aUviSdBVbsdmH406j5GZC) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Crush](https://open.spotify.com/album/1R9BIE7X0fzMrn3XHvetFO) | 2:15 |
 | 67 | [I Know There's Gonna Be \(Good Times\)](https://open.spotify.com/track/06UOL50QYtDR5l06ohu88m) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 3:33 |
 | 68 | [Happy Music](https://open.spotify.com/track/0LbZxI8FZU1E48EqF9XgC0) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:52 |
-| 69 | [Hot in NY](https://open.spotify.com/track/5pLLiyazbpDHplZz7JCvNm) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Hot in NY](https://open.spotify.com/album/7HUkTgfCJpTzB7OUHSMGT8) | 1:58 |
-| 70 | [Long Beach](https://open.spotify.com/track/6tqIes4TjudsjfIpK4P2Jh) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Hello O'shay](https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp), [Alex Banin](https://open.spotify.com/artist/2fTTmPI3XaJwqM19w5QiRz) | [EVERYTHING](https://open.spotify.com/album/0cMxALtiABnT1kIuA1wgsQ) | 4:12 |
+| 69 | [Long Beach](https://open.spotify.com/track/6tqIes4TjudsjfIpK4P2Jh) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Hello O'shay](https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp), [Alex Banin](https://open.spotify.com/artist/2fTTmPI3XaJwqM19w5QiRz) | [EVERYTHING](https://open.spotify.com/album/0cMxALtiABnT1kIuA1wgsQ) | 4:12 |
+| 70 | [Hot in NY](https://open.spotify.com/track/5pLLiyazbpDHplZz7JCvNm) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Hot in NY](https://open.spotify.com/album/7HUkTgfCJpTzB7OUHSMGT8) | 1:58 |
 | 71 | [Sweet Time](https://open.spotify.com/track/3wv9jIR1DAGxTRMm1kH6GL) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Sweet Time](https://open.spotify.com/album/2L0mTw6WLlSkjxrZJXna5h) | 4:11 |
 | 72 | [Tuesday](https://open.spotify.com/track/5LjKOTy2cNgmcmXVVMWGZe) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Tuesday](https://open.spotify.com/album/60WYgmEkFT4MpbjOovAkSG) | 3:11 |
 | 73 | [I Was Sad Last Night I'm OK Now](https://open.spotify.com/track/0gEcmyKlIUoi3sHTFVO1bE) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49) | [Live on Ice](https://open.spotify.com/album/6K7SjlIebufubxXGf4uA7a) | 3:10 |

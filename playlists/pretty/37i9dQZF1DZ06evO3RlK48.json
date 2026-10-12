@@ -1,12 +1,12 @@
 {
   "description": "This is MUNA. The essential tracks, all in one playlist.",
-  "num_followers": 18619,
+  "num_followers": 18625,
   "original_name": "This Is MUNA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asgugAAAAAD2sBQ0xdUf8y5sYRdfjE1j",
+  "snapshot_id": "asmAAAAAAACHIMmx7IgTkzdHkviFGpWe",
   "tracks": [
     {
       "added_at": null,
@@ -63,8 +63,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "One That Got Away",
-        "url": "https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond"
+        "name": "Saves The World",
+        "url": "https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz"
       },
       "artists": [
         {
@@ -72,9 +72,9 @@
           "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
         }
       ],
-      "duration_ms": 232266,
-      "name": "One That Got Away",
-      "url": "https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q"
+      "duration_ms": 205871,
+      "name": "Number One Fan",
+      "url": "https://open.spotify.com/track/69WAiCaEdxACKzB4B7Bv27"
     },
     {
       "added_at": null,
@@ -111,6 +111,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "One That Got Away",
+        "url": "https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 232266,
+      "name": "One That Got Away",
+      "url": "https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Saves The World",
         "url": "https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz"
       },
@@ -120,29 +136,9 @@
           "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
         }
       ],
-      "duration_ms": 205871,
-      "name": "Number One Fan",
-      "url": "https://open.spotify.com/track/69WAiCaEdxACKzB4B7Bv27"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Into Your Room (with MUNA)",
-        "url": "https://open.spotify.com/album/5xoc8PmIs7xsuxaA7t4Oun"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        },
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 211235,
-      "name": "Into Your Room (with MUNA)",
-      "url": "https://open.spotify.com/track/3RaG1pAMRHFiCAqcE9KKNo"
+      "duration_ms": 211971,
+      "name": "Stayaway",
+      "url": "https://open.spotify.com/track/3vnyzhfVRh3agMjP6nABJw"
     },
     {
       "added_at": null,
@@ -179,18 +175,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saves The World",
-        "url": "https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz"
+        "name": "Into Your Room (with MUNA)",
+        "url": "https://open.spotify.com/album/5xoc8PmIs7xsuxaA7t4Oun"
       },
       "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        },
         {
           "name": "MUNA",
           "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
         }
       ],
-      "duration_ms": 211971,
-      "name": "Stayaway",
-      "url": "https://open.spotify.com/track/3vnyzhfVRh3agMjP6nABJw"
+      "duration_ms": 211235,
+      "name": "Into Your Room (with MUNA)",
+      "url": "https://open.spotify.com/track/3RaG1pAMRHFiCAqcE9KKNo"
     },
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
         }
       ],
-      "duration_ms": 156120,
-      "name": "Big Stick",
-      "url": "https://open.spotify.com/track/1VgAgeHvB45Y5ZgqAnCA82"
+      "duration_ms": 154853,
+      "name": "Wannabeher",
+      "url": "https://open.spotify.com/track/4412CfupPqPn61n1nVew0s"
     },
     {
       "added_at": null,

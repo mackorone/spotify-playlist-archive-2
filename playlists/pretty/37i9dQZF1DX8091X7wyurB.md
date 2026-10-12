@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8091X7wyurB.md) - [plain]
 
 > Praise and Worship the Almighty God with the best songs\. A mix of both African and International songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,970 likes - 80 songs - 9 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,267 likes - 80 songs - 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,9 +72,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8091X7wyurB.md) - [plain]
 | 62 | [Anchor of My Strength](https://open.spotify.com/track/4TEFKBeXAE20j69TpHFFK7) | [Paul CleverLee](https://open.spotify.com/artist/2OmRPEQ0DmK6myhfVFKLuY), [Gerald Bishung](https://open.spotify.com/artist/7yAihRRmPVVKmZ6xvFCV7I) | [Anchor of My Strength](https://open.spotify.com/album/6j5WW5wCRQpz719p05KNzz) | 3:10 |
 | 63 | [I Get Backing](https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Truth in Sounds](https://open.spotify.com/album/0wQ2rB1CLrUZlsYROvBDyq) | 9:06 |
 | 64 | [I have escaped](https://open.spotify.com/track/7JlAAEib1TABwxSEGU1c4K) | [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [I have escaped \(Main Version\)](https://open.spotify.com/album/2p4SUaDgsEcPFE08Ju0yg0) | 3:20 |
-| 65 | [Intentional](https://open.spotify.com/track/7amI71zqlFSwDF3jFjHa2l) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [The Hill](https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV) | 5:09 |
-| 66 | [Ndenzel' Uncedo Hymn 377 \- Live](https://open.spotify.com/track/3BTszrSLAt9f11eWeHNTTc) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 25 \- Still We Rise: Live At The Joburg Theatre](https://open.spotify.com/album/3XpdHJykK5cila2uzcNAxz) | 6:28 |
-| 67 | [Baruch Hashem Adonai \- Live](https://open.spotify.com/track/1VEagF1oSqLgm5Y6lH32mS) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [THEOPHILUS SUNDAY](https://open.spotify.com/artist/4cPMN7Bzz4cSb3KilevhaB) | [Baruch Hashem Adonai \(Live\)](https://open.spotify.com/album/2VS8HyIhoys9tLoUG7Ati5) | 19:03 |
+| 65 | [Ndenzel' Uncedo Hymn 377 \- Live](https://open.spotify.com/track/3BTszrSLAt9f11eWeHNTTc) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 25 \- Still We Rise: Live At The Joburg Theatre](https://open.spotify.com/album/3XpdHJykK5cila2uzcNAxz) | 6:28 |
+| 66 | [Baruch Hashem Adonai \- Live](https://open.spotify.com/track/1VEagF1oSqLgm5Y6lH32mS) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [THEOPHILUS SUNDAY](https://open.spotify.com/artist/4cPMN7Bzz4cSb3KilevhaB) | [Baruch Hashem Adonai \(Live\)](https://open.spotify.com/album/2VS8HyIhoys9tLoUG7Ati5) | 19:03 |
+| 67 | [Intentional](https://open.spotify.com/track/7amI71zqlFSwDF3jFjHa2l) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [The Hill](https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV) | 5:09 |
 | 68 | [Wonder](https://open.spotify.com/track/6lDtOEonI6yUjuyYp6g7X4) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Wonder](https://open.spotify.com/album/34npUpzknuO6gTYXzhPgJW) | 15:43 |
 | 69 | [Chinedum](https://open.spotify.com/track/7LcoRUZI1URqzeumgGbKWp) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:40 |
 | 70 | [Kulungile Baba](https://open.spotify.com/track/1lVle6qDY5DRMiJFgHyd3i) | [S'fiso Ncwane](https://open.spotify.com/artist/3S8kh2omzAwuqU2wac2xES) | [Kulungile Baba](https://open.spotify.com/album/7iZJDcW68iks6zXB6x14Mb) | 4:44 |

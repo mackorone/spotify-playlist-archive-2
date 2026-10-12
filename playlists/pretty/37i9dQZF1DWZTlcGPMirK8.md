@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTlcGPMirK8.md) - [plain]
 
 > The biggest pop hits to come from the land down under.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,878 likes - 70 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,885 likes - 70 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTlcGPMirK8.md) - [plain]
 | 25 | [She Looks So Perfect](https://open.spotify.com/track/5cPO2j2p9Myq77YQVwWyrN) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5 Seconds Of Summer](https://open.spotify.com/album/1w5D9eC3WgKWZZVUwB0GXE) | 3:22 |
 | 26 | [Xanadu](https://open.spotify.com/track/0cXFXgFns7sIMmTpqyGRmD) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Xanadu \- Original Motion Picture Soundtrack](https://open.spotify.com/album/325AF2IWtxrY0jcoW25N45) | 3:28 |
 | 27 | [Scar](https://open.spotify.com/track/0Xxww5aUyamJlEm8GkP21i) | [Missy Higgins](https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf) | [The Sound Of White](https://open.spotify.com/album/5Dd14nVQOJIUg9UgKkVyIQ) | 3:33 |
-| 28 | [Hoops](https://open.spotify.com/track/3Q4DweD43ffeuELklLMKQk) | [The Rubens](https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI) | [Hoops](https://open.spotify.com/album/09nqIkoFAKnf77GEPBY6x1) | 2:38 |
-| 29 | [Love at First Sight](https://open.spotify.com/track/26muNwMlZGvB2kEq41ZlDX) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/6FTq1YhYJLetfJQrq02gdv) | 3:58 |
+| 28 | [Love at First Sight](https://open.spotify.com/track/26muNwMlZGvB2kEq41ZlDX) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/6FTq1YhYJLetfJQrq02gdv) | 3:58 |
+| 29 | [Hoops](https://open.spotify.com/track/3Q4DweD43ffeuELklLMKQk) | [The Rubens](https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI) | [Hoops](https://open.spotify.com/album/09nqIkoFAKnf77GEPBY6x1) | 2:38 |
 | 30 | [Tightrope](https://open.spotify.com/track/69kz02an0zTBl2NQdshqnB) | [Illy](https://open.spotify.com/artist/6NFyaN9PMCDZ3LKxGwHAXt) | [Cinematic](https://open.spotify.com/album/0AVD0hJCteRdN51sXiAEOz) | 4:52 |
 | 31 | [I Like The Way \- Radio Edit](https://open.spotify.com/track/0reKGVcWLVvl1FzjZ6TACy) | [Bodyrockers](https://open.spotify.com/artist/5GJmQjUNRyNQ2VZ4HOIx1C) | [Bodyrockers](https://open.spotify.com/album/4trfDRFU3Fd2P0jnuCKFaY) | 3:20 |
 | 32 | [Kiss Kiss](https://open.spotify.com/track/5TWL2K9Q9QuUTW15I6ZLpP) | [Holly Valance](https://open.spotify.com/artist/7gRmesSjINzb4xXApfMV5E) | [Footprints](https://open.spotify.com/album/0canrrqYujUeehzkS9sUZV) | 3:24 |

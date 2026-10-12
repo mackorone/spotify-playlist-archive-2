@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 
 > Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Zimbra
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,176 likes - 55 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,180 likes - 55 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Guardei Você Aqui](https://open.spotify.com/track/0xL0pZRHQtqCQVZX7z8ASI) | [Zimbra](https://open.spotify.com/artist/11xX6bMCvpstEFOyx8lxYg) | [Guardei Você Aqui](https://open.spotify.com/album/1g87BklyE0unlCz2ekmPr9) | 3:48 |
 | 2 | [Por Enquanto \- Ao Vivo](https://open.spotify.com/track/3H2oROvmrOu4hnf3Xv7pjU) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d) | [Capital Inicial Multishow \(Ao Vivo\) \[Deluxe\]](https://open.spotify.com/album/2UF8ePNIpJAQiU6V7E1zRS) | 4:14 |
-| 3 | [Talvez](https://open.spotify.com/track/6vqmVqA8nc6IHBkDAGwkO3) | [Bruna Foss](https://open.spotify.com/artist/4FrN1zhyhsLkK3Kxy5hYh6) | [Talvez](https://open.spotify.com/album/6D33oCE0ekAwAZw1leYVhj) | 3:05 |
-| 4 | [Farol](https://open.spotify.com/track/4xyyxpwegsww8tccaPiFrN) | [Maglore](https://open.spotify.com/artist/24me6m3bV7l2rnUwaXV0Tj) | [Fluxo Natural](https://open.spotify.com/album/1zRauBTmrTgG4jY5dJaJql) | 3:48 |
+| 3 | [Farol](https://open.spotify.com/track/4xyyxpwegsww8tccaPiFrN) | [Maglore](https://open.spotify.com/artist/24me6m3bV7l2rnUwaXV0Tj) | [Fluxo Natural](https://open.spotify.com/album/1zRauBTmrTgG4jY5dJaJql) | 3:48 |
+| 4 | [Talvez](https://open.spotify.com/track/6vqmVqA8nc6IHBkDAGwkO3) | [Bruna Foss](https://open.spotify.com/artist/4FrN1zhyhsLkK3Kxy5hYh6) | [Talvez](https://open.spotify.com/album/6D33oCE0ekAwAZw1leYVhj) | 3:05 |
 | 5 | [Não Vou Me Adaptar \- Ao Vivo](https://open.spotify.com/track/4EXzmoiU4KAggC3UbBueCl) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy), [Arnaldo Antunes](https://open.spotify.com/artist/7lOUbhzQ1F3xcCMEcTtbO5) | [Não Vou Me Adaptar \(Ao Vivo\)](https://open.spotify.com/album/4EdfAeoDFDnsoh1xey5M30) | 4:36 |
 | 6 | [Beijos, Blues e Poesia](https://open.spotify.com/track/4WAhdM7KNEmezzmKwWsK5J) | [Lizandra](https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl), [Colomy](https://open.spotify.com/artist/3cZPhYBGxe9nqWRe3xAlmp) | [Beijos, Blues e Poesia](https://open.spotify.com/album/0ILIY5R8PY4BXfOxhXaM8D) | 3:04 |
 | 7 | [Amor Em Vão](https://open.spotify.com/track/3VwcqHviDaCwvMNtFnfLUv) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d), [Samuel Rosa](https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa) | [Amor Em Vão](https://open.spotify.com/album/4LlYjI3enukiq7vCAHRY65) | 3:31 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 | 32 | [MENINA VENENO](https://open.spotify.com/track/4RjyulOffxqkRxtPujLqQQ) | [HOZE](https://open.spotify.com/artist/2CIUcv8pXYRUuU4Z5IvelB) | [MENINA VENENO](https://open.spotify.com/album/1VDiXRgtgdHPfWIrEAKIft) | 2:48 |
 | 33 | [Estive com Stevie](https://open.spotify.com/track/0gBsFURSrkTWWrIaZnYo9D) | [Blitz](https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ) | [Supernova](https://open.spotify.com/album/2g26BC7k5JvYrsKMIZjogr) | 3:36 |
 | 34 | [Outro Mundo, Outro Lugar](https://open.spotify.com/track/3GJLage5Or93NKfZAsqISf) | [Ls Jack](https://open.spotify.com/artist/7xuzwG9aC7R0ftU6OSs6pX) | [Outro Mundo, Outro Lugar](https://open.spotify.com/album/3AgoiJrNp2FvpBca5Vw0Hl) | 3:46 |
-| 35 | [Ficou Saudade](https://open.spotify.com/track/0X7rSYCZNoaJR50Ja0Cfr7) | [Gabriel Won](https://open.spotify.com/artist/5GiglwDgFnmp58gvGjmT3r) | [Ficou Saudade](https://open.spotify.com/album/05tb8yiaxwErUfzVJ9ovyv) | 2:53 |
-| 36 | [Numas de Tapete Vermelho](https://open.spotify.com/track/47OF0j7du20IxTDZMV6p04) | [João Gabriel](https://open.spotify.com/artist/25jKdtuc8N7KwImj15i8ZN), [Sonastério](https://open.spotify.com/artist/0NTc2g91fsvvAoAgUXMUmW) | [Numas de Tapete Vermelho](https://open.spotify.com/album/2KW9HUfEPhokMhnlQCnoUu) | 3:49 |
+| 35 | [Numas de Tapete Vermelho](https://open.spotify.com/track/47OF0j7du20IxTDZMV6p04) | [João Gabriel](https://open.spotify.com/artist/25jKdtuc8N7KwImj15i8ZN), [Sonastério](https://open.spotify.com/artist/0NTc2g91fsvvAoAgUXMUmW) | [Numas de Tapete Vermelho](https://open.spotify.com/album/2KW9HUfEPhokMhnlQCnoUu) | 3:49 |
+| 36 | [Ficou Saudade](https://open.spotify.com/track/0X7rSYCZNoaJR50Ja0Cfr7) | [Gabriel Won](https://open.spotify.com/artist/5GiglwDgFnmp58gvGjmT3r) | [Ficou Saudade](https://open.spotify.com/album/05tb8yiaxwErUfzVJ9ovyv) | 2:53 |
 | 37 | [Vida Real](https://open.spotify.com/track/2WZpf1SuDwLWtu5rFFd9il) | [Esteban Tavares](https://open.spotify.com/artist/3IokbxGxDtjuk6wPdisQ6o) | [Vida Real](https://open.spotify.com/album/7pfiQUMW4GxfeLDaIZPKcE) | 3:50 |
 | 38 | [Vamos Correr Pro Mar](https://open.spotify.com/track/5KUNq0bFfXp6mgQv3ZFH35) | [Seu Cuca](https://open.spotify.com/artist/3RAlbabK7xVqcYu6i4vN0b) | [Vamos Correr Pro Mar](https://open.spotify.com/album/7oIIi1OY9PXw8le6Rdb5BJ) | 3:26 |
 | 39 | [Dragon](https://open.spotify.com/track/2MGoRGsL1Q4kUL5ggkFOlC) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [Dragon](https://open.spotify.com/album/42UhCrnOFpM7IekWMorsV1) | 3:05 |

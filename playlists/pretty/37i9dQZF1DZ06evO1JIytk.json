@@ -507,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Terror State",
+        "url": "https://open.spotify.com/album/0TLPBodu3hDPeudOo37sZA"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 226560,
+      "name": "Rank-N-File",
+      "url": "https://open.spotify.com/track/1cp15PNImIgZXiBURTqS16"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A New Kind of Army",
         "url": "https://open.spotify.com/album/1Y0Z1edYpuumeeELWdseMv"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 153991,
       "name": "Captain Anarchy",
       "url": "https://open.spotify.com/track/1tqC8SbK0zAPOOhq0YXc5Z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The General Strike",
-        "url": "https://open.spotify.com/album/0ezxuUTs49NyqdB7Z5ns3j"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 148514,
-      "name": "The Ranks of the Masses Rising",
-      "url": "https://open.spotify.com/track/2YXkq18FeC5urvPpxraQ7c"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Terror State",
-        "url": "https://open.spotify.com/album/0TLPBodu3hDPeudOo37sZA"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 226560,
-      "name": "Rank-N-File",
-      "url": "https://open.spotify.com/track/1cp15PNImIgZXiBURTqS16"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The General Strike",
         "url": "https://open.spotify.com/album/0ezxuUTs49NyqdB7Z5ns3j"
       },
@@ -596,25 +580,9 @@
           "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
         }
       ],
-      "duration_ms": 197973,
-      "name": "The Neoliberal Anthem",
-      "url": "https://open.spotify.com/track/0ujgWDkEJaJRSY6nzOGTqF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Die for the Government",
-        "url": "https://open.spotify.com/album/5q8xABjtqtUm4ItxT51NQP"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 141026,
-      "name": "You'd Do the Same",
-      "url": "https://open.spotify.com/track/6XmmqYxSC4faXhsrsXqUKs"
+      "duration_ms": 148514,
+      "name": "The Ranks of the Masses Rising",
+      "url": "https://open.spotify.com/track/2YXkq18FeC5urvPpxraQ7c"
     },
     {
       "added_at": null,
@@ -635,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Die for the Government",
+        "url": "https://open.spotify.com/album/5q8xABjtqtUm4ItxT51NQP"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 141026,
+      "name": "You'd Do the Same",
+      "url": "https://open.spotify.com/track/6XmmqYxSC4faXhsrsXqUKs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Terror State",
         "url": "https://open.spotify.com/album/0TLPBodu3hDPeudOo37sZA"
       },
@@ -651,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Underground Network",
-        "url": "https://open.spotify.com/album/5NUqfqkQzEuc4IjDTy8l5S"
+        "name": "The General Strike",
+        "url": "https://open.spotify.com/album/0ezxuUTs49NyqdB7Z5ns3j"
       },
       "artists": [
         {
@@ -660,9 +644,9 @@
           "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
         }
       ],
-      "duration_ms": 243866,
-      "name": "Underground Network",
-      "url": "https://open.spotify.com/track/5WTxwhu0cDbXi7IlP30OFK"
+      "duration_ms": 197973,
+      "name": "The Neoliberal Anthem",
+      "url": "https://open.spotify.com/track/0ujgWDkEJaJRSY6nzOGTqF"
     },
     {
       "added_at": null,
@@ -683,6 +667,22 @@
       "duration_ms": 211866,
       "name": "VICTORY OR DEATH (WE GAVE 'EM HELL) (feat. Campino of Die Toten Hosen)",
       "url": "https://open.spotify.com/track/1gLX2nqjwB7J7udA95Zmr3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Underground Network",
+        "url": "https://open.spotify.com/album/5NUqfqkQzEuc4IjDTy8l5S"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 243866,
+      "name": "Underground Network",
+      "url": "https://open.spotify.com/track/5WTxwhu0cDbXi7IlP30OFK"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Underground Network",
-        "url": "https://open.spotify.com/album/5NUqfqkQzEuc4IjDTy8l5S"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 134893,
-      "name": "Bring Out Your Dead",
-      "url": "https://open.spotify.com/track/5suFYy1caOoi9pdiMirhPs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hooligans United a Tribute to Rancid",
         "url": "https://open.spotify.com/album/3fNR9RPA8gWdl8DHyEylPv"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 77992,
       "name": "Maxwell Murder",
       "url": "https://open.spotify.com/track/2FSHOstfVfHia9eBS6vz9t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Underground Network",
+        "url": "https://open.spotify.com/album/5NUqfqkQzEuc4IjDTy8l5S"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 134893,
+      "name": "Bring Out Your Dead",
+      "url": "https://open.spotify.com/track/5suFYy1caOoi9pdiMirhPs"
     },
     {
       "added_at": null,

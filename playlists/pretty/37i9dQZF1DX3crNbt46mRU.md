@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including girl in red, Troye Sivan, Sido, Montez, Marlon Hoffstadt, David Guetta & many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,847 likes - 97 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,846 likes - 97 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

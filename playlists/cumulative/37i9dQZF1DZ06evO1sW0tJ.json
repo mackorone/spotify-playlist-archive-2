@@ -31,6 +31,28 @@
     },
     {
       "album": {
+        "name": "Women Composers & The Piano",
+        "url": "https://open.spotify.com/album/3VnZU0WMsbDURQ6FbAqm3U"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Susan Tomes",
+          "url": "https://open.spotify.com/artist/3OP4EwLAnli8pp9rvEossC"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269333,
+      "name": "3 Romances , Op. 21: No. 3, Agitato",
+      "url": "https://open.spotify.com/track/65uLPKKfOrPAANpKURmp20"
+    },
+    {
+      "album": {
         "name": "The Echoes of Women - International Women's Day 2024",
         "url": "https://open.spotify.com/album/0wmLZVzrWZrwmNH20OdYrd"
       },

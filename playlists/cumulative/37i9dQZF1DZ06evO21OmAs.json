@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "blue",
+        "url": "https://open.spotify.com/album/3kxuW16FADFPyKmeke0wlR"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250049,
+      "name": "blue",
+      "url": "https://open.spotify.com/track/0RJB6ldc79QC6jW5OR2Pv1"
+    },
+    {
+      "album": {
         "name": "if i could make it go quiet",
         "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
       },

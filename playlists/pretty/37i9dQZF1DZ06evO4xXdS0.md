@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xXdS0.md) - [plain]
 
 > This is Nina Simone\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 511,144 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 511,177 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xXdS0.md) - [plain]
 | 49 | [Funkier Than a Mosquito's Tweeter](https://open.spotify.com/track/5wBi26umb4oxXLmpJ32BWV) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [It Is Finished \(Expanded Edition\)](https://open.spotify.com/album/5rzptvCrGaKKR0vT49BHYk) | 5:20 |
 | 50 | [I Think It's Going to Rain Today](https://open.spotify.com/track/6GWLNfRviT4S82inkxvXV8) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone & Piano \(Expanded Edition\)](https://open.spotify.com/album/24tZ7QTxEKZ6aZOCP1uBMM) | 3:20 |
 
-Snapshot ID: `asgugAAAAAAKuJktNp4Aq2pXv/kuK+iv`
+Snapshot ID: `asmAAAAAAAAwtC3aeDae/nkPoUlr12H0`

@@ -1,6 +1,6 @@
 {
   "description": "Cutting-edge dance music emerging from Japan.",
-  "num_followers": 33964,
+  "num_followers": 34022,
   "original_name": "Tokyo Club Beat",
   "owner": {
     "name": "Spotify",
@@ -415,6 +415,22 @@
     {
       "added_at": "2026-09-22 16:46:40",
       "album": {
+        "name": "Achi Kochi",
+        "url": "https://open.spotify.com/album/4NNEocfX0tIkkbPYysxRog"
+      },
+      "artists": [
+        {
+          "name": "Aili & Orson",
+          "url": "https://open.spotify.com/artist/4hKrRKWY1mF3LTwGIMj99R"
+        }
+      ],
+      "duration_ms": 236800,
+      "name": "Achi Kochi",
+      "url": "https://open.spotify.com/track/6wiQ0v7UMkaRK8ZLBfKjbv"
+    },
+    {
+      "added_at": "2026-09-22 16:46:40",
+      "album": {
         "name": "Odoriko",
         "url": "https://open.spotify.com/album/0A8d3xRGEekL4poJr9KdIG"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 212000,
       "name": "Sounds Good",
       "url": "https://open.spotify.com/track/4S8RV91Hrlwl835t0372QU"
-    },
-    {
-      "added_at": "2026-09-22 16:46:40",
-      "album": {
-        "name": "Achi Kochi",
-        "url": "https://open.spotify.com/album/4NNEocfX0tIkkbPYysxRog"
-      },
-      "artists": [
-        {
-          "name": "Aili & Orson",
-          "url": "https://open.spotify.com/artist/4hKrRKWY1mF3LTwGIMj99R"
-        }
-      ],
-      "duration_ms": 236800,
-      "name": "Achi Kochi",
-      "url": "https://open.spotify.com/track/6wiQ0v7UMkaRK8ZLBfKjbv"
     },
     {
       "added_at": "2026-09-22 16:46:40",
@@ -531,22 +531,6 @@
     {
       "added_at": "2026-09-22 16:46:40",
       "album": {
-        "name": "Miyanosawa",
-        "url": "https://open.spotify.com/album/1kogXGRFKVpkbRZE6lLmOu"
-      },
-      "artists": [
-        {
-          "name": "Qrion",
-          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
-        }
-      ],
-      "duration_ms": 208972,
-      "name": "Miyanosawa",
-      "url": "https://open.spotify.com/track/25NyrNbtdNc2G9NE2werEN"
-    },
-    {
-      "added_at": "2026-09-22 16:46:40",
-      "album": {
         "name": "\u4e0d\u591c\u57ce - FUYAJO feat. Tyler Carter",
         "url": "https://open.spotify.com/album/2HMM8JWRjH5ElRHJJ2pGoO"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 238288,
       "name": "\u4e0d\u591c\u57ce - FUYAJO feat. Tyler Carter",
       "url": "https://open.spotify.com/track/7BCI2eDGqx0lzZbUc0hACt"
+    },
+    {
+      "added_at": "2026-09-22 16:46:40",
+      "album": {
+        "name": "Miyanosawa",
+        "url": "https://open.spotify.com/album/1kogXGRFKVpkbRZE6lLmOu"
+      },
+      "artists": [
+        {
+          "name": "Qrion",
+          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
+        }
+      ],
+      "duration_ms": 208972,
+      "name": "Miyanosawa",
+      "url": "https://open.spotify.com/track/25NyrNbtdNc2G9NE2werEN"
     },
     {
       "added_at": "2026-09-22 16:46:40",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-09-22 16:46:40",
       "album": {
-        "name": "TRASHURE",
-        "url": "https://open.spotify.com/album/2YDyOI32WjvZLSaFlOfn1U"
-      },
-      "artists": [
-        {
-          "name": "Shinichi Osawa",
-          "url": "https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp"
-        }
-      ],
-      "duration_ms": 161300,
-      "name": "TRASHURE",
-      "url": "https://open.spotify.com/track/0x9hcN9M7tZL8VipEkh6b4"
-    },
-    {
-      "added_at": "2026-09-22 16:46:40",
-      "album": {
         "name": "KURU KURU HARAJUKU",
         "url": "https://open.spotify.com/album/72Rq4jmmzkQ4db2CgliNvP"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 257820,
       "name": "KURU KURU HARAJUKU",
       "url": "https://open.spotify.com/track/0J4rHdjYkIRCVn6DvEg7aD"
+    },
+    {
+      "added_at": "2026-09-22 16:46:40",
+      "album": {
+        "name": "TRASHURE",
+        "url": "https://open.spotify.com/album/2YDyOI32WjvZLSaFlOfn1U"
+      },
+      "artists": [
+        {
+          "name": "Shinichi Osawa",
+          "url": "https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp"
+        }
+      ],
+      "duration_ms": 161300,
+      "name": "TRASHURE",
+      "url": "https://open.spotify.com/track/0x9hcN9M7tZL8VipEkh6b4"
     },
     {
       "added_at": "2026-09-22 16:46:40",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-09-22 16:46:40",
       "album": {
-        "name": "me\u30fb\u611b\u30fb\u30e9\u30fbsun\u30fb\u866b",
-        "url": "https://open.spotify.com/album/24EfgEw5TZSjpDFruH1ncL"
-      },
-      "artists": [
-        {
-          "name": "\u30c6\u30af\u30ce\u30dd\u30c3\u30d7\u30fb\u6709\u6a5f\u30fb\u30b7\u30f3\u30bb\u30b5\u30a4\u30b6\u30fc\u3061\u3083\u3093",
-          "url": "https://open.spotify.com/artist/5BWGgPJAAcuOiFmitBvlFe"
-        }
-      ],
-      "duration_ms": 159700,
-      "name": "me\u30fb\u611b\u30fb\u30e9\u30fbsun\u30fb\u866b",
-      "url": "https://open.spotify.com/track/22WnGkB0uYyJ3zincc220Y"
-    },
-    {
-      "added_at": "2026-09-22 16:46:40",
-      "album": {
         "name": "Life, Dream, Love",
         "url": "https://open.spotify.com/album/0qUWCYFJilaDox1l7PAF8P"
       },
@@ -755,6 +739,38 @@
       "duration_ms": 232558,
       "name": "Life, Dream, Love",
       "url": "https://open.spotify.com/track/0M6Xd82gmkSV5dvA6Jht3r"
+    },
+    {
+      "added_at": "2026-09-22 16:46:40",
+      "album": {
+        "name": "me\u30fb\u611b\u30fb\u30e9\u30fbsun\u30fb\u866b",
+        "url": "https://open.spotify.com/album/24EfgEw5TZSjpDFruH1ncL"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30af\u30ce\u30dd\u30c3\u30d7\u30fb\u6709\u6a5f\u30fb\u30b7\u30f3\u30bb\u30b5\u30a4\u30b6\u30fc\u3061\u3083\u3093",
+          "url": "https://open.spotify.com/artist/5BWGgPJAAcuOiFmitBvlFe"
+        }
+      ],
+      "duration_ms": 159700,
+      "name": "me\u30fb\u611b\u30fb\u30e9\u30fbsun\u30fb\u866b",
+      "url": "https://open.spotify.com/track/22WnGkB0uYyJ3zincc220Y"
+    },
+    {
+      "added_at": "2026-09-22 16:46:40",
+      "album": {
+        "name": "OB PKWY",
+        "url": "https://open.spotify.com/album/3bsT90Ei5T9QhYUs2mRw21"
+      },
+      "artists": [
+        {
+          "name": "banvox",
+          "url": "https://open.spotify.com/artist/1o2aYT0R8jCzs5q1rEA0gY"
+        }
+      ],
+      "duration_ms": 235312,
+      "name": "OB PKWY",
+      "url": "https://open.spotify.com/track/1Gqe0o6Fy8qPMRdqiwQDTo"
     },
     {
       "added_at": "2026-09-22 16:46:40",
@@ -787,22 +803,6 @@
       "duration_ms": 139384,
       "name": "GORILLA",
       "url": "https://open.spotify.com/track/1mCOIZ9bgvXOC0PDsTzqE2"
-    },
-    {
-      "added_at": "2026-09-22 16:46:40",
-      "album": {
-        "name": "OB PKWY",
-        "url": "https://open.spotify.com/album/3bsT90Ei5T9QhYUs2mRw21"
-      },
-      "artists": [
-        {
-          "name": "banvox",
-          "url": "https://open.spotify.com/artist/1o2aYT0R8jCzs5q1rEA0gY"
-        }
-      ],
-      "duration_ms": 235312,
-      "name": "OB PKWY",
-      "url": "https://open.spotify.com/track/1Gqe0o6Fy8qPMRdqiwQDTo"
     },
     {
       "added_at": "2026-09-22 16:46:40",

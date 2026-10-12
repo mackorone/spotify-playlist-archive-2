@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDjtvOmdzrF.md) - [plain]
 
 > Racikan akustik dalam secangkir kopi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 556,274 likes - 75 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 556,264 likes - 75 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDjtvOmdzrF.md) - [plain]
 | 18 | [Panjang Umur Selalu](https://open.spotify.com/track/7E6aFTopl1t7PyL93AkgJL) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk) | [Panjang Umur Selalu](https://open.spotify.com/album/0nec55WX1gNUbTnC1Xh6Vy) | 3:33 |
 | 19 | [Bertaut](https://open.spotify.com/track/630DpnzdfjdVqv2yLfPbAX) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Selamat Ulang Tahun](https://open.spotify.com/album/75KyCmWatZRvlMcMRed9BG) | 5:15 |
 | 20 | [Runtuh](https://open.spotify.com/track/6Hii26x3qDErVitnGW8QtO) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW), [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Runtuh](https://open.spotify.com/album/5boeKAXsTkdFlm6OnkQxQW) | 3:43 |
-| 21 | [Untuk Perempuan Yang Sedang Di Pelukan](https://open.spotify.com/track/0urpBLpcm6DOGzs86rcKd8) | [Payung Teduh](https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ) | [Dunia Batas](https://open.spotify.com/album/26FxxaKDiIGxEm549dRtaZ) | 5:42 |
-| 22 | [Interaksi](https://open.spotify.com/track/32Pdf9eyXDEMoClEJW6yYP) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 2:50 |
+| 21 | [Interaksi](https://open.spotify.com/track/32Pdf9eyXDEMoClEJW6yYP) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 2:50 |
+| 22 | [Untuk Perempuan Yang Sedang Di Pelukan](https://open.spotify.com/track/0urpBLpcm6DOGzs86rcKd8) | [Payung Teduh](https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ) | [Dunia Batas](https://open.spotify.com/album/26FxxaKDiIGxEm549dRtaZ) | 5:42 |
 | 23 | [Membasuh](https://open.spotify.com/track/3CBxVM0zGj41BQtE6m7gwb) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12), [Rara Sekar](https://open.spotify.com/artist/6mJII5SJlWEYnf7DY4Uywl) | [Menari Dengan Bayangan](https://open.spotify.com/album/1DAuVHMlBvIjzWZALSUXbn) | 6:13 |
 | 24 | [Sorai](https://open.spotify.com/track/3ymuBMTviroWLuf1jMsMVf) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Sorai](https://open.spotify.com/album/60YDoJUMHjkYtZnPztRvZ1) | 4:38 |
 | 25 | [Cinta Dan Rahasia](https://open.spotify.com/track/4HXUMRdT6s6Am6YHcWmuib) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio), [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9) | [YURA](https://open.spotify.com/album/6xzJINIJok2KZur8OzQQT8) | 4:22 |
@@ -78,9 +78,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDjtvOmdzrF.md) - [plain]
 | 68 | [Lagunya Begini, Nadanya Begitu](https://open.spotify.com/track/4YVBE2CDqxtNRGTPEMOQet) | [Jason Ranti](https://open.spotify.com/artist/06x5hKHmGzMggWmRK833nv) | [Sekilas Info](https://open.spotify.com/album/4TwZfsV3Rrj1XMbqMkTfxh) | 5:50 |
 | 69 | [Menangis Semalam](https://open.spotify.com/track/7Mje0E5sZXe0K3PvvixXPe) | [Audy](https://open.spotify.com/artist/611ajYp7fMbkU5CYF08tje) | [18](https://open.spotify.com/album/3rgZSxDc3XL6rgSshcqe9t) | 4:25 |
 | 70 | [Bicara \(feat\. Monita Tahalea\)](https://open.spotify.com/track/1Dxb9nWV16f5PthsUsV1XZ) | [TheOvertunes](https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk), [Monita Tahalea](https://open.spotify.com/artist/1xQXTnhREkLm14Wvrogo1g) | [Memory Lane](https://open.spotify.com/album/4kGiYX3VXOTPJPqCgphG0C) | 3:56 |
-| 71 | [Jikalau](https://open.spotify.com/track/4fBFN8NLLIbvw6JzaiD2hp) | [Naif](https://open.spotify.com/artist/69kihYAcQNLmqq6uJWulyP) | [The Best](https://open.spotify.com/album/2kFxReqreHFoL6kvgXUAGE) | 3:06 |
-| 72 | [Tanpa Pamrih](https://open.spotify.com/track/2WKS8Tk8OwHnAY847eq1Xr) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Tanpa Pamrih](https://open.spotify.com/album/73wlf7LjR5ytZvdINDIowe) | 3:32 |
-| 73 | [Pupus](https://open.spotify.com/track/4za8UJq7JI99ilRYQXVrkm) | [Hanin Dhiya](https://open.spotify.com/artist/3Fw8q9sZ1t7diLxoQFS8hW) | [Cerita Hanin Dhiya](https://open.spotify.com/album/1MFgXbGxEoiVD1FUeOvlKH) | 3:54 |
+| 71 | [Pupus](https://open.spotify.com/track/4za8UJq7JI99ilRYQXVrkm) | [Hanin Dhiya](https://open.spotify.com/artist/3Fw8q9sZ1t7diLxoQFS8hW) | [Cerita Hanin Dhiya](https://open.spotify.com/album/1MFgXbGxEoiVD1FUeOvlKH) | 3:54 |
+| 72 | [Jikalau](https://open.spotify.com/track/4fBFN8NLLIbvw6JzaiD2hp) | [Naif](https://open.spotify.com/artist/69kihYAcQNLmqq6uJWulyP) | [The Best](https://open.spotify.com/album/2kFxReqreHFoL6kvgXUAGE) | 3:06 |
+| 73 | [Tanpa Pamrih](https://open.spotify.com/track/2WKS8Tk8OwHnAY847eq1Xr) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Tanpa Pamrih](https://open.spotify.com/album/73wlf7LjR5ytZvdINDIowe) | 3:32 |
 | 74 | [keepyousafe](https://open.spotify.com/track/3Sbova9DAY3pc9GTAACT4b) | [Yahya](https://open.spotify.com/artist/2x49HGCVPqbRxecj0PZq2R) | [keepyousafe](https://open.spotify.com/album/1ay9XEArx0arC0VBJ5hUn9) | 4:21 |
 | 75 | [Manot](https://open.spotify.com/track/15HmzLQkPN4S6j1lvXYUJp) | [Gildcoustic](https://open.spotify.com/artist/2SivWeAIGXKPlaW2YdxKZU) | [Manot](https://open.spotify.com/album/2O5X9w2clxTTzqWbHDM28E) | 5:48 |
 

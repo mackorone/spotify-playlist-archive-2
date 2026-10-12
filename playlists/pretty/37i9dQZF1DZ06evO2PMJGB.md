@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PMJGB.md) - [plain]
 
 > This is Luísa Sonza\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,572 likes - 47 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,573 likes - 49 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PMJGB.md) - [plain]
 | 18 | [Sou Musa do Verão](https://open.spotify.com/track/2cZ62VBKsdZ7u1kKKJdFOc) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Sugar Papi](https://open.spotify.com/album/4KNN5lVMc1EREJFlbppJqH) | 3:07 |
 | 19 | [MULHER DO ANO XD](https://open.spotify.com/track/0s2SzCYqITp4lKdbxPQoYy) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 2:35 |
 | 20 | [Campo De Morango](https://open.spotify.com/track/2exu569k07hUulN9CoPnMH) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 1:16 |
-| 21 | [Não Me Provoca](https://open.spotify.com/track/1xFMviPJFR4mPRRxQbadpu) | [Nilo](https://open.spotify.com/artist/5uD6uRKj2xYxpqx8bscaco), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [DJ Di Marques](https://open.spotify.com/artist/4CJ3CnKb8dSlzci7eaSOcV), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj) | [Não Me Provoca](https://open.spotify.com/album/4zoOC66ELs5xOesaO0tD1z) | 2:44 |
-| 22 | [ATENÇÃO](https://open.spotify.com/track/4mBto7hyeS6yHhx8lIkn4l) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [CHAMA MEU NOME](https://open.spotify.com/album/0wPKAGItuL6gBgVsgxbjn1) | 2:15 |
+| 21 | [ATENÇÃO](https://open.spotify.com/track/4mBto7hyeS6yHhx8lIkn4l) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [CHAMA MEU NOME](https://open.spotify.com/album/0wPKAGItuL6gBgVsgxbjn1) | 2:15 |
+| 22 | [Não Me Provoca](https://open.spotify.com/track/1xFMviPJFR4mPRRxQbadpu) | [Nilo](https://open.spotify.com/artist/5uD6uRKj2xYxpqx8bscaco), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [DJ Di Marques](https://open.spotify.com/artist/4CJ3CnKb8dSlzci7eaSOcV), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj) | [Não Me Provoca](https://open.spotify.com/album/4zoOC66ELs5xOesaO0tD1z) | 2:44 |
 | 23 | [BRABA](https://open.spotify.com/track/2WlZuBDgLfT7Kc0admhFdg) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [BRABA](https://open.spotify.com/album/3FVlwNpia9WZoRlsRKS4Z4) | 2:09 |
 | 24 | [MODO TURBO](https://open.spotify.com/track/2ip4hxYupn3CSsHjn4l2a8) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 2:30 |
 | 25 | [Chico](https://open.spotify.com/track/43eRVwfXFkY3kXN4K47gNT) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 3:02 |
@@ -53,7 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PMJGB.md) - [plain]
 | 43 | [ANACONDA \*o\* \~\~\~](https://open.spotify.com/track/2342lPAZ9zddhgAQEiLx4V) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 3:03 |
 | 44 | [Seu Desejo \- Ao Vivo](https://open.spotify.com/track/1u2eH3YKbVOINQiau9cT4B) | [Seu Desejo](https://open.spotify.com/artist/71qmoLfGw4fDPJPJ2MBNax), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Seu Desejo \(Ao Vivo\)](https://open.spotify.com/album/7CbL0bPlUb8LciWM8AaZzd) | 2:48 |
 | 45 | [Posição de Ataque](https://open.spotify.com/track/1MgO3fAl4ODVQweg5GR0Lk) | [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [DJ Biel do Furduncinho](https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X) | [Posição de Ataque](https://open.spotify.com/album/3koR16KYlMIRIzWUxNREXs) | 2:29 |
-| 46 | [escapismo](https://open.spotify.com/track/5iT4Hmll1xk9eEiGg6zrTS) | [Gabi Melim](https://open.spotify.com/artist/4FrPUH8ZkNnw9DPpqts5OM), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [escapismo](https://open.spotify.com/album/4GeMvdIy9pvdgujgRmjavJ) | 3:00 |
+| 46 | [Onde Anda Você](https://open.spotify.com/track/1a8ugQMvqGdFdkV60BtKDF) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y) | [Bossa Sempre Nova](https://open.spotify.com/album/6aiBQlSTLJoZ0pPa9uko6t) | 2:32 |
 | 47 | [CAFÉ DA MANHÃ ;P](https://open.spotify.com/track/0sPtV4stCHkFJB6GpoaZ1f) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 3:01 |
+| 48 | [ZZIRIT \(Feat\. Luísa Sonza\)](https://open.spotify.com/track/2Q61w7dlB4UbOJrLvzHxOF) | [X:IN](https://open.spotify.com/artist/2nr8bylnNeelcA9SJvwmuu), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Chain Reaction](https://open.spotify.com/album/0b54twygaqMM8bmvhzMMjW) | 2:21 |
+| 49 | [escapismo](https://open.spotify.com/track/5iT4Hmll1xk9eEiGg6zrTS) | [Gabi Melim](https://open.spotify.com/artist/4FrPUH8ZkNnw9DPpqts5OM), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [escapismo](https://open.spotify.com/album/4GeMvdIy9pvdgujgRmjavJ) | 3:00 |
 
-Snapshot ID: `asgugAAAAAD6uAymPzsuNAcliw1yobnq`
+Snapshot ID: `asmAAAAAAADsFDzFkzlsar0Rxz5wCnaP`

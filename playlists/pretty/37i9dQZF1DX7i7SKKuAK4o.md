@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7i7SKKuAK4o.md) - [plain]
 
 > Kumpulan lagu populer dari dalam negeri dan mancanegara\. Cover: The Weeknd
 
-[Spotify](https://open.spotify.com/user/spotify) - 628,657 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 628,672 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7i7SKKuAK4o.md) - [plain]
 | 33 | [Closer](https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Closer](https://open.spotify.com/album/0rSLgV8p5FzfnqlEk4GzxE) | 4:04 |
 | 34 | [Let Me Love You](https://open.spotify.com/track/0lYBSQXN6rCTvUZvg9S0lU) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Encore](https://open.spotify.com/album/02sEJTj1sye1JaqxqpcSCp) | 3:25 |
 | 35 | [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:20 |
-| 36 | [Perfect](https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 4:23 |
-| 37 | [we fell in love in october](https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / October Passed Me By](https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa) | 3:04 |
+| 36 | [we fell in love in october](https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / October Passed Me By](https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa) | 3:04 |
+| 37 | [Perfect](https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 4:23 |
 | 38 | [The Scientist](https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 5:09 |
 | 39 | [Circles](https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 3:35 |
 | 40 | [Beauty And A Beat](https://open.spotify.com/track/190jyVPHYjAqEaOGmMzdyk) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Believe \(Deluxe Edition\)](https://open.spotify.com/album/70f70xLCpH7wHaVvB2oZT9) | 3:47 |

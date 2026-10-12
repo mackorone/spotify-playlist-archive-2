@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2Ak2P6rRpuVPTPAvHSuVDQ">Leon Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-151 songs - 8 hr 17 min
+152 songs - 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [try\. \(feat\. JoJo\)](https://open.spotify.com/track/7jVxoi0YzIfmaZ4X0o0Jp9) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Euphonyus](https://open.spotify.com/album/0MhLJ2lpLg30mIwHsC5Uo3) | 2:13 | 2024-01-29 |  |
 | [Twisting \(feat\. Leon Thomas\)](https://open.spotify.com/track/0VELY6OksBpoDWTeYvENx0) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MALIK](https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf) | 3:45 | 2025-09-12 |  |
 | [Twisting \(feat\. Leon Thomas\)](https://open.spotify.com/track/5oHIdbNS7o1oi8dm26opsj) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Twisting \(feat\. Leon Thomas\)](https://open.spotify.com/album/4IXE89h8jk4cKXBzpXAIvE) | 3:45 | 2025-08-06 | 2025-09-13 |
+| [Until Next Time](https://open.spotify.com/track/7HLIMngsVYxiMohYbziNVa) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [MACHIKO](https://open.spotify.com/album/4sbsIebNfM8SrLOnQNXOgc) | 2:48 | 2026-10-11 |  |
 | [Valentine's Day \(Shameful\)](https://open.spotify.com/track/6GCRnf1W9OKxok9fvNp3pz) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Valentine's Day \(Shameful\)](https://open.spotify.com/album/2x9hiwj8Rc9b2MoQ3FKWcY) | 4:51 | 2024-01-29 |  |
 | [VIBES DON'T LIE](https://open.spotify.com/track/1WwrfoGe0K33z1tVI6mevJ) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 3:21 | 2024-11-21 |  |
 | [Watching Us \(with Leon Thomas\)](https://open.spotify.com/track/1MWJ3pny2L1eiZTAYTaYwJ) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [everything is a lot.](https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN) | 3:49 | 2025-12-17 |  |

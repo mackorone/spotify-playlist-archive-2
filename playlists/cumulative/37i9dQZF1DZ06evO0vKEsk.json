@@ -215,6 +215,24 @@
     },
     {
       "album": {
+        "name": "Centro (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2lB6irHUdvrMf5cjaP7iCS"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 481060,
+      "name": "Centro - Ao Vivo",
+      "url": "https://open.spotify.com/track/5Ia3MDR41vc2gtMUmGdPfD"
+    },
+    {
+      "album": {
         "name": "Como \u00c1guia.",
         "url": "https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH"
       },
@@ -1032,7 +1050,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 419263,
       "name": "Maranata (Vem Emanuel) (Ao Vivo)",
       "url": "https://open.spotify.com/track/04OXVN5Z15fpezFw4cHA6q"

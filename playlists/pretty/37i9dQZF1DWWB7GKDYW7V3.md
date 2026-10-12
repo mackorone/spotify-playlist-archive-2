@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWB7GKDYW7V3.md) - [plain]
 
 > De Spotify muziekredactie tipt 40 acts voor LL26! Nieuwe namen bekend: Kelis, Celeste, Willem, ZEP, Lambrini Girls en meer...
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,965 likes - 125 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,966 likes - 125 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWB7GKDYW7V3.md) - [plain]
 | 69 | [No Rain](https://open.spotify.com/track/6txWz9UapYHVxEd7dDIHXT) | [Blind Melon](https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd) | [Blind Melon](https://open.spotify.com/album/55jET4vDioHHd7ztX7OX3h) | 3:37 |
 | 70 | [bad idea!](https://open.spotify.com/track/57j65yC2HggQfmYNc6rdOK) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [bad idea!](https://open.spotify.com/album/4AEKKY9Sny3Uj6U3ELK4Sl) | 3:39 |
 | 71 | [Seventeen Going Under](https://open.spotify.com/track/5rF6YUIlgiat22OT1lWspJ) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Deluxe\)](https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z) | 4:57 |
-| 72 | [No One Knows](https://open.spotify.com/track/6y20BV5L33R8YXM0YuI38N) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Songs For The Deaf](https://open.spotify.com/album/4w3NeXtywU398NYW4903rY) | 4:38 |
-| 73 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 |
+| 72 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 |
+| 73 | [No One Knows](https://open.spotify.com/track/6y20BV5L33R8YXM0YuI38N) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Songs For The Deaf](https://open.spotify.com/album/4w3NeXtywU398NYW4903rY) | 4:38 |
 | 74 | [You & Me \- Flume Remix](https://open.spotify.com/track/3W2ZcrRsInZbjWylOi6KhZ) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Settle \(Special Edition\)](https://open.spotify.com/album/7bdjtx1RTkWoSoOaIl7a8E) | 4:42 |
 | 75 | [Glue](https://open.spotify.com/track/2aJDlirz6v2a4HREki98cP) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Bicep](https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo) | 4:29 |
 | 76 | [Cold Little Heart \- Radio Edit](https://open.spotify.com/track/7KX65PC1UZuImsUInThbav) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cold Little Heart \(Radio Edit\)](https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A) | 3:30 |
@@ -115,8 +115,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWB7GKDYW7V3.md) - [plain]
 | 105 | [Bel Mercy](https://open.spotify.com/track/1635wWSdp29PO3GxYhy991) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Bel Mercy](https://open.spotify.com/album/7kJhB3zZiALyIaWRGO3rwE) | 2:49 |
 | 106 | [Overcome](https://open.spotify.com/track/2YmJZWGcy0yONMCsEKOuVD) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Dead Club City](https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7) | 3:34 |
 | 107 | [One Day Like This](https://open.spotify.com/track/1OZSVl0JJ1MBzibpuhmmXb) | [Elbow](https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk) | [The Seldom Seen Kid](https://open.spotify.com/album/25KJ3Be6nm3mvFOOKZU2TE) | 6:34 |
-| 108 | [Anarchy In The UK](https://open.spotify.com/track/5moTxUGPZXgGmosl4rIELm) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Never Mind The Bollocks, Here’s The Sex Pistols](https://open.spotify.com/album/6ggO3YVhyonYuFWUPBRyIv) | 3:32 |
-| 109 | [Tondo](https://open.spotify.com/track/0csz09qS2n8Jo7LogHKu7j) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Eko Roosevelt](https://open.spotify.com/artist/7hs75D38FalYWr7BDO1WPh) | [ENERGY \(Deluxe\)](https://open.spotify.com/album/6wp1us3xBnYz5qldxrZXRf) | 5:29 |
+| 108 | [Tondo](https://open.spotify.com/track/0csz09qS2n8Jo7LogHKu7j) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Eko Roosevelt](https://open.spotify.com/artist/7hs75D38FalYWr7BDO1WPh) | [ENERGY \(Deluxe\)](https://open.spotify.com/album/6wp1us3xBnYz5qldxrZXRf) | 5:29 |
+| 109 | [Anarchy In The UK](https://open.spotify.com/track/5moTxUGPZXgGmosl4rIELm) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Never Mind The Bollocks, Here’s The Sex Pistols](https://open.spotify.com/album/6ggO3YVhyonYuFWUPBRyIv) | 3:32 |
 | 110 | [ZAAZAA](https://open.spotify.com/track/3s4WNh0WnfhwvIlrp6RTBj) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [ZAAZAA](https://open.spotify.com/album/0XkWzZBBmgflP8EycXeaFB) | 2:36 |
 | 111 | [9 Crimes](https://open.spotify.com/track/5GZEeowhvSieFDiR8fQ2im) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [9](https://open.spotify.com/album/25gOFTD048bIqswkdmG0FH) | 3:37 |
 | 112 | [Lapdance](https://open.spotify.com/track/6FuAe03bP2SQT4TCDKhuGx) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi), [Vita](https://open.spotify.com/artist/6pk6yWYNSFNHkngDZPvjEL), [Lee Harvey](https://open.spotify.com/artist/2vB0c3J8Y3OeMmgAv244Do) | [In Search Of...](https://open.spotify.com/album/5u8ri4s76Ew14IwGOJf5hI) | 3:29 |
@@ -130,8 +130,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWB7GKDYW7V3.md) - [plain]
 | 120 | [We Care a Lot](https://open.spotify.com/track/2z1uVu3OwTmPlfqt5TWk5k) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [Introduce Yourself](https://open.spotify.com/album/0kBy2KA6BuCWveFo88VmMX) | 4:03 |
 | 121 | [Fuck You](https://open.spotify.com/track/6ylAVPbjRQoNY0khgh63Jf) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [It's Not Me, It's You](https://open.spotify.com/album/03r2opEvFi1PEs2SrkWMKV) | 3:39 |
 | 122 | [Hoppípolla](https://open.spotify.com/track/6eTGxxQxiTFE6LfZHC33Wm) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [Takk...](https://open.spotify.com/album/3sE83l3A58DipFp3EzNLiE) | 4:28 |
-| 123 | [Woman](https://open.spotify.com/track/2pcwmk8c1pTYwX0COSVX52) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Wolfmother](https://open.spotify.com/album/0NV96Rqo10ytbCHlR14E8r) | 2:55 |
-| 124 | [In Your Arms](https://open.spotify.com/track/3wJmcmAh2YAfDSKQR8o1XS) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Passing Through](https://open.spotify.com/album/4ni6WOwE5153lhqAE2HFdG) | 3:35 |
+| 123 | [In Your Arms](https://open.spotify.com/track/3wJmcmAh2YAfDSKQR8o1XS) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Passing Through](https://open.spotify.com/album/4ni6WOwE5153lhqAE2HFdG) | 3:35 |
+| 124 | [Woman](https://open.spotify.com/track/2pcwmk8c1pTYwX0COSVX52) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Wolfmother](https://open.spotify.com/album/0NV96Rqo10ytbCHlR14E8r) | 2:55 |
 | 125 | [Indigo Night](https://open.spotify.com/track/62DFvt3IhKq2i8wyigqeFO) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Amir](https://open.spotify.com/album/5znkKeZluet6ArfR5RplEy) | 4:15 |
 
 Snapshot ID: `AAAAAF1l8EIexAjlNKmm+SNYLjzYmkV/`

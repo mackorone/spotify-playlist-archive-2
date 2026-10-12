@@ -1,12 +1,12 @@
 {
   "description": "This is Iggy Pop. The essential tracks, all in one playlist.",
-  "num_followers": 75308,
+  "num_followers": 75306,
   "original_name": "This Is Iggy Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asgugAAAAABkwx4va0sKA2JxNLbTvNI9",
+  "snapshot_id": "asmAAAAAAADflTANoxpuld+ovdC65YEC",
   "tracks": [
     {
       "added_at": null,
@@ -304,9 +304,9 @@
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 392160,
-      "name": "Fall In Love With Me",
-      "url": "https://open.spotify.com/track/6YQjQdymVA9tvE0Ygnpsdd"
+      "duration_ms": 221374,
+      "name": "Some Weird Sin",
+      "url": "https://open.spotify.com/track/6bQQEDyyAEmwYqXmMpvCFh"
     },
     {
       "added_at": null,
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 221374,
-      "name": "Some Weird Sin",
-      "url": "https://open.spotify.com/track/6bQQEDyyAEmwYqXmMpvCFh"
+      "duration_ms": 392160,
+      "name": "Fall In Love With Me",
+      "url": "https://open.spotify.com/track/6YQjQdymVA9tvE0Ygnpsdd"
     },
     {
       "added_at": null,
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 260030,
-      "name": "Sister Midnight",
-      "url": "https://open.spotify.com/track/4pU9OwAXdwghkgUhaZQQ3Q"
+      "duration_ms": 174578,
+      "name": "Funtime",
+      "url": "https://open.spotify.com/track/3tFQ4Zz3FKz3s6sCdY1mQg"
     },
     {
       "added_at": null,
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 174578,
-      "name": "Funtime",
-      "url": "https://open.spotify.com/track/3tFQ4Zz3FKz3s6sCdY1mQg"
+      "duration_ms": 260030,
+      "name": "Sister Midnight",
+      "url": "https://open.spotify.com/track/4pU9OwAXdwghkgUhaZQQ3Q"
     },
     {
       "added_at": null,
@@ -711,22 +711,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clair Obscur",
-        "url": "https://open.spotify.com/album/0ccMLn7DlKbdGZWY6ItEmK"
+        "name": "Apr\u00e8s (10th-anniversary edition)",
+        "url": "https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2"
       },
       "artists": [
-        {
-          "name": "Fran\u00e7oise Hardy",
-          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
-        },
         {
           "name": "Iggy Pop",
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 245866,
-      "name": "I'll Be Seeing You",
-      "url": "https://open.spotify.com/track/4LnKrdv2q8UFdRWyoevN3A"
+      "duration_ms": 163013,
+      "name": "Michelle",
+      "url": "https://open.spotify.com/track/3L2CN09jZcXtet8kEVeLPz"
     },
     {
       "added_at": null,
@@ -747,8 +743,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apr\u00e8s (10th-anniversary edition)",
-        "url": "https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2"
+        "name": "Clair Obscur",
+        "url": "https://open.spotify.com/album/0ccMLn7DlKbdGZWY6ItEmK"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7oise Hardy",
+          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 245866,
+      "name": "I'll Be Seeing You",
+      "url": "https://open.spotify.com/track/4LnKrdv2q8UFdRWyoevN3A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gold (From The Original Motion Picture Soundtrack \"Gold\")",
+        "url": "https://open.spotify.com/album/3Enwyua0EjFqREWX2s2zpE"
       },
       "artists": [
         {
@@ -756,9 +772,9 @@
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 163013,
-      "name": "Michelle",
-      "url": "https://open.spotify.com/track/3L2CN09jZcXtet8kEVeLPz"
+      "duration_ms": 192853,
+      "name": "Gold - From The Original Motion Picture Soundtrack \"Gold\"",
+      "url": "https://open.spotify.com/track/04AJSn0D3BHwT8FQ9q5FVp"
     },
     {
       "added_at": null,
@@ -779,22 +795,6 @@
       "duration_ms": 269461,
       "name": "The Pure and the Damned",
       "url": "https://open.spotify.com/track/4HYRYewiGEHaHF9Pfl50PP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gold (From The Original Motion Picture Soundtrack \"Gold\")",
-        "url": "https://open.spotify.com/album/3Enwyua0EjFqREWX2s2zpE"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 192853,
-      "name": "Gold - From The Original Motion Picture Soundtrack \"Gold\"",
-      "url": "https://open.spotify.com/track/04AJSn0D3BHwT8FQ9q5FVp"
     },
     {
       "added_at": null,

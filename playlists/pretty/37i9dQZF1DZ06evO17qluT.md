@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 
 > This is BK\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,710 likes - 49 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,746 likes - 49 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 | 43 | [Deus do Furdunço](https://open.spotify.com/track/3sUhwX7vQhzuKDkFC6lAEr) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Nave](https://open.spotify.com/artist/3lsEmETqVt85iRYSYslRMb), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Gigantes](https://open.spotify.com/album/6kjXPFw0BT3SdpWgHwjr32) | 2:28 |
 | 44 | [Bonde Passando](https://open.spotify.com/track/1IvqtJaqnGlIoWaQmz2bsZ) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW) | [PRODUTO DO AMBIENTE](https://open.spotify.com/album/3OB3nqd1Vm38NSTT4gC1gN) | 2:23 |
 | 45 | [Pessoas](https://open.spotify.com/track/5Iqv9gAh4aAyLFi9vUDLi0) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW) | [O Líder em Movimento](https://open.spotify.com/album/22qXEcma67stw3AZOaDWmq) | 3:37 |
-| 46 | [Karatê](https://open.spotify.com/track/5Lvm4MGdCXErM0Svb8ICUC) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [$amuka](https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm) | [ALFA](https://open.spotify.com/album/57wEbqqEigzEjG2YV1t6z9) | 3:51 |
-| 47 | [Paraíso Que Me Cerca](https://open.spotify.com/track/5UeZjPBEi6NW5HvHl4OTYW) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Mayra Andrade](https://open.spotify.com/artist/7hBUpxgSBA5ai8o6vW1Mew) | [Cidade do Pecado](https://open.spotify.com/album/1ZVgAn5v8hT0V4dvvPligx) | 3:37 |
+| 46 | [Paraíso Que Me Cerca](https://open.spotify.com/track/5UeZjPBEi6NW5HvHl4OTYW) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Mayra Andrade](https://open.spotify.com/artist/7hBUpxgSBA5ai8o6vW1Mew) | [Cidade do Pecado](https://open.spotify.com/album/1ZVgAn5v8hT0V4dvvPligx) | 3:37 |
+| 47 | [Karatê](https://open.spotify.com/track/5Lvm4MGdCXErM0Svb8ICUC) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [$amuka](https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm) | [ALFA](https://open.spotify.com/album/57wEbqqEigzEjG2YV1t6z9) | 3:51 |
 | 48 | [Se Eu Não Manter](https://open.spotify.com/track/0mBr4S97a0duSfgebe007c) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Nansy Silvvz](https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s) | [PRODUTO DO AMBIENTE](https://open.spotify.com/album/3OB3nqd1Vm38NSTT4gC1gN) | 3:11 |
 | 49 | [Gigantes](https://open.spotify.com/track/3OrMzKr1E8FCCpRH4xhjwr) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Juyè](https://open.spotify.com/artist/5QQhNWixMHMDwo3vlOcgxb) | [Gigantes](https://open.spotify.com/album/6kjXPFw0BT3SdpWgHwjr32) | 3:52 |
 

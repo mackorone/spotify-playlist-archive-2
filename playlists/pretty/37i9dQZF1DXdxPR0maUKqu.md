@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxPR0maUKqu.md) - [plain]
 
 > 理由のない焦り、苛立ち。わけもなく叫びたくなる。思春期を過ごす全てのティーンに贈る、帰り道の応援歌。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,493 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,501 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxPR0maUKqu.md) - [plain]
 | 32 | [言って。](https://open.spotify.com/track/6z1TvLTR0oOsWSJfDrERmj) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [夏草が邪魔をする](https://open.spotify.com/album/3o5yzVy1ZXMfyATfj9OjbV) | 4:02 |
 | 33 | [SOS](https://open.spotify.com/track/3I2mKETQKvGkaAQtQMRiWa) | [セカンドバッカー](https://open.spotify.com/artist/1eoddE8A9kEX2amRoYSZJr) | [SOS](https://open.spotify.com/album/5MSAjm42tFoSRM1emzt9VY) | 4:26 |
 | 34 | [正解](https://open.spotify.com/track/6vg9UGXRVL4YKNVqVMmOKF) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [正解](https://open.spotify.com/album/4XVmF6PeCtQBjHhhKVlZ4X) | 5:58 |
-| 35 | [カタオモイ](https://open.spotify.com/track/2HovXsvcdJur52BOcYGydz) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [daydream](https://open.spotify.com/album/336m0kejdM5Fkw2HUX46Bw) | 3:27 |
-| 36 | [花占い](https://open.spotify.com/track/4ETc1oFREuqQss7VQ1Y4mj) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:27 |
+| 35 | [花占い](https://open.spotify.com/track/4ETc1oFREuqQss7VQ1Y4mj) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:27 |
+| 36 | [カタオモイ](https://open.spotify.com/track/2HovXsvcdJur52BOcYGydz) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [daydream](https://open.spotify.com/album/336m0kejdM5Fkw2HUX46Bw) | 3:27 |
 | 37 | [晴る](https://open.spotify.com/track/5eY7692tmgHB9dbmq6wa2M) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [晴る](https://open.spotify.com/album/4O53dhmIctih3p2suAAgga) | 4:30 |
 | 38 | [オレンジ](https://open.spotify.com/track/6M6ZNRplLNspFEn6Ab3mOv) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [オレンジ](https://open.spotify.com/album/4bpX1Wi81FjZ4d0GFlO1y3) | 3:55 |
 | 39 | [風と町](https://open.spotify.com/track/1ZcCFpGA7ufRBPsNIsTKa8) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [風と町](https://open.spotify.com/album/4jlx47gbscPwSz3TbExN9W) | 3:38 |

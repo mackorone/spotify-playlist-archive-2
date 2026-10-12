@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds from Asia\. Cover: Meaningful Stone \(South Korea\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,125 likes - 110 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,134 likes - 110 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 109 | [A Dream That Felt So Real](https://open.spotify.com/track/1C1QP6LxVmK42sVCLgKKjg) | [Magnolian](https://open.spotify.com/artist/0Uj91EMXf9p6ha6pGl7XIp), [Karen Aoki](https://open.spotify.com/artist/7ky9g1jEjCsjNjZbYuflUJ) | [A Dream That Felt So Real](https://open.spotify.com/album/2mf1cn4a24EmLlGEu58i6Y) | 3:39 |
 | 110 | [HOME](https://open.spotify.com/track/4trCDJ2kV036TrQwTugy3r) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [Homebound](https://open.spotify.com/album/18iyGi60DsPln6akXO3M5X) | 4:10 |
 
-Snapshot ID: `AAAAALIvJoCr3coydebbetNXHqUdtfyu`
+Snapshot ID: `AAAAAJWJdN5ApxUnuA250jiiN9Vrdo0W`

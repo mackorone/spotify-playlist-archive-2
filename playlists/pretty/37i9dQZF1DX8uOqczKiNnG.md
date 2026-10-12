@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8uOqczKiNnG.md) - [plain]
 
 > Los más grandes éxitos de los 70 en Argentina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,431 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,434 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8uOqczKiNnG.md) - [plain]
 | 35 | [We Will Rock You \- Remastered 2011](https://open.spotify.com/track/4pbJqGIASGPr0ZpGpnWkDn) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [News Of The World \(2011 Remaster\)](https://open.spotify.com/album/7tB40pGzj6Tg0HePj2jWZt) | 2:02 |
 | 36 | [Muchacha \(Ojos de Papel\)](https://open.spotify.com/track/1SXzI5Rnid2ApgNQPmROLm) | [Almendra](https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo) | [El 1er Álbum Más los Singles](https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp) | 3:07 |
 | 37 | [El Extraño del Pelo Largo](https://open.spotify.com/track/684mSIt8bHBYGgIQjFsERt) | [La Joven Guardia](https://open.spotify.com/artist/5Pq1eqKbVKRziJs6cSUoBy) | [La Joven Guardia Cronología \- El Extraño del Pelo Largo \(1969\)](https://open.spotify.com/album/2Z5PSIAehRpKj55QrAMasD) | 2:46 |
-| 38 | [Como Mata el Viento Norte](https://open.spotify.com/track/7BbpLe12HpkoZJcJs1A3SP) | [La Maquina De Hacer Pájaros](https://open.spotify.com/artist/40c6EALi3nTmNeOAS3Eu5h) | [La Máquina de Hacer Pájaros](https://open.spotify.com/album/4uXadaCsBVwLK6s5V14Kjw) | 2:44 |
-| 39 | [Tengo](https://open.spotify.com/track/4ADkfiY6Dejdr3ukiLF4MJ) | [Sandro](https://open.spotify.com/artist/5srsgtoePlsp0eQIXmta1O) | [La Magia de Sandro](https://open.spotify.com/album/5AoO2XU5pild42akpbfv9s) | 2:02 |
+| 38 | [Tengo](https://open.spotify.com/track/4ADkfiY6Dejdr3ukiLF4MJ) | [Sandro](https://open.spotify.com/artist/5srsgtoePlsp0eQIXmta1O) | [La Magia de Sandro](https://open.spotify.com/album/5AoO2XU5pild42akpbfv9s) | 2:02 |
+| 39 | [Como Mata el Viento Norte](https://open.spotify.com/track/7BbpLe12HpkoZJcJs1A3SP) | [La Maquina De Hacer Pájaros](https://open.spotify.com/artist/40c6EALi3nTmNeOAS3Eu5h) | [La Máquina de Hacer Pájaros](https://open.spotify.com/album/4uXadaCsBVwLK6s5V14Kjw) | 2:44 |
 | 40 | [Quiereme Mucho \- Yours](https://open.spotify.com/track/1oBYY1qxWRkeYr94yl5rMS) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [The 24 Greatest Songs](https://open.spotify.com/album/4eDknqB3s1EYXcMB1OpE7G) | 4:06 |
 | 41 | [Jugo de Tomate](https://open.spotify.com/track/0agzpJR3jRbfLKhG5nWxx3) | [Manal](https://open.spotify.com/artist/10vtHOCA3qPLmrGylgO2F1) | [Manal](https://open.spotify.com/album/1VoglV38RPcTn7P9yZxO4C) | 2:46 |
 | 42 | [Viento, Dile a la Lluvia](https://open.spotify.com/track/5Qz4D3NixycveVWlTgksDn) | [Los Gatos](https://open.spotify.com/artist/7wL1RaL0IEr7bK2WKV9sEU) | [Viento Dile a la Lluvia](https://open.spotify.com/album/2z1Mp2nXoOHfcI3biDXS8h) | 2:49 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8uOqczKiNnG.md) - [plain]
 | 47 | [El Oso](https://open.spotify.com/track/42WA51ZqDPtp4ZhJj2ngAB) | [Moris](https://open.spotify.com/artist/6nDtQCSWqly8rUM8s0JZa5) | [Treinta Minutos de Vida](https://open.spotify.com/album/68sHSdp4YABOmihgZ3ATNT) | 2:54 |
 | 48 | [Ayer Nomás](https://open.spotify.com/track/20ILhYY5QbmsNc8KKBf8w5) | [Los Gatos](https://open.spotify.com/artist/7wL1RaL0IEr7bK2WKV9sEU) | [Los Gatos](https://open.spotify.com/album/0vTTjKizDeDsQJKzdT7s8G) | 2:10 |
 | 49 | [El Momento En Que Estás](https://open.spotify.com/track/45X4LNePuohdGmuLxpf6oO) | [Vox Dei](https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR) | [Cuero Caliente](https://open.spotify.com/album/4mM0WL1bhWu1AUggznW2tN) | 3:42 |
-| 50 | [A Dieciocho Minutos del Sol](https://open.spotify.com/track/7ze8PcVXJzcAfCQ0Etjp6v) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [A 18' Del Sol](https://open.spotify.com/album/1uZafurVG5V3TZDqEnVmeR) | 5:31 |
+| 50 | [Donde Va la Gente Cuando Llueve](https://open.spotify.com/track/2JjB7P18oOeqpWKGsUGINy) | [Pedro Y Pablo](https://open.spotify.com/artist/5YDpwWFLxk3wmHBKqAcfiI) | [Yo Vivo en Esta Ciudad](https://open.spotify.com/album/5rpMRdL6IxV1obCxjf4q5i) | 4:44 |
 
 Snapshot ID: `AAAAAEX5fmX2U1szpvvEktJpeWSA9SOY`

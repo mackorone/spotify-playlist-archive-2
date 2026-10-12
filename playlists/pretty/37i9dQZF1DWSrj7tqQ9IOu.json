@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs sons du mois de Septembre s\u00e9lectionn\u00e9s par les \u00e9ditos de Spotify. Photo : Ben PLG",
-  "num_followers": 401563,
+  "num_followers": 401538,
   "original_name": "Coups de c\u0153ur de l'\u00e9quipe \u00e9ditoriale : Septembre 2026",
   "owner": {
     "name": "Spotify",
@@ -119,22 +119,6 @@
     {
       "added_at": "2026-09-30 22:00:22",
       "album": {
-        "name": "Dying In Reverse",
-        "url": "https://open.spotify.com/album/3QPekCydM2vbzf47Fuzbfx"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 234276,
-      "name": "Dying In Reverse",
-      "url": "https://open.spotify.com/track/4iej0znQnZAym0PgU7PICD"
-    },
-    {
-      "added_at": "2026-09-30 22:00:22",
-      "album": {
         "name": "Popstar",
         "url": "https://open.spotify.com/album/06CjF89lLSSiVWXujVVtQs"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 165121,
       "name": "Empty Stadium",
       "url": "https://open.spotify.com/track/6HHCf0DrccfgC3GlbfmXgH"
+    },
+    {
+      "added_at": "2026-09-30 22:00:22",
+      "album": {
+        "name": "Dying In Reverse",
+        "url": "https://open.spotify.com/album/3QPekCydM2vbzf47Fuzbfx"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 234276,
+      "name": "Dying In Reverse",
+      "url": "https://open.spotify.com/track/4iej0znQnZAym0PgU7PICD"
     },
     {
       "added_at": "2026-09-30 22:00:22",
@@ -287,6 +287,22 @@
     {
       "added_at": "2026-09-30 22:00:22",
       "album": {
+        "name": "Zoblazo",
+        "url": "https://open.spotify.com/album/3X3mH7ffwYZZIbFPF2vUjY"
+      },
+      "artists": [
+        {
+          "name": "Ruthee",
+          "url": "https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T"
+        }
+      ],
+      "duration_ms": 160474,
+      "name": "Zoblazo",
+      "url": "https://open.spotify.com/track/2bP4d1jWgRglQCbBu4DREv"
+    },
+    {
+      "added_at": "2026-09-30 22:00:22",
+      "album": {
         "name": "Dream House",
         "url": "https://open.spotify.com/album/6axHKsr3XutYidaQ8GtHM6"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 188493,
       "name": "Blue Light (feat. Blood Orange)",
       "url": "https://open.spotify.com/track/1J8wS07uP0uerunK3vnyRP"
-    },
-    {
-      "added_at": "2026-09-30 22:00:22",
-      "album": {
-        "name": "Zoblazo",
-        "url": "https://open.spotify.com/album/3X3mH7ffwYZZIbFPF2vUjY"
-      },
-      "artists": [
-        {
-          "name": "Ruthee",
-          "url": "https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T"
-        }
-      ],
-      "duration_ms": 160474,
-      "name": "Zoblazo",
-      "url": "https://open.spotify.com/track/2bP4d1jWgRglQCbBu4DREv"
     },
     {
       "added_at": "2026-09-30 22:00:22",
@@ -423,22 +423,6 @@
     {
       "added_at": "2026-09-30 22:00:22",
       "album": {
-        "name": "Product of Profit (P.O.P)",
-        "url": "https://open.spotify.com/album/4nesad7XJjFFoQc0FhZF0C"
-      },
-      "artists": [
-        {
-          "name": "daine",
-          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
-        }
-      ],
-      "duration_ms": 209801,
-      "name": "Product of Profit (P.O.P)",
-      "url": "https://open.spotify.com/track/5UC5TYNozc9cqm0zSrLNTf"
-    },
-    {
-      "added_at": "2026-09-30 22:00:22",
-      "album": {
         "name": "velib'bleu",
         "url": "https://open.spotify.com/album/2s3JW4L4ZpOvFC46pDSD3N"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 203491,
       "name": "velib'bleu",
       "url": "https://open.spotify.com/track/4IeQKn5Lti8iobHsBdYUYu"
+    },
+    {
+      "added_at": "2026-09-30 22:00:22",
+      "album": {
+        "name": "Product of Profit (P.O.P)",
+        "url": "https://open.spotify.com/album/4nesad7XJjFFoQc0FhZF0C"
+      },
+      "artists": [
+        {
+          "name": "daine",
+          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
+        }
+      ],
+      "duration_ms": 209801,
+      "name": "Product of Profit (P.O.P)",
+      "url": "https://open.spotify.com/track/5UC5TYNozc9cqm0zSrLNTf"
     },
     {
       "added_at": "2026-09-30 22:00:22",

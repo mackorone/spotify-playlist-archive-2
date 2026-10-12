@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2BYpQY.md) - [plain]
 
 > This is Sinéad O'Connor\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,951 likes - 50 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,958 likes - 50 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2BYpQY.md) - [plain]
 | 49 | [Success Has Made a Failure of Our Home](https://open.spotify.com/track/62iX2QkIqloxz2ottFUq9u) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Am I Not Your Girl?](https://open.spotify.com/album/36G5Yxs26PEzUxSGUiAaIn) | 4:27 |
 | 50 | [Outlander \- The Skye Boat Song \(Revolutionary Version\)](https://open.spotify.com/track/4SJAXVw4aJN4oXVc9ASZh0) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Outlander: Season 7 \(Highlights from the Original Television Soundtrack\)](https://open.spotify.com/album/732Keyphs0peCIsZ1zVdFn) | 3:35 |
 
-Snapshot ID: `asgugAAAAAAVehMha0jbztthFuJXuzsP`
+Snapshot ID: `asmAAAAAAAA7xmD0ssGJmWuF6P7I9Vnm`

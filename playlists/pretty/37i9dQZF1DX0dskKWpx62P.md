@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 
 > ¡Con todo el sentimiento andino! Foto: William Luna
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,104 likes - 60 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,143 likes - 60 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 | 14 | [No quiero más esta vida](https://open.spotify.com/track/3viRdnVXZVlWqB97loJnQy) | [Yawar](https://open.spotify.com/artist/1uvxq0pWC1f55Yg9XmgLnW) | [De Colores](https://open.spotify.com/album/4aAQRt7AGRXYEEqetaIwNM) | 4:17 |
 | 15 | [Serenata Condemayta](https://open.spotify.com/track/7rPxPZBc4FD4SwdA6rYjus) | [Conjunto Condemayta de Acomayo](https://open.spotify.com/artist/7fNXiMybRyHV5Wr8itLWKD) | [Conjunto Condemayta de Acomayo](https://open.spotify.com/album/5eKzkcckQddTWQ4T14kckx) | 2:53 |
 | 16 | [Mi Linda Niña](https://open.spotify.com/track/0Pf4rmQmrIl6G0bbuszuwH) | [Mario Mendoza](https://open.spotify.com/artist/16wOUZsJRt4lH9cM9Js3VQ) | [Lo Mejor del Incomparable...Mario Mendoza](https://open.spotify.com/album/1fq9eMMW89xN3BxZvWgDuw) | 2:43 |
-| 17 | [Convoycito de Huancayo](https://open.spotify.com/track/4C36p2WRgwhAiQtZa1JRkX) | [Estudiantina Perú](https://open.spotify.com/artist/5etoNGyzurcPYsyeLgVnDC) | [Selección de Huaynos: Centro \- Sur](https://open.spotify.com/album/1EnGdpyue1EVF0XlGdhmeO) | 2:57 |
-| 18 | [Adiós Pueblo De Ayacucho](https://open.spotify.com/track/43qqoWGmOa8UAXJZtScAfe) | [Trio Ayacucho](https://open.spotify.com/artist/3RRRYXxdsZ7IoFGDALJIA8) | [Como Siempre Con El Mayor Cariño](https://open.spotify.com/album/6wvfzD7OBcegaxiW28Q5gn) | 3:44 |
+| 17 | [Adiós Pueblo De Ayacucho](https://open.spotify.com/track/43qqoWGmOa8UAXJZtScAfe) | [Trio Ayacucho](https://open.spotify.com/artist/3RRRYXxdsZ7IoFGDALJIA8) | [Como Siempre Con El Mayor Cariño](https://open.spotify.com/album/6wvfzD7OBcegaxiW28Q5gn) | 3:44 |
+| 18 | [Convoycito de Huancayo](https://open.spotify.com/track/4C36p2WRgwhAiQtZa1JRkX) | [Estudiantina Perú](https://open.spotify.com/artist/5etoNGyzurcPYsyeLgVnDC) | [Selección de Huaynos: Centro \- Sur](https://open.spotify.com/album/1EnGdpyue1EVF0XlGdhmeO) | 2:57 |
 | 19 | [Benditas las Madres](https://open.spotify.com/track/1Vm5LVuCAyBB3rsWee4ZIz) | [Ernesto Sanchez Fajardo](https://open.spotify.com/artist/3aPmMxqcg0JkCW3Em1SSzC) | [El Jilguero de Huascarán](https://open.spotify.com/album/5SS2SwafKqEmXuU5uuP0S5) | 3:01 |
 | 20 | [Triste Enamorado](https://open.spotify.com/track/5mrUmA5jojltZRbWp6FTRK) | [El Comunero de Los Andes](https://open.spotify.com/artist/0fMWProJcP684kUSl4mFWR) | [Selección de Huaynos: Centro \- Sur](https://open.spotify.com/album/1EnGdpyue1EVF0XlGdhmeO) | 2:39 |
 | 21 | [Vas a Llorar](https://open.spotify.com/track/2MprqfkZ99YxetGfp8gZ6W) | [Flor Sinqueña](https://open.spotify.com/artist/3Wpp2yCFRITdmRVsDracBe) | [Selección de Huaynos: Centro \- Sur](https://open.spotify.com/album/1EnGdpyue1EVF0XlGdhmeO) | 2:40 |
@@ -46,13 +46,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 | 36 | [Koka kintucha](https://open.spotify.com/track/0GF5O4jv4zIrrV5EWNdSL1) | [Manuelcha Prado](https://open.spotify.com/artist/6cR40PCkvUGZaRw1ZZ9q22) | [Madre Andina](https://open.spotify.com/album/3QiXpzSp5X9J2IxfAP4eGe) | 3:58 |
 | 37 | [Donde Estarás Palomita](https://open.spotify.com/track/3M4eyS4qeq1GXUNAVdTGHN) | [Kiko Revatta](https://open.spotify.com/artist/13biTRIVK4wnKZ8KVvTgRa) | [Ayacucho En El Corazon De Todos Vol.2](https://open.spotify.com/album/5J36nWq3TbIe8S9zvQaERi) | 3:17 |
 | 38 | [Mauka Zapato](https://open.spotify.com/track/6zGjm3uaP6gxoC4BslW05f) | [Alicia Maguiña](https://open.spotify.com/artist/1OJ21FFw1XbFVGx4SN13Fv) | [La Santa Tierra](https://open.spotify.com/album/1Et11TUnb0Hw7NcqpmAZYC) | 3:28 |
-| 39 | [Huaynos Norteños \(Todo Empezó Como Jugando / Casualidad\)](https://open.spotify.com/track/3xmSFdTIOFgFrbIN2q4IiY) | [Max Castro](https://open.spotify.com/artist/0yBAksfvttaIwTvj812Ytr) | [Para Ti](https://open.spotify.com/album/4HU9eCiuTHoxRANEAlQ8xu) | 6:01 |
+| 39 | [Bella Mestiza](https://open.spotify.com/track/5NRAUbtk0aTVzhB2jxkN7h) | [Ángel Bedrillana](https://open.spotify.com/artist/6gTTDix3FA5TyyW4iEx9aR) | [Angel Bedrillana \(Mestizo\)](https://open.spotify.com/album/4BKlcQZgjkudPLXUayFHLG) | 3:57 |
 | 40 | [Remembranzas](https://open.spotify.com/track/6h4mOqdnuu7mnAaHFlWrNR) | [Los Puquiales](https://open.spotify.com/artist/56BGpfV7llrp7rvvseEaPn) | [Selección de Huaynos: Centro \- Sur](https://open.spotify.com/album/1EnGdpyue1EVF0XlGdhmeO) | 2:40 |
 | 41 | [Expreso Puquio](https://open.spotify.com/track/7vEXd2YBNHeyeY9YOBB83K) | [Manuelcha Prado](https://open.spotify.com/artist/6cR40PCkvUGZaRw1ZZ9q22) | [Madre Andina](https://open.spotify.com/album/3QiXpzSp5X9J2IxfAP4eGe) | 4:24 |
-| 42 | [Amor Ajeno](https://open.spotify.com/track/3UlgjKoybmeyMmfIspHBe9) | [Raíces D'Jauja](https://open.spotify.com/artist/2i5IMep3W8A3oFcCI3kp0D) | [Un Sentimiento de Amor](https://open.spotify.com/album/2TBbljVi1JnwCNuVMBHmiJ) | 4:37 |
-| 43 | [Terco corazón](https://open.spotify.com/track/65VRWF91A0eL7HX1VaYUwM) | [Alicia Delgado](https://open.spotify.com/artist/0rNV2u9J1LiJ2BRtN3oOtW) | [La princesa del Folklore](https://open.spotify.com/album/45hG14f1YCGyg1ezB97HlR) | 3:41 |
-| 44 | [La Chismosa](https://open.spotify.com/track/4VlswEsEPSWQHefPJoTNVd) | [Los Campesinos de Bambamarca](https://open.spotify.com/artist/5UmukQI0Wc2h7pHjF1tT9m) | [A..estilo propio y jaranero](https://open.spotify.com/album/3p3as9EChM0uXAteOZ2oZo) | 6:05 |
-| 45 | [Bella Mestiza](https://open.spotify.com/track/5NRAUbtk0aTVzhB2jxkN7h) | [Ángel Bedrillana](https://open.spotify.com/artist/6gTTDix3FA5TyyW4iEx9aR) | [Angel Bedrillana \(Mestizo\)](https://open.spotify.com/album/4BKlcQZgjkudPLXUayFHLG) | 3:57 |
+| 42 | [Huaynos Norteños \(Todo Empezó Como Jugando / Casualidad\)](https://open.spotify.com/track/3xmSFdTIOFgFrbIN2q4IiY) | [Max Castro](https://open.spotify.com/artist/0yBAksfvttaIwTvj812Ytr) | [Para Ti](https://open.spotify.com/album/4HU9eCiuTHoxRANEAlQ8xu) | 6:01 |
+| 43 | [Amor Ajeno](https://open.spotify.com/track/3UlgjKoybmeyMmfIspHBe9) | [Raíces D'Jauja](https://open.spotify.com/artist/2i5IMep3W8A3oFcCI3kp0D) | [Un Sentimiento de Amor](https://open.spotify.com/album/2TBbljVi1JnwCNuVMBHmiJ) | 4:37 |
+| 44 | [Terco corazón](https://open.spotify.com/track/65VRWF91A0eL7HX1VaYUwM) | [Alicia Delgado](https://open.spotify.com/artist/0rNV2u9J1LiJ2BRtN3oOtW) | [La princesa del Folklore](https://open.spotify.com/album/45hG14f1YCGyg1ezB97HlR) | 3:41 |
+| 45 | [La Chismosa](https://open.spotify.com/track/4VlswEsEPSWQHefPJoTNVd) | [Los Campesinos de Bambamarca](https://open.spotify.com/artist/5UmukQI0Wc2h7pHjF1tT9m) | [A..estilo propio y jaranero](https://open.spotify.com/album/3p3as9EChM0uXAteOZ2oZo) | 6:05 |
 | 46 | [Profesorita](https://open.spotify.com/track/19fr1BVHzzdxkJtHee5PU7) | [Los Campesinos](https://open.spotify.com/artist/4Y6bDQ3ZuNk1IcX4FmdrBZ) | [Grandes Exitos](https://open.spotify.com/album/1x7195GR18267D7Ix6xpzE) | 2:51 |
 | 47 | [Río Mantaro](https://open.spotify.com/track/3IOnWo0h8Vl0VrQKhOQmLj) | [Los Pacharacos](https://open.spotify.com/artist/1zo4zNnsG4FZjK7OFqvDLW) | [Los Pacharacos](https://open.spotify.com/album/5r2IZe4Ce9ozJ1lcBU9iAZ) | 2:57 |
 | 48 | [Huaylla Ichu](https://open.spotify.com/track/1tW0fte6lqArX11vd3rQyW) | [Raúl Gómez Gómez](https://open.spotify.com/artist/3Aj7SozLnhoezL3I4kjyW7) | [Canto Natural del Ande](https://open.spotify.com/album/2DvR3oevJSf8Hc8xuSoYWL) | 5:09 |

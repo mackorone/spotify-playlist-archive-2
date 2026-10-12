@@ -1,6 +1,6 @@
 {
   "description": "\u4eca\u65e51\u65e5\u3092\u3001\u5143\u6c17\u306b\u8fce\u3048\u308b\u305f\u3081\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\uff01",
-  "num_followers": 148479,
+  "num_followers": 148471,
   "original_name": "\u5143\u6c17Booster",
   "owner": {
     "name": "Spotify",
@@ -271,26 +271,6 @@
     {
       "added_at": "2026-10-01 15:00:28",
       "album": {
-        "name": "APT.",
-        "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
-      },
-      "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 169917,
-      "name": "APT.",
-      "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
-    },
-    {
-      "added_at": "2026-10-01 15:00:28",
-      "album": {
         "name": "Last Thing You Need (from GTAVI: The Album)",
         "url": "https://open.spotify.com/album/3yYy3Vpqpxz2WxRIjMtuls"
       },
@@ -307,6 +287,26 @@
       "duration_ms": 196000,
       "name": "Last Thing You Need (from GTAVI: The Album)",
       "url": "https://open.spotify.com/track/5qGziX9216V8hKJjGg8RtH"
+    },
+    {
+      "added_at": "2026-10-01 15:00:28",
+      "album": {
+        "name": "APT.",
+        "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 169917,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
     },
     {
       "added_at": "2026-10-01 15:00:28",
@@ -343,22 +343,6 @@
     {
       "added_at": "2026-10-01 15:00:28",
       "album": {
-        "name": "FEVER DREAM",
-        "url": "https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 153430,
-      "name": "FEVER DREAM",
-      "url": "https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ"
-    },
-    {
-      "added_at": "2026-10-01 15:00:28",
-      "album": {
         "name": "I Just Might",
         "url": "https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 212973,
       "name": "I Just Might",
       "url": "https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G"
+    },
+    {
+      "added_at": "2026-10-01 15:00:28",
+      "album": {
+        "name": "FEVER DREAM",
+        "url": "https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 153430,
+      "name": "FEVER DREAM",
+      "url": "https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ"
     },
     {
       "added_at": "2026-10-01 15:00:28",
@@ -391,18 +391,22 @@
     {
       "added_at": "2026-10-01 15:00:28",
       "album": {
-        "name": "CLICK",
-        "url": "https://open.spotify.com/album/6wj16ihEX2pPqKzbtCZ0N3"
+        "name": "AGUA",
+        "url": "https://open.spotify.com/album/5Y5rJEiGpeNsSHCEwgKGIF"
       },
       "artists": [
         {
-          "name": "JISOO",
-          "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
         }
       ],
-      "duration_ms": 159095,
-      "name": "CLICK",
-      "url": "https://open.spotify.com/track/1zyNO73bPNPC6KBi3raNmZ"
+      "duration_ms": 191107,
+      "name": "AGUA",
+      "url": "https://open.spotify.com/track/5UIyNcyxW33PXKyf86GJW9"
     },
     {
       "added_at": "2026-10-01 15:00:28",
@@ -423,22 +427,18 @@
     {
       "added_at": "2026-10-01 15:00:28",
       "album": {
-        "name": "AGUA",
-        "url": "https://open.spotify.com/album/5Y5rJEiGpeNsSHCEwgKGIF"
+        "name": "CLICK",
+        "url": "https://open.spotify.com/album/6wj16ihEX2pPqKzbtCZ0N3"
       },
       "artists": [
         {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          "name": "JISOO",
+          "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
         }
       ],
-      "duration_ms": 191107,
-      "name": "AGUA",
-      "url": "https://open.spotify.com/track/5UIyNcyxW33PXKyf86GJW9"
+      "duration_ms": 159095,
+      "name": "CLICK",
+      "url": "https://open.spotify.com/track/1zyNO73bPNPC6KBi3raNmZ"
     },
     {
       "added_at": "2026-10-01 15:00:28",
@@ -659,26 +659,6 @@
     {
       "added_at": "2026-10-01 15:00:28",
       "album": {
-        "name": "Danceteria Afterhours",
-        "url": "https://open.spotify.com/album/7jX2nfe1lBHd4BsOLwuzh9"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        },
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 230503,
-      "name": "Danceteria Afterhours",
-      "url": "https://open.spotify.com/track/3j7BhP71ROCpc9R3w9P9UE"
-    },
-    {
-      "added_at": "2026-10-01 15:00:28",
-      "album": {
         "name": "Another Drink",
         "url": "https://open.spotify.com/album/7nkQzEUbEhiLWXdXBjtqt2"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 153103,
       "name": "Another Drink",
       "url": "https://open.spotify.com/track/3OeZBIb1CsV2rrNNVeiglf"
+    },
+    {
+      "added_at": "2026-10-01 15:00:28",
+      "album": {
+        "name": "Danceteria Afterhours",
+        "url": "https://open.spotify.com/album/7jX2nfe1lBHd4BsOLwuzh9"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 230503,
+      "name": "Danceteria Afterhours",
+      "url": "https://open.spotify.com/track/3j7BhP71ROCpc9R3w9P9UE"
     },
     {
       "added_at": "2026-10-01 15:00:28",
@@ -747,6 +747,22 @@
     {
       "added_at": "2026-10-01 15:00:28",
       "album": {
+        "name": "Popstar",
+        "url": "https://open.spotify.com/album/06CjF89lLSSiVWXujVVtQs"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 140520,
+      "name": "Nobody Wanna Dance Anymore",
+      "url": "https://open.spotify.com/track/1ZiY6y9yI46xKiA3vFCLkx"
+    },
+    {
+      "added_at": "2026-10-01 15:00:28",
+      "album": {
         "name": "Sports car",
         "url": "https://open.spotify.com/album/1fOTqAU8mRMHlmOaHMqsge"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 165746,
       "name": "Mystical Magical",
       "url": "https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT"
-    },
-    {
-      "added_at": "2026-10-01 15:00:28",
-      "album": {
-        "name": "Popstar",
-        "url": "https://open.spotify.com/album/06CjF89lLSSiVWXujVVtQs"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 140520,
-      "name": "Nobody Wanna Dance Anymore",
-      "url": "https://open.spotify.com/track/1ZiY6y9yI46xKiA3vFCLkx"
     },
     {
       "added_at": "2026-10-01 15:00:28",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-10-01 15:00:28",
       "album": {
-        "name": "\u602a\u7363",
-        "url": "https://open.spotify.com/album/6ZdDbRk0av6Sm2E1auhWjT"
-      },
-      "artists": [
-        {
-          "name": "sakanaction",
-          "url": "https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq"
-        }
-      ],
-      "duration_ms": 252722,
-      "name": "\u602a\u7363",
-      "url": "https://open.spotify.com/track/6FhWelfRDMFZRtFUU6SIdC"
-    },
-    {
-      "added_at": "2026-10-01 15:00:28",
-      "album": {
         "name": "Crisco",
         "url": "https://open.spotify.com/album/5jsWuuGmdHB9QFHYfukCng"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 249613,
       "name": "Snakeskin Boots",
       "url": "https://open.spotify.com/track/5pjlXLbWn4VzmLUepF7729"
+    },
+    {
+      "added_at": "2026-10-01 15:00:28",
+      "album": {
+        "name": "\u602a\u7363",
+        "url": "https://open.spotify.com/album/6ZdDbRk0av6Sm2E1auhWjT"
+      },
+      "artists": [
+        {
+          "name": "sakanaction",
+          "url": "https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq"
+        }
+      ],
+      "duration_ms": 252722,
+      "name": "\u602a\u7363",
+      "url": "https://open.spotify.com/track/6FhWelfRDMFZRtFUU6SIdC"
     },
     {
       "added_at": "2026-10-01 15:00:28",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-10-01 15:00:28",
       "album": {
-        "name": "Five",
-        "url": "https://open.spotify.com/album/2ZujTUIlfon5IhGbUfFaYO"
-      },
-      "artists": [
-        {
-          "name": "ARASHI",
-          "url": "https://open.spotify.com/artist/1XYuC1vxinTjHCNd5clB8C"
-        }
-      ],
-      "duration_ms": 267600,
-      "name": "Five",
-      "url": "https://open.spotify.com/track/2cIqVZFyBH8h5dnrzBvtre"
-    },
-    {
-      "added_at": "2026-10-01 15:00:28",
-      "album": {
         "name": "\u30e9\u30a4\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/40CHqDtwO8xlI3Ns7sZZel"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 288200,
       "name": "\u30e9\u30a4\u30e9\u30c3\u30af",
       "url": "https://open.spotify.com/track/78W4mTLIh4qoLu92W4IQhO"
+    },
+    {
+      "added_at": "2026-10-01 15:00:28",
+      "album": {
+        "name": "Five",
+        "url": "https://open.spotify.com/album/2ZujTUIlfon5IhGbUfFaYO"
+      },
+      "artists": [
+        {
+          "name": "ARASHI",
+          "url": "https://open.spotify.com/artist/1XYuC1vxinTjHCNd5clB8C"
+        }
+      ],
+      "duration_ms": 267600,
+      "name": "Five",
+      "url": "https://open.spotify.com/track/2cIqVZFyBH8h5dnrzBvtre"
     },
     {
       "added_at": "2026-10-01 15:00:28",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2026-10-01 15:00:28",
       "album": {
+        "name": "World's Greatest!",
+        "url": "https://open.spotify.com/album/4cEt3Sgt7LFAet0bAJ7W6A"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 230104,
+      "name": "World's Greatest!",
+      "url": "https://open.spotify.com/track/5U1ekX3gtDjqIsJ9Ves4cT"
+    },
+    {
+      "added_at": "2026-10-01 15:00:28",
+      "album": {
         "name": "Stay (If You Wanna Dance)",
         "url": "https://open.spotify.com/album/70hrdDAd7dbcj0ob6GCAnA"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 166880,
       "name": "Carry You Home",
       "url": "https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ"
-    },
-    {
-      "added_at": "2026-10-01 15:00:28",
-      "album": {
-        "name": "World's Greatest!",
-        "url": "https://open.spotify.com/album/4cEt3Sgt7LFAet0bAJ7W6A"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 230104,
-      "name": "World's Greatest!",
-      "url": "https://open.spotify.com/track/5U1ekX3gtDjqIsJ9Ves4cT"
     },
     {
       "added_at": "2026-10-01 15:00:28",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2026-10-01 15:00:28",
       "album": {
+        "name": "\u30cf\u30c3\u30d4\u30fc\u30a8\u30f3\u30c9\u3078\u306e\u671f\u5f85\u306f",
+        "url": "https://open.spotify.com/album/2pJn8hcJhOliBQipPHKsaz"
+      },
+      "artists": [
+        {
+          "name": "Macaroni Empitsu",
+          "url": "https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ"
+        }
+      ],
+      "duration_ms": 219252,
+      "name": "\u306a\u3093\u3067\u3082\u306a\u3044\u3088\u3001",
+      "url": "https://open.spotify.com/track/5W7Y92LB4jWvu9NeEQ0GZl"
+    },
+    {
+      "added_at": "2026-10-01 15:00:28",
+      "album": {
         "name": "Born Again (feat. Doja Cat & RAYE)",
         "url": "https://open.spotify.com/album/5ADTbFCyP8cFAu59i4idiC"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 231174,
       "name": "Born Again (feat. Doja Cat & RAYE)",
       "url": "https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf"
-    },
-    {
-      "added_at": "2026-10-01 15:00:28",
-      "album": {
-        "name": "\u30cf\u30c3\u30d4\u30fc\u30a8\u30f3\u30c9\u3078\u306e\u671f\u5f85\u306f",
-        "url": "https://open.spotify.com/album/2pJn8hcJhOliBQipPHKsaz"
-      },
-      "artists": [
-        {
-          "name": "Macaroni Empitsu",
-          "url": "https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ"
-        }
-      ],
-      "duration_ms": 219252,
-      "name": "\u306a\u3093\u3067\u3082\u306a\u3044\u3088\u3001",
-      "url": "https://open.spotify.com/track/5W7Y92LB4jWvu9NeEQ0GZl"
     },
     {
       "added_at": "2026-10-01 15:00:28",
@@ -1439,6 +1439,22 @@
       "duration_ms": 143797,
       "name": "HOT",
       "url": "https://open.spotify.com/track/406IpEtZPvbxApWTGM3twY"
+    },
+    {
+      "added_at": "2026-10-01 15:00:28",
+      "album": {
+        "name": "Too Cute To Be Lonely",
+        "url": "https://open.spotify.com/album/7wlMyVNmOTncgwr0SCifSY"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 196509,
+      "name": "Too Cute To Be Lonely",
+      "url": "https://open.spotify.com/track/5iZbOxJZ2Rmo2ECMXRHU9a"
     },
     {
       "added_at": "2026-10-01 15:00:28",
@@ -1519,22 +1535,6 @@
     {
       "added_at": "2026-10-01 15:00:28",
       "album": {
-        "name": "Too Cute To Be Lonely",
-        "url": "https://open.spotify.com/album/7wlMyVNmOTncgwr0SCifSY"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 196509,
-      "name": "Too Cute To Be Lonely",
-      "url": "https://open.spotify.com/track/5iZbOxJZ2Rmo2ECMXRHU9a"
-    },
-    {
-      "added_at": "2026-10-01 15:00:28",
-      "album": {
         "name": "Short n' Sweet",
         "url": "https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj"
       },
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2026-10-01 15:00:28",
       "album": {
-        "name": "Prema",
-        "url": "https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9"
-      },
-      "artists": [
-        {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
-        }
-      ],
-      "duration_ms": 262840,
-      "name": "Prema",
-      "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
-    },
-    {
-      "added_at": "2026-10-01 15:00:28",
-      "album": {
         "name": "Sunday Morning",
         "url": "https://open.spotify.com/album/68VH68e8EI3jXMF151Trf3"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 172191,
       "name": "Sunday Morning",
       "url": "https://open.spotify.com/track/6rjpIfWNWwzg7hd1KxDK5f"
+    },
+    {
+      "added_at": "2026-10-01 15:00:28",
+      "album": {
+        "name": "Prema",
+        "url": "https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "duration_ms": 262840,
+      "name": "Prema",
+      "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
     },
     {
       "added_at": "2026-10-01 15:00:28",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2026-10-01 15:00:28",
       "album": {
-        "name": "Nobody (from Kaiju No. 8)",
-        "url": "https://open.spotify.com/album/3YmKf1haPAblZIrIPpuRTf"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 153626,
-      "name": "Nobody - from Kaiju No. 8",
-      "url": "https://open.spotify.com/track/47N81NMkB488fuOwOC3Oip"
-    },
-    {
-      "added_at": "2026-10-01 15:00:28",
-      "album": {
         "name": "Company",
         "url": "https://open.spotify.com/album/1tHG3rISWudn1FJoDjV56d"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 172877,
       "name": "Company",
       "url": "https://open.spotify.com/track/1VixD42StOF93a1naJMGnb"
+    },
+    {
+      "added_at": "2026-10-01 15:00:28",
+      "album": {
+        "name": "Nobody (from Kaiju No. 8)",
+        "url": "https://open.spotify.com/album/3YmKf1haPAblZIrIPpuRTf"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 153626,
+      "name": "Nobody - from Kaiju No. 8",
+      "url": "https://open.spotify.com/track/47N81NMkB488fuOwOC3Oip"
     },
     {
       "added_at": "2026-10-01 15:00:28",

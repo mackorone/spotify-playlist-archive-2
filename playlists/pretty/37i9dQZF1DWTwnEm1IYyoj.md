@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwnEm1IYyoj.md) - [plain]
 
 > Warm familiar pop you know and love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,778,965 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,778,898 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwnEm1IYyoj.md) - [plain]
 | 45 | [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 |
 | 46 | [Back To Black](https://open.spotify.com/track/30FURVTCpbKyykjSEQzGkH) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 4:00 |
 | 47 | [Before You Go](https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent \(Extended Edition\)](https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8) | 3:35 |
-| 48 | [Best Day Of My Life](https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Oh, What A Life](https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv) | 3:14 |
-| 49 | [Marry You](https://open.spotify.com/track/6SKwQghsR8AISlxhcwyA9R) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL) | 3:50 |
+| 48 | [Marry You](https://open.spotify.com/track/6SKwQghsR8AISlxhcwyA9R) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL) | 3:50 |
+| 49 | [Best Day Of My Life](https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Oh, What A Life](https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv) | 3:14 |
 | 50 | [Wherever You Will Go](https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz) | [The Calling](https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp) | [Camino Palmero](https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV) | 3:28 |
 | 51 | [Nonsense](https://open.spotify.com/track/6dgUya35uo964z7GZXM07g) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 2:43 |
 | 52 | [Leave Before You Love Me \(with Jonas Brothers\)](https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Leave Before You Love Me](https://open.spotify.com/album/66JuK41D3LpkbX3HCTGcQk) | 2:34 |
@@ -76,10 +76,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwnEm1IYyoj.md) - [plain]
 | 66 | [I Had Some Help \(Feat\. Morgan Wallen\)](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I Had Some Help](https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj) | 2:58 |
 | 67 | [Señorita](https://open.spotify.com/track/0TK2YIli7K1leLovkQiNik) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Señorita](https://open.spotify.com/album/2ZaX1FdZCwchXl1QZiD4O4) | 3:10 |
 | 68 | [Someone To You](https://open.spotify.com/track/2f0pn9DkEJwAzXApnFh5cr) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Where The Shadow Ends](https://open.spotify.com/album/7jPoliCU7TRA13Wro32AOD) | 3:39 |
-| 69 | [Somebody That I Used To Know](https://open.spotify.com/track/4wCmqSrbyCgxEXROQE6vtV) | [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Making Mirrors](https://open.spotify.com/album/1HjSyGjmLNjRAKgT9t1cna) | 4:04 |
-| 70 | [Azizam](https://open.spotify.com/track/0sCvjs8IVBhxXVhg7jQemt) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play](https://open.spotify.com/album/20dY0uZi9SzfrcWYfiWGqH) | 2:42 |
-| 71 | [We Are Young \(feat\. Janelle Monáe\)](https://open.spotify.com/track/7a86XRg84qjasly9f6bPSD) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0), [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Some Nights](https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo) | 4:10 |
-| 72 | [This Town](https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:52 |
+| 69 | [Azizam](https://open.spotify.com/track/0sCvjs8IVBhxXVhg7jQemt) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play](https://open.spotify.com/album/20dY0uZi9SzfrcWYfiWGqH) | 2:42 |
+| 70 | [Somebody That I Used To Know](https://open.spotify.com/track/4wCmqSrbyCgxEXROQE6vtV) | [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Making Mirrors](https://open.spotify.com/album/1HjSyGjmLNjRAKgT9t1cna) | 4:04 |
+| 71 | [This Town](https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:52 |
+| 72 | [We Are Young \(feat\. Janelle Monáe\)](https://open.spotify.com/track/7a86XRg84qjasly9f6bPSD) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0), [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Some Nights](https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo) | 4:10 |
 | 73 | [Wide Awake](https://open.spotify.com/track/5JLv62qFIS1DR3zGEcApRt) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:40 |
 | 74 | [Lose You To Love Me](https://open.spotify.com/track/4l0Mvzj72xxOpRrp6h8nHi) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 3:26 |
 | 75 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0CFC9y.md) - [plain]
 
 > This is AFI\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,558 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,565 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0CFC9y.md) - [plain]
 | 49 | [Begging For Trouble](https://open.spotify.com/track/19elq0F6glRZAResdR1XTR) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Bodies](https://open.spotify.com/album/4TzAos9wqaw4j3cnE0yhr3) | 2:20 |
 | 50 | [Too Shy To Scream](https://open.spotify.com/track/730q5VwyabgCKDONwUX7Lt) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Crash Love \(Deluxe\)](https://open.spotify.com/album/3bvsBOFhdRGsvEwIdRoWZz) | 2:56 |
 
-Snapshot ID: `asbdAAAAAACK5AAaGYQVV1Hs2qj7V5lU`
+Snapshot ID: `asgugAAAAACMObcLo9Gil5p3g9QsYvPX`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ml53Dz6izK.md) - [plain]
 
 > < insert emo glitter gif here >
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,847 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,849 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ml53Dz6izK.md) - [plain]
 | 58 | [Which to Bury; Us or the Hatchet?](https://open.spotify.com/track/6BWLcSdnfewflgO6x1V73p) | [Relient K](https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN) | [Mmhmm](https://open.spotify.com/album/4UZTjODd6CvRN1Lx8g6hBV) | 4:11 |
 | 59 | [Bodybag](https://open.spotify.com/track/4iplm64dNcvu82IbBOqSnX) | [Hit The Lights](https://open.spotify.com/artist/5fyHpJg1xW8OZqPyzmQv2C) | [This is a Stick Up…don't Make It a Murder](https://open.spotify.com/album/4Sik3cj1yd7NilzGjI2u0B) | 3:09 |
 | 60 | [Kelsey](https://open.spotify.com/track/5weqqLD5pDadqumvcrRCVA) | [Metro Station](https://open.spotify.com/artist/7vXwfZyDp3spzIVNXDaTPN) | [Metro Station](https://open.spotify.com/album/2tZnyjZ6Orm55gE8bqJ3UG) | 3:37 |
-| 61 | [It Ends Tonight](https://open.spotify.com/track/5ZqNz8GXWpkb95f7aVxTA0) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Move Along](https://open.spotify.com/album/03kOqFjrxiwkgvj2ExN6ii) | 4:04 |
-| 62 | [Girls Do What They Want](https://open.spotify.com/track/3nOjVAn9ohlCATDl1040v6) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [Can't Stop Won't Stop](https://open.spotify.com/album/0bxAg2688N46MOhGVHxRFJ) | 3:12 |
+| 61 | [Girls Do What They Want](https://open.spotify.com/track/3nOjVAn9ohlCATDl1040v6) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [Can't Stop Won't Stop](https://open.spotify.com/album/0bxAg2688N46MOhGVHxRFJ) | 3:12 |
+| 62 | [It Ends Tonight](https://open.spotify.com/track/5ZqNz8GXWpkb95f7aVxTA0) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Move Along](https://open.spotify.com/album/03kOqFjrxiwkgvj2ExN6ii) | 4:04 |
 | 63 | [6 Months](https://open.spotify.com/track/5RJyX7ZuBwTQeQgyxGqb7M) | [Hey Monday](https://open.spotify.com/artist/6we2CCxymhh4v30lZRhhpa) | [Hold On Tight](https://open.spotify.com/album/5BNmZXVJX3h8WbtXyRTRln) | 3:36 |
 | 64 | [That Boy That Girl](https://open.spotify.com/track/4Nug5ZjYtSaX5CBQ25rlDy) | [Hadouken!](https://open.spotify.com/artist/1369EOxSlL69yV9Yp1nVaR) | [Music for an Accelerated Culture](https://open.spotify.com/album/1MIvX2t0DUAe9NhqdcndIu) | 3:31 |
 | 65 | [Saviour](https://open.spotify.com/track/5dSTEwEBqCutDNXtueASXg) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [The Listening](https://open.spotify.com/album/3sQVIOFsu1lIzug5G2fUbX) | 3:28 |

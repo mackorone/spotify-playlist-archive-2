@@ -2376,7 +2376,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 177181,
       "name": "i drive me mad",
       "url": "https://open.spotify.com/track/74tswKcYGnbqDd9zbPHAgW"
@@ -4198,6 +4198,24 @@
       "duration_ms": 94397,
       "name": "TAMALE! (feat. Jaleel)",
       "url": "https://open.spotify.com/track/774BQ6Z8GFi0j6p4MBrBqi"
+    },
+    {
+      "album": {
+        "name": "COMING OF AGE",
+        "url": "https://open.spotify.com/album/4W3wCFg1EMEg6ALG47mS5f"
+      },
+      "artists": [
+        {
+          "name": "METTE",
+          "url": "https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL"
+        }
+      ],
+      "date_added": "2026-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166456,
+      "name": "TANGERINE SKY",
+      "url": "https://open.spotify.com/track/2cjuJiIHBt8NbxgY4vufz3"
     },
     {
       "album": {

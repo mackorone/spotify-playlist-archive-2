@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HoNPxDKe6s.md) - [plain]
 
 > The hip\-hop party soundtrack of summer, past and present.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,506 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,547 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HoNPxDKe6s.md) - [plain]
 | 46 | [Bad and Boujee \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/0M9ydKzuF3oZTfYYPfaGX1) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Culture](https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO) | 5:43 |
 | 47 | [Ballin' \(with Roddy Ricch\)](https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Perfect Ten](https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy) | 3:00 |
 | 48 | [Bodak Yellow](https://open.spotify.com/track/6KBYefIoo7KydImq1uUQlL) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 3:43 |
-| 49 | [The London \(feat\. J\. Cole & Travis Scott\)](https://open.spotify.com/track/3s4mrPrEFFPF0LmAfutW0n) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 3:20 |
-| 50 | [Blueberry Faygo](https://open.spotify.com/track/22LAwLoDA5b4AaGSkg6bKW) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [Certified Hitmaker](https://open.spotify.com/album/2a1AHCq835BXUcX1aTTWqQ) | 2:42 |
+| 49 | [Blueberry Faygo](https://open.spotify.com/track/22LAwLoDA5b4AaGSkg6bKW) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [Certified Hitmaker](https://open.spotify.com/album/2a1AHCq835BXUcX1aTTWqQ) | 2:42 |
+| 50 | [The London \(feat\. J\. Cole & Travis Scott\)](https://open.spotify.com/track/3s4mrPrEFFPF0LmAfutW0n) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 3:20 |
 
 Snapshot ID: `AAAAAOyLD9+BNKiuB6qcybONpL0the1k`

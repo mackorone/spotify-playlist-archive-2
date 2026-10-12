@@ -4,7 +4,7 @@
 
 > This is Seyi Vibez\. The essential tracks, all in one playlist.
 
-93 songs - 4 hr 1 min
+94 songs - 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [AMA](https://open.spotify.com/track/5lSDdHPmeqsDJcqiMYtUHN) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [FUJI MOTO](https://open.spotify.com/album/0hFlRO0BYOF3WySD9jEhMT) | 2:37 | 2025-11-16 |  |
 | [Amdallah](https://open.spotify.com/track/2BMwyJhryxpPrBlCBV0SYV) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Vibe Till Thy Kingdom Come](https://open.spotify.com/album/6pXS8h1VlReJ5QuuKNogQj) | 3:00 | 2026-08-26 | 2026-08-27 |
 | [APALA DISCO \(feat\. Wizkid, Seyi Vibez & Terry Apala\) \- Remix](https://open.spotify.com/track/55nKxeuQ63YLqhtxPWMCgN) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Terry Apala](https://open.spotify.com/artist/0lHE0lpGvHJWcbieicn5wM) | [APALA DISCO \(feat\. Wizkid, Seyi Vibez & Terry Apala\) \[Remix\]](https://open.spotify.com/album/0MgGzcX0gkln7VFFmH25yf) | 3:35 | 2025-07-12 |  |
+| [Back 2 U](https://open.spotify.com/track/29lRRXMfpgZCVKib8gFLEU) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [SWAGUU](https://open.spotify.com/album/5TWK8IJLfQ7cxGm5g6WYtr) | 2:42 | 2026-10-12 |  |
 | [Back 2 U](https://open.spotify.com/track/2lhdZrEfgsTjxqjCRXSer0) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Back 2 U](https://open.spotify.com/album/6kcf7BlqJJFW62YaOsQ00C) | 2:42 | 2026-08-30 | 2026-09-28 |
 | [Bad Vibes \(feat\. Seyi Vibez\)](https://open.spotify.com/track/6VX4hVDmDMfClxp6EwDNQP) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:48 | 2025-07-12 |  |
 | [Bank Of America](https://open.spotify.com/track/4Hr6oDlsOeZCyhQiOkDFGC) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Billion Dollar Baby](https://open.spotify.com/album/33mcBtk7Vu7uaKjYPvqzKV) | 2:40 | 2025-07-12 |  |
@@ -37,7 +38,7 @@
 | [Different Conversation Live 4](https://open.spotify.com/track/1jPCWBlCOv5ltcQ9NvzoGJ) | [Lyta](https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Rafat](https://open.spotify.com/album/6nq4Mk4fA0JIlh8Kh1ZG8X) | 2:00 | 2025-07-12 |  |
 | [Different Pattern](https://open.spotify.com/track/46oyXrPbCSbk0TLJ1f7w6K) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [NAHAMciaga](https://open.spotify.com/album/2AuZ237jxny5vdLm8BtadC) | 2:03 | 2025-07-12 |  |
 | [Doha](https://open.spotify.com/track/5hphSVebVxTpDfrk09W0hS) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Loseyi Professor](https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4) | 2:44 | 2025-07-12 |  |
-| [El Jaja](https://open.spotify.com/track/4BcJ8onYQ4IrzJ0vlo8W3w) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [SWAGUU](https://open.spotify.com/album/5TWK8IJLfQ7cxGm5g6WYtr) | 2:43 | 2026-09-21 |  |
+| [El Jaja](https://open.spotify.com/track/4BcJ8onYQ4IrzJ0vlo8W3w) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [SWAGUU](https://open.spotify.com/album/5TWK8IJLfQ7cxGm5g6WYtr) | 2:43 | 2026-09-21 | 2026-10-12 |
 | [Emo \- Remix](https://open.spotify.com/track/1fBzU9kseA8Tmq8rV2R1eC) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Hat\-Trick](https://open.spotify.com/album/3jSB9yCl5M97zQTNeR8DNo) | 2:36 | 2025-07-12 |  |
 | [Flakky](https://open.spotify.com/track/4Gb95LGEj1gX2sGGTw002k) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Thy Kingdom Come](https://open.spotify.com/album/6vDpE1RVZLgUZ1cfm3EzQ8) | 2:18 | 2026-03-30 |  |
 | [Flakky](https://open.spotify.com/track/6SHKNvlSpKXQOwEse9OT6I) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Thy Kingdom Come](https://open.spotify.com/album/1SsFGuWTEBgvDd50NZzGfn) | 2:18 | 2025-07-12 | 2026-03-30 |

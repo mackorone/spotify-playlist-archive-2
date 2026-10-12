@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmM5igE6t5U.md) - [plain]
 | 77 | [Where's the Fun in Forever](https://open.spotify.com/track/47igl55OC8OLEdZDAcj5rt) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Kaleidoscope Dream \(Deluxe Version\)](https://open.spotify.com/album/4Rvzx3X6hcDb7nty1IzVP4) | 3:29 |
 | 78 | [Troubles](https://open.spotify.com/track/4QD2WHH386lGJ6OotpY17G) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor](https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ) | 4:28 |
 | 79 | [How It Feels to Fly](https://open.spotify.com/track/7ahSkRJouFINMWokIywAwG) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Element Of Freedom](https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN) | 4:42 |
-| 80 | [Hope](https://open.spotify.com/track/2eEKqNtBGrE30fnVt52CtS) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Our Version Of Events \(Special Edition\)](https://open.spotify.com/album/0QwbgAJnx9FEFFC3EsyLrQ) | 2:58 |
-| 81 | [A Beautiful Noise](https://open.spotify.com/track/4Z8DyhYIN47p8LgrPVOYeL) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:19 |
+| 80 | [A Beautiful Noise](https://open.spotify.com/track/4Z8DyhYIN47p8LgrPVOYeL) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:19 |
+| 81 | [Hope](https://open.spotify.com/track/2eEKqNtBGrE30fnVt52CtS) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Our Version Of Events \(Special Edition\)](https://open.spotify.com/album/0QwbgAJnx9FEFFC3EsyLrQ) | 2:58 |
 | 82 | [The Thing About Love](https://open.spotify.com/track/0dS5vi71dgXFID7jlyjKsr) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [As I Am \(Expanded Edition\)](https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h) | 3:49 |
 | 83 | [Like the Sea](https://open.spotify.com/track/3fnpMcMbhrep8wMIjKsNVS) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Element Of Freedom](https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN) | 4:13 |
 | 84 | [She Don't Really Care\_1 Luv](https://open.spotify.com/track/1RFYQnLeiY60S8XqSPGcp7) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [HERE](https://open.spotify.com/album/5M31iLPzYuYxkpSO5tBOMN) | 6:07 |
@@ -211,4 +211,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmM5igE6t5U.md) - [plain]
 | 201 | [The Element of Freedom \(Intro\)](https://open.spotify.com/track/7JxiUfSIlnspU7TwJBj172) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Element Of Freedom](https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN) | 0:12 |
 | 202 | [You Glow \(Interlude\)](https://open.spotify.com/track/4KEMTZBgdf5cxsby54YqSE) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [HERE](https://open.spotify.com/album/5M31iLPzYuYxkpSO5tBOMN) | 0:25 |
 
-Snapshot ID: `AcemkAAAAAAtHB345AtLY80PSfYg3wT6`
+Snapshot ID: `AcesbAAAAADLkT+89ck0eoanupj1pFHB`

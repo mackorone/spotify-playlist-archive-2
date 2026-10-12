@@ -1,12 +1,12 @@
 {
   "description": "This is EST Gee. The essential tracks, all in one playlist.",
-  "num_followers": 13786,
+  "num_followers": 13788,
   "original_name": "This Is EST Gee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asbdAAAAAAD76RFbp4plD5PJWO7Uf0h7",
+  "snapshot_id": "asmAAAAAAAD7RfN7ccIhL227U+eEI43Q",
   "tracks": [
     {
       "added_at": null,
@@ -260,25 +260,9 @@
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
         }
       ],
-      "duration_ms": 145116,
-      "name": "CALL SPITTA",
-      "url": "https://open.spotify.com/track/6pz0xCL2lbwxO8JXenfyyg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Still Dont Feel Nun",
-        "url": "https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 146959,
-      "name": "Opinion Base",
-      "url": "https://open.spotify.com/track/2IK9fOwtb9E9s28dRs56oA"
+      "duration_ms": 142702,
+      "name": "HALL OF FAME",
+      "url": "https://open.spotify.com/track/2TVXBs5CNJWADfJwq9OUaz"
     },
     {
       "added_at": null,
@@ -303,6 +287,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Still Dont Feel Nun",
+        "url": "https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 146959,
+      "name": "Opinion Base",
+      "url": "https://open.spotify.com/track/2IK9fOwtb9E9s28dRs56oA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BIGGER THAN THE DEVIL",
         "url": "https://open.spotify.com/album/2vKNBGUmM8uHe9GfrlV4mE"
       },
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
         }
       ],
-      "duration_ms": 142702,
-      "name": "HALL OF FAME",
-      "url": "https://open.spotify.com/track/2TVXBs5CNJWADfJwq9OUaz"
+      "duration_ms": 145116,
+      "name": "CALL SPITTA",
+      "url": "https://open.spotify.com/track/6pz0xCL2lbwxO8JXenfyyg"
     },
     {
       "added_at": null,
@@ -495,46 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Aint Feeling You",
-        "url": "https://open.spotify.com/album/2qBkwnQ9M3pwuQWJXDiaGa"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 205298,
-      "name": "Houstatlantaville (feat. Lil Baby & Travis Scott)",
-      "url": "https://open.spotify.com/track/6LjUHEO9mdsGGxnss3oAb1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Still Dont Feel Nun",
-        "url": "https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 124235,
-      "name": "I Still Dont Feel Nun",
-      "url": "https://open.spotify.com/track/46p6sJzt93LopLhYZHafHL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bigger Than Life Or Death",
         "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
       },
@@ -555,6 +515,46 @@
       "duration_ms": 193617,
       "name": "Lick Back Remix (feat. Future & Young Thug)",
       "url": "https://open.spotify.com/track/6kWNMFptUFZE1tlkbRCwav"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Still Dont Feel Nun",
+        "url": "https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 124235,
+      "name": "I Still Dont Feel Nun",
+      "url": "https://open.spotify.com/track/46p6sJzt93LopLhYZHafHL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Aint Feeling You",
+        "url": "https://open.spotify.com/album/2qBkwnQ9M3pwuQWJXDiaGa"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 205298,
+      "name": "Houstatlantaville (feat. Lil Baby & Travis Scott)",
+      "url": "https://open.spotify.com/track/6LjUHEO9mdsGGxnss3oAb1"
     },
     {
       "added_at": null,
@@ -823,26 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NOT A CHANCE IN HELL",
-        "url": "https://open.spotify.com/album/3bJvXyBbNAh6kT5MnQ6iCS"
-      },
-      "artists": [
-        {
-          "name": "Mozzy",
-          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
-        },
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 94945,
-      "name": "WOULDN'T HOLD YOU UP",
-      "url": "https://open.spotify.com/track/6zUKuZMJflZgPWMS23nh7I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Never Felt Nun",
         "url": "https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 158431,
       "name": "Backstage Passes (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/2BSl2gSFHdzJAMus74qzNj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NOT A CHANCE IN HELL",
+        "url": "https://open.spotify.com/album/3bJvXyBbNAh6kT5MnQ6iCS"
+      },
+      "artists": [
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 94945,
+      "name": "WOULDN'T HOLD YOU UP",
+      "url": "https://open.spotify.com/track/6zUKuZMJflZgPWMS23nh7I"
     },
     {
       "added_at": null,
@@ -919,22 +919,6 @@
       "duration_ms": 185948,
       "name": "Rose Gold (feat. EST Gee)",
       "url": "https://open.spotify.com/track/2SY4ib4Llku3au3gsGPPEW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BIGGER THAN THE DEVIL",
-        "url": "https://open.spotify.com/album/2vKNBGUmM8uHe9GfrlV4mE"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 122181,
-      "name": "SKRRT",
-      "url": "https://open.spotify.com/track/62lwDv1LnPfME9csGoHY7E"
     }
   ],
   "unique_name": "This Is EST Gee",

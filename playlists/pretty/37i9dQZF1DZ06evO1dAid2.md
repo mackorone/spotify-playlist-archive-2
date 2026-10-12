@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1dAid2.md) - [plain]
 
 > This is Chuck Berry\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,243 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,249 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Johnny B\. Goode](https://open.spotify.com/track/2QfiRTz5Yc8DdShCxG1tB2) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Berry Is On Top](https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL) | 2:41 |
 | 2 | [You Never Can Tell](https://open.spotify.com/track/6FT83pFXKhDlXDsNJFAHWz) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [St\. Louis To Liverpool](https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK) | 2:41 |
-| 3 | [Sweet Little Sixteen](https://open.spotify.com/track/4GWHrdyVTC0AWwuRgoWzE7) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [One Dozen Berry's](https://open.spotify.com/album/7CwgdWMtqOgQRzOdzHMwiQ) | 3:00 |
-| 4 | [Sweet Little Sixteen \- Take 11](https://open.spotify.com/track/2AdMi0ejDmHTty03H7kwsP) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Rock 'N' Roll Rarities](https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq) | 3:13 |
+| 3 | [Sweet Little Sixteen \- Take 11](https://open.spotify.com/track/2AdMi0ejDmHTty03H7kwsP) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Rock 'N' Roll Rarities](https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq) | 3:13 |
+| 4 | [Sweet Little Sixteen](https://open.spotify.com/track/4GWHrdyVTC0AWwuRgoWzE7) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [One Dozen Berry's](https://open.spotify.com/album/7CwgdWMtqOgQRzOdzHMwiQ) | 3:00 |
 | 5 | [Roll Over Beethoven](https://open.spotify.com/track/6C7aTTCUWRK7dD379yUT3W) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Berry Is On Top](https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL) | 2:24 |
 | 6 | [No Particular Place To Go](https://open.spotify.com/track/3qt3ybU6MScMxMKL2TYBvt) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [St\. Louis To Liverpool](https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK) | 2:43 |
 | 7 | [Route 66](https://open.spotify.com/track/6TXnGAr6DLVYshIrMeP0lZ) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [New Juke Box Hits](https://open.spotify.com/album/66vytUOJAN0XG0AomrREtH) | 2:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1dAid2.md) - [plain]
 | 49 | [House Of Blue Lights](https://open.spotify.com/track/0iVcJZ8bjL82406m2og7Df) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Blues](https://open.spotify.com/album/7tlJjyQw0cDB9R2lIXw2ey) | 2:26 |
 | 50 | [St\. Louis Blues](https://open.spotify.com/track/0tsgFZdGoCVMeaXVmnrWbF) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Chuck Berry In London](https://open.spotify.com/album/7iSQ8Jg0DA18JCl4SqpDEW) | 2:37 |
 
-Snapshot ID: `asgugAAAAABciwZYPtR35St3LUO/z0lm`
+Snapshot ID: `asmAAAAAAAB9Z5m43+l+HReZdEU6uWaz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9XlH8nDPns.md) - [plain]
 
 > upbeat indie en alternative voor onderweg: van fietsrit tot een lange roadtrip of treinreis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,991 likes - 60 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,989 likes - 60 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9XlH8nDPns.md) - [plain]
 | 9 | [Naive](https://open.spotify.com/track/7BHPGtpuuWWsvE7cCaMuEU) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Inside In / Inside Out](https://open.spotify.com/album/03JPFQvZRnHHysSZrSFmKY) | 3:23 |
 | 10 | [Seventeen Going Under](https://open.spotify.com/track/5rF6YUIlgiat22OT1lWspJ) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Deluxe\)](https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z) | 4:57 |
 | 11 | [There She Goes](https://open.spotify.com/track/4c6vZqYHFur11FbWATIJ9P) | [The La's](https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT) | [The La's](https://open.spotify.com/album/1djwiQ802xeU8Q45jv1b0x) | 2:42 |
-| 12 | [At The Beach, In Every Life](https://open.spotify.com/track/5LfgzPHvka22FdRAxOme6m) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 3:57 |
-| 13 | [Girls & Boys](https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 4:19 |
+| 12 | [Girls & Boys](https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 4:19 |
+| 13 | [At The Beach, In Every Life](https://open.spotify.com/track/5LfgzPHvka22FdRAxOme6m) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 3:57 |
 | 14 | [High Hopes 3000](https://open.spotify.com/track/1dKUibfoGwiApjEYJhB9R2) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [High Hopes 3000](https://open.spotify.com/album/1wNw84HV2GGAhuf6ROgRgu) | 4:05 |
 | 15 | [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 |
 | 16 | [Northern Attitude \(with Hozier\)](https://open.spotify.com/track/4oEf84vBYVftf6KmZexhVo) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Northern Attitude \(with Hozier\)](https://open.spotify.com/album/5yWshZTxFD4N2clZjUBGOH) | 4:27 |

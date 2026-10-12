@@ -1,12 +1,12 @@
 {
   "description": "This is Brandi Carlile. The essential tracks, all in one playlist.",
-  "num_followers": 125615,
+  "num_followers": 125632,
   "original_name": "This Is Brandi Carlile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asgugAAAAAA5rexMcV3Ie4j8Ntoqzfb9",
+  "snapshot_id": "asmAAAAAAACqOC5NNjBeGzMw9Mt1G7Oz",
   "tracks": [
     {
       "added_at": null,
@@ -371,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Take Me Home, Country Roads",
-        "url": "https://open.spotify.com/album/4hL63mh3FYiIQp35YAKNoo"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 185421,
-      "name": "Take Me Home, Country Roads",
-      "url": "https://open.spotify.com/track/154t1fkfSU7zyJojSN6gvR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Story",
         "url": "https://open.spotify.com/album/23XH8Ej694esQAb3IYu00h"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 178320,
       "name": "Turpentine",
       "url": "https://open.spotify.com/track/3XsYJu7hRhj7Awg3rB0AnL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Take Me Home, Country Roads",
+        "url": "https://open.spotify.com/album/4hL63mh3FYiIQp35YAKNoo"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 185421,
+      "name": "Take Me Home, Country Roads",
+      "url": "https://open.spotify.com/track/154t1fkfSU7zyJojSN6gvR"
     },
     {
       "added_at": null,
@@ -439,6 +439,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Story",
+        "url": "https://open.spotify.com/album/23XH8Ej694esQAb3IYu00h"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 152946,
+      "name": "Have You Ever",
+      "url": "https://open.spotify.com/track/6z2qa2dnJDXgVTngG4gFu7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Highwomen",
         "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 174933,
       "name": "Redesigning Women",
       "url": "https://open.spotify.com/track/7IgYxRCJtp36BlDUEoLEg7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Story",
-        "url": "https://open.spotify.com/album/23XH8Ej694esQAb3IYu00h"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 152946,
-      "name": "Have You Ever",
-      "url": "https://open.spotify.com/track/6z2qa2dnJDXgVTngG4gFu7"
     },
     {
       "added_at": null,
@@ -519,6 +519,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Party of One (feat. Sam Smith)",
+        "url": "https://open.spotify.com/album/4W61XWkIAxG9kVVp6FbZ47"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 259558,
+      "name": "Party of One (feat. Sam Smith)",
+      "url": "https://open.spotify.com/track/25fcj6d2W1l8DQL11Czdzb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Highwomen",
         "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
       },
@@ -551,26 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Party of One (feat. Sam Smith)",
-        "url": "https://open.spotify.com/album/4W61XWkIAxG9kVVp6FbZ47"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        },
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 259558,
-      "name": "Party of One (feat. Sam Smith)",
-      "url": "https://open.spotify.com/track/25fcj6d2W1l8DQL11Czdzb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Practical Magic 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5XVnqvARyWFkHTzFrpo0Ni"
       },
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Returning To Myself",
-        "url": "https://open.spotify.com/album/3e2Q0TkwIIfmWUAssLAJ8U"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 242329,
-      "name": "A War With Time",
-      "url": "https://open.spotify.com/track/5VerAFKM0vDyjsRfxFFTZh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Returning To Myself (Commentary Album)",
         "url": "https://open.spotify.com/album/7umxiXlu7t7MK6hPnARZeW"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 260065,
       "name": "Human",
       "url": "https://open.spotify.com/track/4KuzHWqGzXmDk4lMrtawWa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Returning To Myself",
+        "url": "https://open.spotify.com/album/3e2Q0TkwIIfmWUAssLAJ8U"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 242329,
+      "name": "A War With Time",
+      "url": "https://open.spotify.com/track/5VerAFKM0vDyjsRfxFFTZh"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Returning To Myself",
-        "url": "https://open.spotify.com/album/3e2Q0TkwIIfmWUAssLAJ8U"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 257760,
-      "name": "Returning To Myself",
-      "url": "https://open.spotify.com/track/7kw7I7P3MmYKfD4a4bf41l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Brandy Clark",
         "url": "https://open.spotify.com/album/6O2KuP5ggSI341L4yufEhg"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 276146,
       "name": "Dear Insecurity (feat. Brandi Carlile)",
       "url": "https://open.spotify.com/track/73pCLjhGOv4J7IpAPj4D84"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Returning To Myself",
+        "url": "https://open.spotify.com/album/3e2Q0TkwIIfmWUAssLAJ8U"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 257760,
+      "name": "Returning To Myself",
+      "url": "https://open.spotify.com/track/7kw7I7P3MmYKfD4a4bf41l"
     },
     {
       "added_at": null,

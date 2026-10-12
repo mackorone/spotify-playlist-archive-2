@@ -1,12 +1,12 @@
 {
   "description": "forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify",
-  "num_followers": 357,
+  "num_followers": 358,
   "original_name": "forever young Playlist Spotify",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAALvgJwZR10f3FXJ6rX3oR6cpqLv9wO",
+  "snapshot_id": "AAALwGLp9aILj1BTVZ4HNVTzV39vcbMD",
   "tracks": [
     {
       "added_at": "2022-08-16 09:32:19",
@@ -46527,6 +46527,38 @@
       "duration_ms": 283160,
       "name": "The Frame",
       "url": "https://open.spotify.com/track/2n8swjsvLVGr9g4kGq285Q"
+    },
+    {
+      "added_at": "2026-10-11 20:25:23",
+      "album": {
+        "name": "i wish i could forget",
+        "url": "https://open.spotify.com/album/6ILNFS3HG0VqlvyKjeserQ"
+      },
+      "artists": [
+        {
+          "name": "Cold Water",
+          "url": "https://open.spotify.com/artist/5kazB8wdgdWlnTuByuKYVw"
+        }
+      ],
+      "duration_ms": 86000,
+      "name": "i wish i could forget",
+      "url": "https://open.spotify.com/track/0bDCWL9NJFMOWbiyaxim95"
+    },
+    {
+      "added_at": "2026-10-11 20:25:52",
+      "album": {
+        "name": "Slow Morning",
+        "url": "https://open.spotify.com/album/3V64xs8qTljjhW5BRkiNum"
+      },
+      "artists": [
+        {
+          "name": "Bon Echo",
+          "url": "https://open.spotify.com/artist/0cptB7nxVh6aCVkUZcrSLy"
+        }
+      ],
+      "duration_ms": 90588,
+      "name": "Slow Morning",
+      "url": "https://open.spotify.com/track/0Ri3JL1PRvBwfIu7HTjk00"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

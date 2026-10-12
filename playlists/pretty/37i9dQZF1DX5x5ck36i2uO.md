@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 
 > 부드럽고 고급스러운 재즈향이 가미된 힙합음악을 즐겨보세요\. \(Enjoy hip\-hop music with a soft, luxurious jazz flavor.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,098 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,105 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 | 30 | [WITHOUT ME](https://open.spotify.com/track/0w9YTapeo8WSqMnUFRM6fO) | [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz) | [HESITATING](https://open.spotify.com/album/5pk3OUqtuSdIJw6fANGCMz) | 2:53 |
 | 31 | [Used To Be](https://open.spotify.com/track/2lbL9ybEcabfosjaM7tYOr) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Used To Be](https://open.spotify.com/album/0fTJlZVOWY9h7hvK7KGH42) | 2:57 |
 | 32 | [When it rains \(Feat\. sogumm\) \(Prod\. BOYCOLD\)](https://open.spotify.com/track/5dhIalMumQFewgozEupkPi) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS) | [Black & White Film](https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa) | 4:32 |
-| 33 | [Roommate](https://open.spotify.com/track/70EzzdKkfORRFG1P5A2A0D) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [RANDOM BOX](https://open.spotify.com/album/51ea2XXI3WLPs5Vs0ou5a8) | 3:50 |
-| 34 | [Chingchingching \(Feat\. DeVita\)](https://open.spotify.com/track/6jKbZh8WfA2dgkdZ6lPaI8) | [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [PAID IN SEOUL](https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F) | 3:02 |
+| 33 | [Chingchingching \(Feat\. DeVita\)](https://open.spotify.com/track/6jKbZh8WfA2dgkdZ6lPaI8) | [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [PAID IN SEOUL](https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F) | 3:02 |
+| 34 | [Roommate](https://open.spotify.com/track/70EzzdKkfORRFG1P5A2A0D) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [RANDOM BOX](https://open.spotify.com/album/51ea2XXI3WLPs5Vs0ou5a8) | 3:50 |
 | 35 | [Party Forever](https://open.spotify.com/track/0kGnxJUOZgCemWBfpgVe6H) | [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN) | [Party Forever](https://open.spotify.com/album/3kC4LhI9UMzNAkch7aBQ9h) | 3:22 |
 | 36 | [bother 2021](https://open.spotify.com/track/3rF1DVw8yyoNiwhx6qyM5g) | [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [RYUHAIF](https://open.spotify.com/artist/5r1cOycfowIRNcVOfRn0AR), [gamma](https://open.spotify.com/artist/0wwLWUeZfiDyXncBoBYkQ3) | [Net,Trap,Launcher,Capture](https://open.spotify.com/album/6bjhvZBQx8gsVTIHolZGjn) | 3:50 |
 | 37 | [Noble Game \(Feat\. ILLINIT\) \(Prod\. ILLUID HALLER\)](https://open.spotify.com/track/3pLgl8HxGWbypR0yG6KlPS) | [저스디스 \(JUSTHIS\)](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3), [Illinit](https://open.spotify.com/artist/5N9rfcaITVgayz1OzCqu4h) | [Do Not Go Gentle Into That Good Night II](https://open.spotify.com/album/4ZuL1a9a4MYpSl0meoOevD) | 3:27 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 | 46 | [Room Service](https://open.spotify.com/track/2T3ghpZrxmbrn9ukDmrc9W) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [ROOM SERVICE](https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0) | 2:35 |
 | 47 | [Tourist](https://open.spotify.com/track/1dGEfJrH7z8upU8llXR8wn) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [Tourist](https://open.spotify.com/album/4GIweIC6Bx83JbXJmsbULR) | 3:09 |
 | 48 | [Flowers \(feat.Justhis\)](https://open.spotify.com/track/1S1nLBl7wUQUfIF9tfSEMR) | [Mad Clown](https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd), [저스디스 \(JUSTHIS\)](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [Piece of mine](https://open.spotify.com/album/3UJRHoUkXc5Gt1Ej6qMwJ4) | 3:55 |
-| 49 | [City Life](https://open.spotify.com/track/0js8Q0TXxvg288AO0MPM0U) | [ara](https://open.spotify.com/artist/08v6oPQmhA9hQisGpjRQ9A), [저스디스 \(JUSTHIS\)](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [House of Girls, Episode 4](https://open.spotify.com/album/3GATj9YiABtlzaoCk7sjdu) | 3:37 |
-| 50 | [Fake Flower \(feat\. Nucksal\)](https://open.spotify.com/track/4neR5Hz4WBcC2WN3anYvZx) | [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616), [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB) | [THE SOLOEST](https://open.spotify.com/album/7ytuR23cmbdxlFFBtmRd5T) | 2:59 |
+| 49 | [Fake Flower \(feat\. Nucksal\)](https://open.spotify.com/track/4neR5Hz4WBcC2WN3anYvZx) | [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616), [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB) | [THE SOLOEST](https://open.spotify.com/album/7ytuR23cmbdxlFFBtmRd5T) | 2:59 |
+| 50 | [City Life](https://open.spotify.com/track/0js8Q0TXxvg288AO0MPM0U) | [ara](https://open.spotify.com/artist/08v6oPQmhA9hQisGpjRQ9A), [저스디스 \(JUSTHIS\)](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [House of Girls, Episode 4](https://open.spotify.com/album/3GATj9YiABtlzaoCk7sjdu) | 3:37 |
 
 Snapshot ID: `AAAAAG1XzkPsCEvHquNJqlVT9ThBnqZM`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 
 > Українські та світові артисти в добірці найцікавіших поп треків\. Обкладинка: The Curly
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,462 likes - 70 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,460 likes - 70 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 | 28 | [petal](https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [petal](https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT) | 3:04 |
 | 29 | [My Body Isn't Ready](https://open.spotify.com/track/79RJg6MqIJlBuedcMqB9F0) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [My Body Isn't Ready](https://open.spotify.com/album/27fL8TMJUfW4XRXZqougTh) | 3:37 |
 | 30 | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY) | 2:22 |
-| 31 | [Still](https://open.spotify.com/track/1dj1bE6SpLu8jLotrzWsJF) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 3:40 |
+| 31 | [I Just Might](https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [I Just Might](https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih) | 3:32 |
 | 32 | [drop dead](https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drop dead](https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct) | 3:44 |
-| 33 | [I Just Might](https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [I Just Might](https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih) | 3:32 |
+| 33 | [Still](https://open.spotify.com/track/1dj1bE6SpLu8jLotrzWsJF) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 3:40 |
 | 34 | [brand new chanel$](https://open.spotify.com/track/3FZoov0ORtnr8TznSNI1y2) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [brand new chanel$](https://open.spotify.com/album/75NIUjwFzYkzok7nRwNurg) | 3:58 |
 | 35 | [Tears](https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:40 |
 | 36 | [Less than a Lover](https://open.spotify.com/track/19UnXjpLshSLobPspdyxlD) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Less than a Lover](https://open.spotify.com/album/3YelZbxAGXdkKUP6pMXsrn) | 2:25 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 | 58 | [Break Up in Reverse](https://open.spotify.com/track/6XdycV0dqSLTk6oZmKVTL6) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Break Up in Reverse](https://open.spotify.com/album/1fvk2zesgMji3Izn69EiBg) | 3:25 |
 | 59 | [Shape of a Woman](https://open.spotify.com/track/6aFsbhzye4yfT25ohmhOQY) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Devil Wears Prada 2 \(Music From The Motion Picture\)](https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE) | 3:29 |
 | 60 | [End of the World](https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [End of the World](https://open.spotify.com/album/3ApGUtCbEwErvJ8AOs3kOW) | 4:10 |
-| 61 | [First Light](https://open.spotify.com/track/2vd3HbaEqhEJpvVNHEago8) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [First Light](https://open.spotify.com/album/2uPAqoHMW8fvvP5cFYejc4) | 3:24 |
-| 62 | [Berghain](https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Berghain](https://open.spotify.com/album/0avVU24xBfXW7ItE0xtzN2) | 2:58 |
+| 61 | [Berghain](https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Berghain](https://open.spotify.com/album/0avVU24xBfXW7ItE0xtzN2) | 2:58 |
+| 62 | [First Light](https://open.spotify.com/track/2vd3HbaEqhEJpvVNHEago8) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [First Light](https://open.spotify.com/album/2uPAqoHMW8fvvP5cFYejc4) | 3:24 |
 | 63 | [Gorgeous](https://open.spotify.com/track/5T0mnzMsyHtmWB7Kou51Ph) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vie](https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf) | 4:26 |
 | 64 | [Vanish Into You](https://open.spotify.com/track/5IoPnNiYAOvHHJpz13wzRL) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 4:04 |
 | 65 | [Wink Wink](https://open.spotify.com/track/6GjXR9FaxCuDNbqBrP9aYO) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wink Wink](https://open.spotify.com/album/1WjjAPm4lSHSjupTleJaCA) | 2:02 |

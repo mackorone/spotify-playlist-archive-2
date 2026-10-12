@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ThddIjWuGT.md) - [plain]
 
 > Timeless Latin pop hits through the decades! Cover: Luis Miguel
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,919,762 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,919,734 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ThddIjWuGT.md) - [plain]
 | 4 | [Suave](https://open.spotify.com/track/4p7XH4NhQ25iGYrrbg93gt) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Aries](https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC) | 4:49 |
 | 5 | [Todo De Ti](https://open.spotify.com/track/3rdAz1fbUfZxYgaCviYhRo) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 3:19 |
 | 6 | [Colgando en tus manos \(con Marta Sánchez\)](https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77), [Marta Sánchez](https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w) | [De mi puño y letra \- Edicion Coleccionista](https://open.spotify.com/album/1cz8fhax6HNiCSE1uuV2Vs) | 3:52 |
-| 7 | [Te Vi](https://open.spotify.com/track/059bcIhyc2SBwm6sw2AZzd) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Te Vi](https://open.spotify.com/album/02XOoh8XrlCc466QkkjGk5) | 3:51 |
-| 8 | [Flaca](https://open.spotify.com/track/1p7m9H4H8s0Y7SgRm7j3ED) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Alta Suciedad](https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6) | 4:37 |
+| 7 | [Flaca](https://open.spotify.com/track/1p7m9H4H8s0Y7SgRm7j3ED) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Alta Suciedad](https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6) | 4:37 |
+| 8 | [Te Vi](https://open.spotify.com/track/059bcIhyc2SBwm6sw2AZzd) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Te Vi](https://open.spotify.com/album/02XOoh8XrlCc466QkkjGk5) | 3:51 |
 | 9 | [La Incondicional](https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Busca Una Mujer](https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo) | 4:17 |
 | 10 | [Abrázame Muy Fuerte](https://open.spotify.com/track/2nejvFyJeTDtMRP2nUMt0J) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Abrázame Muy Fuerte](https://open.spotify.com/album/2ERJFuFlmwOV0bxl8VOtdU) | 3:59 |
 | 11 | [Dueles](https://open.spotify.com/track/1iRvhKiXRElIH2Uf4gd95P) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Un Besito Más](https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3) | 4:07 |
@@ -71,11 +71,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ThddIjWuGT.md) - [plain]
 | 61 | [Un Año](https://open.spotify.com/track/2vrpcQNg6itmgVZWsNjWe0) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [FANTASÍA](https://open.spotify.com/album/5Zyj0zwOksGYLbLAZOaC31) | 2:43 |
 | 62 | [Agua](https://open.spotify.com/track/5omgFpiMt1CGHjQGfkwzvz) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Depende](https://open.spotify.com/album/5aLIm5xrN5UxUZOXbjyrrx) | 4:14 |
 | 63 | [Para Siempre](https://open.spotify.com/track/3w6HBymB6v99gmhz4aiX1g) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Soy Yo](https://open.spotify.com/album/4HqL9DDTbrqBUFb6Pswcki) | 3:21 |
-| 64 | [Pasos de cero](https://open.spotify.com/track/18mmN3VrFWRi6SsSBJf6WJ) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Terral](https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS) | 3:54 |
-| 65 | [Mirala Miralo](https://open.spotify.com/track/6GCNUmk7L7OWtpvSk0fWOg) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Libre](https://open.spotify.com/album/5Zb5uLdHzmnIbOBy4zvVwW) | 4:00 |
+| 64 | [Mirala Miralo](https://open.spotify.com/track/6GCNUmk7L7OWtpvSk0fWOg) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Libre](https://open.spotify.com/album/5Zb5uLdHzmnIbOBy4zvVwW) | 4:00 |
+| 65 | [Pasos de cero](https://open.spotify.com/track/18mmN3VrFWRi6SsSBJf6WJ) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Terral](https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS) | 3:54 |
 | 66 | [Tutu](https://open.spotify.com/track/1Ol5LmdNDNpFu1oNwfgkux) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Por Primera Vez](https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I) | 2:59 |
-| 67 | [Yo Te Amo](https://open.spotify.com/track/2sKo5u6IppUEudIz265wYa) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Simplemente](https://open.spotify.com/album/5ktMfzQRYlQawZcnmIB1VW) | 4:48 |
-| 68 | [Llegaste tú](https://open.spotify.com/track/77jdTLPg3EXHJ8cbU7SBni) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Esta Es Mi Vida](https://open.spotify.com/album/1DqezzIzunjysnTKPtxB98) | 4:06 |
+| 67 | [Llegaste tú](https://open.spotify.com/track/77jdTLPg3EXHJ8cbU7SBni) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Esta Es Mi Vida](https://open.spotify.com/album/1DqezzIzunjysnTKPtxB98) | 4:06 |
+| 68 | [Yo Te Amo](https://open.spotify.com/track/2sKo5u6IppUEudIz265wYa) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Simplemente](https://open.spotify.com/album/5ktMfzQRYlQawZcnmIB1VW) | 4:48 |
 | 69 | [Donde Estas Corazon](https://open.spotify.com/track/6IGvaQ4aFBjy66TdUurIiA) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Pies Descalzos](https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9) | 3:51 |
 | 70 | [Azul](https://open.spotify.com/track/6pHCJmx9FXnMwEqB0LWUEH) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Grandes Hits](https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL) | 4:19 |
 | 71 | [Ocean](https://open.spotify.com/track/6qoIFQfdmaQF9A1gb67tR7) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [OCEAN](https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK) | 2:35 |

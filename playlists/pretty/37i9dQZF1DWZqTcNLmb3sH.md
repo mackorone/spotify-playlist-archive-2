@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Brindavihari
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,292 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,334 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 95 | [Naa Ninna Haageye \(From "PYAAR"\)](https://open.spotify.com/track/4qX9E6NTodF7TQeqnolbtS) | [Palani D Senapathy](https://open.spotify.com/artist/1sVRtYm6jaV5W4FXPVZnP3), [Supreeth S](https://open.spotify.com/artist/3O0MP8JFkb9xBltpDsbpiv), [Kunal Ganjawala](https://open.spotify.com/artist/3t4P7aXVor3NxlJPZxLzOQ), [Palak Muchhal](https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr) | [Naa Ninna Haageye \(From "PYAAR"\)](https://open.spotify.com/album/1HUNXrWf4kDMuNBtzmVraB) | 4:40 |
 | 96 | [Hey Navile \(From "Love Towards Family"\)](https://open.spotify.com/track/7DzTL2Q4E4G5HTYFUEc63J) | [Anand Rajavikram](https://open.spotify.com/artist/3dRKC2Ej6Dn7afgPJoZ1xZ), [Nagarjun Sharma](https://open.spotify.com/artist/0uXY8mYhnn5FqdsmxYbKbk), [Nitesh Singh Rajput](https://open.spotify.com/artist/0RPchprplCto5S8O7hrpyb), [Surabhi Bharadwaj](https://open.spotify.com/artist/2QlJhNbj61Ci927HCUQTlr) | [Hey Navile \(From "Love Towards Family"\)](https://open.spotify.com/album/0H6CuedheYo7cjhzXn7bjD) | 3:37 |
 | 97 | [Nan Amma \(From "KHELA"\)](https://open.spotify.com/track/3iMSrinyp1aSAEgP3lzOki) | [Thyagaraja M.S](https://open.spotify.com/artist/6h0s6nu545c3GUh5GquDaY), [Manoj Sowgandh](https://open.spotify.com/artist/4xG9GIV71NfFZq7wpRSlV5), [Aniruddha Sastry](https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa) | [Nan Amma \(From "KHELA"\)](https://open.spotify.com/album/7b0BiMIO6AEECgZsopnvzn) | 3:25 |
-| 98 | [Doora](https://open.spotify.com/track/0j6QbbtyE4zJyIpR7Vz9f5) | [Sagar Simha](https://open.spotify.com/artist/5lAKHGEXwmNfVvO6nIn9zG) | [Doora](https://open.spotify.com/album/5TPp4krPiOtsgp5F0WGoDy) | 4:31 |
+| 98 | [Doora](https://open.spotify.com/track/0j6QbbtyE4zJyIpR7Vz9f5) | [Sagar Simha](https://open.spotify.com/artist/5lAKHGEXwmNfVvO6nIn9zG) | [Doora](https://open.spotify.com/album/5TPp4krPiOtsgp5F0WGoDy) | 4:29 |
 | 99 | [Amma Na Haadu \(From "Lakshmi Puthra"\)](https://open.spotify.com/track/6ARQEMYAyDyh3zG4unC0Ak) | [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ), [A.P\. Arjun](https://open.spotify.com/artist/1WmSed4rURzSyxwiETfssP), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Amma Na Haadu \(From "Lakshmi Puthra"\)](https://open.spotify.com/album/7yV9bZLlNGLZcKqQtsdLju) | 4:22 |
 | 100 | [Kottana Jaratari Seere \(From "Hulibeera"\)](https://open.spotify.com/track/5VMHayQfxKBgDOIRXpDvn7) | [Sangeetha Katti](https://open.spotify.com/artist/20K7c4KKuOy98zaujRNNTg), [Veer Samarth](https://open.spotify.com/artist/4y7yOpyqmE7aXMngtperyb), [Madarangi Mallikarjun](https://open.spotify.com/artist/2ktFFkZNsfkZhUyombzw0Y) | [Kottana Jaratari Seere \(From "Hulibeera"\)](https://open.spotify.com/album/2PMEg7xjxCqjBneGAiSQ1k) | 2:31 |
 

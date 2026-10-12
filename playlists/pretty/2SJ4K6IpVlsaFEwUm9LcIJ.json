@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: sept-oct 2026 (previous playlists archived on my profile)",
-  "num_followers": 24668,
+  "num_followers": 24672,
   "original_name": "sometimes i",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAAO0VPtSFLDKIciO+NBqEcacc8+On4b",
+  "snapshot_id": "AAAO15ZjtJ1iJCWtH5D5U5b2ko2bHGWe",
   "tracks": [
     {
       "added_at": "2026-10-04 20:21:14",
@@ -479,6 +479,106 @@
       "duration_ms": 189986,
       "name": "All the Way",
       "url": "https://open.spotify.com/track/5GWthZwP4OaR7nR80CxNlG"
+    },
+    {
+      "added_at": "2026-10-11 20:59:10",
+      "album": {
+        "name": "I Don't Speak The Language",
+        "url": "https://open.spotify.com/album/2coqGqbnSCAy740mClWesA"
+      },
+      "artists": [
+        {
+          "name": "Matthew Wilder",
+          "url": "https://open.spotify.com/artist/3bmFPbLMiLxtR9tFrTcKcP"
+        }
+      ],
+      "duration_ms": 184480,
+      "name": "Break My Stride",
+      "url": "https://open.spotify.com/track/1mCsF9Tw4AkIZOjvZbZZdT"
+    },
+    {
+      "added_at": "2026-10-11 21:42:33",
+      "album": {
+        "name": "16.88 b/w Here We Go Again",
+        "url": "https://open.spotify.com/album/3qiCa5hdGSu6wGz4WGeRsV"
+      },
+      "artists": [
+        {
+          "name": "Hayden Thompson",
+          "url": "https://open.spotify.com/artist/2n4u9CWqXeYdpW9Zct4hmk"
+        }
+      ],
+      "duration_ms": 208841,
+      "name": "16.88",
+      "url": "https://open.spotify.com/track/3rSLRaQjW6Y0E21J9oeMF2"
+    },
+    {
+      "added_at": "2026-10-11 22:49:08",
+      "album": {
+        "name": "One Year With Mommy b/w Somewhere Down The Line",
+        "url": "https://open.spotify.com/album/3v7c1mLsZfawBTJA2gYXsr"
+      },
+      "artists": [
+        {
+          "name": "Shelley Duncan",
+          "url": "https://open.spotify.com/artist/083nLciZIMOc8P2JFJ4Iuo"
+        }
+      ],
+      "duration_ms": 168614,
+      "name": "Somewhere Down The Line",
+      "url": "https://open.spotify.com/track/6jJlVIGLV7VsnGxD0ja147"
+    },
+    {
+      "added_at": "2026-10-11 23:13:07",
+      "album": {
+        "name": "They Move In The Night",
+        "url": "https://open.spotify.com/album/2pcPhnsmVZpz9dZe7DWUay"
+      },
+      "artists": [
+        {
+          "name": "Ron Heiss",
+          "url": "https://open.spotify.com/artist/4nWxJwM7dCJ6GrYUzJ7ymy"
+        },
+        {
+          "name": "The Low Notes",
+          "url": "https://open.spotify.com/artist/6vrbdMSmy8U4zEOAmmrYQ4"
+        }
+      ],
+      "duration_ms": 150646,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/5ZBhkGimg2yiDysnib69uC"
+    },
+    {
+      "added_at": "2026-10-11 23:13:26",
+      "album": {
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/44l3L5pHknhpAnOgYaXYvu"
+      },
+      "artists": [
+        {
+          "name": "X-Cetra",
+          "url": "https://open.spotify.com/artist/0Z7bG1GbifD6EC0QrsmARs"
+        }
+      ],
+      "duration_ms": 111744,
+      "name": "Wasn't There",
+      "url": "https://open.spotify.com/track/7rZPtM731eSs9XZbxPS04b"
+    },
+    {
+      "added_at": "2026-10-11 23:55:34",
+      "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/0ImmzKzNfwfAUrvq7WS0xA"
+      },
+      "artists": [
+        {
+          "name": "The Clean",
+          "url": "https://open.spotify.com/artist/6LRmgzRManplPQghd2BMqz"
+        }
+      ],
+      "duration_ms": 169986,
+      "name": "Psychedelic Ranger",
+      "url": "https://open.spotify.com/track/1WEWZtP8EHxoIQV55Wr8YV"
     }
   ],
   "unique_name": "sometimes i",

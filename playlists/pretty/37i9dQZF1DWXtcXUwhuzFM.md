@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat Minttu, Käärijä & Joost, M//O..\. ja moni muu  🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,868 likes - 99 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,867 likes - 99 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

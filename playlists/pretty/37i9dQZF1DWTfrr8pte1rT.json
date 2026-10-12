@@ -1,6 +1,6 @@
 {
   "description": "Rock with a drop. Cover: HVDES \\m/",
-  "num_followers": 358739,
+  "num_followers": 358781,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
-        "name": "Poison Apple Baby",
-        "url": "https://open.spotify.com/album/6Egtw4WQkI5khzldGxrnCx"
-      },
-      "artists": [
-        {
-          "name": "Honey Revenge",
-          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
-        }
-      ],
-      "duration_ms": 197977,
-      "name": "Poison Apple Baby",
-      "url": "https://open.spotify.com/track/3kTSXwNlNZNbEG5VmzH0wB"
-    },
-    {
-      "added_at": "2026-09-18 15:22:42",
-      "album": {
         "name": "Skull n Bones",
         "url": "https://open.spotify.com/album/43bgv6mlkpZuxZMh2A8HtK"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 145116,
       "name": "Skull n Bones",
       "url": "https://open.spotify.com/track/1VpPYxtocucsD9iTyABevK"
+    },
+    {
+      "added_at": "2026-09-18 15:22:42",
+      "album": {
+        "name": "Poison Apple Baby",
+        "url": "https://open.spotify.com/album/6Egtw4WQkI5khzldGxrnCx"
+      },
+      "artists": [
+        {
+          "name": "Honey Revenge",
+          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
+        }
+      ],
+      "duration_ms": 197977,
+      "name": "Poison Apple Baby",
+      "url": "https://open.spotify.com/track/3kTSXwNlNZNbEG5VmzH0wB"
     },
     {
       "added_at": "2026-09-18 15:22:42",
@@ -2143,26 +2143,6 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
-        "name": "F\u00d8\u00d8L (Code:Pandorum Remix)",
-        "url": "https://open.spotify.com/album/11NzYtuHaQeT96QfkQnNqa"
-      },
-      "artists": [
-        {
-          "name": "GH\u00d8STKID",
-          "url": "https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK"
-        },
-        {
-          "name": "Code: Pandorum",
-          "url": "https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe"
-        }
-      ],
-      "duration_ms": 188730,
-      "name": "F\u00d8\u00d8L - Code:Pandorum Remix",
-      "url": "https://open.spotify.com/track/6JvUj6Hr346bGjXEEgkOH6"
-    },
-    {
-      "added_at": "2026-09-18 15:22:42",
-      "album": {
         "name": "Going Down",
         "url": "https://open.spotify.com/album/5NeIIC2AIQOFJNawPbLCAb"
       },
@@ -2183,18 +2163,22 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
-        "name": "Next To You",
-        "url": "https://open.spotify.com/album/1X6fKhyeWmD9sNnAcLb6Tj"
+        "name": "F\u00d8\u00d8L (Code:Pandorum Remix)",
+        "url": "https://open.spotify.com/album/11NzYtuHaQeT96QfkQnNqa"
       },
       "artists": [
         {
-          "name": "Subshock & Evangelos",
-          "url": "https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH"
+          "name": "GH\u00d8STKID",
+          "url": "https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK"
+        },
+        {
+          "name": "Code: Pandorum",
+          "url": "https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe"
         }
       ],
-      "duration_ms": 171034,
-      "name": "Next To You",
-      "url": "https://open.spotify.com/track/77Zo65ur5OzpBIkCaX4wsa"
+      "duration_ms": 188730,
+      "name": "F\u00d8\u00d8L - Code:Pandorum Remix",
+      "url": "https://open.spotify.com/track/6JvUj6Hr346bGjXEEgkOH6"
     },
     {
       "added_at": "2026-09-18 15:22:42",
@@ -2211,6 +2195,22 @@
       "duration_ms": 219789,
       "name": "come around",
       "url": "https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ"
+    },
+    {
+      "added_at": "2026-09-18 15:22:42",
+      "album": {
+        "name": "Next To You",
+        "url": "https://open.spotify.com/album/1X6fKhyeWmD9sNnAcLb6Tj"
+      },
+      "artists": [
+        {
+          "name": "Subshock & Evangelos",
+          "url": "https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH"
+        }
+      ],
+      "duration_ms": 171034,
+      "name": "Next To You",
+      "url": "https://open.spotify.com/track/77Zo65ur5OzpBIkCaX4wsa"
     },
     {
       "added_at": "2026-09-18 15:22:42",
@@ -2255,8 +2255,8 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
-        "name": "Liar (with OST)",
-        "url": "https://open.spotify.com/album/1dVm3KtEc7sr2ymzpXBxDn"
+        "name": "Kore",
+        "url": "https://open.spotify.com/album/2bMyuXi95xRhO7zh1LQp0h"
       },
       "artists": [
         {
@@ -2264,13 +2264,13 @@
           "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
         },
         {
-          "name": "OST",
-          "url": "https://open.spotify.com/artist/0SPumghRyXz86GmepkeDmB"
+          "name": "Nimda",
+          "url": "https://open.spotify.com/artist/3Au3D8Hsiy5B8z4C2uH02h"
         }
       ],
-      "duration_ms": 296250,
-      "name": "Liar (with OST)",
-      "url": "https://open.spotify.com/track/3dApO0DoZinSPrKKPhoKuz"
+      "duration_ms": 156863,
+      "name": "Kore",
+      "url": "https://open.spotify.com/track/7hkl3e3ltu3sE3UYNxKrlc"
     },
     {
       "added_at": "2026-09-18 15:22:42",
@@ -2355,8 +2355,8 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
-        "name": "Kore",
-        "url": "https://open.spotify.com/album/2bMyuXi95xRhO7zh1LQp0h"
+        "name": "Liar (with OST)",
+        "url": "https://open.spotify.com/album/1dVm3KtEc7sr2ymzpXBxDn"
       },
       "artists": [
         {
@@ -2364,13 +2364,13 @@
           "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
         },
         {
-          "name": "Nimda",
-          "url": "https://open.spotify.com/artist/3Au3D8Hsiy5B8z4C2uH02h"
+          "name": "OST",
+          "url": "https://open.spotify.com/artist/0SPumghRyXz86GmepkeDmB"
         }
       ],
-      "duration_ms": 156863,
-      "name": "Kore",
-      "url": "https://open.spotify.com/track/7hkl3e3ltu3sE3UYNxKrlc"
+      "duration_ms": 296250,
+      "name": "Liar (with OST)",
+      "url": "https://open.spotify.com/track/3dApO0DoZinSPrKKPhoKuz"
     },
     {
       "added_at": "2026-09-18 15:22:42",
@@ -2459,26 +2459,6 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
-        "name": "Ritual",
-        "url": "https://open.spotify.com/album/1lT3ohVQ41Rvq17iDLFOZq"
-      },
-      "artists": [
-        {
-          "name": "AWAY",
-          "url": "https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij"
-        },
-        {
-          "name": "Echos",
-          "url": "https://open.spotify.com/artist/6SnMMbLQ4iS8WIyt3ksmCR"
-        }
-      ],
-      "duration_ms": 246193,
-      "name": "Ritual",
-      "url": "https://open.spotify.com/track/25ED1oQWMy32cQh9Dv9BjC"
-    },
-    {
-      "added_at": "2026-09-18 15:22:42",
-      "album": {
         "name": "Werewolf: Synthwave Edition",
         "url": "https://open.spotify.com/album/36KmpPLQT5kQ1BAOTtN6bF"
       },
@@ -2495,6 +2475,26 @@
       "duration_ms": 211387,
       "name": "Werewolf: Synthwave Edition",
       "url": "https://open.spotify.com/track/0D4v7cIYb2bIYKNG7BQtbW"
+    },
+    {
+      "added_at": "2026-09-18 15:22:42",
+      "album": {
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/1lT3ohVQ41Rvq17iDLFOZq"
+      },
+      "artists": [
+        {
+          "name": "AWAY",
+          "url": "https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij"
+        },
+        {
+          "name": "Echos",
+          "url": "https://open.spotify.com/artist/6SnMMbLQ4iS8WIyt3ksmCR"
+        }
+      ],
+      "duration_ms": 246193,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/25ED1oQWMy32cQh9Dv9BjC"
     },
     {
       "added_at": "2026-09-18 15:22:42",

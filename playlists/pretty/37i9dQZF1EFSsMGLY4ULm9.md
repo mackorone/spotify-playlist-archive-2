@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSsMGLY4ULm9.md) - [plain]
 | 34 | [Mardoqueu](https://open.spotify.com/track/0QQi8ujDAupdJ3SdkImBSw) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Seu Nome É Já](https://open.spotify.com/album/3LjAdB9njhpYvMGA9Je4Lt) | 5:23 |
 | 35 | [Esta É a Tua Hora](https://open.spotify.com/track/57f1G2wahTXKaR4JBoxzzq) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Chuva Serôdia](https://open.spotify.com/album/1xdUin6acHTZ8YvjX4Blxs) | 4:21 |
 | 36 | [Você Vai Prosperar](https://open.spotify.com/track/6ptLZsPrQWVDxPGEgn0LgE) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Resolvi Te Abençoar](https://open.spotify.com/album/4NYaqpow0G4q8KrI6IZYGd) | 4:44 |
-| 37 | [Se Liga no Culto](https://open.spotify.com/track/6PbIeUZD8L4smesmepW9ZU) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Chuva Serôdia](https://open.spotify.com/album/1xdUin6acHTZ8YvjX4Blxs) | 4:23 |
-| 38 | [Deixa Jesus Entrar](https://open.spotify.com/track/2OvHz9lXTrOweJFDHHLW2d) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Seu Nome É Já](https://open.spotify.com/album/3LjAdB9njhpYvMGA9Je4Lt) | 4:35 |
+| 37 | [Deixa Jesus Entrar](https://open.spotify.com/track/2OvHz9lXTrOweJFDHHLW2d) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Seu Nome É Já](https://open.spotify.com/album/3LjAdB9njhpYvMGA9Je4Lt) | 4:35 |
+| 38 | [Se Liga no Culto](https://open.spotify.com/track/6PbIeUZD8L4smesmepW9ZU) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Chuva Serôdia](https://open.spotify.com/album/1xdUin6acHTZ8YvjX4Blxs) | 4:23 |
 | 39 | [Acredite Sua Vitória Vai Chegar](https://open.spotify.com/track/4yfwD2gkpL3aJQaWddurLa) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [A Glória da Meia\-Noite](https://open.spotify.com/album/2y7YS8hT5nhTepN8sPOAkL) | 5:51 |
 | 40 | [A Hora da Virada](https://open.spotify.com/track/3Tyl2jn7SxrDejuq0Pg1mw) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [A Glória da Meia\-Noite](https://open.spotify.com/album/2y7YS8hT5nhTepN8sPOAkL) | 5:38 |
 | 41 | [Vai Moisés](https://open.spotify.com/track/5WY0NTRy5qyRwXuXGP6Xbb) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Chuva Serôdia](https://open.spotify.com/album/1xdUin6acHTZ8YvjX4Blxs) | 5:40 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSsMGLY4ULm9.md) - [plain]
 | 62 | [Somente Cale\-Se](https://open.spotify.com/track/4wjF2G5MmaLN9rCqqwbjWy) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Resolvi Te Abençoar](https://open.spotify.com/album/4NYaqpow0G4q8KrI6IZYGd) | 4:20 |
 | 63 | [João Viu](https://open.spotify.com/track/56xECx4qsFLwq7LFcC3hgK) | [Raquel Coutinho](https://open.spotify.com/artist/3SFmogeXtsLZ6p6HOWBRNG) | [De Bem Com Deus](https://open.spotify.com/album/0jU9n891TACEZppbJpzImE) | 5:28 |
 
-Snapshot ID: `AcempAAAAADPLellBpV8rRnkYep4q2LC`
+Snapshot ID: `AcesRAAAAABMgoyza87NNbQu2tYb7PML`

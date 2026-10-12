@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLaoaQqrfyO.md) - [plain]
 
 > Seminal indie pop tracks from the 2010s\. Cover: Blood Orange.
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,371 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,388 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLaoaQqrfyO.md) - [plain]
 | 44 | [still feel.](https://open.spotify.com/track/48XkVAagIoQHCsOlJtXUd5) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Now, Not Yet](https://open.spotify.com/album/2KSWrd22LGc0Hmqs2Z5i7z) | 4:07 |
 | 45 | [Genghis Khan](https://open.spotify.com/track/6MDijuuArPJv1vbp7K1x3f) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [iii](https://open.spotify.com/album/3pWJFrSX6apPzt4inM4zXt) | 3:32 |
 | 46 | [The Sound](https://open.spotify.com/track/316r1KLN0bcmpr7TZcMCXT) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4) | 4:08 |
-| 47 | [Narcissist \(feat\. The 1975\)](https://open.spotify.com/track/4qjLvvBh5ZeKEPyShKRf06) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd), [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [RIP Indo Hisashi](https://open.spotify.com/album/5l156gMmHiFQKaAqCWRkI4) | 3:15 |
-| 48 | [Cariño](https://open.spotify.com/track/55DyBUkjebkcYhDGfEXitR) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Cariño](https://open.spotify.com/album/2VFNH1CUpSOnRKBBjjEDe6) | 4:18 |
+| 47 | [Cariño](https://open.spotify.com/track/55DyBUkjebkcYhDGfEXitR) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Cariño](https://open.spotify.com/album/2VFNH1CUpSOnRKBBjjEDe6) | 4:18 |
+| 48 | [Narcissist \(feat\. The 1975\)](https://open.spotify.com/track/4qjLvvBh5ZeKEPyShKRf06) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd), [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [RIP Indo Hisashi](https://open.spotify.com/album/5l156gMmHiFQKaAqCWRkI4) | 3:15 |
 | 49 | [Ritual Union](https://open.spotify.com/track/5uTjNzGKCQ50synrf9dWmT) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Ritual Union](https://open.spotify.com/album/1BQVdofe7ROnSoaiC9418p) | 3:30 |
 | 50 | [Sutphin Boulevard](https://open.spotify.com/track/2NtqI3Ylig7bB36esIwYuE) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Coastal Grooves](https://open.spotify.com/album/5U2cyX2FRa8CjzdMpqZNJl) | 3:34 |
 | 51 | [Feel It All Around](https://open.spotify.com/track/4V0x90QcMh4ZxwHzEWOdtK) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Life of Leisure](https://open.spotify.com/album/1jMTPWTHJhsZev04IbmyCC) | 3:12 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLaoaQqrfyO.md) - [plain]
 | 79 | [Two High](https://open.spotify.com/track/5huOzlgCK7PsMSG4TFBvKY) | [Moon Taxi](https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA) | [Let The Record Play](https://open.spotify.com/album/5XE34NOdsk2pkDEDd2Niuj) | 3:33 |
 | 80 | [Ready to Start](https://open.spotify.com/track/01wsKcJ8ptqUmatpJlEGYj) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [The Suburbs](https://open.spotify.com/album/3DrgM5X3yX1JP1liNLAOHI) | 4:15 |
 | 81 | [I Wanna Go](https://open.spotify.com/track/3EA4HwrlLdDJ3b4cX7JfqC) | [Summer Heart](https://open.spotify.com/artist/0JlTFsR41vwvQTppOR3yio) | [About A Feeling](https://open.spotify.com/album/2GkkprMhl4L0TyIyRvfRwX) | 4:07 |
-| 82 | [Keep You](https://open.spotify.com/track/1eREJIBdqeCcqNCB1pbz7w) | [Wild Belle](https://open.spotify.com/artist/4wHZkzWXD9GPr4RQAYjUcv) | [Isles](https://open.spotify.com/album/5xLuG0ycrUWoF0gn9RoGZO) | 3:30 |
-| 83 | [17](https://open.spotify.com/track/5UVBumEwdUnzvqxrXOYLFA) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [The Year of Hibernation](https://open.spotify.com/album/7jG32gfkuo10qarPgmWC7q) | 3:56 |
+| 82 | [17](https://open.spotify.com/track/5UVBumEwdUnzvqxrXOYLFA) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [The Year of Hibernation](https://open.spotify.com/album/7jG32gfkuo10qarPgmWC7q) | 3:56 |
+| 83 | [Keep You](https://open.spotify.com/track/1eREJIBdqeCcqNCB1pbz7w) | [Wild Belle](https://open.spotify.com/artist/4wHZkzWXD9GPr4RQAYjUcv) | [Isles](https://open.spotify.com/album/5xLuG0ycrUWoF0gn9RoGZO) | 3:30 |
 | 84 | [Darling](https://open.spotify.com/track/36PQh1G6h7n9VWB799fXpI) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [In Mind](https://open.spotify.com/album/7IQn4jT1WciC5O9DZrxeKv) | 4:20 |
 | 85 | [Want You Back](https://open.spotify.com/track/2wXhdaTnmkkFSOidKfnOxA) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Something to Tell You](https://open.spotify.com/album/5m9rXTBF7mHFGQlFsiEHrY) | 3:52 |
 | 86 | [Elevate](https://open.spotify.com/track/0pBLfQ5JBjh12H6DGZjMwM) | [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [When The Night \(Deluxe\)](https://open.spotify.com/album/5Pjft9EbneGmlhOQ2mo6bo) | 5:08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8xrpik0esU.md) - [plain]
 
 > Relax with this soothing soundtrack from the nineties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,060,043 likes - 80 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,060,080 likes - 80 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8xrpik0esU.md) - [plain]
 | 8 | [Remember the Time](https://open.spotify.com/track/4jnFqNWeJCeCRHc4HCdxfd) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Dangerous](https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg) | 4:00 |
 | 9 | [All That She Wants](https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [The Sign](https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB) | 3:31 |
 | 10 | [Good Riddance \(Time of Your Life\)](https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 2:33 |
-| 11 | [Ordinary World](https://open.spotify.com/track/0wokCRaKD0zPNhMRXAgVsr) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Duran Duran](https://open.spotify.com/album/0PqCkTvKFJxzr9uujq7a3T) | 5:40 |
+| 11 | [Mr\. Jones](https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC) | [August And Everything After](https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ) | 4:32 |
 | 12 | [Scar Tissue](https://open.spotify.com/track/1G391cbiT3v3Cywg8T7DM1) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Californication \(Deluxe Edition\)](https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi) | 3:35 |
-| 13 | [Mr\. Jones](https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC) | [August And Everything After](https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ) | 4:32 |
+| 13 | [Ordinary World](https://open.spotify.com/track/0wokCRaKD0zPNhMRXAgVsr) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Duran Duran](https://open.spotify.com/album/0PqCkTvKFJxzr9uujq7a3T) | 5:40 |
 | 14 | [The Sign](https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [The Sign](https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB) | 3:11 |
 | 15 | [Fantasy](https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:03 |
 | 16 | [Thank You](https://open.spotify.com/track/3yUcJwYu7fXAfqMj9krY6l) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [No Angel](https://open.spotify.com/album/7ydMeYrv8bFFRkkHepoJM4) | 3:38 |
@@ -28,11 +28,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8xrpik0esU.md) - [plain]
 | 18 | [Kiss from a Rose](https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Seal](https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1) | 4:48 |
 | 19 | [Waterfalls](https://open.spotify.com/track/6qspW4YKycviDFjHBOaqUY) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Crazysexycool](https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f) | 4:39 |
 | 20 | [More Than Words](https://open.spotify.com/track/1gVgkQFOKa8Wc1HYsJtPdH) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [Extreme II \- Pornograffitti](https://open.spotify.com/album/7DKHQxJTI32UyCdDdGwvRC) | 5:34 |
-| 21 | [I Want You Back \- Radio Edit](https://open.spotify.com/track/221LRlPHPuevgE1tuUlof9) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | ['N Sync UK Version](https://open.spotify.com/album/7K5qlneuWF1CcY6ERzwkLB) | 3:20 |
-| 22 | [The Boy Is Mine](https://open.spotify.com/track/6sHsXIJoEN5JpdkGMQDJxt) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [Never Say Never](https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi) | 4:54 |
+| 21 | [The Boy Is Mine](https://open.spotify.com/track/6sHsXIJoEN5JpdkGMQDJxt) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [Never Say Never](https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi) | 4:54 |
+| 22 | [I Want You Back \- Radio Edit](https://open.spotify.com/track/221LRlPHPuevgE1tuUlof9) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | ['N Sync UK Version](https://open.spotify.com/album/7K5qlneuWF1CcY6ERzwkLB) | 3:20 |
 | 23 | [I Have Nothing](https://open.spotify.com/track/31er9IGsfFbwqy1pH4aiTP) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:49 |
-| 24 | [Send Me On My Way](https://open.spotify.com/track/6XK6Zw6JkFsHXzAcMWNiIr) | [Rusted Root](https://open.spotify.com/artist/2M3vnW1p5w4uPRkLYTbvdB) | [When I Woke](https://open.spotify.com/album/2LjYjQN5yVZYiZNDIVIKDf) | 4:23 |
-| 25 | [Enjoy the Silence](https://open.spotify.com/track/6WK9dVrRABMkUXFLNlgWFh) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [The Singles 86\-98](https://open.spotify.com/album/61h3VS8XDROIpvQznjTPTT) | 4:15 |
+| 24 | [Enjoy the Silence](https://open.spotify.com/track/6WK9dVrRABMkUXFLNlgWFh) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [The Singles 86\-98](https://open.spotify.com/album/61h3VS8XDROIpvQznjTPTT) | 4:15 |
+| 25 | [Send Me On My Way](https://open.spotify.com/track/6XK6Zw6JkFsHXzAcMWNiIr) | [Rusted Root](https://open.spotify.com/artist/2M3vnW1p5w4uPRkLYTbvdB) | [When I Woke](https://open.spotify.com/album/2LjYjQN5yVZYiZNDIVIKDf) | 4:23 |
 | 26 | [Angels](https://open.spotify.com/track/1M2nd8jNUkkwrc1dgBPTJz) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Life Thru A Lens](https://open.spotify.com/album/31Sx9uz9KqlvmX07Pvp0wN) | 4:25 |
 | 27 | [Boombastic](https://open.spotify.com/track/4fxF8ljwryMZX5c9EKrLFE) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [Boombastic](https://open.spotify.com/album/40rtksAqnwebfPKWzSL6Iv) | 4:09 |
 | 28 | [Heal the World](https://open.spotify.com/track/7woW97CfcWaKtuC6W5BP2K) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Dangerous](https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg) | 6:24 |

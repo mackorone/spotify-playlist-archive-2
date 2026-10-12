@@ -1,12 +1,12 @@
 {
   "description": "This is Young Scooter. The essential tracks, all in one playlist.",
-  "num_followers": 4620,
+  "num_followers": 4622,
   "original_name": "This Is Young Scooter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asbdAAAAAABb/kyM7e4oNEnlD/TwDMgN",
+  "snapshot_id": "asmAAAAAAADydwZnqtIbypi4Pfm3OJQY",
   "tracks": [
     {
       "added_at": null,
@@ -83,6 +83,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jugg King",
+        "url": "https://open.spotify.com/album/2HdY21WQYtn5KYO2GyDjgk"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "duration_ms": 209580,
+      "name": "Jugg King",
+      "url": "https://open.spotify.com/track/16sEtZx6F2InPzybZIn96X"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Streetz Krazy",
         "url": "https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9"
       },
@@ -99,22 +115,6 @@
       "duration_ms": 215510,
       "name": "Hard To Handle",
       "url": "https://open.spotify.com/track/2pNQZGRG9V4HoeJW05vk8b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jugg King",
-        "url": "https://open.spotify.com/album/2HdY21WQYtn5KYO2GyDjgk"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        }
-      ],
-      "duration_ms": 209580,
-      "name": "Jugg King",
-      "url": "https://open.spotify.com/track/16sEtZx6F2InPzybZIn96X"
     },
     {
       "added_at": null,
@@ -159,26 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Recipe",
-        "url": "https://open.spotify.com/album/2vPJKv6wLnRQongOt3WSTE"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 208287,
-      "name": "No Features - feat. Kodak Black",
-      "url": "https://open.spotify.com/track/0jxJiq2bVLGlqLoqhdGZqz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jugg King",
         "url": "https://open.spotify.com/album/2HdY21WQYtn5KYO2GyDjgk"
       },
@@ -195,6 +175,26 @@
       "duration_ms": 207151,
       "name": "Can't Play Around",
       "url": "https://open.spotify.com/track/6KhweSP2SbA7noN6x2w5T6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Recipe",
+        "url": "https://open.spotify.com/album/2vPJKv6wLnRQongOt3WSTE"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 208287,
+      "name": "No Features - feat. Kodak Black",
+      "url": "https://open.spotify.com/track/0jxJiq2bVLGlqLoqhdGZqz"
     },
     {
       "added_at": null,
@@ -827,18 +827,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "80's Baby",
-        "url": "https://open.spotify.com/album/7lz2fJQ93X8P52pSQTrDXk"
+        "name": "MAD",
+        "url": "https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k"
       },
       "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
         {
           "name": "Young Scooter",
           "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
         }
       ],
-      "duration_ms": 187063,
-      "name": "Drugs",
-      "url": "https://open.spotify.com/track/3e1TEpSue0wB7fM9RG8klm"
+      "duration_ms": 142277,
+      "name": "SLAM DUNK (FEAT. YOUNG SCOOTER)",
+      "url": "https://open.spotify.com/track/5BEIWP5orph1cJBuylbGK8"
     },
     {
       "added_at": null,
@@ -863,28 +867,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "MAD",
-        "url": "https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        },
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        }
-      ],
-      "duration_ms": 142277,
-      "name": "SLAM DUNK (FEAT. YOUNG SCOOTER)",
-      "url": "https://open.spotify.com/track/5BEIWP5orph1cJBuylbGK8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trippple Cross",
-        "url": "https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C"
+        "name": "80's Baby",
+        "url": "https://open.spotify.com/album/7lz2fJQ93X8P52pSQTrDXk"
       },
       "artists": [
         {
@@ -892,9 +876,9 @@
           "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
         }
       ],
-      "duration_ms": 190824,
-      "name": "Drug Deals",
-      "url": "https://open.spotify.com/track/14LUV1NU3UiumYiuGD5949"
+      "duration_ms": 187063,
+      "name": "Drugs",
+      "url": "https://open.spotify.com/track/3e1TEpSue0wB7fM9RG8klm"
     },
     {
       "added_at": null,
@@ -943,6 +927,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Trippple Cross",
+        "url": "https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "duration_ms": 190824,
+      "name": "Drug Deals",
+      "url": "https://open.spotify.com/track/14LUV1NU3UiumYiuGD5949"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Streetz Krazy",
         "url": "https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9"
       },
@@ -959,22 +959,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfect Timing",
-        "url": "https://open.spotify.com/album/47Q0J5RzfzIrTd6KBYmsbK"
+        "name": "Married to the Streets",
+        "url": "https://open.spotify.com/album/61amjvWzRVayd7aG19tfrj"
       },
       "artists": [
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
           "name": "Young Scooter",
           "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 201880,
-      "name": "Trust",
-      "url": "https://open.spotify.com/track/1OwslJYziEr3VrE7CFmVd3"
+      "duration_ms": 265106,
+      "name": "Esse (feat. Future)",
+      "url": "https://open.spotify.com/track/4wnMzgP1vaDoFBCJP72RLJ"
     },
     {
       "added_at": null,
@@ -999,22 +999,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Married to the Streets",
-        "url": "https://open.spotify.com/album/61amjvWzRVayd7aG19tfrj"
+        "name": "Perfect Timing",
+        "url": "https://open.spotify.com/album/47Q0J5RzfzIrTd6KBYmsbK"
       },
       "artists": [
         {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         },
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
         }
       ],
-      "duration_ms": 265106,
-      "name": "Esse (feat. Future)",
-      "url": "https://open.spotify.com/track/4wnMzgP1vaDoFBCJP72RLJ"
+      "duration_ms": 201880,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/1OwslJYziEr3VrE7CFmVd3"
     },
     {
       "added_at": null,

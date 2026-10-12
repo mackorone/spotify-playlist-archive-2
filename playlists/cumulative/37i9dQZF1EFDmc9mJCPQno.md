@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1xzZPyV5jY8bYYNtAUkyOx">Lauren Aquilina</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-165 songs - 8 hr 38 min
+166 songs - 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,8 @@
 | [Send My Love To John](https://open.spotify.com/track/4ObFrK0MLVZyYaFHOyPbVa) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 3:25 | 2024-07-03 |  |
 | [sims](https://open.spotify.com/track/0mPh3y1fgrZiWlhuNmPq5Y) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [sims](https://open.spotify.com/album/3LezwC2bGCJNNCN5l6hs0y) | 2:42 | 2024-07-03 |  |
 | [Slutphase](https://open.spotify.com/track/1R3QjFdho8jtsv38Hd2BIL) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Halfway](https://open.spotify.com/album/79Go9MHdjw3lw66GOQXgOK) | 2:43 | 2024-07-03 |  |
-| [SMALL WORLD](https://open.spotify.com/track/0bhHPERhSMKnog5ZbOgOJT) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [SMALL WORLD](https://open.spotify.com/album/1P0SxBpLCSlXfsyY5u9u6t) | 2:26 | 2026-08-23 |  |
+| [SMALL WORLD](https://open.spotify.com/track/0bhHPERhSMKnog5ZbOgOJT) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [SMALL WORLD](https://open.spotify.com/album/1P0SxBpLCSlXfsyY5u9u6t) | 2:26 | 2026-08-23 | 2026-10-12 |
+| [SMALL WORLD](https://open.spotify.com/track/4SLY4s0g69PJvduMeyhppQ) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [COMING OF AGE](https://open.spotify.com/album/4W3wCFg1EMEg6ALG47mS5f) | 2:26 | 2026-10-11 |  |
 | [Sodom & Gomorrah](https://open.spotify.com/track/3x3kYVMHdqwConilMGjZzi) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Fanfare](https://open.spotify.com/album/6HjuqzWf3UlJoaU7iqDRIv) | 3:09 | 2024-07-03 |  |
 | [Square One](https://open.spotify.com/track/0qc4TkLNFjmIhxffll7hME) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Liars](https://open.spotify.com/album/1JgKjuXBfsamwVZB2KF50i) | 3:41 | 2024-07-03 |  |
 | [Star Potential](https://open.spotify.com/track/6TjqmtO3H55Ey6nNJCG0FE) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [Star Potential](https://open.spotify.com/album/4yHhW0tJ06QGsIBSpFRchc) | 3:02 | 2024-07-03 |  |

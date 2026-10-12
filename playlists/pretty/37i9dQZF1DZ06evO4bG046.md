@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bG046.md) - [plain]
 
 > This is Los Jaivas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,082 likes - 50 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,089 likes - 50 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bG046.md) - [plain]
 | 43 | [Bebida Mágica](https://open.spotify.com/track/2LBpm2M9rwdheZz6mARVfu) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Canción del Sur](https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA) | 2:59 |
 | 44 | [La Centinela \- Versión 1997](https://open.spotify.com/track/0nYOSO5oocI5qHJn8JupIa) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT), [Illapu](https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx) | [Trilogía el Rencuentro](https://open.spotify.com/album/0INTpo6ighKQ7lGmK0FWsH) | 5:04 |
 | 45 | [Arrebol](https://open.spotify.com/track/4GfyC2qJ8hCsbeNdyPnJAT) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Arrebol](https://open.spotify.com/album/6G6mZ0b2SzKv3391GZYdb0) | 6:48 |
-| 46 | [Aguamarina](https://open.spotify.com/track/5cN62o6B0GORay2k1tFsDT) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Si Tú No Estás](https://open.spotify.com/album/5oX1Jjge7MwrMgYuCKjmxv) | 4:02 |
-| 47 | [Mañana Me Voy Pa'l Norte](https://open.spotify.com/track/7uSlhTeYaT1sIful5Y3JXj) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Obras de Violeta Parra](https://open.spotify.com/album/1TBM4bR0WDcR1kBdU4gC4D) | 4:40 |
+| 46 | [Mañana Me Voy Pa'l Norte](https://open.spotify.com/track/7uSlhTeYaT1sIful5Y3JXj) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Obras de Violeta Parra](https://open.spotify.com/album/1TBM4bR0WDcR1kBdU4gC4D) | 4:40 |
+| 47 | [Aguamarina](https://open.spotify.com/track/5cN62o6B0GORay2k1tFsDT) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Si Tú No Estás](https://open.spotify.com/album/5oX1Jjge7MwrMgYuCKjmxv) | 4:02 |
 | 48 | [Ayer Cache \- 2020 Remasterizado](https://open.spotify.com/track/3CGulbIk6Zsc7h8UDjvRep) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [La Ventana \(Remasterizado 2020\)](https://open.spotify.com/album/6TKiJjr8lQOcO6FpRGkg6N) | 4:21 |
 | 49 | [Tan Lejos del Sol](https://open.spotify.com/track/1PmsOon14qW3aO8HhZ9D5B) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Hijos de la Tierra](https://open.spotify.com/album/6F4aiBPbgSgnZIoZUL3sv0) | 6:28 |
-| 50 | [Niña Serrana](https://open.spotify.com/track/5RuS5afTt26XtXfbnAoyv7) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Si Tú No Estás](https://open.spotify.com/album/5oX1Jjge7MwrMgYuCKjmxv) | 4:17 |
+| 50 | [Y Arriba Quemando el Sol](https://open.spotify.com/track/6imqwirgq3MR9N5ovQltDI) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Obras de Violeta Parra](https://open.spotify.com/album/1TBM4bR0WDcR1kBdU4gC4D) | 11:03 |
 
-Snapshot ID: `asgugAAAAAC5EFZ8UNmK5Nn0KM5rfHKs`
+Snapshot ID: `asmAAAAAAACIvoln0lONeIb/Bb2WWEno`

@@ -1,6 +1,6 @@
 {
   "description": "Two decades of Latin bangers that defined a global movement. Shakira on cover",
-  "num_followers": 88208,
+  "num_followers": 88235,
   "original_name": "20 Years of Latin Hits",
   "owner": {
     "name": "Spotify",
@@ -1035,26 +1035,18 @@
     {
       "added_at": "2026-05-12 16:32:10",
       "album": {
-        "name": "SATURNO",
-        "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
+        "name": "3.0",
+        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
       },
       "artists": [
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
-        },
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 197101,
-      "name": "LOKERA",
-      "url": "https://open.spotify.com/track/1aUq8rjW1EwkAkMri4VfJy"
+      "duration_ms": 252359,
+      "name": "Vivir Mi Vida",
+      "url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ"
     },
     {
       "added_at": "2026-05-12 16:32:10",
@@ -1075,18 +1067,26 @@
     {
       "added_at": "2026-05-12 16:32:10",
       "album": {
-        "name": "3.0",
-        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
+        "name": "SATURNO",
+        "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
       },
       "artists": [
         {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
         }
       ],
-      "duration_ms": 252359,
-      "name": "Vivir Mi Vida",
-      "url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ"
+      "duration_ms": 197101,
+      "name": "LOKERA",
+      "url": "https://open.spotify.com/track/1aUq8rjW1EwkAkMri4VfJy"
     },
     {
       "added_at": "2026-05-12 16:32:10",
@@ -1231,26 +1231,6 @@
     {
       "added_at": "2026-05-12 16:32:10",
       "album": {
-        "name": "F.A.M.E.",
-        "url": "https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Nego do Borel",
-          "url": "https://open.spotify.com/artist/1B0Rp4SWGnFgGCPU5Pju6E"
-        }
-      ],
-      "duration_ms": 184066,
-      "name": "Coraz\u00f3n (feat. Nego do Borel)",
-      "url": "https://open.spotify.com/track/5cepAtqnEQ6yVG6088zMMu"
-    },
-    {
-      "added_at": "2026-05-12 16:32:10",
-      "album": {
         "name": "G\u00c9NESIS",
         "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
       },
@@ -1271,6 +1251,26 @@
       "duration_ms": 212878,
       "name": "LADY GAGA",
       "url": "https://open.spotify.com/track/7mXuWTczZNxG5EDcjFEuJR"
+    },
+    {
+      "added_at": "2026-05-12 16:32:10",
+      "album": {
+        "name": "F.A.M.E.",
+        "url": "https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Nego do Borel",
+          "url": "https://open.spotify.com/artist/1B0Rp4SWGnFgGCPU5Pju6E"
+        }
+      ],
+      "duration_ms": 184066,
+      "name": "Coraz\u00f3n (feat. Nego do Borel)",
+      "url": "https://open.spotify.com/track/5cepAtqnEQ6yVG6088zMMu"
     },
     {
       "added_at": "2026-05-12 16:32:10",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2026-05-12 16:32:10",
       "album": {
+        "name": "Soy el Mismo",
+        "url": "https://open.spotify.com/album/4o8ZyBzwPxPVc2bqNG5Xfe"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 206934,
+      "name": "Darte un Beso",
+      "url": "https://open.spotify.com/track/6cJLfIqwh0tCKRjYM3WpZ5"
+    },
+    {
+      "added_at": "2026-05-12 16:32:10",
+      "album": {
         "name": "Atrevido",
         "url": "https://open.spotify.com/album/1xBoZOfcOsqd77V6AENKYC"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 219201,
       "name": "Mamichula - con Nicki Nicole",
       "url": "https://open.spotify.com/track/0TUW9faHNaBmi89wsYGp9y"
-    },
-    {
-      "added_at": "2026-05-12 16:32:10",
-      "album": {
-        "name": "Soy el Mismo",
-        "url": "https://open.spotify.com/album/4o8ZyBzwPxPVc2bqNG5Xfe"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        }
-      ],
-      "duration_ms": 206934,
-      "name": "Darte un Beso",
-      "url": "https://open.spotify.com/track/6cJLfIqwh0tCKRjYM3WpZ5"
     },
     {
       "added_at": "2026-05-12 16:32:10",

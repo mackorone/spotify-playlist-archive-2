@@ -4,7 +4,7 @@
 
 > This is Bruna Karla\. The essential tracks, all in one playlist.
 
-104 songs - 8 hr 58 min
+105 songs - 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Até Aqui me Sustentou](https://open.spotify.com/track/6i2uI31zWj1zJH24S2gFJx) | [Cássia Kelly](https://open.spotify.com/artist/43lb9Hehs3NFBes3cy4fbB), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Incomparável](https://open.spotify.com/album/0BgFA0t9FPDRMA2QPgVRFU) | 4:28 | 2023-07-09 | 2024-02-08 |
 | [Aviva\-nos \(Ao Vivo\)](https://open.spotify.com/track/03mpdr8HJfKqihrPDl9F14) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Aviva\-nos \(Ao Vivo\)](https://open.spotify.com/album/0WvYxMgrxjbcpSlLexrjRT) | 6:02 | 2023-07-09 | 2026-03-22 |
 | [Cante Aleluia](https://open.spotify.com/track/1we1NWFLA0wSGasHXKAo82) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Siga em Frente](https://open.spotify.com/album/1IzXIdVD5bF5GYpkVwpfit) | 3:34 | 2024-09-20 | 2025-11-13 |
+| [Centro \- Ao Vivo](https://open.spotify.com/track/5Ia3MDR41vc2gtMUmGdPfD) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Centro \(Ao Vivo\)](https://open.spotify.com/album/2lB6irHUdvrMf5cjaP7iCS) | 8:01 | 2026-10-12 |  |
 | [Cicatrizes](https://open.spotify.com/track/4aeZL7WVsbBDgA8wr5Xj9r) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Como Águia.](https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH) | 4:20 | 2023-07-09 |  |
 | [Com Muito Louvor](https://open.spotify.com/track/3fMWh5ZDVPFKoQnUxO29L8) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Com Muito Louvor](https://open.spotify.com/album/5NItVsuGoKUjQOK8kfa72v) | 5:21 | 2023-07-09 |  |
 | [Com os Olhos da Fé](https://open.spotify.com/track/5ffnMtzwfY0noBToWK8X0J) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Com os Olhos da Fé](https://open.spotify.com/album/2BhLfjpZAEHo39gGsDcenk) | 4:47 | 2024-02-07 |  |
@@ -60,7 +61,7 @@
 | [Levantamos Tu Nombre](https://open.spotify.com/track/29xdoA7Qz83rm5D0GOhbED) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Levantamos Tu Nombre](https://open.spotify.com/album/2wPoovI5GUgIiOkRQETfde) | 5:50 | 2023-07-09 | 2025-09-20 |
 | [Lindo Coral](https://open.spotify.com/track/6wo5KFryLIFOpCHXVQM74w) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Vento do Espírito](https://open.spotify.com/album/1o8OkaZKl1pTCMrWlDHxEp) | 4:51 | 2025-03-10 | 2025-03-15 |
 | [Lugar Santo](https://open.spotify.com/track/6YTm0iqTuVkiAA1kQ57e1w) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Siga em Frente](https://open.spotify.com/album/1IzXIdVD5bF5GYpkVwpfit) | 4:13 | 2024-01-15 |  |
-| [Maranata \(Vem Emanuel\) \(Ao Vivo\)](https://open.spotify.com/track/04OXVN5Z15fpezFw4cHA6q) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Maranata \(Vem Emanuel\) \(Ao Vivo\)](https://open.spotify.com/album/0qCLy84OJNZDiyhL8pcGVt) | 6:59 | 2024-05-14 |  |
+| [Maranata \(Vem Emanuel\) \(Ao Vivo\)](https://open.spotify.com/track/04OXVN5Z15fpezFw4cHA6q) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Maranata \(Vem Emanuel\) \(Ao Vivo\)](https://open.spotify.com/album/0qCLy84OJNZDiyhL8pcGVt) | 6:59 | 2024-05-14 | 2026-10-12 |
 | [Marca da Promessa \- Ao Vivo](https://open.spotify.com/track/2BZn6s6vJhZYV2PRkl0oHZ) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Marca da Promessa \(Ao Vivo\)](https://open.spotify.com/album/1cI1aaKiOEj22QwoM62hXB) | 5:33 | 2024-07-15 |  |
 | [Melhor Amigo](https://open.spotify.com/track/2Jl0A8XA5n8wXDTzdKYL9D) | [Delino Marçal](https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Melhor Amigo](https://open.spotify.com/album/04izDnUmcYZ9UUzbQJ7FVU) | 5:35 | 2023-07-09 | 2025-09-28 |
 | [Menina](https://open.spotify.com/track/0LZKa9LD1BGUpRF2znosFZ) | [Nai Lopes](https://open.spotify.com/artist/5t6uGEJEod3b2Lgy5HFN6J), [Marias](https://open.spotify.com/artist/6yDG1IZDMLxh1M82PFOLgM), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Menina](https://open.spotify.com/album/5vdyiT8h1KrYOSiirmjLlu) | 2:53 | 2024-03-29 | 2024-04-26 |

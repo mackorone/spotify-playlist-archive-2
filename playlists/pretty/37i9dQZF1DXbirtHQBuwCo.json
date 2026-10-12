@@ -1,6 +1,6 @@
 {
   "description": "\bTrendy & Chill Korean R&B music. (Cover:  ONEW, ZICO)",
-  "num_followers": 1096644,
+  "num_followers": 1096556,
   "original_name": "TrenChill K-R&B",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,22 @@
     {
       "added_at": "2026-10-08 07:15:42",
       "album": {
+        "name": "Dear Insanity...",
+        "url": "https://open.spotify.com/album/0tOtw8pNMRmDa57nZ6GZ9Q"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 204880,
+      "name": "Don't Go Insane",
+      "url": "https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg"
+    },
+    {
+      "added_at": "2026-10-08 07:15:42",
+      "album": {
         "name": "Lullaby Remix",
         "url": "https://open.spotify.com/album/31mReIClap5NQNlYVt8TDB"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 217000,
       "name": "Lullaby Remix",
       "url": "https://open.spotify.com/track/6WnMFDIiDJR0Yg9JaBwVQx"
-    },
-    {
-      "added_at": "2026-10-08 07:15:42",
-      "album": {
-        "name": "Dear Insanity...",
-        "url": "https://open.spotify.com/album/0tOtw8pNMRmDa57nZ6GZ9Q"
-      },
-      "artists": [
-        {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
-        }
-      ],
-      "duration_ms": 204880,
-      "name": "Don't Go Insane",
-      "url": "https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg"
     },
     {
       "added_at": "2026-10-08 07:15:42",

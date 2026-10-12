@@ -672,7 +672,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 227376,
       "name": "A Nowhere Place",
       "url": "https://open.spotify.com/track/3Tfhkl0qDEAbPBdn9bWG8M"
@@ -932,7 +932,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 193897,
       "name": "Abandoned Mansion",
       "url": "https://open.spotify.com/track/2GCQP3Ox9U8CvXNvaJxg9S"
@@ -1308,7 +1308,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 249920,
       "name": "After the Lights",
       "url": "https://open.spotify.com/track/5YgHEY3xZJdH5zNEsMCGGP"
@@ -4448,7 +4448,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 156000,
       "name": "Be Yours",
       "url": "https://open.spotify.com/track/0ZfdAcF5Zfz4gcbIcCTGZn"
@@ -5360,7 +5360,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 171766,
       "name": "Blame It on the Boogie",
       "url": "https://open.spotify.com/track/731jL6DJFbZMIktPE1Ehea"
@@ -6126,7 +6126,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 138346,
       "name": "Born To Create - Acoustic Version",
       "url": "https://open.spotify.com/track/6DglhaCZZzazyteXhiV25j"
@@ -8477,6 +8477,28 @@
     },
     {
       "album": {
+        "name": "City Skies",
+        "url": "https://open.spotify.com/album/2IKprNWr2TNmqGVDm2tlsI"
+      },
+      "artists": [
+        {
+          "name": "Irfad",
+          "url": "https://open.spotify.com/artist/2bdTySHQu8orEocLZwMy89"
+        },
+        {
+          "name": "Christine Turcel",
+          "url": "https://open.spotify.com/artist/69HQQ9caNrCVO6ZlLoyvWa"
+        }
+      ],
+      "date_added": "2026-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151724,
+      "name": "City Skies",
+      "url": "https://open.spotify.com/track/1h4Fv7HSWH7swYerwdjWvl"
+    },
+    {
+      "album": {
         "name": "City Walk WITH Me",
         "url": "https://open.spotify.com/album/3rEwwaUDziv9eFXBjRu96A"
       },
@@ -8964,7 +8986,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 157385,
       "name": "Cold Summer",
       "url": "https://open.spotify.com/track/2WfTGIQfz1H0O7n31rLSUr"
@@ -9306,7 +9328,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 138774,
       "name": "Confessing",
       "url": "https://open.spotify.com/track/18H1KNefGu8vS6VxGoTESI"
@@ -10930,7 +10952,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 209500,
       "name": "Defy the Time - Live",
       "url": "https://open.spotify.com/track/5tf8Sz325qjipi5jJu0xly"
@@ -12782,7 +12804,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 175991,
       "name": "Driven by the Echoes",
       "url": "https://open.spotify.com/track/4xpSeB7na4ONybnW7GMexM"
@@ -16382,7 +16404,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 197177,
       "name": "Flowing away",
       "url": "https://open.spotify.com/track/6q8Nyh38fyxpDUUG1QdFbI"
@@ -21198,7 +21220,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 153000,
       "name": "Home",
       "url": "https://open.spotify.com/track/3RzJRKgS870c6XwP0Ow7os"
@@ -22302,7 +22324,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 197036,
       "name": "I Know Who I Am",
       "url": "https://open.spotify.com/track/2Qk1RHHLL8QgevQgUJGOIr"
@@ -25218,7 +25240,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 158443,
       "name": "Just a lie",
       "url": "https://open.spotify.com/track/1YuU9k2LKuEdoZHVo6wmjX"
@@ -26237,6 +26259,24 @@
     },
     {
       "album": {
+        "name": "Felt Piano II",
+        "url": "https://open.spotify.com/album/2oRSmnuvw6XADdv0S6Qg11"
+      },
+      "artists": [
+        {
+          "name": "Rapha\u00ebl Novarina",
+          "url": "https://open.spotify.com/artist/2a1ku6axhh00M3y40JK2as"
+        }
+      ],
+      "date_added": "2026-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171648,
+      "name": "Lago di Garda - Felt Piano",
+      "url": "https://open.spotify.com/track/19BtXs7G3LA9eYZGutLR6Q"
+    },
+    {
+      "album": {
         "name": "Lake Boats and Bad Decisions",
         "url": "https://open.spotify.com/album/6yFjpYVW8RhRecS9AcblYF"
       },
@@ -26338,7 +26378,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 220252,
       "name": "Land Of Enchantment",
       "url": "https://open.spotify.com/track/3zpgeVEymPY2KPmGQs5HqI"
@@ -30880,7 +30920,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 200489,
       "name": "Mind in The message",
       "url": "https://open.spotify.com/track/0efYMhywgS5PiTyUf2ciZk"
@@ -32810,7 +32850,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 139236,
       "name": "Never Before",
       "url": "https://open.spotify.com/track/43LdtBioTky5GqajCjsCn2"
@@ -35850,7 +35890,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 210011,
       "name": "OVERFLOW",
       "url": "https://open.spotify.com/track/3VBymBc0l8kKIQh40xwMNU"
@@ -37670,7 +37710,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 236842,
       "name": "Pretty Wings",
       "url": "https://open.spotify.com/track/5tR2w78xV17M5q1nea5zyw"
@@ -37921,7 +37961,7 @@
       "artists": [
         {
           "name": "Des December",
-          "url": "https://open.spotify.com/artist/0j9oTBtPJAItYMEtAr6YEo"
+          "url": "https://open.spotify.com/artist/36VdESfSWjsKuMAVlMTsWJ"
         },
         {
           "name": "Quinetik",
@@ -44546,7 +44586,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 210364,
       "name": "Stupid!!",
       "url": "https://open.spotify.com/track/14NNskKv4O1zDHFdvwFBL4"
@@ -44940,7 +44980,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 181000,
       "name": "SUNSHINE",
       "url": "https://open.spotify.com/track/7IorP2kK0WSmeuL5yi3gL7"
@@ -45656,7 +45696,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 237120,
       "name": "Take me in your Arms",
       "url": "https://open.spotify.com/track/4YRVJ5pBUW6nGpFrvFuVoX"
@@ -45786,6 +45826,24 @@
       "duration_ms": 179870,
       "name": "Talking To Jesus",
       "url": "https://open.spotify.com/track/3910xJJOdR2Dgl4z73tBRk"
+    },
+    {
+      "album": {
+        "name": "Talking to my ghost",
+        "url": "https://open.spotify.com/album/2QK4SWD3HqtqqnrCMKrZuK"
+      },
+      "artists": [
+        {
+          "name": "Prince Frencho",
+          "url": "https://open.spotify.com/artist/2BwRP4jLpHD1Tj5BpB6qkQ"
+        }
+      ],
+      "date_added": "2026-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180011,
+      "name": "Talking to my ghost",
+      "url": "https://open.spotify.com/track/6hxb1KtWAQrL0xhw63pyr6"
     },
     {
       "album": {
@@ -50249,6 +50307,24 @@
     },
     {
       "album": {
+        "name": "Under a Red Moon",
+        "url": "https://open.spotify.com/album/1NcloDwOygMZuEEpwVJVDJ"
+      },
+      "artists": [
+        {
+          "name": "Jaques Alves",
+          "url": "https://open.spotify.com/artist/1JxDLVoeZ9xUioRVoXYMtl"
+        }
+      ],
+      "date_added": "2026-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208500,
+      "name": "Under a Red Moon",
+      "url": "https://open.spotify.com/track/56686LlfHoyWeZadFNUplJ"
+    },
+    {
+      "album": {
         "name": "Sous contr\u00f4le",
         "url": "https://open.spotify.com/album/4IGoZE6Rp1P0JQDDo7MJip"
       },
@@ -52476,7 +52552,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 204094,
       "name": "Went Wrong",
       "url": "https://open.spotify.com/track/5a2Oyd4axDiYLPWo7LKTi6"
@@ -55772,7 +55848,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 223508,
       "name": "Your Kingdom",
       "url": "https://open.spotify.com/track/3Fgkt32z9qsNjugkpYMHr1"

@@ -799,22 +799,6 @@
     {
       "added_at": "2026-10-09 08:32:47",
       "album": {
-        "name": "Langt igjen \u00e5 g\u00e5",
-        "url": "https://open.spotify.com/album/0cHxs6tHUNshJrzAg4M867"
-      },
-      "artists": [
-        {
-          "name": "Rotlaus",
-          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
-        }
-      ],
-      "duration_ms": 182824,
-      "name": "Langt igjen \u00e5 g\u00e5",
-      "url": "https://open.spotify.com/track/4sSG00XcjhgtSMbeCMIKsn"
-    },
-    {
-      "added_at": "2026-10-09 08:32:47",
-      "album": {
         "name": "Hjem med dej",
         "url": "https://open.spotify.com/album/7m4knSX565G8mI0WzeJGfN"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 187832,
       "name": "Hjem med dej",
       "url": "https://open.spotify.com/track/2QBwdcaP4e7kx2HKlVqlNp"
+    },
+    {
+      "added_at": "2026-10-09 08:32:47",
+      "album": {
+        "name": "Langt igjen \u00e5 g\u00e5",
+        "url": "https://open.spotify.com/album/0cHxs6tHUNshJrzAg4M867"
+      },
+      "artists": [
+        {
+          "name": "Rotlaus",
+          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
+        }
+      ],
+      "duration_ms": 182824,
+      "name": "Langt igjen \u00e5 g\u00e5",
+      "url": "https://open.spotify.com/track/4sSG00XcjhgtSMbeCMIKsn"
     },
     {
       "added_at": "2026-10-09 08:32:47",
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-10-09 08:32:47",
       "album": {
-        "name": "Gamlehjem",
-        "url": "https://open.spotify.com/album/7bwo9g7xMxlVYYxZIsNBCU"
-      },
-      "artists": [
-        {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
-        }
-      ],
-      "duration_ms": 181648,
-      "name": "Gamlehjem",
-      "url": "https://open.spotify.com/track/2GY30sRduLyBQQHkTDDpK9"
-    },
-    {
-      "added_at": "2026-10-09 08:32:47",
-      "album": {
         "name": "Sl\u00e5ss f\u00f6r dig",
         "url": "https://open.spotify.com/album/0kYxCy6xwAHN70YtRFMRG5"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 131807,
       "name": "Sl\u00e5ss f\u00f6r dig",
       "url": "https://open.spotify.com/track/3cm5WFZ2flczXiGq671KkY"
+    },
+    {
+      "added_at": "2026-10-09 08:32:47",
+      "album": {
+        "name": "Gamlehjem",
+        "url": "https://open.spotify.com/album/7bwo9g7xMxlVYYxZIsNBCU"
+      },
+      "artists": [
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "duration_ms": 181648,
+      "name": "Gamlehjem",
+      "url": "https://open.spotify.com/track/2GY30sRduLyBQQHkTDDpK9"
     },
     {
       "added_at": "2026-10-09 08:32:47",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-10-09 08:32:47",
       "album": {
-        "name": "Besseggen",
-        "url": "https://open.spotify.com/album/3hXvPMpfoGRSTb9DSoYQhw"
-      },
-      "artists": [
-        {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
-        }
-      ],
-      "duration_ms": 165612,
-      "name": "Besseggen",
-      "url": "https://open.spotify.com/track/3evPFHyagVIQqNDKi6jkp8"
-    },
-    {
-      "added_at": "2026-10-09 08:32:47",
-      "album": {
         "name": "Jeg har v\u00e6rt en idiot",
         "url": "https://open.spotify.com/album/7lcMSlKePVyhxlwVW2iAh5"
       },
@@ -999,22 +983,18 @@
     {
       "added_at": "2026-10-09 08:32:47",
       "album": {
-        "name": "Rypejakt",
-        "url": "https://open.spotify.com/album/2WVbRn5uvs0aGIcpoz25Sm"
+        "name": "Besseggen",
+        "url": "https://open.spotify.com/album/3hXvPMpfoGRSTb9DSoYQhw"
       },
       "artists": [
         {
-          "name": "Crashville",
-          "url": "https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL"
-        },
-        {
-          "name": "Tomgang",
-          "url": "https://open.spotify.com/artist/3Qj3nUfSYOKCaDqcvIdgYe"
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
         }
       ],
-      "duration_ms": 149651,
-      "name": "Rypejakt",
-      "url": "https://open.spotify.com/track/6OmvqBoQlEG3rpEgIC7HIW"
+      "duration_ms": 165612,
+      "name": "Besseggen",
+      "url": "https://open.spotify.com/track/3evPFHyagVIQqNDKi6jkp8"
     },
     {
       "added_at": "2026-10-09 08:32:47",
@@ -1035,6 +1015,26 @@
       "duration_ms": 128653,
       "name": "De g\u00e6rne har det godt",
       "url": "https://open.spotify.com/track/2uWzRb60LK37cremgoTxJd"
+    },
+    {
+      "added_at": "2026-10-09 08:32:47",
+      "album": {
+        "name": "Rypejakt",
+        "url": "https://open.spotify.com/album/2WVbRn5uvs0aGIcpoz25Sm"
+      },
+      "artists": [
+        {
+          "name": "Crashville",
+          "url": "https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL"
+        },
+        {
+          "name": "Tomgang",
+          "url": "https://open.spotify.com/artist/3Qj3nUfSYOKCaDqcvIdgYe"
+        }
+      ],
+      "duration_ms": 149651,
+      "name": "Rypejakt",
+      "url": "https://open.spotify.com/track/6OmvqBoQlEG3rpEgIC7HIW"
     },
     {
       "added_at": "2026-10-09 08:32:47",
@@ -1075,18 +1075,34 @@
     {
       "added_at": "2026-10-09 08:32:47",
       "album": {
-        "name": "Maria",
-        "url": "https://open.spotify.com/album/2pxyKBtMtyDdo7SY4qACWh"
+        "name": "En gammal Amazon",
+        "url": "https://open.spotify.com/album/0VQnyab7Lu6lj0z362cHxa"
       },
       "artists": [
         {
-          "name": "Byting",
-          "url": "https://open.spotify.com/artist/70WHziQLTycOFrXWZJbrE7"
+          "name": "Str\u00f6g1",
+          "url": "https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF"
         }
       ],
-      "duration_ms": 212505,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/1qTnDuu6g20zNDe4JnHlgi"
+      "duration_ms": 166297,
+      "name": "En gammal Amazon",
+      "url": "https://open.spotify.com/track/7Dw2Wx4UKt2tDxvcfFD4Va"
+    },
+    {
+      "added_at": "2026-10-09 08:32:47",
+      "album": {
+        "name": "Vi va alt",
+        "url": "https://open.spotify.com/album/6T3p4dgHjqbhhka2Y0kqd0"
+      },
+      "artists": [
+        {
+          "name": "Sandra Lyng",
+          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
+        }
+      ],
+      "duration_ms": 165633,
+      "name": "Vi va alt",
+      "url": "https://open.spotify.com/track/2fRg4u2BNYT9qzbCA7MW0G"
     },
     {
       "added_at": "2026-10-09 08:32:47",
@@ -1111,18 +1127,18 @@
     {
       "added_at": "2026-10-09 08:32:47",
       "album": {
-        "name": "En gammal Amazon",
-        "url": "https://open.spotify.com/album/0VQnyab7Lu6lj0z362cHxa"
+        "name": "Maria",
+        "url": "https://open.spotify.com/album/2pxyKBtMtyDdo7SY4qACWh"
       },
       "artists": [
         {
-          "name": "Str\u00f6g1",
-          "url": "https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF"
+          "name": "Byting",
+          "url": "https://open.spotify.com/artist/70WHziQLTycOFrXWZJbrE7"
         }
       ],
-      "duration_ms": 166297,
-      "name": "En gammal Amazon",
-      "url": "https://open.spotify.com/track/7Dw2Wx4UKt2tDxvcfFD4Va"
+      "duration_ms": 212505,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/1qTnDuu6g20zNDe4JnHlgi"
     },
     {
       "added_at": "2026-10-09 08:32:47",
@@ -1139,22 +1155,6 @@
       "duration_ms": 131835,
       "name": "Er det lov \u00e5 leva",
       "url": "https://open.spotify.com/track/3KKdDF5B4kjkC0zWR4SKZs"
-    },
-    {
-      "added_at": "2026-10-09 08:32:47",
-      "album": {
-        "name": "Vi va alt",
-        "url": "https://open.spotify.com/album/6T3p4dgHjqbhhka2Y0kqd0"
-      },
-      "artists": [
-        {
-          "name": "Sandra Lyng",
-          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
-        }
-      ],
-      "duration_ms": 165633,
-      "name": "Vi va alt",
-      "url": "https://open.spotify.com/track/2fRg4u2BNYT9qzbCA7MW0G"
     },
     {
       "added_at": "2026-10-09 08:32:47",

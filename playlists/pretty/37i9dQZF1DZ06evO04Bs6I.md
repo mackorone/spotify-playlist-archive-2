@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04Bs6I.md) - [plain]
 
 > This is Isadora Pompeo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,163 likes - 50 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,162 likes - 50 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04Bs6I.md) - [plain]
 | 13 | [Minha Morada \- Ao Vivo](https://open.spotify.com/track/4ndpiHFCHD9vMT39QFzkXU) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Pra Te Contar Os Meus Segredos \(Ao Vivo\)](https://open.spotify.com/album/0yzFwrBgTavltGMMfwS4p5) | 6:51 |
 | 14 | [O Nome de Jesus](https://open.spotify.com/track/2HhAhITEupMNYQAG08Ejb1) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [O Nome de Jesus](https://open.spotify.com/album/6j5twTviJB4grpkOV4npGw) | 5:07 |
 | 15 | [Casinha Favorita](https://open.spotify.com/track/0M3B9SP1tUSu3uuwjz07PH) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Aurora](https://open.spotify.com/album/7FTp91oOUfaKfOrSDW9zT6) | 10:58 |
-| 16 | [Os Sonhos de Deus \- Ao Vivo](https://open.spotify.com/track/6OSWTd3XcVNiXSFumvl2Uo) | [Carol Tauber](https://open.spotify.com/artist/6rK1HFXiEMatdQGeQQA1VK), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB), [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [A Palavra Através do Pandeiro Vol.2 \(Ao Vivo\)](https://open.spotify.com/album/04JRZQxRJBC8KpZhaQFvPm) | 5:22 |
+| 16 | [Deus Faz Além \- Ao Vivo](https://open.spotify.com/track/5tteTRlti30bR43W34YYbQ) | [Bruna Olly](https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Deus Faz Além \(Ao Vivo\)](https://open.spotify.com/album/2WPOOdQp05sOWXcbHVEs9B) | 4:50 |
 | 17 | [Eu Sei Que Vem \- Ao Vivo](https://open.spotify.com/track/5UeQutpeNRqg21FBMiuStv) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Pra Te Contar Os Meus Segredos \(Ao Vivo\)](https://open.spotify.com/album/0yzFwrBgTavltGMMfwS4p5) | 4:07 |
-| 18 | [Deus Faz Além \- Ao Vivo](https://open.spotify.com/track/5tteTRlti30bR43W34YYbQ) | [Bruna Olly](https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Deus Faz Além \(Ao Vivo\)](https://open.spotify.com/album/2WPOOdQp05sOWXcbHVEs9B) | 4:50 |
+| 18 | [Os Sonhos de Deus \- Ao Vivo](https://open.spotify.com/track/6OSWTd3XcVNiXSFumvl2Uo) | [Carol Tauber](https://open.spotify.com/artist/6rK1HFXiEMatdQGeQQA1VK), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB), [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [A Palavra Através do Pandeiro Vol.2 \(Ao Vivo\)](https://open.spotify.com/album/04JRZQxRJBC8KpZhaQFvPm) | 5:22 |
 | 19 | [Canção de Paulo \(Ao Vivo\)](https://open.spotify.com/track/5tDZvfCT14AJW5sM1t81iD) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Tetelestai \(Ao Vivo\)](https://open.spotify.com/album/0S9BqWyHtqkfR1MdAwAIlj) | 8:43 |
 | 20 | [Oi, Jesus](https://open.spotify.com/track/24yMODgKNyQDvvCKlbwlxR) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Oi, Jesus](https://open.spotify.com/album/1mQXcTWqbRM5DNgOPN70N4) | 3:53 |
 | 21 | [Toca em Mim de Novo \- Ao Vivo](https://open.spotify.com/track/5jztY2semlZDUkLAmwxq9f) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Pra Te Contar Os Meus Segredos \(Ao Vivo\)](https://open.spotify.com/album/0yzFwrBgTavltGMMfwS4p5) | 4:33 |

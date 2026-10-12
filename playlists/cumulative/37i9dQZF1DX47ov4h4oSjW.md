@@ -4,7 +4,7 @@
 
 > Music to help you concentrate during your homework.
 
-185 songs - 8 hr 51 min
+186 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Nos](https://open.spotify.com/track/5QIm5UVUJhPrpXwfFXAgKI) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [The Wind](https://open.spotify.com/album/4Ud5YQc9KHMuj0TQQfvnnj) | 1:21 | 2023-01-26 |  |
 | [Ocean And 17th](https://open.spotify.com/track/2IUuk04dZVG8KRBJpcrpzt) | [Lummus Park](https://open.spotify.com/artist/6aLdEQv4u2nemqw1v3cQmH) | [Ocean And 17th](https://open.spotify.com/album/4YEDcRREGpiZpyziVG4jIh) | 3:09 | 2023-03-12 | 2026-07-09 |
 | [Octaves](https://open.spotify.com/track/1F54dSc1rx5kHpMGu3XM9i) | [Ali Toygar](https://open.spotify.com/artist/3UWxXb2q9zHnhaSjHcKt7H) | [Octaves](https://open.spotify.com/album/1ZoBBGpluc4FcCJOakU0Ir) | 2:12 | 2023-01-26 | 2023-03-13 |
+| [Olyan szép vagy](https://open.spotify.com/track/7ejRYgcT2XCiYVCvjvCzmj) | [Csizmazia Etel](https://open.spotify.com/artist/0fzi88EmWAkkGiMVuIIi1S) | [Olyan szép vagy](https://open.spotify.com/album/6Wv0Ot23GCHzLmU8H58iFw) | 2:05 | 2023-03-12 |  |
 | [Om än bara för en stund](https://open.spotify.com/track/37aia1wG2Ncz8AWjM4tPlY) | [Maya Åström](https://open.spotify.com/artist/08cxtpra8sKpzXViTa27ph) | [Om än bara för en stund](https://open.spotify.com/album/0y3IpKT6DxokAORdIZEExH) | 2:38 | 2023-01-26 | 2024-06-01 |
 | [Omoidasu](https://open.spotify.com/track/6t2Gwyci8Q6WPQMtzTMNh6) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Omoidasu](https://open.spotify.com/album/5KtFsugTZqWZswMzl70YfD) | 1:57 | 2023-03-12 | 2025-12-10 |
 | [One Note](https://open.spotify.com/track/67BpLH4eIEogEooSJk8eua) | [Alberto Giurioli](https://open.spotify.com/artist/37sWo3r7HX9Fa9DhiQqclU) | [One Note](https://open.spotify.com/album/6PcYUvCdYLZvlzGjRlnoYP) | 4:45 | 2023-03-12 | 2026-05-09 |
@@ -144,7 +145,7 @@
 | [Sintra](https://open.spotify.com/track/5JlzdloHUjgYWByeCgtFSx) | [Algy Lacey](https://open.spotify.com/artist/4FOaoaFSozNtPQFy8O8t48) | [Sintra](https://open.spotify.com/album/1HsKGoWJ7EJ6M8JvGnat04) | 3:24 | 2023-03-12 |  |
 | [Sirenomelia](https://open.spotify.com/track/5M7jRqLKDMoOGPeVp1TslS) | [Isobel Noble](https://open.spotify.com/artist/36XAjwbcbVkRdcd2uEuVTq) | [Sirenomelia](https://open.spotify.com/album/2eub0pcDgKBJkAiKZsMHbr) | 2:34 | 2023-03-12 |  |
 | [Six Etudes for Piano \- q = 96](https://open.spotify.com/track/7bYwm4LQaOsardfDdbVZg6) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [Bruce Brubaker](https://open.spotify.com/artist/400JXdqRhBKf0A6qNoLCSJ) | [Time Curve: Music for Piano by Philip Glass and William Duckworth](https://open.spotify.com/album/1kGhTPdqFxysr6qHRv32MR) | 4:48 | 2023-03-12 | 2025-11-06 |
-| [Slowdance](https://open.spotify.com/track/1Qeltj3aBElDiFuaBtav77) | [Luca Mazzillo](https://open.spotify.com/artist/2nS5SNSV4Cc7Es2WsCElmm), [Jacopo Croci](https://open.spotify.com/artist/1bSkNeskReaGAMmsHDfp4G) | [Slowdance](https://open.spotify.com/album/72A4G4HmEmKGjet1K8slI8) | 2:02 | 2023-01-26 |  |
+| [Slowdance](https://open.spotify.com/track/1Qeltj3aBElDiFuaBtav77) | [Luca Mazzillo](https://open.spotify.com/artist/2nS5SNSV4Cc7Es2WsCElmm), [Jacopo Croci](https://open.spotify.com/artist/1bSkNeskReaGAMmsHDfp4G) | [Slowdance](https://open.spotify.com/album/72A4G4HmEmKGjet1K8slI8) | 2:02 | 2023-01-26 | 2026-10-12 |
 | [Small Memory](https://open.spotify.com/track/78kPi2sLwSmILgJXz7wQxg) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Insides](https://open.spotify.com/album/124tr6mYSuv4yCQUKfyKTF) | 1:40 | 2023-01-26 | 2024-04-19 |
 | [Snow Kiss](https://open.spotify.com/track/2WCeRZDVyagKARVqAxr7QW) | [Freya Rääf](https://open.spotify.com/artist/160moq3FVNizaDKVSK4Pmj) | [Snow Kiss](https://open.spotify.com/album/0z2kjuU6HASKwJoOMCYw1T) | 1:56 | 2023-01-26 | 2023-05-23 |
 | [Snowed In](https://open.spotify.com/track/1spPkmhaejcIpnjmP6nxq3) | [Treman](https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP) | [Snowed In](https://open.spotify.com/album/0kKMS7wWm7xonBa1Zf133X) | 2:28 | 2023-03-12 | 2024-01-12 |

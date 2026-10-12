@@ -1,12 +1,12 @@
 {
   "description": "This is Gorillaz. The essential tracks, all in one playlist.",
-  "num_followers": 1253741,
+  "num_followers": 1253792,
   "original_name": "This Is Gorillaz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asgugAAAAAAipYA4FJ0QGhXXUy6IfkNr",
+  "snapshot_id": "asmAAAAAAABEVsHuOUZRL+ahP7mKj1Eb",
   "tracks": [
     {
       "added_at": null,
@@ -76,13 +76,17 @@
           "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
         },
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "Bootie Brown",
+          "url": "https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d"
         }
       ],
-      "duration_ms": 193463,
-      "name": "Tormenta (feat. Bad Bunny)",
-      "url": "https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL"
+      "duration_ms": 215149,
+      "name": "New Gold (feat. Tame Impala and Bootie Brown)",
+      "url": "https://open.spotify.com/track/60SvhHtwefT0e2G7i7kOH3"
     },
     {
       "added_at": null,
@@ -156,17 +160,13 @@
           "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
         },
         {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        },
-        {
-          "name": "Bootie Brown",
-          "url": "https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 215149,
-      "name": "New Gold (feat. Tame Impala and Bootie Brown)",
-      "url": "https://open.spotify.com/track/60SvhHtwefT0e2G7i7kOH3"
+      "duration_ms": 193463,
+      "name": "Tormenta (feat. Bad Bunny)",
+      "url": "https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL"
     },
     {
       "added_at": null,
@@ -967,6 +967,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Fall",
+        "url": "https://open.spotify.com/album/5jJGGsAztgUEXUHHZ2zrah"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "duration_ms": 206093,
+      "name": "Revolving Doors",
+      "url": "https://open.spotify.com/track/4IekHBYUwUNLILgA9R22OD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cracker Island (Deluxe)",
         "url": "https://open.spotify.com/album/1aoWxOWHJNG1VPpJZwpYl2"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 150316,
       "name": "Controllah (feat. MC Bin Laden)",
       "url": "https://open.spotify.com/track/3BmGfswCrv2p1It4oCdtU6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Fall",
-        "url": "https://open.spotify.com/album/5jJGGsAztgUEXUHHZ2zrah"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        }
-      ],
-      "duration_ms": 206093,
-      "name": "Revolving Doors",
-      "url": "https://open.spotify.com/track/4IekHBYUwUNLILgA9R22OD"
     },
     {
       "added_at": null,

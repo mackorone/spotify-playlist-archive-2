@@ -4,7 +4,7 @@
 
 > This is KISS\. The essential tracks, all in one playlist.
 
-118 songs - 7 hr 40 min
+119 songs - 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [God Gave Rock N Roll To You \- Live In Virginia Beach / 2004](https://open.spotify.com/track/7yrZLisamI2TPFqeqxFi6C) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [KISS Off The Soundboard: Live In Virginia Beach](https://open.spotify.com/album/47LCEebhE6fZYzV1Qchy9x) | 6:37 | 2022-03-30 | 2022-07-19 |
 | [God Of Thunder](https://open.spotify.com/track/2CJ9wTckMqRjjVVSLTs8QZ) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Destroyer](https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0) | 4:13 | 2022-01-11 |  |
 | [Goin' Blind](https://open.spotify.com/track/2Kgabuiyu24mw1tVcFjHh3) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Hotter Than Hell](https://open.spotify.com/album/4n2ovJeGDVOP9SqcvaspxE) | 3:36 | 2022-01-11 | 2022-09-23 |
-| [Goin' Blind \- Live From MTV Unplugged/1995](https://open.spotify.com/track/0iX0reYVBCXyLfPg6zgyP9) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [MTV Unplugged](https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y) | 3:27 | 2022-12-27 |  |
+| [Goin' Blind \- Live From MTV Unplugged/1995](https://open.spotify.com/track/0iX0reYVBCXyLfPg6zgyP9) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [MTV Unplugged](https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y) | 3:27 | 2022-12-27 | 2026-10-12 |
 | [Got To Choose \- Live/1975](https://open.spotify.com/track/6ycMzEaKlHHDJkHjUjEpzk) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Alive!](https://open.spotify.com/album/6TRmLIsPKSPS71Cnq8FiMc) | 3:57 | 2025-10-20 | 2025-11-03 |
 | [Hard Luck Woman](https://open.spotify.com/track/1vcZBUX6P6FHXzG2mUfmCE) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Rock And Roll Over](https://open.spotify.com/album/6722nY178mLes49GPldnjj) | 3:34 | 2022-01-11 | 2026-09-18 |
 | [Hard Luck Woman \- Outtake](https://open.spotify.com/track/104gOf7mPTkf9cCH4vDzIF) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Hard Luck Woman \(Outtake\)](https://open.spotify.com/album/1QTB19waB3UfK4x5MG9Sql) | 3:46 | 2026-09-18 |  |
@@ -94,6 +94,7 @@
 | [Parasite \- Remastered 1997](https://open.spotify.com/track/5RaXQF86U71nenpwo2yjdz) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Hotter Than Hell \(Remastered 1997\)](https://open.spotify.com/album/4n2ovJeGDVOP9SqcvaspxE) | 3:02 | 2023-12-13 | 2026-08-28 |
 | [Plaster Caster](https://open.spotify.com/track/5BMGKj445wO9EgMHMhAMIg) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Love Gun](https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b) | 3:28 | 2022-01-11 | 2022-01-27 |
 | [Psycho Circus](https://open.spotify.com/track/1D28pacrVWg8sg7v00l4uR) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Psycho Circus](https://open.spotify.com/album/0A4lWyi4wbORjnlf4WmvFd) | 5:30 | 2022-01-11 |  |
+| [Reach For The Stars](https://open.spotify.com/track/4KhenOsbUf96WVeAZE2jFO) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [PITCOIN](https://open.spotify.com/album/4Lkkfpt8ZkDmw4viHHi0IM) | 2:59 | 2026-10-12 |  |
 | [Reason To Live](https://open.spotify.com/track/3onHM3etsRdtbTS7cgwkNb) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Crazy Nights](https://open.spotify.com/album/3UBqHwvxUDl6jWxY2RhmrN) | 4:00 | 2022-01-11 |  |
 | [Rise To It](https://open.spotify.com/track/7gAHDwN4iqkjFozSODtWBn) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Hot In The Shade](https://open.spotify.com/album/4tA5KsFziTKOuDVAUivcjM) | 4:04 | 2022-01-11 | 2022-01-13 |
 | [Rock 'N' Roll All Nite \- Live From MTV Unplugged/1995](https://open.spotify.com/track/19FX445jYl2XFNKvVKJ9NJ) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [MTV Unplugged](https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y) | 4:19 | 2022-01-11 |  |

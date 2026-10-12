@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26GFPO.md) - [plain]
 
 > This is LUDMILLA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,514 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,513 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,10 +42,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26GFPO.md) - [plain]
 | 32 | [Whine](https://open.spotify.com/track/1RMEvuPu0Lq5GzBedlzEdA) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 2:58 |
 | 33 | [Insônia \- Ao Vivo](https://open.spotify.com/track/3EM71GPnUGJ75uDhkH77pq) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Numanice \#2 \(Ao Vivo\)](https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu) | 3:01 |
 | 34 | [Sintoma de Amor / Depois do Amor / Agenda \- Ao vivo](https://open.spotify.com/track/6LgkG3CQKp6qejNMpOatMj) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \(Ao vivo\)](https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN) | 5:25 |
-| 35 | [Duas doses de saudade / Nunca me verá chorar / Não quero mais \- Ao vivo](https://open.spotify.com/track/4jQmLCQingMe51sGRrsqRg) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Hello mundo \(Ao vivo\)](https://open.spotify.com/album/3VDQ3Oa1bICtnbII8HowVw) | 6:21 |
-| 36 | [Sintomas de Prazer](https://open.spotify.com/track/2D1rmVTeaZrr5Ipow29t4b) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [VILÃ](https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh) | 2:28 |
-| 37 | [Dia de Fluxo](https://open.spotify.com/track/6GmyQws2xpUFIN5dXBNTrl) | [AgroPlay](https://open.spotify.com/artist/0uGWkZRPp1Urk77XBrPBsZ), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Dia de Fluxo](https://open.spotify.com/album/58jzd3ALDliyTUI5Ke8jmS) | 2:13 |
-| 38 | [Eu estive Aqui \- Ao Vivo](https://open.spotify.com/track/07lEHXZYuhl0KpmXOYvwpc) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \#2 \(Ao Vivo\)](https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu) | 2:40 |
+| 35 | [Sintomas de Prazer](https://open.spotify.com/track/2D1rmVTeaZrr5Ipow29t4b) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [VILÃ](https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh) | 2:28 |
+| 36 | [Duas doses de saudade / Nunca me verá chorar / Não quero mais \- Ao vivo](https://open.spotify.com/track/4jQmLCQingMe51sGRrsqRg) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Hello mundo \(Ao vivo\)](https://open.spotify.com/album/3VDQ3Oa1bICtnbII8HowVw) | 6:21 |
+| 37 | [Eu estive Aqui \- Ao Vivo](https://open.spotify.com/track/07lEHXZYuhl0KpmXOYvwpc) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \#2 \(Ao Vivo\)](https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu) | 2:40 |
+| 38 | [Dia de Fluxo](https://open.spotify.com/track/6GmyQws2xpUFIN5dXBNTrl) | [AgroPlay](https://open.spotify.com/artist/0uGWkZRPp1Urk77XBrPBsZ), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Dia de Fluxo](https://open.spotify.com/album/58jzd3ALDliyTUI5Ke8jmS) | 2:13 |
 | 39 | [Bom](https://open.spotify.com/track/25SL3ZSbEGtu4oU14xllMQ) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [A danada sou eu](https://open.spotify.com/album/4JZQXCD2TwUZmxSLlMDRoX) | 2:52 |
 | 40 | [Ninguém Merece Amar Sozinho](https://open.spotify.com/track/3rCnVAG0josT5ql2MAFGmT) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Ninguém Merece Amar Sozinho](https://open.spotify.com/album/4791KfaEDaxtKtv1kzxVh0) | 3:47 |
 | 41 | [Mande Um Sinal / Sinais \- Ao vivo](https://open.spotify.com/track/7gGCGzNFmW0xjhA8dA3Y5w) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \(Ao vivo\)](https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN) | 4:41 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26GFPO.md) - [plain]
 | 44 | [Whiskey Com Água de Choro](https://open.spotify.com/track/3EX5wGiv3N2iAwvpgk4d9E) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Fragmentos](https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb) | 2:45 |
 | 45 | [Maldivas](https://open.spotify.com/track/1FGRA5pMtBqJLNAaSBia2x) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \#2](https://open.spotify.com/album/5xm4qlyamtTnDKpAhVAtX3) | 2:44 |
 | 46 | [Fora de Si \- Ao Vivo](https://open.spotify.com/track/3ojDttdAfpz1UhnFVLSG3s) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \#2 \(Ao Vivo\)](https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu) | 2:27 |
-| 47 | [Tu Pode Falar Mal](https://open.spotify.com/track/3BzspvZM7gE6jKOt5ThNci) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Ronaldinho Gaúcho](https://open.spotify.com/artist/5AJWGh9NGtTwzTCVq7zFbe) | [Tu Pode Falar Mal](https://open.spotify.com/album/1C100VSVnxtsywVuC4ZVE0) | 2:51 |
+| 47 | [Um Pôr do Sol na Praia \- Ao vivo](https://open.spotify.com/track/7M1YydD0jJ9teSC62fhfY9) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \(Ao vivo\)](https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN) | 2:40 |
 | 48 | [Sem querer](https://open.spotify.com/track/2rC41weP3q2jhM0PDYOZGo) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Hoje](https://open.spotify.com/album/3IW2BnN4ynkoxAEftrT8eN) | 2:49 |
-| 49 | [Um Pôr do Sol na Praia \- Ao vivo](https://open.spotify.com/track/7M1YydD0jJ9teSC62fhfY9) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \(Ao vivo\)](https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN) | 2:40 |
+| 49 | [Tu Pode Falar Mal](https://open.spotify.com/track/3BzspvZM7gE6jKOt5ThNci) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Ronaldinho Gaúcho](https://open.spotify.com/artist/5AJWGh9NGtTwzTCVq7zFbe) | [Tu Pode Falar Mal](https://open.spotify.com/album/1C100VSVnxtsywVuC4ZVE0) | 2:51 |
 | 50 | [Macetando](https://open.spotify.com/track/4uR8CslffeNgPZ3lSuyfAc) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Macetando](https://open.spotify.com/album/5hylnoVPMP3cRU2Jwh9z5r) | 2:47 |
 
 Snapshot ID: `asgugAAAAAB8KcoDDBzSrJ5edBLdQQ9s`

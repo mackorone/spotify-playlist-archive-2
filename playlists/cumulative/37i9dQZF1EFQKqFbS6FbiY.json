@@ -2689,6 +2689,24 @@
     },
     {
       "album": {
+        "name": "Casinha (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4SqxPIr6CmZ62qzg0xXjzu"
+      },
+      "artists": [
+        {
+          "name": "Sambax\u00e9",
+          "url": "https://open.spotify.com/artist/2Wxox3AX2F25unFIFFInDS"
+        }
+      ],
+      "date_added": "2026-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161175,
+      "name": "Casinha - Ao Vivo",
+      "url": "https://open.spotify.com/track/4SBbqL5L06Y4IMnBIVRjTI"
+    },
+    {
+      "album": {
         "name": "Casinha (Ao Vivo, Em Cuiab\u00e1)",
         "url": "https://open.spotify.com/album/7Lq9scyGhoNDGI9cYtNHGc"
       },

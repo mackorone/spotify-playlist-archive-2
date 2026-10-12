@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiDhnQ2IIru.md) - [plain]
 
 > Hit the road to the soundtrack of these seventies classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,418,405 likes - 100 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,418,649 likes - 100 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,10 +55,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiDhnQ2IIru.md) - [plain]
 | 45 | [You Make Me Feel Like Dancing \- Remastered](https://open.spotify.com/track/6gTrbqZnyljwXdYQTyBkSx) | [Leo Sayer](https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV) | [Endless Flight](https://open.spotify.com/album/1d79WI0e5XKTpBymbKADDQ) | 3:39 |
 | 46 | [Guitar Man](https://open.spotify.com/track/0gZXockVcE7rEhSf4mcGLO) | [Bread](https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL) | [Guitar Man](https://open.spotify.com/album/38mhQ9p2BiHpz60gthzEVy) | 3:46 |
 | 47 | [Moondance \- 2013 Remaster](https://open.spotify.com/track/683b4ikwa62JevCjwrmfg6) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Moondance \(Deluxe Edition\)](https://open.spotify.com/album/7diHYi0CglGJekoM3KaWBK) | 4:34 |
-| 48 | [Rocky Mountain Way](https://open.spotify.com/track/2XHjFJVXYlEzoDvN82h8s5) | [Joe Walsh](https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK) | [The Smoker You Drink, The Player You Get](https://open.spotify.com/album/6Sdkho6t0ure9XTzZXM2CK) | 5:15 |
-| 49 | [The Rubberband Man](https://open.spotify.com/track/13Mzsb8VzRSZ5w3pM48cn6) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [The Rubberband Man / Now That We're Together](https://open.spotify.com/album/5PyOMtVxqztMvIKsJLV8bW) | 3:33 |
-| 50 | [Saturday in the Park \- 2002 Remaster](https://open.spotify.com/track/4OJFkrRQqol4FsPesF8eu4) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago V \(Expanded & Remastered\)](https://open.spotify.com/album/2oSXXINsWGuEsc4udgWxh8) | 3:55 |
-| 51 | [Get Back \- Remastered 2009](https://open.spotify.com/track/4MLBqAEzNN89o2M9h92Z26) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Let It Be \(Remastered 2009\)](https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5) | 3:09 |
+| 48 | [The Rubberband Man](https://open.spotify.com/track/13Mzsb8VzRSZ5w3pM48cn6) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [The Rubberband Man / Now That We're Together](https://open.spotify.com/album/5PyOMtVxqztMvIKsJLV8bW) | 3:33 |
+| 49 | [Rocky Mountain Way](https://open.spotify.com/track/2XHjFJVXYlEzoDvN82h8s5) | [Joe Walsh](https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK) | [The Smoker You Drink, The Player You Get](https://open.spotify.com/album/6Sdkho6t0ure9XTzZXM2CK) | 5:15 |
+| 50 | [Get Back \- Remastered 2009](https://open.spotify.com/track/4MLBqAEzNN89o2M9h92Z26) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Let It Be \(Remastered 2009\)](https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5) | 3:09 |
+| 51 | [Saturday in the Park \- 2002 Remaster](https://open.spotify.com/track/4OJFkrRQqol4FsPesF8eu4) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago V \(Expanded & Remastered\)](https://open.spotify.com/album/2oSXXINsWGuEsc4udgWxh8) | 3:55 |
 | 52 | [Because the Night](https://open.spotify.com/track/0lIoY4ZQsdn5QzhraM9o9u) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Easter](https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd) | 3:24 |
 | 53 | [She's Gone](https://open.spotify.com/track/5dFoWIiJ2814hRwMYDcFiU) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Abandoned Luncheonette](https://open.spotify.com/album/47Dmo9RLpgHMusEiF8luvu) | 5:13 |
 | 54 | [It Never Rains in Southern California](https://open.spotify.com/track/6tunhVGD8C05MZNjSVIsjw) | [Albert Hammond](https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g) | [It Never Rains In Southern California](https://open.spotify.com/album/0gdQF4mVBPjv5hhjtoe3hM) | 3:53 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiDhnQ2IIru.md) - [plain]
 | 96 | [Casey Jones \- 2013 Remaster](https://open.spotify.com/track/7LbfuQVct78YoghmoPtsQ8) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Workingman's Dead](https://open.spotify.com/album/4jxokHekH1qSad1DcC82ku) | 4:25 |
 | 97 | [Don't Stop \- 2004 Remaster](https://open.spotify.com/track/3CPeWqqaHR0hmyfsWhMJQs) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 3:13 |
 | 98 | [In the Stone](https://open.spotify.com/track/3qZHUZTQiTMfJXcUYzY5mT) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [I Am](https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt) | 4:48 |
-| 99 | [Free Ride](https://open.spotify.com/track/4DhbiXEuV7JxSR0wuqetTa) | [The Edgar Winter Group](https://open.spotify.com/artist/7j9PMegEgVN1fNp8NZXNCI) | [They Only Come Out At Night](https://open.spotify.com/album/4CNEJF5wYGqhOYEKq8ciu8) | 3:07 |
-| 100 | [Stay with Me](https://open.spotify.com/track/7fLTytvnvxy653VWxflTRf) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [A Nod Is as Good as a Wink..\. to a Blind Horse](https://open.spotify.com/album/3mvdHEE56sgj1NtTnTF8qK) | 4:39 |
+| 99 | [Stay with Me](https://open.spotify.com/track/7fLTytvnvxy653VWxflTRf) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [A Nod Is as Good as a Wink..\. to a Blind Horse](https://open.spotify.com/album/3mvdHEE56sgj1NtTnTF8qK) | 4:39 |
+| 100 | [Free Ride](https://open.spotify.com/track/4DhbiXEuV7JxSR0wuqetTa) | [The Edgar Winter Group](https://open.spotify.com/artist/7j9PMegEgVN1fNp8NZXNCI) | [They Only Come Out At Night](https://open.spotify.com/album/4CNEJF5wYGqhOYEKq8ciu8) | 3:07 |
 
 Snapshot ID: `AAAAAGgbhrBFrYRW2aLDTwqaF2mRQuJ5`

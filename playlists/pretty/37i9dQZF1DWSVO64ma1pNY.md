@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 
 > Life sucks...i need some rock!
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,483 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,492 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 | 92 | [\~Cya Later\~](https://open.spotify.com/track/6Ua3hwMCkhRYgesV5kC9Rl) | [Tired Lion](https://open.spotify.com/artist/5Vf0Z6jyMOGr07Gf8irDMt) | [Breakfast For Pathetics](https://open.spotify.com/album/4cr6QE3fflOcnK8W1AWZYo) | 3:20 |
 | 93 | [Medicine](https://open.spotify.com/track/0J2Xun0cRXE37bEzL9JQHB) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Sunday / Medicine](https://open.spotify.com/album/3vVBTMmnaRBkJacdaY1sl1) | 4:16 |
 | 94 | [The Storm](https://open.spotify.com/track/7dK3KXph8IKzuMo89sh6Kg) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Storm](https://open.spotify.com/album/3JDUl3oKejH3cGOLBFlJgf) | 2:53 |
-| 95 | [Hole](https://open.spotify.com/track/6mJ1nbmQOm6iNClo71K5O6) | [Heavenward](https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk) | [Hole](https://open.spotify.com/album/60mPQihGw1E84gfBo52vON) | 3:44 |
-| 96 | [Ain't Hard To Tell](https://open.spotify.com/track/1Oip40rPQ0RsFKL2zBdGMN) | [Soul Blind](https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa) | [Feel It All Around](https://open.spotify.com/album/1hjHGUJidbYWrTaJaxInvy) | 3:11 |
+| 95 | [Ain't Hard To Tell](https://open.spotify.com/track/1Oip40rPQ0RsFKL2zBdGMN) | [Soul Blind](https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa) | [Feel It All Around](https://open.spotify.com/album/1hjHGUJidbYWrTaJaxInvy) | 3:11 |
+| 96 | [Hole](https://open.spotify.com/track/6mJ1nbmQOm6iNClo71K5O6) | [Heavenward](https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk) | [Hole](https://open.spotify.com/album/60mPQihGw1E84gfBo52vON) | 3:44 |
 | 97 | [Blue Eyes](https://open.spotify.com/track/6jQ6fNlEWKJfOBU4lp70PB) | [Blanket](https://open.spotify.com/artist/2AOTmilsEJDBEM6SIHFFy6) | [Blue Eyes](https://open.spotify.com/album/52bu09lAe1TYwMwdmcm1NH) | 3:31 |
 | 98 | [Cave In](https://open.spotify.com/track/0Du0CIdm9JDAxk3oOk2Dal) | [Present](https://open.spotify.com/artist/4WWrQqTUJ5dp36k9mxDCDF) | [Silver Lining](https://open.spotify.com/album/5CNYoKFhRQa1ky5DE7lDFc) | 2:56 |
 | 99 | [Shortest Fuse](https://open.spotify.com/track/10fl9iLpPKi4WVJh59hZ8c) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Shortest Fuse](https://open.spotify.com/album/1SeIVW1aJeueGTY1LKXOC6) | 3:40 |
-| 100 | [Cassiopeia \- Bonus Track](https://open.spotify.com/track/2lP3rtlDDTG0mgSuR2oWww) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [All These Countless Nights \(Reworked \- Deluxe Version\)](https://open.spotify.com/album/3uFlKT7oKZFybvN7IE3MBm) | 4:18 |
+| 100 | [Bang Bang](https://open.spotify.com/track/2qmX2TUphBTmXVHx8nbURD) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Bang Bang](https://open.spotify.com/album/3dVeApQdGALyhPsRcAoC1s) | 2:52 |
 
 Snapshot ID: `AAAAADoJFUPOwMv+5lEj5gfk8czIoh3D`

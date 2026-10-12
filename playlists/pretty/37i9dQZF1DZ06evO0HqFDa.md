@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HqFDa.md) - [plain]
 
 > This is Ramin Djawadi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,087 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,092 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HqFDa.md) - [plain]
 | 49 | [Fate of the Kingdoms](https://open.spotify.com/track/0rmZ3aiHkoKGKBmoC78D6m) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [House of the Dragon: Season 1 \(Soundtrack from the HBO® Series\)](https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv) | 3:25 |
 | 50 | [My Watch Has Ended](https://open.spotify.com/track/0SdHiRgv1yZtiPYuRnbUfu) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game of Thrones \(Music from the HBO® Series \- Season 6\)](https://open.spotify.com/album/7bBlW6L9r3ICFkbf2WRDXL) | 2:53 |
 
-Snapshot ID: `asgugAAAAACZ9W+w5Xh3TvYGTBy3T8vv`
+Snapshot ID: `asmAAAAAAACQzb64KLE8hZDwmHpVdKf7`

@@ -4,7 +4,7 @@
 
 > This is Luísa Sonza\. The essential tracks, all in one playlist.
 
-120 songs - 6 hr 7 min
+121 songs - 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [O Amor Tem Dessas \(e é melhor assim\)](https://open.spotify.com/track/1Bv5c7Vwi26a1DWdj9FjVn) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki) | [Escândalo Íntimo \(Deluxe\)](https://open.spotify.com/album/4tagp2ueRVSyfc6llI9RKq) | 2:54 | 2024-10-05 | 2024-11-10 |
 | [Olhos Castanhos](https://open.spotify.com/track/1Eh2tS7tgwqvvQLIBbByHo) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Olhos Castanhos](https://open.spotify.com/album/5TUfzNYXahREF4LdxaSoDh) | 3:25 | 2023-10-10 | 2026-04-11 |
 | [Onde Anda Você](https://open.spotify.com/track/1Ir4ixntD7SXBLK1OZI2fr) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y) | [Bossa Sempre Nova](https://open.spotify.com/album/5GD7XtF06kvgZZSkdUM1xU) | 2:32 | 2026-01-15 | 2026-03-31 |
-| [Onde Anda Você](https://open.spotify.com/track/1a8ugQMvqGdFdkV60BtKDF) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y) | [Bossa Sempre Nova](https://open.spotify.com/album/6aiBQlSTLJoZ0pPa9uko6t) | 2:32 | 2026-03-31 | 2026-09-27 |
+| [Onde Anda Você](https://open.spotify.com/track/1a8ugQMvqGdFdkV60BtKDF) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y) | [Bossa Sempre Nova](https://open.spotify.com/album/6aiBQlSTLJoZ0pPa9uko6t) | 2:32 | 2026-03-31 |  |
 | [Onde É Que Deu Errado?](https://open.spotify.com/track/0gcB5ZvsNDzskEnYU3snaY) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Onde É Que Deu Errado?](https://open.spotify.com/album/2dmqMp5bOW24RuT6WETctv) | 4:14 | 2024-09-20 | 2024-10-17 |
 | [Onde É Que Deu Errado?](https://open.spotify.com/track/3yPYfl0ng6ulN4tMTrDczF) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Escândalo Íntimo \(Deluxe\)](https://open.spotify.com/album/4tagp2ueRVSyfc6llI9RKq) | 4:14 | 2024-10-17 | 2025-01-04 |
 | [penhasco.](https://open.spotify.com/track/5VTqW8raQYnj2avZ27nO2a) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 3:06 | 2023-10-10 |  |
@@ -127,6 +127,7 @@
 | [Você](https://open.spotify.com/track/5gwiUEwHE9VRN9dMo8G2Ky) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Roberto Menescal](https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG) | [Bossa Sempre Nova](https://open.spotify.com/album/5GD7XtF06kvgZZSkdUM1xU) | 2:54 | 2026-01-15 | 2026-03-25 |
 | [Você Me Vira A Cabeça \(Me Tira Do Sério\) / Depois Do Prazer \- Ao Vivo](https://open.spotify.com/track/0qA748lp4sQSrXzxj7KrFq) | [Mumuzinho](https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Resenha Do Mumu \(Ao Vivo / Deluxe\)](https://open.spotify.com/album/4iLtLzfRb7oXYLmAkFU6A2) | 5:30 | 2023-10-10 | 2023-11-11 |
 | [What We Are \(with Luísa Sonza\)](https://open.spotify.com/track/6Z59PmHDQDJxjo5UnXky6n) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Music For People Who Believe In Love](https://open.spotify.com/album/3ZuXKlQ48SrFaJU9KDrIkE) | 3:34 | 2025-05-25 | 2025-07-24 |
+| [ZZIRIT \(Feat\. Luísa Sonza\)](https://open.spotify.com/track/2Q61w7dlB4UbOJrLvzHxOF) | [X:IN](https://open.spotify.com/artist/2nr8bylnNeelcA9SJvwmuu), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Chain Reaction](https://open.spotify.com/album/0b54twygaqMM8bmvhzMMjW) | 2:21 | 2026-10-12 |  |
 | [Águas de Março](https://open.spotify.com/track/0MHySawcjVkAcxHdsyI6o1) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y) | [Bossa Sempre Nova](https://open.spotify.com/album/5GD7XtF06kvgZZSkdUM1xU) | 3:03 | 2026-02-11 | 2026-03-28 |
 
 \*This playlist was first scraped on 2023-10-11. Prior content cannot be recovered.

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With DIE DIE BE, Bestial Mouths, JUST LIZZY and more",
+  "description": "With JUST LIZZY, Ursula, DIE DIE BE and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -362,7 +362,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-11",
+      "date_removed": null,
       "duration_ms": 190236,
       "name": "A Perfect Day",
       "url": "https://open.spotify.com/track/5mrFLqxBLS7t8cMnuLMiVY"
@@ -822,7 +822,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-11",
+      "date_removed": null,
       "duration_ms": 264441,
       "name": "All the Things I Could've Done",
       "url": "https://open.spotify.com/track/3lBB3QBBf8Sv0EJ3hBLYqv"
@@ -1332,7 +1332,7 @@
       ],
       "date_added": "2026-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 229875,
       "name": "Ashes",
       "url": "https://open.spotify.com/track/3YiTA333q4lr1k8M6M43IK"
@@ -4940,7 +4940,7 @@
       ],
       "date_added": "2026-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 265000,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/1YZOsLnUkSPpoyzgnXg3ds"
@@ -6540,7 +6540,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-11",
+      "date_removed": null,
       "duration_ms": 216000,
       "name": "EVERY VILLAIN NEEDS ONE IN THEIR OWN STORY",
       "url": "https://open.spotify.com/track/4GrVW9RnOSfJOvrxMoPcYl"
@@ -7496,7 +7496,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 282551,
       "name": "For Now",
       "url": "https://open.spotify.com/track/1oM2pOdX6TNoMeNcm5u1H5"
@@ -7782,7 +7782,7 @@
       ],
       "date_added": "2026-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 293483,
       "name": "From Dust",
       "url": "https://open.spotify.com/track/27YIbPHkUSj2Uz5CCukyFC"
@@ -7830,6 +7830,24 @@
       "duration_ms": 176821,
       "name": "Fuck War! - Remix I",
       "url": "https://open.spotify.com/track/30ech3YFPEWg5dvWFLMyoo"
+    },
+    {
+      "album": {
+        "name": "On Loan From the Universe",
+        "url": "https://open.spotify.com/album/1XFC0rOQLUxowkk4kxWGnP"
+      },
+      "artists": [
+        {
+          "name": "Norwegian Soft Kitten",
+          "url": "https://open.spotify.com/artist/1RhLtCCiEhC0PxzMXEu5yk"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362238,
+      "name": "Full Moon Raging",
+      "url": "https://open.spotify.com/track/5q4QoW7xycpvTn2rYAsWGY"
     },
     {
       "album": {
@@ -9900,7 +9918,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 189558,
       "name": "IDK",
       "url": "https://open.spotify.com/track/4lubGCqIHdtilZXttvFBuL"
@@ -10308,7 +10326,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 249716,
       "name": "Indigo",
       "url": "https://open.spotify.com/track/0HuanearWSgH1HshtDDHZY"
@@ -10629,6 +10647,24 @@
     },
     {
       "album": {
+        "name": "always under pressure",
+        "url": "https://open.spotify.com/album/48hf6yUQBbmeitwmNzDBIX"
+      },
+      "artists": [
+        {
+          "name": "bs",
+          "url": "https://open.spotify.com/artist/3z1xqVpqUypwkROfddpGxs"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138705,
+      "name": "is it enough?",
+      "url": "https://open.spotify.com/track/6vMWHxbtL2u34lk510XQv3"
+    },
+    {
+      "album": {
         "name": "Is it real",
         "url": "https://open.spotify.com/album/5QNVPXotA7sPuDRYW9w7pd"
       },
@@ -10730,7 +10766,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 145838,
       "name": "It Is, Is It?",
       "url": "https://open.spotify.com/track/12suIX22O7suMz8l37riiP"
@@ -12026,7 +12062,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-11",
+      "date_removed": null,
       "duration_ms": 262226,
       "name": "Life on a chain",
       "url": "https://open.spotify.com/track/5H0c1YApnVuiXwXxHPDQIO"
@@ -15528,7 +15564,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-10",
+      "date_removed": null,
       "duration_ms": 253978,
       "name": "pridefool",
       "url": "https://open.spotify.com/track/1fHnQvB8Hhz5hC7dzBqecu"
@@ -16138,7 +16174,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 225799,
       "name": "Rewire",
       "url": "https://open.spotify.com/track/6mOh6ttFt7iGpOFKIkasAr"
@@ -16730,7 +16766,7 @@
       ],
       "date_added": "2026-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-11",
+      "date_removed": null,
       "duration_ms": 145008,
       "name": "Satin Melody For You",
       "url": "https://open.spotify.com/track/7lQdkgP7E60hs0HGeqtQCX"
@@ -18960,7 +18996,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-10",
+      "date_removed": null,
       "duration_ms": 302112,
       "name": "Strong Enough",
       "url": "https://open.spotify.com/track/0roS1g287szeaSfFXh9Vje"
@@ -19202,7 +19238,7 @@
       ],
       "date_added": "2026-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 261696,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/6MhcROf37o3rAqVnGpVFQK"
@@ -19430,7 +19466,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 200000,
       "name": "Take A Bow",
       "url": "https://open.spotify.com/track/5V10D0PxNgH98EpqRMXxxw"
@@ -19970,7 +20006,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-11",
+      "date_removed": null,
       "duration_ms": 289093,
       "name": "The Dark of Light",
       "url": "https://open.spotify.com/track/505s5auBD7triJ8I36BI37"
@@ -20990,7 +21026,7 @@
       ],
       "date_added": "2026-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 234702,
       "name": "The Wonders",
       "url": "https://open.spotify.com/track/3u3l6VpffSldutXDjkCJSl"
@@ -21874,7 +21910,7 @@
       ],
       "date_added": "2026-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-10",
+      "date_removed": null,
       "duration_ms": 244000,
       "name": "Triple Sized Cocktail",
       "url": "https://open.spotify.com/track/5bNWG72kk0iq7ZXPtQi0LA"
@@ -23280,7 +23316,7 @@
       ],
       "date_added": "2026-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 259813,
       "name": "We Were Young",
       "url": "https://open.spotify.com/track/5i2R6mynkMNZncrwishbGJ"
@@ -23948,7 +23984,7 @@
       ],
       "date_added": "2026-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 331599,
       "name": "Will You See Me in the Morning",
       "url": "https://open.spotify.com/track/7H05vzE2NAT1scp79NBlXZ"

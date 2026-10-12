@@ -1,6 +1,6 @@
 {
   "description": "Les nouveaut\u00e9s rap franco sans fronti\u00e8res. Photo: Bekar",
-  "num_followers": 24533,
+  "num_followers": 24547,
   "original_name": "Rap francophone",
   "owner": {
     "name": "Spotify",
@@ -1035,22 +1035,18 @@
     {
       "added_at": "2026-10-09 04:03:44",
       "album": {
-        "name": "AVEC MOI",
-        "url": "https://open.spotify.com/album/3mT7JQV1sTV81SKPxkq0OA"
+        "name": "Ch\u00e9rie coco",
+        "url": "https://open.spotify.com/album/2BrEGJdhqggfkJeFe8OMnU"
       },
       "artists": [
         {
-          "name": "RnBoi",
-          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
-        },
-        {
-          "name": "Nono La Grinta",
-          "url": "https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN"
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
         }
       ],
-      "duration_ms": 182000,
-      "name": "AVEC MOI",
-      "url": "https://open.spotify.com/track/2ZxulKXVUpatqUe0quNMtP"
+      "duration_ms": 144000,
+      "name": "Ch\u00e9rie coco",
+      "url": "https://open.spotify.com/track/0xQsGakPk9wUzWNQEmut53"
     },
     {
       "added_at": "2026-10-09 04:03:44",
@@ -1071,18 +1067,22 @@
     {
       "added_at": "2026-10-09 04:03:44",
       "album": {
-        "name": "Ch\u00e9rie coco",
-        "url": "https://open.spotify.com/album/2BrEGJdhqggfkJeFe8OMnU"
+        "name": "AVEC MOI",
+        "url": "https://open.spotify.com/album/3mT7JQV1sTV81SKPxkq0OA"
       },
       "artists": [
         {
-          "name": "Leto",
-          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+          "name": "RnBoi",
+          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
+        },
+        {
+          "name": "Nono La Grinta",
+          "url": "https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Ch\u00e9rie coco",
-      "url": "https://open.spotify.com/track/0xQsGakPk9wUzWNQEmut53"
+      "duration_ms": 182000,
+      "name": "AVEC MOI",
+      "url": "https://open.spotify.com/track/2ZxulKXVUpatqUe0quNMtP"
     },
     {
       "added_at": "2026-10-09 04:03:44",
@@ -1119,6 +1119,26 @@
       "duration_ms": 148636,
       "name": "Chanel",
       "url": "https://open.spotify.com/track/3TKi9R2cUg56cLTym2SmjS"
+    },
+    {
+      "added_at": "2026-10-09 04:03:44",
+      "album": {
+        "name": "Noum\u00e9a",
+        "url": "https://open.spotify.com/album/7lqhAywP57SUAnUBbR803I"
+      },
+      "artists": [
+        {
+          "name": "Jok'air",
+          "url": "https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua"
+        },
+        {
+          "name": "Linema",
+          "url": "https://open.spotify.com/artist/1JLLmatqNVWI9Ta5bIEvbl"
+        }
+      ],
+      "duration_ms": 228931,
+      "name": "Noum\u00e9a",
+      "url": "https://open.spotify.com/track/6bTiBd9SYQxF4MbELTekG7"
     },
     {
       "added_at": "2026-10-09 04:03:44",
@@ -1183,26 +1203,6 @@
     {
       "added_at": "2026-10-09 04:03:44",
       "album": {
-        "name": "Noum\u00e9a",
-        "url": "https://open.spotify.com/album/7lqhAywP57SUAnUBbR803I"
-      },
-      "artists": [
-        {
-          "name": "Jok'air",
-          "url": "https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua"
-        },
-        {
-          "name": "Linema",
-          "url": "https://open.spotify.com/artist/1JLLmatqNVWI9Ta5bIEvbl"
-        }
-      ],
-      "duration_ms": 228931,
-      "name": "Noum\u00e9a",
-      "url": "https://open.spotify.com/track/6bTiBd9SYQxF4MbELTekG7"
-    },
-    {
-      "added_at": "2026-10-09 04:03:44",
-      "album": {
         "name": "L'humain",
         "url": "https://open.spotify.com/album/0iL2qBxWhrhEccFz37OaQG"
       },
@@ -1215,22 +1215,6 @@
       "duration_ms": 176933,
       "name": "L'humain",
       "url": "https://open.spotify.com/track/4TK7vNav592pavcStbeTsD"
-    },
-    {
-      "added_at": "2026-10-09 04:03:44",
-      "album": {
-        "name": "GROSEILLE",
-        "url": "https://open.spotify.com/album/6wmE0E3apoelhUyLxr95i3"
-      },
-      "artists": [
-        {
-          "name": "Timar",
-          "url": "https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D"
-        }
-      ],
-      "duration_ms": 173013,
-      "name": "GROSEILLE",
-      "url": "https://open.spotify.com/track/3j5YZKkYPMQLJP8K0WvOjo"
     },
     {
       "added_at": "2026-10-09 04:03:44",
@@ -1255,6 +1239,22 @@
     {
       "added_at": "2026-10-09 04:03:44",
       "album": {
+        "name": "GROSEILLE",
+        "url": "https://open.spotify.com/album/6wmE0E3apoelhUyLxr95i3"
+      },
+      "artists": [
+        {
+          "name": "Timar",
+          "url": "https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D"
+        }
+      ],
+      "duration_ms": 173013,
+      "name": "GROSEILLE",
+      "url": "https://open.spotify.com/track/3j5YZKkYPMQLJP8K0WvOjo"
+    },
+    {
+      "added_at": "2026-10-09 04:03:44",
+      "album": {
         "name": "Jet Set",
         "url": "https://open.spotify.com/album/3smO8kZ2tt7EsHv6UzqFPu"
       },
@@ -1267,26 +1267,6 @@
       "duration_ms": 150000,
       "name": "Jet Set",
       "url": "https://open.spotify.com/track/5lUGD5wlB44y2DPFEi79vL"
-    },
-    {
-      "added_at": "2026-10-09 04:03:44",
-      "album": {
-        "name": "Casus Belli",
-        "url": "https://open.spotify.com/album/14hA41kJGeJi4MfY3EcMqk"
-      },
-      "artists": [
-        {
-          "name": "Le Crime",
-          "url": "https://open.spotify.com/artist/00edlcHg3ILdHtrYL54bxX"
-        },
-        {
-          "name": "Leto",
-          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
-        }
-      ],
-      "duration_ms": 206250,
-      "name": "Ballon D'or",
-      "url": "https://open.spotify.com/track/3ygslH1eoPaSrhW8ewR4Og"
     },
     {
       "added_at": "2026-10-09 04:03:44",
@@ -1311,6 +1291,26 @@
     {
       "added_at": "2026-10-09 04:03:44",
       "album": {
+        "name": "Casus Belli",
+        "url": "https://open.spotify.com/album/14hA41kJGeJi4MfY3EcMqk"
+      },
+      "artists": [
+        {
+          "name": "Le Crime",
+          "url": "https://open.spotify.com/artist/00edlcHg3ILdHtrYL54bxX"
+        },
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        }
+      ],
+      "duration_ms": 206250,
+      "name": "Ballon D'or",
+      "url": "https://open.spotify.com/track/3ygslH1eoPaSrhW8ewR4Og"
+    },
+    {
+      "added_at": "2026-10-09 04:03:44",
+      "album": {
         "name": "Insolent",
         "url": "https://open.spotify.com/album/1uNh41ZBdu8WpKPlDjbSlW"
       },
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-10-09 04:03:44",
       "album": {
-        "name": "M.I.L.S 4",
-        "url": "https://open.spotify.com/album/11XkHp613L7iXDGbQV9lAJ"
-      },
-      "artists": [
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        }
-      ],
-      "duration_ms": 190938,
-      "name": "PILIER",
-      "url": "https://open.spotify.com/track/14Gt0PQM7nxO5Etc2wwcpU"
-    },
-    {
-      "added_at": "2026-10-09 04:03:44",
-      "album": {
         "name": "FRENCH CONNEXION, Pt.3",
         "url": "https://open.spotify.com/album/2hFWii4JgG7lYZIR309Vec"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 208372,
       "name": "FRENCH CONNEXION, Pt.3",
       "url": "https://open.spotify.com/track/2O4oItDRAYlaJPqCcpN2FP"
+    },
+    {
+      "added_at": "2026-10-09 04:03:44",
+      "album": {
+        "name": "M.I.L.S 4",
+        "url": "https://open.spotify.com/album/11XkHp613L7iXDGbQV9lAJ"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "duration_ms": 190938,
+      "name": "PILIER",
+      "url": "https://open.spotify.com/track/14Gt0PQM7nxO5Etc2wwcpU"
     },
     {
       "added_at": "2026-10-09 04:03:44",
@@ -1383,18 +1383,22 @@
     {
       "added_at": "2026-10-09 04:03:44",
       "album": {
-        "name": "Les avions dessinent dans le ciel",
-        "url": "https://open.spotify.com/album/7EUblqvqDOvXR5eW5HkTqh"
+        "name": "Mentir au psy",
+        "url": "https://open.spotify.com/album/5ZyA2oZrTciyWMJJOjtVMG"
       },
       "artists": [
         {
           "name": "BEN plg",
           "url": "https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98"
+        },
+        {
+          "name": "Orelsan",
+          "url": "https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN"
         }
       ],
-      "duration_ms": 183694,
-      "name": "Les avions dessinent dans le ciel",
-      "url": "https://open.spotify.com/track/6wZHHNWL3vGTZRNcIITQci"
+      "duration_ms": 181781,
+      "name": "Mentir au psy",
+      "url": "https://open.spotify.com/track/0xpx6Vk2EO7DZ8h9paHR1z"
     },
     {
       "added_at": "2026-10-09 04:03:44",
@@ -1411,6 +1415,22 @@
       "duration_ms": 160320,
       "name": "FENG SHUI",
       "url": "https://open.spotify.com/track/5ZHK4qZbm9JR1AZ8FeePna"
+    },
+    {
+      "added_at": "2026-10-09 04:03:44",
+      "album": {
+        "name": "MCM",
+        "url": "https://open.spotify.com/album/09EfixvderJHbDPcLYfajv"
+      },
+      "artists": [
+        {
+          "name": "Niaks",
+          "url": "https://open.spotify.com/artist/2vVtmqEXliBFxqCa3Juo5W"
+        }
+      ],
+      "duration_ms": 161586,
+      "name": "MCM",
+      "url": "https://open.spotify.com/track/2T44mRgdxoqZpRrbG2WbQZ"
     },
     {
       "added_at": "2026-10-09 04:03:44",
@@ -1435,22 +1455,6 @@
     {
       "added_at": "2026-10-09 04:03:44",
       "album": {
-        "name": "MCM",
-        "url": "https://open.spotify.com/album/09EfixvderJHbDPcLYfajv"
-      },
-      "artists": [
-        {
-          "name": "Niaks",
-          "url": "https://open.spotify.com/artist/2vVtmqEXliBFxqCa3Juo5W"
-        }
-      ],
-      "duration_ms": 161586,
-      "name": "MCM",
-      "url": "https://open.spotify.com/track/2T44mRgdxoqZpRrbG2WbQZ"
-    },
-    {
-      "added_at": "2026-10-09 04:03:44",
-      "album": {
         "name": "Savage",
         "url": "https://open.spotify.com/album/7F1ev5jdIskBh4UhwrQCua"
       },
@@ -1467,22 +1471,18 @@
     {
       "added_at": "2026-10-09 04:03:44",
       "album": {
-        "name": "Mentir au psy",
-        "url": "https://open.spotify.com/album/5ZyA2oZrTciyWMJJOjtVMG"
+        "name": "Les avions dessinent dans le ciel",
+        "url": "https://open.spotify.com/album/7EUblqvqDOvXR5eW5HkTqh"
       },
       "artists": [
         {
           "name": "BEN plg",
           "url": "https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98"
-        },
-        {
-          "name": "Orelsan",
-          "url": "https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN"
         }
       ],
-      "duration_ms": 181781,
-      "name": "Mentir au psy",
-      "url": "https://open.spotify.com/track/0xpx6Vk2EO7DZ8h9paHR1z"
+      "duration_ms": 183694,
+      "name": "Les avions dessinent dans le ciel",
+      "url": "https://open.spotify.com/track/6wZHHNWL3vGTZRNcIITQci"
     },
     {
       "added_at": "2026-10-09 04:03:44",
@@ -1563,26 +1563,6 @@
     {
       "added_at": "2026-10-09 04:03:44",
       "album": {
-        "name": "M\u00c9DICAMENT",
-        "url": "https://open.spotify.com/album/4Vk4vV6FLeDiJE0uupd7Bt"
-      },
-      "artists": [
-        {
-          "name": "HOUDI",
-          "url": "https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6"
-        },
-        {
-          "name": "Anyme023",
-          "url": "https://open.spotify.com/artist/2XoNHBh5o3I1Niqsr5uA3P"
-        }
-      ],
-      "duration_ms": 186880,
-      "name": "M\u00c9DICAMENT",
-      "url": "https://open.spotify.com/track/2MFm3yQgt7hNkjP1ZYsI2u"
-    },
-    {
-      "added_at": "2026-10-09 04:03:44",
-      "album": {
         "name": "Amiri",
         "url": "https://open.spotify.com/album/6hV6hjrXHXpACouXF1LeAa"
       },
@@ -1599,6 +1579,26 @@
       "duration_ms": 176190,
       "name": "Amiri",
       "url": "https://open.spotify.com/track/1rRMf5yOHijWyYICSRkxxT"
+    },
+    {
+      "added_at": "2026-10-09 04:03:44",
+      "album": {
+        "name": "M\u00c9DICAMENT",
+        "url": "https://open.spotify.com/album/4Vk4vV6FLeDiJE0uupd7Bt"
+      },
+      "artists": [
+        {
+          "name": "HOUDI",
+          "url": "https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6"
+        },
+        {
+          "name": "Anyme023",
+          "url": "https://open.spotify.com/artist/2XoNHBh5o3I1Niqsr5uA3P"
+        }
+      ],
+      "duration_ms": 186880,
+      "name": "M\u00c9DICAMENT",
+      "url": "https://open.spotify.com/track/2MFm3yQgt7hNkjP1ZYsI2u"
     },
     {
       "added_at": "2026-10-09 04:03:44",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2026-10-09 04:03:44",
       "album": {
+        "name": "PUBLIC ENEMY",
+        "url": "https://open.spotify.com/album/3YMJMEiT7hO0ggUXoxPVA4"
+      },
+      "artists": [
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        }
+      ],
+      "duration_ms": 115488,
+      "name": "BLICK",
+      "url": "https://open.spotify.com/track/1CqfEGarqDPhWUKft6Gy9z"
+    },
+    {
+      "added_at": "2026-10-09 04:03:44",
+      "album": {
         "name": "L.T.P",
         "url": "https://open.spotify.com/album/346djqe1ayiS4I67IvgwM5"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 126829,
       "name": "L.T.P",
       "url": "https://open.spotify.com/track/65zLXqR3Odxg5P4BepHoKi"
-    },
-    {
-      "added_at": "2026-10-09 04:03:44",
-      "album": {
-        "name": "PUBLIC ENEMY",
-        "url": "https://open.spotify.com/album/3YMJMEiT7hO0ggUXoxPVA4"
-      },
-      "artists": [
-        {
-          "name": "Hamza",
-          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
-        }
-      ],
-      "duration_ms": 115488,
-      "name": "BLICK",
-      "url": "https://open.spotify.com/track/1CqfEGarqDPhWUKft6Gy9z"
     },
     {
       "added_at": "2026-10-09 04:03:44",
@@ -1731,6 +1731,22 @@
     {
       "added_at": "2026-10-09 04:03:44",
       "album": {
+        "name": "J'encaisse",
+        "url": "https://open.spotify.com/album/6oNGdCN1i1ppjEXNKdDWdh"
+      },
+      "artists": [
+        {
+          "name": "Landy",
+          "url": "https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "J'encaisse",
+      "url": "https://open.spotify.com/track/7fHhj8uL1vj8Y1CV63i9bm"
+    },
+    {
+      "added_at": "2026-10-09 04:03:44",
+      "album": {
         "name": "No System (GRM x Yard)",
         "url": "https://open.spotify.com/album/0fIlnmUUpG121cI02RAfnU"
       },
@@ -1767,34 +1783,18 @@
     {
       "added_at": "2026-10-09 04:03:44",
       "album": {
-        "name": "J'encaisse",
-        "url": "https://open.spotify.com/album/6oNGdCN1i1ppjEXNKdDWdh"
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/4S2OSc9WPy2QK6FabRqurE"
       },
       "artists": [
         {
-          "name": "Landy",
-          "url": "https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK"
+          "name": "OBOY",
+          "url": "https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ"
         }
       ],
-      "duration_ms": 173333,
-      "name": "J'encaisse",
-      "url": "https://open.spotify.com/track/7fHhj8uL1vj8Y1CV63i9bm"
-    },
-    {
-      "added_at": "2026-10-09 04:03:44",
-      "album": {
-        "name": "bracelet",
-        "url": "https://open.spotify.com/album/2wazVZzdvI2BUwYMHD078A"
-      },
-      "artists": [
-        {
-          "name": "Luther",
-          "url": "https://open.spotify.com/artist/712cOCN3mpraX2UOgUvdHW"
-        }
-      ],
-      "duration_ms": 153213,
-      "name": "bracelet",
-      "url": "https://open.spotify.com/track/0Dk8i2Hj2ySXul7RjdJ3mg"
+      "duration_ms": 164840,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/0PzKXHZLlax3utLHSAAsiF"
     }
   ],
   "unique_name": "Rap francophone",

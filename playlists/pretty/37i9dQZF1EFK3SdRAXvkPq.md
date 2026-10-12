@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFK3SdRAXvkPq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/09d3mIGxzTl2sLatLvhXAh">Rios</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 274 likes - 177 songs - 9 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 275 likes - 177 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFK3SdRAXvkPq.md) - [plain]
 | 26 | [Amiga Mía](https://open.spotify.com/track/1tTEcJKC5uAtIoPrWCkmXZ) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 3:44 |
 | 27 | [Tropicoqueta](https://open.spotify.com/track/3l8zyeHnG8u2q7H4FQyVtS) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 2:35 |
 | 28 | [Dile Luna](https://open.spotify.com/track/4n0JnrS5az8qhhQRuofBfo) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Eddy Lover](https://open.spotify.com/artist/7gR53ad9JjCweCv4f9MWEX) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 3:07 |
-| 29 | [JORDAN IV](https://open.spotify.com/track/5ZyNCQmxZlYZfAHeJXTkI2) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [INTER SHIBUYA \- LA MAFIA](https://open.spotify.com/album/4hUQ4FB9GD5oDmw3XHIr0G) | 2:42 |
-| 30 | [MATADORA](https://open.spotify.com/track/04d5HlcQX6zH5MMqffXOon) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 2:24 |
+| 29 | [MATADORA](https://open.spotify.com/track/04d5HlcQX6zH5MMqffXOon) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 2:24 |
+| 30 | [JORDAN IV](https://open.spotify.com/track/5ZyNCQmxZlYZfAHeJXTkI2) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [INTER SHIBUYA \- LA MAFIA](https://open.spotify.com/album/4hUQ4FB9GD5oDmw3XHIr0G) | 2:42 |
 | 31 | [El vino de tu boca](https://open.spotify.com/track/3ytU2WojnV7zmKA9yb3gMu) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [¿Y ahora qué +?](https://open.spotify.com/album/2oBvsAEB09BYyv3Dnzn2Lb) | 2:48 |
 | 32 | [Ojalá](https://open.spotify.com/track/4dLIAE3xbJLoiIBbKkZWJk) | [The Rudeboyz](https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Ojalá](https://open.spotify.com/album/00XhrF5bpFfMJ0tT85DkTY) | 3:09 |
 | 33 | [Después de ti](https://open.spotify.com/track/1XUEx6XLSmuPx9hqYARlrd) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Greg Gonzalez](https://open.spotify.com/artist/3X80qrZudFnWfRlNg7uIDU) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 4:28 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFK3SdRAXvkPq.md) - [plain]
 | 79 | [A Escondidas](https://open.spotify.com/track/4HVzCG4ntiixZjPwOUFWHu) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [ENOC](https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q) | 3:20 |
 | 80 | [Stoker](https://open.spotify.com/track/5v8WFJFQz3BTcjeOOppkIY) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Rayo](https://open.spotify.com/album/1hUqwHvAVIEXMXqIrkHgPo) | 3:24 |
 | 81 | [Dos Extraños](https://open.spotify.com/track/5O3btmRRSh4kE6uuxMnHQK) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed Pt\. 2](https://open.spotify.com/album/29AuXQGyOpvyLWCngpNbd0) | 3:17 |
-| 82 | [Apodo](https://open.spotify.com/track/5OQyCrbytLw7anYRZXlEhc) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Apodo](https://open.spotify.com/album/1lb7uVplwl2K6b7GnAB0jr) | 2:53 |
-| 83 | [se me sale](https://open.spotify.com/track/0ot4EnQroudoSofYXOfgsU) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [LO QUE ME FALTA POR LLORAR](https://open.spotify.com/album/1rQaw35QueiDUvAhvTOWZi) | 2:26 |
+| 82 | [se me sale](https://open.spotify.com/track/0ot4EnQroudoSofYXOfgsU) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [LO QUE ME FALTA POR LLORAR](https://open.spotify.com/album/1rQaw35QueiDUvAhvTOWZi) | 2:26 |
+| 83 | [Apodo](https://open.spotify.com/track/5OQyCrbytLw7anYRZXlEhc) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Apodo](https://open.spotify.com/album/1lb7uVplwl2K6b7GnAB0jr) | 2:53 |
 | 84 | [NO SUPISTE CUIDARNOS \- Respuesta \#2](https://open.spotify.com/track/0XYnxyC3AgBO8B19iqc3r4) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [NO SUPISTE CUIDARNOS \(Respuesta \#2\)](https://open.spotify.com/album/0NTnrfFM9oczlM1795mwLQ) | 2:55 |
 | 85 | [El Reggaetón](https://open.spotify.com/track/7ooWSUhPtPPJfBhhLdYjIn) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [ENOC](https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q) | 3:36 |
 | 86 | [Vuelve o Vete](https://open.spotify.com/track/3veYAXkDS2BIxK9RwamGhQ) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [MUDA](https://open.spotify.com/album/2BiSmMZggEAlIKOFJATxut) | 3:36 |
@@ -186,4 +186,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFK3SdRAXvkPq.md) - [plain]
 | 176 | [Estrella Fugaz](https://open.spotify.com/track/4N0P7wQbTHpoZF69UYpr3V) | [Bryanne](https://open.spotify.com/artist/6R3sSAOL4rej4pFAAyMzWB) | [Estrella Fugaz](https://open.spotify.com/album/3lLj8bufRO2G5MtiFT5MNw) | 3:25 |
 | 177 | [Bby Wow](https://open.spotify.com/track/3Spvhpwuve2sQVtNMwZKSU) | [Facu Sanchez](https://open.spotify.com/artist/06ZoIY0fIJCba5QICxblJG) | [Bby Wow](https://open.spotify.com/album/6OXQ6XF2mBdL7gyg9wHh94) | 2:15 |
 
-Snapshot ID: `AcemrgAAAACJDacAy61K+X6ZDQdpmzSd`
+Snapshot ID: `AcesTgAAAABLx5vBuXFjoa27yu75CeXW`

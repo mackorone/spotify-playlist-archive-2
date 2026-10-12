@@ -1,6 +1,6 @@
 {
   "description": "New & best K-Electronic music is here. (Cover: DJ co.kr, h4rdy)",
-  "num_followers": 38165,
+  "num_followers": 38167,
   "original_name": "Electronii[K]",
   "owner": {
     "name": "Spotify",
@@ -771,6 +771,22 @@
     {
       "added_at": "2026-10-09 05:00:48",
       "album": {
+        "name": "CHU\u2661",
+        "url": "https://open.spotify.com/album/1kx3QVAHC1eEsBFklYJ1pV"
+      },
+      "artists": [
+        {
+          "name": "Kimmy gone",
+          "url": "https://open.spotify.com/artist/7fy9KcCR883R5ryS8IoGXB"
+        }
+      ],
+      "duration_ms": 99324,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/13RXWCKAcrnvYgAFATCZf8"
+    },
+    {
+      "added_at": "2026-10-09 05:00:48",
+      "album": {
         "name": "Love Eternally (feat. JUNNY)",
         "url": "https://open.spotify.com/album/3GyXdxYwhVyzlMfUlDBczH"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 237133,
       "name": "Love Eternally (feat. JUNNY)",
       "url": "https://open.spotify.com/track/20YNEkOUj8r3jHscotaGpe"
-    },
-    {
-      "added_at": "2026-10-09 05:00:48",
-      "album": {
-        "name": "CHU\u2661",
-        "url": "https://open.spotify.com/album/1kx3QVAHC1eEsBFklYJ1pV"
-      },
-      "artists": [
-        {
-          "name": "Kimmy gone",
-          "url": "https://open.spotify.com/artist/7fy9KcCR883R5ryS8IoGXB"
-        }
-      ],
-      "duration_ms": 99324,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/13RXWCKAcrnvYgAFATCZf8"
     },
     {
       "added_at": "2026-10-09 05:00:48",
@@ -975,6 +975,22 @@
     {
       "added_at": "2026-10-09 05:00:48",
       "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/1Lij4H3ykjlMZwVRutCx36"
+      },
+      "artists": [
+        {
+          "name": "Seori",
+          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
+        }
+      ],
+      "duration_ms": 205360,
+      "name": "High",
+      "url": "https://open.spotify.com/track/0UoC8cBPLaYBa87OtZQ0zr"
+    },
+    {
+      "added_at": "2026-10-09 05:00:48",
+      "album": {
         "name": "My Bad (feat. Julie Bergan) [KSHMR Edit]",
         "url": "https://open.spotify.com/album/35NGvCNRwl2NiWfcai5k4G"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 212352,
       "name": "My Bad (feat. Julie Bergan) - KSHMR Edit",
       "url": "https://open.spotify.com/track/7rM4FWiY8PqU2TxdXX6BXh"
-    },
-    {
-      "added_at": "2026-10-09 05:00:48",
-      "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/1Lij4H3ykjlMZwVRutCx36"
-      },
-      "artists": [
-        {
-          "name": "Seori",
-          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
-        }
-      ],
-      "duration_ms": 205360,
-      "name": "High",
-      "url": "https://open.spotify.com/track/0UoC8cBPLaYBa87OtZQ0zr"
     },
     {
       "added_at": "2026-10-09 05:00:48",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2026-10-09 05:00:48",
       "album": {
-        "name": "INSA",
-        "url": "https://open.spotify.com/album/6OXsPmbBUVrlVFr6QJGVLK"
-      },
-      "artists": [
-        {
-          "name": "LIM KIM",
-          "url": "https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv"
-        },
-        {
-          "name": "Bree Runway",
-          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
-        }
-      ],
-      "duration_ms": 159146,
-      "name": "INSA",
-      "url": "https://open.spotify.com/track/5GxNvIDQiYLzGVtjz85OUj"
-    },
-    {
-      "added_at": "2026-10-09 05:00:48",
-      "album": {
         "name": "iScreaM Vol.10 : Next Level Remixes",
         "url": "https://open.spotify.com/album/36cJnr7GCuGbuw0YQpjmTY"
       },
@@ -1115,6 +1095,26 @@
       "duration_ms": 225789,
       "name": "Next Level - IMLAY Remix",
       "url": "https://open.spotify.com/track/1OscRS80PF5n0hDkI9S1F2"
+    },
+    {
+      "added_at": "2026-10-09 05:00:48",
+      "album": {
+        "name": "INSA",
+        "url": "https://open.spotify.com/album/6OXsPmbBUVrlVFr6QJGVLK"
+      },
+      "artists": [
+        {
+          "name": "LIM KIM",
+          "url": "https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv"
+        },
+        {
+          "name": "Bree Runway",
+          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
+        }
+      ],
+      "duration_ms": 159146,
+      "name": "INSA",
+      "url": "https://open.spotify.com/track/5GxNvIDQiYLzGVtjz85OUj"
     },
     {
       "added_at": "2026-10-09 05:00:48",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2026-10-09 05:00:48",
       "album": {
+        "name": "eigensinn",
+        "url": "https://open.spotify.com/album/5oHPjdcJM6hiYNbFVNAJUg"
+      },
+      "artists": [
+        {
+          "name": "Sion",
+          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
+        }
+      ],
+      "duration_ms": 261301,
+      "name": "homes",
+      "url": "https://open.spotify.com/track/0JjEptlop0dcPsCxkcy5As"
+    },
+    {
+      "added_at": "2026-10-09 05:00:48",
+      "album": {
         "name": "like JENNIE (Peggy Gou Remix)",
         "url": "https://open.spotify.com/album/4AqYxQUuZk29apyPYt9aA8"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 208375,
       "name": "like JENNIE (Peggy Gou Remix)",
       "url": "https://open.spotify.com/track/3Tt5ueVmqidjOOQvdEJ9Fy"
-    },
-    {
-      "added_at": "2026-10-09 05:00:48",
-      "album": {
-        "name": "eigensinn",
-        "url": "https://open.spotify.com/album/5oHPjdcJM6hiYNbFVNAJUg"
-      },
-      "artists": [
-        {
-          "name": "Sion",
-          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
-        }
-      ],
-      "duration_ms": 261301,
-      "name": "homes",
-      "url": "https://open.spotify.com/track/0JjEptlop0dcPsCxkcy5As"
     },
     {
       "added_at": "2026-10-09 05:00:48",
@@ -1383,18 +1383,22 @@
     {
       "added_at": "2026-10-09 05:00:48",
       "album": {
-        "name": "Lucky Star",
-        "url": "https://open.spotify.com/album/18CDp77BRitLM2EWJG48OR"
+        "name": "iScreaM Vol.33 : Supernova / Armageddon Remixes",
+        "url": "https://open.spotify.com/album/3aLbyAljCs2NI9AdjfRPqc"
       },
       "artists": [
         {
-          "name": "The Deep",
-          "url": "https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp"
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "Mount XLR",
+          "url": "https://open.spotify.com/artist/7EwMRcLv8TJpfEsGDc5JwJ"
         }
       ],
-      "duration_ms": 162681,
-      "name": "Lucky Star",
-      "url": "https://open.spotify.com/track/3dmcBgER1RS6vTFbQVVVjt"
+      "duration_ms": 224640,
+      "name": "Armageddon (Mount XLR Remix)",
+      "url": "https://open.spotify.com/track/5flRqe1GBBRSyKVbh7GSJy"
     },
     {
       "added_at": "2026-10-09 05:00:48",
@@ -1419,38 +1423,18 @@
     {
       "added_at": "2026-10-09 05:00:48",
       "album": {
-        "name": "iScreaM Vol.33 : Supernova / Armageddon Remixes",
-        "url": "https://open.spotify.com/album/3aLbyAljCs2NI9AdjfRPqc"
+        "name": "Lucky Star",
+        "url": "https://open.spotify.com/album/18CDp77BRitLM2EWJG48OR"
       },
       "artists": [
         {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        },
-        {
-          "name": "Mount XLR",
-          "url": "https://open.spotify.com/artist/7EwMRcLv8TJpfEsGDc5JwJ"
+          "name": "The Deep",
+          "url": "https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp"
         }
       ],
-      "duration_ms": 224640,
-      "name": "Armageddon (Mount XLR Remix)",
-      "url": "https://open.spotify.com/track/5flRqe1GBBRSyKVbh7GSJy"
-    },
-    {
-      "added_at": "2026-10-09 05:00:48",
-      "album": {
-        "name": "I,God",
-        "url": "https://open.spotify.com/album/2TDH8goBXv2mQ22XrHTfsX"
-      },
-      "artists": [
-        {
-          "name": "XLOV",
-          "url": "https://open.spotify.com/artist/2b8aDRZFgUGWiUGchpWsyC"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Extancy (Wumuti&Rui)",
-      "url": "https://open.spotify.com/track/4UPuKqtMeW0WuHbwBoiUKp"
+      "duration_ms": 162681,
+      "name": "Lucky Star",
+      "url": "https://open.spotify.com/track/3dmcBgER1RS6vTFbQVVVjt"
     },
     {
       "added_at": "2026-10-09 05:00:48",
@@ -1471,18 +1455,18 @@
     {
       "added_at": "2026-10-09 05:00:48",
       "album": {
-        "name": "Into the Light",
-        "url": "https://open.spotify.com/album/3zx7uivDY6DW2UrvPs9wua"
+        "name": "I,God",
+        "url": "https://open.spotify.com/album/2TDH8goBXv2mQ22XrHTfsX"
       },
       "artists": [
         {
-          "name": "Solid",
-          "url": "https://open.spotify.com/artist/5QxwwdnZNkIl7AyFEPZxX5"
+          "name": "XLOV",
+          "url": "https://open.spotify.com/artist/2b8aDRZFgUGWiUGchpWsyC"
         }
       ],
-      "duration_ms": 243165,
-      "name": "\ucc9c\uc0dd\uc5f0\ubd84 Destiny (Fyke Remix)",
-      "url": "https://open.spotify.com/track/0BZgJV9s7ib3ysp75hSW8x"
+      "duration_ms": 191000,
+      "name": "Extancy (Wumuti&Rui)",
+      "url": "https://open.spotify.com/track/4UPuKqtMeW0WuHbwBoiUKp"
     },
     {
       "added_at": "2026-10-09 05:00:48",
@@ -1499,6 +1483,22 @@
       "duration_ms": 174000,
       "name": "Unstable",
       "url": "https://open.spotify.com/track/3r9wYjqmVN43nsJ52DSEpp"
+    },
+    {
+      "added_at": "2026-10-09 05:00:48",
+      "album": {
+        "name": "Into the Light",
+        "url": "https://open.spotify.com/album/3zx7uivDY6DW2UrvPs9wua"
+      },
+      "artists": [
+        {
+          "name": "Solid",
+          "url": "https://open.spotify.com/artist/5QxwwdnZNkIl7AyFEPZxX5"
+        }
+      ],
+      "duration_ms": 243165,
+      "name": "\ucc9c\uc0dd\uc5f0\ubd84 Destiny (Fyke Remix)",
+      "url": "https://open.spotify.com/track/0BZgJV9s7ib3ysp75hSW8x"
     },
     {
       "added_at": "2026-10-09 05:00:48",
@@ -1539,6 +1539,26 @@
     {
       "added_at": "2026-10-09 05:00:48",
       "album": {
+        "name": "DSMN (Don't Stop Me Now)",
+        "url": "https://open.spotify.com/album/5qRUPGzKchRSmIcYLopzuu"
+      },
+      "artists": [
+        {
+          "name": "Advanced",
+          "url": "https://open.spotify.com/artist/3PQZ01Mrp3HaVVUJ976fMY"
+        },
+        {
+          "name": "SURAN",
+          "url": "https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K"
+        }
+      ],
+      "duration_ms": 182160,
+      "name": "DSMN (Don't Stop Me Now)",
+      "url": "https://open.spotify.com/track/4sob8TY3S6oue34B97IG6O"
+    },
+    {
+      "added_at": "2026-10-09 05:00:48",
+      "album": {
         "name": "iScreaM Vol.7 : Don't Call Me Remixes",
         "url": "https://open.spotify.com/album/2dw5OhTWlveInSayuXHYik"
       },
@@ -1575,26 +1595,6 @@
       "duration_ms": 240093,
       "name": "\ubc45\ubc84\uc2a4",
       "url": "https://open.spotify.com/track/1OpphgmekEGEKf8yH4wP5u"
-    },
-    {
-      "added_at": "2026-10-09 05:00:48",
-      "album": {
-        "name": "DSMN (Don't Stop Me Now)",
-        "url": "https://open.spotify.com/album/5qRUPGzKchRSmIcYLopzuu"
-      },
-      "artists": [
-        {
-          "name": "Advanced",
-          "url": "https://open.spotify.com/artist/3PQZ01Mrp3HaVVUJ976fMY"
-        },
-        {
-          "name": "SURAN",
-          "url": "https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K"
-        }
-      ],
-      "duration_ms": 182160,
-      "name": "DSMN (Don't Stop Me Now)",
-      "url": "https://open.spotify.com/track/4sob8TY3S6oue34B97IG6O"
     },
     {
       "added_at": "2026-10-09 05:00:48",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2026-10-09 05:00:48",
       "album": {
-        "name": "Old Fantasy",
-        "url": "https://open.spotify.com/album/1ncC7Mukkb6V009qD31TVd"
-      },
-      "artists": [
-        {
-          "name": "CIFIKA",
-          "url": "https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ"
-        }
-      ],
-      "duration_ms": 234500,
-      "name": "HEX",
-      "url": "https://open.spotify.com/track/5oau4lVFN4HTeKV5lL3jiP"
-    },
-    {
-      "added_at": "2026-10-09 05:00:48",
-      "album": {
         "name": "Eternity",
         "url": "https://open.spotify.com/album/4CUPFwbH6LkM6jo2aEVAcg"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 134769,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/21aWaqbf26P6EFLXRL8NlV"
+    },
+    {
+      "added_at": "2026-10-09 05:00:48",
+      "album": {
+        "name": "Old Fantasy",
+        "url": "https://open.spotify.com/album/1ncC7Mukkb6V009qD31TVd"
+      },
+      "artists": [
+        {
+          "name": "CIFIKA",
+          "url": "https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ"
+        }
+      ],
+      "duration_ms": 234500,
+      "name": "HEX",
+      "url": "https://open.spotify.com/track/5oau4lVFN4HTeKV5lL3jiP"
     },
     {
       "added_at": "2026-10-09 05:00:48",

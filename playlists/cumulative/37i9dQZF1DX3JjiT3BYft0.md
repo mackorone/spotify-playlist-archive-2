@@ -4,7 +4,7 @@
 
 > Music from “BanG Dream! “ series!
 
-482 songs - 1 day 10 hr 10 min
+483 songs - 1 day 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [Hey\-day狂騒曲](https://open.spotify.com/track/74e82yQCZdXVsV9Xu5cSP1) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [Hey\-day狂騒曲\(カプリチオ\)](https://open.spotify.com/album/3ZwXTeFex0cgJWCr4zk0RN) | 3:51 | 2022-06-23 |  |
 | [Hey\-day狂騒曲\(カプリチオ\)](https://open.spotify.com/track/5hxe8V1SssFYZMCQvHxwvh) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [ONE OF US](https://open.spotify.com/album/7hG6dWwbHdovFzMlP6BJ0e) | 3:53 | 2022-06-23 | 2022-10-02 |
 | [Hey\-day狂騒曲\(カプリチオ\)](https://open.spotify.com/track/1Dqda7294YgfixgAZnmtnX) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [ONE OF US](https://open.spotify.com/album/2cmCnDHKcqdgzdWOjG0Gb6) | 3:53 | 2022-09-20 | 2024-04-19 |
-| [Hi\-Vision](https://open.spotify.com/track/0rNLITsnaH7Uanwqn4ZHqf) | [夢限大みゅーたいぷ](https://open.spotify.com/artist/2EzWYxIHqUD1RWBOuSjxtK) | [Hi\-Vision](https://open.spotify.com/album/7qOeisRofcVZijOX9dLQlJ) | 3:00 | 2025-04-29 | 2026-09-30 |
+| [Hi\-Vision](https://open.spotify.com/track/0rNLITsnaH7Uanwqn4ZHqf) | [夢限大みゅーたいぷ](https://open.spotify.com/artist/2EzWYxIHqUD1RWBOuSjxtK) | [Hi\-Vision](https://open.spotify.com/album/7qOeisRofcVZijOX9dLQlJ) | 3:00 | 2025-04-29 |  |
 | [Home Street](https://open.spotify.com/track/67h29qIYN9QnBIPUiFw85z) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [キズナミュージック♪](https://open.spotify.com/album/4mYniR7vYFUoalkROKInK8) | 3:48 | 2022-06-23 | 2022-07-26 |
 | [HOWLING AMBITION](https://open.spotify.com/track/2NYWu8xDb8g6Q8d6MxdmQV) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [HOWLING AMBITION](https://open.spotify.com/album/6Wt3DPGwFBzlG4wjrn6eaw) | 4:18 | 2025-06-13 |  |
 | [I knew it!](https://open.spotify.com/track/5dRxTWfQ3stQEMgyDu92dF) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [ONE OF US](https://open.spotify.com/album/2CXi2Ys7mgFksGB1vb2FOn) | 4:50 | 2022-05-17 | 2022-07-28 |
@@ -169,6 +169,7 @@
 | [R](https://open.spotify.com/track/45jaPXs1EROGdFRtT0T8Sx) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Ｒ](https://open.spotify.com/album/5XtGy68gBjYEZpZCbEfQiI) | 4:44 | 2023-12-12 | 2024-04-19 |
 | [R](https://open.spotify.com/track/47A0qgNW9wlP6MjHtiRU3t) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [R](https://open.spotify.com/album/2AQAFDMU98RiR1Z1sjGot9) | 4:44 | 2022-06-23 | 2022-07-21 |
 | [R](https://open.spotify.com/track/5VDaJPJ2AeqPImMYpsgFvp) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [R](https://open.spotify.com/album/2xRG2r54L8p0if9NsHeXX5) | 4:44 | 2022-06-23 | 2022-09-17 |
+| [Reach Out To The Truth \- Cover](https://open.spotify.com/track/6sSYUcyBwLZntJVnWblxeE) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [STAY GLOW](https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV) | 2:51 | 2026-09-29 |  |
 | [RED RED RED](https://open.spotify.com/track/2GOhP6o25z72Ka1bvM4zBz) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [ONE OF US](https://open.spotify.com/album/2CXi2Ys7mgFksGB1vb2FOn) | 3:44 | 2022-05-17 | 2022-07-25 |
 | [Redo](https://open.spotify.com/track/1LXfNtiu99qb3H61cyI3Ge) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [バンドリ! ガールズバンドパーティ! カバコレ \(Special Selection\)](https://open.spotify.com/album/0JowuUZyfttpDW76rq0rze) | 4:19 | 2022-05-17 | 2022-07-29 |
 | [Repaint](https://open.spotify.com/track/0qOEdXcgu54ojYVpJWmCtg) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [Repaint](https://open.spotify.com/album/6J1E7JWTSA672DpSpRkiLQ) | 3:53 | 2023-05-30 | 2023-07-06 |
@@ -316,7 +317,7 @@
 | [ふわふわ☆ゆめいろサンドイッチ](https://open.spotify.com/track/54Gc8r0xsFazaZh5fXDmx9) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [ハイファイブ∞あどべんちゃっ](https://open.spotify.com/album/2XhqMTZVFxbqrQAJzc7RsF) | 4:52 | 2022-06-23 | 2025-09-20 |
 | [ふわふわ時間](https://open.spotify.com/track/3inIDEYK6C287bLZFRqjv1) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [バンドリ! ガールズバンドパーティ! カバコレ Special Selection](https://open.spotify.com/album/0JowuUZyfttpDW76rq0rze) | 4:05 | 2022-05-17 | 2026-09-05 |
 | [ぽっぴん'しゃっふる](https://open.spotify.com/track/4oWEDswsb31s9ARNOu3Jhi) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [バンドリ!「Yes! BanG\_Dream!」](https://open.spotify.com/album/3QZAIjdUw6CI8IEGJ2dADM) | 4:39 | 2022-05-17 | 2022-10-04 |
-| [ぽっぴん'どりーむ！](https://open.spotify.com/track/5339nA0dO3UqGj0TXGxC6J) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [POPIGENIC](https://open.spotify.com/album/4J0ob8cyT5lF023GxAnVF4) | 4:30 | 2025-05-07 |  |
+| [ぽっぴん'どりーむ！](https://open.spotify.com/track/5339nA0dO3UqGj0TXGxC6J) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [POPIGENIC](https://open.spotify.com/album/4J0ob8cyT5lF023GxAnVF4) | 4:30 | 2025-05-07 | 2026-10-12 |
 | [もういちど ルミナス](https://open.spotify.com/track/0kT66ZNn1rX0Qk9y9kw7Mv) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [TITLE IDOL](https://open.spotify.com/album/50vo1TV6EBHYVv7JrZtzbB) | 4:20 | 2022-10-25 | 2023-08-31 |
 | [もういちど ルミナス](https://open.spotify.com/track/7eozLSbXAKoEFHHvt4yapB) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [もういちど ルミナス](https://open.spotify.com/album/4lS8Ob0Kt2Zui7LlcnRfPi) | 4:20 | 2022-05-17 | 2022-07-17 |
 | [ゆめゆめグラデーション](https://open.spotify.com/track/4UsN8CVre3rdUaBEAkGxbf) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [ゆめゆめグラデーション](https://open.spotify.com/album/4PYxuwefUqpr0T7xOq3X1m) | 4:44 | 2022-05-17 | 2022-07-29 |
@@ -483,7 +484,7 @@
 | [雨上がりの夢](https://open.spotify.com/track/2d14KGRep1k9dPlTSM2kn8) | [湊 友希那](https://open.spotify.com/artist/1jyXuZcKGRbmIUN1W6e0Me) | [劇場版「BanG Dream! Episode of Roselia」Theme Songs Collection](https://open.spotify.com/album/6QLlnhussxhVSmUBvyKbBh) | 2:55 | 2022-06-23 | 2022-10-02 |
 | [雨上がりの夢](https://open.spotify.com/track/36oQA58GCSj91Yr3iFEsj6) | [湊 友希那](https://open.spotify.com/artist/1jyXuZcKGRbmIUN1W6e0Me) | [劇場版「BanG Dream! Episode of Roselia」Theme Songs Collection](https://open.spotify.com/album/5u6E8FwjrbRDYrVh0SVHlS) | 2:55 | 2022-09-20 | 2024-04-19 |
 | [霧周途](https://open.spotify.com/track/59xvP7KeDVOetqQ1qBp7zl) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [霧周途](https://open.spotify.com/album/0HzoiG9KVmBAu1FMkf0w6W) | 3:42 | 2024-11-28 |  |
-| [青い栞 \- Cover](https://open.spotify.com/track/5UHnD4ZYLLOSQaAeJGuBzt) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [STAY GLOW](https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV) | 5:36 | 2025-08-26 |  |
+| [青い栞 \- Cover](https://open.spotify.com/track/5UHnD4ZYLLOSQaAeJGuBzt) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [STAY GLOW](https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV) | 5:36 | 2025-08-26 | 2026-10-12 |
 | [青のすみか \- Cover](https://open.spotify.com/track/1BbOzFxKZlcxino1a8NVk9) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [青のすみか \(Cover\)](https://open.spotify.com/album/2bTyv063SUF4J8E06aGi14) | 3:17 | 2024-03-19 | 2026-09-13 |
 | [青春 To Be Continued](https://open.spotify.com/track/0ffbqaw7SgaVKZ4Wzyx01o) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [青春 To Be Continued](https://open.spotify.com/album/5WnJBXSLn9YsyCnUDrmrbd) | 4:16 | 2023-05-30 | 2025-02-26 |
 | [音一会](https://open.spotify.com/track/2wjXoHFoZAPgSsyXMogQQa) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [音一会](https://open.spotify.com/album/3y0omCicK4HNM90n08oFmN) | 4:42 | 2023-04-11 | 2024-11-28 |

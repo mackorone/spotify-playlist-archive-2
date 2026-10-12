@@ -1,6 +1,6 @@
 {
   "description": "Flow so good, it deserved a reload.  Cover: Yizzy, Jme",
-  "num_followers": 713645,
+  "num_followers": 713573,
   "original_name": "Grime Shutdown",
   "owner": {
     "name": "Spotify",
@@ -431,30 +431,6 @@
     {
       "added_at": "2025-11-28 00:00:02",
       "album": {
-        "name": "Practice Hours",
-        "url": "https://open.spotify.com/album/6y4xv9kI4o5bZOFLTWHTom"
-      },
-      "artists": [
-        {
-          "name": "Scorcher",
-          "url": "https://open.spotify.com/artist/2BYHpYwXO4zi36Tf3pEH5n"
-        },
-        {
-          "name": "Slix",
-          "url": "https://open.spotify.com/artist/56fYK2oDhViQcuZ0AnCotQ"
-        },
-        {
-          "name": "RB",
-          "url": "https://open.spotify.com/artist/5B7g6rz4LfxYDh24T9issl"
-        }
-      ],
-      "duration_ms": 233142,
-      "name": "Practice Hours",
-      "url": "https://open.spotify.com/track/36aNPoQVCaxZXhJRwIWAO5"
-    },
-    {
-      "added_at": "2025-11-28 00:00:02",
-      "album": {
         "name": "signature sound",
         "url": "https://open.spotify.com/album/3q07K9HBN5xuTHJViysGrF"
       },
@@ -483,6 +459,30 @@
       "duration_ms": 179571,
       "name": "different szn",
       "url": "https://open.spotify.com/track/2RJP8HJyRvevWsRqdPruz7"
+    },
+    {
+      "added_at": "2025-11-28 00:00:02",
+      "album": {
+        "name": "Practice Hours",
+        "url": "https://open.spotify.com/album/6y4xv9kI4o5bZOFLTWHTom"
+      },
+      "artists": [
+        {
+          "name": "Scorcher",
+          "url": "https://open.spotify.com/artist/2BYHpYwXO4zi36Tf3pEH5n"
+        },
+        {
+          "name": "Slix",
+          "url": "https://open.spotify.com/artist/56fYK2oDhViQcuZ0AnCotQ"
+        },
+        {
+          "name": "RB",
+          "url": "https://open.spotify.com/artist/5B7g6rz4LfxYDh24T9issl"
+        }
+      ],
+      "duration_ms": 233142,
+      "name": "Practice Hours",
+      "url": "https://open.spotify.com/track/36aNPoQVCaxZXhJRwIWAO5"
     },
     {
       "added_at": "2025-11-28 00:00:02",
@@ -671,22 +671,6 @@
     {
       "added_at": "2025-11-28 00:00:02",
       "album": {
-        "name": "Active",
-        "url": "https://open.spotify.com/album/2k7Ug9KFqKGbLjXoVRDhwI"
-      },
-      "artists": [
-        {
-          "name": "Virus Syndicate",
-          "url": "https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n"
-        }
-      ],
-      "duration_ms": 220791,
-      "name": "Active",
-      "url": "https://open.spotify.com/track/0S4v7cMGdVr3wpxtbsVnVQ"
-    },
-    {
-      "added_at": "2025-11-28 00:00:02",
-      "album": {
         "name": "Tec",
         "url": "https://open.spotify.com/album/5b8v3jLQtM16TFuq2Qvj8Z"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 135573,
       "name": "Tec",
       "url": "https://open.spotify.com/track/6FCRFF2suUxQZntqnaTMru"
+    },
+    {
+      "added_at": "2025-11-28 00:00:02",
+      "album": {
+        "name": "Active",
+        "url": "https://open.spotify.com/album/2k7Ug9KFqKGbLjXoVRDhwI"
+      },
+      "artists": [
+        {
+          "name": "Virus Syndicate",
+          "url": "https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n"
+        }
+      ],
+      "duration_ms": 220791,
+      "name": "Active",
+      "url": "https://open.spotify.com/track/0S4v7cMGdVr3wpxtbsVnVQ"
     },
     {
       "added_at": "2025-11-28 00:00:02",
@@ -831,6 +831,22 @@
     {
       "added_at": "2025-11-28 00:00:02",
       "album": {
+        "name": "Watch the Ride",
+        "url": "https://open.spotify.com/album/2GcfSVz2I2Y4Ck3XOTddLa"
+      },
+      "artists": [
+        {
+          "name": "Virus Syndicate",
+          "url": "https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n"
+        }
+      ],
+      "duration_ms": 194571,
+      "name": "Watch the Ride",
+      "url": "https://open.spotify.com/track/1XtObqji9kF7IbXN1IdMai"
+    },
+    {
+      "added_at": "2025-11-28 00:00:02",
+      "album": {
         "name": "On Toppa Dat",
         "url": "https://open.spotify.com/album/2THmfSCYjtagtgaRiwl3yq"
       },
@@ -863,22 +879,6 @@
     {
       "added_at": "2025-11-28 00:00:02",
       "album": {
-        "name": "Watch the Ride",
-        "url": "https://open.spotify.com/album/2GcfSVz2I2Y4Ck3XOTddLa"
-      },
-      "artists": [
-        {
-          "name": "Virus Syndicate",
-          "url": "https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n"
-        }
-      ],
-      "duration_ms": 194571,
-      "name": "Watch the Ride",
-      "url": "https://open.spotify.com/track/1XtObqji9kF7IbXN1IdMai"
-    },
-    {
-      "added_at": "2025-11-28 00:00:02",
-      "album": {
         "name": "What You On",
         "url": "https://open.spotify.com/album/7lJmlXpeXn2rOQSaAMYgRU"
       },
@@ -907,26 +907,6 @@
     {
       "added_at": "2025-11-28 00:00:02",
       "album": {
-        "name": "Always",
-        "url": "https://open.spotify.com/album/4Y3vUk3MmlqPFNzrYicR6Q"
-      },
-      "artists": [
-        {
-          "name": "Ferrenzo",
-          "url": "https://open.spotify.com/artist/1vLtMvP47FxY9Z7rptx2FJ"
-        },
-        {
-          "name": "DeeRiginal",
-          "url": "https://open.spotify.com/artist/7MkdDRirzB2d9UZh6ZMb8p"
-        }
-      ],
-      "duration_ms": 125505,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/1qKFKUlr1RTmcwJkIxemv2"
-    },
-    {
-      "added_at": "2025-11-28 00:00:02",
-      "album": {
         "name": "Geronimo",
         "url": "https://open.spotify.com/album/0Daj0Y9haEcNweE0AnAgxc"
       },
@@ -943,22 +923,22 @@
     {
       "added_at": "2025-11-28 00:00:02",
       "album": {
-        "name": "Press Gas",
-        "url": "https://open.spotify.com/album/2uuo7ooJbnox3X1EUhch2c"
+        "name": "Always",
+        "url": "https://open.spotify.com/album/4Y3vUk3MmlqPFNzrYicR6Q"
       },
       "artists": [
         {
-          "name": "Deft",
-          "url": "https://open.spotify.com/artist/43qPWPlDL5noyuCJKPKm6N"
+          "name": "Ferrenzo",
+          "url": "https://open.spotify.com/artist/1vLtMvP47FxY9Z7rptx2FJ"
         },
         {
-          "name": "Kruz Leone",
-          "url": "https://open.spotify.com/artist/2pXOtGRpnXJJfzEUddqKcC"
+          "name": "DeeRiginal",
+          "url": "https://open.spotify.com/artist/7MkdDRirzB2d9UZh6ZMb8p"
         }
       ],
-      "duration_ms": 168322,
-      "name": "Press Gas",
-      "url": "https://open.spotify.com/track/6epoexala0RDDSE4FcvybP"
+      "duration_ms": 125505,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/1qKFKUlr1RTmcwJkIxemv2"
     },
     {
       "added_at": "2025-11-28 00:00:02",
@@ -983,6 +963,26 @@
       "duration_ms": 171433,
       "name": "Or What?",
       "url": "https://open.spotify.com/track/7hJug6mHWKyJwLpIYIhPyd"
+    },
+    {
+      "added_at": "2025-11-28 00:00:02",
+      "album": {
+        "name": "Press Gas",
+        "url": "https://open.spotify.com/album/2uuo7ooJbnox3X1EUhch2c"
+      },
+      "artists": [
+        {
+          "name": "Deft",
+          "url": "https://open.spotify.com/artist/43qPWPlDL5noyuCJKPKm6N"
+        },
+        {
+          "name": "Kruz Leone",
+          "url": "https://open.spotify.com/artist/2pXOtGRpnXJJfzEUddqKcC"
+        }
+      ],
+      "duration_ms": 168322,
+      "name": "Press Gas",
+      "url": "https://open.spotify.com/track/6epoexala0RDDSE4FcvybP"
     },
     {
       "added_at": "2025-11-28 00:00:02",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2025-11-28 00:00:02",
       "album": {
-        "name": "Test This",
-        "url": "https://open.spotify.com/album/1t35NxPLgqrtwF3XrxLpE2"
-      },
-      "artists": [
-        {
-          "name": "Footsie",
-          "url": "https://open.spotify.com/artist/32Z7rpzefCIn0GZ8XwzrwX"
-        },
-        {
-          "name": "Hugh Hardie",
-          "url": "https://open.spotify.com/artist/0ZlH3VG6iAeC1KVzNz6rqW"
-        }
-      ],
-      "duration_ms": 206117,
-      "name": "Test This",
-      "url": "https://open.spotify.com/track/3cxryw4IRMSTToRUUIwmlJ"
-    },
-    {
-      "added_at": "2025-11-28 00:00:02",
-      "album": {
         "name": "Grimey",
         "url": "https://open.spotify.com/album/7BvBtml5e9ZPiuD1rFh8eu"
       },
@@ -1099,6 +1079,26 @@
     {
       "added_at": "2025-11-28 00:00:02",
       "album": {
+        "name": "Test This",
+        "url": "https://open.spotify.com/album/1t35NxPLgqrtwF3XrxLpE2"
+      },
+      "artists": [
+        {
+          "name": "Footsie",
+          "url": "https://open.spotify.com/artist/32Z7rpzefCIn0GZ8XwzrwX"
+        },
+        {
+          "name": "Hugh Hardie",
+          "url": "https://open.spotify.com/artist/0ZlH3VG6iAeC1KVzNz6rqW"
+        }
+      ],
+      "duration_ms": 206117,
+      "name": "Test This",
+      "url": "https://open.spotify.com/track/3cxryw4IRMSTToRUUIwmlJ"
+    },
+    {
+      "added_at": "2025-11-28 00:00:02",
+      "album": {
         "name": "ICE VS ICE",
         "url": "https://open.spotify.com/album/6XemLZ6kdvA4WY0DRc3QjM"
       },
@@ -1111,30 +1111,6 @@
       "duration_ms": 82500,
       "name": "ICE VS ICE",
       "url": "https://open.spotify.com/track/2Hcg8Jrx0EzUI80pxKnmZa"
-    },
-    {
-      "added_at": "2025-11-28 00:00:02",
-      "album": {
-        "name": "Level & Size",
-        "url": "https://open.spotify.com/album/1t1DvQXZQfiWChkSSZmOSi"
-      },
-      "artists": [
-        {
-          "name": "Manga Saint Hilare",
-          "url": "https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra"
-        },
-        {
-          "name": "MoreNight",
-          "url": "https://open.spotify.com/artist/20lI1hzkqOx9sBNAyjW54N"
-        },
-        {
-          "name": "Queenie",
-          "url": "https://open.spotify.com/artist/24Tv4phxgSYyLeybMCvMmO"
-        }
-      ],
-      "duration_ms": 214545,
-      "name": "Level & Size",
-      "url": "https://open.spotify.com/track/1VoxjPvbXaBmDbrA0C7sme"
     },
     {
       "added_at": "2025-11-28 00:00:02",
@@ -1167,18 +1143,26 @@
     {
       "added_at": "2025-11-28 00:00:02",
       "album": {
-        "name": "Tears",
-        "url": "https://open.spotify.com/album/2EYiyFWdzIGQEdXrYNtydb"
+        "name": "Level & Size",
+        "url": "https://open.spotify.com/album/1t1DvQXZQfiWChkSSZmOSi"
       },
       "artists": [
         {
-          "name": "M1KE7",
-          "url": "https://open.spotify.com/artist/6uEAtBFJb2QlCoCBMuNhnA"
+          "name": "Manga Saint Hilare",
+          "url": "https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra"
+        },
+        {
+          "name": "MoreNight",
+          "url": "https://open.spotify.com/artist/20lI1hzkqOx9sBNAyjW54N"
+        },
+        {
+          "name": "Queenie",
+          "url": "https://open.spotify.com/artist/24Tv4phxgSYyLeybMCvMmO"
         }
       ],
-      "duration_ms": 139034,
-      "name": "Tears",
-      "url": "https://open.spotify.com/track/46H0hdgPqCJEZwssr12nKv"
+      "duration_ms": 214545,
+      "name": "Level & Size",
+      "url": "https://open.spotify.com/track/1VoxjPvbXaBmDbrA0C7sme"
     },
     {
       "added_at": "2025-11-28 00:00:02",
@@ -1203,6 +1187,22 @@
     {
       "added_at": "2025-11-28 00:00:02",
       "album": {
+        "name": "Tears",
+        "url": "https://open.spotify.com/album/2EYiyFWdzIGQEdXrYNtydb"
+      },
+      "artists": [
+        {
+          "name": "M1KE7",
+          "url": "https://open.spotify.com/artist/6uEAtBFJb2QlCoCBMuNhnA"
+        }
+      ],
+      "duration_ms": 139034,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/46H0hdgPqCJEZwssr12nKv"
+    },
+    {
+      "added_at": "2025-11-28 00:00:02",
+      "album": {
         "name": "NO SENSE",
         "url": "https://open.spotify.com/album/4ZQ9aXylRGbQoxe0vTbBIQ"
       },
@@ -1219,6 +1219,22 @@
       "duration_ms": 195428,
       "name": "NO SENSE",
       "url": "https://open.spotify.com/track/6KarkNK3MGxD5xd8NXCIXN"
+    },
+    {
+      "added_at": "2025-11-28 00:00:02",
+      "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/0gEJqJ8kG0Bws3JgR38Ibu"
+      },
+      "artists": [
+        {
+          "name": "GHENGHIS OTT",
+          "url": "https://open.spotify.com/artist/5QK20C8SnSQhtYwEL5wrbO"
+        }
+      ],
+      "duration_ms": 130746,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/65rruQRW7ZsSnc9S0LT6vB"
     },
     {
       "added_at": "2025-11-28 00:00:02",
@@ -1255,22 +1271,6 @@
       "duration_ms": 123428,
       "name": "Something Brand New",
       "url": "https://open.spotify.com/track/5M7VKkdDthDs1j9FTum292"
-    },
-    {
-      "added_at": "2025-11-28 00:00:02",
-      "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/0gEJqJ8kG0Bws3JgR38Ibu"
-      },
-      "artists": [
-        {
-          "name": "GHENGHIS OTT",
-          "url": "https://open.spotify.com/artist/5QK20C8SnSQhtYwEL5wrbO"
-        }
-      ],
-      "duration_ms": 130746,
-      "name": "Golden Hour",
-      "url": "https://open.spotify.com/track/65rruQRW7ZsSnc9S0LT6vB"
     },
     {
       "added_at": "2025-11-28 00:00:02",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2025-11-28 00:00:02",
       "album": {
-        "name": "Grime Medley, Pt. 1",
-        "url": "https://open.spotify.com/album/51muc0fwirGorde0lY7Hga"
-      },
-      "artists": [
-        {
-          "name": "DYNO",
-          "url": "https://open.spotify.com/artist/4LA8Md9s5vNRscOFOe7wzq"
-        }
-      ],
-      "duration_ms": 126857,
-      "name": "Grime Medley, Pt. 1",
-      "url": "https://open.spotify.com/track/0zVdq7RkOJV9qZKKilDgWD"
-    },
-    {
-      "added_at": "2025-11-28 00:00:02",
-      "album": {
         "name": "We're All On TV",
         "url": "https://open.spotify.com/album/2tEJ1zWcGczSfkctYnD0SQ"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 222124,
       "name": "In My Corner",
       "url": "https://open.spotify.com/track/4JjFRMvjHhNe8Cb1LYWNBY"
+    },
+    {
+      "added_at": "2025-11-28 00:00:02",
+      "album": {
+        "name": "Grime Medley, Pt. 1",
+        "url": "https://open.spotify.com/album/51muc0fwirGorde0lY7Hga"
+      },
+      "artists": [
+        {
+          "name": "DYNO",
+          "url": "https://open.spotify.com/artist/4LA8Md9s5vNRscOFOe7wzq"
+        }
+      ],
+      "duration_ms": 126857,
+      "name": "Grime Medley, Pt. 1",
+      "url": "https://open.spotify.com/track/0zVdq7RkOJV9qZKKilDgWD"
     },
     {
       "added_at": "2025-11-28 00:00:02",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von girl in red, Troye Sivan, Sido, Montez, Marlon Hoffstadt, David Guetta & vielen mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 935,926 likes - 79 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 935,843 likes - 79 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

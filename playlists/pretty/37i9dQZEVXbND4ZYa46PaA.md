@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbND4ZYa46PaA.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belgium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,934 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,936 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbND4ZYa46PaA.md) - [plain]
 | 49 | [Nicole Kidman](https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [PRIMA](https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs) | 3:01 |
 | 50 | [Sicario](https://open.spotify.com/track/7CQW2QMr6WGaksSqn5Y4Lf) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [Sicario](https://open.spotify.com/album/0SoqqGHxdSJpNf7MNNE1Fq) | 2:29 |
 
-Snapshot ID: `Ml26iAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Ml8QuAAAAAAAAAAAAAAAAAAAAAAAAGVu`

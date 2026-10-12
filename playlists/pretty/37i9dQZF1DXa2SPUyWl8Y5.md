@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 
 > Focus with melodic house and techno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 567,376 likes - 80 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 567,406 likes - 80 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,14 +42,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 | 32 | [Unlocked](https://open.spotify.com/track/6NTfiYHgosu8B6MbxRBos0) | [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO) | [Infinity](https://open.spotify.com/album/0SERodr4s71gsU2o2RcaSK) | 7:04 |
 | 33 | [Sora](https://open.spotify.com/track/4IeAeBQdLlP8wTyp4wbWx5) | [Milkwish](https://open.spotify.com/artist/1O50w1bZK5APgtWSD0qVjv), [9hearts](https://open.spotify.com/artist/3LfTqHNimpgLkeuctIGETt) | [Sora](https://open.spotify.com/album/0WVXdvpEOtiBEzyWbIlDl0) | 3:32 |
 | 34 | [Dea Dia](https://open.spotify.com/track/3Leam9heF8QlhoRd8u3i3s) | [Ron Flatter](https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq) | [Dea Dia](https://open.spotify.com/album/4QDxcrGyxeezJAwhkWX4xh) | 8:50 |
-| 35 | [Unfold Me](https://open.spotify.com/track/3wO96BMLqvUSMowH19eWis) | [JAMIIE](https://open.spotify.com/artist/3tDYYvrKv7Duw3ismQGnHF) | [Unfold Voices EP](https://open.spotify.com/album/2P9jp1XxHAhD9zK7bfvQ6T) | 6:31 |
-| 36 | [Equinox](https://open.spotify.com/track/7e0hiWq3L9YJWb5PI4Wd85) | [Galexis](https://open.spotify.com/artist/6ydngh1ULBhKlPd1ntB92h) | [Equinox](https://open.spotify.com/album/7CT47odhAVQwfzTBp0cGln) | 6:53 |
+| 35 | [Equinox](https://open.spotify.com/track/7e0hiWq3L9YJWb5PI4Wd85) | [Galexis](https://open.spotify.com/artist/6ydngh1ULBhKlPd1ntB92h) | [Equinox](https://open.spotify.com/album/7CT47odhAVQwfzTBp0cGln) | 6:53 |
+| 36 | [Unfold Me](https://open.spotify.com/track/3wO96BMLqvUSMowH19eWis) | [JAMIIE](https://open.spotify.com/artist/3tDYYvrKv7Duw3ismQGnHF) | [Unfold Voices EP](https://open.spotify.com/album/2P9jp1XxHAhD9zK7bfvQ6T) | 6:31 |
 | 37 | [Lyra](https://open.spotify.com/track/1Y4nxwSQr5jTMXKaQwiLOA) | [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO) | [Lyra](https://open.spotify.com/album/10EVZVgK0jaOVuIW1A8GSy) | 7:17 |
 | 38 | [Odyssey](https://open.spotify.com/track/7jw452od74FzquMBqkUXiY) | [Daniel Portman](https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM) | [Odyssey](https://open.spotify.com/album/1JlK6KU1YKQ9gcahuFPFE7) | 4:17 |
 | 39 | [Purple Days](https://open.spotify.com/track/5oNeuOOo0U05wdEUbwOghM) | [KlangTherapeuten](https://open.spotify.com/artist/54gKd6ck4Kz5pigQLZUbkW), [Max Manie](https://open.spotify.com/artist/0esUZwk3FcZiAH1fXa66dU) | [Purple Days & Purple Nights](https://open.spotify.com/album/7oKLl9fSeBhHl4XYIBJADm) | 4:29 |
 | 40 | [March of the giants](https://open.spotify.com/track/4A2u7RmGIQk9bjoKExlqj7) | [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [Planet Earth \| March of the Giants](https://open.spotify.com/album/2A77EAnV2CDxlsFxLwsEY2) | 7:37 |
-| 41 | [Nebula](https://open.spotify.com/track/7BhSM2dw0NUbhFSarMICfr) | [Nick Schwenderling](https://open.spotify.com/artist/2mOiGq7ipaUIYqUJSLj3X6) | [Nebula](https://open.spotify.com/album/6sIs8vP0ctpyBmJ8jFhQP9) | 3:08 |
-| 42 | [Meertraum](https://open.spotify.com/track/3J2Emoq0BdKHQQZVJdViUY) | [Azaleh](https://open.spotify.com/artist/3yNkKjNBiX09eHZ4EQ3lJY) | [Meertraum](https://open.spotify.com/album/6Dcg0G9DKa2rVl1kIjMpv1) | 6:34 |
+| 41 | [Meertraum](https://open.spotify.com/track/3J2Emoq0BdKHQQZVJdViUY) | [Azaleh](https://open.spotify.com/artist/3yNkKjNBiX09eHZ4EQ3lJY) | [Meertraum](https://open.spotify.com/album/6Dcg0G9DKa2rVl1kIjMpv1) | 6:34 |
+| 42 | [Nebula](https://open.spotify.com/track/7BhSM2dw0NUbhFSarMICfr) | [Nick Schwenderling](https://open.spotify.com/artist/2mOiGq7ipaUIYqUJSLj3X6) | [Nebula](https://open.spotify.com/album/6sIs8vP0ctpyBmJ8jFhQP9) | 3:08 |
 | 43 | [Welcome](https://open.spotify.com/track/0XwZh2lAMreq20jjSsWk4u) | [Schlindwein](https://open.spotify.com/artist/2anZ4I2UXxOT5LBGahKWv6) | [Piano & Electronic Ensemble Op\. 1](https://open.spotify.com/album/1vxB3a1pJCMPowm4bWnSX7) | 6:15 |
 | 44 | [Close to the Edge](https://open.spotify.com/track/5QC6Ze5kjWoFr3xHOXhx1N) | [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [Close to the Edge](https://open.spotify.com/album/6fDQUCufTFl072nXDT54Hm) | 5:08 |
 | 45 | [The Duty](https://open.spotify.com/track/6VGCWLkUxy4OrK4Lb5YwUI) | [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724) | [The Duty](https://open.spotify.com/album/5wkFYvOqJVrdW92n31wFwS) | 3:14 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 | 58 | [Solid](https://open.spotify.com/track/62DY8pd5ZcJSgytchGNuzP) | [Benzsoul](https://open.spotify.com/artist/0XXC5Wa9jqrU83q3lwGAhf) | [Solid](https://open.spotify.com/album/1okpvJ1vOGSnq0BGJgVcxy) | 6:44 |
 | 59 | [Run](https://open.spotify.com/track/5nTULNIZFwN3e4g05lb6fF) | [Haddadi Von Engst](https://open.spotify.com/artist/5Hg5DBnnqGjRx8ylws0xy5) | [Run](https://open.spotify.com/album/1KTNoba0EoQRVl1rLOv71a) | 5:08 |
 | 60 | [Revolt](https://open.spotify.com/track/7lQW1w8vXCPrkXrQvyuA2R) | [Theydream](https://open.spotify.com/artist/5dNuHnFp9DGGOxoQx1WB5v) | [Revolt](https://open.spotify.com/album/7h5XiTCsy80QsqI0oVDdkT) | 4:44 |
-| 61 | [After Dark](https://open.spotify.com/track/2ROhi2EHKwlBcHWyylPJa4) | [Hraach](https://open.spotify.com/artist/6rdTxNwQhUJTodUx7voWXO) | [After Dark](https://open.spotify.com/album/2Z4AECuC9nl6nA3V5XMWDm) | 7:25 |
-| 62 | [Exoplanet](https://open.spotify.com/track/1J0zBWJBcBbqSqoiZ8e9Re) | [Third Person](https://open.spotify.com/artist/66t8meyd0W90QMjxHiDoSc), [Intara](https://open.spotify.com/artist/3wpZISujzbcdOqC3OYArcy) | [Exoplanet](https://open.spotify.com/album/7ckMabg0DVyOkUftUiYSkQ) | 8:21 |
+| 61 | [Exoplanet](https://open.spotify.com/track/1J0zBWJBcBbqSqoiZ8e9Re) | [Third Person](https://open.spotify.com/artist/66t8meyd0W90QMjxHiDoSc), [Intara](https://open.spotify.com/artist/3wpZISujzbcdOqC3OYArcy) | [Exoplanet](https://open.spotify.com/album/7ckMabg0DVyOkUftUiYSkQ) | 8:21 |
+| 62 | [After Dark](https://open.spotify.com/track/2ROhi2EHKwlBcHWyylPJa4) | [Hraach](https://open.spotify.com/artist/6rdTxNwQhUJTodUx7voWXO) | [After Dark](https://open.spotify.com/album/2Z4AECuC9nl6nA3V5XMWDm) | 7:25 |
 | 63 | [Reframed Future](https://open.spotify.com/track/71US62LiNfgUNoAMdAMyXz) | [Schlepp Geist](https://open.spotify.com/artist/3QrUgT4R2242O2mqHUeI95) | [10 Years URSL \- Reframed Future](https://open.spotify.com/album/0gPGJUOaKc9W4izlxJlMfT) | 7:05 |
 | 64 | [Poetry](https://open.spotify.com/track/0H4dkHiQ5zmqEtoNbCnhyG) | [Annett Gapstream](https://open.spotify.com/artist/1aRB0SZZ28qswBQ037uYvD) | [Künstlerische Freiheit II](https://open.spotify.com/album/0Cvm4VAqv24QIAAfwNbiWs) | 6:37 |
 | 65 | [Hailstorm \- Ann Clue Remix](https://open.spotify.com/track/4INsV87wHXViqJRAmbOo8t) | [Theydream](https://open.spotify.com/artist/5dNuHnFp9DGGOxoQx1WB5v), [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Hailstorm \(Ann Clue Remix\)](https://open.spotify.com/album/54LvPkBHCUXjuKIfFC3e76) | 6:22 |

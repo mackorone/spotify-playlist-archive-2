@@ -3134,7 +3134,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 223146,
       "name": "Lamento Boliviano",
       "url": "https://open.spotify.com/track/62FQCSvSUSG3m9uajVkvWe"
@@ -4070,6 +4070,28 @@
       "duration_ms": 142410,
       "name": "Ojos Verdes",
       "url": "https://open.spotify.com/track/2RmtEc2ZNDCzAU3vH0AbKx"
+    },
+    {
+      "album": {
+        "name": "Ooh Laka Laka La",
+        "url": "https://open.spotify.com/album/2DvVwgvTeursrplYuXc1Xj"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "SANTOS BRAVOS",
+          "url": "https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134797,
+      "name": "Ooh Laka Laka La",
+      "url": "https://open.spotify.com/track/1daYqzioWz91LXUzgGYwjA"
     },
     {
       "album": {

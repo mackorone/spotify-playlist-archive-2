@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO47cwRq.md) - [plain]
 
 > This is Linkin Park\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,198,406 likes - 46 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,198,693 likes - 46 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

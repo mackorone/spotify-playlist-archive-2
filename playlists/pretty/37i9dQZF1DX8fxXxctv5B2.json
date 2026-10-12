@@ -1,6 +1,6 @@
 {
   "description": "Windows down, volume up. The soundtrack to your road trip.",
-  "num_followers": 262998,
+  "num_followers": 263008,
   "original_name": "Coastal Drive",
   "owner": {
     "name": "Spotify",
@@ -307,18 +307,18 @@
     {
       "added_at": "2026-10-08 13:00:21",
       "album": {
-        "name": "Oracular Spectacular",
-        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
+        "name": "Mistaken Identity",
+        "url": "https://open.spotify.com/album/3iMwQk5yE0UDDKbLCdcxZA"
       },
       "artists": [
         {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+          "name": "Kim Carnes",
+          "url": "https://open.spotify.com/artist/5PN2aHIvLEM98XIorsPMhE"
         }
       ],
-      "duration_ms": 229640,
-      "name": "Electric Feel",
-      "url": "https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt"
+      "duration_ms": 228000,
+      "name": "Bette Davis Eyes",
+      "url": "https://open.spotify.com/track/0odIT9B9BvOCnXfS0e4lB5"
     },
     {
       "added_at": "2026-10-08 13:00:21",
@@ -339,18 +339,18 @@
     {
       "added_at": "2026-10-08 13:00:21",
       "album": {
-        "name": "Mistaken Identity",
-        "url": "https://open.spotify.com/album/3iMwQk5yE0UDDKbLCdcxZA"
+        "name": "Oracular Spectacular",
+        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
       },
       "artists": [
         {
-          "name": "Kim Carnes",
-          "url": "https://open.spotify.com/artist/5PN2aHIvLEM98XIorsPMhE"
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
         }
       ],
-      "duration_ms": 228000,
-      "name": "Bette Davis Eyes",
-      "url": "https://open.spotify.com/track/0odIT9B9BvOCnXfS0e4lB5"
+      "duration_ms": 229640,
+      "name": "Electric Feel",
+      "url": "https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt"
     },
     {
       "added_at": "2026-10-08 13:00:21",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-10-08 13:00:21",
       "album": {
-        "name": "Last Call",
-        "url": "https://open.spotify.com/album/6TzxE8PAjmOLmcQ2qBBuiZ"
-      },
-      "artists": [
-        {
-          "name": "Vacations",
-          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
-        }
-      ],
-      "duration_ms": 95000,
-      "name": "Last Call",
-      "url": "https://open.spotify.com/track/0KvyZOngjOdF37hwIyS9sq"
-    },
-    {
-      "added_at": "2026-10-08 13:00:21",
-      "album": {
         "name": "Chaise Longue",
         "url": "https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 196905,
       "name": "Chaise Longue",
       "url": "https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39"
+    },
+    {
+      "added_at": "2026-10-08 13:00:21",
+      "album": {
+        "name": "Last Call",
+        "url": "https://open.spotify.com/album/6TzxE8PAjmOLmcQ2qBBuiZ"
+      },
+      "artists": [
+        {
+          "name": "Vacations",
+          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
+        }
+      ],
+      "duration_ms": 95000,
+      "name": "Last Call",
+      "url": "https://open.spotify.com/track/0KvyZOngjOdF37hwIyS9sq"
     },
     {
       "added_at": "2026-10-08 13:00:21",

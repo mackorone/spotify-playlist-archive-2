@@ -360,7 +360,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-04",
+      "date_removed": null,
       "duration_ms": 123946,
       "name": "Autumn Becomes Winter",
       "url": "https://open.spotify.com/track/2uYcCSsJp4gHgWogMRdDpM"
@@ -648,7 +648,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 80651,
       "name": "Color\u00edn Colorado",
       "url": "https://open.spotify.com/track/4T4TMCfpt4jsCfJX7CxfZg"
@@ -846,7 +846,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-21",
+      "date_removed": null,
       "duration_ms": 380626,
       "name": "Depths Of Winter",
       "url": "https://open.spotify.com/track/6SJL0oAYUxvF3yYH8NGlU9"
@@ -1284,7 +1284,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-10",
+      "date_removed": null,
       "duration_ms": 71400,
       "name": "George And Doris",
       "url": "https://open.spotify.com/track/6KeD0so6pe8IdCgl5giXck"
@@ -1338,7 +1338,7 @@
       ],
       "date_added": "2023-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 61293,
       "name": "George's Pancake Practice",
       "url": "https://open.spotify.com/track/2yDU7GOKPm3DPuEdF1HN5G"
@@ -1410,7 +1410,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-23",
+      "date_removed": null,
       "duration_ms": 129973,
       "name": "Ginny's Home",
       "url": "https://open.spotify.com/track/3LZEdjxVerAfGds8a2ddJW"
@@ -1924,7 +1924,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 130663,
       "name": "Margarita's Cha Cha",
       "url": "https://open.spotify.com/track/6nDOL5nhJUk9MCf8PjewZG"
@@ -2312,6 +2312,24 @@
       "duration_ms": 79280,
       "name": "Not It",
       "url": "https://open.spotify.com/track/4qQYUXly5uyHi10uLkaRha"
+    },
+    {
+      "album": {
+        "name": "Encanto (Alkuper\u00e4inen Soundtrack)",
+        "url": "https://open.spotify.com/album/07MXHN4FWMbxhTA6k8958U"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130640,
+      "name": "N\u00e4kyjen n\u00e4ky",
+      "url": "https://open.spotify.com/track/21PNJga7pWqTy3xqIrDzl2"
     },
     {
       "album": {
@@ -2810,7 +2828,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-25",
+      "date_removed": null,
       "duration_ms": 140160,
       "name": "Ted's Stuck In A Tree",
       "url": "https://open.spotify.com/track/4D7Pmj4rFZi90cXYTcrnun"
@@ -2882,7 +2900,7 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 49120,
       "name": "The King's Royal Toys",
       "url": "https://open.spotify.com/track/7yEH6l5TiI0jsFDzFWZbLa"
@@ -3012,7 +3030,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 47800,
       "name": "The Porcupine Song",
       "url": "https://open.spotify.com/track/55l2zVDdCDWGDg8oMBn3DH"

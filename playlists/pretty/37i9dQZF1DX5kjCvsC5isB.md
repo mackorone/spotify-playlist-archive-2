@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 
 > the bold women of rock & alternative today\. Cover: The Warning
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,084 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,096 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,11 +40,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 30 | [Violet](https://open.spotify.com/track/3gJFkBZKhWTgW7PfMIduyB) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Streetwise](https://open.spotify.com/album/3TniPIO2mohmWrKnUv51dW) | 2:43 |
 | 31 | [Nothing Matters](https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters](https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3) | 3:01 |
 | 32 | [Hypocrite](https://open.spotify.com/track/4UM0WAccdPzvZIHCcxWDf0) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [Hypocrite](https://open.spotify.com/album/0b7M1yTWCB0lCDtIhBn01N) | 1:48 |
-| 33 | [And They All Fall Down](https://open.spotify.com/track/4kfPFH4eobdyzyqEJd6sMo) | [Saint Agnes](https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL) | [And They All Fall Down](https://open.spotify.com/album/47ZajOVfTx4ybpStTat8mm) | 2:20 |
-| 34 | [Bang Bang](https://open.spotify.com/track/1FE3y5rW4l9I7prqRLnLi4) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Bang Bang](https://open.spotify.com/album/0NTpahhBmUXJjGRD1kuaV6) | 2:52 |
+| 33 | [Bang Bang](https://open.spotify.com/track/1FE3y5rW4l9I7prqRLnLi4) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Bang Bang](https://open.spotify.com/album/0NTpahhBmUXJjGRD1kuaV6) | 2:52 |
+| 34 | [And They All Fall Down](https://open.spotify.com/track/4kfPFH4eobdyzyqEJd6sMo) | [Saint Agnes](https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL) | [And They All Fall Down](https://open.spotify.com/album/47ZajOVfTx4ybpStTat8mm) | 2:20 |
 | 35 | [Window](https://open.spotify.com/track/6eMPkhwJpkBPagyC54s8wo) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Window](https://open.spotify.com/album/5PtBmayc1Rf9a9bqrj43cW) | 3:03 |
-| 36 | [Honeycrash](https://open.spotify.com/track/49MS1LeGxzcG9LOvpzhAQr) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Honeycrash](https://open.spotify.com/album/65c74y1vN6hMca1Zs4hkVo) | 3:08 |
-| 37 | [I Just Needed You To Know](https://open.spotify.com/track/1LCovl7CSqDuKJRlFQEA5V) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [I Just Needed You To Know](https://open.spotify.com/album/2Xhvdg9rLRGvhlcOznttch) | 4:35 |
+| 36 | [I Just Needed You To Know](https://open.spotify.com/track/1LCovl7CSqDuKJRlFQEA5V) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [I Just Needed You To Know](https://open.spotify.com/album/2Xhvdg9rLRGvhlcOznttch) | 4:35 |
+| 37 | [Honeycrash](https://open.spotify.com/track/49MS1LeGxzcG9LOvpzhAQr) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Honeycrash](https://open.spotify.com/album/65c74y1vN6hMca1Zs4hkVo) | 3:08 |
 | 38 | [IDC AT ALL](https://open.spotify.com/track/0L0wwswP2xOiWv25Out7nn) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [IDC AT ALL](https://open.spotify.com/album/4wMtz7zQFP5Sbjf5djv5lo) | 3:21 |
 | 39 | [Honda Civic](https://open.spotify.com/track/0JHjsGwxzK7xzpceRcoMbB) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [Honda Civic](https://open.spotify.com/album/0VDkmKaedGsW1Eots7DEJM) | 2:50 |
 | 40 | [Call Me Later](https://open.spotify.com/track/6Uc7A8PeGszMyQ9XPvR6ZT) | [The Foxies](https://open.spotify.com/artist/02Gz7Nb7bIi0oxLIXYELYd) | [Call Me Later](https://open.spotify.com/album/526HT2ENrJdZsyqoxe6zm6) | 3:00 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 68 | [Self Doubt](https://open.spotify.com/track/3hFTRq1u29M7V4Vz84UfPc) | [Ava Maybee](https://open.spotify.com/artist/56XHwBrYEOBDDGKr7BLDv9) | [Self Doubt](https://open.spotify.com/album/1VPDRTa6I8QIsWcuCO1Eyt) | 2:54 |
 | 69 | [Best Friend](https://open.spotify.com/track/1RoqxQ9jOyHWObm6mlV99n) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Best Friend](https://open.spotify.com/album/0Yv8BeGMwLuJ4OGMFmnSjW) | 2:43 |
 | 70 | [Too Many Things](https://open.spotify.com/track/2SU3rA2M4wgHMzHSHNiXkx) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Too Many Things](https://open.spotify.com/album/1WJrfUrpJYdN009MkXgTWx) | 2:35 |
-| 71 | [Welcome to My House](https://open.spotify.com/track/0q1EgphEnjNphQaiG1wHnw) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Welcome to My House](https://open.spotify.com/album/07UT7tQ1llvdiYSdhz1brM) | 3:27 |
-| 72 | [Don't](https://open.spotify.com/track/51492YDzG1jwyFHKpkVbsK) | [Honeyglaze](https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM) | [Don't](https://open.spotify.com/album/44wFARJr0tnfTKCZduwFND) | 2:45 |
+| 71 | [Don't](https://open.spotify.com/track/51492YDzG1jwyFHKpkVbsK) | [Honeyglaze](https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM) | [Don't](https://open.spotify.com/album/44wFARJr0tnfTKCZduwFND) | 2:45 |
+| 72 | [Welcome to My House](https://open.spotify.com/track/0q1EgphEnjNphQaiG1wHnw) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Welcome to My House](https://open.spotify.com/album/07UT7tQ1llvdiYSdhz1brM) | 3:27 |
 | 73 | [Jabberwocky](https://open.spotify.com/track/20Z3wEq4zdirEQgnB3K5EU) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [Jabberwocky](https://open.spotify.com/album/6wbBWQ7nQX7IzB9u6kJaoA) | 3:12 |
 | 74 | [Baggage](https://open.spotify.com/track/2ikmBwZKZr0ahGcX4x8qtj) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [When Everything Went Dark](https://open.spotify.com/album/1D7U3UMynyEmdEn7uJj31v) | 3:03 |
 | 75 | [Why Am I Like This?](https://open.spotify.com/track/6gnNNTPxIPjgvGlWw98Bwc) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Why Am I Like This? / Ipecac](https://open.spotify.com/album/5CRI8TgzFDrBGmgMoC0hVq) | 2:26 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 86 | [headspace](https://open.spotify.com/track/54thSyOHsTvRy8UYoEct7Y) | [SIIICKBRAIN](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [dizzy spells](https://open.spotify.com/album/2ZdFXmyVHTbVDKnlh3FGpV) | 3:08 |
 | 87 | [slippery slope](https://open.spotify.com/track/358oKjk9CI5rAm3Pt48Va9) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [slippery slope](https://open.spotify.com/album/07vY4Ri2X7sl1PzwCnLGH0) | 2:19 |
 | 88 | [MONEY BAG](https://open.spotify.com/track/0Dr2hbRcXtxqx5PyvKAorh) | [LUNA AURA](https://open.spotify.com/artist/18UrIT17pqz5fG7J85iwSh) | [MONEY BAG](https://open.spotify.com/album/53qwUwrCnGzpQ67RLPwvNT) | 2:14 |
-| 89 | [I Died](https://open.spotify.com/track/6MYLG88balCnmy0a3cId3N) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG), [Daisha McBride](https://open.spotify.com/artist/3gTb0Vm6wFbRFVTAhDTgId) | [I Died](https://open.spotify.com/album/3POKR602QYwFIrOFMqQhSx) | 2:30 |
-| 90 | [One Of The Pack](https://open.spotify.com/track/79QWntL6utGA8UWExmcmCn) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Heaven](https://open.spotify.com/album/1N1hcETSwMi13yU30szzpD) | 3:17 |
+| 89 | [One Of The Pack](https://open.spotify.com/track/79QWntL6utGA8UWExmcmCn) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Heaven](https://open.spotify.com/album/1N1hcETSwMi13yU30szzpD) | 3:17 |
+| 90 | [I Died](https://open.spotify.com/track/6MYLG88balCnmy0a3cId3N) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG), [Daisha McBride](https://open.spotify.com/artist/3gTb0Vm6wFbRFVTAhDTgId) | [I Died](https://open.spotify.com/album/3POKR602QYwFIrOFMqQhSx) | 2:30 |
 | 91 | [WHO DIED AND MADE YOU KING?](https://open.spotify.com/track/6PgWRZ1k4DiCnkUK6FvCfV) | [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR), [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [WHO DIED AND MADE YOU KING?](https://open.spotify.com/album/43VcEun0Hr5gKPp0YPRbJ8) | 2:23 |
 | 92 | [Sick](https://open.spotify.com/track/4wBf57Njjl4tKNBGpa39s2) | [PONY](https://open.spotify.com/artist/31kZNy2FQoUD4V8LUr9exv) | [Velveteen](https://open.spotify.com/album/20autaRlTtoAUnewO5c12H) | 3:07 |
 | 93 | [The Pain](https://open.spotify.com/track/7436W6cDzihQ5AJvTsa0Vw) | [Another Sky](https://open.spotify.com/artist/08p5D6BYuwPqGsFuIDLNFr) | [The Pain](https://open.spotify.com/album/7joUWLYVbBN7QllFU1hTsD) | 3:41 |

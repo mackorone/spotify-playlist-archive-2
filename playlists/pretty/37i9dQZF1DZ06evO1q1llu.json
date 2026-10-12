@@ -1,12 +1,12 @@
 {
   "description": "This is The Kid LAROI. The essential tracks, all in one playlist.",
-  "num_followers": 254552,
+  "num_followers": 254572,
   "original_name": "This Is The Kid LAROI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asgugAAAAACXsWS/OdNoF2PlAK7L7sc4",
+  "snapshot_id": "asmAAAAAAAB3CkoPx/cGbdaBIodCSRaj",
   "tracks": [
     {
       "added_at": null,
@@ -507,18 +507,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "F*CK LOVE 3+: OVER YOU",
-        "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
       "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
         {
           "name": "The Kid LAROI",
           "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         }
       ],
-      "duration_ms": 151704,
-      "name": "ALWAYS DO",
-      "url": "https://open.spotify.com/track/7gCe88FGMlkyURLPxglbAo"
+      "duration_ms": 158324,
+      "name": "Unstable (feat. The Kid LAROI)",
+      "url": "https://open.spotify.com/track/137mSruegm1u6x9NvwiagR"
     },
     {
       "added_at": null,
@@ -539,22 +543,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
+        "name": "F*CK LOVE 3+: OVER YOU",
+        "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
       },
       "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
         {
           "name": "The Kid LAROI",
           "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         }
       ],
-      "duration_ms": 158324,
-      "name": "Unstable (feat. The Kid LAROI)",
-      "url": "https://open.spotify.com/track/137mSruegm1u6x9NvwiagR"
+      "duration_ms": 151704,
+      "name": "ALWAYS DO",
+      "url": "https://open.spotify.com/track/7gCe88FGMlkyURLPxglbAo"
     },
     {
       "added_at": null,

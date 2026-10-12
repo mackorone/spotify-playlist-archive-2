@@ -1,12 +1,12 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Non Servium.",
-  "num_followers": 117382,
+  "num_followers": 117398,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKk3QVcUxqP3ZMeO/VkRQy9z8pPg",
+  "snapshot_id": "AAAAAGKcItNkMWY2j/QH8LNHoSv+2LsR",
   "tracks": [
     {
       "added_at": "2026-10-01 14:18:19",
@@ -431,18 +431,18 @@
     {
       "added_at": "2026-10-01 14:18:19",
       "album": {
-        "name": "Camino hacia la ruina",
-        "url": "https://open.spotify.com/album/7z6A7KRuF72XBB8VcvUbIh"
+        "name": "Bienvenidos a Occidente",
+        "url": "https://open.spotify.com/album/1F2GuNExWo3absC9LEqEcY"
       },
       "artists": [
         {
-          "name": "Comando 9mm",
-          "url": "https://open.spotify.com/artist/4ysg7aP5WvMZge41OoKKHa"
+          "name": "Disidencia",
+          "url": "https://open.spotify.com/artist/1ym8Cw2gG6nn8hgk4Vjkht"
         }
       ],
-      "duration_ms": 285640,
-      "name": "Amor frenop\u00e1tico",
-      "url": "https://open.spotify.com/track/6YjmFAhmoUJydfvpDj0PMT"
+      "duration_ms": 254946,
+      "name": "Prefiero Caminar",
+      "url": "https://open.spotify.com/track/0SUYFrnEmh4QZOdThDoJ5B"
     },
     {
       "added_at": "2026-10-01 14:18:19",
@@ -483,18 +483,18 @@
     {
       "added_at": "2026-10-01 14:18:19",
       "album": {
-        "name": "Bienvenidos a Occidente",
-        "url": "https://open.spotify.com/album/1F2GuNExWo3absC9LEqEcY"
+        "name": "Camino hacia la ruina",
+        "url": "https://open.spotify.com/album/7z6A7KRuF72XBB8VcvUbIh"
       },
       "artists": [
         {
-          "name": "Disidencia",
-          "url": "https://open.spotify.com/artist/1ym8Cw2gG6nn8hgk4Vjkht"
+          "name": "Comando 9mm",
+          "url": "https://open.spotify.com/artist/4ysg7aP5WvMZge41OoKKHa"
         }
       ],
-      "duration_ms": 254946,
-      "name": "Prefiero Caminar",
-      "url": "https://open.spotify.com/track/0SUYFrnEmh4QZOdThDoJ5B"
+      "duration_ms": 285640,
+      "name": "Amor frenop\u00e1tico",
+      "url": "https://open.spotify.com/track/6YjmFAhmoUJydfvpDj0PMT"
     },
     {
       "added_at": "2026-10-01 14:18:19",
@@ -939,6 +939,22 @@
     {
       "added_at": "2026-10-01 14:18:19",
       "album": {
+        "name": "La Casika No Se Toca",
+        "url": "https://open.spotify.com/album/2lnu8Fk62iWRmzTjURUdPO"
+      },
+      "artists": [
+        {
+          "name": "Ca\u00f1a y Media",
+          "url": "https://open.spotify.com/artist/3Aa5UzZPbPkScCeuFdQV8P"
+        }
+      ],
+      "duration_ms": 91919,
+      "name": "La Casika No Se Toca",
+      "url": "https://open.spotify.com/track/1WRFoNch7kLbCT9DdtGxay"
+    },
+    {
+      "added_at": "2026-10-01 14:18:19",
+      "album": {
         "name": "Humo",
         "url": "https://open.spotify.com/album/2ruESohGqLboa07L3xpBXG"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 228000,
       "name": "Humo",
       "url": "https://open.spotify.com/track/4TgiuHbWo5fc3rJCs8Km3L"
-    },
-    {
-      "added_at": "2026-10-01 14:18:19",
-      "album": {
-        "name": "La Casika No Se Toca",
-        "url": "https://open.spotify.com/album/2lnu8Fk62iWRmzTjURUdPO"
-      },
-      "artists": [
-        {
-          "name": "Ca\u00f1a y Media",
-          "url": "https://open.spotify.com/artist/3Aa5UzZPbPkScCeuFdQV8P"
-        }
-      ],
-      "duration_ms": 91919,
-      "name": "La Casika No Se Toca",
-      "url": "https://open.spotify.com/track/1WRFoNch7kLbCT9DdtGxay"
     },
     {
       "added_at": "2026-10-01 14:18:19",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-10-01 14:18:19",
       "album": {
-        "name": "Arde Ribera",
-        "url": "https://open.spotify.com/album/4miZbn6vSzsHLvCUMSBX1s"
-      },
-      "artists": [
-        {
-          "name": "Piperrak",
-          "url": "https://open.spotify.com/artist/0kya4eL7YgduZ1RAbO6Uou"
-        }
-      ],
-      "duration_ms": 170686,
-      "name": "Mi Primer Amor",
-      "url": "https://open.spotify.com/track/2oRmhBSPhWNScSkwR7x8xi"
-    },
-    {
-      "added_at": "2026-10-01 14:18:19",
-      "album": {
         "name": "Pura dinamita",
         "url": "https://open.spotify.com/album/40FbSqsn2UaGp9n58PPZs9"
       },
@@ -1219,6 +1203,22 @@
     {
       "added_at": "2026-10-01 14:18:19",
       "album": {
+        "name": "Arde Ribera",
+        "url": "https://open.spotify.com/album/4miZbn6vSzsHLvCUMSBX1s"
+      },
+      "artists": [
+        {
+          "name": "Piperrak",
+          "url": "https://open.spotify.com/artist/0kya4eL7YgduZ1RAbO6Uou"
+        }
+      ],
+      "duration_ms": 170686,
+      "name": "Mi Primer Amor",
+      "url": "https://open.spotify.com/track/2oRmhBSPhWNScSkwR7x8xi"
+    },
+    {
+      "added_at": "2026-10-01 14:18:19",
+      "album": {
         "name": "N.S.A. La Santa Familia",
         "url": "https://open.spotify.com/album/2z3V6ipEnmD9CbaOcWAjKF"
       },
@@ -1231,6 +1231,22 @@
       "duration_ms": 313946,
       "name": "El Espiritu del Oi!",
       "url": "https://open.spotify.com/track/1tef2YV1xTcWBqr6K376ab"
+    },
+    {
+      "added_at": "2026-10-01 14:18:19",
+      "album": {
+        "name": "Ahora que se ha ido el sol",
+        "url": "https://open.spotify.com/album/1uM5thAotEBcFCuF0G4eJl"
+      },
+      "artists": [
+        {
+          "name": "Konsumo Respeto",
+          "url": "https://open.spotify.com/artist/1RmcjyvKHwr9TCZqfHMflP"
+        }
+      ],
+      "duration_ms": 240986,
+      "name": "Herida de guerra",
+      "url": "https://open.spotify.com/track/16MDTJlQK8LcZW9IkladLD"
     },
     {
       "added_at": "2026-10-01 14:18:19",
@@ -1539,22 +1555,6 @@
       "duration_ms": 224172,
       "name": "Anda y Que Te Den",
       "url": "https://open.spotify.com/track/57BAY5EGsMU0halCvHCsW6"
-    },
-    {
-      "added_at": "2026-10-01 14:18:19",
-      "album": {
-        "name": "Ahora que se ha ido el sol",
-        "url": "https://open.spotify.com/album/1uM5thAotEBcFCuF0G4eJl"
-      },
-      "artists": [
-        {
-          "name": "Konsumo Respeto",
-          "url": "https://open.spotify.com/artist/1RmcjyvKHwr9TCZqfHMflP"
-        }
-      ],
-      "duration_ms": 240986,
-      "name": "Herida de guerra",
-      "url": "https://open.spotify.com/track/16MDTJlQK8LcZW9IkladLD"
     },
     {
       "added_at": "2026-10-01 14:18:19",

@@ -1118,7 +1118,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 347128,
       "name": "El Hijo De Dios",
       "url": "https://open.spotify.com/track/534ulaI3mHWik2N8AIYlwY"
@@ -1210,6 +1210,32 @@
       "duration_ms": 349186,
       "name": "Encuentro Glorioso",
       "url": "https://open.spotify.com/track/5QWVPkQkHwYYSJJiFaUt6V"
+    },
+    {
+      "album": {
+        "name": "Mientras Viva (En Vivo Desde Sudam\u00e9rica)",
+        "url": "https://open.spotify.com/album/509ue0LQK7UVQieiDCFky2"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Fernando Ramos",
+          "url": "https://open.spotify.com/artist/5MJzy9qF9CL7CWapio7IPv"
+        },
+        {
+          "name": "Johan Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349187,
+      "name": "Encuentro Glorioso",
+      "url": "https://open.spotify.com/track/1J8nUS0I6OiW54SG4syUzO"
     },
     {
       "album": {

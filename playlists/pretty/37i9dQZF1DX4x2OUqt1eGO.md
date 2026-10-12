@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x2OUqt1eGO.md) - [plain]
 
 > Unwind and restore with the sounds of the Flute, from Indian maestros & modern geniuses\. Cover : Shriram Sampath
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,861 likes - 75 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,865 likes - 75 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x2OUqt1eGO.md) - [plain]
 | 15 | [Indian Nights](https://open.spotify.com/track/0tqngYytTrZi44CRIWnVz7) | [Steve Gorn](https://open.spotify.com/artist/1CuE092UR0MnsGFKEHZNgC) | [OM Yoga Mix](https://open.spotify.com/album/29AsaeGR8iCXv5hBxYzP9P) | 11:26 |
 | 16 | [Kapla Bhati](https://open.spotify.com/track/74HMbs5LeHYxv53RVzssJS) | [Bapu Padmanabha](https://open.spotify.com/artist/5Sf70jLYRR15STASRqsC3x) | [Bamboo Flute Music for Pranayama](https://open.spotify.com/album/3wSY15N8WtCDYuLBCAzsDN) | 7:18 |
 | 17 | [Raga Bhoopali](https://open.spotify.com/track/2FvS3T9QA1K7RibQDrTYqc) | [Sangit Om](https://open.spotify.com/artist/51OgTOMeriyJbz07cpve3u) | [The Spirit of Yoga](https://open.spotify.com/album/3twYsK4gKVEaBVOUUdeT88) | 3:52 |
-| 18 | [Abhogi](https://open.spotify.com/track/2NuqtLrg6LUwSWs2UVJQlx) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon) | [The Raga Guide](https://open.spotify.com/album/6LX6cgc3VpmVozT2wz83yy) | 3:02 |
-| 19 | [Naan Nee](https://open.spotify.com/track/6cbiAEy3OoREiXooWZ2cRQ) | [Flute Navin](https://open.spotify.com/artist/3apnz04XPisQ04dTfz2Gaw) | [Think Instrumental with Navin, Vol\. 1](https://open.spotify.com/album/0hBfWJXTVK1vBdlvEXfr95) | 3:37 |
+| 18 | [Naan Nee](https://open.spotify.com/track/6cbiAEy3OoREiXooWZ2cRQ) | [Flute Navin](https://open.spotify.com/artist/3apnz04XPisQ04dTfz2Gaw) | [Think Instrumental with Navin, Vol\. 1](https://open.spotify.com/album/0hBfWJXTVK1vBdlvEXfr95) | 3:37 |
+| 19 | [Abhogi](https://open.spotify.com/track/2NuqtLrg6LUwSWs2UVJQlx) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon) | [The Raga Guide](https://open.spotify.com/album/6LX6cgc3VpmVozT2wz83yy) | 3:02 |
 | 20 | [Evening Solace](https://open.spotify.com/track/01jSVjoqH6QpjYTMGQhJx2) | [Iftekharul Anam](https://open.spotify.com/artist/49tDgukB5sliWr6MfgS0SY) | [Evening Solace](https://open.spotify.com/album/0vxPTagdaH4znrF1p0jNWX) | 7:03 |
 | 21 | [Banaras Flute Meditation](https://open.spotify.com/track/1rxJhcFfnK2bHkLHZTIXJQ) | [Vic Vision](https://open.spotify.com/artist/7sWJw6QdFcubpMrTamBKw0), [Vedic Moon](https://open.spotify.com/artist/5sDjAQydhCH4cMMsWRJBI7) | [Banaras Flute Meditation](https://open.spotify.com/album/6oELvDJjCasbu0xCN5eu6g) | 3:14 |
 | 22 | [Raga Shudh Kalyan Alap](https://open.spotify.com/track/5K56gLQIT9UhXcENzvBr7r) | [G.S\. Sachdev](https://open.spotify.com/artist/6jGk8eDMQBWb1IjNLI51Yz) | [Introspection](https://open.spotify.com/album/2pDuvSYsImOFjzdlMf7XpQ) | 5:14 |

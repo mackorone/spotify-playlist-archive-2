@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1fXOgOgW7C.md) - [plain]
 
 > Las canciones que marcaron una época.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,700 likes - 70 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,709 likes - 70 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,13 +67,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1fXOgOgW7C.md) - [plain]
 | 57 | [Aunque No Quiero](https://open.spotify.com/track/1xeJGNdKyEqqhWfkR31jM2) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Circología](https://open.spotify.com/album/59wgQxKgwb9vnpurJ7DSb7) | 3:35 |
 | 58 | [Canción para un Amigo](https://open.spotify.com/track/3WLY1xa2Izcof8CNaFK8QS) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Hasta el Final](https://open.spotify.com/album/5FDw24rKn2nDmcuYYCVuQJ) | 5:06 |
 | 59 | [Margarita](https://open.spotify.com/track/44fpTaUuSFvwzeJe4yEDDe) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Yo Te Amo](https://open.spotify.com/album/0Lbrgw1MoFhmnX1FyBpRw3) | 3:22 |
-| 60 | [Noches De Verano](https://open.spotify.com/track/5sFEbn2q1dI0xO06BKkcH1) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Los Espíritus](https://open.spotify.com/album/3jIrLCi1YnbMJHybfNExxS) | 4:59 |
-| 61 | [Fuego y Pasión](https://open.spotify.com/track/42LDgGB2Eio9wX13fZkV7w) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Best Seller](https://open.spotify.com/album/1hrLS52s2jGGvFN2tEIVf7) | 3:44 |
+| 60 | [Fuego y Pasión](https://open.spotify.com/track/42LDgGB2Eio9wX13fZkV7w) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Best Seller](https://open.spotify.com/album/1hrLS52s2jGGvFN2tEIVf7) | 3:44 |
+| 61 | [Noches De Verano](https://open.spotify.com/track/5sFEbn2q1dI0xO06BKkcH1) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Los Espíritus](https://open.spotify.com/album/3jIrLCi1YnbMJHybfNExxS) | 4:59 |
 | 62 | [Película](https://open.spotify.com/track/4R8JF3mYzm28iU8AbibPJO) | [Perras on the beach](https://open.spotify.com/artist/0mSn9qsGHUMllx267A3qX3) | [Película](https://open.spotify.com/album/1d4vNIf3aUIH4W6xjk7pfr) | 1:59 |
 | 63 | [La Luna de Neuquén](https://open.spotify.com/track/6ZznUaja8PfIbU7UPUJrj4) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL), [Raly Barrionuevo](https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf) | [Destilar](https://open.spotify.com/album/0RpJ96qNoqzpjvh0xrPdrh) | 4:20 |
-| 64 | [El Enemigo](https://open.spotify.com/track/2Rro0BoyMLdgrTVOFpINZU) | [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [Bandera](https://open.spotify.com/album/318AKHHgLilno4gE3AiEAA) | 3:05 |
-| 65 | [Perdida En El Fuego](https://open.spotify.com/track/6btPkqEOYxT79nR5f8g0dU) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Agua Ardiente](https://open.spotify.com/album/1ahdp3YzkgsUZZl3gJPYgL) | 4:33 |
-| 66 | [El Ritmo de la Vida](https://open.spotify.com/track/0nWdzerefBQpTFg8gIbCjA) | [Lo' Pibitos](https://open.spotify.com/artist/7f4QZ3v32jtmstrh7VHfJL), [Julian Kartun](https://open.spotify.com/artist/04f2OyzgBLH7Wh4m57OPv8) | [A Punto Caramelo](https://open.spotify.com/album/1BB2uPxFEBDdOwHcuDI2Jn) | 3:42 |
+| 64 | [El Ritmo de la Vida](https://open.spotify.com/track/0nWdzerefBQpTFg8gIbCjA) | [Lo' Pibitos](https://open.spotify.com/artist/7f4QZ3v32jtmstrh7VHfJL), [Julian Kartun](https://open.spotify.com/artist/04f2OyzgBLH7Wh4m57OPv8) | [A Punto Caramelo](https://open.spotify.com/album/1BB2uPxFEBDdOwHcuDI2Jn) | 3:42 |
+| 65 | [El Enemigo](https://open.spotify.com/track/2Rro0BoyMLdgrTVOFpINZU) | [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [Bandera](https://open.spotify.com/album/318AKHHgLilno4gE3AiEAA) | 3:05 |
+| 66 | [Perdida En El Fuego](https://open.spotify.com/track/6btPkqEOYxT79nR5f8g0dU) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Agua Ardiente](https://open.spotify.com/album/1ahdp3YzkgsUZZl3gJPYgL) | 4:33 |
 | 67 | [Cosas para Decirte](https://open.spotify.com/track/4bLEdN7hL33Qv4fCz5VLMG) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Cabildo y Juramento](https://open.spotify.com/album/5N3ahntioMGhMCkEOuNJUn) | 5:40 |
 | 68 | [Deshoras](https://open.spotify.com/track/2WyhoctUbgmlm4Ff2RBzvm) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Deshoras](https://open.spotify.com/album/7F5vE3C3nYca5gflNrBMiB) | 3:34 |
 | 69 | [Cuantas Cosas](https://open.spotify.com/track/1oGZp4qtD0IIRkkCun2MOx) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Cerca de las Nubes](https://open.spotify.com/album/74lHbJkzv0QSuxVoSebpxW) | 3:10 |

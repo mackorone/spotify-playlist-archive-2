@@ -1,6 +1,6 @@
 {
   "description": "Dale play y que la m\u00fasica te acompa\u00f1e  \ud83d\udcf8 Morat",
-  "num_followers": 349093,
+  "num_followers": 349085,
   "original_name": "Radio Pop",
   "owner": {
     "name": "Spotify",
@@ -799,6 +799,22 @@
     {
       "added_at": "2026-10-09 03:00:36",
       "album": {
+        "name": "ser humano",
+        "url": "https://open.spotify.com/album/5ozAm3Z7tSEpQ0uR7u38Mx"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        }
+      ],
+      "duration_ms": 199384,
+      "name": "Plan",
+      "url": "https://open.spotify.com/track/1udeZVMClO0LEIgwgnueOx"
+    },
+    {
+      "added_at": "2026-10-09 03:00:36",
+      "album": {
         "name": "Eres Mi Religi\u00f3n",
         "url": "https://open.spotify.com/album/0mw9JCjWu3hzUTru1yt2mc"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 267836,
       "name": "Eres Mi Religi\u00f3n",
       "url": "https://open.spotify.com/track/2A1izwuHiZjoxyH6y6W0U4"
-    },
-    {
-      "added_at": "2026-10-09 03:00:36",
-      "album": {
-        "name": "ser humano",
-        "url": "https://open.spotify.com/album/5ozAm3Z7tSEpQ0uR7u38Mx"
-      },
-      "artists": [
-        {
-          "name": "Alex Ponce",
-          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
-        }
-      ],
-      "duration_ms": 199384,
-      "name": "Plan",
-      "url": "https://open.spotify.com/track/1udeZVMClO0LEIgwgnueOx"
     },
     {
       "added_at": "2026-10-09 03:00:36",

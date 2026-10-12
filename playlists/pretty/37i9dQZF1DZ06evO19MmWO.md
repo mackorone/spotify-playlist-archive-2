@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19MmWO.md) - [plain]
 
 > This is Little Walter\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,377 likes - 48 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,378 likes - 48 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19MmWO.md) - [plain]
 | 47 | [Make It Alright](https://open.spotify.com/track/1nnMGDzwGPIGMGZ3xWo9w2) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Complete Chess Masters \(1950 \- 1967\)](https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr) | 3:21 |
 | 48 | [Who Do You Love](https://open.spotify.com/track/1BaGFTIPeL32MpF9eUVguh) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Super Blues](https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s) | 4:14 |
 
-Snapshot ID: `asgugAAAAAC0M3fQzdhuxrE0fDEEKImV`
+Snapshot ID: `asmAAAAAAAAoD0noK8b5kRW8TnOJ0OrO`

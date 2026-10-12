@@ -1,6 +1,6 @@
 {
   "description": "Deja que tu coraz\u00f3n se rinda ante la m\u00fasica rom\u00e1ntica de anta\u00f1o.",
-  "num_followers": 650406,
+  "num_followers": 650515,
   "original_name": "Boleros",
   "owner": {
     "name": "Spotify",
@@ -156,9 +156,9 @@
           "url": "https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F"
         }
       ],
-      "duration_ms": 182206,
-      "name": "El Reloj",
-      "url": "https://open.spotify.com/track/27u17peWruKyUe7RfBglZC"
+      "duration_ms": 197149,
+      "name": "La Barca",
+      "url": "https://open.spotify.com/track/1GHTx9EyR44pgtGLotj2nH"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -240,9 +240,9 @@
           "url": "https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F"
         }
       ],
-      "duration_ms": 197149,
-      "name": "La Barca",
-      "url": "https://open.spotify.com/track/1GHTx9EyR44pgtGLotj2nH"
+      "duration_ms": 182206,
+      "name": "El Reloj",
+      "url": "https://open.spotify.com/track/27u17peWruKyUe7RfBglZC"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -659,18 +659,18 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "RCA 100 A\u00f1os de M\u00fasica",
-        "url": "https://open.spotify.com/album/4mNUyuDnmgm2GGe9qnW7Y1"
+        "name": "Sin Ti",
+        "url": "https://open.spotify.com/album/4mv1g3vawUWCavTnRXf3Mf"
       },
       "artists": [
         {
-          "name": "Hermanos Martinez Gil",
-          "url": "https://open.spotify.com/artist/28L8txPUafzgMa9HllGtlv"
+          "name": "Las Perlas Negras",
+          "url": "https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp"
         }
       ],
-      "duration_ms": 180840,
-      "name": "Cha Cha Linda",
-      "url": "https://open.spotify.com/track/6HAcngnAkOIgpfU0jGsXri"
+      "duration_ms": 166500,
+      "name": "Sin Ti",
+      "url": "https://open.spotify.com/track/57QF4UIb5JicadAG6WZRKI"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -691,18 +691,18 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Sin Ti",
-        "url": "https://open.spotify.com/album/4mv1g3vawUWCavTnRXf3Mf"
+        "name": "RCA 100 A\u00f1os de M\u00fasica",
+        "url": "https://open.spotify.com/album/4mNUyuDnmgm2GGe9qnW7Y1"
       },
       "artists": [
         {
-          "name": "Las Perlas Negras",
-          "url": "https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp"
+          "name": "Hermanos Martinez Gil",
+          "url": "https://open.spotify.com/artist/28L8txPUafzgMa9HllGtlv"
         }
       ],
-      "duration_ms": 166500,
-      "name": "Sin Ti",
-      "url": "https://open.spotify.com/track/57QF4UIb5JicadAG6WZRKI"
+      "duration_ms": 180840,
+      "name": "Cha Cha Linda",
+      "url": "https://open.spotify.com/track/6HAcngnAkOIgpfU0jGsXri"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Hip\u00f3crita y Otros \u00c9xitos de Fernando Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/54UtU7kuWdd7kEb6VYl0SX"
-      },
-      "artists": [
-        {
-          "name": "Fernando Fernandez",
-          "url": "https://open.spotify.com/artist/5c1i7WEYcHjAGxDQMYSWkS"
-        }
-      ],
-      "duration_ms": 169240,
-      "name": "Hip\u00f3crita",
-      "url": "https://open.spotify.com/track/5YhyWVea591buoQxYS5Fwx"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "La Guapachosa Sonora Santanera",
         "url": "https://open.spotify.com/album/57zQXzK66UwTjNGz6abdjS"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 177706,
       "name": "Amor de Cabaret",
       "url": "https://open.spotify.com/track/6uZkEJ50i02zAePs6ixIMC"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "Hip\u00f3crita y Otros \u00c9xitos de Fernando Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/54UtU7kuWdd7kEb6VYl0SX"
+      },
+      "artists": [
+        {
+          "name": "Fernando Fernandez",
+          "url": "https://open.spotify.com/artist/5c1i7WEYcHjAGxDQMYSWkS"
+        }
+      ],
+      "duration_ms": 169240,
+      "name": "Hip\u00f3crita",
+      "url": "https://open.spotify.com/track/5YhyWVea591buoQxYS5Fwx"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Antonio Badu/Claudio Estrada - Dos Bohemios Romanticos",
-        "url": "https://open.spotify.com/album/0asR4PcGxIQOxjnq5aaekQ"
-      },
-      "artists": [
-        {
-          "name": "Antonio Badu",
-          "url": "https://open.spotify.com/artist/3HMS8RHr7RqTB1vj8igPkl"
-        }
-      ],
-      "duration_ms": 153946,
-      "name": "Estoy Enamorado",
-      "url": "https://open.spotify.com/track/3Wu69KbLFXHK2g0fiA0MZR"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "Perfume de Gardenia",
         "url": "https://open.spotify.com/album/3UbEJpnqeJAzKDyEm9rDgc"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 154866,
       "name": "Una Tacita de Caf\u00e9",
       "url": "https://open.spotify.com/track/2eCFUhsUHTy6i1Em7Ok08w"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "Antonio Badu/Claudio Estrada - Dos Bohemios Romanticos",
+        "url": "https://open.spotify.com/album/0asR4PcGxIQOxjnq5aaekQ"
+      },
+      "artists": [
+        {
+          "name": "Antonio Badu",
+          "url": "https://open.spotify.com/artist/3HMS8RHr7RqTB1vj8igPkl"
+        }
+      ],
+      "duration_ms": 153946,
+      "name": "Estoy Enamorado",
+      "url": "https://open.spotify.com/track/3Wu69KbLFXHK2g0fiA0MZR"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Toda Esta Gente",
-        "url": "https://open.spotify.com/album/5e5DyxOEoKX6ZwKGTAuls1"
-      },
-      "artists": [
-        {
-          "name": "Los Viajantes",
-          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
-        }
-      ],
-      "duration_ms": 151250,
-      "name": "Toda Esta Gente",
-      "url": "https://open.spotify.com/track/2VdZRaMy0ZmuLfbJhcOWvb"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "Noche criolla",
         "url": "https://open.spotify.com/album/3pDyJPkrKEtPBAJ3S4kavf"
       },
@@ -1327,8 +1311,24 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Cuando Te Duermas",
-        "url": "https://open.spotify.com/album/5BKc9zMji1Cinb42FPoCbT"
+        "name": "Toda Esta Gente",
+        "url": "https://open.spotify.com/album/5e5DyxOEoKX6ZwKGTAuls1"
+      },
+      "artists": [
+        {
+          "name": "Los Viajantes",
+          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
+        }
+      ],
+      "duration_ms": 151250,
+      "name": "Toda Esta Gente",
+      "url": "https://open.spotify.com/track/2VdZRaMy0ZmuLfbJhcOWvb"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "Te Extra\u00f1o",
+        "url": "https://open.spotify.com/album/3pQMIIjRDqiDrZroTXUACT"
       },
       "artists": [
         {
@@ -1336,9 +1336,9 @@
           "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
         }
       ],
-      "duration_ms": 162927,
-      "name": "Cuando Te Duermas",
-      "url": "https://open.spotify.com/track/1XApSfAeOAewrGd6Sst1sA"
+      "duration_ms": 152874,
+      "name": "Te Extra\u00f1o",
+      "url": "https://open.spotify.com/track/7l6KxjV7Sk6y9iLOBSqTw6"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1419,8 +1419,8 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Te Extra\u00f1o",
-        "url": "https://open.spotify.com/album/3pQMIIjRDqiDrZroTXUACT"
+        "name": "Cuando Te Duermas",
+        "url": "https://open.spotify.com/album/5BKc9zMji1Cinb42FPoCbT"
       },
       "artists": [
         {
@@ -1428,9 +1428,9 @@
           "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
         }
       ],
-      "duration_ms": 152874,
-      "name": "Te Extra\u00f1o",
-      "url": "https://open.spotify.com/track/7l6KxjV7Sk6y9iLOBSqTw6"
+      "duration_ms": 162927,
+      "name": "Cuando Te Duermas",
+      "url": "https://open.spotify.com/track/1XApSfAeOAewrGd6Sst1sA"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Perdoname",
-        "url": "https://open.spotify.com/album/2UXJz6qh5y44uiHxlP8k6M"
-      },
-      "artists": [
-        {
-          "name": "Los Viajantes",
-          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
-        }
-      ],
-      "duration_ms": 144194,
-      "name": "Perdoname",
-      "url": "https://open.spotify.com/track/5GN4KcUMREkJAV3Cuhp5oY"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "XEW La Voz de America Latina",
         "url": "https://open.spotify.com/album/174gRzJCIsipgJkVz0RYZ9"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 175106,
       "name": "Viajera",
       "url": "https://open.spotify.com/track/6GJI6IF3c7Y2H1PBzfA9d8"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "Perdoname",
+        "url": "https://open.spotify.com/album/2UXJz6qh5y44uiHxlP8k6M"
+      },
+      "artists": [
+        {
+          "name": "Los Viajantes",
+          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
+        }
+      ],
+      "duration_ms": 144194,
+      "name": "Perdoname",
+      "url": "https://open.spotify.com/track/5GN4KcUMREkJAV3Cuhp5oY"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1947,26 +1947,18 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Mariachi Vol. 1",
-        "url": "https://open.spotify.com/album/2YkbFuALq3qadFUQ6W4OTA"
+        "name": "Esmeralda Olasabal",
+        "url": "https://open.spotify.com/album/2BM3B53KjhWy8MGMHCRy8v"
       },
       "artists": [
         {
-          "name": "Mexican Music Factory",
-          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
-        },
-        {
-          "name": "Luis Alberto Ballesteros",
-          "url": "https://open.spotify.com/artist/3pHNSjBYvtXDZX4LL4BUb5"
-        },
-        {
-          "name": "Domingo Suarez",
-          "url": "https://open.spotify.com/artist/6keBbpvKC7Wrdq6x7ufCvx"
+          "name": "Esmeralda Olasabal",
+          "url": "https://open.spotify.com/artist/3F9UXVx0qJ5Hitw535URUH"
         }
       ],
-      "duration_ms": 132672,
-      "name": "Camino A San Miguel",
-      "url": "https://open.spotify.com/track/1LCKlitvr598k9WmOcDv8z"
+      "duration_ms": 241913,
+      "name": "C\u00f3mo Han Pasado Los A\u00f1os",
+      "url": "https://open.spotify.com/track/76pVkjsBBjrO1Cn6pLw8sk"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1987,22 +1979,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Esmeralda Olasabal",
-        "url": "https://open.spotify.com/album/2BM3B53KjhWy8MGMHCRy8v"
-      },
-      "artists": [
-        {
-          "name": "Esmeralda Olasabal",
-          "url": "https://open.spotify.com/artist/3F9UXVx0qJ5Hitw535URUH"
-        }
-      ],
-      "duration_ms": 241913,
-      "name": "C\u00f3mo Han Pasado Los A\u00f1os",
-      "url": "https://open.spotify.com/track/76pVkjsBBjrO1Cn6pLw8sk"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "Ya Te Olvide",
         "url": "https://open.spotify.com/album/6mlUaXGzLm5RPoQDP0o4mZ"
       },
@@ -2015,6 +1991,30 @@
       "duration_ms": 148500,
       "name": "Ya Te Olvide",
       "url": "https://open.spotify.com/track/1TM1jRGtkF18D4VnRqlpKu"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "Mariachi Vol. 1",
+        "url": "https://open.spotify.com/album/2YkbFuALq3qadFUQ6W4OTA"
+      },
+      "artists": [
+        {
+          "name": "Mexican Music Factory",
+          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
+        },
+        {
+          "name": "Luis Alberto Ballesteros",
+          "url": "https://open.spotify.com/artist/3pHNSjBYvtXDZX4LL4BUb5"
+        },
+        {
+          "name": "Domingo Suarez",
+          "url": "https://open.spotify.com/artist/6keBbpvKC7Wrdq6x7ufCvx"
+        }
+      ],
+      "duration_ms": 132672,
+      "name": "Camino A San Miguel",
+      "url": "https://open.spotify.com/track/1LCKlitvr598k9WmOcDv8z"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -2263,18 +2263,18 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Omara Portuondo (Buena Vista Social Club Presents)",
-        "url": "https://open.spotify.com/album/14IVwO0ZopBuaLEupTFx4O"
+        "name": "Ibrahim Ferrer (Buena Vista Social Club presents)",
+        "url": "https://open.spotify.com/album/27HNh1cyB39ERqdpSjM2i1"
       },
       "artists": [
         {
-          "name": "Omara Portuondo",
-          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
+          "name": "Ibrahim Ferrer",
+          "url": "https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D"
         }
       ],
-      "duration_ms": 237000,
-      "name": "La Sitiera",
-      "url": "https://open.spotify.com/track/4rMAQCWxtsNbPII2ias4wk"
+      "duration_ms": 278640,
+      "name": "Silencio",
+      "url": "https://open.spotify.com/track/00wSD5E1UWPf63ZG78Lfx3"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -2295,6 +2295,22 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
+        "name": "Omara Portuondo (Buena Vista Social Club Presents)",
+        "url": "https://open.spotify.com/album/14IVwO0ZopBuaLEupTFx4O"
+      },
+      "artists": [
+        {
+          "name": "Omara Portuondo",
+          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "La Sitiera",
+      "url": "https://open.spotify.com/track/4rMAQCWxtsNbPII2ias4wk"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
         "name": "Javier Solis con Trio",
         "url": "https://open.spotify.com/album/5A0quQYOcbEjHvokeGUBWS"
       },
@@ -2311,22 +2327,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Ibrahim Ferrer (Buena Vista Social Club presents)",
-        "url": "https://open.spotify.com/album/27HNh1cyB39ERqdpSjM2i1"
-      },
-      "artists": [
-        {
-          "name": "Ibrahim Ferrer",
-          "url": "https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D"
-        }
-      ],
-      "duration_ms": 294293,
-      "name": "Aquellos Ojos Verdes",
-      "url": "https://open.spotify.com/track/340Qeg5Z8kGkMlJ8u6DL4D"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "El Ruise\u00f1or de America",
         "url": "https://open.spotify.com/album/33pvMxnkZFMGkg9fbomz0r"
       },
@@ -2339,6 +2339,22 @@
       "duration_ms": 187442,
       "name": "De Cigarro en Cigarro",
       "url": "https://open.spotify.com/track/6LB5hr3XF8gdnJITmTF5gH"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "Ibrahim Ferrer (Buena Vista Social Club presents)",
+        "url": "https://open.spotify.com/album/27HNh1cyB39ERqdpSjM2i1"
+      },
+      "artists": [
+        {
+          "name": "Ibrahim Ferrer",
+          "url": "https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D"
+        }
+      ],
+      "duration_ms": 294293,
+      "name": "Aquellos Ojos Verdes",
+      "url": "https://open.spotify.com/track/340Qeg5Z8kGkMlJ8u6DL4D"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -2391,22 +2407,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Ibrahim Ferrer (Buena Vista Social Club presents)",
-        "url": "https://open.spotify.com/album/27HNh1cyB39ERqdpSjM2i1"
-      },
-      "artists": [
-        {
-          "name": "Ibrahim Ferrer",
-          "url": "https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D"
-        }
-      ],
-      "duration_ms": 278640,
-      "name": "Silencio",
-      "url": "https://open.spotify.com/track/00wSD5E1UWPf63ZG78Lfx3"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "15 A\u00f1os De Exitos",
         "url": "https://open.spotify.com/album/28b76Z4InvP9h1s0vnp9fL"
       },
@@ -2455,22 +2455,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Germ\u00e1n Vald\u00e9s TIN-TAN Canciones de Sus Pel\u00edculas",
-        "url": "https://open.spotify.com/album/6egxODz7B5lqBxwykR9JgP"
-      },
-      "artists": [
-        {
-          "name": "Germ\u00e1n Vald\u00e9s \"Tin Tan\"",
-          "url": "https://open.spotify.com/artist/3UycXszmChrsTWhbmydyDZ"
-        }
-      ],
-      "duration_ms": 168960,
-      "name": "La Gloria Eres T\u00fa",
-      "url": "https://open.spotify.com/track/6h1IDdPy9T0LPhqMwUxpxF"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "Reminiscencias",
         "url": "https://open.spotify.com/album/0d78QRCyoDBEM71ShrEYsG"
       },
@@ -2487,6 +2471,22 @@
       "duration_ms": 166706,
       "name": "Caribe Soy",
       "url": "https://open.spotify.com/track/5Z2Dgl4nqoeobRrPF1IiE3"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "Germ\u00e1n Vald\u00e9s TIN-TAN Canciones de Sus Pel\u00edculas",
+        "url": "https://open.spotify.com/album/6egxODz7B5lqBxwykR9JgP"
+      },
+      "artists": [
+        {
+          "name": "Germ\u00e1n Vald\u00e9s \"Tin Tan\"",
+          "url": "https://open.spotify.com/artist/3UycXszmChrsTWhbmydyDZ"
+        }
+      ],
+      "duration_ms": 168960,
+      "name": "La Gloria Eres T\u00fa",
+      "url": "https://open.spotify.com/track/6h1IDdPy9T0LPhqMwUxpxF"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -2539,22 +2539,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Germ\u00e1n Vald\u00e9s TIN-TAN Canciones de Sus Pel\u00edculas",
-        "url": "https://open.spotify.com/album/6egxODz7B5lqBxwykR9JgP"
-      },
-      "artists": [
-        {
-          "name": "Germ\u00e1n Vald\u00e9s \"Tin Tan\"",
-          "url": "https://open.spotify.com/artist/3UycXszmChrsTWhbmydyDZ"
-        }
-      ],
-      "duration_ms": 144240,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/573AAxwwLe12d2eZTm34GI"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "Boleros para Enamorarse, Vol. 2",
         "url": "https://open.spotify.com/album/3eWzi2pLdTWzkIT9pxhzOZ"
       },
@@ -2567,6 +2551,22 @@
       "duration_ms": 181960,
       "name": "Besame Mucho",
       "url": "https://open.spotify.com/track/7ID2XpnDroizAWSvzAZsy7"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "Germ\u00e1n Vald\u00e9s TIN-TAN Canciones de Sus Pel\u00edculas",
+        "url": "https://open.spotify.com/album/6egxODz7B5lqBxwykR9JgP"
+      },
+      "artists": [
+        {
+          "name": "Germ\u00e1n Vald\u00e9s \"Tin Tan\"",
+          "url": "https://open.spotify.com/artist/3UycXszmChrsTWhbmydyDZ"
+        }
+      ],
+      "duration_ms": 144240,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/573AAxwwLe12d2eZTm34GI"
     },
     {
       "added_at": "2024-07-11 00:56:29",

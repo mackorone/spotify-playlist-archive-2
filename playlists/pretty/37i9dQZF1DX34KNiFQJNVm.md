@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Grupo Menos É Mais, Cardi B, Naiara Azevedo com Israel & Rodolffo, Gunna e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,316,787 likes - 81 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,316,641 likes - 81 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

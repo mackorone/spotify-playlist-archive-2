@@ -1,6 +1,6 @@
 {
   "description": "This is Gracie Abrams. The essential tracks, all in one playlist.",
-  "num_followers": 244212,
+  "num_followers": 244265,
   "original_name": "This Is Gracie Abrams",
   "owner": {
     "name": "Spotify",
@@ -107,38 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Secret of Us",
-        "url": "https://open.spotify.com/album/4XXTsu7r9865VvXdvF2iQP"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 225973,
-      "name": "Close To You",
-      "url": "https://open.spotify.com/track/5wbg8kepMFoMzHOEuxiI0q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Daughter from Hell",
-        "url": "https://open.spotify.com/album/4BZydSQMfJNphTFZzyIxh5"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 190533,
-      "name": "Look at My Life",
-      "url": "https://open.spotify.com/track/4Yf6QS1hjFWT1qMqvpzNcK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stick Season (Forever)",
         "url": "https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY"
       },
@@ -159,8 +127,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Secret of Us (Deluxe)",
-        "url": "https://open.spotify.com/album/7ce3IkZzM0jPo2KfB7iDVU"
+        "name": "Daughter from Hell",
+        "url": "https://open.spotify.com/album/4BZydSQMfJNphTFZzyIxh5"
       },
       "artists": [
         {
@@ -168,9 +136,9 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 221207,
-      "name": "I Told You Things",
-      "url": "https://open.spotify.com/track/4wkhV8JcGfy1z1inN5C61D"
+      "duration_ms": 190533,
+      "name": "Look at My Life",
+      "url": "https://open.spotify.com/track/4Yf6QS1hjFWT1qMqvpzNcK"
     },
     {
       "added_at": null,
@@ -184,9 +152,25 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 191586,
-      "name": "Risk",
-      "url": "https://open.spotify.com/track/5JiU3gLHz9AvUnrhXgOmos"
+      "duration_ms": 225973,
+      "name": "Close To You",
+      "url": "https://open.spotify.com/track/5wbg8kepMFoMzHOEuxiI0q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Secret of Us (Deluxe)",
+        "url": "https://open.spotify.com/album/7ce3IkZzM0jPo2KfB7iDVU"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 221207,
+      "name": "I Told You Things",
+      "url": "https://open.spotify.com/track/4wkhV8JcGfy1z1inN5C61D"
     },
     {
       "added_at": null,
@@ -207,6 +191,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Secret of Us",
+        "url": "https://open.spotify.com/album/4XXTsu7r9865VvXdvF2iQP"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 191586,
+      "name": "Risk",
+      "url": "https://open.spotify.com/track/5JiU3gLHz9AvUnrhXgOmos"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "This Is What It Feels Like",
         "url": "https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at"
       },
@@ -223,22 +223,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Secret of Us",
-        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
+        "name": "minor",
+        "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
       },
       "artists": [
         {
           "name": "Gracie Abrams",
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        },
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 242666,
-      "name": "us. (feat. Taylor Swift)",
-      "url": "https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR"
+      "duration_ms": 185172,
+      "name": "21",
+      "url": "https://open.spotify.com/track/5meVa5klVlJalupZTvv5XX"
     },
     {
       "added_at": null,
@@ -259,18 +255,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "minor",
-        "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
+        "name": "The Secret of Us",
+        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
       },
       "artists": [
         {
           "name": "Gracie Abrams",
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        },
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 185172,
-      "name": "21",
-      "url": "https://open.spotify.com/track/5meVa5klVlJalupZTvv5XX"
+      "duration_ms": 242666,
+      "name": "us. (feat. Taylor Swift)",
+      "url": "https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR"
     },
     {
       "added_at": null,

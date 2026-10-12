@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4foYi4.md) - [plain]
 
 > This is St\. Vincent\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,862 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,863 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,15 +17,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4foYi4.md) - [plain]
 | 7 | [Broken Man](https://open.spotify.com/track/1kgLXgHrXecZyRCDROfAPb) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [All Born Screaming](https://open.spotify.com/album/3nRlJXz5W39luXRto5hc4f) | 3:21 |
 | 8 | [New York](https://open.spotify.com/track/5IXTT9RvcVupmzLTFqIInj) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [MASSEDUCTION](https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e) | 2:34 |
 | 9 | [MANIAC](https://open.spotify.com/track/6R4flNWy1pWkjzwg3TCDlM) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Cage](https://open.spotify.com/artist/4yAE0Z6MYUZkEhzdq8racX), [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Man On The Moon II: The Legend Of Mr\. Rager](https://open.spotify.com/album/08eM9GRdr5BCCHNqS3Wwud) | 2:58 |
-| 10 | [Digital Witness](https://open.spotify.com/track/5L16tlSHNt93RiiRiCc8ya) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [St\. Vincent](https://open.spotify.com/album/2CJnMhwEEkS8R1ctgt5llf) | 3:22 |
+| 10 | [Cruel](https://open.spotify.com/track/6FPw780c3azvSQXDuV5Z52) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Strange Mercy](https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1) | 3:34 |
 | 11 | [Big Time Nothing](https://open.spotify.com/track/7F1xUyDoz9vSbwSaCryT5x) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [All Born Screaming](https://open.spotify.com/album/3nRlJXz5W39luXRto5hc4f) | 2:58 |
 | 12 | [Slow Disco](https://open.spotify.com/track/6xiTXiZhECholKGfvDormV) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [MASSEDUCTION](https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e) | 2:44 |
-| 13 | [Cruel](https://open.spotify.com/track/6FPw780c3azvSQXDuV5Z52) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Strange Mercy](https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1) | 3:34 |
+| 13 | [Digital Witness](https://open.spotify.com/track/5L16tlSHNt93RiiRiCc8ya) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [St\. Vincent](https://open.spotify.com/album/2CJnMhwEEkS8R1ctgt5llf) | 3:22 |
 | 14 | [pain for fun](https://open.spotify.com/track/7MI6Tcf7xshal6W4ZHJeEG) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [empathogen](https://open.spotify.com/album/5jsfwcWxZIPtF5aaWx0mlL) | 3:26 |
 | 15 | [Flea](https://open.spotify.com/track/6TryolYM0MBzNTxGrlfcqt) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [All Born Screaming](https://open.spotify.com/album/3nRlJXz5W39luXRto5hc4f) | 3:46 |
 | 16 | [Hang On Me](https://open.spotify.com/track/54IL47Tmp2MAVABIdf6eMF) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [MASSEDUCTION](https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e) | 2:48 |
-| 17 | [Who](https://open.spotify.com/track/5Fik3NpxT1qBKSXfXe8YBr) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB), [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Love This Giant](https://open.spotify.com/album/4Pu1Qeg26ACk8ZH00bk3Q4) | 3:49 |
-| 18 | [Pay Your Way In Pain](https://open.spotify.com/track/1nLaoWVhNRZ38irY0LZjL6) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Daddy's Home](https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM) | 3:03 |
+| 17 | [Pay Your Way In Pain](https://open.spotify.com/track/1nLaoWVhNRZ38irY0LZjL6) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Daddy's Home](https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM) | 3:03 |
+| 18 | [Who](https://open.spotify.com/track/5Fik3NpxT1qBKSXfXe8YBr) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB), [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Love This Giant](https://open.spotify.com/album/4Pu1Qeg26ACk8ZH00bk3Q4) | 3:49 |
 | 19 | [Hell Is Near](https://open.spotify.com/track/5tuHiLI7CPV1BI9m2Gnlph) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [All Born Screaming](https://open.spotify.com/album/3nRlJXz5W39luXRto5hc4f) | 4:08 |
 | 20 | [Masseduction](https://open.spotify.com/track/4L7kaptgY6py2G3nRW9BVQ) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [MASSEDUCTION](https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e) | 3:17 |
 | 21 | [Tiempos Violentos \(feat\. Mon Laferte\)](https://open.spotify.com/track/2ozyU0ouEszNl675sgJjjM) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Tiempos Violentos \(feat\. Mon Laferte\)](https://open.spotify.com/album/5QltgUkS8v6Ied1QGoDUMw) | 3:57 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4foYi4.md) - [plain]
 | 41 | [My Baby Wants A Baby](https://open.spotify.com/track/4YrYuylaABLjyyl2Bw5tkG) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Daddy's Home](https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM) | 3:20 |
 | 42 | [These Days](https://open.spotify.com/track/17euxWBhHT86yFjGuP9tSw) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Jesus Saves, I Spend](https://open.spotify.com/album/05JkgPTxUIXWkiZf96VAYa) | 3:19 |
 | 43 | [Dilettante](https://open.spotify.com/track/2V0Na3gPSckTReRoU0gQCp) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Strange Mercy](https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1) | 4:03 |
-| 44 | [We Put A Pearl In the Ground \- Live](https://open.spotify.com/track/3lk3HVxUJYCErXukieewbV) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6), [Jules Buckley](https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX) | [LIVE IN LONDON! \(BBC Proms at the Royal Albert Hall\)](https://open.spotify.com/album/2xdIxgu25l6fXk1OTjSobC) | 1:28 |
+| 44 | [Black Rainbow \- Live](https://open.spotify.com/track/5HqFOpyH9vzfWr60qVD7pf) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6), [Jules Buckley](https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX) | [LIVE IN LONDON! \(BBC Proms at the Royal Albert Hall\)](https://open.spotify.com/album/2xdIxgu25l6fXk1OTjSobC) | 4:16 |
 | 45 | [Bad Believer](https://open.spotify.com/track/1VxW8LraxdE168OWaytqrC) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [St\. Vincent \(Deluxe Edition\)](https://open.spotify.com/album/2FtneRtIF1I5HPBsIxSqf0) | 2:59 |
 | 46 | [The Party](https://open.spotify.com/track/4bRCh7SD8irSL85Bg2XYpg) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Actor](https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX) | 4:05 |
 | 47 | [Chloe In The Afternoon](https://open.spotify.com/track/2cZzpFiWGj6hwNbY7I0sLP) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Strange Mercy](https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1) | 2:55 |
-| 48 | [Black Rainbow \- Live](https://open.spotify.com/track/5HqFOpyH9vzfWr60qVD7pf) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6), [Jules Buckley](https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX) | [LIVE IN LONDON! \(BBC Proms at the Royal Albert Hall\)](https://open.spotify.com/album/2xdIxgu25l6fXk1OTjSobC) | 4:16 |
+| 48 | [We Put A Pearl In the Ground \- Live](https://open.spotify.com/track/3lk3HVxUJYCErXukieewbV) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6), [Jules Buckley](https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX) | [LIVE IN LONDON! \(BBC Proms at the Royal Albert Hall\)](https://open.spotify.com/album/2xdIxgu25l6fXk1OTjSobC) | 1:28 |
 | 49 | [Regret](https://open.spotify.com/track/2OCus0BsjJFo7E2TSAGnIe) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [St\. Vincent \(Deluxe Edition\)](https://open.spotify.com/album/2FtneRtIF1I5HPBsIxSqf0) | 3:21 |
 | 50 | [The Strangers](https://open.spotify.com/track/4OJZdAOrWKD4ZJXqfClIUR) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Actor](https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX) | 4:04 |
 
-Snapshot ID: `asgugAAAAAArdScDHddStoazOTXZKoN6`
+Snapshot ID: `asmAAAAAAAABb1IysLmKm73uoCqI2OYn`

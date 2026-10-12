@@ -1,6 +1,6 @@
 {
   "description": "Solo hit rap da ascoltare in loop. Cover: Lazza",
-  "num_followers": 256431,
+  "num_followers": 256468,
   "original_name": "Hit Rap Italiane",
   "owner": {
     "name": "Spotify",
@@ -187,18 +187,26 @@
     {
       "added_at": "2026-04-23 21:32:47",
       "album": {
-        "name": "PLAZA",
-        "url": "https://open.spotify.com/album/5tKxGn7nxBF5qLW6cpwVT8"
+        "name": "La Divina Commedia",
+        "url": "https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl"
       },
       "artists": [
         {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        },
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
         }
       ],
-      "duration_ms": 192786,
-      "name": "Non Fare Cos\u00ec",
-      "url": "https://open.spotify.com/track/769M2rTiAoL7x2lKDHLjRa"
+      "duration_ms": 162412,
+      "name": "Paradiso Artificiale (feat. Baby Gang & Kid Yugi)",
+      "url": "https://open.spotify.com/track/5omIW7YOPhA6CULhkdz6jE"
     },
     {
       "added_at": "2026-04-23 21:32:47",
@@ -251,26 +259,18 @@
     {
       "added_at": "2026-04-23 21:32:47",
       "album": {
-        "name": "La Divina Commedia",
-        "url": "https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl"
+        "name": "PLAZA",
+        "url": "https://open.spotify.com/album/5tKxGn7nxBF5qLW6cpwVT8"
       },
       "artists": [
         {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
-        },
-        {
-          "name": "Baby Gang",
-          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
-        },
-        {
-          "name": "Kid Yugi",
-          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
         }
       ],
-      "duration_ms": 162412,
-      "name": "Paradiso Artificiale (feat. Baby Gang & Kid Yugi)",
-      "url": "https://open.spotify.com/track/5omIW7YOPhA6CULhkdz6jE"
+      "duration_ms": 192786,
+      "name": "Non Fare Cos\u00ec",
+      "url": "https://open.spotify.com/track/769M2rTiAoL7x2lKDHLjRa"
     },
     {
       "added_at": "2026-04-23 21:32:47",
@@ -471,42 +471,6 @@
     {
       "added_at": "2026-04-23 21:32:47",
       "album": {
-        "name": "ASPETTANDO LA BELLA VITA",
-        "url": "https://open.spotify.com/album/7kPBwGRrSCDXGUuxcD6AWb"
-      },
-      "artists": [
-        {
-          "name": "Artie 5ive",
-          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
-        },
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        }
-      ],
-      "duration_ms": 189015,
-      "name": "ANELLI E COLLANE (feat. ANNA)",
-      "url": "https://open.spotify.com/track/0YI32qkEhhUjoGVMGXDm8b"
-    },
-    {
-      "added_at": "2026-04-23 21:32:47",
-      "album": {
-        "name": "20",
-        "url": "https://open.spotify.com/album/0KYX8LOknGNZ7CkC5EuHJw"
-      },
-      "artists": [
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        }
-      ],
-      "duration_ms": 208813,
-      "name": "Uno squillo",
-      "url": "https://open.spotify.com/track/7zivIUyCw9MmYftdcayXnN"
-    },
-    {
-      "added_at": "2026-04-23 21:32:47",
-      "album": {
         "name": "Gelosa (feat. Shiva, Sfera Ebbasta, Gu\u00e8)",
         "url": "https://open.spotify.com/album/0EtbYgB5v6HF3VgWVYOOOi"
       },
@@ -535,6 +499,42 @@
       "duration_ms": 181611,
       "name": "Gelosa (feat. Shiva, Sfera Ebbasta, Gu\u00e8)",
       "url": "https://open.spotify.com/track/2hHC2jw8qiE4IAPDGjU4Fu"
+    },
+    {
+      "added_at": "2026-04-23 21:32:47",
+      "album": {
+        "name": "20",
+        "url": "https://open.spotify.com/album/0KYX8LOknGNZ7CkC5EuHJw"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "duration_ms": 208813,
+      "name": "Uno squillo",
+      "url": "https://open.spotify.com/track/7zivIUyCw9MmYftdcayXnN"
+    },
+    {
+      "added_at": "2026-04-23 21:32:47",
+      "album": {
+        "name": "ASPETTANDO LA BELLA VITA",
+        "url": "https://open.spotify.com/album/7kPBwGRrSCDXGUuxcD6AWb"
+      },
+      "artists": [
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "duration_ms": 189015,
+      "name": "ANELLI E COLLANE (feat. ANNA)",
+      "url": "https://open.spotify.com/track/0YI32qkEhhUjoGVMGXDm8b"
     },
     {
       "added_at": "2026-04-23 21:32:47",
@@ -919,22 +919,6 @@
     {
       "added_at": "2026-04-23 21:32:47",
       "album": {
-        "name": "Malammore",
-        "url": "https://open.spotify.com/album/4A9xE2QAA6dgTcqMrnjpqP"
-      },
-      "artists": [
-        {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
-        }
-      ],
-      "duration_ms": 218695,
-      "name": "Che Dio Mi Benedica",
-      "url": "https://open.spotify.com/track/7ohj51SSBsOPh2phOZkn9d"
-    },
-    {
-      "added_at": "2026-04-23 21:32:47",
-      "album": {
         "name": "GIOVANE RONDO",
         "url": "https://open.spotify.com/album/19go1SwCMtX80cSTF7C8Qf"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 217443,
       "name": "SLATT (feat. Capo Plaza)",
       "url": "https://open.spotify.com/track/1YvhcTM8aIRTg03AavA2HJ"
+    },
+    {
+      "added_at": "2026-04-23 21:32:47",
+      "album": {
+        "name": "Malammore",
+        "url": "https://open.spotify.com/album/4A9xE2QAA6dgTcqMrnjpqP"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        }
+      ],
+      "duration_ms": 218695,
+      "name": "Che Dio Mi Benedica",
+      "url": "https://open.spotify.com/track/7ohj51SSBsOPh2phOZkn9d"
     },
     {
       "added_at": "2026-04-23 21:32:47",
@@ -1711,26 +1711,6 @@
     {
       "added_at": "2026-04-23 21:32:47",
       "album": {
-        "name": "Mowgli",
-        "url": "https://open.spotify.com/album/2F4YVNFy52kTEGDXdeYiZX"
-      },
-      "artists": [
-        {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
-        },
-        {
-          "name": "Chris Nolan",
-          "url": "https://open.spotify.com/artist/1xsYReh7zhty26wD4tprKh"
-        }
-      ],
-      "duration_ms": 203040,
-      "name": "Vertigini",
-      "url": "https://open.spotify.com/track/1Oou7m2VuxCDSOdqsu07TU"
-    },
-    {
-      "added_at": "2026-04-23 21:32:47",
-      "album": {
         "name": "TAXI DRIVER",
         "url": "https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh"
       },
@@ -1751,6 +1731,26 @@
       "duration_ms": 174727,
       "name": "10 RAGAZZE (con ERNIA)",
       "url": "https://open.spotify.com/track/45OsJpk7HMJKOnMVf2eQsV"
+    },
+    {
+      "added_at": "2026-04-23 21:32:47",
+      "album": {
+        "name": "Mowgli",
+        "url": "https://open.spotify.com/album/2F4YVNFy52kTEGDXdeYiZX"
+      },
+      "artists": [
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        },
+        {
+          "name": "Chris Nolan",
+          "url": "https://open.spotify.com/artist/1xsYReh7zhty26wD4tprKh"
+        }
+      ],
+      "duration_ms": 203040,
+      "name": "Vertigini",
+      "url": "https://open.spotify.com/track/1Oou7m2VuxCDSOdqsu07TU"
     },
     {
       "added_at": "2026-04-23 21:32:47",

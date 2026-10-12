@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 
 > Indie folk songs to help your worries get lost in the woods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,220 likes - 80 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,240 likes - 80 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 42 | [Dark Eyed Sailor](https://open.spotify.com/track/5dzk2Upt3yF2uDThmsqeJX) | [Olivia Chaney](https://open.spotify.com/artist/0IRzm0TuehkXRBVKNzSX7e) | [Dark Eyed Sailor](https://open.spotify.com/album/1R4KuR0eEdoQH6c9SokpsH) | 5:10 |
 | 43 | [Upstate](https://open.spotify.com/track/0Tg8POtTUlEH9xNobmoade) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Upstate](https://open.spotify.com/album/2XDV7BTvNQvgGaJLTHHEF9) | 4:24 |
 | 44 | [Gloria](https://open.spotify.com/track/0zKdnh2MYbxhFpqZi2VprC) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Halcyon](https://open.spotify.com/album/6qozXyj0x4k9gvSuKm6Jlq) | 3:38 |
-| 45 | [Math of Us](https://open.spotify.com/track/1YRDethDX6AXDmzfZEFd7J) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Made You Look](https://open.spotify.com/album/7ccGOPW35JEq0BSLxKQ4Qg) | 3:45 |
-| 46 | [You & We](https://open.spotify.com/track/5MD0n5OdhzQE8TGbGO0n7c) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Against The Dying Of The Light](https://open.spotify.com/album/46XdK0AK5PmeummJN5fB6W) | 4:28 |
+| 45 | [You & We](https://open.spotify.com/track/5MD0n5OdhzQE8TGbGO0n7c) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Against The Dying Of The Light](https://open.spotify.com/album/46XdK0AK5PmeummJN5fB6W) | 4:28 |
+| 46 | [Math of Us](https://open.spotify.com/track/1YRDethDX6AXDmzfZEFd7J) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Made You Look](https://open.spotify.com/album/7ccGOPW35JEq0BSLxKQ4Qg) | 3:45 |
 | 47 | [Shadow Of A Man](https://open.spotify.com/track/0pxeRv17TMp2uAPlqMpPep) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Prizefighter](https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k) | 3:43 |
 | 48 | [Philadelphia \(with Searows\)](https://open.spotify.com/track/7areyJPur83YJOJLhvSXvH) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf), [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Philadelphia \(with Searows\)](https://open.spotify.com/album/6FGCL7fcqEcGhXjI7IhQZF) | 3:02 |
 | 49 | [System](https://open.spotify.com/track/15mRJR5eMKMtV3e5fU2aDE) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Signs of Life](https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2) | 3:53 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 62 | [Shiver](https://open.spotify.com/track/6U63s4dcufvu0QnnXvO31Y) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Shiver](https://open.spotify.com/album/5SfsIezjbXkthksXx3afyb) | 3:34 |
 | 63 | [God Has A Hitman](https://open.spotify.com/track/1oJlAQUHuNCytq5gptME2Z) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [I Don't Know How But They Found Me...Again!](https://open.spotify.com/album/2waHNdcyBJsSKqGTPeSgYt) | 3:49 |
 | 64 | [Years On](https://open.spotify.com/track/1vuHmcfRwAFOVEq4ODsIIx) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Years On](https://open.spotify.com/album/2JF61Lh95FnWScGBXFdhv8) | 4:02 |
-| 65 | [Walls](https://open.spotify.com/track/3XMl69GS63VxoSOO6Nxord) | [The Army, The Navy](https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI) | [Walls](https://open.spotify.com/album/4FnT4jNQkFwDtHbmWz6laY) | 3:12 |
-| 66 | [Next To Me](https://open.spotify.com/track/49x1GZ66GEXQkdXD8Bc7LR) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Next To Me](https://open.spotify.com/album/4dyNIU75ppnJATmOF1QPbC) | 3:50 |
+| 65 | [Next To Me](https://open.spotify.com/track/49x1GZ66GEXQkdXD8Bc7LR) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Next To Me](https://open.spotify.com/album/4dyNIU75ppnJATmOF1QPbC) | 3:50 |
+| 66 | [Walls](https://open.spotify.com/track/3XMl69GS63VxoSOO6Nxord) | [The Army, The Navy](https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI) | [Walls](https://open.spotify.com/album/4FnT4jNQkFwDtHbmWz6laY) | 3:12 |
 | 67 | [I'm Not Ready To Go](https://open.spotify.com/track/5zOaXxYlOm67a6lMn1AE8I) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low \(Side B\)](https://open.spotify.com/album/2SRsyHHPOXRwwe56K8LCcZ) | 4:22 |
 | 68 | [Scared Of Me](https://open.spotify.com/track/6c1pozetaTladugnMW6z9T) | [Gloria Laing](https://open.spotify.com/artist/3aO4DL5c2uBGD8EUuP7sxi) | [Cry For Me](https://open.spotify.com/album/4QCAnF76MDKeYnr4FMkaVm) | 4:00 |
 | 69 | [Everyone Likes To Be Forgiven](https://open.spotify.com/track/0qQfLlCBn8LNsPWpzcFsbY) | [Annabelle Dinda](https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36) | [Some Things Never Leave](https://open.spotify.com/album/6SjTebu5erz22LeboDHsML) | 4:00 |

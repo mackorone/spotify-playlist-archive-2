@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBCPUIUs2iR.md) - [plain]
 
 > A compilation of the all\-time biggest hits in Country Music\. Cover: Dolly Parton
 
-[Spotify](https://open.spotify.com/user/spotify) - 808,691 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 808,881 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,13 +38,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBCPUIUs2iR.md) - [plain]
 | 28 | [Cruise](https://open.spotify.com/track/0i5el041vd6nxrGEU8QRxy) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Here's To The Good Times](https://open.spotify.com/album/5MH765pytbQasmDxXArTah) | 3:28 |
 | 29 | [Man! I Feel Like A Woman!](https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:54 |
 | 30 | [Girl Crush](https://open.spotify.com/track/11qh54D0PKkBwelpDxxiEU) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Pain Killer](https://open.spotify.com/album/49lwR8y1i51wrQRnhw5C3H) | 3:13 |
-| 31 | [I Hope](https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:30 |
-| 32 | [Achy Breaky Heart](https://open.spotify.com/track/2EoIt9vdgFRNW03u5IvFsQ) | [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) | [Some Gave All](https://open.spotify.com/album/2Rh2JyaBjJwPMFR9Dl60nV) | 3:23 |
+| 31 | [Achy Breaky Heart](https://open.spotify.com/track/2EoIt9vdgFRNW03u5IvFsQ) | [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) | [Some Gave All](https://open.spotify.com/album/2Rh2JyaBjJwPMFR9Dl60nV) | 3:23 |
+| 32 | [I Hope](https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:30 |
 | 33 | [Strawberry Wine](https://open.spotify.com/track/3ODF56f90W3qxDqxHAUi3v) | [Deana Carter](https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt) | [The Deana Carter Collection](https://open.spotify.com/album/5WqK9zGqUlTw7IPY2k1Yqd) | 4:50 |
 | 34 | [This Is How We Roll](https://open.spotify.com/track/2TR7A4ulH9R1PNwMyd8o8U) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Here's To The Good Times...This Is How We Roll](https://open.spotify.com/album/0uqAyKT7oMZDFMyteJOJWI) | 3:40 |
 | 35 | [This Kiss](https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Faith](https://open.spotify.com/album/2lKDDrmx5aqyBRkho5ljn5) | 3:14 |
-| 36 | [Tequila](https://open.spotify.com/track/42fw0rxRO2xbesF6mJfd4Y) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Dan + Shay](https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE) | 3:16 |
-| 37 | [Why Don't We Just Dance](https://open.spotify.com/track/2p07VcUwRZ5sru3mJ0JogS) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Haywire](https://open.spotify.com/album/4AwUix40p2isD6wvEBPpQ8) | 3:12 |
+| 36 | [Why Don't We Just Dance](https://open.spotify.com/track/2p07VcUwRZ5sru3mJ0JogS) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Haywire](https://open.spotify.com/album/4AwUix40p2isD6wvEBPpQ8) | 3:12 |
+| 37 | [Tequila](https://open.spotify.com/track/42fw0rxRO2xbesF6mJfd4Y) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Dan + Shay](https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE) | 3:16 |
 | 38 | [Live Like You Were Dying](https://open.spotify.com/track/7B1QliUMZv7gSTUGAfMRRD) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Live Like You Were Dying](https://open.spotify.com/album/0os1Gz3XMM6dduZSMxVuXs) | 5:00 |
 | 39 | [Blue Ain't Your Color](https://open.spotify.com/track/6wycnu8FWXsj68ig7BEot9) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Ripcord](https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq) | 3:50 |
 | 40 | [Kiss an Angel Good Mornin'](https://open.spotify.com/track/0alXPC11fIucBFD6qcCE94) | [Charley Pride](https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE) | [The Essential Charley Pride](https://open.spotify.com/album/4ALGvSzcQF4SD9WXLyDI75) | 2:03 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBCPUIUs2iR.md) - [plain]
 | 47 | [Body Like A Back Road](https://open.spotify.com/track/7mldq42yDuxiUNn08nvzHO) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Body Like A Back Road](https://open.spotify.com/album/2N7kidh1wA9EoLdf16QWrz) | 2:45 |
 | 48 | [Humble And Kind](https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Damn Country Music](https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4) | 4:19 |
 | 49 | [Folsom Prison Blues \- Live at Folsom State Prison, Folsom, CA \- January 1968](https://open.spotify.com/track/2fDHuS1PTkHBbCWWZF1ph9) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [At Folsom Prison](https://open.spotify.com/album/4TJIdlY9hGSSTO1kUs1neh) | 2:42 |
-| 50 | [Don't Rock the Jukebox](https://open.spotify.com/track/3oyByfBYegVEDwYyqx9pRd) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Don\`t Rock The Jukebox](https://open.spotify.com/album/6767Q48U82ay3Vbr27YNbA) | 2:51 |
-| 51 | [I Swear](https://open.spotify.com/track/7wIaLkbQzG6HMnE28etnif) | [John Michael Montgomery](https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A) | [Kickin' It Up](https://open.spotify.com/album/35RTe7YfQemPHk27qXWMxK) | 4:22 |
+| 50 | [I Swear](https://open.spotify.com/track/7wIaLkbQzG6HMnE28etnif) | [John Michael Montgomery](https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A) | [Kickin' It Up](https://open.spotify.com/album/35RTe7YfQemPHk27qXWMxK) | 4:22 |
+| 51 | [Don't Rock the Jukebox](https://open.spotify.com/track/3oyByfBYegVEDwYyqx9pRd) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Don\`t Rock The Jukebox](https://open.spotify.com/album/6767Q48U82ay3Vbr27YNbA) | 2:51 |
 | 52 | [Just Got Started Lovin' You](https://open.spotify.com/track/4b0XF7CDpJEBAdVHMw7amV) | [James Otto](https://open.spotify.com/artist/3VStI6m5Ig9FAyUaa0lYAP) | [Sunset Man \(Standard Version\)](https://open.spotify.com/album/79uExtsVJH2aNcS2Xu4Cim) | 3:54 |
 | 53 | [Rose Garden](https://open.spotify.com/track/5YwgJ6lpZ3SiAQwBEpjqey) | [Lynn Anderson](https://open.spotify.com/artist/502FY8XQYRxClWgolQ3Hf2) | [Rose Garden](https://open.spotify.com/album/2JItlMgM1n2GfKOmqYr8af) | 2:55 |
 | 54 | [God Gave Me You](https://open.spotify.com/track/0w9LJae3sVlZlH2CnxTInF) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Red River Blue \(Deluxe Edition\)](https://open.spotify.com/album/1WXCjIDp84rJN6Sa1Um9kJ) | 3:49 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1xVV8WCtm9c6y0cGo4WrWG.md) - [plain]
 
 > The newest and best Hip\-Hop updated weekly! Cover: Quavo
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 22,806 likes - 78 songs - 3 hr 51 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 22,804 likes - 78 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

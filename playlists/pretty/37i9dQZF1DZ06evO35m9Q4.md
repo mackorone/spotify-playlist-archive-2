@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO35m9Q4.md) - [plain]
 
 > This is Stevie Ray Vaughan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,279 likes - 49 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,288 likes - 49 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO35m9Q4.md) - [plain]
 | 48 | [Letter to My Girlfriend \- Live at Carnegie Hall, New York, NY \- October 1984](https://open.spotify.com/track/0Vxtc6GsFXlhRiJZ2IRG06) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Live at Carnegie Hall](https://open.spotify.com/album/5Q0OpLSi7q2fKcHQHVeBGd) | 3:08 |
 | 49 | [Pep Talk \- Remastered 2024](https://open.spotify.com/track/2wdvPx55QXWSr3wHkT8r1Q) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session \(Deluxe Edition / Remastered 2024\)](https://open.spotify.com/album/6uSHXKhCj58I8IgbjrxtV2) | 0:58 |
 
-Snapshot ID: `asgugAAAAAAiggswG+SZbZZfV9HzeNR2`
+Snapshot ID: `asmAAAAAAAAoZF0trnW1G+IgmhKs1Edh`

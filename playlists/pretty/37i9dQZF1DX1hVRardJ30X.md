@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Carín León & Ryan Castro, Judeline, Fuerza Regida, Ralphie Choo and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 645,056 likes - 49 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 645,059 likes - 49 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

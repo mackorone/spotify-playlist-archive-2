@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 
 > Trendy & Chill Korean R&B music\. \(Cover:  ONEW, ZICO\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,096,644 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,096,556 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 | 24 | [Lips Hips Kiss](https://open.spotify.com/track/5Q4DLsIx0Fl0IDCCWHsLlH) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [224](https://open.spotify.com/album/20GxuSxICpXyRYkoqRjthR) | 3:09 |
 | 25 | [Next 2 U](https://open.spotify.com/track/6Qq5N2ZFOSxink8xHHLGbZ) | [OHYUL of LNGSHOT](https://open.spotify.com/artist/19lETOCO5Jc7arA9DaLID8), [LOUIS of LNGSHOT](https://open.spotify.com/artist/7dC5JED2uhOrtxILEGcecT) | [4SHOBOIZ MIXTAPE](https://open.spotify.com/album/3XzKcbKfLPWSOG7BJbC98O) | 2:10 |
 | 26 | [Yours](https://open.spotify.com/track/4KL3FJYexPrPuMdPagHPXp) | [Raiden](https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ), [CHANYEOL](https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5), [LEEHI](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Yours](https://open.spotify.com/album/01RsFGO7W7xaRM4T2p1Xdn) | 3:55 |
-| 27 | [Lullaby Remix](https://open.spotify.com/track/6WnMFDIiDJR0Yg9JaBwVQx) | [JayDon](https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju), [Paradise](https://open.spotify.com/artist/0jPDWsUr0XvGs5JcZChtto), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [LOUIS of LNGSHOT](https://open.spotify.com/artist/7dC5JED2uhOrtxILEGcecT) | [Lullaby Remix](https://open.spotify.com/album/31mReIClap5NQNlYVt8TDB) | 3:37 |
-| 28 | [Don't Go Insane](https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Dear Insanity...](https://open.spotify.com/album/0tOtw8pNMRmDa57nZ6GZ9Q) | 3:24 |
+| 27 | [Don't Go Insane](https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Dear Insanity...](https://open.spotify.com/album/0tOtw8pNMRmDa57nZ6GZ9Q) | 3:24 |
+| 28 | [Lullaby Remix](https://open.spotify.com/track/6WnMFDIiDJR0Yg9JaBwVQx) | [JayDon](https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju), [Paradise](https://open.spotify.com/artist/0jPDWsUr0XvGs5JcZChtto), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [LOUIS of LNGSHOT](https://open.spotify.com/artist/7dC5JED2uhOrtxILEGcecT) | [Lullaby Remix](https://open.spotify.com/album/31mReIClap5NQNlYVt8TDB) | 3:37 |
 | 29 | [INVITATION \(Feat\. Gaeko\)](https://open.spotify.com/track/3ISOK4T54v6O1g1AB8FiEK) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [INVITATION \(Feat\. Gaeko\)](https://open.spotify.com/album/4WxRKPVsrzIaQ7ExLMvJ1u) | 3:11 |
 | 30 | [D \(Half Moon\)](https://open.spotify.com/track/3uA8SjMyDtwtt0jLPMQbVD) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [130 Mood : TRBL](https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU) | 3:49 |
 | 31 | [Shoong! \(feat\. LISA of BLACKPINK\)](https://open.spotify.com/track/0oJRiblEiQgTg2hRfnacIt) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Down to Earth](https://open.spotify.com/album/6q2v2FAOpb3Rk2avT7mxQS) | 3:25 |

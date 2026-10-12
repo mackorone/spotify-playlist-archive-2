@@ -56,7 +56,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 262608,
       "name": "Amor Del Bueno (con Alfredo Olivas)",
       "url": "https://open.spotify.com/track/5ckl6DcMSiDJV80U1uPhVP"
@@ -1476,6 +1476,24 @@
       "duration_ms": 218000,
       "name": "Te quiero, te amo",
       "url": "https://open.spotify.com/track/73XUqDO8fU7dhFuwHw4W3s"
+    },
+    {
+      "album": {
+        "name": "Esta Mi Pasi\u00f3n",
+        "url": "https://open.spotify.com/album/75bnY3wmNEEUkPNMTDVq9O"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177673,
+      "name": "Temporal Sin Ti",
+      "url": "https://open.spotify.com/track/2tT8oWNwy6h9kPoEsy2eF1"
     },
     {
       "album": {

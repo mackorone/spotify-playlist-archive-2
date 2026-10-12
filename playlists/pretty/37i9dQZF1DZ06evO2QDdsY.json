@@ -1,12 +1,12 @@
 {
   "description": "This is Valerie June. The essential tracks, all in one playlist.",
-  "num_followers": 16934,
+  "num_followers": 16935,
   "original_name": "This Is Valerie June",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asbdAAAAAADX5b1qmqox7xhVG/B/8NI5",
+  "snapshot_id": "asgugAAAAACNkLroSsyA1+9FYpu/LsaR",
   "tracks": [
     {
       "added_at": null,
@@ -123,6 +123,22 @@
       "duration_ms": 285813,
       "name": "Fade Into You",
       "url": "https://open.spotify.com/track/0zMkPeOXFjcDJymkJl5qZD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trouble In Mind",
+        "url": "https://open.spotify.com/album/4RGyBhfOtvkhuSYcbCerrR"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 189119,
+      "name": "Trouble In Mind",
+      "url": "https://open.spotify.com/track/4l2hyj3Wj2F2h9rAoTaYzc"
     },
     {
       "added_at": null,
@@ -719,6 +735,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tyrannosaur",
+        "url": "https://open.spotify.com/album/4tOWMzJgaAw6wg8BgbyUpB"
+      },
+      "artists": [
+        {
+          "name": "Sachal Vasandani",
+          "url": "https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr"
+        },
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 199642,
+      "name": "Tyrannosaur",
+      "url": "https://open.spotify.com/track/4ZdFgFJ4nsXneiT5QeLVM3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My Black Country: The Songs of Alice Randall",
         "url": "https://open.spotify.com/album/55YFzxmWdGxAUFSp9zh9sN"
       },
@@ -767,26 +803,6 @@
       "duration_ms": 245066,
       "name": "Use Me",
       "url": "https://open.spotify.com/track/6dqJ50r54N2CrddT8XEtgc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tyrannosaur",
-        "url": "https://open.spotify.com/album/4tOWMzJgaAw6wg8BgbyUpB"
-      },
-      "artists": [
-        {
-          "name": "Sachal Vasandani",
-          "url": "https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr"
-        },
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 199642,
-      "name": "Tyrannosaur",
-      "url": "https://open.spotify.com/track/4ZdFgFJ4nsXneiT5QeLVM3"
     },
     {
       "added_at": null,
@@ -843,22 +859,6 @@
       "duration_ms": 229525,
       "name": "Cheese (feat. PawPaw Rod & Valerie June)",
       "url": "https://open.spotify.com/track/4IttML3TgHecmpPe0Ytffs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rollin' and Tumblin'",
-        "url": "https://open.spotify.com/album/0fnEQYKGxiZ8MeQdyQNpQ1"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 208110,
-      "name": "Rollin\u2019 and Tumblin\u2019",
-      "url": "https://open.spotify.com/track/6Gf3O9dcDuPUtMm6arXiCr"
     }
   ],
   "unique_name": "This Is Valerie June",

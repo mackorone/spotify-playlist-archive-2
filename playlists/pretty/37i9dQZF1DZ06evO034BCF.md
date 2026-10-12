@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO034BCF.md) - [plain]
 
 > This is Gustavo Dudamel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,329 likes - 35 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,333 likes - 35 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO034BCF.md) - [plain]
 | 34 | [Symphonie espagnole, Op\. 21: II\. Scherzando\. Allegro molto](https://open.spotify.com/track/7uPkyT3yEFzgupFM5OpuN7) | [Édouard Lalo](https://open.spotify.com/artist/4kWXpaUAQNnuCcaPiwFYW1), [María Dueñas](https://open.spotify.com/artist/3tzzRz6WvbIF021Ak4l2PE), [Simón Bolívar Symphony Orchestra Of Venezuela](https://open.spotify.com/artist/5p6H6NoqsMesY9ZvMBg1tu), [Gustavo Dudamel](https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY) | [Homage to Heifetz](https://open.spotify.com/album/2G6BxZBQ8C3QA0PqgPdS09) | 4:29 |
 | 35 | [Violin Concerto in D Major, Op\. 35: I\. Moderato nobile](https://open.spotify.com/track/2CozG9JJ2FH84TqFXGXuJm) | [Erich Wolfgang Korngold](https://open.spotify.com/artist/3UaJz1tq0BBPzJBPgkBarb), [María Dueñas](https://open.spotify.com/artist/3tzzRz6WvbIF021Ak4l2PE), [Simón Bolívar Symphony Orchestra Of Venezuela](https://open.spotify.com/artist/5p6H6NoqsMesY9ZvMBg1tu), [Gustavo Dudamel](https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY) | [Homage to Heifetz](https://open.spotify.com/album/2G6BxZBQ8C3QA0PqgPdS09) | 9:43 |
 
-Snapshot ID: `asgugAAAAAD6eWixmRYWo34B7QuQ+Plq`
+Snapshot ID: `asmAAAAAAAD1KgobDhb61Z3Jns/2SSXG`

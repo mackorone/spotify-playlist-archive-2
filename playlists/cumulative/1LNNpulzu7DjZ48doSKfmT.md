@@ -4,7 +4,7 @@
 
 > beautiful music that you can put on repeat
 
-1,217 songs - 2 day 14 hr 26 min
+1,219 songs - 2 day 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [2 Times](https://open.spotify.com/track/2V6M57LUuXyKasAd32WOIm) | [SAMMY & LESEN](https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE), [Gia Koka](https://open.spotify.com/artist/71WExccCBN2mw0klSzfYzz), [TECHNO KING](https://open.spotify.com/artist/4PWjpdBUTvwJ5iO1p8dHqC) | [2 Times](https://open.spotify.com/album/1eT55vAiwenizmz5EeGsNQ) | 2:13 | 2025-12-27 | 2026-02-23 |
 | [20 leg parlay](https://open.spotify.com/track/2HzcmhX02SELYna1BrWt7u) | [OffTheFanta](https://open.spotify.com/artist/4voeJpjBMAoeVjhykRJTjZ), [BACKEND DREW](https://open.spotify.com/artist/6cnptOKIX6CVo93nz709A6) | [20 leg parlay](https://open.spotify.com/album/5YAuCC3C2D8prGyops1uGU) | 2:19 | 2026-01-03 | 2026-02-23 |
 | [2018TrippieRedd+](https://open.spotify.com/track/16IzTFP6jmCSCx9sD5dAmv) | [Nova Laen](https://open.spotify.com/artist/0TyUS7iLsP9ctdwhKk2AdG) | [Stories from Jupiter!](https://open.spotify.com/album/2wDlgWBl64xQ5jcP2f3C5S) | 1:54 | 2026-01-26 | 2026-07-23 |
+| [22 Settembre](https://open.spotify.com/track/3RficKMy181JNMFoV82XE8) | [Michele Blasco](https://open.spotify.com/artist/0LsldhiLiieaUY63tH9QfW) | [22 Settembre](https://open.spotify.com/album/2rPJTpAO6Fvwn7athS4Jxn) | 4:06 | 2026-10-11 |  |
 | [24](https://open.spotify.com/track/2oT1Jy3GdDtTgMSx7l8Obc) | [Malik English](https://open.spotify.com/artist/3gpBRVLHl7p8aMQ0IWPbjV) | [24](https://open.spotify.com/album/1gcddbXoQoY0QHjwu6Lrni) | 2:15 | 2025-10-06 | 2026-01-15 |
 | [248](https://open.spotify.com/track/7AWduQa6jDfR9yaTCvUlKR) | [Benny Cashh](https://open.spotify.com/artist/6FZ5Lcm7rFdxVWEVu9og28) | [4 Seasons](https://open.spotify.com/album/3JD7rYmHzD2ytM1FHsA4XN) | 1:40 | 2025-12-27 | 2026-02-23 |
 | [2X2](https://open.spotify.com/track/4dtDuu7bPpJ7jgyxI4nYCv) | [OG1](https://open.spotify.com/artist/1xhe7lFp0KgfZ9ZgxwzPQZ) | [2X2](https://open.spotify.com/album/02s0M1mtgeQjRPVxL1fE2H) | 1:11 | 2025-12-27 |  |
@@ -275,6 +276,7 @@
 | [Diarios de Nirak pt\. 1](https://open.spotify.com/track/5x7LP3TqnOqUkHGy3qLi4K) | [P.A.C\. 7](https://open.spotify.com/artist/4xYTZFwBIsZqSuYLRzNIGF), [Old Máfia 021 Rec RD'RUA](https://open.spotify.com/artist/2etqM9FQJqGUMCL2rezdkt) | [Diarios de Nirak pt\. 1](https://open.spotify.com/album/6o0TnFdar5U4Mf5FDwVUeT) | 1:40 | 2026-04-14 |  |
 | [Dictator Dreams](https://open.spotify.com/track/79O4zO1jbGJVvshYpyiNcx) | [Bodo Bifroest](https://open.spotify.com/artist/0xMff2UG1y0azDoSbZSLwZ) | [Dictator Dreams](https://open.spotify.com/album/0rSYBoTiUlmVjOqvmcOSc9) | 2:37 | 2026-04-05 |  |
 | [Dignity](https://open.spotify.com/track/66iTL2RwsZ9DihlBeiI4gp) | [Gobaith](https://open.spotify.com/artist/1EVXqPW8qgjyv1649P1t80) | [The Channeler](https://open.spotify.com/album/0EMWMpbYnTFMogq2L9NYUb) | 3:15 | 2025-11-25 | 2026-02-23 |
+| [Dime Que Puedo Hacer Sin Ti \- Remix](https://open.spotify.com/track/0WhxLpotzzMvKdF0HKpLcb) | [Dr\. Leo](https://open.spotify.com/artist/1KPjYNSnNtKiZXCyeDfuw5), [Bernal Villegas](https://open.spotify.com/artist/3odi1BKZOHNVgJ1fOpEkWM), [Melany Cubero](https://open.spotify.com/artist/4OrIEJHh24oAbE1evJRR7c) | [Dime Que Puedo Hacer Sin Ti \(Remix\)](https://open.spotify.com/album/1nSXeJ5KaW8cCFkjXQSgQe) | 6:38 | 2026-10-11 |  |
 | [Dior](https://open.spotify.com/track/6zOMszPQW4T9xGFzNHfQaq) | [COA](https://open.spotify.com/artist/0eRCLMckvcXLTWLyBfRA4n), [XELLEN7](https://open.spotify.com/artist/02VTECRZkRQd4h4FTbBVoM) | [Dior](https://open.spotify.com/album/59r8gVG29cARAewLRiv6kU) | 2:46 | 2025-11-14 | 2026-02-23 |
 | [dirt](https://open.spotify.com/track/0nAaYfzBYIiejTetZbDmrh) | [phiia](https://open.spotify.com/artist/4POwle9ofOoqfiZTAednVb) | [dirt](https://open.spotify.com/album/2xLezujQqsKsJ2FClwFHGR) | 3:12 | 2026-05-26 |  |
 | [Dirt Floor](https://open.spotify.com/track/4yDBUJz9ILXz9CtojpyzQU) | [Graveyard Choir](https://open.spotify.com/artist/0RtF7RdYO3Jfhmw0JQSmX2) | [Dirt Floor](https://open.spotify.com/album/0dZj8stSDgbnelvEhYq6Fy) | 4:10 | 2025-09-29 | 2026-01-15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX02pmAaEbu9H.md) - [plain]
 
 > Recorre los kilómetros con estos cantables clásicos para el camino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,582,704 likes - 100 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,582,788 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,11 +63,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX02pmAaEbu9H.md) - [plain]
 | 53 | [Mi Historia Entre Tus Dedos \- Remastered 2020](https://open.spotify.com/track/3UgduSS2bCMmatRox69u3g) | [Gianluca Grignani](https://open.spotify.com/artist/0H1InhXaXQPL1aj0mvHemU) | [Destino Paraiso \(25th Anniversary Edition / Remastered 2020\)](https://open.spotify.com/album/2gOsQbi07TN9EkLv0kybkt) | 5:08 |
 | 54 | [Eres](https://open.spotify.com/track/6kdCN6gTWLcLxmLXoUcwuI) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Cuatro Caminos](https://open.spotify.com/album/3ifA4OUPiT92YB4vYtAdVh) | 4:27 |
 | 55 | [La Playa](https://open.spotify.com/track/2DNyZP4Py6f4zMASLBnIu6) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [El Viaje de Copperpot](https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu) | 4:07 |
-| 56 | [Mientes](https://open.spotify.com/track/5EhzE6HJaCcLFrf5rPqvpk) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Dejarte De Amar](https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6) | 3:25 |
-| 57 | [La flaca](https://open.spotify.com/track/2LsbizbOeNa4x6qsi2jAMb) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [La Flaca](https://open.spotify.com/album/6mD9lN6mqu4313KpY1RfIp) | 4:21 |
+| 56 | [La flaca](https://open.spotify.com/track/2LsbizbOeNa4x6qsi2jAMb) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [La Flaca](https://open.spotify.com/album/6mD9lN6mqu4313KpY1RfIp) | 4:21 |
+| 57 | [Mientes](https://open.spotify.com/track/5EhzE6HJaCcLFrf5rPqvpk) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Dejarte De Amar](https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6) | 3:25 |
 | 58 | [Amiga mía](https://open.spotify.com/track/6kQYMqjobmB8MkWwa9OUyA) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Más](https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI) | 4:50 |
-| 59 | [I Have Nothing](https://open.spotify.com/track/31er9IGsfFbwqy1pH4aiTP) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:49 |
-| 60 | [Duele El Amor](https://open.spotify.com/track/0oXLSuno5adlHcPzlzs8l6) | [Aleks Syntek](https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi), [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124) | [Mundo Lite](https://open.spotify.com/album/1RaOKsaRdN1H4twh4u6FUd) | 4:35 |
+| 59 | [Duele El Amor](https://open.spotify.com/track/0oXLSuno5adlHcPzlzs8l6) | [Aleks Syntek](https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi), [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124) | [Mundo Lite](https://open.spotify.com/album/1RaOKsaRdN1H4twh4u6FUd) | 4:35 |
+| 60 | [I Have Nothing](https://open.spotify.com/track/31er9IGsfFbwqy1pH4aiTP) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:49 |
 | 61 | [Afuera](https://open.spotify.com/track/3pJfnBjO3kjudEchcPEDxS) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [El Nervio Del Volcan](https://open.spotify.com/album/2mPZNQNgW1zrkIPyL9XJcf) | 4:48 |
 | 62 | [Hasta Que Me Olvides](https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Aries](https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC) | 4:41 |
 | 63 | [Corazón partío](https://open.spotify.com/track/0wQCKR9OFjYu5Kzrk7WivJ) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Más](https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI) | 5:43 |
@@ -89,24 +89,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX02pmAaEbu9H.md) - [plain]
 | 79 | [Mientes Tan Bien](https://open.spotify.com/track/072YgF7J2clpY8DsWOpEri) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [De Viaje](https://open.spotify.com/album/0MystbDJBhdcJZBFkpgVbd) | 3:47 |
 | 80 | [Locos](https://open.spotify.com/track/3GSMdtJphymHEsR8K9jT5Q) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Voluma](https://open.spotify.com/album/6pTyhD8IxuyQXzcCZJp5EM) | 2:57 |
 | 81 | [With Or Without You](https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU) | 4:55 |
-| 82 | [California Dreamin' \- Single Version](https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [If You Can Believe Your Eyes & Ears](https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF) | 2:42 |
-| 83 | [Inevitable](https://open.spotify.com/track/78dbqYDvx6FOefROApu9w0) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Donde Estan Los Ladrones](https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe) | 3:12 |
+| 82 | [Inevitable](https://open.spotify.com/track/78dbqYDvx6FOefROApu9w0) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Donde Estan Los Ladrones](https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe) | 3:12 |
+| 83 | [California Dreamin' \- Single Version](https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [If You Can Believe Your Eyes & Ears](https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF) | 2:42 |
 | 84 | [Because of You](https://open.spotify.com/track/0gJvqi9QyASOCtJu99tytc) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/20jYcJane0oI7VoMNoEOJU) | 3:39 |
 | 85 | [No Podras](https://open.spotify.com/track/6ZIwZmQ2ph6QK13sItmDEx) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Agua Nueva](https://open.spotify.com/album/2SrDD376jiXS671kbC3BdL) | 4:00 |
 | 86 | [Algo Más](https://open.spotify.com/track/3bJBWsVNUJ3hOIO6lQUKCj) | [La Quinta Estacion](https://open.spotify.com/artist/7FZj349hdLfD6qzXkJLuAh) | [Flores De Alquiler](https://open.spotify.com/album/2IdCNfB4mJGsGCzGt6FnHs) | 4:29 |
-| 87 | [Víveme](https://open.spotify.com/track/376zCxYCHr7rSFBdz41QyE) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Escucha](https://open.spotify.com/album/3erbmiWdMAOvzG7FbpZnhL) | 3:56 |
-| 88 | [A Dios Le Pido](https://open.spotify.com/track/129lYDVKnWtlJc2PZJviuA) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Un Día Normal](https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1) | 3:25 |
+| 87 | [A Dios Le Pido](https://open.spotify.com/track/129lYDVKnWtlJc2PZJviuA) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Un Día Normal](https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1) | 3:25 |
+| 88 | [Víveme](https://open.spotify.com/track/376zCxYCHr7rSFBdz41QyE) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Escucha](https://open.spotify.com/album/3erbmiWdMAOvzG7FbpZnhL) | 3:56 |
 | 89 | [Yo Quisiera](https://open.spotify.com/track/2GSr8anleCXKLNjjjijoMZ) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Reik](https://open.spotify.com/album/2X17BMIMWhZDWHL0UR1LBS) | 3:37 |
 | 90 | [¡Corre!](https://open.spotify.com/track/5kIcrM3QVD4BQPFMszQnU1) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [¿Con Quién Se Queda El Perro?](https://open.spotify.com/album/5koG6JeFEwcINyN1QuXyiq) | 4:48 |
 | 91 | [Soñé \- En Vivo](https://open.spotify.com/track/2VhJ4nrPorAbySEgO4V0BS) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [MTV Unplugged Música De Fondo \(Reissue/Live\)](https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV) | 3:46 |
 | 92 | [Mi Primer Millon](https://open.spotify.com/track/5fSDXbY8o9pA3TKwAbfwML) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Caraluna](https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj) | 3:57 |
 | 93 | [Don't You Want Me](https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Dare!](https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY) | 3:56 |
 | 94 | [Faith \- Remastered](https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 3:13 |
-| 95 | [Todo Cambió](https://open.spotify.com/track/4OyzSXRSadNQt5EMwASdap) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Todo Cambio](https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf) | 3:13 |
-| 96 | [My Favourite Game](https://open.spotify.com/track/0Ui05Ov0s4PnRc4JI3Pilg) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [Gran Turismo \(Remastered\)](https://open.spotify.com/album/5DiOwioOBqVCSH6IwGBXEc) | 3:40 |
+| 95 | [My Favourite Game](https://open.spotify.com/track/0Ui05Ov0s4PnRc4JI3Pilg) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [Gran Turismo \(Remastered\)](https://open.spotify.com/album/5DiOwioOBqVCSH6IwGBXEc) | 3:40 |
+| 96 | [Todo Cambió](https://open.spotify.com/track/4OyzSXRSadNQt5EMwASdap) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Todo Cambio](https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf) | 3:13 |
 | 97 | [Secreto De Amor](https://open.spotify.com/track/47PiSg7z5qjUyEGKN4I1g7) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Secreto De Amor](https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV) | 4:33 |
 | 98 | [La Chica de Humo](https://open.spotify.com/track/0GZ8UVlhn2tjHPpngzoLJk) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Quisiera](https://open.spotify.com/album/3v2sq3JspM5Kny8Hz6ElyH) | 5:31 |
 | 99 | [El lado oscuro](https://open.spotify.com/track/3AR1c3Dssq51WlGGkuYJNj) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [La Flaca](https://open.spotify.com/album/6mD9lN6mqu4313KpY1RfIp) | 4:48 |
-| 100 | [Aunque no te pueda ver](https://open.spotify.com/track/2425UlXvkIkAEJAtAd8ROm) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X) | [Fantasía o realidad](https://open.spotify.com/album/1RF8AaupRPlmA13HxSdWAe) | 4:26 |
+| 100 | [Beautiful Day](https://open.spotify.com/track/0gzqZ9d1jIKo9psEIthwXe) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN) | 4:08 |
 
 Snapshot ID: `AAAAAIufPu98fvWBc7NzAtRWN2FoB8wb`

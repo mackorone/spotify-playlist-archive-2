@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 
 > alt, indie rock, and folk sprinkled into this sonic melting pot\. Cover: Noah Kahan
 
-[Spotify](https://open.spotify.com/user/spotify) - 611,802 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 611,761 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 94 | [Violet](https://open.spotify.com/track/1ges2nnhkzi5rNTjsO4vze) | [Joe P](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [Garden State Vampire](https://open.spotify.com/album/0QpbKPoMoW7LZY1yOVrg2l) | 3:41 |
 | 95 | [So Long](https://open.spotify.com/track/5KI9tNpndVD7U83Nugjl9X) | [Solon Holt](https://open.spotify.com/artist/6gcXckLQicjC4KJQi00EMz) | [So Long](https://open.spotify.com/album/5bjrfLnlXq7JvqtCWWrold) | 3:55 |
 | 96 | [Prove It To You](https://open.spotify.com/track/0w9eE1YhhHG4pTGK2eaWhs) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [What Now](https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2) | 3:20 |
-| 97 | [Everything I Wanted](https://open.spotify.com/track/0QoIbKcVeph4Kcxtr5RaJr) | [Evan Honer](https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP) | [Everything I Wanted](https://open.spotify.com/album/0iAjJKNZy9lzj5hkumY0U9) | 3:49 |
-| 98 | [Sugar in the Tank](https://open.spotify.com/track/02DPSOj7dXlKBbKZ5BTSJj) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Sugar in the Tank](https://open.spotify.com/album/4IQsbsp2zlYEWgijqZk2ar) | 3:42 |
+| 97 | [Sugar in the Tank](https://open.spotify.com/track/02DPSOj7dXlKBbKZ5BTSJj) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Sugar in the Tank](https://open.spotify.com/album/4IQsbsp2zlYEWgijqZk2ar) | 3:42 |
+| 98 | [Everything I Wanted](https://open.spotify.com/track/0QoIbKcVeph4Kcxtr5RaJr) | [Evan Honer](https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP) | [Everything I Wanted](https://open.spotify.com/album/0iAjJKNZy9lzj5hkumY0U9) | 3:49 |
 | 99 | [Happy](https://open.spotify.com/track/6ztjccAfxl3jVmvujjSUyI) | [Something Corporate](https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD), [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Happy](https://open.spotify.com/album/0W0yP0NOGxtwi2UEeWhk2K) | 2:59 |
 | 100 | [My Heart is Drowning](https://open.spotify.com/track/3ULdoOEdHUrfoi7D1B4IC5) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [My Heart is Drowning](https://open.spotify.com/album/27MkfKfFf4AONvPedCeBrX) | 2:43 |
 

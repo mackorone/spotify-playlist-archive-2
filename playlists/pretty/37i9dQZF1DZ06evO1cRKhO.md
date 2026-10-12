@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cRKhO.md) - [plain]
 
 > This is Pauline Oliveros\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 994 likes - 50 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 995 likes - 50 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cRKhO.md) - [plain]
 | 49 | [Spin Density](https://open.spotify.com/track/5P5vf7XIvku60wurI5VZCI) | [Pauline Oliveros](https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi), [Doug Van Nort](https://open.spotify.com/artist/1UmXzF9w5fJ5TP34bJYFbv), [Jonas Braasch](https://open.spotify.com/artist/7afoLzRgffLzdSmKzYR1vq) | [phase/transitions \(vol\. 2\)](https://open.spotify.com/album/4wPO0QWu1IknF6CcK7pma5) | 13:00 |
 | 50 | [River of Folk Dance](https://open.spotify.com/track/24fiipMerltXpOy7M51hDF) | [Pauline Oliveros](https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi) | [Ghostdance](https://open.spotify.com/album/1afT49NTjWCHoPQ0js4ZrG) | 2:36 |
 
-Snapshot ID: `asgugAAAAAAFPUvrSmd6au4kwDI3Z/CU`
+Snapshot ID: `asmAAAAAAAAHWMNeBiRiuZCPK6RcmMz0`

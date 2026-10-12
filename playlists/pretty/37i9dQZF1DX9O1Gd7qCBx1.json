@@ -1,6 +1,6 @@
 {
   "description": "Para honrar a los muertos con el m\u00e1s sublime placer terrenal.",
-  "num_followers": 227785,
+  "num_followers": 227839,
   "original_name": "D\u00eda de Muertos",
   "owner": {
     "name": "Spotify",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2026-06-24 20:03:44",
       "album": {
+        "name": "Dulce Muerte",
+        "url": "https://open.spotify.com/album/0SDZNmyBP3pmrwtppzm9uA"
+      },
+      "artists": [
+        {
+          "name": "BuenRostro",
+          "url": "https://open.spotify.com/artist/2aFFKR6cGWux6f8G5RafHm"
+        }
+      ],
+      "duration_ms": 212553,
+      "name": "Dulce Muerte",
+      "url": "https://open.spotify.com/track/2n2C5wLSiSERYrGURZLMNl"
+    },
+    {
+      "added_at": "2026-06-24 20:03:44",
+      "album": {
         "name": "Cantando Con la Muerte",
         "url": "https://open.spotify.com/album/1N47s2RcEQ0P2vZkNeyt06"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 131039,
       "name": "Vengan Abuelitos",
       "url": "https://open.spotify.com/track/7tIj0Jv4PUgfdWUSCfzfgh"
-    },
-    {
-      "added_at": "2026-06-24 20:03:44",
-      "album": {
-        "name": "Dulce Muerte",
-        "url": "https://open.spotify.com/album/0SDZNmyBP3pmrwtppzm9uA"
-      },
-      "artists": [
-        {
-          "name": "BuenRostro",
-          "url": "https://open.spotify.com/artist/2aFFKR6cGWux6f8G5RafHm"
-        }
-      ],
-      "duration_ms": 212553,
-      "name": "Dulce Muerte",
-      "url": "https://open.spotify.com/track/2n2C5wLSiSERYrGURZLMNl"
     },
     {
       "added_at": "2026-06-24 20:03:44",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2026-06-24 20:03:44",
       "album": {
+        "name": "Sombras",
+        "url": "https://open.spotify.com/album/7gQNvpmSHz1HtjjxV9izDp"
+      },
+      "artists": [
+        {
+          "name": "Espanglish",
+          "url": "https://open.spotify.com/artist/5wnMB6o7El35W7BNYxKeb1"
+        }
+      ],
+      "duration_ms": 192533,
+      "name": "Sombras",
+      "url": "https://open.spotify.com/track/7zm10mnOJ8DCfyncuWKqEl"
+    },
+    {
+      "added_at": "2026-06-24 20:03:44",
+      "album": {
         "name": "Contestadas Y Rancheras",
         "url": "https://open.spotify.com/album/4IKibIvIpvYbcibKsxnv7t"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 138541,
       "name": "La Catr\u00edna Pobre",
       "url": "https://open.spotify.com/track/6conItSeJ4djinIUrq2mJD"
-    },
-    {
-      "added_at": "2026-06-24 20:03:44",
-      "album": {
-        "name": "Sombras",
-        "url": "https://open.spotify.com/album/7gQNvpmSHz1HtjjxV9izDp"
-      },
-      "artists": [
-        {
-          "name": "Espanglish",
-          "url": "https://open.spotify.com/artist/5wnMB6o7El35W7BNYxKeb1"
-        }
-      ],
-      "duration_ms": 192533,
-      "name": "Sombras",
-      "url": "https://open.spotify.com/track/7zm10mnOJ8DCfyncuWKqEl"
     },
     {
       "added_at": "2026-06-24 20:03:44",

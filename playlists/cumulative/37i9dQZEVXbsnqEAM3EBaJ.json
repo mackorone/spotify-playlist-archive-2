@@ -42869,6 +42869,24 @@
     },
     {
       "album": {
+        "name": "Man Mari Te",
+        "url": "https://open.spotify.com/album/5rYLOCIrYlLYBWTWP4nyRD"
+      },
+      "artists": [
+        {
+          "name": "Azam Ali",
+          "url": "https://open.spotify.com/artist/5FjTtbpfWj8SBN3SGjkY0W"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 510467,
+      "name": "Man Mari Te",
+      "url": "https://open.spotify.com/track/5OJTWT84IwMaWE0UrETlgd"
+    },
+    {
+      "album": {
         "name": "Music Legends Bob Dylan : The Poet's Folk Hits",
         "url": "https://open.spotify.com/album/0Tua8H6QtqZjJjhX1P8Wwc"
       },
@@ -43272,6 +43290,28 @@
       "duration_ms": 292666,
       "name": "Mayonaka no Door~stay with me 2024",
       "url": "https://open.spotify.com/track/62hTf9Vj6CdT4esPv7YHrn"
+    },
+    {
+      "album": {
+        "name": "\"'Panorama\": Classical Gems",
+        "url": "https://open.spotify.com/album/0xit17a9L1Z64mFd55cmyf"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Nikita Magaloff",
+          "url": "https://open.spotify.com/artist/5F6RXixH6tg6wxOoZblmhS"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116000,
+      "name": "Mazurka No. 1 in F-Sharp Minor, Op. 6 No. 1",
+      "url": "https://open.spotify.com/track/4Ly6aejx4vSJpLTETEYkco"
     },
     {
       "album": {
@@ -47880,7 +47920,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 214933,
       "name": "Nocturne No. 20 in C sharp minor, Op. posth.",
       "url": "https://open.spotify.com/track/2rzihpP3mBqeavp6Eh9HUL"
@@ -57996,7 +58036,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 374886,
       "name": "Sajna Rawan Wakh Kar Laiyan",
       "url": "https://open.spotify.com/track/09TiJux37pb6i0XrZe262l"

@@ -183,6 +183,24 @@
     },
     {
       "album": {
+        "name": "22 Settembre",
+        "url": "https://open.spotify.com/album/2rPJTpAO6Fvwn7athS4Jxn"
+      },
+      "artists": [
+        {
+          "name": "Michele Blasco",
+          "url": "https://open.spotify.com/artist/0LsldhiLiieaUY63tH9QfW"
+        }
+      ],
+      "date_added": "2026-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246879,
+      "name": "22 Settembre",
+      "url": "https://open.spotify.com/track/3RficKMy181JNMFoV82XE8"
+    },
+    {
+      "album": {
         "name": "23 de Maio",
         "url": "https://open.spotify.com/album/4bTJKqCamfHhSnsomTxKEd"
       },
@@ -3260,6 +3278,24 @@
       "duration_ms": 181160,
       "name": "Book Of The Year",
       "url": "https://open.spotify.com/track/3LWoSvKMSDb8u9fCe9AUk2"
+    },
+    {
+      "album": {
+        "name": "The Cost of Loving",
+        "url": "https://open.spotify.com/album/2VBq7c4lL5qXbceQpCQiCD"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bawden",
+          "url": "https://open.spotify.com/artist/2Bqs2btB0esnZVHqHYU2aA"
+        }
+      ],
+      "date_added": "2026-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187682,
+      "name": "Born Again",
+      "url": "https://open.spotify.com/track/4LT9snGF4EdfDCw5F1zkxZ"
     },
     {
       "album": {
@@ -9142,6 +9178,24 @@
       "duration_ms": 189843,
       "name": "Gloves and Pants",
       "url": "https://open.spotify.com/track/1hlahbgfZDJURKR0Rkbuz4"
+    },
+    {
+      "album": {
+        "name": "Glowing Cactus",
+        "url": "https://open.spotify.com/album/2nl2fjbG6SyUp8QOqGPU0w"
+      },
+      "artists": [
+        {
+          "name": "J. Lee Bone",
+          "url": "https://open.spotify.com/artist/6gGiDRa5txAU73w00S1zXs"
+        }
+      ],
+      "date_added": "2026-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197920,
+      "name": "Glowing Cactus",
+      "url": "https://open.spotify.com/track/22hpgnYXuwVD913Z6pqjm7"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Meet the future of music around the world\. Cover: Maia Reficco
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,591 likes - 48 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,586 likes - 48 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 27 | [Izinkan Aku Belajar Jatuh Sendiri](https://open.spotify.com/track/1L4JAfalGltZ5oZmpd5mOS) | [Mohsein Kush](https://open.spotify.com/artist/43OqQzIV9TglsBOjhhesn8) | [Izinkan Aku Belajar Jatuh Sendiri](https://open.spotify.com/album/0lRbwQsSKPIZYjiyNDjURw) | 4:16 |
 | 28 | [escuchándote](https://open.spotify.com/track/1M4Q9Jz8E6KI6cxGwLRYAs) | [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg), [Tadu Vázquez](https://open.spotify.com/artist/71scL1K5Nu1Z7FgBkg3Gjk) | [escuchándote](https://open.spotify.com/album/7862iXXB8YiF2Ggi0tIoF7) | 2:16 |
 | 29 | [Camila](https://open.spotify.com/track/2C4GuNW7SzpQth4I17xUgY) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4) | [Camila](https://open.spotify.com/album/2tQFs7w7GqTfGFS8uT1Ev8) | 2:03 |
-| 30 | [chilling in my bathtub](https://open.spotify.com/track/4kU6toL3cyw5Tly52hCsqb) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P) | [chilling in my bathtub](https://open.spotify.com/album/7xWjvCyfTkOyyp7FtWnvhX) | 3:11 |
-| 31 | [before](https://open.spotify.com/track/2Lq1w0xiEHoGAJ68vT21bp) | [lovlaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [before](https://open.spotify.com/album/5bxRIvb0FRhSB9SWZH6VEG) | 3:40 |
+| 30 | [before](https://open.spotify.com/track/2Lq1w0xiEHoGAJ68vT21bp) | [lovlaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [before](https://open.spotify.com/album/5bxRIvb0FRhSB9SWZH6VEG) | 3:40 |
+| 31 | [chilling in my bathtub](https://open.spotify.com/track/4kU6toL3cyw5Tly52hCsqb) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P) | [chilling in my bathtub](https://open.spotify.com/album/7xWjvCyfTkOyyp7FtWnvhX) | 3:11 |
 | 32 | [WRANGLER](https://open.spotify.com/track/0DY8rIKn5G8rGyE8QMGGDQ) | [Claudia Valentina](https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I) | [WHAT CAN I TELL U](https://open.spotify.com/album/3hbjx9QSXlYmizj5cSULSA) | 2:05 |
 | 33 | [Floo](https://open.spotify.com/track/1fgPVwPWvRDzI0yUKxFWzX) | [DJ Jackum](https://open.spotify.com/artist/0d44JahSUHqjM6UTn1y8IX) | [Context](https://open.spotify.com/album/0BJVBckpNAfFH7qDSWnEqH) | 4:26 |
 | 34 | [BBB](https://open.spotify.com/track/0uyPzNqlpKwijyTI21wI1B) | [XONE](https://open.spotify.com/artist/2lyspCmelAZ80xwyCp1uWo) | [BBB](https://open.spotify.com/album/3UJPdlqJ2Di179mRPiTe0l) | 3:06 |

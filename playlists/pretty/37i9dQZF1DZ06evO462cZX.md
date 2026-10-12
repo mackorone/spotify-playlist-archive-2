@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO462cZX.md) - [plain]
 
 > This is Deorro\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,876 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,884 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO462cZX.md) - [plain]
 | 49 | [Rise and Shine](https://open.spotify.com/track/7siCapq5ZwC8UkLeIGvxbc) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Good Evening](https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY) | 3:26 |
 | 50 | [Se Te Olvidó](https://open.spotify.com/track/61Ftf1b9VHXHvBxdLzKQ4s) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Se Te Olvidó](https://open.spotify.com/album/6OXrs7AD0MaJ0HZM9B6eBY) | 2:39 |
 
-Snapshot ID: `asgugAAAAACA5pj5L3KRtgUs2oGN5nxd`
+Snapshot ID: `asmAAAAAAADYpxgnsFBKl4auZouNDtd+`

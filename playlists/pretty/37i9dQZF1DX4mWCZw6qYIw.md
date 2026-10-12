@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mWCZw6qYIw.md) - [plain]
 
 > the mood is to scream into your dashboard/choke back tears in the parking lot
 
-[Spotify](https://open.spotify.com/user/spotify) - 865,418 likes - 60 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 865,480 likes - 60 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,10 +16,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mWCZw6qYIw.md) - [plain]
 | 6 | [Yellow](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 4:26 |
 | 7 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 |
 | 8 | [Night Changes](https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 3:46 |
-| 9 | [Another Love](https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 4:04 |
+| 9 | [Love On The Brain](https://open.spotify.com/track/5oO3drDxtziYU2H1X23ZIp) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:44 |
 | 10 | [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 |
 | 11 | [Sparks](https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 3:47 |
-| 12 | [Love On The Brain](https://open.spotify.com/track/5oO3drDxtziYU2H1X23ZIp) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:44 |
+| 12 | [Another Love](https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 4:04 |
 | 13 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 |
 | 14 | [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 |
 | 15 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mWCZw6qYIw.md) - [plain]
 | 29 | [Somebody That I Used To Know](https://open.spotify.com/track/1qDrWA6lyx8cLECdZE7TV7) | [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Making Mirrors](https://open.spotify.com/album/4G2rJNhsKOE6iHgtUqZ0Ye) | 4:04 |
 | 30 | [505](https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 4:13 |
 | 31 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 |
-| 32 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 |
-| 33 | [Let Me Down Slowly](https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Narrated For You](https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ) | 2:49 |
+| 32 | [Let Me Down Slowly](https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Narrated For You](https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ) | 2:49 |
+| 33 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 |
 | 34 | [Wrecking Ball](https://open.spotify.com/track/2vwlzO0Qp8kfEtzTsCXfyE) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bangerz \(Deluxe Version\)](https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0) | 3:41 |
 | 35 | [All Too Well \(10 Minute Version\) \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/5enxwA8aAbwZbf5qCHORXi) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 10:13 |
 | 36 | [Before You Go](https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent \(Extended Edition\)](https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8) | 3:35 |

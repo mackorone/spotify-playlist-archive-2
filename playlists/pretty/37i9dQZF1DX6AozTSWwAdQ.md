@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AozTSWwAdQ.md) - [plain]
 
 > 沒有什麼比感覺好更重要了！這裡的歌曲能大大振奮心情、令你元氣十足！
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,005 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,003 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AozTSWwAdQ.md) - [plain]
 | 48 | [Connection](https://open.spotify.com/track/3T4UodGkfZObJ43RtA5KFU) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Connection](https://open.spotify.com/album/6rVOUFV4qi8MgqF7na73rX) | 2:28 |
 | 49 | [Breakaway](https://open.spotify.com/track/74kqTZLnGoPtCwGecA37Xi) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go \(20th Anniversary Edition\)](https://open.spotify.com/album/7JxjNcaooYpX0JcfNQMxqs) | 3:43 |
 | 50 | [NOT OK](https://open.spotify.com/track/0WvP4Q6ZaNT1tvs8LGrf4f) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [NOT OK](https://open.spotify.com/album/07I0d31GGiQ1uWRCEQdZrm) | 3:26 |
-| 51 | [This Is Me \(From the Greatest Showman\)](https://open.spotify.com/track/3lCHADWP8ohxnfBiUqAN3o) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [This Is Me \(From The Greatest Showman\)](https://open.spotify.com/album/0Ubwwj4JBI6MVmOmEan8K8) | 3:54 |
-| 52 | [Bobby Sox](https://open.spotify.com/track/7DXBItTPwL8OpsbXdj58Fl) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors](https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i) | 3:44 |
+| 51 | [Bobby Sox](https://open.spotify.com/track/7DXBItTPwL8OpsbXdj58Fl) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors](https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i) | 3:44 |
+| 52 | [This Is Me \(From the Greatest Showman\)](https://open.spotify.com/track/3lCHADWP8ohxnfBiUqAN3o) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [This Is Me \(From The Greatest Showman\)](https://open.spotify.com/album/0Ubwwj4JBI6MVmOmEan8K8) | 3:54 |
 | 53 | [The Funeral](https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [The Funeral](https://open.spotify.com/album/1q3OyLN3JyyvfVbFRqqcWW) | 3:31 |
 | 54 | [Eyes Wide Shut](https://open.spotify.com/track/556awMv4WQP0h1VXMU8rSU) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [ILLENIUM](https://open.spotify.com/album/0ValflNlWce21wm5PlwV60) | 2:32 |
 | 55 | [Fallin’ \(Adrenaline\)](https://open.spotify.com/track/5GhJIMWAw0uMLgkdbt6uMz) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Fallin’ \(Adrenaline\)](https://open.spotify.com/album/68KIeRyl26qz4Qkrv25FVm) | 3:36 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AozTSWwAdQ.md) - [plain]
 | 68 | [House On Fire](https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [House On Fire](https://open.spotify.com/album/4zZ3DDacL1IvmaozxYEGuL) | 2:20 |
 | 69 | [spite](https://open.spotify.com/track/536ZTi6wWJQ2gYXkXnJwVX) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [can we start over?](https://open.spotify.com/album/5ZWcE7wYh6GKsB0nS9iZS6) | 3:07 |
 | 70 | [why are you here](https://open.spotify.com/track/63h44N1oLElnzut7RxZt6Z) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [why are you here](https://open.spotify.com/album/0Cdk8wZXVrYX2ZyCwjTEjs) | 2:55 |
-| 71 | [No Apologies](https://open.spotify.com/track/3tOsMX89CIiuf2x2n5EQyb) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Ego Trip](https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ) | 3:08 |
+| 71 | [Visitor](https://open.spotify.com/track/0z3Sa7vtRfn4ywaHzZzBLK) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Visitor](https://open.spotify.com/album/41oni1NWTzN3lOrGU4JxYf) | 3:27 |
 | 72 | [Heart Attack \- Rock Version](https://open.spotify.com/track/6qgwX7o1fYLwbikNrddmFo) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Heart Attack \(Rock Version\)](https://open.spotify.com/album/2rOWZbcGNXuzelDRabOHI8) | 3:59 |
-| 73 | [Starting Line](https://open.spotify.com/track/3tIQg7bErGUNgE6nZ2TXZ2) | [Luke Hemmings](https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ) | [Starting Line](https://open.spotify.com/album/29dl63pyzkkAPZSY8vSqlD) | 4:30 |
-| 74 | [Visitor](https://open.spotify.com/track/0z3Sa7vtRfn4ywaHzZzBLK) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Visitor](https://open.spotify.com/album/41oni1NWTzN3lOrGU4JxYf) | 3:27 |
+| 73 | [No Apologies](https://open.spotify.com/track/3tOsMX89CIiuf2x2n5EQyb) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Ego Trip](https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ) | 3:08 |
+| 74 | [Starting Line](https://open.spotify.com/track/3tIQg7bErGUNgE6nZ2TXZ2) | [Luke Hemmings](https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ) | [Starting Line](https://open.spotify.com/album/29dl63pyzkkAPZSY8vSqlD) | 4:30 |
 | 75 | [Halo \(feat\. PIA MARIA\)](https://open.spotify.com/track/6WVHfpzYW3HooQaCC80opC) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [PIA MARIA](https://open.spotify.com/artist/76FvAg4V0F4hX5rNFF0MFZ) | [Halo \(feat\. PIA MARIA\)](https://open.spotify.com/album/3IW2pdhIz1KqoJDr6sxe24) | 2:39 |
 
 Snapshot ID: `AAAAAEIjx4b4rPSqglWUhwEan+c6UUCk`

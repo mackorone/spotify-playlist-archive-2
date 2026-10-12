@@ -1,6 +1,6 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \uac10\uc131\uc744 \ub354\ud574\uc8fc\ub294 \uac00\uc0ac\uc640 \ube44\ud2b8\ub97c \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 15634,
+  "num_followers": 15644,
   "original_name": "\uac10\uc131\ud799\ud569",
   "owner": {
     "name": "Spotify",
@@ -127,26 +127,6 @@
     {
       "added_at": "2026-10-08 07:16:06",
       "album": {
-        "name": "Nerdy Love",
-        "url": "https://open.spotify.com/album/2mN6cv4lJ5zATfEr84Myro"
-      },
-      "artists": [
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        },
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 196373,
-      "name": "Nerdy Love",
-      "url": "https://open.spotify.com/track/2TfsNTyC4uuamXBZJnU0ga"
-    },
-    {
-      "added_at": "2026-10-08 07:16:06",
-      "album": {
         "name": "OHAYO MY NIGHT",
         "url": "https://open.spotify.com/album/0J1MR2hon6midgXF4kY1b8"
       },
@@ -163,6 +143,26 @@
       "duration_ms": 238736,
       "name": "OHAYO MY NIGHT",
       "url": "https://open.spotify.com/track/4iJprGt1rt5iy0sxXXaRWn"
+    },
+    {
+      "added_at": "2026-10-08 07:16:06",
+      "album": {
+        "name": "Nerdy Love",
+        "url": "https://open.spotify.com/album/2mN6cv4lJ5zATfEr84Myro"
+      },
+      "artists": [
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 196373,
+      "name": "Nerdy Love",
+      "url": "https://open.spotify.com/track/2TfsNTyC4uuamXBZJnU0ga"
     },
     {
       "added_at": "2026-10-08 07:16:06",
@@ -839,18 +839,18 @@
     {
       "added_at": "2026-10-08 07:16:06",
       "album": {
-        "name": "\ube44\ub204",
-        "url": "https://open.spotify.com/album/6cffqSCtfQHUKJsf7iGZSs"
+        "name": "Why",
+        "url": "https://open.spotify.com/album/04Z11tnMnSDnbXYHyxid5w"
       },
       "artists": [
         {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 182200,
-      "name": "\ube44\ub204",
-      "url": "https://open.spotify.com/track/0lSJQip2wVidbu1JfZ4IEQ"
+      "duration_ms": 208573,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/6gGtT4dIKt57gPubAGr9nY"
     },
     {
       "added_at": "2026-10-08 07:16:06",
@@ -871,18 +871,18 @@
     {
       "added_at": "2026-10-08 07:16:06",
       "album": {
-        "name": "Why",
-        "url": "https://open.spotify.com/album/04Z11tnMnSDnbXYHyxid5w"
+        "name": "\ube44\ub204",
+        "url": "https://open.spotify.com/album/6cffqSCtfQHUKJsf7iGZSs"
       },
       "artists": [
         {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
         }
       ],
-      "duration_ms": 208573,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/6gGtT4dIKt57gPubAGr9nY"
+      "duration_ms": 182200,
+      "name": "\ube44\ub204",
+      "url": "https://open.spotify.com/track/0lSJQip2wVidbu1JfZ4IEQ"
     },
     {
       "added_at": "2026-10-08 07:16:06",
@@ -919,6 +919,26 @@
       "duration_ms": 199281,
       "name": "Shut Up & Groove",
       "url": "https://open.spotify.com/track/1WT5I6vlWjYW2cnhR1UkVA"
+    },
+    {
+      "added_at": "2026-10-08 07:16:06",
+      "album": {
+        "name": "Candy",
+        "url": "https://open.spotify.com/album/61aZQufXnFfFPgufHyjALa"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        }
+      ],
+      "duration_ms": 186019,
+      "name": "Candy (Feat. Zion.T)",
+      "url": "https://open.spotify.com/track/0luFANDtNNjcBXKazh3dV8"
     },
     {
       "added_at": "2026-10-08 07:16:06",
@@ -963,26 +983,6 @@
       "duration_ms": 220266,
       "name": "Transcend (Feat. C JAMM)",
       "url": "https://open.spotify.com/track/7tG3irYkVZ1nkSCFXA6vQN"
-    },
-    {
-      "added_at": "2026-10-08 07:16:06",
-      "album": {
-        "name": "Candy",
-        "url": "https://open.spotify.com/album/61aZQufXnFfFPgufHyjALa"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
-        }
-      ],
-      "duration_ms": 186019,
-      "name": "Candy (Feat. Zion.T)",
-      "url": "https://open.spotify.com/track/0luFANDtNNjcBXKazh3dV8"
     },
     {
       "added_at": "2026-10-08 07:16:06",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3KBMI1.md) - [plain]
 
 > This is UVERworld\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,233 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,237 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3KBMI1.md) - [plain]
 | 49 | [ZERO BREAKOUT POINT](https://open.spotify.com/track/7rVdWPnRGuZpd8RIx1IsXW) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [EVER](https://open.spotify.com/album/6YM8mtP6K9lGvhwEGu34Wb) | 3:33 |
 | 50 | [浮世CROSSING](https://open.spotify.com/track/0n9hO5hjv7CwUd4bPpGyQJ) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [PROGLUTION](https://open.spotify.com/album/4d8OnI47NpOYNaEXvaVo9q) | 4:32 |
 
-Snapshot ID: `asbdAAAAAADExd0bRURRbra8PhXQwOw3`
+Snapshot ID: `asgugAAAAADWCFHbJd4dy60gQt1uyahk`

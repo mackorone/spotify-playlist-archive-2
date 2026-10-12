@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEm2sKzgoJ8.md) - [plain]
 
 > Set the mood just right...
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,341,131 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,341,546 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,15 +18,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEm2sKzgoJ8.md) - [plain]
 | 8 | [Kiss It Better](https://open.spotify.com/track/0UHB9METy4VCXNgkcGqHqS) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 4:13 |
 | 9 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 |
 | 10 | [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 |
-| 11 | [damned](https://open.spotify.com/track/2ZCe5vjgNDAmoWe73C46nc) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Wildheart \(Deluxe Version\)](https://open.spotify.com/album/6W8ZsoinSMViZMh9aYK7gQ) | 3:26 |
-| 12 | [Thinkin Bout You](https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:20 |
+| 11 | [Thinkin Bout You](https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:20 |
+| 12 | [damned](https://open.spotify.com/track/2ZCe5vjgNDAmoWe73C46nc) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Wildheart \(Deluxe Version\)](https://open.spotify.com/album/6W8ZsoinSMViZMh9aYK7gQ) | 3:26 |
 | 13 | [Love On The Brain](https://open.spotify.com/track/5oO3drDxtziYU2H1X23ZIp) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:44 |
 | 14 | [Superpowers](https://open.spotify.com/track/736PP5LTtREkDgktNmX3Gu) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 2:54 |
 | 15 | [Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 3:29 |
 | 16 | [luther \(with sza\)](https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/1Ss0ArMRr91m83mOgRBjSZ) | 2:57 |
 | 17 | [Novacane](https://open.spotify.com/track/4osgfFTICMkcGbbigdsa53) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Novacane](https://open.spotify.com/album/3RYdEXhGHojkTILUdtnRVJ) | 5:02 |
-| 18 | [YUKON](https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:43 |
-| 19 | [nothing](https://open.spotify.com/track/3lIHa4fUwNKOCSS5k3Za0i) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Oh yeah?](https://open.spotify.com/album/289GZwycrFReuNB706obBx) | 2:29 |
+| 18 | [nothing](https://open.spotify.com/track/3lIHa4fUwNKOCSS5k3Za0i) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Oh yeah?](https://open.spotify.com/album/289GZwycrFReuNB706obBx) | 2:29 |
+| 19 | [YUKON](https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:43 |
 | 20 | [West Coast](https://open.spotify.com/track/5Y6nVaayzitvsD5F7nr3DV) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Ultraviolence \(Deluxe\)](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) | 4:16 |
 | 21 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |
 | 22 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:41 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEm2sKzgoJ8.md) - [plain]
 | 65 | [That's Just Me](https://open.spotify.com/track/6ctQA1MhB2epFVXXJYocwu) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [That's Just Me](https://open.spotify.com/album/65MjEtYWhPJ320kJE1NrIc) | 3:50 |
 | 66 | [Collide \(feat\. Tyga\)](https://open.spotify.com/track/22I3h5AOENlH4CqXJsEbFR) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Collide \(feat\. Tyga\)](https://open.spotify.com/album/2LbrGt2oc08xV8IDJvLzYi) | 4:20 |
 | 67 | [Body](https://open.spotify.com/track/7vxLj7MREliG5i5vSnqSVr) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 3:13 |
-| 68 | [Fallen Star](https://open.spotify.com/track/60F6pgM6H6miNr5AmjxwjL) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Fallen Star](https://open.spotify.com/album/6GzXN4CWv0p5jIMKRU0ZBZ) | 3:44 |
-| 69 | [Bad Habit](https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Bad Habit](https://open.spotify.com/album/69JpAhN3XgLkOsJ7MCtW4V) | 3:52 |
+| 68 | [Bad Habit](https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Bad Habit](https://open.spotify.com/album/69JpAhN3XgLkOsJ7MCtW4V) | 3:52 |
+| 69 | [Fallen Star](https://open.spotify.com/track/60F6pgM6H6miNr5AmjxwjL) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Fallen Star](https://open.spotify.com/album/6GzXN4CWv0p5jIMKRU0ZBZ) | 3:44 |
 | 70 | [Tough](https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Tough](https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd) | 3:08 |
 | 71 | [sweetener](https://open.spotify.com/track/70khXICDeTTxgYtw3EysKH) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 3:28 |
 | 72 | [No Love \(with SZA\)](https://open.spotify.com/track/08SB2OtZkaliju77WYEKxk) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 3:51 |

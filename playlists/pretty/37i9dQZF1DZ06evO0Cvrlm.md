@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Cvrlm.md) - [plain]
 
 > This is George Michael\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,384 likes - 50 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,417 likes - 50 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Cvrlm.md) - [plain]
 | 29 | [Roxanne](https://open.spotify.com/track/63rKiGqcfNsMU4kAqmm4uY) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Songs From The Last Century](https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u) | 4:11 |
 | 30 | [Going To A Town \- Live](https://open.spotify.com/track/3yTgmjZoG8OnQXmE9aNSc2) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Symphonica \(Deluxe Version\)](https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO) | 4:45 |
 | 31 | [The Strangest Thing](https://open.spotify.com/track/1eFhGtC7msDWjjG0lrr9Dx) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Older](https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF) | 6:01 |
-| 32 | [I Want Your Sex \- Pts\. 1 & 2 Remastered](https://open.spotify.com/track/6QnFHieoch6U9J8zfv6hml) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 9:17 |
+| 32 | [Flawless \(Go to the City\)](https://open.spotify.com/track/6HwgNXpldZ0WfY4kzJgexr) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Patience](https://open.spotify.com/album/1Ys4joU6TESJ4eh00lvUoI) | 6:51 |
 | 33 | [The First Time Ever I Saw Your Face](https://open.spotify.com/track/6T0gaMfEfNWXZCGQKh1wlo) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Songs From The Last Century](https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u) | 5:19 |
-| 34 | [Flawless \(Go to the City\)](https://open.spotify.com/track/6HwgNXpldZ0WfY4kzJgexr) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Patience](https://open.spotify.com/album/1Ys4joU6TESJ4eh00lvUoI) | 6:51 |
+| 34 | [I Want Your Sex \- Pts\. 1 & 2 Remastered](https://open.spotify.com/track/6QnFHieoch6U9J8zfv6hml) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 9:17 |
 | 35 | [Fastlove, Pt\. 2](https://open.spotify.com/track/1hiD0mZuxn7gv4HpQVeO1w) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Older + Upper](https://open.spotify.com/album/0Vw6FmuN5pWZQbW5ztqOfk) | 4:55 |
 | 36 | [This Is Not Real Love \(feat\. Mutya\) \- Remastered 2006](https://open.spotify.com/track/0uLMAdoeOc0Q3bztUU0tD0) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo), [Mutya](https://open.spotify.com/artist/1VPdHx80mwDD7koKNVxPH1) | [Twenty Five](https://open.spotify.com/album/5HaOXSCK1IlwzV4ve7CUKY) | 4:56 |
 | 37 | [You Know That I Want To](https://open.spotify.com/track/2Xf3MCSo4McLjbCtAAsxcB) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Older \(Expanded Edition\)](https://open.spotify.com/album/6vrPb5bne9kMaRB22t1Rmn) | 4:36 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Cvrlm.md) - [plain]
 | 47 | [Through \- Live](https://open.spotify.com/track/6B8vO1gto58lY9cPVNLRee) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Symphonica \(Deluxe Version\)](https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO) | 5:09 |
 | 48 | [Always](https://open.spotify.com/track/1BHyi5tS67s00jDSlGQXg4) | [Waze & Odyssey](https://open.spotify.com/artist/0D9AnJzAnYyu1kfJFQDY5d), [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Tommy Theo](https://open.spotify.com/artist/3FIKR274tI6Xk3uw9Dqu5B) | [Always](https://open.spotify.com/album/1QiwBjsjHlnfFSKumhozCu) | 3:06 |
 | 49 | [Something to Save \- Remastered](https://open.spotify.com/track/0reIhlNWbYxMc2AAyKHzFX) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice Vol\. 1 \(Remastered\)](https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o) | 3:18 |
-| 50 | [Secret Love](https://open.spotify.com/track/5DvAuonLamxQJUiY44tBiq) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Songs From The Last Century](https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u) | 2:39 |
+| 50 | [My Baby Just Cares for Me](https://open.spotify.com/track/6iu9Pko748wfZbn3COSZe3) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Songs From The Last Century](https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u) | 1:45 |
 
 Snapshot ID: `asgugAAAAAApoJMu/v6NkRMjEXenUDSM`

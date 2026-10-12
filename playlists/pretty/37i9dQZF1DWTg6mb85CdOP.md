@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTg6mb85CdOP.md) - [plain]
 
 > ya se armó el desma muertero 🧟‍♂️👹🧌
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,933 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,953 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

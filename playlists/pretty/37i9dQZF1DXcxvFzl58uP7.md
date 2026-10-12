@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 
 > Dreamy melodies and hushed vocals\. Cover: Ghostly Kisses
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,150,817 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,150,790 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 71 | [Blue Sea](https://open.spotify.com/track/3XqbLsVmAwvTJqW6NKopg0) | [RICEWINE](https://open.spotify.com/artist/6Vf4rmMsQbAwiCG00YeEI7) | [Blue Sea](https://open.spotify.com/album/61X7kP2SSMXt88MVImUqUz) | 3:15 |
 | 72 | [You Make Me Feel](https://open.spotify.com/track/34nlIUkkDybtZAyEnvcpLL) | [EASHA](https://open.spotify.com/artist/1lYNHBChDDWC233o6ribbt) | [You Make Me Feel](https://open.spotify.com/album/5x6rupJeZv1BxbNGVcxNDL) | 3:06 |
 | 73 | [concussion](https://open.spotify.com/track/1h1w9olosnfBLzkRGsceCe) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [concussion](https://open.spotify.com/album/2d87gFtOj98tGAOwHxIpj2) | 4:37 |
-| 74 | [I Said What I Said](https://open.spotify.com/track/2etUjNggUGmR9rbD91qvzP) | [The Softies](https://open.spotify.com/artist/0Ve1sk7tcGsb7ZVsp4o8GG) | [The Bed I Made](https://open.spotify.com/album/0SnCg2Vli2V2i5sh21E4lp) | 2:23 |
-| 75 | [Lie](https://open.spotify.com/track/1iq34aL9nrL4qb8MjB1Kxn) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Lie](https://open.spotify.com/album/6EGjjJwGEqPTZnVcTXoFHA) | 2:57 |
+| 74 | [Lie](https://open.spotify.com/track/1iq34aL9nrL4qb8MjB1Kxn) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Lie](https://open.spotify.com/album/6EGjjJwGEqPTZnVcTXoFHA) | 2:57 |
+| 75 | [I Said What I Said](https://open.spotify.com/track/2etUjNggUGmR9rbD91qvzP) | [The Softies](https://open.spotify.com/artist/0Ve1sk7tcGsb7ZVsp4o8GG) | [The Bed I Made](https://open.spotify.com/album/0SnCg2Vli2V2i5sh21E4lp) | 2:23 |
 | 76 | [casandra](https://open.spotify.com/track/5xxlq2rPFNbO3uTi8bRNUe) | [Dinamarca](https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX), [Irenegarry](https://open.spotify.com/artist/5grzJI0lXUO8L4yMw6BwEB) | [casandra](https://open.spotify.com/album/2Isyha8kYfpcmi5VZijLyY) | 2:20 |
 | 77 | [Ordinary, Extraordinary](https://open.spotify.com/track/6NWc5cS7mmwRqSy9fviIMd) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Ordinary, Extraordinary](https://open.spotify.com/album/2jE0K3sXDhqkzaDXm3kcEm) | 3:24 |
 | 78 | [Where Do I Go](https://open.spotify.com/track/0HvbFmfFlcsAJ6hydqflNk) | [MINOVA](https://open.spotify.com/artist/6mskRz8EwbqCXm39vtGStC) | [Where Do I Go](https://open.spotify.com/album/4nFKRPl8NBisqDFKIFZVqg) | 3:10 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 90 | [Marigold](https://open.spotify.com/track/0xtRShSDM9MNsaARH6hJkF) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Marigold](https://open.spotify.com/album/6lXwCrLRKIaAW3xxKMXnze) | 4:05 |
 | 91 | [Woman](https://open.spotify.com/track/3Zct7ZYVcLkj3jWi7Ah2B7) | [Baseball Game](https://open.spotify.com/artist/1z94OBX5O0uAp1Uz6viKxK) | [Woman](https://open.spotify.com/album/1dImqTh8JMGzVwSpYSSZds) | 3:10 |
 | 92 | [Wormwood](https://open.spotify.com/track/3W89enABhR4P2BFYvARctH) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Her and All of My Friends](https://open.spotify.com/album/0TeYGtUrx1OcGrP8uT3gtK) | 2:59 |
-| 93 | [Hotel Swimming Pool](https://open.spotify.com/track/5LqcqOHr7Mu8KoLsNTCuYd) | [Jia](https://open.spotify.com/artist/68heyqN7ygVGuO0DqJjsDf) | [Technicolour](https://open.spotify.com/album/5J2IzDKKr8p5A9elzedpqn) | 3:58 |
-| 94 | [MESS U MADE](https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [MESS U MADE](https://open.spotify.com/album/4TAKHVBXzplL7jNu7HWkEP) | 2:48 |
+| 93 | [MESS U MADE](https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [MESS U MADE](https://open.spotify.com/album/4TAKHVBXzplL7jNu7HWkEP) | 2:48 |
+| 94 | [Hotel Swimming Pool](https://open.spotify.com/track/5LqcqOHr7Mu8KoLsNTCuYd) | [Jia](https://open.spotify.com/artist/68heyqN7ygVGuO0DqJjsDf) | [Technicolour](https://open.spotify.com/album/5J2IzDKKr8p5A9elzedpqn) | 3:58 |
 | 95 | [Rat Race](https://open.spotify.com/track/04rWIbi5Xi1oTVMmqDsiOJ) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Rat Race](https://open.spotify.com/album/7g3bUniW4uLES5gHH5nRGA) | 3:10 |
 | 96 | [Please](https://open.spotify.com/track/1JYpAqXg2HwCfTMKzr6VXK) | [Esbie Fonte](https://open.spotify.com/artist/6Sh3ahSTQD6LqMh1wMaSLY) | [Please](https://open.spotify.com/album/7D5FN6JVYSzYfHTGWSx5zy) | 3:36 |
 | 97 | [Oh Well](https://open.spotify.com/track/2nGYf3UkZEsYZ5MfNjPDxx) | [RICEWINE](https://open.spotify.com/artist/6Vf4rmMsQbAwiCG00YeEI7) | [Oh Well](https://open.spotify.com/album/5RzwMQ6Vz6sRrAEke7rqjL) | 4:53 |

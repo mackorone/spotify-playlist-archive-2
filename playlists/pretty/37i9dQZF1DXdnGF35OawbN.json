@@ -1,6 +1,6 @@
 {
   "description": "El soundtrack del verano 2026 \ud83c\udfdd\ufe0f Cover: Maluma & Shakira",
-  "num_followers": 3402195,
+  "num_followers": 3401667,
   "original_name": "Verano Forever",
   "owner": {
     "name": "Spotify",
@@ -331,26 +331,6 @@
     {
       "added_at": "2026-10-08 19:24:25",
       "album": {
-        "name": "ZIZI",
-        "url": "https://open.spotify.com/album/4f0YTBqSbvM1iJpuY9r3yQ"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        }
-      ],
-      "duration_ms": 242840,
-      "name": "ZIZI",
-      "url": "https://open.spotify.com/track/5BsvzSvw98mLqpZznMjuLX"
-    },
-    {
-      "added_at": "2026-10-08 19:24:25",
-      "album": {
         "name": "Better Late Than Never",
         "url": "https://open.spotify.com/album/2Kw4Hh3xAkcROBNPuKnh4t"
       },
@@ -367,6 +347,26 @@
       "duration_ms": 243070,
       "name": "Dardos",
       "url": "https://open.spotify.com/track/5SudOD9R1Of6CsJVWZy6CQ"
+    },
+    {
+      "added_at": "2026-10-08 19:24:25",
+      "album": {
+        "name": "ZIZI",
+        "url": "https://open.spotify.com/album/4f0YTBqSbvM1iJpuY9r3yQ"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "duration_ms": 242840,
+      "name": "ZIZI",
+      "url": "https://open.spotify.com/track/5BsvzSvw98mLqpZznMjuLX"
     },
     {
       "added_at": "2026-10-08 19:24:25",
@@ -459,18 +459,22 @@
     {
       "added_at": "2026-10-08 19:24:25",
       "album": {
-        "name": "Si Antes Te Hubiera Conocido",
-        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
+        "name": "Quevedo: Bzrp Music Sessions, Vol. 52/66",
+        "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
       },
       "artists": [
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
         }
       ],
-      "duration_ms": 195824,
-      "name": "Si Antes Te Hubiera Conocido",
-      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
+      "duration_ms": 198937,
+      "name": "Quevedo: Bzrp Music Sessions, Vol. 52/66",
+      "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
     },
     {
       "added_at": "2026-10-08 19:24:25",
@@ -495,22 +499,18 @@
     {
       "added_at": "2026-10-08 19:24:25",
       "album": {
-        "name": "Quevedo: Bzrp Music Sessions, Vol. 52/66",
-        "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
+        "name": "Si Antes Te Hubiera Conocido",
+        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
       },
       "artists": [
         {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 198937,
-      "name": "Quevedo: Bzrp Music Sessions, Vol. 52/66",
-      "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
+      "duration_ms": 195824,
+      "name": "Si Antes Te Hubiera Conocido",
+      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
     },
     {
       "added_at": "2026-10-08 19:24:25",
@@ -547,26 +547,6 @@
     {
       "added_at": "2026-10-08 19:24:25",
       "album": {
-        "name": "Tropicoqueta",
-        "url": "https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 210047,
-      "name": "Verano Rosa",
-      "url": "https://open.spotify.com/track/0nafF9MxcXJBQWv3BTKtdF"
-    },
-    {
-      "added_at": "2026-10-08 19:24:25",
-      "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 266160,
       "name": "Caraluna",
       "url": "https://open.spotify.com/track/7DhYjNLksXZhbRQeheAums"
+    },
+    {
+      "added_at": "2026-10-08 19:24:25",
+      "album": {
+        "name": "Tropicoqueta",
+        "url": "https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 210047,
+      "name": "Verano Rosa",
+      "url": "https://open.spotify.com/track/0nafF9MxcXJBQWv3BTKtdF"
     },
     {
       "added_at": "2026-10-08 19:24:25",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-10-08 19:24:25",
       "album": {
-        "name": "MATADORA",
-        "url": "https://open.spotify.com/album/0fjs4nBJ9w4qk1A9mg90HW"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 144650,
-      "name": "MATADORA",
-      "url": "https://open.spotify.com/track/6cWxlpfHEcNXojMyCKcIpx"
-    },
-    {
-      "added_at": "2026-10-08 19:24:25",
-      "album": {
         "name": "EL \u00daLTIMO BAILE",
         "url": "https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 145342,
       "name": "REAL GANGSTA LOVE",
       "url": "https://open.spotify.com/track/1pymWRCuZfCd0zdiBJo0Hj"
+    },
+    {
+      "added_at": "2026-10-08 19:24:25",
+      "album": {
+        "name": "MATADORA",
+        "url": "https://open.spotify.com/album/0fjs4nBJ9w4qk1A9mg90HW"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 144650,
+      "name": "MATADORA",
+      "url": "https://open.spotify.com/track/6cWxlpfHEcNXojMyCKcIpx"
     },
     {
       "added_at": "2026-10-08 19:24:25",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2026-10-08 19:24:25",
       "album": {
-        "name": "LVEU: VIVE LA TUYA...NO LA MIA",
-        "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 202360,
-      "name": "LA CAPI",
-      "url": "https://open.spotify.com/track/68OXeY9CUQebrOAAh3b3Jw"
-    },
-    {
-      "added_at": "2026-10-08 19:24:25",
-      "album": {
         "name": "MOR, No Le Temas a La Oscuridad",
         "url": "https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 216621,
       "name": "ILY",
       "url": "https://open.spotify.com/track/5ru2w4Y7xP58IXE6m4orW0"
+    },
+    {
+      "added_at": "2026-10-08 19:24:25",
+      "album": {
+        "name": "LVEU: VIVE LA TUYA...NO LA MIA",
+        "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 202360,
+      "name": "LA CAPI",
+      "url": "https://open.spotify.com/track/68OXeY9CUQebrOAAh3b3Jw"
     }
   ],
   "unique_name": "Verano Forever",

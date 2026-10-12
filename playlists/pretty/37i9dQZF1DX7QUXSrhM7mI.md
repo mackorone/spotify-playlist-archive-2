@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QUXSrhM7mI.md) - [plain]
 
 > A dreamy, beautiful musical companion to your time for rest and relaxation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,983 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,007 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QUXSrhM7mI.md) - [plain]
 | 28 | [Add Up My Love](https://open.spotify.com/track/6FcDxtnGfsYHOcGkXN2OIG) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:25 |
 | 29 | [Hell N Back \(feat\. Summer Walker\)](https://open.spotify.com/track/0ZDwhNFZnPx9EIPCcwGUHC) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Hell N Back \(feat\. Summer Walker\)](https://open.spotify.com/album/4LVNTAzkG26XlODcRP0v4b) | 3:15 |
 | 30 | [Take Me Home, Country Roads](https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Take Me Home, Country Roads](https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT) | 2:46 |
-| 31 | [Girl Crush \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/4YutJsNwBBInE8vemufpQ8) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Spotify Singles](https://open.spotify.com/album/7neiWgd56IO7vi2cRUP8Tj) | 4:03 |
-| 32 | [Day To Night](https://open.spotify.com/track/7rkkFimrRc14aJLN6HMNqp) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Give Me All Your Love](https://open.spotify.com/album/55LA79YNZWAfxpDGla4jcN) | 4:24 |
+| 31 | [Day To Night](https://open.spotify.com/track/7rkkFimrRc14aJLN6HMNqp) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Give Me All Your Love](https://open.spotify.com/album/55LA79YNZWAfxpDGla4jcN) | 4:24 |
+| 32 | [Girl Crush \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/4YutJsNwBBInE8vemufpQ8) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Spotify Singles](https://open.spotify.com/album/7neiWgd56IO7vi2cRUP8Tj) | 4:03 |
 | 33 | [XO](https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [XO](https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1) | 3:33 |
 | 34 | [How It's Gotta Be](https://open.spotify.com/track/4GN2iIuQYXSMi0WJGJF7IL) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Head Above Water](https://open.spotify.com/album/6Kbyq3so1qAj2r4d1JDKOy) | 3:41 |
 | 35 | [Golden Hour](https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:18 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QUXSrhM7mI.md) - [plain]
 | 51 | [Honey Blonde](https://open.spotify.com/track/4A2jbfMjTwAbqf5rJ0BTLh) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [Music For People Who Believe In Love](https://open.spotify.com/album/3ZuXKlQ48SrFaJU9KDrIkE) | 3:18 |
 | 52 | [LEAN ON MY LOVE \(feat\. Andra Day\)](https://open.spotify.com/track/6qPidYSSbSZigyZFD1sJee) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [BIG MONEY](https://open.spotify.com/album/7qYbLlvM7qPAz4XAWnXDC3) | 4:11 |
 | 53 | [St\. Helens Alpenglow](https://open.spotify.com/track/3v7QG2v0gjNN99aIwGKWyJ) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [St\. Helens Alpenglow](https://open.spotify.com/album/1sh1SFMAwY63mi7roX84ik) | 4:06 |
-| 54 | [Make Up](https://open.spotify.com/track/25fgqMC5JX8A9du5YeqREN) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Make Up](https://open.spotify.com/album/7h7oXkx5EOMYh2cfmu3Gq1) | 3:46 |
-| 55 | [The Only Exception](https://open.spotify.com/track/6yBVp6DFh899CRaKww95Hr) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [The Only Exception](https://open.spotify.com/album/6ssR342wWYZwPjYG35AWbG) | 4:22 |
+| 54 | [The Only Exception](https://open.spotify.com/track/6yBVp6DFh899CRaKww95Hr) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [The Only Exception](https://open.spotify.com/album/6ssR342wWYZwPjYG35AWbG) | 4:22 |
+| 55 | [Make Up](https://open.spotify.com/track/25fgqMC5JX8A9du5YeqREN) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Make Up](https://open.spotify.com/album/7h7oXkx5EOMYh2cfmu3Gq1) | 3:46 |
 | 56 | [Anemone \- \(Live\) \| Spotify RADAR](https://open.spotify.com/track/6UcZ2LnJwKB5lc8EOOWlw3) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Fcukers \- Spotify RADAR](https://open.spotify.com/album/11i4mV1Y7fWUvuWjRh8JPR) | 4:55 |
 | 57 | [Too Many Times](https://open.spotify.com/track/10lAFDVD2Hg61RHyJmOy7U) | [Tamzene](https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL) | [Call Them And Tell Them You Love Them](https://open.spotify.com/album/0sjLc36LTNXuLs4YQus8FD) | 3:11 |
 | 58 | [rain](https://open.spotify.com/track/3X7bED3gYbZlSPDWOFphnp) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rain](https://open.spotify.com/album/2yxznO5r7m2ut3HjKvgyNA) | 4:14 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QUXSrhM7mI.md) - [plain]
 | 65 | [The Moment \(with KOKORO\)](https://open.spotify.com/track/5pehVxoK7Pck4PS1jef4WX) | [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI), [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [KOKORO](https://open.spotify.com/artist/4gULOUdHcpIdWOO170i4E5) | [The Moment \(with KOKORO\)](https://open.spotify.com/album/1CrOKTHLIPtpAbVAXQzp9K) | 3:40 |
 | 66 | [Something You Do](https://open.spotify.com/track/61G7t6N3nAgdUSCHaKMXSt) | [Lindsey Lomis](https://open.spotify.com/artist/7qY2O8bWspXlSwQl5JAkvn) | [Something You Do](https://open.spotify.com/album/5nva0GpwF5LjRvjdNKLOxM) | 3:19 |
 | 67 | [mean!](https://open.spotify.com/track/3Wbq0xfJFzYE74WBMiqJOH) | [Macy Todd](https://open.spotify.com/artist/36LLquZpLrRaGaMRivV2CD) | [pretty ruthless](https://open.spotify.com/album/6qijNpc6Vt4lxkrRHoPL26) | 3:20 |
-| 68 | [Inside My Love](https://open.spotify.com/track/64qumU8DunSmNXYQKuIVWv) | [Minnie Riperton](https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj) | [Les Fleurs](https://open.spotify.com/album/4QAzV4Z3hJq5XULwP74Gm7) | 4:41 |
-| 69 | [My Kind of Freak](https://open.spotify.com/track/2ObIu129zXkIbMtGdZode0) | [Sophie May](https://open.spotify.com/artist/20je656lhatFVl4EoaNupn) | [Stars and Teeth](https://open.spotify.com/album/5kcHMWjStxSfaii3tLcc8V) | 3:11 |
+| 68 | [My Kind of Freak](https://open.spotify.com/track/2ObIu129zXkIbMtGdZode0) | [Sophie May](https://open.spotify.com/artist/20je656lhatFVl4EoaNupn) | [Stars and Teeth](https://open.spotify.com/album/5kcHMWjStxSfaii3tLcc8V) | 3:11 |
+| 69 | [Inside My Love](https://open.spotify.com/track/64qumU8DunSmNXYQKuIVWv) | [Minnie Riperton](https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj) | [Les Fleurs](https://open.spotify.com/album/4QAzV4Z3hJq5XULwP74Gm7) | 4:41 |
 | 70 | [Beck n Call](https://open.spotify.com/track/1xPQK0H7aL0J4gEOEFWH5E) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn), [ttoh](https://open.spotify.com/artist/4e23KN7Spr8EnEFpxOEvOF) | [Beck n Call](https://open.spotify.com/album/4WvAxqtOCHAeIvwZ1EaNQI) | 3:23 |
 | 71 | [U\-Turn](https://open.spotify.com/track/2iTzELWA8TjPb519KtNRFj) | [Kaleb Cohen](https://open.spotify.com/artist/0OBwcfakkopHjezAQGbgl8) | [U\-Turn](https://open.spotify.com/album/6HWOTindwuiBnA738BxcDz) | 3:26 |
 | 72 | [Talk About Love](https://open.spotify.com/track/3HkptDhVM1bpF4lz3haQRk) | [Olive Jones](https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn) | [Talk About Love](https://open.spotify.com/album/3Ab4I0S7mBYWdrOw6h1ttt) | 5:10 |

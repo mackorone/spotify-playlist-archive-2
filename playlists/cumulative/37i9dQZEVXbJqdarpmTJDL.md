@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-3,020 songs - 6 day 11 hr 55 min
+3,021 songs - 6 day 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1718,7 +1718,7 @@
 | [Metallo](https://open.spotify.com/track/0BpWJbKD6OmAXO9tEpcJm0) | [Sadam](https://open.spotify.com/artist/5svarA8QyRUWetgH9ZouQq), [Dof Twogee](https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX) | [Metallo](https://open.spotify.com/album/3EvE2PyxJvpHnSkPx3DEQh) | 3:16 | 2026-09-08 |  |
 | [Metrhta](https://open.spotify.com/track/6kIzO9B518SyHCiKCC8q0J) | [GAMEBOY](https://open.spotify.com/artist/09admC8JPSuizanrDUzWtd) | [Metrhta](https://open.spotify.com/album/6AciJoFvJZ8Q4w6gOio7Rz) | 2:29 | 2021-10-23 | 2021-10-24 |
 | [Metrita](https://open.spotify.com/track/5ZPhekpMLXFmewq8hc9GOA) | [Wang](https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy) | [Interrail](https://open.spotify.com/album/0wDaGND7KC1IG5vUzuLj34) | 4:06 | 2022-04-27 | 2022-05-08 |
-| [METRO](https://open.spotify.com/track/0ZDg6lOFCGgniBUQmPmAPz) | [BORAC](https://open.spotify.com/artist/0GWmVguOlm1wG9ewMP4iBO), [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a), [ASOK](https://open.spotify.com/artist/6Zx32XYdrM9A2rIt6jKVmm) | [METRO](https://open.spotify.com/album/7pdqpLcGGANCoi3lwD4qbK) | 2:13 | 2026-10-10 |  |
+| [METRO](https://open.spotify.com/track/0ZDg6lOFCGgniBUQmPmAPz) | [BORAC](https://open.spotify.com/artist/0GWmVguOlm1wG9ewMP4iBO), [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a), [ASOK](https://open.spotify.com/artist/6Zx32XYdrM9A2rIt6jKVmm) | [METRO](https://open.spotify.com/album/7pdqpLcGGANCoi3lwD4qbK) | 2:13 | 2026-10-10 | 2026-10-12 |
 | [Mexri Telous](https://open.spotify.com/track/5t4ea9v5BSCWNw0aMzUoLd) | [Nino Xypolitas](https://open.spotify.com/artist/1ATDcv6wTF2U42HPB4qEFz) | [Mexri Telous](https://open.spotify.com/album/0TgTWLCCFaAIjJjUBXsTBK) | 4:03 | 2023-10-14 | 2023-10-20 |
 | [Mf](https://open.spotify.com/track/6XsZVx9WeMWrAMqtvH1G9J) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG) | [TOPBOY 2](https://open.spotify.com/album/1vAde1dIOlmEuT2UqK2EyK) | 2:53 | 2024-05-24 | 2024-06-21 |
 | [MF](https://open.spotify.com/track/7MlGhtz7LD4qXZrCUW1b6j) | [Yolte](https://open.spotify.com/artist/41Pv6UAIHbAoaWNKRTdENm) | [FOR ALL THE BEACHES](https://open.spotify.com/album/1H0EnyWIYQPtEJ9Ixc3PCM) | 1:43 | 2024-07-23 | 2024-07-25 |
@@ -2043,6 +2043,7 @@
 | [PADOU](https://open.spotify.com/track/27GSRTfL7fEnLAEr3fB5YX) | [Saske](https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP), [VIDO](https://open.spotify.com/artist/6sxb4bGpNLFGZKUzrWc7ZJ) | [Saskepticism Vol\. 2](https://open.spotify.com/album/3Ai3ffKaiKXsDXntUon5nP) | 3:37 | 2022-04-23 | 2025-12-21 |
 | [Paei Kairos](https://open.spotify.com/track/3urBGmts1ktXT9a8CK5gL4) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2) | [Immortale \(Deluxe Edition\)](https://open.spotify.com/album/4pG7RebITssOm6t4w9TNL8) | 3:15 | 2021-06-20 | 2021-06-22 |
 | [Pagkosmia Mera Tou Psefti](https://open.spotify.com/track/0ZDl7l9iD4fidIBIkjQrl9) | [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD) | [Pagkosmia Mera Tou Psefti](https://open.spotify.com/album/3U8IZ1XAqeGgZN4a3HMHbT) | 2:45 | 2026-09-05 | 2026-09-16 |
+| [Pagkosmia Mera Tou Psefti](https://open.spotify.com/track/7J7Tilm3VfgZTTVPzkBYj6) | [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD) | [2100 \- Gen Eta \(Part A\)](https://open.spotify.com/album/1FpUZRZ16Im6de8TfuJjsC) | 2:45 | 2026-10-11 |  |
 | [Paidi Tis Nixtas](https://open.spotify.com/track/1pgHTgifpQN35pO1dWhJ9W) | [Giorgos Mazonakis](https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK), [APON](https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7) | [Paidi Tis Nixtas](https://open.spotify.com/album/2Qu31WwByO76KeQqU9Opok) | 3:17 | 2026-09-11 | 2026-09-15 |
 | [Paidi Tou 2000](https://open.spotify.com/track/5gVtGn0DJ48z8VbNWHIbZ1) | [Ethismos](https://open.spotify.com/artist/3us9fVKGxelK4OfEMng997), [Tr4cer](https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w) | [Millennials](https://open.spotify.com/album/6rD5QiewGfJamw4x7vlDbc) | 2:49 | 2024-03-30 | 2024-04-04 |
 | [Paidia Tou Feggariou](https://open.spotify.com/track/6DprMwVs2mHbGN2U6qenzQ) | [VLOSPA](https://open.spotify.com/artist/5VzicjuhIv0IwMz15hEORa), [LEX](https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1), [Dof Twogee](https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX), [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ) | [Paidia Tou Feggariou](https://open.spotify.com/album/0eWIKzJmFpbHbhv33NRhE3) | 3:50 | 2025-10-04 | 2025-10-16 |

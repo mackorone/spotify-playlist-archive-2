@@ -1,6 +1,6 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 200590,
+  "num_followers": 200567,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
@@ -455,6 +455,22 @@
     {
       "added_at": "2025-09-18 22:01:59",
       "album": {
+        "name": "Bajo la Cruz",
+        "url": "https://open.spotify.com/album/66dGx46zunw5g7zcaAJ2Fj"
+      },
+      "artists": [
+        {
+          "name": "L\u00f6rihen",
+          "url": "https://open.spotify.com/artist/4HgUPVt7LhvdpUbZhmotgx"
+        }
+      ],
+      "duration_ms": 295263,
+      "name": "Vida Eterna",
+      "url": "https://open.spotify.com/track/14nEPCQLWtMqV4uE1cRHFv"
+    },
+    {
+      "added_at": "2025-09-18 22:01:59",
+      "album": {
         "name": "Por Tu Honor",
         "url": "https://open.spotify.com/album/139KGXxHg2hwbNrHrCfU12"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 256360,
       "name": "Cacique Yatel",
       "url": "https://open.spotify.com/track/564R2CUjKmBW3hNTghZeKk"
-    },
-    {
-      "added_at": "2025-09-18 22:01:59",
-      "album": {
-        "name": "Bajo la Cruz",
-        "url": "https://open.spotify.com/album/66dGx46zunw5g7zcaAJ2Fj"
-      },
-      "artists": [
-        {
-          "name": "L\u00f6rihen",
-          "url": "https://open.spotify.com/artist/4HgUPVt7LhvdpUbZhmotgx"
-        }
-      ],
-      "duration_ms": 295263,
-      "name": "Vida Eterna",
-      "url": "https://open.spotify.com/track/14nEPCQLWtMqV4uE1cRHFv"
     },
     {
       "added_at": "2025-09-18 22:01:59",
@@ -567,22 +567,6 @@
     {
       "added_at": "2025-09-18 22:01:59",
       "album": {
-        "name": "Fugitive State of Mind",
-        "url": "https://open.spotify.com/album/6N7IWhu9D9iXmw7jT3VJai"
-      },
-      "artists": [
-        {
-          "name": "Voltax",
-          "url": "https://open.spotify.com/artist/1A5Dt5zgajoli6BFEiL4P2"
-        }
-      ],
-      "duration_ms": 227013,
-      "name": "Acero Inmortal",
-      "url": "https://open.spotify.com/track/3SpitFUWlOXFj50cArug4M"
-    },
-    {
-      "added_at": "2025-09-18 22:01:59",
-      "album": {
         "name": "Earthliens",
         "url": "https://open.spotify.com/album/5tyMcEgeoKK0USWlBAjg3l"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 250362,
       "name": "Las Venas Abiertas...",
       "url": "https://open.spotify.com/track/26e1lqciRLcyXPzYvxOgfy"
+    },
+    {
+      "added_at": "2025-09-18 22:01:59",
+      "album": {
+        "name": "Fugitive State of Mind",
+        "url": "https://open.spotify.com/album/6N7IWhu9D9iXmw7jT3VJai"
+      },
+      "artists": [
+        {
+          "name": "Voltax",
+          "url": "https://open.spotify.com/artist/1A5Dt5zgajoli6BFEiL4P2"
+        }
+      ],
+      "duration_ms": 227013,
+      "name": "Acero Inmortal",
+      "url": "https://open.spotify.com/track/3SpitFUWlOXFj50cArug4M"
     },
     {
       "added_at": "2025-09-18 22:01:59",
@@ -695,18 +695,18 @@
     {
       "added_at": "2025-09-18 22:01:59",
       "album": {
-        "name": "Los Cantipuercos",
-        "url": "https://open.spotify.com/album/3kP7B2rRjs3m95HJHKlsjw"
+        "name": "Khafra",
+        "url": "https://open.spotify.com/album/57ahaslQPdMhhiXqzSVjsO"
       },
       "artists": [
         {
-          "name": "Cuentos de los Hermanos Grind",
-          "url": "https://open.spotify.com/artist/05q0fmz5AnwuIilO7PxfbC"
+          "name": "Khafra",
+          "url": "https://open.spotify.com/artist/0ihzl14dtKADBcwu1YbLgo"
         }
       ],
-      "duration_ms": 180693,
-      "name": "La Caperuputa y el Lobo Culi\u00f3n",
-      "url": "https://open.spotify.com/track/1zJZ9w43qRt85xZQNsgo9Y"
+      "duration_ms": 182323,
+      "name": "Esquizofrenia",
+      "url": "https://open.spotify.com/track/3MLJZTcoiDcC0Je4SRinT9"
     },
     {
       "added_at": "2025-09-18 22:01:59",
@@ -727,18 +727,18 @@
     {
       "added_at": "2025-09-18 22:01:59",
       "album": {
-        "name": "Khafra",
-        "url": "https://open.spotify.com/album/57ahaslQPdMhhiXqzSVjsO"
+        "name": "Los Cantipuercos",
+        "url": "https://open.spotify.com/album/3kP7B2rRjs3m95HJHKlsjw"
       },
       "artists": [
         {
-          "name": "Khafra",
-          "url": "https://open.spotify.com/artist/0ihzl14dtKADBcwu1YbLgo"
+          "name": "Cuentos de los Hermanos Grind",
+          "url": "https://open.spotify.com/artist/05q0fmz5AnwuIilO7PxfbC"
         }
       ],
-      "duration_ms": 182323,
-      "name": "Esquizofrenia",
-      "url": "https://open.spotify.com/track/3MLJZTcoiDcC0Je4SRinT9"
+      "duration_ms": 180693,
+      "name": "La Caperuputa y el Lobo Culi\u00f3n",
+      "url": "https://open.spotify.com/track/1zJZ9w43qRt85xZQNsgo9Y"
     },
     {
       "added_at": "2025-09-18 22:01:59",
@@ -775,6 +775,22 @@
     {
       "added_at": "2025-09-18 22:01:59",
       "album": {
+        "name": "Radix Nebul\u00e6",
+        "url": "https://open.spotify.com/album/5mIVWC2ZAcehl7Gv02jXzX"
+      },
+      "artists": [
+        {
+          "name": "SYRACUS\u00c6",
+          "url": "https://open.spotify.com/artist/3s5NSrjy5sXASsWsm55iPy"
+        }
+      ],
+      "duration_ms": 241333,
+      "name": "Exoplanets",
+      "url": "https://open.spotify.com/track/0XGjcnZsOeAcNILNBlo27t"
+    },
+    {
+      "added_at": "2025-09-18 22:01:59",
+      "album": {
         "name": "Lanza en Mano",
         "url": "https://open.spotify.com/album/40tqGOnfjUC2oaZwiOjmmN"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 331013,
       "name": "Deceitful Idols",
       "url": "https://open.spotify.com/track/3sday56iSsKePe8emJf9Gz"
-    },
-    {
-      "added_at": "2025-09-18 22:01:59",
-      "album": {
-        "name": "Radix Nebul\u00e6",
-        "url": "https://open.spotify.com/album/5mIVWC2ZAcehl7Gv02jXzX"
-      },
-      "artists": [
-        {
-          "name": "SYRACUS\u00c6",
-          "url": "https://open.spotify.com/artist/3s5NSrjy5sXASsWsm55iPy"
-        }
-      ],
-      "duration_ms": 241333,
-      "name": "Exoplanets",
-      "url": "https://open.spotify.com/track/0XGjcnZsOeAcNILNBlo27t"
     }
   ],
   "unique_name": "Metal del Nuestro",

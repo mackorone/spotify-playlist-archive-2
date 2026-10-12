@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Argentina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,671 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,679 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 | 12 | [SUPERESTRELLA](https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [CUARTO AZUL](https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M) | 3:03 |
 | 13 | [Puñaladas](https://open.spotify.com/track/1hdrRqaR0GFpWrH3omUHaL) | [Lauta](https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci), [Amigo de Artistas](https://open.spotify.com/artist/7j6lJVKmCFlcXtfMDf57gP), [Tote](https://open.spotify.com/artist/4JvhKLSrtJy7jAWYaatd64) | [Yo Solo Quería Divertirme](https://open.spotify.com/album/2ND26lhhl4JSbIOVgJiY42) | 2:19 |
 | 14 | [FOREVER TU GANTEL](https://open.spotify.com/track/1YAWMfsmduIrpqrjP45pFn) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [POR SI MAÑANA NO ESTOY](https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f) | 3:46 |
-| 15 | [El Teléfono](https://open.spotify.com/track/5qE8PzKYJhbl0gnLwJSASu) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [The Bad Boy \(The Most Wanted Edition\)](https://open.spotify.com/album/4wucK3TtoeQPDQO0UVY0eS) | 3:55 |
+| 15 | [El Teléfono](https://open.spotify.com/track/1sbiqeh3fCNwebhohDRXAp) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Machete Music Chronicles: Vol\. I](https://open.spotify.com/album/3vBf54VsQZq7R5fDDxYTe2) | 3:59 |
 | 16 | [La Noche Sin Tí](https://open.spotify.com/track/6dT5W7zuEcUZHnZuVlSIJ5) | [Los Huayra](https://open.spotify.com/artist/796YUyTCTkXZAZg4CLUoWl) | [La Voz Del Viento](https://open.spotify.com/album/0fbAh4EhR85ddKTzO7vS8a) | 4:18 |
 | 17 | [Por Mil Noches](https://open.spotify.com/track/5vHWh24GAsXJ7tnIu8v7UN) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Libertad](https://open.spotify.com/album/7GqNN5mgkE38TFBjU8vKCd) | 4:43 |
 | 18 | [Como Eran Las Cosas](https://open.spotify.com/track/61qPUnazSdkvua4wgA4L8C) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Mucho](https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3) | 4:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 | 49 | [El Farsante](https://open.spotify.com/track/5EId1m4DNwTf3at31w8bPJ) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Odisea](https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo) | 3:53 |
 | 50 | [BAILE INoLVIDABLE](https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 6:07 |
 
-Snapshot ID: `Ml26iAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Ml8QuAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -1,6 +1,6 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 130620,
+  "num_followers": 130623,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
@@ -339,22 +339,6 @@
     {
       "added_at": "2026-02-12 16:00:30",
       "album": {
-        "name": "\u9e8b\u9e7f",
-        "url": "https://open.spotify.com/album/3stIJfcy7gwLRdrxipRwp0"
-      },
-      "artists": [
-        {
-          "name": "Fish Leong",
-          "url": "https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS"
-        }
-      ],
-      "duration_ms": 234236,
-      "name": "\u5927\u4eba",
-      "url": "https://open.spotify.com/track/6UXPAEteXJEyxcA0MAo8Zf"
-    },
-    {
-      "added_at": "2026-02-12 16:00:30",
-      "album": {
         "name": "Face II \u771f\u30fb\u88cf",
         "url": "https://open.spotify.com/album/6vIFkhNrnRaYLIJOW81PW4"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 236343,
       "name": "\u56de\u7559",
       "url": "https://open.spotify.com/track/5iFT7yzuvfK8WOqiN22QqX"
+    },
+    {
+      "added_at": "2026-02-12 16:00:30",
+      "album": {
+        "name": "\u9e8b\u9e7f",
+        "url": "https://open.spotify.com/album/3stIJfcy7gwLRdrxipRwp0"
+      },
+      "artists": [
+        {
+          "name": "Fish Leong",
+          "url": "https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS"
+        }
+      ],
+      "duration_ms": 234236,
+      "name": "\u5927\u4eba",
+      "url": "https://open.spotify.com/track/6UXPAEteXJEyxcA0MAo8Zf"
     },
     {
       "added_at": "2026-02-12 16:00:30",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-02-12 16:00:30",
       "album": {
-        "name": "\u4e00\u6a23\u7f8e\u9e97 (\u7c89\u7d05\u7d72\u5e36\u5ba3\u5c0e\u6d3b\u52d5\u4e3b\u984c\u66f2)",
-        "url": "https://open.spotify.com/album/6D3GLw6b90dCBafPcM7SVH"
-      },
-      "artists": [
-        {
-          "name": "Eric Chou",
-          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
-        }
-      ],
-      "duration_ms": 276559,
-      "name": "\u4e00\u6a23\u7f8e\u9e97 - \u7c89\u7d05\u7d72\u5e36\u5ba3\u5c0e\u6d3b\u52d5\u4e3b\u984c\u66f2",
-      "url": "https://open.spotify.com/track/5VuI9PEbkwU2wMD5GAKQLf"
-    },
-    {
-      "added_at": "2026-02-12 16:00:30",
-      "album": {
         "name": "\u6211\u88ab\u653e\u4e0a\u5929\u7a7a",
         "url": "https://open.spotify.com/album/0mrDA81eWQS79HY5GfF81y"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 266085,
       "name": "\u60f3\u5ff5\u64ec\u4eba\u5316",
       "url": "https://open.spotify.com/track/2QkELHIEQONatqO5ZrE5H7"
+    },
+    {
+      "added_at": "2026-02-12 16:00:30",
+      "album": {
+        "name": "\u4e00\u6a23\u7f8e\u9e97 (\u7c89\u7d05\u7d72\u5e36\u5ba3\u5c0e\u6d3b\u52d5\u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/6D3GLw6b90dCBafPcM7SVH"
+      },
+      "artists": [
+        {
+          "name": "Eric Chou",
+          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
+        }
+      ],
+      "duration_ms": 276559,
+      "name": "\u4e00\u6a23\u7f8e\u9e97 - \u7c89\u7d05\u7d72\u5e36\u5ba3\u5c0e\u6d3b\u52d5\u4e3b\u984c\u66f2",
+      "url": "https://open.spotify.com/track/5VuI9PEbkwU2wMD5GAKQLf"
     },
     {
       "added_at": "2026-02-12 16:00:30",
@@ -779,6 +779,22 @@
     {
       "added_at": "2026-02-12 16:00:30",
       "album": {
+        "name": "\u4f60\u8aaa\u8a71\u7684\u8072\u97f3\u597d\u7d30",
+        "url": "https://open.spotify.com/album/5UmY655yGRPTqGn6LsyD17"
+      },
+      "artists": [
+        {
+          "name": "JOYCE \u5c31\u4ee5\u65af",
+          "url": "https://open.spotify.com/artist/2rnMTHqTdSXZ9h9drhPanv"
+        }
+      ],
+      "duration_ms": 314533,
+      "name": "\u4f60\u8aaa\u8a71\u7684\u8072\u97f3\u597d\u7d30",
+      "url": "https://open.spotify.com/track/1dYe1XLA9FMBRgsDBjUpFs"
+    },
+    {
+      "added_at": "2026-02-12 16:00:30",
+      "album": {
         "name": "\u8327Jian",
         "url": "https://open.spotify.com/album/7w8cW1IqQCo8xKhXmG6313"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 168471,
       "name": "\u541b",
       "url": "https://open.spotify.com/track/4XLW8SQNciud0pTp7Urj49"
-    },
-    {
-      "added_at": "2026-02-12 16:00:30",
-      "album": {
-        "name": "\u4f60\u8aaa\u8a71\u7684\u8072\u97f3\u597d\u7d30",
-        "url": "https://open.spotify.com/album/5UmY655yGRPTqGn6LsyD17"
-      },
-      "artists": [
-        {
-          "name": "JOYCE \u5c31\u4ee5\u65af",
-          "url": "https://open.spotify.com/artist/2rnMTHqTdSXZ9h9drhPanv"
-        }
-      ],
-      "duration_ms": 314533,
-      "name": "\u4f60\u8aaa\u8a71\u7684\u8072\u97f3\u597d\u7d30",
-      "url": "https://open.spotify.com/track/1dYe1XLA9FMBRgsDBjUpFs"
     }
   ],
   "unique_name": "\u9031\u672b\u6e05\u807d",

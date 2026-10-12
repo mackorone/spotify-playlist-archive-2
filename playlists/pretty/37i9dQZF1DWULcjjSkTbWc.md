@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULcjjSkTbWc.md) - [plain]
 
 > Unos buenos riffs de guitarra para acompañarte en el camino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,616 likes - 75 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,629 likes - 75 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULcjjSkTbWc.md) - [plain]
 | 27 | [Lobo\-hombre en París](https://open.spotify.com/track/2hConpLOB6gmyM8vDkVOof) | [La Unión](https://open.spotify.com/artist/2Ax9wZpdlg4r2zkc3pcI8U) | [Mil Siluetas](https://open.spotify.com/album/5ceH4FeKHP9o2mautX4K9t) | 3:52 |
 | 28 | [Blitzkrieg Bop \- 2016 Remaster](https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Ramones \(40th Anniversary Deluxe Edition; 2016 Remaster\)](https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64) | 2:14 |
 | 29 | [Dirty Harry \(feat\. Bootie Brown\)](https://open.spotify.com/track/2bfGNzdiRa1jXZRdfssSzR) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Bootie Brown](https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d) | [Demon Days](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) | 3:50 |
-| 30 | [One Way Or Another \- Remastered 2001](https://open.spotify.com/track/4cQJ27R11K634x5qCOwKW5) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Parallel Lines \(Remastered\)](https://open.spotify.com/album/5wc12ZsmXNIlppTmNFZFLU) | 3:35 |
-| 31 | [I'm a Believer \- 2006 Remaster](https://open.spotify.com/track/3G7tRC24Uh09Hmp1KZ7LQ2) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [More of The Monkees \(Deluxe Edition\)](https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX) | 2:47 |
-| 32 | [\(I Can't Get No\) Satisfaction \- Mono](https://open.spotify.com/track/2PzU4IB8Dr6mxV3lHuaG34) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Out Of Our Heads](https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ) | 3:42 |
+| 30 | [\(I Can't Get No\) Satisfaction \- Mono](https://open.spotify.com/track/2PzU4IB8Dr6mxV3lHuaG34) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Out Of Our Heads](https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ) | 3:42 |
+| 31 | [One Way Or Another \- Remastered 2001](https://open.spotify.com/track/4cQJ27R11K634x5qCOwKW5) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Parallel Lines \(Remastered\)](https://open.spotify.com/album/5wc12ZsmXNIlppTmNFZFLU) | 3:35 |
+| 32 | [I'm a Believer \- 2006 Remaster](https://open.spotify.com/track/3G7tRC24Uh09Hmp1KZ7LQ2) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [More of The Monkees \(Deluxe Edition\)](https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX) | 2:47 |
 | 33 | [Persiana Americana \- Remasterizado 2007](https://open.spotify.com/track/71awpJoi5bqGMBrTkHDDoL) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Signos \(Remastered\)](https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi) | 4:52 |
 | 34 | [My Sharona](https://open.spotify.com/track/1HOMkjp0nHMaTnfAkslCQj) | [The Knack](https://open.spotify.com/artist/0Nn9YwJzcaeuU1jJL06e3r) | [Get The Knack](https://open.spotify.com/album/6H0wsYDvFlATzXHn0IqVpi) | 4:55 |
 | 35 | [Band On The Run \- 2010 Remaster](https://open.spotify.com/track/1H4idkmruFoJBg1DvUv2tY) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Band On The Run](https://open.spotify.com/album/257oomaawruFknt5wYCPDh) | 5:13 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULcjjSkTbWc.md) - [plain]
 | 55 | [Piece of My Heart](https://open.spotify.com/track/1xKQbqQtQWrtQS47fUJBtl) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Cheap Thrills](https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX) | 4:13 |
 | 56 | [Drive My Car \- Remastered 2009](https://open.spotify.com/track/06ypiqmILMdVeaiErMFA91) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Rubber Soul \(Remastered 2009\)](https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm) | 2:28 |
 | 57 | [Por Siempre](https://open.spotify.com/track/6FLSb8CJwrcfXfzfD4ySji) | [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [Por Encima](https://open.spotify.com/album/5zlSFpoGVWyxGBc76ye0L0) | 3:37 |
-| 58 | [Southern Cross \- 2005 Remaster](https://open.spotify.com/track/5AoZknxgY6F25gAcVahO41) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [Daylight Again \(Deluxe Edition\)](https://open.spotify.com/album/7mepsTLhRL4ghKLZ4oB31u) | 4:41 |
-| 59 | [With A Little Help From My Friends](https://open.spotify.com/track/0YZ3J8xzGwLOg4yEgST1YK) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [With A Little Help From My Friends](https://open.spotify.com/album/74sIm8QdXqFwYeDS7OfYVw) | 5:12 |
+| 58 | [With A Little Help From My Friends](https://open.spotify.com/track/0YZ3J8xzGwLOg4yEgST1YK) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [With A Little Help From My Friends](https://open.spotify.com/album/74sIm8QdXqFwYeDS7OfYVw) | 5:12 |
+| 59 | [Southern Cross \- 2005 Remaster](https://open.spotify.com/track/5AoZknxgY6F25gAcVahO41) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [Daylight Again \(Deluxe Edition\)](https://open.spotify.com/album/7mepsTLhRL4ghKLZ4oB31u) | 4:41 |
 | 60 | [Sí](https://open.spotify.com/track/0RiW6UAHvVbYVEp4Kvxbwj) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Flamingos](https://open.spotify.com/album/2MUTc0OJT6lOZCwifS1LyB) | 3:24 |
 | 61 | [Pijamas](https://open.spotify.com/track/1AYgMuI3cgL5EjnfhnZVoq) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Mucho](https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3) | 3:29 |
 | 62 | [Hate To Say I Told You So](https://open.spotify.com/track/20j7B6mL9gnNvG3ic6Vwh5) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Veni Vidi Vicious](https://open.spotify.com/album/1C4UGzx5gD9b3X0UfAhY7z) | 3:20 |

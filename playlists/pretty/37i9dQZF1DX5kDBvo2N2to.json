@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 61432,
+  "num_followers": 61435,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-10-08 22:00:34",
       "album": {
-        "name": "F\u00f6rr nu & forever",
-        "url": "https://open.spotify.com/album/0VgMibLJeMzYTBq4jVXUqC"
-      },
-      "artists": [
-        {
-          "name": "Hov1",
-          "url": "https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt"
-        }
-      ],
-      "duration_ms": 241180,
-      "name": "R\u00e4ddare i n\u00f6den",
-      "url": "https://open.spotify.com/track/1yHJl9qbcH58PEHLiRlywQ"
-    },
-    {
-      "added_at": "2026-10-08 22:00:34",
-      "album": {
         "name": "Nya Skolans Ledare",
         "url": "https://open.spotify.com/album/1ptguIZWJepEbkOFyZ05SJ"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 109800,
       "name": "H\u00e5ller Mig Sj\u00e4lv",
       "url": "https://open.spotify.com/track/1nBqEg9NUvwh0D0xauvzy4"
+    },
+    {
+      "added_at": "2026-10-08 22:00:34",
+      "album": {
+        "name": "F\u00f6rr nu & forever",
+        "url": "https://open.spotify.com/album/0VgMibLJeMzYTBq4jVXUqC"
+      },
+      "artists": [
+        {
+          "name": "Hov1",
+          "url": "https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt"
+        }
+      ],
+      "duration_ms": 241180,
+      "name": "R\u00e4ddare i n\u00f6den",
+      "url": "https://open.spotify.com/track/1yHJl9qbcH58PEHLiRlywQ"
     },
     {
       "added_at": "2026-10-08 22:00:34",

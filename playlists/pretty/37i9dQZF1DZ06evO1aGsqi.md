@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1aGsqi.md) - [plain]
 
 > This is Ludwig Göransson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,515 likes - 30 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,523 likes - 30 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,12 +31,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1aGsqi.md) - [plain]
 | 21 | [Penelope](https://open.spotify.com/track/5CsZuYia3R65X0Z5sNLsak) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Odyssey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/22A9rMK5gv0rQyW1yrhXZR) | 4:16 |
 | 22 | [Groves](https://open.spotify.com/track/1hAiPMWwuIqPDPu6UzFXMe) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Oppenheimer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0rwbMKjNkp4ehQTwf9V2Jk) | 3:03 |
 | 23 | [Rotta](https://open.spotify.com/track/0N2vpZbs6kgXM5BZuYFkw2) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Star Wars: The Mandalorian and Grogu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2LrB8jQ7d0OEdHOmEZWfJn) | 1:33 |
-| 24 | [WINDMILLS](https://open.spotify.com/track/0WBa6rf5NCpkAbvhgWgmEE) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Tenet \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/3XVZnD9SKNPcN3YJvho9Y7) | 5:16 |
-| 25 | [Lord Knows / Fighting Stronger](https://open.spotify.com/track/767T5vqvDToZ8LtqT8iZx9) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [CREED: Original Motion Picture Soundtrack](https://open.spotify.com/album/6Vl1FiigNmVpKDMXpRVUCA) | 4:54 |
+| 24 | [Lord Knows / Fighting Stronger](https://open.spotify.com/track/767T5vqvDToZ8LtqT8iZx9) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [CREED: Original Motion Picture Soundtrack](https://open.spotify.com/album/6Vl1FiigNmVpKDMXpRVUCA) | 4:54 |
+| 25 | [WINDMILLS](https://open.spotify.com/track/0WBa6rf5NCpkAbvhgWgmEE) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Tenet \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/3XVZnD9SKNPcN3YJvho9Y7) | 5:16 |
 | 26 | [Truths \(From "Everything, Everything" Score\)](https://open.spotify.com/track/4lGzvVyw3ETJPiBD5YR1w4) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Everything, Everything \(Original Motion Picture Score\)](https://open.spotify.com/album/4iH6tmjBXE7mHONZn9KylD) | 1:54 |
-| 27 | [Caught in the Shadow](https://open.spotify.com/track/1fu14M9rg8sDOlbJ7OAFaI) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Creed \(Original Motion Picture Score\)](https://open.spotify.com/album/03vOJD9TKf7hjwrakeYb8n) | 1:20 |
-| 28 | [BETRAYAL](https://open.spotify.com/track/5SQWjbR3GyT9Mt8z2MbnUN) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Tenet \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/3XVZnD9SKNPcN3YJvho9Y7) | 3:55 |
-| 29 | [Wakanda](https://open.spotify.com/track/2mjbf9ZvCoYqTi0RZ2FTUJ) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL), [Baaba Maal](https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf) | [Black Panther \(Original Score\)](https://open.spotify.com/album/7KDslrXaOYS28ferZi5UVK) | 2:20 |
+| 27 | [Wakanda](https://open.spotify.com/track/2mjbf9ZvCoYqTi0RZ2FTUJ) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL), [Baaba Maal](https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf) | [Black Panther \(Original Score\)](https://open.spotify.com/album/7KDslrXaOYS28ferZi5UVK) | 2:20 |
+| 28 | [Caught in the Shadow](https://open.spotify.com/track/1fu14M9rg8sDOlbJ7OAFaI) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Creed \(Original Motion Picture Score\)](https://open.spotify.com/album/03vOJD9TKf7hjwrakeYb8n) | 1:20 |
+| 29 | [BETRAYAL](https://open.spotify.com/track/5SQWjbR3GyT9Mt8z2MbnUN) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Tenet \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/3XVZnD9SKNPcN3YJvho9Y7) | 3:55 |
 | 30 | [RAINY NIGHT IN TALLINN](https://open.spotify.com/track/5r6l0sPvfeAPjQ67fCgOwG) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Tenet \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/3XVZnD9SKNPcN3YJvho9Y7) | 8:00 |
 
-Snapshot ID: `asbdAAAAAABzVmUNr7OgzaDPqNMggZOc`
+Snapshot ID: `asgugAAAAAActJ6r6MKqMuSXyMRl1pG1`

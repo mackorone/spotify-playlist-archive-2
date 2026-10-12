@@ -2064,7 +2064,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-11",
+      "date_removed": null,
       "duration_ms": 190004,
       "name": "Amanece",
       "url": "https://open.spotify.com/track/1LiN0Z98FkR1t0m8KmLcAH"
@@ -5396,7 +5396,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 173858,
       "name": "capaz (merengueton)",
       "url": "https://open.spotify.com/track/2dd3G3ZqEcG2cNS1tp3oEk"
@@ -9816,7 +9816,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 163906,
       "name": "DUBAI",
       "url": "https://open.spotify.com/track/1bot94AA9sDNpktYCHmN78"
@@ -9956,6 +9956,36 @@
       "duration_ms": 211286,
       "name": "D\u00e9jame Pensar",
       "url": "https://open.spotify.com/track/0rqH7y08F8C8lcVBI8n2Sq"
+    },
+    {
+      "album": {
+        "name": "D\u00e9jate Llevar (Remix)",
+        "url": "https://open.spotify.com/album/4O6gpYuqbMbWa7SbvzbebC"
+      },
+      "artists": [
+        {
+          "name": "El BAI",
+          "url": "https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa"
+        },
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "simonpizarro",
+          "url": "https://open.spotify.com/artist/06km6u8PLi9auhDEUAiiuX"
+        },
+        {
+          "name": "Mateo on the Beatz",
+          "url": "https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg"
+        }
+      ],
+      "date_added": "2026-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230666,
+      "name": "D\u00e9jate Llevar - Remix",
+      "url": "https://open.spotify.com/track/7sNKMBtIlFzCJQrxcA8qd0"
     },
     {
       "album": {
@@ -27978,7 +28008,7 @@
       ],
       "date_added": "2022-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-10",
+      "date_removed": null,
       "duration_ms": 181254,
       "name": "Que Nadie Se Entere",
       "url": "https://open.spotify.com/track/41BuYNd5IMSmDV7m6aNb8J"
@@ -33322,7 +33352,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 201531,
       "name": "Te Siento Aki",
       "url": "https://open.spotify.com/track/6FEUA9ZuTFx36RdPCGkemF"
@@ -36693,6 +36723,24 @@
     },
     {
       "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/7Gh08NTaT7OVUQmUT0GJ76"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2026-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290372,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/4rKEWNZrYYo66knSxFxE2J"
+    },
+    {
+      "album": {
         "name": "nadie sabe lo que va a pasar ma\u00f1ana",
         "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
       },
@@ -37062,7 +37110,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 269596,
       "name": "WO OH OH",
       "url": "https://open.spotify.com/track/0h54mLixODOqU6vTcZMqVM"

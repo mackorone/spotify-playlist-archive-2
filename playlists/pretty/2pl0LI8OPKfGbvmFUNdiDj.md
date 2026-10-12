@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,220 likes - 71 songs - 4 hr 1 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,225 likes - 73 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,5 +79,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 69 | [Yellow](https://open.spotify.com/track/6qwbAsMNRLZdvzx9bGzpWZ) | [Luan Luan](https://open.spotify.com/artist/1TRI5G2cp3GkZ2itd8IIMG) | [Yellow](https://open.spotify.com/album/5Klb8K3CFOPAJgfPAupUKV) | 4:19 |
 | 70 | [Symptoms](https://open.spotify.com/track/5hc8GGmxu3BgKXSniNkrSP) | [Ms\. Black](https://open.spotify.com/artist/1mBBTF4wjXjlIDbXN77rxi) | [Symptoms](https://open.spotify.com/album/3irfLhqD8GeOS4rExK08EI) | 2:51 |
 | 71 | [Can I Have Ya Number?](https://open.spotify.com/track/3QVRa8jDHfAjH8TrIhfARQ) | [Prince LDJ](https://open.spotify.com/artist/4VaqTSzt4FF1Qz0e7fG5dT) | [Unfinished Business EP](https://open.spotify.com/album/4pCSzypjL7TBI6HgoMf2Wt) | 3:36 |
+| 72 | [Fuck Off](https://open.spotify.com/track/1Q01zHMDA70SNdcrUZxwIT) | [Black Grouse](https://open.spotify.com/artist/5jzQOtU6ojkmCHcQhffLk4) | [Fuck Off](https://open.spotify.com/album/0r2zCLxvtQdFeO4lIQlS6u) | 2:54 |
+| 73 | [Your Fault](https://open.spotify.com/track/0fblNVg8bUKfBoA4WPWth9) | [Ella Kenz](https://open.spotify.com/artist/5k0qIptpKEMpMlGx2wbE8e) | [Chronic Obsessions](https://open.spotify.com/album/78hy2PK22Ll9aZaJuU4fKj) | 3:03 |
 
-Snapshot ID: `AAAEad5mlY86HkWUSjI8Wnaz3d31vJVF`
+Snapshot ID: `AAAEa0PYkPp66cdMB26HFd/GVr71LB/6`

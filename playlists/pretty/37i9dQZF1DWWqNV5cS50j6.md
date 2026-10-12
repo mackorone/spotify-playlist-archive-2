@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Alternative indie music etc\. Cover: Thundercat
 
-[Spotify](https://open.spotify.com/user/spotify) - 732,251 likes - 76 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 732,231 likes - 76 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

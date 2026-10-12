@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlYsZJXqdym.md) - [plain]
 
 > Pure joy and then some
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,076,995 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,076,969 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlYsZJXqdym.md) - [plain]
 | 25 | [Super Graphic Ultra Modern Girl](https://open.spotify.com/track/4OLiPTQPgksvrf7eJTtYA3) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0XKconI47eiBP6qPYHsx9f) | 3:03 |
 | 26 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |
 | 27 | [Austin \(Boots Stop Workin'\)](https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e) | 2:51 |
-| 28 | [FEVER DREAM](https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [FEVER DREAM](https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ) | 2:33 |
-| 29 | [I Just Might](https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [I Just Might](https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih) | 3:32 |
+| 28 | [I Just Might](https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [I Just Might](https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih) | 3:32 |
+| 29 | [FEVER DREAM](https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [FEVER DREAM](https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ) | 2:33 |
 | 30 | [Who](https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 2:50 |
 | 31 | [House Tour](https://open.spotify.com/track/25jgQBxuUkGDdCG1WGKKN9) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:49 |
 | 32 | [Feels \(feat\. Pharrell Williams, Katy Perry & Big Sean\)](https://open.spotify.com/track/5bcTCxgc7xVfSaMV3RuVke) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Funk Wav](https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk) | [Funk Wav Bounces Vol.1](https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0) | 3:43 |
@@ -71,13 +71,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlYsZJXqdym.md) - [plain]
 | 61 | [15 Minutes](https://open.spotify.com/track/1zhvxTuSha22nsUT5Nw8gE) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet \(Deluxe\)](https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk) | 3:11 |
 | 62 | [What Was That](https://open.spotify.com/track/7hGCCQkdyF1MX6uk339uBS) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Virgin](https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ) | 3:29 |
 | 63 | [Dying for You](https://open.spotify.com/track/0T3sHoiR3t9HtwbIOgTI7J) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wuthering Heights](https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e) | 3:02 |
-| 64 | [Soup](https://open.spotify.com/track/1Wi1XpdZzGVIdRTzlTrIEF) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Big Ideas](https://open.spotify.com/album/7HQOEMCDGKY8eJyQPdsnYH) | 3:33 |
-| 65 | [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:53 |
+| 64 | [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:53 |
+| 65 | [Soup](https://open.spotify.com/track/1Wi1XpdZzGVIdRTzlTrIEF) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Big Ideas](https://open.spotify.com/album/7HQOEMCDGKY8eJyQPdsnYH) | 3:33 |
 | 66 | [New Religion](https://open.spotify.com/track/3TWpz0iK17gFlxWlIs3MIQ) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [New Religion](https://open.spotify.com/album/5HUiOVb2KWxcyxaADzceog) | 2:54 |
 | 67 | [Love Somebody](https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Love Somebody](https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep) | 3:24 |
 | 68 | [Double Life \- From "Despicable Me 4"](https://open.spotify.com/track/07oO1U722crtVcavi6frX6) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Double Life \(From "Despicable Me 4"\)](https://open.spotify.com/album/6k4sB6SP3ekH3iIhaDuUV4) | 3:10 |
-| 69 | [Too Much](https://open.spotify.com/track/6lKSOnC9iLGDonypMgvGrm) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Too Much](https://open.spotify.com/album/3vOE21VZf6cPqU98By3TOM) | 2:51 |
-| 70 | [Giving Me](https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Giving Me](https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc) | 2:49 |
+| 69 | [Giving Me](https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Giving Me](https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc) | 2:49 |
+| 70 | [Too Much](https://open.spotify.com/track/6lKSOnC9iLGDonypMgvGrm) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Too Much](https://open.spotify.com/album/3vOE21VZf6cPqU98By3TOM) | 2:51 |
 | 71 | [Crazy What Love Can Do](https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Crazy What Love Can Do](https://open.spotify.com/album/0GnxssqYa2RU9EdWHhZ707) | 2:49 |
 | 72 | [Hold Me Closer](https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Hold Me Closer](https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6) | 3:22 |
 | 73 | [These Words](https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [These Words](https://open.spotify.com/album/3boWgDZHAI5tHYwdLuMuwq) | 2:16 |

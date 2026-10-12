@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKdpN2FAbcN.md) - [plain]
 
 > When you're thinking of the one who gives you the butterflies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,856 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,955 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKdpN2FAbcN.md) - [plain]
 | 57 | [broken](https://open.spotify.com/track/6XcfKZvJio9Z0fQy11GnNX) | [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [finding it hard to smile](https://open.spotify.com/album/2AbPwLvpR0FwpqGt4ZY1q4) | 3:24 |
 | 58 | [Hands To Myself](https://open.spotify.com/track/1LoriJC05IrHIDwj3q0KC1) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Revival \(Deluxe\)](https://open.spotify.com/album/7lDBDk8OQarV5dBMu3qrdz) | 3:20 |
 | 59 | [Wildest Dreams \(Taylor's Version\)](https://open.spotify.com/track/1Ov37jtRQ2YNAe8HzfczkL) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Wildest Dreams \(Taylor's Version\)](https://open.spotify.com/album/5hxKw2PurC0i1VVJMAntDU) | 3:40 |
-| 60 | [Thinking 'bout You](https://open.spotify.com/track/6pxf2SRlRfBwnQKcUZCm2s) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Thinking 'bout You](https://open.spotify.com/album/6k4bQKHw4hU7spl0fobR63) | 2:20 |
-| 61 | [Hey Lover!](https://open.spotify.com/track/7rC3P7tpWriaC4hYWKwGQd) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE) | [Cyclones and Hey Lover](https://open.spotify.com/album/076hhK2bCjHhQJqWY7wRh0) | 2:42 |
+| 60 | [Hey Lover!](https://open.spotify.com/track/7rC3P7tpWriaC4hYWKwGQd) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE) | [Cyclones and Hey Lover](https://open.spotify.com/album/076hhK2bCjHhQJqWY7wRh0) | 2:42 |
+| 61 | [Thinking 'bout You](https://open.spotify.com/track/6pxf2SRlRfBwnQKcUZCm2s) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Thinking 'bout You](https://open.spotify.com/album/6k4bQKHw4hU7spl0fobR63) | 2:20 |
 | 62 | [Still into You](https://open.spotify.com/track/3SXXFIZel1VQQ4ENiqozxi) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore \(Deluxe Edition\)](https://open.spotify.com/album/7J2hXOVq8FZ367dTczV7oH) | 3:36 |
 | 63 | [Backyard Boy](https://open.spotify.com/track/04F42oEuKrRComYJfJuyVR) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Backyard Boy \(Stripped\)](https://open.spotify.com/album/4BXCJA3xYjgSk16CqK1Zrz) | 2:09 |
 | 64 | [I Wanna Be The One You Call](https://open.spotify.com/track/6CFJSaEwbJB9m8gCM8nksX) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [American Heart](https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw) | 3:01 |

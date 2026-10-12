@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 
 > A ponerse a tono con los mejores cumbiones\. Foto: Corazón Serrano, Maria Becerra
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,768 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,803 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 | 46 | [Propiedad Privada](https://open.spotify.com/track/4ryB3aHkRLR6Dao9xf7bCh) | [Grupo 5](https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6) | [Viva el Amor](https://open.spotify.com/album/6eXODfz6udhAGxmRNieHBn) | 3:33 |
 | 47 | [Algo de Mi](https://open.spotify.com/track/1BPtafg3QTReiTZlz4Lhix) | [Briyit y Su Banda](https://open.spotify.com/artist/1653vuBCsYsC9dtWE0HAeS) | [Sálvame](https://open.spotify.com/album/1xkomr3AT5INTVanUiprik) | 4:23 |
 | 48 | [Me Usas Y Me Dejas](https://open.spotify.com/track/5k603bqfQg0hYoeaISITQC) | [El Encanto De Corazón](https://open.spotify.com/artist/0e4mJsxNyor60CJ34EtJd2) | [Ámame Una Vez Más](https://open.spotify.com/album/7BbNDAJFfq8EYMLF0Vyp2G) | 4:41 |
-| 49 | [Mix Rocio Durcal: La Gata Bajo la Lluvia / Como Han Pasado los Años / Costumbres](https://open.spotify.com/track/5Vube3wJSuVrzTntOpCp2Y) | [Cielo Torres](https://open.spotify.com/artist/7AqX9JGo4WdLp5gPNSRoDJ), [Bryan Arambulo](https://open.spotify.com/artist/6q6LbyDaoIKIJh7b6STyhs) | [Mix Rocio Durcal: La Gata Bajo la Lluvia / Como Han Pasado los Años / Costumbres](https://open.spotify.com/album/2nxq09nZ3xzVxwXNEfhuG7) | 4:57 |
-| 50 | [La Caballita](https://open.spotify.com/track/57njETyUk3WXYhXiPSa74P) | [Los 5 de Oro](https://open.spotify.com/artist/6FOEcawuPvpdwjryvY2kI0) | [La Caballita](https://open.spotify.com/album/0a7Dnjb0Pzai5WcUxFy9xp) | 3:38 |
+| 49 | [La Caballita](https://open.spotify.com/track/57njETyUk3WXYhXiPSa74P) | [Los 5 de Oro](https://open.spotify.com/artist/6FOEcawuPvpdwjryvY2kI0) | [La Caballita](https://open.spotify.com/album/0a7Dnjb0Pzai5WcUxFy9xp) | 3:38 |
+| 50 | [Mix Rocio Durcal: La Gata Bajo la Lluvia / Como Han Pasado los Años / Costumbres](https://open.spotify.com/track/5Vube3wJSuVrzTntOpCp2Y) | [Cielo Torres](https://open.spotify.com/artist/7AqX9JGo4WdLp5gPNSRoDJ), [Bryan Arambulo](https://open.spotify.com/artist/6q6LbyDaoIKIJh7b6STyhs) | [Mix Rocio Durcal: La Gata Bajo la Lluvia / Como Han Pasado los Años / Costumbres](https://open.spotify.com/album/2nxq09nZ3xzVxwXNEfhuG7) | 4:57 |
 
 Snapshot ID: `AAAAAMBZyuMssxVVzFXiJxYso9oteWoW`

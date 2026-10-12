@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZEgBnamJNd.md) - [plain]
 
 > Allerbeste songs uit de 60's\. Cover: Shocking Blue
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,750 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,758 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,10 +21,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZEgBnamJNd.md) - [plain]
 | 11 | [At Last](https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 2:59 |
 | 12 | [California Dreamin' \- Single Version](https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [If You Can Believe Your Eyes & Ears](https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF) | 2:42 |
 | 13 | [Mrs\. Robinson \- From "The Graduate" Soundtrack](https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bookends](https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2) | 4:07 |
-| 14 | [Hey Jude \- Remastered 2009](https://open.spotify.com/track/3m7V717IKZqZLW5qUIOxdD) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles 1967 \- 1970 \(Remastered 2009\)](https://open.spotify.com/album/1cTeNkeINtXiaMLlashAKs) | 7:11 |
+| 14 | [I'm a Believer \- 2006 Remaster](https://open.spotify.com/track/3G7tRC24Uh09Hmp1KZ7LQ2) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [More of The Monkees \(Deluxe Edition\)](https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX) | 2:47 |
 | 15 | [Respect](https://open.spotify.com/track/7s25THrKz86DM225dOYwnr) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [I Never Loved a Man the Way I Love You](https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V) | 2:27 |
 | 16 | [I'd Rather Go Blind](https://open.spotify.com/track/1kPBT8S2wJFNAyBMnGVZgL) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Tell Mama](https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr) | 2:36 |
-| 17 | [I'm a Believer \- 2006 Remaster](https://open.spotify.com/track/3G7tRC24Uh09Hmp1KZ7LQ2) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [More of The Monkees \(Deluxe Edition\)](https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX) | 2:47 |
+| 17 | [Hey Jude \- Remastered 2009](https://open.spotify.com/track/3m7V717IKZqZLW5qUIOxdD) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles 1967 \- 1970 \(Remastered 2009\)](https://open.spotify.com/album/1cTeNkeINtXiaMLlashAKs) | 7:11 |
 | 18 | [That's Life](https://open.spotify.com/track/4FmCUATNIarCQh72JYdvnm) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [That's Life](https://open.spotify.com/album/3gNsjaUsu9cRckgUFx5NsY) | 3:07 |
 | 19 | [People Are Strange](https://open.spotify.com/track/1Jmqubf9kGkWeYQXQKImL5) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Strange Days](https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf) | 2:10 |
 | 20 | [Son Of A Preacher Man](https://open.spotify.com/track/6ek9SiEj5a65WIs2EV7qiM) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Dusty In Memphis](https://open.spotify.com/album/5FRB5oQaHxlDNe6gMGuzu2) | 2:28 |
@@ -93,11 +93,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZEgBnamJNd.md) - [plain]
 | 83 | [Turn Around And Start Again](https://open.spotify.com/track/4KQSyeFwXXYvdjFi9oPVJ8) | [The Cats](https://open.spotify.com/artist/4mplweFSgMgpH03ruEMEMv) | [Favorieten Expres](https://open.spotify.com/album/6vjJpzdtItQIK9FxJNnXs9) | 2:59 |
 | 84 | [The Green Manalishi \(With the Two Prong Crown\) \- 2013 Remaster](https://open.spotify.com/track/7nUVU3rsWpg4w01dahnAb9) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Then Play On \(2013 Remaster; Expanded Edition\)](https://open.spotify.com/album/5Z83CVFqNYSIoItAZVaHeR) | 4:36 |
 | 85 | [Anyone Who Had a Heart](https://open.spotify.com/track/4ARnPLLoQSZHDcucnuZdlr) | [Cilla Black](https://open.spotify.com/artist/3bCvHtuIXWXPbCMdSYudmZ) | [60's Pop Jukebox](https://open.spotify.com/album/3ZBHqU1ut0qnYVJGEqaBa2) | 2:51 |
-| 86 | [Ramona \(Englische Version\)](https://open.spotify.com/track/5zhoOwKWXYeHEIss16DK65) | [Blue Diamonds](https://open.spotify.com/artist/24Lps8ntSfwOszkZjDKhye) | [Ramona](https://open.spotify.com/album/39D5aGnLcMzH1PGVbh2iVk) | 2:34 |
-| 87 | [Travellin In The Usa](https://open.spotify.com/track/2uI9Y14I02IjcwnMTPE9Y3) | [Bintangs](https://open.spotify.com/artist/7MXtEuM6ObTPWY4oqjr2XJ) | [Travelling In The U.S.A.](https://open.spotify.com/album/5Tq6iaG37W6XUccYr47qIT) | 2:51 |
+| 86 | [Travellin In The Usa](https://open.spotify.com/track/2uI9Y14I02IjcwnMTPE9Y3) | [Bintangs](https://open.spotify.com/artist/7MXtEuM6ObTPWY4oqjr2XJ) | [Travelling In The U.S.A.](https://open.spotify.com/album/5Tq6iaG37W6XUccYr47qIT) | 2:51 |
+| 87 | [Ramona \(Englische Version\)](https://open.spotify.com/track/5zhoOwKWXYeHEIss16DK65) | [Blue Diamonds](https://open.spotify.com/artist/24Lps8ntSfwOszkZjDKhye) | [Ramona](https://open.spotify.com/album/39D5aGnLcMzH1PGVbh2iVk) | 2:34 |
 | 88 | [Lucy Lucy](https://open.spotify.com/track/1GxuFdqy4sypkNXMisSt6A) | [Amsterdam](https://open.spotify.com/artist/6TTSJIGLyzAX89uosF0Y6C) | [Golden Years Of Dutch Pop Music \- The Seventies Part 1](https://open.spotify.com/album/42oyZSne2OweDvqc6FbbXA) | 3:02 |
-| 89 | [Meester Prikkebeen \- Live In Paradiso](https://open.spotify.com/track/0uObHr02DToIyUOFtJ0xZF) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [Een Hele Tour \(Live 1669\-1997\)](https://open.spotify.com/album/5OBrTvVskylOXnZfCdLQsI) | 4:02 |
-| 90 | [Hi Ho Silver Lining \- First Stereo Mix](https://open.spotify.com/track/5l4N58q1RuZlvz6rzhsnmT) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [60s Icons](https://open.spotify.com/album/0Pnr1Qcf2SzEcFz6RnFYMC) | 3:18 |
+| 89 | [Hi Ho Silver Lining \- First Stereo Mix](https://open.spotify.com/track/5l4N58q1RuZlvz6rzhsnmT) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [60s Icons](https://open.spotify.com/album/0Pnr1Qcf2SzEcFz6RnFYMC) | 3:18 |
+| 90 | [Meester Prikkebeen \- Live In Paradiso](https://open.spotify.com/track/0uObHr02DToIyUOFtJ0xZF) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [Een Hele Tour \(Live 1669\-1997\)](https://open.spotify.com/album/5OBrTvVskylOXnZfCdLQsI) | 4:02 |
 | 91 | [World Of Birds](https://open.spotify.com/track/79BmVIS5V8haqoLTZhufXO) | [Q65](https://open.spotify.com/artist/2gaNCDWEC4FeANd9uJKelZ) | [Revolution](https://open.spotify.com/album/5NFeMu0ww7GFLk1qGWM3NJ) | 3:28 |
 | 92 | [Keep On Trying](https://open.spotify.com/track/6VSXC6SvYdypAhGbjAADZa) | [The Outsiders](https://open.spotify.com/artist/0GNQIRU9f9Zf2aQqErkDYu) | [Golden Years Of Dutch Pop Music](https://open.spotify.com/album/0yU3RDsvuuY2rtfmKUxDR8) | 2:58 |
 | 93 | [Adagio](https://open.spotify.com/track/1RaOhyXRMVEvK2OgRfuwp6) | [Ekseption](https://open.spotify.com/artist/6M0BcAcPSDpABYnNPf8oQE) | [Golden Years Of Dutch Pop Music](https://open.spotify.com/album/7eRovpHKZNEsz3keP5wT4J) | 3:45 |

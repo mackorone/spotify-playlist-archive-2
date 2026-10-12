@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Philippines.
 
-1,267 songs - 3 day 4 hr 52 min
+1,268 songs - 3 day 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -618,7 +618,7 @@
 | [Life Goes On](https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful: Shorter, Thicker & Uglier \(Deluxe\)](https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob) | 2:41 | 2021-09-05 | 2022-01-07 |
 | [Lifetime](https://open.spotify.com/track/3X9c4tBzSdGhlO4Fx3WYgW) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Lifetime](https://open.spotify.com/album/277CpjwmcdLZsHwXpj9D8H) | 2:51 | 2026-04-05 | 2026-05-13 |
 | [Lifetime \(Reimagined\)](https://open.spotify.com/track/2c5JKO8gPaOFVxQ0elwXEG) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Lifetime \(Reimagined\)](https://open.spotify.com/album/66mI9LxUO2orGDAKd5135x) | 4:38 | 2026-04-02 | 2026-09-26 |
-| [Lifetime \(Reimagined\)](https://open.spotify.com/track/6vdy4GJNemrTHWhXojtM8k) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Nine](https://open.spotify.com/album/1rTn3zCq7RQkG8qqfR4d8J) | 4:38 | 2026-09-25 |  |
+| [Lifetime \(Reimagined\)](https://open.spotify.com/track/6vdy4GJNemrTHWhXojtM8k) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Nine](https://open.spotify.com/album/1rTn3zCq7RQkG8qqfR4d8J) | 4:38 | 2026-09-25 | 2026-10-12 |
 | [Ligaya](https://open.spotify.com/track/3sJKnpDvliJ9OH4cORjatB) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Ligaya](https://open.spotify.com/album/0k85IwWv2bdmLKU9ZVgIEe) | 4:08 | 2021-12-23 | 2022-03-10 |
 | [Ligaya](https://open.spotify.com/track/4IeuTj1pEHuL9vJSiEqEfR) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Ligaya](https://open.spotify.com/album/0ccUyUkrIynFO5USku5IHH) | 4:08 | 2022-03-09 | 2023-05-13 |
 | [Light Switch](https://open.spotify.com/track/1BSMpVGWs3v5BZKnAQziAc) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Light Switch](https://open.spotify.com/album/6PBwTu4IgZMQNTKtrgxzZQ) | 3:05 | 2022-01-22 | 2022-02-06 |
@@ -674,7 +674,7 @@
 | [Magpahinga](https://open.spotify.com/track/4LBCCdHfmHm9NwerX6hvrz) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Magpahinga](https://open.spotify.com/album/2tHtWKI4qJNpDReAigDKzn) | 3:58 | 2021-05-16 | 2021-05-17 |
 | [Mahal Magmahal](https://open.spotify.com/track/0D5huw4lFGtUfCkf91rGvQ) | [Esremborak](https://open.spotify.com/artist/3LiUry0ss8UpPzbBmM9bDP) | [Mahal Magmahal](https://open.spotify.com/album/7FMzUetRt2XYjFEq1T5R0r) | 4:54 | 2026-08-16 | 2026-09-30 |
 | [Mahal Magmahal](https://open.spotify.com/track/2bUvJywMOR7c56E9xdioMm) | [Esremborak](https://open.spotify.com/artist/3LiUry0ss8UpPzbBmM9bDP) | [Mahal Magmahal](https://open.spotify.com/album/5Bai2MfbjMYpeAbOaqXWQ3) | 4:56 | 2026-09-29 |  |
-| [Mahika](https://open.spotify.com/track/2nqlM3gNBMi5Zf9MDzp2Xi) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2), [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Senaryo](https://open.spotify.com/album/5UNDk7qptf3EtMNoIh3w0k) | 3:21 | 2023-12-16 |  |
+| [Mahika](https://open.spotify.com/track/2nqlM3gNBMi5Zf9MDzp2Xi) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2), [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Senaryo](https://open.spotify.com/album/5UNDk7qptf3EtMNoIh3w0k) | 3:21 | 2023-12-16 | 2026-10-12 |
 | [Mahika](https://open.spotify.com/track/47sq83n5WN22ZzYnGn8aTy) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2), [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Mahika](https://open.spotify.com/album/3WaVt2pLL12vKhAwQgKld4) | 3:21 | 2022-06-13 | 2023-12-17 |
 | [Mahika](https://open.spotify.com/track/0Pafr67ogSuAur2L3DxB4b) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [Mahika](https://open.spotify.com/album/65PZ3P2MKJuSAVCMM9WWkA) | 3:30 | 2023-03-18 | 2025-02-14 |
 | [Makasarili Malambing](https://open.spotify.com/track/1c6hnvWjzUsJoypgwUV2sE) | [Kristina Dawn](https://open.spotify.com/artist/5Two5JCWeQdaAbGKUFQx8d), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Makasarili Malambing](https://open.spotify.com/album/07y0oEistR8d2JOwd5E67B) | 2:01 | 2024-01-01 | 2024-03-16 |
@@ -695,6 +695,7 @@
 | [Maroon](https://open.spotify.com/track/3eX0NZfLtGzoLUxPNvRfqm) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:38 | 2022-10-22 | 2022-12-11 |
 | [Mastermind](https://open.spotify.com/track/7FmYn9e7KHMXcxqGSj9LjH) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:11 | 2022-10-24 | 2022-11-19 |
 | [Mastermind](https://open.spotify.com/track/7zcJSflhqcSGICHUjgncnj) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/4moVP48t9bji7djUc5VOvi) | 3:11 | 2022-10-22 | 2022-10-24 |
+| [MATIKAS](https://open.spotify.com/track/3rhLse4xpSYpuXuvYOrOo6) | [Gat Putch](https://open.spotify.com/artist/641Pd0RfQQ81mnWu7Vlb8v), [Icetizy](https://open.spotify.com/artist/29HItbAuiAW54evQC60jOh), [Uncle Dags](https://open.spotify.com/artist/3RM6NEfGA58GBtXSUs3G5l), [Smugglaz](https://open.spotify.com/artist/2FvXtuMlYRrEkSF7kdAfFq) | [MATIKAS](https://open.spotify.com/album/2QTyml7RetBQsH6cUxnwoI) | 4:43 | 2026-10-11 |  |
 | [Maui Wowie](https://open.spotify.com/track/7uJUDd92ZfawO5clVSY0dq) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [The Boy Who Flew To The Moon \(Vol\. 1\)](https://open.spotify.com/album/4AOuaSsHC7Y0R7ovt98aEo) | 2:23 | 2026-01-01 | 2026-01-03 |
 | [Maybe The Night](https://open.spotify.com/track/1yDiru08Q6omDOGkZMPnei) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Maybe The Night](https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e) | 3:37 | 2021-03-27\* | 2021-07-20 |
 | [Maybe This Time \- From "Maybe This Time"](https://open.spotify.com/track/1uwg7BqqCx60EUA24WPB6c) | [Sarah Geronimo](https://open.spotify.com/artist/6aiCKnIN68hohzU3ZzNq48) | [Maybe This Time \(From "Maybe This Time"\)](https://open.spotify.com/album/27fFIXHvegHJjowS6uQ2a4) | 4:15 | 2024-08-11 | 2024-09-20 |
@@ -817,7 +818,7 @@
 | [Pa\-umaga](https://open.spotify.com/track/3U8MbjNAP56IrzpbEFn1qN) | [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Pa\-umaga](https://open.spotify.com/album/6d3mjDBVhzN8ianGFJsKKE) | 3:09 | 2023-05-07 | 2024-06-03 |
 | [Pag\-Ibig ay Kanibalismo II](https://open.spotify.com/track/1I44TjvgnOjZTxaGs0E44W) | [fitterkarma](https://open.spotify.com/artist/3tWAXoP37qDPvpAOnj7Zmr) | [kung tayo’y nasa isang horror na pelikula, tiyak ako ang una mong papatayin](https://open.spotify.com/album/6Z2NovhasdQJTeR7DjzoHu) | 3:27 | 2026-09-10 |  |
 | [Pag\-Ibig ay Kanibalismo II](https://open.spotify.com/track/410fyfFghBsxNu45LiNJ24) | [fitterkarma](https://open.spotify.com/artist/3tWAXoP37qDPvpAOnj7Zmr) | [Pag\-Ibig ay Kanibalismo II](https://open.spotify.com/album/2T523YMzbCSM86LYZDCZLI) | 3:27 | 2025-10-27 | 2026-09-11 |
-| [Pag\-ibig ng Ikaw at Ako](https://open.spotify.com/track/2DABJpDDPUaCWqZ9nMgkw4) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Himig at Pag\-ibig](https://open.spotify.com/album/4AxnZ4xJ266tS2n435qdMU) | 4:40 | 2026-01-05 | 2026-10-11 |
+| [Pag\-ibig ng Ikaw at Ako](https://open.spotify.com/track/2DABJpDDPUaCWqZ9nMgkw4) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Himig at Pag\-ibig](https://open.spotify.com/album/4AxnZ4xJ266tS2n435qdMU) | 4:40 | 2026-01-05 |  |
 | [Pagsamo](https://open.spotify.com/track/0WZqHCoOBXqgCCIsUZLC2a) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Pagsamo](https://open.spotify.com/album/668hRB0T4LU6a7HVspAMKy) | 4:57 | 2022-03-09 | 2026-03-20 |
 | [Pagsamo](https://open.spotify.com/track/34YfLWuoxLEcvJQNxdI9P2) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Pagsamo](https://open.spotify.com/album/2a4tsCtI450vuuBKJ3nSP2) | 4:57 | 2021-10-04 | 2022-03-10 |
 | [Pahina](https://open.spotify.com/track/0jGL1ApJ7QrVWL7nRqLdij) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Silakbo](https://open.spotify.com/album/2WOyuTsNHF90SryrS3kmIN) | 4:09 | 2025-09-16 | 2026-09-21 |

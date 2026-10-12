@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 
 > 深夜の読書、お酒を飲みながらネットサーフィン ....そんなリラックスタイムのお供に。
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,954 likes - 60 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,962 likes - 60 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,14 +59,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 | 49 | [Let Me Go](https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Let Me Go](https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D) | 3:36 |
 | 50 | [Over \[Feat\. Yebba\]](https://open.spotify.com/track/07vCZWjQXstwOCWLG6HYdg) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Black Radio III](https://open.spotify.com/album/0rLSX7OMtwRHDjjCWL6tHC) | 4:55 |
 | 51 | [SHUT YOUR DAMN 95.7892](https://open.spotify.com/track/3lCQOU4BWvyWhoNAKGoO6l) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [SHUT YOUR DAMN 95.7892](https://open.spotify.com/album/2BMDpo4X23IpQDqQYCBhDY) | 3:04 |
-| 52 | [You Retreat In Time And Space](https://open.spotify.com/track/5m3Uzjuiyj8656EGM1bwhk) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Inferno](https://open.spotify.com/album/0mu3EvWYfNwBfISSg0q03p) | 5:25 |
-| 53 | [Tell Me](https://open.spotify.com/track/1oKgrBYuFR7zq5k80OiwEe) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Tell Me](https://open.spotify.com/album/1bEGUR0TXyAEETEGIuRw0S) | 3:26 |
+| 52 | [Tell Me](https://open.spotify.com/track/1oKgrBYuFR7zq5k80OiwEe) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Tell Me](https://open.spotify.com/album/1bEGUR0TXyAEETEGIuRw0S) | 3:26 |
+| 53 | [You Retreat In Time And Space](https://open.spotify.com/track/5m3Uzjuiyj8656EGM1bwhk) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Inferno](https://open.spotify.com/album/0mu3EvWYfNwBfISSg0q03p) | 5:25 |
 | 54 | [I might say something stupid featuring the 1975 & jon hopkins](https://open.spotify.com/track/4l4OfcR9UPPT06BINAxbiA) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 4:10 |
 | 55 | [Wonder Woman](https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND](https://open.spotify.com/album/0kRBs6M0VbrourQ6fYbCiJ) | 2:48 |
 | 56 | [Birdcage](https://open.spotify.com/track/1ulB5740qjdSila4Vjnb7Z) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Cannot Be, Whatsoever](https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw) | 3:22 |
 | 57 | [Gold　～また逢う日まで～](https://open.spotify.com/track/6hasQfFdygcQow58WNA614) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Gold　～また逢う日まで～](https://open.spotify.com/album/2imXyePzAn9t5cfc9QWPwk) | 4:14 |
 | 58 | [IKAROS](https://open.spotify.com/track/4ct5cffZGIcSJ6P8iEToG2) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 3:38 |
-| 59 | [Continuum 3](https://open.spotify.com/track/0AXfx8KBcjY3TlrHmApvNr) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Endlessness](https://open.spotify.com/album/51CQQ3tQLRZlZJZ5jcpoGE) | 4:07 |
-| 60 | [Where I Go \(feat\. H.E.R.\)](https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Where I Go \(feat\. H.E.R.\)](https://open.spotify.com/album/1o8zUe3QYHV42SHSsg6ffu) | 3:21 |
+| 59 | [Where I Go \(feat\. H.E.R.\)](https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Where I Go \(feat\. H.E.R.\)](https://open.spotify.com/album/1o8zUe3QYHV42SHSsg6ffu) | 3:21 |
+| 60 | [Continuum 3](https://open.spotify.com/track/0AXfx8KBcjY3TlrHmApvNr) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Endlessness](https://open.spotify.com/album/51CQQ3tQLRZlZJZ5jcpoGE) | 4:07 |
 
 Snapshot ID: `AAAAAOwoA0pRTOM1q4E4uSNrwVquUSro`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33TpHq.md) - [plain]
 
 > This is Phil Wickham\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,281 likes - 49 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,303 likes - 49 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33TpHq.md) - [plain]
 | 42 | [Worthy of My Song \(Worthy of It All\)](https://open.spotify.com/track/4YFy1VOf7pV1PF6rSxiz1v) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Mav City Gospel Choir](https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Worthy of My Song \(Worthy of It All\)](https://open.spotify.com/album/4JVfmmlngccdWTflavCEyu) | 8:26 |
 | 43 | [Fear Has No Power](https://open.spotify.com/track/5Tsftbxui79a8Ccydcle46) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Fear Has No Power](https://open.spotify.com/album/6QKXUS981SnxMrwd6CkkOo) | 4:17 |
 | 44 | [Then Christ Came \(feat\. Phil Wickham\)](https://open.spotify.com/track/2lyhmdzDdJuXyKprsxCQ07) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q), [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Then Christ Came \(feat\. Phil Wickham\)](https://open.spotify.com/album/5kqEy21YLNAV9Oyy9x2gNJ) | 3:55 |
-| 45 | [Heaven Song](https://open.spotify.com/track/39yNGLlopJa3q3brHLUrlc) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Heaven & Earth](https://open.spotify.com/album/1REUtxsMboujnyPU1laW6v) | 4:04 |
-| 46 | [Divine / Sailing / Time / Hymn \- Acoustic](https://open.spotify.com/track/3Ia4fDeie06NoYMSnoipZV) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God Acoustic Sessions](https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU) | 7:44 |
+| 45 | [Divine / Sailing / Time / Hymn \- Acoustic](https://open.spotify.com/track/3Ia4fDeie06NoYMSnoipZV) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God Acoustic Sessions](https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU) | 7:44 |
+| 46 | [Heaven Song](https://open.spotify.com/track/39yNGLlopJa3q3brHLUrlc) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Heaven & Earth](https://open.spotify.com/album/1REUtxsMboujnyPU1laW6v) | 4:04 |
 | 47 | [People Of Heaven](https://open.spotify.com/track/4q5b4EHkkv2Zb2dgHZjt0z) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [People Of Heaven](https://open.spotify.com/album/0WpqACb5Wk8d3ze16Sod1D) | 4:12 |
 | 48 | [Till I Found You](https://open.spotify.com/track/5wrTjji1a7OkZfTo9TKesB) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Living Hope](https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv) | 4:00 |
 | 49 | [Living Hope](https://open.spotify.com/track/3Z9PzaSZbEPoQssPnQdbPx) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Peace, Vol\. II](https://open.spotify.com/album/0RbdblzaMNGge5MqeFAX9N) | 6:22 |

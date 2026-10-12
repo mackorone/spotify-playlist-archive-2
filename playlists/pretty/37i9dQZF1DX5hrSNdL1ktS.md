@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 
 > Mi gusto, mi estilo mi flow, puro perreo Mexa, bebé 🍑 Fuerza Regida bufando
 
-[Spotify](https://open.spotify.com/user/spotify) - 499,785 likes - 69 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 499,794 likes - 69 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

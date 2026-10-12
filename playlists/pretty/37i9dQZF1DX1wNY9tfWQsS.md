@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wNY9tfWQsS.md) - [plain]
 
 > A musical celebration of women in R&amp;B, from its earliest acts to its newest stars\. Cover: Erykah Badu
 
-[Spotify](https://open.spotify.com/user/spotify) - 777,816 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 777,846 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wNY9tfWQsS.md) - [plain]
 | 36 | [Love Galore \(feat\. Travis Scott\)](https://open.spotify.com/track/0q75NwOoFiARAVp4EXU4Bs) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 4:35 |
 | 37 | [Free Mind](https://open.spotify.com/track/2mzM4Y0Rnx2BDZqRnhQ5Q6) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [For Broken Ears](https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV) | 4:07 |
 | 38 | [Worth It.](https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:06 |
-| 39 | [Loveeeeeee Song](https://open.spotify.com/track/3DZQ6mzUkAdHqZWzqxBKIK) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2) | 4:16 |
-| 40 | [Killing Me Softly With His Song](https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Killing Me Softly](https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA) | 4:46 |
+| 39 | [Killing Me Softly With His Song](https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Killing Me Softly](https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA) | 4:46 |
+| 40 | [Loveeeeeee Song](https://open.spotify.com/track/3DZQ6mzUkAdHqZWzqxBKIK) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2) | 4:16 |
 | 41 | [So Into You](https://open.spotify.com/track/3c6afiysmB7OnxQzzSqRfD) | [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [Tamia](https://open.spotify.com/album/3PFEg7sWLEMuS3nyTIguEV) | 4:21 |
 | 42 | [We Belong Together](https://open.spotify.com/track/3LmvfNUQtglbTrydsdIqFU) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation of Mimi](https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo) | 3:21 |
 | 43 | [I'm Every Woman](https://open.spotify.com/track/1oFiPGBafH9Woo9AMwgBSl) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Chaka](https://open.spotify.com/album/2lvaLIoEg3hwL2dybu6zTC) | 4:09 |

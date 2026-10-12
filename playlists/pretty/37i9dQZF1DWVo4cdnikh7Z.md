@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 
 > New Music from Kollywood.<br/>Cover : Jailer 2
 
-[Spotify](https://open.spotify.com/user/spotify) - 767,424 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 767,502 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

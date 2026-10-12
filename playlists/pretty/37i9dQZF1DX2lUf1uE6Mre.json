@@ -1,6 +1,6 @@
 {
   "description": "Die Playlist zur Wasserpfeife. Cover: Shirin David, Summer Cem",
-  "num_followers": 907107,
+  "num_followers": 907067,
   "original_name": "Shisha Club",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,22 @@
     {
       "added_at": "2026-09-29 15:22:02",
       "album": {
+        "name": "Glastisch",
+        "url": "https://open.spotify.com/album/1K1XiAVE0qOwZQBFaYQpcw"
+      },
+      "artists": [
+        {
+          "name": "Makar",
+          "url": "https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN"
+        }
+      ],
+      "duration_ms": 171537,
+      "name": "Glastisch",
+      "url": "https://open.spotify.com/track/0h6Rex3lPLTAGotD2I6ZcS"
+    },
+    {
+      "added_at": "2026-09-29 15:22:02",
+      "album": {
         "name": "Love all night",
         "url": "https://open.spotify.com/album/2U8inedtU0YX3Von3qAsiU"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 169160,
       "name": "Love all night",
       "url": "https://open.spotify.com/track/5VCMfmkWKmROl2xnDA5wus"
-    },
-    {
-      "added_at": "2026-09-29 15:22:02",
-      "album": {
-        "name": "Glastisch",
-        "url": "https://open.spotify.com/album/1K1XiAVE0qOwZQBFaYQpcw"
-      },
-      "artists": [
-        {
-          "name": "Makar",
-          "url": "https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN"
-        }
-      ],
-      "duration_ms": 171537,
-      "name": "Glastisch",
-      "url": "https://open.spotify.com/track/0h6Rex3lPLTAGotD2I6ZcS"
     },
     {
       "added_at": "2026-09-29 15:22:02",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-09-29 15:22:02",
       "album": {
-        "name": "NOSTALGIA",
-        "url": "https://open.spotify.com/album/5Ek28c0ldJQUm5F1ueO2UQ"
-      },
-      "artists": [
-        {
-          "name": "RIN",
-          "url": "https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz"
-        }
-      ],
-      "duration_ms": 157079,
-      "name": "Blackberry",
-      "url": "https://open.spotify.com/track/5wGuX8TzM2KK6Ut6M5vKnv"
-    },
-    {
-      "added_at": "2026-09-29 15:22:02",
-      "album": {
         "name": "BLN",
         "url": "https://open.spotify.com/album/2288zNrhw0kUL63KSnhnmP"
       },
@@ -935,22 +919,18 @@
     {
       "added_at": "2026-09-29 15:22:02",
       "album": {
-        "name": "Sommernacht",
-        "url": "https://open.spotify.com/album/4Oxf9aFjAzv40XBaeUyaxw"
+        "name": "NOSTALGIA",
+        "url": "https://open.spotify.com/album/5Ek28c0ldJQUm5F1ueO2UQ"
       },
       "artists": [
         {
-          "name": "Lucry & Suena",
-          "url": "https://open.spotify.com/artist/4TPAWIeZhHw6CnsoPe9vxY"
-        },
-        {
-          "name": "Azet",
-          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
+          "name": "RIN",
+          "url": "https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz"
         }
       ],
-      "duration_ms": 201843,
-      "name": "Sommernacht",
-      "url": "https://open.spotify.com/track/6dOicOZllKNIPfVrQMxITC"
+      "duration_ms": 157079,
+      "name": "Blackberry",
+      "url": "https://open.spotify.com/track/5wGuX8TzM2KK6Ut6M5vKnv"
     },
     {
       "added_at": "2026-09-29 15:22:02",
@@ -971,6 +951,26 @@
       "duration_ms": 116444,
       "name": "FEELINGS",
       "url": "https://open.spotify.com/track/06gDGefw318uLsbZwD2lzC"
+    },
+    {
+      "added_at": "2026-09-29 15:22:02",
+      "album": {
+        "name": "Sommernacht",
+        "url": "https://open.spotify.com/album/4Oxf9aFjAzv40XBaeUyaxw"
+      },
+      "artists": [
+        {
+          "name": "Lucry & Suena",
+          "url": "https://open.spotify.com/artist/4TPAWIeZhHw6CnsoPe9vxY"
+        },
+        {
+          "name": "Azet",
+          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
+        }
+      ],
+      "duration_ms": 201843,
+      "name": "Sommernacht",
+      "url": "https://open.spotify.com/track/6dOicOZllKNIPfVrQMxITC"
     },
     {
       "added_at": "2026-09-29 15:22:02",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-09-29 15:22:02",
       "album": {
-        "name": "OMG",
-        "url": "https://open.spotify.com/album/0KDQpQwQ0pHjZIIj0emoOs"
-      },
-      "artists": [
-        {
-          "name": "badm\u00f3mzjay",
-          "url": "https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h"
-        }
-      ],
-      "duration_ms": 148952,
-      "name": "OMG",
-      "url": "https://open.spotify.com/track/6Mmk1gQiShUr1FH2RzSHrH"
-    },
-    {
-      "added_at": "2026-09-29 15:22:02",
-      "album": {
         "name": "PIRATE FR\u20ac\u20ac$T\u00a5L\u00a3",
         "url": "https://open.spotify.com/album/1PPrUd92XT9VMU6S6J02YN"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 123675,
       "name": "PIRATE FR\u20ac\u20ac$T\u00a5L\u00a3",
       "url": "https://open.spotify.com/track/1MTM3zSGU0ZLVOoVFHbO3q"
+    },
+    {
+      "added_at": "2026-09-29 15:22:02",
+      "album": {
+        "name": "OMG",
+        "url": "https://open.spotify.com/album/0KDQpQwQ0pHjZIIj0emoOs"
+      },
+      "artists": [
+        {
+          "name": "badm\u00f3mzjay",
+          "url": "https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h"
+        }
+      ],
+      "duration_ms": 148952,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/6Mmk1gQiShUr1FH2RzSHrH"
     },
     {
       "added_at": "2026-09-29 15:22:02",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-09-29 15:22:02",
       "album": {
-        "name": "MARIA",
-        "url": "https://open.spotify.com/album/3kmJhrjqaY1oLLxwfz4rtK"
-      },
-      "artists": [
-        {
-          "name": "Cave",
-          "url": "https://open.spotify.com/artist/2LAMcjEMXfL8mWohcAkCF9"
-        }
-      ],
-      "duration_ms": 151546,
-      "name": "MARIA",
-      "url": "https://open.spotify.com/track/4kasb5PYtJ4qTe8f4JxXnm"
-    },
-    {
-      "added_at": "2026-09-29 15:22:02",
-      "album": {
         "name": "My Love",
         "url": "https://open.spotify.com/album/7HBTUzOju45QlMB7Ke7ZxQ"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 128000,
       "name": "My Love",
       "url": "https://open.spotify.com/track/3bKMMAU72yWgIIT4ZRMFte"
+    },
+    {
+      "added_at": "2026-09-29 15:22:02",
+      "album": {
+        "name": "MARIA",
+        "url": "https://open.spotify.com/album/3kmJhrjqaY1oLLxwfz4rtK"
+      },
+      "artists": [
+        {
+          "name": "Cave",
+          "url": "https://open.spotify.com/artist/2LAMcjEMXfL8mWohcAkCF9"
+        }
+      ],
+      "duration_ms": 151546,
+      "name": "MARIA",
+      "url": "https://open.spotify.com/track/4kasb5PYtJ4qTe8f4JxXnm"
     },
     {
       "added_at": "2026-09-29 15:22:02",
@@ -1443,38 +1443,6 @@
     {
       "added_at": "2026-09-29 15:22:02",
       "album": {
-        "name": "Kein Limit",
-        "url": "https://open.spotify.com/album/2USNOEiTSgYcb6T280EN2O"
-      },
-      "artists": [
-        {
-          "name": "Aymen",
-          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
-        }
-      ],
-      "duration_ms": 121295,
-      "name": "Kein Limit",
-      "url": "https://open.spotify.com/track/2gBarw6vh2Mq2AzY9ya3CQ"
-    },
-    {
-      "added_at": "2026-09-29 15:22:02",
-      "album": {
-        "name": "PIANO REEZ (SRT)",
-        "url": "https://open.spotify.com/album/4DwlD841aeDpBPFZwMTN5J"
-      },
-      "artists": [
-        {
-          "name": "reezy",
-          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
-        }
-      ],
-      "duration_ms": 147721,
-      "name": "PIANO REEZ (SRT)",
-      "url": "https://open.spotify.com/track/1VQrgjJAcMg7tUwsw0N88n"
-    },
-    {
-      "added_at": "2026-09-29 15:22:02",
-      "album": {
         "name": "To The Sky",
         "url": "https://open.spotify.com/album/0thEH6s5KK3D4yJz1ss6Ep"
       },
@@ -1495,6 +1463,22 @@
     {
       "added_at": "2026-09-29 15:22:02",
       "album": {
+        "name": "PIANO REEZ (SRT)",
+        "url": "https://open.spotify.com/album/4DwlD841aeDpBPFZwMTN5J"
+      },
+      "artists": [
+        {
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
+        }
+      ],
+      "duration_ms": 147721,
+      "name": "PIANO REEZ (SRT)",
+      "url": "https://open.spotify.com/track/1VQrgjJAcMg7tUwsw0N88n"
+    },
+    {
+      "added_at": "2026-09-29 15:22:02",
+      "album": {
         "name": "Gasolina",
         "url": "https://open.spotify.com/album/1J1ZqguNMzfDpjw0t9uXT6"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 151165,
       "name": "Gasolina",
       "url": "https://open.spotify.com/track/4X1IZUzZupFxE0HRVPVTQ8"
+    },
+    {
+      "added_at": "2026-09-29 15:22:02",
+      "album": {
+        "name": "Kein Limit",
+        "url": "https://open.spotify.com/album/2USNOEiTSgYcb6T280EN2O"
+      },
+      "artists": [
+        {
+          "name": "Aymen",
+          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
+        }
+      ],
+      "duration_ms": 121295,
+      "name": "Kein Limit",
+      "url": "https://open.spotify.com/track/2gBarw6vh2Mq2AzY9ya3CQ"
     },
     {
       "added_at": "2026-09-29 15:22:02",

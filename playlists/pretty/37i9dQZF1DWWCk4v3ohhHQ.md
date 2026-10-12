@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCk4v3ohhHQ.md) - [plain]
 
 > The essential pop rock songs from the 2010s\. Cover: Coldplay.
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,043 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,067 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCk4v3ohhHQ.md) - [plain]
 | 14 | [Whatever It Takes](https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:21 |
 | 15 | [Sugar](https://open.spotify.com/track/2iuZJX9X9P0GKaE93xcPjk) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [V](https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI) | 3:55 |
 | 16 | [Best Day Of My Life](https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Oh, What A Life](https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv) | 3:14 |
-| 17 | [Ain't It Fun](https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 4:56 |
-| 18 | [Drive By](https://open.spotify.com/track/0KAiuUOrLTIkzkpfpn9jb9) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [California 37](https://open.spotify.com/album/5zseibu9WEsPaZmkJUMkz1) | 3:15 |
+| 17 | [Drive By](https://open.spotify.com/track/0KAiuUOrLTIkzkpfpn9jb9) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [California 37](https://open.spotify.com/album/5zseibu9WEsPaZmkJUMkz1) | 3:15 |
+| 18 | [Ain't It Fun](https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 4:56 |
 | 19 | [Natural](https://open.spotify.com/track/2FY7b99s15jUprqC0M5NCT) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Origins \(Deluxe\)](https://open.spotify.com/album/3JfSxDfmwS5OeHPwLSkrfr) | 3:09 |
 | 20 | [Stronger \(What Doesn't Kill You\)](https://open.spotify.com/track/1nInOsHbtotAmEOQhtvnzP) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Stronger \(Deluxe Version\)](https://open.spotify.com/album/0VmE95pr5TSpZWucfyhO5e) | 3:41 |
 | 21 | [My Songs Know What You Did In The Dark \(Light Em Up\)](https://open.spotify.com/track/2E43WFS4rRc09za2r2GmZl) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Save Rock And Roll](https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU) | 3:06 |

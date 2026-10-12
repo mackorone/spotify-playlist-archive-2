@@ -1,12 +1,12 @@
 {
   "description": "This is BIA. The essential tracks, all in one playlist.",
-  "num_followers": 16460,
+  "num_followers": 16466,
   "original_name": "This Is BIA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asbdAAAAAAAV4v+bj0846LXXfxC7cHwO",
+  "snapshot_id": "asgugAAAAAB9UQtQnzpFbr7IqDiaiyXm",
   "tracks": [
     {
       "added_at": null,
@@ -427,6 +427,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "WE ON GO III (feat. TiaCorine)",
+        "url": "https://open.spotify.com/album/7anCPgsODKsvaQqozZq00L"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "TiaCorine",
+          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
+        }
+      ],
+      "duration_ms": 165801,
+      "name": "WE ON GO III (feat. TiaCorine)",
+      "url": "https://open.spotify.com/track/6VT4Dnjd2OgBpwpzGMwo58"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Italiano",
         "url": "https://open.spotify.com/album/6mcfFvRK1uZEoCa6P1xuxl"
       },
@@ -543,26 +563,6 @@
       "duration_ms": 146597,
       "name": "CAN'T TOUCH THIS",
       "url": "https://open.spotify.com/track/1LJYn86ysceH708AIkw0VZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BIANCA (Deluxe)",
-        "url": "https://open.spotify.com/album/5DOdpNIiaOVADclW1K8dIN"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "TiaCorine",
-          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
-        }
-      ],
-      "duration_ms": 165801,
-      "name": "WE ON GO III (feat. TiaCorine)",
-      "url": "https://open.spotify.com/track/2wDKkCGz1JQfMaLgkERmcv"
     },
     {
       "added_at": null,
@@ -1055,34 +1055,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trampoline (feat. Missy Elliott, BIA and Doechii)",
-        "url": "https://open.spotify.com/album/1bFphUB9uHCPapPwdAxCWI"
+        "name": "BRING IT ON",
+        "url": "https://open.spotify.com/album/5ijUADIrfpFo27bLLMoR46"
       },
       "artists": [
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        },
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
         },
         {
           "name": "BIA",
           "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
         },
         {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+          "name": "Diarra Sylla",
+          "url": "https://open.spotify.com/artist/2EYuvkN3J1DP2LxiMOKrYS"
+        },
+        {
+          "name": "FIFA Sound",
+          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
         }
       ],
-      "duration_ms": 144796,
-      "name": "Trampoline (feat. Missy Elliott, BIA and Doechii)",
-      "url": "https://open.spotify.com/track/64Rn2oaQjAW6gIAjvukhWu"
+      "duration_ms": 214838,
+      "name": "BRING IT ON",
+      "url": "https://open.spotify.com/track/2p2o0ffbSvj91SHt1aFfIa"
     },
     {
       "added_at": null,

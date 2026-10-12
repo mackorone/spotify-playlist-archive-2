@@ -1,6 +1,6 @@
 {
   "description": "The hits you know like you\u2019ve never heard before. Cover: Alessia Cara",
-  "num_followers": 730440,
+  "num_followers": 730421,
   "original_name": "Spotify Singles: Hits",
   "owner": {
     "name": "Spotify",
@@ -733,6 +733,22 @@
       "url": "https://open.spotify.com/track/2GwGoL1XlvuYPd6LkZVYB7"
     },
     {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7xPNSOtnXFMOsTnvQrLeXH"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 206079,
+      "name": "Motivation - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/6vFifFwgq4Z3csFE6zi9Fd"
+    },
+    {
       "added_at": "2025-01-27 19:19:14",
       "album": {
         "name": "Spotify Singles",
@@ -752,17 +768,17 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7xPNSOtnXFMOsTnvQrLeXH"
+        "url": "https://open.spotify.com/album/2EMazBF6QXkOSpRSVg8Pdj"
       },
       "artists": [
         {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
         }
       ],
-      "duration_ms": 206079,
-      "name": "Motivation - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/6vFifFwgq4Z3csFE6zi9Fd"
+      "duration_ms": 261893,
+      "name": "The Best - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/7cBAltYsu55X4BgiOUjaSY"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -795,22 +811,6 @@
       "duration_ms": 215281,
       "name": "Not Over You - Recorded at Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/5hS4YR5CkE6YF5sH0d9boA"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2EMazBF6QXkOSpRSVg8Pdj"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 261893,
-      "name": "The Best - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/7cBAltYsu55X4BgiOUjaSY"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -1368,6 +1368,22 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3RH0hpUJfWcCNEjuypAtGC"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 161447,
+      "name": "So Good - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0qPpxUVTaEGbGsMCugG4JQ"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf"
       },
       "artists": [
@@ -1384,17 +1400,17 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3RH0hpUJfWcCNEjuypAtGC"
+        "url": "https://open.spotify.com/album/3Jee64Z2Wkkj9joT4qHT1l"
       },
       "artists": [
         {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
         }
       ],
-      "duration_ms": 161447,
-      "name": "So Good - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0qPpxUVTaEGbGsMCugG4JQ"
+      "duration_ms": 267802,
+      "name": "Versace On the Floor - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4PiQApOUbCc8sBb0ibobRJ"
     },
     {
       "added_at": "2023-11-07 18:53:41",
@@ -1411,22 +1427,6 @@
       "duration_ms": 248045,
       "name": "Billie Jean - Spotify Singles",
       "url": "https://open.spotify.com/track/32vQdI6FztUhEAkHW4Alul"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3Jee64Z2Wkkj9joT4qHT1l"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 267802,
-      "name": "Versace On the Floor - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4PiQApOUbCc8sBb0ibobRJ"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -1477,6 +1477,22 @@
       "url": "https://open.spotify.com/track/4oqJfELaUGTTAhpYP2HQGM"
     },
     {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "spotify singles",
+        "url": "https://open.spotify.com/album/4TXQYn8IgpqEsCsvSXiHTC"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "duration_ms": 208710,
+      "name": "feel good inc (bbno$ re-finessed) - spotify single",
+      "url": "https://open.spotify.com/track/4NRCIrvUCK8KBn4RXOB0Fa"
+    },
+    {
       "added_at": "2023-11-07 18:53:41",
       "album": {
         "name": "Spotify Singles",
@@ -1495,22 +1511,6 @@
       "duration_ms": 270264,
       "name": "Take Me To Church",
       "url": "https://open.spotify.com/track/0fVQEAJzB0WDLgS28zbECm"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "spotify singles",
-        "url": "https://open.spotify.com/album/4TXQYn8IgpqEsCsvSXiHTC"
-      },
-      "artists": [
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        }
-      ],
-      "duration_ms": 208710,
-      "name": "feel good inc (bbno$ re-finessed) - spotify single",
-      "url": "https://open.spotify.com/track/4NRCIrvUCK8KBn4RXOB0Fa"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -1772,22 +1772,6 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2GRYkXH7qkg1X0hOkrZdXZ"
-      },
-      "artists": [
-        {
-          "name": "Valley",
-          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
-        }
-      ],
-      "duration_ms": 177161,
-      "name": "There She Goes - Spotify Singles",
-      "url": "https://open.spotify.com/track/0bq8ODkNZMTm2B5WGpYjo4"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/76vwVXwTpLFl6FOFJGjPsg"
       },
       "artists": [
@@ -1799,6 +1783,22 @@
       "duration_ms": 292367,
       "name": "Crazy - Spotify Singles",
       "url": "https://open.spotify.com/track/11HrFfyr0btlPPBdGjqV7e"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2GRYkXH7qkg1X0hOkrZdXZ"
+      },
+      "artists": [
+        {
+          "name": "Valley",
+          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
+        }
+      ],
+      "duration_ms": 177161,
+      "name": "There She Goes - Spotify Singles",
+      "url": "https://open.spotify.com/track/0bq8ODkNZMTm2B5WGpYjo4"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -2031,6 +2031,22 @@
     {
       "added_at": "2023-01-11 19:54:48",
       "album": {
+        "name": "Wide Open Spaces - Spotify Singles",
+        "url": "https://open.spotify.com/album/14J7gZWOOBbG3LKtE0xs4t"
+      },
+      "artists": [
+        {
+          "name": "Tenille Arts",
+          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
+        }
+      ],
+      "duration_ms": 240224,
+      "name": "Wide Open Spaces - Spotify Singles",
+      "url": "https://open.spotify.com/track/5ZO6g6fEK9tsXNn2yqlzIr"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2nj1jLhRLutogV9qdEZpx4"
       },
@@ -2043,22 +2059,6 @@
       "duration_ms": 174094,
       "name": "Don't Let Me Down - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1RMwLHYjOOlf2EqiCwl6gI"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4iccPwuyNYH4ETLxhdchX6"
-      },
-      "artists": [
-        {
-          "name": "CHVRCHES",
-          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
-        }
-      ],
-      "duration_ms": 244315,
-      "name": "Stay - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/62Jyekez6V8uxcxxq5sxRE"
     }
   ],
   "unique_name": "Spotify Singles: Hits",

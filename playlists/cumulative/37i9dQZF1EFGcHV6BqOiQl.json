@@ -1183,6 +1183,28 @@
     },
     {
       "album": {
+        "name": "9",
+        "url": "https://open.spotify.com/album/1fHRY61FCATcIMjN0DPtdm"
+      },
+      "artists": [
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2026-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177565,
+      "name": "treat u right",
+      "url": "https://open.spotify.com/track/2SKuiB4czNhIdk8Ng0DoRn"
+    },
+    {
+      "album": {
         "name": "treat u right",
         "url": "https://open.spotify.com/album/40A1rVfEkPBAri7GV6iCZE"
       },
@@ -1198,7 +1220,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 177565,
       "name": "treat u right",
       "url": "https://open.spotify.com/track/38Mnfr1l5t2kckdzoJuXTl"

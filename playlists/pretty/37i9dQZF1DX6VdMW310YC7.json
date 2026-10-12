@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 4017549,
+  "num_followers": 4017441,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,18 @@
     {
       "added_at": "2026-10-09 04:02:16",
       "album": {
-        "name": "Manhattan",
-        "url": "https://open.spotify.com/album/08aHhaSaB4nkfoQ9Md0k7m"
+        "name": "Palm Of Your Hands",
+        "url": "https://open.spotify.com/album/1yLtTqA4d5uJroIi4WBRpM"
       },
       "artists": [
         {
-          "name": "Carlita",
-          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
-        },
-        {
-          "name": "SOFI TUKKER",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
         }
       ],
-      "duration_ms": 215062,
-      "name": "Manhattan",
-      "url": "https://open.spotify.com/track/0x4hqWguXOxlO1sEwVXB7V"
+      "duration_ms": 205063,
+      "name": "Palm Of Your Hands",
+      "url": "https://open.spotify.com/track/2tYfPquoioikwqPSIotQAf"
     },
     {
       "added_at": "2026-10-09 04:02:16",
@@ -215,18 +211,22 @@
     {
       "added_at": "2026-10-09 04:02:16",
       "album": {
-        "name": "Sweet Release",
-        "url": "https://open.spotify.com/album/4zTXYBo17dUAANAVmiJLtO"
+        "name": "Manhattan",
+        "url": "https://open.spotify.com/album/08aHhaSaB4nkfoQ9Md0k7m"
       },
       "artists": [
         {
-          "name": "Nu Aspect",
-          "url": "https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT"
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        },
+        {
+          "name": "SOFI TUKKER",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
         }
       ],
-      "duration_ms": 226101,
-      "name": "Sweet Release",
-      "url": "https://open.spotify.com/track/0C6Sbwuo42ebcvGWeWCSEq"
+      "duration_ms": 215062,
+      "name": "Manhattan",
+      "url": "https://open.spotify.com/track/0x4hqWguXOxlO1sEwVXB7V"
     },
     {
       "added_at": "2026-10-09 04:02:16",
@@ -247,18 +247,18 @@
     {
       "added_at": "2026-10-09 04:02:16",
       "album": {
-        "name": "Palm Of Your Hands",
-        "url": "https://open.spotify.com/album/1yLtTqA4d5uJroIi4WBRpM"
+        "name": "Sweet Release",
+        "url": "https://open.spotify.com/album/4zTXYBo17dUAANAVmiJLtO"
       },
       "artists": [
         {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+          "name": "Nu Aspect",
+          "url": "https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT"
         }
       ],
-      "duration_ms": 205063,
-      "name": "Palm Of Your Hands",
-      "url": "https://open.spotify.com/track/2tYfPquoioikwqPSIotQAf"
+      "duration_ms": 226101,
+      "name": "Sweet Release",
+      "url": "https://open.spotify.com/track/0C6Sbwuo42ebcvGWeWCSEq"
     },
     {
       "added_at": "2026-10-09 04:02:16",
@@ -379,26 +379,6 @@
     {
       "added_at": "2026-10-09 04:02:16",
       "album": {
-        "name": "Lost In The Woods",
-        "url": "https://open.spotify.com/album/5jKMnxhWTDmF8lV6tSU0ax"
-      },
-      "artists": [
-        {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
-        },
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        }
-      ],
-      "duration_ms": 183934,
-      "name": "Lost In The Woods",
-      "url": "https://open.spotify.com/track/3USL3vqTBzGdm1SR8T8BZx"
-    },
-    {
-      "added_at": "2026-10-09 04:02:16",
-      "album": {
         "name": "3 Days Later",
         "url": "https://open.spotify.com/album/5ClUY27aMSWKKIjaP2ybg4"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 333658,
       "name": "3 Days Later",
       "url": "https://open.spotify.com/track/0divWrAf5awgfmCGyWhZ3j"
+    },
+    {
+      "added_at": "2026-10-09 04:02:16",
+      "album": {
+        "name": "Lost In The Woods",
+        "url": "https://open.spotify.com/album/5jKMnxhWTDmF8lV6tSU0ax"
+      },
+      "artists": [
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        },
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "duration_ms": 183934,
+      "name": "Lost In The Woods",
+      "url": "https://open.spotify.com/track/3USL3vqTBzGdm1SR8T8BZx"
     },
     {
       "added_at": "2026-10-09 04:02:16",
@@ -475,26 +475,6 @@
     {
       "added_at": "2026-10-09 04:02:16",
       "album": {
-        "name": "Coming Home",
-        "url": "https://open.spotify.com/album/79BvQiisRxhMJd80E0KhbC"
-      },
-      "artists": [
-        {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
-        },
-        {
-          "name": "rhys from the sticks",
-          "url": "https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa"
-        }
-      ],
-      "duration_ms": 188595,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/7cNlP8j97DxWC6rG9ZCSCj"
-    },
-    {
-      "added_at": "2026-10-09 04:02:16",
-      "album": {
         "name": "EVERYTHING IN ITS RIGHT PLACE",
         "url": "https://open.spotify.com/album/3fQHrYU8bgPG5Gci6y6sjV"
       },
@@ -523,6 +503,26 @@
       "duration_ms": 302044,
       "name": "EVERYTHING IN ITS RIGHT PLACE",
       "url": "https://open.spotify.com/track/03p9MCjq5ld1kRmqCGNXgs"
+    },
+    {
+      "added_at": "2026-10-09 04:02:16",
+      "album": {
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/79BvQiisRxhMJd80E0KhbC"
+      },
+      "artists": [
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        },
+        {
+          "name": "rhys from the sticks",
+          "url": "https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa"
+        }
+      ],
+      "duration_ms": 188595,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/7cNlP8j97DxWC6rG9ZCSCj"
     },
     {
       "added_at": "2026-10-09 04:02:16",
@@ -579,6 +579,26 @@
     {
       "added_at": "2026-10-09 04:02:16",
       "album": {
+        "name": "WIDE AWAKE",
+        "url": "https://open.spotify.com/album/1cuYuhlcRa6TomHkICwTL6"
+      },
+      "artists": [
+        {
+          "name": "me n \u00fc",
+          "url": "https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f"
+        },
+        {
+          "name": "Sandro Cavazza",
+          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "WIDE AWAKE",
+      "url": "https://open.spotify.com/track/4YX65szuyA3cu2EGMdIrRo"
+    },
+    {
+      "added_at": "2026-10-09 04:02:16",
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/3OQZaCnc8B6JxWyuZkCTI9"
       },
@@ -599,26 +619,6 @@
     {
       "added_at": "2026-10-09 04:02:16",
       "album": {
-        "name": "Caught Up In The Fire",
-        "url": "https://open.spotify.com/album/6stjuO04Rw5O2xqog9u8dA"
-      },
-      "artists": [
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        },
-        {
-          "name": "JONAH",
-          "url": "https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4"
-        }
-      ],
-      "duration_ms": 223538,
-      "name": "Caught Up In The Fire",
-      "url": "https://open.spotify.com/track/1cskXAWztObojI6r2j60Al"
-    },
-    {
-      "added_at": "2026-10-09 04:02:16",
-      "album": {
         "name": "Stay Now",
         "url": "https://open.spotify.com/album/0EZ6dMa4OWDZdrcm5MLesY"
       },
@@ -635,6 +635,26 @@
       "duration_ms": 208484,
       "name": "Stay Now",
       "url": "https://open.spotify.com/track/0JG0XzJeONILCRHgKDJX1s"
+    },
+    {
+      "added_at": "2026-10-09 04:02:16",
+      "album": {
+        "name": "Caught Up In The Fire",
+        "url": "https://open.spotify.com/album/6stjuO04Rw5O2xqog9u8dA"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        },
+        {
+          "name": "JONAH",
+          "url": "https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4"
+        }
+      ],
+      "duration_ms": 223538,
+      "name": "Caught Up In The Fire",
+      "url": "https://open.spotify.com/track/1cskXAWztObojI6r2j60Al"
     },
     {
       "added_at": "2026-10-09 04:02:16",
@@ -699,26 +719,6 @@
     {
       "added_at": "2026-10-09 04:02:16",
       "album": {
-        "name": "WIDE AWAKE",
-        "url": "https://open.spotify.com/album/1cuYuhlcRa6TomHkICwTL6"
-      },
-      "artists": [
-        {
-          "name": "me n \u00fc",
-          "url": "https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f"
-        },
-        {
-          "name": "Sandro Cavazza",
-          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "WIDE AWAKE",
-      "url": "https://open.spotify.com/track/4YX65szuyA3cu2EGMdIrRo"
-    },
-    {
-      "added_at": "2026-10-09 04:02:16",
-      "album": {
         "name": "As Soon As I Get Home",
         "url": "https://open.spotify.com/album/3E5N8NPp69VJcFROhdxJw7"
       },
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-10-09 04:02:16",
       "album": {
-        "name": "Threads",
-        "url": "https://open.spotify.com/album/0pqpfxmoT9HhcZMmMPraRE"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 313152,
-      "name": "Threads",
-      "url": "https://open.spotify.com/track/6uDOlnBhgzWqfYD4BZctJL"
-    },
-    {
-      "added_at": "2026-10-09 04:02:16",
-      "album": {
         "name": "Here Again / Wild Again",
         "url": "https://open.spotify.com/album/35HNH9ADGwhR3A1Ok8ahSd"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 227069,
       "name": "Here Again",
       "url": "https://open.spotify.com/track/5ds1pxspUBAlYro772BO4x"
+    },
+    {
+      "added_at": "2026-10-09 04:02:16",
+      "album": {
+        "name": "Threads",
+        "url": "https://open.spotify.com/album/0pqpfxmoT9HhcZMmMPraRE"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 313152,
+      "name": "Threads",
+      "url": "https://open.spotify.com/track/6uDOlnBhgzWqfYD4BZctJL"
     },
     {
       "added_at": "2026-10-09 04:02:16",
@@ -831,6 +831,26 @@
     {
       "added_at": "2026-10-09 04:02:16",
       "album": {
+        "name": "Smiling Through The Pain 3",
+        "url": "https://open.spotify.com/album/7btqsflspTMMLYmW7v15Z6"
+      },
+      "artists": [
+        {
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        },
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        }
+      ],
+      "duration_ms": 159325,
+      "name": "Stay Cool",
+      "url": "https://open.spotify.com/track/2415eI6C0m7OXK7J7vfdWv"
+    },
+    {
+      "added_at": "2026-10-09 04:02:16",
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/66nEONspKcrUL2BiKo0U4t"
       },
@@ -871,22 +891,6 @@
     {
       "added_at": "2026-10-09 04:02:16",
       "album": {
-        "name": "Make Me Feel",
-        "url": "https://open.spotify.com/album/1c6Y4gCvI7Ey2M07Ahvwva"
-      },
-      "artists": [
-        {
-          "name": "oskar med k",
-          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "Make Me Feel",
-      "url": "https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8"
-    },
-    {
-      "added_at": "2026-10-09 04:02:16",
-      "album": {
         "name": "BLINK",
         "url": "https://open.spotify.com/album/208DpMdWSWLhr1J0vvvkPF"
       },
@@ -903,6 +907,22 @@
       "duration_ms": 237938,
       "name": "Keep Love Waiting",
       "url": "https://open.spotify.com/track/4hPyD1hj9UI0aUXsgJx0uh"
+    },
+    {
+      "added_at": "2026-10-09 04:02:16",
+      "album": {
+        "name": "Make Me Feel",
+        "url": "https://open.spotify.com/album/1c6Y4gCvI7Ey2M07Ahvwva"
+      },
+      "artists": [
+        {
+          "name": "oskar med k",
+          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
+        }
+      ],
+      "duration_ms": 186240,
+      "name": "Make Me Feel",
+      "url": "https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8"
     },
     {
       "added_at": "2026-10-09 04:02:16",
@@ -1043,26 +1063,6 @@
       "duration_ms": 199160,
       "name": "Felt (feat. Henry Green)",
       "url": "https://open.spotify.com/track/6aZdYHEp6dkDOczK60y41d"
-    },
-    {
-      "added_at": "2026-10-09 04:02:16",
-      "album": {
-        "name": "Smiling Through The Pain 3",
-        "url": "https://open.spotify.com/album/7btqsflspTMMLYmW7v15Z6"
-      },
-      "artists": [
-        {
-          "name": "Swimming Paul",
-          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
-        },
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        }
-      ],
-      "duration_ms": 159325,
-      "name": "Stay Cool",
-      "url": "https://open.spotify.com/track/2415eI6C0m7OXK7J7vfdWv"
     },
     {
       "added_at": "2026-10-09 04:02:16",
@@ -1275,22 +1275,26 @@
     {
       "added_at": "2026-10-09 04:02:16",
       "album": {
-        "name": "Return to Ojai",
-        "url": "https://open.spotify.com/album/5HiSFg20JTQ5KTcD5Xsini"
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/2YBVdVWIfh2qMHIwczlmdE"
       },
       "artists": [
         {
-          "name": "Catching Flies",
-          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+          "name": "Audien",
+          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
         },
         {
-          "name": "TEED",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        },
+        {
+          "name": "Rosie Darling",
+          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
         }
       ],
-      "duration_ms": 259480,
-      "name": "Return to Ojai",
-      "url": "https://open.spotify.com/track/3g70GmoZQlHPOTIkPUxLd9"
+      "duration_ms": 212000,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/33Q6yV1CVOkgeqKmtjnWUE"
     },
     {
       "added_at": "2026-10-09 04:02:16",
@@ -1315,26 +1319,22 @@
     {
       "added_at": "2026-10-09 04:02:16",
       "album": {
-        "name": "Bittersweet",
-        "url": "https://open.spotify.com/album/2YBVdVWIfh2qMHIwczlmdE"
+        "name": "Return to Ojai",
+        "url": "https://open.spotify.com/album/5HiSFg20JTQ5KTcD5Xsini"
       },
       "artists": [
         {
-          "name": "Audien",
-          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
         },
         {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        },
-        {
-          "name": "Rosie Darling",
-          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
+          "name": "TEED",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
         }
       ],
-      "duration_ms": 212000,
-      "name": "Bittersweet",
-      "url": "https://open.spotify.com/track/33Q6yV1CVOkgeqKmtjnWUE"
+      "duration_ms": 259480,
+      "name": "Return to Ojai",
+      "url": "https://open.spotify.com/track/3g70GmoZQlHPOTIkPUxLd9"
     },
     {
       "added_at": "2026-10-09 04:02:16",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2026-10-09 04:02:16",
       "album": {
+        "name": "Call You Mine",
+        "url": "https://open.spotify.com/album/7iXSdSRYkTLShwvWdy2mbH"
+      },
+      "artists": [
+        {
+          "name": "HNE",
+          "url": "https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP"
+        }
+      ],
+      "duration_ms": 209696,
+      "name": "Call You Mine",
+      "url": "https://open.spotify.com/track/6qG5GRLvLtpT7uajaQO8UO"
+    },
+    {
+      "added_at": "2026-10-09 04:02:16",
+      "album": {
         "name": "Rabbit Hole",
         "url": "https://open.spotify.com/album/4DRQYxf3qpxyiMkKuPIcU2"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 251303,
       "name": "Rabbit Hole",
       "url": "https://open.spotify.com/track/7IdzWFKqSfRJnWesOlaeuW"
-    },
-    {
-      "added_at": "2026-10-09 04:02:16",
-      "album": {
-        "name": "Call You Mine",
-        "url": "https://open.spotify.com/album/7iXSdSRYkTLShwvWdy2mbH"
-      },
-      "artists": [
-        {
-          "name": "HNE",
-          "url": "https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP"
-        }
-      ],
-      "duration_ms": 209696,
-      "name": "Call You Mine",
-      "url": "https://open.spotify.com/track/6qG5GRLvLtpT7uajaQO8UO"
     },
     {
       "added_at": "2026-10-09 04:02:16",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2026-10-09 04:02:16",
       "album": {
-        "name": "Have It All",
-        "url": "https://open.spotify.com/album/739Rj4q2KEERTlzzF7eIpT"
-      },
-      "artists": [
-        {
-          "name": "ANDREA CALABRIA",
-          "url": "https://open.spotify.com/artist/4WDwArKRmrfTM3xqu8HiA1"
-        }
-      ],
-      "duration_ms": 213750,
-      "name": "Have It All",
-      "url": "https://open.spotify.com/track/2A0BUJTl2JAja9lv64KRJg"
-    },
-    {
-      "added_at": "2026-10-09 04:02:16",
-      "album": {
         "name": "Light up my dark",
         "url": "https://open.spotify.com/album/29f7ve7ZoQdX6GXA1nJpwA"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 208937,
       "name": "Light up my dark",
       "url": "https://open.spotify.com/track/7rjw941RoxmJD9v4nuPUQW"
+    },
+    {
+      "added_at": "2026-10-09 04:02:16",
+      "album": {
+        "name": "Have It All",
+        "url": "https://open.spotify.com/album/739Rj4q2KEERTlzzF7eIpT"
+      },
+      "artists": [
+        {
+          "name": "ANDREA CALABRIA",
+          "url": "https://open.spotify.com/artist/4WDwArKRmrfTM3xqu8HiA1"
+        }
+      ],
+      "duration_ms": 213750,
+      "name": "Have It All",
+      "url": "https://open.spotify.com/track/2A0BUJTl2JAja9lv64KRJg"
     },
     {
       "added_at": "2026-10-09 04:02:16",
@@ -1739,6 +1739,26 @@
     {
       "added_at": "2026-10-09 04:02:16",
       "album": {
+        "name": "Hiding / Shallow Water",
+        "url": "https://open.spotify.com/album/5MnHelNE4WCTWIMFV6x2jD"
+      },
+      "artists": [
+        {
+          "name": "Steven Weston",
+          "url": "https://open.spotify.com/artist/7zxRSonZpfxzpY2S4Cse4U"
+        },
+        {
+          "name": "Claxy",
+          "url": "https://open.spotify.com/artist/6bkGiWj2DzRkZ0S3QPqCw2"
+        }
+      ],
+      "duration_ms": 232130,
+      "name": "Hiding",
+      "url": "https://open.spotify.com/track/02U8C8WsPKixJYVQaeV9iF"
+    },
+    {
+      "added_at": "2026-10-09 04:02:16",
+      "album": {
         "name": "The Thought of You",
         "url": "https://open.spotify.com/album/6d0iQSicRabPDucJ2YspZD"
       },
@@ -1759,22 +1779,18 @@
     {
       "added_at": "2026-10-09 04:02:16",
       "album": {
-        "name": "Hiding / Shallow Water",
-        "url": "https://open.spotify.com/album/5MnHelNE4WCTWIMFV6x2jD"
+        "name": "Melancholia",
+        "url": "https://open.spotify.com/album/552EhYcIuLGbNHy8hc77Gb"
       },
       "artists": [
         {
-          "name": "Steven Weston",
-          "url": "https://open.spotify.com/artist/7zxRSonZpfxzpY2S4Cse4U"
-        },
-        {
-          "name": "Claxy",
-          "url": "https://open.spotify.com/artist/6bkGiWj2DzRkZ0S3QPqCw2"
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
         }
       ],
-      "duration_ms": 232130,
-      "name": "Hiding",
-      "url": "https://open.spotify.com/track/02U8C8WsPKixJYVQaeV9iF"
+      "duration_ms": 209899,
+      "name": "Melancholia",
+      "url": "https://open.spotify.com/track/6zhY7CX2x0fMlpEYWVwHwa"
     },
     {
       "added_at": "2026-10-09 04:02:16",
@@ -1799,22 +1815,6 @@
       "duration_ms": 256000,
       "name": "feeling something",
       "url": "https://open.spotify.com/track/1Sp9umOnqKXjsqhELwazBY"
-    },
-    {
-      "added_at": "2026-10-09 04:02:16",
-      "album": {
-        "name": "Melancholia",
-        "url": "https://open.spotify.com/album/552EhYcIuLGbNHy8hc77Gb"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        }
-      ],
-      "duration_ms": 209899,
-      "name": "Melancholia",
-      "url": "https://open.spotify.com/track/6zhY7CX2x0fMlpEYWVwHwa"
     },
     {
       "added_at": "2026-10-09 04:02:16",

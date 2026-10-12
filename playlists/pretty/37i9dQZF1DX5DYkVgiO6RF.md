@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DYkVgiO6RF.md) - [plain]
 
 > all cruise, no breaks
 
-[Spotify](https://open.spotify.com/user/spotify) - 697,868 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 697,967 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DYkVgiO6RF.md) - [plain]
 | 21 | [Teenage Fever](https://open.spotify.com/track/6n3HGiq4v35D6eFOSwqYuo) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [More Life](https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK) | 3:39 |
 | 22 | [NEW DROP](https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 3:37 |
 | 23 | [ARE WE STILL FRIENDS?](https://open.spotify.com/track/5TxRUOsGeWeRl3xOML59Ai) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 4:25 |
-| 24 | [Need to Know](https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:30 |
-| 25 | [Drowning \(feat\. Kodak Black\)](https://open.spotify.com/track/1f5cbQtDrykjarZVrShaDI) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [The Bigger Artist](https://open.spotify.com/album/3HHp5I6Q6SEyU5bkvoCtnV) | 3:29 |
+| 24 | [Drowning \(feat\. Kodak Black\)](https://open.spotify.com/track/1f5cbQtDrykjarZVrShaDI) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [The Bigger Artist](https://open.spotify.com/album/3HHp5I6Q6SEyU5bkvoCtnV) | 3:29 |
+| 25 | [Need to Know](https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:30 |
 | 26 | [a lot](https://open.spotify.com/track/2t8yVaLvJ0RenpXUIAC52d) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [i am > i was](https://open.spotify.com/album/007DWn799UWvfY1wwZeENR) | 4:48 |
 | 27 | [Girl With The Tattoo Enter.lewd](https://open.spotify.com/track/1eUGmzzvahJjOSWgDHuRlv) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 1:42 |
 | 28 | [Violent Crimes](https://open.spotify.com/track/3s7MCdXyWmwjdcWh7GWXas) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [ye](https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe) | 3:35 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DYkVgiO6RF.md) - [plain]
 | 44 | [Small Worlds](https://open.spotify.com/track/4gT3mNJA8lnlkYFqGZ8IA2) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Swimming](https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk) | 4:31 |
 | 45 | [Wine Pon You \(feat\. Konshens\)](https://open.spotify.com/track/2s4AcE9n80mSHl87lp4gIm) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Amala](https://open.spotify.com/album/54tInqO543zy0Y5F2VsUQI) | 3:39 |
 | 46 | [Jocelyn Flores](https://open.spotify.com/track/7m9OqQk4RVRkw9JJdeAw96) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 1:59 |
-| 47 | [Veridis Quo](https://open.spotify.com/track/2LD2gT7gwAurzdQDQtILds) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 5:45 |
-| 48 | [Goth](https://open.spotify.com/track/0uMZbmAAgOhdMrv25iPEH6) | [Sidewalks and Skeletons](https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1) | [White Light](https://open.spotify.com/album/0Iq6APTGuGPe875jV0rIw2) | 3:27 |
+| 47 | [Goth](https://open.spotify.com/track/0uMZbmAAgOhdMrv25iPEH6) | [Sidewalks and Skeletons](https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1) | [White Light](https://open.spotify.com/album/0Iq6APTGuGPe875jV0rIw2) | 3:27 |
+| 48 | [Veridis Quo](https://open.spotify.com/track/2LD2gT7gwAurzdQDQtILds) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 5:45 |
 | 49 | [Big Dawgs](https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45) | [Big Dawgs](https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD) | 3:10 |
 | 50 | [Playing Games \(with Bryson Tiller\) \- Extended Version](https://open.spotify.com/track/2xyx0o4xNOLLjBSbOOdcbA) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 2:23 |
 

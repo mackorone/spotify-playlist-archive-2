@@ -1,6 +1,6 @@
 {
   "description": "Explore the great works of Maurice Ravel.",
-  "num_followers": 76749,
+  "num_followers": 76769,
   "original_name": "This Is Ravel",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,26 @@
     {
       "added_at": "2025-12-22 11:30:42",
       "album": {
+        "name": "Ravel and Shostakovich: Piano Trios",
+        "url": "https://open.spotify.com/album/0gP966H4PMIbOu3ErgJkAA"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Smetana Trio",
+          "url": "https://open.spotify.com/artist/4Nyi8TEpxsztAzIUWXjjUq"
+        }
+      ],
+      "duration_ms": 475146,
+      "name": "Piano Trio in A Minor, M. 67: III. Passacaille. Tr\u00e8s large",
+      "url": "https://open.spotify.com/track/2qhAOKSbcL00PDPCLwnWkV"
+    },
+    {
+      "added_at": "2025-12-22 11:30:42",
+      "album": {
         "name": "My Paris Years - French Music for Piano",
         "url": "https://open.spotify.com/album/3x0HknAVUdUIh6HPRQQVHs"
       },
@@ -483,26 +503,6 @@
       "duration_ms": 165493,
       "name": "Valses nobles et sentimentales, M. 61: III. Mod\u00e9r\u00e9",
       "url": "https://open.spotify.com/track/14KNcXdLqGkfgbuQh7Ygkj"
-    },
-    {
-      "added_at": "2025-12-22 11:30:42",
-      "album": {
-        "name": "Ravel and Shostakovich: Piano Trios",
-        "url": "https://open.spotify.com/album/0gP966H4PMIbOu3ErgJkAA"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Smetana Trio",
-          "url": "https://open.spotify.com/artist/4Nyi8TEpxsztAzIUWXjjUq"
-        }
-      ],
-      "duration_ms": 475146,
-      "name": "Piano Trio in A Minor, M. 67: III. Passacaille. Tr\u00e8s large",
-      "url": "https://open.spotify.com/track/2qhAOKSbcL00PDPCLwnWkV"
     },
     {
       "added_at": "2025-12-22 11:30:42",
@@ -591,6 +591,26 @@
     {
       "added_at": "2025-12-22 11:30:42",
       "album": {
+        "name": "Ravel: String Quartet, Violin Sonata & Piano Trio",
+        "url": "https://open.spotify.com/album/6HmzLIkB5r7UXsaWQQqMFm"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Beaux Arts Trio",
+          "url": "https://open.spotify.com/artist/5pAFKhoqlYPpCSiTOjh9Bz"
+        }
+      ],
+      "duration_ms": 294666,
+      "name": "Piano Trio, M. 67: IV. Final. Anim\u00e9",
+      "url": "https://open.spotify.com/track/6OGBzp88a83KLh1TmYzUai"
+    },
+    {
+      "added_at": "2025-12-22 11:30:42",
+      "album": {
         "name": "Ravel Voyageur",
         "url": "https://open.spotify.com/album/4irqRK8eAtenUdWwwCr6aR"
       },
@@ -611,26 +631,6 @@
       "duration_ms": 867640,
       "name": "Violin Sonata No. 1, M. 12",
       "url": "https://open.spotify.com/track/3lZFQIggcH1NQN5nX4BXPX"
-    },
-    {
-      "added_at": "2025-12-22 11:30:42",
-      "album": {
-        "name": "Ravel: String Quartet, Violin Sonata & Piano Trio",
-        "url": "https://open.spotify.com/album/6HmzLIkB5r7UXsaWQQqMFm"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Beaux Arts Trio",
-          "url": "https://open.spotify.com/artist/5pAFKhoqlYPpCSiTOjh9Bz"
-        }
-      ],
-      "duration_ms": 294666,
-      "name": "Piano Trio, M. 67: IV. Final. Anim\u00e9",
-      "url": "https://open.spotify.com/track/6OGBzp88a83KLh1TmYzUai"
     },
     {
       "added_at": "2025-12-22 11:30:42",
@@ -767,30 +767,6 @@
     {
       "added_at": "2025-12-22 11:30:42",
       "album": {
-        "name": "Ravel: 3 Sonatas, Tzigane, Habanera, Berceuse etc",
-        "url": "https://open.spotify.com/album/1kCRvabm2lCRgYtlkxAELk"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Chantal Juillet",
-          "url": "https://open.spotify.com/artist/05QS9GX1jM0XQqGZtxDAzR"
-        },
-        {
-          "name": "Pascal Rog\u00e9",
-          "url": "https://open.spotify.com/artist/5X5cGjYEmKnuihYXEePQcs"
-        }
-      ],
-      "duration_ms": 181506,
-      "name": "Berceuse sur le nom de Gabriel Faur\u00e9, M. 74",
-      "url": "https://open.spotify.com/track/0u4rEVXlbxTpWJ2Ec19Pb9"
-    },
-    {
-      "added_at": "2025-12-22 11:30:42",
-      "album": {
         "name": "Ravel: Daphnis et Chlo\u00e9",
         "url": "https://open.spotify.com/album/4ofcniYcKBLF6cQY1Dw8Z7"
       },
@@ -815,6 +791,30 @@
       "duration_ms": 476173,
       "name": "Daphnis et Chlo\u00e9, M. 57: I. Introduction et Danse Religieuse",
       "url": "https://open.spotify.com/track/3VKEZVixRO5GF92scMk2q0"
+    },
+    {
+      "added_at": "2025-12-22 11:30:42",
+      "album": {
+        "name": "Ravel: 3 Sonatas, Tzigane, Habanera, Berceuse etc",
+        "url": "https://open.spotify.com/album/1kCRvabm2lCRgYtlkxAELk"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Chantal Juillet",
+          "url": "https://open.spotify.com/artist/05QS9GX1jM0XQqGZtxDAzR"
+        },
+        {
+          "name": "Pascal Rog\u00e9",
+          "url": "https://open.spotify.com/artist/5X5cGjYEmKnuihYXEePQcs"
+        }
+      ],
+      "duration_ms": 181506,
+      "name": "Berceuse sur le nom de Gabriel Faur\u00e9, M. 74",
+      "url": "https://open.spotify.com/track/0u4rEVXlbxTpWJ2Ec19Pb9"
     },
     {
       "added_at": "2025-12-22 11:30:42",
@@ -1051,30 +1051,6 @@
     {
       "added_at": "2025-12-22 11:30:42",
       "album": {
-        "name": "Ravel: La Valse, Ma M\u00e8re l'Oye, Valses nobles et sentimentales & Daphnis et Chlo\u00e9 Suite No. 2",
-        "url": "https://open.spotify.com/album/6shxpYBntVnW95j5m0hfqO"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Yannick N\u00e9zet-S\u00e9guin",
-          "url": "https://open.spotify.com/artist/5ZGyCOrODWwaVtLSDjayl5"
-        },
-        {
-          "name": "Rotterdam Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/79xQdsSFyN4cmMsxtWrvUc"
-        }
-      ],
-      "duration_ms": 208173,
-      "name": "Ravel: Ma m\u00e8re l'Oye, M. 60: III. Laideronnette, imp\u00e9ratrice des pagodes",
-      "url": "https://open.spotify.com/track/5I11A5koQ25fBYqZD0XZ5T"
-    },
-    {
-      "added_at": "2025-12-22 11:30:42",
-      "album": {
         "name": "Ravel: Sh\u00e9h\u00e9razade / Tombeau / Pavane; Debussy: Danses / Ballades de Villon",
         "url": "https://open.spotify.com/album/1eeUo6L1AGl4DBJ7QOcp8b"
       },
@@ -1099,6 +1075,30 @@
       "duration_ms": 188000,
       "name": "Sh\u00e9h\u00e9razade, M. 41: II. La fl\u00fbte enchant\u00e9e",
       "url": "https://open.spotify.com/track/2frOJsnhsTX5oyDzBjV4uX"
+    },
+    {
+      "added_at": "2025-12-22 11:30:42",
+      "album": {
+        "name": "Ravel: La Valse, Ma M\u00e8re l'Oye, Valses nobles et sentimentales & Daphnis et Chlo\u00e9 Suite No. 2",
+        "url": "https://open.spotify.com/album/6shxpYBntVnW95j5m0hfqO"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Yannick N\u00e9zet-S\u00e9guin",
+          "url": "https://open.spotify.com/artist/5ZGyCOrODWwaVtLSDjayl5"
+        },
+        {
+          "name": "Rotterdam Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/79xQdsSFyN4cmMsxtWrvUc"
+        }
+      ],
+      "duration_ms": 208173,
+      "name": "Ravel: Ma m\u00e8re l'Oye, M. 60: III. Laideronnette, imp\u00e9ratrice des pagodes",
+      "url": "https://open.spotify.com/track/5I11A5koQ25fBYqZD0XZ5T"
     },
     {
       "added_at": "2025-12-22 11:30:42",

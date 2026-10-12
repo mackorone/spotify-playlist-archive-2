@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tw5tib6ZrB.md) - [plain]
 
 > Monster Hiphop anthems to unlock your day\. Tracks from Drake, Gunna, Nasty C, Nemzzz, Offset and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,696 likes - 60 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,733 likes - 60 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

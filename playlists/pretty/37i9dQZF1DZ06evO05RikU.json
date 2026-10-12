@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asbdAAAAAADK1EBSQNtxq3MbX3Gikgpg",
+  "snapshot_id": "asgugAAAAACEvkBIccTYmb7fuvsGPlXY",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,46 @@
       "duration_ms": 218800,
       "name": "Marte",
       "url": "https://open.spotify.com/track/1uK5rDY3BnikyG0sl3tPpc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Know My Name",
+        "url": "https://open.spotify.com/album/5CfKcRzU4j7AyZ5CwyJ2Ut"
+      },
+      "artists": [
+        {
+          "name": "True Damage",
+          "url": "https://open.spotify.com/artist/7xX15v6ahAkcT14kHfB9wB"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "VIC MENSA",
+          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
+        },
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        },
+        {
+          "name": "SOYEON",
+          "url": "https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH"
+        },
+        {
+          "name": "i-dle",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "duration_ms": 212236,
+      "name": "Know My Name",
+      "url": "https://open.spotify.com/track/3s2YCL5LHLzXWbw7ezQru3"
     },
     {
       "added_at": null,
@@ -167,6 +207,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blood, Sweat & 3 Years",
+        "url": "https://open.spotify.com/album/0KQDN58Lz8CXOsfIG6tQ7X"
+      },
+      "artists": [
+        {
+          "name": "Cash Cash",
+          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 219240,
+      "name": "How to Love (feat. Sofia Reyes)",
+      "url": "https://open.spotify.com/track/1oUb2nyyq0IWVj1nsuft0H"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Final Minutes",
         "url": "https://open.spotify.com/album/4BQki3gnvnzI2mTWWrmIbo"
       },
@@ -187,26 +247,6 @@
       "duration_ms": 195148,
       "name": "Final Minutes",
       "url": "https://open.spotify.com/track/6jTyOuZb23nhz43kwJHp4Q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blood, Sweat & 3 Years",
-        "url": "https://open.spotify.com/album/0KQDN58Lz8CXOsfIG6tQ7X"
-      },
-      "artists": [
-        {
-          "name": "Cash Cash",
-          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 219240,
-      "name": "How to Love (feat. Sofia Reyes)",
-      "url": "https://open.spotify.com/track/1oUb2nyyq0IWVj1nsuft0H"
     },
     {
       "added_at": null,
@@ -363,26 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Louder!.",
-        "url": "https://open.spotify.com/album/7tPQLOpoHALuSuHcDFUgB8"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Reykon",
-          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
-        }
-      ],
-      "duration_ms": 225072,
-      "name": "Llegaste t\u00fa (feat. Reykon)",
-      "url": "https://open.spotify.com/track/79Bm3DTEYuQsDpUVHbSRsL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dancing On Dangerous (feat. Sof\u00eda Reyes)",
         "url": "https://open.spotify.com/album/2JxYl1wEAY8SUgZdUMYQ6Z"
       },
@@ -403,6 +423,26 @@
       "duration_ms": 123428,
       "name": "Dancing On Dangerous (feat. Sof\u00eda Reyes)",
       "url": "https://open.spotify.com/track/6OYZvwKN8GaauTrJS1TuuH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Louder!.",
+        "url": "https://open.spotify.com/album/7tPQLOpoHALuSuHcDFUgB8"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Reykon",
+          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
+        }
+      ],
+      "duration_ms": 225072,
+      "name": "Llegaste t\u00fa (feat. Reykon)",
+      "url": "https://open.spotify.com/track/79Bm3DTEYuQsDpUVHbSRsL"
     },
     {
       "added_at": null,
@@ -519,50 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MILAMORES",
-        "url": "https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 211792,
-      "name": "MILAMORES",
-      "url": "https://open.spotify.com/track/38K7p7vJm8rOGUBAZrEyW3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Whoppa (feat. Sofia Reyes and Farina)",
-        "url": "https://open.spotify.com/album/4mpHXNkpedPXUkpBgFzZOp"
-      },
-      "artists": [
-        {
-          "name": "Tinie Tempah",
-          "url": "https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "FARIANA",
-          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
-        }
-      ],
-      "duration_ms": 217315,
-      "name": "Whoppa (feat. Sofia Reyes and Farina)",
-      "url": "https://open.spotify.com/track/55BKv7jjl2JKL85vbBRnIS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1+1 (feat. Yandel & Sof\u00eda Reyes) [Banx & Ranx Remix]",
         "url": "https://open.spotify.com/album/2ds7l2UKWHAj3nKX2Pfmdz"
       },
@@ -591,6 +587,50 @@
     {
       "added_at": null,
       "album": {
+        "name": "Whoppa (feat. Sofia Reyes and Farina)",
+        "url": "https://open.spotify.com/album/4mpHXNkpedPXUkpBgFzZOp"
+      },
+      "artists": [
+        {
+          "name": "Tinie Tempah",
+          "url": "https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "FARIANA",
+          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
+        }
+      ],
+      "duration_ms": 217315,
+      "name": "Whoppa (feat. Sofia Reyes and Farina)",
+      "url": "https://open.spotify.com/track/55BKv7jjl2JKL85vbBRnIS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MILAMORES",
+        "url": "https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 211792,
+      "name": "MILAMORES",
+      "url": "https://open.spotify.com/track/38K7p7vJm8rOGUBAZrEyW3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Esa Parte de M\u00ed",
         "url": "https://open.spotify.com/album/1fzcF6XsOj2O9UfxJm0LZd"
       },
@@ -615,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "MILAMORES",
-        "url": "https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri"
+        "name": "El 100",
+        "url": "https://open.spotify.com/album/5u7FM0fN09SgCkZRh7vNin"
       },
       "artists": [
         {
@@ -624,13 +664,13 @@
           "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
         },
         {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 231796,
-      "name": "yo tuya, t\u00fa m\u00edo",
-      "url": "https://open.spotify.com/track/6rqalHH9LASV0IMcDl77uY"
+      "duration_ms": 178100,
+      "name": "El 100",
+      "url": "https://open.spotify.com/track/6LSMoKokOy7XfJGkDAhDw5"
     },
     {
       "added_at": null,
@@ -655,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El 100",
-        "url": "https://open.spotify.com/album/5u7FM0fN09SgCkZRh7vNin"
+        "name": "MILAMORES",
+        "url": "https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri"
       },
       "artists": [
         {
@@ -664,13 +704,13 @@
           "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
         },
         {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
         }
       ],
-      "duration_ms": 178100,
-      "name": "El 100",
-      "url": "https://open.spotify.com/track/6LSMoKokOy7XfJGkDAhDw5"
+      "duration_ms": 231796,
+      "name": "yo tuya, t\u00fa m\u00edo",
+      "url": "https://open.spotify.com/track/6rqalHH9LASV0IMcDl77uY"
     },
     {
       "added_at": null,
@@ -959,26 +999,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "coRaZ\u00d3n fR\u00edO",
-        "url": "https://open.spotify.com/album/1BOeRBIyle4Z12OTGe6zHn"
-      },
-      "artists": [
-        {
-          "name": "nic",
-          "url": "https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 204633,
-      "name": "coRaZ\u00d3n fR\u00edO",
-      "url": "https://open.spotify.com/track/63cNIqiYClDvGsvyxaAfA3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pa' La Cultura",
         "url": "https://open.spotify.com/album/3lafienEVOSKlWKwZY1vwu"
       },
@@ -1031,6 +1051,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "coRaZ\u00d3n fR\u00edO",
+        "url": "https://open.spotify.com/album/1BOeRBIyle4Z12OTGe6zHn"
+      },
+      "artists": [
+        {
+          "name": "nic",
+          "url": "https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 204633,
+      "name": "coRaZ\u00d3n fR\u00edO",
+      "url": "https://open.spotify.com/track/63cNIqiYClDvGsvyxaAfA3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "IDGAF ERA",
         "url": "https://open.spotify.com/album/045qBqjV98Y6TlpCx0hq3V"
       },
@@ -1043,30 +1083,6 @@
       "duration_ms": 133604,
       "name": "Si Me Ven Llorando",
       "url": "https://open.spotify.com/track/6gUeEvhTyXO9oZxuimoN6e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00c9chalo Pa' Ca",
-        "url": "https://open.spotify.com/album/0l17ZOSlaSfuQXPe2G82hk"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        },
-        {
-          "name": "Lalo Ebratt",
-          "url": "https://open.spotify.com/artist/2JYHlgxXwq7Llb2ayrvoex"
-        }
-      ],
-      "duration_ms": 222911,
-      "name": "\u00c9chalo Pa' Ca",
-      "url": "https://open.spotify.com/track/2h9otdWcqvn5D52cgS32fz"
     },
     {
       "added_at": null,

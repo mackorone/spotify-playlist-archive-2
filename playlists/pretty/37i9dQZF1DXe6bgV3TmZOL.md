@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 
 > If your workout doubles as an outlet for your aggression, this is the playlist for you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,493,367 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,493,271 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 | 93 | [Halo](https://open.spotify.com/track/1QixTwDZCcfBzA7QMyont0) | [Soil](https://open.spotify.com/artist/4PoYwGOztIrPpBfRIlMSxP) | [Scars \(Expanded Edition\)](https://open.spotify.com/album/2XLiRCMRy5WuuF373tKBZ8) | 3:15 |
 | 94 | [Drag Me](https://open.spotify.com/track/459NVRkYEftpuwkmSH1U1H) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Drag Me](https://open.spotify.com/album/51cx1iKhj118oEWzs5QlKj) | 3:06 |
 | 95 | [Perfect Soul](https://open.spotify.com/track/7FjRNlmPtWb1ra46t14rUN) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Perfect Soul](https://open.spotify.com/album/6trbYqn0Og2FEmucGshPg5) | 3:59 |
-| 96 | [Pure Ecstasy](https://open.spotify.com/track/3IoUXFzfbzbi1XIfosP0AP) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Pure Ecstasy](https://open.spotify.com/album/7LaRPSnFbhbbDVAPf6ewX3) | 3:05 |
-| 97 | [Why Am I Like This?](https://open.spotify.com/track/1wZy1qIk3qPVv33I9bALi6) | [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk) | [Violent Noise](https://open.spotify.com/album/7J66HLhb0QYzZ5P19tHcZP) | 3:13 |
+| 96 | [Why Am I Like This?](https://open.spotify.com/track/1wZy1qIk3qPVv33I9bALi6) | [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk) | [Violent Noise](https://open.spotify.com/album/7J66HLhb0QYzZ5P19tHcZP) | 3:13 |
+| 97 | [Pure Ecstasy](https://open.spotify.com/track/3IoUXFzfbzbi1XIfosP0AP) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Pure Ecstasy](https://open.spotify.com/album/7LaRPSnFbhbbDVAPf6ewX3) | 3:05 |
 | 98 | [Blunt Force Blues](https://open.spotify.com/track/2k5xRkoaO5NGKzDY1mmbS3) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Into Oblivion](https://open.spotify.com/album/5aI0bwD4XS3UGMP4Kx4wNl) | 4:11 |
 | 99 | [Awake](https://open.spotify.com/track/6EZK2Ir2ottEL0eMiXO47f) | [Lost Society](https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN) | [If The Sky Came Down](https://open.spotify.com/album/0Af2e0rKhhsyAz83qsZzIF) | 5:12 |
 | 100 | [Nu Delhi](https://open.spotify.com/track/4AFqxUgTjluFRfjPLuoZ0a) | [Bloodywood](https://open.spotify.com/artist/4HFpzehKjow2WqU4EJ6Wy9) | [Nu Delhi](https://open.spotify.com/album/3JTGK3Rm4G03OcK6wI1bJa) | 4:28 |

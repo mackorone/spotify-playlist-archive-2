@@ -1,6 +1,6 @@
 {
   "description": "Most exciting artists from the Indian Indie scene. Cover: Anubha Bajaj",
-  "num_followers": 204833,
+  "num_followers": 204932,
   "original_name": "RADAR India",
   "owner": {
     "name": "Spotify",
@@ -543,22 +543,6 @@
     {
       "added_at": "2026-10-05 08:00:18",
       "album": {
-        "name": "Maara Makka (From \"Think Indie\")",
-        "url": "https://open.spotify.com/album/19DWPHifKZD73XLtkiRb6B"
-      },
-      "artists": [
-        {
-          "name": "rudh",
-          "url": "https://open.spotify.com/artist/2Q3UCe0lQfw6yrq7EoOb4t"
-        }
-      ],
-      "duration_ms": 163636,
-      "name": "Maara Makka - From \"Think Indie\"",
-      "url": "https://open.spotify.com/track/13TxDpBIVafb5iAKXaO6IG"
-    },
-    {
-      "added_at": "2026-10-05 08:00:18",
-      "album": {
         "name": "Halki Halki",
         "url": "https://open.spotify.com/album/2Je64huDcPfZkx7M4jl2VL"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 178899,
       "name": "Halki Halki",
       "url": "https://open.spotify.com/track/20FVN0wtdqkyhGSIJjr4qz"
+    },
+    {
+      "added_at": "2026-10-05 08:00:18",
+      "album": {
+        "name": "Maara Makka (From \"Think Indie\")",
+        "url": "https://open.spotify.com/album/19DWPHifKZD73XLtkiRb6B"
+      },
+      "artists": [
+        {
+          "name": "rudh",
+          "url": "https://open.spotify.com/artist/2Q3UCe0lQfw6yrq7EoOb4t"
+        }
+      ],
+      "duration_ms": 163636,
+      "name": "Maara Makka - From \"Think Indie\"",
+      "url": "https://open.spotify.com/track/13TxDpBIVafb5iAKXaO6IG"
     },
     {
       "added_at": "2026-10-05 08:00:18",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2026-10-05 08:00:18",
       "album": {
+        "name": "Aashiyan",
+        "url": "https://open.spotify.com/album/69WkyMOrLpLPnOML7ZYPWq"
+      },
+      "artists": [
+        {
+          "name": "gini",
+          "url": "https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0"
+        }
+      ],
+      "duration_ms": 174222,
+      "name": "Aashiyan",
+      "url": "https://open.spotify.com/track/0OlYIIUtBAWF2iEiTYan5h"
+    },
+    {
+      "added_at": "2026-10-05 08:00:18",
+      "album": {
         "name": "Aaja Re Piya",
         "url": "https://open.spotify.com/album/29ESWyP2Waa639JBQSwkxf"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 154782,
       "name": "Aaja Re Piya",
       "url": "https://open.spotify.com/track/1jk5EKgpuQCMRZ5PTO7MFO"
-    },
-    {
-      "added_at": "2026-10-05 08:00:18",
-      "album": {
-        "name": "Aashiyan",
-        "url": "https://open.spotify.com/album/69WkyMOrLpLPnOML7ZYPWq"
-      },
-      "artists": [
-        {
-          "name": "gini",
-          "url": "https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0"
-        }
-      ],
-      "duration_ms": 174222,
-      "name": "Aashiyan",
-      "url": "https://open.spotify.com/track/0OlYIIUtBAWF2iEiTYan5h"
     },
     {
       "added_at": "2026-10-05 08:00:18",
@@ -1479,18 +1479,22 @@
     {
       "added_at": "2026-10-05 08:00:18",
       "album": {
-        "name": "feeling good",
-        "url": "https://open.spotify.com/album/6j3hoQTyj96ANnqCZXDcTS"
+        "name": "Kehndi Hai",
+        "url": "https://open.spotify.com/album/6LwC2nt0yfSGOjE5UPghLN"
       },
       "artists": [
         {
-          "name": "Temsu Clover",
-          "url": "https://open.spotify.com/artist/1QZD3yzCgj7qHKqG2eC31g"
+          "name": "Zanai Bhosle",
+          "url": "https://open.spotify.com/artist/1KXshKZ6e6JsZ6boHGgkXX"
+        },
+        {
+          "name": "Siddhant Bhosle",
+          "url": "https://open.spotify.com/artist/72FQZIJkOLdKV0YKqS024h"
         }
       ],
-      "duration_ms": 201235,
-      "name": "feeling good",
-      "url": "https://open.spotify.com/track/1VXRl2GXUBaHboKPq7usqS"
+      "duration_ms": 149927,
+      "name": "Kehndi Hai",
+      "url": "https://open.spotify.com/track/2UqVw7C652TCZrc1ZA8CbE"
     }
   ],
   "unique_name": "RADAR India",

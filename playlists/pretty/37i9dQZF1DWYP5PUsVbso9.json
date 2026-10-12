@@ -1,6 +1,6 @@
 {
   "description": "The decade of the Outlaws of Country Music - where traditional and crossover country collided. Cover: Charley Pride",
-  "num_followers": 319725,
+  "num_followers": 319745,
   "original_name": "70s Country",
   "owner": {
     "name": "Spotify",
@@ -451,18 +451,18 @@
     {
       "added_at": "2026-02-03 18:46:39",
       "album": {
-        "name": "Heartbreaker",
-        "url": "https://open.spotify.com/album/4WQXuQCssnqii801uO1ENh"
+        "name": "Rose Colored Glasses",
+        "url": "https://open.spotify.com/album/3rRwWX6dg9IBQBalgqEgSN"
       },
       "artists": [
         {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+          "name": "John Conlee",
+          "url": "https://open.spotify.com/artist/4Wfq6fHhifS8MmQOcJ18TP"
         }
       ],
-      "duration_ms": 157427,
-      "name": "Baby I'm Burnin'",
-      "url": "https://open.spotify.com/track/2Asiem9O0YGuvvoAkz8aSq"
+      "duration_ms": 200493,
+      "name": "Rose Colored Glasses",
+      "url": "https://open.spotify.com/track/1Ko3qmw2ItUEefsjDjpLWL"
     },
     {
       "added_at": "2026-02-03 18:46:39",
@@ -499,18 +499,22 @@
     {
       "added_at": "2026-02-03 18:46:39",
       "album": {
-        "name": "Rose Colored Glasses",
-        "url": "https://open.spotify.com/album/3rRwWX6dg9IBQBalgqEgSN"
+        "name": "One Piece At A Time",
+        "url": "https://open.spotify.com/album/3cvJNkbrztr55SR4hhAw67"
       },
       "artists": [
         {
-          "name": "John Conlee",
-          "url": "https://open.spotify.com/artist/4Wfq6fHhifS8MmQOcJ18TP"
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "Tennessee Three",
+          "url": "https://open.spotify.com/artist/4yEQYaY1583BU8xppIffdp"
         }
       ],
-      "duration_ms": 200493,
-      "name": "Rose Colored Glasses",
-      "url": "https://open.spotify.com/track/1Ko3qmw2ItUEefsjDjpLWL"
+      "duration_ms": 241813,
+      "name": "One Piece at a Time",
+      "url": "https://open.spotify.com/track/1sueD22EyCamMjdQu9Kuo3"
     },
     {
       "added_at": "2026-02-03 18:46:39",
@@ -535,26 +539,6 @@
     {
       "added_at": "2026-02-03 18:46:39",
       "album": {
-        "name": "One Piece At A Time",
-        "url": "https://open.spotify.com/album/3cvJNkbrztr55SR4hhAw67"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        },
-        {
-          "name": "Tennessee Three",
-          "url": "https://open.spotify.com/artist/4yEQYaY1583BU8xppIffdp"
-        }
-      ],
-      "duration_ms": 241813,
-      "name": "One Piece at a Time",
-      "url": "https://open.spotify.com/track/1sueD22EyCamMjdQu9Kuo3"
-    },
-    {
-      "added_at": "2026-02-03 18:46:39",
-      "album": {
         "name": "Red Headed Stranger",
         "url": "https://open.spotify.com/album/5aEtg4dxdBk4pj6SJ3hNsM"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 141063,
       "name": "Blue Eyes Crying In the Rain",
       "url": "https://open.spotify.com/track/2uRVPeQbsEpRQD0DKr1WTo"
+    },
+    {
+      "added_at": "2026-02-03 18:46:39",
+      "album": {
+        "name": "David Allan Coe - 16 Biggest Hits",
+        "url": "https://open.spotify.com/album/7oSNiyE3ZinACkLFKikw7l"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 314226,
+      "name": "You Never Even Called Me By My Name",
+      "url": "https://open.spotify.com/track/29TI0GvP5gMQMPTJjdMe0H"
     },
     {
       "added_at": "2026-02-03 18:46:39",
@@ -619,6 +619,22 @@
     {
       "added_at": "2026-02-03 18:46:39",
       "album": {
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/4WQXuQCssnqii801uO1ENh"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 157427,
+      "name": "Baby I'm Burnin'",
+      "url": "https://open.spotify.com/track/2Asiem9O0YGuvvoAkz8aSq"
+    },
+    {
+      "added_at": "2026-02-03 18:46:39",
+      "album": {
         "name": "Man In Black",
         "url": "https://open.spotify.com/album/3fH6txVtapyIaCdoJkUNTd"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 174841,
       "name": "Man in Black",
       "url": "https://open.spotify.com/track/7wL9EVloIobMw22rT7Ve8x"
-    },
-    {
-      "added_at": "2026-02-03 18:46:39",
-      "album": {
-        "name": "David Allan Coe - 16 Biggest Hits",
-        "url": "https://open.spotify.com/album/7oSNiyE3ZinACkLFKikw7l"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 314226,
-      "name": "You Never Even Called Me By My Name",
-      "url": "https://open.spotify.com/track/29TI0GvP5gMQMPTJjdMe0H"
     },
     {
       "added_at": "2026-02-03 18:46:39",
@@ -999,18 +999,18 @@
     {
       "added_at": "2026-02-03 18:46:39",
       "album": {
-        "name": "Quarter Moon in a Ten Cent Town (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/0kwZMM8Nj0a4dPvVPUiN2y"
+        "name": "The Best Of Billy Swan",
+        "url": "https://open.spotify.com/album/5fjc7x9genFjAynvs3g1oi"
       },
       "artists": [
         {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+          "name": "Billy Swan",
+          "url": "https://open.spotify.com/artist/6nNkKMkPl1qBCEW3Al9eVV"
         }
       ],
-      "duration_ms": 186333,
-      "name": "Two More Bottles of Wine - 2003 Remaster",
-      "url": "https://open.spotify.com/track/62buMnGJ9bLrZAV03fGjYc"
+      "duration_ms": 238333,
+      "name": "I Can Help",
+      "url": "https://open.spotify.com/track/4oW1lGOw5Q5OLvoJv92qoE"
     },
     {
       "added_at": "2026-02-03 18:46:39",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2026-02-03 18:46:39",
       "album": {
-        "name": "The Best Of Billy Swan",
-        "url": "https://open.spotify.com/album/5fjc7x9genFjAynvs3g1oi"
+        "name": "Quarter Moon in a Ten Cent Town (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/0kwZMM8Nj0a4dPvVPUiN2y"
       },
       "artists": [
         {
-          "name": "Billy Swan",
-          "url": "https://open.spotify.com/artist/6nNkKMkPl1qBCEW3Al9eVV"
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
         }
       ],
-      "duration_ms": 238333,
-      "name": "I Can Help",
-      "url": "https://open.spotify.com/track/4oW1lGOw5Q5OLvoJv92qoE"
+      "duration_ms": 186333,
+      "name": "Two More Bottles of Wine - 2003 Remaster",
+      "url": "https://open.spotify.com/track/62buMnGJ9bLrZAV03fGjYc"
     },
     {
       "added_at": "2026-02-03 18:46:39",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2026-02-03 18:46:39",
       "album": {
-        "name": "I'm Jessi Colter",
-        "url": "https://open.spotify.com/album/700kC30ThMEyenTwGfcOxa"
-      },
-      "artists": [
-        {
-          "name": "Jessi Colter",
-          "url": "https://open.spotify.com/artist/43HpW8B5gYRnYbSzm37n5v"
-        }
-      ],
-      "duration_ms": 203106,
-      "name": "I'm Not Lisa",
-      "url": "https://open.spotify.com/track/2WQCzRvHubJxMIeCf2YhYG"
-    },
-    {
-      "added_at": "2026-02-03 18:46:39",
-      "album": {
         "name": "Best Of The Bellamy Brothers",
         "url": "https://open.spotify.com/album/546Y4nzoT1Y85502L87DSf"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 194066,
       "name": "If I Said You Had A Beautiful Body Would You Hold It Against Me",
       "url": "https://open.spotify.com/track/7pRKbx3PYJmz36cp92hDIE"
+    },
+    {
+      "added_at": "2026-02-03 18:46:39",
+      "album": {
+        "name": "I'm Jessi Colter",
+        "url": "https://open.spotify.com/album/700kC30ThMEyenTwGfcOxa"
+      },
+      "artists": [
+        {
+          "name": "Jessi Colter",
+          "url": "https://open.spotify.com/artist/43HpW8B5gYRnYbSzm37n5v"
+        }
+      ],
+      "duration_ms": 203106,
+      "name": "I'm Not Lisa",
+      "url": "https://open.spotify.com/track/2WQCzRvHubJxMIeCf2YhYG"
     },
     {
       "added_at": "2026-02-03 18:46:39",

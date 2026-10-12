@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wfQutivYYr.md) - [plain]
 
 > 22simba in cover della playlist con tutte le hit 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,708,005 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,707,774 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

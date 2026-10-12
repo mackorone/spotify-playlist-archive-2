@@ -3608,7 +3608,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 201688,
       "name": "dancefloor?",
       "url": "https://open.spotify.com/track/5GV9AMBtRstMTBuWaS55rn"
@@ -10694,6 +10694,24 @@
       "duration_ms": 208063,
       "name": "Niebosk\u0142on",
       "url": "https://open.spotify.com/track/5zLdBe3yVkWpu6lSsp2Xme"
+    },
+    {
+      "album": {
+        "name": "niech nie \u017cyje nam",
+        "url": "https://open.spotify.com/album/2F4muJlqRh0Owmoxa8pgJW"
+      },
+      "artists": [
+        {
+          "name": "wi\u015bniosz",
+          "url": "https://open.spotify.com/artist/4UcIjZwZDS7epHIoNUtwzu"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "niech nie \u017cyje nam",
+      "url": "https://open.spotify.com/track/0sNuqgwVY7j4ArP5v8cBnR"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0GO2iStOATx.md) - [plain]
 
 > Punjabi aa gaye oye!
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,743 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,785 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0GO2iStOATx.md) - [plain]
 | 6 | [Love Like This](https://open.spotify.com/track/5bC481ZHpapTgZUWPfIX0k) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD), [Simar](https://open.spotify.com/artist/5neDijXb4H6iIlJJVB1uyf), [Satta](https://open.spotify.com/artist/1PPJOqgRkoDM4UVrH5W2vj) | [I'm an Artist Bro](https://open.spotify.com/album/4ARSnCAzktqCDEKuBUBgdE) | 2:50 |
 | 7 | [Raula](https://open.spotify.com/track/5fuXyn3OBdYnGmgncTLUiE) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Jab Harry Met Sejal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4I39l0YJ7tmSBXZGZamN5E) | 4:16 |
 | 8 | [Singh Naal Jodi](https://open.spotify.com/track/2MIlXiV4IGhkcjhfc52xme) | [Sukshinder Shinda](https://open.spotify.com/artist/6Mp7fezR1NJNc7tnybKo18), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Collaborations 3](https://open.spotify.com/album/2HRpBMvcjiglPyFuiyVabR) | 4:11 |
-| 9 | [Lover](https://open.spotify.com/track/0XwRlvv3KlOu4HWlOH34XG) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 3:10 |
-| 10 | [G.O.A.T.](https://open.spotify.com/track/46QbY78ha62aiu6gBgC7lS) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [G.O.A.T.](https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE) | 3:43 |
+| 9 | [G.O.A.T.](https://open.spotify.com/track/46QbY78ha62aiu6gBgC7lS) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [G.O.A.T.](https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE) | 3:43 |
+| 10 | [Lover](https://open.spotify.com/track/0XwRlvv3KlOu4HWlOH34XG) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 3:10 |
 | 11 | [Lalkara](https://open.spotify.com/track/2oenSXLDbWVaaL7QjSGYj5) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 2:40 |
 | 12 | [Channo \- From "Punjab 1984"](https://open.spotify.com/track/6iFKuT3vqpWcKKnAVRwIoU) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Best of Punjabi Superstar Diljit Dosanjh](https://open.spotify.com/album/2K9ziITxFGxwD7p8qvN1WX) | 2:52 |
 | 13 | [Pappleen](https://open.spotify.com/track/7p4SfEwbVzpBhkn9ACSGzw) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Sardaarji 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4OtiPey44eFtHR0k3EVJVz) | 2:40 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0GO2iStOATx.md) - [plain]
 | 40 | [El Sueño \(feat\. Tru\-Skool\)](https://open.spotify.com/track/4xxLLbEcA3mMwpzvBWjVTR) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Tru\-Skool](https://open.spotify.com/artist/0u7HSxKLO9fsEeD20dW4H2) | [El Sueño \(feat\. Tru\-Skool\)](https://open.spotify.com/album/0O6WVv0kgaPZdKTMap1DhY) | 3:54 |
 | 41 | [Cry Later](https://open.spotify.com/track/72ztIrIf22Mf9hDqr8xaYo) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 2:28 |
 | 42 | [Sahnewal](https://open.spotify.com/track/5mis73YN8K7yqFLZrJandE) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Roar](https://open.spotify.com/album/1pcsPt7079EJi5u9OzHYqa) | 2:41 |
-| 43 | [Ghost](https://open.spotify.com/track/5VlQvNMpZF3wXrXLfr89Xa) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 2:45 |
-| 44 | [Cali](https://open.spotify.com/track/2OXUK0Lwgv5Y9M5m8bI9Af) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 2:38 |
+| 43 | [Cali](https://open.spotify.com/track/2OXUK0Lwgv5Y9M5m8bI9Af) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 2:38 |
+| 44 | [Ghost](https://open.spotify.com/track/5VlQvNMpZF3wXrXLfr89Xa) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 2:45 |
 | 45 | [Stars](https://open.spotify.com/track/1fvzAz230Q0Uzl5k3plxYg) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 3:04 |
 | 46 | [Whatcha Doin'](https://open.spotify.com/track/3O4pPBep2Rzn6KS2iqdrin) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 2:17 |
 | 47 | [Habit](https://open.spotify.com/track/0v1T9sMeFbaanQ3o2PBcYK) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [G.O.A.T.](https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE) | 3:03 |
 | 48 | [Kehkashan](https://open.spotify.com/track/2NTtfjk6ShR9uQcKJh1yX9) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 3:00 |
-| 49 | [Holster](https://open.spotify.com/track/42PJnUtHQi7hl7D47StuRp) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Advisory](https://open.spotify.com/album/6iVdKO5iCIgmovlO6VP2oj) | 2:07 |
-| 50 | [Gulabi Pagg](https://open.spotify.com/track/35CTzZi7rJLBHvfVZZBrVr) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Roar](https://open.spotify.com/album/1pcsPt7079EJi5u9OzHYqa) | 2:50 |
+| 49 | [Gulabi Pagg](https://open.spotify.com/track/35CTzZi7rJLBHvfVZZBrVr) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Roar](https://open.spotify.com/album/1pcsPt7079EJi5u9OzHYqa) | 2:50 |
+| 50 | [Holster](https://open.spotify.com/track/42PJnUtHQi7hl7D47StuRp) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Advisory](https://open.spotify.com/album/6iVdKO5iCIgmovlO6VP2oj) | 2:07 |
 
 Snapshot ID: `AAAAAIvoCclojlPDKhmg93/2yplUapTj`

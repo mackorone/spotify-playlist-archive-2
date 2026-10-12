@@ -238,7 +238,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 314746,
       "name": "Atos 2",
       "url": "https://open.spotify.com/track/0L3UFMmq5An0W3j1Q9cLG6"
@@ -3124,6 +3124,28 @@
       "duration_ms": 202000,
       "name": "T\u00fa \u00e9s Bom (feat. Julia Vit\u00f3ria)",
       "url": "https://open.spotify.com/track/7nz1eeQL0lCCTkne6QNuUV"
+    },
+    {
+      "album": {
+        "name": "O C\u00e9u Vai Reagir",
+        "url": "https://open.spotify.com/album/5aCATw31quieZfzXQnYp58"
+      },
+      "artists": [
+        {
+          "name": "Raquel Mello",
+          "url": "https://open.spotify.com/artist/3dlQ2CtcGsR7lOtLGATtSd"
+        },
+        {
+          "name": " CGM - Central Gospel Music",
+          "url": "https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq"
+        }
+      ],
+      "date_added": "2026-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341432,
+      "name": "Vai Acontecer",
+      "url": "https://open.spotify.com/track/1l6NBOvI61llAXguX5lYJB"
     },
     {
       "album": {

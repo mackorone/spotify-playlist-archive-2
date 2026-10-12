@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/1GFGwBXuIq1cn2TJ4K1awu.md) - [plain]
 
 > Updated every Sunday\. Ten songs plus a bonus\. Enjoy.
 
-[royva06](https://open.spotify.com/user/royva06) - 38 likes - 11 songs - 40 min 30 sec
+[royva06](https://open.spotify.com/user/royva06) - 38 likes - 11 songs - 42 min 8 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Playground Love \(with Gordon Tracks\)](https://open.spotify.com/track/6L5RI9isQPvFyl1yCxnFFb) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ), [Gordon Tracks](https://open.spotify.com/artist/4DWl8U58uYeeTtlvbrLEY6) | [The Virgin Suicides \(Original Motion Picture Score\)](https://open.spotify.com/album/0Dv4ArPFwSFPWrubYdExKq) | 3:32 |
-| 2 | [all night](https://open.spotify.com/track/5Yuh9aLRq5ZAgHTxphvV39) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Any Human Friend](https://open.spotify.com/album/7bv80mLhewTyKFyHlUBYev) | 3:42 |
-| 3 | [Stay](https://open.spotify.com/track/2G1GLZpZBSMc0C85OHT6fg) | [Bernard Butler](https://open.spotify.com/artist/28pqwEjm2WDueRWP4AjA1x) | [People Move On](https://open.spotify.com/album/2kS1Mg5BiuKmStYMwbgvlC) | 5:15 |
-| 4 | [Traffic Tickets](https://open.spotify.com/track/5Gb5H2kDognJE4HF3TfwL8) | [The Gadjits](https://open.spotify.com/artist/4KsM4oeDrY0Akg6fGtvn1i) | [At Ease](https://open.spotify.com/album/2rt4oHBHyjg9BJqrujMY4H) | 3:02 |
-| 5 | [Hard Luck & Circumstances](https://open.spotify.com/track/2mQKESg8IMAZO3zd31dA0D) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [$10 Cowboy](https://open.spotify.com/album/29H8rVCQG9uXLiT9hlH5za) | 3:04 |
-| 6 | [Press Rewind](https://open.spotify.com/track/736y1ZQptSw5iaMkbmvu9X) | [Del The Funky Homosapien](https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl) | [Both Sides Of The Brain](https://open.spotify.com/album/6DHCRrWGl9f57G4JBu4AVv) | 4:37 |
-| 7 | [Angel Baby](https://open.spotify.com/track/2W3cgIDRgmVXcbP7tKLics) | [Rosie & The Originals](https://open.spotify.com/artist/422gtj7D6L6pvr0GE08lwf) | [So Proud of Dreaming](https://open.spotify.com/album/70WstELqx4W15LwLv6eOPy) | 3:47 |
-| 8 | [Wannabe](https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 2:53 |
-| 9 | [2](https://open.spotify.com/track/79nmz3sTog69GJWtBQUzWH) | [Khary](https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ) | [THIS IS WEIRD](https://open.spotify.com/album/08LM2t7hWS2M5ZZX6qSQSK) | 3:56 |
-| 10 | [It's Thunder and It's Lightning](https://open.spotify.com/track/6U9ugzM29qVCHj2z2AFXk3) | [We Were Promised Jetpacks](https://open.spotify.com/artist/3gnrmLahFhVXRI9DA1MImH) | [These Four Walls](https://open.spotify.com/album/3fBmUNtexE0cEnuis3NM3J) | 4:48 |
-| 11 | [B A D I D E A](https://open.spotify.com/track/20wriybYLs9XjTo9mgC5Dd) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [God Save The Gun](https://open.spotify.com/album/13YF2Z1aV8lMzx4zSw4h75) | 1:49 |
+| 1 | [The End](https://open.spotify.com/track/3NwcMgjjSZWFXOTD9xNrUu) | [Star Moles](https://open.spotify.com/artist/2E5hF0ef37SEkbFT7JItSf) | [Highway to Hell](https://open.spotify.com/album/1cXRgjEY26OClvzBHSUNSK) | 2:28 |
+| 2 | [Two Pence Piece](https://open.spotify.com/track/1ZgjZCXWjPIlreYegygz7D) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Moonshine Freeze](https://open.spotify.com/album/0ekbANyejam0fKM6fDtdZT) | 4:10 |
+| 3 | [sulky baby](https://open.spotify.com/track/2Euwbryh21DOB5zEH0WT4P) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [softscars](https://open.spotify.com/album/7t01lwQRDjtEvwiAm88ACH) | 4:38 |
+| 4 | [Kate Is Great](https://open.spotify.com/track/1VT2wLreLu0l7E4T0JDedh) | [The Bouncing Souls](https://open.spotify.com/artist/3mvTAjG7rcyk7DQzLwauzV) | [The Bouncing Souls](https://open.spotify.com/album/7LgICzKkhaLV9Gttn8xM7a) | 2:53 |
+| 5 | [Michael A Grammar](https://open.spotify.com/track/5y97NLx4XGFy4x5LK8wYjr) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Tender Buttons](https://open.spotify.com/album/28RiDrxACWNtbrUNy9Ks1X) | 3:57 |
+| 6 | [The News](https://open.spotify.com/track/25CthI78tTOe0HRRHjOlzQ) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Brushfire Fairytales \(Remastered\) \[Bonus Version\]](https://open.spotify.com/album/38xJ17xpXcD0IQfdIEpMXG) | 2:27 |
+| 7 | [And Nothing Is Forever](https://open.spotify.com/track/4NFptVazMTsSJTYvKENHJl) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Songs Of A Lost World](https://open.spotify.com/album/4wjxmqXnSQvBZWL3IbYngX) | 6:53 |
+| 8 | [Days Of Wine And Roses](https://open.spotify.com/track/4fRzYHQgupApAZg4zCYQvD) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Pretty Blue \[2\-fer\]](https://open.spotify.com/album/5KXwf8kUe0qHRpwhRHbvDJ) | 3:48 |
+| 9 | [Little Lion Man](https://open.spotify.com/track/2BBkIgdXLv5vyp1DR0wpQl) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/7GiLJfRPHARQrRJf01P2Tt) | 4:06 |
+| 10 | [Golden Brown](https://open.spotify.com/track/5GpfyJrKHJI36jDKtQiyGN) | [The Stranglers](https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig) | [Golden Brown](https://open.spotify.com/album/6B9W97yJuTQvYL1ImrJJ6u) | 3:26 |
+| 11 | [Always The Same](https://open.spotify.com/track/4FdjHYzbnxRxq2qpTh0hNk) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Face Down In The Garden](https://open.spotify.com/album/1egOmcYzQ7sO7oCR0Zqq4G) | 3:17 |
 
-Snapshot ID: `AAAMdfRBUo2yZhh7xbvJ47kgYrJBGNHs`
+Snapshot ID: `AAAMi7FcEotHWQTLtxCpJLugF1edUwR8`

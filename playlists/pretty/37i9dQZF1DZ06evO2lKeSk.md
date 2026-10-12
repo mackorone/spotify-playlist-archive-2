@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lKeSk.md) - [plain]
 
 > This is Ana Gabriel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,278 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,345 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lKeSk.md) - [plain]
 | 6 | [No Entiendo](https://open.spotify.com/track/3bEjAIA1UHtRLX2gq8cO6B) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Mi Mexico](https://open.spotify.com/album/0AhHiKGTjvrxCmy3eN4dsa) | 3:43 |
 | 7 | [Tú Lo Decidiste](https://open.spotify.com/track/1uDXGhm8Wgwpmzgm8k1F7r) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Ayer Y Hoy](https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm) | 3:49 |
 | 8 | [Luna](https://open.spotify.com/track/64qCBHI5L54SUOZQfGFYcg) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Luna](https://open.spotify.com/album/7vAsW66jMph541o9EYE9b0) | 4:29 |
-| 9 | [Y Aquí Estoy](https://open.spotify.com/track/5PSES4lFkqiLk2ERayuuha) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Sagitario](https://open.spotify.com/album/05tHWQm1uJIo6FxQ9xzygd) | 3:44 |
-| 10 | [Es Demasiado Tarde](https://open.spotify.com/track/7wt6xHEIxuKlqCq2YurOLO) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Amores](https://open.spotify.com/album/6Ly5W4bSP2Ouud8yYP2VtU) | 4:10 |
+| 9 | [Es Demasiado Tarde](https://open.spotify.com/track/7wt6xHEIxuKlqCq2YurOLO) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Amores](https://open.spotify.com/album/6Ly5W4bSP2Ouud8yYP2VtU) | 4:10 |
+| 10 | [Y Aquí Estoy](https://open.spotify.com/track/5PSES4lFkqiLk2ERayuuha) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Sagitario](https://open.spotify.com/album/05tHWQm1uJIo6FxQ9xzygd) | 3:44 |
 | 11 | [No Te Hago Falta](https://open.spotify.com/track/6wwlTwsmum6s8nHDR2q7QQ) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Vivencias](https://open.spotify.com/album/6DVtXmghv4ZqMbnxWFJs7J) | 4:58 |
 | 12 | [Cosas del Amor \(with Vikki Carr\)](https://open.spotify.com/track/4BBJezanyqAj6rRC1fKIg4) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe), [Vikki Carr](https://open.spotify.com/artist/3tM3DTmG7ahfACzwqtazLD) | [Lo Esencial De Ana Gabriel](https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ) | 4:17 |
 | 13 | [A Pesar de Todo](https://open.spotify.com/track/5f3AqtwIWpWW9Oq31AJHNd) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Con Un Mismo Corazon](https://open.spotify.com/album/40hluezOWA4jSt7E0PePHT) | 3:48 |
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lKeSk.md) - [plain]
 | 18 | [Ahora](https://open.spotify.com/track/5UtNsaUhCptZJzw1yIFFdz) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Mi Mexico](https://open.spotify.com/album/0AhHiKGTjvrxCmy3eN4dsa) | 3:21 |
 | 19 | [Y Aquí Estoy](https://open.spotify.com/track/2fKimbKY2cu68b63kYODbB) | [K\-Paz De La Sierra](https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359), [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Conquistando Corazones](https://open.spotify.com/album/2sVo3Q8BIKVwRtgplt6YYP) | 3:44 |
 | 20 | [Con un Mismo Corazón \(with Vicente Fernández\)](https://open.spotify.com/track/6t0DlWn7pzC1ByYcRlWQhG) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe), [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Con Un Mismo Corazon](https://open.spotify.com/album/40hluezOWA4jSt7E0PePHT) | 3:40 |
-| 21 | [Mar y Arena](https://open.spotify.com/track/1HbyxkzMjXKIuyiZ5Xn4nB) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Sagitario](https://open.spotify.com/album/05tHWQm1uJIo6FxQ9xzygd) | 3:59 |
+| 21 | [Es el Amor Quien Llega](https://open.spotify.com/track/4GLtNEcq1Mg4SwyxRFhP2o) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Tierra De Nadie](https://open.spotify.com/album/1qgBllFM7eTrDU1NChzk1I) | 3:47 |
 | 22 | [Hechizo](https://open.spotify.com/track/6BTiNXqAQ7WSzgGBzMYsc3) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Mi Mexico](https://open.spotify.com/album/0AhHiKGTjvrxCmy3eN4dsa) | 3:27 |
-| 23 | [Es el Amor Quien Llega](https://open.spotify.com/track/4GLtNEcq1Mg4SwyxRFhP2o) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Tierra De Nadie](https://open.spotify.com/album/1qgBllFM7eTrDU1NChzk1I) | 3:47 |
+| 23 | [Mar y Arena](https://open.spotify.com/track/1HbyxkzMjXKIuyiZ5Xn4nB) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Sagitario](https://open.spotify.com/album/05tHWQm1uJIo6FxQ9xzygd) | 3:59 |
 | 24 | [Ni un Roce \(Nem um Toque\)](https://open.spotify.com/track/0h9tN3D3jMLv4P9xwcUwDG) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Quién Como tú](https://open.spotify.com/album/6TkpmmUOcvoB76oZdX9f5D) | 4:30 |
 | 25 | [Soy Como Quise Ser](https://open.spotify.com/track/4fbkYivlblH2hmA4ezlscp) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Soy Como Soy](https://open.spotify.com/album/32VCHqymjw33HvCc42QrTV) | 3:25 |
 | 26 | [Eres Todo en Mí \(You're My Everything\)](https://open.spotify.com/track/26N4opVvRLaaCq61NkZeD2) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Vivencias](https://open.spotify.com/album/6DVtXmghv4ZqMbnxWFJs7J) | 5:10 |
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lKeSk.md) - [plain]
 | 29 | [Que Te Vaya Bonito](https://open.spotify.com/track/6Snjz4mK1CuiOmewSTqMmi) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Tradicional](https://open.spotify.com/album/2EvZqG7DjCR20upF0TPSPG) | 2:51 |
 | 30 | [Pecado Original](https://open.spotify.com/track/5CrGr84BzO78tyP7soQgbo) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Pecado Original](https://open.spotify.com/album/5JRGlJtz53p6P1qlfrcPxe) | 3:26 |
 | 31 | [Obsesión](https://open.spotify.com/track/7sqhD28PN9cK1QPzkZf9NF) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Soy Como Soy](https://open.spotify.com/album/32VCHqymjw33HvCc42QrTV) | 3:37 |
-| 32 | [Huelo a Soledad](https://open.spotify.com/track/35PkxnclKnVvmBdCWTptRb) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Huelo a Soledad](https://open.spotify.com/album/5xD5oy4TOypY7oeR4xY0oe) | 4:18 |
+| 32 | [Parece Que Fue Ayer](https://open.spotify.com/track/5MkNQI9rEUD8zT85XglkOp) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Ayer Y Hoy](https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm) | 3:09 |
 | 33 | [Volver, Volver](https://open.spotify.com/track/4Hs73YfAFeRmnLondZLt63) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Tradicional](https://open.spotify.com/album/2EvZqG7DjCR20upF0TPSPG) | 3:14 |
-| 34 | [Parece Que Fue Ayer](https://open.spotify.com/track/5MkNQI9rEUD8zT85XglkOp) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Ayer Y Hoy](https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm) | 3:09 |
+| 34 | [Huelo a Soledad](https://open.spotify.com/track/35PkxnclKnVvmBdCWTptRb) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Huelo a Soledad](https://open.spotify.com/album/5xD5oy4TOypY7oeR4xY0oe) | 4:18 |
 | 35 | [Un Viejo Amor](https://open.spotify.com/track/3DReAwTPRU1HNKEhLK09iU) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Joyas De Dos Siglos](https://open.spotify.com/album/61OaHiemzBG4mL8F2tV05e) | 3:17 |
 | 36 | [Vámonos](https://open.spotify.com/track/0dtDYTLPsBjnJHvOfny8te) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Lo Esencial De Ana Gabriel](https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ) | 2:59 |
 | 37 | [Medley Ranchero: Mi Talismán/No Entiendo/Hechizo \- Altos De Chavón Live Version](https://open.spotify.com/track/4Jw0iZI9fjtoKIHDDlkcEg) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Un Mariachi En Altos De Chavón](https://open.spotify.com/album/0wcRCPlAtWszZ2QzRUnbpB) | 7:55 |

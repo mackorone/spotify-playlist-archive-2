@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1trEdl.md) - [plain]
 
 > This is The Three Degrees\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,678 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,679 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1trEdl.md) - [plain]
 | 49 | [You're the One](https://open.spotify.com/track/7F6kaO0Bp9uKefViCZGiP4) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Maybe \(Expanded Edition\)](https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit) | 3:24 |
 | 50 | [Lowdown](https://open.spotify.com/track/2U1AN5Z41cK7Buynn3WzIU) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Playlist: The Best Of The Roulette Years](https://open.spotify.com/album/6XpWAy4yKqmaopZL0xeb15) | 3:13 |
 
-Snapshot ID: `asgugAAAAAAA1slP/feFO0+5svWCLO6U`
+Snapshot ID: `asmAAAAAAADBy+hiV92e2EW9KFjPvodw`

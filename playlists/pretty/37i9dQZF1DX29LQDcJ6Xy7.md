@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 
 > A collection of Industrial Metal \- fresh and old tunes\. Cover: Fear Factory
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,734 likes - 100 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,763 likes - 100 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 27 | [The Perfect Drug](https://open.spotify.com/track/14tKBoKXxGakkoEmYuFfor) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Lost Highway](https://open.spotify.com/album/77PY9VYriArqduEpkD2Ues) | 5:15 |
 | 28 | [Skills in Pills](https://open.spotify.com/track/6hvBZMTNAJTCei1BxEATzK) | [Lindemann](https://open.spotify.com/artist/65A714FqhSPjoFZeffQbTv) | [Skills in Pills](https://open.spotify.com/album/0koBPzLDxkhwKrKb3JmJ9n) | 4:15 |
 | 29 | [N.W.O.](https://open.spotify.com/track/2D9LxUcR9zWxQtxiHsMA0n) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [KE\*A\*H\*\* \(Psalm 69\)](https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5) | 5:30 |
-| 30 | [Save Yourself](https://open.spotify.com/track/13ZS2V2RsGWguOYYvIqDN5) | [Stabbing Westward](https://open.spotify.com/artist/5daXMUbrPh8oX9Nd4CnToG) | [Darkest Days](https://open.spotify.com/album/2zbX9auxAGYaWoMEvB2uAg) | 4:13 |
-| 31 | [Golgotha Tenement Blues](https://open.spotify.com/track/20yvxFLMl0n4nvrDaqZ6ol) | [Machines Of Loving Grace](https://open.spotify.com/artist/7p8Z7MmqMYCa7ZKQKxRBKO) | [The Crow Original Motion Picture Soundtrack](https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n) | 4:00 |
+| 30 | [Golgotha Tenement Blues](https://open.spotify.com/track/20yvxFLMl0n4nvrDaqZ6ol) | [Machines Of Loving Grace](https://open.spotify.com/artist/7p8Z7MmqMYCa7ZKQKxRBKO) | [The Crow Original Motion Picture Soundtrack](https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n) | 4:00 |
+| 31 | [Save Yourself](https://open.spotify.com/track/13ZS2V2RsGWguOYYvIqDN5) | [Stabbing Westward](https://open.spotify.com/artist/5daXMUbrPh8oX9Nd4CnToG) | [Darkest Days](https://open.spotify.com/album/2zbX9auxAGYaWoMEvB2uAg) | 4:13 |
 | 32 | [Dead Souls](https://open.spotify.com/track/12s8P9IFXjJWwVnX7u26ca) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Crow Original Motion Picture Soundtrack](https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n) | 4:53 |
 | 33 | [Assimilate](https://open.spotify.com/track/512No5uXtXbhNh7OOz03pF) | [Skinny Puppy](https://open.spotify.com/artist/5Mu0EMEsUIVE132pNMywns) | [Bites](https://open.spotify.com/album/48uIwIUdrqvY27C7sXF9CA) | 6:56 |
 | 34 | [Just One Fix](https://open.spotify.com/track/0Vcpo9El50PNNbZXfKbNti) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [KE\*A\*H\*\* \(Psalm 69\)](https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5) | 5:10 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 39 | [Thieves](https://open.spotify.com/track/6KCthSzW230fnf6IygPaI0) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [The Mind Is a Terrible Thing to Taste](https://open.spotify.com/album/2Z73HeYQNCf5T8dzzHaoz5) | 5:01 |
 | 40 | [A Drug Against War](https://open.spotify.com/track/0jHmidMFTjOSkzuHrNepY7) | [KMFDM](https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa) | [Angst](https://open.spotify.com/album/6We2VFbkhbRCQNX7Vud8aY) | 3:35 |
 | 41 | [A Violent Reaction](https://open.spotify.com/track/00YeAWckFwAyrvzvHlYMOk) | [American Head Charge](https://open.spotify.com/artist/6Ig4qybKXgMN2FLSM7GKau) | [The War Of Art](https://open.spotify.com/album/5dBhZn63iuwNTQ9JnDktsl) | 4:12 |
-| 42 | [Naitu](https://open.spotify.com/track/3bPM4JJvL7VwcnMh9Yl2Oz) | [Turmion Kätilöt](https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg) | [Global Warning](https://open.spotify.com/album/3DdWOQOpbWHrWKonpcbcUN) | 4:11 |
-| 43 | [DEGENERATE](https://open.spotify.com/track/4xzPvogI6M8kJ1kPr7IrkO) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [DEGENERATE](https://open.spotify.com/album/4msDecysbB1ZE7hjrbrnib) | 3:36 |
+| 42 | [DEGENERATE](https://open.spotify.com/track/4xzPvogI6M8kJ1kPr7IrkO) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [DEGENERATE](https://open.spotify.com/album/4msDecysbB1ZE7hjrbrnib) | 3:36 |
+| 43 | [Naitu](https://open.spotify.com/track/3bPM4JJvL7VwcnMh9Yl2Oz) | [Turmion Kätilöt](https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg) | [Global Warning](https://open.spotify.com/album/3DdWOQOpbWHrWKonpcbcUN) | 4:11 |
 | 44 | [The Death & Resurrection Show](https://open.spotify.com/track/2JUo8iX8FC05xd9GEpw9BI) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Killing Joke](https://open.spotify.com/album/0QdWqJmpfrgIepHxGNU4Rs) | 6:56 |
 | 45 | [HYËNA](https://open.spotify.com/track/2mPYdoSr3T9VLi94oV7ob5) | [KMFDM](https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa) | [HYËNA](https://open.spotify.com/album/3S4k4I4hvcCiLExpGaSPUa) | 5:02 |
 | 46 | [A Daisy Chain 4 Satan \- Acid & Flowers Mix](https://open.spotify.com/track/5FwLDsdAgRVc3lZjam3euf) | [My Life With The Thrill Kill Kult](https://open.spotify.com/artist/7FfAD7EYZbQ7aHPy9ujduD) | [Confessions of a Knife](https://open.spotify.com/album/07qAwgxJzZYQCPTQc157eT) | 5:31 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 86 | [Disobey \- Disruptor Remix](https://open.spotify.com/track/5ovhDF3buYTpIgwgqhIwxf) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX), [Zardonic](https://open.spotify.com/artist/7BqEidErPMNiUXCRE0dV2n) | [Disobey \(Disruptor Remix\)](https://open.spotify.com/album/6qeYZ9eiG9uMyvlR3n5pK6) | 3:28 |
 | 87 | [Suck](https://open.spotify.com/track/6pBabkxMdp7dXLgJXnsFGp) | [Pigface](https://open.spotify.com/artist/64mGp5QFpsekCRHe6RqDYz) | [The Best Of Pigface](https://open.spotify.com/album/1xPDQlenantNKawfHa3cyw) | 3:40 |
 | 88 | [Prototype](https://open.spotify.com/track/7k2SHJ8HKjjW3sZcDj2eAz) | [The Silverblack](https://open.spotify.com/artist/0ckgPY5JROBCK0hB6tAG5r) | [Prototype 6:17](https://open.spotify.com/album/0AzQ3DznOByMMtnZSt9PvM) | 3:28 |
-| 89 | [Small World](https://open.spotify.com/track/0cSd01K5jeFTDLSrD95dEb) | [Skold](https://open.spotify.com/artist/71Yh3iYxx17VectgWOMvUr) | [Never Is Now](https://open.spotify.com/album/4a42neJMlka7MRKNKwYsJb) | 4:56 |
-| 90 | [Killer Quinn](https://open.spotify.com/track/0nuPTlaHKknCMqwkiIgqSf) | [SCARLET](https://open.spotify.com/artist/1ezwRjcVcSgr0HNIwRd2CN) | [Killer Quinn](https://open.spotify.com/album/3WRtHLiv4uw6pkxx0Bbddd) | 2:59 |
+| 89 | [Killer Quinn](https://open.spotify.com/track/0nuPTlaHKknCMqwkiIgqSf) | [SCARLET](https://open.spotify.com/artist/1ezwRjcVcSgr0HNIwRd2CN) | [Killer Quinn](https://open.spotify.com/album/3WRtHLiv4uw6pkxx0Bbddd) | 2:59 |
+| 90 | [Small World](https://open.spotify.com/track/0cSd01K5jeFTDLSrD95dEb) | [Skold](https://open.spotify.com/artist/71Yh3iYxx17VectgWOMvUr) | [Never Is Now](https://open.spotify.com/album/4a42neJMlka7MRKNKwYsJb) | 4:56 |
 | 91 | [Burn Everything](https://open.spotify.com/track/3TnHNsSdOYdqQdXyivAmuH) | [Ludovico Technique](https://open.spotify.com/artist/1QLq3DjHn8KdTfUig43wP1) | [Burn Everything](https://open.spotify.com/album/3YVOIopHaBdAnj3dBe97od) | 4:23 |
 | 92 | [PRESIDENT X](https://open.spotify.com/track/3YlXqeGh10AADlm9tt7bbK) | [3TEETH](https://open.spotify.com/artist/4GHi4xklo0FT0l2CNuLFh2) | [PRESIDENT X](https://open.spotify.com/album/2nEO7xItffDVSNZo4XOIJU) | 3:40 |
 | 93 | [Alive](https://open.spotify.com/track/1SruLf1FO8Aihdgfhgxyr9) | [CueStack](https://open.spotify.com/artist/4LoOAdJreuAUms1QPSfyjG) | [Alive](https://open.spotify.com/album/4vHlOSWsU5EtLy4XKPAdmM) | 4:24 |

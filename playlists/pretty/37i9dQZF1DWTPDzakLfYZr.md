@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTPDzakLfYZr.md) - [plain]
 
 > ¡Los grandes temas del Pop Urbano, eso es Popetón! Foto: Maisak
 
-[Spotify](https://open.spotify.com/user/spotify) - 626,344 likes - 78 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 626,335 likes - 78 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

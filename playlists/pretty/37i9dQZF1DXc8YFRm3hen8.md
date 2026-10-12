@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8YFRm3hen8.md) - [plain]
 
 > Tu dosis diaria de rock 📸 Las Pastillas del Abuelo
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,188 likes - 80 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,224 likes - 80 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8YFRm3hen8.md) - [plain]
 | 31 | [Seguir Viviendo Sin Tu Amor](https://open.spotify.com/track/2qBirMakpTdz9ymxrZEyzg) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Peluson Of Milk](https://open.spotify.com/album/0sEqp7Del2dp8HmXE8Geqv) | 2:40 |
 | 32 | [Loco](https://open.spotify.com/track/0jePqZlutXGa8xz6NNyKAy) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Alta Suciedad](https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6) | 3:37 |
 | 33 | [El amor después del amor](https://open.spotify.com/track/1PQzZbitOJ6XPFg7FFzsKQ) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [El Amor Después del Amor](https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5) | 5:11 |
-| 34 | [Cirugía](https://open.spotify.com/track/0uFRDicafe9Gto0v2pk3kT) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [Por cesárea](https://open.spotify.com/album/633jS6fM44Zbr1gyI0eF19) | 3:36 |
+| 34 | [Fuego](https://open.spotify.com/track/6q41qt2R9K8BXEzmzImEGO) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Otro Día en el Planeta Tierra](https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC) | 4:21 |
 | 35 | [Personalmente](https://open.spotify.com/track/7q7XFO9av9VpNJSXKJwJxD) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Despierta](https://open.spotify.com/album/0289kJfdXVBPSDJfQ1fPJz) | 4:10 |
-| 36 | [Fuego](https://open.spotify.com/track/6q41qt2R9K8BXEzmzImEGO) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Otro Día en el Planeta Tierra](https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC) | 4:21 |
+| 36 | [Cirugía](https://open.spotify.com/track/0uFRDicafe9Gto0v2pk3kT) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [Por cesárea](https://open.spotify.com/album/633jS6fM44Zbr1gyI0eF19) | 3:36 |
 | 37 | [Campanas en la Noche](https://open.spotify.com/track/0C9V5jMElp7laZZdsCHufD) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt) | [Armando Camaleón](https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP) | 3:57 |
 | 38 | [Regalo](https://open.spotify.com/track/0yYg7rbw7h9II0tIUP1yEK) | [Parientes](https://open.spotify.com/artist/76lUSSvc6Z83CLrIVB7YrE) | [Regalo](https://open.spotify.com/album/0CzcdpiJKpViz34CDmnBzw) | 3:28 |
 | 39 | [Nunca Lo Olvides](https://open.spotify.com/track/1qAMb1y3o7Olwm8pYTuzyV) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Nunca Lo Olvides](https://open.spotify.com/album/6ZDbOUt4FRdFgQEbhJyFui) | 4:59 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8YFRm3hen8.md) - [plain]
 | 50 | [Un Pacto \- Live In Buenos Aires / 2001](https://open.spotify.com/track/1lcwoylQLJUtl2pNNdZQ7p) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [De La Cabeza Con Bersuit Vergarabat \(Live In Buenos Aires / 2001\)](https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu) | 4:55 |
 | 51 | [No llora](https://open.spotify.com/track/1kEoU9Dmivr2JoOf7ramyT) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Habla Tu Espejo](https://open.spotify.com/album/1ffZ5xExmmOr15QQzYrXyf) | 4:19 |
 | 52 | [Hablando a Tu Corazón](https://open.spotify.com/track/3k9dGCm2R2Y70e87aMHYC3) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo), [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6) | [García 87/93](https://open.spotify.com/album/7yNFDuCsXe2P0DSenIMKxk) | 4:15 |
-| 53 | [Magia Veneno](https://open.spotify.com/track/6zielPkg61vCK5DfqqvjE9) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [El Número Imperfecto](https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn) | 3:58 |
-| 54 | [Los Calientes](https://open.spotify.com/track/7L2arBxHMxVXbWQzaHKgnY) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Jessico](https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh) | 4:37 |
+| 53 | [Los Calientes](https://open.spotify.com/track/7L2arBxHMxVXbWQzaHKgnY) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Jessico](https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh) | 4:37 |
+| 54 | [Magia Veneno](https://open.spotify.com/track/6zielPkg61vCK5DfqqvjE9) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [El Número Imperfecto](https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn) | 3:58 |
 | 55 | [Va A Escampar](https://open.spotify.com/track/4MPwBYidOWnwpKlqQYJEzX) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [A Contraluz](https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL) | 4:41 |
 | 56 | [Descontrolado](https://open.spotify.com/track/3KDClBkoakbdF0pSdF2PP7) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Vicio](https://open.spotify.com/album/5GhW2V4FEHOHEeVydU7TxS) | 2:54 |
 | 57 | [Spaghetti del Rock](https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Narigón del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre](https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU) | 3:32 |

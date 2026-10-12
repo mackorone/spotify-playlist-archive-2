@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM5o62BfFWh.md) - [plain]
 
 > ¡Música que representa a Cuba! Cover: Wampi
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,699 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,714 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM5o62BfFWh.md) - [plain]
 | 41 | [Las Prosti](https://open.spotify.com/track/2in2xA986JvLRTVc5JJbby) | [L Kimii](https://open.spotify.com/artist/1f1ghk6CZMmEuPtjldEDkh), [DJ Conds](https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw) | [Las Prosti](https://open.spotify.com/album/1GEmOvo29J0EKZZ8hpQT0I) | 2:55 |
 | 42 | [LA LA LA](https://open.spotify.com/track/3yu9nhgkR87xcxoSbI2c3I) | [Anyelazo](https://open.spotify.com/artist/5AcUj97EYhmrk469QRbBRy), [Gallery Music](https://open.spotify.com/artist/1qzFvKHuaRKKDUPrHlSGgV) | [LA LA LA](https://open.spotify.com/album/0Ebtd1t4tY0CdyMbM4STzP) | 2:12 |
 | 43 | [Yo lo sé](https://open.spotify.com/track/0VtU5p1WIayEkl1VcMQV6R) | [Nany La Kbra](https://open.spotify.com/artist/2sERwzDyPHN7IP1XPlTchU), [Yomil](https://open.spotify.com/artist/0U0oUxOfhtjkfoJ3ZNWEfU), [Ja Rulay](https://open.spotify.com/artist/2xaNqd76QhUudoNKJ3dUYV) | [Yo lo sé](https://open.spotify.com/album/14h07hUekVScQA99nBO1fI) | 2:58 |
-| 44 | [De Ping4](https://open.spotify.com/track/0TZx2Nlsrgrsv9Dm88pmn0) | [Wow Popy](https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv), [Charaway](https://open.spotify.com/artist/2vjXRf6qBN4ckt5Tbt4lvy) | [De Ping4](https://open.spotify.com/album/75LHeZMkEZP1Nkwbum0kKg) | 2:57 |
-| 45 | [Pobre Corazón \- with Lenier](https://open.spotify.com/track/29orueqF7k02TWw9CVHQh1) | [Divan](https://open.spotify.com/artist/5R9qfSPB77aX9n9GKww0PP), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [\#Round2](https://open.spotify.com/album/6a3ea5TFfoPTy5mg4QitFr) | 2:58 |
+| 44 | [Pobre Corazón \- with Lenier](https://open.spotify.com/track/29orueqF7k02TWw9CVHQh1) | [Divan](https://open.spotify.com/artist/5R9qfSPB77aX9n9GKww0PP), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [\#Round2](https://open.spotify.com/album/6a3ea5TFfoPTy5mg4QitFr) | 2:58 |
+| 45 | [De Ping4](https://open.spotify.com/track/0TZx2Nlsrgrsv9Dm88pmn0) | [Wow Popy](https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv), [Charaway](https://open.spotify.com/artist/2vjXRf6qBN4ckt5Tbt4lvy) | [De Ping4](https://open.spotify.com/album/75LHeZMkEZP1Nkwbum0kKg) | 2:57 |
 | 46 | [Firme Contigo](https://open.spotify.com/track/6bfQyhA4XY5sjL4zIcRe1k) | [Yexel](https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL) | [Firme Contigo](https://open.spotify.com/album/7rFbb2R694sYJR8CNMzRRO) | 2:05 |
 | 47 | [Se asfixió](https://open.spotify.com/track/6ExpY0BtLaB90mW2mB2Bkn) | [L Maldito 13](https://open.spotify.com/artist/3IO3ybxtyH9sVU4Pm3Z7eL) | [Se asfixió](https://open.spotify.com/album/1c9aEl236Ox15x6cWMp8ZE) | 2:43 |
 | 48 | [El Millonario](https://open.spotify.com/track/2NlpcZgmPZMnyJqlcwBz3R) | [Ronkalunga](https://open.spotify.com/artist/5SmPM5iZnmOGwkepCkEukC) | [La Chiva](https://open.spotify.com/album/15LGO0weK6qGrhSAAdt7Ct) | 4:10 |
-| 49 | [El Men2 Remix](https://open.spotify.com/track/2gZgg2MnrUYtmlUYuaqWlY) | [EL YORDY DK](https://open.spotify.com/artist/4Sjaa8KPxSPX7VqcixAGn8), [La Tankeria](https://open.spotify.com/artist/46zSeracS4TMCzr21OKLiu), [Michel Boutic](https://open.spotify.com/artist/1uac76BPb8mnvmQv6AtBZ9) | [El Men2 Remix](https://open.spotify.com/album/2xli8e3TDgvnF2zUIWt2Vg) | 3:38 |
-| 50 | [Te Amo \(Versos Gastados\) \- Prod\. by Cuban Deejay$](https://open.spotify.com/track/44IPKz8KN6H0wieHvTQH4w) | [Divan](https://open.spotify.com/artist/5R9qfSPB77aX9n9GKww0PP), [Roberto Ferrante](https://open.spotify.com/artist/2aiM1OfMODFLUXaQgEVPK1) | [\#Round2](https://open.spotify.com/album/6a3ea5TFfoPTy5mg4QitFr) | 3:39 |
+| 49 | [Te Amo \(Versos Gastados\) \- Prod\. by Cuban Deejay$](https://open.spotify.com/track/44IPKz8KN6H0wieHvTQH4w) | [Divan](https://open.spotify.com/artist/5R9qfSPB77aX9n9GKww0PP), [Roberto Ferrante](https://open.spotify.com/artist/2aiM1OfMODFLUXaQgEVPK1) | [\#Round2](https://open.spotify.com/album/6a3ea5TFfoPTy5mg4QitFr) | 3:39 |
+| 50 | [El Men2 Remix](https://open.spotify.com/track/2gZgg2MnrUYtmlUYuaqWlY) | [EL YORDY DK](https://open.spotify.com/artist/4Sjaa8KPxSPX7VqcixAGn8), [La Tankeria](https://open.spotify.com/artist/46zSeracS4TMCzr21OKLiu), [Michel Boutic](https://open.spotify.com/artist/1uac76BPb8mnvmQv6AtBZ9) | [El Men2 Remix](https://open.spotify.com/album/2xli8e3TDgvnF2zUIWt2Vg) | 3:38 |
 
 Snapshot ID: `AAAAAPPikvbjwggcJBorTFSns86zeuSq`

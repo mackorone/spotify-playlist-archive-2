@@ -560,7 +560,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 227376,
       "name": "A Nowhere Place",
       "url": "https://open.spotify.com/track/3Tfhkl0qDEAbPBdn9bWG8M"
@@ -8258,7 +8258,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 195961,
       "name": "cowboy",
       "url": "https://open.spotify.com/track/4b1VzKnp0iqKR2KksTo1Bx"
@@ -22726,7 +22726,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 216479,
       "name": "lost in her flowers",
       "url": "https://open.spotify.com/track/0pkITpkxZcbX0r7hoBAsGx"
@@ -27668,7 +27668,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 178041,
       "name": "Orange Slice Memory",
       "url": "https://open.spotify.com/track/71IgFgauHKNpetUKU3uDN3"
@@ -32860,7 +32860,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 224000,
       "name": "SHALLOWS",
       "url": "https://open.spotify.com/track/4kHUC1TmzUJc6QuLsj8yHV"
@@ -37039,6 +37039,24 @@
     },
     {
       "album": {
+        "name": "Take It",
+        "url": "https://open.spotify.com/album/7CJqqdp3IjQ1zPeoDqf85K"
+      },
+      "artists": [
+        {
+          "name": "Mark Anthony Bartolo",
+          "url": "https://open.spotify.com/artist/7rXIDYfKkJbsGH9ZQimGAK"
+        }
+      ],
+      "date_added": "2026-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196314,
+      "name": "Take It",
+      "url": "https://open.spotify.com/track/5jegQWKmBwdGwqJSIUDMkG"
+    },
+    {
+      "album": {
         "name": "Take It All",
         "url": "https://open.spotify.com/album/3FwxaV4IROjyNFVJyOjVWP"
       },
@@ -40039,6 +40057,24 @@
     },
     {
       "album": {
+        "name": "Thumbs Up",
+        "url": "https://open.spotify.com/album/6IAHCaMMMJ5HEMj1Lg9HDp"
+      },
+      "artists": [
+        {
+          "name": "R.C. Sullivan",
+          "url": "https://open.spotify.com/artist/7eBVl9afkXdfQCxXu9B7c4"
+        }
+      ],
+      "date_added": "2026-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132680,
+      "name": "Thumbs Up",
+      "url": "https://open.spotify.com/track/2cESdWJKoIMVxZiH6jhFEX"
+    },
+    {
+      "album": {
         "name": "SDSP",
         "url": "https://open.spotify.com/album/7zf869CJmttxZ2Orleeep4"
       },
@@ -42746,7 +42782,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 202262,
       "name": "We're all alone",
       "url": "https://open.spotify.com/track/1cOUPsmgD5UrfcIF6P7Gxb"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wa6XirBPv8.md) - [plain]
 
 > feel it all\. Cover: Taking Back Sunday
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,928,761 likes - 125 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,928,885 likes - 125 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wa6XirBPv8.md) - [plain]
 | 73 | [The Difference Between Medicine And Poison Is In The Dose](https://open.spotify.com/track/3SizB9Beb0HZHww3PjoXbQ) | [Circa Survive](https://open.spotify.com/artist/11FY888Qctoy6YueCpFkXT) | [On Letting Go](https://open.spotify.com/album/4Chn7XF8fzngf9GPfTMXLz) | 4:17 |
 | 74 | [Understanding In A Car Crash](https://open.spotify.com/track/3U5TzKrZP6sqiR43LQArV7) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Full Collapse](https://open.spotify.com/album/5HMT2y9yUoPH7yYhnyIpQo) | 4:24 |
 | 75 | [Stare At The Sun](https://open.spotify.com/track/0FXSU5PXzvKl3CpA5h3Hqx) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [The Artist In The Ambulance](https://open.spotify.com/album/7yu7B1B8O07jAFAZEFSRXA) | 3:23 |
-| 76 | [Monsters](https://open.spotify.com/track/1UVffD20CfHJ2wD0x0as8L) | [Matchbook Romance](https://open.spotify.com/artist/5cCgzhFyRJVydeO23BqgLG) | [VOICES](https://open.spotify.com/album/79IVbDVMkef8jqxosbKcL2) | 4:03 |
-| 77 | [Punk Rock Princess](https://open.spotify.com/track/07oVZP9Er2Fz8S59ePWLyK) | [Something Corporate](https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD) | [Leaving Through The Window](https://open.spotify.com/album/1yFFvTKFLIJhqa6DhXjzix) | 3:52 |
+| 76 | [Punk Rock Princess](https://open.spotify.com/track/07oVZP9Er2Fz8S59ePWLyK) | [Something Corporate](https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD) | [Leaving Through The Window](https://open.spotify.com/album/1yFFvTKFLIJhqa6DhXjzix) | 3:52 |
+| 77 | [Monsters](https://open.spotify.com/track/1UVffD20CfHJ2wD0x0as8L) | [Matchbook Romance](https://open.spotify.com/artist/5cCgzhFyRJVydeO23BqgLG) | [VOICES](https://open.spotify.com/album/79IVbDVMkef8jqxosbKcL2) | 4:03 |
 | 78 | [Act Appalled](https://open.spotify.com/track/1bujdcYDzWPyJHUiL6PXul) | [Circa Survive](https://open.spotify.com/artist/11FY888Qctoy6YueCpFkXT) | [Juturna](https://open.spotify.com/album/0huXZPw7bhK5vTv7CMYOmP) | 3:20 |
 | 79 | [Beating Heart Baby](https://open.spotify.com/track/24efdUt3KGbZ6wnBLp6j2n) | [Head Automatica](https://open.spotify.com/artist/2cyaobEho8uxhqLxwG7j6i) | [Decadence](https://open.spotify.com/album/4PQJiFSYykABCgha6bU4O6) | 3:23 |
 | 80 | [Emily](https://open.spotify.com/track/15n4p6R6Tuht5KAgK3g3IX) | [From First To Last](https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN) | [Dear Diary, My Teen Angst Has A Body Count](https://open.spotify.com/album/0Q6C8p6g47jEOU6G7SoRrS) | 2:39 |
@@ -105,10 +105,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wa6XirBPv8.md) - [plain]
 | 95 | [My Favorite Accident](https://open.spotify.com/track/5OU9pkK0wkHJMCOBVYafye) | [Motion City Soundtrack](https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D) | [I Am The Movie](https://open.spotify.com/album/3h73au9xc77Hnk4Hdkq85i) | 3:20 |
 | 96 | [Polygraph, Right Now!](https://open.spotify.com/track/0eF0hwXeVzUimc5YA5IT6J) | [The Spill Canvas](https://open.spotify.com/artist/4W8SeWrRZUburGZyp5JwYj) | [One Fell Swoop](https://open.spotify.com/album/0zpPut1LDImgvq2ihslxOL) | 3:03 |
 | 97 | [Juneau](https://open.spotify.com/track/1Ps1p8EztpQmxwRas27Il9) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Casually Dressed And Deep In Conversation](https://open.spotify.com/album/5RoKtuFghXVMHrtOf0CBKN) | 3:36 |
-| 98 | [What It Is To Burn \- New Version](https://open.spotify.com/track/2Jz3jX0HX2MhJM9yjYofdZ) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/7mEAwKVcYuMOKOCFQI6kfi) | 4:29 |
-| 99 | [Lucky Denver Mint](https://open.spotify.com/track/2GtMBnQshzpr6kIInqTJVd) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Clarity \(Expanded Edition\)](https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4) | 3:49 |
-| 100 | [You're So Last Summer](https://open.spotify.com/track/22opp9Depbmn43q5gSERwH) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tell All Your Friends \(20th Anniversary Edition\)](https://open.spotify.com/album/5vXgzBXFBLdsE22WvrkmjG) | 2:59 |
-| 101 | [I Just Wanna Run](https://open.spotify.com/track/2S4CfxZG29GZWwDeMtBq2R) | [The Downtown Fiction](https://open.spotify.com/artist/7MRDkEKtdsGcYn11A4qgUL) | [Best I Never Had](https://open.spotify.com/album/5fXNchpJ8jblaAsFQgVjLH) | 3:19 |
+| 98 | [You're So Last Summer](https://open.spotify.com/track/22opp9Depbmn43q5gSERwH) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tell All Your Friends \(20th Anniversary Edition\)](https://open.spotify.com/album/5vXgzBXFBLdsE22WvrkmjG) | 2:59 |
+| 99 | [I Just Wanna Run](https://open.spotify.com/track/2S4CfxZG29GZWwDeMtBq2R) | [The Downtown Fiction](https://open.spotify.com/artist/7MRDkEKtdsGcYn11A4qgUL) | [Best I Never Had](https://open.spotify.com/album/5fXNchpJ8jblaAsFQgVjLH) | 3:19 |
+| 100 | [Lucky Denver Mint](https://open.spotify.com/track/2GtMBnQshzpr6kIInqTJVd) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Clarity \(Expanded Edition\)](https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4) | 3:49 |
+| 101 | [What It Is To Burn \- New Version](https://open.spotify.com/track/2Jz3jX0HX2MhJM9yjYofdZ) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/7mEAwKVcYuMOKOCFQI6kfi) | 4:29 |
 | 102 | [Oh Messy Life](https://open.spotify.com/track/5UGOuPyoMT5XHNA75LJlQE) | [Cap'n Jazz](https://open.spotify.com/artist/3JhEcBWSCPXkRMt1VK14i4) | [Analphabetapolothology](https://open.spotify.com/album/4VgTw2LLWNMz1FIHkZuv5D) | 2:02 |
 | 103 | [Medicine](https://open.spotify.com/track/0uqTwEKTbkuhrn8yGSO6b5) | [Tiny Moving Parts](https://open.spotify.com/artist/5rJVTTK0ucAxQhkUc0nXbH) | [breathe](https://open.spotify.com/album/1JMg02mQ5nmVKBWWoDUIeo) | 3:11 |
 | 104 | [Nikki](https://open.spotify.com/track/2xu7bTUyvvJMBMi6JXvWAZ) | [Forever The Sickest Kids](https://open.spotify.com/artist/4frytKnOBrer4QVPWynGtX) | [J.A.C.K.](https://open.spotify.com/album/6LPiuWcOA9oPH8IERVWhGr) | 3:44 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 
 > 연인에게 전하는 노랫말과 달달한 시간을 함께하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,190 likes - 60 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,192 likes - 60 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 | 55 | [Take My Hand](https://open.spotify.com/track/6YBfa6iDpybEPDcQsPi9D2) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Webtoon YEONNOM OST Part.1](https://open.spotify.com/album/0hfgDbKZz3shzq7fwgRYBv) | 3:40 |
 | 56 | [My Everything](https://open.spotify.com/track/30OyUSm3KRcjZQ3Nb1kbXR) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [My Everything](https://open.spotify.com/album/06A6Z2M5V6JFVAXEAg4LAg) | 3:54 |
 | 57 | [It′s You](https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [It′s You](https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC) | 3:13 |
-| 58 | [Love Condition](https://open.spotify.com/track/6kUhDtV7NM7JSZYl6xV5HI) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Love Condition \(Original Soundtrack from Even If This Love Disappears Tonight\)](https://open.spotify.com/album/1gmhYJRiDv9QBJhYcUMbS6) | 4:32 |
-| 59 | [My Everything](https://open.spotify.com/track/2zuNdzBq4CPTlKySi2UHth) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [Soul Free](https://open.spotify.com/album/7zM9ILBsO6580uSLZzV8hC) | 4:53 |
+| 58 | [My Everything](https://open.spotify.com/track/2zuNdzBq4CPTlKySi2UHth) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [Soul Free](https://open.spotify.com/album/7zM9ILBsO6580uSLZzV8hC) | 4:53 |
+| 59 | [Love Condition](https://open.spotify.com/track/6kUhDtV7NM7JSZYl6xV5HI) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Love Condition \(Original Soundtrack from Even If This Love Disappears Tonight\)](https://open.spotify.com/album/1gmhYJRiDv9QBJhYcUMbS6) | 4:32 |
 | 60 | [WANT U](https://open.spotify.com/track/64D4Sjf0D6p1xSh8daZuBX) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [LOVE.](https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU) | 2:52 |
 
 Snapshot ID: `AAAAAM4wIkhM1Du5ViXqLQ0ZXfcRn4xp`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 
 > Muito romance, groove suave e R&B feitos no Brasil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,526 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,532 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 | 24 | [me chama de sua](https://open.spotify.com/track/50QrmagG9X8vRa6MSZqFGB) | [Bruna Mendez](https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc), [BRUNÊ](https://open.spotify.com/artist/5h3hEweoebaD7dHjZEmKRf), [DeVito Cxrleone](https://open.spotify.com/artist/6VrY01U9G7eJtIFlvG4U0k) | [Love Songs, Vol\. I](https://open.spotify.com/album/3Y0u6P7Nnji4j01vGbH2ON) | 2:19 |
 | 25 | [FORA DA LEI](https://open.spotify.com/track/5icVJ94721IikUq0hEDvnv) | [BIAB](https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF) | [FORA DA LEI](https://open.spotify.com/album/2cV1oGBot85ZGwuTqOVz2E) | 3:06 |
 | 26 | [Jeito Certo](https://open.spotify.com/track/271UeLAttA5JHMV0uJoral) | [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq), [Jorge Vercillo](https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs) | [Jeito Certo](https://open.spotify.com/album/58Srk85ymbUhZU2ePm0Vcx) | 3:10 |
-| 27 | [Fiquei assim](https://open.spotify.com/track/4F9xeQ3OJF2DOtdZdcCxnz) | [THAMI](https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Fiquei assim](https://open.spotify.com/album/6lwP5k0KjFzM2Rk1sIdCfN) | 3:38 |
-| 28 | [Apaixonado](https://open.spotify.com/track/7d6fo0hoWXzL1rcQ8jl2ZR) | [Thiago Jamelão](https://open.spotify.com/artist/7zHj1zkd6BDHQhMwWXLxQj) | [Apaixonado](https://open.spotify.com/album/1e1ElMB1qLhDlKQTcjYCsq) | 4:39 |
+| 27 | [Apaixonado](https://open.spotify.com/track/7d6fo0hoWXzL1rcQ8jl2ZR) | [Thiago Jamelão](https://open.spotify.com/artist/7zHj1zkd6BDHQhMwWXLxQj) | [Apaixonado](https://open.spotify.com/album/1e1ElMB1qLhDlKQTcjYCsq) | 4:39 |
+| 28 | [Fiquei assim](https://open.spotify.com/track/4F9xeQ3OJF2DOtdZdcCxnz) | [THAMI](https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Fiquei assim](https://open.spotify.com/album/6lwP5k0KjFzM2Rk1sIdCfN) | 3:38 |
 | 29 | [PASSARINHO](https://open.spotify.com/track/5xnUZDsZHLVzOoSevGTNSl) | [Dora Sanches](https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR) | [PASSARINHO](https://open.spotify.com/album/1GkRQZoM0BzLpn5RkQ5VX8) | 3:21 |
 | 30 | [OFERENDA](https://open.spotify.com/track/4knACzeO6UUyh8mVMzhAk2) | [Trajano](https://open.spotify.com/artist/3LxEjKaojOdrfAZ4HrdJQy) | [TRANÇA](https://open.spotify.com/album/33o0Id7mFVN77Vn4tKx8EQ) | 4:29 |
 | 31 | [amor não é suficiente](https://open.spotify.com/track/0mhohS3IL2uHRQHhRu36JW) | [Hanifah](https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr) | [amor não é suficiente](https://open.spotify.com/album/5lJ3be5dBEoJHnyprHg4mF) | 2:40 |

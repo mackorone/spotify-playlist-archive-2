@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1nydLfizjzY84t5hAoc5ct.md) - [plain]
 
 > OffAxisTours.com \| Indie \| Folk \| Electro \| Rock \| Pop  \| NO autotune, AI or instrumental
 
-[newfoundsound](https://open.spotify.com/user/newfoundsound) - 1,419 likes - 115 songs - 6 hr 8 min
+[newfoundsound](https://open.spotify.com/user/newfoundsound) - 1,419 likes - 117 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,5 +123,7 @@ pretty - [cumulative](/playlists/cumulative/1nydLfizjzY84t5hAoc5ct.md) - [plain]
 | 113 | [Twisted](https://open.spotify.com/track/3lnjiEMyKpAPtOEZR6Heyb) | [Anna Marx](https://open.spotify.com/artist/0uVaLTYvT29QKgp1NIkPp8) | [Twisted](https://open.spotify.com/album/1PKXY8u4zqwEuOfAJbFPkG) | 2:22 |
 | 114 | [Leaving Lewis](https://open.spotify.com/track/0ALm9JXJJWok8bmnF0fTcI) | [Willie Campbell](https://open.spotify.com/artist/1f9HLcCq2yssKl9qIhpXAU) | [Leaving Lewis](https://open.spotify.com/album/70qBYevsHzieH2yI36dmXg) | 3:18 |
 | 115 | [A Reckless Expenditure](https://open.spotify.com/track/0RQVNCtnxSiXiFXMQLwJtX) | [KATERINA.](https://open.spotify.com/artist/43Yvnw65fjs8L8FIhV2T1c) | [A Reckless Expenditure](https://open.spotify.com/album/4SGD85gF2YlRVSaXarQSTX) | 1:49 |
+| 116 | [Get Over It](https://open.spotify.com/track/5oheaEGelTvBnjgBMzZC4I) | [Ferguson Hi\-Fi](https://open.spotify.com/artist/6lOgAwO6yOGHLOqdplm0Cl) | [Get Over It](https://open.spotify.com/album/60qwrZakhvd5PQRd9le7I2) | 2:27 |
+| 117 | [Save Me Now](https://open.spotify.com/track/1DpOALvlIsJTQuzlCtVFTt) | [Florence Jack](https://open.spotify.com/artist/4pmpDqVKHxD5w8lCH7vCvv) | [Save Me Now](https://open.spotify.com/album/55Be5FbMyxOK5n6iW5DJ8E) | 3:33 |
 
-Snapshot ID: `AACE5IPpz6LPkX4HM3cz7aJnVNNJZmBI`
+Snapshot ID: `AACE5230pw4gxVa7nLbvDSSXX7JROQrE`

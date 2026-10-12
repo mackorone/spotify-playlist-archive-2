@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33YUTu.md) - [plain]
 
 > This is Greeicy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,709 likes - 48 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,725 likes - 48 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33YUTu.md) - [plain]
 | 47 | [Perfecta](https://open.spotify.com/track/5gH9CSkFW45IjfocI8MPsb) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Perfecta](https://open.spotify.com/album/7qFvB7ZvDIud6x16xMv3Ur) | 3:02 |
 | 48 | [todavíA](https://open.spotify.com/track/5d3G5eCkzT3U1dSGx8hTem) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [SAN BLAS](https://open.spotify.com/album/0FftKMxAvrnFuynmLCvjQ0) | 3:03 |
 
-Snapshot ID: `asbdAAAAAAAXEUEiG69sOjiTKnbx7HJq`
+Snapshot ID: `asgugAAAAABfr1Nea2jTQnjoAnoOdHEZ`

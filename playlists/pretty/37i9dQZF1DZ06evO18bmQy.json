@@ -1,12 +1,12 @@
 {
   "description": "This is Djonga. The essential tracks, all in one playlist.",
-  "num_followers": 211872,
+  "num_followers": 211884,
   "original_name": "This Is Djonga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asbdAAAAAAD/xo2gaHdhkO2AD2TUmCHP",
+  "snapshot_id": "asgugAAAAADXPexlMEwiKrjBqm52pJQC",
   "tracks": [
     {
       "added_at": null,
@@ -603,34 +603,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "ALFA",
-        "url": "https://open.spotify.com/album/57wEbqqEigzEjG2YV1t6z9"
+        "name": "Ladr\u00e3o",
+        "url": "https://open.spotify.com/album/1EOBeKw4ZLl3pObadX82fa"
       },
       "artists": [
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
         {
           "name": "Djonga",
           "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
         },
         {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Palma",
-          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
-        },
-        {
-          "name": "Galdino",
-          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
         }
       ],
-      "duration_ms": 271822,
-      "name": "Campo de Golf",
-      "url": "https://open.spotify.com/track/4EWJ3ZEXRYsF0wBLmWlbgL"
+      "duration_ms": 258816,
+      "name": "HAT TRICK",
+      "url": "https://open.spotify.com/track/2XtvccZF2k2TrAD9kxxqbk"
     },
     {
       "added_at": null,
@@ -675,22 +663,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ladr\u00e3o",
-        "url": "https://open.spotify.com/album/1EOBeKw4ZLl3pObadX82fa"
+        "name": "ALFA",
+        "url": "https://open.spotify.com/album/57wEbqqEigzEjG2YV1t6z9"
       },
       "artists": [
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
         {
           "name": "Djonga",
           "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
         },
         {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Palma",
+          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
         }
       ],
-      "duration_ms": 258816,
-      "name": "HAT TRICK",
-      "url": "https://open.spotify.com/track/2XtvccZF2k2TrAD9kxxqbk"
+      "duration_ms": 271822,
+      "name": "Campo de Golf",
+      "url": "https://open.spotify.com/track/4EWJ3ZEXRYsF0wBLmWlbgL"
     },
     {
       "added_at": null,
@@ -811,6 +811,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ladr\u00e3o",
+        "url": "https://open.spotify.com/album/1EOBeKw4ZLl3pObadX82fa"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        }
+      ],
+      "duration_ms": 222128,
+      "name": "FALC\u00c3O",
+      "url": "https://open.spotify.com/track/0Thmke3nCv0ICwdAMltnsI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quanto Mais Eu Como, Mais Fome Eu Sinto !",
+        "url": "https://open.spotify.com/album/5t78IIG7tiWQ9RUYApAJFG"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        }
+      ],
+      "duration_ms": 161971,
+      "name": "PPRT !",
+      "url": "https://open.spotify.com/track/3cENw2qigK9kUULiih4Trd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dacoromode",
         "url": "https://open.spotify.com/album/0TfnU1Dup2Gu3KU1hnkQ3A"
       },
@@ -843,46 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quanto Mais Eu Como, Mais Fome Eu Sinto !",
-        "url": "https://open.spotify.com/album/5t78IIG7tiWQ9RUYApAJFG"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
-        }
-      ],
-      "duration_ms": 161971,
-      "name": "PPRT !",
-      "url": "https://open.spotify.com/track/3cENw2qigK9kUULiih4Trd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ladr\u00e3o",
-        "url": "https://open.spotify.com/album/1EOBeKw4ZLl3pObadX82fa"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
-        }
-      ],
-      "duration_ms": 222128,
-      "name": "FALC\u00c3O",
-      "url": "https://open.spotify.com/track/0Thmke3nCv0ICwdAMltnsI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Inocente \"Demotape\"",
         "url": "https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk"
       },
@@ -895,26 +895,6 @@
       "duration_ms": 138321,
       "name": "das amantes freestyle",
       "url": "https://open.spotify.com/track/2CRnqV3kVYuqZ9iTWPvCy8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NU",
-        "url": "https://open.spotify.com/album/3OCXLuxt7qRhdQpyT9iY6E"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
-        }
-      ],
-      "duration_ms": 310375,
-      "name": "Eu",
-      "url": "https://open.spotify.com/track/5laoKYySUeCOSwpuhFG5yV"
     },
     {
       "added_at": null,
@@ -939,6 +919,26 @@
       "duration_ms": 197600,
       "name": "Todo Errado",
       "url": "https://open.spotify.com/track/3Arpp0tBz6tYleQAKjZ1jX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NU",
+        "url": "https://open.spotify.com/album/3OCXLuxt7qRhdQpyT9iY6E"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        }
+      ],
+      "duration_ms": 310375,
+      "name": "Eu",
+      "url": "https://open.spotify.com/track/5laoKYySUeCOSwpuhFG5yV"
     },
     {
       "added_at": null,
@@ -999,30 +999,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NU",
-        "url": "https://open.spotify.com/album/3OCXLuxt7qRhdQpyT9iY6E"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "MDN Beatz",
-          "url": "https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1"
-        },
-        {
-          "name": "Rapaz do Dread",
-          "url": "https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B"
-        }
-      ],
-      "duration_ms": 228631,
-      "name": "Xapral\u00e1",
-      "url": "https://open.spotify.com/track/76RsGo3soeUtmxJ946PzXc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hist\u00f3rias da Minha \u00c1rea",
         "url": "https://open.spotify.com/album/3NjTHK6FovpR3rHceaT5FE"
       },
@@ -1043,6 +1019,30 @@
       "duration_ms": 250016,
       "name": "O Cara de \u00d3culos",
       "url": "https://open.spotify.com/track/6qL5zqdwgWjZZV6qmqbWzF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NU",
+        "url": "https://open.spotify.com/album/3OCXLuxt7qRhdQpyT9iY6E"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "MDN Beatz",
+          "url": "https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1"
+        },
+        {
+          "name": "Rapaz do Dread",
+          "url": "https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B"
+        }
+      ],
+      "duration_ms": 228631,
+      "name": "Xapral\u00e1",
+      "url": "https://open.spotify.com/track/76RsGo3soeUtmxJ946PzXc"
     },
     {
       "added_at": null,

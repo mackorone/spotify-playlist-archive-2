@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59HcpGmPXYR.md) - [plain]
 
 > The revolutionaries, the allies, and the just plain fabulous: these flawless tracks are beyond perfect for Pride\. Cover: Slayyyter
 
-[Spotify](https://open.spotify.com/user/spotify) - 751,316 likes - 60 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 751,315 likes - 60 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59HcpGmPXYR.md) - [plain]
 | 31 | [Rush](https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 2:36 |
 | 32 | [Livin' la Vida Loca](https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj) | 4:03 |
 | 33 | [We R Who We R](https://open.spotify.com/track/3LUWWox8YYykohBbHUrrxd) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Cannibal \(Expanded Edition\)](https://open.spotify.com/album/0pGumY11G8OGH05ti6jh23) | 3:24 |
-| 34 | [Raise Your Glass](https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Raise Your Glass](https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh) | 3:22 |
-| 35 | [Black Magic](https://open.spotify.com/track/6rmXhRIemCTPyMYZRDN7Qg) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Get Weird \(Expanded Edition\)](https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs) | 3:31 |
+| 34 | [Black Magic](https://open.spotify.com/track/6rmXhRIemCTPyMYZRDN7Qg) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Get Weird \(Expanded Edition\)](https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs) | 3:31 |
+| 35 | [Raise Your Glass](https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Raise Your Glass](https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh) | 3:22 |
 | 36 | [Born to Be Alive \- The Original](https://open.spotify.com/track/3XIEWK1V9n25PS9Vb6axj5) | [Patrick Hernandez](https://open.spotify.com/artist/1CcEgi464SWZsKY5579u7z) | [Born to Be Alive \(The Original\)](https://open.spotify.com/album/0kVK9lFFTzhnEb4ETElbCD) | 3:08 |
 | 37 | [Just Can't Get Enough](https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Speak and Spell \(Deluxe\)](https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu) | 3:40 |
 | 38 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59HcpGmPXYR.md) - [plain]
 | 41 | [yes, and?](https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [yes, and?](https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb) | 3:34 |
 | 42 | [RUNWAY](https://open.spotify.com/track/7BjcYqD0CqXnG45ezWSTYR) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [RUNWAY](https://open.spotify.com/album/0WY1wVmchFYlH4f1yZMc90) | 2:51 |
 | 43 | [Work Bitch](https://open.spotify.com/track/3KliPMvk1EvFZu9cvkj8p1) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Britney Jean \(Deluxe Version\)](https://open.spotify.com/album/5rlB2HPoNHg2m1wmmh0TRv) | 4:07 |
-| 44 | [KGB](https://open.spotify.com/track/7C7vnAW3L8ahsOGsZKY6EP) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [KGB](https://open.spotify.com/album/06wdsqUb4GSuR29Luwiu8n) | 2:37 |
-| 45 | [Grace Kelly](https://open.spotify.com/track/2SDx0PooHZI1SQKR0y44bs) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [Life In Cartoon Motion](https://open.spotify.com/album/6oIaXBTIZ2Q9cJKBgrZ2Ox) | 3:07 |
+| 44 | [Grace Kelly](https://open.spotify.com/track/2SDx0PooHZI1SQKR0y44bs) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [Life In Cartoon Motion](https://open.spotify.com/album/6oIaXBTIZ2Q9cJKBgrZ2Ox) | 3:07 |
+| 45 | [KGB](https://open.spotify.com/track/7C7vnAW3L8ahsOGsZKY6EP) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [KGB](https://open.spotify.com/album/06wdsqUb4GSuR29Luwiu8n) | 2:37 |
 | 46 | [Prisoner \(feat\. Dua Lipa\)](https://open.spotify.com/track/2Oycxb8QbPkpHTo8ZrmG0B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 2:49 |
 | 47 | [Let's Get Loud](https://open.spotify.com/track/42nSaPdT6g3ZIMHmKLlP2p) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On The 6](https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc) | 3:59 |
 | 48 | [We Are Family \- 1995 Remaster](https://open.spotify.com/track/5IKLwqBQG6KU6MP2zP80Nu) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [We Are Family \(1995 Remaster\)](https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT) | 3:36 |

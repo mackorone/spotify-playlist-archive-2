@@ -1,6 +1,6 @@
 {
   "description": "The perfect backdrop to an evening spent relaxing in solitude.",
-  "num_followers": 2181207,
+  "num_followers": 2181227,
   "original_name": "Late Night Jazz",
   "owner": {
     "name": "Spotify",
@@ -115,6 +115,38 @@
     {
       "added_at": "2026-09-21 13:05:28",
       "album": {
+        "name": "Fair Weather",
+        "url": "https://open.spotify.com/album/0WElMAVB4r6VX75zorqBcd"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Pelt",
+          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
+        }
+      ],
+      "duration_ms": 284493,
+      "name": "Fair Weather",
+      "url": "https://open.spotify.com/track/1dgCELvPBCSpPGYNNNNU9q"
+    },
+    {
+      "added_at": "2026-09-21 13:05:28",
+      "album": {
+        "name": "Frozen Flashes",
+        "url": "https://open.spotify.com/album/21GPT25bZsfbb5qYXDvgL8"
+      },
+      "artists": [
+        {
+          "name": "Okvsho",
+          "url": "https://open.spotify.com/artist/30b8dNhkUcfPVsDbwyXlC9"
+        }
+      ],
+      "duration_ms": 246957,
+      "name": "Place of Two",
+      "url": "https://open.spotify.com/track/2mVQXLMuQCe6BiTrdLRbhf"
+    },
+    {
+      "added_at": "2026-09-21 13:05:28",
+      "album": {
         "name": "This Is Our Year",
         "url": "https://open.spotify.com/album/0vly6DrBxbf2tIUB33vOh0"
       },
@@ -143,22 +175,6 @@
       "duration_ms": 371894,
       "name": "This Is Our Year",
       "url": "https://open.spotify.com/track/24USzMZvsczfg3WsjUruPc"
-    },
-    {
-      "added_at": "2026-09-21 13:05:28",
-      "album": {
-        "name": "Fair Weather",
-        "url": "https://open.spotify.com/album/0WElMAVB4r6VX75zorqBcd"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Pelt",
-          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
-        }
-      ],
-      "duration_ms": 284493,
-      "name": "Fair Weather",
-      "url": "https://open.spotify.com/track/1dgCELvPBCSpPGYNNNNU9q"
     },
     {
       "added_at": "2026-09-21 13:05:28",
@@ -203,38 +219,6 @@
     {
       "added_at": "2026-09-21 13:05:28",
       "album": {
-        "name": "Frozen Flashes",
-        "url": "https://open.spotify.com/album/21GPT25bZsfbb5qYXDvgL8"
-      },
-      "artists": [
-        {
-          "name": "Okvsho",
-          "url": "https://open.spotify.com/artist/30b8dNhkUcfPVsDbwyXlC9"
-        }
-      ],
-      "duration_ms": 246957,
-      "name": "Place of Two",
-      "url": "https://open.spotify.com/track/2mVQXLMuQCe6BiTrdLRbhf"
-    },
-    {
-      "added_at": "2026-09-21 13:05:28",
-      "album": {
-        "name": "Approaching Standards",
-        "url": "https://open.spotify.com/album/1OGhqJimAFVAtyX7PKbakD"
-      },
-      "artists": [
-        {
-          "name": "Roy Hargrove",
-          "url": "https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs"
-        }
-      ],
-      "duration_ms": 372493,
-      "name": "Ruby My Dear",
-      "url": "https://open.spotify.com/track/1czzmAtPTw287TyMQEfCfg"
-    },
-    {
-      "added_at": "2026-09-21 13:05:28",
-      "album": {
         "name": "The Nearness of You",
         "url": "https://open.spotify.com/album/1udDe5yKP7MzgrpWKyFaOo"
       },
@@ -259,6 +243,38 @@
       "duration_ms": 394653,
       "name": "The Nearness of You",
       "url": "https://open.spotify.com/track/659rgge3J3HiNeVNjhWcbH"
+    },
+    {
+      "added_at": "2026-09-21 13:05:28",
+      "album": {
+        "name": "Approaching Standards",
+        "url": "https://open.spotify.com/album/1OGhqJimAFVAtyX7PKbakD"
+      },
+      "artists": [
+        {
+          "name": "Roy Hargrove",
+          "url": "https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs"
+        }
+      ],
+      "duration_ms": 372493,
+      "name": "Ruby My Dear",
+      "url": "https://open.spotify.com/track/1czzmAtPTw287TyMQEfCfg"
+    },
+    {
+      "added_at": "2026-09-21 13:05:28",
+      "album": {
+        "name": "Where moments wait",
+        "url": "https://open.spotify.com/album/4YHht6wVxHw5xXgN5yIc4f"
+      },
+      "artists": [
+        {
+          "name": "Okvsho",
+          "url": "https://open.spotify.com/artist/30b8dNhkUcfPVsDbwyXlC9"
+        }
+      ],
+      "duration_ms": 204198,
+      "name": "Where moments wait",
+      "url": "https://open.spotify.com/track/2iCLQ0ijBjOSWGx4uUEUh4"
     },
     {
       "added_at": "2026-09-21 13:05:28",
@@ -295,22 +311,6 @@
       "duration_ms": 488693,
       "name": "Willow Weep for Me",
       "url": "https://open.spotify.com/track/6ttNHrgyK11RvgYOdC6Vpn"
-    },
-    {
-      "added_at": "2026-09-21 13:05:28",
-      "album": {
-        "name": "Where moments wait",
-        "url": "https://open.spotify.com/album/4YHht6wVxHw5xXgN5yIc4f"
-      },
-      "artists": [
-        {
-          "name": "Okvsho",
-          "url": "https://open.spotify.com/artist/30b8dNhkUcfPVsDbwyXlC9"
-        }
-      ],
-      "duration_ms": 204198,
-      "name": "Where moments wait",
-      "url": "https://open.spotify.com/track/2iCLQ0ijBjOSWGx4uUEUh4"
     },
     {
       "added_at": "2026-09-21 13:05:28",
@@ -467,22 +467,6 @@
     {
       "added_at": "2026-09-21 13:05:28",
       "album": {
-        "name": "Bright Sparkling Light",
-        "url": "https://open.spotify.com/album/1odgphm2RtahCSL2ksCrn9"
-      },
-      "artists": [
-        {
-          "name": "Matthew Halsall",
-          "url": "https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46"
-        }
-      ],
-      "duration_ms": 603920,
-      "name": "The Tide and the Moon",
-      "url": "https://open.spotify.com/track/4M9T3aWVBKglVwWCMOvVKX"
-    },
-    {
-      "added_at": "2026-09-21 13:05:28",
-      "album": {
         "name": "The Shadow of Your Smile",
         "url": "https://open.spotify.com/album/5qz2663lHFjJC9QYTu4JRC"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 155741,
       "name": "The Shadow of Your Smile",
       "url": "https://open.spotify.com/track/1I7OMSoMhToGtA1QCTyTBw"
+    },
+    {
+      "added_at": "2026-09-21 13:05:28",
+      "album": {
+        "name": "Bright Sparkling Light",
+        "url": "https://open.spotify.com/album/1odgphm2RtahCSL2ksCrn9"
+      },
+      "artists": [
+        {
+          "name": "Matthew Halsall",
+          "url": "https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46"
+        }
+      ],
+      "duration_ms": 603920,
+      "name": "The Tide and the Moon",
+      "url": "https://open.spotify.com/track/4M9T3aWVBKglVwWCMOvVKX"
     },
     {
       "added_at": "2026-09-21 13:05:28",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-09-21 13:05:28",
       "album": {
-        "name": "Stream",
-        "url": "https://open.spotify.com/album/4pH0Oy0jxql2EanMDhiMde"
-      },
-      "artists": [
-        {
-          "name": "Tord Gustavsen Trio",
-          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
-        }
-      ],
-      "duration_ms": 423813,
-      "name": "Stream",
-      "url": "https://open.spotify.com/track/16w6mm1Wg1dD9Nqkl720O0"
-    },
-    {
-      "added_at": "2026-09-21 13:05:28",
-      "album": {
         "name": "Standard time volume 3: The revolution of romance",
         "url": "https://open.spotify.com/album/3WOJZqHEK5CyxP1Jwxb2z0"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 168666,
       "name": "Where or When",
       "url": "https://open.spotify.com/track/7xUbHoSHkdV7mb9UN1fuzL"
+    },
+    {
+      "added_at": "2026-09-21 13:05:28",
+      "album": {
+        "name": "Stream",
+        "url": "https://open.spotify.com/album/4pH0Oy0jxql2EanMDhiMde"
+      },
+      "artists": [
+        {
+          "name": "Tord Gustavsen Trio",
+          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
+        }
+      ],
+      "duration_ms": 423813,
+      "name": "Stream",
+      "url": "https://open.spotify.com/track/16w6mm1Wg1dD9Nqkl720O0"
     },
     {
       "added_at": "2026-09-21 13:05:28",
@@ -999,30 +999,6 @@
     {
       "added_at": "2026-09-21 13:05:28",
       "album": {
-        "name": "Faithful",
-        "url": "https://open.spotify.com/album/2vsMMoxL7EcOp5KS1tuyo2"
-      },
-      "artists": [
-        {
-          "name": "Marcin Wasilewski",
-          "url": "https://open.spotify.com/artist/2OR51iG3dgqkVJF42L8EZF"
-        },
-        {
-          "name": "Slawomir Kurkiewicz",
-          "url": "https://open.spotify.com/artist/43J6c67BjlcVv0jEJAjUwR"
-        },
-        {
-          "name": "Michal Miskiewicz",
-          "url": "https://open.spotify.com/artist/2waNvIVUzVXYJvA3SrdBrT"
-        }
-      ],
-      "duration_ms": 329600,
-      "name": "Ballad Of The Sad Young Men",
-      "url": "https://open.spotify.com/track/6N57mvrlpGr2yl0FfiHnY4"
-    },
-    {
-      "added_at": "2026-09-21 13:05:28",
-      "album": {
         "name": "Song To An Old Friend",
         "url": "https://open.spotify.com/album/4x86WkNb7br5HVPasAkRWH"
       },
@@ -1059,6 +1035,30 @@
       "duration_ms": 369293,
       "name": "Song To An Old Friend",
       "url": "https://open.spotify.com/track/456KdVK2lZh5ngKyxvFpfg"
+    },
+    {
+      "added_at": "2026-09-21 13:05:28",
+      "album": {
+        "name": "Faithful",
+        "url": "https://open.spotify.com/album/2vsMMoxL7EcOp5KS1tuyo2"
+      },
+      "artists": [
+        {
+          "name": "Marcin Wasilewski",
+          "url": "https://open.spotify.com/artist/2OR51iG3dgqkVJF42L8EZF"
+        },
+        {
+          "name": "Slawomir Kurkiewicz",
+          "url": "https://open.spotify.com/artist/43J6c67BjlcVv0jEJAjUwR"
+        },
+        {
+          "name": "Michal Miskiewicz",
+          "url": "https://open.spotify.com/artist/2waNvIVUzVXYJvA3SrdBrT"
+        }
+      ],
+      "duration_ms": 329600,
+      "name": "Ballad Of The Sad Young Men",
+      "url": "https://open.spotify.com/track/6N57mvrlpGr2yl0FfiHnY4"
     },
     {
       "added_at": "2026-09-21 13:05:28",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2026-09-21 13:05:28",
       "album": {
+        "name": "Layers of Life",
+        "url": "https://open.spotify.com/album/4zhb3DCfHH8ADFxBn0rirh"
+      },
+      "artists": [
+        {
+          "name": "Emil Brandqvist Trio",
+          "url": "https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG"
+        }
+      ],
+      "duration_ms": 286080,
+      "name": "Lullaby in Green",
+      "url": "https://open.spotify.com/track/5HlmJxQcRjCFJ8ijKvwVK5"
+    },
+    {
+      "added_at": "2026-09-21 13:05:28",
+      "album": {
         "name": "Collblanc",
         "url": "https://open.spotify.com/album/1xqIngSJuoNALGX6LRq7Eq"
       },
@@ -1235,18 +1251,18 @@
     {
       "added_at": "2026-09-21 13:05:28",
       "album": {
-        "name": "Layers of Life",
-        "url": "https://open.spotify.com/album/4zhb3DCfHH8ADFxBn0rirh"
+        "name": "Reminiscing at Rudy's",
+        "url": "https://open.spotify.com/album/3Fh49WPCX4Xq6fbbSHw0b4"
       },
       "artists": [
         {
-          "name": "Emil Brandqvist Trio",
-          "url": "https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG"
+          "name": "Houston Person",
+          "url": "https://open.spotify.com/artist/16Xx0WCnAKOA9mwPPSUJmr"
         }
       ],
-      "duration_ms": 286080,
-      "name": "Lullaby in Green",
-      "url": "https://open.spotify.com/track/5HlmJxQcRjCFJ8ijKvwVK5"
+      "duration_ms": 462120,
+      "name": "I'll Let You Know",
+      "url": "https://open.spotify.com/track/07uHVemK3iJmGnHKigX3rS"
     },
     {
       "added_at": "2026-09-21 13:05:28",
@@ -1267,22 +1283,6 @@
       "duration_ms": 284333,
       "name": "Try To Remember",
       "url": "https://open.spotify.com/track/0x5FmQTsgtZqTrj9RwPJVT"
-    },
-    {
-      "added_at": "2026-09-21 13:05:28",
-      "album": {
-        "name": "Reminiscing at Rudy's",
-        "url": "https://open.spotify.com/album/3Fh49WPCX4Xq6fbbSHw0b4"
-      },
-      "artists": [
-        {
-          "name": "Houston Person",
-          "url": "https://open.spotify.com/artist/16Xx0WCnAKOA9mwPPSUJmr"
-        }
-      ],
-      "duration_ms": 462120,
-      "name": "I'll Let You Know",
-      "url": "https://open.spotify.com/track/07uHVemK3iJmGnHKigX3rS"
     },
     {
       "added_at": "2026-09-21 13:05:28",
@@ -1351,30 +1351,6 @@
     {
       "added_at": "2026-09-21 13:05:28",
       "album": {
-        "name": "Ballad For Bernt",
-        "url": "https://open.spotify.com/album/2YkspzNzQEkKA7byABIRmh"
-      },
-      "artists": [
-        {
-          "name": "Portraits in Jazz",
-          "url": "https://open.spotify.com/artist/7c7414LKkYnuDPlkrwDg9a"
-        },
-        {
-          "name": "Claus Waidtl\u00f8w",
-          "url": "https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D"
-        },
-        {
-          "name": "Nikolaj Hess",
-          "url": "https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ"
-        }
-      ],
-      "duration_ms": 357734,
-      "name": "Ballad For Bernt",
-      "url": "https://open.spotify.com/track/4Jl4pV7gwpSGav8VC2UQaD"
-    },
-    {
-      "added_at": "2026-09-21 13:05:28",
-      "album": {
         "name": "Second Strike",
         "url": "https://open.spotify.com/album/3EaWLcF0zw4bj1EtGR7M4F"
       },
@@ -1419,6 +1395,30 @@
       "duration_ms": 341797,
       "name": "Opaque",
       "url": "https://open.spotify.com/track/4u5mFoRNJAOP1h2MedgInP"
+    },
+    {
+      "added_at": "2026-09-21 13:05:28",
+      "album": {
+        "name": "Ballad For Bernt",
+        "url": "https://open.spotify.com/album/2YkspzNzQEkKA7byABIRmh"
+      },
+      "artists": [
+        {
+          "name": "Portraits in Jazz",
+          "url": "https://open.spotify.com/artist/7c7414LKkYnuDPlkrwDg9a"
+        },
+        {
+          "name": "Claus Waidtl\u00f8w",
+          "url": "https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D"
+        },
+        {
+          "name": "Nikolaj Hess",
+          "url": "https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ"
+        }
+      ],
+      "duration_ms": 357734,
+      "name": "Ballad For Bernt",
+      "url": "https://open.spotify.com/track/4Jl4pV7gwpSGav8VC2UQaD"
     },
     {
       "added_at": "2026-09-21 13:05:28",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2026-09-21 13:05:28",
       "album": {
-        "name": "Pause",
-        "url": "https://open.spotify.com/album/4hsAzbCsj34wT8lBYArxn0"
-      },
-      "artists": [
-        {
-          "name": "Casper Hejlesen",
-          "url": "https://open.spotify.com/artist/6wJA4brAniop9TeGhaL17g"
-        }
-      ],
-      "duration_ms": 263872,
-      "name": "Pause",
-      "url": "https://open.spotify.com/track/5kmRpMlAFCCuo8tWpNIvx9"
-    },
-    {
-      "added_at": "2026-09-21 13:05:28",
-      "album": {
         "name": "Passage",
         "url": "https://open.spotify.com/album/6pBPOLd5zU0AbHzGkUZm4z"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 427213,
       "name": "Out of Sight, Out of Mind",
       "url": "https://open.spotify.com/track/3OBokYRuPMAielITqkNQBg"
+    },
+    {
+      "added_at": "2026-09-21 13:05:28",
+      "album": {
+        "name": "Pause",
+        "url": "https://open.spotify.com/album/4hsAzbCsj34wT8lBYArxn0"
+      },
+      "artists": [
+        {
+          "name": "Casper Hejlesen",
+          "url": "https://open.spotify.com/artist/6wJA4brAniop9TeGhaL17g"
+        }
+      ],
+      "duration_ms": 263872,
+      "name": "Pause",
+      "url": "https://open.spotify.com/track/5kmRpMlAFCCuo8tWpNIvx9"
     },
     {
       "added_at": "2026-09-21 13:05:28",
@@ -1863,6 +1863,22 @@
     {
       "added_at": "2026-09-21 13:05:28",
       "album": {
+        "name": "'Round Midnight",
+        "url": "https://open.spotify.com/album/557dwqxs1MZqGLPe1p4qZl"
+      },
+      "artists": [
+        {
+          "name": "Battista Lena",
+          "url": "https://open.spotify.com/artist/6tSsm1i1CJCa7A8UVD2KpO"
+        }
+      ],
+      "duration_ms": 270508,
+      "name": "'Round Midnight",
+      "url": "https://open.spotify.com/track/5xfV4wVvcSYKlItHIyGRpN"
+    },
+    {
+      "added_at": "2026-09-21 13:05:28",
+      "album": {
         "name": "Abeyance",
         "url": "https://open.spotify.com/album/0B2KIoa9OpRydCNaOP5p50"
       },
@@ -1879,18 +1895,22 @@
     {
       "added_at": "2026-09-21 13:05:28",
       "album": {
-        "name": "'Round Midnight",
-        "url": "https://open.spotify.com/album/557dwqxs1MZqGLPe1p4qZl"
+        "name": "Dialect",
+        "url": "https://open.spotify.com/album/4UpbueFifa4yKmDEC1WF4g"
       },
       "artists": [
         {
-          "name": "Battista Lena",
-          "url": "https://open.spotify.com/artist/6tSsm1i1CJCa7A8UVD2KpO"
+          "name": "Claire Cross",
+          "url": "https://open.spotify.com/artist/6bwpmSl0lkpkKL4WOeTJkM"
+        },
+        {
+          "name": "Harry Cook",
+          "url": "https://open.spotify.com/artist/43ZoUJoa611w4B97Z1xmD2"
         }
       ],
-      "duration_ms": 270508,
-      "name": "'Round Midnight",
-      "url": "https://open.spotify.com/track/5xfV4wVvcSYKlItHIyGRpN"
+      "duration_ms": 222858,
+      "name": "Road to Eden",
+      "url": "https://open.spotify.com/track/1DkwudFUViQRC9K55E7dO3"
     },
     {
       "added_at": "2026-09-21 13:05:28",
@@ -1915,26 +1935,6 @@
       "duration_ms": 207306,
       "name": "A Blacksmith's Tale",
       "url": "https://open.spotify.com/track/5dKt8ZixGTGg9Uif6znrOn"
-    },
-    {
-      "added_at": "2026-09-21 13:05:28",
-      "album": {
-        "name": "Dialect",
-        "url": "https://open.spotify.com/album/4UpbueFifa4yKmDEC1WF4g"
-      },
-      "artists": [
-        {
-          "name": "Claire Cross",
-          "url": "https://open.spotify.com/artist/6bwpmSl0lkpkKL4WOeTJkM"
-        },
-        {
-          "name": "Harry Cook",
-          "url": "https://open.spotify.com/artist/43ZoUJoa611w4B97Z1xmD2"
-        }
-      ],
-      "duration_ms": 222858,
-      "name": "Road to Eden",
-      "url": "https://open.spotify.com/track/1DkwudFUViQRC9K55E7dO3"
     },
     {
       "added_at": "2026-09-21 13:05:28",
@@ -1995,6 +1995,22 @@
     {
       "added_at": "2026-09-21 13:05:28",
       "album": {
+        "name": "Love Letters (The Ballad Sessions)",
+        "url": "https://open.spotify.com/album/1S9fKb1LsKDJge0X5KvsaO"
+      },
+      "artists": [
+        {
+          "name": "JD Allen",
+          "url": "https://open.spotify.com/artist/5ACouApJyhZpZ3Eu2DtrlM"
+        }
+      ],
+      "duration_ms": 310182,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/26pIDw68F6bO8Qk0IHtXE7"
+    },
+    {
+      "added_at": "2026-09-21 13:05:28",
+      "album": {
         "name": "Waltz for an Absent Lover",
         "url": "https://open.spotify.com/album/7eeM5Bv1i8Rnb1Egus1RJX"
       },
@@ -2015,22 +2031,6 @@
       "duration_ms": 244040,
       "name": "Waltz for an Absent Lover",
       "url": "https://open.spotify.com/track/3NOaSvn1vaUuKMZ6r6kJfX"
-    },
-    {
-      "added_at": "2026-09-21 13:05:28",
-      "album": {
-        "name": "Love Letters (The Ballad Sessions)",
-        "url": "https://open.spotify.com/album/1S9fKb1LsKDJge0X5KvsaO"
-      },
-      "artists": [
-        {
-          "name": "JD Allen",
-          "url": "https://open.spotify.com/artist/5ACouApJyhZpZ3Eu2DtrlM"
-        }
-      ],
-      "duration_ms": 310182,
-      "name": "Stardust",
-      "url": "https://open.spotify.com/track/26pIDw68F6bO8Qk0IHtXE7"
     },
     {
       "added_at": "2026-09-21 13:05:28",

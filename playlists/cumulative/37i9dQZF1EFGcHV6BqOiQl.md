@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/34ez51Qa142eo2zewgoonx">Mbryo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-61 songs - 3 hr 6 min
+62 songs - 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [Stamina](https://open.spotify.com/track/1tOp1bXhT9tvydSAGDHdQy) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Stamina](https://open.spotify.com/album/1hfN3p0gt7f6kW8UUyehWm) | 2:46 | 2023-08-21 | 2024-04-04 |
 | [Tete](https://open.spotify.com/track/4QXfHYZA1No0EJUOeJWrOB) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [Tete](https://open.spotify.com/album/0LcPWIkURe7hXEYWEtoCZ2) | 2:43 | 2024-08-23 |  |
 | [Treasure](https://open.spotify.com/track/0ZeU1691bYmy26bDvFCUMc) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Starrgirl](https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma) | 2:39 | 2026-10-05 |  |
-| [treat u right](https://open.spotify.com/track/38Mnfr1l5t2kckdzoJuXTl) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [treat u right](https://open.spotify.com/album/40A1rVfEkPBAri7GV6iCZE) | 2:57 | 2026-09-23 |  |
+| [treat u right](https://open.spotify.com/track/2SKuiB4czNhIdk8Ng0DoRn) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [9](https://open.spotify.com/album/1fHRY61FCATcIMjN0DPtdm) | 2:57 | 2026-10-11 |  |
+| [treat u right](https://open.spotify.com/track/38Mnfr1l5t2kckdzoJuXTl) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [treat u right](https://open.spotify.com/album/40A1rVfEkPBAri7GV6iCZE) | 2:57 | 2026-09-23 | 2026-10-12 |
 | [UNLIMITED](https://open.spotify.com/track/5Qt3tb5U0VvYbiQXW8SID9) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [UNLIMITED](https://open.spotify.com/album/6FvHEmAaSR9mgfQVC0XpZm) | 2:06 | 2026-09-23 |  |
 | [Who Is Your Guy? \- Remix](https://open.spotify.com/track/0IeTiOC1lnJUtS3l61bX93) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Who Is Your Guy? \(Remix\)](https://open.spotify.com/album/7rfHdWLSVxSfUe0MhI3mCz) | 3:31 | 2026-02-18 |  |
 | [Who Is Your Guy? \- Remix](https://open.spotify.com/track/3aGroTtXwkWJ7wOwKEI8Px) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Who Is Your Guy? \(Remix\)](https://open.spotify.com/album/3PAkBEUTDOVbETaV0tnR4R) | 3:31 | 2023-08-21 | 2026-02-19 |

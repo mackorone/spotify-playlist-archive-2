@@ -1,12 +1,12 @@
 {
   "description": "This is Chance the Rapper. The essential tracks, all in one playlist.",
-  "num_followers": 210700,
+  "num_followers": 210696,
   "original_name": "This Is Chance the Rapper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asbdAAAAAABqO3FVrJUQZ9e4/28S8Xh5",
+  "snapshot_id": "asmAAAAAAABA0vaVfb+H3j0XphYMzoxr",
   "tracks": [
     {
       "added_at": null,
@@ -1031,26 +1031,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just Getting Started",
-        "url": "https://open.spotify.com/album/29CRmHA3hsGk1nwoRnjbxC"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        },
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 199431,
-      "name": "Still Get Chanel (feat. Chance The Rapper)",
-      "url": "https://open.spotify.com/track/3CwLcNeac7m8ideW4m7AC6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Love Letter To You 4 (Deluxe)",
         "url": "https://open.spotify.com/album/6Qb3toNhi0XwcZG43ksJX9"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 229244,
       "name": "I Love You (feat. Chance The Rapper)",
       "url": "https://open.spotify.com/track/6qEbKsvhAQjV3GfSGn1A8K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Just Getting Started",
+        "url": "https://open.spotify.com/album/29CRmHA3hsGk1nwoRnjbxC"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "duration_ms": 199431,
+      "name": "Still Get Chanel (feat. Chance The Rapper)",
+      "url": "https://open.spotify.com/track/3CwLcNeac7m8ideW4m7AC6"
     },
     {
       "added_at": null,

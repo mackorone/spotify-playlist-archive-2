@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 
 > Tuyo es el reino, Tuyo el poder y la gloria por siempre, Señor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,840 likes - 100 songs - 9 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,827 likes - 100 songs - 9 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,11 +81,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 | 71 | [Mi Casa Y Yo](https://open.spotify.com/track/43n69z6ySqLtXjkmeWeBEe) | [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [Mi Casa Y Yo](https://open.spotify.com/album/0i512i22eafJqbKfbC8x0k) | 3:43 |
 | 72 | [La Cruz](https://open.spotify.com/track/1IN4Xq6HhJtP7MylpnP8ec) | [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd) | [Amor Palabra Poder](https://open.spotify.com/album/5sTiKrYnSSbcYyZYzgz4sm) | 5:46 |
 | 73 | [Hay Poder](https://open.spotify.com/track/3VSYtAqWgzIrUJp3sTk4h2) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Seamos Luz](https://open.spotify.com/album/5pvHvfyAdZyeunmyYLtfHS) | 7:04 |
-| 74 | [Creo En Ti](https://open.spotify.com/track/0vaqXI37M1v9RfiP1BI0t7) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Creo en Ti](https://open.spotify.com/album/0TrCmb35euEi2wkZvBgjWy) | 7:03 |
-| 75 | [Gracias](https://open.spotify.com/track/38GjgoCoXBStVNBBgl6Ove) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [25 Concierto Conmemorativo](https://open.spotify.com/album/05f8DnleuhszCNSDe2YGCW) | 5:05 |
-| 76 | [Gracia Sublime Es](https://open.spotify.com/track/5y5o4CayTLb3nMtrGkGko6) | [En Espíritu Y En Verdad](https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb) | [Piedras Vivas](https://open.spotify.com/album/2KjcElLTluwudvzcVTTkAU) | 5:15 |
-| 77 | [Digno](https://open.spotify.com/track/25tGKAPQyxt3XWoZaKh4YE) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ), [Marcos Brunet](https://open.spotify.com/artist/3XAsLrjUgQ9V2D8MjTfv8C), [Yvonne Muñoz](https://open.spotify.com/artist/5eF9oy3uIgTMRIX3xkAfGi) | [Amanece \(Deluxe Edition\)](https://open.spotify.com/album/6Cc1JTOGWY55Fz5EVuadDy) | 7:24 |
-| 78 | [Por Su Gracia](https://open.spotify.com/track/6fZJwVu9LcQwnZfG3sy12T) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [People \- En Español](https://open.spotify.com/album/3UoN9QrWC7Kbvs0QMuNAXa) | 6:00 |
+| 74 | [Por Su Gracia](https://open.spotify.com/track/6fZJwVu9LcQwnZfG3sy12T) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [People \- En Español](https://open.spotify.com/album/3UoN9QrWC7Kbvs0QMuNAXa) | 6:00 |
+| 75 | [Creo En Ti](https://open.spotify.com/track/0vaqXI37M1v9RfiP1BI0t7) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Creo en Ti](https://open.spotify.com/album/0TrCmb35euEi2wkZvBgjWy) | 7:03 |
+| 76 | [Gracias](https://open.spotify.com/track/38GjgoCoXBStVNBBgl6Ove) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [25 Concierto Conmemorativo](https://open.spotify.com/album/05f8DnleuhszCNSDe2YGCW) | 5:05 |
+| 77 | [Gracia Sublime Es](https://open.spotify.com/track/5y5o4CayTLb3nMtrGkGko6) | [En Espíritu Y En Verdad](https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb) | [Piedras Vivas](https://open.spotify.com/album/2KjcElLTluwudvzcVTTkAU) | 5:15 |
+| 78 | [Digno](https://open.spotify.com/track/25tGKAPQyxt3XWoZaKh4YE) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ), [Marcos Brunet](https://open.spotify.com/artist/3XAsLrjUgQ9V2D8MjTfv8C), [Yvonne Muñoz](https://open.spotify.com/artist/5eF9oy3uIgTMRIX3xkAfGi) | [Amanece \(Deluxe Edition\)](https://open.spotify.com/album/6Cc1JTOGWY55Fz5EVuadDy) | 7:24 |
 | 79 | [Mi Shalom](https://open.spotify.com/track/58japnj5Xn49Wpi5WpMiUT) | [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I), [Graciela Galmes](https://open.spotify.com/artist/7EnYA3MomsUMPg4hbWmy5r) | [Mi Shalom](https://open.spotify.com/album/5tcaH26vOYM9mluQUwROcz) | 7:00 |
 | 80 | [Precioso Jesús](https://open.spotify.com/track/3YVVAZB6NvCzzrjDandHkm) | [Esperanza de Vida](https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1) | [Me Has Hecho Libre](https://open.spotify.com/album/1flyahsdmJyAmkKr6q45ZI) | 6:20 |
 | 81 | [Obra de Tu Amor](https://open.spotify.com/track/1yvDR7cxU98Zr2VxQ4WZE3) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd), [Lowsan Melgar](https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw), [Pedro Pablo Quintero](https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Obra de Tu Amor](https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV) | 10:05 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 | 96 | [Santo Río de Dios](https://open.spotify.com/track/5CtOZQKdmac8TukpuQmS1B) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Santo Río de Dios](https://open.spotify.com/album/5yxTDKXmyaxuBusT71eLlM) | 5:01 |
 | 97 | [Me Entrego a Ti](https://open.spotify.com/track/1tjfTjSWNV1Fo6ZnDKrQaE) | [Alejandro Del Bosque](https://open.spotify.com/artist/2827XOUsEosrxxYdNhyC5h) | [Un Brote De Adoracion 2](https://open.spotify.com/album/3XWnMTcgXfhxG4MalGMbIo) | 5:02 |
 | 98 | [Amor Sin Comparación](https://open.spotify.com/track/78UnexCmrxXnAJNCKlGQ5Y) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [El Eco De Su Voz](https://open.spotify.com/album/1KQrSJiQAhRFffoTvA8pW7) | 4:59 |
-| 99 | [Por las Llagas](https://open.spotify.com/track/3IoIzDjBLx2UObchfh7tb1) | [Marcela Gandara](https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T) | [Digno Es el Señor](https://open.spotify.com/album/4prQ3uAC1aPsYwcjG3hSAi) | 5:00 |
-| 100 | [Cara A Cara](https://open.spotify.com/track/0lSVMltHrxlYJs9H5xq2PY) | [Marcos Vidal](https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd) | [Cara a Cara](https://open.spotify.com/album/3p9msnarNxbQCTKPNcPtt9) | 5:40 |
+| 99 | [Cara A Cara](https://open.spotify.com/track/0lSVMltHrxlYJs9H5xq2PY) | [Marcos Vidal](https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd) | [Cara a Cara](https://open.spotify.com/album/3p9msnarNxbQCTKPNcPtt9) | 5:40 |
+| 100 | [Por las Llagas](https://open.spotify.com/track/3IoIzDjBLx2UObchfh7tb1) | [Marcela Gandara](https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T) | [Digno Es el Señor](https://open.spotify.com/album/4prQ3uAC1aPsYwcjG3hSAi) | 5:00 |
 
 Snapshot ID: `AAAAAPxONFKN0SjAVSZKUevkXvjCY8gq`

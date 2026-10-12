@@ -1,6 +1,6 @@
 {
   "description": "Sweet songs for sunny days. ",
-  "num_followers": 1631058,
+  "num_followers": 1630846,
   "original_name": "Summer Acoustic",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2026-07-09 23:27:48",
       "album": {
-        "name": "Feeling",
-        "url": "https://open.spotify.com/album/15BiKQLRmY8xQIk4arEEsq"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 200626,
-      "name": "Feeling",
-      "url": "https://open.spotify.com/track/5J6TfufAsesi9BPnvlgBl8"
-    },
-    {
-      "added_at": "2026-07-09 23:27:48",
-      "album": {
         "name": "Drop Stop Roll",
         "url": "https://open.spotify.com/album/7C45E727Jyq6UrMyLYD2Ab"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 170788,
       "name": "Drop Stop Roll",
       "url": "https://open.spotify.com/track/1y3NV3N99VoSP4crdkbog7"
+    },
+    {
+      "added_at": "2026-07-09 23:27:48",
+      "album": {
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/15BiKQLRmY8xQIk4arEEsq"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 200626,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/5J6TfufAsesi9BPnvlgBl8"
     },
     {
       "added_at": "2026-07-09 23:27:48",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-07-09 23:27:48",
       "album": {
-        "name": "Capacity",
-        "url": "https://open.spotify.com/album/3jXbdginoAtjcBqT7GcYRd"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 237626,
-      "name": "Shark Smile",
-      "url": "https://open.spotify.com/track/0Fc0vCE3yWvAGKbU5twVOz"
-    },
-    {
-      "added_at": "2026-07-09 23:27:48",
-      "album": {
         "name": "Copper Changes Color",
         "url": "https://open.spotify.com/album/52Pm7PUhlVVBqd5l9To4Sy"
       },
@@ -1151,6 +1135,38 @@
       "duration_ms": 252666,
       "name": "Millions",
       "url": "https://open.spotify.com/track/66PYWmVolRfCo0oaZp0H7L"
+    },
+    {
+      "added_at": "2026-07-09 23:27:48",
+      "album": {
+        "name": "Stranger in the Alps",
+        "url": "https://open.spotify.com/album/0AkAmg94XyiHODJaiGHh9O"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 305000,
+      "name": "Scott Street",
+      "url": "https://open.spotify.com/track/0jqFM7E9z1PLYtPVCuFwAi"
+    },
+    {
+      "added_at": "2026-07-09 23:27:48",
+      "album": {
+        "name": "Jockeys of Love",
+        "url": "https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT"
+      },
+      "artists": [
+        {
+          "name": "TOLEDO",
+          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
+        }
+      ],
+      "duration_ms": 256629,
+      "name": "Sunday Funday",
+      "url": "https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO"
     },
     {
       "added_at": "2026-07-09 23:27:48",
@@ -1183,18 +1199,18 @@
     {
       "added_at": "2026-07-09 23:27:48",
       "album": {
-        "name": "Jockeys of Love",
-        "url": "https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT"
+        "name": "Capacity",
+        "url": "https://open.spotify.com/album/3jXbdginoAtjcBqT7GcYRd"
       },
       "artists": [
         {
-          "name": "TOLEDO",
-          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
         }
       ],
-      "duration_ms": 256629,
-      "name": "Sunday Funday",
-      "url": "https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO"
+      "duration_ms": 237626,
+      "name": "Shark Smile",
+      "url": "https://open.spotify.com/track/0Fc0vCE3yWvAGKbU5twVOz"
     },
     {
       "added_at": "2026-07-09 23:27:48",
@@ -1227,22 +1243,6 @@
       "duration_ms": 185640,
       "name": "Hoagy's Place",
       "url": "https://open.spotify.com/track/6cJzZZ8z2NCBcHh2XDfkRv"
-    },
-    {
-      "added_at": "2026-07-09 23:27:48",
-      "album": {
-        "name": "Savannah",
-        "url": "https://open.spotify.com/album/06RBvB1oS78HYZ6n0zRLwz"
-      },
-      "artists": [
-        {
-          "name": "Jensen McRae",
-          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
-        }
-      ],
-      "duration_ms": 204493,
-      "name": "Savannah",
-      "url": "https://open.spotify.com/track/0tjnfbTtCONUoMqMJmY1vP"
     }
   ],
   "unique_name": "Summer Acoustic",

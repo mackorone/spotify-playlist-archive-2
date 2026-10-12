@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-636 songs - 1 day 13 hr 40 min
+637 songs - 1 day 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [At the Diner, Pt\. II](https://open.spotify.com/track/0n6gqt7icct5y3k6rGaqYK) | [Bror Gunnar Jansson](https://open.spotify.com/artist/5orM2dN0u2EPAgSttOKI3Q), [The Escapism](https://open.spotify.com/artist/3ih47zora6dtAMrdzSCQVZ) | [People!](https://open.spotify.com/album/4NujW2jQEPs5G6VL7trwEh) | 3:33 | 2025-09-22 | 2025-09-28 |
 | [Atlantic](https://open.spotify.com/track/5kIxyCOaIx7wxWnbVva9Nt) | [sixten](https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF) | [Misemotional](https://open.spotify.com/album/3FaYgjSf0JzLIcrRcldU6s) | 3:14 | 2024-08-22 | 2024-10-04 |
 | [Avundsjuk](https://open.spotify.com/track/2ZG0nGXSl8YLFOGPhSlmY2) | [Nanne](https://open.spotify.com/artist/0whAheccvr5O5qbQjNk4gi) | [Nannes samlade schlagerhits](https://open.spotify.com/album/4Qyk5xifiGrGIUlanUgbyJ) | 4:06 | 2026-02-12 | 2026-05-10 |
+| [Baby](https://open.spotify.com/track/5LfNKvdfzxkWB94LvKWlFG) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [Baby](https://open.spotify.com/album/3oEPgnaHXwi02DjenAQRyT) | 4:31 | 2026-10-08 |  |
 | [Back To The Sea](https://open.spotify.com/track/3xmuxebLOqRf9AsIy5QaRq) | [Sophie Zelmani](https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk) | [Back To The Sea](https://open.spotify.com/album/6i7fu0R1ZzqIIeSDkx4N5B) | 3:13 | 2025-04-10 | 2025-06-06 |
 | [Back To You](https://open.spotify.com/track/2jOLY3Sjp1DzsMxxvBS5l9) | [John Lundvik](https://open.spotify.com/artist/11LbPHLi2sCqOVjknt0jmW) | [Dance Cry Laugh Smile](https://open.spotify.com/album/3pAfBKkU6qQczBcS8X11MD) | 2:42 | 2025-06-05 | 2025-08-19 |
 | [Backseat Driver](https://open.spotify.com/track/68SYsp6XfIEnlDYMgMyxUv) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Backseat Driver](https://open.spotify.com/album/5wSRDE5eSLvPbrSuAxgDlm) | 3:48 | 2024-10-10 | 2025-04-25 |
@@ -389,7 +390,7 @@
 | [Moderna tider](https://open.spotify.com/track/1TR2P4Q2GeMdQd3EBQL9zZ) | [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC) | [Moderna tider](https://open.spotify.com/album/1d3a5sjYx3iiaDffKC1BJl) | 4:33 | 2026-10-01 |  |
 | [Mordbrand](https://open.spotify.com/track/5wcN4IzrDi0vEEAL5etavw) | [Arvid Nero](https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew) | [Mordbrand](https://open.spotify.com/album/1Qq4f6MVfVz1QG0NSvSB6D) | 3:38 | 2024-06-27 | 2024-10-11 |
 | [More Than Words](https://open.spotify.com/track/0Y2qS45YYbYfxPVp0RfWLc) | [Angelo Perrelli](https://open.spotify.com/artist/1v1b1VJKeXticlHnYyJDbs), [Charlotte Perrelli](https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl) | [More Than Words](https://open.spotify.com/album/3raSM95Yq7o3qC7CcXxkzP) | 3:55 | 2025-08-07 | 2025-08-22 |
-| [More!](https://open.spotify.com/track/0Q3xlAwtGbNhqrDvHrozHk) | [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [More!](https://open.spotify.com/album/0AAhCDNL26bSYXcLnMjcaf) | 2:58 | 2026-08-20 |  |
+| [More!](https://open.spotify.com/track/0Q3xlAwtGbNhqrDvHrozHk) | [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [More!](https://open.spotify.com/album/0AAhCDNL26bSYXcLnMjcaf) | 2:58 | 2026-08-20 | 2026-10-12 |
 | [Mother's Love Conquers All](https://open.spotify.com/track/1V8t9A7kfwmv3HKi1JjJAP) | [Amanda Jenssen](https://open.spotify.com/artist/5abrQugiw9ysKSuemQW7K9) | [Mother's Love Conquers All](https://open.spotify.com/album/69AGXPie59h3BozlQ728ew) | 5:17 | 2025-10-02 | 2026-06-05 |
 | [Muscle In](https://open.spotify.com/track/3ch0DUTirH85StJjiTNqFq) | [The Magnolia](https://open.spotify.com/artist/6tn9l68c9srJn5o3pXx2Fb) | [Muscle In](https://open.spotify.com/album/6FxRfieHkLJ0mhHZixMQQT) | 4:04 | 2026-04-23 |  |
 | [Musiken som hörs från Rival](https://open.spotify.com/track/0799iI2UqqtWpf2TUjR8aM) | [Eva Dahlgren](https://open.spotify.com/artist/7IK2JpZglDYTrso4ILEKE0) | [Revalution Club](https://open.spotify.com/album/6VrlawQweOnhs94WOGWl4D) | 4:29 | 2026-06-15 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nYqGKSH0ld.md) - [plain]
 
 > Get ready for good feels and fireworks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,062 likes - 75 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,041 likes - 75 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nYqGKSH0ld.md) - [plain]
 | 21 | [High Hopes](https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pray for the Wicked](https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge) | 3:10 |
 | 22 | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Future Nostalgia](https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9) | 3:23 |
 | 23 | [Sweet Home Alabama](https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Second Helping \(Expanded Edition\)](https://open.spotify.com/album/54V1ljNtyzAm053oJqi0SH) | 4:43 |
-| 24 | [Cheerleader \(Felix Jaehn Remix\) \- Radio Edit](https://open.spotify.com/track/7vFoFDWqTX0mHzLfrF1Cfy) | [OMI](https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh), [felix jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Me 4 U](https://open.spotify.com/album/7cVXH4slEYzGjDh498OFyL) | 3:00 |
-| 25 | [Feel It Still](https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Woodstock](https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB) | 2:43 |
+| 24 | [Feel It Still](https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Woodstock](https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB) | 2:43 |
+| 25 | [Cheerleader \(Felix Jaehn Remix\) \- Radio Edit](https://open.spotify.com/track/7vFoFDWqTX0mHzLfrF1Cfy) | [OMI](https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh), [felix jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Me 4 U](https://open.spotify.com/album/7cVXH4slEYzGjDh498OFyL) | 3:00 |
 | 26 | [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 |
 | 27 | [Austin \(Boots Stop Workin'\)](https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e) | 2:51 |
 | 28 | [Sugar](https://open.spotify.com/track/2iuZJX9X9P0GKaE93xcPjk) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [V](https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI) | 3:55 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nYqGKSH0ld.md) - [plain]
 | 72 | [Don't Start Now](https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Don't Start Now](https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp) | 3:03 |
 | 73 | [Any Way You Want It](https://open.spotify.com/track/71SvEDmsOwIWw1IozsZoMA) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Departure](https://open.spotify.com/album/2OyVtIEp7O7a6o82DF4Ba5) | 3:21 |
 | 74 | [Glory Days](https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:18 |
-| 75 | [Dancin’ In The Country](https://open.spotify.com/track/2KtGiBi5CrX2ERPD2PAS34) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Tyler Hubbard](https://open.spotify.com/album/2S3Q7phoa4bZEijkTRYaLu) | 2:59 |
+| 75 | [Something Like That](https://open.spotify.com/track/6leiB1fEsTnVCuPiielde5) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [A Place In The Sun](https://open.spotify.com/album/2EkJjknrgd5DeIH2x9HLjD) | 3:03 |
 
 Snapshot ID: `AAAAAEAMEZ9TtLwO4xmnqP1eFTLChvd1`

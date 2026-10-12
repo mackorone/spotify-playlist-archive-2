@@ -1,6 +1,6 @@
 {
   "description": "Le rap qu\u00e9b\u00e9cois, servi tout frais tout chaud. Photo: Franz Keloh",
-  "num_followers": 89616,
+  "num_followers": 89613,
   "original_name": "Rap qu\u00e9b",
   "owner": {
     "name": "Spotify",
@@ -551,22 +551,6 @@
     {
       "added_at": "2026-10-09 04:03:44",
       "album": {
-        "name": "GAMAN",
-        "url": "https://open.spotify.com/album/2dNduGPJJ9GznAhKrtASEe"
-      },
-      "artists": [
-        {
-          "name": "Lost",
-          "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
-        }
-      ],
-      "duration_ms": 179820,
-      "name": "Paparazzi",
-      "url": "https://open.spotify.com/track/5hmxAHWDIaZJ3iuLsk5NY7"
-    },
-    {
-      "added_at": "2026-10-09 04:03:44",
-      "album": {
         "name": "FREE MOI",
         "url": "https://open.spotify.com/album/1UnHdl7psxcwXkNAbavqTZ"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 158048,
       "name": "Picky",
       "url": "https://open.spotify.com/track/48OCj1qG6BPITStmgBVca3"
+    },
+    {
+      "added_at": "2026-10-09 04:03:44",
+      "album": {
+        "name": "GAMAN",
+        "url": "https://open.spotify.com/album/2dNduGPJJ9GznAhKrtASEe"
+      },
+      "artists": [
+        {
+          "name": "Lost",
+          "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
+        }
+      ],
+      "duration_ms": 179820,
+      "name": "Paparazzi",
+      "url": "https://open.spotify.com/track/5hmxAHWDIaZJ3iuLsk5NY7"
     },
     {
       "added_at": "2026-10-09 04:03:44",
@@ -811,22 +811,34 @@
     {
       "added_at": "2026-10-09 04:03:44",
       "album": {
-        "name": "AUCUN MENSONGE",
-        "url": "https://open.spotify.com/album/1bdsdHScln4FQsbgx68S2h"
+        "name": "Buzz\u00e9 Pack",
+        "url": "https://open.spotify.com/album/3ifgCpBb6nVh76QEVGldnI"
       },
       "artists": [
         {
-          "name": "Rach",
-          "url": "https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n"
+          "name": "Jay Sc\u00f8tt",
+          "url": "https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx"
         },
         {
-          "name": "TJ DTS",
-          "url": "https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe"
+          "name": "FouKi",
+          "url": "https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n"
+        },
+        {
+          "name": "Rymz",
+          "url": "https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu"
+        },
+        {
+          "name": "Souldia",
+          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
+        },
+        {
+          "name": "Xavier Euphory",
+          "url": "https://open.spotify.com/artist/0uHOElDo0UUKXn6LzLS2Wg"
         }
       ],
-      "duration_ms": 214883,
-      "name": "AUCUN MENSONGE",
-      "url": "https://open.spotify.com/track/0QPuNKfrHyAegpwbwamwPm"
+      "duration_ms": 193166,
+      "name": "Buzz\u00e9 - Hip-Hop",
+      "url": "https://open.spotify.com/track/0DerIoTW99VdoDKNDBIVsU"
     },
     {
       "added_at": "2026-10-09 04:03:44",
@@ -891,34 +903,22 @@
     {
       "added_at": "2026-10-09 04:03:44",
       "album": {
-        "name": "Buzz\u00e9 Pack",
-        "url": "https://open.spotify.com/album/3ifgCpBb6nVh76QEVGldnI"
+        "name": "AUCUN MENSONGE",
+        "url": "https://open.spotify.com/album/1bdsdHScln4FQsbgx68S2h"
       },
       "artists": [
         {
-          "name": "Jay Sc\u00f8tt",
-          "url": "https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx"
+          "name": "Rach",
+          "url": "https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n"
         },
         {
-          "name": "FouKi",
-          "url": "https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n"
-        },
-        {
-          "name": "Rymz",
-          "url": "https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu"
-        },
-        {
-          "name": "Souldia",
-          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
-        },
-        {
-          "name": "Xavier Euphory",
-          "url": "https://open.spotify.com/artist/0uHOElDo0UUKXn6LzLS2Wg"
+          "name": "TJ DTS",
+          "url": "https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe"
         }
       ],
-      "duration_ms": 193166,
-      "name": "Buzz\u00e9 - Hip-Hop",
-      "url": "https://open.spotify.com/track/0DerIoTW99VdoDKNDBIVsU"
+      "duration_ms": 214883,
+      "name": "AUCUN MENSONGE",
+      "url": "https://open.spotify.com/track/0QPuNKfrHyAegpwbwamwPm"
     },
     {
       "added_at": "2026-10-09 04:03:44",
@@ -991,6 +991,22 @@
     {
       "added_at": "2026-10-09 04:03:44",
       "album": {
+        "name": "Big Wop - Mile-End sur la map",
+        "url": "https://open.spotify.com/album/4sOGzpMFd8ICEDRRED2GIS"
+      },
+      "artists": [
+        {
+          "name": "Fl\u00e9au Dicaprio",
+          "url": "https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ"
+        }
+      ],
+      "duration_ms": 210695,
+      "name": "Fascinant",
+      "url": "https://open.spotify.com/track/095MgE6prClcNYhjBmIIlT"
+    },
+    {
+      "added_at": "2026-10-09 04:03:44",
+      "album": {
         "name": "Disque D'or",
         "url": "https://open.spotify.com/album/7vLP5rnSMQj5JhvjioSYbr"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 195086,
       "name": "Disque D'or",
       "url": "https://open.spotify.com/track/5ey3Qurq3BSx0hfhkLRjo9"
-    },
-    {
-      "added_at": "2026-10-09 04:03:44",
-      "album": {
-        "name": "Big Wop - Mile-End sur la map",
-        "url": "https://open.spotify.com/album/4sOGzpMFd8ICEDRRED2GIS"
-      },
-      "artists": [
-        {
-          "name": "Fl\u00e9au Dicaprio",
-          "url": "https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ"
-        }
-      ],
-      "duration_ms": 210695,
-      "name": "Fascinant",
-      "url": "https://open.spotify.com/track/095MgE6prClcNYhjBmIIlT"
     },
     {
       "added_at": "2026-10-09 04:03:44",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2026-10-09 04:03:44",
       "album": {
+        "name": "Danger",
+        "url": "https://open.spotify.com/album/2tNKPaTJXSXmGtoRRRSLWs"
+      },
+      "artists": [
+        {
+          "name": "Fl\u00e9au Dicaprio",
+          "url": "https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ"
+        }
+      ],
+      "duration_ms": 160263,
+      "name": "Danger",
+      "url": "https://open.spotify.com/track/42Ot6CgKD6HYfG2PNRfBYG"
+    },
+    {
+      "added_at": "2026-10-09 04:03:44",
+      "album": {
         "name": "Tel Kel X Boutot",
         "url": "https://open.spotify.com/album/5NXJonVVKssYxQ5SeCutWj"
       },
@@ -1323,22 +1339,6 @@
     {
       "added_at": "2026-10-09 04:03:44",
       "album": {
-        "name": "Danger",
-        "url": "https://open.spotify.com/album/2tNKPaTJXSXmGtoRRRSLWs"
-      },
-      "artists": [
-        {
-          "name": "Fl\u00e9au Dicaprio",
-          "url": "https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ"
-        }
-      ],
-      "duration_ms": 160263,
-      "name": "Danger",
-      "url": "https://open.spotify.com/track/42Ot6CgKD6HYfG2PNRfBYG"
-    },
-    {
-      "added_at": "2026-10-09 04:03:44",
-      "album": {
         "name": "Take the time",
         "url": "https://open.spotify.com/album/3n6ECZY66jGVOibm8lm2bQ"
       },
@@ -1355,6 +1355,22 @@
       "duration_ms": 177562,
       "name": "Take the time",
       "url": "https://open.spotify.com/track/17yQrqNuRgCqAgXPW4QsB6"
+    },
+    {
+      "added_at": "2026-10-09 04:03:44",
+      "album": {
+        "name": "Super freak",
+        "url": "https://open.spotify.com/album/3321zU0m0MEMlKi8De58P1"
+      },
+      "artists": [
+        {
+          "name": "DawaMafia",
+          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
+        }
+      ],
+      "duration_ms": 169714,
+      "name": "Super freak",
+      "url": "https://open.spotify.com/track/08GtxZO0oNgWDJXvT0LWcx"
     },
     {
       "added_at": "2026-10-09 04:03:44",
@@ -1407,22 +1423,6 @@
       "duration_ms": 168000,
       "name": "Laisse nous",
       "url": "https://open.spotify.com/track/4KZvsQAKxTiIuuCYjQpp63"
-    },
-    {
-      "added_at": "2026-10-09 04:03:44",
-      "album": {
-        "name": "Super freak",
-        "url": "https://open.spotify.com/album/3321zU0m0MEMlKi8De58P1"
-      },
-      "artists": [
-        {
-          "name": "DawaMafia",
-          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
-        }
-      ],
-      "duration_ms": 169714,
-      "name": "Super freak",
-      "url": "https://open.spotify.com/track/08GtxZO0oNgWDJXvT0LWcx"
     }
   ],
   "unique_name": "Rap qu\u00e9b",

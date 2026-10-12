@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 
 > Today's Hip\-Hop with Gunna, Quavo, Drake, offset, Cardi B, and Travis Scott,.
 
-[Spotify](https://open.spotify.com/user/spotify) - 789,919 likes - 51 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 789,775 likes - 51 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4345,6 +4345,32 @@
     },
     {
       "album": {
+        "name": "La Cazadora",
+        "url": "https://open.spotify.com/album/03jIAWMrRp5Bra8pIMdzK1"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Joel De La P",
+          "url": "https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5"
+        },
+        {
+          "name": "Grupo Aztteca",
+          "url": "https://open.spotify.com/artist/38HFrt2a7X2wCIBJMuVuDS"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191481,
+      "name": "La Cazadora",
+      "url": "https://open.spotify.com/track/5CJSOx4mGZk5jIoCv1QjR6"
+    },
+    {
+      "album": {
         "name": "$AD BOYZ 4 LIFE II",
         "url": "https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG"
       },
@@ -5362,7 +5388,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 189847,
       "name": "Medusa",
       "url": "https://open.spotify.com/track/2CDihIzaMKXsFuoypVLAse"

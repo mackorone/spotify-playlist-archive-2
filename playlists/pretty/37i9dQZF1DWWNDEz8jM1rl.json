@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 163732,
+  "num_followers": 163764,
   "original_name": "Fiesta Cristiana",
   "owner": {
     "name": "Spotify",
@@ -627,6 +627,22 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
+        "name": "No se Compara",
+        "url": "https://open.spotify.com/album/5MioxF7HO3pKJhbdHfu5y4"
+      },
+      "artists": [
+        {
+          "name": "Jairon High",
+          "url": "https://open.spotify.com/artist/7uvf9bsJVUHUyiSK0aU42M"
+        }
+      ],
+      "duration_ms": 162751,
+      "name": "No se Compara",
+      "url": "https://open.spotify.com/track/0VGrYOOefuaJSlr0OHmDOR"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
         "name": "Bailo Contigo",
         "url": "https://open.spotify.com/album/09cobmNlgg3ZqGmoglSOmc"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 183389,
       "name": "Bailo Contigo",
       "url": "https://open.spotify.com/track/5SUvATXiZk63SMSVCOaYrr"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
-        "name": "No se Compara",
-        "url": "https://open.spotify.com/album/5MioxF7HO3pKJhbdHfu5y4"
-      },
-      "artists": [
-        {
-          "name": "Jairon High",
-          "url": "https://open.spotify.com/artist/7uvf9bsJVUHUyiSK0aU42M"
-        }
-      ],
-      "duration_ms": 162751,
-      "name": "No se Compara",
-      "url": "https://open.spotify.com/track/0VGrYOOefuaJSlr0OHmDOR"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "Corazon Cerrado",
-        "url": "https://open.spotify.com/album/0DQYk5RtJCS1McNRrELY9j"
-      },
-      "artists": [
-        {
-          "name": "J Arias",
-          "url": "https://open.spotify.com/artist/12KoDb9Ns560M5AAm6gsym"
-        }
-      ],
-      "duration_ms": 194380,
-      "name": "Corazon Cerrado",
-      "url": "https://open.spotify.com/track/1tj83Rq985nZNdvTFhYL0N"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
         "name": "Gracia Divina",
         "url": "https://open.spotify.com/album/4FpUoAVaGePYjOZyR7ZehE"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 142306,
       "name": "Gracia Divina",
       "url": "https://open.spotify.com/track/2l6KQQHMrrdbgZLNzJfSke"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
+        "name": "Corazon Cerrado",
+        "url": "https://open.spotify.com/album/0DQYk5RtJCS1McNRrELY9j"
+      },
+      "artists": [
+        {
+          "name": "J Arias",
+          "url": "https://open.spotify.com/artist/12KoDb9Ns560M5AAm6gsym"
+        }
+      ],
+      "duration_ms": 194380,
+      "name": "Corazon Cerrado",
+      "url": "https://open.spotify.com/track/1tj83Rq985nZNdvTFhYL0N"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "Celebra",
-        "url": "https://open.spotify.com/album/3CRB5EWMcLGpteMimvceRh"
-      },
-      "artists": [
-        {
-          "name": "Sion Naci\u00f3n Santa",
-          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
-        }
-      ],
-      "duration_ms": 202857,
-      "name": "Celebra",
-      "url": "https://open.spotify.com/track/6nsJltwyoWtyVAvBP1UhL6"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
         "name": "GRACIAS",
         "url": "https://open.spotify.com/album/2o4wNjj8v1ltM7rwAHnpf5"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 186750,
       "name": "Cubana",
       "url": "https://open.spotify.com/track/6LcXSW7D6XH5BzBFeCM9OX"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
+        "name": "Celebra",
+        "url": "https://open.spotify.com/album/3CRB5EWMcLGpteMimvceRh"
+      },
+      "artists": [
+        {
+          "name": "Sion Naci\u00f3n Santa",
+          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
+        }
+      ],
+      "duration_ms": 202857,
+      "name": "Celebra",
+      "url": "https://open.spotify.com/track/6nsJltwyoWtyVAvBP1UhL6"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "Somos Cristianos",
-        "url": "https://open.spotify.com/album/2KYkLX7gJaw0AcwgEQdzkH"
-      },
-      "artists": [
-        {
-          "name": "Sion Naci\u00f3n Santa",
-          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
-        }
-      ],
-      "duration_ms": 140998,
-      "name": "Somos Cristianos",
-      "url": "https://open.spotify.com/track/2rpqfj4MwCv5p4BJuiCGCa"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
         "name": "Yeshua Hamashiaj - MelGod (Remix)",
         "url": "https://open.spotify.com/album/2XTIYiYuAmD7oIQBlp6Eeg"
       },
@@ -1071,6 +1055,22 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
+        "name": "Somos Cristianos",
+        "url": "https://open.spotify.com/album/2KYkLX7gJaw0AcwgEQdzkH"
+      },
+      "artists": [
+        {
+          "name": "Sion Naci\u00f3n Santa",
+          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
+        }
+      ],
+      "duration_ms": 140998,
+      "name": "Somos Cristianos",
+      "url": "https://open.spotify.com/track/2rpqfj4MwCv5p4BJuiCGCa"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
         "name": "Tranquilo",
         "url": "https://open.spotify.com/album/6ceNphEmhj7Imdm8hZegQl"
       },
@@ -1083,6 +1083,22 @@
       "duration_ms": 186250,
       "name": "Tranquilo",
       "url": "https://open.spotify.com/track/2w1i9baYFSvziTzKAEkTfZ"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
+        "name": "The Comeback",
+        "url": "https://open.spotify.com/album/6QHrG7LHkxHllhPJWPoler"
+      },
+      "artists": [
+        {
+          "name": "Triple Seven",
+          "url": "https://open.spotify.com/artist/7cOcEjYXnkleFMc5J8ypBN"
+        }
+      ],
+      "duration_ms": 177804,
+      "name": "Pasa La Pagina",
+      "url": "https://open.spotify.com/track/4uEjtzySgNys9SE5zsjnYC"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -1107,22 +1123,6 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "The Comeback",
-        "url": "https://open.spotify.com/album/6QHrG7LHkxHllhPJWPoler"
-      },
-      "artists": [
-        {
-          "name": "Triple Seven",
-          "url": "https://open.spotify.com/artist/7cOcEjYXnkleFMc5J8ypBN"
-        }
-      ],
-      "duration_ms": 177804,
-      "name": "Pasa La Pagina",
-      "url": "https://open.spotify.com/track/4uEjtzySgNys9SE5zsjnYC"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
         "name": "SE\u00d1ALES",
         "url": "https://open.spotify.com/album/32vBL6gW4fNNAlLRvVXTdC"
       },
@@ -1135,22 +1135,6 @@
       "duration_ms": 135737,
       "name": "TE ENCONTRE",
       "url": "https://open.spotify.com/track/3f6EjbsN0NBnGXDpwXbW1w"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
-        "name": "Lamento En Baile",
-        "url": "https://open.spotify.com/album/5LdXcCYjU2cU4kVZ5kGTme"
-      },
-      "artists": [
-        {
-          "name": "Misael J",
-          "url": "https://open.spotify.com/artist/2pLxPDg7GPkgozOJLBrfQD"
-        }
-      ],
-      "duration_ms": 222715,
-      "name": "Lamento En Baile",
-      "url": "https://open.spotify.com/track/4saQuK5mH4rp0C2TqJiuEi"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -1175,6 +1159,22 @@
       "duration_ms": 206959,
       "name": "Locura",
       "url": "https://open.spotify.com/track/5hHDsJhk22leT1ve97m70j"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
+        "name": "Lamento En Baile",
+        "url": "https://open.spotify.com/album/5LdXcCYjU2cU4kVZ5kGTme"
+      },
+      "artists": [
+        {
+          "name": "Misael J",
+          "url": "https://open.spotify.com/artist/2pLxPDg7GPkgozOJLBrfQD"
+        }
+      ],
+      "duration_ms": 222715,
+      "name": "Lamento En Baile",
+      "url": "https://open.spotify.com/track/4saQuK5mH4rp0C2TqJiuEi"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "Para Arriba",
-        "url": "https://open.spotify.com/album/0AkVe6YgAwsXlFI8wwRgdM"
-      },
-      "artists": [
-        {
-          "name": "FLEIVA MUSIC",
-          "url": "https://open.spotify.com/artist/3465xbnVAWcS12btMU20Iq"
-        }
-      ],
-      "duration_ms": 217090,
-      "name": "Para Arriba",
-      "url": "https://open.spotify.com/track/3YRRxySE58AkGlEErDS0GB"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
         "name": "Oro",
         "url": "https://open.spotify.com/album/3Dvdnm4MB1ZvZwEtRAjpSc"
       },
@@ -1279,6 +1263,22 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
+        "name": "Para Arriba",
+        "url": "https://open.spotify.com/album/0AkVe6YgAwsXlFI8wwRgdM"
+      },
+      "artists": [
+        {
+          "name": "FLEIVA MUSIC",
+          "url": "https://open.spotify.com/artist/3465xbnVAWcS12btMU20Iq"
+        }
+      ],
+      "duration_ms": 217090,
+      "name": "Para Arriba",
+      "url": "https://open.spotify.com/track/3YRRxySE58AkGlEErDS0GB"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
         "name": "Viene Alegr\u00eda",
         "url": "https://open.spotify.com/album/7fEMiyVusEo7lbKoh101ow"
       },
@@ -1291,6 +1291,22 @@
       "duration_ms": 165611,
       "name": "Viene Alegr\u00eda",
       "url": "https://open.spotify.com/track/3UOh60UqUq4HLlJ5WbNlwS"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
+        "name": "Llegaron Los Cristianos",
+        "url": "https://open.spotify.com/album/55az5nrLm5ZJmLbCOMJDjG"
+      },
+      "artists": [
+        {
+          "name": "R Nova",
+          "url": "https://open.spotify.com/artist/7rXuCCgw2Intfg2EJdQypx"
+        }
+      ],
+      "duration_ms": 160169,
+      "name": "Cristo Cambia",
+      "url": "https://open.spotify.com/track/1X5mhTZfp5rWMmkMG35TQe"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -1315,22 +1331,6 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "Llegaron Los Cristianos",
-        "url": "https://open.spotify.com/album/55az5nrLm5ZJmLbCOMJDjG"
-      },
-      "artists": [
-        {
-          "name": "R Nova",
-          "url": "https://open.spotify.com/artist/7rXuCCgw2Intfg2EJdQypx"
-        }
-      ],
-      "duration_ms": 160169,
-      "name": "Cristo Cambia",
-      "url": "https://open.spotify.com/track/1X5mhTZfp5rWMmkMG35TQe"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
         "name": "OMW",
         "url": "https://open.spotify.com/album/6DZLO5Wp0JSFkpRdx3IL4B"
       },
@@ -1343,22 +1343,6 @@
       "duration_ms": 164117,
       "name": "OMW",
       "url": "https://open.spotify.com/track/4NNmICAifT9UDArpQAfuph"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
-        "name": "Vers\u00e1til, Vol. 2",
-        "url": "https://open.spotify.com/album/4bw9eGTsSxRwgvDlKsuPbT"
-      },
-      "artists": [
-        {
-          "name": "Creyente.7",
-          "url": "https://open.spotify.com/artist/5MaYKizuZvefKKYa85knBs"
-        }
-      ],
-      "duration_ms": 139500,
-      "name": "Me Voy Con \u00c9l",
-      "url": "https://open.spotify.com/track/4OK40y0JfRG2WLOSvnNX7D"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -1379,22 +1363,34 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "BUENO",
-        "url": "https://open.spotify.com/album/3KkIKPzguKWwH8a8Cn9QqG"
+        "name": "Vers\u00e1til, Vol. 2",
+        "url": "https://open.spotify.com/album/4bw9eGTsSxRwgvDlKsuPbT"
       },
       "artists": [
         {
-          "name": "Nate Diaz",
-          "url": "https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN"
-        },
-        {
-          "name": "Isaani Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/4x8OSQZsomr7H00K1sBCbk"
+          "name": "Creyente.7",
+          "url": "https://open.spotify.com/artist/5MaYKizuZvefKKYa85knBs"
         }
       ],
-      "duration_ms": 168214,
-      "name": "BUENO",
-      "url": "https://open.spotify.com/track/4FJK8XrXrHLSbO25WLduz8"
+      "duration_ms": 139500,
+      "name": "Me Voy Con \u00c9l",
+      "url": "https://open.spotify.com/track/4OK40y0JfRG2WLOSvnNX7D"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
+        "name": "TUS PASOS",
+        "url": "https://open.spotify.com/album/4OFv2OF8dY1e6jDr0Ivh2p"
+      },
+      "artists": [
+        {
+          "name": "ANMILY",
+          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
+        }
+      ],
+      "duration_ms": 160663,
+      "name": "TUS PASOS",
+      "url": "https://open.spotify.com/track/3rDbU0WH0slihpeuBYVy6Z"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -1415,18 +1411,22 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "TUS PASOS",
-        "url": "https://open.spotify.com/album/4OFv2OF8dY1e6jDr0Ivh2p"
+        "name": "BUENO",
+        "url": "https://open.spotify.com/album/3KkIKPzguKWwH8a8Cn9QqG"
       },
       "artists": [
         {
-          "name": "ANMILY",
-          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
+          "name": "Nate Diaz",
+          "url": "https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN"
+        },
+        {
+          "name": "Isaani Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/4x8OSQZsomr7H00K1sBCbk"
         }
       ],
-      "duration_ms": 160663,
-      "name": "TUS PASOS",
-      "url": "https://open.spotify.com/track/3rDbU0WH0slihpeuBYVy6Z"
+      "duration_ms": 168214,
+      "name": "BUENO",
+      "url": "https://open.spotify.com/track/4FJK8XrXrHLSbO25WLduz8"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
+        "name": "Tu Luz",
+        "url": "https://open.spotify.com/album/0L3vH9q7z4R1c7LaVs9bDC"
+      },
+      "artists": [
+        {
+          "name": "Odanis BSK",
+          "url": "https://open.spotify.com/artist/2equ79Fk9Rj9vmQsuJpIJ9"
+        }
+      ],
+      "duration_ms": 169146,
+      "name": "Tu Luz",
+      "url": "https://open.spotify.com/track/4lEtb16YCHqT3NTxuZ1rzk"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
         "name": "Bueno & Fiel",
         "url": "https://open.spotify.com/album/1ip9NP4YfTp3tu8AnPmHNr"
       },
@@ -1715,22 +1731,6 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "Tu Luz",
-        "url": "https://open.spotify.com/album/0L3vH9q7z4R1c7LaVs9bDC"
-      },
-      "artists": [
-        {
-          "name": "Odanis BSK",
-          "url": "https://open.spotify.com/artist/2equ79Fk9Rj9vmQsuJpIJ9"
-        }
-      ],
-      "duration_ms": 169146,
-      "name": "Tu Luz",
-      "url": "https://open.spotify.com/track/4lEtb16YCHqT3NTxuZ1rzk"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
         "name": "Sin Ti No Me Imagino",
         "url": "https://open.spotify.com/album/7qtn1EGKZa8qtumLco1RPN"
       },
@@ -1763,26 +1763,6 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "El Tiempo",
-        "url": "https://open.spotify.com/album/0ihqqcN7ZEG9WYVuyWalY4"
-      },
-      "artists": [
-        {
-          "name": "HeartBeat Music",
-          "url": "https://open.spotify.com/artist/1r9xLwoX9cNdZQL1Weekrd"
-        },
-        {
-          "name": "Samuel Adorno",
-          "url": "https://open.spotify.com/artist/18uNULJ5iZf4hIcGq5WvbZ"
-        }
-      ],
-      "duration_ms": 186958,
-      "name": "El Tiempo",
-      "url": "https://open.spotify.com/track/3ipfCiqkiVAbbFiBvk5A0X"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
         "name": "Siempre y Nunca",
         "url": "https://open.spotify.com/album/41B7tYKzJYMA04iKKjvN11"
       },
@@ -1799,6 +1779,26 @@
       "duration_ms": 153786,
       "name": "Siempre y Nunca",
       "url": "https://open.spotify.com/track/3Sr8kGXgZWL2XOSE3AI2aG"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
+        "name": "El Tiempo",
+        "url": "https://open.spotify.com/album/0ihqqcN7ZEG9WYVuyWalY4"
+      },
+      "artists": [
+        {
+          "name": "HeartBeat Music",
+          "url": "https://open.spotify.com/artist/1r9xLwoX9cNdZQL1Weekrd"
+        },
+        {
+          "name": "Samuel Adorno",
+          "url": "https://open.spotify.com/artist/18uNULJ5iZf4hIcGq5WvbZ"
+        }
+      ],
+      "duration_ms": 186958,
+      "name": "El Tiempo",
+      "url": "https://open.spotify.com/track/3ipfCiqkiVAbbFiBvk5A0X"
     },
     {
       "added_at": "2026-08-01 02:46:09",

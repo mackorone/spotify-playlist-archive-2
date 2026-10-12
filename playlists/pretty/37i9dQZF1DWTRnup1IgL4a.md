@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRnup1IgL4a.md) - [plain]
 
 > Get a great night's sleep with these soft acoustic guitar tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,882 likes - 101 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,891 likes - 101 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

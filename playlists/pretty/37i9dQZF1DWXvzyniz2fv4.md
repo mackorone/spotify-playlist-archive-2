@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,002 likes - 60 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,000 likes - 60 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 30 | [replay](https://open.spotify.com/track/4INHlf0BAwHWVr0LCBHmWa) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [replay](https://open.spotify.com/album/5PvhVMVRXCUyjKrTCfILI4) | 2:31 |
 | 31 | [Sábado](https://open.spotify.com/track/6Abi9YlVMQ5iDRwIU9WYfo) | [Gorilla Concept Music](https://open.spotify.com/artist/3uItN5CehblL9at5ZvETez), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55), [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N) | [Voos Internacionais, Vol\. 2](https://open.spotify.com/album/7gzZ5z8Nd66LrjXu71Z3Bj) | 2:23 |
 | 32 | [Jangada](https://open.spotify.com/track/04s5nBXVzrFSmpQYsU1AvH) | [Rô Rosa](https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B), [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu), [EME Lab](https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48) | [Jangada](https://open.spotify.com/album/45Mu8p9khZQVZCgO0PE23f) | 2:10 |
-| 33 | [MARQUINHA](https://open.spotify.com/track/2kpH7eRW7kjkXIlJpde87R) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [MARQUINHA](https://open.spotify.com/album/0jK64HhmQ9W4Z5q54zgCqz) | 2:26 |
-| 34 | [Partido Alto](https://open.spotify.com/track/70yP3HNhXDC3PpcCTfPBPK) | [Fabio Brazza](https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN), [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Partido Alto](https://open.spotify.com/album/4tFgIJ3E2NcjlibDWdSqZn) | 3:26 |
+| 33 | [Partido Alto](https://open.spotify.com/track/70yP3HNhXDC3PpcCTfPBPK) | [Fabio Brazza](https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN), [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Partido Alto](https://open.spotify.com/album/4tFgIJ3E2NcjlibDWdSqZn) | 3:26 |
+| 34 | [MARQUINHA](https://open.spotify.com/track/2kpH7eRW7kjkXIlJpde87R) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [MARQUINHA](https://open.spotify.com/album/0jK64HhmQ9W4Z5q54zgCqz) | 2:26 |
 | 35 | [4 da Manhã \- Acústico](https://open.spotify.com/track/57bo2W60Td9nuMYvwCCty2) | [Vitinho](https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp) | [Acústico: Sem Perceber + 4 da Manhã](https://open.spotify.com/album/6wInOtdqAA15z0ZK6v0AjR) | 3:28 |
 | 36 | [Talismã](https://open.spotify.com/track/26DVRByfW09GuvoX7CO4Bu) | [Gorilla Concept Music](https://open.spotify.com/artist/3uItN5CehblL9at5ZvETez), [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [Chayco](https://open.spotify.com/artist/0titiXdcUTRXpX2CFeShdk) | [Talismã](https://open.spotify.com/album/6w8KrZmc4Lvo8CHOxcWsMX) | 2:35 |
 | 37 | [Original MTK \#2 \- Se Você Vier](https://open.spotify.com/track/6GOV45NixAW87unGHpS3mE) | [MTK](https://open.spotify.com/artist/6Wovvjcj6QZTEyKRkXdLL9), [Cammie](https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp) | [Original MTK \#2 \- Se Você Vier](https://open.spotify.com/album/420rc6s3uRgnBnogGrjAfP) | 4:24 |

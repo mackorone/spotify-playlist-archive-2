@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iOLV6.md) - [plain]
 
 > This is Patoranking\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,947 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,950 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iOLV6.md) - [plain]
 | 49 | [Sing My Name](https://open.spotify.com/track/1lG0c2RSqPajNO9vgBpPEP) | [MzVee](https://open.spotify.com/artist/5KaayuYfGzUkFP7PfrwVu9), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Sing My Name](https://open.spotify.com/album/0JtTgpfgwkasZFn6FM1dng) | 3:34 |
 | 50 | [Control Me](https://open.spotify.com/track/7wx6ccroZbXnrfH4zTbCpv) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [WORLD BEST](https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY) | 2:55 |
 
-Snapshot ID: `asgugAAAAACikKHA7ABy0MxxL5rLxUvm`
+Snapshot ID: `asmAAAAAAAC3rS8G/Sx79qymYVz+f/eQ`

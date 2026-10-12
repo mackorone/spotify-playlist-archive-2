@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 
 > heavy vibes for cuffing season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,431 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 416,532 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 | 70 | [Ant In The Afterbirth \- feat\. Loathe](https://open.spotify.com/track/3vnKDiO4TOYH4xsLZwV01D) | [NOWHERE2RUN](https://open.spotify.com/artist/3ARwlqMR3e96RXdxpAhx4s), [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [Ant In The Afterbirth \(feat\. Loathe\)](https://open.spotify.com/album/1JrG5deJUS6MhKH0C2PE3E) | 3:42 |
 | 71 | [Lonely Day \- Spotify Singles](https://open.spotify.com/track/2bmGjqYsvXVTt1CRfUicIH) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Lonely Day \- Spotify Singles](https://open.spotify.com/album/2GUhX1GveJBRtgpyUQhTSY) | 2:36 |
 | 72 | [Blur Into One](https://open.spotify.com/track/3cH7SZph4QlDt1BVBPAXOM) | [Graywave](https://open.spotify.com/artist/4jN7TcBXppAcw0mc7yn9xR) | [Blur Into One](https://open.spotify.com/album/61MF3invPBN9Sj2LirPL3Z) | 3:50 |
-| 73 | [Obsessed](https://open.spotify.com/track/4N2VXLqPf1WC9Pb2X4Tn4F) | [FKA Rayne](https://open.spotify.com/artist/39ONBEBBOmsAwyANl4tsPt) | [Obsessed](https://open.spotify.com/album/17ujSCNWjqD1fcbMbvxUz7) | 3:09 |
-| 74 | [Don't Need You](https://open.spotify.com/track/6tpwK4QEA9IlWGv3KuaR6n) | [Tatiana Hazel](https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU) | [Don't Need You](https://open.spotify.com/album/35gFs2xTjmciWt5UXv4RwC) | 3:26 |
+| 73 | [Don't Need You](https://open.spotify.com/track/6tpwK4QEA9IlWGv3KuaR6n) | [Tatiana Hazel](https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU) | [Don't Need You](https://open.spotify.com/album/35gFs2xTjmciWt5UXv4RwC) | 3:26 |
+| 74 | [Obsessed](https://open.spotify.com/track/4N2VXLqPf1WC9Pb2X4Tn4F) | [FKA Rayne](https://open.spotify.com/artist/39ONBEBBOmsAwyANl4tsPt) | [Obsessed](https://open.spotify.com/album/17ujSCNWjqD1fcbMbvxUz7) | 3:09 |
 | 75 | [SHAKE](https://open.spotify.com/track/2oLdDgLtfYMd6nhukQWyRE) | [Thousand Below](https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN) | [SHAKE](https://open.spotify.com/album/78A4CF4zvvHU21A2u5H1AW) | 3:10 |
 | 76 | [Letting Go](https://open.spotify.com/track/2hQJFN6wkwtScdFcUbbj1R) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [Letting Go](https://open.spotify.com/album/6PmANbpP9JqPJzcy5VjO2q) | 3:23 |
 | 77 | [Aquila](https://open.spotify.com/track/7goOBp1pzbohHhaaJO05H2) | [Allt](https://open.spotify.com/artist/6YRr0btzGqfQ5K7r23qjEM) | [Aquila](https://open.spotify.com/album/06vkY41nabAWVastRByeLy) | 4:05 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 | 95 | [THE DRAIN](https://open.spotify.com/track/0LSgZIdGUQtaXxlFN9thhc) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V), [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [SWARM](https://open.spotify.com/artist/07OF36h5y4S6s9ckQliaj3) | [THE DRAIN](https://open.spotify.com/album/5QKeZAJVAx2OtEsMALM0Cz) | 3:45 |
 | 96 | [Blood on the Sheets](https://open.spotify.com/track/7pCoALlwKHdGFfnkpgH0A1) | [VIOLENT VIRA](https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S) | [Blood on the Sheets](https://open.spotify.com/album/5vNNEtI5ScBzU3Reba9Y5i) | 3:49 |
 | 97 | [Your face](https://open.spotify.com/track/5MRWG1owcChqkYFIzsYlMb) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Your face](https://open.spotify.com/album/6Bg53e6IAblHuVzRpESFvj) | 3:47 |
-| 98 | [Alkaline](https://open.spotify.com/track/2bhO18WXe8NbFpc7sAQcEw) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [This Place Will Become Your Tomb](https://open.spotify.com/album/53PfSATgN0YM7IsfI2CDvs) | 3:34 |
-| 99 | [Adrenalize](https://open.spotify.com/track/0z09OVa4ZNJ4oQydl9XolX) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [Blood](https://open.spotify.com/album/1azQBA4tlIPpqXcABHVYkl) | 4:15 |
-| 100 | [Holy Touch](https://open.spotify.com/track/4OX2oCV4aZHnmCf1Woh0FG) | [Suzy Clue](https://open.spotify.com/artist/0gohQ3t7I3QY3fjr7DJtUK) | [Holy Touch](https://open.spotify.com/album/1Ew7k7kcMCmJ19GoDntcrN) | 3:44 |
+| 98 | [Outside](https://open.spotify.com/track/5w4XPMyvehdEJdtU4ZU67B) | [breakkaway](https://open.spotify.com/artist/5z5HaEaQY18oRwCuIXf826) | [Outside](https://open.spotify.com/album/4oYsIUSuJY9ZPTE1WfVdnY) | 3:25 |
+| 99 | [Alkaline](https://open.spotify.com/track/2bhO18WXe8NbFpc7sAQcEw) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [This Place Will Become Your Tomb](https://open.spotify.com/album/53PfSATgN0YM7IsfI2CDvs) | 3:34 |
+| 100 | [Adrenalize](https://open.spotify.com/track/0z09OVa4ZNJ4oQydl9XolX) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [Blood](https://open.spotify.com/album/1azQBA4tlIPpqXcABHVYkl) | 4:15 |
 
 Snapshot ID: `AAAAALLGAMVaUNRLdI3IGbcqs1DAaf00`

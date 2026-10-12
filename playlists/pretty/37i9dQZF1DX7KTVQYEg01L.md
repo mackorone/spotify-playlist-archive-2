@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KTVQYEg01L.md) - [plain]
 
 > celebre seu dia no maior astral!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,338,084 likes - 70 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,337,869 likes - 70 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KTVQYEg01L.md) - [plain]
 | 3 | [That's What I Like](https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 3:26 |
 | 4 | [brilho de cetim](https://open.spotify.com/track/67MOavDq7Dvie2AfzDKhf3) | [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS) | [brilho de cetim](https://open.spotify.com/album/15XIc7RTmoKHNX8aSjzgRD) | 2:13 |
 | 5 | [Resposta \- Spotify Singles](https://open.spotify.com/track/1JGys240AjaUdd1aoXU64R) | [Ryan Fidelis](https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Resposta \- Spotify Singles](https://open.spotify.com/album/3FuB4A3sDbyTgzTOtBgEPQ) | 3:11 |
-| 6 | [Don't Stop 'Til You Get Enough](https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 6:04 |
-| 7 | [Uptown Funk \(feat\. Bruno Mars\)](https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Uptown Special](https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1) | 4:29 |
+| 6 | [Uptown Funk \(feat\. Bruno Mars\)](https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Uptown Special](https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1) | 4:29 |
+| 7 | [Don't Stop 'Til You Get Enough](https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 6:04 |
 | 8 | [Everlong](https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Colour And The Shape](https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv) | 4:10 |
 | 9 | [Sunflower \- Spider\-Man: Into the Spider\-Verse](https://open.spotify.com/track/0RiRZpuVRbi7oqRdSMwhQY) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 2:37 |
 | 10 | [Shut Up and Dance](https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [TALKING IS HARD](https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT) | 3:19 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KTVQYEg01L.md) - [plain]
 | 64 | [Don't Worry Be Happy](https://open.spotify.com/track/5YbgcwHjQhdT1BYQ4rxWlD) | [Bobby McFerrin](https://open.spotify.com/artist/2FjkZT851ez950cyPjeYid) | [The Collection](https://open.spotify.com/album/5QXK9xXDSYvSOXYSJHdwOD) | 4:52 |
 | 65 | [You're Somebody Else](https://open.spotify.com/track/0pdKRp2sUthTPe7RLWpPqQ) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [You're Somebody Else](https://open.spotify.com/album/5BuS8meOLEcgGpdPPZfSgC) | 3:38 |
 | 66 | [Me Gusta](https://open.spotify.com/track/5Xhqh4lwJPtMUTsdBztN1a) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Me Gusta](https://open.spotify.com/album/4IcQ1ni07PmlOenqwf6MgG) | 3:10 |
-| 67 | [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/track/0hVXuCcriWRGvwMV1r5Yn9) | [Ed Sheeran & Justin Bieber](https://open.spotify.com/artist/1WsYCXdezMjn0KoIrLvMmC), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [No.6 Collaborations Project](https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx) | 3:39 |
-| 68 | [Deixa \(feat\. Ana Gabriela\)](https://open.spotify.com/track/3fLqmaO4vvZpFZSZy52VMp) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Deixa \(feat\. Ana Gabriela\)](https://open.spotify.com/album/5y1vdBmkTHZNGCz5qswQzM) | 2:56 |
+| 67 | [Deixa \(feat\. Ana Gabriela\)](https://open.spotify.com/track/3fLqmaO4vvZpFZSZy52VMp) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Deixa \(feat\. Ana Gabriela\)](https://open.spotify.com/album/5y1vdBmkTHZNGCz5qswQzM) | 2:56 |
+| 68 | [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/track/0hVXuCcriWRGvwMV1r5Yn9) | [Ed Sheeran & Justin Bieber](https://open.spotify.com/artist/1WsYCXdezMjn0KoIrLvMmC), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [No.6 Collaborations Project](https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx) | 3:39 |
 | 69 | [2U \(feat\. Justin Bieber\)](https://open.spotify.com/track/3A7qX2QjDlPnazUsRk5y0M) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [2U \(feat\. Justin Bieber\)](https://open.spotify.com/album/1PZviVfBJJxNw5EtAwzdUu) | 3:14 |
 | 70 | [Mr\. Brightside](https://open.spotify.com/track/3n3Ppam7vgaVa1iaRUc9Lp) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4OHNH3sDzIxnmUADXzv2kT) | 3:42 |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSEAOqwtmQ3.md) - [plain]
 
 > The songs soundtracking the best years
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,206 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,284 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSEAOqwtmQ3.md) - [plain]
 | 4 | [Energy \(Stay Far Away\)](https://open.spotify.com/track/11RIJRbBfyLlJut96itSFd) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Energy \(Stay Far Away\)](https://open.spotify.com/album/6c2FMAZeFKi8pui6dlZqXB) | 3:19 |
 | 5 | [Kupe Dance](https://open.spotify.com/track/58s4zxPmTrkY4qVjn8OcJm) | [A\-Star](https://open.spotify.com/artist/1fPa3fXJDNiSCfF9U8uvaT) | [Kupe Dance](https://open.spotify.com/album/5xQhoOov9NYBWMIZAO6nVW) | 3:04 |
 | 6 | [For Life](https://open.spotify.com/track/2RCf3uUVix6XzRU0Z8quJs) | [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb) | [For Life](https://open.spotify.com/album/5ZtEBap6LPZNOookZvvFbJ) | 3:49 |
-| 7 | [Sensima](https://open.spotify.com/track/2tsuHoDRjMTPkibpOkRuq4) | [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Sensima](https://open.spotify.com/album/4zpIOgKbJU2MdA0PK6hoeI) | 3:07 |
+| 7 | [Baby](https://open.spotify.com/track/0Yz6pPFinS7EKfaZRMY4uT) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Baby](https://open.spotify.com/album/41pcUIAFrsou8ikyNIN8Kn) | 2:45 |
 | 8 | [Lagos to Kampala](https://open.spotify.com/track/5eUKFq7L2qX6YRjJ2YfBDI) | [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Ghetto University](https://open.spotify.com/album/45rFRMLtbRbX96BNxYvdSa) | 3:34 |
-| 9 | [Baby](https://open.spotify.com/track/0Yz6pPFinS7EKfaZRMY4uT) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Baby](https://open.spotify.com/album/41pcUIAFrsou8ikyNIN8Kn) | 2:45 |
+| 9 | [Sensima](https://open.spotify.com/track/2tsuHoDRjMTPkibpOkRuq4) | [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Sensima](https://open.spotify.com/album/4zpIOgKbJU2MdA0PK6hoeI) | 3:07 |
 | 10 | [Do Like That](https://open.spotify.com/track/0z0qRN3HNUCOG9y1R7umuD) | [Korede Bello](https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa) | [Do like That](https://open.spotify.com/album/6eQAVozNuLJiJHvcaJDfGW) | 3:33 |
 | 11 | [KANA](https://open.spotify.com/track/3uTe5oVxtAO1cnsJm4uFCJ) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [KANA](https://open.spotify.com/album/7atwkbkL6GTv6w3ksI1BYC) | 3:27 |
 | 12 | [Said](https://open.spotify.com/track/0AWnrLw8H8wE6edp5Z2ibI) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb) | [Said](https://open.spotify.com/album/36pdRov9L2FbIGtJaqEeNt) | 3:38 |
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSEAOqwtmQ3.md) - [plain]
 | 19 | [So Mi So](https://open.spotify.com/track/2KG2MggKHSVTKR8nLJX8DV) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [So Mi So](https://open.spotify.com/album/3CFZlHqQYt2gEKKc3PcP2Z) | 4:05 |
 | 20 | [Leg Over](https://open.spotify.com/track/4aVvqZr2jg19UQ1o18mSkp) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Leg Over](https://open.spotify.com/album/2iypBnpd8rzDNjjlF7rKaP) | 3:17 |
 | 21 | [Case](https://open.spotify.com/track/5HqngsF3BE19077Ilnw7N5) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Case](https://open.spotify.com/album/3vhhduoyZmze3Av47M9OvM) | 3:22 |
-| 22 | [Soweto Baby \(feat\. Wizkid & DJ Buckz\)](https://open.spotify.com/track/7pN5xeBGywMaE5JLIJzZ6Q) | [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [DJ Buckz](https://open.spotify.com/artist/3Y4R3beJgTc14iwsKbAV7r) | [Soweto Baby \(feat\. DJ Buckz & Wizkid\)](https://open.spotify.com/album/2qBPI58b3ObEAPkqUgjGYy) | 4:18 |
-| 23 | [Manya](https://open.spotify.com/track/0uaKM65fL3aEgZdmwabvDb) | [Mut4y](https://open.spotify.com/artist/5eWt7HdpWwlidAEBcNtqWQ), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Manya](https://open.spotify.com/album/5TaQ82vUKpFXRCY6p55Fq7) | 3:51 |
+| 22 | [Manya](https://open.spotify.com/track/0uaKM65fL3aEgZdmwabvDb) | [Mut4y](https://open.spotify.com/artist/5eWt7HdpWwlidAEBcNtqWQ), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Manya](https://open.spotify.com/album/5TaQ82vUKpFXRCY6p55Fq7) | 3:51 |
+| 23 | [Soweto Baby \(feat\. Wizkid & DJ Buckz\)](https://open.spotify.com/track/7pN5xeBGywMaE5JLIJzZ6Q) | [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [DJ Buckz](https://open.spotify.com/artist/3Y4R3beJgTc14iwsKbAV7r) | [Soweto Baby \(feat\. DJ Buckz & Wizkid\)](https://open.spotify.com/album/2qBPI58b3ObEAPkqUgjGYy) | 4:18 |
 | 24 | [Fada Fada](https://open.spotify.com/track/7vuPAT6r64yBfCWFySA086) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [The PlayMaker](https://open.spotify.com/album/4mT2dPZH31DKN3ka7NGmZW) | 4:48 |
 | 25 | [Wetin We Gain](https://open.spotify.com/track/5faqpitzDhJKv3huL8nJhp) | [Victor AD](https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N) | [Wetin We Gain](https://open.spotify.com/album/6vHdAinF14WKw2vIpXDAiC) | 3:34 |
 | 26 | [Joromi](https://open.spotify.com/track/6NvUNJefj3U5ANRwFBCQXE) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Simisola](https://open.spotify.com/album/4FFft6oVCqgbcIaD9CxZiR) | 3:55 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSEAOqwtmQ3.md) - [plain]
 | 47 | [Ma Lo](https://open.spotify.com/track/6U9jxxdQ6TNzjshIpwWMTf) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Spellz](https://open.spotify.com/artist/5fOppW3chS7Mz6MAoFaN7J) | [Sugarcane](https://open.spotify.com/album/15Sj69bAIyYGBLuh1UhZKo) | 3:02 |
 | 48 | [Madu](https://open.spotify.com/track/69vmMU3DyducrazXbFmOqH) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [No Bad Songz](https://open.spotify.com/album/0DpLAtDsBunoPN3V8ir3QS) | 2:41 |
 | 49 | [Shele Gan Gan](https://open.spotify.com/track/4umLGm81374u2zCfa4ugjQ) | [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT) | [Shele Gan Gan](https://open.spotify.com/album/59vlF8oPYgqngDXwuHKfTp) | 3:40 |
-| 50 | [Soft Work](https://open.spotify.com/track/4V4iOjpWebbWHS5eycyeTn) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Stories That Touch](https://open.spotify.com/album/5V4Mel3NQSGXJkBtAUzZUe) | 3:25 |
+| 50 | [Dumebi](https://open.spotify.com/track/1sBX7EfLOgP3u6gHJBSqQg) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rema](https://open.spotify.com/album/2S0vU69yNYqOkHA62JSjT8) | 2:59 |
 
 Snapshot ID: `AAAAANEJYyYpSkjbgnRD6sM3l7+toCLX`

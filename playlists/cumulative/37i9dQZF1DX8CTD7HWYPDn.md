@@ -4,7 +4,7 @@
 
 > Tu karaoke personal para darlo todo cantando.
 
-295 songs - 19 hr 17 min
+296 songs - 19 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,9 +286,10 @@
 | [What Is Love \- 7" Mix](https://open.spotify.com/track/2bNFbu5KHnK1qCl0iNQMfP) | [Haddaway](https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma) | [The Album](https://open.spotify.com/album/36TbZt4tWOO8eSNcefOXp6) | 4:30 | 2024-02-09 | 2024-04-19 |
 | [What Is Love \- 7" Mix](https://open.spotify.com/track/3NvS0SxNWIPiAJoPWUpZzr) | [Haddaway](https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma) | [The Album 2nd Edition](https://open.spotify.com/album/7iJaLP2Wqt624nD3esC08f) | 4:30 | 2024-02-09 | 2026-10-07 |
 | [What's Love Got to Do with It](https://open.spotify.com/track/4kOfxxnW1ukZdsNbCKY9br) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [What's Love Got to Do with It?](https://open.spotify.com/album/5HmYiJnUkFuciiqRrAAv4o) | 3:46 | 2023-02-15 |  |
-| [What's Up?](https://open.spotify.com/track/7f0jXNMu2xjQUtmKMuWhGA) | [4 Non Blondes](https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7) | [Bigger, Better, Faster, More !](https://open.spotify.com/album/7oqXnxR9Xg9Okhs17hL9aS) | 4:55 | 2024-02-09 |  |
+| [What's Up?](https://open.spotify.com/track/7f0jXNMu2xjQUtmKMuWhGA) | [4 Non Blondes](https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7) | [Bigger, Better, Faster, More !](https://open.spotify.com/album/7oqXnxR9Xg9Okhs17hL9aS) | 4:55 | 2024-02-09 | 2026-10-12 |
 | [What's Up?](https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm) | [4 Non Blondes](https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7) | [Bigger, Better, Faster, More !](https://open.spotify.com/album/2P8M5eo4zWFD0JJtH4D0iA) | 4:55 | 2023-02-15 | 2024-04-19 |
 | [When a Man Loves a Woman](https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av) | [Percy Sledge](https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO) | [When a Man Loves a Woman](https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M) | 2:53 | 2023-02-15 |  |
+| [Wonderwall](https://open.spotify.com/track/2CT3r93YuSHtm57mjxvjhH) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Stop The Clocks](https://open.spotify.com/album/1f4I0SpE0O8yg4Eg2ywwv1) | 4:18 | 2026-03-17 |  |
 | [Wonderwall \- Remastered](https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 4:18 | 2023-02-15 | 2024-04-19 |
 | [Wrecking Ball](https://open.spotify.com/track/2vwlzO0Qp8kfEtzTsCXfyE) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bangerz \(Deluxe Version\)](https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0) | 3:41 | 2023-02-15 |  |
 | [Y.M.C.A.](https://open.spotify.com/track/4YOJFyjqh8eAcbKFfv88mV) | [Village People](https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW) | [Cruisin'](https://open.spotify.com/album/3kdp1PnxkKlshMP3qG2CUG) | 4:46 | 2024-01-30 | 2024-04-19 |

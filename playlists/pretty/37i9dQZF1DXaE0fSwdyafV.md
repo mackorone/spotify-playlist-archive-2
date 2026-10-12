@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaE0fSwdyafV.md) - [plain]
 
 > So mote it be\. Cover: Phoebe Bridgers
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,978 likes - 75 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,994 likes - 75 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaE0fSwdyafV.md) - [plain]
 | 47 | [Savage Daughter](https://open.spotify.com/track/0dVnj3XPVTHfCvxpbIDOcx) | [Sarah Hester Ross](https://open.spotify.com/artist/3G5WkIXbDxdNoGWHZbXDjI) | [Savage Daughter](https://open.spotify.com/album/0Ts5Jzl0y8Nc13RVuEJFxi) | 2:58 |
 | 48 | [Harvest Moon \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6gdCb962lq0Xdg7ypVLuLt) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Spotify Singles](https://open.spotify.com/album/3oTpxylhyTiGLaZ8IRjJQB) | 5:46 |
 | 49 | [Seven Devils](https://open.spotify.com/track/5qaLfqAUiqvsoL0l4T05Yx) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Ceremonials \(Deluxe Edition\)](https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx) | 5:03 |
-| 50 | [House featuring John Cale](https://open.spotify.com/track/6lYUgmE829m06SMC6tG3qD) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [House featuring John Cale](https://open.spotify.com/album/6bUbneSMvxPLFuOEeyHgJo) | 3:17 |
-| 51 | [Dear Prudence](https://open.spotify.com/track/34tFidHrETMAjsiK87WVVW) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Hyaena \(Remastered And Expanded\)](https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr) | 3:48 |
-| 52 | [House of the Rising Sun](https://open.spotify.com/track/2tB5sTm4Lb8e6U0dNGuqtz) | [Lauren O'Connell](https://open.spotify.com/artist/5k58ro6wizhwH6oPwICLns) | [Covers](https://open.spotify.com/album/0ZuL0j8jVfNydM5P4Zzxix) | 3:05 |
+| 50 | [House of the Rising Sun](https://open.spotify.com/track/2tB5sTm4Lb8e6U0dNGuqtz) | [Lauren O'Connell](https://open.spotify.com/artist/5k58ro6wizhwH6oPwICLns) | [Covers](https://open.spotify.com/album/0ZuL0j8jVfNydM5P4Zzxix) | 3:05 |
+| 51 | [House featuring John Cale](https://open.spotify.com/track/6lYUgmE829m06SMC6tG3qD) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [House featuring John Cale](https://open.spotify.com/album/6bUbneSMvxPLFuOEeyHgJo) | 3:17 |
+| 52 | [Dear Prudence](https://open.spotify.com/track/34tFidHrETMAjsiK87WVVW) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Hyaena \(Remastered And Expanded\)](https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr) | 3:48 |
 | 53 | [last woman on earth](https://open.spotify.com/track/79UlPlMXGqCHfxDUJ4dPB2) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Cacophony](https://open.spotify.com/album/6iotK7DPiIqhu707ysxYpH) | 4:19 |
 | 54 | [I Follow Rivers](https://open.spotify.com/track/3Cs4g3w33H9YEptmg34DQc) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Deaf Heat EP](https://open.spotify.com/album/2NJInBQPfkmgWkNsx2m0DC) | 2:46 |
 | 55 | [Saw You in a Dream](https://open.spotify.com/track/7dujOm8FJcepmVBQjqdswN) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Saw You in a Dream](https://open.spotify.com/album/1K4hiGtecpTxNLajyHVX3h) | 3:28 |

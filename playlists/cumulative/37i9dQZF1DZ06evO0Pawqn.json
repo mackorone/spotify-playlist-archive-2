@@ -244,10 +244,28 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 208067,
       "name": "Comiendote a Besos",
       "url": "https://open.spotify.com/track/5QyKogVAcJN3OnwFvilwhv"
+    },
+    {
+      "album": {
+        "name": "Como Criminales",
+        "url": "https://open.spotify.com/album/4e0vXYazcWfIqSfbbzz1s8"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218174,
+      "name": "Como Criminales",
+      "url": "https://open.spotify.com/track/16Vz8q5RmVru8BvlZfVP4u"
     },
     {
       "album": {

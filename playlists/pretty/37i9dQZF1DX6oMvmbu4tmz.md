@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oMvmbu4tmz.md) - [plain]
 
 > De allerbeste songs van de 10's! Cover: Martin Garrix
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,477 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,483 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oMvmbu4tmz.md) - [plain]
 | 63 | [Strong](https://open.spotify.com/track/6k1I9gABiasGZiWWAosAEb) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [If You Wait \(Deluxe Version\)](https://open.spotify.com/album/0Jxn7c5MQwqvkahOp4YiB5) | 4:35 |
 | 64 | [Next To Me](https://open.spotify.com/track/3vjQt1znaFEnX3PBXsgtVc) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Our Version Of Events \(Special Edition\)](https://open.spotify.com/album/0QwbgAJnx9FEFFC3EsyLrQ) | 3:16 |
 | 65 | [In Your Arms](https://open.spotify.com/track/3wJmcmAh2YAfDSKQR8o1XS) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Passing Through](https://open.spotify.com/album/4ni6WOwE5153lhqAE2HFdG) | 3:35 |
-| 66 | [Parijs](https://open.spotify.com/track/4CH8nmzGgqd4sokxN7dacs) | [Kenny B](https://open.spotify.com/artist/2NX52zvQRp4AxVzhp2cMiP) | [Kenny B](https://open.spotify.com/album/6vCBPngxisDMowQCtmmJtB) | 3:13 |
-| 67 | [Year Of Summer](https://open.spotify.com/track/3iKcDwqwMf6O547uQcyjaO) | [Wildstylez](https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV), [Niels Geusebroek](https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l) | [Year of Summer](https://open.spotify.com/album/2LAZd5AdhXLIJIKaLRNqPa) | 2:54 |
+| 66 | [Year Of Summer](https://open.spotify.com/track/3iKcDwqwMf6O547uQcyjaO) | [Wildstylez](https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV), [Niels Geusebroek](https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l) | [Year of Summer](https://open.spotify.com/album/2LAZd5AdhXLIJIKaLRNqPa) | 2:54 |
+| 67 | [Parijs](https://open.spotify.com/track/4CH8nmzGgqd4sokxN7dacs) | [Kenny B](https://open.spotify.com/artist/2NX52zvQRp4AxVzhp2cMiP) | [Kenny B](https://open.spotify.com/album/6vCBPngxisDMowQCtmmJtB) | 3:13 |
 | 68 | [Tears \(feat\. Louisa Johnson\)](https://open.spotify.com/track/7py16W5fWYLFFS6BElKAjn) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Louisa Johnson](https://open.spotify.com/artist/5IHqlcCbQkyhWl0KmIwgeq) | [Tears \(feat\. Louisa Johnson\)](https://open.spotify.com/album/5J1vKkCC6aoOGZjE7YZrHE) | 3:45 |
 | 69 | [Read All About It, Pt\. III](https://open.spotify.com/track/4n41lg3dl0abbHovuv5bAU) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Our Version Of Events \(Special Edition\)](https://open.spotify.com/album/49sy06JJUk1CRwkG9wbRYw) | 4:43 |
 | 70 | [Hey](https://open.spotify.com/track/6KZmDucZFfvxGJkrHInbix) | [FÄIS](https://open.spotify.com/artist/5w6mMj1qwSILG0pcylfchp), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Hey](https://open.spotify.com/album/0blPiZeFeUsC6zlCx2w5EH) | 3:35 |
@@ -94,15 +94,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oMvmbu4tmz.md) - [plain]
 | 84 | [Treat You Better](https://open.spotify.com/track/76t5B0ttSAje5KHmQbv88t) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(Deluxe\)](https://open.spotify.com/album/0S9QJQiRmG9JYYfJfKqhDF) | 3:07 |
 | 85 | [Perfect Strangers](https://open.spotify.com/track/1CUVN2kn7mW5FjkqXTR2W1) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Perfect Strangers](https://open.spotify.com/album/163nFrWkhj8FwiwJ11Gu93) | 3:16 |
 | 86 | [Solo Dance](https://open.spotify.com/track/6HUnnBwYZqcED1eQztxMBN) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [Solo Dance](https://open.spotify.com/album/3BcNHuKlAm57APDcwh7LJq) | 2:54 |
-| 87 | [High Hopes](https://open.spotify.com/track/7jDe24vXWUNX8Jl2hZHrIS) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Deluxe\)](https://open.spotify.com/album/3YHf7ooFmrTOsp4jPM3aFj) | 3:50 |
-| 88 | [Human](https://open.spotify.com/track/3erAiWBiKsbVG39cqCrsI0) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Human](https://open.spotify.com/album/2Tjk7cYdH5s6dFhrmmRIw1) | 3:19 |
+| 87 | [Human](https://open.spotify.com/track/3erAiWBiKsbVG39cqCrsI0) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Human](https://open.spotify.com/album/2Tjk7cYdH5s6dFhrmmRIw1) | 3:19 |
+| 88 | [High Hopes](https://open.spotify.com/track/7jDe24vXWUNX8Jl2hZHrIS) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Deluxe\)](https://open.spotify.com/album/3YHf7ooFmrTOsp4jPM3aFj) | 3:50 |
 | 89 | [September Song](https://open.spotify.com/track/0FuTx2s3YH1ppmtiM6l0zI) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [September Song](https://open.spotify.com/album/4PtHrEv5SyIVsdbMKi6Vkg) | 3:40 |
 | 90 | [Little Lion Man](https://open.spotify.com/track/1QTixxvaGxwe6GF8PBwAve) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More \(Benelux Edition\)](https://open.spotify.com/album/4yHxYRTHNocJenKZ4gQndD) | 4:07 |
 | 91 | [Dancing On My Own](https://open.spotify.com/track/02WacdrRpm4zlP8H7X6bnQ) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Dancing On My Own](https://open.spotify.com/album/5Hq4LcmCQ6BP3kM8J5lgga) | 4:20 |
 | 92 | [Somebody That I Used To Know](https://open.spotify.com/track/6UxSmGD3Ys7BIpbUpSERBM) | [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Making Mirrors](https://open.spotify.com/album/6ZoZzRBB86PzA3ay5IetcS) | 4:05 |
 | 93 | [Oceaan](https://open.spotify.com/track/4AUASx1KCTQFmpHu7qq6Kr) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [The Singles Collection](https://open.spotify.com/album/2BPly0LvQzfKNfn9v4ShE8) | 2:44 |
-| 94 | [When You Love Someone](https://open.spotify.com/track/5fX2oPyLCe5mBKqGDbOWqC) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [First Impressions](https://open.spotify.com/album/6ZPn3tnyLZAbgLFy3GSkqT) | 3:36 |
-| 95 | [Home](https://open.spotify.com/track/0ZUMBOzlwNXfVE4Z8lSrsd) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [7 Layers](https://open.spotify.com/album/7xHurOB8aG4kNCKsaAn62T) | 4:28 |
+| 94 | [Home](https://open.spotify.com/track/0ZUMBOzlwNXfVE4Z8lSrsd) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [7 Layers](https://open.spotify.com/album/7xHurOB8aG4kNCKsaAn62T) | 4:28 |
+| 95 | [When You Love Someone](https://open.spotify.com/track/5fX2oPyLCe5mBKqGDbOWqC) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [First Impressions](https://open.spotify.com/album/6ZPn3tnyLZAbgLFy3GSkqT) | 3:36 |
 | 96 | [Waves](https://open.spotify.com/track/2gGIhNmn8NaUr3LNofUIBZ) | [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT) | [Waves](https://open.spotify.com/album/1LZ2KaIsWc2hhCjfU72lwK) | 2:54 |
 | 97 | [Catch & Release \(Deepend remix\)](https://open.spotify.com/track/3NNqqioprPCnYcVtDn3wvS) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7), [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B) | [Catch & Release \(Deluxe Edition\)](https://open.spotify.com/album/1ujSRXhOZaq3QVbJ1gVkNl) | 3:16 |
 | 98 | [Mercy](https://open.spotify.com/track/4lYTkvMkcNRj9uoSr8Zpws) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Mercy](https://open.spotify.com/album/5k3xD5FmMQjKuqJgK4Qk4k) | 3:28 |

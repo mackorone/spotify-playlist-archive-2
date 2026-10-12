@@ -1,6 +1,6 @@
 {
   "description": "Groovy sounds from around the world.",
-  "num_followers": 888960,
+  "num_followers": 889029,
   "original_name": "Global Groove",
   "owner": {
     "name": "Spotify",
@@ -1495,26 +1495,6 @@
     {
       "added_at": "2026-10-05 14:55:25",
       "album": {
-        "name": "Easy To Love",
-        "url": "https://open.spotify.com/album/04asBtmK3GCvnjDvEVKefV"
-      },
-      "artists": [
-        {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
-        },
-        {
-          "name": "Kabusa Oriental Choir",
-          "url": "https://open.spotify.com/artist/4YrSRLOhFdbVvToiE2nlpj"
-        }
-      ],
-      "duration_ms": 240587,
-      "name": "Easy To Love",
-      "url": "https://open.spotify.com/track/7nDdoz7NIXvWArl6a0XhN0"
-    },
-    {
-      "added_at": "2026-10-05 14:55:25",
-      "album": {
         "name": "On te l'avait dit",
         "url": "https://open.spotify.com/album/769hXvYI0EBGEC2ldfRgnp"
       },
@@ -1531,6 +1511,26 @@
       "duration_ms": 384383,
       "name": "On te l'avait dit",
       "url": "https://open.spotify.com/track/3d6u38zeC6XIt87Hhp4pql"
+    },
+    {
+      "added_at": "2026-10-05 14:55:25",
+      "album": {
+        "name": "Easy To Love",
+        "url": "https://open.spotify.com/album/04asBtmK3GCvnjDvEVKefV"
+      },
+      "artists": [
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        },
+        {
+          "name": "Kabusa Oriental Choir",
+          "url": "https://open.spotify.com/artist/4YrSRLOhFdbVvToiE2nlpj"
+        }
+      ],
+      "duration_ms": 240587,
+      "name": "Easy To Love",
+      "url": "https://open.spotify.com/track/7nDdoz7NIXvWArl6a0XhN0"
     },
     {
       "added_at": "2026-10-05 14:55:25",
@@ -1891,6 +1891,22 @@
     {
       "added_at": "2026-10-05 14:55:25",
       "album": {
+        "name": "Kodak",
+        "url": "https://open.spotify.com/album/0VxK1HxAonoEU6mdVTQqdD"
+      },
+      "artists": [
+        {
+          "name": "El Michels Affair",
+          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
+        }
+      ],
+      "duration_ms": 176083,
+      "name": "Kodak",
+      "url": "https://open.spotify.com/track/61JId4cKxT37dAx8Ugy49k"
+    },
+    {
+      "added_at": "2026-10-05 14:55:25",
+      "album": {
         "name": "Keep Me On The Dancefloor",
         "url": "https://open.spotify.com/album/4J4bgMYKDkVRDW5zNGWghU"
       },
@@ -1915,22 +1931,6 @@
     {
       "added_at": "2026-10-05 14:55:25",
       "album": {
-        "name": "Kodak",
-        "url": "https://open.spotify.com/album/0VxK1HxAonoEU6mdVTQqdD"
-      },
-      "artists": [
-        {
-          "name": "El Michels Affair",
-          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
-        }
-      ],
-      "duration_ms": 176083,
-      "name": "Kodak",
-      "url": "https://open.spotify.com/track/61JId4cKxT37dAx8Ugy49k"
-    },
-    {
-      "added_at": "2026-10-05 14:55:25",
-      "album": {
         "name": "Existe Uma Voz",
         "url": "https://open.spotify.com/album/3IxCKH95VNnV1nToX3Gwer"
       },
@@ -1943,6 +1943,22 @@
       "duration_ms": 225826,
       "name": "Existe Uma Voz",
       "url": "https://open.spotify.com/track/67FeJNl0O51jh7HqtryxTt"
+    },
+    {
+      "added_at": "2026-10-05 14:55:25",
+      "album": {
+        "name": "Can't Deny",
+        "url": "https://open.spotify.com/album/1peaO7KtUAfYM7mkKX1hVz"
+      },
+      "artists": [
+        {
+          "name": "Benni Ola",
+          "url": "https://open.spotify.com/artist/4q90901wzb3GPqUBKuhoRg"
+        }
+      ],
+      "duration_ms": 162477,
+      "name": "Can't Deny",
+      "url": "https://open.spotify.com/track/5iTy8oqFjqdNPY3QZxq0tS"
     },
     {
       "added_at": "2026-10-05 14:55:25",
@@ -1983,22 +1999,6 @@
     {
       "added_at": "2026-10-05 14:55:25",
       "album": {
-        "name": "Can't Deny",
-        "url": "https://open.spotify.com/album/1peaO7KtUAfYM7mkKX1hVz"
-      },
-      "artists": [
-        {
-          "name": "Benni Ola",
-          "url": "https://open.spotify.com/artist/4q90901wzb3GPqUBKuhoRg"
-        }
-      ],
-      "duration_ms": 162477,
-      "name": "Can't Deny",
-      "url": "https://open.spotify.com/track/5iTy8oqFjqdNPY3QZxq0tS"
-    },
-    {
-      "added_at": "2026-10-05 14:55:25",
-      "album": {
         "name": "Consider It Done",
         "url": "https://open.spotify.com/album/4eRgGGaoaIFT4x9JymYsH3"
       },
@@ -2011,22 +2011,6 @@
       "duration_ms": 195993,
       "name": "Cocobolo",
       "url": "https://open.spotify.com/track/7vtxV54DvYQDTSpAcFcjzZ"
-    },
-    {
-      "added_at": "2026-10-05 14:55:25",
-      "album": {
-        "name": "Dur Dur of Somalia - Vol. 1, Vol. 2 (Analog Africa No. 27)",
-        "url": "https://open.spotify.com/album/2ZWaF8JdYy0T8wJdVDW8az"
-      },
-      "artists": [
-        {
-          "name": "Dur-Dur Band",
-          "url": "https://open.spotify.com/artist/4KDUfOJRuihzpcwO7jx9DF"
-        }
-      ],
-      "duration_ms": 357480,
-      "name": "Yabaal",
-      "url": "https://open.spotify.com/track/0IPAr9x0VOpCnk2hNuk5aO"
     },
     {
       "added_at": "2026-10-05 14:55:25",
@@ -2047,6 +2031,22 @@
       "duration_ms": 351124,
       "name": "Thonga Lami - Gaudi Remix",
       "url": "https://open.spotify.com/track/5GR8F9LBYWOLbSe5eBTP5Y"
+    },
+    {
+      "added_at": "2026-10-05 14:55:25",
+      "album": {
+        "name": "Dur Dur of Somalia - Vol. 1, Vol. 2 (Analog Africa No. 27)",
+        "url": "https://open.spotify.com/album/2ZWaF8JdYy0T8wJdVDW8az"
+      },
+      "artists": [
+        {
+          "name": "Dur-Dur Band",
+          "url": "https://open.spotify.com/artist/4KDUfOJRuihzpcwO7jx9DF"
+        }
+      ],
+      "duration_ms": 357480,
+      "name": "Yabaal",
+      "url": "https://open.spotify.com/track/0IPAr9x0VOpCnk2hNuk5aO"
     },
     {
       "added_at": "2026-10-05 14:55:25",
@@ -2151,26 +2151,6 @@
     {
       "added_at": "2026-10-05 14:55:25",
       "album": {
-        "name": "Moonshake",
-        "url": "https://open.spotify.com/album/5t6furplfi3sWXxezzQtQA"
-      },
-      "artists": [
-        {
-          "name": "Marcello Cassanelli",
-          "url": "https://open.spotify.com/artist/2Y2ZlBMCoDBEumOLdAbGcm"
-        },
-        {
-          "name": "Gabe Costa",
-          "url": "https://open.spotify.com/artist/6LMyfO4lGSYAkJg3Yc06ZR"
-        }
-      ],
-      "duration_ms": 154445,
-      "name": "Moonshake",
-      "url": "https://open.spotify.com/track/6JmjLIr94qWA1rKOXdJgDL"
-    },
-    {
-      "added_at": "2026-10-05 14:55:25",
-      "album": {
         "name": "Afro Edits",
         "url": "https://open.spotify.com/album/3WPUH9O57Xem6YyswXOa9C"
       },
@@ -2187,6 +2167,26 @@
       "duration_ms": 248659,
       "name": "Samarin Bolga",
       "url": "https://open.spotify.com/track/6P2HSEAhpvApOQ7PTGDcj0"
+    },
+    {
+      "added_at": "2026-10-05 14:55:25",
+      "album": {
+        "name": "Moonshake",
+        "url": "https://open.spotify.com/album/5t6furplfi3sWXxezzQtQA"
+      },
+      "artists": [
+        {
+          "name": "Marcello Cassanelli",
+          "url": "https://open.spotify.com/artist/2Y2ZlBMCoDBEumOLdAbGcm"
+        },
+        {
+          "name": "Gabe Costa",
+          "url": "https://open.spotify.com/artist/6LMyfO4lGSYAkJg3Yc06ZR"
+        }
+      ],
+      "duration_ms": 154445,
+      "name": "Moonshake",
+      "url": "https://open.spotify.com/track/6JmjLIr94qWA1rKOXdJgDL"
     },
     {
       "added_at": "2026-10-05 14:55:25",
@@ -2267,22 +2267,6 @@
     {
       "added_at": "2026-10-05 14:55:25",
       "album": {
-        "name": "Puro Mambo",
-        "url": "https://open.spotify.com/album/3To831Y2DDdp42fp2mDmnm"
-      },
-      "artists": [
-        {
-          "name": "Buraka Som Sistema",
-          "url": "https://open.spotify.com/artist/6zUiRChNyL3HEezOd1Wjam"
-        }
-      ],
-      "duration_ms": 169117,
-      "name": "Puro Mambo",
-      "url": "https://open.spotify.com/track/6Z9U6Xk4kQtziCcdEZfUzw"
-    },
-    {
-      "added_at": "2026-10-05 14:55:25",
-      "album": {
         "name": "Money Face",
         "url": "https://open.spotify.com/album/26iLCPPHW9vxAzRKRDLa2v"
       },
@@ -2339,18 +2323,18 @@
     {
       "added_at": "2026-10-05 14:55:25",
       "album": {
-        "name": "Ritmo",
-        "url": "https://open.spotify.com/album/00QDIAtrKiS45HPy6w2tLB"
+        "name": "Puro Mambo",
+        "url": "https://open.spotify.com/album/3To831Y2DDdp42fp2mDmnm"
       },
       "artists": [
         {
-          "name": "VHOOR",
-          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
+          "name": "Buraka Som Sistema",
+          "url": "https://open.spotify.com/artist/6zUiRChNyL3HEezOd1Wjam"
         }
       ],
-      "duration_ms": 202104,
-      "name": "Verde",
-      "url": "https://open.spotify.com/track/6sqG1sGiZ5xy58TDkeo9rS"
+      "duration_ms": 169117,
+      "name": "Puro Mambo",
+      "url": "https://open.spotify.com/track/6Z9U6Xk4kQtziCcdEZfUzw"
     },
     {
       "added_at": "2026-10-05 14:55:25",
@@ -2367,6 +2351,22 @@
       "duration_ms": 190229,
       "name": "Every Trick in the Book",
       "url": "https://open.spotify.com/track/3SZ0veqxOxbVZrZxtHzSG0"
+    },
+    {
+      "added_at": "2026-10-05 14:55:25",
+      "album": {
+        "name": "Ritmo",
+        "url": "https://open.spotify.com/album/00QDIAtrKiS45HPy6w2tLB"
+      },
+      "artists": [
+        {
+          "name": "VHOOR",
+          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
+        }
+      ],
+      "duration_ms": 202104,
+      "name": "Verde",
+      "url": "https://open.spotify.com/track/6sqG1sGiZ5xy58TDkeo9rS"
     },
     {
       "added_at": "2026-10-05 14:55:25",
@@ -2419,22 +2419,6 @@
     {
       "added_at": "2026-10-05 14:55:25",
       "album": {
-        "name": "Various Bilongo",
-        "url": "https://open.spotify.com/album/1WnorRo4yM6FtWdFq2enSt"
-      },
-      "artists": [
-        {
-          "name": "Kelenkye Band",
-          "url": "https://open.spotify.com/artist/1AIamdH9sipGz8h6gp0Fmq"
-        }
-      ],
-      "duration_ms": 336133,
-      "name": "Jungle Music",
-      "url": "https://open.spotify.com/track/4Fz7kqfYvb6T4YUxTexdLs"
-    },
-    {
-      "added_at": "2026-10-05 14:55:25",
-      "album": {
         "name": "Water of Life",
         "url": "https://open.spotify.com/album/5yEGMv9neQw6QaCgKa8NgZ"
       },
@@ -2451,6 +2435,38 @@
       "duration_ms": 304334,
       "name": "Water of Life",
       "url": "https://open.spotify.com/track/2kT05IUIBA0xsDfxphTiV1"
+    },
+    {
+      "added_at": "2026-10-05 14:55:25",
+      "album": {
+        "name": "Various Bilongo",
+        "url": "https://open.spotify.com/album/1WnorRo4yM6FtWdFq2enSt"
+      },
+      "artists": [
+        {
+          "name": "Kelenkye Band",
+          "url": "https://open.spotify.com/artist/1AIamdH9sipGz8h6gp0Fmq"
+        }
+      ],
+      "duration_ms": 336133,
+      "name": "Jungle Music",
+      "url": "https://open.spotify.com/track/4Fz7kqfYvb6T4YUxTexdLs"
+    },
+    {
+      "added_at": "2026-10-05 14:55:25",
+      "album": {
+        "name": "Space Echo (Analog Africa No. 20)",
+        "url": "https://open.spotify.com/album/58gj8oagDeV8xq7ZWPaWNz"
+      },
+      "artists": [
+        {
+          "name": "Dionisio Maio",
+          "url": "https://open.spotify.com/artist/0uQTMkrmJQgd8XPVJPjezw"
+        }
+      ],
+      "duration_ms": 276981,
+      "name": "Dia Ja Manche",
+      "url": "https://open.spotify.com/track/4DZ8RCTKx5swCemyBYcgaH"
     },
     {
       "added_at": "2026-10-05 14:55:25",
@@ -2475,38 +2491,6 @@
     {
       "added_at": "2026-10-05 14:55:25",
       "album": {
-        "name": "Space Echo (Analog Africa No. 20)",
-        "url": "https://open.spotify.com/album/58gj8oagDeV8xq7ZWPaWNz"
-      },
-      "artists": [
-        {
-          "name": "Dionisio Maio",
-          "url": "https://open.spotify.com/artist/0uQTMkrmJQgd8XPVJPjezw"
-        }
-      ],
-      "duration_ms": 276981,
-      "name": "Dia Ja Manche",
-      "url": "https://open.spotify.com/track/4DZ8RCTKx5swCemyBYcgaH"
-    },
-    {
-      "added_at": "2026-10-05 14:55:25",
-      "album": {
-        "name": "I Wanna Sleep In Your Arms / What's a Girl To Do",
-        "url": "https://open.spotify.com/album/3KgSMLE6uMBDuNTjOwjDoA"
-      },
-      "artists": [
-        {
-          "name": "Housepainters",
-          "url": "https://open.spotify.com/artist/42RX9RBkomkMBf7wY8BeIK"
-        }
-      ],
-      "duration_ms": 227780,
-      "name": "I Wanna Sleep In Your Arms",
-      "url": "https://open.spotify.com/track/7M3sfWCuoSQqmkLxM9CJc0"
-    },
-    {
-      "added_at": "2026-10-05 14:55:25",
-      "album": {
         "name": "Fighting Slowly",
         "url": "https://open.spotify.com/album/7vXFAnHHFWDPECJLi89PPk"
       },
@@ -2523,6 +2507,22 @@
       "duration_ms": 322819,
       "name": "Fighting Slowly",
       "url": "https://open.spotify.com/track/4BPmWt2dEIP0ygttCwLBq6"
+    },
+    {
+      "added_at": "2026-10-05 14:55:25",
+      "album": {
+        "name": "I Wanna Sleep In Your Arms / What's a Girl To Do",
+        "url": "https://open.spotify.com/album/3KgSMLE6uMBDuNTjOwjDoA"
+      },
+      "artists": [
+        {
+          "name": "Housepainters",
+          "url": "https://open.spotify.com/artist/42RX9RBkomkMBf7wY8BeIK"
+        }
+      ],
+      "duration_ms": 227780,
+      "name": "I Wanna Sleep In Your Arms",
+      "url": "https://open.spotify.com/track/7M3sfWCuoSQqmkLxM9CJc0"
     },
     {
       "added_at": "2026-10-05 14:55:25",
@@ -2563,6 +2563,38 @@
     {
       "added_at": "2026-10-05 14:55:25",
       "album": {
+        "name": "Encontrar",
+        "url": "https://open.spotify.com/album/07rglBX8NImD5GFtEusVFs"
+      },
+      "artists": [
+        {
+          "name": "DJ Raff",
+          "url": "https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2"
+        }
+      ],
+      "duration_ms": 353109,
+      "name": "Somos",
+      "url": "https://open.spotify.com/track/6IUKavHeCTT13k7zS1KKCH"
+    },
+    {
+      "added_at": "2026-10-05 14:55:25",
+      "album": {
+        "name": "Los Santos y Pecadores",
+        "url": "https://open.spotify.com/album/05DKwPpIQiGJTKxEqvDJsu"
+      },
+      "artists": [
+        {
+          "name": "Battle of Santiago",
+          "url": "https://open.spotify.com/artist/39Pu6fhvnHzWYqZlngV8dl"
+        }
+      ],
+      "duration_ms": 198767,
+      "name": "Blossom",
+      "url": "https://open.spotify.com/track/68Ck9sVtvLBnyklKBhppty"
+    },
+    {
+      "added_at": "2026-10-05 14:55:25",
+      "album": {
         "name": "Canette",
         "url": "https://open.spotify.com/album/3bFbLHjl3kb0DZYtrNWOt5"
       },
@@ -2587,34 +2619,18 @@
     {
       "added_at": "2026-10-05 14:55:25",
       "album": {
-        "name": "Los Santos y Pecadores",
-        "url": "https://open.spotify.com/album/05DKwPpIQiGJTKxEqvDJsu"
+        "name": "Ancients / It's Starting",
+        "url": "https://open.spotify.com/album/0Lom6x0ksjYsj2edO7rNHQ"
       },
       "artists": [
         {
-          "name": "Battle of Santiago",
-          "url": "https://open.spotify.com/artist/39Pu6fhvnHzWYqZlngV8dl"
+          "name": "RIO KOSTA",
+          "url": "https://open.spotify.com/artist/4xU7M9wEvpnvkNOyPdVi5y"
         }
       ],
-      "duration_ms": 198767,
-      "name": "Blossom",
-      "url": "https://open.spotify.com/track/68Ck9sVtvLBnyklKBhppty"
-    },
-    {
-      "added_at": "2026-10-05 14:55:25",
-      "album": {
-        "name": "Encontrar",
-        "url": "https://open.spotify.com/album/07rglBX8NImD5GFtEusVFs"
-      },
-      "artists": [
-        {
-          "name": "DJ Raff",
-          "url": "https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2"
-        }
-      ],
-      "duration_ms": 353109,
-      "name": "Somos",
-      "url": "https://open.spotify.com/track/6IUKavHeCTT13k7zS1KKCH"
+      "duration_ms": 309857,
+      "name": "It's Starting",
+      "url": "https://open.spotify.com/track/6IEmXicgn0oDnEWX5SyGqU"
     },
     {
       "added_at": "2026-10-05 14:55:25",
@@ -2631,22 +2647,6 @@
       "duration_ms": 350600,
       "name": "Evolution",
       "url": "https://open.spotify.com/track/60lRT01X553ode0LvndRf0"
-    },
-    {
-      "added_at": "2026-10-05 14:55:25",
-      "album": {
-        "name": "Ancients / It's Starting",
-        "url": "https://open.spotify.com/album/0Lom6x0ksjYsj2edO7rNHQ"
-      },
-      "artists": [
-        {
-          "name": "RIO KOSTA",
-          "url": "https://open.spotify.com/artist/4xU7M9wEvpnvkNOyPdVi5y"
-        }
-      ],
-      "duration_ms": 309857,
-      "name": "It's Starting",
-      "url": "https://open.spotify.com/track/6IEmXicgn0oDnEWX5SyGqU"
     }
   ],
   "unique_name": "Global Groove",

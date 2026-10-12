@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9mGYsaqc7V.md) - [plain]
 
 > Dim the lights and chill with these classic slow jamz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 485,327 likes - 100 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 485,366 likes - 100 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,19 +50,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9mGYsaqc7V.md) - [plain]
 | 40 | [I Need a Girl \(Pt\. 1\) \[feat\. Usher & Loon\]](https://open.spotify.com/track/7lVNTXkI3cHFvcXiI8damb) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Loon](https://open.spotify.com/artist/2gie1bU1LwnxdFAJoTLjzT), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [R&B Hits](https://open.spotify.com/album/5Bp5PZqYJ9tiz0Hf6lOD5Q) | 4:28 |
 | 41 | [Can You Stand The Rain](https://open.spotify.com/track/1vbe9sh7U9vdMceAhitWr2) | [New Edition](https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb) | [Heart Break](https://open.spotify.com/album/1bTjSqotSDtUjcwFfukTQP) | 4:57 |
 | 42 | [Lady](https://open.spotify.com/track/7AjfklMN4WpQYz5FkT4E66) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Brown Sugar](https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4) | 5:46 |
-| 43 | [Freek'n You](https://open.spotify.com/track/43sNw9nvGYGLYnNiwI8oMZ) | [Jodeci](https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK) | [The Show, The After Party, The Hotel](https://open.spotify.com/album/5tincGtQaRD1QoXAT0PELz) | 6:19 |
-| 44 | [U Know What's Up \(feat\. Lisa "Left Eye" Lopes\)](https://open.spotify.com/track/5PMKzsUsTpZZGsCcJBuhP2) | [Donell Jones](https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B), [Lisa "Left Eye" Lopes](https://open.spotify.com/artist/64ccradw8gAQn9gMQZmEha) | [Where I Wanna Be](https://open.spotify.com/album/01riz9JMpPdL99fYhoZaph) | 4:03 |
-| 45 | [Officially Missing You](https://open.spotify.com/track/6CUTYJQKcDwcQ63EulINUo) | [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [More](https://open.spotify.com/album/43QuYbSfbTjcsghwJyUnyP) | 4:02 |
-| 46 | [Body Party](https://open.spotify.com/track/0rFZaQ4crlGAzuCjWCQ2xu) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Ciara](https://open.spotify.com/album/1ZhBKlFwsI2ppVo8LivPyG) | 3:54 |
+| 43 | [U Know What's Up \(feat\. Lisa "Left Eye" Lopes\)](https://open.spotify.com/track/5PMKzsUsTpZZGsCcJBuhP2) | [Donell Jones](https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B), [Lisa "Left Eye" Lopes](https://open.spotify.com/artist/64ccradw8gAQn9gMQZmEha) | [Where I Wanna Be](https://open.spotify.com/album/01riz9JMpPdL99fYhoZaph) | 4:03 |
+| 44 | [Freek'n You](https://open.spotify.com/track/43sNw9nvGYGLYnNiwI8oMZ) | [Jodeci](https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK) | [The Show, The After Party, The Hotel](https://open.spotify.com/album/5tincGtQaRD1QoXAT0PELz) | 6:19 |
+| 45 | [Body Party](https://open.spotify.com/track/0rFZaQ4crlGAzuCjWCQ2xu) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Ciara](https://open.spotify.com/album/1ZhBKlFwsI2ppVo8LivPyG) | 3:54 |
+| 46 | [Officially Missing You](https://open.spotify.com/track/6CUTYJQKcDwcQ63EulINUo) | [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [More](https://open.spotify.com/album/43QuYbSfbTjcsghwJyUnyP) | 4:02 |
 | 47 | [Rain](https://open.spotify.com/track/4G1qRhOk1YY0kewtMaCrMC) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [Release Some Tension](https://open.spotify.com/album/2bHrxJQDBQdvow7vktRVUj) | 4:24 |
 | 48 | [How You Gonna Act Like That](https://open.spotify.com/track/3OUApyz3jDB3syGUNGqB1d) | [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [I Wanna Go There](https://open.spotify.com/album/3skbBjGnAOqfy6ndwwOT4G) | 4:54 |
-| 49 | [Climax](https://open.spotify.com/track/5pyVqlqThcxI7tPDjHIzPh) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Looking 4 Myself \(Expanded Edition\)](https://open.spotify.com/album/7eyuQZCLG5tdjWpKZbDE8g) | 3:52 |
-| 50 | [Brown Eyes](https://open.spotify.com/track/1urmwhtXPiakhcqvqUi3rp) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Survivor](https://open.spotify.com/album/480AZOo2VQ1kf3GedAiKV9) | 4:36 |
+| 49 | [Brown Eyes](https://open.spotify.com/track/1urmwhtXPiakhcqvqUi3rp) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Survivor](https://open.spotify.com/album/480AZOo2VQ1kf3GedAiKV9) | 4:36 |
+| 50 | [Climax](https://open.spotify.com/track/5pyVqlqThcxI7tPDjHIzPh) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Looking 4 Myself \(Expanded Edition\)](https://open.spotify.com/album/7eyuQZCLG5tdjWpKZbDE8g) | 3:52 |
 | 51 | [Dance for You](https://open.spotify.com/track/7cvkXf3AwPGT041PyOi5VX) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 6:17 |
 | 52 | [You're Makin' Me High](https://open.spotify.com/track/5bJ796cOnGBzSN5bm4mwMj) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Secrets](https://open.spotify.com/album/6rxtWZH5ua9eANwWdwwf9o) | 4:27 |
 | 53 | [Say Yes](https://open.spotify.com/track/2fE4MbwX3QGMzNaMjGVhtw) | [Floetry](https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM) | [Floetic](https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi) | 4:28 |
-| 54 | [Every Time I Close My Eyes \(with Kenny G\)](https://open.spotify.com/track/2ezqQeBiC72gwMJoO4w1hA) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [The Day](https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk) | 4:56 |
-| 55 | [Cater 2 U](https://open.spotify.com/track/0FZvjrHpAmLKj574M4VwrF) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Destiny Fulfilled](https://open.spotify.com/album/3xjdyJjSMNsSRkj3GTmBLi) | 4:05 |
+| 54 | [Cater 2 U](https://open.spotify.com/track/0FZvjrHpAmLKj574M4VwrF) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Destiny Fulfilled](https://open.spotify.com/album/3xjdyJjSMNsSRkj3GTmBLi) | 4:05 |
+| 55 | [Every Time I Close My Eyes \(with Kenny G\)](https://open.spotify.com/track/2ezqQeBiC72gwMJoO4w1hA) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [The Day](https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk) | 4:56 |
 | 56 | [Untitled \(How Does It Feel\)](https://open.spotify.com/track/4oPNN7syJYSjzDhRerF966) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 7:10 |
 | 57 | [Why Don't We Fall in Love](https://open.spotify.com/track/4bnjq8zqtCnxTGxll5ezOO) | [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [All I Have](https://open.spotify.com/album/3KUaoEXmzVovDKWionaofI) | 2:39 |
 | 58 | [Sweet Lady](https://open.spotify.com/track/1Dx8rIZaXzZPvUQRF2j9hB) | [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [Tyrese](https://open.spotify.com/album/1srJ4xgMWliQdwquG81ObA) | 4:50 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9mGYsaqc7V.md) - [plain]
 | 96 | [You're Always On My Mind](https://open.spotify.com/track/4zAxfkmJqsaHqFu1YPMS5a) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [It's About Time](https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK) | 5:17 |
 | 97 | [Love and War](https://open.spotify.com/track/3fLBmhcgWkPI47LfVQ8paB) | [Tamar Braxton](https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS) | [Love and War](https://open.spotify.com/album/1783Mxpt38yxafCtFlgHNF) | 4:01 |
 | 98 | [This Luv](https://open.spotify.com/track/4l34rbUYqKWufYEWriVnB5) | [Donell Jones](https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B) | [Where I Wanna Be](https://open.spotify.com/album/01riz9JMpPdL99fYhoZaph) | 4:09 |
-| 99 | [SPEECHLESS](https://open.spotify.com/track/3QG7ScQMjttBGhEQWM3tEf) | [WESLEYFRANKLIN](https://open.spotify.com/artist/5kKyuVfbMT2YX6QF3sh6vh) | [HIATUS](https://open.spotify.com/album/4Xhpn4XMjaoKTuWJ7YDWcE) | 3:34 |
-| 100 | [Burn \- Radio Mix](https://open.spotify.com/track/6gpEUabUe4Qtc0jek4BC50) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Burn](https://open.spotify.com/album/5adyyJ9rxUeRoDcCz19Ke1) | 4:16 |
+| 99 | [Burn \- Radio Mix](https://open.spotify.com/track/6gpEUabUe4Qtc0jek4BC50) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Burn](https://open.spotify.com/album/5adyyJ9rxUeRoDcCz19Ke1) | 4:16 |
+| 100 | [SPEECHLESS](https://open.spotify.com/track/3QG7ScQMjttBGhEQWM3tEf) | [WESLEYFRANKLIN](https://open.spotify.com/artist/5kKyuVfbMT2YX6QF3sh6vh) | [HIATUS](https://open.spotify.com/album/4Xhpn4XMjaoKTuWJ7YDWcE) | 3:34 |
 
 Snapshot ID: `AAAAAI/1kRtbX/euRQ57EXPxXpOwq2MB`

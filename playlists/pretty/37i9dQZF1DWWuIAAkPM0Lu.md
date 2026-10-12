@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Ny fredag! Velkommen Noah's Ark II ⛵️⛵️
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,225 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,219 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

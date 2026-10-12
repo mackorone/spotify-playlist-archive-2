@@ -1,6 +1,6 @@
 {
   "description": "All killers, no fillers",
-  "num_followers": 1962038,
+  "num_followers": 1961881,
   "original_name": "Party Hits",
   "owner": {
     "name": "Spotify",
@@ -303,6 +303,22 @@
     {
       "added_at": "2026-07-01 13:59:29",
       "album": {
+        "name": "TALKING IS HARD",
+        "url": "https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT"
+      },
+      "artists": [
+        {
+          "name": "WALK THE MOON",
+          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
+        }
+      ],
+      "duration_ms": 199080,
+      "name": "Shut Up and Dance",
+      "url": "https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA"
+    },
+    {
+      "added_at": "2026-07-01 13:59:29",
+      "album": {
         "name": "Shock Value",
         "url": "https://open.spotify.com/album/4BxB8U8QgpR4UCvJ0moj8Z"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 179120,
       "name": "The Way I Are",
       "url": "https://open.spotify.com/track/2bLqfJjuC5syrsgDsZfGmn"
-    },
-    {
-      "added_at": "2026-07-01 13:59:29",
-      "album": {
-        "name": "TALKING IS HARD",
-        "url": "https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT"
-      },
-      "artists": [
-        {
-          "name": "WALK THE MOON",
-          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
-        }
-      ],
-      "duration_ms": 199080,
-      "name": "Shut Up and Dance",
-      "url": "https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA"
     },
     {
       "added_at": "2026-07-01 13:59:29",
@@ -787,6 +787,38 @@
     {
       "added_at": "2026-07-01 13:59:29",
       "album": {
+        "name": "Backstreet's Back (European Version)",
+        "url": "https://open.spotify.com/album/2U9ONknz1iFEK9drEKLx8v"
+      },
+      "artists": [
+        {
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+        }
+      ],
+      "duration_ms": 225360,
+      "name": "Everybody (Backstreet's Back) - Radio Edit",
+      "url": "https://open.spotify.com/track/1di1BEgJYzPvXUuinsYJGP"
+    },
+    {
+      "added_at": "2026-07-01 13:59:29",
+      "album": {
+        "name": "Onka's Big Moka",
+        "url": "https://open.spotify.com/album/2ww2PXKiHk7rNv26rjVJ5z"
+      },
+      "artists": [
+        {
+          "name": "Toploader",
+          "url": "https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV"
+        }
+      ],
+      "duration_ms": 232693,
+      "name": "Dancing in the Moonlight",
+      "url": "https://open.spotify.com/track/3Fzlg5r1IjhLk2qRw667od"
+    },
+    {
+      "added_at": "2026-07-01 13:59:29",
+      "album": {
         "name": "Thank You (Not So Bad)",
         "url": "https://open.spotify.com/album/1J7XItLnNLegigdh4AjGKN"
       },
@@ -819,38 +851,6 @@
       "duration_ms": 140000,
       "name": "Thank You (Not So Bad)",
       "url": "https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt"
-    },
-    {
-      "added_at": "2026-07-01 13:59:29",
-      "album": {
-        "name": "Onka's Big Moka",
-        "url": "https://open.spotify.com/album/2ww2PXKiHk7rNv26rjVJ5z"
-      },
-      "artists": [
-        {
-          "name": "Toploader",
-          "url": "https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV"
-        }
-      ],
-      "duration_ms": 232693,
-      "name": "Dancing in the Moonlight",
-      "url": "https://open.spotify.com/track/3Fzlg5r1IjhLk2qRw667od"
-    },
-    {
-      "added_at": "2026-07-01 13:59:29",
-      "album": {
-        "name": "Backstreet's Back (European Version)",
-        "url": "https://open.spotify.com/album/2U9ONknz1iFEK9drEKLx8v"
-      },
-      "artists": [
-        {
-          "name": "Backstreet Boys",
-          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
-        }
-      ],
-      "duration_ms": 225360,
-      "name": "Everybody (Backstreet's Back) - Radio Edit",
-      "url": "https://open.spotify.com/track/1di1BEgJYzPvXUuinsYJGP"
     },
     {
       "added_at": "2026-07-01 13:59:29",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2026-07-01 13:59:29",
       "album": {
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 223398,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/2LHNTC9QZxsL3nWpt8iaSR"
+    },
+    {
+      "added_at": "2026-07-01 13:59:29",
+      "album": {
         "name": "Show Me Love",
         "url": "https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 176965,
       "name": "Show Me Love",
       "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
-    },
-    {
-      "added_at": "2026-07-01 13:59:29",
-      "album": {
-        "name": "MAYHEM",
-        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 223398,
-      "name": "Abracadabra",
-      "url": "https://open.spotify.com/track/2LHNTC9QZxsL3nWpt8iaSR"
     },
     {
       "added_at": "2026-07-01 13:59:29",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-07-01 13:59:29",
       "album": {
-        "name": "Storm Front",
-        "url": "https://open.spotify.com/album/1Vw2uoVkLAJFVViJ1QyK1D"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 291100,
-      "name": "We Didn't Start the Fire",
-      "url": "https://open.spotify.com/track/3Cx4yrFaX8CeHwBMReOWXI"
-    },
-    {
-      "added_at": "2026-07-01 13:59:29",
-      "album": {
         "name": "Prada",
         "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 132359,
       "name": "Prada",
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
+    },
+    {
+      "added_at": "2026-07-01 13:59:29",
+      "album": {
+        "name": "Storm Front",
+        "url": "https://open.spotify.com/album/1Vw2uoVkLAJFVViJ1QyK1D"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 291100,
+      "name": "We Didn't Start the Fire",
+      "url": "https://open.spotify.com/track/3Cx4yrFaX8CeHwBMReOWXI"
     },
     {
       "added_at": "2026-07-01 13:59:29",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2026-07-01 13:59:29",
       "album": {
-        "name": "Push Up (Main Edit)",
-        "url": "https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0"
-      },
-      "artists": [
-        {
-          "name": "Creeds",
-          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
-        }
-      ],
-      "duration_ms": 139300,
-      "name": "Push Up - Main Edit",
-      "url": "https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j"
-    },
-    {
-      "added_at": "2026-07-01 13:59:29",
-      "album": {
         "name": "Fran\u00e7ois",
         "url": "https://open.spotify.com/album/17EANLCoErHdo9FpzMx25q"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 266600,
       "name": "Voyage voyage",
       "url": "https://open.spotify.com/track/2d8D7uk3tbAThjRkdfrx9c"
+    },
+    {
+      "added_at": "2026-07-01 13:59:29",
+      "album": {
+        "name": "Push Up (Main Edit)",
+        "url": "https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0"
+      },
+      "artists": [
+        {
+          "name": "Creeds",
+          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
+        }
+      ],
+      "duration_ms": 139300,
+      "name": "Push Up - Main Edit",
+      "url": "https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j"
     },
     {
       "added_at": "2026-07-01 13:59:29",
@@ -1831,6 +1831,22 @@
     {
       "added_at": "2026-07-01 13:59:29",
       "album": {
+        "name": "Pocket Full Of Kryptonite",
+        "url": "https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK"
+      },
+      "artists": [
+        {
+          "name": "Spin Doctors",
+          "url": "https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m"
+        }
+      ],
+      "duration_ms": 256733,
+      "name": "Two Princes",
+      "url": "https://open.spotify.com/track/4ePP9So5xRzspjLFVVbj90"
+    },
+    {
+      "added_at": "2026-07-01 13:59:29",
+      "album": {
         "name": "Your Love (9PM)",
         "url": "https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b"
       },
@@ -1851,22 +1867,6 @@
       "duration_ms": 150052,
       "name": "Your Love (9PM)",
       "url": "https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx"
-    },
-    {
-      "added_at": "2026-07-01 13:59:29",
-      "album": {
-        "name": "Pocket Full Of Kryptonite",
-        "url": "https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK"
-      },
-      "artists": [
-        {
-          "name": "Spin Doctors",
-          "url": "https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m"
-        }
-      ],
-      "duration_ms": 256733,
-      "name": "Two Princes",
-      "url": "https://open.spotify.com/track/4ePP9So5xRzspjLFVVbj90"
     },
     {
       "added_at": "2026-07-01 13:59:29",

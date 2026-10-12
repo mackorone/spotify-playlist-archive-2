@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1oTjVZnUYT3.md) - [plain]
 
 > Grandes hinos da música brasileira para animar sua pista de dança!
 
-[Spotify](https://open.spotify.com/user/spotify) - 484,376 likes - 57 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 484,430 likes - 57 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1oTjVZnUYT3.md) - [plain]
 | 26 | [Jorge Maravilha](https://open.spotify.com/track/6K022fAYR1Q2BQwKfugUi3) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Umas E Outras](https://open.spotify.com/album/5OVtTHYvp9qti3AOyjWoVG) | 3:40 |
 | 27 | [Canta Canta, Minha Gente](https://open.spotify.com/track/0NLIFSZxPzQhCwnkn5PJYs) | [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E) | [Série Acervo \- Martinho Da Vila](https://open.spotify.com/album/62yCZN0N8WWNMSDNiaAWAk) | 2:32 |
 | 28 | [Velha Roupa Colorida](https://open.spotify.com/track/7aQWuNqheTpisZfM0gP2oG) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Falso Brilhante](https://open.spotify.com/album/18p3b48JyIK5XY90JmWxET) | 4:14 |
-| 29 | [Maracatu Atômico](https://open.spotify.com/track/3cR6v2bOwqi7znC8P5Vs1T) | [Chico Science](https://open.spotify.com/artist/7HnkRhoGqYLTasI52iJoE7), [Nação Zumbi](https://open.spotify.com/artist/4Va55p3P2P96lIgzntievo) | [Afrociberdelia](https://open.spotify.com/album/3cG4WKesy6hUXEPfPcdxs6) | 4:44 |
-| 30 | [Timoneiro](https://open.spotify.com/track/3C8ULtjiUmTtcpE7QJBZ7G) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls) | [Bebadosamba](https://open.spotify.com/album/57x8KvcGMec2o8XTwBYEwf) | 3:25 |
+| 29 | [Timoneiro](https://open.spotify.com/track/3C8ULtjiUmTtcpE7QJBZ7G) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls) | [Bebadosamba](https://open.spotify.com/album/57x8KvcGMec2o8XTwBYEwf) | 3:25 |
+| 30 | [Maracatu Atômico](https://open.spotify.com/track/3cR6v2bOwqi7znC8P5Vs1T) | [Chico Science](https://open.spotify.com/artist/7HnkRhoGqYLTasI52iJoE7), [Nação Zumbi](https://open.spotify.com/artist/4Va55p3P2P96lIgzntievo) | [Afrociberdelia](https://open.spotify.com/album/3cG4WKesy6hUXEPfPcdxs6) | 4:44 |
 | 31 | [Partido alto](https://open.spotify.com/track/6y5s9BzDRNWNVgJFeAjOld) | [Jorge Aragão](https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y) | [E aí?](https://open.spotify.com/album/10MHbEofOuI7ELkawl8bSz) | 4:17 |
 | 32 | [Canto Das Três Raças](https://open.spotify.com/track/06Q1W3dLvNk5Gawy7piDu3) | [Clara Nunes](https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown) | [Retratos](https://open.spotify.com/album/1zIUnMFn76fpxrrTtAZ4rX) | 4:21 |
 | 33 | [Na Cadência Do Samba](https://open.spotify.com/track/11gIxacOHnCVPL0dZ3xOnC) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Vamos Pro Mundo](https://open.spotify.com/album/1g7A2Bmagu0IelCeIYDF2k) | 3:29 |
@@ -52,18 +52,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1oTjVZnUYT3.md) - [plain]
 | 42 | [Taxi Lunar](https://open.spotify.com/track/1WT480kAYr5E5FpwtAtm6a) | [Geraldo Azevedo](https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN) | [Bicho De 7 Cabeças](https://open.spotify.com/album/3peuD9hEjWl5kGv0cqBhcG) | 3:32 |
 | 43 | [Frevo Mulher \- Ao Vivo](https://open.spotify.com/track/39DPLWaOhGeBSBwd0Nlm8y) | [Alceu Valença](https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG), [Elba Ramalho](https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A), [Geraldo Azevedo](https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN) | [O Grande Encontro 20 Anos: Alceu, Elba e Geraldo \(Ao Vivo\)](https://open.spotify.com/album/33HKZh4hP8FmsVmPGoaDYC) | 5:06 |
 | 44 | [O Feijão de Dona Neném](https://open.spotify.com/track/5G74LW4IB7XUaOzpH0VpEz) | [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb) | [Um dos Poetas do Samba](https://open.spotify.com/album/5tQPQGa137XeVTd3vYn1No) | 3:21 |
-| 45 | [Varanda Suspensa](https://open.spotify.com/track/1GpCZ2VpFKuuVGIZq12dum) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Tropix](https://open.spotify.com/album/3OjQpMNunvljKP0tFVGip4) | 4:48 |
-| 46 | [Olho por Olho](https://open.spotify.com/track/6P71LmKrWTwnGBe4BYK5IG) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [Nos Botequins Da Vida](https://open.spotify.com/album/5jrnGYZ7bHuFqOG2GusH50) | 3:10 |
+| 45 | [Olho por Olho](https://open.spotify.com/track/6P71LmKrWTwnGBe4BYK5IG) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [Nos Botequins Da Vida](https://open.spotify.com/album/5jrnGYZ7bHuFqOG2GusH50) | 3:10 |
+| 46 | [Varanda Suspensa](https://open.spotify.com/track/1GpCZ2VpFKuuVGIZq12dum) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Tropix](https://open.spotify.com/album/3OjQpMNunvljKP0tFVGip4) | 4:48 |
 | 47 | [Como Vovó Já Dizia \(Óculos Escuros\)](https://open.spotify.com/track/3fxlgsDxLanF9ryJea28Ic) | [Raul Seixas](https://open.spotify.com/artist/7jrRQZg4FZq6dwpi3baKcu) | [20 Grandes Sucessos De Raul Seixas](https://open.spotify.com/album/1HuPsuxRE5XbqcAmVhFJrU) | 3:21 |
-| 48 | [Eu Vou Fazer Você Voar](https://open.spotify.com/track/2RzuiQcbRYMK4HlnhzSmDF) | [Alceu Valença](https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG) | [Eu Vou Fazer Você Voar](https://open.spotify.com/album/0nPbgnOviIflX7LUqqlREF) | 3:36 |
-| 49 | [A Voz do Morro](https://open.spotify.com/track/6ItZuqcTniqKVEwENXoDBP) | [Zé Keti](https://open.spotify.com/artist/2bmDvPwz8Fu9LQ8aMTFvMr) | [Latin Grooves \- Samba](https://open.spotify.com/album/5GMVnDFZfxr5EyhEnGStdU) | 2:03 |
+| 48 | [A Voz do Morro](https://open.spotify.com/track/6ItZuqcTniqKVEwENXoDBP) | [Zé Keti](https://open.spotify.com/artist/2bmDvPwz8Fu9LQ8aMTFvMr) | [Latin Grooves \- Samba](https://open.spotify.com/album/5GMVnDFZfxr5EyhEnGStdU) | 2:03 |
+| 49 | [Eu Vou Fazer Você Voar](https://open.spotify.com/track/2RzuiQcbRYMK4HlnhzSmDF) | [Alceu Valença](https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG) | [Eu Vou Fazer Você Voar](https://open.spotify.com/album/0nPbgnOviIflX7LUqqlREF) | 3:36 |
 | 50 | [Carcará](https://open.spotify.com/track/5E4xOrXaLsApvCSqleHT46) | [Joao Do Vale](https://open.spotify.com/artist/3TE6ZGjhmTVpLZrn9hvfBX), [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [João do Vale](https://open.spotify.com/album/6tA5JMhnFRvDkanKAuPsCV) | 2:18 |
 | 51 | [Vaca Profana](https://open.spotify.com/track/1viMg0yGmgWy1EeR7CNeyF) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal Canta Caetano](https://open.spotify.com/album/2881CXCKtljZRNdKMerwYV) | 4:44 |
-| 52 | [Eu também quero beijar](https://open.spotify.com/track/52GKEkUJJUAPcYE8S0rZJV) | [Pepeu Gomes](https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu) | [Geração Pop](https://open.spotify.com/album/1SBKxrKIIgGyYMl43ffjnU) | 4:04 |
-| 53 | [Foi Um Rio Que Passou Em Minha Vida](https://open.spotify.com/track/7mkvi46DO25BAkcD9OWrpz) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls) | [Eu Sou O Samba](https://open.spotify.com/album/5F3t6SwYT1S8RITt8lvHd6) | 2:35 |
+| 52 | [Foi Um Rio Que Passou Em Minha Vida](https://open.spotify.com/track/7mkvi46DO25BAkcD9OWrpz) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls) | [Eu Sou O Samba](https://open.spotify.com/album/5F3t6SwYT1S8RITt8lvHd6) | 2:35 |
+| 53 | [Eu também quero beijar](https://open.spotify.com/track/52GKEkUJJUAPcYE8S0rZJV) | [Pepeu Gomes](https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu) | [Geração Pop](https://open.spotify.com/album/1SBKxrKIIgGyYMl43ffjnU) | 4:04 |
 | 54 | [Faixa Amarela](https://open.spotify.com/track/131eE1wdPFIUAzxveZispD) | [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb) | [Gold](https://open.spotify.com/album/7vF05VyQmk4x9ybW3E6Gd4) | 4:53 |
-| 55 | [Dona de mim](https://open.spotify.com/track/6yMbAjgCa3xK8SUnKWG72p) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Dona de mim](https://open.spotify.com/album/6dRMC5s12rIApNIHmbnZfH) | 3:28 |
-| 56 | [Juramento do Dedinho](https://open.spotify.com/track/4Eco98ezksfnQzVNJCjg9j) | [Mano Walter](https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP) | [Juramento do Dedinho](https://open.spotify.com/album/2OKTFhlxZ0yvUEQsgXaCP0) | 2:44 |
-| 57 | [Meia Lua Inteira](https://open.spotify.com/track/3uHnCqpyvmVuEG6XgTdCeP) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Minha Historia](https://open.spotify.com/album/0wNCVCDvgvbf8O5oFe1GtR) | 3:42 |
+| 55 | [Juramento do Dedinho](https://open.spotify.com/track/4Eco98ezksfnQzVNJCjg9j) | [Mano Walter](https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP) | [Juramento do Dedinho](https://open.spotify.com/album/2OKTFhlxZ0yvUEQsgXaCP0) | 2:44 |
+| 56 | [Dona de mim](https://open.spotify.com/track/6yMbAjgCa3xK8SUnKWG72p) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Dona de mim](https://open.spotify.com/album/6dRMC5s12rIApNIHmbnZfH) | 3:28 |
+| 57 | [Quando o povo entra na dança](https://open.spotify.com/track/7zjQUpmz0SkAwYiGbzL40F) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [Sentimento Brasileiro](https://open.spotify.com/album/5m41zPmVbSbYMcOng63xaP) | 2:51 |
 
 Snapshot ID: `AAAAALV1Kk9Ztitc9T5nuKTA+u7lxb/q`

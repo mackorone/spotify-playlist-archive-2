@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqmEAq7L8jI.md) - [plain]
 
 > Dale play y que la música te acompañe  📸 Morat
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,093 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,085 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqmEAq7L8jI.md) - [plain]
 | 40 | [Djadja \(feat\. Maluma\) \- Remix](https://open.spotify.com/track/6AzKhCHOms83jvNVLsz0Bt) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Djadja \(feat\. Maluma\) \[Remix\]](https://open.spotify.com/album/0hUQJNECak9L5Baf75HfeV) | 2:46 |
 | 41 | [Algo de mí](https://open.spotify.com/track/6ciwQPaKG7QERMMLrjznZE) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Algo de mí](https://open.spotify.com/album/7mUyUHgpceqFrbVqKnyoqm) | 3:01 |
 | 42 | [BUENOS AIRES](https://open.spotify.com/track/2my7K20Fv5OtE27cjG9sfu) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Calambre](https://open.spotify.com/album/0HvKhpJzjmC5wloza8MjXF) | 4:00 |
-| 43 | [Eres Mi Religión](https://open.spotify.com/track/2A1izwuHiZjoxyH6y6W0U4) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Joy](https://open.spotify.com/artist/6iH6aIbOCOdO3Ja6JeyOm1) | [Eres Mi Religión](https://open.spotify.com/album/0mw9JCjWu3hzUTru1yt2mc) | 4:27 |
-| 44 | [Plan](https://open.spotify.com/track/1udeZVMClO0LEIgwgnueOx) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [ser humano](https://open.spotify.com/album/5ozAm3Z7tSEpQ0uR7u38Mx) | 3:19 |
+| 43 | [Plan](https://open.spotify.com/track/1udeZVMClO0LEIgwgnueOx) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [ser humano](https://open.spotify.com/album/5ozAm3Z7tSEpQ0uR7u38Mx) | 3:19 |
+| 44 | [Eres Mi Religión](https://open.spotify.com/track/2A1izwuHiZjoxyH6y6W0U4) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Joy](https://open.spotify.com/artist/6iH6aIbOCOdO3Ja6JeyOm1) | [Eres Mi Religión](https://open.spotify.com/album/0mw9JCjWu3hzUTru1yt2mc) | 4:27 |
 | 45 | [21 de agosto](https://open.spotify.com/track/76nc1xnr4BxHMDFsJ79A7S) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [21 de agosto](https://open.spotify.com/album/2S2cdxfOdXoALZRPhuZ2jw) | 3:12 |
 | 46 | [Ateo](https://open.spotify.com/track/5xiAfKzE3mbxYbOkUZPR11) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Ateo](https://open.spotify.com/album/6Re7sviVustR53KeArspwK) | 3:59 |
 | 47 | [Te Quiero Tanto](https://open.spotify.com/track/7BUqNxzfeDEMHvLG2FLYnn) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Te Quiero Tanto](https://open.spotify.com/album/2lV0MiZvuBpFeHrzU7zzFR) | 3:28 |

@@ -1,6 +1,6 @@
 {
   "description": "focus modus is aan en leren maar",
-  "num_followers": 43772,
+  "num_followers": 43789,
   "original_name": "Studeermuziek",
   "owner": {
     "name": "Spotify",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-10-09 09:23:02",
       "album": {
-        "name": "It'll Be Okay",
-        "url": "https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 222800,
-      "name": "It'll Be Okay",
-      "url": "https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD"
-    },
-    {
-      "added_at": "2026-10-09 09:23:02",
-      "album": {
         "name": "It's About Us",
         "url": "https://open.spotify.com/album/3Yk19X5zgXDSrG8uqrPnXC"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 185200,
       "name": "Little Do You Know",
       "url": "https://open.spotify.com/track/1almCHdsfikRPfVB9VrEdT"
+    },
+    {
+      "added_at": "2026-10-09 09:23:02",
+      "album": {
+        "name": "It'll Be Okay",
+        "url": "https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 222800,
+      "name": "It'll Be Okay",
+      "url": "https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD"
     },
     {
       "added_at": "2026-10-09 09:23:02",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-10-09 09:23:02",
       "album": {
-        "name": "Piss In The Wind",
-        "url": "https://open.spotify.com/album/7MLyEn1CPizpS8bjZ7zzrT"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 128986,
-      "name": "Hotel California",
-      "url": "https://open.spotify.com/track/0haXcqxsgfbGTq6OYjLyIs"
-    },
-    {
-      "added_at": "2026-10-09 09:23:02",
-      "album": {
         "name": "Our Version Of Events (Special Edition)",
         "url": "https://open.spotify.com/album/0QwbgAJnx9FEFFC3EsyLrQ"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 283706,
       "name": "Read All About It, Pt. III",
       "url": "https://open.spotify.com/track/30BsewEJZPxfuLNAlZPFje"
+    },
+    {
+      "added_at": "2026-10-09 09:23:02",
+      "album": {
+        "name": "Piss In The Wind",
+        "url": "https://open.spotify.com/album/7MLyEn1CPizpS8bjZ7zzrT"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 128986,
+      "name": "Hotel California",
+      "url": "https://open.spotify.com/track/0haXcqxsgfbGTq6OYjLyIs"
     },
     {
       "added_at": "2026-10-09 09:23:02",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-10-09 09:23:02",
       "album": {
-        "name": "If You Leave",
-        "url": "https://open.spotify.com/album/74ShfU6i2GfPyqwdc5uGl7"
-      },
-      "artists": [
-        {
-          "name": "Daughter",
-          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
-        }
-      ],
-      "duration_ms": 253013,
-      "name": "Youth",
-      "url": "https://open.spotify.com/track/2Ck6gblyk3UFCVPTh8o3TN"
-    },
-    {
-      "added_at": "2026-10-09 09:23:02",
-      "album": {
         "name": "Every Kingdom",
         "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 264546,
       "name": "Keep Your Head Up",
       "url": "https://open.spotify.com/track/5fpEDGQX0Ah3utGnFYulQZ"
+    },
+    {
+      "added_at": "2026-10-09 09:23:02",
+      "album": {
+        "name": "If You Leave",
+        "url": "https://open.spotify.com/album/74ShfU6i2GfPyqwdc5uGl7"
+      },
+      "artists": [
+        {
+          "name": "Daughter",
+          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+        }
+      ],
+      "duration_ms": 253013,
+      "name": "Youth",
+      "url": "https://open.spotify.com/track/2Ck6gblyk3UFCVPTh8o3TN"
     },
     {
       "added_at": "2026-10-09 09:23:02",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2026-10-09 09:23:02",
       "album": {
-        "name": "Wide Awake",
-        "url": "https://open.spotify.com/album/65Z3hZGZsiNcpOAT2U0Inn"
-      },
-      "artists": [
-        {
-          "name": "Michael Schulte",
-          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
-        }
-      ],
-      "duration_ms": 224743,
-      "name": "You Said You'd Grow Old With Me",
-      "url": "https://open.spotify.com/track/41WTP0gosjYD74B06uS2tL"
-    },
-    {
-      "added_at": "2026-10-09 09:23:02",
-      "album": {
         "name": "Our Song",
         "url": "https://open.spotify.com/album/0zocAVUSizQ74Cn8nCsN3a"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 163733,
       "name": "Our Song",
       "url": "https://open.spotify.com/track/5zqObw7wjBgL9TDiAymxPn"
+    },
+    {
+      "added_at": "2026-10-09 09:23:02",
+      "album": {
+        "name": "Wide Awake",
+        "url": "https://open.spotify.com/album/65Z3hZGZsiNcpOAT2U0Inn"
+      },
+      "artists": [
+        {
+          "name": "Michael Schulte",
+          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
+        }
+      ],
+      "duration_ms": 224743,
+      "name": "You Said You'd Grow Old With Me",
+      "url": "https://open.spotify.com/track/41WTP0gosjYD74B06uS2tL"
     },
     {
       "added_at": "2026-10-09 09:23:02",
@@ -2527,6 +2527,22 @@
     {
       "added_at": "2026-10-09 09:23:02",
       "album": {
+        "name": "July",
+        "url": "https://open.spotify.com/album/2YQptVBjUJeIOBavD1AyXg"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 156106,
+      "name": "July",
+      "url": "https://open.spotify.com/track/5a6pdCHlWS2ekOOQ70QnAr"
+    },
+    {
+      "added_at": "2026-10-09 09:23:02",
+      "album": {
         "name": "In A Perfect World",
         "url": "https://open.spotify.com/album/29Tc7Ue6KVfc5mzXxoMgEL"
       },
@@ -2575,22 +2591,6 @@
     {
       "added_at": "2026-10-09 09:23:02",
       "album": {
-        "name": "July",
-        "url": "https://open.spotify.com/album/2YQptVBjUJeIOBavD1AyXg"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 156106,
-      "name": "July",
-      "url": "https://open.spotify.com/track/5a6pdCHlWS2ekOOQ70QnAr"
-    },
-    {
-      "added_at": "2026-10-09 09:23:02",
-      "album": {
         "name": "Complicated",
         "url": "https://open.spotify.com/album/18IaOJpyXfqbOsZIqmnfpZ"
       },
@@ -2623,22 +2623,6 @@
     {
       "added_at": "2026-10-09 09:23:02",
       "album": {
-        "name": "In The Lonely Hour (Drowning Shadows Edition)",
-        "url": "https://open.spotify.com/album/0kJbDT8VGMScK8YDzNNvzV"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 239316,
-      "name": "I'm Not The Only One",
-      "url": "https://open.spotify.com/track/5WLtenwEwifJHYTUw514RH"
-    },
-    {
-      "added_at": "2026-10-09 09:23:02",
-      "album": {
         "name": "Feline (Deluxe)",
         "url": "https://open.spotify.com/album/0AbUYFSGVNegJoajijrRvM"
       },
@@ -2651,6 +2635,22 @@
       "duration_ms": 236293,
       "name": "We Don't Have To Take Our Clothes Off",
       "url": "https://open.spotify.com/track/61iyAeMVUNu7vIVqedsBFB"
+    },
+    {
+      "added_at": "2026-10-09 09:23:02",
+      "album": {
+        "name": "In The Lonely Hour (Drowning Shadows Edition)",
+        "url": "https://open.spotify.com/album/0kJbDT8VGMScK8YDzNNvzV"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 239316,
+      "name": "I'm Not The Only One",
+      "url": "https://open.spotify.com/track/5WLtenwEwifJHYTUw514RH"
     },
     {
       "added_at": "2026-10-09 09:23:02",

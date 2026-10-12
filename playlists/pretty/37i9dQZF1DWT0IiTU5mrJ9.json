@@ -1,6 +1,6 @@
 {
   "description": "Power through your chores with these upbeat tracks.",
-  "num_followers": 364441,
+  "num_followers": 364582,
   "original_name": "Housework Hits!",
   "owner": {
     "name": "Spotify",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-07-12 01:47:50",
       "album": {
-        "name": "Rumours",
-        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 223613,
-      "name": "Go Your Own Way - 2004 Remaster",
-      "url": "https://open.spotify.com/track/07GvNcU1WdyZJq3XxP0kZa"
-    },
-    {
-      "added_at": "2024-07-12 01:47:50",
-      "album": {
         "name": "Spice",
         "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 173026,
       "name": "Wannabe",
       "url": "https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT"
+    },
+    {
+      "added_at": "2024-07-12 01:47:50",
+      "album": {
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 223613,
+      "name": "Go Your Own Way - 2004 Remaster",
+      "url": "https://open.spotify.com/track/07GvNcU1WdyZJq3XxP0kZa"
     },
     {
       "added_at": "2024-07-12 01:47:50",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-07-12 01:47:50",
       "album": {
-        "name": "Doo-Wops & Hooligans",
-        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 230192,
-      "name": "Marry You",
-      "url": "https://open.spotify.com/track/22PMfvdz35fFKYnJyMn077"
-    },
-    {
-      "added_at": "2024-07-12 01:47:50",
-      "album": {
         "name": "Tango In the Night (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 221053,
       "name": "Little Lies - 2017 Remaster",
       "url": "https://open.spotify.com/track/4CoSCPlKNrWli7E5kFtbcl"
+    },
+    {
+      "added_at": "2024-07-12 01:47:50",
+      "album": {
+        "name": "Doo-Wops & Hooligans",
+        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 230192,
+      "name": "Marry You",
+      "url": "https://open.spotify.com/track/22PMfvdz35fFKYnJyMn077"
     },
     {
       "added_at": "2024-07-12 01:47:50",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-07-12 01:47:50",
       "album": {
-        "name": "Blood Sugar Sex Magik (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 282906,
-      "name": "Give It Away",
-      "url": "https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0"
-    },
-    {
-      "added_at": "2024-07-12 01:47:50",
-      "album": {
         "name": "Hot Chocolate",
         "url": "https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni"
       },
@@ -1043,6 +1027,22 @@
     {
       "added_at": "2024-07-12 01:47:50",
       "album": {
+        "name": "Blood Sugar Sex Magik (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 282906,
+      "name": "Give It Away",
+      "url": "https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0"
+    },
+    {
+      "added_at": "2024-07-12 01:47:50",
+      "album": {
         "name": "Dirty Deeds Done Dirt Cheap",
         "url": "https://open.spotify.com/album/76mvVgXOde87B9aOzLXCOI"
       },
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-07-12 01:47:50",
       "album": {
-        "name": "Hello, I Must Be Going! (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6sn6eWmPciSiHj0ltTBl7M"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 175746,
-      "name": "You Can't Hurry Love - 2016 Remaster",
-      "url": "https://open.spotify.com/track/4YwbSZaYeYja8Umyt222Qf"
-    },
-    {
-      "added_at": "2024-07-12 01:47:50",
-      "album": {
         "name": "Alannah Myles",
         "url": "https://open.spotify.com/album/1Ghv7iViywM23K8BRFggQv"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 287440,
       "name": "Black Velvet",
       "url": "https://open.spotify.com/track/1KU5EHSz04JhGg3rReGJ0N"
+    },
+    {
+      "added_at": "2024-07-12 01:47:50",
+      "album": {
+        "name": "Hello, I Must Be Going! (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6sn6eWmPciSiHj0ltTBl7M"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 175746,
+      "name": "You Can't Hurry Love - 2016 Remaster",
+      "url": "https://open.spotify.com/track/4YwbSZaYeYja8Umyt222Qf"
     },
     {
       "added_at": "2024-07-12 01:47:50",
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2024-07-12 01:47:50",
       "album": {
-        "name": "Whitney Houston",
-        "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
+        "name": "Back To Black",
+        "url": "https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV"
       },
       "artists": [
         {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
         }
       ],
-      "duration_ms": 269696,
-      "name": "How Will I Know",
-      "url": "https://open.spotify.com/track/5tdKaKLnC4SgtDZ6RlWeal"
+      "duration_ms": 213760,
+      "name": "Rehab",
+      "url": "https://open.spotify.com/track/1L5tZi0izXsi5Kk5OJf4W0"
     },
     {
       "added_at": "2024-07-12 01:47:50",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2024-07-12 01:47:50",
       "album": {
-        "name": "Back To Black",
-        "url": "https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV"
+        "name": "Whitney Houston",
+        "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
       },
       "artists": [
         {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 213760,
-      "name": "Rehab",
-      "url": "https://open.spotify.com/track/1L5tZi0izXsi5Kk5OJf4W0"
+      "duration_ms": 269696,
+      "name": "How Will I Know",
+      "url": "https://open.spotify.com/track/5tdKaKLnC4SgtDZ6RlWeal"
     },
     {
       "added_at": "2024-07-12 01:47:50",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-07-12 01:47:50",
       "album": {
-        "name": "Parallel Lines (Remastered)",
-        "url": "https://open.spotify.com/album/5wc12ZsmXNIlppTmNFZFLU"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 215106,
-      "name": "One Way Or Another - Remastered 2001",
-      "url": "https://open.spotify.com/track/4cQJ27R11K634x5qCOwKW5"
-    },
-    {
-      "added_at": "2024-07-12 01:47:50",
-      "album": {
         "name": "Cracked Rear View",
         "url": "https://open.spotify.com/album/5AYmpTfdv1OoASUJ5rZB7K"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 229586,
       "name": "Only Wanna Be With You",
       "url": "https://open.spotify.com/track/1OFKUn2VLafrHj7ybnap0Q"
+    },
+    {
+      "added_at": "2024-07-12 01:47:50",
+      "album": {
+        "name": "Parallel Lines (Remastered)",
+        "url": "https://open.spotify.com/album/5wc12ZsmXNIlppTmNFZFLU"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 215106,
+      "name": "One Way Or Another - Remastered 2001",
+      "url": "https://open.spotify.com/track/4cQJ27R11K634x5qCOwKW5"
     },
     {
       "added_at": "2024-07-12 01:47:50",

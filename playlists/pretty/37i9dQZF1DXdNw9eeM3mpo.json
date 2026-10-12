@@ -1,12 +1,12 @@
 {
   "description": "100% ska en espa\u00f1ol. Los Estramb\u00f3ticos en portada.",
-  "num_followers": 492872,
+  "num_followers": 492917,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEi5e5Jc7LvUGiFxJ+myla8kz08+",
+  "snapshot_id": "AAAAACMxdyQtRaOMCyPFRzxQ3nwhU+Yi",
   "tracks": [
     {
       "added_at": "2026-10-02 06:00:07",
@@ -223,6 +223,22 @@
     {
       "added_at": "2026-10-02 06:00:07",
       "album": {
+        "name": "Compa\u00f1eros Musicales",
+        "url": "https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 213720,
+      "name": "La Carencia",
+      "url": "https://open.spotify.com/track/1v3rQg6uPY6AnOY5TtxN7I"
+    },
+    {
+      "added_at": "2026-10-02 06:00:07",
+      "album": {
         "name": "En Vivo en el Palacio de los Deportes - 25 Aniversario",
         "url": "https://open.spotify.com/album/7gSe5tBOrBERCFvQgR6TsC"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 234985,
       "name": "No Me Importa el Dinero (feat. Julieta Venegas) - Vivo en el Palacio de los Deportes",
       "url": "https://open.spotify.com/track/4wXjnoLIMTninCnKRgGsQc"
-    },
-    {
-      "added_at": "2026-10-02 06:00:07",
-      "album": {
-        "name": "Compa\u00f1eros Musicales",
-        "url": "https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 213720,
-      "name": "La Carencia",
-      "url": "https://open.spotify.com/track/1v3rQg6uPY6AnOY5TtxN7I"
     },
     {
       "added_at": "2026-10-02 06:00:07",
@@ -307,22 +307,6 @@
     {
       "added_at": "2026-10-02 06:00:07",
       "album": {
-        "name": "Mi Vida Loca",
-        "url": "https://open.spotify.com/album/2wV2nY2P5vHYiUNTWWzXj5"
-      },
-      "artists": [
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        }
-      ],
-      "duration_ms": 218493,
-      "name": "La Guitarra",
-      "url": "https://open.spotify.com/track/6aPoVnA9UDncMyKgTAicsO"
-    },
-    {
-      "added_at": "2026-10-02 06:00:07",
-      "album": {
         "name": "Pante\u00f3n Rococ\u00f3",
         "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 225173,
       "name": "Vendedora de Caricias",
       "url": "https://open.spotify.com/track/4jikVslCvDrDysc3p4tFHM"
+    },
+    {
+      "added_at": "2026-10-02 06:00:07",
+      "album": {
+        "name": "Mi Vida Loca",
+        "url": "https://open.spotify.com/album/2wV2nY2P5vHYiUNTWWzXj5"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        }
+      ],
+      "duration_ms": 218493,
+      "name": "La Guitarra",
+      "url": "https://open.spotify.com/track/6aPoVnA9UDncMyKgTAicsO"
     },
     {
       "added_at": "2026-10-02 06:00:07",
@@ -571,22 +571,18 @@
     {
       "added_at": "2026-10-02 06:00:07",
       "album": {
-        "name": "L\u00e1grimas y Risas",
-        "url": "https://open.spotify.com/album/1jJ6OrqBxHEwOuhow0zCHR"
+        "name": "Serie Verde - El Gran Silencio",
+        "url": "https://open.spotify.com/album/5bDB07KHKtzAS4BADukcjG"
       },
       "artists": [
         {
-          "name": "Los Estramboticos",
-          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
-        },
-        {
-          "name": "Madame R\u00e9camier",
-          "url": "https://open.spotify.com/artist/2rNCZVyZwtSaTI1HGj8LFD"
+          "name": "El Gran Silencio",
+          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
         }
       ],
-      "duration_ms": 233253,
-      "name": "Ciegos de Amor",
-      "url": "https://open.spotify.com/track/4HPxUGVThsV0tUPNU30LZI"
+      "duration_ms": 189466,
+      "name": "Dormir So\u00f1ando",
+      "url": "https://open.spotify.com/track/2BEUGCeN9FBV3pA06fjLu4"
     },
     {
       "added_at": "2026-10-02 06:00:07",
@@ -607,18 +603,22 @@
     {
       "added_at": "2026-10-02 06:00:07",
       "album": {
-        "name": "Serie Verde - El Gran Silencio",
-        "url": "https://open.spotify.com/album/5bDB07KHKtzAS4BADukcjG"
+        "name": "L\u00e1grimas y Risas",
+        "url": "https://open.spotify.com/album/1jJ6OrqBxHEwOuhow0zCHR"
       },
       "artists": [
         {
-          "name": "El Gran Silencio",
-          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
+        },
+        {
+          "name": "Madame R\u00e9camier",
+          "url": "https://open.spotify.com/artist/2rNCZVyZwtSaTI1HGj8LFD"
         }
       ],
-      "duration_ms": 189466,
-      "name": "Dormir So\u00f1ando",
-      "url": "https://open.spotify.com/track/2BEUGCeN9FBV3pA06fjLu4"
+      "duration_ms": 233253,
+      "name": "Ciegos de Amor",
+      "url": "https://open.spotify.com/track/4HPxUGVThsV0tUPNU30LZI"
     },
     {
       "added_at": "2026-10-02 06:00:07",
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2026-10-02 06:00:07",
       "album": {
-        "name": "Siempre Fingiste Amarme",
-        "url": "https://open.spotify.com/album/2TBWXP0umyVSYynjsaXwNw"
-      },
-      "artists": [
-        {
-          "name": "Out Of Control Army",
-          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
-        },
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 237527,
-      "name": "Siempre Fingiste Amarme",
-      "url": "https://open.spotify.com/track/6jJ2wofOeao3iQDxs2KkLp"
-    },
-    {
-      "added_at": "2026-10-02 06:00:07",
-      "album": {
         "name": "Serpientes Y Escaleras",
         "url": "https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ"
       },
@@ -1055,6 +1035,26 @@
       "duration_ms": 162930,
       "name": "Ska en la Playa",
       "url": "https://open.spotify.com/track/5rN7Jw3sBHaGHp6MqAGl2u"
+    },
+    {
+      "added_at": "2026-10-02 06:00:07",
+      "album": {
+        "name": "Siempre Fingiste Amarme",
+        "url": "https://open.spotify.com/album/2TBWXP0umyVSYynjsaXwNw"
+      },
+      "artists": [
+        {
+          "name": "Out Of Control Army",
+          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
+        },
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 237527,
+      "name": "Siempre Fingiste Amarme",
+      "url": "https://open.spotify.com/track/6jJ2wofOeao3iQDxs2KkLp"
     },
     {
       "added_at": "2026-10-02 06:00:07",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2026-10-02 06:00:07",
       "album": {
+        "name": "Supersonico",
+        "url": "https://open.spotify.com/album/6pvDF6APwhBWRkuEc3gCqz"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        }
+      ],
+      "duration_ms": 206933,
+      "name": "Qu\u00e9 Vas a Hacer Conmigo",
+      "url": "https://open.spotify.com/track/4J0phvYcKa1Hr1EBwH0pu3"
+    },
+    {
+      "added_at": "2026-10-02 06:00:07",
+      "album": {
         "name": "Justo Cuando Cre\u00edas Que No - The Romaphonic Sessions",
         "url": "https://open.spotify.com/album/79OkM0EpZBiAWt5DMeXnYR"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 230573,
       "name": "Envenenen a Mis Labios",
       "url": "https://open.spotify.com/track/0g6fuc3xiIsYVVkfqUNua6"
-    },
-    {
-      "added_at": "2026-10-02 06:00:07",
-      "album": {
-        "name": "Supersonico",
-        "url": "https://open.spotify.com/album/6pvDF6APwhBWRkuEc3gCqz"
-      },
-      "artists": [
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        }
-      ],
-      "duration_ms": 206933,
-      "name": "Qu\u00e9 Vas a Hacer Conmigo",
-      "url": "https://open.spotify.com/track/4J0phvYcKa1Hr1EBwH0pu3"
     },
     {
       "added_at": "2026-10-02 06:00:07",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2026-10-02 06:00:07",
       "album": {
+        "name": "En La Tormenta",
+        "url": "https://open.spotify.com/album/6p5kmc3vUATfKoUXplaRr6"
+      },
+      "artists": [
+        {
+          "name": "Iseo & Dodosound",
+          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
+        }
+      ],
+      "duration_ms": 181870,
+      "name": "Cuando Salga El Sol",
+      "url": "https://open.spotify.com/track/0qb9jQqKZbN3glPVys6Ea8"
+    },
+    {
+      "added_at": "2026-10-02 06:00:07",
+      "album": {
         "name": "Batuco",
         "url": "https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 328680,
       "name": "Mi Vida sin tu Amor (featuring Mi\u00f1o)",
       "url": "https://open.spotify.com/track/63TFbfWD0zH9Y2tf3uqoRB"
-    },
-    {
-      "added_at": "2026-10-02 06:00:07",
-      "album": {
-        "name": "En La Tormenta",
-        "url": "https://open.spotify.com/album/6p5kmc3vUATfKoUXplaRr6"
-      },
-      "artists": [
-        {
-          "name": "Iseo & Dodosound",
-          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
-        }
-      ],
-      "duration_ms": 181870,
-      "name": "Cuando Salga El Sol",
-      "url": "https://open.spotify.com/track/0qb9jQqKZbN3glPVys6Ea8"
     },
     {
       "added_at": "2026-10-02 06:00:07",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2026-10-02 06:00:07",
       "album": {
+        "name": "Inflammable",
+        "url": "https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al"
+      },
+      "artists": [
+        {
+          "name": "Skampida",
+          "url": "https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno"
+        }
+      ],
+      "duration_ms": 171693,
+      "name": "La Manifestacion",
+      "url": "https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9"
+    },
+    {
+      "added_at": "2026-10-02 06:00:07",
+      "album": {
         "name": "Paz y Baile",
         "url": "https://open.spotify.com/album/3QInNg3IGdnIn8NaSwuUOr"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 218750,
       "name": "Paz y Baile",
       "url": "https://open.spotify.com/track/2eSYkbxRBkfJTm8ILlnB9P"
-    },
-    {
-      "added_at": "2026-10-02 06:00:07",
-      "album": {
-        "name": "Inflammable",
-        "url": "https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al"
-      },
-      "artists": [
-        {
-          "name": "Skampida",
-          "url": "https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno"
-        }
-      ],
-      "duration_ms": 171693,
-      "name": "La Manifestacion",
-      "url": "https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9"
     },
     {
       "added_at": "2026-10-02 06:00:07",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2026-10-02 06:00:07",
       "album": {
-        "name": "Voy a curarme de ti",
-        "url": "https://open.spotify.com/album/3XriISqGqSjHuNsXLlm6gH"
-      },
-      "artists": [
-        {
-          "name": "Timo Pacheco",
-          "url": "https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl"
-        }
-      ],
-      "duration_ms": 253285,
-      "name": "Voy a curarme de ti",
-      "url": "https://open.spotify.com/track/34qV1rb1zaufUFmqalIokP"
-    },
-    {
-      "added_at": "2026-10-02 06:00:07",
-      "album": {
         "name": "Quiero Bailar Ska!!!",
         "url": "https://open.spotify.com/album/2mJm3RcjlckzPcupdolmmx"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 187744,
       "name": "La Ranchera",
       "url": "https://open.spotify.com/track/1A8MVDv6OMaKvTo1FvXNzt"
+    },
+    {
+      "added_at": "2026-10-02 06:00:07",
+      "album": {
+        "name": "Voy a curarme de ti",
+        "url": "https://open.spotify.com/album/3XriISqGqSjHuNsXLlm6gH"
+      },
+      "artists": [
+        {
+          "name": "Timo Pacheco",
+          "url": "https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl"
+        }
+      ],
+      "duration_ms": 253285,
+      "name": "Voy a curarme de ti",
+      "url": "https://open.spotify.com/track/34qV1rb1zaufUFmqalIokP"
     },
     {
       "added_at": "2026-10-02 06:00:07",

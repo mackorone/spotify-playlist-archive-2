@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4psg7TSYpot.md) - [plain]
 
 > Enjoy the summer breeze with these sunny lounge beats ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,230 likes - 105 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,249 likes - 105 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

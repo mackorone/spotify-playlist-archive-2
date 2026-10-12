@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPleDxjpDoo.md) - [plain]
 
 > Bathe in forest sounds and reconnect to nature, with the Japanese practice of shinrin yoku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 485,651 likes - 175 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 485,733 likes - 175 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

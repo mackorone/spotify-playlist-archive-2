@@ -1,6 +1,6 @@
 {
   "description": "Nousussa olevat hitit. \ud83c\udf2a\ufe0f ",
-  "num_followers": 59480,
+  "num_followers": 59483,
   "original_name": "Nousussa",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2026-10-08 21:00:29",
       "album": {
-        "name": "en tunne",
-        "url": "https://open.spotify.com/album/6cDfwvDCGoGFCPRb5A4FHb"
-      },
-      "artists": [
-        {
-          "name": "Ella Herold",
-          "url": "https://open.spotify.com/artist/7sokmrbjchlLzeqcOrX9aM"
-        }
-      ],
-      "duration_ms": 181607,
-      "name": "en tunne",
-      "url": "https://open.spotify.com/track/6d3Wi6MvD5bxaPJajXBiZt"
-    },
-    {
-      "added_at": "2026-10-08 21:00:29",
-      "album": {
         "name": "Toiveuusintoja",
         "url": "https://open.spotify.com/album/5KzDCx4IE2Sp6a8IrKg3vB"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 172344,
       "name": "Viimeinen kausi",
       "url": "https://open.spotify.com/track/3ZqhLmHpZVi4SVd2dvjL00"
+    },
+    {
+      "added_at": "2026-10-08 21:00:29",
+      "album": {
+        "name": "en tunne",
+        "url": "https://open.spotify.com/album/6cDfwvDCGoGFCPRb5A4FHb"
+      },
+      "artists": [
+        {
+          "name": "Ella Herold",
+          "url": "https://open.spotify.com/artist/7sokmrbjchlLzeqcOrX9aM"
+        }
+      ],
+      "duration_ms": 181607,
+      "name": "en tunne",
+      "url": "https://open.spotify.com/track/6d3Wi6MvD5bxaPJajXBiZt"
     },
     {
       "added_at": "2026-10-08 21:00:29",
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-10-08 21:00:29",
       "album": {
-        "name": "Tuskasta Taidetta",
-        "url": "https://open.spotify.com/album/2P6IMeL9dhFld17Zck7L48"
-      },
-      "artists": [
-        {
-          "name": "Jemina",
-          "url": "https://open.spotify.com/artist/7hmwVPq4RGI2LOUrqzlLxA"
-        }
-      ],
-      "duration_ms": 211525,
-      "name": "Sisko en tahdo j\u00e4\u00e4d\u00e4",
-      "url": "https://open.spotify.com/track/0OlqM65MBZXycYwXCWHDaE"
-    },
-    {
-      "added_at": "2026-10-08 21:00:29",
-      "album": {
         "name": "Mun syd\u00e4n on mun",
         "url": "https://open.spotify.com/album/5DyuYlKIlU6bDfsX2ApRcr"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 205900,
       "name": "Mun syd\u00e4n on mun",
       "url": "https://open.spotify.com/track/6fGac27NbECNcEjGsMOuMM"
+    },
+    {
+      "added_at": "2026-10-08 21:00:29",
+      "album": {
+        "name": "Tuskasta Taidetta",
+        "url": "https://open.spotify.com/album/2P6IMeL9dhFld17Zck7L48"
+      },
+      "artists": [
+        {
+          "name": "Jemina",
+          "url": "https://open.spotify.com/artist/7hmwVPq4RGI2LOUrqzlLxA"
+        }
+      ],
+      "duration_ms": 211525,
+      "name": "Sisko en tahdo j\u00e4\u00e4d\u00e4",
+      "url": "https://open.spotify.com/track/0OlqM65MBZXycYwXCWHDaE"
     },
     {
       "added_at": "2026-10-08 21:00:29",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-10-08 21:00:29",
       "album": {
-        "name": "Santana",
-        "url": "https://open.spotify.com/album/1fBQfan1acewdtJ0lt0DnT"
-      },
-      "artists": [
-        {
-          "name": "Jenni & Juho",
-          "url": "https://open.spotify.com/artist/5uYU6UHu7wuyF2Oa4OjZnp"
-        }
-      ],
-      "duration_ms": 172186,
-      "name": "Santana",
-      "url": "https://open.spotify.com/track/598SWcATgKhBcyhtMJBNgR"
-    },
-    {
-      "added_at": "2026-10-08 21:00:29",
-      "album": {
         "name": "Tehty el\u00e4\u00e4 (feat. Asla Jo)",
         "url": "https://open.spotify.com/album/2nzCAGid389eK1QYzRN84d"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 175108,
       "name": "Tehty el\u00e4\u00e4 (feat. Asla Jo)",
       "url": "https://open.spotify.com/track/3AZor9wxZ9G4UmW38dK0cG"
+    },
+    {
+      "added_at": "2026-10-08 21:00:29",
+      "album": {
+        "name": "Santana",
+        "url": "https://open.spotify.com/album/1fBQfan1acewdtJ0lt0DnT"
+      },
+      "artists": [
+        {
+          "name": "Jenni & Juho",
+          "url": "https://open.spotify.com/artist/5uYU6UHu7wuyF2Oa4OjZnp"
+        }
+      ],
+      "duration_ms": 172186,
+      "name": "Santana",
+      "url": "https://open.spotify.com/track/598SWcATgKhBcyhtMJBNgR"
     },
     {
       "added_at": "2026-10-08 21:00:29",
@@ -775,6 +775,22 @@
     {
       "added_at": "2026-10-08 21:00:29",
       "album": {
+        "name": "Tyhm\u00e4",
+        "url": "https://open.spotify.com/album/5pV0o7QimNEYCw67DFOTJX"
+      },
+      "artists": [
+        {
+          "name": "leba",
+          "url": "https://open.spotify.com/artist/329hEYn8r1SUGkRomjKqRP"
+        }
+      ],
+      "duration_ms": 147254,
+      "name": "Tyhm\u00e4",
+      "url": "https://open.spotify.com/track/55HOqI6aUmBUBe0jHi9cz5"
+    },
+    {
+      "added_at": "2026-10-08 21:00:29",
+      "album": {
         "name": "Chanel",
         "url": "https://open.spotify.com/album/5kviiiQHcdaCXnahu2a3nc"
       },
@@ -807,18 +823,18 @@
     {
       "added_at": "2026-10-08 21:00:29",
       "album": {
-        "name": "Tyhm\u00e4",
-        "url": "https://open.spotify.com/album/5pV0o7QimNEYCw67DFOTJX"
+        "name": "etk\u00f6 s\u00e4 n\u00e4\u00e4?",
+        "url": "https://open.spotify.com/album/1GIQL59f1EekF4EGiE5SUr"
       },
       "artists": [
         {
-          "name": "leba",
-          "url": "https://open.spotify.com/artist/329hEYn8r1SUGkRomjKqRP"
+          "name": "viola",
+          "url": "https://open.spotify.com/artist/2Fqr0ihu3bCzXcY1j0gSyP"
         }
       ],
-      "duration_ms": 147254,
-      "name": "Tyhm\u00e4",
-      "url": "https://open.spotify.com/track/55HOqI6aUmBUBe0jHi9cz5"
+      "duration_ms": 205000,
+      "name": "etk\u00f6 s\u00e4 n\u00e4\u00e4?",
+      "url": "https://open.spotify.com/track/0NGBbbo7fPs6tYvMy2uTGS"
     },
     {
       "added_at": "2026-10-08 21:00:29",
@@ -835,22 +851,6 @@
       "duration_ms": 186052,
       "name": "Sori t\u00e4ti",
       "url": "https://open.spotify.com/track/0S7JHKWm7M11juyTnaIHcb"
-    },
-    {
-      "added_at": "2026-10-08 21:00:29",
-      "album": {
-        "name": "etk\u00f6 s\u00e4 n\u00e4\u00e4?",
-        "url": "https://open.spotify.com/album/1GIQL59f1EekF4EGiE5SUr"
-      },
-      "artists": [
-        {
-          "name": "viola",
-          "url": "https://open.spotify.com/artist/2Fqr0ihu3bCzXcY1j0gSyP"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "etk\u00f6 s\u00e4 n\u00e4\u00e4?",
-      "url": "https://open.spotify.com/track/0NGBbbo7fPs6tYvMy2uTGS"
     }
   ],
   "unique_name": "Nousussa",

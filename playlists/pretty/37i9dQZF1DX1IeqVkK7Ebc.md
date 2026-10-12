@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IeqVkK7Ebc.md) - [plain]
 
 > soft and sweet
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,583 likes - 80 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,569 likes - 80 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IeqVkK7Ebc.md) - [plain]
 | 16 | [YUKON](https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:43 |
 | 17 | [Dracula](https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Dracula](https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4) | 3:25 |
 | 18 | [Die On This Hill](https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Die On This Hill](https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng) | 3:37 |
-| 19 | [DIE TRYING](https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:15 |
-| 20 | [lacy](https://open.spotify.com/track/6QT6j7rKt7Vk3IuV2AUO9W) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 2:57 |
+| 19 | [lacy](https://open.spotify.com/track/6QT6j7rKt7Vk3IuV2AUO9W) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 2:57 |
+| 20 | [DIE TRYING](https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:15 |
 | 21 | [supernatural](https://open.spotify.com/track/142PiXzA84lmEw2RstFHFa) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 2:43 |
 | 22 | [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 |
 | 23 | [Sally, When The Wine Runs Out](https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore \(The Longest Goodbye\)](https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f) | 3:38 |
@@ -58,15 +58,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IeqVkK7Ebc.md) - [plain]
 | 48 | [Thinking 'bout You](https://open.spotify.com/track/6pxf2SRlRfBwnQKcUZCm2s) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Thinking 'bout You](https://open.spotify.com/album/6k4bQKHw4hU7spl0fobR63) | 2:20 |
 | 49 | [Day To Night](https://open.spotify.com/track/7rkkFimrRc14aJLN6HMNqp) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Give Me All Your Love](https://open.spotify.com/album/55LA79YNZWAfxpDGla4jcN) | 4:24 |
 | 50 | [canal street](https://open.spotify.com/track/0KtV18BLmyIOYHCSISmVl9) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 5:02 |
-| 51 | [ORIGAMI](https://open.spotify.com/track/72NmXqiEP6N6eXBgEBzlWZ) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [SINK NOW, SWIM LATER](https://open.spotify.com/album/3I4wGPLbEK018FP6jk124k) | 3:02 |
-| 52 | [Gorgeous](https://open.spotify.com/track/5T0mnzMsyHtmWB7Kou51Ph) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vie](https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf) | 4:26 |
+| 51 | [Gorgeous](https://open.spotify.com/track/5T0mnzMsyHtmWB7Kou51Ph) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vie](https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf) | 4:26 |
+| 52 | [ORIGAMI](https://open.spotify.com/track/72NmXqiEP6N6eXBgEBzlWZ) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [SINK NOW, SWIM LATER](https://open.spotify.com/album/3I4wGPLbEK018FP6jk124k) | 3:02 |
 | 53 | [Shapeshifter](https://open.spotify.com/track/0vtgMfyOVM2Y97DcVVJw3m) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Virgin](https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ) | 4:17 |
 | 54 | [Everything is romantic featuring caroline polachek](https://open.spotify.com/track/1RGidCmtrqER8GBs8TnG9C) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 3:23 |
 | 55 | [Home Sweet Home](https://open.spotify.com/track/56CqQv5oOJmu70guWHLTTx) | [The Favors](https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Dream](https://open.spotify.com/album/48M39K7MWoYxykqTE2brIi) | 3:28 |
 | 56 | [DAISIES](https://open.spotify.com/track/7rcbwjIaZ5jEgyFk35Bqfj) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/6ZXIXOT3F3ixjH66eqJl0S) | 2:56 |
-| 57 | [Next Summer](https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Next Summer](https://open.spotify.com/album/1wWQTVv9OUwmW6EIAOZ3Ri) | 2:45 |
-| 58 | [Silver Spoon](https://open.spotify.com/track/6hO8bfYNOb97gzVDgcYVND) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [Silver Spoon](https://open.spotify.com/album/3ziaoXrlwiwwJXwRtoeyPJ) | 4:14 |
-| 59 | [Never Gunna Give You Up](https://open.spotify.com/track/5juAS6AmOceMjFnlUaJQr2) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [Never Gunna Give You Up](https://open.spotify.com/album/1yXHaolBuecNtg6qZllfno) | 2:45 |
+| 57 | [Never Gunna Give You Up](https://open.spotify.com/track/5juAS6AmOceMjFnlUaJQr2) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [Never Gunna Give You Up](https://open.spotify.com/album/1yXHaolBuecNtg6qZllfno) | 2:45 |
+| 58 | [Next Summer](https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Next Summer](https://open.spotify.com/album/1wWQTVv9OUwmW6EIAOZ3Ri) | 2:45 |
+| 59 | [Silver Spoon](https://open.spotify.com/track/6hO8bfYNOb97gzVDgcYVND) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [Silver Spoon](https://open.spotify.com/album/3ziaoXrlwiwwJXwRtoeyPJ) | 4:14 |
 | 60 | [Family Matters](https://open.spotify.com/track/4o4uaxD9uSqnSzvig1qYTs) | [Skye Newman](https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M) | [Family Matters](https://open.spotify.com/album/4kWeU1dCxG9pBN2jlbWAid) | 2:57 |
 | 61 | [Tough Luck](https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Tough Luck](https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2) | 3:12 |
 | 62 | [Handlebars \(feat\. Dua Lipa\)](https://open.spotify.com/track/08dD8Lk7VUea38YnsMzOP7) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Handlebars \(feat\. Dua Lipa\)](https://open.spotify.com/album/2Qbx0u9RrEQjJDGZ7dCnh6) | 3:04 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IeqVkK7Ebc.md) - [plain]
 | 74 | [Lucky](https://open.spotify.com/track/7gdAgbYxtwwXsWsItU1apk) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Lucky](https://open.spotify.com/album/5roHm7qHxEBlV2xqbrbWjX) | 3:18 |
 | 75 | [Hachikō](https://open.spotify.com/track/4WhHNXBgRglnkjy7TMzgdh) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Hachikō](https://open.spotify.com/album/0qxIGHOXFdqiJEOqbUv5DR) | 4:30 |
 | 76 | [My Fault \(feat\. Noah Cyrus\)](https://open.spotify.com/track/3T3sbHYwPvhTCfEeUtvbMF) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3) | 3:56 |
-| 77 | [Walk All Over You](https://open.spotify.com/track/1RsBQ3yupjXE6dTbP8gPbl) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [I’m Only F\*\*king Myself](https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts) | 3:04 |
-| 78 | [GODSPEED](https://open.spotify.com/track/1HA5rqn1k4YQnJ9XxsnApd) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [C,XOXO \(Magic City Edition\)](https://open.spotify.com/album/6mym3v2HWcsH1oBN6A7SPm) | 3:36 |
-| 79 | [Freedom](https://open.spotify.com/track/2IdYSlDtu8FpGde4fwekuw) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play \(Extended Edition\)](https://open.spotify.com/album/64QhljQEwTfoEt9z6jsyxl) | 3:57 |
-| 80 | [Alienated](https://open.spotify.com/track/3Mc9WnQJxBDKBHpys9O1Bw) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Alienated](https://open.spotify.com/album/4QaEAly7ki3AQdC8jZZC2i) | 4:07 |
+| 77 | [Freedom](https://open.spotify.com/track/2IdYSlDtu8FpGde4fwekuw) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play \(Extended Edition\)](https://open.spotify.com/album/64QhljQEwTfoEt9z6jsyxl) | 3:57 |
+| 78 | [Alienated](https://open.spotify.com/track/3Mc9WnQJxBDKBHpys9O1Bw) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Alienated](https://open.spotify.com/album/4QaEAly7ki3AQdC8jZZC2i) | 4:07 |
+| 79 | [GODSPEED](https://open.spotify.com/track/1HA5rqn1k4YQnJ9XxsnApd) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [C,XOXO \(Magic City Edition\)](https://open.spotify.com/album/6mym3v2HWcsH1oBN6A7SPm) | 3:36 |
+| 80 | [Walk All Over You](https://open.spotify.com/track/1RsBQ3yupjXE6dTbP8gPbl) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [I’m Only F\*\*king Myself](https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts) | 3:04 |
 
 Snapshot ID: `AAAAABpS8UUNDljwcgYjppbLdMro3OeW`

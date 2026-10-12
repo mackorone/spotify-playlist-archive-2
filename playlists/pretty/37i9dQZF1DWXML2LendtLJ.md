@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXML2LendtLJ.md) - [plain]
 
 > The breeziest songs to get you through the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 530,586 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 530,568 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXML2LendtLJ.md) - [plain]
 | 35 | [Against All Odds \(Take a Look at Me Now\) \- 2016 Remaster](https://open.spotify.com/track/63CHa6rmamv9OsehkRD8oz) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [The Singles \(Expanded\)](https://open.spotify.com/album/7yZHLfxqiGPbSQLrVJljah) | 3:26 |
 | 36 | [Elizabeth Taylor](https://open.spotify.com/track/1jgTiNob5cVyXeJ3WgX5bL) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:28 |
 | 37 | [\(Everything I Do\) I Do It For You](https://open.spotify.com/track/1Eb90nmqTrxylKFhcUzW8P) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Waking Up The Neighbours](https://open.spotify.com/album/6Rk2VghhfqeYrgKxS21eBh) | 6:33 |
-| 38 | [Man in the Mirror \- 2012 Remaster](https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Bad \(Remastered\)](https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH) | 5:18 |
-| 39 | [If You Leave Me Now](https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago X](https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P) | 3:55 |
+| 38 | [If You Leave Me Now](https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago X](https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P) | 3:55 |
+| 39 | [Man in the Mirror \- 2012 Remaster](https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Bad \(Remastered\)](https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH) | 5:18 |
 | 40 | [You're Beautiful](https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Back to Bedlam](https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF) | 3:32 |
 | 41 | [Bed Of Roses](https://open.spotify.com/track/1zng9uqqXoPkmU05nsAlsw) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Keep The Faith](https://open.spotify.com/album/2FbviTPUjgJJUxsGM1sGDq) | 6:34 |
 | 42 | [Take A Bow](https://open.spotify.com/track/3goSVuTt3fDYDP6kRnFwuL) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 3:49 |

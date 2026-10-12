@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5TcWL6sPDr5.md) - [plain]
 
 > Listen to women at full volume\. Cover: 💚Carlina de Place💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,435 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,431 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

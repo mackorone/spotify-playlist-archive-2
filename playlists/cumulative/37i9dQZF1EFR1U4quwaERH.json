@@ -687,6 +687,24 @@
     },
     {
       "album": {
+        "name": "Little Miss Twain - The Places I'll Go",
+        "url": "https://open.spotify.com/album/025elCPgKgk6oamY3uLTZ6"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "date_added": "2026-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166280,
+      "name": "Hate That Way",
+      "url": "https://open.spotify.com/track/3JbuRtoIXE9Evm6jUJleG8"
+    },
+    {
+      "album": {
         "name": "Vacancy",
         "url": "https://open.spotify.com/album/4FYQFYBKEVSjNNHk5aU2TR"
       },

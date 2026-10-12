@@ -1,6 +1,6 @@
 {
   "description": "This is Lil Tecca. The essential tracks, all in one playlist.",
-  "num_followers": 103168,
+  "num_followers": 103174,
   "original_name": "This Is Lil Tecca",
   "owner": {
     "name": "Spotify",
@@ -819,26 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Virgo World",
-        "url": "https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 179813,
-      "name": "Dolly (with Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/77Xwqkw7VrV8E5FCq9JhO8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "B4 The Storm (Expanded Edition)",
         "url": "https://open.spotify.com/album/4fszOxJ7RWHqPIXOrC2iKY"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 163636,
       "name": "JLO (feat. Lil Tecca)",
       "url": "https://open.spotify.com/track/6kYP6BKrQOcL61G4XPc0XA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Virgo World",
+        "url": "https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 179813,
+      "name": "Dolly (with Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/77Xwqkw7VrV8E5FCq9JhO8"
     },
     {
       "added_at": null,

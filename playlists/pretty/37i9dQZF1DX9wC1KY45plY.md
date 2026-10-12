@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wC1KY45plY.md) - [plain]
 
 > A soundtrack to fuel your good mood while on the road.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,887,916 likes - 100 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,888,337 likes - 100 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wC1KY45plY.md) - [plain]
 | 30 | [You Give Love A Bad Name](https://open.spotify.com/track/0rmGAIH9LNJewFw7nKzZnc) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t) | 3:42 |
 | 31 | [Start Me Up \- Remastered 2009](https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Tattoo You \(2009 Re\-Mastered\)](https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ) | 3:33 |
 | 32 | [My Life](https://open.spotify.com/track/4ZoBC5MhSEzuknIgAkBaoT) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [52nd Street](https://open.spotify.com/album/1HmCO8VK98AU6EXPOjGYyI) | 4:45 |
-| 33 | [Don't Bring Me Down](https://open.spotify.com/track/72ahyckBJfTigJCFCviVN7) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [Discovery](https://open.spotify.com/album/1CvVSn2MtKDBR6aWMkNkem) | 4:03 |
-| 34 | [Baba O'Riley](https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next \(Deluxe Edition\)](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) | 5:00 |
+| 33 | [Baba O'Riley](https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next \(Deluxe Edition\)](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) | 5:00 |
+| 34 | [Don't Bring Me Down](https://open.spotify.com/track/72ahyckBJfTigJCFCviVN7) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [Discovery](https://open.spotify.com/album/1CvVSn2MtKDBR6aWMkNkem) | 4:03 |
 | 35 | [Jessie's Girl](https://open.spotify.com/track/5RsUlxLto4NZbhJpqJbHfN) | [Rick Springfield](https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p) | [Working Class Dog](https://open.spotify.com/album/4KKFWTePKtgb6mOwFDqxYa) | 3:14 |
 | 36 | [I Won't Back Down](https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 2:58 |
 | 37 | [Escape \(The Pina Colada Song\)](https://open.spotify.com/track/5IMtdHjJ1OtkxbGe4zfUxQ) | [Rupert Holmes](https://open.spotify.com/artist/0TqIPD4IS1w4e30R38B3vj) | [Partners In Crime](https://open.spotify.com/album/163iYwl7Kdm9ayTnD4VyfN) | 4:36 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wC1KY45plY.md) - [plain]
 | 42 | [Faith \- Remastered](https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 3:13 |
 | 43 | [Panama \- 2015 Remaster](https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [1984 \(Remastered\)](https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0) | 3:30 |
 | 44 | [Take Me Home Tonight](https://open.spotify.com/track/7b4yGtR0rujvLi5EBfKKJ2) | [Eddie Money](https://open.spotify.com/artist/4Tw2N3wdvJPGEU7JqMxFfE) | [Can't Hold Back](https://open.spotify.com/album/2gLYQmHLHZhNpTxlnlkXy7) | 3:31 |
-| 45 | [The Power Of Love](https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB) | [Huey Lewis & The News](https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6) | [Greatest Hits: Huey Lewis And The News](https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj) | 3:54 |
-| 46 | [Jack & Diane](https://open.spotify.com/track/43btz2xjMKpcmjkuRsvxyg) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [American Fool](https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0) | 4:14 |
+| 45 | [Jack & Diane](https://open.spotify.com/track/43btz2xjMKpcmjkuRsvxyg) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [American Fool](https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0) | 4:14 |
+| 46 | [The Power Of Love](https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB) | [Huey Lewis & The News](https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6) | [Greatest Hits: Huey Lewis And The News](https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj) | 3:54 |
 | 47 | [Break My Stride](https://open.spotify.com/track/1mCsF9Tw4AkIZOjvZbZZdT) | [Matthew Wilder](https://open.spotify.com/artist/3bmFPbLMiLxtR9tFrTcKcP) | [I Don't Speak The Language](https://open.spotify.com/album/2coqGqbnSCAy740mClWesA) | 3:04 |
 | 48 | [Cold as Ice](https://open.spotify.com/track/7vidktgNZFQylTgH1GEnMs) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Foreigner \(Expanded\)](https://open.spotify.com/album/1OU7zJvUfgxxPHgkTClt1M) | 3:23 |
 | 49 | [Just What I Needed](https://open.spotify.com/track/4alHo6RGd0D3OUbTPExTHN) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [The Cars](https://open.spotify.com/album/4tJPWT4r4FSKwy784Qs1Fq) | 3:45 |

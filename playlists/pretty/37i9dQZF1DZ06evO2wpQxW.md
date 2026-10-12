@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wpQxW.md) - [plain]
 
 > This is Calibre 50\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 731,619 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 731,660 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wpQxW.md) - [plain]
 | 35 | [Una Mala Elección](https://open.spotify.com/track/3UUAZLnbePuhLAlPsEFeL6) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Contigo](https://open.spotify.com/album/67FKNGl2Yujo7UFeDNajHt) | 2:08 |
 | 36 | [Deja De Joder](https://open.spotify.com/track/1Y5rwy1DeOqZ6Q13C4IVF6) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Desde El Rancho](https://open.spotify.com/album/3JGd3lmLv4Z7pQUZPu6EnH) | 2:36 |
 | 37 | [Salió A La Perfección](https://open.spotify.com/track/7L1hiumuXST9N4YgaF0JHs) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Simplemente Gracias](https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq) | 3:11 |
-| 38 | [Desde Antes De Nacer](https://open.spotify.com/track/0qAmzoy2fliiGSpiZSxN6h) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Mi Hubiera Favorito](https://open.spotify.com/album/09COGha3peqybGi1bThwsj) | 2:56 |
-| 39 | [Callejero Y Mujeriego](https://open.spotify.com/track/4fs0BA5PTPb7C31uzfWY4J) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Renovar O Morir](https://open.spotify.com/album/0Npb5RTXimPOeUQONeuz3A) | 2:28 |
+| 38 | [Callejero Y Mujeriego](https://open.spotify.com/track/4fs0BA5PTPb7C31uzfWY4J) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Renovar O Morir](https://open.spotify.com/album/0Npb5RTXimPOeUQONeuz3A) | 2:28 |
+| 39 | [Desde Antes De Nacer](https://open.spotify.com/track/0qAmzoy2fliiGSpiZSxN6h) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Mi Hubiera Favorito](https://open.spotify.com/album/09COGha3peqybGi1bThwsj) | 2:56 |
 | 40 | [Ni Mandándote A Hacer](https://open.spotify.com/track/5JQLQCEqMOZLZW78qIVm9N) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Vamos Bien](https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ) | 4:06 |
 | 41 | [El Ingeniero](https://open.spotify.com/track/1CSdO0YWuENf6lMjmPk62G) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Guerra De Poder](https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc) | 3:32 |
 | 42 | [Míranos Ahora](https://open.spotify.com/track/5VfkfKTTo5BRKqHwfENF0V) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Míranos Ahora](https://open.spotify.com/album/0cuCvmXFuaN8eS5lvAlQt3) | 3:18 |

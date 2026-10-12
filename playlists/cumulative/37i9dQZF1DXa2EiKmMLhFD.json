@@ -1078,7 +1078,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 252349,
       "name": "Bunga Maaf",
       "url": "https://open.spotify.com/track/26KhLgFuPymkm1uiZkc6Rv"
@@ -4264,7 +4264,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 277944,
       "name": "Nina",
       "url": "https://open.spotify.com/track/1zFaLYA10ImwEejge3F5nm"
@@ -4670,7 +4670,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 240607,
       "name": "Penyangkalan",
       "url": "https://open.spotify.com/track/3GdN5n6p34yFMd12WKq8jL"
@@ -6382,7 +6382,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 202721,
       "name": "Tak Ada Ujungnya",
       "url": "https://open.spotify.com/track/2JekYbWANgDe54Dndi2I2C"
@@ -6574,6 +6574,24 @@
       "duration_ms": 260571,
       "name": "Tak Selalu Memiliki - Ipar Adalah Maut Original Soundtrack",
       "url": "https://open.spotify.com/track/0wRXRWyFNE99paoKAUeA5s"
+    },
+    {
+      "album": {
+        "name": "Tak Semudah Hompimpa",
+        "url": "https://open.spotify.com/album/7MVHYuCr4lIJ1MaU944tdb"
+      },
+      "artists": [
+        {
+          "name": "Nabila Taqiyyah",
+          "url": "https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204520,
+      "name": "Tak Semudah Hompimpa",
+      "url": "https://open.spotify.com/track/0Q82xVk3e34a6InV5sQHeQ"
     },
     {
       "album": {
@@ -7600,6 +7618,24 @@
       "duration_ms": 228639,
       "name": "we can't be friends (wait for your love)",
       "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
+    },
+    {
+      "album": {
+        "name": "What If I Call",
+        "url": "https://open.spotify.com/album/4yazxGFraz7lO9omZNEues"
+      },
+      "artists": [
+        {
+          "name": "Alex Crichton",
+          "url": "https://open.spotify.com/artist/25JtC3l1STnE2GptoHKXdD"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "What If I Call",
+      "url": "https://open.spotify.com/track/3zBdVzYsuqVPyMk1YFiPcg"
     },
     {
       "album": {

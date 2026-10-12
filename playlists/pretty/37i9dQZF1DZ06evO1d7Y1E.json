@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Poze do Rodo. The essential tracks, all in one playlist.",
-  "num_followers": 117591,
+  "num_followers": 117589,
   "original_name": "This Is Mc Poze do Rodo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asgugAAAAABZtx91rXpmkcv1Hqp3XcKv",
+  "snapshot_id": "asgugAAAAADtOCwaht68rX4eQDXpsBQ6",
   "tracks": [
     {
       "added_at": null,
@@ -275,42 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Separa e Volta",
-        "url": "https://open.spotify.com/album/44Ux9yWZc4soJWgOFjC7pT"
-      },
-      "artists": [
-        {
-          "name": "MC Vine7",
-          "url": "https://open.spotify.com/artist/3UfwtvPZZea2HHwI23VtKP"
-        },
-        {
-          "name": "DJ Gu",
-          "url": "https://open.spotify.com/artist/3Y4ODN6kIBNpQj6eWNT9xw"
-        },
-        {
-          "name": "MC Tuto",
-          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
-        },
-        {
-          "name": "MC Jo\u00e3ozinho VT",
-          "url": "https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        }
-      ],
-      "duration_ms": 284160,
-      "name": "Separa e Volta",
-      "url": "https://open.spotify.com/track/32Qc8SvUBto0VK6prCdbUw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Cara do Crime (N\u00f3s Incomoda)",
         "url": "https://open.spotify.com/album/75IYhNYhWnTAgVYyaHGzga"
       },
@@ -343,6 +307,42 @@
       "duration_ms": 302117,
       "name": "A Cara do Crime (N\u00f3s Incomoda)",
       "url": "https://open.spotify.com/track/0wRn3ggAY1fIupTaVigdza"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Separa e Volta",
+        "url": "https://open.spotify.com/album/44Ux9yWZc4soJWgOFjC7pT"
+      },
+      "artists": [
+        {
+          "name": "MC Vine7",
+          "url": "https://open.spotify.com/artist/3UfwtvPZZea2HHwI23VtKP"
+        },
+        {
+          "name": "DJ Gu",
+          "url": "https://open.spotify.com/artist/3Y4ODN6kIBNpQj6eWNT9xw"
+        },
+        {
+          "name": "MC Tuto",
+          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
+        },
+        {
+          "name": "MC Jo\u00e3ozinho VT",
+          "url": "https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        }
+      ],
+      "duration_ms": 284160,
+      "name": "Separa e Volta",
+      "url": "https://open.spotify.com/track/32Qc8SvUBto0VK6prCdbUw"
     },
     {
       "added_at": null,
@@ -543,34 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O S\u00e1bio",
-        "url": "https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        },
-        {
-          "name": "Felipe Rosa",
-          "url": "https://open.spotify.com/artist/3de56pt399CWcGlNa7kB5N"
-        },
-        {
-          "name": "Mandark",
-          "url": "https://open.spotify.com/artist/5zvgzd56jcRvu40O5mdyGB"
-        }
-      ],
-      "duration_ms": 194823,
-      "name": "Mundo Covarde",
-      "url": "https://open.spotify.com/track/1m9gl7AQLRKDoAJnmbjTAF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eu Fiz o Jogo Virar",
         "url": "https://open.spotify.com/album/78d91UtLEOTAllTmgDh7n5"
       },
@@ -595,6 +567,34 @@
       "duration_ms": 145573,
       "name": "Eu Fiz o Jogo Virar",
       "url": "https://open.spotify.com/track/53BkPZwlaLbW77uV9BnJkl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O S\u00e1bio",
+        "url": "https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+        }
+      ],
+      "duration_ms": 186947,
+      "name": "Ai Calica",
+      "url": "https://open.spotify.com/track/65CB461aKF5FvIuuzqUgXu"
     },
     {
       "added_at": null,
@@ -671,34 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O S\u00e1bio",
-        "url": "https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
-        },
-        {
-          "name": "Galdino",
-          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
-        }
-      ],
-      "duration_ms": 186947,
-      "name": "Ai Calica",
-      "url": "https://open.spotify.com/track/65CB461aKF5FvIuuzqUgXu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Que Se Foda o Cupido (feat. MC Cabelinho & MC Meno K)",
         "url": "https://open.spotify.com/album/70rgAi8ko10QS6heKNP0mR"
       },
@@ -731,6 +703,34 @@
       "duration_ms": 324843,
       "name": "Que Se Foda o Cupido (feat. MC Cabelinho & MC Meno K)",
       "url": "https://open.spotify.com/track/2L278dmb5oAZC5eogDCfzU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O S\u00e1bio",
+        "url": "https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Felipe Rosa",
+          "url": "https://open.spotify.com/artist/3de56pt399CWcGlNa7kB5N"
+        },
+        {
+          "name": "Mandark",
+          "url": "https://open.spotify.com/artist/5zvgzd56jcRvu40O5mdyGB"
+        }
+      ],
+      "duration_ms": 194823,
+      "name": "Mundo Covarde",
+      "url": "https://open.spotify.com/track/1m9gl7AQLRKDoAJnmbjTAF"
     },
     {
       "added_at": null,
@@ -1467,6 +1467,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "T\u00e1 Fluindo",
+        "url": "https://open.spotify.com/album/0Mw3N6i9NxXULaYEBigTjk"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        }
+      ],
+      "duration_ms": 159157,
+      "name": "T\u00e1 Fluindo",
+      "url": "https://open.spotify.com/track/3J9RgzjfVuVnGlPjenqVho"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jogo do Milh\u00e3o",
         "url": "https://open.spotify.com/album/3eMouVrdJSJgk1Joj172dL"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 194634,
       "name": "Desde Menorzin",
       "url": "https://open.spotify.com/track/5XvbaX4eAeNkScND1tInpr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "T\u00e1 Fluindo",
-        "url": "https://open.spotify.com/album/0Mw3N6i9NxXULaYEBigTjk"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        }
-      ],
-      "duration_ms": 159157,
-      "name": "T\u00e1 Fluindo",
-      "url": "https://open.spotify.com/track/3J9RgzjfVuVnGlPjenqVho"
     },
     {
       "added_at": null,
@@ -1587,6 +1587,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Me Espera",
+        "url": "https://open.spotify.com/album/52rjSQGfI5meOWu0YFdNsu"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "duration_ms": 142564,
+      "name": "Metflix - Remix",
+      "url": "https://open.spotify.com/track/5pCJL7iUT48OC56cAyWtuz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "XEQUE MATE",
         "url": "https://open.spotify.com/album/1YNqyFODkZFmei0q1a2Yps"
       },
@@ -1623,30 +1647,6 @@
       "duration_ms": 324919,
       "name": "\u00daltima Forma",
       "url": "https://open.spotify.com/track/1EIPpD1XZb1TCDr1jmxEoj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me Espera",
-        "url": "https://open.spotify.com/album/52rjSQGfI5meOWu0YFdNsu"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        }
-      ],
-      "duration_ms": 142564,
-      "name": "Metflix - Remix",
-      "url": "https://open.spotify.com/track/5pCJL7iUT48OC56cAyWtuz"
     },
     {
       "added_at": null,

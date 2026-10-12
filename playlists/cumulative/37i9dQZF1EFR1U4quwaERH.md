@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0B0BPkmlJbG5tsDwTUUcBq">Blush</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-122 songs - 6 hr 29 min
+123 songs - 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Gut Punch](https://open.spotify.com/track/6xKwBrNrYrudwor18Uw8fs) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Sunday Best](https://open.spotify.com/album/7DEY5qf1aurVCNdfKRU59T) | 3:08 | 2026-02-08 |  |
 | [Habit](https://open.spotify.com/track/7FUfVAITU9rjBNh1AiFWZV) | [Tucker Nichol](https://open.spotify.com/artist/3M9ugSI1Vjp5mg1YpSjrVL) | [can you keep a secret](https://open.spotify.com/album/4NykbCCKaLZyrEND5C2IOF) | 3:26 | 2025-11-07 |  |
 | [Hard to Love](https://open.spotify.com/track/3MJhPqL2IgGs7gHEB2M35q) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:42 | 2025-11-07 |  |
+| [Hate That Way](https://open.spotify.com/track/3JbuRtoIXE9Evm6jUJleG8) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Little Miss Twain \- The Places I'll Go](https://open.spotify.com/album/025elCPgKgk6oamY3uLTZ6) | 2:46 | 2026-10-11 |  |
 | [High Key](https://open.spotify.com/track/26conjuiPm1qB5KnLUtYar) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Vacancy](https://open.spotify.com/album/4FYQFYBKEVSjNNHk5aU2TR) | 2:12 | 2026-02-07 |  |
 | [Hold Out](https://open.spotify.com/track/3jSnOCcXRTa2Z4ECnL29Mw) | [Shea Diamond](https://open.spotify.com/artist/5blcro89qJueGv0DGQ2rsH) | [Skin of My Teeth](https://open.spotify.com/album/4jzeGZV3144y1G0cvGSoOw) | 3:32 | 2026-06-05 |  |
 | [Hold Out](https://open.spotify.com/track/6c65pbTsWaRowkkFhBPRrR) | [Shea Diamond](https://open.spotify.com/artist/5blcro89qJueGv0DGQ2rsH) | [Hold Out](https://open.spotify.com/album/3WH3rUjZNuKvXOEMruRmk2) | 3:32 | 2026-03-06 | 2026-06-06 |

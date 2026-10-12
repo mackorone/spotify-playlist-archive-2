@@ -4,7 +4,7 @@
 
 > atopa risers
 
-129 songs - 6 hr 12 min
+130 songs - 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Love Again \(feat\. Full Blown\)](https://open.spotify.com/track/0zZUq2EqsqD2DDDHZAgPEf) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Full Blown](https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC) | [SUN SHERIF](https://open.spotify.com/album/4P9orjsOtA6EMnQHomKhpY) | 2:35 | 2026-09-04 |  |
 | [Makoma](https://open.spotify.com/track/0HtHmm24jro58XSIW2UIoC) | [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [Makoma](https://open.spotify.com/album/5nUG6KJs5P1tPgMa3tWU7Q) | 2:44 | 2025-12-05 | 2026-02-08 |
 | [Masallaci](https://open.spotify.com/track/33VYsUAdBLXYfwDm657qpJ) | [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052) | [Masallaci](https://open.spotify.com/album/0fZTCzdV6sxq4l2Ez6Bt6M) | 2:05 | 2026-03-13 | 2026-03-20 |
+| [Me Sisi](https://open.spotify.com/track/02w07PEgTDY7IiuGWhqBWM) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Me Sisi](https://open.spotify.com/album/3IwecGnHivXYOnhC5IFmDl) | 2:51 | 2026-10-09 |  |
 | [meet 4 corner](https://open.spotify.com/track/1xzClFt96f9K5mGCCAXTD8) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Sweet Songs 4 You](https://open.spotify.com/album/5dd9pjLKGfr6jDOr3ChACg) | 2:50 | 2025-10-24 | 2026-08-20 |
 | [Mine Alone](https://open.spotify.com/track/4fnxxV0RRzHLaMHBAp4FCe) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Palmwine Music 3](https://open.spotify.com/album/2BeECcZnwLsaYOndRSO9fF) | 3:07 | 2025-12-19 | 2026-02-27 |
 | [Money Makes The World Go Round \(MMTWGR\)](https://open.spotify.com/track/6Z4XuIm4CoQM7r4cMH9n6l) | [RCEE](https://open.spotify.com/artist/5aMc9Z99UvAnSOGYAlZsHb) | [Young Daddy](https://open.spotify.com/album/6mQzGchJ3p5yKAsugrc5Gm) | 2:27 | 2026-04-17 | 2026-05-15 |
@@ -126,7 +127,7 @@
 | [Too Late](https://open.spotify.com/track/7krvWOVJSMcj3LHuxygzLh) | [Wendy Shay](https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S) | [Too Late](https://open.spotify.com/album/7mQQiuo6jLbmE3aZeSaXaR) | 3:14 | 2025-10-24 | 2026-09-03 |
 | [Tshwala Bam \(feat\. S.N.E\)](https://open.spotify.com/track/6cyXHTix4NQ069gKJEYv41) | [TitoM](https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k), [Yuppe](https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [S.N.E](https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF) | [Tshwala Bam \(feat\. S.N.E\)](https://open.spotify.com/album/1ZyNY4zHrl8MMzZ5li2Pm2) | 3:23 | 2025-10-24 |  |
 | [TSOOBI \(AKONOBA\)](https://open.spotify.com/track/4jGGlJ79PIT8MA85gfCMSR) | [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [TSOOBI \(AKONOBA\)](https://open.spotify.com/album/298RAd7DjwBSO2PYx9NEIV) | 3:46 | 2026-01-30 | 2026-07-31 |
-| [Very Soon](https://open.spotify.com/track/1tBfoI9tFVl8ampIRG4eTr) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Very Soon](https://open.spotify.com/album/42R7w5OImRPdU3Ex59eXd2) | 3:09 | 2025-10-24 |  |
+| [Very Soon](https://open.spotify.com/track/1tBfoI9tFVl8ampIRG4eTr) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Very Soon](https://open.spotify.com/album/42R7w5OImRPdU3Ex59eXd2) | 3:09 | 2025-10-24 | 2026-10-12 |
 | [Vivian](https://open.spotify.com/track/10iQAe24PyCIhLD3qKIGSo) | [Wendy Shay](https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S) | [Vivian](https://open.spotify.com/album/3sA9Ewao4oB48MBzzVglgL) | 2:12 | 2025-12-19 | 2026-01-04 |
 | [We Go](https://open.spotify.com/track/7y5fQjHVccTNRHnWiWUhwT) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [We Go](https://open.spotify.com/album/1HDGklOmSeGoVIVO4MQ8Ba) | 2:53 | 2026-09-25 |  |
 | [Wins & Losses](https://open.spotify.com/track/7ax7PkGEpJueZLT0nD6sBS) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Yaadman fka Yung L](https://open.spotify.com/artist/0XnH3M78JKVEjutHn1146c) | [Wins & Losses](https://open.spotify.com/album/57SzMLliAmulps9UDpDOLk) | 2:59 | 2026-02-13 | 2026-04-17 |

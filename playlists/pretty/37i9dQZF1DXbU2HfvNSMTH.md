@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbU2HfvNSMTH.md) - [plain]
 
 > The songs of the 1980s that will make you dance all summer long!
 
-[Spotify](https://open.spotify.com/user/spotify) - 567,852 likes - 75 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 567,923 likes - 75 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,13 +43,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbU2HfvNSMTH.md) - [plain]
 | 33 | [Jessie's Girl](https://open.spotify.com/track/5RsUlxLto4NZbhJpqJbHfN) | [Rick Springfield](https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p) | [Working Class Dog](https://open.spotify.com/album/4KKFWTePKtgb6mOwFDqxYa) | 3:14 |
 | 34 | [Hungry Like the Wolf \- 2009 Remaster](https://open.spotify.com/track/39lSeqnyjZJejRuaREfyLL) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Rio \(Collector's Edition\)](https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm) | 3:40 |
 | 35 | [Glory of Love](https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM) | [Peter Cetera](https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z) | [Solitude / Solitaire](https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb) | 4:18 |
-| 36 | [I Think We're Alone Now](https://open.spotify.com/track/4uvjOKsp7mSjrDhWdkLPBY) | [Tiffany](https://open.spotify.com/artist/4C3uGP8vRDzxrhJxZiOjTe) | [Tiffany](https://open.spotify.com/album/0ORrRtBqjERyBBZWSsSw9C) | 3:48 |
-| 37 | [Rosanna](https://open.spotify.com/track/37BTh5g05cxBIRYMbw8g2T) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto IV](https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D) | 5:30 |
+| 36 | [Rosanna](https://open.spotify.com/track/37BTh5g05cxBIRYMbw8g2T) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto IV](https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D) | 5:30 |
+| 37 | [I Think We're Alone Now](https://open.spotify.com/track/4uvjOKsp7mSjrDhWdkLPBY) | [Tiffany](https://open.spotify.com/artist/4C3uGP8vRDzxrhJxZiOjTe) | [Tiffany](https://open.spotify.com/album/0ORrRtBqjERyBBZWSsSw9C) | 3:48 |
 | 38 | [Danger Zone \- From "Top Gun" Original Soundtrack](https://open.spotify.com/track/34x6hEJgGAOQvmlMql5Ige) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Yesterday, Today, Tomorrow \- The Greatest Hits Of Kenny Loggins](https://open.spotify.com/album/3uN87hwClF0hult2cxMbAW) | 3:35 |
 | 39 | [Don't You Want Me](https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Dare!](https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY) | 3:56 |
 | 40 | [Faith \- Remastered](https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 3:13 |
-| 41 | [The Power Of Love](https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB) | [Huey Lewis & The News](https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6) | [Greatest Hits: Huey Lewis And The News](https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj) | 3:54 |
-| 42 | [Jack & Diane](https://open.spotify.com/track/43btz2xjMKpcmjkuRsvxyg) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [American Fool](https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0) | 4:14 |
+| 41 | [Jack & Diane](https://open.spotify.com/track/43btz2xjMKpcmjkuRsvxyg) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [American Fool](https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0) | 4:14 |
+| 42 | [The Power Of Love](https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB) | [Huey Lewis & The News](https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6) | [Greatest Hits: Huey Lewis And The News](https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj) | 3:54 |
 | 43 | [Tainted Love](https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [Non\-Stop Erotic Cabaret](https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD) | 2:33 |
 | 44 | [Friday I'm in Love](https://open.spotify.com/track/263aNAQCeFSWipk896byo6) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu) | 3:34 |
 | 45 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/6wpGqhRvJGNNXwWlPmkMyO) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU) | 4:37 |
@@ -76,10 +76,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbU2HfvNSMTH.md) - [plain]
 | 66 | [Dancing On The Ceiling](https://open.spotify.com/track/0snPJPxkk0MbTc0xeUvAPt) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Dancing On The Ceiling \(Expanded Edition\)](https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf) | 4:30 |
 | 67 | [I'm Coming Out](https://open.spotify.com/track/3SnGymj6ijE2iuUfWxLo1q) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana](https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI) | 5:23 |
 | 68 | [Rhythm Of The Night](https://open.spotify.com/track/5yGTQzYbEdY6B9RFZJypgt) | [DeBarge](https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV) | [Rhythm Of The Night](https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8) | 3:49 |
-| 69 | [Toy Soldiers](https://open.spotify.com/track/4jh9olf0OKCokpzxSyLeJx) | [Martika](https://open.spotify.com/artist/40enFxfEXXsEXKOt1vgx0k) | [Martika \(Expanded Edition\)](https://open.spotify.com/album/2qoLTSXxsdiHpuoPWrpJiy) | 4:47 |
-| 70 | [Push It](https://open.spotify.com/track/6sT9MWlJManry3EQwf4V80) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [Hot, Cool & Vicious](https://open.spotify.com/album/5QFYPgLGw6DYz8S3TrLM2d) | 4:32 |
-| 71 | [Sussudio \- 2016 Remaster](https://open.spotify.com/track/4qM461TqtpnP4GLRIXwEnW) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [No Jacket Required \(2016 Remaster\)](https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB) | 4:23 |
-| 72 | [Papa Don't Preach](https://open.spotify.com/track/6A8OnjnpShshNpcqWtZRjr) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [True Blue](https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD) | 4:28 |
+| 69 | [Push It](https://open.spotify.com/track/6sT9MWlJManry3EQwf4V80) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [Hot, Cool & Vicious](https://open.spotify.com/album/5QFYPgLGw6DYz8S3TrLM2d) | 4:32 |
+| 70 | [Toy Soldiers](https://open.spotify.com/track/4jh9olf0OKCokpzxSyLeJx) | [Martika](https://open.spotify.com/artist/40enFxfEXXsEXKOt1vgx0k) | [Martika \(Expanded Edition\)](https://open.spotify.com/album/2qoLTSXxsdiHpuoPWrpJiy) | 4:47 |
+| 71 | [Papa Don't Preach](https://open.spotify.com/track/6A8OnjnpShshNpcqWtZRjr) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [True Blue](https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD) | 4:28 |
+| 72 | [Sussudio \- 2016 Remaster](https://open.spotify.com/track/4qM461TqtpnP4GLRIXwEnW) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [No Jacket Required \(2016 Remaster\)](https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB) | 4:23 |
 | 73 | [Moonlight Shadow](https://open.spotify.com/track/4WpmwEdc4RBos8W8icSSxW) | [Mike Oldfield](https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn) | [The Mike Oldfield Collection](https://open.spotify.com/album/6DCKvIzj7NnAwmdtI010JY) | 3:38 |
 | 74 | [Boys \- Summertime Love](https://open.spotify.com/track/1uI848raFaNWwe9HjHpjQ5) | [Sabrina](https://open.spotify.com/artist/2qURodWJech5Dv9T0Irrda) | [Sabrina](https://open.spotify.com/album/2VlucjjwY5zQCdnyzPU75v) | 3:54 |
 | 75 | [Morning Train \(Nine to Five\) \- Edit](https://open.spotify.com/track/1qvDt6W8oaTO9Q4pFNMFEm) | [Sheena Easton](https://open.spotify.com/artist/5dcOK4stT4JDkP6Dqhbz5s) | [Take My Time](https://open.spotify.com/album/7bNpYL4bvBMLRyafghBrCs) | 3:20 |

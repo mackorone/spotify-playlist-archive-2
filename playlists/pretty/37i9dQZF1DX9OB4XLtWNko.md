@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9OB4XLtWNko.md) - [plain]
 
 > WordArt, Nintendo DS and Heelys\. This one's for you!
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,790 likes - 80 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,802 likes - 80 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9OB4XLtWNko.md) - [plain]
 | 20 | [Black Beatles](https://open.spotify.com/track/6fujklziTHa8uoM5OQSfIo) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [SremmLife 2 \(Deluxe\)](https://open.spotify.com/album/5v6iBhIlflzR9rEd1LAMbd) | 4:51 |
 | 21 | [Say You Won't Let Go](https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 3:31 |
 | 22 | [Nights](https://open.spotify.com/track/7eqoqGkKwgOaWNNHx90uEZ) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 5:07 |
-| 23 | [Story of My Life](https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 4:05 |
-| 24 | [Cake By The Ocean](https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [DNCE](https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh) | 3:39 |
+| 23 | [Cake By The Ocean](https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [DNCE](https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh) | 3:39 |
+| 24 | [Story of My Life](https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 4:05 |
 | 25 | [thank u, next](https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:27 |
 | 26 | [Call Me Maybe](https://open.spotify.com/track/20I6sIOMTCkB6w7ryavxtO) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Kiss](https://open.spotify.com/album/6SSSF9Y6MiPdQoxqBptrR2) | 3:13 |
 | 27 | [Heathens](https://open.spotify.com/track/6i0V12jOa3mr6uu4WYhUBr) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Heathens](https://open.spotify.com/album/3J8W9AOjQhnBLCX33m3atT) | 3:15 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9OB4XLtWNko.md) - [plain]
 | 54 | [Riptide](https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:24 |
 | 55 | [2002](https://open.spotify.com/track/2BgEsaKNfHUdlh97KmvFyo) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Speak Your Mind \(Deluxe\)](https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5) | 3:06 |
 | 56 | [Say So](https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:57 |
-| 57 | [BUTTERFLY EFFECT](https://open.spotify.com/track/2cYqizR4lgvp4Qu6IQ3qGN) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 3:10 |
+| 57 | [God is a woman](https://open.spotify.com/track/5OCJzvD7sykQEKHH7qAC3C) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 3:17 |
 | 58 | [White Iverson](https://open.spotify.com/track/6eT7xZZlB2mwyzJ2sUKG6w) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 4:16 |
-| 59 | [God is a woman](https://open.spotify.com/track/5OCJzvD7sykQEKHH7qAC3C) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 3:17 |
+| 59 | [BUTTERFLY EFFECT](https://open.spotify.com/track/2cYqizR4lgvp4Qu6IQ3qGN) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 3:10 |
 | 60 | [I Like It](https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 4:13 |
 | 61 | [Candy](https://open.spotify.com/track/1VJwtWR6z7SpZRwipI12be) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Amala](https://open.spotify.com/album/54tInqO543zy0Y5F2VsUQI) | 3:10 |
 | 62 | [Brazil](https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Do You Think About the Car?](https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ) | 4:12 |

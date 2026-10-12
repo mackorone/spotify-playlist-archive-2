@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY5eNJoKHd2.md) - [plain]
 
 > songs that make you feel like you're levitating
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,576,732 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,576,714 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,13 +81,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY5eNJoKHd2.md) - [plain]
 | 71 | [West](https://open.spotify.com/track/2R5GzHdM4xdA8HNLIF8lOY) | [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Indigo](https://open.spotify.com/album/7H23XdhKb4H4mSCRd6gpwU) | 2:32 |
 | 72 | [Retrograde](https://open.spotify.com/track/2IqjKEBiz0CdLKdkXhxw84) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Overgrown](https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U) | 3:43 |
 | 73 | [You & Me \- Flume Remix](https://open.spotify.com/track/1snNAXmmPXCn0dkF9DaPWw) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Settle \(The Remixes\)](https://open.spotify.com/album/0QFMqnSP2kBMTrbfNkj3SB) | 4:42 |
-| 74 | [PIMMIE'S DILEMMA](https://open.spotify.com/track/3CY3zAjrxKVInh2Lq1QiRb) | [Pimmie](https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 1:58 |
-| 75 | [sex money feelings die \- slowed version](https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [sex money feelings die \(slowed version\)](https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1) | 2:48 |
-| 76 | [Two Hearts](https://open.spotify.com/track/58BZYJxcZbDngJbBQN7wdL) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Cerulean](https://open.spotify.com/album/1YbqV9ng7vfzgGbhjR2FfQ) | 3:52 |
+| 74 | [sex money feelings die \- slowed version](https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [sex money feelings die \(slowed version\)](https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1) | 2:48 |
+| 75 | [Two Hearts](https://open.spotify.com/track/58BZYJxcZbDngJbBQN7wdL) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Cerulean](https://open.spotify.com/album/1YbqV9ng7vfzgGbhjR2FfQ) | 3:52 |
+| 76 | [PIMMIE'S DILEMMA](https://open.spotify.com/track/3CY3zAjrxKVInh2Lq1QiRb) | [Pimmie](https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 1:58 |
 | 77 | [Peach](https://open.spotify.com/track/5JRMqkR82k2fdDEAim9SCN) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [ARIZONA BABY](https://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO) | 2:56 |
-| 78 | [Lithonia](https://open.spotify.com/track/4JfpJrrGNXRj2yXm1fYV23) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Lithonia](https://open.spotify.com/album/1hfI7lik7Q3ENibeUxfsf3) | 2:59 |
+| 78 | [Slip](https://open.spotify.com/track/15N3zfcJSyUEMn5KgY99ua) | [Elliot Moss](https://open.spotify.com/artist/2xGCGoulmU85qYdpb2Z4xx) | [Highspeeds](https://open.spotify.com/album/5Ae9tQRJDX86FnozLpyY1k) | 4:58 |
 | 79 | [Fitzpleasure](https://open.spotify.com/track/7DdXf9x75iEVCHWfoRwRuR) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 3:39 |
-| 80 | [Slip](https://open.spotify.com/track/15N3zfcJSyUEMn5KgY99ua) | [Elliot Moss](https://open.spotify.com/artist/2xGCGoulmU85qYdpb2Z4xx) | [Highspeeds](https://open.spotify.com/album/5Ae9tQRJDX86FnozLpyY1k) | 4:58 |
+| 80 | [Lithonia](https://open.spotify.com/track/4JfpJrrGNXRj2yXm1fYV23) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Lithonia](https://open.spotify.com/album/1hfI7lik7Q3ENibeUxfsf3) | 2:59 |
 | 81 | [Solitude \- Felsmann + Tiley Reinterpretation](https://open.spotify.com/track/5SOA0gaKMMp9cgwn3nuwk7) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz), [Felsmann + Tiley](https://open.spotify.com/artist/01OXxPlQj4h9zfK5qjU96P) | [Solitude \(Felsmann + Tiley Reinterpretation\)](https://open.spotify.com/album/7mCzA6gqtv4ZtfInpJXm52) | 3:42 |
 | 82 | [Doesn't Just Happen](https://open.spotify.com/track/2NI8EpPOnrRQhNs81tAAoe) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Trying Times](https://open.spotify.com/album/16tV8wTfqPyA6Cu5dwJJPc) | 3:17 |
 | 83 | [The Mannequin Song](https://open.spotify.com/track/64hwDkKZZHaxCpFOGC3AkW) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Ugly Duck](https://open.spotify.com/album/2gys1pKIbiL523OHH6H59P) | 2:44 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 
 > The latest in African & Caribbean music\. From the continent, to the islands with FOLA & Davido.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,924 likes - 100 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,977 likes - 100 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

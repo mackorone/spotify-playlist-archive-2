@@ -427,6 +427,32 @@
     },
     {
       "album": {
+        "name": "2 Spin Jikeleza",
+        "url": "https://open.spotify.com/album/1iwo7SpQ2ITA7rzDt2rZ58"
+      },
+      "artists": [
+        {
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        },
+        {
+          "name": "Uncle Waffles",
+          "url": "https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ"
+        },
+        {
+          "name": "Shaunmusiq",
+          "url": "https://open.spotify.com/artist/1rz8BeoVHWRTcj2253dM85"
+        }
+      ],
+      "date_added": "2026-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365309,
+      "name": "2 Spin Jikeleza",
+      "url": "https://open.spotify.com/track/0VD7eKjYghbtO4WGyHPEEE"
+    },
+    {
+      "album": {
         "name": "200 Bars",
         "url": "https://open.spotify.com/album/1b632CrikHBaG7gzMNTrx2"
       },
@@ -10812,7 +10838,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 283582,
       "name": "Chocolate Gaga",
       "url": "https://open.spotify.com/track/0sz5lMk2ifLqcbqHTFVLeC"
@@ -21874,7 +21900,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 158792,
       "name": "Heaven Baby (feat. ZAYN)",
       "url": "https://open.spotify.com/track/4iJJOsuXC9Y3Xp3wrmfl24"
@@ -25450,7 +25476,7 @@
       ],
       "date_added": "2025-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 244218,
       "name": "Incenge Kancane",
       "url": "https://open.spotify.com/track/3x9eb22Epgzw3GAR3gig5t"
@@ -34252,7 +34278,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-11",
+      "date_removed": null,
       "duration_ms": 351129,
       "name": "MaDouble",
       "url": "https://open.spotify.com/track/3FBTFjuM26VO1d7qH89Ca3"
@@ -44638,7 +44664,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 463611,
       "name": "Phumelela",
       "url": "https://open.spotify.com/track/3JP8KIKHcuCsngfWtq1ok0"
@@ -45266,7 +45292,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 138866,
       "name": "pop it",
       "url": "https://open.spotify.com/track/3LVkyYg0PSo8XInTPKKhZM"
@@ -51192,7 +51218,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-06",
+      "date_removed": null,
       "duration_ms": 264586,
       "name": "Skhethe (feat. Westboy, Caeser & DJ Janisto)",
       "url": "https://open.spotify.com/track/5NCLQtEbyUslIyZpzkNuTj"
@@ -53820,7 +53846,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-11",
+      "date_removed": null,
       "duration_ms": 215745,
       "name": "STOP and GO",
       "url": "https://open.spotify.com/track/5xqgBnOpJHAqN0IbGEodh9"
@@ -55564,7 +55590,7 @@
       ],
       "date_added": "2026-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 220264,
       "name": "Thando lwathola kabi (feat. KaMaphanga & Yolokazi)",
       "url": "https://open.spotify.com/track/3YsFaC4312p9Zu3CoRg2Eo"

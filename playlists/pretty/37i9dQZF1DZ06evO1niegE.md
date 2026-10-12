@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1niegE.md) - [plain]
 
 > This is RENEE\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,398 likes - 48 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,399 likes - 48 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > This is Rochelle Jordan\. The essential tracks, all in one playlist.
 
-47 songs - 3 hr 1 min
+48 songs - 3 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Bite The Bait](https://open.spotify.com/track/6pcXJ39XevPFNqXuUDClsf) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Through The Wall](https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98) | 4:06 | 2026-06-16 |  |
 | [Count It](https://open.spotify.com/track/0Xam5oGLrRlec9MJDQnZVz) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW) | 3:28 | 2026-06-24 | 2026-08-24 |
 | [CRANK](https://open.spotify.com/track/3i3q5ICTnKeT1BTbFh5Xaw) | [JIMMY EDGAR](https://open.spotify.com/artist/3qIRQKST5KCIIKWgmPTY2M), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [CHEETAH BEND](https://open.spotify.com/album/2kVNzMqVeQItTdeebUtWnb) | 4:25 | 2026-08-12 | 2026-08-14 |
-| [Crave](https://open.spotify.com/track/7oYiep2CEMcE5NvkwjAzuP) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Through The Wall](https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98) | 3:27 | 2026-08-30 | 2026-09-27 |
+| [Crave](https://open.spotify.com/track/7oYiep2CEMcE5NvkwjAzuP) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Through The Wall](https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98) | 3:27 | 2026-08-30 |  |
 | [Dancing Elephants](https://open.spotify.com/track/0HiS65pePN8wDgCR6iypZu) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW) | 5:18 | 2026-06-16 |  |
 | [Didn't Mean To Turn You On \- with Rochelle Jordan](https://open.spotify.com/track/569BvEAwdBNy9Ro0DtWWR5) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Didn't Mean To Turn You On \(with Rochelle Jordan\)](https://open.spotify.com/album/33Mfzj0B0jfExUap38bJYE) | 4:00 | 2026-08-22 |  |
 | [Doing It Too](https://open.spotify.com/track/0EjSsH1ndy3t5JYiq4vI4K) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Through The Wall](https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98) | 3:26 | 2026-06-16 |  |
@@ -49,7 +49,8 @@
 | [Sum](https://open.spotify.com/track/3MIVJlKGcLfYNLso4pp6dn) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Through The Wall](https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98) | 4:09 | 2026-06-16 |  |
 | [Sumthin Crazy \(with Rochelle Jordan\)](https://open.spotify.com/track/7ebsbZwgXRvssvuleJ3Ucl) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [never worry](https://open.spotify.com/album/1ZXC6ylnVeo9H0jAu5ri4r) | 3:06 | 2026-06-16 |  |
 | [Take Time](https://open.spotify.com/track/2aq9cIGfOVTB2a1DcWhzKv) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Origins](https://open.spotify.com/album/1CbmaTrSl8NJFQyOj6Ws97) | 3:46 | 2026-06-16 |  |
-| [The Boy](https://open.spotify.com/track/71opuLWkFhYlqcYYKPkkQw) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Through The Wall](https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98) | 3:34 | 2026-06-16 |  |
+| [The Boy](https://open.spotify.com/track/71opuLWkFhYlqcYYKPkkQw) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Through The Wall](https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98) | 3:34 | 2026-06-16 | 2026-10-12 |
+| [The Boy \- TOKiMONSTA Remix](https://open.spotify.com/track/0WXqcuo8IUsuS8ILuFovpA) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Disc 3](https://open.spotify.com/album/6laYPSz0GiIiPcjX7KjCVt) | 3:56 | 2026-10-12 |  |
 | [The Relic](https://open.spotify.com/track/415z4JEuCKRr5T8djU13Wl) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [A View of U](https://open.spotify.com/album/7GFmFwrDfsELfBtiuyW481) | 4:22 | 2026-06-16 | 2026-06-20 |
 | [There You Go](https://open.spotify.com/track/17ppGQtgavljJG2BmX3KDZ) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [1021](https://open.spotify.com/album/478zqPLfhIqeaB91EEnHLa) | 3:19 | 2026-06-16 |  |
 | [Tour Bus](https://open.spotify.com/track/4GZuQqsXHTjfM1XVkXZ5gD) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Project Sidiooo, Vol\. 1](https://open.spotify.com/album/75v6kx1DDN5ARanBzJd7LA) | 1:59 | 2026-07-08 |  |

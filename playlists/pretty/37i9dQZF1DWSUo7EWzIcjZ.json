@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Merengue de los 80 y 90! Portada: Rubby P\u00e9rez",
-  "num_followers": 385924,
+  "num_followers": 385915,
   "original_name": "Merengue Cl\u00e1sico",
   "owner": {
     "name": "Spotify",
@@ -2191,18 +2191,22 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Los A\u00f1os Dorados",
-        "url": "https://open.spotify.com/album/3qvDNquco8SgclYBqUadWh"
+        "name": "Un Cantante, 3 Facetas, Un Gran Artista - Bolero, Bachata & Merengue",
+        "url": "https://open.spotify.com/album/25v4AE4BEtDWDNBTpbElt5"
       },
       "artists": [
         {
           "name": "Sergio Vargas",
           "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+        },
+        {
+          "name": "Charlie Rodriguez",
+          "url": "https://open.spotify.com/artist/2HMIrqrn0is623MduW9coi"
         }
       ],
-      "duration_ms": 287733,
-      "name": "Madre",
-      "url": "https://open.spotify.com/track/5C99HN4vPVTXaZp9mLI5Sb"
+      "duration_ms": 267720,
+      "name": "Los dise\u00f1adores",
+      "url": "https://open.spotify.com/track/6Rh8XA7epTYTIqWKQAXXjp"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -2271,8 +2275,8 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "A Merengazo",
-        "url": "https://open.spotify.com/album/1PetYBXR6ahC4s0hi5gdXX"
+        "name": "Los A\u00f1os Dorados",
+        "url": "https://open.spotify.com/album/3qvDNquco8SgclYBqUadWh"
       },
       "artists": [
         {
@@ -2280,9 +2284,9 @@
           "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
         }
       ],
-      "duration_ms": 313013,
-      "name": "La Ventanita / La Pastilla",
-      "url": "https://open.spotify.com/track/5bgYw4yJApYc3DCeAaFy58"
+      "duration_ms": 287733,
+      "name": "Madre",
+      "url": "https://open.spotify.com/track/5C99HN4vPVTXaZp9mLI5Sb"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -2351,8 +2355,8 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Los A\u00f1os Dorados",
-        "url": "https://open.spotify.com/album/3qvDNquco8SgclYBqUadWh"
+        "name": "A Merengazo",
+        "url": "https://open.spotify.com/album/1PetYBXR6ahC4s0hi5gdXX"
       },
       "artists": [
         {
@@ -2360,9 +2364,9 @@
           "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
         }
       ],
-      "duration_ms": 270733,
-      "name": "Todo Aquello Que Escrib\u00ed",
-      "url": "https://open.spotify.com/track/44g3IuSUbFt0NmuFHZ9tJ0"
+      "duration_ms": 313013,
+      "name": "La Ventanita / La Pastilla",
+      "url": "https://open.spotify.com/track/5bgYw4yJApYc3DCeAaFy58"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -2431,22 +2435,18 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Un Cantante, 3 Facetas, Un Gran Artista - Bolero, Bachata & Merengue",
-        "url": "https://open.spotify.com/album/25v4AE4BEtDWDNBTpbElt5"
+        "name": "Los A\u00f1os Dorados",
+        "url": "https://open.spotify.com/album/3qvDNquco8SgclYBqUadWh"
       },
       "artists": [
         {
           "name": "Sergio Vargas",
           "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
-        },
-        {
-          "name": "Charlie Rodriguez",
-          "url": "https://open.spotify.com/artist/2HMIrqrn0is623MduW9coi"
         }
       ],
-      "duration_ms": 267720,
-      "name": "Los dise\u00f1adores",
-      "url": "https://open.spotify.com/track/6Rh8XA7epTYTIqWKQAXXjp"
+      "duration_ms": 270733,
+      "name": "Todo Aquello Que Escrib\u00ed",
+      "url": "https://open.spotify.com/track/44g3IuSUbFt0NmuFHZ9tJ0"
     }
   ],
   "unique_name": "Merengue Cl\u00e1sico",

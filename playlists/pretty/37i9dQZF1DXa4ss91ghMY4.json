@@ -1,6 +1,6 @@
 {
   "description": "Chegou a hora de sair da cama e deixar seu dia mais pop! LEVANTA",
-  "num_followers": 558871,
+  "num_followers": 558806,
   "original_name": "Pulando da Cama",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2026-09-04 03:00:36",
       "album": {
-        "name": "Therefore I Am",
-        "url": "https://open.spotify.com/album/5G58VVE9ub1KE01Mvbd8XM"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 174321,
-      "name": "Therefore I Am",
-      "url": "https://open.spotify.com/track/54bFM56PmE4YLRnqpW6Tha"
-    },
-    {
-      "added_at": "2026-09-04 03:00:36",
-      "album": {
         "name": "Build a Bitch",
         "url": "https://open.spotify.com/album/5YKqfiQdPYWJ0kZ5pttY5o"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 122772,
       "name": "Build a Bitch",
       "url": "https://open.spotify.com/track/7BoobGhD4x5K96Me0hqC8Q"
+    },
+    {
+      "added_at": "2026-09-04 03:00:36",
+      "album": {
+        "name": "Therefore I Am",
+        "url": "https://open.spotify.com/album/5G58VVE9ub1KE01Mvbd8XM"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 174321,
+      "name": "Therefore I Am",
+      "url": "https://open.spotify.com/track/54bFM56PmE4YLRnqpW6Tha"
     },
     {
       "added_at": "2026-09-04 03:00:36",
@@ -919,22 +919,6 @@
     {
       "added_at": "2026-09-04 03:00:36",
       "album": {
-        "name": "People Watching",
-        "url": "https://open.spotify.com/album/03HTFr18vhLwCLFq6kWHIw"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 158536,
-      "name": "People Watching",
-      "url": "https://open.spotify.com/track/4JeOesjcWWlprTAvucDSJX"
-    },
-    {
-      "added_at": "2026-09-04 03:00:36",
-      "album": {
         "name": "Love Of Your Life",
         "url": "https://open.spotify.com/album/1CD5H4mrIKActXVG1L1tY7"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 196170,
       "name": "Love Of Your Life",
       "url": "https://open.spotify.com/track/5iqfKcEGKhoeWTNqmZPiu3"
+    },
+    {
+      "added_at": "2026-09-04 03:00:36",
+      "album": {
+        "name": "People Watching",
+        "url": "https://open.spotify.com/album/03HTFr18vhLwCLFq6kWHIw"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 158536,
+      "name": "People Watching",
+      "url": "https://open.spotify.com/track/4JeOesjcWWlprTAvucDSJX"
     },
     {
       "added_at": "2026-09-04 03:00:36",

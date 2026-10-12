@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa22FVzx47m.md) - [plain]
 
 > Canciones te inspiran a ti y a todas las mamás.
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,920 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 451,957 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa22FVzx47m.md) - [plain]
 | 21 | [Me Voy](https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:07 |
 | 22 | [El Sol No Regresa](https://open.spotify.com/track/2awKQgW88iq9jFM54VaCAp) | [La Quinta Estacion](https://open.spotify.com/artist/7FZj349hdLfD6qzXkJLuAh) | [Flores De Alquiler](https://open.spotify.com/album/2IdCNfB4mJGsGCzGt6FnHs) | 3:48 |
 | 23 | [Mi Historia Entre Tus Dedos \- Remastered 2020](https://open.spotify.com/track/3UgduSS2bCMmatRox69u3g) | [Gianluca Grignani](https://open.spotify.com/artist/0H1InhXaXQPL1aj0mvHemU) | [Destino Paraiso \(25th Anniversary Edition / Remastered 2020\)](https://open.spotify.com/album/2gOsQbi07TN9EkLv0kybkt) | 5:08 |
-| 24 | [Labios Rotos \- En Vivo Desde México / 2010](https://open.spotify.com/track/1nULBrlzWatdcjA2ZctIMv) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [MTV Unplugged Música De Fondo \(Reissue/Live\)](https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV) | 4:03 |
-| 25 | [Eres](https://open.spotify.com/track/6kdCN6gTWLcLxmLXoUcwuI) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Cuatro Caminos](https://open.spotify.com/album/3ifA4OUPiT92YB4vYtAdVh) | 4:27 |
+| 24 | [Eres](https://open.spotify.com/track/6kdCN6gTWLcLxmLXoUcwuI) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Cuatro Caminos](https://open.spotify.com/album/3ifA4OUPiT92YB4vYtAdVh) | 4:27 |
+| 25 | [Labios Rotos \- En Vivo Desde México / 2010](https://open.spotify.com/track/1nULBrlzWatdcjA2ZctIMv) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [MTV Unplugged Música De Fondo \(Reissue/Live\)](https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV) | 4:03 |
 | 26 | [La Playa](https://open.spotify.com/track/2DNyZP4Py6f4zMASLBnIu6) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [El Viaje de Copperpot](https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu) | 4:07 |
 | 27 | [La flaca](https://open.spotify.com/track/2LsbizbOeNa4x6qsi2jAMb) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [La Flaca](https://open.spotify.com/album/6mD9lN6mqu4313KpY1RfIp) | 4:21 |
 | 28 | [Amiga mía](https://open.spotify.com/track/6kQYMqjobmB8MkWwa9OUyA) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Más](https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI) | 4:50 |
@@ -69,10 +69,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa22FVzx47m.md) - [plain]
 | 59 | [Intocable](https://open.spotify.com/track/1AAjTcCp9v9g8bQM4fJDiF) | [Aleks Syntek](https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi) | [Leccion De Vuelo](https://open.spotify.com/album/7LM15kMdKV1ZD0tg6HUOU4) | 3:39 |
 | 60 | [Me Gustas](https://open.spotify.com/track/7jtbRKtXtGtsJOBMaBo72W) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Secreto De Amor](https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV) | 3:27 |
 | 61 | [El ataque de las chicas cocodrilo](https://open.spotify.com/track/3quyxN3SapEsojxk1Uw10K) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [La Cagaste..\. Burt Lancaster](https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis) | 3:04 |
-| 62 | [Se fué](https://open.spotify.com/track/5oQadhkuEdEhtdVn0QceyZ) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Laura Pausini \- Spanish Version](https://open.spotify.com/album/3mAzRo03Jk2g3Vq1q382tm) | 4:40 |
-| 63 | [No Sé Tú](https://open.spotify.com/track/2DAsLftcRKP3iarCPmI1RY) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romance](https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP) | 3:49 |
-| 64 | [Ya Te Olvidé](https://open.spotify.com/track/4FsVB8msXzmemjJdTKUoal) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Para Mí](https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0) | 3:31 |
-| 65 | [Antes](https://open.spotify.com/track/0TIKTcvtKI26PNRvjyeHjP) | [Obie Bermudez](https://open.spotify.com/artist/0caLxEeeNrpE0noxdInoGe) | [Confesiones](https://open.spotify.com/album/6HP3XgMRhNov0v1qTetdOi) | 3:38 |
+| 62 | [Antes](https://open.spotify.com/track/0TIKTcvtKI26PNRvjyeHjP) | [Obie Bermudez](https://open.spotify.com/artist/0caLxEeeNrpE0noxdInoGe) | [Confesiones](https://open.spotify.com/album/6HP3XgMRhNov0v1qTetdOi) | 3:38 |
+| 63 | [Se fué](https://open.spotify.com/track/5oQadhkuEdEhtdVn0QceyZ) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Laura Pausini \- Spanish Version](https://open.spotify.com/album/3mAzRo03Jk2g3Vq1q382tm) | 4:40 |
+| 64 | [No Sé Tú](https://open.spotify.com/track/2DAsLftcRKP3iarCPmI1RY) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romance](https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP) | 3:49 |
+| 65 | [Ya Te Olvidé](https://open.spotify.com/track/4FsVB8msXzmemjJdTKUoal) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Para Mí](https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0) | 3:31 |
 | 66 | [La Mitad](https://open.spotify.com/track/63Zaf8Rci6eOUPqDQ4fUFx) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Por Primera Vez](https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I) | 2:57 |
 | 67 | [Quién Como Tú](https://open.spotify.com/track/4hfiDzgfMqtcOiUQpZidBQ) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Quién Como tú](https://open.spotify.com/album/6TkpmmUOcvoB76oZdX9f5D) | 3:31 |
 | 68 | [Tan Enamorados](https://open.spotify.com/track/5kxol5m6MfiJgahqyzbDRH) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Ricardo Montaner Con La London Metropolitan Orchestra](https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE) | 4:49 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa22FVzx47m.md) - [plain]
 | 94 | [Te Esperaba](https://open.spotify.com/track/22t10FTx8y3pC5fjLuKJ8K) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Guerra \(+ Sessions Recorded at Abbey Road\)](https://open.spotify.com/album/0sGgHg4QRIBACnetu6z45Z) | 3:33 |
 | 95 | [Yo Te Amo](https://open.spotify.com/track/2sKo5u6IppUEudIz265wYa) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Simplemente](https://open.spotify.com/album/5ktMfzQRYlQawZcnmIB1VW) | 4:48 |
 | 96 | [Amigos No por Favor \(Primera Fila\) \- En Vivo](https://open.spotify.com/track/2hyAEExgoEfxrVJKUJTqZV) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Primera Fila \(En Vivo\)](https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG) | 3:45 |
-| 97 | [A Puro Dolor \- Balada](https://open.spotify.com/track/28upjDakWVnHAgW2anm273) | [Son By Four](https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j) | [Son By 4](https://open.spotify.com/album/6FaDCE5IxXXMXVn3etukKq) | 3:30 |
-| 98 | [Si tú no estas](https://open.spotify.com/track/7CX6W4Mf98wMgX0izqRpAl) | [Rosana](https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0) | [Lunas rotas](https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg) | 4:16 |
+| 97 | [Si tú no estas](https://open.spotify.com/track/7CX6W4Mf98wMgX0izqRpAl) | [Rosana](https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0) | [Lunas rotas](https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg) | 4:16 |
+| 98 | [A Puro Dolor \- Balada](https://open.spotify.com/track/28upjDakWVnHAgW2anm273) | [Son By Four](https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j) | [Son By 4](https://open.spotify.com/album/6FaDCE5IxXXMXVn3etukKq) | 3:30 |
 | 99 | [Simplemente Amigos](https://open.spotify.com/track/10PwPpr7BBxYon3pwS7k5G) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Tierra De Nadie](https://open.spotify.com/album/3gV3uvJ1HSYVM88Tsh1DHi) | 3:47 |
 | 100 | [Me equivoqué](https://open.spotify.com/track/0mjwigpuvO4IAAMtoNoUyQ) | [María José](https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs) | [María José](https://open.spotify.com/album/3ZYCIP3Z0UcypRrTLghQ4M) | 3:59 |
 

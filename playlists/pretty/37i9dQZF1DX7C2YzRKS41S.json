@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de folk, jazz e MPB para acordar com o p\u00e9 na estrada.",
-  "num_followers": 151309,
+  "num_followers": 151323,
   "original_name": "Amanhecer na Estrada",
   "owner": {
     "name": "Spotify",
@@ -635,18 +635,18 @@
     {
       "added_at": "2025-10-25 00:54:25",
       "album": {
-        "name": "Cap\u00edtulo 1",
-        "url": "https://open.spotify.com/album/1e7D67Xm7d2bOIDdRlBJIR"
+        "name": "Todo Azul",
+        "url": "https://open.spotify.com/album/0PhIT1yRUYgCFLXAwEka7S"
       },
       "artists": [
         {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+          "name": "Capim Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
         }
       ],
-      "duration_ms": 177665,
-      "name": "Eu Sou Sentimental",
-      "url": "https://open.spotify.com/track/2ZnG4Lt6TlOKxJn9mq9KXD"
+      "duration_ms": 152952,
+      "name": "Todo Azul",
+      "url": "https://open.spotify.com/track/1b4pZ2Z718s9rO7uEqoVHB"
     },
     {
       "added_at": "2025-10-25 00:54:25",
@@ -667,18 +667,18 @@
     {
       "added_at": "2025-10-25 00:54:25",
       "album": {
-        "name": "Todo Azul",
-        "url": "https://open.spotify.com/album/0PhIT1yRUYgCFLXAwEka7S"
+        "name": "Cap\u00edtulo 1",
+        "url": "https://open.spotify.com/album/1e7D67Xm7d2bOIDdRlBJIR"
       },
       "artists": [
         {
-          "name": "Capim Lim\u00e3o",
-          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
         }
       ],
-      "duration_ms": 152952,
-      "name": "Todo Azul",
-      "url": "https://open.spotify.com/track/1b4pZ2Z718s9rO7uEqoVHB"
+      "duration_ms": 177665,
+      "name": "Eu Sou Sentimental",
+      "url": "https://open.spotify.com/track/2ZnG4Lt6TlOKxJn9mq9KXD"
     },
     {
       "added_at": "2025-10-25 00:54:25",
@@ -699,26 +699,6 @@
     {
       "added_at": "2025-10-25 00:54:25",
       "album": {
-        "name": "DUDA BEAT & NANDO REIS",
-        "url": "https://open.spotify.com/album/4VbIJk7efjjzApqlSeEIra"
-      },
-      "artists": [
-        {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
-        },
-        {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        }
-      ],
-      "duration_ms": 262550,
-      "name": "O Segundo Sol",
-      "url": "https://open.spotify.com/track/4B1A052R2n4HGE9JeieF5K"
-    },
-    {
-      "added_at": "2025-10-25 00:54:25",
-      "album": {
         "name": "N\u00e3o Tem Lua",
         "url": "https://open.spotify.com/album/2TKdvdufRf6yTMPnjAwZMh"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 179843,
       "name": "N\u00e3o Tem Lua",
       "url": "https://open.spotify.com/track/4yV6L8Ow55gGYWrHvPbbrc"
+    },
+    {
+      "added_at": "2025-10-25 00:54:25",
+      "album": {
+        "name": "DUDA BEAT & NANDO REIS",
+        "url": "https://open.spotify.com/album/4VbIJk7efjjzApqlSeEIra"
+      },
+      "artists": [
+        {
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+        },
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "duration_ms": 262550,
+      "name": "O Segundo Sol",
+      "url": "https://open.spotify.com/track/4B1A052R2n4HGE9JeieF5K"
     },
     {
       "added_at": "2025-10-25 00:54:25",

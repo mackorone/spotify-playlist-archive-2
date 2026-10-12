@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uPi2roRUwU.md) - [plain]
 
 > Diese Beats machen garantiert gute Laune!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,338,427 likes - 60 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,338,595 likes - 60 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uPi2roRUwU.md) - [plain]
 | 49 | [Your Body](https://open.spotify.com/track/1NKjc6bRHutPoaVtYclFC3) | [Marten Lou](https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK) | [Your Body](https://open.spotify.com/album/7BILrDqY2kO1SOhX2MUJVN) | 3:48 |
 | 50 | [Loco Loco](https://open.spotify.com/track/1mZnxNzp17JrPyzDzkoiiC) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ) | [Loco Loco](https://open.spotify.com/album/5TENfmB9MmYxC6nmKvJ0XJ) | 2:16 |
 | 51 | [Forever Young](https://open.spotify.com/track/3bg2qahpZmsg5wV2EMPXIk) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Forever Young](https://open.spotify.com/album/5a450MS1eKGQQAsqgvsZ6J) | 2:36 |
-| 52 | [Whatever](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Whatever](https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l) | 2:58 |
-| 53 | [Location](https://open.spotify.com/track/6Ilomcr9iLplsgAvZjHkJP) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Location](https://open.spotify.com/album/12EcQ6xHwYTygFo24xncu1) | 2:28 |
+| 52 | [Location](https://open.spotify.com/track/6Ilomcr9iLplsgAvZjHkJP) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Location](https://open.spotify.com/album/12EcQ6xHwYTygFo24xncu1) | 2:28 |
+| 53 | [Whatever](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Whatever](https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l) | 2:58 |
 | 54 | [Alibi \(feat\. Rudimental\)](https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Alibi \(feat\. Rudimental\)](https://open.spotify.com/album/3Ku8LDPYg53Kh59amfFWjL) | 3:04 |
 | 55 | [What If?](https://open.spotify.com/track/3780gnH5pMc8RXnectbTx6) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL) | [What If?](https://open.spotify.com/album/6N7yoTjgnuwdWTuScsY9eH) | 2:45 |
 | 56 | [There She Goes](https://open.spotify.com/track/2aSjWonALEwE3wTpjYMvc7) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [MOONLGHT](https://open.spotify.com/artist/0b9SpFqsoxkyoTbZqLlzSs), [The La's](https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT) | [There She Goes](https://open.spotify.com/album/3gHDnPPOgXcueJrL1r03q2) | 2:01 |

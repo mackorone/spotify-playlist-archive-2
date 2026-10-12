@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 
 > A mix of punk rock to get you through your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 542,476 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 542,474 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,18 +74,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 | 64 | [Worries](https://open.spotify.com/track/5YtpGJgS6vBDMMaguVeRDG) | [MxPx](https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9) | [Worries](https://open.spotify.com/album/0lR5SeL2xHTOEHh7a4aDoI) | 2:23 |
 | 65 | [Do The Paranoid Style](https://open.spotify.com/track/2kT4Xbm7e82XVnuPcU0fu7) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Age Of Unreason](https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz) | 1:45 |
 | 66 | [HOLIDAY](https://open.spotify.com/track/4kdJNsV5OrEkSJ1hfDKeKS) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [TURNSTILE LOVE CONNECTION](https://open.spotify.com/album/4Dx7TI0kECk72u90341I25) | 2:52 |
-| 67 | [Brick Wall](https://open.spotify.com/track/7wU0SnptDXFEwyQbrSiSLF) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Brick Wall](https://open.spotify.com/album/4r9I2tBybOiKUqPkoKvPOA) | 3:30 |
-| 68 | [All My Friends are Nobodies](https://open.spotify.com/track/2iFFcHvg5F7a8thEKo65g5) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders](https://open.spotify.com/album/3JKg0soC1sRle2yPenQa2j) | 3:03 |
+| 67 | [All My Friends are Nobodies](https://open.spotify.com/track/2iFFcHvg5F7a8thEKo65g5) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders](https://open.spotify.com/album/3JKg0soC1sRle2yPenQa2j) | 3:03 |
+| 68 | [Brick Wall](https://open.spotify.com/track/7wU0SnptDXFEwyQbrSiSLF) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Brick Wall](https://open.spotify.com/album/4r9I2tBybOiKUqPkoKvPOA) | 3:30 |
 | 69 | [Hit Like A Girl](https://open.spotify.com/track/3kfghhJVXyT2W2TlP2Vsw9) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Hit Like A Girl](https://open.spotify.com/album/4l3QmwKvZ9TR1lSnJvT6E0) | 3:59 |
 | 70 | [Up and Comer](https://open.spotify.com/track/469d5BNae99knRggeaqA0n) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Letter to Self](https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ) | 3:46 |
 | 71 | [Bored of Being Sad](https://open.spotify.com/track/2LUvkorPDO3n8xs6NEXDFY) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Bored of Being Sad](https://open.spotify.com/album/268knqkvUpS3Q9TnpuhSoT) | 3:20 |
-| 72 | [Criminal Energy](https://open.spotify.com/track/1sqEf1JGRZlxQBpSbvLcC0) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Surviving](https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI) | 3:11 |
-| 73 | [When Both Sides Suck, We're All Winners](https://open.spotify.com/track/6gWWwvoKdulgFX4I1wMQLQ) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders](https://open.spotify.com/album/6raNo19l2GfDMaquJmYAVr) | 3:03 |
+| 72 | [When Both Sides Suck, We're All Winners](https://open.spotify.com/track/6gWWwvoKdulgFX4I1wMQLQ) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders](https://open.spotify.com/album/6raNo19l2GfDMaquJmYAVr) | 3:03 |
+| 73 | [Criminal Energy](https://open.spotify.com/track/1sqEf1JGRZlxQBpSbvLcC0) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Surviving](https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI) | 3:11 |
 | 74 | [survivors guilt//](https://open.spotify.com/track/7cOY6vXmsZS85mSCAaa5rF) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [SURVIVORS GUILT: THE MIXTAPE//](https://open.spotify.com/album/2NHwRObEyab5p4DA6tScNY) | 2:17 |
 | 75 | [WEIRDO](https://open.spotify.com/track/46WTvn5j8rx0JRB8BMF2YQ) | [GANG!](https://open.spotify.com/artist/50DgH5MV7YHdaQ3behXw4C) | [WEIRDO](https://open.spotify.com/album/53RO0O7zjPj1yJuLegkzoz) | 2:35 |
 | 76 | [Bad Habits](https://open.spotify.com/track/43t2TYUzhb3FpM7Bn2UyJL) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug), [Intervals](https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl) | [A Beautiful Place To Drown](https://open.spotify.com/album/2mEJTFHUOCEv4QFNTQv2Rg) | 2:53 |
-| 77 | [Act Violently](https://open.spotify.com/track/7ly7Em7Mwj89WKKSQKhOBK) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Act Violently](https://open.spotify.com/album/5z8XoC7FxcuPfT2PrT0xEK) | 2:51 |
-| 78 | [What Are We Standing For](https://open.spotify.com/track/0TilqqFE4PTarkBCsx3udk) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [What Are We Standing For](https://open.spotify.com/album/4tuKq2JV7r88OLVORQMWKK) | 2:53 |
+| 77 | [What Are We Standing For](https://open.spotify.com/track/0TilqqFE4PTarkBCsx3udk) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [What Are We Standing For](https://open.spotify.com/album/4tuKq2JV7r88OLVORQMWKK) | 2:53 |
+| 78 | [Act Violently](https://open.spotify.com/track/7ly7Em7Mwj89WKKSQKhOBK) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Act Violently](https://open.spotify.com/album/5z8XoC7FxcuPfT2PrT0xEK) | 2:51 |
 | 79 | [Waiting Room](https://open.spotify.com/track/3I9nTUGJ90pe9mDpnSob2g) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Waiting Room](https://open.spotify.com/album/74RDXqY90ZT8zjsgfvZNgS) | 3:14 |
 | 80 | [Minds Like Minefields](https://open.spotify.com/track/4hKsDk5XzS7oYi0aWGIBvH) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [E.P.](https://open.spotify.com/album/7f6VPDEapsQExFKB58VQbY) | 3:15 |
 | 81 | [Fools Gold](https://open.spotify.com/track/2dOPwODAXiOrkuFXLMTGd5) | [Calling All Captains](https://open.spotify.com/artist/38vVrIl7XQVwKEg9lvuygG) | [Nothing Grows Here](https://open.spotify.com/album/3KtiLWd9uMx5dVe3n2nW2p) | 4:16 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 | 92 | [P.A.W](https://open.spotify.com/track/3Wtc6XdHsI4QdKaGYSbApL) | [Radkey](https://open.spotify.com/artist/1egsOeSvcQyacni1rL6c4C) | [No Strange Cats](https://open.spotify.com/album/2ffrZVJsIs74lIbsMbRtLp) | 2:40 |
 | 93 | [Placement](https://open.spotify.com/track/3ZmYRJVR8NZAVg7X4zt4eb) | [Letdown](https://open.spotify.com/artist/65Fz4UMimsdL2ktdDOLpej) | [The Bottom](https://open.spotify.com/album/1YZf6wnBIwkvZzNkNTa4ZC) | 3:02 |
 | 94 | [Better Off](https://open.spotify.com/track/0iYL1bvagzsI2Wfxp3Io7U) | [7 Minutes In Heaven](https://open.spotify.com/artist/64wpPiaEfYzgOVjm6vd5XH) | [Symmetry](https://open.spotify.com/album/3FUKruL6t3Ie0DIhzD1AbF) | 3:15 |
-| 95 | [Worry Seed](https://open.spotify.com/track/3yWbedbZB6qp7FALvp4Q7C) | [Free Throw](https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc) | [Piecing It Together](https://open.spotify.com/album/2OWssmFogmnwTnzynsTNcC) | 2:48 |
-| 96 | [Strangers](https://open.spotify.com/track/1IUx55PX840eqZBNRNRXCp) | [In Her Own Words](https://open.spotify.com/artist/3NBHNlkwYabSLvnisILPSI) | [Unfamiliar \(Deluxe Edition\)](https://open.spotify.com/album/1TvmCroupKSBjSkaHbLDeo) | 3:44 |
-| 97 | [Approachable](https://open.spotify.com/track/5GtTdg5XdVYzp0sQjQvkRm) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Approachable](https://open.spotify.com/album/5LabQRkQ7ULkIAm2mZktMl) | 4:00 |
+| 95 | [Approachable](https://open.spotify.com/track/5GtTdg5XdVYzp0sQjQvkRm) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Approachable](https://open.spotify.com/album/5LabQRkQ7ULkIAm2mZktMl) | 4:00 |
+| 96 | [Worry Seed](https://open.spotify.com/track/3yWbedbZB6qp7FALvp4Q7C) | [Free Throw](https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc) | [Piecing It Together](https://open.spotify.com/album/2OWssmFogmnwTnzynsTNcC) | 2:48 |
+| 97 | [Strangers](https://open.spotify.com/track/1IUx55PX840eqZBNRNRXCp) | [In Her Own Words](https://open.spotify.com/artist/3NBHNlkwYabSLvnisILPSI) | [Unfamiliar \(Deluxe Edition\)](https://open.spotify.com/album/1TvmCroupKSBjSkaHbLDeo) | 3:44 |
 | 98 | [Stiff Upper Lip](https://open.spotify.com/track/4vOs2zpYvQIaLp1zfU5xJz) | [SOAPBOX](https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO) | [HAWD THAT](https://open.spotify.com/album/7IBKsN43AlunQwU7scSCuA) | 2:34 |
 | 99 | [Bland Is The New Black](https://open.spotify.com/track/2L74jTvqQv8vJJesWuwft3) | [Clowns](https://open.spotify.com/artist/2TuGrkN9bcjWU1GcrUarYn) | [Nature/Nurture](https://open.spotify.com/album/0fRg4WnrY1zcqCPrglnSzO) | 1:47 |
-| 100 | [Masquerade](https://open.spotify.com/track/2x3h75zzl2IudkzFbG3UuV) | [Mest](https://open.spotify.com/artist/1ToMIJExb7R5Klsff81NsK) | [Masquerade](https://open.spotify.com/album/35jjqAbXp2J7HUhI2oJTIf) | 3:36 |
+| 100 | [Don't Overdose and Drive](https://open.spotify.com/track/2t2WL5SXmnjA9UPSeiUOGn) | [Happy.](https://open.spotify.com/artist/40mwE0EKsKcxbGdUSxkwUg) | [Don't Overdose and Drive](https://open.spotify.com/album/5CxyTZiReRNbpfIUMdSNLO) | 2:40 |
 
 Snapshot ID: `AAAAAO/brRZrgrT7wsvv73mUpgXuoLSu`

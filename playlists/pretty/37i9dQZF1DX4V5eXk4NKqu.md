@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 
 > The best of Latin Indie today, featuring rusowsky.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,416 likes - 58 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,415 likes - 58 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 15 | [sueña lindo, corazón](https://open.spotify.com/track/0uq0OrFNaOhCDOlySbYTUx) | [Macario Martínez](https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4) | [sueña lindo, corazón / nuestra casa en el mar](https://open.spotify.com/album/7t3GAAbmZEmkiUlN7mss28) | 2:02 |
 | 16 | [Vida Loca](https://open.spotify.com/track/5dNky6SuEfNBan5perlSGl) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX) | [FREE SPIRITS](https://open.spotify.com/album/2lbCB2zwGvqqn7IkRQGaEo) | 2:35 |
 | 17 | [BBY ROMEO](https://open.spotify.com/track/1QwfEonEHRjLItRU7kISSe) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [BBY ROMEO](https://open.spotify.com/album/6MNveBkoPPQgHQfM560Zcz) | 3:18 |
-| 18 | [Los Paracaídas](https://open.spotify.com/track/6UVEZ6gXAXkcUK5eKpLrHl) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Los Paracaídas](https://open.spotify.com/album/0qmMtLIVz5a9l1PGAba0XF) | 3:09 |
+| 18 | [BABIECA!](https://open.spotify.com/track/61pHHYNCngD1S2t0k7ew3e) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [BABIECA!](https://open.spotify.com/album/6U1EaFgDcc3qNjCDsVcH7e) | 2:46 |
 | 19 | [BRUJERIA!](https://open.spotify.com/track/5PAyf37gvhLctCiTQfBOO9) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [Bodhiria](https://open.spotify.com/album/3fVXh36WypsZR2JGathvkq) | 2:44 |
-| 20 | [BABIECA!](https://open.spotify.com/track/61pHHYNCngD1S2t0k7ew3e) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [BABIECA!](https://open.spotify.com/album/6U1EaFgDcc3qNjCDsVcH7e) | 2:46 |
+| 20 | [Los Paracaídas](https://open.spotify.com/track/6UVEZ6gXAXkcUK5eKpLrHl) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Los Paracaídas](https://open.spotify.com/album/0qmMtLIVz5a9l1PGAba0XF) | 3:09 |
 | 21 | [No Me Sirve Más](https://open.spotify.com/track/3H5zeP0WbEuk77bUwcOqcZ) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX) | [No Me Sirve Más](https://open.spotify.com/album/79TfVmx8S2A6aDGRUYDjRk) | 3:04 |
 | 22 | [Una Playa En Nayarit](https://open.spotify.com/track/3OFqCKshLpPOH7198L3YyP) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [El Show Debe Continuar](https://open.spotify.com/album/2hAufwA5GwxAcZ6mQkgQai) | 3:34 |
 | 23 | [Se Me Va](https://open.spotify.com/track/3k8cy0mnztuAVC267hrLLm) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Se Me Va](https://open.spotify.com/album/5nVcYNglS9CCWlBgent3Nf) | 3:33 |

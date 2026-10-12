@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3LRQHA0f13JHI5UZH2JLsz">Spencer Stewart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 794 likes - 151 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 795 likes - 151 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 | 63 | [if jesus saves, she's my type](https://open.spotify.com/track/3dmsQjlbcyyn1IUo9dSAJE) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Rx](https://open.spotify.com/album/1PhcZ4Ov6ZxuaUZF8r9rbk) | 3:37 |
 | 64 | [Frank](https://open.spotify.com/track/7EMHL2fTAwSyZA7Ga4r8qg) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [It Was Divine](https://open.spotify.com/album/6aZ4ZtDzQNNIOFeHUj51No) | 3:34 |
 | 65 | [death wish](https://open.spotify.com/track/68kc71kxyfuWFLTheYyZlO) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [death wish](https://open.spotify.com/album/3JflsWk7Mj8FVcwvGGkiPf) | 2:40 |
-| 66 | [alive](https://open.spotify.com/track/2CRs8EpAcyaEGounRabYQI) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [our little angel \- EP](https://open.spotify.com/album/1bbO5BrzT1CqhZuGh5qHn6) | 3:02 |
-| 67 | [Reputation \(feat\. Dominic Fike\)](https://open.spotify.com/track/2voFM8iCndPGWuYtHaOPTc) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:55 |
+| 66 | [Reputation \(feat\. Dominic Fike\)](https://open.spotify.com/track/2voFM8iCndPGWuYtHaOPTc) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:55 |
+| 67 | [alive](https://open.spotify.com/track/2CRs8EpAcyaEGounRabYQI) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [our little angel \- EP](https://open.spotify.com/album/1bbO5BrzT1CqhZuGh5qHn6) | 3:02 |
 | 68 | [Days](https://open.spotify.com/track/1ObS8I1dTlxdYM59TsZAmi) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 4:03 |
 | 69 | [Dream Girl](https://open.spotify.com/track/4YUkUocIFAeZznwprEAsxM) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:39 |
 | 70 | [rx](https://open.spotify.com/track/273h36reiuZ6Q92u4cmfID) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Rx](https://open.spotify.com/album/0pzu94TJ8IufDvf416cdfO) | 3:20 |
@@ -106,8 +106,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 | 96 | [Memo Blue](https://open.spotify.com/track/1xfzDIQFRs47bD8wwUy5Ve) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [It Was Divine](https://open.spotify.com/album/6aZ4ZtDzQNNIOFeHUj51No) | 2:06 |
 | 97 | [No Interference](https://open.spotify.com/track/2MKqF5RzJgIUDEFdVPFSuj) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Moongate](https://open.spotify.com/album/0teV5HNso0WGi7EwyASosR) | 3:47 |
 | 98 | [Cherry On Top](https://open.spotify.com/track/6SXNnuYAZADpmSsmDfcGYr) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sincerely: P.S.](https://open.spotify.com/album/0lnZiBZPbGiBuNrMy25Yux) | 3:06 |
-| 99 | [How Do I Know?](https://open.spotify.com/track/4mzRgafmXg0S1FBwGdwFXC) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [How Do I Know?](https://open.spotify.com/album/2hsNeLymE4V8YTHPWLaAxf) | 3:18 |
-| 100 | [Juicy](https://open.spotify.com/track/4sIhUC7HG2VWAsuQPwIrXw) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Frequency Of Love](https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw) | 3:06 |
+| 99 | [Juicy](https://open.spotify.com/track/4sIhUC7HG2VWAsuQPwIrXw) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Frequency Of Love](https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw) | 3:06 |
+| 100 | [How Do I Know?](https://open.spotify.com/track/4mzRgafmXg0S1FBwGdwFXC) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [How Do I Know?](https://open.spotify.com/album/2hsNeLymE4V8YTHPWLaAxf) | 3:18 |
 | 101 | [stripclub music](https://open.spotify.com/track/1LXSFybvpHuMEcZqq4c1xR) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Rx](https://open.spotify.com/album/1PhcZ4Ov6ZxuaUZF8r9rbk) | 2:54 |
 | 102 | [Don't Take Me Home](https://open.spotify.com/track/5sgS3JUiUA3E4dYlmp6U0z) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Solitude](https://open.spotify.com/album/23PT15hHxagTUIyhCC97bY) | 3:54 |
 | 103 | [save a seat](https://open.spotify.com/track/3M9WDUmPCwpkwoItsRlOT2) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Rx](https://open.spotify.com/album/1PhcZ4Ov6ZxuaUZF8r9rbk) | 3:07 |
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 | 150 | [Free Fall \- Edit](https://open.spotify.com/track/5rQtSoeRRO4y3d54z1Kd1f) | [Beckah Amani](https://open.spotify.com/artist/6AlUh97NNEBLo3OqYORyIi) | [Free Fall](https://open.spotify.com/album/4df4LmPcayUQczAkV63sn4) | 3:01 |
 | 151 | [Mockingbird](https://open.spotify.com/track/1AlxrPQuJNXOl3wQOXyv68) | [Paul Dally](https://open.spotify.com/artist/6OQd6IInCegvnBJ3eWeokE) | [Rave](https://open.spotify.com/album/4ETd0GtmlvoPnD8woGy2sX) | 3:28 |
 
-Snapshot ID: `AcemkAAAAACipw0jmdtnIi7SX9s40Bqu`
+Snapshot ID: `AcesbAAAAADZ3AwqVPJdeX+XBKzLzawH`

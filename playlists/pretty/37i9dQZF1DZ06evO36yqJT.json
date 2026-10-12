@@ -1,6 +1,6 @@
 {
   "description": "This is Shirley Caesar. The essential tracks, all in one playlist.",
-  "num_followers": 6126,
+  "num_followers": 6129,
   "original_name": "This Is Shirley Caesar",
   "owner": {
     "name": "Spotify",
@@ -111,22 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good God",
-        "url": "https://open.spotify.com/album/4iUreslNNFv2gNQdjuBlzt"
-      },
-      "artists": [
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        }
-      ],
-      "duration_ms": 289520,
-      "name": "God Will Make A Way",
-      "url": "https://open.spotify.com/track/0OYXtAe3OZkq2XpYeDid2n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fill This House",
         "url": "https://open.spotify.com/album/5XanFeMZaQWVLucCxyyMHC"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 280506,
       "name": "He'll Do It Again",
       "url": "https://open.spotify.com/track/054nuYMIq228KvP0jUvr8a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good God",
+        "url": "https://open.spotify.com/album/4iUreslNNFv2gNQdjuBlzt"
+      },
+      "artists": [
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "duration_ms": 289520,
+      "name": "God Will Make A Way",
+      "url": "https://open.spotify.com/track/0OYXtAe3OZkq2XpYeDid2n"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fill This House",
-        "url": "https://open.spotify.com/album/5XanFeMZaQWVLucCxyyMHC"
-      },
-      "artists": [
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        }
-      ],
-      "duration_ms": 299078,
-      "name": "Prayer Changes Things",
-      "url": "https://open.spotify.com/track/0ZvANWHiYL2knzAqIF4exv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Over and Over",
         "url": "https://open.spotify.com/album/2uaSPer8kMZY6iX3wJDr7Q"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 233778,
       "name": "Over and Over",
       "url": "https://open.spotify.com/track/4D2B0g6vcTWSrVLKIojBuq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fill This House",
+        "url": "https://open.spotify.com/album/5XanFeMZaQWVLucCxyyMHC"
+      },
+      "artists": [
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "duration_ms": 299078,
+      "name": "Prayer Changes Things",
+      "url": "https://open.spotify.com/track/0ZvANWHiYL2knzAqIF4exv"
     },
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shirley Caesar Live .... He Will Come",
-        "url": "https://open.spotify.com/album/4gFxfVqXsSFolfA5MHosnL"
-      },
-      "artists": [
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        }
-      ],
-      "duration_ms": 288800,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/6ia2r9iAhIZ0mmRH8Tgq5k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good God",
         "url": "https://open.spotify.com/album/4iUreslNNFv2gNQdjuBlzt"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 400013,
       "name": "When You Pray God Answers",
       "url": "https://open.spotify.com/track/4mwePLS7333YpCOEhLsk35"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shirley Caesar Live .... He Will Come",
+        "url": "https://open.spotify.com/album/4gFxfVqXsSFolfA5MHosnL"
+      },
+      "artists": [
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "duration_ms": 288800,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/6ia2r9iAhIZ0mmRH8Tgq5k"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shirley Caesar: Her Very Best",
-        "url": "https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1"
-      },
-      "artists": [
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        }
-      ],
-      "duration_ms": 220666,
-      "name": "The Lord Will Make a Way",
-      "url": "https://open.spotify.com/track/6v4owQIaYIlZ4MVAdpcsC2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hymns",
         "url": "https://open.spotify.com/album/1mVrWsQdeFn2EPFJGOdb6e"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 178333,
       "name": "There Is Power in the Blood",
       "url": "https://open.spotify.com/track/6DNpzYsh4UzvHlnUwMa0Ks"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shirley Caesar: Her Very Best",
+        "url": "https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1"
+      },
+      "artists": [
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "duration_ms": 220666,
+      "name": "The Lord Will Make a Way",
+      "url": "https://open.spotify.com/track/6v4owQIaYIlZ4MVAdpcsC2"
     },
     {
       "added_at": null,
@@ -719,6 +719,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Good God",
+        "url": "https://open.spotify.com/album/4iUreslNNFv2gNQdjuBlzt"
+      },
+      "artists": [
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        },
+        {
+          "name": "The Thompson Community Singers",
+          "url": "https://open.spotify.com/artist/1MWWUdLJVnU7HryE29JNZI"
+        }
+      ],
+      "duration_ms": 354040,
+      "name": "Good God",
+      "url": "https://open.spotify.com/track/3G44iMDHusN8H9kcaXHXVS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shirley Caesar and Friends",
         "url": "https://open.spotify.com/album/34nMXtPJ99Ub3uw0BA60hW"
       },
@@ -739,26 +759,6 @@
       "duration_ms": 302120,
       "name": "I Know It Was the Blood",
       "url": "https://open.spotify.com/track/6Id2UIwITk6iJS9pqP4Dxa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Good God",
-        "url": "https://open.spotify.com/album/4iUreslNNFv2gNQdjuBlzt"
-      },
-      "artists": [
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        },
-        {
-          "name": "The Thompson Community Singers",
-          "url": "https://open.spotify.com/artist/1MWWUdLJVnU7HryE29JNZI"
-        }
-      ],
-      "duration_ms": 354040,
-      "name": "Good God",
-      "url": "https://open.spotify.com/track/3G44iMDHusN8H9kcaXHXVS"
     },
     {
       "added_at": null,
@@ -843,8 +843,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Golden Gospel Classics",
-        "url": "https://open.spotify.com/album/7xpGOpE9s0PU9UmQAomNX5"
+        "name": "Shirley Caesar: Her Very Best",
+        "url": "https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1"
       },
       "artists": [
         {
@@ -852,9 +852,9 @@
           "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
         }
       ],
-      "duration_ms": 212895,
-      "name": "Don't Be Afraid",
-      "url": "https://open.spotify.com/track/2HoSLr1uEWKK7GUDJn3ZEO"
+      "duration_ms": 293400,
+      "name": "Lord Let Your Spirit Fall On Me",
+      "url": "https://open.spotify.com/track/6sUkxHGbYkjOEckag5qrWb"
     }
   ],
   "unique_name": "This Is Shirley Caesar",

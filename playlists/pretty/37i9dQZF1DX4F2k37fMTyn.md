@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4F2k37fMTyn.md) - [plain]
 
 > 女性ポップアイコンを一つのプレイリストに。cover: Victoria Monét
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,425 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,427 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,12 +46,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4F2k37fMTyn.md) - [plain]
 | 36 | [drop dead](https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drop dead](https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct) | 3:44 |
 | 37 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 |
 | 38 | [Touch](https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Touch](https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv) | 2:09 |
-| 39 | [Midnight Sun](https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki) | 3:09 |
-| 40 | [brand new chanel$](https://open.spotify.com/track/3FZoov0ORtnr8TznSNI1y2) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [brand new chanel$](https://open.spotify.com/album/75NIUjwFzYkzok7nRwNurg) | 3:58 |
+| 39 | [brand new chanel$](https://open.spotify.com/track/3FZoov0ORtnr8TznSNI1y2) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [brand new chanel$](https://open.spotify.com/album/75NIUjwFzYkzok7nRwNurg) | 3:58 |
+| 40 | [Midnight Sun](https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki) | 3:09 |
 | 41 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 |
-| 42 | [Less than a Lover](https://open.spotify.com/track/19UnXjpLshSLobPspdyxlD) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Less than a Lover](https://open.spotify.com/album/3YelZbxAGXdkKUP6pMXsrn) | 2:25 |
-| 43 | [CLICK](https://open.spotify.com/track/1zyNO73bPNPC6KBi3raNmZ) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [CLICK](https://open.spotify.com/album/6wj16ihEX2pPqKzbtCZ0N3) | 2:39 |
-| 44 | [AGUA](https://open.spotify.com/track/5UIyNcyxW33PXKyf86GJW9) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [AGUA](https://open.spotify.com/album/5Y5rJEiGpeNsSHCEwgKGIF) | 3:11 |
+| 42 | [AGUA](https://open.spotify.com/track/5UIyNcyxW33PXKyf86GJW9) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [AGUA](https://open.spotify.com/album/5Y5rJEiGpeNsSHCEwgKGIF) | 3:11 |
+| 43 | [Less than a Lover](https://open.spotify.com/track/19UnXjpLshSLobPspdyxlD) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Less than a Lover](https://open.spotify.com/album/3YelZbxAGXdkKUP6pMXsrn) | 2:25 |
+| 44 | [CLICK](https://open.spotify.com/track/1zyNO73bPNPC6KBi3raNmZ) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [CLICK](https://open.spotify.com/album/6wj16ihEX2pPqKzbtCZ0N3) | 2:39 |
 | 45 | [serena joy](https://open.spotify.com/track/6LJYBq1h5GElQO4sKFdRA9) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [serena joy](https://open.spotify.com/album/2g6XbbyPIPRMa2P1ildhza) | 3:05 |
 | 46 | [Tears](https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:40 |
 | 47 | [Fortnight \(feat\. Post Malone\)](https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:48 |

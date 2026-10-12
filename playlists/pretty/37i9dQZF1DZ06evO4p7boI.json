@@ -1,12 +1,12 @@
 {
   "description": "This is NAV. The essential tracks, all in one playlist.",
-  "num_followers": 96362,
+  "num_followers": 96365,
   "original_name": "This Is NAV",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asbdAAAAAAA5HCWRx2LNPF6ooo/IdJq7",
+  "snapshot_id": "asmAAAAAAACO9TG7AGR26Q9LZoHalY7x",
   "tracks": [
     {
       "added_at": null,
@@ -419,26 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "POP MY SHIT",
-        "url": "https://open.spotify.com/album/0NwoimNvEBNqeCaBOlCyGJ"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
-          "name": "Frost",
-          "url": "https://open.spotify.com/artist/7C45GcWNQ1SReRiaiL7hbK"
-        }
-      ],
-      "duration_ms": 113333,
-      "name": "POP MY SHIT",
-      "url": "https://open.spotify.com/track/5QLDWLnjXSuolYK8NC72Fx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Perfect Timing",
         "url": "https://open.spotify.com/album/6VFETcEfjilkAng073KLt9"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 265373,
       "name": "Minute",
       "url": "https://open.spotify.com/track/3JWh19WsndEFg0UFRFeTiU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "POP MY SHIT",
+        "url": "https://open.spotify.com/album/0NwoimNvEBNqeCaBOlCyGJ"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Frost",
+          "url": "https://open.spotify.com/artist/7C45GcWNQ1SReRiaiL7hbK"
+        }
+      ],
+      "duration_ms": 113333,
+      "name": "POP MY SHIT",
+      "url": "https://open.spotify.com/track/5QLDWLnjXSuolYK8NC72Fx"
     },
     {
       "added_at": null,
@@ -807,6 +807,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "OMW2 REXDALE",
+        "url": "https://open.spotify.com/album/1hDf16zDN5SjIoMuy6fzB8"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 114560,
+      "name": "BURBS",
+      "url": "https://open.spotify.com/track/3id4YOaR7JBKJUPOE9VgaE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Can't Stop Now",
         "url": "https://open.spotify.com/album/030a4ObLC1PdluepsqarAM"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 189124,
       "name": "Chosen Ones",
       "url": "https://open.spotify.com/track/49jnvocDtzb8PETrMdv5u8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "OMW2 REXDALE",
-        "url": "https://open.spotify.com/album/1hDf16zDN5SjIoMuy6fzB8"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 114560,
-      "name": "BURBS",
-      "url": "https://open.spotify.com/track/3id4YOaR7JBKJUPOE9VgaE"
     },
     {
       "added_at": null,
@@ -872,13 +872,17 @@
           "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
         },
         {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 164937,
-      "name": "Interstellar (with Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/5HRXn4V1qL4CFNizMsFrTy"
+      "duration_ms": 189320,
+      "name": "One Time (with Don Toliver feat. Future)",
+      "url": "https://open.spotify.com/track/0WA4APfzK7Y1pdzhvyhSwD"
     },
     {
       "added_at": null,
@@ -944,17 +948,13 @@
           "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
         },
         {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         }
       ],
-      "duration_ms": 189320,
-      "name": "One Time (with Don Toliver feat. Future)",
-      "url": "https://open.spotify.com/track/0WA4APfzK7Y1pdzhvyhSwD"
+      "duration_ms": 164937,
+      "name": "Interstellar (with Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/5HRXn4V1qL4CFNizMsFrTy"
     },
     {
       "added_at": null,

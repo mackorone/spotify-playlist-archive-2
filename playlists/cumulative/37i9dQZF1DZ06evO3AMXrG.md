@@ -4,7 +4,7 @@
 
 > This is Cultura Profética\. The essential tracks, all in one playlist.
 
-122 songs - 9 hr 59 min
+126 songs - 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,12 +25,14 @@
 | [Caracoles](https://open.spotify.com/track/67w1H4Wb3IX5yX7cIAs6DQ) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Caracoles](https://open.spotify.com/album/71v6RtyqohRd1AVAG4nmzi) | 4:40 | 2025-05-22 | 2025-07-09 |
 | [Caracoles](https://open.spotify.com/track/6GaB5hqbxFqUbKUcOlGT5h) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Sobrevolando](https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli) | 4:40 | 2022-05-25 | 2024-06-06 |
 | [dame la verde](https://open.spotify.com/track/5GjGjRKsnqpc9buR6Yhezg) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Marcriá](https://open.spotify.com/album/40x1qnn7kg9oovxvd6jwMI) | 4:16 | 2026-05-28 |  |
-| [De Antes](https://open.spotify.com/track/3aZQgYCIcO2OQHU7bPvt5R) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Diario](https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91) | 5:04 | 2022-05-25 |  |
+| [De Antes](https://open.spotify.com/track/2mulUxOBiUMNej6k9j1O3b) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Diario](https://open.spotify.com/album/5SZ8sLaUl2FwK5raOdzHGO) | 5:04 | 2026-10-12 |  |
+| [De Antes](https://open.spotify.com/track/3aZQgYCIcO2OQHU7bPvt5R) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Diario](https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91) | 5:04 | 2022-05-25 | 2026-10-12 |
 | [Despertador Solar](https://open.spotify.com/track/0BiprIH3JRP2s6RtNxVB89) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Sobrevolando](https://open.spotify.com/album/52NO2mK3NAWxWbDzYicN9L) | 4:19 | 2024-06-07 | 2025-05-19 |
 | [Despertador Solar](https://open.spotify.com/track/0hMNf3RxYbtQ3qd4qEN2KI) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Sobrevolando](https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli) | 4:19 | 2022-05-25 | 2024-06-07 |
 | [Despertador Solar](https://open.spotify.com/track/0wciFVroPzYjoCcJjKzp3Z) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Sobrevolando](https://open.spotify.com/album/35WTHfJvAnPS1fXKY4qc8G) | 4:19 | 2025-05-19 |  |
 | [Despertar](https://open.spotify.com/track/0JgjwTH0UqqsEtJo6f3rl1) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Canción de Alerta](https://open.spotify.com/album/28PuYwXsKVqszvz05ErQ0q) | 4:06 | 2022-05-25 | 2024-06-10 |
-| [Donde No Alcanza Mi Verso](https://open.spotify.com/track/7gQbpyb0GTNOu8XVWwLfwK) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Diario](https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91) | 4:43 | 2022-05-25 |  |
+| [Donde No Alcanza Mi Verso](https://open.spotify.com/track/0uGeLVV4VM8lavkOSYMPmO) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Diario](https://open.spotify.com/album/5SZ8sLaUl2FwK5raOdzHGO) | 4:43 | 2026-10-12 |  |
+| [Donde No Alcanza Mi Verso](https://open.spotify.com/track/7gQbpyb0GTNOu8XVWwLfwK) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Diario](https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91) | 4:43 | 2022-05-25 | 2026-10-12 |
 | [Déjame Entrar](https://open.spotify.com/track/46kTKtI83CZZfGadbVe9Cu) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Déjame Entrar](https://open.spotify.com/album/256bVkeTRjNNDaZL1hOtUV) | 4:10 | 2026-04-19 | 2026-06-20 |
 | [Días Intensos](https://open.spotify.com/track/1VYBSJipWUOQ7tX0SLhRJD) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Diario](https://open.spotify.com/album/5SZ8sLaUl2FwK5raOdzHGO) | 4:59 | 2026-10-07 |  |
 | [Días Intensos](https://open.spotify.com/track/2L7bcQuqRaa05ufkTNY5lx) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Diario](https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91) | 4:59 | 2025-07-05 | 2026-10-06 |
@@ -57,7 +59,8 @@
 | [Ideas Nuevas](https://open.spotify.com/track/74J7BSwaufXaF1UqObyDAu) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Ideas Nuevas](https://open.spotify.com/album/5QpKkGyhZB4SixED6zbo7R) | 6:11 | 2022-05-25 | 2026-10-06 |
 | [Ilegal](https://open.spotify.com/track/4G957N5nUzj1RBIvbWxbyy) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [La Dulzura](https://open.spotify.com/album/6R4h5bssC4MAg5B6v4MhSZ) | 5:06 | 2025-05-18 |  |
 | [Ilegal](https://open.spotify.com/track/55nSQ0bhYhnN9Gr6yKAF86) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [La Dulzura](https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A) | 5:06 | 2022-05-25 | 2025-05-18 |
-| [Inspiración](https://open.spotify.com/track/4RdHhgBW4eWV5PohRNYkNl) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Diario](https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91) | 4:47 | 2022-05-25 |  |
+| [Inspiración](https://open.spotify.com/track/3kLUBZfh0FhC1FhNhbnY7y) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Diario](https://open.spotify.com/album/5SZ8sLaUl2FwK5raOdzHGO) | 4:47 | 2026-10-12 |  |
+| [Inspiración](https://open.spotify.com/track/4RdHhgBW4eWV5PohRNYkNl) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Diario](https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91) | 4:47 | 2022-05-25 | 2026-10-12 |
 | [La Complicidad](https://open.spotify.com/track/0BM1KdSASETfvFIZu4jK6l) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [La Dulzura](https://open.spotify.com/album/6R4h5bssC4MAg5B6v4MhSZ) | 6:04 | 2025-05-19 |  |
 | [La Complicidad](https://open.spotify.com/track/0yAc7tMrxA3KwdVpVDe402) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [La Dulzura](https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A) | 6:04 | 2022-05-25 | 2025-05-19 |
 | [La Espera](https://open.spotify.com/track/0vl8naLAWvkm7EiE4DQdl5) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [La Dulzura](https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A) | 4:25 | 2022-05-25 | 2023-07-09 |
@@ -105,7 +108,8 @@
 | [Revolución en Estéreo](https://open.spotify.com/track/5tocZmY6wrsBN97s3eXGW0) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [M\. O\. T\. A.](https://open.spotify.com/album/6vhnau5N0tJQLP26LVJLn7) | 5:35 | 2022-05-30 | 2022-10-06 |
 | [Rimas Pa' Seducir](https://open.spotify.com/track/1lCi1FeDd3STjGmEpLkYLB) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [La Dulzura](https://open.spotify.com/album/6R4h5bssC4MAg5B6v4MhSZ) | 3:07 | 2025-05-19 |  |
 | [Rimas Pa' Seducir](https://open.spotify.com/track/2usf3N1xqWLBvFXAgczmbG) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [La Dulzura](https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A) | 3:07 | 2022-05-25 | 2025-05-19 |
-| [Ritmo Que Pesa](https://open.spotify.com/track/2FSpiaFpqmCNnC7IPr1TAy) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [M\. O\. T\. A.](https://open.spotify.com/album/6vhnau5N0tJQLP26LVJLn7) | 5:49 | 2022-05-25 |  |
+| [Ritmo Que Pesa](https://open.spotify.com/track/0GNgWD17OTCcxPJ78ynXwY) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [M\. O\. T\. A.](https://open.spotify.com/album/480KRHziOVWmBEuXX5MB6N) | 5:49 | 2026-10-12 |  |
+| [Ritmo Que Pesa](https://open.spotify.com/track/2FSpiaFpqmCNnC7IPr1TAy) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [M\. O\. T\. A.](https://open.spotify.com/album/6vhnau5N0tJQLP26LVJLn7) | 5:49 | 2022-05-25 | 2026-10-12 |
 | [Rompiendo el Letargo](https://open.spotify.com/track/3qvrUtUDm9mkXsIB5qK9vL) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Ideas Nuevas](https://open.spotify.com/album/5QpKkGyhZB4SixED6zbo7R) | 6:58 | 2022-05-25 | 2023-11-11 |
 | [Saca, Prende Y Sorprende](https://open.spotify.com/track/2VrXIFhpTneKQdwJh8indx) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Saca, Prende Y Sorprende](https://open.spotify.com/album/1j5ncEpkM28aRKhD9vwXk0) | 5:57 | 2025-05-19 |  |
 | [Saca, Prende y Sorprende](https://open.spotify.com/track/67v6edtYPUYnzaElq4U37Q) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Saca, Prende Y Sorprende](https://open.spotify.com/album/3fxbfhM7Cm7dKdSVvJAv8u) | 5:57 | 2022-05-25 | 2025-05-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 
 > Try a little tenderness\. Cover: Ezra Collective
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,172 likes - 70 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,179 likes - 70 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 | 31 | [White Gloves](https://open.spotify.com/track/7g18n5nxV5ep8ugBR3BmHD) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [The Universe Smiles Upon You](https://open.spotify.com/album/32MaUU5gk5Ig0nHC9G5VNX) | 3:38 |
 | 32 | [Cranes in the Sky](https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [A Seat at the Table](https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM) | 4:10 |
 | 33 | [Changes](https://open.spotify.com/track/3HC6U39266ytr7fMW9M2Mz) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [Changes](https://open.spotify.com/album/4A271CZJOcBKENslfEDsYM) | 5:42 |
-| 34 | [Promises](https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 4:24 |
-| 35 | [Masterpiece](https://open.spotify.com/track/07qj9w93jk1eA2TGAd6kxj) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [5](https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb) | 5:44 |
+| 34 | [Masterpiece](https://open.spotify.com/track/07qj9w93jk1eA2TGAd6kxj) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [5](https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb) | 5:44 |
+| 35 | [Promises](https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 4:24 |
 | 36 | [Remember Me \- Original Mix](https://open.spotify.com/track/7MwPTFInd4Y3q1ZtwgzG57) | [Blue Boy](https://open.spotify.com/artist/5wAkbDfgFUeXzWO4rdPQiG) | [Remember Me](https://open.spotify.com/album/15ejkGAzLKHl2S1jvXWb1u) | 7:03 |
 | 37 | [Come Around and Love Me](https://open.spotify.com/track/5FFSlcb55C7pIFcOYapN1b) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Come Around and Love Me](https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq) | 3:04 |
 | 38 | [The World \(Is Going Up in Flames\)](https://open.spotify.com/track/6MQlNH8e6jG0LZg2mocK1R) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [No Time For Dreaming](https://open.spotify.com/album/6j1xh7WBOIVNekKFKFKbAp) | 3:22 |

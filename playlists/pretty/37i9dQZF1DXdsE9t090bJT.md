@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 
 > Súbete a la troca ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,861 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,879 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,13 +57,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 | 47 | [AMOR](https://open.spotify.com/track/0dJ8BG6MjGBX2RwJbJOVGV) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [AMARTE ME HIZO ODIARTE](https://open.spotify.com/album/6atSyQI6H5zg6X6kOoDI0H) | 3:35 |
 | 48 | [Abcdario](https://open.spotify.com/track/0qCPD6ilr9nXkI4KVZgcns) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Abcdario](https://open.spotify.com/album/7BgImTrFzm2nQQW59IeFGD) | 3:40 |
 | 49 | [Pa Ti](https://open.spotify.com/track/3DGcOWYWHODmgeY5nGnEJ0) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Mi Vida Mi Muerte](https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3) | 3:18 |
-| 50 | [Elvira](https://open.spotify.com/track/1xgWArLVFD1AKsLzftZYc2) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [DISTORSIÓN](https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT) | 3:17 |
-| 51 | [Ojitos de Miel](https://open.spotify.com/track/3V1jBnDI3zCn25ONFiqwN8) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Our Wave Nuestra Ola](https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo) | 3:59 |
+| 50 | [Ojitos de Miel](https://open.spotify.com/track/3V1jBnDI3zCn25ONFiqwN8) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Our Wave Nuestra Ola](https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo) | 3:59 |
+| 51 | [Elvira](https://open.spotify.com/track/1xgWArLVFD1AKsLzftZYc2) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [DISTORSIÓN](https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT) | 3:17 |
 | 52 | [OJITOS MENTIROSOS](https://open.spotify.com/track/1MPs1qa830QkHuyAOnaRqe) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [CRISTIAN](https://open.spotify.com/album/1g5DtpsRYh0UzdkxHEZY4F) | 2:48 |
 | 53 | [Mi Cuernito](https://open.spotify.com/track/40t8KIooUPZuaZanTgPIcB) | [Marcos Villalobos](https://open.spotify.com/artist/79BK7vrzlQtgNnCHvZ7aYi), [Omar Camacho](https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ) | [Mi Cuernito](https://open.spotify.com/album/31dSkzoXxdgF04j2pfvM4r) | 2:55 |
 | 54 | [WISCACHOS](https://open.spotify.com/track/2rApWcTGUQuq4iDuB8n763) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Ya No Se Llevan Serenatas](https://open.spotify.com/album/6MRvPbmvRXntgB8DiDsIT6) | 2:58 |
-| 55 | [Amigos? No.](https://open.spotify.com/track/7hNgSEQ4Ho7kWBA2rKpDd9) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Amigos? No.](https://open.spotify.com/album/4b2QIGSCXrUQSURm2PnbUT) | 3:46 |
-| 56 | [La Víctima](https://open.spotify.com/track/5XVdHRf4CAJ2Jm0uMIy5qY) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [La Víctima](https://open.spotify.com/album/30KJEN3ICjhYsZ1NgunRCr) | 2:36 |
+| 55 | [La Víctima](https://open.spotify.com/track/5XVdHRf4CAJ2Jm0uMIy5qY) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [La Víctima](https://open.spotify.com/album/30KJEN3ICjhYsZ1NgunRCr) | 2:36 |
+| 56 | [Amigos? No.](https://open.spotify.com/track/7hNgSEQ4Ho7kWBA2rKpDd9) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Amigos? No.](https://open.spotify.com/album/4b2QIGSCXrUQSURm2PnbUT) | 3:46 |
 | 57 | [Con Tus Besos](https://open.spotify.com/track/6WYB1odDfMPVMyp1QxFInT) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal](https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx) | 3:46 |
 | 58 | [FIRST LOVE](https://open.spotify.com/track/3QQAeMQbbjZXVFbF8DgFWT) | [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [FIRST LOVE](https://open.spotify.com/album/4NNAc6EF4agYuWUqZ5OZr0) | 2:49 |
 | 59 | [7 DIAS](https://open.spotify.com/track/5Z75FvRFiultmPFWHx5jQ7) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [7 DIAS](https://open.spotify.com/album/5BoeqKVMi7D4S6U38rWjS4) | 3:00 |

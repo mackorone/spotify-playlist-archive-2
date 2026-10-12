@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO02kqa0.md) - [plain]
 
 > This is Maria Callas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,012 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,017 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO02kqa0.md) - [plain]
 | 49 | [Delibes: Lakmé, Act 2: Aria delle campanelle\. "Dov'è l'indiana bruna?" \(Lakmé\)](https://open.spotify.com/track/0GZxR9KIOhRoxSuyhIP1t8) | [Léo Delibes](https://open.spotify.com/artist/1M9AXZkNPdOd1IPEsQsXnT), [Maria Callas](https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E), [Tullio Serafin](https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY) | [Traduttore..\. traditore?](https://open.spotify.com/album/4sjcSuwvOuZWrlOC0T21jJ) | 8:05 |
 | 50 | [Ponchielli: La Gioconda, Op\. 9, Act 4: "Suicidio!" \(Gioconda\)](https://open.spotify.com/track/4h7KFEuWw6vct0TllV36OV) | [Amilcare Ponchielli](https://open.spotify.com/artist/088fpww3Ae4U9cMZv5O6m8), [Maria Callas](https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E), [Antonino Votto](https://open.spotify.com/artist/1cJYZCqOPzIhYf3VekKtGW), [Orchestra Del Teatro Alla Scala, Milano](https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57) | [Ponchielli: La Gioconda, Op\. 9](https://open.spotify.com/album/2ybC8FeFGHFaK8l0oL20sf) | 4:12 |
 
-Snapshot ID: `asgugAAAAACJ6CAmWXB8x/0mm5xTep6R`
+Snapshot ID: `asmAAAAAAACf1YB/cY4dXCK9lj6VF64l`

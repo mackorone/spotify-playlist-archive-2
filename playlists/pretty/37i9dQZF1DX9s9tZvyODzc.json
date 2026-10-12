@@ -1,6 +1,6 @@
 {
   "description": "Dale play y dej\u00e1 que la m\u00fasica te lleve.",
-  "num_followers": 225559,
+  "num_followers": 225622,
   "original_name": "Ruta 2",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,18 @@
     {
       "added_at": "2026-10-09 03:00:11",
       "album": {
-        "name": "TURR4ZO",
-        "url": "https://open.spotify.com/album/5nUfysd9pD76m2nxU0qHmU"
+        "name": "Mucho",
+        "url": "https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3"
       },
       "artists": [
         {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        },
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+          "name": "Babasonicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
         }
       ],
-      "duration_ms": 208379,
-      "name": "PUMAS",
-      "url": "https://open.spotify.com/track/5Iu46UfunYa0I5CFGAW59y"
+      "duration_ms": 240520,
+      "name": "Como Eran Las Cosas",
+      "url": "https://open.spotify.com/track/61qPUnazSdkvua4wgA4L8C"
     },
     {
       "added_at": "2026-10-09 03:00:11",
@@ -95,18 +91,22 @@
     {
       "added_at": "2026-10-09 03:00:11",
       "album": {
-        "name": "Mucho",
-        "url": "https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3"
+        "name": "TURR4ZO",
+        "url": "https://open.spotify.com/album/5nUfysd9pD76m2nxU0qHmU"
       },
       "artists": [
         {
-          "name": "Babasonicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
         }
       ],
-      "duration_ms": 240520,
-      "name": "Como Eran Las Cosas",
-      "url": "https://open.spotify.com/track/61qPUnazSdkvua4wgA4L8C"
+      "duration_ms": 208379,
+      "name": "PUMAS",
+      "url": "https://open.spotify.com/track/5Iu46UfunYa0I5CFGAW59y"
     },
     {
       "added_at": "2026-10-09 03:00:11",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2026-10-09 03:00:11",
       "album": {
+        "name": "Devorador De Corazones",
+        "url": "https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH"
+      },
+      "artists": [
+        {
+          "name": "La Portuaria",
+          "url": "https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7"
+        }
+      ],
+      "duration_ms": 248706,
+      "name": "Selva",
+      "url": "https://open.spotify.com/track/2En6fFzzlzPLcV8sXwrx7X"
+    },
+    {
+      "added_at": "2026-10-09 03:00:11",
+      "album": {
         "name": "Golpes en el Coraz\u00f3n",
         "url": "https://open.spotify.com/album/1v2sXZ3GCmKSwGOM24VSiZ"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 211268,
       "name": "Golpes en el Coraz\u00f3n",
       "url": "https://open.spotify.com/track/5fXk93H1gUgNtZrDGiNLR4"
-    },
-    {
-      "added_at": "2026-10-09 03:00:11",
-      "album": {
-        "name": "Devorador De Corazones",
-        "url": "https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH"
-      },
-      "artists": [
-        {
-          "name": "La Portuaria",
-          "url": "https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7"
-        }
-      ],
-      "duration_ms": 248706,
-      "name": "Selva",
-      "url": "https://open.spotify.com/track/2En6fFzzlzPLcV8sXwrx7X"
     },
     {
       "added_at": "2026-10-09 03:00:11",
@@ -1515,26 +1515,6 @@
     {
       "added_at": "2026-10-09 03:00:11",
       "album": {
-        "name": "M\u00e9ritos Y Merecimientos",
-        "url": "https://open.spotify.com/album/6ruWQDL06KMQJhCWA1ufXc"
-      },
-      "artists": [
-        {
-          "name": "Fernando Cabrera",
-          "url": "https://open.spotify.com/artist/6SgzbJKexV8Ouadaaa6PVy"
-        },
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        }
-      ],
-      "duration_ms": 220310,
-      "name": "M\u00e9ritos Y Merecimientos",
-      "url": "https://open.spotify.com/track/5Q8ZcIv6mysLIuTr2c43HT"
-    },
-    {
-      "added_at": "2026-10-09 03:00:11",
-      "album": {
         "name": "Magia Blanca",
         "url": "https://open.spotify.com/album/3BPnsVrQpM8EijT2e2LnaZ"
       },
@@ -1551,6 +1531,26 @@
       "duration_ms": 220927,
       "name": "Magia Blanca",
       "url": "https://open.spotify.com/track/1MIRcKbka31tCqgjPLD4q4"
+    },
+    {
+      "added_at": "2026-10-09 03:00:11",
+      "album": {
+        "name": "M\u00e9ritos Y Merecimientos",
+        "url": "https://open.spotify.com/album/6ruWQDL06KMQJhCWA1ufXc"
+      },
+      "artists": [
+        {
+          "name": "Fernando Cabrera",
+          "url": "https://open.spotify.com/artist/6SgzbJKexV8Ouadaaa6PVy"
+        },
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 220310,
+      "name": "M\u00e9ritos Y Merecimientos",
+      "url": "https://open.spotify.com/track/5Q8ZcIv6mysLIuTr2c43HT"
     },
     {
       "added_at": "2026-10-09 03:00:11",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2026-10-09 03:00:11",
       "album": {
-        "name": "El 1er \u00c1lbum M\u00e1s los Singles",
-        "url": "https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp"
-      },
-      "artists": [
-        {
-          "name": "Almendra",
-          "url": "https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo"
-        }
-      ],
-      "duration_ms": 187786,
-      "name": "Muchacha (Ojos de Papel)",
-      "url": "https://open.spotify.com/track/1SXzI5Rnid2ApgNQPmROLm"
-    },
-    {
-      "added_at": "2026-10-09 03:00:11",
-      "album": {
         "name": "Flores Robadas",
         "url": "https://open.spotify.com/album/1Lxh8VM5Q8fBA811bVKTPy"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 201920,
       "name": "Si T\u00fa No Vuelves",
       "url": "https://open.spotify.com/track/37jtZLmqnI6JMVXXIWboVH"
+    },
+    {
+      "added_at": "2026-10-09 03:00:11",
+      "album": {
+        "name": "El 1er \u00c1lbum M\u00e1s los Singles",
+        "url": "https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp"
+      },
+      "artists": [
+        {
+          "name": "Almendra",
+          "url": "https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo"
+        }
+      ],
+      "duration_ms": 187786,
+      "name": "Muchacha (Ojos de Papel)",
+      "url": "https://open.spotify.com/track/1SXzI5Rnid2ApgNQPmROLm"
     },
     {
       "added_at": "2026-10-09 03:00:11",

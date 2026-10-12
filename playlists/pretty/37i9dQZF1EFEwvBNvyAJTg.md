@@ -109,8 +109,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 99 | [Move](https://open.spotify.com/track/4F93hL6knRV2DYdo50r63z) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [Move](https://open.spotify.com/album/56aEePjHqXCuNXtoBQxNhn) | 3:09 |
 | 100 | [Love Just Ain't Enough](https://open.spotify.com/track/6ccP5gih4lhJWoYrBK3ZgH) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [Love Just Ain't Enough](https://open.spotify.com/album/1l1sAe6hsLPPFjm2UvwSc3) | 3:36 |
 | 101 | [Taste](https://open.spotify.com/track/2H1YnRuTOBk8sPPuVxthmz) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Perimenopop](https://open.spotify.com/album/0aKJ5KioHYFoiioK0HZZzn) | 2:50 |
-| 102 | [Bloody Hell](https://open.spotify.com/track/1BQ17JlAkS8cgTkvelXQHP) | [BEXEY](https://open.spotify.com/artist/3PXR1cXkJk5aOekoGOtWFA) | [Spooky Electrick](https://open.spotify.com/album/5ZdKZJ8iwUv888RA4RJkl6) | 2:54 |
-| 103 | [waste my time](https://open.spotify.com/track/2xSllS4AsXs2AjbKhtQuFy) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [waste my time](https://open.spotify.com/album/5ePyXmFNZNEmKfzuFBCTtI) | 3:32 |
+| 102 | [waste my time](https://open.spotify.com/track/2xSllS4AsXs2AjbKhtQuFy) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [waste my time](https://open.spotify.com/album/5ePyXmFNZNEmKfzuFBCTtI) | 3:32 |
+| 103 | [Bloody Hell](https://open.spotify.com/track/1BQ17JlAkS8cgTkvelXQHP) | [BEXEY](https://open.spotify.com/artist/3PXR1cXkJk5aOekoGOtWFA) | [Spooky Electrick](https://open.spotify.com/album/5ZdKZJ8iwUv888RA4RJkl6) | 2:54 |
 | 104 | [Hell Bound](https://open.spotify.com/track/5q7qGNhvkSe9aNyGhy87Lb) | [BEXEY](https://open.spotify.com/artist/3PXR1cXkJk5aOekoGOtWFA) | [Spooky Electrick](https://open.spotify.com/album/5ZdKZJ8iwUv888RA4RJkl6) | 2:40 |
 | 105 | [This One's For The Girls](https://open.spotify.com/track/0PgesxnsfbPbqF8XGN1CXh) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW) | [B\-Sides](https://open.spotify.com/album/6nDe4ks2ZUTzufc1BvJ8hk) | 3:20 |
 | 106 | [All Night, Pt\. II](https://open.spotify.com/track/6UDH8pqwW5siqNszFtX6x0) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [No Logic](https://open.spotify.com/album/7D9Cg5C2gXofYhGEUbCWuh) | 3:16 |
@@ -200,4 +200,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 190 | [Crush](https://open.spotify.com/track/5cjyHKXAV1OCX8MpjoAglp) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Confessions \(Super Deluxe Edition\)](https://open.spotify.com/album/1nB0GYarRd5bnenhk2FdA7) | 2:46 |
 | 191 | [What You Waiting For](https://open.spotify.com/track/1RCvjgA7wXjBcQuIJpKOG3) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Renditions of Sigala](https://open.spotify.com/album/5XoymdXUuLAHi2VoOiI2Th) | 3:46 |
 
-Snapshot ID: `AcemrgAAAABlpQ95FAY6HH7AU3Yrrn6v`
+Snapshot ID: `AcesTgAAAACt5xPy8CGsgOM3mRz2dO3G`

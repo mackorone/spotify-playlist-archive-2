@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFwsXuG6tG8.md) - [plain]
 
 > y el soundtrack suena así...
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,768 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,773 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,12 +42,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFwsXuG6tG8.md) - [plain]
 | 32 | [De Sueño en Sueño](https://open.spotify.com/track/027M0nMG5b1cojrWeR0k7N) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Arón Piper](https://open.spotify.com/artist/79ehGac6casNGvc5n8XL7J) | [De Sueño en Sueño](https://open.spotify.com/album/3iZbH8MZdJ1tDjYMz3hA8D) | 2:43 |
 | 33 | [No es tu estilo](https://open.spotify.com/track/5RikicLu1IWphJ0y6BadSE) | [LOCKWARD](https://open.spotify.com/artist/52IDIMrGNbCUkHrpkf0F8y), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [No es tu estilo](https://open.spotify.com/album/6n2DgWN6TftYJKGNcBPW1G) | 2:22 |
 | 34 | [La gravedad y el tiempo.](https://open.spotify.com/track/2PSWcnLzIl0vSxEIzKfTYT) | [YOSHI](https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [La gravedad y el tiempo.](https://open.spotify.com/album/5L95oJ4x1Lrj419blyzCZM) | 2:42 |
-| 35 | [¿Trato Hecho?](https://open.spotify.com/track/5q0Sa9ON8xcPsUlkOtf9yx) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [PREGUNTAS A LAS 11:11](https://open.spotify.com/album/6p3Mgf45pOfZN3fBiMp3kb) | 3:00 |
+| 35 | [¿Para Qué?](https://open.spotify.com/track/2gcwAmAnJ3EztIvP5R4bp2) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Para Qué?](https://open.spotify.com/album/27ZCBzP3A8nAMjr2E7JjtB) | 2:27 |
 | 36 | [1 de Enero, Puntacana](https://open.spotify.com/track/7Iz0j9XsiyR2qAq3TaeaXD) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [a new star \(1 9 9 3\)](https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4) | 1:35 |
 | 37 | [MI NIÑA \(RubyRose\_Am\_98BPM\)](https://open.spotify.com/track/2RRq4PrIGH6XCqMz4URWNh) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [MI NIÑA \(RubyRose\_Am\_98BPM\)](https://open.spotify.com/album/0NdnCSGS68KynP5IOlaiGL) | 2:01 |
 | 38 | [buenos aires](https://open.spotify.com/track/7L0BH62HRIap3Fg6KUyQfR) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [buenos aires](https://open.spotify.com/album/4SXpbXXNdxRmHbyoFaCnvc) | 3:23 |
 | 39 | [Gordo](https://open.spotify.com/track/0KcyU1JCY5W8WGuILa8MDv) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [un](https://open.spotify.com/album/69qvzyO2jAil3U6DZpckxr) | 3:40 |
-| 40 | [¿Para Qué?](https://open.spotify.com/track/2gcwAmAnJ3EztIvP5R4bp2) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Para Qué?](https://open.spotify.com/album/27ZCBzP3A8nAMjr2E7JjtB) | 2:27 |
+| 40 | [¿Trato Hecho?](https://open.spotify.com/track/5q0Sa9ON8xcPsUlkOtf9yx) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [PREGUNTAS A LAS 11:11](https://open.spotify.com/album/6p3Mgf45pOfZN3fBiMp3kb) | 3:00 |
 | 41 | [ya no estoy](https://open.spotify.com/track/0tuhaH4P3jVSCTdV070tig) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [ya no estoy](https://open.spotify.com/album/2CTAPQs0Md2J7Q9zkMmJSz) | 2:58 |
 | 42 | [AMOR](https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [AMOR](https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj) | 3:00 |
 | 43 | [milveces](https://open.spotify.com/track/6u1zU6mOBjwHqO0otIC4Br) | [FaceBrooklyn](https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8) | [milveces](https://open.spotify.com/album/6hQQz7N2a348XnwyEXWYgk) | 3:40 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFwsXuG6tG8.md) - [plain]
 | 55 | [rompo esquemas](https://open.spotify.com/track/1WvFuZUZBHrx2JPCn4zEDK) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [rompo esquemas](https://open.spotify.com/album/4sdH0YoWAHoozGAkVDqhpZ) | 3:19 |
 | 56 | [más y menos](https://open.spotify.com/track/5RxXLXdfznLfRGMfEPyt0a) | [nic](https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph) | [escrita](https://open.spotify.com/album/41DOXn1SuBBmm57gPTyb5E) | 3:22 |
 | 57 | [Todo Regresa](https://open.spotify.com/track/1jT9pbKiwKC2kEBtpSQ9Hf) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Todo Regresa](https://open.spotify.com/album/0KpuUua2SlRhsQkgI0QOQi) | 3:04 |
-| 58 | [Already Yours](https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Sofía Valdés](https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0) | 3:18 |
-| 59 | [Pick Me](https://open.spotify.com/track/5djUJQMd8TGlDW6nhJs1uE) | [ZUCO OMG](https://open.spotify.com/artist/6hA5ALJWFb44ixgQMMvng7), [Annasofia](https://open.spotify.com/artist/37GbbR22KbzWN5Wfb9djSo) | [Pick Me](https://open.spotify.com/album/2YpbOugRMPqzmoTJW6F1J0) | 2:50 |
+| 58 | [Pick Me](https://open.spotify.com/track/5djUJQMd8TGlDW6nhJs1uE) | [ZUCO OMG](https://open.spotify.com/artist/6hA5ALJWFb44ixgQMMvng7), [Annasofia](https://open.spotify.com/artist/37GbbR22KbzWN5Wfb9djSo) | [Pick Me](https://open.spotify.com/album/2YpbOugRMPqzmoTJW6F1J0) | 2:50 |
+| 59 | [Already Yours](https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Sofía Valdés](https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0) | 3:18 |
 | 60 | [no llames lo mío nuestro](https://open.spotify.com/track/56lEVxNmR6NYSSa4nZtEBU) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [no llames lo mío nuestro](https://open.spotify.com/album/2r8XKWioH1ActVuWTXePGu) | 3:39 |
 | 61 | [iii\. LaDrogaMásSuaveDelMundo\(!\) · enamoramiento](https://open.spotify.com/track/25sS3mU6hQC2FtgSf0oB1v) | [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [Soulost](https://open.spotify.com/album/1UJ9oErOGqOrtQuFuZLrxE) | 4:00 |
 | 62 | [Te Lo Voy a Decir](https://open.spotify.com/track/3WDMlT5t2UWDnkre7CrZbU) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Te Lo Voy a Decir](https://open.spotify.com/album/6MeNE5UGAISIbnDkj27hNF) | 4:06 |

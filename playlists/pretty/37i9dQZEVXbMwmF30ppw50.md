@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMwmF30ppw50.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- United Kingdom.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,780 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,791 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMwmF30ppw50.md) - [plain]
 | 27 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/7eYzn1CuiJK6VvUhf8zA6k) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 3:17 |
 | 28 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 |
 | 29 | [Just Give Me a Reason \(feat\. Nate Ruess\)](https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Nate Ruess](https://open.spotify.com/artist/1qUjOF5fzrpoNycD36b2jZ) | [The Truth About Love](https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj) | 4:02 |
-| 30 | [Dreams \- 2004 Remaster](https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:17 |
+| 30 | [Dreams \- 2001 Remaster](https://open.spotify.com/track/53qkszfgztIvkFyF31GfdQ) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/04bZvSsD7bbuKyeEdMABLF) | 4:18 |
 | 31 | [back to friends](https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 3:19 |
 | 32 | [Sweater Weather](https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/6iu2XwoDlKg0VYte9qAbnr) | 4:00 |
 | 33 | [Clean Baby Sleep White Noise \(Loopable\)](https://open.spotify.com/track/4yVBarJHjhhzP1q7fU4p0W) | [Dream Supplier](https://open.spotify.com/artist/6Cqtx9fpxzggIMuKn0RGCp) | [White Noise For Parents \(Loopable no fade\)](https://open.spotify.com/album/1mY0KCjvKfbDY2anS7EhRv) | 2:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMwmF30ppw50.md) - [plain]
 | 49 | [Solar Eclipse \(feat\. Don Toliver\)](https://open.spotify.com/track/4IAWZw00ZI9DLKDjesx86u) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HABIBTI \(FOMO\)](https://open.spotify.com/album/4gvyJRNQPBb1kOWqwZjUYI) | 3:38 |
 | 50 | [Beauty And A Beat](https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Believe](https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN) | 3:47 |
 
-Snapshot ID: `Ml26iAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Ml8QuAAAAAAAAAAAAAAAAAAAAAAAAGVu`

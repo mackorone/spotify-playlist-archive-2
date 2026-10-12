@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1adpUbAHocs.md) - [plain]
 
 > hop in and take the long way.
 
-[Spotify](https://open.spotify.com/user/spotify) - 627,945 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 627,889 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1adpUbAHocs.md) - [plain]
 | 45 | [Untitled \#4](https://open.spotify.com/track/1kq9lzEHoY3p8naHWpqNlh) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [The Third Gleam](https://open.spotify.com/album/6qHVJFxoizJAdhB7CdbaV2) | 4:04 |
 | 46 | [Oom Sha La La](https://open.spotify.com/track/28kOpVf1aCgL0LSFfuKV4w) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [I Need to Start a Garden](https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B) | 2:57 |
 | 47 | [Phoenix](https://open.spotify.com/track/4Vs2i8GdP5s7vd8vfSRcDk) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 4:15 |
-| 48 | [Wild](https://open.spotify.com/track/05uhED0miR9OJYPalPi7tx) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Lucifer On The Sofa](https://open.spotify.com/album/1szMY4QqnQZgNuyLBC4jUQ) | 3:13 |
-| 49 | [Northern Attitude](https://open.spotify.com/track/3vbtOMZEVRt6NKqyzMWqxq) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Northern Attitude](https://open.spotify.com/album/7CsdJMncx766H8wUfvbQtR) | 4:27 |
+| 48 | [Northern Attitude](https://open.spotify.com/track/3vbtOMZEVRt6NKqyzMWqxq) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Northern Attitude](https://open.spotify.com/album/7CsdJMncx766H8wUfvbQtR) | 4:27 |
+| 49 | [Wild](https://open.spotify.com/track/05uhED0miR9OJYPalPi7tx) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Lucifer On The Sofa](https://open.spotify.com/album/1szMY4QqnQZgNuyLBC4jUQ) | 3:13 |
 | 50 | [Dreamsicle](https://open.spotify.com/track/68wI8QNqMeIraj7Ix16hS3) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [Reunions](https://open.spotify.com/album/5XIafkwTpyvL7jjLJx1xKz) | 3:44 |
 | 51 | [On The Road Again](https://open.spotify.com/track/4Uc8xnNu2Mm1yObB0uxZI6) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [On The Road Again](https://open.spotify.com/album/55usaj7ODaBiksdYFoKUvb) | 2:53 |
 | 52 | [Don't](https://open.spotify.com/track/2q9YHakYN697yPpEitqybk) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Don't](https://open.spotify.com/album/0sPcMRaH3i6TO1yvDkOxPS) | 3:02 |
@@ -87,13 +87,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1adpUbAHocs.md) - [plain]
 | 77 | [New Moon](https://open.spotify.com/track/0ZWliPPI1OGqhcDSBJUHim) | [Steve Gunn](https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO) | [The Unseen In Between](https://open.spotify.com/album/349hcptM7Y0HRpgrsSY570) | 5:10 |
 | 78 | [I'll Be Gone](https://open.spotify.com/track/2z4NCsQxVucYfAeUU1ljE2) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [The Only Ones](https://open.spotify.com/album/72jSY4ND11mZ9qeOmIsVJh) | 2:24 |
 | 79 | [Speed of the Sound of Loneliness](https://open.spotify.com/track/3NhJyuxuWg9dEX0A88HkiS) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Speed, Sound, Lonely KV \(ep\)](https://open.spotify.com/album/74liwAdWZN6PljZ7COrEe6) | 5:15 |
-| 80 | [Where'd All the Time Go](https://open.spotify.com/track/6gvUAc9EaArZs1Hv8h6uxw) | [Bird and Byron](https://open.spotify.com/artist/28VCKRVnl8KvcrvUVxpbLt) | [Where'd All the Time Go](https://open.spotify.com/album/4BZkn39LpuX2LO7Cf3sjjD) | 4:01 |
-| 81 | [Shakedown](https://open.spotify.com/track/6vyVxWBHLIqNdhy4IGz1LN) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 2:46 |
-| 82 | [Jara](https://open.spotify.com/track/6ttJq2kuufZBqkuowqMzhH) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 4:09 |
-| 83 | [Diamond Studded Shoes](https://open.spotify.com/track/5SfM1f729pv1DdiEcyDiex) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Stand For Myself](https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV) | 3:24 |
-| 84 | [Santa Ana Winds](https://open.spotify.com/track/4gOfeoHv1858gkHlITsr3Q) | [Waylon Payne](https://open.spotify.com/artist/0G3qRFPXLTrujOBCEqSPXE) | [Blue Eyes, The Harlot, The Queer, The Pusher & Me](https://open.spotify.com/album/3dhsordyEnHpn6TWNSx4Co) | 4:16 |
-| 85 | [Don't Do Me Good](https://open.spotify.com/track/0oiiE9xAEoq7Pk49LtDc9W) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Don't Do Me Good](https://open.spotify.com/album/26sIa4onZCyC8VWiKLSwuB) | 4:13 |
-| 86 | [Smile](https://open.spotify.com/track/5MOHiX0uAj555wbYJyBnDy) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 3:30 |
+| 80 | [Shakedown](https://open.spotify.com/track/6vyVxWBHLIqNdhy4IGz1LN) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 2:46 |
+| 81 | [Jara](https://open.spotify.com/track/6ttJq2kuufZBqkuowqMzhH) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 4:09 |
+| 82 | [Where'd All the Time Go](https://open.spotify.com/track/6gvUAc9EaArZs1Hv8h6uxw) | [Bird and Byron](https://open.spotify.com/artist/28VCKRVnl8KvcrvUVxpbLt) | [Where'd All the Time Go](https://open.spotify.com/album/4BZkn39LpuX2LO7Cf3sjjD) | 4:01 |
+| 83 | [Don't Do Me Good](https://open.spotify.com/track/0oiiE9xAEoq7Pk49LtDc9W) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Don't Do Me Good](https://open.spotify.com/album/26sIa4onZCyC8VWiKLSwuB) | 4:13 |
+| 84 | [Diamond Studded Shoes](https://open.spotify.com/track/5SfM1f729pv1DdiEcyDiex) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Stand For Myself](https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV) | 3:24 |
+| 85 | [Smile](https://open.spotify.com/track/5MOHiX0uAj555wbYJyBnDy) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 3:30 |
+| 86 | [Santa Ana Winds](https://open.spotify.com/track/4gOfeoHv1858gkHlITsr3Q) | [Waylon Payne](https://open.spotify.com/artist/0G3qRFPXLTrujOBCEqSPXE) | [Blue Eyes, The Harlot, The Queer, The Pusher & Me](https://open.spotify.com/album/3dhsordyEnHpn6TWNSx4Co) | 4:16 |
 | 87 | [Rolling Sea](https://open.spotify.com/track/5BI2FOOcSqnrjsjZL29YuS) | [Vetiver](https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E) | [Tight Knit](https://open.spotify.com/album/4vS4ELlf7HddnAg5mactkC) | 5:18 |
 | 88 | [Coming to Get You Nowhere](https://open.spotify.com/track/2pvTzDOIibESGP5usDO0rG) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Off Off On](https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj) | 3:20 |
 | 89 | [Bride](https://open.spotify.com/track/258ONJcunOE7KA225pLP2x) | [San Fermin](https://open.spotify.com/artist/7fSnislKgW9Mz0YIqWQmGt) | [Belong](https://open.spotify.com/album/22sKyWyE7QGrAtfPHDboXV) | 3:49 |

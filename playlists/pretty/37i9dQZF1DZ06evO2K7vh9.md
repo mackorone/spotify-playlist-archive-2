@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2K7vh9.md) - [plain]
 
 > This is Lil Tecca\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,168 likes - 49 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,174 likes - 49 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2K7vh9.md) - [plain]
 | 43 | [All Star \(with Lil Tjay\)](https://open.spotify.com/track/62uolmVjOio9xIfwDM1ZvC) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [All Star](https://open.spotify.com/album/45LIS5vxDcdMniZcD6biUD) | 3:00 |
 | 44 | [Memories in My Head](https://open.spotify.com/track/6FQtgWGaP23uTMtjfIs2tZ) | [icyslug](https://open.spotify.com/artist/2JjRgfsTKxurqJfBz8FgZu), [LouGotCash](https://open.spotify.com/artist/1Sz0VZ2PxcZPD2qRIX9GSK), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Memories in My Head](https://open.spotify.com/album/78hRaefit0PBhkcXmFmZL2) | 3:11 |
 | 45 | [Faster](https://open.spotify.com/track/1dH43IEzvkRIFu6HdXWCha) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Faster](https://open.spotify.com/album/2xLtP4n8AWzm96AUAK6R8V) | 2:09 |
-| 46 | [Dolly \(with Lil Uzi Vert\)](https://open.spotify.com/track/77Xwqkw7VrV8E5FCq9JhO8) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Virgo World](https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX) | 2:59 |
-| 47 | [JLO \(feat\. Lil Tecca\)](https://open.spotify.com/track/6kYP6BKrQOcL61G4XPc0XA) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [B4 The Storm \(Expanded Edition\)](https://open.spotify.com/album/4fszOxJ7RWHqPIXOrC2iKY) | 2:43 |
+| 46 | [JLO \(feat\. Lil Tecca\)](https://open.spotify.com/track/6kYP6BKrQOcL61G4XPc0XA) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [B4 The Storm \(Expanded Edition\)](https://open.spotify.com/album/4fszOxJ7RWHqPIXOrC2iKY) | 2:43 |
+| 47 | [Dolly \(with Lil Uzi Vert\)](https://open.spotify.com/track/77Xwqkw7VrV8E5FCq9JhO8) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Virgo World](https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX) | 2:59 |
 | 48 | [Love No Thot \(feat\. Lil Tecca\)](https://open.spotify.com/track/10axzwbqRSkv4n56GmjmPH) | [Trap Thug Family](https://open.spotify.com/artist/5vaLtyVwbTErZSLqVRCd9b), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Trap Thug Family](https://open.spotify.com/album/2T5uqtLfuewixOOInuc6vC) | 2:06 |
 | 49 | [SHOW ME UP](https://open.spotify.com/track/4Whbjw2RncZLcNSDQbFWVY) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca 2 \(Deluxe\)](https://open.spotify.com/album/2ybRB5pXB2XCjLbvRQMrw9) | 2:46 |
 

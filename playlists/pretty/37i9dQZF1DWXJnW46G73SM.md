@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > شجّع المنتَج المحلي\. الغلاف: كراشندو
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,087 likes - 90 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,094 likes - 90 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

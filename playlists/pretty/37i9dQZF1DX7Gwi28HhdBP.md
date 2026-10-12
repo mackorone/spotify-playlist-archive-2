@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Gwi28HhdBP.md) - [plain]
 
 > أفضل الأغاني الشعبية من قلب مصر! الغلاف: كزبرة وعصام صاصا
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,546 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,646 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Gwi28HhdBP.md) - [plain]
 | 25 | [قصر العويل](https://open.spotify.com/track/6mwvTEoMs6j3dal6X2NU3r) | [احمد عامر](https://open.spotify.com/artist/2ls2fVqFDYpoLyWktYE0V6) | [قصر العويل](https://open.spotify.com/album/3Gr4EIShqt4qp60GQ43oNb) | 3:57 |
 | 26 | [الفترة اللى فاتت](https://open.spotify.com/track/5NfAzsHPEua9P1D9XHbEok) | [Tarek El Sheikh](https://open.spotify.com/artist/6dUaKkMGw5Ov1gaokc7YBN) | [الفترة اللى فاتت](https://open.spotify.com/album/6MujNJk74u0qvij5Mct9DP) | 5:10 |
 | 27 | [زى الافاعى](https://open.spotify.com/track/5po2SgGLYfRtcd6Lqa70mZ) | [محمد سلطان](https://open.spotify.com/artist/1J0l2xsM7AHAZIT9EhcOeq) | [زى الافاعى](https://open.spotify.com/album/5a4RpOzIAk1gNrFKCPjpxx) | 4:17 |
-| 28 | [Ya Nas Haram](https://open.spotify.com/track/60nqr01AaOKkYLatJKB47N) | [Ahmed Shiba](https://open.spotify.com/artist/18kOlOUYz50lsApqT1LIuW) | [Ya Nas Haram](https://open.spotify.com/album/4Ni4IqZnaX90wby10N4t3A) | 3:54 |
+| 28 | [Ya Nas Haram](https://open.spotify.com/track/60nqr01AaOKkYLatJKB47N) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [Ya Nas Haram](https://open.spotify.com/album/4Ni4IqZnaX90wby10N4t3A) | 3:54 |
 | 29 | [الهيبه والمعلمه](https://open.spotify.com/track/4ZBU2xMc5mS9Xcd0KhFRNg) | [Abd El Basset Hamouda](https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw), [Tarek El Sheikh](https://open.spotify.com/artist/6dUaKkMGw5Ov1gaokc7YBN) | [الهيبه والمعلمه](https://open.spotify.com/album/0HDv4GxxBzxQjpE3Mn1zyt) | 5:23 |
 | 30 | [إحنا البلد](https://open.spotify.com/track/73Y0J7zh5hSXg1VBICyzx0) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Abd El Basset Hamouda](https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw) | [إحنا البلد](https://open.spotify.com/album/0uKPJwneURKke432itVCCY) | 4:34 |
 | 31 | [هنخربها](https://open.spotify.com/track/46b56o9gUwcgJRXBhIDNTK) | [Amina](https://open.spotify.com/artist/5oqJdJiiqwYKUk1U4kFB2w), [Abd El Basset Hamouda](https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw) | [هنخربها](https://open.spotify.com/album/4FrsIKy8Zo8uXTc91brfIb) | 5:16 |

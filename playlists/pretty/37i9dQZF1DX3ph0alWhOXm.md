@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ph0alWhOXm.md) - [plain]
 
 > Let these country songs get your tailgate going!
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,074 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,076 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ph0alWhOXm.md) - [plain]
 | 48 | [Here for the Party](https://open.spotify.com/track/0SuzUhWAgStNIMZR4jEGgk) | [Gretchen Wilson](https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF) | [Here For The Party](https://open.spotify.com/album/5OYkhSnpSoztkCKind5tap) | 3:16 |
 | 49 | [Red Dirt Road](https://open.spotify.com/track/3EZzghqykkfOB0Z8d0kTSt) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [Red Dirt Road](https://open.spotify.com/album/3fVrL1hr7JAWTeFYW0akdf) | 4:20 |
 | 50 | [Barefoot Blue Jean Night](https://open.spotify.com/track/3ts6xK5GzfMAAriT9AIBmP) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Barefoot Blue Jean Night](https://open.spotify.com/album/4GeJssW5iLOSLOIXhLfOUJ) | 2:49 |
-| 51 | [Heads Carolina, Tails California](https://open.spotify.com/track/6Lmx6bz3PGYuNSjKMnYBOa) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [Jo Dee Messina](https://open.spotify.com/album/2Jsqpx8EeRWIjBFhCX4hvn) | 3:28 |
-| 52 | [Strawberry Wine](https://open.spotify.com/track/5Pgwi0iizu96RHxJ4xL3SH) | [Deana Carter](https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt) | [Did I Shave My Legs For This?](https://open.spotify.com/album/3rVrwVrTgiFmCBZCmYBryn) | 4:51 |
+| 51 | [Strawberry Wine](https://open.spotify.com/track/5Pgwi0iizu96RHxJ4xL3SH) | [Deana Carter](https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt) | [Did I Shave My Legs For This?](https://open.spotify.com/album/3rVrwVrTgiFmCBZCmYBryn) | 4:51 |
+| 52 | [Heads Carolina, Tails California](https://open.spotify.com/track/6Lmx6bz3PGYuNSjKMnYBOa) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [Jo Dee Messina](https://open.spotify.com/album/2Jsqpx8EeRWIjBFhCX4hvn) | 3:28 |
 | 53 | [Drunk On A Plane](https://open.spotify.com/track/1soxUgYIZb1qx1c7o1Lc7z) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [RISER](https://open.spotify.com/album/5FoxaIGIRuXsbhZhwdfknU) | 4:14 |
 | 54 | [Alright](https://open.spotify.com/track/5JlH51YDYsGj2dyEJKKjcN) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Learn To Live](https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK) | 3:51 |
 | 55 | [Fillin' My Cup](https://open.spotify.com/track/1zj8nUbc4cSs9Fc733MFDy) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I), [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Dream: Living The Dream \(Deluxe\)](https://open.spotify.com/album/0r6KIOwZvmsEd457nUJWbt) | 3:11 |

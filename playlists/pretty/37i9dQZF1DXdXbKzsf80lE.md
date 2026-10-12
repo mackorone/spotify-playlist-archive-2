@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 
 > Queeeima paredão! Pra forrozeiro sofrer dançando e dançar sofrendo, bora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,003 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,009 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 | 54 | [Pisadinha \- Ao Vivo](https://open.spotify.com/track/36P6ptTyxOggYgR2aoZiAl) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz) | [Pisadinha \(Ao Vivo\)](https://open.spotify.com/album/2Ir3JLRBTe6UNagIu9CsYV) | 2:38 |
 | 55 | [Então Vem Cá \- Ao Vivo](https://open.spotify.com/track/1FIaoiLn0E5ilfE5T0P9xx) | [Mano Walter](https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP), [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [Ao Vivo Em São Paulo \(Deluxe\)](https://open.spotify.com/album/4yqE9BgU3r6tMfR3cVhwEw) | 2:57 |
 | 56 | [Se quiser é assim \- Ao Vivo](https://open.spotify.com/track/4eIz5tYOpqUrZiCxTm1ZAa) | [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq), [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [Solange Almeida 50/50 Ao Vivo em Fortaleza Deluxe](https://open.spotify.com/album/2bFebA9Rb9o1t6e1jJJt8m) | 3:45 |
-| 57 | [Quem Nunca \- Ao Vivo em Fortaleza](https://open.spotify.com/track/2ekuJuZiOw523TPWtqXguQ) | [Manim Vaqueiro](https://open.spotify.com/artist/2MRXYszuTIaEliCCD22crt), [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Quem Nunca \(Ao Vivo em Fortaleza\)](https://open.spotify.com/album/0PZXHqmn7bvqduX5BAYDZX) | 2:35 |
-| 58 | [Não Digita \- Ao Vivo](https://open.spotify.com/track/3pj8CGadPM5hYJjC1gxpP8) | [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC) | [Nossa História \- Pt.1 \(Ao Vivo\)](https://open.spotify.com/album/6ZgVLQPG1FsY7JCT5tFPeY) | 3:15 |
-| 59 | [Aquelas Coisas / Me Ama Sem Pausa \- Ao Vivo](https://open.spotify.com/track/5755b7FAJceOZauY3qBJze) | [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S), [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC) | [Aquelas Coisas / Me Ama Sem Pausa \(Ao Vivo\)](https://open.spotify.com/album/2RRxbzWPrBQ305aRt48anL) | 4:11 |
+| 57 | [Não Digita \- Ao Vivo](https://open.spotify.com/track/3pj8CGadPM5hYJjC1gxpP8) | [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC) | [Nossa História \- Pt.1 \(Ao Vivo\)](https://open.spotify.com/album/6ZgVLQPG1FsY7JCT5tFPeY) | 3:15 |
+| 58 | [Quem Nunca \- Ao Vivo em Fortaleza](https://open.spotify.com/track/2ekuJuZiOw523TPWtqXguQ) | [Manim Vaqueiro](https://open.spotify.com/artist/2MRXYszuTIaEliCCD22crt), [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Quem Nunca \(Ao Vivo em Fortaleza\)](https://open.spotify.com/album/0PZXHqmn7bvqduX5BAYDZX) | 2:35 |
+| 59 | [O Apostador](https://open.spotify.com/track/4JCNKUDiJi9GOKjfur6R9S) | [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt), [Alanzim Coreano](https://open.spotify.com/artist/3z1hkcmUuBH6lmB91l73MC) | [O Apostador](https://open.spotify.com/album/5Djfedu3tD8JnJ27Te8LcX) | 2:16 |
 | 60 | [Juramento do Dedinho](https://open.spotify.com/track/4Eco98ezksfnQzVNJCjg9j) | [Mano Walter](https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP) | [Juramento do Dedinho](https://open.spotify.com/album/2OKTFhlxZ0yvUEQsgXaCP0) | 2:44 |
 
 Snapshot ID: `AAAAACxE3GawzxEiMgMY2acjPBfkDULv`

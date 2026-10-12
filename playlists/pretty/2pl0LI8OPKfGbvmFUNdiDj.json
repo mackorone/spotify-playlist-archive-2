@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked songs by unsigned bands and independent artists. Updated Daily.",
-  "num_followers": 1220,
+  "num_followers": 1225,
   "original_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",
   "owner": {
     "name": "pma4real",
     "url": "https://open.spotify.com/user/jasonwaroff"
   },
-  "snapshot_id": "AAAEad5mlY86HkWUSjI8Wnaz3d31vJVF",
+  "snapshot_id": "AAAEa0PYkPp66cdMB26HFd/GVr71LB/6",
   "tracks": [
     {
       "added_at": "2026-06-05 18:13:27",
@@ -1191,6 +1191,38 @@
       "duration_ms": 216640,
       "name": "Can I Have Ya Number?",
       "url": "https://open.spotify.com/track/3QVRa8jDHfAjH8TrIhfARQ"
+    },
+    {
+      "added_at": "2026-10-11 14:02:54",
+      "album": {
+        "name": "Fuck Off",
+        "url": "https://open.spotify.com/album/0r2zCLxvtQdFeO4lIQlS6u"
+      },
+      "artists": [
+        {
+          "name": "Black Grouse",
+          "url": "https://open.spotify.com/artist/5jzQOtU6ojkmCHcQhffLk4"
+        }
+      ],
+      "duration_ms": 174573,
+      "name": "Fuck Off",
+      "url": "https://open.spotify.com/track/1Q01zHMDA70SNdcrUZxwIT"
+    },
+    {
+      "added_at": "2026-10-11 14:05:08",
+      "album": {
+        "name": "Chronic Obsessions",
+        "url": "https://open.spotify.com/album/78hy2PK22Ll9aZaJuU4fKj"
+      },
+      "artists": [
+        {
+          "name": "Ella Kenz",
+          "url": "https://open.spotify.com/artist/5k0qIptpKEMpMlGx2wbE8e"
+        }
+      ],
+      "duration_ms": 183130,
+      "name": "Your Fault",
+      "url": "https://open.spotify.com/track/0fblNVg8bUKfBoA4WPWth9"
     }
   ],
   "unique_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",

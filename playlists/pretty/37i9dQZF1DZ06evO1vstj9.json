@@ -1,12 +1,12 @@
 {
   "description": "This is Elmiene. The essential tracks, all in one playlist.",
-  "num_followers": 11324,
+  "num_followers": 11333,
   "original_name": "This Is Elmiene",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asbdAAAAAAAMvuerHTAxSmOa/Xok0Axz",
+  "snapshot_id": "asgugAAAAAA0jWKqh5tMdHn2qLo8wzyV",
   "tracks": [
     {
       "added_at": null,
@@ -251,26 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Endless No Mores - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/50yfipy2MBrEIxT36zC1gk"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        },
-        {
-          "name": "COLORS",
-          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
-        }
-      ],
-      "duration_ms": 179238,
-      "name": "Endless No Mores - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/0UpZJ1hUK4q1yzjQzXI32B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Black Boy (Alternative)",
         "url": "https://open.spotify.com/album/6DMwCmRxKHQtbCtGcFqljG"
       },
@@ -291,6 +271,26 @@
       "duration_ms": 245120,
       "name": "Drowning",
       "url": "https://open.spotify.com/track/3PA3lTvvSyEM8jED6QEWqm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Endless No Mores - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/50yfipy2MBrEIxT36zC1gk"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "duration_ms": 179238,
+      "name": "Endless No Mores - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/0UpZJ1hUK4q1yzjQzXI32B"
     },
     {
       "added_at": null,

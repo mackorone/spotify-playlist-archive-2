@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2I5NIp.md) - [plain]
 
 > This is Shemekia Copeland\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,037 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,036 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2I5NIp.md) - [plain]
 | 49 | [It's 2 A.M.](https://open.spotify.com/track/004057Au60xNi5a6rvCTDE) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Wicked](https://open.spotify.com/album/0DaEqzbN2sKZR0aOmYgLNp) | 4:28 |
 | 50 | [Walk Until I Ride](https://open.spotify.com/track/4oTb36MHmlBJHikriDUQhj) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/7lFE1Hz5V4GTgAPfZK1uvt) | 4:12 |
 
-Snapshot ID: `asbdAAAAAAA7CHXzTJ7kkiShIgpvwlem`
+Snapshot ID: `asgugAAAAABp3K+GbInWCXulNVIbc4qO`

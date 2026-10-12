@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SHrJsyCVuc.md) - [plain]
 
 > A new world of alternative noise\. Cover: Cherry Chola
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,115 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,120 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

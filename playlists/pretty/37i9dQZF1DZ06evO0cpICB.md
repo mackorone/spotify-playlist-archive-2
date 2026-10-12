@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0cpICB.md) - [plain]
 
 > This is FLO\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,280 likes - 37 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,289 likes - 36 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,12 +20,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0cpICB.md) - [plain]
 | 10 | [I can’t be high around you anymore](https://open.spotify.com/track/47SWX89TEMbqdL1CyAzDGb) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [THERAPY AT THE CLUB](https://open.spotify.com/album/1Rz7o4Hllbk3qVHEa6XgBf) | 3:20 |
 | 11 | [The Mood](https://open.spotify.com/track/12IzrBskU17Z10IrXBa6C7) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [The Mood](https://open.spotify.com/album/6IvB1z8H8pwGCWzDCoyvBs) | 2:52 |
 | 12 | [Recently Deleted](https://open.spotify.com/track/49uWjZ0INI41gLJVi8DxIf) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas: Unlocked](https://open.spotify.com/album/4AKsvZI1VnaaykmssL74UQ) | 3:43 |
-| 13 | [Check](https://open.spotify.com/track/4P36g6o3poLyhEQRZOZhGZ) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 2:45 |
-| 14 | [Sex In Peace \(ft\. kwn\)](https://open.spotify.com/track/55LgZlNjXalYkfgdfiedMi) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [THERAPY AT THE CLUB](https://open.spotify.com/album/1Rz7o4Hllbk3qVHEa6XgBf) | 3:25 |
+| 13 | [In My Bag \(feat\. GloRilla\)](https://open.spotify.com/track/4l9xe2rcwWctjrI43UFkgA) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 3:08 |
+| 14 | [Remedied](https://open.spotify.com/track/53k6rqSYCCzMPk995U8fE6) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [THERAPY AT THE CLUB](https://open.spotify.com/album/1Rz7o4Hllbk3qVHEa6XgBf) | 2:08 |
 | 15 | [Losing You](https://open.spotify.com/track/146pr47LcU6HE5TQ6mgiSX) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Losing You](https://open.spotify.com/album/1nVNtqccCdtzc3N9uKqXXl) | 3:44 |
 | 16 | [Feature Me](https://open.spotify.com/track/1CcorUngVSo7k2GX8GLB53) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [The Lead](https://open.spotify.com/album/04wFsn459A8leDKrydRK56) | 3:21 |
-| 17 | [In My Bag \(feat\. GloRilla\)](https://open.spotify.com/track/4l9xe2rcwWctjrI43UFkgA) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 3:08 |
-| 18 | [Remedied](https://open.spotify.com/track/53k6rqSYCCzMPk995U8fE6) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [THERAPY AT THE CLUB](https://open.spotify.com/album/1Rz7o4Hllbk3qVHEa6XgBf) | 2:08 |
+| 17 | [Check](https://open.spotify.com/track/4P36g6o3poLyhEQRZOZhGZ) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 2:45 |
+| 18 | [Sex In Peace \(ft\. kwn\)](https://open.spotify.com/track/55LgZlNjXalYkfgdfiedMi) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [THERAPY AT THE CLUB](https://open.spotify.com/album/1Rz7o4Hllbk3qVHEa6XgBf) | 3:25 |
 | 19 | [Not My Job](https://open.spotify.com/track/2W7LjZ16NzpnWaUCBsU7Wp) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Not My Job](https://open.spotify.com/album/4zOm1Hp4dZixYzNgYOYAf3) | 2:54 |
 | 20 | [CRASH OUT \(feat\. FLO\)](https://open.spotify.com/track/2zdtD5GCrveirY80k2C9gm) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz), [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [HYDRAULIC](https://open.spotify.com/album/752bBMIsnk3VdV6ANDZTWd) | 2:50 |
 | 21 | [Shoulda Woulda Coulda](https://open.spotify.com/track/24tiLnZ26wjYX3UiKUmVdK) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 3:46 |
@@ -42,8 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0cpICB.md) - [plain]
 | 32 | [Another Guy \- Acoustic](https://open.spotify.com/track/7rWkd70fyKUGw00s6BBSGz) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [The Lead](https://open.spotify.com/album/04wFsn459A8leDKrydRK56) | 3:00 |
 | 33 | [act xvi: twentyfoe7](https://open.spotify.com/track/4T5KVXgVYIniGEpz0L8Hft) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Still Shinin](https://open.spotify.com/album/5NUNaj9pyIjcNd5e9ObgzE) | 2:44 |
 | 34 | [3 of Us](https://open.spotify.com/track/36V3yQnFlfRarXVJbh17lE) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [3 of Us](https://open.spotify.com/album/3wjvkDUEECwgqVhIfNPQSV) | 2:56 |
-| 35 | [8 \(feat\. FLO\) \- Remix](https://open.spotify.com/track/5DLsTmQFQ3yCPowg1nreoh) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [While We Wait 2](https://open.spotify.com/album/6BtMJG0J0QnXIiGRCMgkxA) | 2:51 |
-| 36 | [Control Freak](https://open.spotify.com/track/0Vo7LGRniWktyOWYEf7xjX) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [3 of Us](https://open.spotify.com/album/3wjvkDUEECwgqVhIfNPQSV) | 3:00 |
-| 37 | [Suite Life \(Familiar\) \[Feat\. Bellah\] \- Bonus Track](https://open.spotify.com/track/2X5hOPvGUp800KM7GG6tXn) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [3 of Us](https://open.spotify.com/album/3K4ezkdiUh18fKYTLNF5at) | 2:34 |
+| 35 | [Control Freak](https://open.spotify.com/track/0Vo7LGRniWktyOWYEf7xjX) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [3 of Us](https://open.spotify.com/album/3wjvkDUEECwgqVhIfNPQSV) | 3:00 |
+| 36 | [Suite Life \(Familiar\) \[Feat\. Bellah\] \- Bonus Track](https://open.spotify.com/track/2X5hOPvGUp800KM7GG6tXn) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [3 of Us](https://open.spotify.com/album/3K4ezkdiUh18fKYTLNF5at) | 2:34 |
 
-Snapshot ID: `asbdAAAAAAByQ5rWKgZpWbnod5t/O2oa`
+Snapshot ID: `asmAAAAAAADYinU27de2CbNQFefaoQBm`

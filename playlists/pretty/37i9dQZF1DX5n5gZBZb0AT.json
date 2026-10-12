@@ -1,6 +1,6 @@
 {
   "description": "all gains",
-  "num_followers": 998270,
+  "num_followers": 998343,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-04-03 16:00:07",
       "album": {
-        "name": "Phonkageddon",
-        "url": "https://open.spotify.com/album/3mBLmOCKHY1MAOD8fYmffg"
-      },
-      "artists": [
-        {
-          "name": "Kordhell",
-          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
-        }
-      ],
-      "duration_ms": 133565,
-      "name": "Live Another Day",
-      "url": "https://open.spotify.com/track/34lfu3S4fIcKZRNXzbdbo7"
-    },
-    {
-      "added_at": "2026-04-03 16:00:07",
-      "album": {
         "name": "MASHA ULTRAFUNK",
         "url": "https://open.spotify.com/album/43DSGSYCywacjEkdeSv4DC"
       },
@@ -559,6 +543,22 @@
     {
       "added_at": "2026-04-03 16:00:07",
       "album": {
+        "name": "Phonkageddon",
+        "url": "https://open.spotify.com/album/3mBLmOCKHY1MAOD8fYmffg"
+      },
+      "artists": [
+        {
+          "name": "Kordhell",
+          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
+        }
+      ],
+      "duration_ms": 133565,
+      "name": "Live Another Day",
+      "url": "https://open.spotify.com/track/34lfu3S4fIcKZRNXzbdbo7"
+    },
+    {
+      "added_at": "2026-04-03 16:00:07",
+      "album": {
         "name": "Sahara",
         "url": "https://open.spotify.com/album/3Q8XfnyXY1KUqnfjkyGwWa"
       },
@@ -571,26 +571,6 @@
       "duration_ms": 170336,
       "name": "Sahara",
       "url": "https://open.spotify.com/track/6nqdgUTiWt4JbABDurkxMI"
-    },
-    {
-      "added_at": "2026-04-03 16:00:07",
-      "album": {
-        "name": "BRAZILIAN DAN\u00c7A PHONK",
-        "url": "https://open.spotify.com/album/4QlnGetYxfXaVGhgdmF0vG"
-      },
-      "artists": [
-        {
-          "name": "6YNTHMANE",
-          "url": "https://open.spotify.com/artist/24YUNOEuu3kf4OOtC8cQE5"
-        },
-        {
-          "name": "RXDXVIL",
-          "url": "https://open.spotify.com/artist/54HaZmktN1cmdL8Ygdrmzz"
-        }
-      ],
-      "duration_ms": 118194,
-      "name": "BRAZILIAN DAN\u00c7A PHONK",
-      "url": "https://open.spotify.com/track/6yVjjQA31SLM1kc4j5jPwF"
     },
     {
       "added_at": "2026-04-03 16:00:07",
@@ -619,6 +599,26 @@
       "duration_ms": 91453,
       "name": "DERNIERE DANCE FUNK",
       "url": "https://open.spotify.com/track/6NxIh2DTIOoATFmezrHv61"
+    },
+    {
+      "added_at": "2026-04-03 16:00:07",
+      "album": {
+        "name": "BRAZILIAN DAN\u00c7A PHONK",
+        "url": "https://open.spotify.com/album/4QlnGetYxfXaVGhgdmF0vG"
+      },
+      "artists": [
+        {
+          "name": "6YNTHMANE",
+          "url": "https://open.spotify.com/artist/24YUNOEuu3kf4OOtC8cQE5"
+        },
+        {
+          "name": "RXDXVIL",
+          "url": "https://open.spotify.com/artist/54HaZmktN1cmdL8Ygdrmzz"
+        }
+      ],
+      "duration_ms": 118194,
+      "name": "BRAZILIAN DAN\u00c7A PHONK",
+      "url": "https://open.spotify.com/track/6yVjjQA31SLM1kc4j5jPwF"
     },
     {
       "added_at": "2026-04-03 16:00:07",
@@ -679,30 +679,6 @@
     {
       "added_at": "2026-04-03 16:00:07",
       "album": {
-        "name": "MONTAGEM LADRAO",
-        "url": "https://open.spotify.com/album/3Aw43kkDlLE5ZXwQPGHWgO"
-      },
-      "artists": [
-        {
-          "name": "ATLXS",
-          "url": "https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah"
-        },
-        {
-          "name": "MXZI",
-          "url": "https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y"
-        },
-        {
-          "name": "Itamar Mc",
-          "url": "https://open.spotify.com/artist/6guLZyE3by1cVU1ydAAKpJ"
-        }
-      ],
-      "duration_ms": 75240,
-      "name": "MONTAGEM LADRAO",
-      "url": "https://open.spotify.com/track/48WnIIBbnttcwUQ77MBoMI"
-    },
-    {
-      "added_at": "2026-04-03 16:00:07",
-      "album": {
         "name": "Devil Eyes",
         "url": "https://open.spotify.com/album/42lC4GQuPUF9wdbdeaZDWl"
       },
@@ -739,6 +715,30 @@
     {
       "added_at": "2026-04-03 16:00:07",
       "album": {
+        "name": "MONTAGEM LADRAO",
+        "url": "https://open.spotify.com/album/3Aw43kkDlLE5ZXwQPGHWgO"
+      },
+      "artists": [
+        {
+          "name": "ATLXS",
+          "url": "https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah"
+        },
+        {
+          "name": "MXZI",
+          "url": "https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y"
+        },
+        {
+          "name": "Itamar Mc",
+          "url": "https://open.spotify.com/artist/6guLZyE3by1cVU1ydAAKpJ"
+        }
+      ],
+      "duration_ms": 75240,
+      "name": "MONTAGEM LADRAO",
+      "url": "https://open.spotify.com/track/48WnIIBbnttcwUQ77MBoMI"
+    },
+    {
+      "added_at": "2026-04-03 16:00:07",
+      "album": {
         "name": "PSL",
         "url": "https://open.spotify.com/album/4hhb7OlsPwdMK0gqpHkrMq"
       },
@@ -755,18 +755,22 @@
     {
       "added_at": "2026-04-03 16:00:07",
       "album": {
-        "name": "Phantom",
-        "url": "https://open.spotify.com/album/3PJhr2ejWvavjQGlBJvEkn"
+        "name": "DEMONS IN MY SOUL",
+        "url": "https://open.spotify.com/album/5EDnWffEsv2TTRyMPMufl7"
       },
       "artists": [
         {
-          "name": "Tevvez",
-          "url": "https://open.spotify.com/artist/3ZaPFQ05J5qSM5I3Smbp44"
+          "name": "SCXR SOUL",
+          "url": "https://open.spotify.com/artist/6yxKWJK7XtaOMK2j9FXqSC"
+        },
+        {
+          "name": "Sx1nxwy",
+          "url": "https://open.spotify.com/artist/0vX16aPLB5IGeyzFDHBm6T"
         }
       ],
-      "duration_ms": 189679,
-      "name": "Legend",
-      "url": "https://open.spotify.com/track/05EG9LwFCVjkoYEWzsrHHO"
+      "duration_ms": 117637,
+      "name": "DEMONS IN MY SOUL",
+      "url": "https://open.spotify.com/track/72iyEnh9p6PoyJoEnAJDjO"
     }
   ],
   "unique_name": "gymcore",

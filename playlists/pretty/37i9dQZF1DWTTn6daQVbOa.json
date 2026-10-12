@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1970s. Cover: Elton John",
-  "num_followers": 1184120,
+  "num_followers": 1184322,
   "original_name": "Soft 70s",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Off the Wall",
-        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 219926,
-      "name": "Rock with You - Single Version",
-      "url": "https://open.spotify.com/track/7oOOI85fVQvVnK5ynNMdW7"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "America",
         "url": "https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 252239,
       "name": "A Horse with No Name",
       "url": "https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Off the Wall",
+        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 219926,
+      "name": "Rock with You - Single Version",
+      "url": "https://open.spotify.com/track/7oOOI85fVQvVnK5ynNMdW7"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -367,22 +367,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Grease (The Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
-      },
-      "artists": [
-        {
-          "name": "Olivia Newton-John",
-          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
-        }
-      ],
-      "duration_ms": 185360,
-      "name": "Hopelessly Devoted To You - From \u201cGrease\u201d",
-      "url": "https://open.spotify.com/track/5BUq9bdtsm3LWw5laJeJ4R"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Bridge Over Troubled Water",
         "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 312578,
       "name": "The Boxer",
       "url": "https://open.spotify.com/track/76TZCvJ8GitQ2FA1q5dKu0"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Grease (The Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
+      },
+      "artists": [
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        }
+      ],
+      "duration_ms": 185360,
+      "name": "Hopelessly Devoted To You - From \u201cGrease\u201d",
+      "url": "https://open.spotify.com/track/5BUq9bdtsm3LWw5laJeJ4R"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Sweet Baby James (2019 Remaster)",
-        "url": "https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx"
-      },
-      "artists": [
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
-        }
-      ],
-      "duration_ms": 203613,
-      "name": "Fire and Rain - 2019 Remaster",
-      "url": "https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Close To You",
         "url": "https://open.spotify.com/album/5z8MFnoVUIfVo6MQW0uIul"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 273933,
       "name": "(They Long To Be) Close To You",
       "url": "https://open.spotify.com/track/2kyVQg00pphEufGT59M2XH"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Sweet Baby James (2019 Remaster)",
+        "url": "https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "duration_ms": 203613,
+      "name": "Fire and Rain - 2019 Remaster",
+      "url": "https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Back Home Again",
-        "url": "https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm"
-      },
-      "artists": [
-        {
-          "name": "John Denver",
-          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
-        }
-      ],
-      "duration_ms": 180693,
-      "name": "Annie's Song",
-      "url": "https://open.spotify.com/track/4J0DbyODwZJcmIAiTSJfMF"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Now & Then (Reissue)",
         "url": "https://open.spotify.com/album/0A7WaXRUZ2fkHtUYfeoF73"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 233533,
       "name": "Yesterday Once More",
       "url": "https://open.spotify.com/track/3wM6RTAnF7IQpMFd7b9ZcL"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Back Home Again",
+        "url": "https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm"
+      },
+      "artists": [
+        {
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+        }
+      ],
+      "duration_ms": 180693,
+      "name": "Annie's Song",
+      "url": "https://open.spotify.com/track/4J0DbyODwZJcmIAiTSJfMF"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1309,22 +1309,6 @@
       "url": "https://open.spotify.com/track/2yDQVcj26tpi9IUJhw9xDs"
     },
     {
-      "added_at": "2024-12-27 17:35:00",
-      "album": {
-        "name": "Seasons In The Sun (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6qKGMVfcz7HxHeXnhUsK9J"
-      },
-      "artists": [
-        {
-          "name": "Terry Jacks",
-          "url": "https://open.spotify.com/artist/09dDdtfi4mWLdC2BHOrIrl"
-        }
-      ],
-      "duration_ms": 208853,
-      "name": "Seasons in the Sun",
-      "url": "https://open.spotify.com/track/7pGMRy91RcQT9oHdPgYz3A"
-    },
-    {
       "added_at": "2022-09-23 05:26:33",
       "album": {
         "name": "Trafalgar",
@@ -1339,6 +1323,22 @@
       "duration_ms": 237826,
       "name": "How Can You Mend A Broken Heart",
       "url": "https://open.spotify.com/track/1jy0RbDHyBMTupSdc98XbG"
+    },
+    {
+      "added_at": "2024-12-27 17:35:00",
+      "album": {
+        "name": "Seasons In The Sun (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6qKGMVfcz7HxHeXnhUsK9J"
+      },
+      "artists": [
+        {
+          "name": "Terry Jacks",
+          "url": "https://open.spotify.com/artist/09dDdtfi4mWLdC2BHOrIrl"
+        }
+      ],
+      "duration_ms": 208853,
+      "name": "Seasons in the Sun",
+      "url": "https://open.spotify.com/track/7pGMRy91RcQT9oHdPgYz3A"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "The Album",
-        "url": "https://open.spotify.com/album/5fLOHW1UXr1cJrnXiU3FBt"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 291866,
-      "name": "The Name Of The Game",
-      "url": "https://open.spotify.com/track/1lDo24S34NvI1pAg7Oxldc"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "We Must Believe In Magic",
         "url": "https://open.spotify.com/album/57FGUcDejZqr816U3ZkMT8"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 157653,
       "name": "Don't It Make My Brown Eyes Blue",
       "url": "https://open.spotify.com/track/7Jpclr7tZ6aQXjoKzWXUJV"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/5fLOHW1UXr1cJrnXiU3FBt"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 291866,
+      "name": "The Name Of The Game",
+      "url": "https://open.spotify.com/track/1lDo24S34NvI1pAg7Oxldc"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "The Three Degrees",
-        "url": "https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 178746,
-      "name": "When Will I See You Again",
-      "url": "https://open.spotify.com/track/02srSkeu2pzybuVr2B9TJm"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Doctor Hook",
         "url": "https://open.spotify.com/album/0WmdelW8OCAAsxayYY7vHm"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 228333,
       "name": "Sylvia's Mother",
       "url": "https://open.spotify.com/track/4hLk7Bjz1XJWNDiqovvgBW"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "The Three Degrees",
+        "url": "https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 178746,
+      "name": "When Will I See You Again",
+      "url": "https://open.spotify.com/track/02srSkeu2pzybuVr2B9TJm"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Destroyer",
-        "url": "https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 165666,
-      "name": "Beth",
-      "url": "https://open.spotify.com/track/1cPXOzyeZauSAsT1yy7aBp"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Rose Royce III: Strikes Again!",
         "url": "https://open.spotify.com/album/7Fztl07Vtpt1rxFYoHeZji"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 238306,
       "name": "Love Don't Live Here Anymore",
       "url": "https://open.spotify.com/track/3pVsGhUEBZKFtn0n8zjS0H"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Destroyer",
+        "url": "https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 165666,
+      "name": "Beth",
+      "url": "https://open.spotify.com/track/1cPXOzyeZauSAsT1yy7aBp"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "The Spy Who Loved Me (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5k55f89cnXdy0BikkUeBHJ"
-      },
-      "artists": [
-        {
-          "name": "Carly Simon",
-          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
-        }
-      ],
-      "duration_ms": 212666,
-      "name": "Nobody Does It Better",
-      "url": "https://open.spotify.com/track/49RUdNvwSiUTC8fBh4KKoC"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "The Very Best Of The Commodores",
         "url": "https://open.spotify.com/album/7wexfT6sZsdsrKuMaoH7Mn"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 260893,
       "name": "Easy",
       "url": "https://open.spotify.com/track/0wtHjEAzLYYyGuk2WtpGwS"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "The Spy Who Loved Me (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5k55f89cnXdy0BikkUeBHJ"
+      },
+      "artists": [
+        {
+          "name": "Carly Simon",
+          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
+        }
+      ],
+      "duration_ms": 212666,
+      "name": "Nobody Does It Better",
+      "url": "https://open.spotify.com/track/49RUdNvwSiUTC8fBh4KKoC"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2315,18 +2315,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Neither One Of Us",
-        "url": "https://open.spotify.com/album/7GNfj26cSJZEWvS822NELd"
+        "name": "The Best Of Michael Martin Murphey",
+        "url": "https://open.spotify.com/album/4oNkliPdTLg2FHIDp4PgDN"
       },
       "artists": [
         {
-          "name": "Gladys Knight & The Pips",
-          "url": "https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1"
+          "name": "Michael Martin Murphey",
+          "url": "https://open.spotify.com/artist/4jL1usPiGDK8TD46zJP4gu"
         }
       ],
-      "duration_ms": 264266,
-      "name": "Neither One Of Us (Wants To Be The First To Say Goodbye)",
-      "url": "https://open.spotify.com/track/3QgSJ9CqgLPk9B4xLdwLrS"
+      "duration_ms": 307866,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/737c89v3Zdit8EUyNJ7KeS"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2347,18 +2347,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "The Best Of Michael Martin Murphey",
-        "url": "https://open.spotify.com/album/4oNkliPdTLg2FHIDp4PgDN"
+        "name": "Neither One Of Us",
+        "url": "https://open.spotify.com/album/7GNfj26cSJZEWvS822NELd"
       },
       "artists": [
         {
-          "name": "Michael Martin Murphey",
-          "url": "https://open.spotify.com/artist/4jL1usPiGDK8TD46zJP4gu"
+          "name": "Gladys Knight & The Pips",
+          "url": "https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1"
         }
       ],
-      "duration_ms": 307866,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/737c89v3Zdit8EUyNJ7KeS"
+      "duration_ms": 264266,
+      "name": "Neither One Of Us (Wants To Be The First To Say Goodbye)",
+      "url": "https://open.spotify.com/track/3QgSJ9CqgLPk9B4xLdwLrS"
     },
     {
       "added_at": "2022-09-23 05:26:33",

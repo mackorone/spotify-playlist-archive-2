@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdR77H5Z8MIM.md) - [plain]
 
 > Time to press play on these jaem jams from 2010 onwards! Cover: KARD
 
-[Spotify](https://open.spotify.com/user/spotify) - 379,750 likes - 70 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 379,743 likes - 70 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,20 +27,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdR77H5Z8MIM.md) - [plain]
 | 17 | [NOT CUTE ANYMORE](https://open.spotify.com/track/1k0JAiH11gHL9dc5dfQjQr) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [NOT CUTE ANYMORE](https://open.spotify.com/album/6wKHLrZczZAhDVsMEG4JXt) | 2:11 |
 | 18 | [RUDE!](https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [RUDE!](https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s) | 3:20 |
 | 19 | [Takedown](https://open.spotify.com/track/0MHStU0muAIEMbwdnebYu2) | [HUNTR/X](https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:02 |
-| 20 | [BOOMPALA](https://open.spotify.com/track/41d2WjuL0ikRKVjxmL7ZFz) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | ['PUREFLOW', Pt\. 1](https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko) | 2:56 |
-| 21 | [Catch Catch](https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [LOVE CATCHER](https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F) | 3:00 |
+| 20 | [Catch Catch](https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [LOVE CATCHER](https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F) | 3:00 |
+| 21 | [BOOMPALA](https://open.spotify.com/track/41d2WjuL0ikRKVjxmL7ZFz) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | ['PUREFLOW', Pt\. 1](https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko) | 2:56 |
 | 22 | [Your Idol](https://open.spotify.com/track/1I37Zz2g3hk9eWxaNkj031) | [Saja Boys](https://open.spotify.com/artist/0BJ2EjOqcfgFvlZXNKrNbE), [Andrew Choi](https://open.spotify.com/artist/7JBaynR7JFeniONqbnn1U4), [Neckwav](https://open.spotify.com/artist/5bXNU0MAF2HSqyFPhYtscH), [Danny Chung](https://open.spotify.com/artist/11pXvO7wYuzRWYONDOBd33), [KEVIN WOO](https://open.spotify.com/artist/2RYonYiVhhzBz82UFXOvEN), [samUIL Lee](https://open.spotify.com/artist/1eDupbD9kIx8UaZlzcBG5r), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:11 |
 | 23 | [Billyeoon Goyangi \(Do the Dance\)](https://open.spotify.com/track/4p0uVFAXKUISu8yp9gNtWE) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [bomb](https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp) | 3:08 |
 | 24 | [Super Shy](https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 2:34 |
-| 25 | [FRI\(END\)S](https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [FRI\(END\)S](https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs) | 2:28 |
-| 26 | [Run BTS](https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:24 |
+| 25 | [Run BTS](https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:24 |
+| 26 | [FRI\(END\)S](https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [FRI\(END\)S](https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs) | 2:28 |
 | 27 | [CHOOM](https://open.spotify.com/track/4cox7ONwuCwUvfZ9fsGDVu) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [춤 \(CHOOM\)](https://open.spotify.com/album/1VmMG3mtIWHWm618Cwiku7) | 2:58 |
 | 28 | [Tick\-Tack](https://open.spotify.com/track/0znsc67nMhP4X9hjhvoyeP) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [I'LL LIKE YOU](https://open.spotify.com/album/7CBwpeVQ27cWwyEYjByVH1) | 2:09 |
 | 29 | [Chk Chk Boom](https://open.spotify.com/track/09keT5ocFhEd5W5HidiUNq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/3WdsoMKRqtw5Sgg67YrpnY) | 2:28 |
 | 30 | [Bite Me](https://open.spotify.com/track/7mpdNiaQvygj2rHoxkzMfa) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DARK BLOOD](https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f) | 2:37 |
 | 31 | [Moonwalkin'](https://open.spotify.com/track/46V2ciN6F5bxjQWityNhkY) | [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [SHOT CALLERS](https://open.spotify.com/album/6M05ADW4mz2x07jIpIzCXR) | 3:28 |
-| 32 | [Beat It Up](https://open.spotify.com/track/4UJwJG0Byki4e9MNTxo8aF) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Beat It Up](https://open.spotify.com/album/7jd5hUsxFPUsM0dqfpRjmp) | 3:20 |
-| 33 | [LEMONADE](https://open.spotify.com/track/2oR7jPvWPC08Su4KYmKR3O) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [LEMONADE \- The 2nd Album](https://open.spotify.com/album/2233LC6uuoi67lGcO2OaBm) | 3:07 |
+| 32 | [LEMONADE](https://open.spotify.com/track/2oR7jPvWPC08Su4KYmKR3O) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [LEMONADE \- The 2nd Album](https://open.spotify.com/album/2233LC6uuoi67lGcO2OaBm) | 3:07 |
+| 33 | [Beat It Up](https://open.spotify.com/track/4UJwJG0Byki4e9MNTxo8aF) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Beat It Up](https://open.spotify.com/album/7jd5hUsxFPUsM0dqfpRjmp) | 3:20 |
 | 34 | [Hype Boy](https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:59 |
 | 35 | [DRIP](https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k) | 3:00 |
 | 36 | [CRAZY](https://open.spotify.com/track/4gxEY3Mh5FZZDAJAKPNrCS) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY \(Party Remixes 1\)](https://open.spotify.com/album/6kAsgfuulBOuyYLytWX7e2) | 2:44 |

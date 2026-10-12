@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlpl5PNGfZ9.md) - [plain]
 
 > Lo mejor del pop en español en la década de los 90.
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,088 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,165 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,17 +33,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlpl5PNGfZ9.md) - [plain]
 | 23 | [La Cosa Mas Bella](https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Donde Hay Música \(Spanish Version\)](https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq) | 4:25 |
 | 24 | [Otro Día Más Sin Verte](https://open.spotify.com/track/7i38EXhbFJjF5tGvTsJMmx) | [Jon Secada](https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW) | [Jon Secada](https://open.spotify.com/album/1duV6ATgfQWMvjNyfHmxZL) | 5:27 |
 | 25 | [Pies Descalzos, Sueños Blancos](https://open.spotify.com/track/5yKQTwznar5I75UyYJ9CnR) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Pies Descalzos](https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9) | 3:25 |
-| 26 | [Me quedaré solo](https://open.spotify.com/track/4I3rLiNr4xgRT5dRpFOltS) | [Amistades Peligrosas](https://open.spotify.com/artist/15FscPIs0VO23BCCMaPglf) | [La Profecía](https://open.spotify.com/album/2k691jOhcg4Hj89qp9OLzY) | 4:21 |
-| 27 | [Hacer El Amor Con Otro](https://open.spotify.com/track/1OB7cLxxCWA8gbbfjFNNej) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Flor De Piel](https://open.spotify.com/album/4jVhCAGCEhQUyXrMD4owlU) | 4:43 |
+| 26 | [Hacer El Amor Con Otro](https://open.spotify.com/track/1OB7cLxxCWA8gbbfjFNNej) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Flor De Piel](https://open.spotify.com/album/4jVhCAGCEhQUyXrMD4owlU) | 4:43 |
+| 27 | [Me quedaré solo](https://open.spotify.com/track/4I3rLiNr4xgRT5dRpFOltS) | [Amistades Peligrosas](https://open.spotify.com/artist/15FscPIs0VO23BCCMaPglf) | [La Profecía](https://open.spotify.com/album/2k691jOhcg4Hj89qp9OLzY) | 4:21 |
 | 28 | [Otra Como Tu](https://open.spotify.com/track/2cSXotAohYx0EWCNljCzs7) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Todo Historias](https://open.spotify.com/album/6nWZLgTAuIgulKZcJxgsg4) | 4:41 |
-| 29 | [Dejaría Todo](https://open.spotify.com/track/79mdw3IznNCFsF7R9O2KGz) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Atado a Tu Amor](https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i) | 4:44 |
+| 29 | [El Duelo](https://open.spotify.com/track/3XHg42QOqlevRU7jXRkAKk) | [La Ley](https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK) | [Invisible](https://open.spotify.com/album/5aocKknfljbM7XK3PWPVRi) | 3:14 |
 | 30 | [Ojos Así](https://open.spotify.com/track/4EDfdYJ7mqXRoWAqzF1PVO) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Donde Estan Los Ladrones](https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe) | 3:55 |
-| 31 | [El Duelo](https://open.spotify.com/track/3XHg42QOqlevRU7jXRkAKk) | [La Ley](https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK) | [Invisible](https://open.spotify.com/album/5aocKknfljbM7XK3PWPVRi) | 3:14 |
+| 31 | [Dejaría Todo](https://open.spotify.com/track/79mdw3IznNCFsF7R9O2KGz) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Atado a Tu Amor](https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i) | 4:44 |
 | 32 | [Vivir Sin Aire](https://open.spotify.com/track/3G9RQLOSjsXVUDyQSv2PQR) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [¿Dónde Jugarán Los Niños?](https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK) | 4:51 |
 | 33 | [Suave](https://open.spotify.com/track/4p7XH4NhQ25iGYrrbg93gt) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Aries](https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC) | 4:49 |
 | 34 | [Vuelve](https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Vuelve](https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL) | 5:08 |
-| 35 | [Me haces tanto bien](https://open.spotify.com/track/5PM8SxOW02F9ChM0BLjALX) | [Amistades Peligrosas](https://open.spotify.com/artist/15FscPIs0VO23BCCMaPglf) | [La Ultima Tentación](https://open.spotify.com/album/4zgAUvHWJU5TsT7eoBM9Vq) | 3:55 |
-| 36 | [Mirala Miralo](https://open.spotify.com/track/6GCNUmk7L7OWtpvSk0fWOg) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Libre](https://open.spotify.com/album/5Zb5uLdHzmnIbOBy4zvVwW) | 4:00 |
+| 35 | [Mirala Miralo](https://open.spotify.com/track/6GCNUmk7L7OWtpvSk0fWOg) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Libre](https://open.spotify.com/album/5Zb5uLdHzmnIbOBy4zvVwW) | 4:00 |
+| 36 | [Me haces tanto bien](https://open.spotify.com/track/5PM8SxOW02F9ChM0BLjALX) | [Amistades Peligrosas](https://open.spotify.com/artist/15FscPIs0VO23BCCMaPglf) | [La Ultima Tentación](https://open.spotify.com/album/4zgAUvHWJU5TsT7eoBM9Vq) | 3:55 |
 | 37 | [Con Todos Menos Conmigo](https://open.spotify.com/track/4d7N2lqEJMbQwVy1LCqhXv) | [Timbiriche](https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO) | [Timbiriche 7](https://open.spotify.com/album/5srfo2XTGJPW9EAiky3TdM) | 3:04 |
 | 38 | [Mariposa tecknicolor](https://open.spotify.com/track/2RognU2ViRdA6HxnpAITJl) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Circo Beat](https://open.spotify.com/album/3pFykTd3Xwi8jtTrNFJEwa) | 3:42 |
 | 39 | [Historia de Taxi](https://open.spotify.com/track/005Dlt8Xaz3DkaXiRJgdiS) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Historias](https://open.spotify.com/album/110rZdMmIjA335CehJJkuk) | 6:45 |

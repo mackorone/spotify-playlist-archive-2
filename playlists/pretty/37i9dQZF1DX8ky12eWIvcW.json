@@ -1,6 +1,6 @@
 {
   "description": "Turn up with the biggest party tracks of yesteryear.",
-  "num_followers": 2820579,
+  "num_followers": 2820637,
   "original_name": "Throwback Jams",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2026-04-13 20:12:01",
       "album": {
-        "name": "The Trinity",
-        "url": "https://open.spotify.com/album/32Bu3ETQhR1PFCj3ndDlYf"
-      },
-      "artists": [
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        }
-      ],
-      "duration_ms": 216320,
-      "name": "Temperature",
-      "url": "https://open.spotify.com/track/0k2GOhqsrxDTAbFFSdNJjT"
-    },
-    {
-      "added_at": "2026-04-13 20:12:01",
-      "album": {
         "name": "Speakerboxxx/The Love Below",
         "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 235213,
       "name": "Hey Ya!",
       "url": "https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM"
+    },
+    {
+      "added_at": "2026-04-13 20:12:01",
+      "album": {
+        "name": "The Trinity",
+        "url": "https://open.spotify.com/album/32Bu3ETQhR1PFCj3ndDlYf"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "duration_ms": 216320,
+      "name": "Temperature",
+      "url": "https://open.spotify.com/track/0k2GOhqsrxDTAbFFSdNJjT"
     },
     {
       "added_at": "2026-04-13 20:12:01",
@@ -295,22 +295,6 @@
     {
       "added_at": "2026-04-13 20:12:01",
       "album": {
-        "name": "Good Girl Gone Bad: Reloaded",
-        "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 200573,
-      "name": "Breakin' Dishes",
-      "url": "https://open.spotify.com/track/46aZJc0z1HHHSFxaIRxYSP"
-    },
-    {
-      "added_at": "2026-04-13 20:12:01",
-      "album": {
         "name": "Stankonia",
         "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 270506,
       "name": "Ms. Jackson",
       "url": "https://open.spotify.com/track/0I3q5fE6wg7LIfHGngUTnV"
+    },
+    {
+      "added_at": "2026-04-13 20:12:01",
+      "album": {
+        "name": "Good Girl Gone Bad: Reloaded",
+        "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 200573,
+      "name": "Breakin' Dishes",
+      "url": "https://open.spotify.com/track/46aZJc0z1HHHSFxaIRxYSP"
     },
     {
       "added_at": "2026-04-13 20:12:01",
@@ -635,26 +635,6 @@
     {
       "added_at": "2026-04-13 20:12:01",
       "album": {
-        "name": "Kings Of Crunk",
-        "url": "https://open.spotify.com/album/4htcOW08TqINNLbcSf9esI"
-      },
-      "artists": [
-        {
-          "name": "Lil Jon & The East Side Boyz",
-          "url": "https://open.spotify.com/artist/3ciRvbBIVz9fBoPbtSYq4x"
-        },
-        {
-          "name": "Ying Yang Twins",
-          "url": "https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m"
-        }
-      ],
-      "duration_ms": 334066,
-      "name": "Get Low",
-      "url": "https://open.spotify.com/track/0r2Bul2NuCViraT2zX1l5j"
-    },
-    {
-      "added_at": "2026-04-13 20:12:01",
-      "album": {
         "name": "Dangerously In Love",
         "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 236133,
       "name": "Crazy In Love (feat. JA\u0178-Z)",
       "url": "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr"
+    },
+    {
+      "added_at": "2026-04-13 20:12:01",
+      "album": {
+        "name": "Kings Of Crunk",
+        "url": "https://open.spotify.com/album/4htcOW08TqINNLbcSf9esI"
+      },
+      "artists": [
+        {
+          "name": "Lil Jon & The East Side Boyz",
+          "url": "https://open.spotify.com/artist/3ciRvbBIVz9fBoPbtSYq4x"
+        },
+        {
+          "name": "Ying Yang Twins",
+          "url": "https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m"
+        }
+      ],
+      "duration_ms": 334066,
+      "name": "Get Low",
+      "url": "https://open.spotify.com/track/0r2Bul2NuCViraT2zX1l5j"
     },
     {
       "added_at": "2026-04-13 20:12:01",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-04-13 20:12:01",
       "album": {
-        "name": "Poison",
-        "url": "https://open.spotify.com/album/6H5mxGUWguDjtQ4Uzd8veD"
-      },
-      "artists": [
-        {
-          "name": "Bell Biv DeVoe",
-          "url": "https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL"
-        }
-      ],
-      "duration_ms": 261853,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/6m59VvDUi0UQsB2eZ9wVbH"
-    },
-    {
-      "added_at": "2026-04-13 20:12:01",
-      "album": {
         "name": "Everytime We Touch (Premium Edition)",
         "url": "https://open.spotify.com/album/2unbJ7dUr9mITQiMwWFqQD"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 197124,
       "name": "Everytime We Touch",
       "url": "https://open.spotify.com/track/5YJtMNWKe55yr49cyJgxva"
+    },
+    {
+      "added_at": "2026-04-13 20:12:01",
+      "album": {
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/6H5mxGUWguDjtQ4Uzd8veD"
+      },
+      "artists": [
+        {
+          "name": "Bell Biv DeVoe",
+          "url": "https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL"
+        }
+      ],
+      "duration_ms": 261853,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/6m59VvDUi0UQsB2eZ9wVbH"
     },
     {
       "added_at": "2026-04-13 20:12:01",
@@ -971,6 +971,22 @@
     {
       "added_at": "2026-04-13 20:12:01",
       "album": {
+        "name": "Unleash The Dragon",
+        "url": "https://open.spotify.com/album/0nyora4kbjBGE4d1B9gxnm"
+      },
+      "artists": [
+        {
+          "name": "Sisqo",
+          "url": "https://open.spotify.com/artist/6x9QLdzo6eBZxJ1bHsDkjg"
+        }
+      ],
+      "duration_ms": 253733,
+      "name": "Thong Song",
+      "url": "https://open.spotify.com/track/5Mmk2ii6laakqfeCT7OnVD"
+    },
+    {
+      "added_at": "2026-04-13 20:12:01",
+      "album": {
         "name": "Life After Death (2014 Remastered Edition)",
         "url": "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 257399,
       "name": "Mo Money Mo Problems (feat. Puff Daddy & Mase) - 2014 Remaster",
       "url": "https://open.spotify.com/track/4INDiWSKvqSKDEu7mh8HFz"
-    },
-    {
-      "added_at": "2026-04-13 20:12:01",
-      "album": {
-        "name": "Unleash The Dragon",
-        "url": "https://open.spotify.com/album/0nyora4kbjBGE4d1B9gxnm"
-      },
-      "artists": [
-        {
-          "name": "Sisqo",
-          "url": "https://open.spotify.com/artist/6x9QLdzo6eBZxJ1bHsDkjg"
-        }
-      ],
-      "duration_ms": 253733,
-      "name": "Thong Song",
-      "url": "https://open.spotify.com/track/5Mmk2ii6laakqfeCT7OnVD"
     },
     {
       "added_at": "2026-04-13 20:12:01",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-04-13 20:12:01",
       "album": {
-        "name": "So Blu",
-        "url": "https://open.spotify.com/album/3EIwRVOXjqWAxVLt7raduU"
-      },
-      "artists": [
-        {
-          "name": "Blu Cantrell",
-          "url": "https://open.spotify.com/artist/6vytZ677lz4LzCrUDcDokM"
-        }
-      ],
-      "duration_ms": 250706,
-      "name": "Hit 'Em Up Style (Oops!)",
-      "url": "https://open.spotify.com/track/4zYTZvtcww7OWKie7fxA9E"
-    },
-    {
-      "added_at": "2026-04-13 20:12:01",
-      "album": {
         "name": "The Sound of Revenge",
         "url": "https://open.spotify.com/album/31dzB4ULKZfOH71tuaBiR8"
       },
@@ -1355,6 +1339,22 @@
     {
       "added_at": "2026-04-13 20:12:01",
       "album": {
+        "name": "So Blu",
+        "url": "https://open.spotify.com/album/3EIwRVOXjqWAxVLt7raduU"
+      },
+      "artists": [
+        {
+          "name": "Blu Cantrell",
+          "url": "https://open.spotify.com/artist/6vytZ677lz4LzCrUDcDokM"
+        }
+      ],
+      "duration_ms": 250706,
+      "name": "Hit 'Em Up Style (Oops!)",
+      "url": "https://open.spotify.com/track/4zYTZvtcww7OWKie7fxA9E"
+    },
+    {
+      "added_at": "2026-04-13 20:12:01",
+      "album": {
         "name": "Miss E... So Addictive",
         "url": "https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP"
       },
@@ -1367,6 +1367,22 @@
       "duration_ms": 211120,
       "name": "Get Ur Freak On",
       "url": "https://open.spotify.com/track/6zsk6uF3MxfIeHPlubKBvR"
+    },
+    {
+      "added_at": "2026-04-13 20:12:01",
+      "album": {
+        "name": "93 'til Infinity",
+        "url": "https://open.spotify.com/album/7aSjaEi3OQ2aZemcJDhMb1"
+      },
+      "artists": [
+        {
+          "name": "Souls Of Mischief",
+          "url": "https://open.spotify.com/artist/5Rzqmz1zAszembFHGZQuAt"
+        }
+      ],
+      "duration_ms": 286440,
+      "name": "93 'Til Infinity",
+      "url": "https://open.spotify.com/track/0PV1TFUMTBrDETzW6KQulB"
     },
     {
       "added_at": "2026-04-13 20:12:01",
@@ -1399,18 +1415,18 @@
     {
       "added_at": "2026-04-13 20:12:01",
       "album": {
-        "name": "93 'til Infinity",
-        "url": "https://open.spotify.com/album/7aSjaEi3OQ2aZemcJDhMb1"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg"
       },
       "artists": [
         {
-          "name": "Souls Of Mischief",
-          "url": "https://open.spotify.com/artist/5Rzqmz1zAszembFHGZQuAt"
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
         }
       ],
-      "duration_ms": 286440,
-      "name": "93 'Til Infinity",
-      "url": "https://open.spotify.com/track/0PV1TFUMTBrDETzW6KQulB"
+      "duration_ms": 249866,
+      "name": "Big Poppa - 2007 Remaster",
+      "url": "https://open.spotify.com/track/63BcfK6YAzJYeISaTPr6IO"
     },
     {
       "added_at": "2026-04-13 20:12:01",
@@ -1431,22 +1447,6 @@
       "duration_ms": 230133,
       "name": "Let Me Blow Ya Mind",
       "url": "https://open.spotify.com/track/3RmKpob8xzv1pzHEQrMJah"
-    },
-    {
-      "added_at": "2026-04-13 20:12:01",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg"
-      },
-      "artists": [
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        }
-      ],
-      "duration_ms": 249866,
-      "name": "Big Poppa - 2007 Remaster",
-      "url": "https://open.spotify.com/track/63BcfK6YAzJYeISaTPr6IO"
     },
     {
       "added_at": "2026-04-13 20:12:01",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2026-04-13 20:12:01",
       "album": {
-        "name": "Grand Champ",
-        "url": "https://open.spotify.com/album/0FeqrLI13XnYNY1s414uQd"
-      },
-      "artists": [
-        {
-          "name": "DMX",
-          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
-        }
-      ],
-      "duration_ms": 286266,
-      "name": "Where The Hood At",
-      "url": "https://open.spotify.com/track/6RUpJeXT6U4SPEafnr9Wr7"
-    },
-    {
-      "added_at": "2026-04-13 20:12:01",
-      "album": {
         "name": "400 Degreez",
         "url": "https://open.spotify.com/album/6wpqS71CJr3I0dLguYiZdJ"
       },
@@ -1599,6 +1583,22 @@
     {
       "added_at": "2026-04-13 20:12:01",
       "album": {
+        "name": "Survivor",
+        "url": "https://open.spotify.com/album/2HcjLD0ButtKsQYqzoyOx9"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "duration_ms": 254026,
+      "name": "Survivor",
+      "url": "https://open.spotify.com/track/2Mpj1Ul5OFPyyP4wB62Rvi"
+    },
+    {
+      "added_at": "2026-04-13 20:12:01",
+      "album": {
         "name": "It Was Written",
         "url": "https://open.spotify.com/album/78Fgb88MY0ECc4GVMejqTg"
       },
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2026-04-13 20:12:01",
       "album": {
-        "name": "Survivor",
-        "url": "https://open.spotify.com/album/2HcjLD0ButtKsQYqzoyOx9"
+        "name": "Grand Champ",
+        "url": "https://open.spotify.com/album/0FeqrLI13XnYNY1s414uQd"
       },
       "artists": [
         {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
         }
       ],
-      "duration_ms": 254026,
-      "name": "Survivor",
-      "url": "https://open.spotify.com/track/2Mpj1Ul5OFPyyP4wB62Rvi"
+      "duration_ms": 286266,
+      "name": "Where The Hood At",
+      "url": "https://open.spotify.com/track/6RUpJeXT6U4SPEafnr9Wr7"
     },
     {
       "added_at": "2026-04-13 20:12:01",

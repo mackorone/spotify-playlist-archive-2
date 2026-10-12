@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by Real Boss,  Arjan Dhillon, JASKARAN and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,116 likes - 75 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,138 likes - 75 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

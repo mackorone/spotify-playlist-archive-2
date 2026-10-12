@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > kun det nyeste danske rap 👀  ICEKIID på cover!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,465 likes - 64 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,468 likes - 64 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

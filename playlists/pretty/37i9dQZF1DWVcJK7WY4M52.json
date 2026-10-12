@@ -1,6 +1,6 @@
 {
   "description": "From the decade that brought us Britney, Spice Girls, Coolio and so many more!",
-  "num_followers": 615906,
+  "num_followers": 616392,
   "original_name": "90s Pop",
   "owner": {
     "name": "Spotify",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-07-12 19:27:29",
       "album": {
-        "name": "Big Willie Style",
-        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
-      },
-      "artists": [
-        {
-          "name": "Will Smith",
-          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
-        }
-      ],
-      "duration_ms": 197560,
-      "name": "Miami",
-      "url": "https://open.spotify.com/track/6e8Ou0wiqAzIpWb2eSxll8"
-    },
-    {
-      "added_at": "2024-07-12 19:27:29",
-      "album": {
         "name": "Daydream",
         "url": "https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 258133,
       "name": "Always Be My Baby",
       "url": "https://open.spotify.com/track/2aBxt229cbLDOvtL7Xbb9x"
+    },
+    {
+      "added_at": "2024-07-12 19:27:29",
+      "album": {
+        "name": "Big Willie Style",
+        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
+      },
+      "artists": [
+        {
+          "name": "Will Smith",
+          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
+        }
+      ],
+      "duration_ms": 197560,
+      "name": "Miami",
+      "url": "https://open.spotify.com/track/6e8Ou0wiqAzIpWb2eSxll8"
     },
     {
       "added_at": "2024-07-12 19:27:29",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-07-12 19:27:29",
       "album": {
-        "name": "All-4-One",
-        "url": "https://open.spotify.com/album/4L5ZA0GukWNWjsk9b7HHDy"
-      },
-      "artists": [
-        {
-          "name": "All-4-One",
-          "url": "https://open.spotify.com/artist/1B8ySGDAiXTCvnJNH4HSCG"
-        }
-      ],
-      "duration_ms": 259853,
-      "name": "I Swear",
-      "url": "https://open.spotify.com/track/4WUnM4KNZ0kjp0CUeoyOnS"
-    },
-    {
-      "added_at": "2024-07-12 19:27:29",
-      "album": {
         "name": "Millennium",
         "url": "https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 232826,
       "name": "Larger Than Life",
       "url": "https://open.spotify.com/track/6sbXGUn9V9ZaLwLdOfpKRE"
+    },
+    {
+      "added_at": "2024-07-12 19:27:29",
+      "album": {
+        "name": "All-4-One",
+        "url": "https://open.spotify.com/album/4L5ZA0GukWNWjsk9b7HHDy"
+      },
+      "artists": [
+        {
+          "name": "All-4-One",
+          "url": "https://open.spotify.com/artist/1B8ySGDAiXTCvnJNH4HSCG"
+        }
+      ],
+      "duration_ms": 259853,
+      "name": "I Swear",
+      "url": "https://open.spotify.com/track/4WUnM4KNZ0kjp0CUeoyOnS"
     },
     {
       "added_at": "2024-07-12 19:27:29",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-07-12 19:27:29",
       "album": {
+        "name": "Tease Me",
+        "url": "https://open.spotify.com/album/6GTzBIyPe32G2mXBaYSqYY"
+      },
+      "artists": [
+        {
+          "name": "Chaka Demus & Pliers",
+          "url": "https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Murder She Wrote",
+      "url": "https://open.spotify.com/track/1HGyhNaRUFEDBiVLbvtbL6"
+    },
+    {
+      "added_at": "2024-07-12 19:27:29",
+      "album": {
         "name": "Operation Stackola",
         "url": "https://open.spotify.com/album/5pMShIZc6oWiEtcQvXsKfb"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 253533,
       "name": "I Got 5 On It",
       "url": "https://open.spotify.com/track/4IYKjN1DrYzxKXt0umJqsG"
-    },
-    {
-      "added_at": "2024-07-12 19:27:29",
-      "album": {
-        "name": "Tease Me",
-        "url": "https://open.spotify.com/album/6GTzBIyPe32G2mXBaYSqYY"
-      },
-      "artists": [
-        {
-          "name": "Chaka Demus & Pliers",
-          "url": "https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "Murder She Wrote",
-      "url": "https://open.spotify.com/track/1HGyhNaRUFEDBiVLbvtbL6"
     },
     {
       "added_at": "2024-07-12 19:27:29",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2024-07-12 19:27:29",
       "album": {
-        "name": "...Baby One More Time (Digital Deluxe Version)",
-        "url": "https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx"
+        "name": "Backstreet Boys",
+        "url": "https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S"
       },
       "artists": [
         {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
         }
       ],
-      "duration_ms": 198066,
-      "name": "(You Drive Me) Crazy",
-      "url": "https://open.spotify.com/track/1DSJNBNhGZCigg9ll5VeZv"
+      "duration_ms": 214333,
+      "name": "As Long as You Love Me",
+      "url": "https://open.spotify.com/track/00WvmRXTkPBZNhhRK3xfdy"
     },
     {
       "added_at": "2024-07-12 19:27:29",
@@ -1147,6 +1147,22 @@
       "duration_ms": 219120,
       "name": "You Make Me Wanna...",
       "url": "https://open.spotify.com/track/47TqCCnEliDp8NRDyIQoQq"
+    },
+    {
+      "added_at": "2024-07-12 19:27:29",
+      "album": {
+        "name": "...Baby One More Time (Digital Deluxe Version)",
+        "url": "https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 198066,
+      "name": "(You Drive Me) Crazy",
+      "url": "https://open.spotify.com/track/1DSJNBNhGZCigg9ll5VeZv"
     },
     {
       "added_at": "2024-07-12 19:27:29",
@@ -1199,22 +1215,6 @@
       "duration_ms": 281066,
       "name": "One Sweet Day",
       "url": "https://open.spotify.com/track/7ySbfLwdCwl1EM0zNCJZ38"
-    },
-    {
-      "added_at": "2024-07-12 19:27:29",
-      "album": {
-        "name": "Backstreet Boys",
-        "url": "https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S"
-      },
-      "artists": [
-        {
-          "name": "Backstreet Boys",
-          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
-        }
-      ],
-      "duration_ms": 214333,
-      "name": "As Long as You Love Me",
-      "url": "https://open.spotify.com/track/00WvmRXTkPBZNhhRK3xfdy"
     },
     {
       "added_at": "2024-07-12 19:27:29",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-07-12 19:27:29",
       "album": {
-        "name": "Diva",
-        "url": "https://open.spotify.com/album/33ImEB9taJ3Tie4APfTL7B"
-      },
-      "artists": [
-        {
-          "name": "Annie Lennox",
-          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
-        }
-      ],
-      "duration_ms": 253295,
-      "name": "Walking on Broken Glass",
-      "url": "https://open.spotify.com/track/4CcSw8wQAHYf4XNckayPoc"
-    },
-    {
-      "added_at": "2024-07-12 19:27:29",
-      "album": {
         "name": "Emotions",
         "url": "https://open.spotify.com/album/0SHpIbyBLUugMXsl3yNkUz"
       },
@@ -1523,18 +1507,18 @@
     {
       "added_at": "2024-07-12 19:27:29",
       "album": {
-        "name": "Love Hurts",
-        "url": "https://open.spotify.com/album/23ZynaAt0r7guEQef3baHW"
+        "name": "Diva",
+        "url": "https://open.spotify.com/album/33ImEB9taJ3Tie4APfTL7B"
       },
       "artists": [
         {
-          "name": "Cher",
-          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+          "name": "Annie Lennox",
+          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
         }
       ],
-      "duration_ms": 170000,
-      "name": "The Shoop Shoop Song (It's In His Kiss)",
-      "url": "https://open.spotify.com/track/5oV1YjM2rtyZ55txHHsFUu"
+      "duration_ms": 253295,
+      "name": "Walking on Broken Glass",
+      "url": "https://open.spotify.com/track/4CcSw8wQAHYf4XNckayPoc"
     },
     {
       "added_at": "2024-07-12 19:27:29",
@@ -1555,6 +1539,22 @@
     {
       "added_at": "2024-07-12 19:27:29",
       "album": {
+        "name": "Love Hurts",
+        "url": "https://open.spotify.com/album/23ZynaAt0r7guEQef3baHW"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "The Shoop Shoop Song (It's In His Kiss)",
+      "url": "https://open.spotify.com/track/5oV1YjM2rtyZ55txHHsFUu"
+    },
+    {
+      "added_at": "2024-07-12 19:27:29",
+      "album": {
         "name": "Jade To The Max",
         "url": "https://open.spotify.com/album/2EwwOSHl7oOX1vyjQBx4Zc"
       },
@@ -1567,22 +1567,6 @@
       "duration_ms": 216373,
       "name": "Don't Walk Away",
       "url": "https://open.spotify.com/track/7tsRp7QKUBp6hc9bth0h7x"
-    },
-    {
-      "added_at": "2024-07-12 19:27:29",
-      "album": {
-        "name": "Stay (I Missed You)",
-        "url": "https://open.spotify.com/album/0candONErDvN9wWFhOWXrS"
-      },
-      "artists": [
-        {
-          "name": "Lisa Loeb & Nine Stories",
-          "url": "https://open.spotify.com/artist/4a7CDXcRCXi4kp5z7SEXtg"
-        }
-      ],
-      "duration_ms": 184333,
-      "name": "Stay (I Missed You)",
-      "url": "https://open.spotify.com/track/00U1MDChdOTxWwtKoOoBXE"
     },
     {
       "added_at": "2024-07-12 19:27:29",
@@ -1603,6 +1587,22 @@
       "duration_ms": 285462,
       "name": "Heartbreaker (feat. JA\u0178-Z)",
       "url": "https://open.spotify.com/track/0jsANwwkkHyyeNyuTFq2XO"
+    },
+    {
+      "added_at": "2024-07-12 19:27:29",
+      "album": {
+        "name": "Stay (I Missed You)",
+        "url": "https://open.spotify.com/album/0candONErDvN9wWFhOWXrS"
+      },
+      "artists": [
+        {
+          "name": "Lisa Loeb & Nine Stories",
+          "url": "https://open.spotify.com/artist/4a7CDXcRCXi4kp5z7SEXtg"
+        }
+      ],
+      "duration_ms": 184333,
+      "name": "Stay (I Missed You)",
+      "url": "https://open.spotify.com/track/00U1MDChdOTxWwtKoOoBXE"
     },
     {
       "added_at": "2024-07-12 19:27:29",

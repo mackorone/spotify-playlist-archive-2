@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS0ll5RduHB.md) - [plain]
 
 > 音楽をポケットに詰めて散歩に出かけよう。きっと新しい景色が見えてくるはず。
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,208 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,209 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS0ll5RduHB.md) - [plain]
 | 45 | [タイムパラドックス](https://open.spotify.com/track/3jNwPOqdPvQIr5dRT0hzgY) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [タイムパラドックス](https://open.spotify.com/album/4cHdtiNVgGR80HprOsOdiK) | 3:46 |
 | 46 | [Bunny Girl](https://open.spotify.com/track/5skCbGGAnc7Ns18Figz54h) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [Bunny Girl](https://open.spotify.com/album/1mxib3LFgnhuMciehemliH) | 3:37 |
 | 47 | [Obsessed](https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Obsessed](https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF) | 3:16 |
-| 48 | [Okay, Goodbye](https://open.spotify.com/track/1Vw0JiY6Jk8vCypHzb3fo4) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Prema](https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9) | 3:50 |
+| 48 | [You](https://open.spotify.com/track/2vQhYhGSBBamRhhJeWprr1) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Prema](https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9) | 4:41 |
 | 49 | [Aura](https://open.spotify.com/track/26DcgZg9O6YCUVuRukGGhQ) | [IV OF SPADES](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Aura](https://open.spotify.com/album/4pOYu3ruXW8StaMZmXTcDs) | 5:18 |
 | 50 | [さよーならまたいつか！\- Sayonara](https://open.spotify.com/track/6jRyCWUAnRVir3OK4jSZvV) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [さよーならまたいつか！\- Sayonara](https://open.spotify.com/album/3c9L5LsKV4lIK14pxGu0SG) | 3:21 |
 

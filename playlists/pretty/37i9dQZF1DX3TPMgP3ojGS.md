@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 485,866 likes - 100 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 485,941 likes - 100 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 25 | [Nostalgia](https://open.spotify.com/track/391l8re8aew1rvyNOXUYDD) | [Floyd Nova](https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz) | [Nostalgia](https://open.spotify.com/album/0rPZ302N1AwjJGO6llGHnK) | 2:52 |
 | 26 | [Peace flow](https://open.spotify.com/track/3IwddX0zjnQ7am17WdP66M) | [Jon Albreit](https://open.spotify.com/artist/7HUDHULnPyXARDfZzsx5xc) | [Peace flow](https://open.spotify.com/album/26L1oUjqDrhosLQuYdHAcm) | 2:17 |
 | 27 | [Evening Star](https://open.spotify.com/track/5HbLcDxxjtJ0800p6RjoeH) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Evening Star](https://open.spotify.com/album/096g5y9CPefSvUd9EhzL65) | 2:08 |
-| 28 | [Autumn Sky](https://open.spotify.com/track/7yQvxdXqotBSRCAYOIOGVt) | [Vincent Fanguro](https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM) | [Autumn Sky](https://open.spotify.com/album/4M3iJjlUckhmZi2HZLfWAT) | 2:38 |
-| 29 | [Onward](https://open.spotify.com/track/6zo1cdRzbCvGZmJVJEk8TS) | [Remi Sinclair](https://open.spotify.com/artist/2e43Th3IHo39TLIcMpeFbn) | [Onward](https://open.spotify.com/album/5KO6U6HtIH8sK9sOJmJt2i) | 2:14 |
+| 28 | [Onward](https://open.spotify.com/track/6zo1cdRzbCvGZmJVJEk8TS) | [Remi Sinclair](https://open.spotify.com/artist/2e43Th3IHo39TLIcMpeFbn) | [Onward](https://open.spotify.com/album/5KO6U6HtIH8sK9sOJmJt2i) | 2:14 |
+| 29 | [Autumn Sky](https://open.spotify.com/track/7yQvxdXqotBSRCAYOIOGVt) | [Vincent Fanguro](https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM) | [Autumn Sky](https://open.spotify.com/album/4M3iJjlUckhmZi2HZLfWAT) | 2:38 |
 | 30 | [Nordanvind](https://open.spotify.com/track/42cskWMuFydbI9f9um1sTj) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [Nordanvind](https://open.spotify.com/album/6j0bsFT0NhsZiiSJqS3mze) | 2:07 |
 | 31 | [Lofoten](https://open.spotify.com/track/3cn7PHrN7FdhOrH2wqPeKe) | [Otto Noir](https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS) | [Lofoten](https://open.spotify.com/album/0FsLOcwk1jL1yB1e64LKXD) | 2:41 |
 | 32 | [Turn](https://open.spotify.com/track/0y7I045qDUH1carkgTB2UG) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Under](https://open.spotify.com/album/0tVEjAfGFPBdtvql2BUHKs) | 2:39 |
@@ -53,16 +53,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 43 | [Libre](https://open.spotify.com/track/4v1nkqzbzajcLBxEnJ1AP3) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Libre](https://open.spotify.com/album/4H3g7aYu5vQ2stDtwlz8TJ) | 2:23 |
 | 44 | [Window Seat](https://open.spotify.com/track/6GRjlkZ7MxKtRC4jsJzQxv) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Window Seat](https://open.spotify.com/album/7qaaLpJ9QuQzAwbsZOd6PF) | 2:25 |
 | 45 | [Noktúrna \- Upright Piano](https://open.spotify.com/track/0uSyj4g5Qh5zCcbyMJufbY) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Noktúrna Variations](https://open.spotify.com/album/26z4j76XfqW15DPpGXEx3D) | 2:02 |
-| 46 | [To New Beginnings](https://open.spotify.com/track/7IrrIzxSk3OO48hW6dpEus) | [Una Luna](https://open.spotify.com/artist/6hKJteZkxCj4rEW8Enp9r7) | [To New Beginnings](https://open.spotify.com/album/6NCZQQodsLFgqxVJ5jTbui) | 2:09 |
-| 47 | [Afterlight](https://open.spotify.com/track/0X3mDFl8poPzyNQmrTe9fr) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Afterlight](https://open.spotify.com/album/4dNFgryxb6P7wJDsdPaupX) | 3:20 |
-| 48 | [Ocean Heart](https://open.spotify.com/track/4TXzJ0L5gMumCwrlEgyRZL) | [Hazel Adams](https://open.spotify.com/artist/7k5pLfgL1ELz5X4SxuYoBK) | [Ocean Heart](https://open.spotify.com/album/7ogcQaTj5cbsbDdmo6REqL) | 2:52 |
-| 49 | [Suki Desu](https://open.spotify.com/track/7geHCfvKGWHQ9d24S2a2aa) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Sakura](https://open.spotify.com/album/2BarWHunh4UHpIHvj1Xoka) | 2:16 |
+| 46 | [Suki Desu](https://open.spotify.com/track/7geHCfvKGWHQ9d24S2a2aa) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Sakura](https://open.spotify.com/album/2BarWHunh4UHpIHvj1Xoka) | 2:16 |
+| 47 | [Ocean Heart](https://open.spotify.com/track/4TXzJ0L5gMumCwrlEgyRZL) | [Hazel Adams](https://open.spotify.com/artist/7k5pLfgL1ELz5X4SxuYoBK) | [Ocean Heart](https://open.spotify.com/album/7ogcQaTj5cbsbDdmo6REqL) | 2:52 |
+| 48 | [Afterlight](https://open.spotify.com/track/0X3mDFl8poPzyNQmrTe9fr) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Afterlight](https://open.spotify.com/album/4dNFgryxb6P7wJDsdPaupX) | 3:20 |
+| 49 | [To New Beginnings](https://open.spotify.com/track/7IrrIzxSk3OO48hW6dpEus) | [Una Luna](https://open.spotify.com/artist/6hKJteZkxCj4rEW8Enp9r7) | [To New Beginnings](https://open.spotify.com/album/6NCZQQodsLFgqxVJ5jTbui) | 2:09 |
 | 50 | [Full Bloom](https://open.spotify.com/track/04i9TIi97Aoh1xjrCCM0aI) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Full Bloom](https://open.spotify.com/album/1iri0k7a8k3f4QR7krIGlT) | 2:22 |
 | 51 | [Ellie](https://open.spotify.com/track/4QfPxrgEAfWt0DEjrR1CXw) | [Aeyes Libe](https://open.spotify.com/artist/2PUFZI4SN9XsFMf0i7qEwv) | [Ellie](https://open.spotify.com/album/5v7bkrqDm8YY8kWWgRQ7cw) | 2:58 |
 | 52 | [Just Stay](https://open.spotify.com/track/61PEtXxbmpaVQDRNxcE0IJ) | [Tristaan Wilkes](https://open.spotify.com/artist/4awKyidTqtd5z49BGOLvck) | [Just Stay](https://open.spotify.com/album/2No724SMCYYdHbpY4DnFeO) | 2:03 |
 | 53 | [Release from silence](https://open.spotify.com/track/2t9Fi5LCyFyha1EfaPqVD9) | [Patrick Buote](https://open.spotify.com/artist/7ICIWajOxziHTqP1yzsz74) | [Release from silence](https://open.spotify.com/album/3CFaQNYtGUK5Y669NHFBgQ) | 2:17 |
-| 54 | [Printemps](https://open.spotify.com/track/5aqsEPDq44asJ3eJDlYq1F) | [Les Rêveries](https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O) | [Printemps](https://open.spotify.com/album/2BPTDSwabVcb0C315KGctp) | 2:17 |
-| 55 | [A Rose](https://open.spotify.com/track/0XAHH61ykmd5UpOF7w7Ky8) | [Natalee Marlowe](https://open.spotify.com/artist/0xpi7Cnrj85a5mifMxgCfS) | [A Rose](https://open.spotify.com/album/4uZB2x6Fnj3JznsdZY2tBA) | 2:27 |
+| 54 | [A Rose](https://open.spotify.com/track/0XAHH61ykmd5UpOF7w7Ky8) | [Natalee Marlowe](https://open.spotify.com/artist/0xpi7Cnrj85a5mifMxgCfS) | [A Rose](https://open.spotify.com/album/4uZB2x6Fnj3JznsdZY2tBA) | 2:27 |
+| 55 | [Printemps](https://open.spotify.com/track/5aqsEPDq44asJ3eJDlYq1F) | [Les Rêveries](https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O) | [Printemps](https://open.spotify.com/album/2BPTDSwabVcb0C315KGctp) | 2:17 |
 | 56 | [La Belle Epoque](https://open.spotify.com/track/7bk5U14iArhfEeazvoP3L5) | [Isaac Cassidy](https://open.spotify.com/artist/3QoWofhE474wVe9XdvQrHJ) | [La Belle Epoque](https://open.spotify.com/album/7hiSVCKLapC4UIqtKv6yYi) | 2:43 |
 | 57 | [Wake with me](https://open.spotify.com/track/4xTvAj3iYFWOoeaErsNwbj) | [Brian Lyndon](https://open.spotify.com/artist/1F24KoavEHiou99P9SlyBY) | [Wake with me](https://open.spotify.com/album/3L3SYoTKzulJPAhsVd0tXy) | 2:15 |
 | 58 | [Strosande](https://open.spotify.com/track/0BET2XNs9xjzW6uQ5yvqjQ) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Strosande](https://open.spotify.com/album/33zOUncyEjkebUlCAEuvtM) | 3:02 |
@@ -81,10 +81,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 71 | [Who You Are](https://open.spotify.com/track/76agaZQuHOXaW7FoulqfD0) | [Cary Appleby](https://open.spotify.com/artist/53wNCR7II0lI1ephEA7rnR) | [Who You Are](https://open.spotify.com/album/3vPN95aWwiD7Rzuz9eDQFy) | 2:42 |
 | 72 | [Ala](https://open.spotify.com/track/0vzSIBAqnN1HzvWrPbh6VF) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Ala](https://open.spotify.com/album/2Xwt6dmjCWZkOkkhWcWlfa) | 2:00 |
 | 73 | [Včeraj](https://open.spotify.com/track/6o71Foef4Jf2LMFnHuvQo4) | [Zemfira Mironova](https://open.spotify.com/artist/7HdmWISDuEN6CX1zXXaK8H) | [Včeraj](https://open.spotify.com/album/5gR375qQkGA51v1fB4euT9) | 2:05 |
-| 74 | [Forevermore](https://open.spotify.com/track/3xZBHTUT1gLAmDbPz77ETo) | [Ambrosiae](https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm) | [Forevermore](https://open.spotify.com/album/1uaB2cXT94Sl6V3eN2UFsW) | 2:34 |
-| 75 | [A Bad Dream That Will Pass Away](https://open.spotify.com/track/6XTKYGyydndSUV3OHHDwZU) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [A Bad Dream That Will Pass Away](https://open.spotify.com/album/4VCzs0bZIXVoNxQq5sGAnm) | 2:56 |
-| 76 | [Come close](https://open.spotify.com/track/3ANR14gcrMm6asGMNVhivt) | [Korey Banks](https://open.spotify.com/artist/300oLKNAaJNFP04XeswaAG) | [Come close](https://open.spotify.com/album/27r1Al7Uf7dtsd4zNCqXb6) | 2:50 |
-| 77 | [Archipelago](https://open.spotify.com/track/5LmaeC0bRQqaHtK781KOhD) | [Damien Jeunet](https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs) | [Archipelago](https://open.spotify.com/album/5cvXAkKUZjtimQ19bN6AN9) | 2:38 |
+| 74 | [A Bad Dream That Will Pass Away](https://open.spotify.com/track/6XTKYGyydndSUV3OHHDwZU) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [A Bad Dream That Will Pass Away](https://open.spotify.com/album/4VCzs0bZIXVoNxQq5sGAnm) | 2:56 |
+| 75 | [Forevermore](https://open.spotify.com/track/3xZBHTUT1gLAmDbPz77ETo) | [Ambrosiae](https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm) | [Forevermore](https://open.spotify.com/album/1uaB2cXT94Sl6V3eN2UFsW) | 2:34 |
+| 76 | [Archipelago](https://open.spotify.com/track/5LmaeC0bRQqaHtK781KOhD) | [Damien Jeunet](https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs) | [Archipelago](https://open.spotify.com/album/5cvXAkKUZjtimQ19bN6AN9) | 2:38 |
+| 77 | [Come close](https://open.spotify.com/track/3ANR14gcrMm6asGMNVhivt) | [Korey Banks](https://open.spotify.com/artist/300oLKNAaJNFP04XeswaAG) | [Come close](https://open.spotify.com/album/27r1Al7Uf7dtsd4zNCqXb6) | 2:50 |
 | 78 | [Sibylline](https://open.spotify.com/track/1g6eKf7X35dCZv8v8ZRx8P) | [Corinne Blanchard](https://open.spotify.com/artist/2zDTFnpiqFdhI2VhxBryyG) | [Sibylline](https://open.spotify.com/album/5lo1m7awiXG4tBi5RQCDBJ) | 2:11 |
 | 79 | [Lisser](https://open.spotify.com/track/7JuANIIOksqHRFXgE8tEld) | [Miran](https://open.spotify.com/artist/2Nk5XPyODZYGkTpGPQel2Q) | [Lisser](https://open.spotify.com/album/5tmo9htHpTWaVxZEgHFtB8) | 2:05 |
 | 80 | [Water](https://open.spotify.com/track/0fHo89AiSS0X3ycHHKnIoU) | [Michiel Borstlap](https://open.spotify.com/artist/3NLvXOZtSYiCwXc24os7Wh) | [Water](https://open.spotify.com/album/11M6tQvBOiunzPLZKxFWwZ) | 2:32 |

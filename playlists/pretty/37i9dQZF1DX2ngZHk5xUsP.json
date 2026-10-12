@@ -1,6 +1,6 @@
 {
   "description": "Lagu-lagu pilihan yang cocok nemenin kamu menuju Bekasi",
-  "num_followers": 21956,
+  "num_followers": 21954,
   "original_name": "Bekasi Jauh, Semangat! ",
   "owner": {
     "name": "Spotify",
@@ -675,6 +675,22 @@
     {
       "added_at": "2025-09-26 09:30:14",
       "album": {
+        "name": "Berona",
+        "url": "https://open.spotify.com/album/0VXwE7HnJZ0HIv6SXuOMh2"
+      },
+      "artists": [
+        {
+          "name": "Rizky Febian",
+          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Berona",
+      "url": "https://open.spotify.com/track/5w4u2NiaTnBmiCFZSyQxYY"
+    },
+    {
+      "added_at": "2025-09-26 09:30:14",
+      "album": {
         "name": "Our Sincere Desire",
         "url": "https://open.spotify.com/album/57GZmG6ZYl2479tDAusXn4"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 221847,
       "name": "Spoken",
       "url": "https://open.spotify.com/track/0H5DgLDteF1kBLqQVTKCQ6"
-    },
-    {
-      "added_at": "2025-09-26 09:30:14",
-      "album": {
-        "name": "Berona",
-        "url": "https://open.spotify.com/album/0VXwE7HnJZ0HIv6SXuOMh2"
-      },
-      "artists": [
-        {
-          "name": "Rizky Febian",
-          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Berona",
-      "url": "https://open.spotify.com/track/5w4u2NiaTnBmiCFZSyQxYY"
     },
     {
       "added_at": "2025-09-26 09:30:14",

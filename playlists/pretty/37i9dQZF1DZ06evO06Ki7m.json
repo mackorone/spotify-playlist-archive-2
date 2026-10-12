@@ -1,12 +1,12 @@
 {
   "description": "This is Metro Boomin. The essential tracks, all in one playlist.",
-  "num_followers": 412636,
+  "num_followers": 412644,
   "original_name": "This Is Metro Boomin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asgugAAAAACaLt3E+OkUpxVqsyxNnu1J",
+  "snapshot_id": "asmAAAAAAABZQ2JD060I8cUUm0Wmzr2m",
   "tracks": [
     {
       "added_at": null,
@@ -155,26 +155,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "SAVAGE MODE II",
-        "url": "https://open.spotify.com/album/6wTyGUWGCilBFZ837k5aRi"
+        "name": "NOT ALL HEROES WEAR CAPES (Deluxe)",
+        "url": "https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj"
       },
       "artists": [
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
         {
           "name": "Metro Boomin",
           "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
         },
         {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 190331,
-      "name": "Rich Nigga Shit (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/3ruoIF2UnoXdzK8mR61ebq"
+      "duration_ms": 203266,
+      "name": "Space Cadet (feat. Gunna)",
+      "url": "https://open.spotify.com/track/1fewSx2d5KIZ04wsooEBOz"
     },
     {
       "added_at": null,
@@ -223,6 +219,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "SAVAGE MODE II",
+        "url": "https://open.spotify.com/album/6wTyGUWGCilBFZ837k5aRi"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 190331,
+      "name": "Rich Nigga Shit (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/3ruoIF2UnoXdzK8mR61ebq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NOT ALL HEROES WEAR CAPES (Deluxe)",
         "url": "https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj"
       },
@@ -232,13 +252,13 @@
           "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
         },
         {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 203266,
-      "name": "Space Cadet (feat. Gunna)",
-      "url": "https://open.spotify.com/track/1fewSx2d5KIZ04wsooEBOz"
+      "duration_ms": 166093,
+      "name": "Overdue (with Travis Scott)",
+      "url": "https://open.spotify.com/track/6LyAwkJsHlW7RQ8S1cYAtM"
     },
     {
       "added_at": null,
@@ -267,30 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "WE DON'T TRUST YOU",
-        "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 169840,
-      "name": "Cinderella",
-      "url": "https://open.spotify.com/track/0hKtu53OlIFXVuYkZwcn3o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
       },
@@ -311,10 +307,14 @@
     {
       "added_at": null,
       "album": {
-        "name": "NOT ALL HEROES WEAR CAPES (Deluxe)",
-        "url": "https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj"
+        "name": "WE DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
       },
       "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
         {
           "name": "Metro Boomin",
           "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 166093,
-      "name": "Overdue (with Travis Scott)",
-      "url": "https://open.spotify.com/track/6LyAwkJsHlW7RQ8S1cYAtM"
+      "duration_ms": 169840,
+      "name": "Cinderella",
+      "url": "https://open.spotify.com/track/0hKtu53OlIFXVuYkZwcn3o"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DjgMvP8nVJ.md) - [plain]
 
 > Press play on the ultimate Sims playlist: iconic tracks that will inspire you to unleash your imagination & creativity.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,216 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,238 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DjgMvP8nVJ.md) - [plain]
 | 11 | [Pocketful of Sunshine](https://open.spotify.com/track/1uigwk5hNV84zRd5YQQRTk) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Pocketful Of Sunshine](https://open.spotify.com/album/6D1YpObdaha620Tm54WbIw) | 3:22 |
 | 12 | [Little Talks](https://open.spotify.com/track/2ihCaVdNZmnHZWt0fvAM7B) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy) | 4:26 |
 | 13 | [Country Girl \(Shake It For Me\)](https://open.spotify.com/track/0JbSghVDghtFEurrSO8JrC) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Tailgates & Tanlines](https://open.spotify.com/album/5IyIjKnGkQbYGVpWenblSe) | 3:45 |
-| 14 | [We Are Young \(feat\. Janelle Monáe\)](https://open.spotify.com/track/7a86XRg84qjasly9f6bPSD) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0), [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Some Nights](https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo) | 4:10 |
-| 15 | [Need You Now](https://open.spotify.com/track/11EX5yhxr9Ihl3IN1asrfK) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Need You Now](https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA) | 4:37 |
+| 14 | [Need You Now](https://open.spotify.com/track/11EX5yhxr9Ihl3IN1asrfK) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Need You Now](https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA) | 4:37 |
+| 15 | [We Are Young \(feat\. Janelle Monáe\)](https://open.spotify.com/track/7a86XRg84qjasly9f6bPSD) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0), [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Some Nights](https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo) | 4:10 |
 | 16 | [Hot N Cold](https://open.spotify.com/track/1y4eb6hmAvsqlDOl3fx9kk) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [One Of The Boys](https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl) | 3:40 |
 | 17 | [Welcome To Jamrock](https://open.spotify.com/track/22AbXxQbMdVqEz7xJjhccG) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Welcome to Jamrock](https://open.spotify.com/album/4Y0PrDckfFKxKaVXsscDLB) | 3:33 |
 | 18 | [Shut Up](https://open.spotify.com/track/0KxU9wjCedUxSGdjuFdBDu) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Elephunk](https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD) | 4:56 |

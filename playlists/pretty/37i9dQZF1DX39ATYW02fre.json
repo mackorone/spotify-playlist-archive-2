@@ -1,6 +1,6 @@
 {
   "description": "Beautiful electronic music for melancholy moments.",
-  "num_followers": 277265,
+  "num_followers": 277303,
   "original_name": "Melantronic",
   "owner": {
     "name": "Spotify",
@@ -615,22 +615,18 @@
     {
       "added_at": "2026-10-02 10:35:59",
       "album": {
-        "name": "Return to Ojai",
-        "url": "https://open.spotify.com/album/5HiSFg20JTQ5KTcD5Xsini"
+        "name": "WORRY.",
+        "url": "https://open.spotify.com/album/687CLrjAQcz01r18Eo9bXn"
       },
       "artists": [
         {
           "name": "Catching Flies",
           "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
-        },
-        {
-          "name": "TEED",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
         }
       ],
-      "duration_ms": 259480,
-      "name": "Return to Ojai",
-      "url": "https://open.spotify.com/track/3g70GmoZQlHPOTIkPUxLd9"
+      "duration_ms": 243282,
+      "name": "WORRY.",
+      "url": "https://open.spotify.com/track/4tb0xoNHvIhUsrx7GFcxzf"
     },
     {
       "added_at": "2026-10-02 10:35:59",
@@ -715,34 +711,22 @@
     {
       "added_at": "2026-10-02 10:35:59",
       "album": {
-        "name": "WORRY.",
-        "url": "https://open.spotify.com/album/687CLrjAQcz01r18Eo9bXn"
+        "name": "Return to Ojai",
+        "url": "https://open.spotify.com/album/5HiSFg20JTQ5KTcD5Xsini"
       },
       "artists": [
         {
           "name": "Catching Flies",
           "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
-        }
-      ],
-      "duration_ms": 243282,
-      "name": "WORRY.",
-      "url": "https://open.spotify.com/track/4tb0xoNHvIhUsrx7GFcxzf"
-    },
-    {
-      "added_at": "2026-10-02 10:35:59",
-      "album": {
-        "name": "October",
-        "url": "https://open.spotify.com/album/5PdBG1Q3tLZlSLoxB1LtK8"
-      },
-      "artists": [
+        },
         {
-          "name": "Icarus",
-          "url": "https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3"
+          "name": "TEED",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
         }
       ],
-      "duration_ms": 354102,
-      "name": "October",
-      "url": "https://open.spotify.com/track/6FIQ8o2hqlDmHQFoBKmKgW"
+      "duration_ms": 259480,
+      "name": "Return to Ojai",
+      "url": "https://open.spotify.com/track/3g70GmoZQlHPOTIkPUxLd9"
     },
     {
       "added_at": "2026-10-02 10:35:59",
@@ -767,6 +751,22 @@
       "duration_ms": 193032,
       "name": "Salve",
       "url": "https://open.spotify.com/track/68N8LWiI28QpOe80WQ96b1"
+    },
+    {
+      "added_at": "2026-10-02 10:35:59",
+      "album": {
+        "name": "October",
+        "url": "https://open.spotify.com/album/5PdBG1Q3tLZlSLoxB1LtK8"
+      },
+      "artists": [
+        {
+          "name": "Icarus",
+          "url": "https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3"
+        }
+      ],
+      "duration_ms": 354102,
+      "name": "October",
+      "url": "https://open.spotify.com/track/6FIQ8o2hqlDmHQFoBKmKgW"
     },
     {
       "added_at": "2026-10-02 10:35:59",
@@ -839,6 +839,22 @@
     {
       "added_at": "2026-10-02 10:35:59",
       "album": {
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/1Ay7BiWxgugN1YXqomG7w1"
+      },
+      "artists": [
+        {
+          "name": "breathe.",
+          "url": "https://open.spotify.com/artist/6XrEYPg6rrQMV4GKabTxbE"
+        }
+      ],
+      "duration_ms": 204100,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/2dMVIVXxaO9v2ImiSrWO0C"
+    },
+    {
+      "added_at": "2026-10-02 10:35:59",
+      "album": {
         "name": "Turtle Jazz",
         "url": "https://open.spotify.com/album/73C1QVOlWsW6qhhknFI6Ws"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 193613,
       "name": "Turtle Jazz",
       "url": "https://open.spotify.com/track/6Vx2Z3efuMINFSDOX1PoAu"
-    },
-    {
-      "added_at": "2026-10-02 10:35:59",
-      "album": {
-        "name": "Yesterday",
-        "url": "https://open.spotify.com/album/1Ay7BiWxgugN1YXqomG7w1"
-      },
-      "artists": [
-        {
-          "name": "breathe.",
-          "url": "https://open.spotify.com/artist/6XrEYPg6rrQMV4GKabTxbE"
-        }
-      ],
-      "duration_ms": 204100,
-      "name": "Yesterday",
-      "url": "https://open.spotify.com/track/2dMVIVXxaO9v2ImiSrWO0C"
     },
     {
       "added_at": "2026-10-02 10:35:59",

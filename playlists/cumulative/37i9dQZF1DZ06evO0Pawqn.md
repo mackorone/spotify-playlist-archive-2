@@ -4,7 +4,7 @@
 
 > This is Los Tiranos Del Norte\. The essential tracks, all in one playlist.
 
-109 songs - 5 hr 42 min
+110 songs - 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Carga Ladeada](https://open.spotify.com/track/1so4oGls3XfgofxsjEX6sm) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Con Sangre Nortena](https://open.spotify.com/album/34hVlKjJ6JvQN9b7p1tTCr) | 3:52 | 2023-02-03 | 2023-03-06 |
 | [Charola de Plata](https://open.spotify.com/track/5wT6aZvQzOCrESPS34hrXr) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [De la Tierra al Cielo VII](https://open.spotify.com/album/3gEDDLBunavFzx7qenQPuh) | 3:03 | 2022-06-01 |  |
 | [Cien Anos](https://open.spotify.com/track/0XmHMVZqUcIEGEFwNWcB2L) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Inolvidables](https://open.spotify.com/album/4jBi66BbClFguTlMaPijcr) | 3:15 | 2022-06-01 |  |
-| [Comiendote a Besos](https://open.spotify.com/track/5QyKogVAcJN3OnwFvilwhv) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H), [Nicky Rosse](https://open.spotify.com/artist/3scQP4cD9pEVskg0go34wc) | [Comiendote a Besos](https://open.spotify.com/album/4E6BdmdR1JQMDhjxpC9q7c) | 3:28 | 2026-08-13 |  |
+| [Comiendote a Besos](https://open.spotify.com/track/5QyKogVAcJN3OnwFvilwhv) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H), [Nicky Rosse](https://open.spotify.com/artist/3scQP4cD9pEVskg0go34wc) | [Comiendote a Besos](https://open.spotify.com/album/4E6BdmdR1JQMDhjxpC9q7c) | 3:28 | 2026-08-13 | 2026-10-12 |
+| [Como Criminales](https://open.spotify.com/track/16Vz8q5RmVru8BvlZfVP4u) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Como Criminales](https://open.spotify.com/album/4e0vXYazcWfIqSfbbzz1s8) | 3:38 | 2026-10-12 |  |
 | [Como Estas Tú](https://open.spotify.com/track/0Bl6AJ3Ub5tXB0MyaJmwbK) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Fiesta de Cumbias Norteñas](https://open.spotify.com/album/7wvtD2pITOn1yjvtBWdoAX) | 2:49 | 2024-02-23 | 2024-04-10 |
 | [Corazon de Vecindad](https://open.spotify.com/track/56tdpVNcEEwCTIvaZRlRk9) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Tesoros de Coleccion, Vol\. 1](https://open.spotify.com/album/43YQOZfMDgWtqa2LZ7R7eR) | 3:07 | 2022-06-01 | 2024-09-15 |
 | [Corazon de Vecindad](https://open.spotify.com/track/5Pfz4iOYQZc0ZOrkF5qX0W) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Hermosa Tirana](https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn) | 3:09 | 2026-03-05 | 2026-03-27 |

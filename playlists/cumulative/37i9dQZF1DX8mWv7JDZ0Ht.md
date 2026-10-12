@@ -4,7 +4,7 @@
 
 > Novidades e hits do pop nacional pra te deixar mais leve\. Foto:  Fran Gil
 
-1,005 songs - 2 day 2 hr 28 min
+1,006 songs - 2 day 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,6 +258,7 @@
 | [De Todas As Coisas](https://open.spotify.com/track/10gAKg5lsacXFbKZV53mMy) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Troco Likes 10 Anos](https://open.spotify.com/album/4ENAQW1v7CNmUjxJckfqI5) | 2:46 | 2026-05-22 | 2026-06-19 |
 | [de todos os amores](https://open.spotify.com/track/2xbo7GlHQeIru03zX7hkUm) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [De Todos Os Amores](https://open.spotify.com/album/0QxORntbL8fr74GGSMIrU8) | 3:59 | 2022-05-13 | 2022-10-15 |
 | [de volta pra casa](https://open.spotify.com/track/7H8fF2N1CXHUSiH4BHRmRJ) | [JUNIOR](https://open.spotify.com/artist/1bAP6GCtWKawdfTHyWm0QT) | [solo \(vol\. 1\)](https://open.spotify.com/album/0YiKGrl1G9eH44TSKqRX4q) | 3:09 | 2023-11-06 | 2023-12-16 |
+| [Decifrar](https://open.spotify.com/track/7cEthfgEv5kBtnL5cqL5Cs) | [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq) | [Decifrar](https://open.spotify.com/album/4RTMGJib64yRORCf9DnOfc) | 2:42 | 2026-10-09 |  |
 | [Declaração](https://open.spotify.com/track/3d9nrJ5u7JIMLdA917SzEn) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Declaração](https://open.spotify.com/album/03xIJaP4Ify8698ptSD82L) | 2:55 | 2022-05-13 | 2022-08-20 |
 | [Defeito De Fábrica](https://open.spotify.com/track/5056Bz31L4FjX468aNTpbi) | [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R) | [Defeito De Fábrica](https://open.spotify.com/album/5lZc6lIMSx15e8bTc55Qhv) | 2:26 | 2022-10-28 | 2023-01-28 |
 | [Degradê](https://open.spotify.com/track/5M4a6fcSk12Sy8ylHoaOPI) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Degradê](https://open.spotify.com/album/3QMNbZzZcpkPgm68PnKfHt) | 2:48 | 2022-06-14 | 2023-01-21 |
@@ -612,7 +613,7 @@
 | [Não Tenha Dó](https://open.spotify.com/track/58Q63qvLRyp6Ftj5GcSHjM) | [Samuel Rosa](https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Não Tenha Dó](https://open.spotify.com/album/0Kt5Bw99SaYI5O1ddptqFZ) | 5:15 | 2025-08-29 | 2025-10-18 |
 | [Não Volta Mais \- Meu Acústico](https://open.spotify.com/track/5hb0rXOZ9iUixLwH23us2U) | [Ana Laura Lopes](https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2) | [Meu Acústico](https://open.spotify.com/album/0cKDtsszY0XUWKLPoFwG8T) | 3:27 | 2026-08-28 |  |
 | [Não Vou Mais Ceder](https://open.spotify.com/track/4iV9n0PFuhKaFYHv0FHUoM) | [GHABI](https://open.spotify.com/artist/1yzhaT2wIvdMuJdrd2iRPM) | [Não Vou Mais Ceder](https://open.spotify.com/album/1EYEen74TH7ONTnfLKYBaf) | 3:00 | 2022-10-14 | 2022-10-29 |
-| [Não é tão ruim](https://open.spotify.com/track/5eUT9JCc19zYLXH3Ukk27A) | [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj) | [Não é tão ruim](https://open.spotify.com/album/3fah8mi3tUSMKetWiJSjRx) | 2:00 | 2026-01-30 |  |
+| [Não é tão ruim](https://open.spotify.com/track/5eUT9JCc19zYLXH3Ukk27A) | [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj) | [Não é tão ruim](https://open.spotify.com/album/3fah8mi3tUSMKetWiJSjRx) | 2:00 | 2026-01-30 | 2026-10-12 |
 | [Nó de Marinheiro](https://open.spotify.com/track/5NpflpKeOfJcHaaczrJgGj) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Banda Eva](https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ) | [Nó de Marinheiro](https://open.spotify.com/album/54DlwnuTFRJrla9vBfrleb) | 3:03 | 2023-07-28 | 2023-11-07 |
 | [nós](https://open.spotify.com/track/1yzJsmZJwSS436yameVwGH) | [Luana Berti](https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T) | [nós](https://open.spotify.com/album/7ywwCTGhvOCMSFL78TtShC) | 2:46 | 2023-06-16 | 2023-09-30 |
 | [Nós Dois](https://open.spotify.com/track/0ooea8ptVQNZehNygA91ng) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo) | [Nós Dois](https://open.spotify.com/album/1EhM4M5YnaZUzbrxuTwlVR) | 2:56 | 2022-05-13 | 2022-12-10 |

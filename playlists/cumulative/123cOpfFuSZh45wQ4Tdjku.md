@@ -4,7 +4,7 @@
 
 > mostly furry
 
-565 songs - 1 day 3 hr 26 min
+566 songs - 1 day 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Catdelions IIS](https://open.spotify.com/track/6TROIvKbmnmfIZhuN2v3Vj) | [UrvTek](https://open.spotify.com/artist/3YRcEMe1SRTPBGYbiRtBGh), [Artifyber](https://open.spotify.com/artist/41B16M5LFJKcwUW3L75PVh) | [Catdelions IIS](https://open.spotify.com/album/1QX1Z2oES9tANgs5iE5sq6) | 2:52 | 2026-08-07 |  |
 | [Cats In Pink](https://open.spotify.com/track/1aseoGehQTvL6vnOqfAmTr) | [Studi01](https://open.spotify.com/artist/6JahkHwKoCgQsAc2wxYKy3), [CrescentIsCat](https://open.spotify.com/artist/2INmFI2oKynS6EbQED1AAd) | [Our Summer Dreams](https://open.spotify.com/album/1lBRF308MyR8tggVA9Qw6M) | 2:39 | 2026-08-05 |  |
 | [Cats In Pink \- Instrumental](https://open.spotify.com/track/5t65YJh85Km3kAPNh5CD2b) | [Studi01](https://open.spotify.com/artist/6JahkHwKoCgQsAc2wxYKy3), [CrescentIsCat](https://open.spotify.com/artist/2INmFI2oKynS6EbQED1AAd) | [Our Summer Dreams](https://open.spotify.com/album/1lBRF308MyR8tggVA9Qw6M) | 2:39 | 2026-08-05 |  |
+| [Cats With Striped Socks](https://open.spotify.com/track/0LinCTCmFyAT2H27wTu3H4) | [Studi01](https://open.spotify.com/artist/6JahkHwKoCgQsAc2wxYKy3) | [Cats With Striped Socks](https://open.spotify.com/album/3MaO2LKMKD3Effl23L5EdE) | 2:08 | 2026-10-11 |  |
 | [CELLULAR](https://open.spotify.com/track/3TYt6xQTU3hCazzI8pUoEM) | [UrvTek](https://open.spotify.com/artist/3YRcEMe1SRTPBGYbiRtBGh) | [CELLULAR](https://open.spotify.com/album/2ur1AGw5HrpPBW7JFd7xON) | 3:40 | 2026-09-30 |  |
 | [CHANGED](https://open.spotify.com/track/4zd9ODrv8sfgGprCVhER4j) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy), [sharkbarksss](https://open.spotify.com/artist/7wrGMUFl9bK7T4st7GG1wS) | [FURFAG](https://open.spotify.com/album/6LyPH9oyTnCrTQHwhedPF0) | 3:13 | 2025-02-24 | 2026-07-27 |
 | [Check](https://open.spotify.com/track/3YsRmCkend0u4L5HGGipoI) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Verplex Originals](https://open.spotify.com/album/43xO23OT1dvjB3XtCXuZu9) | 4:16 | 2025-04-26 |  |
@@ -234,7 +235,7 @@
 | [Ice Box](https://open.spotify.com/track/3iSNwPlfakfSoLrxYsv4Xb) | [UrvTek](https://open.spotify.com/artist/3YRcEMe1SRTPBGYbiRtBGh) | [IM SICK!!](https://open.spotify.com/album/6l4zg8MUdoPpHP7pbrc1BP) | 1:49 | 2026-09-30 |  |
 | [Icey Wolf](https://open.spotify.com/track/44ww3JKgZ6Ls4T58TXRGEr) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Furry Youtubers](https://open.spotify.com/album/5oJOcMbnsMH3BMIalIc8ix) | 4:38 | 2025-04-24 |  |
 | [If I Was There](https://open.spotify.com/track/7ibI9cceboRF5HOnQEQtNH) | [Tundra Fox](https://open.spotify.com/artist/5YhzBLEPDn6WsOletqmX5M) | [If I Was There](https://open.spotify.com/album/7wBBM4aSlSACuAzm6zn0Zj) | 3:29 | 2025-04-24 |  |
-| [If I Were to Die](https://open.spotify.com/track/68B4URd84Edg8Yz3WtytgJ) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [If I Were to Die](https://open.spotify.com/album/1lR4QiFijMkFz0GY5hcAy3) | 3:45 | 2026-09-08 |  |
+| [If I Were to Die](https://open.spotify.com/track/68B4URd84Edg8Yz3WtytgJ) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [If I Were to Die](https://open.spotify.com/album/1lR4QiFijMkFz0GY5hcAy3) | 3:45 | 2026-09-08 | 2026-10-12 |
 | [In The Light](https://open.spotify.com/track/1jFB7QVvVvncHpmRtOLIBb) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [In The Light](https://open.spotify.com/album/4SjQ4AdG3TpiGDdVjeXrfl) | 2:57 | 2025-02-14 |  |
 | [In Your Rain](https://open.spotify.com/track/1BWZJDDjnV0trlwD2wx19j) | [Arctica The Fox](https://open.spotify.com/artist/5QyUSrN5677lRfROJSu7z8) | [In Your Rain](https://open.spotify.com/album/4ZokxoM8A4uMm5E9i3yIBM) | 3:28 | 2025-04-24 |  |
 | [INFAMOUS](https://open.spotify.com/track/1HgS8I7Nv49l11BJpf9j25) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [INFAMOUS](https://open.spotify.com/album/503ZXvyBTF4zuNLlR4aVon) | 2:36 | 2025-04-25 |  |

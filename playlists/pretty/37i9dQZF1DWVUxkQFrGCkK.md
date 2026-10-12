@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > IBZ szn\. Cover: Mita Gami
 
-[Spotify](https://open.spotify.com/user/spotify) - 417,730 likes - 99 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 417,809 likes - 99 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

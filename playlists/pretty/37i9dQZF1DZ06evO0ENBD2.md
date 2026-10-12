@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 
 > This is Queen\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,990,360 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,990,366 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 | 26 | [Radio Ga Ga \- Live Aid](https://open.spotify.com/track/0ng0si11RnlaCl5y8UKTWg) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Bohemian Rhapsody \(The Original Soundtrack\)](https://open.spotify.com/album/69RZR37WFgxDDdfxAPz9pk) | 4:05 |
 | 27 | [Friends Will Be Friends](https://open.spotify.com/track/11fDQmW6T3zyX6OEKKF11O) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Kind Of Magic \(Deluxe Edition\)](https://open.spotify.com/album/3gAVJcYGZD5Jm8YaWOkSrZ) | 4:12 |
 | 28 | [Bicycle Race](https://open.spotify.com/track/1HjvOZjeYSmZFU4qHtXOfY) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz](https://open.spotify.com/album/1yzF0wUwJFgtkkXmKNe5BE) | 3:03 |
-| 29 | [Somebody to Love](https://open.spotify.com/track/1kn8Jj0i9IwyO3yDgDyUSR) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo), [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Ladies & Gentlemen](https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g) | 5:18 |
+| 29 | [Save Me](https://open.spotify.com/track/5PYTziNGPjz0HohZVm2coE) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Edition\)](https://open.spotify.com/album/58bipcogQNQdIrGFWUSJM3) | 3:49 |
 | 30 | [Ay\-Oh \- Live Aid](https://open.spotify.com/track/6vSlOsSEWF6IA3kXJj16jF) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Bohemian Rhapsody \(The Original Soundtrack\)](https://open.spotify.com/album/69RZR37WFgxDDdfxAPz9pk) | 0:41 |
-| 31 | [Save Me](https://open.spotify.com/track/5PYTziNGPjz0HohZVm2coE) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Edition\)](https://open.spotify.com/album/58bipcogQNQdIrGFWUSJM3) | 3:49 |
+| 31 | [Somebody to Love](https://open.spotify.com/track/1kn8Jj0i9IwyO3yDgDyUSR) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo), [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Ladies & Gentlemen](https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g) | 5:18 |
 | 32 | [I Was Born To Love You](https://open.spotify.com/track/62IXvE06fEbcLimzQWRyq8) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Made In Heaven \(Deluxe Edition\)](https://open.spotify.com/album/4WHZOrekAUoBMQaajTIglO) | 4:49 |
 | 33 | [Seven Seas of Rhye](https://open.spotify.com/track/2nbmAdtBKyhw8ghd8tsBVT) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen II \(Deluxe Edition\)](https://open.spotify.com/album/400nUnnOzQdTrdOlFD7Os4) | 2:48 |
 | 34 | [It's A Hard Life](https://open.spotify.com/track/0XHgEa3TYwu0lyRFShEQPz) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works \(Deluxe Edition\)](https://open.spotify.com/album/3AAxdMZmzwyUyzoTO1iKiV) | 4:08 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 | 46 | [The Invisible Man](https://open.spotify.com/track/770LXTeLm1POb8SLYkXSAa) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Miracle](https://open.spotify.com/album/4Ck0kT7cw6fXjFVBL3DODw) | 4:02 |
 | 47 | [One Year Of Love](https://open.spotify.com/track/3B4lRypQs341Tcgef8gICJ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Kind Of Magic \(Deluxe Edition\)](https://open.spotify.com/album/3gAVJcYGZD5Jm8YaWOkSrZ) | 4:27 |
 | 48 | [Don't Try Suicide](https://open.spotify.com/track/4Fh9yqhihSjribDyjOV6n7) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Edition\)](https://open.spotify.com/album/58bipcogQNQdIrGFWUSJM3) | 3:52 |
-| 49 | [Tie Your Mother Down \- Live in Budapest](https://open.spotify.com/track/2SPnC691IFXgzCk9DGf8eX) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Tie Your Mother Down \(Live in Budapest\)](https://open.spotify.com/album/1BGiS3fcRGNi1Fw68WCC2W) | 4:41 |
-| 50 | [Somebody To Love \- Live At The Freddie Mercury Tribute Concert For AIDS Awareness, Wembley / 1992](https://open.spotify.com/track/0muc9Lvuvz3V0XQjbrfNzz) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo), [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Greatest Hits III](https://open.spotify.com/album/5VeFHJvFbfmrigIKFqGa1e) | 5:07 |
+| 49 | [Somebody To Love \- Live At The Freddie Mercury Tribute Concert For AIDS Awareness, Wembley / 1992](https://open.spotify.com/track/0muc9Lvuvz3V0XQjbrfNzz) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo), [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Greatest Hits III](https://open.spotify.com/album/5VeFHJvFbfmrigIKFqGa1e) | 5:07 |
+| 50 | [Tie Your Mother Down \- Live in Budapest](https://open.spotify.com/track/2SPnC691IFXgzCk9DGf8eX) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Tie Your Mother Down \(Live in Budapest\)](https://open.spotify.com/album/1BGiS3fcRGNi1Fw68WCC2W) | 4:41 |
 
 Snapshot ID: `asgugAAAAACHqZHXbLPoeoy6BUc3tDFb`

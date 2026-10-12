@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 478 likes - 429 songs - 22 hr 20 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 478 likes - 431 songs - 22 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -437,5 +437,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 427 | [Costa Rica](https://open.spotify.com/track/4qhXTUAOnYgpdH0fppPwOM) | [Melany Cubero](https://open.spotify.com/artist/4OrIEJHh24oAbE1evJRR7c) | [Costa Rica](https://open.spotify.com/album/2rajpnbcWikhG6gMEvXVdB) | 4:24 |
 | 428 | [That Booty my lady.](https://open.spotify.com/track/4YP2lr6J6hKI6pO9Q1EYyM) | [Truth Signal Beats.](https://open.spotify.com/artist/23PasEXWaoZ4bTkZr9hyhf) | [That Booty my lady.](https://open.spotify.com/album/6xGEuFEksN0SBWwiHJRQKw) | 3:25 |
 | 429 | [September 1st \- Instrumental Version](https://open.spotify.com/track/0kFVihmhanzgytWCRaKEr2) | [DaMarcus VanBuren](https://open.spotify.com/artist/1cuEMktMYY9Dn4bBkjxCtb) | [VII.B.E.S \(Instrumental Versions\)](https://open.spotify.com/album/07scKbEPcpCNvOK3ryikiN) | 2:30 |
+| 430 | [Dime Que Puedo Hacer Sin Ti \- Remix](https://open.spotify.com/track/0WhxLpotzzMvKdF0HKpLcb) | [Dr\. Leo](https://open.spotify.com/artist/1KPjYNSnNtKiZXCyeDfuw5), [Bernal Villegas](https://open.spotify.com/artist/3odi1BKZOHNVgJ1fOpEkWM), [Melany Cubero](https://open.spotify.com/artist/4OrIEJHh24oAbE1evJRR7c) | [Dime Que Puedo Hacer Sin Ti \(Remix\)](https://open.spotify.com/album/1nSXeJ5KaW8cCFkjXQSgQe) | 6:38 |
+| 431 | [22 Settembre](https://open.spotify.com/track/3RficKMy181JNMFoV82XE8) | [Michele Blasco](https://open.spotify.com/artist/0LsldhiLiieaUY63tH9QfW) | [22 Settembre](https://open.spotify.com/album/2rPJTpAO6Fvwn7athS4Jxn) | 4:06 |
 
-Snapshot ID: `AAAexnjzbHpfByelvCz2TG0GapNvq6SP`
+Snapshot ID: `AAAeyGASAiBj7PJzPIvYARw+vdJ+j+B2`

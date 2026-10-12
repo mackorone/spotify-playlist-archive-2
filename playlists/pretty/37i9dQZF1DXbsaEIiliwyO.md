@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsaEIiliwyO.md) - [plain]
 
 > アニメシーンで話題のロックサウンドを1つのプレイリストに。Best & new rock anthems for anime fans\. Cover: Kroi
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,345 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,351 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsaEIiliwyO.md) - [plain]
 | 25 | [WARNING!!](https://open.spotify.com/track/6xqdTZWgBBh9MuF9t0zEbq) | [CLAN QUEEN](https://open.spotify.com/artist/7MDWmWGdcgGcxawAnA1FUY) | [WARNING!!](https://open.spotify.com/album/0IY5wjcw47lnqiUFEVLNri) | 3:30 |
 | 26 | [GO GHOST](https://open.spotify.com/track/54kwD19pq6ea4yGiiX84QB) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [GO GHOST](https://open.spotify.com/album/6r4iLpQblsOsMClZ0KqKTN) | 2:50 |
 | 27 | [飛ぶ時](https://open.spotify.com/track/2NFgZXeRjcqV91SaBIZ3cI) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [飛ぶ時 / 飛ぼうよ](https://open.spotify.com/album/5YuOGMU5bHqfBPLbnDHhrH) | 4:12 |
-| 28 | [紅蓮華](https://open.spotify.com/track/0qMip0B2D4ePEjBJvAtYre) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LEO\-NiNE](https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO) | 3:57 |
+| 28 | [花になって \- Be a flower](https://open.spotify.com/track/2EmkTBTh964LQen4Vz0svg) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [花になって \- Be a flower](https://open.spotify.com/album/2CmupdP2p1BOYVYh2cjtJc) | 3:19 |
 | 29 | [LOVE & LIKE](https://open.spotify.com/track/1nkfCEYkL2DQ02V3ffrwgL) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [LOVE & LIKE](https://open.spotify.com/album/0R7Oz36rfDjxF7hzRrt4A6) | 3:32 |
 | 30 | [ピースサイン \- Peace Sign](https://open.spotify.com/track/6QpWIlT6WqmwSYpR9Tjb13) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [Peace Sign \- EP](https://open.spotify.com/album/42FMdvus2YAtEp6hGHgiD6) | 3:57 |
-| 31 | [花になって \- Be a flower](https://open.spotify.com/track/2EmkTBTh964LQen4Vz0svg) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [花になって \- Be a flower](https://open.spotify.com/album/2CmupdP2p1BOYVYh2cjtJc) | 3:19 |
+| 31 | [紅蓮華](https://open.spotify.com/track/0qMip0B2D4ePEjBJvAtYre) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LEO\-NiNE](https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO) | 3:57 |
 | 32 | [Nicoichi](https://open.spotify.com/track/0xI2LKQeVFKHvcBnb3aA6D) | [SILENT SIREN](https://open.spotify.com/artist/11FVEsg4m3QWzNfaK7vykQ) | [Nicoichi](https://open.spotify.com/album/43XRkt6cUp8lOLtKSqjlIr) | 2:30 |
 | 33 | [See U in Hell \(from the Netflix Series "Devil May Cry"\)](https://open.spotify.com/track/26wlaTdnrLNmpz5usoU2T3) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X), [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp) | [See U in Hell \(from the Netflix Series "Devil May Cry"\)](https://open.spotify.com/album/2brmv8QcoqNsngywe6NYxs) | 4:03 |
 | 34 | [廻廻奇譚](https://open.spotify.com/track/5MVjxslIF7mVtYo75Nk445) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [廻廻奇譚 / 蒼のワルツ](https://open.spotify.com/album/5AXzkXGoyKh4KU8paELFVu) | 3:41 |

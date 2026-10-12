@@ -1,6 +1,6 @@
 {
   "description": "S\u00fc\u00dfes sonst gibt's Saures! \ud83c\udf83",
-  "num_followers": 62336,
+  "num_followers": 62372,
   "original_name": "Familienzeit: Halloween",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,22 @@
     {
       "added_at": "2026-10-05 07:57:32",
       "album": {
+        "name": "Halloween Dance Party",
+        "url": "https://open.spotify.com/album/7DkBboIbHq3tZHYzcrcbjj"
+      },
+      "artists": [
+        {
+          "name": "Halloween Dance Party",
+          "url": "https://open.spotify.com/artist/6Pa5h9zlhe0wliI43yELGl"
+        }
+      ],
+      "duration_ms": 112882,
+      "name": "Halloween Dance Party",
+      "url": "https://open.spotify.com/track/1546dG78My4z98gAks35wg"
+    },
+    {
+      "added_at": "2026-10-05 07:57:32",
+      "album": {
         "name": "The Rocky Horror Picture Show - Original Soundtrack",
         "url": "https://open.spotify.com/album/4QviryaneolcRmDB57SLco"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 199366,
       "name": "Time Warp",
       "url": "https://open.spotify.com/track/4WFeJTXNHIS2wURtwlAkhu"
-    },
-    {
-      "added_at": "2026-10-05 07:57:32",
-      "album": {
-        "name": "Halloween Dance Party",
-        "url": "https://open.spotify.com/album/7DkBboIbHq3tZHYzcrcbjj"
-      },
-      "artists": [
-        {
-          "name": "Halloween Dance Party",
-          "url": "https://open.spotify.com/artist/6Pa5h9zlhe0wliI43yELGl"
-        }
-      ],
-      "duration_ms": 112882,
-      "name": "Halloween Dance Party",
-      "url": "https://open.spotify.com/track/1546dG78My4z98gAks35wg"
     },
     {
       "added_at": "2026-10-05 07:57:32",
@@ -439,22 +439,6 @@
     {
       "added_at": "2026-10-05 07:57:32",
       "album": {
-        "name": "KIDZ BOP Halloween",
-        "url": "https://open.spotify.com/album/7mb79mhvW3ZTdeIQWos7xs"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 151093,
-      "name": "Purple People Eater",
-      "url": "https://open.spotify.com/track/4mXSbKYf6voPyMaFc79CwL"
-    },
-    {
-      "added_at": "2026-10-05 07:57:32",
-      "album": {
         "name": "Happy, Happy Halloween!",
         "url": "https://open.spotify.com/album/2haqzIboO4ICSefm5DYgAl"
       },
@@ -471,22 +455,18 @@
     {
       "added_at": "2026-10-05 07:57:32",
       "album": {
-        "name": "Monstertanz",
-        "url": "https://open.spotify.com/album/3twhnm7rZiF2kOiqW01zyZ"
+        "name": "KIDZ BOP Halloween",
+        "url": "https://open.spotify.com/album/7mb79mhvW3ZTdeIQWos7xs"
       },
       "artists": [
         {
-          "name": "Piano Papa",
-          "url": "https://open.spotify.com/artist/3Xd05Lsm0o1YdsrYJ3yio4"
-        },
-        {
-          "name": "Mama Sandy",
-          "url": "https://open.spotify.com/artist/2TCzYLwdBFfM057skRovHS"
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
         }
       ],
-      "duration_ms": 126875,
-      "name": "Monstertanz",
-      "url": "https://open.spotify.com/track/5TJcVfYBT3hsdc7N1ssiQs"
+      "duration_ms": 151093,
+      "name": "Purple People Eater",
+      "url": "https://open.spotify.com/track/4mXSbKYf6voPyMaFc79CwL"
     },
     {
       "added_at": "2026-10-05 07:57:32",
@@ -547,6 +527,26 @@
     {
       "added_at": "2026-10-05 07:57:32",
       "album": {
+        "name": "Monstertanz",
+        "url": "https://open.spotify.com/album/3twhnm7rZiF2kOiqW01zyZ"
+      },
+      "artists": [
+        {
+          "name": "Piano Papa",
+          "url": "https://open.spotify.com/artist/3Xd05Lsm0o1YdsrYJ3yio4"
+        },
+        {
+          "name": "Mama Sandy",
+          "url": "https://open.spotify.com/artist/2TCzYLwdBFfM057skRovHS"
+        }
+      ],
+      "duration_ms": 126875,
+      "name": "Monstertanz",
+      "url": "https://open.spotify.com/track/5TJcVfYBT3hsdc7N1ssiQs"
+    },
+    {
+      "added_at": "2026-10-05 07:57:32",
+      "album": {
         "name": "Tanzfieber!",
         "url": "https://open.spotify.com/album/06eZoUAMH8lMEpshxRfHj2"
       },
@@ -575,26 +575,6 @@
       "duration_ms": 182906,
       "name": "Keine Angst vor Monstern",
       "url": "https://open.spotify.com/track/45VpJjQftkR3oLJvMQJkKp"
-    },
-    {
-      "added_at": "2026-10-05 07:57:32",
-      "album": {
-        "name": "Halloween mit Kalle Klang",
-        "url": "https://open.spotify.com/album/4E55eXzf6CEKfnHfuVnMiK"
-      },
-      "artists": [
-        {
-          "name": "Kalle Klang",
-          "url": "https://open.spotify.com/artist/1OGb7SU2LprgqW6I11mdeM"
-        },
-        {
-          "name": "Die Floht\u00f6ne",
-          "url": "https://open.spotify.com/artist/1udPbK2uKdBxyEfBpTl1mm"
-        }
-      ],
-      "duration_ms": 186637,
-      "name": "Es ist Halloween",
-      "url": "https://open.spotify.com/track/5OaCfSHtRfur3ui0PwFO6e"
     },
     {
       "added_at": "2026-10-05 07:57:32",
@@ -639,6 +619,26 @@
     {
       "added_at": "2026-10-05 07:57:32",
       "album": {
+        "name": "Halloween mit Kalle Klang",
+        "url": "https://open.spotify.com/album/4E55eXzf6CEKfnHfuVnMiK"
+      },
+      "artists": [
+        {
+          "name": "Kalle Klang",
+          "url": "https://open.spotify.com/artist/1OGb7SU2LprgqW6I11mdeM"
+        },
+        {
+          "name": "Die Floht\u00f6ne",
+          "url": "https://open.spotify.com/artist/1udPbK2uKdBxyEfBpTl1mm"
+        }
+      ],
+      "duration_ms": 186637,
+      "name": "Es ist Halloween",
+      "url": "https://open.spotify.com/track/5OaCfSHtRfur3ui0PwFO6e"
+    },
+    {
+      "added_at": "2026-10-05 07:57:32",
+      "album": {
         "name": "Kinder M\u00e4use Monster Party",
         "url": "https://open.spotify.com/album/3kQzllISQiYBuEKfBKmQmD"
       },
@@ -671,6 +671,22 @@
     {
       "added_at": "2026-10-05 07:57:32",
       "album": {
+        "name": "Gruselparty",
+        "url": "https://open.spotify.com/album/3cR0a4jI7xnW1A97ggrcaI"
+      },
+      "artists": [
+        {
+          "name": "Nilsen",
+          "url": "https://open.spotify.com/artist/13x0bektBEknCM276OqYMn"
+        }
+      ],
+      "duration_ms": 164193,
+      "name": "Gruselparty",
+      "url": "https://open.spotify.com/track/5fr2p4o403KwG0oZicTlh5"
+    },
+    {
+      "added_at": "2026-10-05 07:57:32",
+      "album": {
         "name": "Der haarige Kobold",
         "url": "https://open.spotify.com/album/0Ie5t9xq6DH5yaYw9V3JC2"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 215813,
       "name": "Der haarige Kobold",
       "url": "https://open.spotify.com/track/2XE8wyKC44cWX0G3HmXlmh"
-    },
-    {
-      "added_at": "2026-10-05 07:57:32",
-      "album": {
-        "name": "Gruselparty",
-        "url": "https://open.spotify.com/album/3cR0a4jI7xnW1A97ggrcaI"
-      },
-      "artists": [
-        {
-          "name": "Nilsen",
-          "url": "https://open.spotify.com/artist/13x0bektBEknCM276OqYMn"
-        }
-      ],
-      "duration_ms": 164193,
-      "name": "Gruselparty",
-      "url": "https://open.spotify.com/track/5fr2p4o403KwG0oZicTlh5"
     },
     {
       "added_at": "2026-10-05 07:57:32",

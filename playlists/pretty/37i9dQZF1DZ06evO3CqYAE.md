@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CqYAE.md) - [plain]
 
 > This is Mercy Chinwo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,377 likes - 50 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,384 likes - 50 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CqYAE.md) - [plain]
 | 49 | [It's The Season \(Live Performance\)](https://open.spotify.com/track/2vSs0nmmOyJ6wMt35kH3PA) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [It's The Season \(Live Performance\)](https://open.spotify.com/album/4sfiFXIHYJj2FINtFPjFPu) | 32:24 |
 | 50 | [None Like You Lord](https://open.spotify.com/track/4C1j4hhESWONgyhe52Bwpc) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW) | [In His Will](https://open.spotify.com/album/1pL4cc5JPJ9nk44TvNPhom) | 6:01 |
 
-Snapshot ID: `asgugAAAAABKzg3XXdRYzo3ssTRt1Zd6`
+Snapshot ID: `asmAAAAAAABrs+zb+IFna/GLHcTMIkFt`

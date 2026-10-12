@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 
 > Türkçe pop'un hit şarkıları ve zirveye oynayanlar\.  Kapak: Dedublüman, Sıla
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,551,161 likes - 55 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,551,160 likes - 55 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

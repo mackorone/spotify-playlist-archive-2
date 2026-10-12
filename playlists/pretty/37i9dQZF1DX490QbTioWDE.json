@@ -1,6 +1,6 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Luck Ra & DesaKTa2",
-  "num_followers": 874341,
+  "num_followers": 874308,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
@@ -115,6 +115,22 @@
     {
       "added_at": "2026-10-09 18:28:23",
       "album": {
+        "name": "Soy",
+        "url": "https://open.spotify.com/album/3GmKxxyzxNaBJlhmDm64Ac"
+      },
+      "artists": [
+        {
+          "name": "Ulises Bueno",
+          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
+        }
+      ],
+      "duration_ms": 233560,
+      "name": "Intento",
+      "url": "https://open.spotify.com/track/4jycbkcVlL5P7W2zGYcau0"
+    },
+    {
+      "added_at": "2026-10-09 18:28:23",
+      "album": {
         "name": "En Otra Vida - Versi\u00f3n Cuarteto",
         "url": "https://open.spotify.com/album/5iMYvZp2PQDHiC1s3P4rRA"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 148200,
       "name": "En Otra Vida - Versi\u00f3n Cuarteto",
       "url": "https://open.spotify.com/track/1K11lq4qn0DdPfljQcHkNE"
-    },
-    {
-      "added_at": "2026-10-09 18:28:23",
-      "album": {
-        "name": "Soy",
-        "url": "https://open.spotify.com/album/3GmKxxyzxNaBJlhmDm64Ac"
-      },
-      "artists": [
-        {
-          "name": "Ulises Bueno",
-          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
-        }
-      ],
-      "duration_ms": 233560,
-      "name": "Intento",
-      "url": "https://open.spotify.com/track/4jycbkcVlL5P7W2zGYcau0"
     },
     {
       "added_at": "2026-10-09 18:28:23",
@@ -871,18 +871,22 @@
     {
       "added_at": "2026-10-09 18:28:23",
       "album": {
-        "name": "Universo Paralelo",
-        "url": "https://open.spotify.com/album/5gHGEuYNsRd8xSVW1Si2E2"
+        "name": "Una Noche",
+        "url": "https://open.spotify.com/album/5TGdD0LC9hnbWvEbazhcAs"
       },
       "artists": [
         {
           "name": "La K'onga",
           "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        },
+        {
+          "name": "DesaKTa2",
+          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
         }
       ],
-      "duration_ms": 218431,
-      "name": "Te Mentir\u00eda",
-      "url": "https://open.spotify.com/track/3EcCc1U405tm8yKm1x6Y8W"
+      "duration_ms": 158661,
+      "name": "Una Noche",
+      "url": "https://open.spotify.com/track/2DV0uRNE0tJPekHH2MK63C"
     },
     {
       "added_at": "2026-10-09 18:28:23",
@@ -1263,18 +1267,18 @@
     {
       "added_at": "2026-10-09 18:28:23",
       "album": {
-        "name": "Dejame Intentar",
-        "url": "https://open.spotify.com/album/2LulvgaUHXvJ3Jl8Yi8ROC"
+        "name": "Ay Amor",
+        "url": "https://open.spotify.com/album/3pP8sHt6ddUHJ4CHPcGmnh"
       },
       "artists": [
         {
-          "name": "El Loco Amato",
-          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
+          "name": "Ojos de Luna",
+          "url": "https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp"
         }
       ],
-      "duration_ms": 121551,
-      "name": "Dejame Intentar",
-      "url": "https://open.spotify.com/track/3UMeBRQuHNNL5Lrl9yt8zt"
+      "duration_ms": 199296,
+      "name": "Ay Amor",
+      "url": "https://open.spotify.com/track/4pMpoj9TNQg9ZlfG3fE7W2"
     },
     {
       "added_at": "2026-10-09 18:28:23",
@@ -1335,18 +1339,18 @@
     {
       "added_at": "2026-10-09 18:28:23",
       "album": {
-        "name": "Ay Amor",
-        "url": "https://open.spotify.com/album/3pP8sHt6ddUHJ4CHPcGmnh"
+        "name": "Dejame Intentar",
+        "url": "https://open.spotify.com/album/2LulvgaUHXvJ3Jl8Yi8ROC"
       },
       "artists": [
         {
-          "name": "Ojos de Luna",
-          "url": "https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp"
+          "name": "El Loco Amato",
+          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
         }
       ],
-      "duration_ms": 199296,
-      "name": "Ay Amor",
-      "url": "https://open.spotify.com/track/4pMpoj9TNQg9ZlfG3fE7W2"
+      "duration_ms": 121551,
+      "name": "Dejame Intentar",
+      "url": "https://open.spotify.com/track/3UMeBRQuHNNL5Lrl9yt8zt"
     },
     {
       "added_at": "2026-10-09 18:28:23",
@@ -1835,6 +1839,26 @@
     {
       "added_at": "2026-10-09 18:28:23",
       "album": {
+        "name": "Ladr\u00f3n",
+        "url": "https://open.spotify.com/album/77q0gHxilBoRNnlAAyllDW"
+      },
+      "artists": [
+        {
+          "name": "Carlos Baute",
+          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
+        },
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        }
+      ],
+      "duration_ms": 159215,
+      "name": "Ladr\u00f3n",
+      "url": "https://open.spotify.com/track/5gyT1xYFWyDWzEGDjicz5C"
+    },
+    {
+      "added_at": "2026-10-09 18:28:23",
+      "album": {
         "name": "Mala Junta",
         "url": "https://open.spotify.com/album/0knIJImXVNvqAxZaclozrP"
       },
@@ -1855,26 +1879,6 @@
       "duration_ms": 174289,
       "name": "Mala Junta",
       "url": "https://open.spotify.com/track/2RSsPZhvRHDYE3EHdrG3gh"
-    },
-    {
-      "added_at": "2026-10-09 18:28:23",
-      "album": {
-        "name": "Ladr\u00f3n",
-        "url": "https://open.spotify.com/album/77q0gHxilBoRNnlAAyllDW"
-      },
-      "artists": [
-        {
-          "name": "Carlos Baute",
-          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
-        },
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
-        }
-      ],
-      "duration_ms": 159215,
-      "name": "Ladr\u00f3n",
-      "url": "https://open.spotify.com/track/5gyT1xYFWyDWzEGDjicz5C"
     },
     {
       "added_at": "2026-10-09 18:28:23",

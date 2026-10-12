@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoqEG4WY6ce.md) - [plain]
 
 > Hop in.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,184,112 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,184,125 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoqEG4WY6ce.md) - [plain]
 | 46 | [Wake Up](https://open.spotify.com/track/6Hmj7SrLRbreLVfVS7mV1S) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Funeral](https://open.spotify.com/album/6ZB8qaR9JNuS0Q0bG1nbcH) | 5:35 |
 | 47 | [Murder on the Dancefloor \- triple j Like A Version](https://open.spotify.com/track/1swz9stsbG1p34SJHJqiww) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH), [triple j](https://open.spotify.com/artist/2ztWo9ZI0S6mzpQVmmMcE1) | [Murder on the Dancefloor \(triple j Like A Version\)](https://open.spotify.com/album/02tTPri1bqHRdIwhz4gceP) | 3:00 |
 | 48 | [Supalonely \(feat\. Gus Dapperton\)](https://open.spotify.com/track/3GZoWLVbmxcBys6g0DLFLf) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Hey u x](https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF) | 3:43 |
-| 49 | [Wait](https://open.spotify.com/track/3rTnGUeDrnZV22DvRuUuXr) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR) | 5:43 |
-| 50 | [No You Girls](https://open.spotify.com/track/4VP8QiCeaZq8BeTIUrMQOG) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Tonight](https://open.spotify.com/album/6ppF24fU5pqbPrPuK5zVnS) | 3:43 |
+| 49 | [No You Girls](https://open.spotify.com/track/4VP8QiCeaZq8BeTIUrMQOG) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Tonight](https://open.spotify.com/album/6ppF24fU5pqbPrPuK5zVnS) | 3:43 |
+| 50 | [Wait](https://open.spotify.com/track/3rTnGUeDrnZV22DvRuUuXr) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR) | 5:43 |
 | 51 | [The High Road](https://open.spotify.com/track/5cwN1htZyoWqZCc33f3RfE) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG), [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [James Mercer](https://open.spotify.com/artist/1og8fy01lbguVA5plZZRtd) | [Broken Bells](https://open.spotify.com/album/0X7WyEKdm5afGj1fmD7Blx) | 3:52 |
 | 52 | [Tessellate](https://open.spotify.com/track/1o22EcqsCANhwYdaNOSdwS) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 3:01 |
 | 53 | [Take My Hand](https://open.spotify.com/track/6n4iuOHAOIu5LtbXBKrD0f) | [Matt Berry](https://open.spotify.com/artist/0FIagKn8Ibj8ikj5VvTXto) | [Witchazel](https://open.spotify.com/album/4IPJJDq7Ur6Y7JF27ykniO) | 3:10 |
@@ -71,13 +71,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoqEG4WY6ce.md) - [plain]
 | 61 | [Will Do](https://open.spotify.com/track/5iHK8VI9XkJJdXQHCBXeM4) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Nine Types of Light](https://open.spotify.com/album/0FvrvaVsWQ7kTdGzipW6HV) | 3:44 |
 | 62 | [Do You Really Love Her](https://open.spotify.com/track/0taitulsqplmFbqzO8GEqa) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Do You Really Love Her](https://open.spotify.com/album/574rsOAjtvMf9Y8DuYl0HN) | 3:48 |
 | 63 | [Campus](https://open.spotify.com/track/1eNrlXlW7Cj1QB1YUcZmpb) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 2:56 |
-| 64 | [11th Dimension](https://open.spotify.com/track/6i99ThziImjuFABb8rUQvy) | [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB) | [Phrazes For The Young](https://open.spotify.com/album/4rP54hT8fzDosnCtzQyBRF) | 4:03 |
-| 65 | [This Must Be The Place](https://open.spotify.com/track/6PuoZT4kgw5DrUEdnQ6e01) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Sure Sure](https://open.spotify.com/album/7EfgATnOllXJ96s4sSdzei) | 3:39 |
+| 64 | [This Must Be The Place](https://open.spotify.com/track/6PuoZT4kgw5DrUEdnQ6e01) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Sure Sure](https://open.spotify.com/album/7EfgATnOllXJ96s4sSdzei) | 3:39 |
+| 65 | [11th Dimension](https://open.spotify.com/track/6i99ThziImjuFABb8rUQvy) | [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB) | [Phrazes For The Young](https://open.spotify.com/album/4rP54hT8fzDosnCtzQyBRF) | 4:03 |
 | 66 | [Salute Your Solution](https://open.spotify.com/track/4I3573QbRpER4HPzyFSFJa) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Consolers of the Lonely](https://open.spotify.com/album/3yx8gEFlojRtt2WBhmxwfg) | 2:59 |
 | 67 | [Missed the Boat](https://open.spotify.com/track/4asjU3sDnn3002bTJIg2vZ) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [We Were Dead Before The Ship Even Sank](https://open.spotify.com/album/2lXBCL76UL5PCPbfAqKBkz) | 4:24 |
 | 68 | [Way It Goes](https://open.spotify.com/track/6CES1554HcWMIVroJfmmBm) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Landmark](https://open.spotify.com/album/0vb1g018puu47StlIi9wxC) | 4:05 |
-| 69 | [Crooked Teeth](https://open.spotify.com/track/1crbFuCkGL4kXnAGd63RXq) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Plans](https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq) | 3:23 |
-| 70 | [Dancing in the Club \- MJ Lenderman Version](https://open.spotify.com/track/2aFkH4wK9nZbgtmlq411f2) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun), [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Box for Buddy, Box for Star \(Deluxe\)](https://open.spotify.com/album/0IQparYBt1I5vuApAzJwz0) | 4:58 |
+| 69 | [Dancing in the Club \- MJ Lenderman Version](https://open.spotify.com/track/2aFkH4wK9nZbgtmlq411f2) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun), [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Box for Buddy, Box for Star \(Deluxe\)](https://open.spotify.com/album/0IQparYBt1I5vuApAzJwz0) | 4:58 |
+| 70 | [Crooked Teeth](https://open.spotify.com/track/1crbFuCkGL4kXnAGd63RXq) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Plans](https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq) | 3:23 |
 | 71 | [Asshole](https://open.spotify.com/track/6ZrwhNlrmg63J21UDdNcnH) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Automatic](https://open.spotify.com/album/5WMQEzS5EBCPU5IYKSY7BM) | 3:03 |
 | 72 | [The Wire](https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Days Are Gone](https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf) | 4:05 |
 | 73 | [Everlasting Light](https://open.spotify.com/track/50ruR1ueH4wroJBpJOnjQS) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers \(Deluxe Remastered Anniversary Edition\)](https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj) | 3:25 |

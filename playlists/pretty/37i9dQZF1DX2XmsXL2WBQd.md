@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 
 > Anthems from the early days of recorded rap music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 457,639 likes - 70 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 457,682 likes - 70 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 | 5 | [Rapture](https://open.spotify.com/track/6F2vo4sxRNQ58VYe3pdiaL) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Greatest Hits: Blondie](https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW) | 4:59 |
 | 6 | [It Takes Two](https://open.spotify.com/track/3Yxmpx64AdWAzG3qAD4Dty) | [Rob Base & DJ EZ Rock](https://open.spotify.com/artist/6vwFR7NilfrQ4AX0d41fWu) | [Profilin': The Hits](https://open.spotify.com/album/6a6h1DRImqxSsXfn3bk6XU) | 5:01 |
 | 7 | [Ain't No Half\-Steppin'](https://open.spotify.com/track/0dNiLb9FEHrRK7VFDJctiR) | [Big Daddy Kane](https://open.spotify.com/artist/6futYSDVulYR2PktBjTB5W) | [Long Live The Kane](https://open.spotify.com/album/5STvD2F7IQ51f4Cd2y5r3z) | 5:19 |
-| 8 | [Express Yourself \- Remix](https://open.spotify.com/track/6NLLIPKjqFRnbCorRNTEHe) | [N.W.A.](https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay) | [Greatest Hits](https://open.spotify.com/album/2k4SKTM0a5FVN37VvFbxpr) | 4:21 |
-| 9 | [Jam On It](https://open.spotify.com/track/1lB2kyB5h9ceZ388GBfC9L) | [Newcleus](https://open.spotify.com/artist/5X8Tt3rIpdy8VR78KEhZ6C) | [Jam On Revenge](https://open.spotify.com/album/06IJFUuCwW3iokYxgXjCYe) | 6:23 |
+| 8 | [Jam On It](https://open.spotify.com/track/1lB2kyB5h9ceZ388GBfC9L) | [Newcleus](https://open.spotify.com/artist/5X8Tt3rIpdy8VR78KEhZ6C) | [Jam On Revenge](https://open.spotify.com/album/06IJFUuCwW3iokYxgXjCYe) | 6:23 |
+| 9 | [Express Yourself \- Remix](https://open.spotify.com/track/6NLLIPKjqFRnbCorRNTEHe) | [N.W.A.](https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay) | [Greatest Hits](https://open.spotify.com/album/2k4SKTM0a5FVN37VvFbxpr) | 4:21 |
 | 10 | [It's Like That](https://open.spotify.com/track/2J6QnTjHIWwXErNWyF0RUC) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [RUN\-DMC \(Expanded Edition\)](https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8) | 4:50 |
 | 11 | [You Gots To Chill](https://open.spotify.com/track/0f1yzIIGD8k32DNVeEn6jb) | [EPMD](https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN) | [Strictly Business](https://open.spotify.com/album/2HOl8gDiGGpt7wsIDi9jy5) | 4:21 |
 | 12 | [Smooth Operator](https://open.spotify.com/track/1Z4mVNtYGnpjHUoZVo3IMU) | [Big Daddy Kane](https://open.spotify.com/artist/6futYSDVulYR2PktBjTB5W) | [It's A Big Daddy Thing](https://open.spotify.com/album/1cvyT4p26JXJicEBbHPzvX) | 4:44 |
@@ -45,13 +45,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 | 35 | [Ego Trippin'](https://open.spotify.com/track/0WVqFNhP455QxcS1VhIWmo) | [Ultramagnetic MC's](https://open.spotify.com/artist/52ik8mwcuZ4ISphAkejj2Z) | [Critical Beatdown \(Re\-Issue\)](https://open.spotify.com/album/2nyDfMhGBwxbpfpyYtnBSJ) | 5:26 |
 | 36 | [Al\-Naafyish \(The Soul\)](https://open.spotify.com/track/6nDk4QT1fDe0S86PxijTUE) | [Hashim](https://open.spotify.com/artist/6AWyFSk8mBekuHeotBV1Jx) | [Al\-Naafyish](https://open.spotify.com/album/7uOndksGzmAduRTenxvVIt) | 6:14 |
 | 37 | [Friends](https://open.spotify.com/track/72tgSpiP5XkgxT8rEbDJXN) | [Whodini](https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu) | [The Collection](https://open.spotify.com/album/1MBp9PBjgcjojxprBh69m5) | 4:39 |
-| 38 | [I Know You Got Soul](https://open.spotify.com/track/53eSPiEnq4XkQSxczX7iKA) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Paid In Full](https://open.spotify.com/album/5GSidytcItIkYvD0GVQ68m) | 4:44 |
-| 39 | [South Bronx](https://open.spotify.com/track/6JMIaVMbh5emijDiBODgit) | [Boogie Down Productions](https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA) | [Criminal Minded \(Deluxe\)](https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55) | 5:08 |
+| 38 | [South Bronx](https://open.spotify.com/track/6JMIaVMbh5emijDiBODgit) | [Boogie Down Productions](https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA) | [Criminal Minded \(Deluxe\)](https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55) | 5:08 |
+| 39 | [I Know You Got Soul](https://open.spotify.com/track/53eSPiEnq4XkQSxczX7iKA) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Paid In Full](https://open.spotify.com/album/5GSidytcItIkYvD0GVQ68m) | 4:44 |
 | 40 | [Hip Hop Be Bop \(Original Version\)](https://open.spotify.com/track/21NALHsloDI31T781jDMFw) | [Man Parrish](https://open.spotify.com/artist/2HKVO06HXqGmQxZJ8xIqgr) | [Hip Hop Be Bop](https://open.spotify.com/album/0A9mRheQlMXT1A125XYgpg) | 5:36 |
 | 41 | [I Need Love](https://open.spotify.com/track/3UP7dzy4ISy8S3HOReCd1q) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [All World](https://open.spotify.com/album/75oGBjE0TVxgdiXhU6J20M) | 5:21 |
 | 42 | [Mona Lisa](https://open.spotify.com/track/5xc1DBXmB7MTajxDJ9cJcq) | [Slick Rick](https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1) | [The Great Adventures Of Slick Rick](https://open.spotify.com/album/71mmTJdWvpkzQNmVfFbRdN) | 4:08 |
-| 43 | [I Ain't No Joke](https://open.spotify.com/track/3IxqPuIsNbuudNO3cT9n8P) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Paid In Full](https://open.spotify.com/album/5GSidytcItIkYvD0GVQ68m) | 3:52 |
-| 44 | [My Part of Town](https://open.spotify.com/track/0shIrYpCMWM0721jBuT7iV) | [Tuff Crew](https://open.spotify.com/artist/7voU3OBl973giCAvy3AT5D) | [Danger Zone](https://open.spotify.com/album/5k1kZGgMzrFEPskXQlwcrb) | 4:31 |
+| 43 | [My Part of Town](https://open.spotify.com/track/0shIrYpCMWM0721jBuT7iV) | [Tuff Crew](https://open.spotify.com/artist/7voU3OBl973giCAvy3AT5D) | [Danger Zone](https://open.spotify.com/album/5k1kZGgMzrFEPskXQlwcrb) | 4:31 |
+| 44 | [I Ain't No Joke](https://open.spotify.com/track/3IxqPuIsNbuudNO3cT9n8P) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Paid In Full](https://open.spotify.com/album/5GSidytcItIkYvD0GVQ68m) | 3:52 |
 | 45 | [Boogie Down Bronx](https://open.spotify.com/track/2CbgPrMwa0UWUdppsOIoTR) | [Man Parrish](https://open.spotify.com/artist/2HKVO06HXqGmQxZJ8xIqgr) | [Hip Hop Be Bop](https://open.spotify.com/album/0A9mRheQlMXT1A125XYgpg) | 5:18 |
 | 46 | [Genius Rap \- 7" Single Version](https://open.spotify.com/track/71V59P1ap285AB9TNJdmbH) | [Dr\. Jeckyll & Mr\. Hyde](https://open.spotify.com/artist/7rxyGNqJCod2DVTBubSTyt) | [Giant Single: Profile Records Rap Anthology](https://open.spotify.com/album/13JxcY9hKf4t6BGkrNbSwr) | 4:40 |
 | 47 | [Bassline](https://open.spotify.com/track/4iuO0dinw5Bm18pXbZok8w) | [Mantronix](https://open.spotify.com/artist/0grZF2s6ADKiTGwf8EVZEY) | [The Album](https://open.spotify.com/album/10kEW14CpfmiAkXnE5Ic3K) | 5:26 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 | 66 | [Get into It](https://open.spotify.com/track/6nAFR5Ea3zGboy2d9CfWFp) | [Tony Scott](https://open.spotify.com/artist/29quhjruC6v2FTYLozD3zO) | [The Chief](https://open.spotify.com/album/56PlLnNFleTL1SVLycjrXa) | 3:17 |
 | 67 | [Straight Outta Compton](https://open.spotify.com/track/1CNvz3a8C4t9Ex2fedcu4n) | [N.W.A.](https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay) | [Straight Outta Compton](https://open.spotify.com/album/0PHwgJuLLRZP99sEvkkQUd) | 4:18 |
 | 68 | [Planet Rock](https://open.spotify.com/track/3uy0jtkM8QYVTsBazkli1x) | [Afrika Bambaataa](https://open.spotify.com/artist/7cg61q8kK8jlFi8TKKw70p), [The Soulsonic Force](https://open.spotify.com/artist/4zdcKwAK7lkYxgER54yfcP) | [Planet Rock](https://open.spotify.com/album/1uN3SzldnRO8CrsVN0lh2O) | 5:19 |
-| 69 | [Boyz\-N\-The\-Hood](https://open.spotify.com/track/4SZ3B3y1TbwTK4OIXMOVEy) | [Eazy\-E](https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX) | [The Best Of N.W.A: The Strength Of Street Knowledge](https://open.spotify.com/album/1RcZMUVcZrMxf1shgPN4o0) | 5:36 |
-| 70 | [The Message \- Extended Version](https://open.spotify.com/track/5isA9icHWl2651hvfr1EOV) | [Grandmaster Flash & The Furious Five](https://open.spotify.com/artist/5hQCwevTf03u1rECrRMeop) | [The Message \(Expanded Edition\)](https://open.spotify.com/album/6hrwAx3KoigDlYJx2TCAwC) | 7:10 |
+| 69 | [The Message \- Extended Version](https://open.spotify.com/track/5isA9icHWl2651hvfr1EOV) | [Grandmaster Flash & The Furious Five](https://open.spotify.com/artist/5hQCwevTf03u1rECrRMeop) | [The Message \(Expanded Edition\)](https://open.spotify.com/album/6hrwAx3KoigDlYJx2TCAwC) | 7:10 |
+| 70 | [Boyz\-N\-The\-Hood](https://open.spotify.com/track/4SZ3B3y1TbwTK4OIXMOVEy) | [Eazy\-E](https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX) | [The Best Of N.W.A: The Strength Of Street Knowledge](https://open.spotify.com/album/1RcZMUVcZrMxf1shgPN4o0) | 5:36 |
 
 Snapshot ID: `AAAAAApMRB3Ydi6rLGNmrnbf0aRSUY4K`

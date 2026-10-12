@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbu94YBG7Ye.md) - [plain]
 
 > 📸 KAROL G
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,390,853 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,390,632 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

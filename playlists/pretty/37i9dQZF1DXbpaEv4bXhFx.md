@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpaEv4bXhFx.md) - [plain]
 
 > 빗방울대신 감성을 맞는 시간\. \(Listen to K\-Pop rainy day songs.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,100 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,104 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpaEv4bXhFx.md) - [plain]
 | 12 | [After the Rain Stops](https://open.spotify.com/track/7HorSZWhZ5QpXVGdaBQzv5) | [Voicemail](https://open.spotify.com/artist/1in7SSSVuAOa0DaVBRWnXc) | [After the Rain Stops](https://open.spotify.com/album/2l3t9heQbSipR2Pkf6r9wm) | 3:28 |
 | 13 | [Rain Song \(Feat\. Colde\)](https://open.spotify.com/track/2qrDQX9IvOhetvjUcwPtmb) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Epik High Is Here 下 \(Part 2\)](https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh) | 4:05 |
 | 14 | [Rain and You](https://open.spotify.com/track/4ribiWWnI451QMRdOgByIP) | [LEE MU JIN](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [HOSPITAL PLAYLIST Season2, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/2pJhtrlZZvxFi818EMvKAY) | 4:22 |
-| 15 | [Rain](https://open.spotify.com/track/1ukyvyEeSg1odSQvhlRAIU) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Rain \- SM STATION](https://open.spotify.com/album/5MgY1E2inbDcthAQEzwz8L) | 3:42 |
-| 16 | [On Rainy Days \(2021\)](https://open.spotify.com/track/4a0OYMqeBOGuzCPLg5SfWU) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [On Rainy Days \(2021\)](https://open.spotify.com/album/6KpcAZYdX5RrdXme2a12d8) | 3:50 |
+| 15 | [On Rainy Days \(2021\)](https://open.spotify.com/track/4a0OYMqeBOGuzCPLg5SfWU) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [On Rainy Days \(2021\)](https://open.spotify.com/album/6KpcAZYdX5RrdXme2a12d8) | 3:50 |
+| 16 | [Rain](https://open.spotify.com/track/1ukyvyEeSg1odSQvhlRAIU) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Rain \- SM STATION](https://open.spotify.com/album/5MgY1E2inbDcthAQEzwz8L) | 3:42 |
 | 17 | [All Night Long \(She is My Type♡ X Car, the garden\)](https://open.spotify.com/track/797XRv2RhIp9qHeKG42HzD) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [All Night Long \(She is My Type♡ X Car, the garden\)](https://open.spotify.com/album/5P3m24aXWEmpq8LoYVzofm) | 3:19 |
 | 18 | [On A Rainy Day](https://open.spotify.com/track/3KhDf9MJlPpodahS4OwrMF) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [STABLE MINDSET](https://open.spotify.com/album/4ZCXsCHvaZ9r5skMrC4B9h) | 3:32 |
 | 19 | [When This Rain Stops](https://open.spotify.com/track/6mavVLsxaa4YcPje9qZKcf) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Like Water \- The 1st Mini Album](https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7) | 4:04 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpaEv4bXhFx.md) - [plain]
 | 31 | [비오는 압구정](https://open.spotify.com/track/1WKoaRdUQGSoo8qfiWc1dT) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Reason 4 breathing?](https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa) | 3:36 |
 | 32 | [Hug me tight](https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Hug me tight](https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF) | 3:47 |
 | 33 | [overdose](https://open.spotify.com/track/3B4Rxj4UItYuHyppE8S0gU) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [overdose](https://open.spotify.com/album/7gWO40G0L1xaZ0wEmiLmr8) | 4:15 |
-| 34 | [A Trivial Story](https://open.spotify.com/track/057qC3IXkjXt12NAkhkCpf) | [Jeon Jin Hee](https://open.spotify.com/artist/7MnWezV00qoqnc9aeG0gxg) | [Without Anyone Knowing](https://open.spotify.com/album/5oRAyWl80nzViSRTuCoO6A) | 3:32 |
-| 35 | [A Kind Of Confession \- Male Version](https://open.spotify.com/track/5w1sW9Gr8fBBy82f21uF0s) | [Kwak jineon](https://open.spotify.com/artist/5NBDM7OpuuyUNtlLLxTYWD) | [My Liberation Notes OST Part 9](https://open.spotify.com/album/19Ya0jFcV7U0opVyJqRHCV) | 3:56 |
+| 34 | [A Kind Of Confession \- Male Version](https://open.spotify.com/track/5w1sW9Gr8fBBy82f21uF0s) | [Kwak jineon](https://open.spotify.com/artist/5NBDM7OpuuyUNtlLLxTYWD) | [My Liberation Notes OST Part 9](https://open.spotify.com/album/19Ya0jFcV7U0opVyJqRHCV) | 3:56 |
+| 35 | [A Trivial Story](https://open.spotify.com/track/057qC3IXkjXt12NAkhkCpf) | [Jeon Jin Hee](https://open.spotify.com/artist/7MnWezV00qoqnc9aeG0gxg) | [Without Anyone Knowing](https://open.spotify.com/album/5oRAyWl80nzViSRTuCoO6A) | 3:32 |
 | 36 | [Rock With You \- Spotify Singles](https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO), [WOOGIE](https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN) | [Spotify Singles](https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5) | 3:48 |
 | 37 | [AM PM \(feat\. Whee In\) \- Prod\. Gray](https://open.spotify.com/track/1J1hPnwTw80wpVWRv8yuxj) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT), [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [SOMO: FUME](https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F) | 3:37 |
 | 38 | [I’ll Hold You Tight](https://open.spotify.com/track/3R7cGnlTJErw4tpPbNdGsf) | [JAEMAN](https://open.spotify.com/artist/0rDXlxrKhbgdatdiiSFgf7) | [Destined with You \(Original Television Soundtrack\), Pt.3](https://open.spotify.com/album/0XwdstY4SjObzQiSsQzwSK) | 3:35 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpaEv4bXhFx.md) - [plain]
 | 47 | [Can We Talk Again](https://open.spotify.com/track/0zuOKdFHYFIOTyJi0aOIuo) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [Can We Talk Again](https://open.spotify.com/album/7upDgBOqXuwU72JPeBLIzA) | 3:04 |
 | 48 | [Will spring come?](https://open.spotify.com/track/2Dn2Cy1z5xxLZeEmvhAfiQ) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [Will spring come?](https://open.spotify.com/album/42SJRbZgv7qyZsa2uhxa83) | 3:18 |
 | 49 | [RAINY DAYS](https://open.spotify.com/track/5fmDzAwCLpKYx1AEe9W3ny) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Hierarchy \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0FZw7AB2o6PKKMDXyntdIJ) | 3:34 |
-| 50 | [It's Raining](https://open.spotify.com/track/0x3tMyh5OmG7wG4aEq6Xgt) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Spring Again](https://open.spotify.com/album/1lyirN2uEAOt9M6CvkY9Rk) | 3:33 |
+| 50 | [With an Umbrella \(feat\. EZ Kim\)](https://open.spotify.com/track/1n0AKrAgihIBumnkrpoNof) | [seizetheday](https://open.spotify.com/artist/4QOj43HDq0domGAuo3naZB), [EZ Kim](https://open.spotify.com/artist/5WJOZ5N4iegy9XdltTo8os) | [Burn the Memory](https://open.spotify.com/album/4NFH1QhM6z05Fprr997SDW) | 3:31 |
 
 Snapshot ID: `AAAAAPQtlSx0RvdXVCGuO87Gzg5IU2fR`

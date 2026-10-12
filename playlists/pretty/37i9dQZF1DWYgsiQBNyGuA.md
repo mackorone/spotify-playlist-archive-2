@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 
 > Soul to brighten up your day\. Cover: NAO
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,007,301 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,007,281 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,15 +67,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 | 57 | [When I'm in Your Arms](https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Rose in the Dark](https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9) | 5:35 |
 | 58 | [Summer In December](https://open.spotify.com/track/29VTfTnGA0ZW5GbRn1WwVe) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl), [Aaron Childs](https://open.spotify.com/artist/2iAyNq1LgQlXcmtM7SzkdV), [The Dreamers](https://open.spotify.com/artist/5Mv7KECpdKCLVQcTfbTjT4) | [Summer In December](https://open.spotify.com/album/1p9Y7847XEVASZ0seH1mup) | 3:07 |
 | 59 | [Best of Me](https://open.spotify.com/track/1JkhKUXAoNivi87ipmV3rp) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Back To Love \(Deluxe Version\)](https://open.spotify.com/album/545a3sdz0JkH85iYFZPiR4) | 3:46 |
-| 60 | [Sumthin' Sumthin' \- Remastered 2021](https://open.spotify.com/track/60Pjyla2BNnWzWxNXxGa4u) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Maxwell's Urban Hang Suite](https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p) | 4:17 |
+| 60 | [Golden](https://open.spotify.com/track/28EL5veTZtx38TqxIZwFyQ) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Beautifully Human: Words and Sounds Vol\. 2](https://open.spotify.com/album/2w9BYQcL8keWGjEHSJRwa9) | 3:51 |
 | 61 | [Fight for Love](https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [11](https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8) | 4:57 |
 | 62 | [Sunshine](https://open.spotify.com/track/1el1feH98jWUrPpYmu5jN8) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 4:22 |
-| 63 | [Golden](https://open.spotify.com/track/28EL5veTZtx38TqxIZwFyQ) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Beautifully Human: Words and Sounds Vol\. 2](https://open.spotify.com/album/2w9BYQcL8keWGjEHSJRwa9) | 3:51 |
+| 63 | [Sumthin' Sumthin' \- Remastered 2021](https://open.spotify.com/track/60Pjyla2BNnWzWxNXxGa4u) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Maxwell's Urban Hang Suite](https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p) | 4:17 |
 | 64 | [You Are The Best Thing](https://open.spotify.com/track/1tdarjaWSw6cxpFdLNANuQ) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Gossip in the Grain](https://open.spotify.com/album/65nO4vwWKTVaCIUD3vE7nj) | 3:51 |
 | 65 | [If It Feels Good \(Then It Must Be\)](https://open.spotify.com/track/72Dd7GCaepMi8ktuXxmSZF) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 3:14 |
 | 66 | [RATHER BE](https://open.spotify.com/track/2QcDEWNu8pvcfxmo3KHYRv) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [RATHER BE](https://open.spotify.com/album/2OsE2fTGgTPYGzaARFLs8M) | 2:51 |
-| 67 | [Lifetime \- 2021 Remaster](https://open.spotify.com/track/0tXq1ob3ysGZN2oK1abtyp) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Now](https://open.spotify.com/album/3Ul8Nyuzr2AEwE8iSrQepC) | 5:29 |
-| 68 | [We Don't Have to Be Alone](https://open.spotify.com/track/6hRESIERR8gWu6CERwi2Zm) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [We Don't Have to Be Alone](https://open.spotify.com/album/0wcfCbz30o9L3neEu5L7Cz) | 2:46 |
+| 67 | [We Don't Have to Be Alone](https://open.spotify.com/track/6hRESIERR8gWu6CERwi2Zm) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [We Don't Have to Be Alone](https://open.spotify.com/album/0wcfCbz30o9L3neEu5L7Cz) | 2:46 |
+| 68 | [Lifetime \- 2021 Remaster](https://open.spotify.com/track/0tXq1ob3ysGZN2oK1abtyp) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Now](https://open.spotify.com/album/3Ul8Nyuzr2AEwE8iSrQepC) | 5:29 |
 | 69 | [Overqualified](https://open.spotify.com/track/3lHwn0uVcDUXusIKOoBVHp) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [BLOOM](https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH) | 5:18 |
 | 70 | [Body Language \(feat\. Sasha Keable\)](https://open.spotify.com/track/5EUh2m1rTsojG22W7XrCBG) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Body Language \(feat\. Sasha Keable\)](https://open.spotify.com/album/2aeEO30e5qXXujdeJjL7kY) | 4:02 |
 | 71 | [Find A Way](https://open.spotify.com/track/3TkNsftUBh8dwwLUHpmYNC) | [Dwele](https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU) | [Subject](https://open.spotify.com/album/44knvMChf7CE5Jkg636gXy) | 4:09 |

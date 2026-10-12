@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Luanna. The essential tracks, all in one playlist.",
-  "num_followers": 16307,
+  "num_followers": 16308,
   "original_name": "This Is Mc Luanna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asbdAAAAAACf8M055ualS557IO0M7ROn",
+  "snapshot_id": "asgugAAAAACx1bedgboLbbZjwRg8qDnS",
   "tracks": [
     {
       "added_at": null,
@@ -431,38 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Larga Essa Vida",
-        "url": "https://open.spotify.com/album/4fraCYAYq2B7H3AsennyRp"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Souza Beats",
-          "url": "https://open.spotify.com/artist/4GKTaVfXG0HMeGvK3g1JTq"
-        },
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        },
-        {
-          "name": "OGBEATZZ",
-          "url": "https://open.spotify.com/artist/15v6FcwjMytlEEhsG6mcLU"
-        },
-        {
-          "name": "Original Quality",
-          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
-        }
-      ],
-      "duration_ms": 119008,
-      "name": "Larga Essa Vida",
-      "url": "https://open.spotify.com/track/1I7rnx1blEUfgEi9owDD4C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Voc\u00ea Precisa do \u00c1libi",
         "url": "https://open.spotify.com/album/4530wDuVkqhhnJsGma5qKX"
       },
@@ -491,6 +459,38 @@
       "duration_ms": 165525,
       "name": "NOITES TRAI\u00c7OEIRAS",
       "url": "https://open.spotify.com/track/5FuRslm40ttLrTJSP8EgUI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Larga Essa Vida",
+        "url": "https://open.spotify.com/album/4fraCYAYq2B7H3AsennyRp"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Souza Beats",
+          "url": "https://open.spotify.com/artist/4GKTaVfXG0HMeGvK3g1JTq"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "OGBEATZZ",
+          "url": "https://open.spotify.com/artist/15v6FcwjMytlEEhsG6mcLU"
+        },
+        {
+          "name": "Original Quality",
+          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
+        }
+      ],
+      "duration_ms": 119008,
+      "name": "Larga Essa Vida",
+      "url": "https://open.spotify.com/track/1I7rnx1blEUfgEi9owDD4C"
     },
     {
       "added_at": null,
@@ -907,34 +907,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cachorro Sincero",
-        "url": "https://open.spotify.com/album/0PWbgeNtP3j5bR7QhZ8suc"
-      },
-      "artists": [
-        {
-          "name": "CJota",
-          "url": "https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        },
-        {
-          "name": "GvsnoBeat",
-          "url": "https://open.spotify.com/artist/3XGaWnMifn6JKRERkyUgTk"
-        }
-      ],
-      "duration_ms": 137989,
-      "name": "Diaba",
-      "url": "https://open.spotify.com/track/6OL1PIjTZoCEA4NA1yVUPj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
         "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
       },
@@ -959,6 +931,34 @@
       "duration_ms": 168205,
       "name": "Jogo",
       "url": "https://open.spotify.com/track/6Lhi35u2exuihYYNa69l4l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cachorro Sincero",
+        "url": "https://open.spotify.com/album/0PWbgeNtP3j5bR7QhZ8suc"
+      },
+      "artists": [
+        {
+          "name": "CJota",
+          "url": "https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "GvsnoBeat",
+          "url": "https://open.spotify.com/artist/3XGaWnMifn6JKRERkyUgTk"
+        }
+      ],
+      "duration_ms": 137989,
+      "name": "Diaba",
+      "url": "https://open.spotify.com/track/6OL1PIjTZoCEA4NA1yVUPj"
     },
     {
       "added_at": null,
@@ -1071,30 +1071,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PAPEL DE OT\u00c1RIA | MEDLEY 4X4",
-        "url": "https://open.spotify.com/album/0pX6HvnLUdVsLDm6ktuMwF"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        },
-        {
-          "name": "AF!RMA",
-          "url": "https://open.spotify.com/artist/5ezbyJgINANhxowRLAUoXS"
-        }
-      ],
-      "duration_ms": 211026,
-      "name": "Papel de Ot\u00e1ria",
-      "url": "https://open.spotify.com/track/5ND5kdJMoo7Rrv7VKF2Uph"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sexto Sentido",
         "url": "https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf"
       },
@@ -1115,6 +1091,30 @@
       "duration_ms": 242600,
       "name": "Mundo das Espertas",
       "url": "https://open.spotify.com/track/65PfSR01GTeObr5iapDNT3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PAPEL DE OT\u00c1RIA | MEDLEY 4X4",
+        "url": "https://open.spotify.com/album/0pX6HvnLUdVsLDm6ktuMwF"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        },
+        {
+          "name": "AF!RMA",
+          "url": "https://open.spotify.com/artist/5ezbyJgINANhxowRLAUoXS"
+        }
+      ],
+      "duration_ms": 211026,
+      "name": "Papel de Ot\u00e1ria",
+      "url": "https://open.spotify.com/track/5ND5kdJMoo7Rrv7VKF2Uph"
     },
     {
       "added_at": null,
@@ -1271,8 +1271,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "NO PRIMEIRO ENCONTRO",
-        "url": "https://open.spotify.com/album/6HFwrm0TlWUehB6u8dVNdQ"
+        "name": "Notas",
+        "url": "https://open.spotify.com/album/5JxbFGCIxfZPOPSuSs5GAY"
       },
       "artists": [
         {
@@ -1280,17 +1280,21 @@
           "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
         },
         {
-          "name": "Mc Laranjinha",
-          "url": "https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp"
+          "name": "Mc Jean",
+          "url": "https://open.spotify.com/artist/7iT64TaHLjA4wDm53frq3B"
         },
         {
-          "name": "Dj Chadin do C",
-          "url": "https://open.spotify.com/artist/1vzbmGlmb0yoO6drUgxm5C"
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        },
+        {
+          "name": "Piazza",
+          "url": "https://open.spotify.com/artist/5SpE1csYpLIA05aBXqkOuR"
         }
       ],
-      "duration_ms": 147692,
-      "name": "NO PRIMEIRO ENCONTRO",
-      "url": "https://open.spotify.com/track/1lS6UNDx1Mw1qw8eUFRJ8H"
+      "duration_ms": 201951,
+      "name": "Notas",
+      "url": "https://open.spotify.com/track/2AuH6RO1u7PMqCUv8HNg43"
     }
   ],
   "unique_name": "This Is Mc Luanna",

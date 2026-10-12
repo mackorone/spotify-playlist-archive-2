@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Sena Gül ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,905 likes - 144 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,937 likes - 144 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

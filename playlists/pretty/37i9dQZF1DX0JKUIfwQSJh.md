@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JKUIfwQSJh.md) - [plain]
 
 > Rewind and unwind with sirens of the seventies and eighties.
 
-[Spotify](https://open.spotify.com/user/spotify) - 970,046 likes - 60 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 970,089 likes - 60 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JKUIfwQSJh.md) - [plain]
 | 9 | [Free Fallin'](https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 4:16 |
 | 10 | [Let It Be \- Remastered 2009](https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Let It Be \(Remastered 2009\)](https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5) | 4:03 |
 | 11 | [More Than Words](https://open.spotify.com/track/1gVgkQFOKa8Wc1HYsJtPdH) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [Extreme II \- Pornograffitti](https://open.spotify.com/album/7DKHQxJTI32UyCdDdGwvRC) | 5:34 |
-| 12 | [Jolene](https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene](https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj) | 2:43 |
+| 12 | [You're So Vain](https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [No Secrets](https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5) | 4:18 |
 | 13 | [Imagine \- Remastered 2010](https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Imagine](https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk) | 3:07 |
-| 14 | [You're So Vain](https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [No Secrets](https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5) | 4:18 |
+| 14 | [Jolene](https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene](https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj) | 2:43 |
 | 15 | [You're the Inspiration \- 2006 Remaster](https://open.spotify.com/track/36lkJSDyMEZoWTqtRj8Q8q) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago 17 \(Expanded & Remastered\)](https://open.spotify.com/album/1ICKrl6sDjJD1YdR9VDfPR) | 3:49 |
 | 16 | [Lean on Me](https://open.spotify.com/track/3M8FzayQWtkvOhqMn2V4T2) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Still Bill](https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v) | 4:18 |
 | 17 | [Just the Two of Us \(feat\. Bill Withers\)](https://open.spotify.com/track/1ko2lVN0vKGUl9zrU0qSlT) | [Grover Washington, Jr.](https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1), [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Anthology](https://open.spotify.com/album/1lKYaRbV0AayVPss9i4oOp) | 7:18 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JKUIfwQSJh.md) - [plain]
 | 41 | [You've Got a Friend](https://open.spotify.com/track/5ONuwMIXAukbMNQCCSjjm0) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Greatest Hits](https://open.spotify.com/album/2L4U4JjEADYaVltkvDrkCC) | 4:28 |
 | 42 | [Going to California \- Remaster](https://open.spotify.com/track/1YVc2NJBwOtAebQiSUbt5T) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Remaster\)](https://open.spotify.com/album/5EyIDBAqhnlkAHqvPRwdbX) | 3:32 |
 | 43 | [\(You Make Me Feel Like\) A Natural Woman](https://open.spotify.com/track/0LXljhKMUgoLv8tLwZ1hmf) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 3:47 |
-| 44 | [Boulder to Birmingham \- 2003 Remaster](https://open.spotify.com/track/05XNDab0Lhitzqk7tRpOnY) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Pieces of the Sky \(Expanded & Remastered\)](https://open.spotify.com/album/04TlWfr3EnQE47HyNTBnex) | 3:33 |
-| 45 | [If You Could Read My Mind](https://open.spotify.com/track/0fjYN9BylnRXMA3or3QSld) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [Gord's Gold](https://open.spotify.com/album/6okC12pcFeLZOifXdunuhQ) | 3:49 |
+| 44 | [If You Could Read My Mind](https://open.spotify.com/track/0fjYN9BylnRXMA3or3QSld) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [Gord's Gold](https://open.spotify.com/album/6okC12pcFeLZOifXdunuhQ) | 3:49 |
+| 45 | [Boulder to Birmingham \- 2003 Remaster](https://open.spotify.com/track/05XNDab0Lhitzqk7tRpOnY) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Pieces of the Sky \(Expanded & Remastered\)](https://open.spotify.com/album/04TlWfr3EnQE47HyNTBnex) | 3:33 |
 | 46 | [And It Stoned Me \- 2013 Remaster](https://open.spotify.com/track/0pLt4z90EzbN7lY9lky1Z9) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Moondance](https://open.spotify.com/album/5PfnCqRbdfIDMb1x3MPQam) | 4:32 |
 | 47 | [Ripple](https://open.spotify.com/track/6PDAMw0YAGfO7ioXAgP2YW) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [What a Long Strange Trip It's Been: The Best of the Grateful Dead](https://open.spotify.com/album/5DnwKlUtjumhTnDG5RoWc5) | 4:10 |
 | 48 | [Stuck in the Middle with You \(Rerecorded\)](https://open.spotify.com/track/4eZw1gC3TAus5bZCKi3l5j) | [Stealers Wheel](https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki) | [Stuck in the Middle with You](https://open.spotify.com/album/6xF30dvvjy7ZF8vWknwmej) | 3:21 |

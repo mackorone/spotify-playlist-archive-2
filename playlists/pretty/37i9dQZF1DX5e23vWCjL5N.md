@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e23vWCjL5N.md) - [plain]
 
 > Punchline, storytelling, rap italiano\. Fibra e Neffa in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,803 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,802 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

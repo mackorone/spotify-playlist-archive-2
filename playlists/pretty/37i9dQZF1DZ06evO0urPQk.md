@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0urPQk.md) - [plain]
 
 > This is Nana Mizuki\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,914 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,916 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0urPQk.md) - [plain]
 | 49 | [Justice to Believe](https://open.spotify.com/track/2VXquJgTo2SfzCYLgz5cOj) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [Justice to Believe/アオイイロ](https://open.spotify.com/album/2gA0xxFZ1zlfcIS60xP5Av) | 5:02 |
 | 50 | [DAYBREAKERS](https://open.spotify.com/track/5JRD23S0aSND1Aeuz5FIYH) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [CANNONBALL RUNNING](https://open.spotify.com/album/02moJLic5EMfR2on6CHuJ8) | 4:20 |
 
-Snapshot ID: `asbdAAAAAAAlUSBifxwqUm9mmWcH2bSf`
+Snapshot ID: `asgugAAAAABAZH+65C1lF6I25XKvZIlS`

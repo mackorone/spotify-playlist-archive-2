@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AOEo0.md) - [plain]
 
 > This is Shane & Shane\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,077 likes - 50 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,084 likes - 50 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AOEo0.md) - [plain]
 | 38 | [Better Is One Day](https://open.spotify.com/track/5agB4G7lpX3nFov22BqWpm) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 2](https://open.spotify.com/album/4CjbL4RfKRS81ixWDcZc97) | 4:33 |
 | 39 | [Psalm 90 \(Satisfy Us with Your Love\)](https://open.spotify.com/track/1BsEjM4yjgsTlykhygDeNr) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Hymns, and Spiritual Songs, Vol\. 1](https://open.spotify.com/album/0zQOH5kEUD7CDho30wHTjf) | 5:15 |
 | 40 | [All Sufficient Merit \- Live](https://open.spotify.com/track/5p6uP5TGLpeCBlcK3Kd1yQ) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [All Sufficient Merit \(Live\)](https://open.spotify.com/album/2mKX49Xl7KBPNJlXT5dkJI) | 5:30 |
-| 41 | [Turn Your Eyes Upon Jesus \(Acoustic\)](https://open.spotify.com/track/5sM3BfN131EnsfNUxJYIJz) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Hymns in the Round](https://open.spotify.com/album/06mNMNp8K3S2YtrAzlacOf) | 4:50 |
-| 42 | [Yahweh \(Psalm 84\)](https://open.spotify.com/track/5T12pdka57KQjG6kfIlNrk) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Writers Well](https://open.spotify.com/artist/1pmi6rarpOlFn6aWPXBRqi), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied), [Max Dasher](https://open.spotify.com/artist/3wq2iqRqMHZm9KQ8GybUCE) | [Psalms from the Well](https://open.spotify.com/album/4c4cEn07dXS7q9l4mwk5Ic) | 4:58 |
+| 41 | [Yahweh \(Psalm 84\)](https://open.spotify.com/track/5T12pdka57KQjG6kfIlNrk) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Writers Well](https://open.spotify.com/artist/1pmi6rarpOlFn6aWPXBRqi), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied), [Max Dasher](https://open.spotify.com/artist/3wq2iqRqMHZm9KQ8GybUCE) | [Psalms from the Well](https://open.spotify.com/album/4c4cEn07dXS7q9l4mwk5Ic) | 4:58 |
+| 42 | [Turn Your Eyes Upon Jesus \(Acoustic\)](https://open.spotify.com/track/5sM3BfN131EnsfNUxJYIJz) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Hymns in the Round](https://open.spotify.com/album/06mNMNp8K3S2YtrAzlacOf) | 4:50 |
 | 43 | [Living Water](https://open.spotify.com/track/6TyyGSk69X8S922AF5L4qE) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Hymns, and Spiritual Songs, Vol\. 1](https://open.spotify.com/album/0zQOH5kEUD7CDho30wHTjf) | 3:45 |
 | 44 | [I Could Sing of Your Love Forever](https://open.spotify.com/track/0YR6Ga8ZNd9w93OP8Goaem) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Vintage](https://open.spotify.com/album/4qbhfbCJvCjkFlXfFJ8fxu) | 4:21 |
 | 45 | [Jesus Paid It All](https://open.spotify.com/track/1vxLrzkZv3VICnuuJoVDBH) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 5](https://open.spotify.com/album/7sR0mdV33yuZymVBo0y7aF) | 3:48 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1tUneJ0n3hvok5ORIuipoH">Alex Eskeerdo Izquierdo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 368 likes - 152 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 369 likes - 152 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 | 35 | [Guap](https://open.spotify.com/track/7G0PgkkbavF7Rh4zNrUxH0) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Hall Of Fame \(Deluxe\)](https://open.spotify.com/album/5RlT8X7XGGLKUhoimrDl54) | 4:31 |
 | 36 | [imagine](https://open.spotify.com/track/4PMZyXssvisK5IxLnnl9r7) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 2:44 |
 | 37 | [Worship You](https://open.spotify.com/track/0nUGOvjXk6Vc9ecQanZXUQ) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Worship You](https://open.spotify.com/album/2PMjEMiY2OBlbaLgGFSfLt) | 3:25 |
-| 38 | [Solita \(feat\. Rich The Kid\)](https://open.spotify.com/track/35kFg7GL288P9IK0r5oSh5) | [PRETTYMUCH](https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Solita \(feat\. Rich The Kid\)](https://open.spotify.com/album/5rkPX1n2MJs9vSUMBMo9Q7) | 3:06 |
-| 39 | [Hide My Gun \(Feat\. HARDY\)](https://open.spotify.com/track/6nf4oqFOsVKLwJPEliYVwT) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [F\-1 Trillion](https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx) | 3:40 |
+| 38 | [Hide My Gun \(Feat\. HARDY\)](https://open.spotify.com/track/6nf4oqFOsVKLwJPEliYVwT) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [F\-1 Trillion](https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx) | 3:40 |
+| 39 | [Solita \(feat\. Rich The Kid\)](https://open.spotify.com/track/35kFg7GL288P9IK0r5oSh5) | [PRETTYMUCH](https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Solita \(feat\. Rich The Kid\)](https://open.spotify.com/album/5rkPX1n2MJs9vSUMBMo9Q7) | 3:06 |
 | 40 | [Everywhere](https://open.spotify.com/track/2NRpuYVJPYhxC8xyutxkoL) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 2:48 |
 | 41 | [Dirty Work](https://open.spotify.com/track/53TW0KEB3fqduUfwf0LO9P) | [Austin Mahone](https://open.spotify.com/artist/04abdnqPQe2N4fjztDea6z) | [Dirty Work](https://open.spotify.com/album/6JSiQ8b11L6AzCVtFmbcH1) | 3:07 |
 | 42 | [Had It](https://open.spotify.com/track/6bsYXpygQTDRO48RtDRhGP) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/0rnd3h2dc82L4gTjW6Vfoq) | 3:19 |
@@ -145,8 +145,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 | 135 | [Tan Lines](https://open.spotify.com/track/6TFZEwGYziB85bWesoRys7) | [KingJet](https://open.spotify.com/artist/66UIbw9tYvJsqKEWsLqZUe) | [Tan Lines](https://open.spotify.com/album/3sLKF2otEz4Z26bX79jUKz) | 3:25 |
 | 136 | [Pretty Sure](https://open.spotify.com/track/3E7iBLJHRfDoDqKwgxEsHo) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Pretty Sure](https://open.spotify.com/album/2LKxTFUbRQ8XzNHgXfOb88) | 3:01 |
 | 137 | [Bones and Blood](https://open.spotify.com/track/4qGIpT6nFagsxOqjGCgY1M) | [John The Blind](https://open.spotify.com/artist/12U3blX0ilxf0tnejqPDYD) | [John The Blind](https://open.spotify.com/album/09cDd1zwcdM8q0rKmgRzi7) | 2:50 |
-| 138 | [They Mad](https://open.spotify.com/track/6UEcPVCX9NpbsKaARZ2jtB) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 3:27 |
-| 139 | [when she comes around](https://open.spotify.com/track/7eLA3WdT4ulUW83yMfP3v3) | [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [eiskalte engel](https://open.spotify.com/album/6WujacP0Ddr6ASOTkZ3yTX) | 3:09 |
+| 138 | [when she comes around](https://open.spotify.com/track/7eLA3WdT4ulUW83yMfP3v3) | [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [eiskalte engel](https://open.spotify.com/album/6WujacP0Ddr6ASOTkZ3yTX) | 3:09 |
+| 139 | [They Mad](https://open.spotify.com/track/6UEcPVCX9NpbsKaARZ2jtB) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 3:27 |
 | 140 | [Belong](https://open.spotify.com/track/4v7NK5ekkhfsVrhnechJud) | [MarcLo](https://open.spotify.com/artist/3Aa8vv6PuVakY8yP8tpi2X) | [Premonitions](https://open.spotify.com/album/7f5EBzskrYbensDvpazq5j) | 2:46 |
 | 141 | [Haze](https://open.spotify.com/track/4S1pXOs4WTATMqRIBtbKRS) | [MarcLo](https://open.spotify.com/artist/3Aa8vv6PuVakY8yP8tpi2X) | [11 DAYS](https://open.spotify.com/album/54sUAWVNEtPQLadklZwQLM) | 2:22 |
 | 142 | [Urgent](https://open.spotify.com/track/3LL0hDWRc54FIpbnvIAZR4) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 3:42 |
@@ -161,4 +161,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 | 151 | [Nothing In Common](https://open.spotify.com/track/4FPt0UqiphP1eiDCX9pxGO) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 2:48 |
 | 152 | [Gang In This Bitch](https://open.spotify.com/track/47igTK6oLfLRuK5IHQqx26) | [CHIRAQ CULTURE](https://open.spotify.com/artist/1DWnPrbc3B6IbM4dMO5CLg) | [SHOOTERS TOUCH VOL 1](https://open.spotify.com/album/3KLou7O2u6sGpqpNSgcetX) | 2:51 |
 
-Snapshot ID: `AcemrgAAAAAqi+kMDzyXhVo2kzmWYpGT`
+Snapshot ID: `AcesTgAAAABM0MI8UiOLiXVzK20sKC9Y`

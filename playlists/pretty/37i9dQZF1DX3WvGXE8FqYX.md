@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3WvGXE8FqYX.md) - [plain]
 
 > Celebrating the power of amazing female pop artists\. Cover: Slayyyter
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,555,094 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,555,014 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3WvGXE8FqYX.md) - [plain]
 | 10 | [Ain't In LA](https://open.spotify.com/track/02HyFYmpzt02VJ8k0CqxKj) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [Ain't In LA](https://open.spotify.com/album/3qGInqGfOePTekb0y7AZ4s) | 3:04 |
 | 11 | [Gabriela](https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gabriela](https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft) | 3:17 |
 | 12 | [deja vu](https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:35 |
-| 13 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 |
-| 14 | [Toxic](https://open.spotify.com/track/6I9VzXrHxO9rA9A5euc8Ak) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [In The Zone](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) | 3:18 |
+| 13 | [Toxic](https://open.spotify.com/track/6I9VzXrHxO9rA9A5euc8Ak) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [In The Zone](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) | 3:18 |
+| 14 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 |
 | 15 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 |
 | 16 | [Bad Romance](https://open.spotify.com/track/0SiywuOBRcynK0uKGWdCnn) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame Monster \(Deluxe Edition\)](https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4) | 4:54 |
 | 17 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 3:48 |

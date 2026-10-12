@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8skPjZYk8mL.md) - [plain]
 
 > Soft instrumental lullabies for the little ones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,784 likes - 270 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,966 likes - 270 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

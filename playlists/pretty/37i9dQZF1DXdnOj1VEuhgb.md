@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: Kayra
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,402,388 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,402,269 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

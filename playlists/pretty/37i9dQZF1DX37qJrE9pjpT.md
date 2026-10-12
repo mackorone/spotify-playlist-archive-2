@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37qJrE9pjpT.md) - [plain]
 
 > The hottest rap anthems from Tanzania all in one playlist\. Cover: Young Lunya
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,401 likes - 54 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,417 likes - 54 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

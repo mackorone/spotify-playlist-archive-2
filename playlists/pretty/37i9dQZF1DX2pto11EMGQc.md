@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pto11EMGQc.md) - [plain]
 
 > Here's to the groom! Enjoy your day with the boys!
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,448 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,456 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pto11EMGQc.md) - [plain]
 | 8 | [High Hopes](https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pray for the Wicked](https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge) | 3:10 |
 | 9 | [Colorado](https://open.spotify.com/track/35iR1qzexmbcUSgA01S4gI) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Trip Tape](https://open.spotify.com/album/707cK3j40hIquI15sOcYXP) | 2:54 |
 | 10 | [Hey Ya!](https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 3:55 |
-| 11 | [One More Time](https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 5:20 |
-| 12 | [Feel It Still](https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Woodstock](https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB) | 2:43 |
+| 11 | [Feel It Still](https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Woodstock](https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB) | 2:43 |
+| 12 | [One More Time](https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 5:20 |
 | 13 | [rockstar \(feat\. 21 Savage\)](https://open.spotify.com/track/0e7ipj03S05BNilyu5bRzt) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [beerbongs & bentleys](https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR) | 3:38 |
 | 14 | [Good Feeling](https://open.spotify.com/track/2LEF1A8DOZ9wRYikWgVlZ8) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Wild Ones](https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk) | 4:08 |
 | 15 | [Best Day Of My Life](https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Oh, What A Life](https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv) | 3:14 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pto11EMGQc.md) - [plain]
 | 45 | [Blame It](https://open.spotify.com/track/08uGhvS5MfBk7crUCpnjva) | [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Intuition](https://open.spotify.com/album/4Tk1gvdwy7TL3Ma2s9iZ9f) | 4:49 |
 | 46 | [Magic \(feat\. Rivers Cuomo\)](https://open.spotify.com/track/5uHYcK0nbEYgRaFTY5BqnP) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT), [Rivers Cuomo](https://open.spotify.com/artist/4LAz9VRX8Nat9kvIzgkg2v) | [B.o.B Presents: The Adventures of Bobby Ray](https://open.spotify.com/album/7apLPYT8szV1IqTxyVSy5P) | 3:16 |
 | 47 | [First](https://open.spotify.com/track/3omXshBamrREltcf24gYDC) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Hold My Home](https://open.spotify.com/album/2H09itV5a5yUcGyk9u9HwY) | 3:20 |
-| 48 | [broken](https://open.spotify.com/track/6XcfKZvJio9Z0fQy11GnNX) | [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [finding it hard to smile](https://open.spotify.com/album/2AbPwLvpR0FwpqGt4ZY1q4) | 3:24 |
-| 49 | [D.A.N.C.E.](https://open.spotify.com/track/33yAEqzKXexYM3WlOYtTfQ) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Justice](https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL) | 4:02 |
+| 48 | [D.A.N.C.E.](https://open.spotify.com/track/33yAEqzKXexYM3WlOYtTfQ) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Justice](https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL) | 4:02 |
+| 49 | [broken](https://open.spotify.com/track/6XcfKZvJio9Z0fQy11GnNX) | [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [finding it hard to smile](https://open.spotify.com/album/2AbPwLvpR0FwpqGt4ZY1q4) | 3:24 |
 | 50 | [Bring Em Out](https://open.spotify.com/track/3CcvahnsiArpTHYQEWV2Au) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Urban Legend](https://open.spotify.com/album/1oFucub5OjyG4XPsDUzhil) | 3:36 |
 
 Snapshot ID: `AAAAAISokb9KAZt4y4HPj9p8dRlN6+cC`

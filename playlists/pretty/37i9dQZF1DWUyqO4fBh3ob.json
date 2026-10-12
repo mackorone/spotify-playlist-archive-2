@@ -1,6 +1,6 @@
 {
   "description": "The sweet sounds of Syria.",
-  "num_followers": 60562,
+  "num_followers": 60565,
   "original_name": "Syria Sounds",
   "owner": {
     "name": "Spotify",
@@ -43,6 +43,22 @@
     {
       "added_at": "2025-02-20 21:13:59",
       "album": {
+        "name": "Ya Magnoon",
+        "url": "https://open.spotify.com/album/3hFgffTpdfDu4y3fOnOs7X"
+      },
+      "artists": [
+        {
+          "name": "Assala",
+          "url": "https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl"
+        }
+      ],
+      "duration_ms": 272575,
+      "name": "Ya Magnon",
+      "url": "https://open.spotify.com/track/0Tiq0Glqoi6AFMpiLRLX8M"
+    },
+    {
+      "added_at": "2025-02-20 21:13:59",
+      "album": {
         "name": "Ma Fi Leil",
         "url": "https://open.spotify.com/album/1Rp9bFeceWXdz8bifip2cM"
       },
@@ -59,22 +75,6 @@
       "duration_ms": 237452,
       "name": "Ma Fi Leil",
       "url": "https://open.spotify.com/track/7eBCrBVZGlfgbutr8CbqiG"
-    },
-    {
-      "added_at": "2025-02-20 21:13:59",
-      "album": {
-        "name": "Ya Magnoon",
-        "url": "https://open.spotify.com/album/3hFgffTpdfDu4y3fOnOs7X"
-      },
-      "artists": [
-        {
-          "name": "Assala",
-          "url": "https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl"
-        }
-      ],
-      "duration_ms": 272575,
-      "name": "Ya Magnon",
-      "url": "https://open.spotify.com/track/0Tiq0Glqoi6AFMpiLRLX8M"
     },
     {
       "added_at": "2025-02-20 21:13:59",

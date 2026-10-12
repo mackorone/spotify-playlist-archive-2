@@ -1,6 +1,6 @@
 {
   "description": "The whole truth. Cover: Rick Ross",
-  "num_followers": 269704,
+  "num_followers": 269700,
   "original_name": "No Cap",
   "owner": {
     "name": "Spotify",
@@ -495,22 +495,18 @@
     {
       "added_at": "2026-07-16 23:00:27",
       "album": {
-        "name": "Cannonball (feat. Don Toliver)",
-        "url": "https://open.spotify.com/album/3bUCIjSqiFKhRGAnb59VC8"
+        "name": "GOT DAMN",
+        "url": "https://open.spotify.com/album/6HO6ObAHr6Yf03scMOWFec"
       },
       "artists": [
         {
-          "name": "Lithe",
-          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 122568,
-      "name": "Cannonball (feat. Don Toliver)",
-      "url": "https://open.spotify.com/track/57yu1WujridphAAkPgpkhC"
+      "duration_ms": 156800,
+      "name": "GOT DAMN",
+      "url": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
     },
     {
       "added_at": "2026-07-16 23:00:27",
@@ -535,6 +531,26 @@
     {
       "added_at": "2026-07-16 23:00:27",
       "album": {
+        "name": "Cannonball (feat. Don Toliver)",
+        "url": "https://open.spotify.com/album/3bUCIjSqiFKhRGAnb59VC8"
+      },
+      "artists": [
+        {
+          "name": "Lithe",
+          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 122568,
+      "name": "Cannonball (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/57yu1WujridphAAkPgpkhC"
+    },
+    {
+      "added_at": "2026-07-16 23:00:27",
+      "album": {
         "name": "MUSIC",
         "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
       },
@@ -555,22 +571,6 @@
     {
       "added_at": "2026-07-16 23:00:27",
       "album": {
-        "name": "GOT DAMN",
-        "url": "https://open.spotify.com/album/6HO6ObAHr6Yf03scMOWFec"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 156800,
-      "name": "GOT DAMN",
-      "url": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
-    },
-    {
-      "added_at": "2026-07-16 23:00:27",
-      "album": {
         "name": "Hello Miss Johnson",
         "url": "https://open.spotify.com/album/3MJGcgbroIjiO90yi7RMhy"
       },
@@ -583,6 +583,22 @@
       "duration_ms": 164747,
       "name": "Hello Miss Johnson",
       "url": "https://open.spotify.com/track/6gH1UKDAhWS6qXzKXB4wuY"
+    },
+    {
+      "added_at": "2026-07-16 23:00:27",
+      "album": {
+        "name": "The Last Wun",
+        "url": "https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 123520,
+      "name": "just say dat",
+      "url": "https://open.spotify.com/track/5sVrb7EJxs2LriI1m3KuX2"
     },
     {
       "added_at": "2026-07-16 23:00:27",
@@ -651,22 +667,6 @@
     {
       "added_at": "2026-07-16 23:00:27",
       "album": {
-        "name": "The Last Wun",
-        "url": "https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 123520,
-      "name": "just say dat",
-      "url": "https://open.spotify.com/track/5sVrb7EJxs2LriI1m3KuX2"
-    },
-    {
-      "added_at": "2026-07-16 23:00:27",
-      "album": {
         "name": "Made It On Our Own",
         "url": "https://open.spotify.com/album/5pXYL4x2dOkvxM0aeigqwF"
       },
@@ -683,6 +683,26 @@
       "duration_ms": 169090,
       "name": "Made It On Our Own",
       "url": "https://open.spotify.com/track/13Z2JpNwN54a5WXacGYtLs"
+    },
+    {
+      "added_at": "2026-07-16 23:00:27",
+      "album": {
+        "name": "The Last Wun",
+        "url": "https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 193466,
+      "name": "at my purest (feat. Offset)",
+      "url": "https://open.spotify.com/track/338HvC3y58zPScamNZu4Dr"
     },
     {
       "added_at": "2026-07-16 23:00:27",
@@ -747,26 +767,6 @@
       "duration_ms": 113437,
       "name": "KILLIN EM",
       "url": "https://open.spotify.com/track/05gfooFDrVx4SkKZp1H1Wx"
-    },
-    {
-      "added_at": "2026-07-16 23:00:27",
-      "album": {
-        "name": "The Last Wun",
-        "url": "https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 193466,
-      "name": "at my purest (feat. Offset)",
-      "url": "https://open.spotify.com/track/338HvC3y58zPScamNZu4Dr"
     },
     {
       "added_at": "2026-07-16 23:00:27",

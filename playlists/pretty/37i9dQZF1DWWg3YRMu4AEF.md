@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWg3YRMu4AEF.md) - [plain]
 
 > Feel on top of the world with these uplifting anthems of the 70s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,853 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,858 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,12 +20,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWg3YRMu4AEF.md) - [plain]
 | 10 | [More Than A Woman \- From "Saturday Night Fever" Soundtrack](https://open.spotify.com/track/49OMJ1prsRA7ZYgrAjz70c) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Greatest](https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT) | 3:17 |
 | 11 | [Ventura Highway](https://open.spotify.com/track/4IU1RL4BKvFyXtbTwaHAvW) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo), [George Martin](https://open.spotify.com/artist/4Fgf6RvuWpiwDXSE7Vammx) | [Homecoming](https://open.spotify.com/album/7eqBAR9pblivMBOI70q2um) | 3:31 |
 | 12 | [Young Hearts Run Free](https://open.spotify.com/track/3MFa9idQuY4iJLWsZl3tIQ) | [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et) | [Young Hearts Run Free \(US Internet Release\)](https://open.spotify.com/album/39ntuIhbcC8rsmRV2qXkmZ) | 4:08 |
-| 13 | [Take A Chance On Me](https://open.spotify.com/track/5BckPAYcKEJuYs1eV1BHHe) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [The Album](https://open.spotify.com/album/5fLOHW1UXr1cJrnXiU3FBt) | 4:03 |
-| 14 | [What a Fool Believes](https://open.spotify.com/track/2yBVeksU2EtrPJbTu4ZslK) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [Minute by Minute](https://open.spotify.com/album/7je2uv9QBH65HhADDZitbB) | 3:43 |
+| 13 | [What a Fool Believes](https://open.spotify.com/track/2yBVeksU2EtrPJbTu4ZslK) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [Minute by Minute](https://open.spotify.com/album/7je2uv9QBH65HhADDZitbB) | 3:43 |
+| 14 | [The Joker](https://open.spotify.com/track/1bp2IO61zbQrbWNmKKxg3f) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [The Joker](https://open.spotify.com/album/5uYNj1HkZrWKAkhEYcGmJr) | 4:24 |
 | 15 | [Stayin' Alive \- From "Saturday Night Fever" Soundtrack](https://open.spotify.com/track/3mRM4NM8iO7UBqrSigCQFH) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Greatest](https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT) | 4:45 |
-| 16 | [The Joker](https://open.spotify.com/track/1bp2IO61zbQrbWNmKKxg3f) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [The Joker](https://open.spotify.com/album/5uYNj1HkZrWKAkhEYcGmJr) | 4:24 |
-| 17 | [My Life](https://open.spotify.com/track/4ZoBC5MhSEzuknIgAkBaoT) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [52nd Street](https://open.spotify.com/album/1HmCO8VK98AU6EXPOjGYyI) | 4:45 |
-| 18 | [Daddy Cool](https://open.spotify.com/track/3WMbD1OyfKuwWDWMNbPQ4g) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Take The Heat Off Me](https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4) | 3:28 |
+| 16 | [Take A Chance On Me](https://open.spotify.com/track/5BckPAYcKEJuYs1eV1BHHe) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [The Album](https://open.spotify.com/album/5fLOHW1UXr1cJrnXiU3FBt) | 4:03 |
+| 17 | [Daddy Cool](https://open.spotify.com/track/3WMbD1OyfKuwWDWMNbPQ4g) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Take The Heat Off Me](https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4) | 3:28 |
+| 18 | [My Life](https://open.spotify.com/track/4ZoBC5MhSEzuknIgAkBaoT) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [52nd Street](https://open.spotify.com/album/1HmCO8VK98AU6EXPOjGYyI) | 4:45 |
 | 19 | [Born to Be Alive \- The Original](https://open.spotify.com/track/3XIEWK1V9n25PS9Vb6axj5) | [Patrick Hernandez](https://open.spotify.com/artist/1CcEgi464SWZsKY5579u7z) | [Born to Be Alive \(The Original\)](https://open.spotify.com/album/0kVK9lFFTzhnEb4ETElbCD) | 3:08 |
 | 20 | [Don't Bring Me Down](https://open.spotify.com/track/72ahyckBJfTigJCFCviVN7) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [Discovery](https://open.spotify.com/album/1CvVSn2MtKDBR6aWMkNkem) | 4:03 |
 | 21 | [You Sexy Thing](https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO) | [Hot Chocolate](https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi) | [Hot Chocolate](https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni) | 4:04 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWg3YRMu4AEF.md) - [plain]
 | 31 | [Angeleyes](https://open.spotify.com/track/7rWgGyRK7RAqAAXy4bLft9) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 4:20 |
 | 32 | [Life in the Fast Lane \- 2013 Remaster](https://open.spotify.com/track/6gXrEUzibufX9xYPk3HD5p) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Hotel California \(2013 Remaster\)](https://open.spotify.com/album/2widuo17g5CEC66IbzveRu) | 4:46 |
 | 33 | [Night Fever \- From "Saturday Night Fever" Soundtrack](https://open.spotify.com/track/5KgbyD2lQQlIupAaPjgiXg) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Greatest](https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT) | 3:32 |
-| 34 | [Superstition](https://open.spotify.com/track/4N0TP4Rmj6QQezWV88ARNJ) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Talking Book](https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw) | 4:26 |
-| 35 | [We Are Family \- 1995 Remaster](https://open.spotify.com/track/5IKLwqBQG6KU6MP2zP80Nu) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [We Are Family \(1995 Remaster\)](https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT) | 3:36 |
+| 34 | [We Are Family \- 1995 Remaster](https://open.spotify.com/track/5IKLwqBQG6KU6MP2zP80Nu) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [We Are Family \(1995 Remaster\)](https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT) | 3:36 |
+| 35 | [Superstition](https://open.spotify.com/track/4N0TP4Rmj6QQezWV88ARNJ) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Talking Book](https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw) | 4:26 |
 | 36 | [Livin' Thing](https://open.spotify.com/track/2hdNya0b6Cc2YJ8IyaQIWp) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [A New World Record](https://open.spotify.com/album/7a35UzxXYuKQGMGImyB0Un) | 3:31 |
 | 37 | [Life's Been Good](https://open.spotify.com/track/2wvMC5EyaaYQwBfiwwY2xE) | [Joe Walsh](https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK) | [But Seriously, Folks...](https://open.spotify.com/album/5yqBTSoJqE9EfApl2Pptva) | 8:56 |
 | 38 | [Rock'n Me](https://open.spotify.com/track/1orVKbp6vqtfAPOmvRofVq) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Fly Like An Eagle](https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC) | 3:07 |

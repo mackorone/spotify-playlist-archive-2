@@ -2558,7 +2558,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 188058,
       "name": "ar sugeb\u0117si?",
       "url": "https://open.spotify.com/track/5SyYLI7NzRcFNhONoeFq20"
@@ -22048,7 +22048,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 223046,
       "name": "Ketvirtadienis",
       "url": "https://open.spotify.com/track/0JDeVnoJvDHhMphbuAAuEp"
@@ -23356,7 +23356,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 256693,
       "name": "Laikas Keistis",
       "url": "https://open.spotify.com/track/64uZgjybWWpwhZ4JKZWQa8"
@@ -27960,7 +27960,7 @@
       ],
       "date_added": "2026-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-07",
+      "date_removed": null,
       "duration_ms": 212386,
       "name": "Mira\u017eas",
       "url": "https://open.spotify.com/track/6jLmAjY0hfGF98mqfu4ugw"
@@ -32088,7 +32088,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 131186,
       "name": "onsra",
       "url": "https://open.spotify.com/track/7wS6EAZast0FJGw79CXGND"
@@ -42090,7 +42090,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 198840,
       "name": "Stop The Wedding!",
       "url": "https://open.spotify.com/track/3zOYmiNOuyDL0ClxJcEJ0T"
@@ -42390,7 +42390,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-07",
+      "date_removed": null,
       "duration_ms": 189272,
       "name": "Sugr\u0105\u017einu",
       "url": "https://open.spotify.com/track/7zGLbuP5RQidLIjK6Gxvlq"
@@ -49130,7 +49130,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-11",
+      "date_removed": null,
       "duration_ms": 184153,
       "name": "we fell in love in october",
       "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
@@ -49958,7 +49958,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-11",
+      "date_removed": null,
       "duration_ms": 289066,
       "name": "Wicked Game",
       "url": "https://open.spotify.com/track/2y42xAsl6dfMeVXQgOYsUw"
@@ -52206,6 +52206,28 @@
       "duration_ms": 219167,
       "name": "\u041f\u044c\u044f\u043d\u044b\u0439",
       "url": "https://open.spotify.com/track/4I1zHwedXs8RLfXs4nWSIK"
+    },
+    {
+      "album": {
+        "name": "\u0420\u043e\u0437\u043e\u0432\u043e\u0435 \u0432\u0438\u043d\u043e",
+        "url": "https://open.spotify.com/album/7ptSaUKXKlNNoLi8Z60f0J"
+      },
+      "artists": [
+        {
+          "name": "Eldzhey",
+          "url": "https://open.spotify.com/artist/0Cm90jv892OeEegB3ELmvN"
+        },
+        {
+          "name": "FEDUK",
+          "url": "https://open.spotify.com/artist/3EsjO0y0DE1GC453Sgyr7Z"
+        }
+      ],
+      "date_added": "2026-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246818,
+      "name": "\u0420\u043e\u0437\u043e\u0432\u043e\u0435 \u0432\u0438\u043d\u043e",
+      "url": "https://open.spotify.com/track/2gcFOhxQOqAx1OABnxvUZ4"
     },
     {
       "album": {

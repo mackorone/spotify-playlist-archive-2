@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZHO2BTzHF4G.md) - [plain]
 
 > Rock on repeat during the summers of the 2000s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,144 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,157 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZHO2BTzHF4G.md) - [plain]
 | 28 | [You Found Me](https://open.spotify.com/track/4IoYz8XqqdowINzfRrFnhi) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [The Fray](https://open.spotify.com/album/3ibdlhMmbFPMYoWvwHCzI3) | 4:01 |
 | 29 | [Wake Me up When September Ends](https://open.spotify.com/track/3ZffCQKLFLUvYM59XKLbVm) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke) | 4:45 |
 | 30 | [Blurry](https://open.spotify.com/track/0FLBNqc5oAiTt4J2e3fe3y) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [Come Clean](https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5) | 5:03 |
-| 31 | [When I'm Gone](https://open.spotify.com/track/3WbphvawbMZ8FyqDxYGdSQ) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Away From The Sun](https://open.spotify.com/album/72olNArm75vOycSziqIX9Y) | 4:20 |
-| 32 | [Human](https://open.spotify.com/track/1sTsuZTdANkiFd7T34H3nb) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Day & Age \(Bonus Tracks\)](https://open.spotify.com/album/0Ug5scDXUIgGN8yanDBLQw) | 4:05 |
+| 31 | [Human](https://open.spotify.com/track/1sTsuZTdANkiFd7T34H3nb) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Day & Age \(Bonus Tracks\)](https://open.spotify.com/album/0Ug5scDXUIgGN8yanDBLQw) | 4:05 |
+| 32 | [When I'm Gone](https://open.spotify.com/track/3WbphvawbMZ8FyqDxYGdSQ) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Away From The Sun](https://open.spotify.com/album/72olNArm75vOycSziqIX9Y) | 4:20 |
 | 33 | [You And Me](https://open.spotify.com/track/0815caqt2Lytro5EIzMufT) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [Lifehouse](https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz) | 3:15 |
 | 34 | [21 Guns](https://open.spotify.com/track/64yrDBpcdwEdNY9loyEGbX) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [21st Century Breakdown](https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79) | 5:21 |
 | 35 | [Best of You](https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [In Your Honor](https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ) | 4:15 |

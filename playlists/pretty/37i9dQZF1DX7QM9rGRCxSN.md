@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 
 > La  selección  musical de la inconmensurable tristeza latina bajo la mirada de un simple editor de Spotify
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,444 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,450 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 12 | [GTA Santiago](https://open.spotify.com/track/4646D4hCxZYF8SA2nx9cPA) | [Cámara Chilena de la Destrucción](https://open.spotify.com/artist/3zdrl0FdJvv4MC97zk8Qmo) | [El Hambre y las Ganas de Comer](https://open.spotify.com/album/3BuKkPfehxDul58gK9K1Fo) | 3:18 |
 | 13 | [Quieres darme un beso?](https://open.spotify.com/track/3ZJx8bxPfs1D7nsNtrdIDS) | [Quemarlo Todo Por Error](https://open.spotify.com/artist/2uBBnvNK2YBWL8Q4f4W8GG) | [Quieres darme un beso?](https://open.spotify.com/album/2KRplOwcKL3SCTtts8dHMW) | 2:49 |
 | 14 | [Piel](https://open.spotify.com/track/0d5dMFrbWRkTVmElV35Inv) | [Estoy Bien](https://open.spotify.com/artist/3L2tBKYsn5RF3NM1NLQEda) | [Apoyo Emocional](https://open.spotify.com/album/657j47iSoFWivyz6e55mph) | 2:14 |
-| 15 | [minet](https://open.spotify.com/track/4Nr7WCcqcvFkvm0cv9LAlv) | [archipiélagos](https://open.spotify.com/artist/2PRjdrnN3crdykcsLu1S6d) | [split](https://open.spotify.com/album/27Omp1v6xsiOdN6nKi20jN) | 3:45 |
-| 16 | [Tan fácil que es hablar las cosas](https://open.spotify.com/track/7gYA78JHsoo6ETyLWA0oWX) | [Honey Pot!](https://open.spotify.com/artist/2ChMQHl50BYiWfrN0OxqY7) | [Tan fácil que es hablar las cosas](https://open.spotify.com/album/1PHF6JzIJ7id63Rzh598fU) | 5:22 |
+| 15 | [Tan fácil que es hablar las cosas](https://open.spotify.com/track/7gYA78JHsoo6ETyLWA0oWX) | [Honey Pot!](https://open.spotify.com/artist/2ChMQHl50BYiWfrN0OxqY7) | [Tan fácil que es hablar las cosas](https://open.spotify.com/album/1PHF6JzIJ7id63Rzh598fU) | 5:22 |
+| 16 | [minet](https://open.spotify.com/track/4Nr7WCcqcvFkvm0cv9LAlv) | [archipiélagos](https://open.spotify.com/artist/2PRjdrnN3crdykcsLu1S6d) | [split](https://open.spotify.com/album/27Omp1v6xsiOdN6nKi20jN) | 3:45 |
 | 17 | [es estúpido cuánto quiero que vuelvas](https://open.spotify.com/track/5ywFeJ8mQLHOFRWy005Zur) | [mil ataris por segundo](https://open.spotify.com/artist/4YprYq1vIq74xBwBaTTgfs) | [epílogo, Ícaro, globo, destinito, bruja, madrugada, dormidera,](https://open.spotify.com/album/6AXvwpN6jA46pAWWfJKJjM) | 3:24 |
 | 18 | [Charlie contra los monjes](https://open.spotify.com/track/3uUOxbnLTaG1FpSFWobwgY) | [cacomixtle](https://open.spotify.com/artist/5BPV50KIHSSKCHuQwh30fP) | [Flora y Fauna del Estado de México](https://open.spotify.com/album/37TT0YwBeoYDSx4xq68gQ8) | 3:12 |
 | 19 | [Quebrada](https://open.spotify.com/track/22wjxoyspjoKR9qZ7xyGik) | [Estoy Bien](https://open.spotify.com/artist/3L2tBKYsn5RF3NM1NLQEda) | [Quebrada](https://open.spotify.com/album/6Kc856PWIMLeN9IjfOiOxG) | 3:30 |
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 31 | [Zaza](https://open.spotify.com/track/06hQBCCnTPdlDur3HGGgv9) | [Allanamiento Emocional](https://open.spotify.com/artist/7d6pOevWwMO1Oi46SxnQAz) | [Zaza](https://open.spotify.com/album/3E1sVU9dy5EkojxZAivmyQ) | 4:04 |
 | 32 | [Jardín de Plastilina](https://open.spotify.com/track/5TlBGBCObj3AGtuwUIcJE9) | [recuerdo acariciar con miedo las alas de un ave herida](https://open.spotify.com/artist/5VpDAX7Mz6ZYj0odIGXcHu) | [Muchas Formas de Decir Casa](https://open.spotify.com/album/6w90GXtYSucNXlwo19qk0u) | 3:52 |
 | 33 | [Dame fuerza](https://open.spotify.com/track/1K0vZvFvGdMmuTtk3lG695) | [Distimia Agorafóbica](https://open.spotify.com/artist/7tISC8BW7wEIbPpQVz4RmR) | [Dame fuerza](https://open.spotify.com/album/06Uff0c3YKDE4FcksJsiHT) | 4:32 |
-| 34 | [Apareces después de tres veranos](https://open.spotify.com/track/44eNAlJ9Cqo2zTmxSeFyMr) | [Baja killa](https://open.spotify.com/artist/6cqkLCvzJ1bVf2aD6jAtu8) | [Rompecabezas](https://open.spotify.com/album/3mmUkFcttPbpTMkvh3DV4C) | 2:54 |
-| 35 | [Parras](https://open.spotify.com/track/5PN7ynq0HnyrJ2ekMfQzeJ) | [no hay niños en el parque](https://open.spotify.com/artist/0PDCp8aQ1WUGhQDyMIGegw) | [Parras](https://open.spotify.com/album/4nyIodEOBoNS05fp8rfG8l) | 3:34 |
-| 36 | [Santa Rosa](https://open.spotify.com/track/59pr4mXuQU6VbpXQjVoN5L) | [Procrastinación 1 Yo 0](https://open.spotify.com/artist/1MSazhd5p3dgnK1WBLduaT) | [El Mejor Regalo De Nuestras Vidas](https://open.spotify.com/album/4twfyKaFL5bFXEqUbeLx5q) | 2:56 |
+| 34 | [Parras](https://open.spotify.com/track/5PN7ynq0HnyrJ2ekMfQzeJ) | [no hay niños en el parque](https://open.spotify.com/artist/0PDCp8aQ1WUGhQDyMIGegw) | [Parras](https://open.spotify.com/album/4nyIodEOBoNS05fp8rfG8l) | 3:34 |
+| 35 | [Santa Rosa](https://open.spotify.com/track/59pr4mXuQU6VbpXQjVoN5L) | [Procrastinación 1 Yo 0](https://open.spotify.com/artist/1MSazhd5p3dgnK1WBLduaT) | [El Mejor Regalo De Nuestras Vidas](https://open.spotify.com/album/4twfyKaFL5bFXEqUbeLx5q) | 2:56 |
+| 36 | [Apareces después de tres veranos](https://open.spotify.com/track/44eNAlJ9Cqo2zTmxSeFyMr) | [Baja killa](https://open.spotify.com/artist/6cqkLCvzJ1bVf2aD6jAtu8) | [Rompecabezas](https://open.spotify.com/album/3mmUkFcttPbpTMkvh3DV4C) | 2:54 |
 | 37 | [Mot Hulligan](https://open.spotify.com/track/6en3tPpGj4vfkHnGDsEq9x) | [Almost Done](https://open.spotify.com/artist/19uFCH9vBe6F7cOZNK5DZ9), [Las Cosas Calladitas](https://open.spotify.com/artist/2rVBJ9SpnaT23vEJE2lzpb) | [Peter Brown](https://open.spotify.com/album/0NJuZCHjKCxyRK78AMttIQ) | 3:20 |
 | 38 | [U/T](https://open.spotify.com/track/1GUxYyg4Hg49icIJC9p0qA) | [Un Viejo Arcoiris](https://open.spotify.com/artist/2DmfnifKTOqFOMBBj7pPbb) | [Hace Dos Veranos](https://open.spotify.com/album/1PRTHcesi1VKgVWtkjIS6j) | 2:47 |
 | 39 | [Mera Telos & Letpig Adventure](https://open.spotify.com/track/3eUYUFu7PhhxWSIV8c3uX6) | [Incendios Forestales Del Viejo Continente](https://open.spotify.com/artist/2mwdGkikTTeufyEPUFRijJ) | [Principios Y Fundamentos De La Fauna Moderna](https://open.spotify.com/album/2QEPAzajwc62HOtrtEghxK) | 5:25 |

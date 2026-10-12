@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9loJQLuEvap.md) - [plain]
 
 > Celebrating the greatest female voices of all time\. Cover: Dolly Parton
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,867,005 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,867,067 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9loJQLuEvap.md) - [plain]
 | 45 | [Forget\-Me\-Not](https://open.spotify.com/track/3cm2v6gfWuixcHL2A6wvGl) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv) | 4:06 |
 | 46 | [If I Were a Boy](https://open.spotify.com/track/0K7wIocSvzcRISpssBUzfZ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/20E3PwDg1jaDdK9K565luD) | 4:09 |
 | 47 | [Burning Blue](https://open.spotify.com/track/0aWHb6ujnlXkmmOI1ltStc) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Burning Blue](https://open.spotify.com/album/02DSnnPzc0do4lZmfJjeeg) | 3:25 |
-| 48 | [Angel](https://open.spotify.com/track/3xZMPZQYETEn4hjor3TR1A) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Surfacing](https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP) | 4:30 |
-| 49 | [No More "I Love You's"](https://open.spotify.com/track/2Pn5gvVioma5LHPxgEBBmD) | [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum) | [Medusa](https://open.spotify.com/album/1T2aRQcFUL59f9kQ876dLX) | 4:51 |
+| 48 | [No More "I Love You's"](https://open.spotify.com/track/2Pn5gvVioma5LHPxgEBBmD) | [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum) | [Medusa](https://open.spotify.com/album/1T2aRQcFUL59f9kQ876dLX) | 4:51 |
+| 49 | [Angel](https://open.spotify.com/track/3xZMPZQYETEn4hjor3TR1A) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Surfacing](https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP) | 4:30 |
 | 50 | [Twist in My Sobriety](https://open.spotify.com/track/6wWlaSxOrBizAcpqkuv1FJ) | [Tanita Tikaram](https://open.spotify.com/artist/2gTl60Ao3u7bljVnAqxPh8) | [Ancient Heart](https://open.spotify.com/album/3SuC7635bYkUsS5iHTSnSf) | 4:52 |
 
 Snapshot ID: `AAAAAF+wUBJEdOnrstksCDDthFKZQuyO`

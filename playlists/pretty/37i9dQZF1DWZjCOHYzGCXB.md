@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjCOHYzGCXB.md) - [plain]
 
 > mini skirt warrirors unite 🎀<br/>cover: flowerovlove & willow
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,980 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,949 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjCOHYzGCXB.md) - [plain]
 | 11 | [stupid song](https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 3:29 |
 | 12 | [Stateside + Zara Larsson](https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 3:04 |
 | 13 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 |
-| 14 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 |
-| 15 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/7eYzn1CuiJK6VvUhf8zA6k) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 3:17 |
+| 14 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/7eYzn1CuiJK6VvUhf8zA6k) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 3:17 |
+| 15 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 |
 | 16 | [Flowers](https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:20 |
 | 17 | [Gimme More](https://open.spotify.com/track/6ic8OlLUNEATToEFU3xmaH) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Blackout](https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj) | 4:11 |
 | 18 | [Midnight Sun](https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16) | 3:09 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjCOHYzGCXB.md) - [plain]
 | 71 | [Wink Wink](https://open.spotify.com/track/6GjXR9FaxCuDNbqBrP9aYO) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wink Wink](https://open.spotify.com/album/1WjjAPm4lSHSjupTleJaCA) | 2:02 |
 | 72 | [MR\. NONCHALANT](https://open.spotify.com/track/12oVYxJ2cLtfQldiPvp4F6) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [A\*POP](https://open.spotify.com/album/09JgaY8X1pjMhllG2HSdiF) | 2:17 |
 | 73 | [Talk To Me, Zara](https://open.spotify.com/track/58bQU5JRk0sBMUMdRy7sjk) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Talk To Me, Zara](https://open.spotify.com/album/5geHXgOaOjbB15V5Yx1bqM) | 3:13 |
-| 74 | [Too Fast To Live, Too Young To Die](https://open.spotify.com/track/21MKQAjN27atrgu5jAlzaL) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [Too Fast To Live, Too Young To Die](https://open.spotify.com/album/7izVNMquDzVFQSKhdG3nrP) | 3:21 |
-| 75 | [Who's That Calling?](https://open.spotify.com/track/0w2PrfuXeEqjEbqH8FCCAk) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [Who's That Calling?](https://open.spotify.com/album/2aoQYhWbZEqCHuMXbf5CrJ) | 3:16 |
+| 74 | [Who's That Calling?](https://open.spotify.com/track/0w2PrfuXeEqjEbqH8FCCAk) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [Who's That Calling?](https://open.spotify.com/album/2aoQYhWbZEqCHuMXbf5CrJ) | 3:16 |
+| 75 | [Too Fast To Live, Too Young To Die](https://open.spotify.com/track/21MKQAjN27atrgu5jAlzaL) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [Too Fast To Live, Too Young To Die](https://open.spotify.com/album/7izVNMquDzVFQSKhdG3nrP) | 3:21 |
 | 76 | [Bluest Flame](https://open.spotify.com/track/6vuVCtwukUA57ioTnKKeuL) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First](https://open.spotify.com/album/6NKinHXUZJNCmVejJfYJKC) | 2:42 |
 | 77 | [One song away from crying](https://open.spotify.com/track/7EzqmGOTlrzy1NxZRjeuVV) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [One song away from crying](https://open.spotify.com/album/5xQgMsnL5a1SmABhKGhtN3) | 3:39 |
 | 78 | [SS26](https://open.spotify.com/track/3d5NbAerF2MMHw9tdIxiFH) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SS26](https://open.spotify.com/album/0eJukoGOrXKU8PQ0F7l4ze) | 2:47 |

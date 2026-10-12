@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fpCWaHOned.md) - [plain]
 
 > Sabrina Carpenter\. Period.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,248,044 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,248,007 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fpCWaHOned.md) - [plain]
 | 14 | [Cool for the Summer](https://open.spotify.com/track/3uwnnTQcHM1rDqSfA4gQNz) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Confident](https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn) | 3:34 |
 | 15 | [Shake It Off](https://open.spotify.com/track/0cqRj7pUJDkTCEsJkx8snD) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Deluxe\)](https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf) | 3:39 |
 | 16 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |
-| 17 | [Midnight Sun](https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki) | 3:09 |
-| 18 | [Escapism.](https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:32 |
+| 17 | [Escapism.](https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:32 |
+| 18 | [Midnight Sun](https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki) | 3:09 |
 | 19 | [Shower](https://open.spotify.com/track/3DmW6y7wTEYHJZlLo1r6XJ) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Shower](https://open.spotify.com/album/4JlzEvVJqpb62Xwc0EmOHr) | 3:26 |
 | 20 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 |
 | 21 | [Don’t Blame Me](https://open.spotify.com/track/1R0a2iXumgCiFb7HEZ7gUE) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) | 3:56 |
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fpCWaHOned.md) - [plain]
 | 40 | [CHAT](https://open.spotify.com/track/1hNixpTJ3KtIQGYIdGWLoz) | [GIRLSET](https://open.spotify.com/artist/3D2TVeexyIXOtc8F4qEZ6P) | [CHAT](https://open.spotify.com/album/0PclhANYWtETZ53KYoEGo0) | 2:51 |
 | 41 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 |
 | 42 | [What It Is \(Solo Version\)](https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [What It Is \(Versions\)](https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5) | 3:09 |
-| 43 | [Rise Up](https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [Cheers to the Fall](https://open.spotify.com/album/6Blubl1glavmervPJa3QVs) | 4:13 |
-| 44 | [Light On](https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:53 |
-| 45 | [Try Everything](https://open.spotify.com/track/1N3dZ7TTWO6VcD4Y3hHYLZ) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zootopia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3X6netsswLt0U97Doga56C) | 3:16 |
+| 43 | [Light On](https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:53 |
+| 44 | [Try Everything](https://open.spotify.com/track/1N3dZ7TTWO6VcD4Y3hHYLZ) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zootopia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3X6netsswLt0U97Doga56C) | 3:16 |
+| 45 | [Rise Up](https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [Cheers to the Fall](https://open.spotify.com/album/6Blubl1glavmervPJa3QVs) | 4:13 |
 | 46 | [Roar](https://open.spotify.com/track/6F5c58TMEs1byxUstkzVeM) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM \(Deluxe\)](https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn) | 3:43 |
 | 47 | [HOT TO GO!](https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:04 |
 | 48 | [Fight Song](https://open.spotify.com/track/37f4ITSlgPX81ad2EvmVQr) | [Rachel Platten](https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq) | [Wildfire](https://open.spotify.com/album/0mFDIOqypzHp6Xd0el1hoT) | 3:24 |

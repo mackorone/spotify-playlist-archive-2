@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 
 > The early pioneers and current favorites in Southern Rock\. Cover: Lynyrd Skynyrd
 
-[Spotify](https://open.spotify.com/user/spotify) - 541,835 likes - 100 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 541,838 likes - 100 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 | 75 | [Georgia Rhythm](https://open.spotify.com/track/7aV9xwnPgzTWj3yG0nAURt) | [Atlanta Rhythm Section](https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw) | [20th Century Masters: The Millennium Collection: Best Of Atlanta Rhythm Section](https://open.spotify.com/album/72HlYFr3YD7gWjFacHOZ6f) | 4:53 |
 | 76 | [Castle Rock](https://open.spotify.com/track/59Esi3fm62DbqaVdHWQhKT) | [Barefoot Jerry](https://open.spotify.com/artist/4FC6XIiULAVlbmfrrPXsZy) | [Southern Delight/Barefoot Jerry](https://open.spotify.com/album/69OytdILaMW8zJVK5KXAXV) | 4:39 |
 | 77 | [Southern Hospitality](https://open.spotify.com/track/5Egt33w53KOIf2DorWqzmr) | [Bishop Black](https://open.spotify.com/artist/1HY3IWHxgzIFyQ6HBAJmSh) | [Bishop Black](https://open.spotify.com/album/3adG9Zj2SKjqR34zUTBxpR) | 4:05 |
-| 78 | [Can't Keep Running](https://open.spotify.com/track/09VHjYoL6VRHh5anKV1e09) | [Gregg Allman](https://open.spotify.com/artist/0yDmbRjVTQsQd3OnMs5s3I) | [I'm No Angel](https://open.spotify.com/album/6x8lu9zMzEAz2GKB63kKAe) | 4:02 |
-| 79 | [Party in the Parking Lot](https://open.spotify.com/track/5QhdEo73fM2wIFKbXvOkDd) | [Johnny Van Zant](https://open.spotify.com/artist/1oLVItT6UETI2EYrGlxSt1) | [Brickyard Road](https://open.spotify.com/album/7wsoPFu2KaBpVgUvgHBjER) | 5:08 |
+| 78 | [Party in the Parking Lot](https://open.spotify.com/track/5QhdEo73fM2wIFKbXvOkDd) | [Johnny Van Zant](https://open.spotify.com/artist/1oLVItT6UETI2EYrGlxSt1) | [Brickyard Road](https://open.spotify.com/album/7wsoPFu2KaBpVgUvgHBjER) | 5:08 |
+| 79 | [Can't Keep Running](https://open.spotify.com/track/09VHjYoL6VRHh5anKV1e09) | [Gregg Allman](https://open.spotify.com/artist/0yDmbRjVTQsQd3OnMs5s3I) | [I'm No Angel](https://open.spotify.com/album/6x8lu9zMzEAz2GKB63kKAe) | 4:02 |
 | 80 | [Gimme, Gimme, Gimme](https://open.spotify.com/track/1f45G1LRvCKuq7BTC67HZx) | [Blackfoot](https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV) | [Train, Train](https://open.spotify.com/album/1XhDXpPbnaPmyB526mHa0I) | 4:04 |
 | 81 | [Open Road](https://open.spotify.com/track/0qmMJfVn7KlhRab9zgwS7z) | [Grinderswitch](https://open.spotify.com/artist/0zdtxv7cxrUpRCS7IbKyYz) | [Pullin' Together](https://open.spotify.com/album/4KYsD0KdmyZZT34Sp8hLUz) | 4:09 |
 | 82 | [Fire In The Kitchen](https://open.spotify.com/track/2OXVvNEILOCFxEHEElOHTb) | [Warren Haynes](https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h) | [Live At The Moody Theater](https://open.spotify.com/album/7fBc5Ge5u6lxKBxqaaU8y8) | 7:06 |

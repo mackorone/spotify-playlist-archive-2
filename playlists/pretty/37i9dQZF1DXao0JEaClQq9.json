@@ -1,6 +1,6 @@
 {
   "description": "Modern heavenly sounds. Cover: L'Rain",
-  "num_followers": 1600678,
+  "num_followers": 1600534,
   "original_name": "Ethereal",
   "owner": {
     "name": "Spotify",
@@ -1015,26 +1015,6 @@
     {
       "added_at": "2026-09-17 20:11:13",
       "album": {
-        "name": "NEVER ENOUGH: VERSIONS",
-        "url": "https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        },
-        {
-          "name": "Hayley Williams",
-          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
-        }
-      ],
-      "duration_ms": 180386,
-      "name": "CEILING: HAYLEY WILLIAMS VERSION",
-      "url": "https://open.spotify.com/track/5jz3Lk4kb4dgOwIg4HLKxV"
-    },
-    {
-      "added_at": "2026-09-17 20:11:13",
-      "album": {
         "name": "Moon Safari",
         "url": "https://open.spotify.com/album/206GTDefY2qRMQxYXmfb0a"
       },
@@ -1055,6 +1035,26 @@
     {
       "added_at": "2026-09-17 20:11:13",
       "album": {
+        "name": "NEVER ENOUGH: VERSIONS",
+        "url": "https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        },
+        {
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+        }
+      ],
+      "duration_ms": 180386,
+      "name": "CEILING: HAYLEY WILLIAMS VERSION",
+      "url": "https://open.spotify.com/track/5jz3Lk4kb4dgOwIg4HLKxV"
+    },
+    {
+      "added_at": "2026-09-17 20:11:13",
+      "album": {
         "name": "Perverts",
         "url": "https://open.spotify.com/album/3kZk3M80kQTJus45lgRKyv"
       },
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-09-17 20:11:13",
       "album": {
-        "name": "Virgin",
-        "url": "https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 117364,
-      "name": "Clearblue",
-      "url": "https://open.spotify.com/track/5IOucMoMeoBw64mEQ68MjE"
-    },
-    {
-      "added_at": "2026-09-17 20:11:13",
-      "album": {
         "name": "Goddess (Deluxe)",
         "url": "https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 207718,
       "name": "Waiting Game",
       "url": "https://open.spotify.com/track/27mT3JdR3sRJyiMBFHdhB4"
+    },
+    {
+      "added_at": "2026-09-17 20:11:13",
+      "album": {
+        "name": "Virgin",
+        "url": "https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 117364,
+      "name": "Clearblue",
+      "url": "https://open.spotify.com/track/5IOucMoMeoBw64mEQ68MjE"
     },
     {
       "added_at": "2026-09-17 20:11:13",

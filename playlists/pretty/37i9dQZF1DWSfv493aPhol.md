@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSfv493aPhol.md) - [plain]
 
 > Las canciones más escuchadas por la comunidad gamer en Latinoamérica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,604 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,607 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSfv493aPhol.md) - [plain]
 | 70 | [Mucho para Mí](https://open.spotify.com/track/29FljZjbNMcXlHAf2lKHbR) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Franco Escamilla](https://open.spotify.com/artist/1ZlIROqKXOEvPgEffO8vri), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Mucho para Mí](https://open.spotify.com/album/57dqYC3Drhz5gxPxcIn4d5) | 5:10 |
 | 71 | [L\-Gante: RKT SESSIONS \#1](https://open.spotify.com/track/4A9u8OrzFYbxdjiydkNdUi) | [Papu DJ](https://open.spotify.com/artist/1Z7q2glJYLsPpPoPIgBjdE), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [L\-Gante: RKT SESSIONS \#1](https://open.spotify.com/album/530tno9W2FoIzPffRMOyGG) | 3:01 |
 | 72 | [places to be](https://open.spotify.com/track/561pBFcFL2Pwb9HPO9tU8J) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [places to be](https://open.spotify.com/album/0M0iJGLagLtI4LlooOiiNZ) | 3:46 |
-| 73 | [Traductor](https://open.spotify.com/track/5x17YrAwajDUCqB8zT9ElY) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Portales](https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx) | 3:42 |
-| 74 | [Mojando Asientos \(feat\. Feid\)](https://open.spotify.com/track/0LKu09Iq053CEUZ5ktQEWc) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Mojando Asientos \(feat\. Feid\)](https://open.spotify.com/album/7d2q5cmU01iy4lToXvQ1qB) | 4:12 |
+| 73 | [Mojando Asientos \(feat\. Feid\)](https://open.spotify.com/track/0LKu09Iq053CEUZ5ktQEWc) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Mojando Asientos \(feat\. Feid\)](https://open.spotify.com/album/7d2q5cmU01iy4lToXvQ1qB) | 4:12 |
+| 74 | [Traductor](https://open.spotify.com/track/5x17YrAwajDUCqB8zT9ElY) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Portales](https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx) | 3:42 |
 | 75 | [París](https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [París](https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD) | 2:31 |
 | 76 | [Todas Mueren por Mí](https://open.spotify.com/track/2uMoRVFsd7ET4bLrDqu6y8) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Greatest \- Hits](https://open.spotify.com/album/5iZB8JDxunNlWFTc3BdEHp) | 3:41 |
 | 77 | [360 featuring robyn & yung lean](https://open.spotify.com/track/4gzzKqbaLeOIWTPG80UfXb) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 2:09 |

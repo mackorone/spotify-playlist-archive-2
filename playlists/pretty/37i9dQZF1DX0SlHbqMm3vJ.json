@@ -1,6 +1,6 @@
 {
   "description": "Sweet afro melodies. Cover: FOLA",
-  "num_followers": 267708,
+  "num_followers": 267734,
   "original_name": "Ginja",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2026-10-09 00:01:53",
       "album": {
-        "name": "Business",
-        "url": "https://open.spotify.com/album/0PFTMjw4ODWOQFOoiiadKI"
-      },
-      "artists": [
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        }
-      ],
-      "duration_ms": 146490,
-      "name": "Ice Cream",
-      "url": "https://open.spotify.com/track/16TR0AiDrZRV9TFOXBcSE9"
-    },
-    {
-      "added_at": "2026-10-09 00:01:53",
-      "album": {
         "name": "Still In Charge",
         "url": "https://open.spotify.com/album/0NlUfh4P7iyypIcxYd0GiD"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 162284,
       "name": "If You Like",
       "url": "https://open.spotify.com/track/6d4YQtaZ7M4WwoYiTC2U06"
+    },
+    {
+      "added_at": "2026-10-09 00:01:53",
+      "album": {
+        "name": "Business",
+        "url": "https://open.spotify.com/album/0PFTMjw4ODWOQFOoiiadKI"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "duration_ms": 146490,
+      "name": "Ice Cream",
+      "url": "https://open.spotify.com/track/16TR0AiDrZRV9TFOXBcSE9"
     },
     {
       "added_at": "2026-10-09 00:01:53",
@@ -307,22 +307,6 @@
     {
       "added_at": "2026-10-09 00:01:53",
       "album": {
-        "name": "fine ting (fine $hit)",
-        "url": "https://open.spotify.com/album/2OF9E4AIW98RK4yuybtaRa"
-      },
-      "artists": [
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        }
-      ],
-      "duration_ms": 195375,
-      "name": "fine ting (fine $hit)",
-      "url": "https://open.spotify.com/track/06fhryffT3VPtv8v8r8EPK"
-    },
-    {
-      "added_at": "2026-10-09 00:01:53",
-      "album": {
         "name": "Malaria",
         "url": "https://open.spotify.com/album/0oEhRoZuwqGnloiOkkTT5R"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 171128,
       "name": "Malaria",
       "url": "https://open.spotify.com/track/6JU5A8MFJcky0e0rb5prZh"
+    },
+    {
+      "added_at": "2026-10-09 00:01:53",
+      "album": {
+        "name": "fine ting (fine $hit)",
+        "url": "https://open.spotify.com/album/2OF9E4AIW98RK4yuybtaRa"
+      },
+      "artists": [
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "duration_ms": 195375,
+      "name": "fine ting (fine $hit)",
+      "url": "https://open.spotify.com/track/06fhryffT3VPtv8v8r8EPK"
     },
     {
       "added_at": "2026-10-09 00:01:53",
@@ -487,18 +487,22 @@
     {
       "added_at": "2026-10-09 00:01:53",
       "album": {
-        "name": "Hold Somebody",
-        "url": "https://open.spotify.com/album/7vIUh7p2sFCIleEpx4DVEH"
+        "name": "9",
+        "url": "https://open.spotify.com/album/1fHRY61FCATcIMjN0DPtdm"
       },
       "artists": [
         {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 158170,
-      "name": "Hold Somebody",
-      "url": "https://open.spotify.com/track/5Ed9M3XQBjwHiJXY1KBRaY"
+      "duration_ms": 184000,
+      "name": "2am in toronto",
+      "url": "https://open.spotify.com/track/6Y4gGndf0AXpLGXi1P0HTE"
     },
     {
       "added_at": "2026-10-09 00:01:53",
@@ -523,6 +527,22 @@
       "duration_ms": 155840,
       "name": "What A Feeling",
       "url": "https://open.spotify.com/track/0zUzki4TULK7JUbWf2ILwV"
+    },
+    {
+      "added_at": "2026-10-09 00:01:53",
+      "album": {
+        "name": "Hold Somebody",
+        "url": "https://open.spotify.com/album/7vIUh7p2sFCIleEpx4DVEH"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 158170,
+      "name": "Hold Somebody",
+      "url": "https://open.spotify.com/track/5Ed9M3XQBjwHiJXY1KBRaY"
     },
     {
       "added_at": "2026-10-09 00:01:53",
@@ -567,26 +587,6 @@
     {
       "added_at": "2026-10-09 00:01:53",
       "album": {
-        "name": "catharsis",
-        "url": "https://open.spotify.com/album/6gTLViwiDv6NKtTAG0nm7S"
-      },
-      "artists": [
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 162587,
-      "name": "golibe",
-      "url": "https://open.spotify.com/track/0WjpZZPLAAADeY9Hdam4Nr"
-    },
-    {
-      "added_at": "2026-10-09 00:01:53",
-      "album": {
         "name": "CHE",
         "url": "https://open.spotify.com/album/6U7Rlp4IUTdgtaOHiycx3x"
       },
@@ -603,6 +603,26 @@
       "duration_ms": 144000,
       "name": "CHE",
       "url": "https://open.spotify.com/track/6sPehU8iJcnrSndiAoFONQ"
+    },
+    {
+      "added_at": "2026-10-09 00:01:53",
+      "album": {
+        "name": "catharsis",
+        "url": "https://open.spotify.com/album/6gTLViwiDv6NKtTAG0nm7S"
+      },
+      "artists": [
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 162587,
+      "name": "golibe",
+      "url": "https://open.spotify.com/track/0WjpZZPLAAADeY9Hdam4Nr"
     },
     {
       "added_at": "2026-10-09 00:01:53",
@@ -711,22 +731,18 @@
     {
       "added_at": "2026-10-09 00:01:53",
       "album": {
-        "name": "9",
-        "url": "https://open.spotify.com/album/1fHRY61FCATcIMjN0DPtdm"
+        "name": "Money Lingo",
+        "url": "https://open.spotify.com/album/32FoDV663F5kdRb1ct0hKM"
       },
       "artists": [
         {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
         }
       ],
-      "duration_ms": 184000,
-      "name": "2am in toronto",
-      "url": "https://open.spotify.com/track/6Y4gGndf0AXpLGXi1P0HTE"
+      "duration_ms": 159757,
+      "name": "Money Lingo",
+      "url": "https://open.spotify.com/track/6D8hcXxA3Eyu3JWKXwjEbh"
     },
     {
       "added_at": "2026-10-09 00:01:53",
@@ -767,22 +783,6 @@
       "duration_ms": 174159,
       "name": "ARMED & DANGEROUS (feat. Young Jonn)",
       "url": "https://open.spotify.com/track/2VTjvbOa7BNQoW9zrgiqnC"
-    },
-    {
-      "added_at": "2026-10-09 00:01:53",
-      "album": {
-        "name": "Money Lingo",
-        "url": "https://open.spotify.com/album/32FoDV663F5kdRb1ct0hKM"
-      },
-      "artists": [
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        }
-      ],
-      "duration_ms": 159757,
-      "name": "Money Lingo",
-      "url": "https://open.spotify.com/track/6D8hcXxA3Eyu3JWKXwjEbh"
     },
     {
       "added_at": "2026-10-09 00:01:53",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-10-09 00:01:53",
       "album": {
-        "name": "STARLIFE",
-        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 154705,
-      "name": "2FRESH",
-      "url": "https://open.spotify.com/track/0UBGGJAUGlzl7nQ3DIUbnm"
-    },
-    {
-      "added_at": "2026-10-09 00:01:53",
-      "album": {
         "name": "Ijoba",
         "url": "https://open.spotify.com/album/3AqtjKftVt6WQncrByvBnj"
       },
@@ -883,18 +867,18 @@
     {
       "added_at": "2026-10-09 00:01:53",
       "album": {
-        "name": "All Over You",
-        "url": "https://open.spotify.com/album/7m2pHHLujtRpWFnz3aLSdb"
+        "name": "STARLIFE",
+        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
       },
       "artists": [
         {
-          "name": "Deobi",
-          "url": "https://open.spotify.com/artist/2VFjhFAJd6PHcwVG4eo9EI"
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 145519,
-      "name": "All Over You",
-      "url": "https://open.spotify.com/track/6EzsUkZqhkXet4vVTc7kKv"
+      "duration_ms": 154705,
+      "name": "2FRESH",
+      "url": "https://open.spotify.com/track/0UBGGJAUGlzl7nQ3DIUbnm"
     },
     {
       "added_at": "2026-10-09 00:01:53",
@@ -919,6 +903,22 @@
       "duration_ms": 211756,
       "name": "Free",
       "url": "https://open.spotify.com/track/75NaRkat24l3uKOyfymyzJ"
+    },
+    {
+      "added_at": "2026-10-09 00:01:53",
+      "album": {
+        "name": "All Over You",
+        "url": "https://open.spotify.com/album/7m2pHHLujtRpWFnz3aLSdb"
+      },
+      "artists": [
+        {
+          "name": "Deobi",
+          "url": "https://open.spotify.com/artist/2VFjhFAJd6PHcwVG4eo9EI"
+        }
+      ],
+      "duration_ms": 145519,
+      "name": "All Over You",
+      "url": "https://open.spotify.com/track/6EzsUkZqhkXet4vVTc7kKv"
     },
     {
       "added_at": "2026-10-09 00:01:53",
@@ -959,6 +959,22 @@
       "duration_ms": 200666,
       "name": "YoYo",
       "url": "https://open.spotify.com/track/1KIv5Z3YLlURsQ8e2OwXuo"
+    },
+    {
+      "added_at": "2026-10-09 00:01:53",
+      "album": {
+        "name": "For Me",
+        "url": "https://open.spotify.com/album/2ARUgA8rYnp4mEaD9tnUeo"
+      },
+      "artists": [
+        {
+          "name": "Fido",
+          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
+        }
+      ],
+      "duration_ms": 140916,
+      "name": "For Me",
+      "url": "https://open.spotify.com/track/0bevSgEAwAnNk5OjWk2dmZ"
     },
     {
       "added_at": "2026-10-09 00:01:53",
@@ -1059,22 +1075,6 @@
     {
       "added_at": "2026-10-09 00:01:53",
       "album": {
-        "name": "For Me",
-        "url": "https://open.spotify.com/album/2ARUgA8rYnp4mEaD9tnUeo"
-      },
-      "artists": [
-        {
-          "name": "Fido",
-          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
-        }
-      ],
-      "duration_ms": 140916,
-      "name": "For Me",
-      "url": "https://open.spotify.com/track/0bevSgEAwAnNk5OjWk2dmZ"
-    },
-    {
-      "added_at": "2026-10-09 00:01:53",
-      "album": {
         "name": "Come Kulosa",
         "url": "https://open.spotify.com/album/6rlEzxImXioBflFuoAsLBV"
       },
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-10-09 00:01:53",
       "album": {
-        "name": "22",
-        "url": "https://open.spotify.com/album/2wRyRUAyi7cr8XITcisnKb"
-      },
-      "artists": [
-        {
-          "name": "Kunmie",
-          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "22",
-      "url": "https://open.spotify.com/track/2Fg70yKdr8dfFTxxV5E3vU"
-    },
-    {
-      "added_at": "2026-10-09 00:01:53",
-      "album": {
         "name": "MENU",
         "url": "https://open.spotify.com/album/2W6hDvOtf3AloLmKkoiXpt"
       },
@@ -1135,6 +1119,22 @@
     {
       "added_at": "2026-10-09 00:01:53",
       "album": {
+        "name": "22",
+        "url": "https://open.spotify.com/album/2wRyRUAyi7cr8XITcisnKb"
+      },
+      "artists": [
+        {
+          "name": "Kunmie",
+          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "22",
+      "url": "https://open.spotify.com/track/2Fg70yKdr8dfFTxxV5E3vU"
+    },
+    {
+      "added_at": "2026-10-09 00:01:53",
+      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/41zwoiFoBTlcKg5v8Jh6Jz"
       },
@@ -1147,22 +1147,6 @@
       "duration_ms": 171553,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/6Dl5VTH88DdfbF8VOsxHgx"
-    },
-    {
-      "added_at": "2026-10-09 00:01:53",
-      "album": {
-        "name": "On The Road",
-        "url": "https://open.spotify.com/album/3Jf7CAW4GkcpfPpXfli4Oa"
-      },
-      "artists": [
-        {
-          "name": "Llona",
-          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
-        }
-      ],
-      "duration_ms": 185973,
-      "name": "Masculine Love",
-      "url": "https://open.spotify.com/track/4qwFfzcMM1qoOxxmCJBti4"
     },
     {
       "added_at": "2026-10-09 00:01:53",
@@ -1183,6 +1167,22 @@
       "duration_ms": 151794,
       "name": "Love Egbugomo",
       "url": "https://open.spotify.com/track/1pi9XMrwEocfCRlDiEDrHM"
+    },
+    {
+      "added_at": "2026-10-09 00:01:53",
+      "album": {
+        "name": "On The Road",
+        "url": "https://open.spotify.com/album/3Jf7CAW4GkcpfPpXfli4Oa"
+      },
+      "artists": [
+        {
+          "name": "Llona",
+          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
+        }
+      ],
+      "duration_ms": 185973,
+      "name": "Masculine Love",
+      "url": "https://open.spotify.com/track/4qwFfzcMM1qoOxxmCJBti4"
     },
     {
       "added_at": "2026-10-09 00:01:53",
@@ -1279,22 +1279,22 @@
     {
       "added_at": "2026-10-09 00:01:53",
       "album": {
-        "name": "Bad Vibes",
-        "url": "https://open.spotify.com/album/00Z9OpzSflzHQuKMrR315g"
+        "name": "Mental",
+        "url": "https://open.spotify.com/album/6YegIK1W0lqgbkOqHE9utS"
       },
       "artists": [
         {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
         },
         {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+          "name": "FAVE",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
         }
       ],
-      "duration_ms": 168406,
-      "name": "Bad Vibes (feat. Seyi Vibez)",
-      "url": "https://open.spotify.com/track/6HTjqv0AsiZ34fOMcGCbSX"
+      "duration_ms": 166779,
+      "name": "Mental",
+      "url": "https://open.spotify.com/track/5sIWq3JhwTXFEmggYLnbHH"
     },
     {
       "added_at": "2026-10-09 00:01:53",
@@ -1315,6 +1315,26 @@
       "duration_ms": 182790,
       "name": "Gorgeous",
       "url": "https://open.spotify.com/track/26WHsDWr4zdbxtZ1XRdnsD"
+    },
+    {
+      "added_at": "2026-10-09 00:01:53",
+      "album": {
+        "name": "Bad Vibes",
+        "url": "https://open.spotify.com/album/00Z9OpzSflzHQuKMrR315g"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 168406,
+      "name": "Bad Vibes (feat. Seyi Vibez)",
+      "url": "https://open.spotify.com/track/6HTjqv0AsiZ34fOMcGCbSX"
     },
     {
       "added_at": "2026-10-09 00:01:53",
@@ -1343,22 +1363,18 @@
     {
       "added_at": "2026-10-09 00:01:53",
       "album": {
-        "name": "Mental",
-        "url": "https://open.spotify.com/album/6YegIK1W0lqgbkOqHE9utS"
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/7vQB9lJyN69qWpay8XsH8I"
       },
       "artists": [
         {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "FAVE",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+          "name": "Yedika",
+          "url": "https://open.spotify.com/artist/0SzHZFIFLpRQwGde6xhXBp"
         }
       ],
-      "duration_ms": 166779,
-      "name": "Mental",
-      "url": "https://open.spotify.com/track/5sIWq3JhwTXFEmggYLnbHH"
+      "duration_ms": 163032,
+      "name": "Dey With Me",
+      "url": "https://open.spotify.com/track/0VNBVfVXR9sgo33yyIRuWq"
     },
     {
       "added_at": "2026-10-09 00:01:53",
@@ -1379,22 +1395,6 @@
     {
       "added_at": "2026-10-09 00:01:53",
       "album": {
-        "name": "Motion",
-        "url": "https://open.spotify.com/album/7vQB9lJyN69qWpay8XsH8I"
-      },
-      "artists": [
-        {
-          "name": "Yedika",
-          "url": "https://open.spotify.com/artist/0SzHZFIFLpRQwGde6xhXBp"
-        }
-      ],
-      "duration_ms": 163032,
-      "name": "Dey With Me",
-      "url": "https://open.spotify.com/track/0VNBVfVXR9sgo33yyIRuWq"
-    },
-    {
-      "added_at": "2026-10-09 00:01:53",
-      "album": {
         "name": "Julie",
         "url": "https://open.spotify.com/album/77AHedVp8CXClI0vfI0gu2"
       },
@@ -1407,6 +1407,26 @@
       "duration_ms": 178000,
       "name": "Julie",
       "url": "https://open.spotify.com/track/3YUXWidbrFVf2NiIWz6j70"
+    },
+    {
+      "added_at": "2026-10-09 00:01:53",
+      "album": {
+        "name": "Tanko (feat. Terry G)",
+        "url": "https://open.spotify.com/album/7FyAwmXXi3r1fwJZI7HZXN"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Terry G",
+          "url": "https://open.spotify.com/artist/0Azkx5tjOLekLGEavycJ3S"
+        }
+      ],
+      "duration_ms": 227533,
+      "name": "Tanko (feat. Terry G)",
+      "url": "https://open.spotify.com/track/3XoYWo0jdGq0T25KfNIr3L"
     },
     {
       "added_at": "2026-10-09 00:01:53",
@@ -1435,22 +1455,22 @@
     {
       "added_at": "2026-10-09 00:01:53",
       "album": {
-        "name": "Tanko (feat. Terry G)",
-        "url": "https://open.spotify.com/album/7FyAwmXXi3r1fwJZI7HZXN"
+        "name": "CLARITY OF MIND",
+        "url": "https://open.spotify.com/album/28c5qLjX7puNQ96Wa86t5k"
       },
       "artists": [
         {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+          "name": "OMAH LAY",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         },
         {
-          "name": "Terry G",
-          "url": "https://open.spotify.com/artist/0Azkx5tjOLekLGEavycJ3S"
+          "name": "ELMAH",
+          "url": "https://open.spotify.com/artist/0o07HRGPlEb5iAv8igSnAl"
         }
       ],
-      "duration_ms": 227533,
-      "name": "Tanko (feat. Terry G)",
-      "url": "https://open.spotify.com/track/3XoYWo0jdGq0T25KfNIr3L"
+      "duration_ms": 168908,
+      "name": "COPING MECHANISM",
+      "url": "https://open.spotify.com/track/4Jvng8y8F17cbIXnEic8Xj"
     },
     {
       "added_at": "2026-10-09 00:01:53",
@@ -1475,26 +1495,6 @@
     {
       "added_at": "2026-10-09 00:01:53",
       "album": {
-        "name": "CLARITY OF MIND",
-        "url": "https://open.spotify.com/album/28c5qLjX7puNQ96Wa86t5k"
-      },
-      "artists": [
-        {
-          "name": "OMAH LAY",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        },
-        {
-          "name": "ELMAH",
-          "url": "https://open.spotify.com/artist/0o07HRGPlEb5iAv8igSnAl"
-        }
-      ],
-      "duration_ms": 168908,
-      "name": "COPING MECHANISM",
-      "url": "https://open.spotify.com/track/4Jvng8y8F17cbIXnEic8Xj"
-    },
-    {
-      "added_at": "2026-10-09 00:01:53",
-      "album": {
         "name": "Shy Lover",
         "url": "https://open.spotify.com/album/0MFGCY6DDl4rA0Y10S8W5I"
       },
@@ -1511,18 +1511,18 @@
     {
       "added_at": "2026-10-09 00:01:53",
       "album": {
-        "name": "YBTM",
-        "url": "https://open.spotify.com/album/75ek7OW0Sa9wa7Mj4LTPPv"
+        "name": "Ifeoma & Rascal",
+        "url": "https://open.spotify.com/album/0RIHroLMpjZ7IAmmSmDXQI"
       },
       "artists": [
         {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+          "name": "Dai Verse",
+          "url": "https://open.spotify.com/artist/2G0yYOdnPrffB2Mre1XCMv"
         }
       ],
-      "duration_ms": 176727,
-      "name": "YBTM",
-      "url": "https://open.spotify.com/track/3PfBH3KIRTmiMfKq2p4dXc"
+      "duration_ms": 152372,
+      "name": "IFEOMA",
+      "url": "https://open.spotify.com/track/3v1jAPimrfqVhiBMjF2LGK"
     }
   ],
   "unique_name": "Ginja",

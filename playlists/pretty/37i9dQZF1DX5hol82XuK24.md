@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 
 > Are you afraid of the dark?
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,463 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,514 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 62 | [Dancing with Ghosts](https://open.spotify.com/track/2vXq4DzEwtxMyc5WLOg6EY) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD), [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Dancing with Ghosts](https://open.spotify.com/album/1yLAAVq1QqUKEhKJKkHjdl) | 4:59 |
 | 63 | [Horror Scene \(feat\. aldn\)](https://open.spotify.com/track/4xaQIoPckzCcFQ2e4W7gqR) | [Xowie Jones](https://open.spotify.com/artist/0ZlBHRn2ZsHc1FESUa43ij), [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [Horror Scene \(feat\. aldn\)](https://open.spotify.com/album/5HHUqHd5DFN8wjAdarGnvX) | 1:59 |
 | 64 | [Exposed to Some Light](https://open.spotify.com/track/6nduEbD1djbA05rXx36hPX) | [Nightbus](https://open.spotify.com/artist/1fbC8ATYVPUeFy2h5NOK8x) | [Exposed to Some Light](https://open.spotify.com/album/4A5Yee0Ah4mNsML5rHhZbH) | 3:59 |
-| 65 | [Guttural Sounds](https://open.spotify.com/track/4uEVO16wTW22chdQffkyaM) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [Watch This Liquid Pour Itself](https://open.spotify.com/album/4XKkD3p3SXmeJRcvioWaQQ) | 3:14 |
-| 66 | [You are the Problem Here](https://open.spotify.com/track/1wSGgkDKaX5OXM7NPqJv4U) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [You are the Problem Here](https://open.spotify.com/album/0gtFtyQ2fVOutl4TWJspTV) | 3:38 |
+| 65 | [You are the Problem Here](https://open.spotify.com/track/1wSGgkDKaX5OXM7NPqJv4U) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [You are the Problem Here](https://open.spotify.com/album/0gtFtyQ2fVOutl4TWJspTV) | 3:38 |
+| 66 | [Guttural Sounds](https://open.spotify.com/track/4uEVO16wTW22chdQffkyaM) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [Watch This Liquid Pour Itself](https://open.spotify.com/album/4XKkD3p3SXmeJRcvioWaQQ) | 3:14 |
 | 67 | [May I Comply](https://open.spotify.com/track/7BCv8kdJnH5NSUL8d4kzh5) | [Heartworms](https://open.spotify.com/artist/1slmc4uUMOsz7J3pQqeWPP) | [May I Comply](https://open.spotify.com/album/3tptDsJCV21MvbEdTJl18c) | 4:00 |
 | 68 | [Deep Six Textbook](https://open.spotify.com/track/70NVkxI6kOjABDvRDkRLqQ) | [Let's Eat Grandma](https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF) | [I, Gemini](https://open.spotify.com/album/377kd2Yt5RbH24v4rcKKRC) | 5:39 |
 | 69 | [Valley Ghoul](https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [Valley Ghoul](https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW) | 3:02 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 78 | [Lost](https://open.spotify.com/track/5GbEVRKvHeBEE8PARaRQOJ) | [Crippled Black Phoenix](https://open.spotify.com/artist/6WEyPcf9ezhNLm1xOBjbwH) | [Lost](https://open.spotify.com/album/3HcXn4sSYlHrNcMfEgP9qJ) | 8:11 |
 | 79 | [My Evil](https://open.spotify.com/track/25acuSS8Mfoo0XVHdPlHTJ) | [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [Eye On The Bat](https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR) | 2:24 |
 | 80 | [Brkn](https://open.spotify.com/track/0kt17oiymmdO5hl4FpVKpu) | [VOID](https://open.spotify.com/artist/4EaGV53TWbseFZafYathL1) | [Brkn](https://open.spotify.com/album/2MMpWxHFQXkCoglx8bHX6G) | 2:59 |
-| 81 | [Dead Girls](https://open.spotify.com/track/2sVltS0DdwGGRphHfDtV3j) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Hazards](https://open.spotify.com/album/6JkLfqjyQrRAmhCE6J9QTy) | 3:19 |
-| 82 | [Spinning Wheel](https://open.spotify.com/track/35AFp3kz5PoMNU0TQGFwEz) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Spinning Wheel](https://open.spotify.com/album/6vef9mkcfhLjq8tUnujtrA) | 3:25 |
+| 81 | [Spinning Wheel](https://open.spotify.com/track/35AFp3kz5PoMNU0TQGFwEz) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Spinning Wheel](https://open.spotify.com/album/6vef9mkcfhLjq8tUnujtrA) | 3:25 |
+| 82 | [Dead Girls](https://open.spotify.com/track/2sVltS0DdwGGRphHfDtV3j) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Hazards](https://open.spotify.com/album/6JkLfqjyQrRAmhCE6J9QTy) | 3:19 |
 | 83 | [Exhaust / Surroundings](https://open.spotify.com/track/1ZxkEYMc2koZHb62qmUBzW) | [PVA](https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG) | [Toner](https://open.spotify.com/album/1Ut15hcUKgPHMWtUDrbBGq) | 5:40 |
 | 84 | [Whole Lotta Nothing](https://open.spotify.com/track/2fJ8qVt2jxBzbJevlnIEvw) | [Ellie Bleach](https://open.spotify.com/artist/5ahGL7pdoC2nvzna5z5Fz3) | [Whole Lotta Nothing](https://open.spotify.com/album/2pZjqwc0vAhUBINnTmHrd3) | 4:47 |
 | 85 | [Wicked Animal](https://open.spotify.com/track/3OU685WYjjsCh8PJ39KU73) | [Amandla Stenberg](https://open.spotify.com/artist/0DK7ZkQ9RydhZnOhI6j6Ck), [Bobbi Salvör Menuez](https://open.spotify.com/artist/1AJGOgliKuczd24lJOh33J) | [Wicked Animal](https://open.spotify.com/album/3gTAR3ksapRN0d01BRYr9i) | 4:44 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 96 | [Darp 2 / Exorcism](https://open.spotify.com/track/4peyXn5Y2L8m8nKFdCfNOn) | [Blue Bendy](https://open.spotify.com/artist/7Fv9bX6Oy7AhbhKXh5dgIG) | [So Medieval](https://open.spotify.com/album/5gpglBxq454hY07XTJpJ5C) | 3:20 |
 | 97 | [Something Better](https://open.spotify.com/track/68GhBQGD6zcd7voOlJJxAH) | [Plastic Mermaids](https://open.spotify.com/artist/0K2bb637U0v3bBiwE7vtjQ) | [Something Better](https://open.spotify.com/album/4Wi3Lw9LbvfBbpPXyEJBCr) | 5:40 |
 | 98 | [Religion for One](https://open.spotify.com/track/54Zik7AdvtDDZksQm015Z7) | [Fat White Family](https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4) | [Religion for One](https://open.spotify.com/album/3Sz2ldxbLynqngGDSrj8Dl) | 3:19 |
-| 99 | [I Will Be the World](https://open.spotify.com/track/0vxAJmYbzIhJ3H587gdAOX) | [Blaenavon](https://open.spotify.com/artist/79RmzX8i9w6YwqJjg3O1MY) | [That's Your Lot](https://open.spotify.com/album/6BjZX96z3VRpwLHgA6BOVP) | 4:31 |
-| 100 | [pile of bones](https://open.spotify.com/track/1CDoOdVozBrccyatQBXM8e) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ) | [through the telescope](https://open.spotify.com/album/0IVSUbIppea7Vq0m4wJ6s3) | 3:25 |
+| 99 | [pile of bones](https://open.spotify.com/track/1CDoOdVozBrccyatQBXM8e) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ) | [through the telescope](https://open.spotify.com/album/0IVSUbIppea7Vq0m4wJ6s3) | 3:25 |
+| 100 | [I Will Be the World](https://open.spotify.com/track/0vxAJmYbzIhJ3H587gdAOX) | [Blaenavon](https://open.spotify.com/artist/79RmzX8i9w6YwqJjg3O1MY) | [That's Your Lot](https://open.spotify.com/album/6BjZX96z3VRpwLHgA6BOVP) | 4:31 |
 
 Snapshot ID: `AAAAAHYUzxRr/cJ4yPCcMMlA9Phyp5AF`

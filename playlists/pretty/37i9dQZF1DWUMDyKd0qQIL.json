@@ -1,6 +1,6 @@
 {
   "description": "Lancez la playlist et jetez vous \u00e0 l'eau !",
-  "num_followers": 512561,
+  "num_followers": 512557,
   "original_name": "Sous la douche",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2026-04-10 14:59:17",
       "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 183685,
-      "name": "NUEVAYoL",
-      "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
-    },
-    {
-      "added_at": "2026-04-10 14:59:17",
-      "album": {
         "name": "Dracula (with JENNIE)",
         "url": "https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 209720,
       "name": "Dracula (with JENNIE)",
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
+    },
+    {
+      "added_at": "2026-04-10 14:59:17",
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 183685,
+      "name": "NUEVAYoL",
+      "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
     },
     {
       "added_at": "2026-04-10 14:59:17",
@@ -403,22 +403,6 @@
     {
       "added_at": "2026-04-10 14:59:17",
       "album": {
-        "name": "FEVER DREAM",
-        "url": "https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 153430,
-      "name": "FEVER DREAM",
-      "url": "https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ"
-    },
-    {
-      "added_at": "2026-04-10 14:59:17",
-      "album": {
         "name": "I Just Might",
         "url": "https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 212973,
       "name": "I Just Might",
       "url": "https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G"
+    },
+    {
+      "added_at": "2026-04-10 14:59:17",
+      "album": {
+        "name": "FEVER DREAM",
+        "url": "https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 153430,
+      "name": "FEVER DREAM",
+      "url": "https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ"
     },
     {
       "added_at": "2026-04-10 14:59:17",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-04-10 14:59:17",
       "album": {
-        "name": "Si Antes Te Hubiera Conocido",
-        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 195824,
-      "name": "Si Antes Te Hubiera Conocido",
-      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
-    },
-    {
-      "added_at": "2026-04-10 14:59:17",
-      "album": {
         "name": "Stumblin' In",
         "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 213363,
       "name": "Stumblin' In",
       "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
+    },
+    {
+      "added_at": "2026-04-10 14:59:17",
+      "album": {
+        "name": "Si Antes Te Hubiera Conocido",
+        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 195824,
+      "name": "Si Antes Te Hubiera Conocido",
+      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
     },
     {
       "added_at": "2026-04-10 14:59:17",
@@ -899,18 +899,22 @@
     {
       "added_at": "2026-04-10 14:59:17",
       "album": {
-        "name": "It's Not Right But It's Okay",
-        "url": "https://open.spotify.com/album/116jZe8fEmfjKBh4d8ZcDO"
+        "name": "How Deep Is Your Love",
+        "url": "https://open.spotify.com/album/3cG32DOXJoYlOHMmJIaQsm"
       },
       "artists": [
         {
-          "name": "Mr. Belt & Wezol",
-          "url": "https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6"
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Disciples",
+          "url": "https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB"
         }
       ],
-      "duration_ms": 152304,
-      "name": "It's Not Right But It's Okay",
-      "url": "https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj"
+      "duration_ms": 212495,
+      "name": "How Deep Is Your Love",
+      "url": "https://open.spotify.com/track/22mek4IiqubGD9ctzxc69s"
     }
   ],
   "unique_name": "Sous la douche",

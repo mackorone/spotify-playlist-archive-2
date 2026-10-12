@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 
 > This is KB\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,161 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,165 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 | 39 | [Yes Song](https://open.spotify.com/track/5AeWSEIYAoK3o4BydeX0Ec) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [His Glory Alone](https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj) | 3:45 |
 | 40 | [Glorious Day](https://open.spotify.com/track/20pzbIjh5atZVcm0i8Bqnx) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Just That Good](https://open.spotify.com/album/1by7QZgO7PjgFybKSiszoA) | 3:19 |
 | 41 | [Danza](https://open.spotify.com/track/2tlTvn51vKm2y7B32aSqoG) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL), [Cardec Drums](https://open.spotify.com/artist/1uVtllLSmvkfPRozmSmxzG) | [His Glory Alone II](https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ) | 3:23 |
-| 42 | [Let Go Let God \(The Anthem\)](https://open.spotify.com/track/5vMu1eC4Am7wD4DsAuOLsY) | [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [Let Go Let God: The EP](https://open.spotify.com/album/0SGMlsj3lq2E4D746PJlQY) | 3:05 |
-| 43 | [Glory Down](https://open.spotify.com/track/2pSdPuESQIDrCOtAmTvqeY) | [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Glory Down](https://open.spotify.com/album/6o5H1yIsjIUS9mqjw3a09R) | 2:59 |
-| 44 | [Wholehearted](https://open.spotify.com/track/6VUkxixPg5mwleZcKlD7Wo) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Wholehearted](https://open.spotify.com/album/6vYLD0YIUj06oN7TvjPM8P) | 3:02 |
+| 42 | [Glory Down](https://open.spotify.com/track/2pSdPuESQIDrCOtAmTvqeY) | [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Glory Down](https://open.spotify.com/album/6o5H1yIsjIUS9mqjw3a09R) | 2:59 |
+| 43 | [Let Go Let God \(The Anthem\)](https://open.spotify.com/track/5vMu1eC4Am7wD4DsAuOLsY) | [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [Let Go Let God: The EP](https://open.spotify.com/album/0SGMlsj3lq2E4D746PJlQY) | 3:05 |
+| 44 | [100](https://open.spotify.com/track/30lW7sca9vsJThBCifkwGo) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [100](https://open.spotify.com/album/7BQy4Rm4CRWGyBKei9CJFv) | 3:39 |
 | 45 | [Graves](https://open.spotify.com/track/3OPcnTopJhqCJ9ekOsnV1t) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [His Glory Alone II](https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ) | 4:20 |
-| 46 | [100](https://open.spotify.com/track/30lW7sca9vsJThBCifkwGo) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [100](https://open.spotify.com/album/7BQy4Rm4CRWGyBKei9CJFv) | 3:39 |
+| 46 | [Wholehearted](https://open.spotify.com/track/6VUkxixPg5mwleZcKlD7Wo) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Wholehearted](https://open.spotify.com/album/6vYLD0YIUj06oN7TvjPM8P) | 3:02 |
 | 47 | [One Day](https://open.spotify.com/track/0w39hcmQv902JMN5ZL862C) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [One Day](https://open.spotify.com/album/7GH4rWGig9L57E7PIM2wR3) | 2:50 |
 | 48 | [Black Sheep II](https://open.spotify.com/track/0spY4QN3gI12ohsr4TdqXu) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Black Sheep II](https://open.spotify.com/album/66xoIShSZw4gxHOIfetpa2) | 2:34 |
 | 49 | [I Believe](https://open.spotify.com/track/67Up1s05wqRlG7sy0PWMlO) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Mattie of For Today](https://open.spotify.com/artist/7BjHKoCoguN4piT5nr7F5z) | [Tomorrow We Live](https://open.spotify.com/album/5ZjHNjAwBW3atSfIfkCQpR) | 3:56 |
 | 50 | [One Sixteen](https://open.spotify.com/track/0PxHrnV45CQascq6nWBnLT) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [The Good Life](https://open.spotify.com/album/4isPEpuar7DBekswZNoawh) | 4:06 |
 
-Snapshot ID: `asgugAAAAAAN1E06r39iEZ5qk26CpKuN`
+Snapshot ID: `asmAAAAAAAANzylwZ205mmRetVMBvOwZ`

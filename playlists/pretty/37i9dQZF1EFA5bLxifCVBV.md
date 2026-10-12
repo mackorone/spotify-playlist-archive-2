@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3zfnzDqNkjEZUNLWFpMiBs">E.Y\. "Yip" Harburg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185 likes - 159 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 185 likes - 159 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 20 | [Napoleon \- Live at the Bon Soir, Greenwich Village, NYC \- Nov\. 5, 1962](https://open.spotify.com/track/0YHkXs5RAp6vELmQgOSMhq) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [Live At The Bon Soir](https://open.spotify.com/album/2uXbBWrM6Z4FN8N5sIBNJ6) | 3:19 |
 | 21 | [Lament](https://open.spotify.com/track/1XDUza3VLMTLIGVe6w3SOO) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T), [Philip Catherine](https://open.spotify.com/artist/3MK08earaAAPhouY2WTvqn), [Jean\-Louis Rassinfosse](https://open.spotify.com/artist/50m2KVom2r1LcmDxWWkieg) | [Crystal Bells](https://open.spotify.com/album/4fZwXAJ6Cuhq50lt3xqfnj) | 7:39 |
 | 22 | [The Eagle And Me](https://open.spotify.com/track/2iIsGaeYTO3Vb8B9mX0FgM) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [Home](https://open.spotify.com/album/7z4swnKEpFmnm0hfA8kuEa) | 4:37 |
-| 23 | [When I'm Not Near The Girl I Love](https://open.spotify.com/track/2p6sMTDDGKKIHAlBrcAb7R) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra ’65](https://open.spotify.com/album/22dAgxWXl4mZ8L3O0YPMkA) | 3:25 |
+| 23 | [When I'm Not Near the Girl I Love](https://open.spotify.com/track/3pIXf6WqA5BsDV3hGZ8ztZ) | [Burton Lane](https://open.spotify.com/artist/2I94yBi5nYiyVs00T7NxWA), [Yip Harburg](https://open.spotify.com/artist/7MrL6dlW8gcb7T3YhhCdOA), [Christopher Fitzgerald](https://open.spotify.com/artist/1Yq9Q4bPuxh1N4wtIEXyII) | [Finian's Rainbow \(New Broadway Cast Recording\)](https://open.spotify.com/album/03R8He29oPPJAQC3uYyAq1) | 3:56 |
 | 24 | [Let's Take A Walk Around The Block](https://open.spotify.com/track/4vP9xQG8Ny2B1MaNQG1iRg) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Harold Arlen Song Book](https://open.spotify.com/album/2yprBiSeLBqwoPdDNl5kbI) | 4:00 |
 | 25 | [Speaking of the Weather \(Original Mix\)](https://open.spotify.com/track/5SWW4pjMKtXC2tnLReEAEU) | [Dick Powell](https://open.spotify.com/artist/5hGZNLPNm2t3W0v28geOIK) | [I Know Now](https://open.spotify.com/album/5dnoRdLN4VEQzlLaWkOKgj) | 2:59 |
 | 26 | [Satan's Li'l Lamb \- Americana](https://open.spotify.com/track/6tafwZaVzjNajPAkgPZ2AI) | [Sam Harris](https://open.spotify.com/artist/1wgHeGxtfZgPb864FoDm2u) | [Standard Time / Different Stages](https://open.spotify.com/album/300J5MSJ4LYwFTQ7lL3oQs) | 3:23 |
@@ -168,4 +168,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 158 | [Telephone Switchboard Scene](https://open.spotify.com/track/625wAMfDIHLLiqapY7xINt) | [Original Broadway Cast Of 'Flahooley](https://open.spotify.com/artist/3mqe3Rd5yH1IYCOvMh6oKZ) | [Flahooley \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2aTYLuL1rhMHX6TBd0DXwH) | 0:24 |
 | 159 | [Inner\-Office Scene](https://open.spotify.com/track/1Gfn9iSf9bsNqUlAUbfeOT) | [Original Broadway Cast Of 'Flahooley](https://open.spotify.com/artist/3mqe3Rd5yH1IYCOvMh6oKZ) | [Flahooley \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2aTYLuL1rhMHX6TBd0DXwH) | 0:26 |
 
-Snapshot ID: `AcemmgAAAABADRz98uvFCX498fSPv4AC`
+Snapshot ID: `AcesOgAAAABZhbIIqfmsO4qVZLoeuuG2`

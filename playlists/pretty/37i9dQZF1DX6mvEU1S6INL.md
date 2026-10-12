@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mvEU1S6INL.md) - [plain]
 
 > It's just us.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,142,238 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,142,223 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mvEU1S6INL.md) - [plain]
 | 70 | [Be There](https://open.spotify.com/track/2ZtkaadDGzsD1Mpd9TZ6DB) | [Andrew Simple](https://open.spotify.com/artist/1M0cxaU3RraBiLTci09gxG) | [Wake](https://open.spotify.com/album/6m4eLJW8fFSVuYLFrwpQCB) | 3:55 |
 | 71 | [The Woods](https://open.spotify.com/track/5ocjpwbvnbO2pnAvEa0b2u) | [Diamond Thug](https://open.spotify.com/artist/4mXcRr0lognLc6xSb1vUTX) | [The Woods](https://open.spotify.com/album/5ouf5qqUh7nkkfmysUIUod) | 3:11 |
 | 72 | [Stars](https://open.spotify.com/track/2lGIQz1KaDIFSoAtsYZWxI) | [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Stars](https://open.spotify.com/album/2T1BQNqAnEB9VC2dNrvpRR) | 4:30 |
-| 73 | [Dangerous Game](https://open.spotify.com/track/0xmzoZJCBY5yu4xPmDLhEG) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Dangerous Game](https://open.spotify.com/album/5uCGWzShlvHcWlPgALSHny) | 2:38 |
-| 74 | [Better Life](https://open.spotify.com/track/08LxaBHzxNSxHdCSitATLW) | [Paper Route](https://open.spotify.com/artist/2EoJ4ILZNAHjVtZgmWBaID) | [The Peace of Wild Things](https://open.spotify.com/album/4gCXFcJXBeseiCQ0GCakO0) | 4:46 |
+| 73 | [Better Life](https://open.spotify.com/track/08LxaBHzxNSxHdCSitATLW) | [Paper Route](https://open.spotify.com/artist/2EoJ4ILZNAHjVtZgmWBaID) | [The Peace of Wild Things](https://open.spotify.com/album/4gCXFcJXBeseiCQ0GCakO0) | 4:46 |
+| 74 | [Dangerous Game](https://open.spotify.com/track/0xmzoZJCBY5yu4xPmDLhEG) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Dangerous Game](https://open.spotify.com/album/5uCGWzShlvHcWlPgALSHny) | 2:38 |
 | 75 | [Sleepwalking, Pt\. I \(Acoustic\)](https://open.spotify.com/track/2Y5v72rZR7ym6LRbh5NilJ) | [Alvarez Kings](https://open.spotify.com/artist/1lGiUJqrkVkPL9auz3Fmcf) | [Sleepwalking, Pt\. I \(Acoustic\)](https://open.spotify.com/album/391n9gKodK0NZ0riyymIzK) | 3:21 |
 | 76 | [Love Letter \- At Home](https://open.spotify.com/track/289CYS8Ws26XGrg1dbeY6d) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj) | [Love Letter \(At Home\)](https://open.spotify.com/album/5rarhRbEr3haebB2GT02rT) | 3:20 |
 | 77 | [Heat Waves](https://open.spotify.com/track/6CDzDgIUqeDY5g8ujExx2f) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Heat Waves](https://open.spotify.com/album/69K1zrf6TkXHdYUO8n2qVi) | 3:58 |
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mvEU1S6INL.md) - [plain]
 | 88 | [All I Need](https://open.spotify.com/track/51ygW389BW4Dut3B69pSwc) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/7eyQXxuf2nGj9d2367Gi5f) | 3:48 |
 | 89 | [Free Animal](https://open.spotify.com/track/5l8oNQsDDPNFUIV5M4lzRJ) | [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S) | [Free Animal](https://open.spotify.com/album/7I82cxUhP77MAqBeY9hkVa) | 3:00 |
 | 90 | [Guru](https://open.spotify.com/track/7ygO2E3yfwZVYbzaPdGzed) | [Coast Modern](https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ) | [Guru](https://open.spotify.com/album/3rgAzv3ZIHp9ENbiUJYuIR) | 3:24 |
-| 91 | [Just Say When \(Version 2.0\)](https://open.spotify.com/track/4JtUz0ZcInSokkKBalijhd) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [Just Say When \(Version 2.0\)](https://open.spotify.com/album/0YQxKT6so33kUPPvrS5FfC) | 3:44 |
-| 92 | [Emergency Contact](https://open.spotify.com/track/5xJlzQiPLYkvlqkRPKzBwD) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Emergency Contact](https://open.spotify.com/album/2qfjFXv3HIl5IsFcfp74RH) | 4:00 |
-| 93 | [Shake, Shake, Shake](https://open.spotify.com/track/4dI4oscajpdtjpg2dP1x28) | [Bronze Radio Return](https://open.spotify.com/artist/2ic4xySjQ39N7DJ0HZemeG) | [Shake! Shake! Shake!](https://open.spotify.com/album/0hO7tdTpSVN1ADtLbvJiQ5) | 2:43 |
-| 94 | [Crystals](https://open.spotify.com/track/59yvXUFVjsaZQsDs09T7eA) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Crystals](https://open.spotify.com/album/1t5eMcZmuPuL28AYU7zQSA) | 4:03 |
-| 95 | [I Belong in Your Arms](https://open.spotify.com/track/0aqRkWPAL9BGCvvdSiXaE9) | [Chairlift](https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp) | [Something](https://open.spotify.com/album/4nYzn3xOXQsltWZ5AIQns7) | 3:27 |
-| 96 | [Don't Move](https://open.spotify.com/track/0UPsdEgJx6ypkfFUxD3ZHh) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Nightlife](https://open.spotify.com/album/76MThARuTPq59l5oseVCJT) | 4:18 |
-| 97 | [Old Pine](https://open.spotify.com/track/0Qw7qGuXlVBZLcfoQ17yZn) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom \(Deluxe Version\)](https://open.spotify.com/album/2MxcbOGFi99D9JACvj74AH) | 5:28 |
-| 98 | [Superbloodmoon \(feat\. D4vd\)](https://open.spotify.com/track/2yBiwYEX680zQLrHwdV1aT) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx), [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Paint My Bedroom Black](https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB) | 2:31 |
-| 99 | [Empire](https://open.spotify.com/track/6nT4NFFH5nbXleO1FiJNhu) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Beneath The Skin](https://open.spotify.com/album/4PAyBqzCYoIIjjPFszeqgT) | 4:20 |
-| 100 | [Hold On](https://open.spotify.com/track/23HxMVdUqSsWwar52dS4ZT) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls](https://open.spotify.com/album/6EoJL3ty0FyE7XmLpAX2sj) | 3:46 |
+| 91 | [Shake, Shake, Shake](https://open.spotify.com/track/4dI4oscajpdtjpg2dP1x28) | [Bronze Radio Return](https://open.spotify.com/artist/2ic4xySjQ39N7DJ0HZemeG) | [Shake! Shake! Shake!](https://open.spotify.com/album/0hO7tdTpSVN1ADtLbvJiQ5) | 2:43 |
+| 92 | [Don't Move](https://open.spotify.com/track/0UPsdEgJx6ypkfFUxD3ZHh) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Nightlife](https://open.spotify.com/album/76MThARuTPq59l5oseVCJT) | 4:18 |
+| 93 | [Just Say When \(Version 2.0\)](https://open.spotify.com/track/4JtUz0ZcInSokkKBalijhd) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [Just Say When \(Version 2.0\)](https://open.spotify.com/album/0YQxKT6so33kUPPvrS5FfC) | 3:44 |
+| 94 | [Emergency Contact](https://open.spotify.com/track/5xJlzQiPLYkvlqkRPKzBwD) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Emergency Contact](https://open.spotify.com/album/2qfjFXv3HIl5IsFcfp74RH) | 4:00 |
+| 95 | [Crystals](https://open.spotify.com/track/59yvXUFVjsaZQsDs09T7eA) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Crystals](https://open.spotify.com/album/1t5eMcZmuPuL28AYU7zQSA) | 4:03 |
+| 96 | [I Belong in Your Arms](https://open.spotify.com/track/0aqRkWPAL9BGCvvdSiXaE9) | [Chairlift](https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp) | [Something](https://open.spotify.com/album/4nYzn3xOXQsltWZ5AIQns7) | 3:27 |
+| 97 | [Cherry](https://open.spotify.com/track/2HQY0sXTrBJCuxqJxbeMWB) | [Moose Blood](https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q) | [I'll Keep You In Mind, From Time to Time](https://open.spotify.com/album/7aMvv0lYIhPyudfM1TmItV) | 2:39 |
+| 98 | [Old Pine](https://open.spotify.com/track/0Qw7qGuXlVBZLcfoQ17yZn) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom \(Deluxe Version\)](https://open.spotify.com/album/2MxcbOGFi99D9JACvj74AH) | 5:28 |
+| 99 | [Superbloodmoon \(feat\. D4vd\)](https://open.spotify.com/track/2yBiwYEX680zQLrHwdV1aT) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx), [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Paint My Bedroom Black](https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB) | 2:31 |
+| 100 | [Empire](https://open.spotify.com/track/6nT4NFFH5nbXleO1FiJNhu) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Beneath The Skin](https://open.spotify.com/album/4PAyBqzCYoIIjjPFszeqgT) | 4:20 |
 
 Snapshot ID: `AAAAAOAPkQnokb/sNszUdGH7qpS6b/Sf`

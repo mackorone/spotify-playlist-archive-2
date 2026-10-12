@@ -780,7 +780,7 @@
       ],
       "date_added": "2022-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 207600,
       "name": "Goin' Blind - Live From MTV Unplugged/1995",
       "url": "https://open.spotify.com/track/0iX0reYVBCXyLfPg6zgyP9"
@@ -1562,6 +1562,28 @@
       "duration_ms": 330360,
       "name": "Psycho Circus",
       "url": "https://open.spotify.com/track/1D28pacrVWg8sg7v00l4uR"
+    },
+    {
+      "album": {
+        "name": "PITCOIN",
+        "url": "https://open.spotify.com/album/4Lkkfpt8ZkDmw4viHHi0IM"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179028,
+      "name": "Reach For The Stars",
+      "url": "https://open.spotify.com/track/4KhenOsbUf96WVeAZE2jFO"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nOT7i.md) - [plain]
 
 > This is Rex Orange County\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,494 likes - 49 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,500 likes - 49 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,11 +34,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nOT7i.md) - [plain]
 | 24 | [Take A Drive](https://open.spotify.com/track/0TYufKGcTKJweqADcwe1LM) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Take A Drive](https://open.spotify.com/album/6NBXqsTzRybSTRLXocRmUV) | 3:45 |
 | 25 | [10/10](https://open.spotify.com/track/4tVphly4D1PB8tJC9gHMcJ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Pony](https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l) | 2:26 |
 | 26 | [One Of These Days](https://open.spotify.com/track/7FL9hBxZMMjyMg7ezluCTB) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [The Alexander Technique](https://open.spotify.com/album/5HSZsS7TGsyMvur547zjVe) | 2:31 |
-| 27 | [Never Enough](https://open.spotify.com/track/2UO6VQNKdwygetKaVCe39h) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Apricot Princess](https://open.spotify.com/album/4DxNdQzm6cBYuSn4dCimmT) | 4:58 |
+| 27 | [Waiting Room](https://open.spotify.com/track/1B04mWViAk7jcLEifYbvdi) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Apricot Princess](https://open.spotify.com/album/4DxNdQzm6cBYuSn4dCimmT) | 4:00 |
 | 28 | [MAKING TIME](https://open.spotify.com/track/6VxUwrFA62k7apLawHsC08) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 1:55 |
 | 29 | [Face to Face](https://open.spotify.com/track/0YdIIMb2MHuxoUudkAY9gS) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Pony](https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l) | 3:39 |
 | 30 | [4 In The Morning](https://open.spotify.com/track/4YSYzelIzckY5oTIXGU3lc) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [The Alexander Technique](https://open.spotify.com/album/5HSZsS7TGsyMvur547zjVe) | 2:07 |
-| 31 | [Waiting Room](https://open.spotify.com/track/1B04mWViAk7jcLEifYbvdi) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Apricot Princess](https://open.spotify.com/album/4DxNdQzm6cBYuSn4dCimmT) | 4:00 |
+| 31 | [Never Enough](https://open.spotify.com/track/2UO6VQNKdwygetKaVCe39h) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Apricot Princess](https://open.spotify.com/album/4DxNdQzm6cBYuSn4dCimmT) | 4:58 |
 | 32 | [KEEP IT UP](https://open.spotify.com/track/1dxqk42KIlMyrSawZ5YjBE) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 3:03 |
 | 33 | [Foreword \(feat\. Rex Orange County\)](https://open.spotify.com/track/33i3xxHB4YSYGYbtJrwwO8) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Flower Boy](https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o) | 3:14 |
 | 34 | [Belly \(The Grass Stains\)](https://open.spotify.com/track/4tVJ827zOdHHv3vIharAOQ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Bcos U Will Never B Free](https://open.spotify.com/album/2PdLUS263cFyd7efyWH5B8) | 4:19 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nOT7i.md) - [plain]
 | 48 | [Forever Always](https://open.spotify.com/track/1Ioxy6OY4NwwxHFS7XLh8I) | [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI), [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [CATCH](https://open.spotify.com/album/50EKsOTP0hqXaVoITqhgsi) | 3:35 |
 | 49 | [Paradise](https://open.spotify.com/track/0AOc5dG23RCMvXTi47aLdl) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Bcos U Will Never B Free](https://open.spotify.com/album/2PdLUS263cFyd7efyWH5B8) | 3:37 |
 
-Snapshot ID: `asgugAAAAAD8tQajQu+DgVPbRkk8QBzX`
+Snapshot ID: `asmAAAAAAACT0z1Pu/vvgnN0Yuc6dfW3`

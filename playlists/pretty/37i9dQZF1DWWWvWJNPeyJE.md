@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWvWJNPeyJE.md) - [plain]
 
 > Let’s get it on....
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,843 likes - 80 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,967 likes - 80 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWvWJNPeyJE.md) - [plain]
 | 42 | [Dangerous \(feat\. Jeremih and PnB Rock\)](https://open.spotify.com/track/1lL7Sj9AitQT7YWXs6obEq) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM) | [Legends of the Summer](https://open.spotify.com/album/10VeHPWU3210DSCq0uQ9uN) | 3:54 |
 | 43 | [Sip](https://open.spotify.com/track/7xHDuriXFKJtPTJ84wLM0y) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Heartbreak on a Full Moon](https://open.spotify.com/album/3zak0kNLcOY5vFcB3Ipskp) | 3:17 |
 | 44 | [Me & U \- US Version](https://open.spotify.com/track/1AajFWbXbqpomHwLb3vYC3) | [Cassie](https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH) | [Me & U](https://open.spotify.com/album/3H2gZ86J7G4xjMS79o6LUd) | 3:11 |
-| 45 | [We Can Make Love](https://open.spotify.com/track/0GprcPh962hOBopHNuUsLV) | [SoMo](https://open.spotify.com/artist/5AtWO8IEnjhRLzaVVQxFUs) | [SoMo](https://open.spotify.com/album/3C1R7nVZwUrvb6RG4Bod5U) | 4:29 |
-| 46 | [Run My Mouth](https://open.spotify.com/track/3gfIiIN9ZrFgfI9eZDI831) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Ella Mai](https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0) | 2:35 |
+| 45 | [Run My Mouth](https://open.spotify.com/track/3gfIiIN9ZrFgfI9eZDI831) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Ella Mai](https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0) | 2:35 |
+| 46 | [We Can Make Love](https://open.spotify.com/track/0GprcPh962hOBopHNuUsLV) | [SoMo](https://open.spotify.com/artist/5AtWO8IEnjhRLzaVVQxFUs) | [SoMo](https://open.spotify.com/album/3C1R7nVZwUrvb6RG4Bod5U) | 4:29 |
 | 47 | [Late Night Drive](https://open.spotify.com/track/0K83VVfg5Y4bPoZ4kmytKH) | [Yo Trane](https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH) | [Late Night Drive](https://open.spotify.com/album/1ZpjavjzxvWjPYDnpDR8nX) | 4:12 |
 | 48 | [Back To Sleep](https://open.spotify.com/track/3FQdtOMXdfDcDDjY1OHAqz) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Back To Sleep](https://open.spotify.com/album/5GIDk7gHi6x19CxZeackUx) | 3:21 |
 | 49 | [Permission](https://open.spotify.com/track/5uu3UiPWFJaKbmj1iKsenH) | [Ro James](https://open.spotify.com/artist/7r2oyrNc0YjSC7hZL87V0Y) | [Permission](https://open.spotify.com/album/5Fyh86nzm4QMsGVZxuHafa) | 4:41 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWvWJNPeyJE.md) - [plain]
 | 73 | [Boundaries](https://open.spotify.com/track/0IaQTnE3gZvk6SjtCuFduu) | [southernwade](https://open.spotify.com/artist/4AhmVfS4VIU9vQzElhRu2R) | [Boundaries](https://open.spotify.com/album/6YB5sMHE89Ote6ddCoFxOH) | 2:53 |
 | 74 | [All I See Is You](https://open.spotify.com/track/3iGCmdEr1Nja2gPhJAUsD3) | [Meaku](https://open.spotify.com/artist/2zD28cZO766exrIWQBDFEJ) | [All I See Is You](https://open.spotify.com/album/1MexXJHmamEttAaPeUsq7T) | 3:44 |
 | 75 | [Control Me](https://open.spotify.com/track/6ImX9KIEXSf3xEIOXoBTG6) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Control Me](https://open.spotify.com/album/4YNz9YitCxbSJawRhMkPbL) | 3:33 |
-| 76 | [Sexpectations](https://open.spotify.com/track/2k4m30eHE9biBFaez21JBG) | [JR Castro](https://open.spotify.com/artist/19xmzzjYSHNrV6s0DBzEi7) | [Sexpectations](https://open.spotify.com/album/7uLUbZc2ImAYcGnPYJ1e21) | 3:44 |
-| 77 | [idc bout the club, i just want you](https://open.spotify.com/track/6VZzikzN98UdBhTyGhczBK) | [Kalin White](https://open.spotify.com/artist/49ygis4xkYsXbHMGCD7ajq) | [idc bout the club, i just want you](https://open.spotify.com/album/5bZYHqlS13XZOdLAWMS01M) | 2:44 |
+| 76 | [idc bout the club, i just want you](https://open.spotify.com/track/6VZzikzN98UdBhTyGhczBK) | [Kalin White](https://open.spotify.com/artist/49ygis4xkYsXbHMGCD7ajq) | [idc bout the club, i just want you](https://open.spotify.com/album/5bZYHqlS13XZOdLAWMS01M) | 2:44 |
+| 77 | [Sexpectations](https://open.spotify.com/track/2k4m30eHE9biBFaez21JBG) | [JR Castro](https://open.spotify.com/artist/19xmzzjYSHNrV6s0DBzEi7) | [Sexpectations](https://open.spotify.com/album/7uLUbZc2ImAYcGnPYJ1e21) | 3:44 |
 | 78 | [Devour](https://open.spotify.com/track/4wEDkySDxnlg9wBwcFsp6v) | [Quincy](https://open.spotify.com/artist/19dpHprxtijzCuWbrtmGrL) | [Devour](https://open.spotify.com/album/4HPoxlB9tyhq1LJHswoVeT) | 2:28 |
 | 79 | [Get You \(feat\. Kali Uchis\)](https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Freudian](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) | 4:38 |
 | 80 | [Jazmine \(Lights Low\)](https://open.spotify.com/track/0Ljvg59UWrTiwSmRbcU9ZK) | [Mont Jake](https://open.spotify.com/artist/19rpW44F6JtXkC8TrK6VBD) | [Jazmine \(Lights Low\)](https://open.spotify.com/album/2OSfGonDcYgvCGHngFTRFC) | 3:37 |

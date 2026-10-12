@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0y67IT.md) - [plain]
 
 > This is Hawthorne Heights\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,935 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,938 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0y67IT.md) - [plain]
 | 49 | [Four White Walls](https://open.spotify.com/track/2040q4zSC7ipniAuswCWqe) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Hate](https://open.spotify.com/album/1aM7YH1Onu5blNUOPkvFjh) | 2:58 |
 | 50 | [Abandoned Driveways](https://open.spotify.com/track/0PBhQRL2CdOZhBgIL3dzqK) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Skeletons](https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW) | 2:42 |
 
-Snapshot ID: `asgugAAAAAB77j7ckfhHM0E9luhHGQmf`
+Snapshot ID: `asmAAAAAAACgiIl+qZ25+gEvIxK91FPD`

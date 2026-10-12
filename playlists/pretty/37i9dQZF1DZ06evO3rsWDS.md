@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rsWDS.md) - [plain]
 
 > This is Chiquis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,103 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,102 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rsWDS.md) - [plain]
 | 49 | [Bienvenida De Soltera](https://open.spotify.com/track/3cDwKmgiVP5acuMi62z3Ig) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Diamantes](https://open.spotify.com/album/6gcSXc3n22hPhaBI94F9Ap) | 2:38 |
 | 50 | [SOMOS](https://open.spotify.com/track/7mpATTzOBRAR5A7wxQ9yph) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Jona Camacho](https://open.spotify.com/artist/0t64OqoqDgnfJee9Z6IBOP) | [Flores En Mi Alma](https://open.spotify.com/album/1hVpAW53KRpFPDIDjRqv7E) | 2:41 |
 
-Snapshot ID: `asbdAAAAAACHMWWpO7c+uzTnAdbr18bZ`
+Snapshot ID: `asgugAAAAABNfL9gBgL1KrJdCh9/8L6C`

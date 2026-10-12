@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 
 > Obscure, dreamy and nostalgic synth sounds from all over the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 486,950 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 487,012 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 | 40 | [Entropy](https://open.spotify.com/track/6gvrPobbaMrvWywWq7SLmj) | [Khton](https://open.spotify.com/artist/45fFAOx67wXDQR2WA6SoKF), [Mos Elian](https://open.spotify.com/artist/0eJvYZgMek9gulGp2yIVfk) | [Entropy](https://open.spotify.com/album/4595rkCbSii9A84XqITn0P) | 3:57 |
 | 41 | [Gallowdance \- Slowed](https://open.spotify.com/track/6wmsU8dzx0vvrzR635WpTM) | [fam0uz](https://open.spotify.com/artist/5L9XA5GDsOOKNZfeOO8lmo) | [Gallowdance \- Slowed](https://open.spotify.com/album/7MfXO0FB6bZVtvM45ausJI) | 1:30 |
 | 42 | [This World Couldn’t See Us](https://open.spotify.com/track/6NPo6ZHIVtsT5DWXZPGpRG) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [DREAMER](https://open.spotify.com/album/1Jr7mHRUgVIbdnbC6LI07M) | 3:39 |
-| 43 | [i walk this earth all by myself](https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:25 |
-| 44 | [HUNNY](https://open.spotify.com/track/1GNszTPgt9RwTLIOzwfHWb) | [French Police](https://open.spotify.com/artist/75vqTLIltGApfI0NxcsJaC) | [BLEU](https://open.spotify.com/album/6woJYYYScksahP4fTIMhus) | 2:23 |
+| 43 | [HUNNY](https://open.spotify.com/track/1GNszTPgt9RwTLIOzwfHWb) | [French Police](https://open.spotify.com/artist/75vqTLIltGApfI0NxcsJaC) | [BLEU](https://open.spotify.com/album/6woJYYYScksahP4fTIMhus) | 2:23 |
+| 44 | [i walk this earth all by myself](https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:25 |
 | 45 | [Lost](https://open.spotify.com/track/44cuIdT06T3f5mIIDldv6z) | [Vandal Moon](https://open.spotify.com/artist/0b0HjXjfkApMcVJqsH8wYX) | [Lost](https://open.spotify.com/album/7y0Wt3nBmFUn7Ser3MuMCd) | 3:40 |
 | 46 | [The Others](https://open.spotify.com/track/59mJLb7Ksjp7U63j6c2PhQ) | [Rendez Vous](https://open.spotify.com/artist/4a118edzJsiImCyPCZk6mY) | [Rendez\-Vous](https://open.spotify.com/album/11KSgvhpxoK78X8nTtjskx) | 3:40 |
 | 47 | [Sapphire](https://open.spotify.com/track/1zjM0yzhtbRRwj5rD897fY) | [juhvahn](https://open.spotify.com/artist/4IfApBEW6RQ9uogE7cuZnJ), [Perpetualll](https://open.spotify.com/artist/18vd25otIXXeNS0BHiCHRB) | [Sapphire](https://open.spotify.com/album/1hJGyISdlrBHHv0YBSe1Ug) | 2:34 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 
 > High energy Techno to boost your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 511,705 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 511,900 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 22 | [GIRLBOSS](https://open.spotify.com/track/20X3JnZ5J6eNGXpypFQNxa) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK) | [GIRLBOSS](https://open.spotify.com/album/1HwOJ1JhdBS5msya2Xvb6v) | 3:13 |
 | 23 | [Amor \(feat\. CERES\)](https://open.spotify.com/track/4UhxekskWFXSv9ik933yBv) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Amor EP](https://open.spotify.com/album/6v50qNzxBH7PI4rHsamjVX) | 6:12 |
 | 24 | [No Limit](https://open.spotify.com/track/1eUkZEhwbZkkhNfgA1qVyA) | [999999999](https://open.spotify.com/artist/6uD2LjPHUjxrpax0se17Nc), [FLKN](https://open.spotify.com/artist/3OyQ9AeMFgwKFHUgBOISww) | [No Limit](https://open.spotify.com/album/5OGsScd09uGjfN2uLH1glz) | 3:39 |
-| 25 | [Unterwelt](https://open.spotify.com/track/58QTtL8VKZYcRQKZdECXJh) | [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU), [Frauenarzt](https://open.spotify.com/artist/38KSpOSYnwQX9zcOcVKdym) | [Unterwelt](https://open.spotify.com/album/5yypfe1KcGuSDSQiK4X9Fd) | 2:45 |
+| 25 | [SCANDAL ANTHEM](https://open.spotify.com/track/08DchrgnFXBD6H142l4tvY) | [Fantasm](https://open.spotify.com/artist/0copVQkrcbfv5CzOyXuLKy), [WINSON](https://open.spotify.com/artist/2z9op9COiMU6QquVfY8HTN) | [SCANDAL ANTHEM](https://open.spotify.com/album/1KGIRYw9xdet38N9JKZp7l) | 4:04 |
 | 26 | [Holy Place](https://open.spotify.com/track/12bBKcfrR64kVkcxpoa0sL) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Holy Place](https://open.spotify.com/album/21ri3TvMHbRdPNmVE8gF8l) | 3:13 |
-| 27 | [SCANDAL ANTHEM](https://open.spotify.com/track/08DchrgnFXBD6H142l4tvY) | [Fantasm](https://open.spotify.com/artist/0copVQkrcbfv5CzOyXuLKy), [WINSON](https://open.spotify.com/artist/2z9op9COiMU6QquVfY8HTN) | [SCANDAL ANTHEM](https://open.spotify.com/album/1KGIRYw9xdet38N9JKZp7l) | 4:04 |
+| 27 | [Unterwelt](https://open.spotify.com/track/58QTtL8VKZYcRQKZdECXJh) | [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU), [Frauenarzt](https://open.spotify.com/artist/38KSpOSYnwQX9zcOcVKdym) | [Unterwelt](https://open.spotify.com/album/5yypfe1KcGuSDSQiK4X9Fd) | 2:45 |
 | 28 | [Voices In My Head \- Amelie Lens Remix](https://open.spotify.com/track/13O1dd0pQzohHTKVBzCo54) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Son of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM), [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Voices In My Head \(Amelie Lens Remix\)](https://open.spotify.com/album/0Vuh5UNwqz3ObGMGhCiQr9) | 3:12 |
 | 29 | [Up Down Jumper](https://open.spotify.com/track/0evYoPRWnnQ6ACNC0LJPul) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Up Down Jumper](https://open.spotify.com/album/77gAd4MCswYYXswGlBaLbv) | 7:12 |
 | 30 | [Falling For You](https://open.spotify.com/track/6KmjD9CaophLMXTCzKoLLZ) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Falling For You](https://open.spotify.com/album/06IxEeX95EI0GlyfuuPqjS) | 3:55 |

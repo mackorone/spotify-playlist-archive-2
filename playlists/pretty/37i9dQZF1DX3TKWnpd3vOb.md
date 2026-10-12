@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 
 > Encuentra un mix de clásicos y nuevos talentos\. Foto: Fother Muckers
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,857 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,831 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,13 +53,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 | 43 | [Lo Que Es Real](https://open.spotify.com/track/0BWlOb5MiXGRhVcCpeRwrF) | [El Otro Astronauta](https://open.spotify.com/artist/0XgIpxvQkRLs1IbbCkNcFa) | [Lo Que Es Real](https://open.spotify.com/album/4EhoOmnnr75ndHqBbsT7CA) | 3:43 |
 | 44 | [Todo Cae](https://open.spotify.com/track/6gdC1mhWIYI9JUWoaubh0J) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [Plumas](https://open.spotify.com/album/1KxjF6uxm8ZeYbugagqqgG) | 4:22 |
 | 45 | [SUEÑOS MOJADOS](https://open.spotify.com/track/5b47pG0qPtebWxYZzrfQHD) | [Sir Valen](https://open.spotify.com/artist/31J0nfGXpgjWwbakScICTn), [Millonarios Depresivos](https://open.spotify.com/artist/00GDE8rkCDdatrLufmZvEn) | [SUEÑOS MOJADOS](https://open.spotify.com/album/5E9GuX20mLPXUwTxqRrQxp) | 2:24 |
-| 46 | [Campo Abierto](https://open.spotify.com/track/4cZJDFO0Peu5pgKQkgiWUV) | [Spiral Vortex](https://open.spotify.com/artist/4bvm188tbbv8vPZvWExXsb) | [Campo Abierto](https://open.spotify.com/album/4DxRmRpxRZwWr2fL8WJgcw) | 3:41 |
-| 47 | [Nuestra señal](https://open.spotify.com/track/3JIy8mnMI0PvcrbCP9wMX3) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Mar de nubes](https://open.spotify.com/album/0DmG4qQfUvmaS781E8PK2q) | 4:11 |
+| 46 | [Nuestra señal](https://open.spotify.com/track/3JIy8mnMI0PvcrbCP9wMX3) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Mar de nubes](https://open.spotify.com/album/0DmG4qQfUvmaS781E8PK2q) | 4:11 |
+| 47 | [Campo Abierto](https://open.spotify.com/track/4cZJDFO0Peu5pgKQkgiWUV) | [Spiral Vortex](https://open.spotify.com/artist/4bvm188tbbv8vPZvWExXsb) | [Campo Abierto](https://open.spotify.com/album/4DxRmRpxRZwWr2fL8WJgcw) | 3:41 |
 | 48 | [La Innombrable](https://open.spotify.com/track/2WUgxqkD2iCLKoJFTahWU8) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [Julius Popper?](https://open.spotify.com/album/23fZQY7rzLPXzLJlmEhs6W) | 4:07 |
 | 49 | [Caballo sin dueño](https://open.spotify.com/track/2RQbZvq8nqZJF2AvhM0l5X) | [Pettinellis](https://open.spotify.com/artist/2UqwAwxVtnr9MyQ96yNoGD) | [Caballo sin dueño](https://open.spotify.com/album/0QFXBy5wBY5jUagOv9fWJz) | 3:37 |
 | 50 | [De La Luz](https://open.spotify.com/track/0muLiRaM3pjoBDA0VTUTFt) | [Kuervos del Sur](https://open.spotify.com/artist/6BYwseleN4FiZvX4dFirBj) | [De La Luz](https://open.spotify.com/album/0GsaLK3qnIHXrFCflRmuCZ) | 5:07 |
-| 51 | [Esta Tarde Vi Llover](https://open.spotify.com/track/2wpimO7JjiN8HuoW5caZ3F) | [Los Ex](https://open.spotify.com/artist/4sWPy7Kj9RwdpAxe5onUhP) | [Esta Tarde Vi Llover](https://open.spotify.com/album/68EfOoUKQD6O5ZvCvtDzOp) | 2:33 |
-| 52 | [Rescatame](https://open.spotify.com/track/0GjoTJLgbBerEXztomm2WU) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt), [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [Rescatame](https://open.spotify.com/album/3bOkkudjnp66n6MYzhMshl) | 4:11 |
+| 51 | [Rescatame](https://open.spotify.com/track/0GjoTJLgbBerEXztomm2WU) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt), [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [Rescatame](https://open.spotify.com/album/3bOkkudjnp66n6MYzhMshl) | 4:11 |
+| 52 | [Esta Tarde Vi Llover](https://open.spotify.com/track/2wpimO7JjiN8HuoW5caZ3F) | [Los Ex](https://open.spotify.com/artist/4sWPy7Kj9RwdpAxe5onUhP) | [Esta Tarde Vi Llover](https://open.spotify.com/album/68EfOoUKQD6O5ZvCvtDzOp) | 2:33 |
 | 53 | [Fantasmas](https://open.spotify.com/track/1uqgJz87jIFsYdHDCbmTgT) | [BBS Paranoicos](https://open.spotify.com/artist/3m6rsPYI2szH1eab4Gu74U) | [Fantasmas](https://open.spotify.com/album/6FIXBpcKzb14AXzKo9Tx9L) | 3:52 |
 | 54 | [Allí Va](https://open.spotify.com/track/7a4vF2iVE2BspL2yRy47nX) | [Pettinellis](https://open.spotify.com/artist/2UqwAwxVtnr9MyQ96yNoGD) | [Allí Va](https://open.spotify.com/album/4t8GmiNlKqpXlVcPJdvyT9) | 2:33 |
 | 55 | [Hojas de Té \- 2023](https://open.spotify.com/track/4IEX5xveQUzxKFau8euNK0) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Hojas de Té \(2023\)](https://open.spotify.com/album/7FRwcTiH6qSLJ1qzsqUZRe) | 3:29 |

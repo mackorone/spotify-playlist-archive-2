@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P9CWt.md) - [plain]
 
 > This is Pabllo Vittar\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,069 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,062 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P9CWt.md) - [plain]
 | 49 | [Falta Coragem](https://open.spotify.com/track/2Ai0zPyvWl5BWpdv5YVguy) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Taty Girl](https://open.spotify.com/artist/3vvHdmRO7G0C3sWP5mHxDE) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l) | 2:37 |
 | 50 | [BRUXARIA 3000](https://open.spotify.com/track/5jd4Ojm5yDifraTb8zGvyp) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Yure IDD](https://open.spotify.com/artist/3g1NhInk2OwAa1UNhBgWiS), [Mc Aleff](https://open.spotify.com/artist/0TLNtcIt6Lyu1g22EDhwe1), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [FUTURO FLUXO](https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y) | 2:54 |
 
-Snapshot ID: `asgugAAAAAAFar+Lknk9PTrkIX4JDhM4`
+Snapshot ID: `asmAAAAAAAAe0XCtFXi6kdPnOjbB+x8J`

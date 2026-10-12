@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Uruguay.
 
-1,479 songs - 3 day 7 hr 13 min
+1,480 songs - 3 day 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1117,6 +1117,7 @@
 | [Salando las Heridas](https://open.spotify.com/track/5PxWz8PnJbnLbMHA6VO9FS) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [La Mosca y la Sopa](https://open.spotify.com/album/1JZBc7tWO3m3ryyToiLTdj) | 5:02 | 2026-06-06 | 2026-06-09 |
 | [Salgo a Bailar](https://open.spotify.com/track/7xX7bER73YZSE4m76OpMXV) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Salgo a Bailar](https://open.spotify.com/album/0uRoHlgfvgSwumltupp9vs) | 2:37 | 2023-07-15 | 2024-04-03 |
 | [Salimo de Noche](https://open.spotify.com/track/6P096SaOzrgGxs8NWOfX7M) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Salimo de Noche](https://open.spotify.com/album/0S3Zf8tQnpcnRbzY9qJ2x8) | 2:57 | 2021-10-23 | 2022-06-15 |
+| [Salimo del Tarro \- Versión Plena](https://open.spotify.com/track/7qjhzCIOFHAF0m2HxW7Tnu) | [Juanjo Morgade](https://open.spotify.com/artist/2WZW6Gsj5R7JlRNFikJvPE), [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [ONE PLAY](https://open.spotify.com/artist/6L2DyVdMndLfvkAelI8vFe) | [Salimo del Tarro \(Versión Plena\)](https://open.spotify.com/album/7tIaPaMjui02FwRKL5kQrx) | 2:19 | 2026-10-11 |  |
 | [Salimo en Caravana](https://open.spotify.com/track/7aPZrVHFSZrcWakHCNn9Fx) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav), [Locura Mix](https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv) | [Salimo en Caravana](https://open.spotify.com/album/3mPvZKCGcj2QVzVARmZUEz) | 3:01 | 2022-02-10 | 2022-04-10 |
 | [Salí a Robarte Corazones](https://open.spotify.com/track/1bPLxk9QsQqczKkJZJ7Inj) | [Lauta](https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci), [Tote](https://open.spotify.com/artist/4JvhKLSrtJy7jAWYaatd64) | [Salí a Robarte Corazones](https://open.spotify.com/album/7tGolNAewn8Gt1XM1wcYRX) | 2:28 | 2026-05-01 | 2026-05-03 |
 | [SAN TURRONA](https://open.spotify.com/track/0EOynYGvn9TbAyKPyMAStL) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [SAN TURRONA](https://open.spotify.com/album/0Fp8YIrA3udbfxtjtC6PJd) | 2:04 | 2024-06-08 | 2024-09-13 |
@@ -1486,6 +1487,6 @@
 | [ángel](https://open.spotify.com/track/10VrAhS6QQKA2mdf2NpreW) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [un mechón de pelo](https://open.spotify.com/album/3wOG84RkmoSoeN3LKkxXga) | 3:46 | 2024-04-13 | 2024-04-20 |
 | [Éxtasis](https://open.spotify.com/track/2X8AGLwb9F0JzJ9zT27a22) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Éxtasis](https://open.spotify.com/album/3pfyjuT8pPM0i9K3i7n451) | 3:11 | 2022-10-29 | 2023-01-03 |
 | [Índigo](https://open.spotify.com/track/4knc1Fp3kbuq8bH2byOvLu) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Índigo](https://open.spotify.com/album/1QtYnYj7SFX1EIqF6ALjaX) | 3:34 | 2021-10-16 | 2021-12-30 |
-| [⁠LUCES DE COLORES](https://open.spotify.com/track/5dDlknAL9imbXXl7uG7oqe) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [PRIMERA MUSA](https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4) | 3:36 | 2025-11-26 |  |
+| [⁠LUCES DE COLORES](https://open.spotify.com/track/5dDlknAL9imbXXl7uG7oqe) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [PRIMERA MUSA](https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4) | 3:36 | 2025-11-26 | 2026-10-12 |
 
 \*This playlist was first scraped on 2021-03-27. Prior content cannot be recovered.

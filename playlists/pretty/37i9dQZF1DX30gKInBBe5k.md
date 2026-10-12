@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 
 > a hardcore home for slowcore fans.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,057 likes - 84 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,080 likes - 84 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,10 +24,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 | 14 | [Empty Words](https://open.spotify.com/track/330w7iBKrHxlJwx3WMdHVr) | [Bowery Electric](https://open.spotify.com/artist/6a27jEzxHDgONdmADAGcej) | [Beat](https://open.spotify.com/album/6jbGBeBtwD05O0EV9RFjlC) | 3:45 |
 | 15 | [Our Way to Fall](https://open.spotify.com/track/5CSWXnKRzx7vI4S4JFAunl) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [And Then Nothing Turned Itself Inside\-Out](https://open.spotify.com/album/5iVEe1GHMtvUHwwqArThFa) | 4:18 |
 | 16 | [Words](https://open.spotify.com/track/01OXa5tVuCssU6j8TY7kxr) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [I Could Live In Hope](https://open.spotify.com/album/61dByu8oBt4qdym9Rkz39w) | 5:48 |
-| 17 | [Starting Over](https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp) | [LSD and the Search for God](https://open.spotify.com/artist/2feOOr1Yjovo67byuxvjZv) | [LSD and the Search for God](https://open.spotify.com/album/46q859znSzYPVwz7OaO7GS) | 5:04 |
+| 17 | [Metal Heart](https://open.spotify.com/track/4JeMpERu0LS3QhNoNG0cvZ) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Moon Pix](https://open.spotify.com/album/6AoSTHrd6oEaeUYBEGdLTb) | 4:02 |
 | 18 | [Headache](https://open.spotify.com/track/4EDj8GXOlI45vG4SOfswK3) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Paradise Valley](https://open.spotify.com/album/5e5MtmjBRnh3eI5g5C0Tyv) | 5:04 |
-| 19 | [Metal Heart](https://open.spotify.com/track/4JeMpERu0LS3QhNoNG0cvZ) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Moon Pix](https://open.spotify.com/album/6AoSTHrd6oEaeUYBEGdLTb) | 4:02 |
-| 20 | [Untitled \#1](https://open.spotify.com/track/1b3VDOKsOZLRBkp6JhkBmP) | [Spain](https://open.spotify.com/artist/1XW5L5zIBqMw7sqkkuIi5n) | [The Blue Moods Of Spain](https://open.spotify.com/album/47FyvCCghOqYY6VQyyixNC) | 6:38 |
+| 19 | [Untitled \#1](https://open.spotify.com/track/1b3VDOKsOZLRBkp6JhkBmP) | [Spain](https://open.spotify.com/artist/1XW5L5zIBqMw7sqkkuIi5n) | [The Blue Moods Of Spain](https://open.spotify.com/album/47FyvCCghOqYY6VQyyixNC) | 6:38 |
+| 20 | [Starting Over](https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp) | [LSD and the Search for God](https://open.spotify.com/artist/2feOOr1Yjovo67byuxvjZv) | [LSD and the Search for God](https://open.spotify.com/album/46q859znSzYPVwz7OaO7GS) | 5:04 |
 | 21 | [Grave Filled with Books](https://open.spotify.com/track/7sYOXMXgA34jo9WkXZLEOG) | [Giles Corey](https://open.spotify.com/artist/6mkkQ4HQo21YZRKw3tRQSv) | [Giles Corey](https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu) | 4:01 |
 | 22 | [Absent Friend](https://open.spotify.com/track/6CqmencKN0UsB67DzZAP8f) | [Bark Psychosis](https://open.spotify.com/artist/0QwH5InvCwfL4UbYkjP9pi) | [Hex](https://open.spotify.com/album/7j98uMKCZuBQU1SPcrQAxP) | 8:20 |
 | 23 | [Blue Thunder](https://open.spotify.com/track/0DXsPlfQtOQBFbL0wAaOn6) | [Galaxie 500](https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG) | [On Fire](https://open.spotify.com/album/1qhNLXBmt1EW6Kwt2A3u8M) | 3:49 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 | 25 | [Wop\-A\-Din\-Din](https://open.spotify.com/track/15XoeDfUqg2Q8rp2eOjAFe) | [Red House Painters](https://open.spotify.com/artist/2GATzeg62cr6sH29wSOVWe) | [Old Ramon](https://open.spotify.com/album/4rL0RzmHMQyHiZqJVdt7A8) | 5:37 |
 | 26 | [Today Is the Day](https://open.spotify.com/track/5nunaC0CNOswAsk98i0Ugq) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [Summer Sun](https://open.spotify.com/album/4NdINo3J9ncT8qeD7hfxJf) | 5:34 |
 | 27 | [Digging Shelters](https://open.spotify.com/track/5z0rixDlXqm0iXZ1Zxz3YX) | [Neil Halstead](https://open.spotify.com/artist/3QbwwBVHCVDEDrVpvUcCwj) | [Palindrome Hunches](https://open.spotify.com/album/6nWn2IqFMPLfo5fEi42XOe) | 3:40 |
-| 28 | [talking to flowers](https://open.spotify.com/track/4iSLT1H9AP6UHAXuPnQPMN) | [porch kiss](https://open.spotify.com/artist/0XGlOeVobIoWftyyayE5bT) | [talking to flowers](https://open.spotify.com/album/3hvoe7LxHmqZ2TlTvMxObi) | 2:03 |
-| 29 | [Sunflower](https://open.spotify.com/track/5MLBottNJ4s4yL6t9sIryD) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [Things We Lost in the Fire](https://open.spotify.com/album/3YWmAFuOtr9YIDdqJ2Gius) | 4:39 |
+| 28 | [Sunflower](https://open.spotify.com/track/5MLBottNJ4s4yL6t9sIryD) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [Things We Lost in the Fire](https://open.spotify.com/album/3YWmAFuOtr9YIDdqJ2Gius) | 4:39 |
+| 29 | [talking to flowers](https://open.spotify.com/track/4iSLT1H9AP6UHAXuPnQPMN) | [porch kiss](https://open.spotify.com/artist/0XGlOeVobIoWftyyayE5bT) | [talking to flowers](https://open.spotify.com/album/3hvoe7LxHmqZ2TlTvMxObi) | 2:03 |
 | 30 | [Options](https://open.spotify.com/track/3QWzdv9myjbHl6GPYGWyV9) | [Pedro The Lion](https://open.spotify.com/artist/4ApdWjZjftqD77Vh6qDbCr) | [Control \(Remastered\)](https://open.spotify.com/album/3WPhii5HmncMeCKLHZUePr) | 3:56 |
 | 31 | [she loved dogs](https://open.spotify.com/track/7cDUACo0ZIHrUPjVRjmEVG) | [dog isle](https://open.spotify.com/artist/0OPB40Rma9zNV0q9E0HJZx) | [i'm not a violent dog, i don't know why i bite](https://open.spotify.com/album/0S2hBpEIxwy70VcRuqHa9P) | 1:55 |
 | 32 | [Flowers](https://open.spotify.com/track/1tDI5qw1b8hOLVOazlECo2) | [Galaxie 500](https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG) | [Today](https://open.spotify.com/album/5vNKHuz5SeL0bOLtha1xQJ) | 4:29 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 | 48 | [glowing hands](https://open.spotify.com/track/4R5bWuBSkvxFLOc3SDjq3Z) | [forlorn](https://open.spotify.com/artist/10URY9GmoJErCHAzo6jFyT), [friendly to crows](https://open.spotify.com/artist/1KOecUxfQdUJA8mNaRaiAR) | [i hope everything goes well](https://open.spotify.com/album/747L9aHFJZ6tN7rwnyNC4c) | 2:10 |
 | 49 | [Sloth](https://open.spotify.com/track/5u02Kr3YXTSbNO19hSeEK2) | [Brendan Perry](https://open.spotify.com/artist/448GEwyUiojEHd8vsFheaB) | [Eye of the Hunter](https://open.spotify.com/album/5Cx1d1H2EqaOs3OrYP64bR) | 3:32 |
 | 50 | [Follow](https://open.spotify.com/track/3LzFKDTwf9YkJv2OBuApBM) | [Heidi Berry](https://open.spotify.com/artist/6qciBbmbIDojePKdKmGtiA) | [Heidi Berry](https://open.spotify.com/album/51LMFroWbhYEbcHxSOrWw3) | 5:19 |
-| 51 | [Bold Marauder](https://open.spotify.com/track/4AkLsoLJoc3wXjsVN3zsdH) | [Kendra Smith](https://open.spotify.com/artist/4baSCyV2xPPhakoOEOltou) | [Five Ways of Disappearing](https://open.spotify.com/album/6WmyaI6ciyv0XPfyQtf2NE) | 5:33 |
-| 52 | [Sweet Unknown](https://open.spotify.com/track/1LpI5TBhhS8VAOebXksrPy) | [The Hope Blister](https://open.spotify.com/artist/0xm0RDlfj87r1uPa7srs33) | [...Smile's OK](https://open.spotify.com/album/2jccmYwkig1OPAeZte5cGi) | 4:17 |
+| 51 | [Sweet Unknown](https://open.spotify.com/track/1LpI5TBhhS8VAOebXksrPy) | [The Hope Blister](https://open.spotify.com/artist/0xm0RDlfj87r1uPa7srs33) | [...Smile's OK](https://open.spotify.com/album/2jccmYwkig1OPAeZte5cGi) | 4:17 |
+| 52 | [Bold Marauder](https://open.spotify.com/track/4AkLsoLJoc3wXjsVN3zsdH) | [Kendra Smith](https://open.spotify.com/artist/4baSCyV2xPPhakoOEOltou) | [Five Ways of Disappearing](https://open.spotify.com/album/6WmyaI6ciyv0XPfyQtf2NE) | 5:33 |
 | 53 | [i was all over her](https://open.spotify.com/track/7svpAkwc6xaSxlbZ7V7JiS) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx) | 2:41 |
 | 54 | [Exit Music \(For a Film\)](https://open.spotify.com/track/4Na0siMtWOW9pJoWJ1Ponv) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/7dxKtc08dYeRVHt3p9CZJn) | 4:27 |
 | 55 | [Inside Out](https://open.spotify.com/track/2gZ6I0MB9XaKmWOPwNJuqt) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Stratosphere](https://open.spotify.com/album/35QrvQ2SlbEwZD8oq2yxBH) | 2:21 |

@@ -347,6 +347,22 @@
     {
       "added_at": "2026-10-08 22:01:59",
       "album": {
+        "name": "Pokochaj Mnie Ponownie",
+        "url": "https://open.spotify.com/album/2PcBuWrQnZKaDKORHCnhb6"
+      },
+      "artists": [
+        {
+          "name": "Natalia Muianga",
+          "url": "https://open.spotify.com/artist/5ixTh4FeSw3QQb3anXHEV4"
+        }
+      ],
+      "duration_ms": 195573,
+      "name": "Pokochaj Mnie Ponownie",
+      "url": "https://open.spotify.com/track/05s3rbRbHOk4gE3KOBixH5"
+    },
+    {
+      "added_at": "2026-10-08 22:01:59",
+      "album": {
         "name": "nie wierz\u0119 w bajki",
         "url": "https://open.spotify.com/album/39NlvHsshHtXzDw0CO9IQw"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 144000,
       "name": "MAM TO",
       "url": "https://open.spotify.com/track/0QL7cweJhjP0JGNMgKrpwa"
-    },
-    {
-      "added_at": "2026-10-08 22:01:59",
-      "album": {
-        "name": "Pokochaj Mnie Ponownie",
-        "url": "https://open.spotify.com/album/2PcBuWrQnZKaDKORHCnhb6"
-      },
-      "artists": [
-        {
-          "name": "Natalia Muianga",
-          "url": "https://open.spotify.com/artist/5ixTh4FeSw3QQb3anXHEV4"
-        }
-      ],
-      "duration_ms": 195573,
-      "name": "Pokochaj Mnie Ponownie",
-      "url": "https://open.spotify.com/track/05s3rbRbHOk4gE3KOBixH5"
     },
     {
       "added_at": "2026-10-08 22:01:59",
@@ -475,6 +475,26 @@
     {
       "added_at": "2026-10-08 22:01:59",
       "album": {
+        "name": "sad, alone?",
+        "url": "https://open.spotify.com/album/2xWTvIrhyf2SZg3hAIyh0q"
+      },
+      "artists": [
+        {
+          "name": "bartek turski",
+          "url": "https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR"
+        },
+        {
+          "name": "kurtis baker",
+          "url": "https://open.spotify.com/artist/3r9YAOUaPgQV22zcFmHMXv"
+        }
+      ],
+      "duration_ms": 161904,
+      "name": "sad, alone?",
+      "url": "https://open.spotify.com/track/6FTZamgX8SUlpTL9xKgMtZ"
+    },
+    {
+      "added_at": "2026-10-08 22:01:59",
+      "album": {
         "name": "mo\u017cemorze",
         "url": "https://open.spotify.com/album/0pny6F5xvOvZy3AI6hMdj3"
       },
@@ -495,26 +515,6 @@
       "duration_ms": 159529,
       "name": "mo\u017cemorze",
       "url": "https://open.spotify.com/track/0IE7cjqYVMWRliklJuU0nn"
-    },
-    {
-      "added_at": "2026-10-08 22:01:59",
-      "album": {
-        "name": "sad, alone?",
-        "url": "https://open.spotify.com/album/2xWTvIrhyf2SZg3hAIyh0q"
-      },
-      "artists": [
-        {
-          "name": "bartek turski",
-          "url": "https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR"
-        },
-        {
-          "name": "kurtis baker",
-          "url": "https://open.spotify.com/artist/3r9YAOUaPgQV22zcFmHMXv"
-        }
-      ],
-      "duration_ms": 161904,
-      "name": "sad, alone?",
-      "url": "https://open.spotify.com/track/6FTZamgX8SUlpTL9xKgMtZ"
     },
     {
       "added_at": "2026-10-08 22:01:59",
@@ -875,38 +875,6 @@
     {
       "added_at": "2026-10-08 22:01:59",
       "album": {
-        "name": "szpila",
-        "url": "https://open.spotify.com/album/5utgJSuXnm92HO31Axhqos"
-      },
-      "artists": [
-        {
-          "name": "nat cichocka",
-          "url": "https://open.spotify.com/artist/5EAjCeLqtw5GFkmqFQy9al"
-        }
-      ],
-      "duration_ms": 181694,
-      "name": "czekaj!",
-      "url": "https://open.spotify.com/track/2uBuDTn4r5qmSYvAklWx5X"
-    },
-    {
-      "added_at": "2026-10-08 22:01:59",
-      "album": {
-        "name": "Echo Echo",
-        "url": "https://open.spotify.com/album/5135pSDTAnl7l2RLFKmrwI"
-      },
-      "artists": [
-        {
-          "name": "bryska",
-          "url": "https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh"
-        }
-      ],
-      "duration_ms": 133987,
-      "name": "Echo Echo",
-      "url": "https://open.spotify.com/track/2PNfi8dp5JplrBq0Rp4yu0"
-    },
-    {
-      "added_at": "2026-10-08 22:01:59",
-      "album": {
         "name": "po co mi to???",
         "url": "https://open.spotify.com/album/7tPg9FLiEyxhsXvSGNKzvs"
       },
@@ -927,18 +895,18 @@
     {
       "added_at": "2026-10-08 22:01:59",
       "album": {
-        "name": "THIS PLAYGROUND IS NOT MINE BUT I'LL MAKE IT SO",
-        "url": "https://open.spotify.com/album/5zooMKDaIjcg8gqsLCMFk8"
+        "name": "Echo Echo",
+        "url": "https://open.spotify.com/album/5135pSDTAnl7l2RLFKmrwI"
       },
       "artists": [
         {
-          "name": "Marie",
-          "url": "https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M"
+          "name": "bryska",
+          "url": "https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh"
         }
       ],
-      "duration_ms": 136155,
-      "name": "THIS PLAYGROUND IS NOT MINE BUT I'LL MAKE IT SO",
-      "url": "https://open.spotify.com/track/6CKUQ4zcPPp63nPYaCfXKu"
+      "duration_ms": 133987,
+      "name": "Echo Echo",
+      "url": "https://open.spotify.com/track/2PNfi8dp5JplrBq0Rp4yu0"
     },
     {
       "added_at": "2026-10-08 22:01:59",
@@ -955,6 +923,38 @@
       "duration_ms": 174243,
       "name": "Nie m\u00f3wcie mi jak mam kocha\u0107",
       "url": "https://open.spotify.com/track/0d75CV33jqW9Bgv4ZGyw3v"
+    },
+    {
+      "added_at": "2026-10-08 22:01:59",
+      "album": {
+        "name": "szpila",
+        "url": "https://open.spotify.com/album/5utgJSuXnm92HO31Axhqos"
+      },
+      "artists": [
+        {
+          "name": "nat cichocka",
+          "url": "https://open.spotify.com/artist/5EAjCeLqtw5GFkmqFQy9al"
+        }
+      ],
+      "duration_ms": 181694,
+      "name": "czekaj!",
+      "url": "https://open.spotify.com/track/2uBuDTn4r5qmSYvAklWx5X"
+    },
+    {
+      "added_at": "2026-10-08 22:01:59",
+      "album": {
+        "name": "THIS PLAYGROUND IS NOT MINE BUT I'LL MAKE IT SO",
+        "url": "https://open.spotify.com/album/5zooMKDaIjcg8gqsLCMFk8"
+      },
+      "artists": [
+        {
+          "name": "Marie",
+          "url": "https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M"
+        }
+      ],
+      "duration_ms": 136155,
+      "name": "THIS PLAYGROUND IS NOT MINE BUT I'LL MAKE IT SO",
+      "url": "https://open.spotify.com/track/6CKUQ4zcPPp63nPYaCfXKu"
     },
     {
       "added_at": "2026-10-08 22:01:59",
@@ -1099,22 +1099,18 @@
     {
       "added_at": "2026-10-08 22:01:59",
       "album": {
-        "name": "dancefloor?",
-        "url": "https://open.spotify.com/album/3i5O62x02dnd85CGy3vdSw"
+        "name": "niech nie \u017cyje nam",
+        "url": "https://open.spotify.com/album/2F4muJlqRh0Owmoxa8pgJW"
       },
       "artists": [
         {
-          "name": "bartek turski",
-          "url": "https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR"
-        },
-        {
-          "name": "kurtis baker",
-          "url": "https://open.spotify.com/artist/3r9YAOUaPgQV22zcFmHMXv"
+          "name": "wi\u015bniosz",
+          "url": "https://open.spotify.com/artist/4UcIjZwZDS7epHIoNUtwzu"
         }
       ],
-      "duration_ms": 201688,
-      "name": "dancefloor?",
-      "url": "https://open.spotify.com/track/5GV9AMBtRstMTBuWaS55rn"
+      "duration_ms": 156000,
+      "name": "niech nie \u017cyje nam",
+      "url": "https://open.spotify.com/track/0sNuqgwVY7j4ArP5v8cBnR"
     }
   ],
   "unique_name": "up next",

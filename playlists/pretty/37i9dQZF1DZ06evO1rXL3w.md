@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rXL3w.md) - [plain]
 
 > This is Kris Bowers\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,694 likes - 24 songs - 49 min 11 sec
+[Spotify](https://open.spotify.com/user/spotify) - 2,697 likes - 24 songs - 49 min 42 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rXL3w.md) - [plain]
 | 19 | [A Gift For Edwina \- From the Netflix Series “Bridgerton Season Two”](https://open.spotify.com/track/6Lm25vtg4Z9RPyjzWwv5fz) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton Season Two \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/4qhHu94GUvuG0WSxFilOte) | 1:01 |
 | 20 | [Kiss and Tell \- from the Netflix Series "Queen Charlotte"](https://open.spotify.com/track/4OjHxLkdHaRUVY8ogageyL) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Queen Charlotte: A Bridgerton Story \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo) | 1:35 |
 | 21 | [Call Me Simon](https://open.spotify.com/track/5PytAiOdKz6I6omydllZjV) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton \(Music from the Netflix Original Series\)](https://open.spotify.com/album/2bU8GVy0KNAzkONX5traPF) | 0:58 |
-| 22 | [Eloise & Theo \- From the Netflix Series “Bridgerton Season Two”](https://open.spotify.com/track/1nqAZQ2aEWWl7m367vlMyH) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton Season Two \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/4qhHu94GUvuG0WSxFilOte) | 0:47 |
+| 22 | [Nothing Could Keep Me Away \- From the Netflix Series “Bridgerton Season Two”](https://open.spotify.com/track/6qgk650u7bie0MlLEMcndW) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton Season Two \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/4qhHu94GUvuG0WSxFilOte) | 1:17 |
 | 23 | [Almost Kiss \- from the Netflix Series "Queen Charlotte"](https://open.spotify.com/track/4clo8rW8pMDBKq6Ewz3APL) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Queen Charlotte: A Bridgerton Story \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo) | 1:23 |
 | 24 | [Meet Dr\. Monro \- from the Netflix Series "Queen Charlotte"](https://open.spotify.com/track/6tyZytD0hsAKUVxerYiR2j) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Queen Charlotte: A Bridgerton Story \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo) | 3:26 |
 
-Snapshot ID: `asbdAAAAAABvqPr2qAPEzt/sBsroZwkd`
+Snapshot ID: `asgugAAAAACTgQlPUOVbVEXFWOdNxl6E`

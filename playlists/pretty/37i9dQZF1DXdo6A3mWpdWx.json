@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1990s. Cover: Aqua.",
-  "num_followers": 1489723,
+  "num_followers": 1490152,
   "original_name": "90s Party",
   "owner": {
     "name": "Spotify",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Mack Daddy",
-        "url": "https://open.spotify.com/album/6c62jxWCe2aisIudaDRcaP"
-      },
-      "artists": [
-        {
-          "name": "Sir Mix-A-Lot",
-          "url": "https://open.spotify.com/artist/3TQ9JTBI2n2hfo7aRONEYV"
-        }
-      ],
-      "duration_ms": 262826,
-      "name": "Baby Got Back",
-      "url": "https://open.spotify.com/track/1SAkL1mYNJlaqnBQxVZrRl"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Scatman's World",
         "url": "https://open.spotify.com/album/2MRWFajfjxfLAF3wwmdv5j"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 215973,
       "name": "Scatman (ski-ba-bop-ba-dop-bop)",
       "url": "https://open.spotify.com/track/623rRTKwGmgjH6sjE9uWLh"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Mack Daddy",
+        "url": "https://open.spotify.com/album/6c62jxWCe2aisIudaDRcaP"
+      },
+      "artists": [
+        {
+          "name": "Sir Mix-A-Lot",
+          "url": "https://open.spotify.com/artist/3TQ9JTBI2n2hfo7aRONEYV"
+        }
+      ],
+      "duration_ms": 262826,
+      "name": "Baby Got Back",
+      "url": "https://open.spotify.com/track/1SAkL1mYNJlaqnBQxVZrRl"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Very Necessary",
-        "url": "https://open.spotify.com/album/2W2EmEpud13QHlhCFS9P8g"
-      },
-      "artists": [
-        {
-          "name": "Salt-N-Pepa",
-          "url": "https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ"
-        }
-      ],
-      "duration_ms": 248573,
-      "name": "Shoop",
-      "url": "https://open.spotify.com/track/0Pu71wxadDlB8fJXfjIjeJ"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "The Best Of Suzanne Vega - Tried And True",
         "url": "https://open.spotify.com/album/7dC869HdAWI9T2jmNy7zqO"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 227866,
       "name": "Tom's Diner - 7\" Version",
       "url": "https://open.spotify.com/track/4sutLmjkVKRN6pOAMo2joC"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Very Necessary",
+        "url": "https://open.spotify.com/album/2W2EmEpud13QHlhCFS9P8g"
+      },
+      "artists": [
+        {
+          "name": "Salt-N-Pepa",
+          "url": "https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ"
+        }
+      ],
+      "duration_ms": 248573,
+      "name": "Shoop",
+      "url": "https://open.spotify.com/track/0Pu71wxadDlB8fJXfjIjeJ"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Tarpeia",
-        "url": "https://open.spotify.com/album/2ckPp0V20I5lKZ6pKWuhpf"
-      },
-      "artists": [
-        {
-          "name": "Paradisio",
-          "url": "https://open.spotify.com/artist/0FfjCldzckJBQNsnQyMJmb"
-        }
-      ],
-      "duration_ms": 229333,
-      "name": "Bailando",
-      "url": "https://open.spotify.com/track/6PwbVXIomkvk4YcafiOc6i"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "The Bridge",
         "url": "https://open.spotify.com/album/5BOX6g9aOGf0yh7OEkzen3"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 221186,
       "name": "Beautiful Life",
       "url": "https://open.spotify.com/track/74jTexO94dFGyXGyeu8krd"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Tarpeia",
+        "url": "https://open.spotify.com/album/2ckPp0V20I5lKZ6pKWuhpf"
+      },
+      "artists": [
+        {
+          "name": "Paradisio",
+          "url": "https://open.spotify.com/artist/0FfjCldzckJBQNsnQyMJmb"
+        }
+      ],
+      "duration_ms": 229333,
+      "name": "Bailando",
+      "url": "https://open.spotify.com/track/6PwbVXIomkvk4YcafiOc6i"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "On The 6",
-        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        }
-      ],
-      "duration_ms": 246426,
-      "name": "Waiting for Tonight",
-      "url": "https://open.spotify.com/track/5yaCquc7koPqtgj7v0lwHX"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Life Thru A Lens",
         "url": "https://open.spotify.com/album/31Sx9uz9KqlvmX07Pvp0wN"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 262000,
       "name": "Let Me Entertain You",
       "url": "https://open.spotify.com/track/0SLtqCrXBRrnkxSOMA3X4W"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "On The 6",
+        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 246426,
+      "name": "Waiting for Tonight",
+      "url": "https://open.spotify.com/track/5yaCquc7koPqtgj7v0lwHX"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Backstreet Boys",
-        "url": "https://open.spotify.com/album/1oWxRkI4V9d3hH3PqWpx9H"
-      },
-      "artists": [
-        {
-          "name": "Backstreet Boys",
-          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
-        }
-      ],
-      "duration_ms": 219466,
-      "name": "We've Got It Goin' On - Radio Edit",
-      "url": "https://open.spotify.com/track/7qD9lD0dabABT6y3Vw3uVX"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "It's My Life",
         "url": "https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 221160,
       "name": "Encore Une Fois - Future Breeze Edit",
       "url": "https://open.spotify.com/track/3UPBOL5UtCZmJRwioMkfLD"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Backstreet Boys",
+        "url": "https://open.spotify.com/album/1oWxRkI4V9d3hH3PqWpx9H"
+      },
+      "artists": [
+        {
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+        }
+      ],
+      "duration_ms": 219466,
+      "name": "We've Got It Goin' On - Radio Edit",
+      "url": "https://open.spotify.com/track/7qD9lD0dabABT6y3Vw3uVX"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/7hP1XPeFjOYTM2xgruJZyo"
-      },
-      "artists": [
-        {
-          "name": "La Bouche",
-          "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
-        }
-      ],
-      "duration_ms": 204586,
-      "name": "Sweet Dreams",
-      "url": "https://open.spotify.com/track/2wz5weI4PREzpexKfrKgwv"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Back For Good",
         "url": "https://open.spotify.com/album/7hoiQ5aP55yfEq8TaMsZ0u"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 230266,
       "name": "You're My Heart, You're My Soul '98",
       "url": "https://open.spotify.com/track/1bNYIF1HZlWJe8ZKmTIFfT"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/7hP1XPeFjOYTM2xgruJZyo"
+      },
+      "artists": [
+        {
+          "name": "La Bouche",
+          "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
+        }
+      ],
+      "duration_ms": 204586,
+      "name": "Sweet Dreams",
+      "url": "https://open.spotify.com/track/2wz5weI4PREzpexKfrKgwv"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1915,6 +1915,22 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
+        "name": "In Stereo",
+        "url": "https://open.spotify.com/album/21Z00Rt15tDCUM4mStVNKI"
+      },
+      "artists": [
+        {
+          "name": "Bomfunk MC's",
+          "url": "https://open.spotify.com/artist/0NeC6ploeJUq8oDwYQjNPS"
+        }
+      ],
+      "duration_ms": 306000,
+      "name": "Freestyler",
+      "url": "https://open.spotify.com/track/2vlgOAH3M8Fmo19wOjeRyw"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
         "name": "This Is How We Do It",
         "url": "https://open.spotify.com/album/6VTrm81s50qmidaYI6EjiQ"
       },
@@ -1931,22 +1947,6 @@
       "duration_ms": 277293,
       "name": "This Is How We Do It",
       "url": "https://open.spotify.com/track/1poBO3pO6fkqPYG6n8J5cX"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
-        "name": "In Stereo",
-        "url": "https://open.spotify.com/album/21Z00Rt15tDCUM4mStVNKI"
-      },
-      "artists": [
-        {
-          "name": "Bomfunk MC's",
-          "url": "https://open.spotify.com/artist/0NeC6ploeJUq8oDwYQjNPS"
-        }
-      ],
-      "duration_ms": 306000,
-      "name": "Freestyler",
-      "url": "https://open.spotify.com/track/2vlgOAH3M8Fmo19wOjeRyw"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -2063,22 +2063,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Aquarium (Special Edition)",
-        "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
-      },
-      "artists": [
-        {
-          "name": "Aqua",
-          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
-        }
-      ],
-      "duration_ms": 225933,
-      "name": "Roses Are Red - Original Version",
-      "url": "https://open.spotify.com/track/0tIqERCyX2ogv5Yn00kswb"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "S Club",
         "url": "https://open.spotify.com/album/6Aw5MrjWmWcjECqpsp1Fz5"
       },
@@ -2091,6 +2075,22 @@
       "duration_ms": 214400,
       "name": "Bring It All Back",
       "url": "https://open.spotify.com/track/3v0uXfyMEZ1lGvBOv1Y4ar"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Aquarium (Special Edition)",
+        "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
+      },
+      "artists": [
+        {
+          "name": "Aqua",
+          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+        }
+      ],
+      "duration_ms": 225933,
+      "name": "Roses Are Red - Original Version",
+      "url": "https://open.spotify.com/track/0tIqERCyX2ogv5Yn00kswb"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -2395,22 +2395,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Dig Your Own Hole",
-        "url": "https://open.spotify.com/album/0FjHy5dCyVROqDUl6f2VTK"
-      },
-      "artists": [
-        {
-          "name": "The Chemical Brothers",
-          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
-        }
-      ],
-      "duration_ms": 313666,
-      "name": "Block Rockin' Beats",
-      "url": "https://open.spotify.com/track/1FNvrp5K02oThumS6gllzp"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "The Summer Is Magic - Ep",
         "url": "https://open.spotify.com/album/04yDcYbEtjOyYbM1TNfaab"
       },
@@ -2423,6 +2407,22 @@
       "duration_ms": 236666,
       "name": "The Summer Is Magic - Radio Mix",
       "url": "https://open.spotify.com/track/3riZWJaCsJLpTH9s2gGtGc"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Dig Your Own Hole",
+        "url": "https://open.spotify.com/album/0FjHy5dCyVROqDUl6f2VTK"
+      },
+      "artists": [
+        {
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        }
+      ],
+      "duration_ms": 313666,
+      "name": "Block Rockin' Beats",
+      "url": "https://open.spotify.com/track/1FNvrp5K02oThumS6gllzp"
     },
     {
       "added_at": "2024-07-12 16:20:49",

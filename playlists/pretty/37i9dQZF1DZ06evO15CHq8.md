@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15CHq8.md) - [plain]
 
 > This is $uicideboy$\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 682,418 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 682,467 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVAVMhIe3pV.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 415,644 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 415,709 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVAVMhIe3pV.md) - [plain]
 | 9 | [When You Were Young](https://open.spotify.com/track/70wYA8oYHoMzhRRkARoMhU) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Sam's Town](https://open.spotify.com/album/4o3RJndRhHxkieQzQGhmbw) | 3:40 |
 | 10 | [Dance, Dance](https://open.spotify.com/track/0a7BloCiNzLDD9qSQHh5m7) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [From Under The Cork Tree](https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp) | 3:00 |
 | 11 | [In Too Deep](https://open.spotify.com/track/1HNE2PX70ztbEl6MLxrpNL) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [All Killer, No Filler](https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim) | 3:27 |
-| 12 | [Learn to Fly](https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [There Is Nothing Left To Lose](https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY) | 3:55 |
-| 13 | [Alive](https://open.spotify.com/track/1L94M3KIu7QluZe63g64rv) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) | 5:40 |
+| 12 | [Alive](https://open.spotify.com/track/1L94M3KIu7QluZe63g64rv) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) | 5:40 |
+| 13 | [Learn to Fly](https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [There Is Nothing Left To Lose](https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY) | 3:55 |
 | 14 | [Fake It](https://open.spotify.com/track/4eAwB5pnKFTmsgc3zWoYO0) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Finding Beauty In Negative Spaces \(Bonus Track Version\)](https://open.spotify.com/album/59Tni3gA1OczshFWTMxmbo) | 3:13 |
 | 15 | [Could Have Been Me](https://open.spotify.com/track/3IyCL4Em1GOpNGDf451Hg1) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Everybody Wants](https://open.spotify.com/album/7iLnNik9W0ttekJblYrVfj) | 3:07 |
 | 16 | [Fat Lip](https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [All Killer, No Filler](https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim) | 2:58 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVAVMhIe3pV.md) - [plain]
 | 34 | [Little Sister](https://open.spotify.com/track/1rzYrkxgRuLLJDqWdB32pK) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Lullabies To Paralyze](https://open.spotify.com/album/03srSIJshSQQOh2vJ3uVZi) | 2:54 |
 | 35 | [We Didn’t Start The Fire \(Bonus Track\)](https://open.spotify.com/track/22H7neCMj03ifZXlix1B6h) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3) | 3:35 |
 | 36 | [Oblivion](https://open.spotify.com/track/3Ye5icBka8ODjcaEQakPvZ) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 2:41 |
-| 37 | [Feel Good Drag](https://open.spotify.com/track/3EuiMoY8lTjAvIqNf8Uyr3) | [Anberlin](https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp) | [New Surrender](https://open.spotify.com/album/4q76zB2vUHF6Pf2AlxnXQ0) | 3:07 |
-| 38 | [Run For Cover](https://open.spotify.com/track/5NAiPIEzxAexFE3ucV18Q8) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Wonderful Wonderful](https://open.spotify.com/album/72ZfMxLCPG8mlWC0TXfZQi) | 3:42 |
+| 37 | [Run For Cover](https://open.spotify.com/track/5NAiPIEzxAexFE3ucV18Q8) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Wonderful Wonderful](https://open.spotify.com/album/72ZfMxLCPG8mlWC0TXfZQi) | 3:42 |
+| 38 | [Feel Good Drag](https://open.spotify.com/track/3EuiMoY8lTjAvIqNf8Uyr3) | [Anberlin](https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp) | [New Surrender](https://open.spotify.com/album/4q76zB2vUHF6Pf2AlxnXQ0) | 3:07 |
 | 39 | [Is Everybody Going Crazy?](https://open.spotify.com/track/75yY1Ghs6E32WC4kSikXRJ) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Moral Panic](https://open.spotify.com/album/6afyaK8ihj33Chr7A7LqNI) | 3:57 |
 | 40 | [Real Thing](https://open.spotify.com/track/1Rz1CTinAymBA4dcMPGijY) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Time & Space](https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx) | 1:56 |
 | 41 | [Little Monster](https://open.spotify.com/track/5fpj84RsT9cOTfWUCxBTXu) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Royal Blood](https://open.spotify.com/album/0BFzNaeaNv4mahOzwZFGHK) | 3:32 |

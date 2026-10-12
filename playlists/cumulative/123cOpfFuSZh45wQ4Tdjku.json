@@ -1263,6 +1263,24 @@
     },
     {
       "album": {
+        "name": "Cats With Striped Socks",
+        "url": "https://open.spotify.com/album/3MaO2LKMKD3Effl23L5EdE"
+      },
+      "artists": [
+        {
+          "name": "Studi01",
+          "url": "https://open.spotify.com/artist/6JahkHwKoCgQsAc2wxYKy3"
+        }
+      ],
+      "date_added": "2026-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128640,
+      "name": "Cats With Striped Socks",
+      "url": "https://open.spotify.com/track/0LinCTCmFyAT2H27wTu3H4"
+    },
+    {
+      "album": {
         "name": "CELLULAR",
         "url": "https://open.spotify.com/album/2ur1AGw5HrpPBW7JFd7xON"
       },
@@ -4384,7 +4402,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 225116,
       "name": "If I Were to Die",
       "url": "https://open.spotify.com/track/68B4URd84Edg8Yz3WtytgJ"

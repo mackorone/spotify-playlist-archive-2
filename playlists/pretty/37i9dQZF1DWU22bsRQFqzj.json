@@ -1,6 +1,6 @@
 {
   "description": "Sei nella tua running era e stai preparando a tua prossima mezza maratona \ud83c\udfc3\ud83c\udffb",
-  "num_followers": 138968,
+  "num_followers": 138994,
   "original_name": "Hit Per Correre",
   "owner": {
     "name": "Spotify",
@@ -959,6 +959,22 @@
     {
       "added_at": "2026-09-03 22:03:00",
       "album": {
+        "name": "You Little Beauty",
+        "url": "https://open.spotify.com/album/1voOnpa4pILlDPVsrIFl8b"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "duration_ms": 206587,
+      "name": "You Little Beauty",
+      "url": "https://open.spotify.com/track/1gRQxbfL4ULWyTosgXSbWT"
+    },
+    {
+      "added_at": "2026-09-03 22:03:00",
+      "album": {
         "name": "Deep In Your Love",
         "url": "https://open.spotify.com/album/3QkffLjHLnGMUgMAvrOgrs"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 144500,
       "name": "Deep In Your Love",
       "url": "https://open.spotify.com/track/0sftzYE0YgPHXrvJyUyGjB"
-    },
-    {
-      "added_at": "2026-09-03 22:03:00",
-      "album": {
-        "name": "You Little Beauty",
-        "url": "https://open.spotify.com/album/1voOnpa4pILlDPVsrIFl8b"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        }
-      ],
-      "duration_ms": 206587,
-      "name": "You Little Beauty",
-      "url": "https://open.spotify.com/track/1gRQxbfL4ULWyTosgXSbWT"
     },
     {
       "added_at": "2026-09-03 22:03:00",
@@ -1399,26 +1399,6 @@
     {
       "added_at": "2026-09-03 22:03:00",
       "album": {
-        "name": "Wasted Love (feat. Lagique)",
-        "url": "https://open.spotify.com/album/0i72GjB523RgrjK8HUa61B"
-      },
-      "artists": [
-        {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
-        },
-        {
-          "name": "Lagique",
-          "url": "https://open.spotify.com/artist/1PbtWtrN7jZpd4toqxrjm2"
-        }
-      ],
-      "duration_ms": 139563,
-      "name": "Wasted Love (feat. Lagique)",
-      "url": "https://open.spotify.com/track/2pPO9YecZimmuVQfIzfV6U"
-    },
-    {
-      "added_at": "2026-09-03 22:03:00",
-      "album": {
         "name": "Unholy (feat. Kim Petras) [ACRAZE Remix]",
         "url": "https://open.spotify.com/album/5q2WZFrJpYs53Ky2PSjeIg"
       },
@@ -1439,6 +1419,26 @@
       "duration_ms": 176500,
       "name": "Unholy (feat. Kim Petras) - ACRAZE Remix",
       "url": "https://open.spotify.com/track/2Jn3wcH9TSCFMQjlWreTft"
+    },
+    {
+      "added_at": "2026-09-03 22:03:00",
+      "album": {
+        "name": "Wasted Love (feat. Lagique)",
+        "url": "https://open.spotify.com/album/0i72GjB523RgrjK8HUa61B"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
+        {
+          "name": "Lagique",
+          "url": "https://open.spotify.com/artist/1PbtWtrN7jZpd4toqxrjm2"
+        }
+      ],
+      "duration_ms": 139563,
+      "name": "Wasted Love (feat. Lagique)",
+      "url": "https://open.spotify.com/track/2pPO9YecZimmuVQfIzfV6U"
     },
     {
       "added_at": "2026-09-03 22:03:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2026-09-03 22:03:00",
       "album": {
-        "name": "Drop Your Spirit",
-        "url": "https://open.spotify.com/album/1qAZ2tljtGpX1OoXPWkwbI"
-      },
-      "artists": [
-        {
-          "name": "Brutalismus 3000",
-          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
-        }
-      ],
-      "duration_ms": 198959,
-      "name": "Drop Your Spirit",
-      "url": "https://open.spotify.com/track/5sTUO2Ss8xNJc3t5LbcUCf"
-    },
-    {
-      "added_at": "2026-09-03 22:03:00",
-      "album": {
         "name": "SOMA",
         "url": "https://open.spotify.com/album/4vSNQ69cqRe2WgsdPXH3mv"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 203571,
       "name": "Noche Without You",
       "url": "https://open.spotify.com/track/00FMfKay6lHHQpFLTSaCZe"
+    },
+    {
+      "added_at": "2026-09-03 22:03:00",
+      "album": {
+        "name": "Drop Your Spirit",
+        "url": "https://open.spotify.com/album/1qAZ2tljtGpX1OoXPWkwbI"
+      },
+      "artists": [
+        {
+          "name": "Brutalismus 3000",
+          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
+        }
+      ],
+      "duration_ms": 198959,
+      "name": "Drop Your Spirit",
+      "url": "https://open.spotify.com/track/5sTUO2Ss8xNJc3t5LbcUCf"
     },
     {
       "added_at": "2026-09-03 22:03:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2026-09-03 22:03:00",
       "album": {
-        "name": "Candy",
-        "url": "https://open.spotify.com/album/78GUla8L6F8rT4K1UOYayc"
-      },
-      "artists": [
-        {
-          "name": "Claudia Valentina",
-          "url": "https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I"
-        }
-      ],
-      "duration_ms": 118758,
-      "name": "Candy",
-      "url": "https://open.spotify.com/track/31tp6dG3by6hyHfICBsqG9"
-    },
-    {
-      "added_at": "2026-09-03 22:03:00",
-      "album": {
         "name": "Push",
         "url": "https://open.spotify.com/album/3GSEVlHrbrQbKSP4ozWzx8"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 185244,
       "name": "Push",
       "url": "https://open.spotify.com/track/29OFLlrrfKIEVwbVMTjBYe"
+    },
+    {
+      "added_at": "2026-09-03 22:03:00",
+      "album": {
+        "name": "Candy",
+        "url": "https://open.spotify.com/album/78GUla8L6F8rT4K1UOYayc"
+      },
+      "artists": [
+        {
+          "name": "Claudia Valentina",
+          "url": "https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I"
+        }
+      ],
+      "duration_ms": 118758,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/31tp6dG3by6hyHfICBsqG9"
     },
     {
       "added_at": "2026-09-03 22:03:00",
@@ -1735,26 +1735,6 @@
     {
       "added_at": "2026-09-03 22:03:00",
       "album": {
-        "name": "Qu\u00e9date (Ti\u00ebsto Remix)",
-        "url": "https://open.spotify.com/album/5IZcEkLkf0oQNFlgFGocxr"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 232498,
-      "name": "Qu\u00e9date - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/79wDq3jpGu0yew1ngQpAAi"
-    },
-    {
-      "added_at": "2026-09-03 22:03:00",
-      "album": {
         "name": "All Day And Night (Jax Jones & Martin Solveig Present Europa)",
         "url": "https://open.spotify.com/album/1VQjtx21AAQnQe442bJssW"
       },
@@ -1779,6 +1759,26 @@
       "duration_ms": 169303,
       "name": "All Day And Night",
       "url": "https://open.spotify.com/track/33CfD8UkDEcSdAP9j4QpUY"
+    },
+    {
+      "added_at": "2026-09-03 22:03:00",
+      "album": {
+        "name": "Qu\u00e9date (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/5IZcEkLkf0oQNFlgFGocxr"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 232498,
+      "name": "Qu\u00e9date - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/79wDq3jpGu0yew1ngQpAAi"
     },
     {
       "added_at": "2026-09-03 22:03:00",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2026-09-03 22:03:00",
       "album": {
-        "name": "Make Me Feel",
-        "url": "https://open.spotify.com/album/1c6Y4gCvI7Ey2M07Ahvwva"
-      },
-      "artists": [
-        {
-          "name": "oskar med k",
-          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "Make Me Feel",
-      "url": "https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8"
-    },
-    {
-      "added_at": "2026-09-03 22:03:00",
-      "album": {
         "name": "Hurricane",
         "url": "https://open.spotify.com/album/06J9dABYtcM4blnT4cIpsS"
       },
@@ -1943,18 +1927,18 @@
     {
       "added_at": "2026-09-03 22:03:00",
       "album": {
-        "name": "Settle (Special Edition)",
-        "url": "https://open.spotify.com/album/7bdjtx1RTkWoSoOaIl7a8E"
+        "name": "Make Me Feel",
+        "url": "https://open.spotify.com/album/1c6Y4gCvI7Ey2M07Ahvwva"
       },
       "artists": [
         {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+          "name": "oskar med k",
+          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
         }
       ],
-      "duration_ms": 283705,
-      "name": "When A Fire Starts To Burn",
-      "url": "https://open.spotify.com/track/47EMbBZPg4OBe6m1fijQzj"
+      "duration_ms": 186240,
+      "name": "Make Me Feel",
+      "url": "https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8"
     },
     {
       "added_at": "2026-09-03 22:03:00",
@@ -1971,6 +1955,38 @@
       "duration_ms": 167493,
       "name": "Toop Toop",
       "url": "https://open.spotify.com/track/7cHhpJV9fC2AqgdiLvq1AO"
+    },
+    {
+      "added_at": "2026-09-03 22:03:00",
+      "album": {
+        "name": "Settle (Special Edition)",
+        "url": "https://open.spotify.com/album/7bdjtx1RTkWoSoOaIl7a8E"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "duration_ms": 283705,
+      "name": "When A Fire Starts To Burn",
+      "url": "https://open.spotify.com/track/47EMbBZPg4OBe6m1fijQzj"
+    },
+    {
+      "added_at": "2026-09-03 22:03:00",
+      "album": {
+        "name": "Lipstick",
+        "url": "https://open.spotify.com/album/5ZmMVvnLnqADYlyLcxLy6l"
+      },
+      "artists": [
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        }
+      ],
+      "duration_ms": 180977,
+      "name": "Lipstick",
+      "url": "https://open.spotify.com/track/5vaOdnTldKw74qWjezLfRO"
     },
     {
       "added_at": "2026-09-03 22:03:00",
@@ -1995,22 +2011,6 @@
       "duration_ms": 174374,
       "name": "TAKA",
       "url": "https://open.spotify.com/track/645e3XeVtB7QYpl3RdJBil"
-    },
-    {
-      "added_at": "2026-09-03 22:03:00",
-      "album": {
-        "name": "Lipstick",
-        "url": "https://open.spotify.com/album/5ZmMVvnLnqADYlyLcxLy6l"
-      },
-      "artists": [
-        {
-          "name": "Kungs",
-          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
-        }
-      ],
-      "duration_ms": 180977,
-      "name": "Lipstick",
-      "url": "https://open.spotify.com/track/5vaOdnTldKw74qWjezLfRO"
     },
     {
       "added_at": "2026-09-03 22:03:00",

@@ -4,7 +4,7 @@
 
 > This is Sofía Reyes\. The essential tracks, all in one playlist.
 
-103 songs - 5 hr 12 min
+104 songs - 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [IDIOTA](https://open.spotify.com/track/3wTsBU48b3jt3ZJftBy0Gf) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 3:25 | 2026-08-24 | 2026-09-16 |
 | [Il tuo profumo](https://open.spotify.com/track/0sqbGUEecNagMilnntIsuZ) | [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Uebe](https://open.spotify.com/album/6ZWT9vaRmBayZ6wpm7c5Un) | 2:40 | 2023-09-25 |  |
 | [Kids \(feat\. Sofia Reyes\)](https://open.spotify.com/track/28JJJAkCRwWH2pFI9SoA7L) | [Illy](https://open.spotify.com/artist/6NFyaN9PMCDZ3LKxGwHAXt), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Good Life](https://open.spotify.com/album/4NwBGbGjwIYAFmL1fAQYHJ) | 2:51 | 2024-11-18 | 2026-01-28 |
+| [Know My Name](https://open.spotify.com/track/3s2YCL5LHLzXWbw7ezQru3) | [True Damage](https://open.spotify.com/artist/7xX15v6ahAkcT14kHfB9wB), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd), [SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH), [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Know My Name](https://open.spotify.com/album/5CfKcRzU4j7AyZ5CwyJ2Ut) | 3:32 | 2026-10-12 |  |
 | [La Bachata](https://open.spotify.com/track/6vsajTbLWyrVPHtYvbX35J) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 2:16 | 2023-09-25 | 2026-08-24 |
 | [La Batidora](https://open.spotify.com/track/2e4muS8FH9hY5WY6IqANlA) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [MILAMORES](https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri) | 2:36 | 2023-11-10 | 2024-11-18 |
 | [La Loca](https://open.spotify.com/track/23VRMLWnOte5iYFbDSwwqD) | [Karina Sofia](https://open.spotify.com/artist/3WXv6pmtZ28uU298xhTgUH), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [La Loca](https://open.spotify.com/album/0tiwesFTM7qpCT7k61Yu96) | 3:47 | 2024-10-27 | 2025-05-30 |
@@ -110,6 +111,6 @@
 | [Yo También](https://open.spotify.com/track/05ome1JpawDHUZ1VJeix8e) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [IDGAF ERA \(postdata\)](https://open.spotify.com/album/26TRZwSMrhMrTC3WkD6qM8) | 2:24 | 2026-04-05 |  |
 | [yo tuya, tú mío](https://open.spotify.com/track/6rqalHH9LASV0IMcDl77uY) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [MILAMORES](https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri) | 3:51 | 2023-11-10 |  |
 | [¿Qué Ha Pasao'?](https://open.spotify.com/track/5fxnoiUBJ5DMAQEYb2uFOr) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Sigo a Lo Mío](https://open.spotify.com/album/7mRlOJYRk9u7I8MteTkfzZ) | 3:18 | 2023-09-25 |  |
-| [Échalo Pa' Ca](https://open.spotify.com/track/2h9otdWcqvn5D52cgS32fz) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Lalo Ebratt](https://open.spotify.com/artist/2JYHlgxXwq7Llb2ayrvoex) | [Échalo Pa' Ca](https://open.spotify.com/album/0l17ZOSlaSfuQXPe2G82hk) | 3:42 | 2023-09-25 |  |
+| [Échalo Pa' Ca](https://open.spotify.com/track/2h9otdWcqvn5D52cgS32fz) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Lalo Ebratt](https://open.spotify.com/artist/2JYHlgxXwq7Llb2ayrvoex) | [Échalo Pa' Ca](https://open.spotify.com/album/0l17ZOSlaSfuQXPe2G82hk) | 3:42 | 2023-09-25 | 2026-10-12 |
 
 \*This playlist was first scraped on 2023-09-26. Prior content cannot be recovered.

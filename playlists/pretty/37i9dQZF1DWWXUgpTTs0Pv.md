@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXUgpTTs0Pv.md) - [plain]
 
 > Family friendly country songs to listen to together.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,318 likes - 75 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,349 likes - 75 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,12 +53,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXUgpTTs0Pv.md) - [plain]
 | 43 | [House Party](https://open.spotify.com/track/1TwLKNsCnhi1HxbIi4bAW0) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Montevallo](https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E) | 3:10 |
 | 44 | [Who I Am](https://open.spotify.com/track/0rK4HCKzv2r1IXqKX3DKpq) | [Jessica Andrews](https://open.spotify.com/artist/5rNhVm2CnqiO5Lv4Dt2lck) | [Who I Am](https://open.spotify.com/album/2jv2pSKJiOhmmol92202Vy) | 4:15 |
 | 45 | [Humble And Kind](https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Damn Country Music](https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4) | 4:19 |
-| 46 | [Somebody Like You](https://open.spotify.com/track/0b9djfiuDIMw1zKH6gV74g) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Golden Road](https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7) | 5:23 |
-| 47 | [Boondocks](https://open.spotify.com/track/3duP6mBVDsHM8ioN7o7dAK) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Road To Here](https://open.spotify.com/album/54vjTimZqQsDgXYVJFDJqm) | 4:32 |
+| 46 | [Boondocks](https://open.spotify.com/track/3duP6mBVDsHM8ioN7o7dAK) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Road To Here](https://open.spotify.com/album/54vjTimZqQsDgXYVJFDJqm) | 4:32 |
+| 47 | [Somebody Like You](https://open.spotify.com/track/0b9djfiuDIMw1zKH6gV74g) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Golden Road](https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7) | 5:23 |
 | 48 | [Record Year](https://open.spotify.com/track/5fSPbm5lcwtqwXkeQQswW8) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Mr\. Misunderstood](https://open.spotify.com/album/1QIZsTZrZdQwQ9QJnFoFao) | 2:59 |
 | 49 | [Heaven](https://open.spotify.com/track/1HXy5I3HTWq8OvxCn0z7G7) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Kane Brown \(Deluxe Edition\)](https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp) | 2:57 |
-| 50 | [Suds in the Bucket](https://open.spotify.com/track/6NhpIdjYoufuNNlBsgOztc) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Restless](https://open.spotify.com/album/4Wx0gVzxrbRgxcaJ0M02Ik) | 3:47 |
-| 51 | [I Like The Sound Of That](https://open.spotify.com/track/5S5rw0WLVCAux5B5bWCehK) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Rewind](https://open.spotify.com/album/3yHHbz0wapmu6xF82vHkCU) | 3:29 |
+| 50 | [I Like The Sound Of That](https://open.spotify.com/track/5S5rw0WLVCAux5B5bWCehK) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Rewind](https://open.spotify.com/album/3yHHbz0wapmu6xF82vHkCU) | 3:29 |
+| 51 | [Suds in the Bucket](https://open.spotify.com/track/6NhpIdjYoufuNNlBsgOztc) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Restless](https://open.spotify.com/album/4Wx0gVzxrbRgxcaJ0M02Ik) | 3:47 |
 | 52 | [Speechless](https://open.spotify.com/track/3GJ4hzg4lrGwU51Y3VARbF) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Dan + Shay](https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE) | 3:33 |
 | 53 | [Butterflies](https://open.spotify.com/track/30VHURM5NOfoZmqp2iKawS) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:39 |
 | 54 | [May We All](https://open.spotify.com/track/498ZVInMGDkmmNVpSWqHiZ) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg), [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Dig Your Roots](https://open.spotify.com/album/09KOjaflTBRE28GVvXqkYC) | 3:46 |
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXUgpTTs0Pv.md) - [plain]
 | 65 | [Our Song](https://open.spotify.com/track/15DeqWWQB4dcEWzJg15VrN) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Taylor Swift](https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3) | 3:21 |
 | 66 | [The House That Built Me](https://open.spotify.com/track/02eD9ymfJOJOhM97HYp5R9) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Revolution](https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA) | 3:56 |
 | 67 | [Stuck Like Glue](https://open.spotify.com/track/0JcKdUGNR7zI4jJDLyYXbi) | [Sugarland](https://open.spotify.com/artist/0hYxQe3AK5jBPCr5MumLHD) | [The Incredible Machine](https://open.spotify.com/album/6tRJWFLsUW4HuiXHlOSnwf) | 4:07 |
-| 68 | [Remember Him That Way](https://open.spotify.com/track/1YvT4ml5LQM8ZYcLvqsAkD) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Fathers & Sons](https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow) | 3:56 |
-| 69 | [From the Ground Up](https://open.spotify.com/track/0lQJBl9YEsoMtE8D4yTE9g) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Obsessed](https://open.spotify.com/album/4rQa0t2qWm1MNPy7DNEUHB) | 4:13 |
+| 68 | [From the Ground Up](https://open.spotify.com/track/0lQJBl9YEsoMtE8D4yTE9g) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Obsessed](https://open.spotify.com/album/4rQa0t2qWm1MNPy7DNEUHB) | 4:13 |
+| 69 | [Remember Him That Way](https://open.spotify.com/track/1YvT4ml5LQM8ZYcLvqsAkD) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Fathers & Sons](https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow) | 3:56 |
 | 70 | [Come Back Song](https://open.spotify.com/track/4sHOAALFZiNa4wukjPSBpq) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Charleston, SC 1966](https://open.spotify.com/album/6JfkOQdTGmLEwQvybMNMup) | 3:55 |
 | 71 | [Landslide](https://open.spotify.com/track/5hviCr3lgg6LY6noG6DPKs) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Home](https://open.spotify.com/album/1zgQkZFMRqx1Lz9GVXghLt) | 3:50 |
-| 72 | [Highway Don't Care](https://open.spotify.com/track/4wFUdSCer8bdQsrp1M90sa) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Two Lanes Of Freedom](https://open.spotify.com/album/1O3BsjGx9plSOJ036ZY4Fl) | 4:36 |
-| 73 | [Rainbow](https://open.spotify.com/track/79qxwHypONUt3AFq0WPpT9) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:34 |
-| 74 | [Grandpa \(Tell Me 'Bout The Good Old Days\)](https://open.spotify.com/track/0ogTZlmFqg5xyFCMpRAEb4) | [The Judds](https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc) | [Rockin' With The Rhythm](https://open.spotify.com/album/5sUOntUxlMmGEND5wboCTq) | 4:14 |
+| 72 | [Grandpa \(Tell Me 'Bout The Good Old Days\)](https://open.spotify.com/track/0ogTZlmFqg5xyFCMpRAEb4) | [The Judds](https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc) | [Rockin' With The Rhythm](https://open.spotify.com/album/5sUOntUxlMmGEND5wboCTq) | 4:14 |
+| 73 | [Highway Don't Care](https://open.spotify.com/track/4wFUdSCer8bdQsrp1M90sa) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Two Lanes Of Freedom](https://open.spotify.com/album/1O3BsjGx9plSOJ036ZY4Fl) | 4:36 |
+| 74 | [Rainbow](https://open.spotify.com/track/79qxwHypONUt3AFq0WPpT9) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:34 |
 | 75 | [My Church](https://open.spotify.com/track/1LM5zQv5pBKPyO7rm7Uz6U) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [HERO \(Deluxe Edition\)](https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK) | 3:17 |
 
 Snapshot ID: `AAAAAFoUZSN24KBQDU13NtxOieU68mHy`

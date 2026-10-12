@@ -4,7 +4,7 @@
 
 > This is Ziggy Marley\. The essential tracks, all in one playlist.
 
-89 songs - 5 hr 51 min
+90 songs - 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,9 +90,10 @@
 | [This Train \(feat\. Willie Nelson\)](https://open.spotify.com/track/0vs6bNXqs7HnqgsmEoaUaf) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Family Time](https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3) | 3:38 | 2024-03-24 |  |
 | [Tonika \(feat\. Ziggy Marley\)](https://open.spotify.com/track/6s3SoB0n5VypXrk84IGiNH) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [\#7DJ \(7 Días En Jamaica\)](https://open.spotify.com/album/7vZC8PTQUCcw3687OxqY98) | 3:50 | 2024-02-01 |  |
 | [Top Rankin'/We And Dem \- Live](https://open.spotify.com/track/1r9uYdbKiB4MGTa5AoOK6p) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Bob Marley 75th Celebration \(Pt.1\) \[Live\]](https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6) | 5:59 | 2024-02-01 |  |
-| [Trenchtown Rock \(feat\. Ziggy Marley\)](https://open.spotify.com/track/46lmwJjkLkerdlQAGvcabn) | [U\-Roy](https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Solid Gold](https://open.spotify.com/album/4MfWRzKljDxthyHHCvhaVb) | 4:29 | 2024-02-01 |  |
+| [Trenchtown Rock \(feat\. Ziggy Marley\)](https://open.spotify.com/track/46lmwJjkLkerdlQAGvcabn) | [U\-Roy](https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Solid Gold](https://open.spotify.com/album/4MfWRzKljDxthyHHCvhaVb) | 4:29 | 2024-02-01 | 2026-10-12 |
 | [True To Myself](https://open.spotify.com/track/5N0lcnJTtKj4wNDvurHige) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Dragonfly](https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ) | 3:45 | 2024-02-01 |  |
 | [True To Myself](https://open.spotify.com/track/6Lamfb7pARZtIVYhVqFAaw) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [We Are The People Tour](https://open.spotify.com/album/7FQqRd0kh49AShH75FiT61) | 3:57 | 2026-08-26 | 2026-08-28 |
+| [U R \(feat\. Ziggy Marley\)](https://open.spotify.com/track/2QdV9yVbuWVsDl523kTBzu) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [The Madden Brothers](https://open.spotify.com/artist/5geIMZUDvBE9CwP2iBnBuM) | [U R \(feat\. Ziggy Marley\)](https://open.spotify.com/album/0o6BaoGVYSBHoYQmtk5JMV) | 3:55 | 2026-10-12 |  |
 | [War \- Live](https://open.spotify.com/track/4DqBKhMrM27XLPxXMmSacn) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Bob Marley 75th Celebration \(Pt.1\) \[Live\]](https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6) | 5:43 | 2024-02-01 |  |
 | [Weekend's Long](https://open.spotify.com/track/4Y2GDsWFPYA7ijDSYB4m9Y) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Ziggy Marley](https://open.spotify.com/album/7fIN5avPoJja6R05c0h0NI) | 4:27 | 2024-02-01 |  |
 | [What a Wonderful World](https://open.spotify.com/track/36bNugatsCkXmPz3uJOdIx) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [The Disney Reggae Club](https://open.spotify.com/album/4TwY0yW17Tqf4qNcr6tVSg) | 3:18 | 2024-02-01 |  |

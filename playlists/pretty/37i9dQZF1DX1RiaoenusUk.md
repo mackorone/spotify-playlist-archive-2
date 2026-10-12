@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RiaoenusUk.md) - [plain]
 
 > Música groovera, for the true Funk Soldiers!
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,547 likes - 94 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,549 likes - 94 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,10 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RiaoenusUk.md) - [plain]
 | 42 | [Tal para Cual](https://open.spotify.com/track/2MQt1W8HZoOCuhPUYMROjY) | [Lo' Pibitos](https://open.spotify.com/artist/7f4QZ3v32jtmstrh7VHfJL) | [Bienvenidos al Presente](https://open.spotify.com/album/7qFI4bipXWEoqWBXK9trKS) | 3:29 |
 | 43 | [Coconut Boogaloo](https://open.spotify.com/track/0yoEamYgfqtyvU05cmPUbv) | [Medeski, Martin & Wood](https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw) | [Combustication](https://open.spotify.com/album/409EgDFqusiF1kmmm3NBzN) | 3:57 |
 | 44 | [Simon Freak](https://open.spotify.com/track/6mYRXQDxEpeVLMcDBi7zlr) | [Tony 70](https://open.spotify.com/artist/1laEjxa14vAVGj1bkkkQUv) | [Tony 70](https://open.spotify.com/album/6BKVskjcx78fG8bPWQ3Ypx) | 3:53 |
-| 45 | [Baila el Funk](https://open.spotify.com/track/6cAkTF6SBU0RJOEqJKNzD0) | [Kiddo Toto](https://open.spotify.com/artist/1Mj0XQhXbzIXfoWTN391N6), [Wirchi](https://open.spotify.com/artist/7xfNmsjjymUmtxwxATAIT1) | [RE$FRIADO](https://open.spotify.com/album/4FZez58BNMMijlt8M1npl5) | 3:23 |
-| 46 | [Vos No](https://open.spotify.com/track/6VGl3go59jQhn1vSnOW7Ol) | [NAFTA](https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6) | [Vos No](https://open.spotify.com/album/2zLtFQC86cAi4Pn5wI3ief) | 3:40 |
+| 45 | [One Night](https://open.spotify.com/track/6bDvwo63vUW9qWUUgWGBby) | [Núkuma](https://open.spotify.com/artist/52HtCVkBSfLDGRHlugmOlg) | [One Night](https://open.spotify.com/album/7pxArAvPLT49D1pujkSm9P) | 4:34 |
+| 46 | [Baila el Funk](https://open.spotify.com/track/6cAkTF6SBU0RJOEqJKNzD0) | [Kiddo Toto](https://open.spotify.com/artist/1Mj0XQhXbzIXfoWTN391N6), [Wirchi](https://open.spotify.com/artist/7xfNmsjjymUmtxwxATAIT1) | [RE$FRIADO](https://open.spotify.com/album/4FZez58BNMMijlt8M1npl5) | 3:23 |
 | 47 | [Bienvenidos al Presente](https://open.spotify.com/track/7zAqQFTw2j5G6jcZFDpRcQ) | [Lo' Pibitos](https://open.spotify.com/artist/7f4QZ3v32jtmstrh7VHfJL) | [Bienvenidos al Presente](https://open.spotify.com/album/7qFI4bipXWEoqWBXK9trKS) | 4:19 |
-| 48 | [One Night](https://open.spotify.com/track/6bDvwo63vUW9qWUUgWGBby) | [Núkuma](https://open.spotify.com/artist/52HtCVkBSfLDGRHlugmOlg) | [One Night](https://open.spotify.com/album/7pxArAvPLT49D1pujkSm9P) | 4:34 |
+| 48 | [Vos No](https://open.spotify.com/track/6VGl3go59jQhn1vSnOW7Ol) | [NAFTA](https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6) | [Vos No](https://open.spotify.com/album/2zLtFQC86cAi4Pn5wI3ief) | 3:40 |
 | 49 | [Ameba](https://open.spotify.com/track/41stonr2yiLj8R7wZFehVe) | [Groovin' Bohemia](https://open.spotify.com/artist/2h61fAPumECGmmEmJPJkj1) | [Groovin' Bohemia](https://open.spotify.com/album/22N6SuZAlDTlvgUGbM9UUI) | 7:25 |
 | 50 | [Aeronave](https://open.spotify.com/track/5tcINAPrFrvnFbIuR67xNI) | [Aeronave](https://open.spotify.com/artist/16E1xP8EmdxO16UHGeRQG7) | [Aeronave](https://open.spotify.com/album/4cNSHBJGh8w2xfEpSnoJ5s) | 5:55 |
 | 51 | [Starlight](https://open.spotify.com/track/6QRzoZsudSIAA0vwZSrqe7) | [Dante Spinetta](https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC) | [Starlight](https://open.spotify.com/album/1Tx0nvD2lCBrjgWvBJ2IXB) | 3:49 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RiaoenusUk.md) - [plain]
 | 63 | [Cómo](https://open.spotify.com/track/1sjMSLp2rgGxokLnllBEje) | [Los Funktasticos Genitales](https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2) | [Ya Lo Estoy Deseando](https://open.spotify.com/album/2JfuVBf1o45hGZb70w4RoX) | 3:22 |
 | 64 | [Chicas on Fire](https://open.spotify.com/track/1OJTHnR95k4N0mNfYYkoFB) | [Shocklenders](https://open.spotify.com/artist/45F0w3u4aSG89gClIx4QIR) | [Chicas on Fire \- Single](https://open.spotify.com/album/19hyihRj65Z9jPhBAXaErH) | 4:00 |
 | 65 | [Sedas](https://open.spotify.com/track/3pB89Vp80LDCGEuXdIvbG0) | [SEDA](https://open.spotify.com/artist/6nCnKNt7CTOHzLPyWn3sHl) | [Sedas](https://open.spotify.com/album/0c8UFEPW3g6roJR38IUh2x) | 2:48 |
-| 66 | [Baba](https://open.spotify.com/track/3pvpIE1dcLrYhYex0CUKxA) | [Ekathé](https://open.spotify.com/artist/2QodtlX1l4FWXEETTWtLvz), [El Mundo Limon](https://open.spotify.com/artist/6ewUKYDx23YcomTOQdDvTB) | [Baba](https://open.spotify.com/album/3fyQsRwHWt4G4Tx8VTa3SN) | 3:55 |
-| 67 | [Insomnia](https://open.spotify.com/track/69CrLrn3sGEiwxmki7IwlN) | [Tony 70](https://open.spotify.com/artist/1laEjxa14vAVGj1bkkkQUv) | [Sudamericano](https://open.spotify.com/album/0aicK68Tg0bOAb7vPOFmwt) | 4:12 |
+| 66 | [Insomnia](https://open.spotify.com/track/69CrLrn3sGEiwxmki7IwlN) | [Tony 70](https://open.spotify.com/artist/1laEjxa14vAVGj1bkkkQUv) | [Sudamericano](https://open.spotify.com/album/0aicK68Tg0bOAb7vPOFmwt) | 4:12 |
+| 67 | [Baba](https://open.spotify.com/track/3pvpIE1dcLrYhYex0CUKxA) | [Ekathé](https://open.spotify.com/artist/2QodtlX1l4FWXEETTWtLvz), [El Mundo Limon](https://open.spotify.com/artist/6ewUKYDx23YcomTOQdDvTB) | [Baba](https://open.spotify.com/album/3fyQsRwHWt4G4Tx8VTa3SN) | 3:55 |
 | 68 | [Best Of Us](https://open.spotify.com/track/4wrdly1XwZaZP8b2I4Iv5t) | [Ale Zurita](https://open.spotify.com/artist/10kKK9vhtKk2vyeizLcNZq), [Palta & the mood](https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH) | [Best Of Us](https://open.spotify.com/album/3yfSd47G0hdBqXUeKCiVSH) | 3:05 |
 | 69 | [en mí](https://open.spotify.com/track/2U6ANiDunDYjHwFw8SY1Ff) | [Lola Sanchez](https://open.spotify.com/artist/0KxltikyByuV300CJVM5xO) | [en mí](https://open.spotify.com/album/37vwRCD6CDp518j2giijxd) | 4:06 |
 | 70 | [Acércame a Tu Piel](https://open.spotify.com/track/37iJ5FeoZwPSw5RadQWbwv) | [Santiago Soul](https://open.spotify.com/artist/0DmhysmjwL1OymWMDEEXl9) | [Acércame a Tu Piel](https://open.spotify.com/album/1C2qwptH5EQFTo8jwiDq4o) | 4:08 |
@@ -89,18 +89,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RiaoenusUk.md) - [plain]
 | 79 | [Una Vez Más](https://open.spotify.com/track/0R8tmsKik1nPo08jNaHZzl) | [Sophie Sobral & Factor Paracaídas](https://open.spotify.com/artist/34QT17jY811TDQqqkCdgLl) | [Una Vez Más](https://open.spotify.com/album/10dL0cnrBd1Cp47hAH7e1G) | 3:30 |
 | 80 | [Miro donde miro](https://open.spotify.com/track/5f1p28relsH2D16FT3qXpQ) | [Lautaro Veppo](https://open.spotify.com/artist/39nFQtYZlQlxsPJBHZyHmB), [jjjulián](https://open.spotify.com/artist/1QQyeUqjjqvo9CNTIkzTAE), [Evan Bitz](https://open.spotify.com/artist/7H76VDfRSXbQrwlD3VCqKt) | [Miro donde miro](https://open.spotify.com/album/1hmxgsxgH0yXncwFUGCEps) | 2:55 |
 | 81 | [Traffic \(Groovin' de bondi\)](https://open.spotify.com/track/3aMjSLWrgzlBsfHNXpNCSP) | [Goro Wins](https://open.spotify.com/artist/4udKE6AUVjem2QFCLZjXoG) | [Super 8](https://open.spotify.com/album/6BRH0cYxNgjKLy9kronvWw) | 4:30 |
-| 82 | [7 Am](https://open.spotify.com/track/0ODREAhFrzSo6Amvw31QA4) | [Afromama](https://open.spotify.com/artist/7jSATcOaLux4k5T2TTc2tN), [P1cky](https://open.spotify.com/artist/7jNnJdQzPxtOW3fLmAnd1a) | [7 Am](https://open.spotify.com/album/18Gy6Xx7OqnlKksIerzJQN) | 3:59 |
-| 83 | [No la Ves](https://open.spotify.com/track/4ql5SX2c5PVj8FDYRGmdLX) | [Warlock ARG](https://open.spotify.com/artist/3Et7l92EvT83F7NsmtDYzV) | [No la Ves](https://open.spotify.com/album/0ja7i6140pD18DMHukGkeP) | 4:19 |
+| 82 | [No la Ves](https://open.spotify.com/track/4ql5SX2c5PVj8FDYRGmdLX) | [Warlock ARG](https://open.spotify.com/artist/3Et7l92EvT83F7NsmtDYzV) | [No la Ves](https://open.spotify.com/album/0ja7i6140pD18DMHukGkeP) | 4:19 |
+| 83 | [7 Am](https://open.spotify.com/track/0ODREAhFrzSo6Amvw31QA4) | [Afromama](https://open.spotify.com/artist/7jSATcOaLux4k5T2TTc2tN), [P1cky](https://open.spotify.com/artist/7jNnJdQzPxtOW3fLmAnd1a) | [7 Am](https://open.spotify.com/album/18Gy6Xx7OqnlKksIerzJQN) | 3:59 |
 | 84 | [Fábulas](https://open.spotify.com/track/5ItspG9yWaTOa5ofnd0AV6) | [Alumine](https://open.spotify.com/artist/0x4dM35LYvFkgWINvnRdt3) | [Fábulas](https://open.spotify.com/album/5Pdxguuof4JROwJrq0zgRX) | 4:19 |
 | 85 | [Sujeto a Espacio](https://open.spotify.com/track/1Q6cCRmlEmgqSEwdBsfbFb) | [Jvlian](https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT) | [Crisis](https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU) | 2:41 |
-| 86 | [Selva](https://open.spotify.com/track/6io5gRjR6wkb6nlEmi7rIr) | [De La Rivera](https://open.spotify.com/artist/4U48zETkokPB76fnXQiO2b) | [Selva](https://open.spotify.com/album/03n9iLQLygvipVP1B6AsjC) | 3:30 |
+| 86 | [Therapy](https://open.spotify.com/track/3PqP0GbtQpZy9cHvNFrhl9) | [Croupier Funk](https://open.spotify.com/artist/5eRF4FkmH7eLChZufSBf3p) | [Therapy](https://open.spotify.com/album/5vtaMgXdhnI7HaiVBYmoJn) | 3:50 |
 | 87 | [Que Me Pasa](https://open.spotify.com/track/0BvV03WShjAUdRJHkL33u2) | [Ale Zurita](https://open.spotify.com/artist/10kKK9vhtKk2vyeizLcNZq) | [Que Me Pasa](https://open.spotify.com/album/36Yq1giRnYqaPbscTc49HX) | 3:04 |
-| 88 | [Therapy](https://open.spotify.com/track/3PqP0GbtQpZy9cHvNFrhl9) | [Croupier Funk](https://open.spotify.com/artist/5eRF4FkmH7eLChZufSBf3p) | [Therapy](https://open.spotify.com/album/5vtaMgXdhnI7HaiVBYmoJn) | 3:50 |
+| 88 | [Selva](https://open.spotify.com/track/6io5gRjR6wkb6nlEmi7rIr) | [De La Rivera](https://open.spotify.com/artist/4U48zETkokPB76fnXQiO2b) | [Selva](https://open.spotify.com/album/03n9iLQLygvipVP1B6AsjC) | 3:30 |
 | 89 | [Solo por Hoy](https://open.spotify.com/track/1oc52lK8E79KL18Uj3TfBn) | [Flor Lovaglio](https://open.spotify.com/artist/3ZeKtTdfEsMQX1SlnK5BWU) | [Solo por Hoy](https://open.spotify.com/album/25l2D0cKKCqvt51QEpPbfS) | 3:30 |
 | 90 | [Droga](https://open.spotify.com/track/5Ocq5x5VfdKk6C5IXAsooi) | [Jvlian](https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT) | [Crisis](https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU) | 2:11 |
 | 91 | [El Efecto Calma](https://open.spotify.com/track/0uCIPALeUXwguTSHuwvXN6) | [Alumine](https://open.spotify.com/artist/0x4dM35LYvFkgWINvnRdt3) | [El Efecto Calma](https://open.spotify.com/album/5MZ84i6SVe1rGiEjdHVtVp) | 4:06 |
 | 92 | [Foulmouth](https://open.spotify.com/track/6NBHRERMIEJODoMX7AC8q5) | [Fernández 4](https://open.spotify.com/artist/2tI0jqFT5qiFp6GASa6k8R), [Cirilo Fernandez](https://open.spotify.com/artist/4Xr6dK5pdkdLA1KyLFaTrG) | [Foulmouth](https://open.spotify.com/album/7ywQCYXKnCG4zxufG5bpAP) | 2:54 |
-| 93 | [Sepia](https://open.spotify.com/track/5tNssisrG10u3i8M2tuK8X) | [Ekathé](https://open.spotify.com/artist/2QodtlX1l4FWXEETTWtLvz) | [Sepia](https://open.spotify.com/album/7n8DQxmEU59eGsqK89zqaE) | 5:26 |
-| 94 | [Melodías](https://open.spotify.com/track/6FFVgXUdy3hQepL1FtjbVH) | [Monoson](https://open.spotify.com/artist/3d56fwrxkhDUwyTeV6g56A) | [Melodías](https://open.spotify.com/album/4KtxaUtnvHgtieeMvlA1Kj) | 3:05 |
+| 93 | [Melodías](https://open.spotify.com/track/6FFVgXUdy3hQepL1FtjbVH) | [Monoson](https://open.spotify.com/artist/3d56fwrxkhDUwyTeV6g56A) | [Melodías](https://open.spotify.com/album/4KtxaUtnvHgtieeMvlA1Kj) | 3:05 |
+| 94 | [Sepia](https://open.spotify.com/track/5tNssisrG10u3i8M2tuK8X) | [Ekathé](https://open.spotify.com/artist/2QodtlX1l4FWXEETTWtLvz) | [Sepia](https://open.spotify.com/album/7n8DQxmEU59eGsqK89zqaE) | 5:26 |
 
 Snapshot ID: `AAAAAKZrF2PQQQP4OxCy2IVoxCMwRhPy`

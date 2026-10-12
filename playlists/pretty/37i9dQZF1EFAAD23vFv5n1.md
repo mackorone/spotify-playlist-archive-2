@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/14QejH3mjo1cVX1ATOop0M">okgiorgio</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,080 likes - 197 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,081 likes - 197 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 49 | [Draghi](https://open.spotify.com/track/6L3KJV18NMuSz9QLoamsZQ) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [Draghi](https://open.spotify.com/album/5C2FXB6ueDnXQnrZTgQ61J) | 3:32 |
 | 50 | [oknottobeok](https://open.spotify.com/track/5JAtlL8M4CyF9gbgd9jUab) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [oknottobeok](https://open.spotify.com/album/7Dt32PFY41gLe16zWQFFPh) | 3:24 |
 | 51 | [Farò Più Rumore Del Ratatata](https://open.spotify.com/track/6pqwsZdRorpeqoJQxcWeTL) | [Eugenio In Via Di Gioia](https://open.spotify.com/artist/1UtaXKnNyKhj0efXu2rD5t), [Toomaj](https://open.spotify.com/artist/5mBmrpiMC2lzIWCG0MDOYx) | [Farò Più Rumore Del Ratatata](https://open.spotify.com/album/69SXGkqk4Q5PXr1S2brFPO) | 2:46 |
-| 52 | [RADIOHEAD](https://open.spotify.com/track/4kekbvyVtT0s584KFy8OVX) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [CALMOCOBRA](https://open.spotify.com/album/7898KzpDti7SFKSHi2Uy93) | 3:23 |
-| 53 | [uhm?](https://open.spotify.com/track/6xq0MyDFaIX890DOhgQzel) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ), [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [NEW SKIN](https://open.spotify.com/album/34cWNhZY4Z8OWtlNoXAbm2) | 2:49 |
+| 52 | [uhm?](https://open.spotify.com/track/6xq0MyDFaIX890DOhgQzel) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ), [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [NEW SKIN](https://open.spotify.com/album/34cWNhZY4Z8OWtlNoXAbm2) | 2:49 |
+| 53 | [RADIOHEAD](https://open.spotify.com/track/4kekbvyVtT0s584KFy8OVX) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [CALMOCOBRA](https://open.spotify.com/album/7898KzpDti7SFKSHi2Uy93) | 3:23 |
 | 54 | [E PENSIER MI](https://open.spotify.com/track/1v0mhr3VzTSpzHRylqXk4E) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [FEDE](https://open.spotify.com/album/5y2UTfhxtOcFE1v5S585kK) | 3:37 |
 | 55 | [Bollywood](https://open.spotify.com/track/3hfLzd5e6KUxzKu5pM5Q5a) | [Loredana Bertè](https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx) | [Manifesto](https://open.spotify.com/album/4YUfK0PiSPAYjJZst0Xd0t) | 3:03 |
 | 56 | [Forza](https://open.spotify.com/track/6pBQcX1h2HV1xTQWSM5uoF) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg), [Estremo](https://open.spotify.com/artist/3L0bVe5X6KoxPPjDdL1gIM) | [Forza](https://open.spotify.com/album/5D1l4lOq3fOD1ONUCsuFZ5) | 3:12 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 75 | [Eravamo ragazzini](https://open.spotify.com/track/50psUCaLbN5VxB4XU7ZaTC) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [CRUSH](https://open.spotify.com/album/6prdGyJZaUBHgCvVJ4mJH5) | 3:14 |
 | 76 | [PASTIGLIA v7](https://open.spotify.com/track/4Vp13e77ads0KmyLkV9XLj) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [ANATOMIA CRISTALLO](https://open.spotify.com/album/3cQbctP7TYxlAQIZjDduuv) | 2:38 |
 | 77 | [CRISI v8](https://open.spotify.com/track/3ZITsuxamXIoDlyy4Fi2Wt) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [ANATOMIA CRISTALLO](https://open.spotify.com/album/3cQbctP7TYxlAQIZjDduuv) | 3:13 |
-| 78 | [mi ami davvero?](https://open.spotify.com/track/1ZTQyGeAC8oJHMGxLyLqHu) | [cmqmartina](https://open.spotify.com/artist/3t7NdpIbIprOtDChVJ94DP) | [BRIANZOLA ISSUES](https://open.spotify.com/album/27j6pnsbafDZIn3WnK6gKV) | 3:25 |
-| 79 | [nelle tue piscine \(okgiorgio rework\)](https://open.spotify.com/track/3ypRJXKSJRWeYX8cbRoJtp) | [Giorgio Poi](https://open.spotify.com/artist/422Vo1v0NaW7ZVU8EwvhKW), [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [Schegge \(reworks\)](https://open.spotify.com/album/25vPu3n3hPmCtjFvEMUr6f) | 3:44 |
+| 78 | [nelle tue piscine \(okgiorgio rework\)](https://open.spotify.com/track/3ypRJXKSJRWeYX8cbRoJtp) | [Giorgio Poi](https://open.spotify.com/artist/422Vo1v0NaW7ZVU8EwvhKW), [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [Schegge \(reworks\)](https://open.spotify.com/album/25vPu3n3hPmCtjFvEMUr6f) | 3:44 |
+| 79 | [mi ami davvero?](https://open.spotify.com/track/1ZTQyGeAC8oJHMGxLyLqHu) | [cmqmartina](https://open.spotify.com/artist/3t7NdpIbIprOtDChVJ94DP) | [BRIANZOLA ISSUES](https://open.spotify.com/album/27j6pnsbafDZIn3WnK6gKV) | 3:25 |
 | 80 | [Flash](https://open.spotify.com/track/2OajuteWecH4XFQyFLq1wQ) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [INTERNET](https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz) | 2:43 |
 | 81 | [Cose che si dicono](https://open.spotify.com/track/0NITryefiKERw6elK9pvnU) | [Claudym](https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g) | [Incidenti Di Percorso](https://open.spotify.com/album/3F8GHkZjiGX9djLFSAGgW9) | 3:22 |
 | 82 | [Danza](https://open.spotify.com/track/52KXGLUNnKoFFbV13lezFZ) | [Eugenio In Via Di Gioia](https://open.spotify.com/artist/1UtaXKnNyKhj0efXu2rD5t) | [L'amore è tutto](https://open.spotify.com/album/12mBclPfH5Ey85eS5oKm2B) | 2:44 |
@@ -206,4 +206,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 196 | [Lo So](https://open.spotify.com/track/1bDgDSlaiBty5VenRsoSPP) | [Valentina](https://open.spotify.com/artist/7hgZDU5UtpRoaWEjfHsliw) | [Io So](https://open.spotify.com/album/57px9qcd6jgsymMSkJ0Rjx) | 3:39 |
 | 197 | [Pastello bianco](https://open.spotify.com/track/1OkJez0pACXq0PFne04HOX) | [Bruno Biondi](https://open.spotify.com/artist/4IFzOP78zDKfLxJaskBWvn) | [Compilation Spazioinediti, Vol\. 8 Nuove Proposte](https://open.spotify.com/album/34UixL4dCEdH927BrWbUIq) | 4:00 |
 
-Snapshot ID: `AcemkAAAAADcGSzavBhBUqJIOrhDdOV4`
+Snapshot ID: `AcesbAAAAACOy092d6WJ6wbJHwp0q+ay`

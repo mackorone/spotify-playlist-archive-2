@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1zyhrO.md) - [plain]
 
 > This is Craig David\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,551 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,559 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1zyhrO.md) - [plain]
 | 37 | [Abracadabra \(feat\. Craig David\)](https://open.spotify.com/track/4XIIjW8c8pPaB3tZ712yH9) | [Wes Nelson](https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Abracadabra \(feat\. Craig David\)](https://open.spotify.com/album/3ZhVhgmMYyPalwUSX6D42l) | 2:35 |
 | 38 | [Spanish](https://open.spotify.com/track/30QxFizyyxB7sPE8n7RWNJ) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Slicker than Your Average](https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis) | 5:03 |
 | 39 | [This Is the Girl \(with Kano\)](https://open.spotify.com/track/1vKTU8e7tC851a8tMzc8NY) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Kano](https://open.spotify.com/artist/50nN8IFD4xA67fI4jYbLV4) | [Trust Me](https://open.spotify.com/album/0J9SVTShbzWaOhogFHXJ9K) | 4:10 |
-| 40 | [Let's Stay Together](https://open.spotify.com/track/3c22wjAcHgEVBi2VEKYGdE) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Signed Sealed Delivered](https://open.spotify.com/album/4kxN5eHweMRVcBXG1prsFM) | 3:36 |
-| 41 | [Let Her Go](https://open.spotify.com/track/07oVDSwqKCbF5ZmUqPeqvn) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [The Story Goes...](https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG) | 4:02 |
+| 40 | [Let Her Go](https://open.spotify.com/track/07oVDSwqKCbF5ZmUqPeqvn) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [The Story Goes...](https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG) | 4:02 |
+| 41 | [Let's Stay Together](https://open.spotify.com/track/3c22wjAcHgEVBi2VEKYGdE) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Signed Sealed Delivered](https://open.spotify.com/album/4kxN5eHweMRVcBXG1prsFM) | 3:36 |
 | 42 | [Addicted \- Radio Edit](https://open.spotify.com/track/627SOpaFBewVhekDAu5b8v) | [DJ Assad](https://open.spotify.com/artist/1PpMfsOyfZ3nmcSoiIohpC), [Mohombi](https://open.spotify.com/artist/37GUqxafAvAKGMZbXCUnmr), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Greg Parys](https://open.spotify.com/artist/3oxDUMO16ReenrnGfoXsGV) | [Addicted \(Radio Edit\)](https://open.spotify.com/album/70XtossftXZXhbL4ZKfKWs) | 3:34 |
 | 43 | [Couldn't Be Mine](https://open.spotify.com/track/4BUYYtxQYG8eoHPieyc9Tx) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Following My Intuition \(Expanded Edition\)](https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN) | 3:01 |
-| 44 | [You Don't Know Me](https://open.spotify.com/track/0qUcPMLvDwAUZjprYEwGta) | [Pete Tong](https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB), [The Heritage Orchestra](https://open.spotify.com/artist/6r2opkx0McCgqlKKiTxGKx), [Jules Buckley](https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Pete Tong Ibiza Classics](https://open.spotify.com/album/1Iifumy0bI5fdwItptSoGT) | 4:07 |
-| 45 | [Separate Ways](https://open.spotify.com/track/4LA0Pv5ftyW8rnDuVNWOF0) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [The Story Goes...](https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG) | 4:00 |
+| 44 | [Separate Ways](https://open.spotify.com/track/4LA0Pv5ftyW8rnDuVNWOF0) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [The Story Goes...](https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG) | 4:00 |
+| 45 | [You Don't Know Me](https://open.spotify.com/track/0qUcPMLvDwAUZjprYEwGta) | [Pete Tong](https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB), [The Heritage Orchestra](https://open.spotify.com/artist/6r2opkx0McCgqlKKiTxGKx), [Jules Buckley](https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Pete Tong Ibiza Classics](https://open.spotify.com/album/1Iifumy0bI5fdwItptSoGT) | 4:07 |
 | 46 | [SOS](https://open.spotify.com/track/5pbHdA34hiAuLEsJFp8sgl) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [SOS](https://open.spotify.com/album/7aaihvQBAqCeeaCsfjFqkq) | 3:30 |
 | 47 | [One More Time](https://open.spotify.com/track/5fm1g5y5KoxxAcoqvm7FDK) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Following My Intuition \(Expanded Edition\)](https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN) | 3:14 |
 | 48 | [My Heart's Been Waiting for You \- feat\. Duvall](https://open.spotify.com/track/1zh91AMU0KmMqEqMVJ31vs) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Duvall](https://open.spotify.com/artist/1h2q9GGssdAOHl86JUZgVc) | [22 \(Deluxe\)](https://open.spotify.com/album/4VUkXDCZR2aBe28zoIHHnJ) | 3:24 |
 | 49 | [Abracadabra, Pt\. 2](https://open.spotify.com/track/2PpnFO3ziuVkycFe4ZZOXD) | [Wes Nelson](https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Abracadabra, Pt\. 2](https://open.spotify.com/album/49sQr4EXfsQiWsCN7lAimX) | 2:47 |
 | 50 | [Hot Stuff \(Let's Dance\)](https://open.spotify.com/track/1xHQVFM5gwg2bZJq9txEzH) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Trust Me](https://open.spotify.com/album/0J9SVTShbzWaOhogFHXJ9K) | 3:39 |
 
-Snapshot ID: `asbdAAAAAAB807qqq2g72uD20Tj8NXim`
+Snapshot ID: `asmAAAAAAABcZ58l89FAbzFRrn2acrE0`

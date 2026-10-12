@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY38HTJIe83j.md) - [plain]
 
 > A lovely mix of videos from your favorite indie artists\. Cover: Phoebe Bridgers
 
-[Spotify](https://open.spotify.com/user/spotify) - 958 likes - 64 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 982 likes - 64 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

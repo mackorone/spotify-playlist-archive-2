@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Hong Kong.",
-  "num_followers": 116835,
+  "num_followers": 116844,
   "original_name": "Top 50 - Hong Kong",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Ml26iAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "Ml8QuAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-10-10 14:00:10",
+      "added_at": "2026-10-11 13:39:16",
       "album": {
         "name": "\u6700\u5f8c\u4e00\u500b\u964d\u843d\u5098",
         "url": "https://open.spotify.com/album/0dprxNMkU4LUdKBtCDhl1E"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/7Kv4G8a0IbFSbFy1D9s21H"
     },
     {
-      "added_at": "2026-10-10 14:00:10",
+      "added_at": "2026-10-11 13:39:16",
       "album": {
         "name": "Helicopter",
         "url": "https://open.spotify.com/album/3OqptSJEjyO5PAeRjd1x8s"
@@ -41,55 +41,7 @@
       "url": "https://open.spotify.com/track/4zWeX8ESpCEUiNVRz9D4xi"
     },
     {
-      "added_at": "2026-10-10 14:00:10",
-      "album": {
-        "name": "COMPOSITION",
-        "url": "https://open.spotify.com/album/1UQafU49bE94diYnAQZXfZ"
-      },
-      "artists": [
-        {
-          "name": "Keung To",
-          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
-        }
-      ],
-      "duration_ms": 223803,
-      "name": "\u5bc2\u5bde\u5713\u821e",
-      "url": "https://open.spotify.com/track/7yi7r8GxBX82iwVet5VBG5"
-    },
-    {
-      "added_at": "2026-10-10 14:00:10",
-      "album": {
-        "name": "\u672a\u6df1\u5165\u4f46\u4e86\u89e3",
-        "url": "https://open.spotify.com/album/6ccMGTUqbYc5ouYsS9wYjv"
-      },
-      "artists": [
-        {
-          "name": "MC \u5f35\u5929\u8ce6",
-          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
-        }
-      ],
-      "duration_ms": 181619,
-      "name": "\u672a\u6df1\u5165\u4f46\u4e86\u89e3",
-      "url": "https://open.spotify.com/track/0r0VLsvWv7jo2HGfvlt5xh"
-    },
-    {
-      "added_at": "2026-10-10 14:00:10",
-      "album": {
-        "name": "COMPOSITION",
-        "url": "https://open.spotify.com/album/1UQafU49bE94diYnAQZXfZ"
-      },
-      "artists": [
-        {
-          "name": "Keung To",
-          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
-        }
-      ],
-      "duration_ms": 234083,
-      "name": "\u4f60\u8981\u5014\u5f37",
-      "url": "https://open.spotify.com/track/4vGg44GdCw3X8i8r01XJH0"
-    },
-    {
-      "added_at": "2026-10-10 14:00:10",
+      "added_at": "2026-10-11 13:39:16",
       "album": {
         "name": "\u6dfa\u7c89\u7d05",
         "url": "https://open.spotify.com/album/2uba9qMeStHlwXLbUu0PYj"
@@ -105,7 +57,39 @@
       "url": "https://open.spotify.com/track/3bHIyMzAs0BC3T0YVn4Ctb"
     },
     {
-      "added_at": "2026-10-10 14:00:10",
+      "added_at": "2026-10-11 13:39:16",
+      "album": {
+        "name": "COMPOSITION",
+        "url": "https://open.spotify.com/album/1UQafU49bE94diYnAQZXfZ"
+      },
+      "artists": [
+        {
+          "name": "Keung To",
+          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
+        }
+      ],
+      "duration_ms": 223803,
+      "name": "\u5bc2\u5bde\u5713\u821e",
+      "url": "https://open.spotify.com/track/7yi7r8GxBX82iwVet5VBG5"
+    },
+    {
+      "added_at": "2026-10-11 13:39:16",
+      "album": {
+        "name": "COMPOSITION",
+        "url": "https://open.spotify.com/album/1UQafU49bE94diYnAQZXfZ"
+      },
+      "artists": [
+        {
+          "name": "Keung To",
+          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
+        }
+      ],
+      "duration_ms": 234083,
+      "name": "\u4f60\u8981\u5014\u5f37",
+      "url": "https://open.spotify.com/track/4vGg44GdCw3X8i8r01XJH0"
+    },
+    {
+      "added_at": "2026-10-11 13:39:16",
       "album": {
         "name": "Charisma",
         "url": "https://open.spotify.com/album/6hQVnVXXlrl3VkFGnhudQU"
@@ -121,7 +105,7 @@
       "url": "https://open.spotify.com/track/5aJmkkGitk4ZLWshLcdDPg"
     },
     {
-      "added_at": "2026-10-10 14:00:10",
+      "added_at": "2026-10-11 13:39:16",
       "album": {
         "name": "\u672c\u547d",
         "url": "https://open.spotify.com/album/6mV5ykEWIa1L8kd9xJmevp"
@@ -137,39 +121,7 @@
       "url": "https://open.spotify.com/track/1DSqBa9qCrbTUwVYJFUPba"
     },
     {
-      "added_at": "2026-10-10 14:00:10",
-      "album": {
-        "name": "COMPOSITION",
-        "url": "https://open.spotify.com/album/1UQafU49bE94diYnAQZXfZ"
-      },
-      "artists": [
-        {
-          "name": "Keung To",
-          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
-        }
-      ],
-      "duration_ms": 186041,
-      "name": "Better Man",
-      "url": "https://open.spotify.com/track/687XL0vOW03rpY24lpAoTT"
-    },
-    {
-      "added_at": "2026-10-10 14:00:10",
-      "album": {
-        "name": "Boulder",
-        "url": "https://open.spotify.com/album/2qNlrdHeou8zY3ZCuAvsLO"
-      },
-      "artists": [
-        {
-          "name": "Keung To",
-          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
-        }
-      ],
-      "duration_ms": 248241,
-      "name": "Boulder",
-      "url": "https://open.spotify.com/track/2ziD1w2ZBLPHMmkhSHkayG"
-    },
-    {
-      "added_at": "2026-10-10 14:00:10",
+      "added_at": "2026-10-11 13:39:16",
       "album": {
         "name": "THE PROT\u00c9G\u00c9",
         "url": "https://open.spotify.com/album/6dTACv6BmB8pPh7vXhnp2X"
@@ -185,7 +137,7 @@
       "url": "https://open.spotify.com/track/56KAZ7TDmxSHw1L5gNvESi"
     },
     {
-      "added_at": "2026-10-10 14:00:10",
+      "added_at": "2026-10-11 13:39:16",
       "album": {
         "name": "COMPOSITION",
         "url": "https://open.spotify.com/album/1UQafU49bE94diYnAQZXfZ"
@@ -196,44 +148,44 @@
           "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
         }
       ],
-      "duration_ms": 219263,
-      "name": "\u8ffd\u611b\u72c2\u60f3",
-      "url": "https://open.spotify.com/track/1OoVtwFdwCHgu65joPlp4a"
+      "duration_ms": 186041,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/687XL0vOW03rpY24lpAoTT"
     },
     {
-      "added_at": "2026-10-10 14:00:10",
+      "added_at": "2026-10-11 13:39:16",
       "album": {
-        "name": "Happy - :') (Remixes)",
-        "url": "https://open.spotify.com/album/3nRmQ70bczWCLWyj1aRbt6"
+        "name": "Boulder",
+        "url": "https://open.spotify.com/album/2qNlrdHeou8zY3ZCuAvsLO"
       },
       "artists": [
         {
-          "name": "Jin",
-          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+          "name": "Keung To",
+          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
         }
       ],
-      "duration_ms": 151646,
-      "name": "Running Wild",
-      "url": "https://open.spotify.com/track/50zAEIE4B1QqhPjRMK2Xmh"
+      "duration_ms": 248241,
+      "name": "Boulder",
+      "url": "https://open.spotify.com/track/2ziD1w2ZBLPHMmkhSHkayG"
     },
     {
-      "added_at": "2026-10-10 14:00:10",
+      "added_at": "2026-10-11 13:39:16",
       "album": {
-        "name": "PRIMA",
-        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
+        "name": "On Hits",
+        "url": "https://open.spotify.com/album/1xgpuUCtXFhGXsA1JHYvYl"
       },
       "artists": [
         {
-          "name": "AD\u00c9LA",
-          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+          "name": "Andy Hui",
+          "url": "https://open.spotify.com/artist/1q8BvOdpOtapWOIgO26sOn"
         }
       ],
-      "duration_ms": 181270,
-      "name": "Nicole Kidman",
-      "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
+      "duration_ms": 266333,
+      "name": "\u6628\u9072\u4eba",
+      "url": "https://open.spotify.com/track/0JaChJKM1XYJE48rKaUvG8"
     },
     {
-      "added_at": "2026-10-10 14:00:10",
+      "added_at": "2026-10-11 13:39:16",
       "album": {
         "name": "\u65cb\u8f49\u6728\u99ac",
         "url": "https://open.spotify.com/album/0QYP20KqKGrDyMYqkrTBhx"
@@ -253,7 +205,39 @@
       "url": "https://open.spotify.com/track/5YOyplpxGqOuxDr0BlQI0u"
     },
     {
-      "added_at": "2026-10-10 14:00:10",
+      "added_at": "2026-10-11 13:39:16",
+      "album": {
+        "name": "PRIMA",
+        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "duration_ms": 181270,
+      "name": "Nicole Kidman",
+      "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
+    },
+    {
+      "added_at": "2026-10-11 13:39:16",
+      "album": {
+        "name": "COMPOSITION",
+        "url": "https://open.spotify.com/album/1UQafU49bE94diYnAQZXfZ"
+      },
+      "artists": [
+        {
+          "name": "Keung To",
+          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
+        }
+      ],
+      "duration_ms": 219263,
+      "name": "\u8ffd\u611b\u72c2\u60f3",
+      "url": "https://open.spotify.com/track/1OoVtwFdwCHgu65joPlp4a"
+    },
+    {
+      "added_at": "2026-10-11 13:39:16",
       "album": {
         "name": "\u81f3\u5c11\u76f8\u64c1\u6c92\u932f",
         "url": "https://open.spotify.com/album/6C2D6zIALC1KXOf6oGxeEE"
@@ -269,7 +253,7 @@
       "url": "https://open.spotify.com/track/1hUCAVgmwiU3op5Pw16SSf"
     },
     {
-      "added_at": "2026-10-10 14:00:10",
+      "added_at": "2026-10-11 13:39:16",
       "album": {
         "name": "THE PROT\u00c9G\u00c9",
         "url": "https://open.spotify.com/album/6dTACv6BmB8pPh7vXhnp2X"
@@ -285,23 +269,7 @@
       "url": "https://open.spotify.com/track/3qejxDQ65H8Wz5y0GsUgsN"
     },
     {
-      "added_at": "2026-10-10 14:00:10",
-      "album": {
-        "name": "Sweet & Sour",
-        "url": "https://open.spotify.com/album/6QBosNPYOQdUwK4ZAOH9fE"
-      },
-      "artists": [
-        {
-          "name": "MC \u5f35\u5929\u8ce6",
-          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
-        }
-      ],
-      "duration_ms": 249136,
-      "name": "\u8aaa\u8b0a\u8005",
-      "url": "https://open.spotify.com/track/3SRtsmJwnR6rFnRauWV6ne"
-    },
-    {
-      "added_at": "2026-10-10 14:00:10",
+      "added_at": "2026-10-11 13:39:16",
       "album": {
         "name": "\u8a18\u61b6\u68c9",
         "url": "https://open.spotify.com/album/6uWrUpmYlVSBmJ6RkCW4QE"
@@ -317,103 +285,7 @@
       "url": "https://open.spotify.com/track/1ZrnCyms7CBYsCvkkVIkt8"
     },
     {
-      "added_at": "2026-10-10 14:00:10",
-      "album": {
-        "name": "Life In Music (\u65b0\u66f2+\u7cbe\u9078)",
-        "url": "https://open.spotify.com/album/6JrHt5HysRyFc6WC561LcS"
-      },
-      "artists": [
-        {
-          "name": "Andy Hui",
-          "url": "https://open.spotify.com/artist/1q8BvOdpOtapWOIgO26sOn"
-        }
-      ],
-      "duration_ms": 266013,
-      "name": "\u6628\u9072\u4eba",
-      "url": "https://open.spotify.com/track/5E6KZyyZ54RETXYEDeqq94"
-    },
-    {
-      "added_at": "2026-10-10 14:00:10",
-      "album": {
-        "name": "\u967d\u5149\u666e\u7167",
-        "url": "https://open.spotify.com/album/2mHNSGINVl2s3hk4NXVv8H"
-      },
-      "artists": [
-        {
-          "name": "Joey Yung",
-          "url": "https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA"
-        }
-      ],
-      "duration_ms": 195755,
-      "name": "\u967d\u5149\u666e\u7167",
-      "url": "https://open.spotify.com/track/60oVYVR5bZ5DYp7f2E9zYn"
-    },
-    {
-      "added_at": "2026-10-10 14:00:10",
-      "album": {
-        "name": "\u5074\u7530",
-        "url": "https://open.spotify.com/album/5Hk2Nep8JUWkvk1cPX9qC8"
-      },
-      "artists": [
-        {
-          "name": "Justin Lo",
-          "url": "https://open.spotify.com/artist/3lva01D3HtmlEKjuxAZ7bC"
-        }
-      ],
-      "duration_ms": 217013,
-      "name": "\u547d\u786c",
-      "url": "https://open.spotify.com/track/331aol4yMUVA93MsVBZV9R"
-    },
-    {
-      "added_at": "2026-10-10 14:00:10",
-      "album": {
-        "name": "Movin' On",
-        "url": "https://open.spotify.com/album/7nHF8Dnh6gK9vnwXvpNcnp"
-      },
-      "artists": [
-        {
-          "name": "Shiga Lin",
-          "url": "https://open.spotify.com/artist/5Uw3hCC51pNjdsD2MOs72K"
-        }
-      ],
-      "duration_ms": 261571,
-      "name": "\u5230\u6b64\u70ba\u6b62",
-      "url": "https://open.spotify.com/track/0hKkGlDhaef5OPrXfc8Idx"
-    },
-    {
-      "added_at": "2026-10-10 14:00:10",
-      "album": {
-        "name": "This is MC",
-        "url": "https://open.spotify.com/album/34BPcfbDQkYaJLrCgrEwYx"
-      },
-      "artists": [
-        {
-          "name": "MC \u5f35\u5929\u8ce6",
-          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
-        }
-      ],
-      "duration_ms": 263133,
-      "name": "\u4e16\u4e00",
-      "url": "https://open.spotify.com/track/3IxGmKdOkv7tgMCzyKF2Xm"
-    },
-    {
-      "added_at": "2026-10-10 14:00:10",
-      "album": {
-        "name": "\u6dfa\u7c89\u7d05",
-        "url": "https://open.spotify.com/album/2uba9qMeStHlwXLbUu0PYj"
-      },
-      "artists": [
-        {
-          "name": "Gareth.T",
-          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
-        }
-      ],
-      "duration_ms": 232319,
-      "name": "\u6dfa\u7c89\u7d05 baby pink",
-      "url": "https://open.spotify.com/track/4S90MYCimsVK6C6o3UAnro"
-    },
-    {
-      "added_at": "2026-10-10 14:00:10",
+      "added_at": "2026-10-11 13:39:16",
       "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ"
@@ -429,10 +301,10 @@
       "url": "https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ"
     },
     {
-      "added_at": "2026-10-10 14:00:10",
+      "added_at": "2026-10-11 13:39:16",
       "album": {
-        "name": "\u7537\u4eba\u600e\u53ef\u4ee5",
-        "url": "https://open.spotify.com/album/7L7mQJGSbFFu9HEwHiQ1os"
+        "name": "\u672a\u6df1\u5165\u4f46\u4e86\u89e3",
+        "url": "https://open.spotify.com/album/6ccMGTUqbYc5ouYsS9wYjv"
       },
       "artists": [
         {
@@ -440,12 +312,44 @@
           "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
         }
       ],
-      "duration_ms": 256014,
-      "name": "\u7537\u4eba\u600e\u53ef\u4ee5",
-      "url": "https://open.spotify.com/track/7M0ZCvE0HcikCJUy4cTsAF"
+      "duration_ms": 181619,
+      "name": "\u672a\u6df1\u5165\u4f46\u4e86\u89e3",
+      "url": "https://open.spotify.com/track/0r0VLsvWv7jo2HGfvlt5xh"
     },
     {
-      "added_at": "2026-10-10 14:00:10",
+      "added_at": "2026-10-11 13:39:16",
+      "album": {
+        "name": "Sweet & Sour",
+        "url": "https://open.spotify.com/album/6QBosNPYOQdUwK4ZAOH9fE"
+      },
+      "artists": [
+        {
+          "name": "MC \u5f35\u5929\u8ce6",
+          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
+        }
+      ],
+      "duration_ms": 249136,
+      "name": "\u8aaa\u8b0a\u8005",
+      "url": "https://open.spotify.com/track/3SRtsmJwnR6rFnRauWV6ne"
+    },
+    {
+      "added_at": "2026-10-11 13:39:16",
+      "album": {
+        "name": "Movin' On",
+        "url": "https://open.spotify.com/album/7nHF8Dnh6gK9vnwXvpNcnp"
+      },
+      "artists": [
+        {
+          "name": "Shiga Lin",
+          "url": "https://open.spotify.com/artist/5Uw3hCC51pNjdsD2MOs72K"
+        }
+      ],
+      "duration_ms": 261571,
+      "name": "\u5230\u6b64\u70ba\u6b62",
+      "url": "https://open.spotify.com/track/0hKkGlDhaef5OPrXfc8Idx"
+    },
+    {
+      "added_at": "2026-10-11 13:39:16",
       "album": {
         "name": "MAYHEM",
         "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
@@ -465,71 +369,7 @@
       "url": "https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ"
     },
     {
-      "added_at": "2026-10-10 14:00:10",
-      "album": {
-        "name": "Kingdom",
-        "url": "https://open.spotify.com/album/6dNVF5odkyzZnks0MKska4"
-      },
-      "artists": [
-        {
-          "name": "Anson Lo \u76e7\u701a\u9706",
-          "url": "https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7"
-        }
-      ],
-      "duration_ms": 231535,
-      "name": "Gimme Gimme",
-      "url": "https://open.spotify.com/track/39ExV9Bb9I07obU2GEvebh"
-    },
-    {
-      "added_at": "2026-10-10 14:00:10",
-      "album": {
-        "name": "\u56db",
-        "url": "https://open.spotify.com/album/1VVjgSImZqAgiEefynSjhc"
-      },
-      "artists": [
-        {
-          "name": "\u9673\u5353\u8ce2 Ian",
-          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "\u56db",
-      "url": "https://open.spotify.com/track/0Mdym6sYES65bYALdGQJE4"
-    },
-    {
-      "added_at": "2026-10-10 14:00:10",
-      "album": {
-        "name": "\u81ea\u7531\u7684\u4f60",
-        "url": "https://open.spotify.com/album/6a7wyq3SNMhGrtYfWdGU4M"
-      },
-      "artists": [
-        {
-          "name": "G.E.M.",
-          "url": "https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI"
-        }
-      ],
-      "duration_ms": 296900,
-      "name": "\u81ea\u7531\u7684\u4f60",
-      "url": "https://open.spotify.com/track/2a3CGolEag3y3weurGvkLV"
-    },
-    {
-      "added_at": "2026-10-10 14:00:10",
-      "album": {
-        "name": "\u2f24\u6578\u64da\u4ee5\u70ba\u6211\u9084\u611b\u4f60",
-        "url": "https://open.spotify.com/album/2aRAPyR9Dij9r9bOKuwFC3"
-      },
-      "artists": [
-        {
-          "name": "Zpecial",
-          "url": "https://open.spotify.com/artist/56Ac1JJiopOrWDuRIb330x"
-        }
-      ],
-      "duration_ms": 236574,
-      "name": "\u2f24\u6578\u64da\u4ee5\u70ba\u6211\u9084\u611b\u4f60",
-      "url": "https://open.spotify.com/track/3rmuXslHhKytFULrHMlXCX"
-    },
-    {
-      "added_at": "2026-10-10 14:00:10",
+      "added_at": "2026-10-11 13:39:16",
       "album": {
         "name": "This is MC",
         "url": "https://open.spotify.com/album/34BPcfbDQkYaJLrCgrEwYx"
@@ -540,79 +380,15 @@
           "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
         }
       ],
-      "duration_ms": 223950,
-      "name": "\u8001\u6d3e\u7d04\u6703\u4e4b\u5fc5\u8981",
-      "url": "https://open.spotify.com/track/3x2hKSUf8O8IqI1shmxGnp"
+      "duration_ms": 263133,
+      "name": "\u4e16\u4e00",
+      "url": "https://open.spotify.com/track/3IxGmKdOkv7tgMCzyKF2Xm"
     },
     {
-      "added_at": "2026-10-10 14:00:10",
+      "added_at": "2026-10-11 13:39:16",
       "album": {
-        "name": "Sweet & Sour",
-        "url": "https://open.spotify.com/album/6QBosNPYOQdUwK4ZAOH9fE"
-      },
-      "artists": [
-        {
-          "name": "MC \u5f35\u5929\u8ce6",
-          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
-        }
-      ],
-      "duration_ms": 269118,
-      "name": "\u61f7\u7591\u4eba\u751f",
-      "url": "https://open.spotify.com/track/64DtUTH1ZtBURnXIDzBzx1"
-    },
-    {
-      "added_at": "2026-10-10 14:00:10",
-      "album": {
-        "name": "The Life of a Showgirl: The Encore",
-        "url": "https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 225868,
-      "name": "Patient Zero",
-      "url": "https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub"
-    },
-    {
-      "added_at": "2026-10-10 14:00:10",
-      "album": {
-        "name": "\u6212\u7cd6\u5931\u6557",
-        "url": "https://open.spotify.com/album/5D6Pxis4xCOApJpzaAJuVG"
-      },
-      "artists": [
-        {
-          "name": "Kaho Hung",
-          "url": "https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh"
-        }
-      ],
-      "duration_ms": 239546,
-      "name": "\u6212\u7cd6\u5931\u6557",
-      "url": "https://open.spotify.com/track/5iuDkzOm45gwYkSmk4t0bN"
-    },
-    {
-      "added_at": "2026-10-10 14:00:10",
-      "album": {
-        "name": "Binary",
-        "url": "https://open.spotify.com/album/7q9eYKUnxlErGoPA2OKZyC"
-      },
-      "artists": [
-        {
-          "name": "Kay Tse",
-          "url": "https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9"
-        }
-      ],
-      "duration_ms": 211720,
-      "name": "\u56cd\u5e16\u8857",
-      "url": "https://open.spotify.com/track/3hU9nGBhYJQwvF8BJ4PUcE"
-    },
-    {
-      "added_at": "2026-10-10 14:00:10",
-      "album": {
-        "name": "\u73bb\u7483",
-        "url": "https://open.spotify.com/album/1MCcGh977wVc1i7h4qXoPy"
+        "name": "\u6dfa\u7c89\u7d05",
+        "url": "https://open.spotify.com/album/2uba9qMeStHlwXLbUu0PYj"
       },
       "artists": [
         {
@@ -620,96 +396,60 @@
           "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
         }
       ],
-      "duration_ms": 185040,
-      "name": "\u73bb\u7483",
-      "url": "https://open.spotify.com/track/4lZVYNSHy3bKN1pqTxw9Zl"
+      "duration_ms": 232319,
+      "name": "\u6dfa\u7c89\u7d05 baby pink",
+      "url": "https://open.spotify.com/track/4S90MYCimsVK6C6o3UAnro"
     },
     {
-      "added_at": "2026-10-10 14:00:10",
+      "added_at": "2026-10-11 13:39:16",
       "album": {
-        "name": "petal",
-        "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
+        "name": "\u5074\u7530",
+        "url": "https://open.spotify.com/album/5Hk2Nep8JUWkvk1cPX9qC8"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "Justin Lo",
+          "url": "https://open.spotify.com/artist/3lva01D3HtmlEKjuxAZ7bC"
         }
       ],
-      "duration_ms": 197949,
-      "name": "hate that i made you love me",
-      "url": "https://open.spotify.com/track/3iy2QuCtCzpWnR6tia39AB"
+      "duration_ms": 217013,
+      "name": "\u547d\u786c",
+      "url": "https://open.spotify.com/track/331aol4yMUVA93MsVBZV9R"
     },
     {
-      "added_at": "2026-10-10 14:00:10",
+      "added_at": "2026-10-11 13:39:16",
       "album": {
-        "name": "CRASH",
-        "url": "https://open.spotify.com/album/7IwdRxcKXuVOCRJmtTGb7S"
+        "name": "\u7537\u4eba\u600e\u53ef\u4ee5",
+        "url": "https://open.spotify.com/album/7L7mQJGSbFFu9HEwHiQ1os"
       },
       "artists": [
         {
-          "name": "ALLDAY PROJECT",
-          "url": "https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2"
+          "name": "MC \u5f35\u5929\u8ce6",
+          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
         }
       ],
-      "duration_ms": 172978,
-      "name": "CRASH",
-      "url": "https://open.spotify.com/track/1hXVB56zx5oM7KUJsFRTxy"
+      "duration_ms": 256014,
+      "name": "\u7537\u4eba\u600e\u53ef\u4ee5",
+      "url": "https://open.spotify.com/track/7M0ZCvE0HcikCJUy4cTsAF"
     },
     {
-      "added_at": "2026-10-10 14:00:10",
+      "added_at": "2026-10-11 13:39:16",
       "album": {
-        "name": "PRIMA",
-        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
+        "name": "\u967d\u5149\u666e\u7167",
+        "url": "https://open.spotify.com/album/2mHNSGINVl2s3hk4NXVv8H"
       },
       "artists": [
         {
-          "name": "AD\u00c9LA",
-          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+          "name": "Joey Yung",
+          "url": "https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA"
         }
       ],
-      "duration_ms": 184927,
-      "name": "Ain't In LA",
-      "url": "https://open.spotify.com/track/6U9VpmP3dEinuezxCJ2Zg9"
+      "duration_ms": 195755,
+      "name": "\u967d\u5149\u666e\u7167",
+      "url": "https://open.spotify.com/track/60oVYVR5bZ5DYp7f2E9zYn"
     },
     {
-      "added_at": "2026-10-10 14:00:10",
-      "album": {
-        "name": "GOLDEN",
-        "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
-      },
-      "artists": [
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 183550,
-      "name": "Seven (feat. Latto) (Explicit Ver.)",
-      "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
-    },
-    {
-      "added_at": "2026-10-10 14:00:10",
-      "album": {
-        "name": "Inner l Child",
-        "url": "https://open.spotify.com/album/1acqgOtA58NJJsMi7315ds"
-      },
-      "artists": [
-        {
-          "name": "Kaho Hung",
-          "url": "https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh"
-        }
-      ],
-      "duration_ms": 219385,
-      "name": "\u9ed1\u73bb\u7483",
-      "url": "https://open.spotify.com/track/65TyCkIJtF8hDF599vCXwe"
-    },
-    {
-      "added_at": "2026-10-10 14:00:10",
+      "added_at": "2026-10-11 13:39:16",
       "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN"
@@ -729,39 +469,7 @@
       "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
     },
     {
-      "added_at": "2026-10-10 14:00:10",
-      "album": {
-        "name": "Radical Optimism",
-        "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 209487,
-      "name": "Training Season",
-      "url": "https://open.spotify.com/track/5b5cPscqVEMChvDqscVw26"
-    },
-    {
-      "added_at": "2026-10-10 14:00:10",
-      "album": {
-        "name": "Stat UP",
-        "url": "https://open.spotify.com/album/1fFP9aBmo9sSVQXQK5wTqd"
-      },
-      "artists": [
-        {
-          "name": "Wilfred Lau",
-          "url": "https://open.spotify.com/artist/6Vfc2kpU520XHaSRDRdNCG"
-        }
-      ],
-      "duration_ms": 205933,
-      "name": "\u601d\u89ba\u5931\u8abf",
-      "url": "https://open.spotify.com/track/3H9gYJcdtqeUiM8WX8YrZz"
-    },
-    {
-      "added_at": "2026-10-10 14:00:10",
+      "added_at": "2026-10-11 13:39:16",
       "album": {
         "name": "The Astronaut",
         "url": "https://open.spotify.com/album/6nT2VfGN07ar1vdZyJY6ox"
@@ -777,39 +485,239 @@
       "url": "https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2"
     },
     {
-      "added_at": "2026-10-10 14:00:10",
+      "added_at": "2026-10-11 13:39:16",
       "album": {
-        "name": "No Protection",
-        "url": "https://open.spotify.com/album/4U2vBvv8vEqVb8MG1s9tON"
+        "name": "This is MC",
+        "url": "https://open.spotify.com/album/34BPcfbDQkYaJLrCgrEwYx"
       },
       "artists": [
         {
-          "name": "Justin Lo",
-          "url": "https://open.spotify.com/artist/3lva01D3HtmlEKjuxAZ7bC"
+          "name": "MC \u5f35\u5929\u8ce6",
+          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
         }
       ],
-      "duration_ms": 249266,
-      "name": "\u7f8e\u9e97\u4e4b\u6700",
-      "url": "https://open.spotify.com/track/0Iz6uTneQ9aVAAEveG3ORL"
+      "duration_ms": 223950,
+      "name": "\u8001\u6d3e\u7d04\u6703\u4e4b\u5fc5\u8981",
+      "url": "https://open.spotify.com/track/3x2hKSUf8O8IqI1shmxGnp"
     },
     {
-      "added_at": "2026-10-10 14:00:10",
+      "added_at": "2026-10-11 13:39:16",
       "album": {
-        "name": "Goodnight, Lillie.",
-        "url": "https://open.spotify.com/album/0kFPWqhXlXqg6wffRY78IR"
+        "name": "\u73bb\u7483",
+        "url": "https://open.spotify.com/album/1MCcGh977wVc1i7h4qXoPy"
       },
       "artists": [
         {
-          "name": "\u665a\u5b89\u8389\u8389",
-          "url": "https://open.spotify.com/artist/5QGALLXDjpaWbNlw4NL8gj"
+          "name": "Gareth.T",
+          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
         }
       ],
-      "duration_ms": 244054,
-      "name": "\u6211\u770b\u898b\u4eca\u665a\u7684\u6708\u8272\u5f88\u7f8e\uff0c\u4f60\u5462\uff1f",
-      "url": "https://open.spotify.com/track/0m6n3IqumWw9HVEDo930CZ"
+      "duration_ms": 185040,
+      "name": "\u73bb\u7483",
+      "url": "https://open.spotify.com/track/4lZVYNSHy3bKN1pqTxw9Zl"
     },
     {
-      "added_at": "2026-10-10 14:00:10",
+      "added_at": "2026-10-11 13:39:16",
+      "album": {
+        "name": "Kingdom",
+        "url": "https://open.spotify.com/album/6dNVF5odkyzZnks0MKska4"
+      },
+      "artists": [
+        {
+          "name": "Anson Lo \u76e7\u701a\u9706",
+          "url": "https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7"
+        }
+      ],
+      "duration_ms": 231535,
+      "name": "Gimme Gimme",
+      "url": "https://open.spotify.com/track/39ExV9Bb9I07obU2GEvebh"
+    },
+    {
+      "added_at": "2026-10-11 13:39:16",
+      "album": {
+        "name": "\u56db",
+        "url": "https://open.spotify.com/album/1VVjgSImZqAgiEefynSjhc"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u5353\u8ce2 Ian",
+          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "\u56db",
+      "url": "https://open.spotify.com/track/0Mdym6sYES65bYALdGQJE4"
+    },
+    {
+      "added_at": "2026-10-11 13:39:16",
+      "album": {
+        "name": "PRIMA",
+        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "duration_ms": 184927,
+      "name": "Ain't In LA",
+      "url": "https://open.spotify.com/track/6U9VpmP3dEinuezxCJ2Zg9"
+    },
+    {
+      "added_at": "2026-10-11 13:39:16",
+      "album": {
+        "name": "petal",
+        "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 197949,
+      "name": "hate that i made you love me",
+      "url": "https://open.spotify.com/track/3iy2QuCtCzpWnR6tia39AB"
+    },
+    {
+      "added_at": "2026-10-11 13:39:16",
+      "album": {
+        "name": "Sweet & Sour",
+        "url": "https://open.spotify.com/album/6QBosNPYOQdUwK4ZAOH9fE"
+      },
+      "artists": [
+        {
+          "name": "MC \u5f35\u5929\u8ce6",
+          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
+        }
+      ],
+      "duration_ms": 269118,
+      "name": "\u61f7\u7591\u4eba\u751f",
+      "url": "https://open.spotify.com/track/64DtUTH1ZtBURnXIDzBzx1"
+    },
+    {
+      "added_at": "2026-10-11 13:39:16",
+      "album": {
+        "name": "Winter Ahead (with PARK HYO SHIN)",
+        "url": "https://open.spotify.com/album/4sfwHIxFU5kcDqSdMENQsy"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        },
+        {
+          "name": "Park Hyo Shin",
+          "url": "https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj"
+        }
+      ],
+      "duration_ms": 234895,
+      "name": "Winter Ahead (with PARK HYO SHIN)",
+      "url": "https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9"
+    },
+    {
+      "added_at": "2026-10-11 13:39:16",
+      "album": {
+        "name": "Binary",
+        "url": "https://open.spotify.com/album/7q9eYKUnxlErGoPA2OKZyC"
+      },
+      "artists": [
+        {
+          "name": "Kay Tse",
+          "url": "https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9"
+        }
+      ],
+      "duration_ms": 211720,
+      "name": "\u56cd\u5e16\u8857",
+      "url": "https://open.spotify.com/track/3hU9nGBhYJQwvF8BJ4PUcE"
+    },
+    {
+      "added_at": "2026-10-11 13:39:16",
+      "album": {
+        "name": "GOLDEN",
+        "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 183550,
+      "name": "Seven (feat. Latto) (Explicit Ver.)",
+      "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
+    },
+    {
+      "added_at": "2026-10-11 13:39:16",
+      "album": {
+        "name": "Stat UP",
+        "url": "https://open.spotify.com/album/1fFP9aBmo9sSVQXQK5wTqd"
+      },
+      "artists": [
+        {
+          "name": "Wilfred Lau",
+          "url": "https://open.spotify.com/artist/6Vfc2kpU520XHaSRDRdNCG"
+        }
+      ],
+      "duration_ms": 205933,
+      "name": "\u601d\u89ba\u5931\u8abf",
+      "url": "https://open.spotify.com/track/3H9gYJcdtqeUiM8WX8YrZz"
+    },
+    {
+      "added_at": "2026-10-11 13:39:16",
+      "album": {
+        "name": "Inner l Child",
+        "url": "https://open.spotify.com/album/1acqgOtA58NJJsMi7315ds"
+      },
+      "artists": [
+        {
+          "name": "Kaho Hung",
+          "url": "https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh"
+        }
+      ],
+      "duration_ms": 219385,
+      "name": "\u9ed1\u73bb\u7483",
+      "url": "https://open.spotify.com/track/65TyCkIJtF8hDF599vCXwe"
+    },
+    {
+      "added_at": "2026-10-11 13:39:16",
+      "album": {
+        "name": "\u2f24\u6578\u64da\u4ee5\u70ba\u6211\u9084\u611b\u4f60",
+        "url": "https://open.spotify.com/album/2aRAPyR9Dij9r9bOKuwFC3"
+      },
+      "artists": [
+        {
+          "name": "Zpecial",
+          "url": "https://open.spotify.com/artist/56Ac1JJiopOrWDuRIb330x"
+        }
+      ],
+      "duration_ms": 236574,
+      "name": "\u2f24\u6578\u64da\u4ee5\u70ba\u6211\u9084\u611b\u4f60",
+      "url": "https://open.spotify.com/track/3rmuXslHhKytFULrHMlXCX"
+    },
+    {
+      "added_at": "2026-10-11 13:39:16",
+      "album": {
+        "name": "On My Story",
+        "url": "https://open.spotify.com/album/3IG8frZ9jDCbxCUUZbCvA2"
+      },
+      "artists": [
+        {
+          "name": "Andy Hui",
+          "url": "https://open.spotify.com/artist/1q8BvOdpOtapWOIgO26sOn"
+        }
+      ],
+      "duration_ms": 210280,
+      "name": "\u4e00\u6b65\u4e00\u751f",
+      "url": "https://open.spotify.com/track/3KX0nFmTrl722UBcrS1CV6"
+    },
+    {
+      "added_at": "2026-10-11 13:39:16",
       "album": {
         "name": "What's Going On...?",
         "url": "https://open.spotify.com/album/1dtg7IOdq2Q6zA4nIJ5Qsk"
@@ -823,6 +731,102 @@
       "duration_ms": 259133,
       "name": "\u5bcc\u58eb\u5c71\u4e0b",
       "url": "https://open.spotify.com/track/3cthRwQ2X0SNTaauD7tjn5"
+    },
+    {
+      "added_at": "2026-10-11 13:39:16",
+      "album": {
+        "name": "CRASH",
+        "url": "https://open.spotify.com/album/7IwdRxcKXuVOCRJmtTGb7S"
+      },
+      "artists": [
+        {
+          "name": "ALLDAY PROJECT",
+          "url": "https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2"
+        }
+      ],
+      "duration_ms": 172978,
+      "name": "CRASH",
+      "url": "https://open.spotify.com/track/1hXVB56zx5oM7KUJsFRTxy"
+    },
+    {
+      "added_at": "2026-10-11 13:39:16",
+      "album": {
+        "name": "The Life of a Showgirl: The Encore",
+        "url": "https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 225868,
+      "name": "Patient Zero",
+      "url": "https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub"
+    },
+    {
+      "added_at": "2026-10-11 13:39:16",
+      "album": {
+        "name": "Radical Optimism",
+        "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 209487,
+      "name": "Training Season",
+      "url": "https://open.spotify.com/track/5b5cPscqVEMChvDqscVw26"
+    },
+    {
+      "added_at": "2026-10-11 13:39:16",
+      "album": {
+        "name": "\u6212\u7cd6\u5931\u6557",
+        "url": "https://open.spotify.com/album/5D6Pxis4xCOApJpzaAJuVG"
+      },
+      "artists": [
+        {
+          "name": "Kaho Hung",
+          "url": "https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh"
+        }
+      ],
+      "duration_ms": 239546,
+      "name": "\u6212\u7cd6\u5931\u6557",
+      "url": "https://open.spotify.com/track/5iuDkzOm45gwYkSmk4t0bN"
+    },
+    {
+      "added_at": "2026-10-11 13:39:16",
+      "album": {
+        "name": "On Hits",
+        "url": "https://open.spotify.com/album/1xgpuUCtXFhGXsA1JHYvYl"
+      },
+      "artists": [
+        {
+          "name": "Andy Hui",
+          "url": "https://open.spotify.com/artist/1q8BvOdpOtapWOIgO26sOn"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "\u721b\u6ce5",
+      "url": "https://open.spotify.com/track/0hC9HupMhDpbMgA3QXx8JZ"
+    },
+    {
+      "added_at": "2026-10-11 13:39:16",
+      "album": {
+        "name": "Sweet Boy",
+        "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "duration_ms": 151500,
+      "name": "Earrings",
+      "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
     }
   ],
   "unique_name": "Top 50 - Hong Kong",

@@ -2663,6 +2663,32 @@
     },
     {
       "album": {
+        "name": "Bir Dakika Dur",
+        "url": "https://open.spotify.com/album/2FuYCiAeXZTTVTSGpZdOol"
+      },
+      "artists": [
+        {
+          "name": "Sinan Ak\u00e7\u0131l",
+          "url": "https://open.spotify.com/artist/31czVneIywpUwJTNOVviJx"
+        },
+        {
+          "name": "Sevgim Y\u0131lmaz",
+          "url": "https://open.spotify.com/artist/1oh1jFXcJYVg7g1E2Yb3PO"
+        },
+        {
+          "name": "B\u00fcken",
+          "url": "https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160389,
+      "name": "Bir Dakika Dur",
+      "url": "https://open.spotify.com/track/0IvwU5QR2fM3lXlVPuzM1r"
+    },
+    {
+      "album": {
         "name": "Bir Ev Vard\u0131",
         "url": "https://open.spotify.com/album/2ujewzFJr8bycfOSvSSoqh"
       },
@@ -9304,7 +9330,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 190593,
       "name": "NERDEYD\u0130N DE",
       "url": "https://open.spotify.com/track/60y3mXqJxzdUzeBxTdujnb"
@@ -9482,7 +9508,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-10",
+      "date_removed": null,
       "duration_ms": 267750,
       "name": "O Beni S\u0131rt\u0131mdan Vurdu - Akustik",
       "url": "https://open.spotify.com/track/7FCvpTxPxUFQjCxpUgoOb5"
@@ -10902,7 +10928,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 178666,
       "name": "Sev Seveceksen",
       "url": "https://open.spotify.com/track/6WUrBOSZKPjtTU1DWCkUwn"

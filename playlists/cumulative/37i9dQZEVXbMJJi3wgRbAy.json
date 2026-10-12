@@ -23683,6 +23683,32 @@
     },
     {
       "album": {
+        "name": "Salimo del Tarro (Versi\u00f3n Plena)",
+        "url": "https://open.spotify.com/album/7tIaPaMjui02FwRKL5kQrx"
+      },
+      "artists": [
+        {
+          "name": "Juanjo Morgade",
+          "url": "https://open.spotify.com/artist/2WZW6Gsj5R7JlRNFikJvPE"
+        },
+        {
+          "name": "Nickoog Clk",
+          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
+        },
+        {
+          "name": "ONE PLAY",
+          "url": "https://open.spotify.com/artist/6L2DyVdMndLfvkAelI8vFe"
+        }
+      ],
+      "date_added": "2026-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139264,
+      "name": "Salimo del Tarro - Versi\u00f3n Plena",
+      "url": "https://open.spotify.com/track/7qjhzCIOFHAF0m2HxW7Tnu"
+    },
+    {
+      "album": {
         "name": "Salimo en Caravana",
         "url": "https://open.spotify.com/album/3mPvZKCGcj2QVzVARmZUEz"
       },
@@ -31632,7 +31658,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 216506,
       "name": "\u2060LUCES DE COLORES",
       "url": "https://open.spotify.com/track/5dDlknAL9imbXXl7uG7oqe"

@@ -1,6 +1,6 @@
 {
   "description": "Ingenting peppar en under ett tr\u00e4ningspass som riktigt bra musik.",
-  "num_followers": 134367,
+  "num_followers": 134371,
   "original_name": "Peppl\u00e5tar till tr\u00e4ningspasset",
   "owner": {
     "name": "Spotify",
@@ -271,18 +271,18 @@
     {
       "added_at": "2026-10-05 09:53:11",
       "album": {
-        "name": "The Album",
-        "url": "https://open.spotify.com/album/5YOPNlihunDoAew2Jlbbd7"
+        "name": "The Age of Consent",
+        "url": "https://open.spotify.com/album/6OMYQUITdN6wBaWfEtgooI"
       },
       "artists": [
         {
-          "name": "Haddaway",
-          "url": "https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma"
+          "name": "Bronski Beat",
+          "url": "https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08"
         }
       ],
-      "duration_ms": 270373,
-      "name": "What Is Love - 7\" Mix",
-      "url": "https://open.spotify.com/track/0OTO8ZF2YqFQVw9hnZylTd"
+      "duration_ms": 302413,
+      "name": "Smalltown Boy",
+      "url": "https://open.spotify.com/track/5vmRQ3zELMLUQPo2FLQ76x"
     },
     {
       "added_at": "2026-10-05 09:53:11",
@@ -303,18 +303,18 @@
     {
       "added_at": "2026-10-05 09:53:11",
       "album": {
-        "name": "The Age of Consent",
-        "url": "https://open.spotify.com/album/6OMYQUITdN6wBaWfEtgooI"
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/5YOPNlihunDoAew2Jlbbd7"
       },
       "artists": [
         {
-          "name": "Bronski Beat",
-          "url": "https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08"
+          "name": "Haddaway",
+          "url": "https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma"
         }
       ],
-      "duration_ms": 302413,
-      "name": "Smalltown Boy",
-      "url": "https://open.spotify.com/track/5vmRQ3zELMLUQPo2FLQ76x"
+      "duration_ms": 270373,
+      "name": "What Is Love - 7\" Mix",
+      "url": "https://open.spotify.com/track/0OTO8ZF2YqFQVw9hnZylTd"
     },
     {
       "added_at": "2026-10-05 09:53:11",
@@ -931,6 +931,22 @@
     {
       "added_at": "2026-10-05 09:53:11",
       "album": {
+        "name": "Pocket Full Of Kryptonite",
+        "url": "https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK"
+      },
+      "artists": [
+        {
+          "name": "Spin Doctors",
+          "url": "https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m"
+        }
+      ],
+      "duration_ms": 256733,
+      "name": "Two Princes",
+      "url": "https://open.spotify.com/track/4ePP9So5xRzspjLFVVbj90"
+    },
+    {
+      "added_at": "2026-10-05 09:53:11",
+      "album": {
         "name": "Your Love (9PM)",
         "url": "https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 150052,
       "name": "Your Love (9PM)",
       "url": "https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx"
-    },
-    {
-      "added_at": "2026-10-05 09:53:11",
-      "album": {
-        "name": "Pocket Full Of Kryptonite",
-        "url": "https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK"
-      },
-      "artists": [
-        {
-          "name": "Spin Doctors",
-          "url": "https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m"
-        }
-      ],
-      "duration_ms": 256733,
-      "name": "Two Princes",
-      "url": "https://open.spotify.com/track/4ePP9So5xRzspjLFVVbj90"
     },
     {
       "added_at": "2026-10-05 09:53:11",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-10-05 09:53:11",
       "album": {
-        "name": "Tarpeia",
-        "url": "https://open.spotify.com/album/2ckPp0V20I5lKZ6pKWuhpf"
-      },
-      "artists": [
-        {
-          "name": "Paradisio",
-          "url": "https://open.spotify.com/artist/0FfjCldzckJBQNsnQyMJmb"
-        }
-      ],
-      "duration_ms": 229333,
-      "name": "Bailando",
-      "url": "https://open.spotify.com/track/6PwbVXIomkvk4YcafiOc6i"
-    },
-    {
-      "added_at": "2026-10-05 09:53:11",
-      "album": {
         "name": "The Bridge",
         "url": "https://open.spotify.com/album/5BOX6g9aOGf0yh7OEkzen3"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 221186,
       "name": "Beautiful Life",
       "url": "https://open.spotify.com/track/74jTexO94dFGyXGyeu8krd"
+    },
+    {
+      "added_at": "2026-10-05 09:53:11",
+      "album": {
+        "name": "Tarpeia",
+        "url": "https://open.spotify.com/album/2ckPp0V20I5lKZ6pKWuhpf"
+      },
+      "artists": [
+        {
+          "name": "Paradisio",
+          "url": "https://open.spotify.com/artist/0FfjCldzckJBQNsnQyMJmb"
+        }
+      ],
+      "duration_ms": 229333,
+      "name": "Bailando",
+      "url": "https://open.spotify.com/track/6PwbVXIomkvk4YcafiOc6i"
     },
     {
       "added_at": "2026-10-05 09:53:11",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-10-05 09:53:11",
       "album": {
-        "name": "You've Come a Long Way Baby",
-        "url": "https://open.spotify.com/album/0J43YxxLFPZxIrCd12LRuN"
-      },
-      "artists": [
-        {
-          "name": "Fatboy Slim",
-          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
-        }
-      ],
-      "duration_ms": 413880,
-      "name": "The Rockafeller Skank",
-      "url": "https://open.spotify.com/track/5AgCO3dc2kuSicCsw09YCA"
-    },
-    {
-      "added_at": "2026-10-05 09:53:11",
-      "album": {
         "name": "One Love",
         "url": "https://open.spotify.com/album/3hJI8ryjrsmUULkOXtV1IU"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 240933,
       "name": "Sing Hallelujah!",
       "url": "https://open.spotify.com/track/2qjDNbgLzfBpCvDwfw11Qg"
+    },
+    {
+      "added_at": "2026-10-05 09:53:11",
+      "album": {
+        "name": "You've Come a Long Way Baby",
+        "url": "https://open.spotify.com/album/0J43YxxLFPZxIrCd12LRuN"
+      },
+      "artists": [
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        }
+      ],
+      "duration_ms": 413880,
+      "name": "The Rockafeller Skank",
+      "url": "https://open.spotify.com/track/5AgCO3dc2kuSicCsw09YCA"
     },
     {
       "added_at": "2026-10-05 09:53:11",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2026-10-05 09:53:11",
       "album": {
-        "name": "On The 6",
-        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
+        "name": "Survivor",
+        "url": "https://open.spotify.com/album/0IVseR3zfrrInlKJQNh294"
       },
       "artists": [
         {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
         }
       ],
-      "duration_ms": 246426,
-      "name": "Waiting for Tonight",
-      "url": "https://open.spotify.com/track/5yaCquc7koPqtgj7v0lwHX"
+      "duration_ms": 254040,
+      "name": "Survivor",
+      "url": "https://open.spotify.com/track/7qtAgn9mwxygsPOsUDVRRt"
     },
     {
       "added_at": "2026-10-05 09:53:11",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2026-10-05 09:53:11",
       "album": {
-        "name": "Survivor",
-        "url": "https://open.spotify.com/album/0IVseR3zfrrInlKJQNh294"
+        "name": "On The 6",
+        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
       },
       "artists": [
         {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
         }
       ],
-      "duration_ms": 254040,
-      "name": "Survivor",
-      "url": "https://open.spotify.com/track/7qtAgn9mwxygsPOsUDVRRt"
+      "duration_ms": 246426,
+      "name": "Waiting for Tonight",
+      "url": "https://open.spotify.com/track/5yaCquc7koPqtgj7v0lwHX"
     },
     {
       "added_at": "2026-10-05 09:53:11",
@@ -1431,6 +1431,26 @@
     {
       "added_at": "2026-10-05 09:53:11",
       "album": {
+        "name": "On A Day Like Today",
+        "url": "https://open.spotify.com/album/1xF1nKu3UL84l7CofB4QBV"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        },
+        {
+          "name": "Melanie C",
+          "url": "https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df"
+        }
+      ],
+      "duration_ms": 204893,
+      "name": "When You're Gone",
+      "url": "https://open.spotify.com/track/7p9dd71JR2ucoAuO1Sy0VZ"
+    },
+    {
+      "added_at": "2026-10-05 09:53:11",
+      "album": {
         "name": "Come On Over (Diamond Edition / Super Deluxe)",
         "url": "https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV"
       },
@@ -1459,26 +1479,6 @@
       "duration_ms": 173666,
       "name": "Spice Up Your Life",
       "url": "https://open.spotify.com/track/5qGwqO0lkbBXw4xNfzT7SF"
-    },
-    {
-      "added_at": "2026-10-05 09:53:11",
-      "album": {
-        "name": "On A Day Like Today",
-        "url": "https://open.spotify.com/album/1xF1nKu3UL84l7CofB4QBV"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        },
-        {
-          "name": "Melanie C",
-          "url": "https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df"
-        }
-      ],
-      "duration_ms": 204893,
-      "name": "When You're Gone",
-      "url": "https://open.spotify.com/track/7p9dd71JR2ucoAuO1Sy0VZ"
     }
   ],
   "unique_name": "Peppl\u00e5tar till tr\u00e4ningspasset",

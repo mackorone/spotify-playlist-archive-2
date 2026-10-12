@@ -1,6 +1,6 @@
 {
   "description": "Boost your energy with these dance tracks.",
-  "num_followers": 1487026,
+  "num_followers": 1487040,
   "original_name": "Beast Mode Dance",
   "owner": {
     "name": "Spotify",
@@ -75,6 +75,22 @@
     {
       "added_at": "2026-10-09 04:00:34",
       "album": {
+        "name": "On 2nite",
+        "url": "https://open.spotify.com/album/46NWiHTOxSLHBGJIT6J73N"
+      },
+      "artists": [
+        {
+          "name": "Silva Bumpa",
+          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
+        }
+      ],
+      "duration_ms": 158848,
+      "name": "On 2nite",
+      "url": "https://open.spotify.com/track/2BoSbGSp2OaDBOx5NFHkrr"
+    },
+    {
+      "added_at": "2026-10-09 04:00:34",
+      "album": {
         "name": "Free Your Mind",
         "url": "https://open.spotify.com/album/0uo2O3BcYrZJzCnHk0I0BU"
       },
@@ -95,22 +111,6 @@
       "duration_ms": 201700,
       "name": "Free Your Mind",
       "url": "https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa"
-    },
-    {
-      "added_at": "2026-10-09 04:00:34",
-      "album": {
-        "name": "On 2nite",
-        "url": "https://open.spotify.com/album/46NWiHTOxSLHBGJIT6J73N"
-      },
-      "artists": [
-        {
-          "name": "Silva Bumpa",
-          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
-        }
-      ],
-      "duration_ms": 158848,
-      "name": "On 2nite",
-      "url": "https://open.spotify.com/track/2BoSbGSp2OaDBOx5NFHkrr"
     },
     {
       "added_at": "2026-10-09 04:00:34",
@@ -283,6 +283,26 @@
     {
       "added_at": "2026-10-09 04:00:34",
       "album": {
+        "name": "Can I Ride",
+        "url": "https://open.spotify.com/album/4N2frseoAuec502jnHYCb8"
+      },
+      "artists": [
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        },
+        {
+          "name": "95 South",
+          "url": "https://open.spotify.com/artist/3vjd6YHdWCqO3MWaYbxDf0"
+        }
+      ],
+      "duration_ms": 163888,
+      "name": "Can I Ride",
+      "url": "https://open.spotify.com/track/3gXGtYT41b4FXYctdxMwCI"
+    },
+    {
+      "added_at": "2026-10-09 04:00:34",
+      "album": {
         "name": "Save My Love",
         "url": "https://open.spotify.com/album/16OQglx2ocK2F03OgmYIxh"
       },
@@ -303,26 +323,6 @@
       "duration_ms": 210404,
       "name": "Save My Love",
       "url": "https://open.spotify.com/track/5ObyGDxNWH0Uuuk3NvC5r8"
-    },
-    {
-      "added_at": "2026-10-09 04:00:34",
-      "album": {
-        "name": "Can I Ride",
-        "url": "https://open.spotify.com/album/4N2frseoAuec502jnHYCb8"
-      },
-      "artists": [
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        },
-        {
-          "name": "95 South",
-          "url": "https://open.spotify.com/artist/3vjd6YHdWCqO3MWaYbxDf0"
-        }
-      ],
-      "duration_ms": 163888,
-      "name": "Can I Ride",
-      "url": "https://open.spotify.com/track/3gXGtYT41b4FXYctdxMwCI"
     },
     {
       "added_at": "2026-10-09 04:00:34",
@@ -627,26 +627,6 @@
     {
       "added_at": "2026-10-09 04:00:34",
       "album": {
-        "name": "That's When You Know",
-        "url": "https://open.spotify.com/album/2XgEVPnq6LHLAKAIJXmlHZ"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Carter Faith",
-          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
-        }
-      ],
-      "duration_ms": 193842,
-      "name": "That's When You Know",
-      "url": "https://open.spotify.com/track/1XhItJSBxL5yKh0V0ymg6D"
-    },
-    {
-      "added_at": "2026-10-09 04:00:34",
-      "album": {
         "name": "car crash",
         "url": "https://open.spotify.com/album/1lP8AhonyWZZKNgnEcjSV0"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 160626,
       "name": "car crash",
       "url": "https://open.spotify.com/track/47z8JPQCgjtRcFqt1kUyoA"
+    },
+    {
+      "added_at": "2026-10-09 04:00:34",
+      "album": {
+        "name": "That's When You Know",
+        "url": "https://open.spotify.com/album/2XgEVPnq6LHLAKAIJXmlHZ"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Carter Faith",
+          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
+        }
+      ],
+      "duration_ms": 193842,
+      "name": "That's When You Know",
+      "url": "https://open.spotify.com/track/1XhItJSBxL5yKh0V0ymg6D"
     },
     {
       "added_at": "2026-10-09 04:00:34",
@@ -875,6 +875,30 @@
     {
       "added_at": "2026-10-09 04:00:34",
       "album": {
+        "name": "Woops",
+        "url": "https://open.spotify.com/album/7oFd9k7TkRXJh3zCPljihC"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+        },
+        {
+          "name": "Dj Bountyhunter",
+          "url": "https://open.spotify.com/artist/5yqxD8W7WnMJQZeoBU0Q66"
+        },
+        {
+          "name": "BRANDON",
+          "url": "https://open.spotify.com/artist/7HHxWuXHsKdcTbWDqqYbsY"
+        }
+      ],
+      "duration_ms": 127413,
+      "name": "Woops",
+      "url": "https://open.spotify.com/track/2q1i9lcsBPBtQRSWTu8gDp"
+    },
+    {
+      "added_at": "2026-10-09 04:00:34",
+      "album": {
         "name": "I\u2019m your girl right?",
         "url": "https://open.spotify.com/album/5zYYpY4O9KUtwnHx3jcNAX"
       },
@@ -907,30 +931,6 @@
       "duration_ms": 192209,
       "name": "Come To Life",
       "url": "https://open.spotify.com/track/0CBRDrO5BuFxmfIjOSYUaW"
-    },
-    {
-      "added_at": "2026-10-09 04:00:34",
-      "album": {
-        "name": "Woops",
-        "url": "https://open.spotify.com/album/7oFd9k7TkRXJh3zCPljihC"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas",
-          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
-        },
-        {
-          "name": "Dj Bountyhunter",
-          "url": "https://open.spotify.com/artist/5yqxD8W7WnMJQZeoBU0Q66"
-        },
-        {
-          "name": "BRANDON",
-          "url": "https://open.spotify.com/artist/7HHxWuXHsKdcTbWDqqYbsY"
-        }
-      ],
-      "duration_ms": 127413,
-      "name": "Woops",
-      "url": "https://open.spotify.com/track/2q1i9lcsBPBtQRSWTu8gDp"
     },
     {
       "added_at": "2026-10-09 04:00:34",
@@ -1151,6 +1151,26 @@
     {
       "added_at": "2026-10-09 04:00:34",
       "album": {
+        "name": "Eyes Cut Deeper (feat. In\u00e9z)",
+        "url": "https://open.spotify.com/album/2g487gVxjRBjBwhMVJ4Ldn"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "In\u00e9z",
+          "url": "https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Eyes Cut Deeper (feat. In\u00e9z)",
+      "url": "https://open.spotify.com/track/3E8WZzcp6nscGt9YvBX9MW"
+    },
+    {
+      "added_at": "2026-10-09 04:00:34",
+      "album": {
         "name": "Rumpta",
         "url": "https://open.spotify.com/album/3XnRoZiGQ4NdmHkS0Ix9Dv"
       },
@@ -1171,22 +1191,26 @@
     {
       "added_at": "2026-10-09 04:00:34",
       "album": {
-        "name": "Eyes Cut Deeper (feat. In\u00e9z)",
-        "url": "https://open.spotify.com/album/2g487gVxjRBjBwhMVJ4Ldn"
+        "name": "DANGER DANGER (feat. Skepta)",
+        "url": "https://open.spotify.com/album/7MUTu0zrGAnszw4SbT8pHx"
       },
       "artists": [
         {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
         },
         {
-          "name": "In\u00e9z",
-          "url": "https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5"
+          "name": "Solomun",
+          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Eyes Cut Deeper (feat. In\u00e9z)",
-      "url": "https://open.spotify.com/track/3E8WZzcp6nscGt9YvBX9MW"
+      "duration_ms": 180150,
+      "name": "DANGER DANGER (feat. Skepta)",
+      "url": "https://open.spotify.com/track/4PyDd3GxUijMVOdJA2IQEG"
     },
     {
       "added_at": "2026-10-09 04:00:34",
@@ -1255,30 +1279,6 @@
       "duration_ms": 220444,
       "name": "sound di alarm",
       "url": "https://open.spotify.com/track/6kNLgs7ioyGMDN027wnKng"
-    },
-    {
-      "added_at": "2026-10-09 04:00:34",
-      "album": {
-        "name": "DANGER DANGER (feat. Skepta)",
-        "url": "https://open.spotify.com/album/7MUTu0zrGAnszw4SbT8pHx"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Solomun",
-          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
-        },
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        }
-      ],
-      "duration_ms": 180150,
-      "name": "DANGER DANGER (feat. Skepta)",
-      "url": "https://open.spotify.com/track/4PyDd3GxUijMVOdJA2IQEG"
     },
     {
       "added_at": "2026-10-09 04:00:34",
@@ -1665,6 +1665,26 @@
       "url": "https://open.spotify.com/track/6ygKKiviQlrJgSOH7a3zbM"
     },
     {
+      "added_at": "2026-10-09 04:08:58",
+      "album": {
+        "name": "HARDCORE DIVA",
+        "url": "https://open.spotify.com/album/2Fin9olY1bjzCciF2KccCr"
+      },
+      "artists": [
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        },
+        {
+          "name": "Madeon",
+          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
+        }
+      ],
+      "duration_ms": 198400,
+      "name": "MOLLY TALK",
+      "url": "https://open.spotify.com/track/64zclJhMujuU4lzEUTelQo"
+    },
+    {
       "added_at": "2026-10-09 04:00:34",
       "album": {
         "name": "Feel Again",
@@ -1683,6 +1703,22 @@
       "duration_ms": 206218,
       "name": "Feel Again",
       "url": "https://open.spotify.com/track/4i9ay73aSChB8q4KeGDBIl"
+    },
+    {
+      "added_at": "2026-10-09 04:00:34",
+      "album": {
+        "name": "Got To Do",
+        "url": "https://open.spotify.com/album/20TS1WaOBsMkzH0zdOeevB"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        }
+      ],
+      "duration_ms": 169323,
+      "name": "Got To Do",
+      "url": "https://open.spotify.com/track/3JGVhjbPvMdxKqDE7NDJEK"
     },
     {
       "added_at": "2026-10-09 04:00:34",
@@ -1773,26 +1809,6 @@
       "url": "https://open.spotify.com/track/45FTnF7YPwGWFebjG8AmGO"
     },
     {
-      "added_at": "2026-10-09 04:08:58",
-      "album": {
-        "name": "HARDCORE DIVA",
-        "url": "https://open.spotify.com/album/2Fin9olY1bjzCciF2KccCr"
-      },
-      "artists": [
-        {
-          "name": "ISOxo",
-          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
-        },
-        {
-          "name": "Madeon",
-          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
-        }
-      ],
-      "duration_ms": 198400,
-      "name": "MOLLY TALK",
-      "url": "https://open.spotify.com/track/64zclJhMujuU4lzEUTelQo"
-    },
-    {
       "added_at": "2026-10-09 04:00:34",
       "album": {
         "name": "Shake That",
@@ -1827,22 +1843,6 @@
       "duration_ms": 252750,
       "name": "Big Mad Banger",
       "url": "https://open.spotify.com/track/0wqPTPnSXarmB36nnq3kJh"
-    },
-    {
-      "added_at": "2026-10-09 04:00:34",
-      "album": {
-        "name": "Got To Do",
-        "url": "https://open.spotify.com/album/20TS1WaOBsMkzH0zdOeevB"
-      },
-      "artists": [
-        {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
-        }
-      ],
-      "duration_ms": 169323,
-      "name": "Got To Do",
-      "url": "https://open.spotify.com/track/3JGVhjbPvMdxKqDE7NDJEK"
     },
     {
       "added_at": "2026-10-09 04:00:34",
@@ -1943,22 +1943,6 @@
     {
       "added_at": "2026-10-09 04:00:34",
       "album": {
-        "name": "Bigger Than Techno",
-        "url": "https://open.spotify.com/album/38gzifiSgb7tpOzpSt9OOf"
-      },
-      "artists": [
-        {
-          "name": "Lilly Palmer",
-          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
-        }
-      ],
-      "duration_ms": 168706,
-      "name": "Bigger Than Techno",
-      "url": "https://open.spotify.com/track/65pMj3fAa6GEg5kB2dJLy3"
-    },
-    {
-      "added_at": "2026-10-09 04:00:34",
-      "album": {
         "name": "stranger",
         "url": "https://open.spotify.com/album/6GjQcXNt5XqbnpaWOF9I5S"
       },
@@ -1975,6 +1959,22 @@
       "duration_ms": 148943,
       "name": "stranger",
       "url": "https://open.spotify.com/track/4tBlbT0gn97P6wJ9ZhZruK"
+    },
+    {
+      "added_at": "2026-10-09 04:00:34",
+      "album": {
+        "name": "Bigger Than Techno",
+        "url": "https://open.spotify.com/album/38gzifiSgb7tpOzpSt9OOf"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        }
+      ],
+      "duration_ms": 168706,
+      "name": "Bigger Than Techno",
+      "url": "https://open.spotify.com/track/65pMj3fAa6GEg5kB2dJLy3"
     },
     {
       "added_at": "2026-10-09 04:00:34",

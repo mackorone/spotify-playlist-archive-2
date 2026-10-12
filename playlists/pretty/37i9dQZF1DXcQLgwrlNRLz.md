@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQLgwrlNRLz.md) - [plain]
 
 > Le plus chauds d'Afrique Francophone\. Cover: Tiakola
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,368 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,403 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQLgwrlNRLz.md) - [plain]
 | 32 | [Aucune attache](https://open.spotify.com/track/3KZN01EuBoqh04jyGXpnxr) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Aucune attache](https://open.spotify.com/album/2u9Mg8knLxFwiEsALkFslI) | 2:41 |
 | 33 | [T.I.A \- A COLORS SHOW](https://open.spotify.com/track/1CBcqxqfrImhinNsC08sej) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [T.I.A \- A COLORS SHOW](https://open.spotify.com/album/5bZnJCwm9vRanQPpGbMW5B) | 3:41 |
 | 34 | [Toxic](https://open.spotify.com/track/0HpW4Sulmcr9V6ZiS0uHhf) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [Memory](https://open.spotify.com/album/3Wl2ztnOnwJALHLcxDbF2z) | 2:31 |
-| 35 | [Woman King \(T'as Capté\)](https://open.spotify.com/track/4PK87EGuXkX6fJYNj10Aqz) | [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [RÉSONANCE](https://open.spotify.com/album/3oTWVmJQnrNaRlyqiyarha) | 2:47 |
-| 36 | [Doucement](https://open.spotify.com/track/5oooP3k9wgJPSi1VL31J6Q) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Doucement](https://open.spotify.com/album/5t3kZ84tS3zxidUwy5qZaf) | 3:47 |
+| 35 | [Doucement](https://open.spotify.com/track/5oooP3k9wgJPSi1VL31J6Q) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Doucement](https://open.spotify.com/album/5t3kZ84tS3zxidUwy5qZaf) | 3:47 |
+| 36 | [Woman King \(T'as Capté\)](https://open.spotify.com/track/4PK87EGuXkX6fJYNj10Aqz) | [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [RÉSONANCE](https://open.spotify.com/album/3oTWVmJQnrNaRlyqiyarha) | 2:47 |
 | 37 | [IGBO](https://open.spotify.com/track/3v5d1SUogoec4mwuFFuls5) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [IGBO](https://open.spotify.com/album/6xwKKdz25SBmgdjnMf9SwS) | 2:13 |
 | 38 | [MA HAINE](https://open.spotify.com/track/0aMPw8CS1MFTJZRMl4BPNI) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS) | [SORRY I'M BAD](https://open.spotify.com/album/1rnnJHQWjzOCPOE6w9xYoI) | 2:37 |
 | 39 | [Épouse\-moi](https://open.spotify.com/track/3PwfOXkcFmBhs7iXGymF5O) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [HÉRITAGE](https://open.spotify.com/album/1iu85lxdKFTb98yP1Vxnfn) | 4:20 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQLgwrlNRLz.md) - [plain]
 | 51 | [BALLE DANS LE COEUR](https://open.spotify.com/track/42koItqq5r5ZoXj8TTt36D) | [Ikaz Boi](https://open.spotify.com/artist/1h0vYLWMAElSWYCjm6RBpe), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [BRUT4L](https://open.spotify.com/album/7FOTaCV4JRGvOazWA0dcfC) | 2:40 |
 | 52 | [Il s'appelait Tayc](https://open.spotify.com/track/2BXseQq9ypAA6Bp1urAbM4) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Il s'appelait Tayc](https://open.spotify.com/album/5J0faaooCsZuiFkF7s18we) | 3:40 |
 | 53 | [Buku Jero](https://open.spotify.com/track/0XjxAKtHWLtC48h2IcuMIr) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Buku Jero](https://open.spotify.com/album/4F43Xeo1WqnVcZkXBwJIBL) | 2:49 |
-| 54 | [Désarmer](https://open.spotify.com/track/3Sk2eNbuIke4QGkP8bjAVC) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Désarmer](https://open.spotify.com/album/6OZlA4Xv52ah7v17rY3Kus) | 2:38 |
-| 55 | [Le succès](https://open.spotify.com/track/0K6Uy7IgLObIJRrsSna6wm) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [Le succès](https://open.spotify.com/album/74UM8JnROs7TFZ6Vk74PYN) | 3:28 |
+| 54 | [Le succès](https://open.spotify.com/track/0K6Uy7IgLObIJRrsSna6wm) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [Le succès](https://open.spotify.com/album/74UM8JnROs7TFZ6Vk74PYN) | 3:28 |
+| 55 | [Désarmer](https://open.spotify.com/track/3Sk2eNbuIke4QGkP8bjAVC) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Désarmer](https://open.spotify.com/album/6OZlA4Xv52ah7v17rY3Kus) | 2:38 |
 | 56 | [Coco \(feat\. Tayc\)](https://open.spotify.com/track/6MG8MRq1odNsWCasM9IehW) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Coco \(feat\. Tayc\)](https://open.spotify.com/album/5hGsaXtfKcheS0r0AzMhgi) | 3:18 |
 | 57 | [MON BÉBÉ \(feat\. Ayra Starr\)](https://open.spotify.com/track/4mfloKPJmGAOkTxCxQPujM) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [MON BÉBÉ \(feat\. Ayra Starr\)](https://open.spotify.com/album/0ZqiMWe35VRRPpsmva9rVT) | 2:17 |
 | 58 | [Bloqué](https://open.spotify.com/track/0K6Olb7aNjYMJEO9yFO0m7) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Formule 7](https://open.spotify.com/album/3QioaSF8lar1qnvwhMKDM6) | 3:18 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQLgwrlNRLz.md) - [plain]
 | 61 | [C Komen ?](https://open.spotify.com/track/3Ra075Q3EScqTP5xr5z0Fk) | [Kiff No Beat](https://open.spotify.com/artist/4dQxvm7YD9qOd3SdToppT8) | [C Komen ?](https://open.spotify.com/album/0vUMWwABXMTf5YBHGxB4CA) | 3:59 |
 | 62 | [Champagne](https://open.spotify.com/track/02KQ3XZFUwq7B02nPS71fG) | [RJ Kanierra](https://open.spotify.com/artist/3bUA7po6oFl7sVyq6ukrlx) | [Champagne](https://open.spotify.com/album/3SMcEleyk37pji0boeVbSg) | 3:34 |
 | 63 | [Chebaba](https://open.spotify.com/track/2GrBcbY5ui7yYD9cz1qalO) | [DOUPI PAPILLON](https://open.spotify.com/artist/0Ndfw3wuP0M6OTL0jv96le) | [Chebaba](https://open.spotify.com/album/1oxFxatESpXiF5NxLToR74) | 3:22 |
-| 64 | [Ma nana](https://open.spotify.com/track/3WPz3d5hQwYRaAmYqQOFaj) | [Dk2fois](https://open.spotify.com/artist/3532P4f6wikwfG2uvxXRnQ) | [Ma nana](https://open.spotify.com/album/5NY6ywibyRG6oAJK0qBCba) | 3:17 |
-| 65 | [Katana \(feat\. Jungeli\)](https://open.spotify.com/track/7wdSNcLfqVXJHcECtEZ5ZI) | [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx), [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Emma'a](https://open.spotify.com/album/492YAgwbV47RfRlhs2GA9w) | 2:04 |
+| 64 | [Katana \(feat\. Jungeli\)](https://open.spotify.com/track/7wdSNcLfqVXJHcECtEZ5ZI) | [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx), [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Emma'a](https://open.spotify.com/album/492YAgwbV47RfRlhs2GA9w) | 2:04 |
+| 65 | [Ma nana](https://open.spotify.com/track/3WPz3d5hQwYRaAmYqQOFaj) | [Dk2fois](https://open.spotify.com/artist/3532P4f6wikwfG2uvxXRnQ) | [Ma nana](https://open.spotify.com/album/5NY6ywibyRG6oAJK0qBCba) | 3:17 |
 | 66 | [Posa Na Bina](https://open.spotify.com/track/08mU4zr52hOJR7ZyqS6Jmr) | [Hulk](https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE) | [Posa Na Bina](https://open.spotify.com/album/1IP4dFk8PTKhyC2QUYBnw8) | 2:36 |
 | 67 | [Une histoire](https://open.spotify.com/track/3QPaMmRNvuAKYH9yMmmzLt) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Nazaland](https://open.spotify.com/album/2dJqPlx5FueJnUL6O1AYFc) | 2:53 |
 | 68 | [Mpiaka](https://open.spotify.com/track/6zb0KDfPWZPvL1SZPEoVDJ) | [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Mpiaka](https://open.spotify.com/album/2BUr0YXhxjIq3GGElU6izf) | 3:36 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hFALgilvpL.md) - [plain]
 
 > Cuddle up and relax with these country tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,010 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,193 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hFALgilvpL.md) - [plain]
 | 20 | [Buy Dirt](https://open.spotify.com/track/69AIpwGNLxr4qS1X5ynx60) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Buy Dirt](https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO) | 2:47 |
 | 21 | [Porch Light](https://open.spotify.com/track/43SoxERu5UlXAgt4Es1VQU) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Porch Light](https://open.spotify.com/album/2t0vbfmG9x5kKI8MqaxQKA) | 3:04 |
 | 22 | [I Remember Everything \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 |
-| 23 | [Something To Lose](https://open.spotify.com/track/78lR1li9wdwunwNoVYiBpE) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2), [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [Something To Lose](https://open.spotify.com/album/7jBvgF3VkF58blzE4NWOye) | 2:55 |
-| 24 | [What You Want](https://open.spotify.com/track/1OSzjOgzbkNP8ti6444vBv) | [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [What You Want](https://open.spotify.com/album/4k6889NpXtWFLCM70GknB9) | 2:52 |
+| 23 | [What You Want](https://open.spotify.com/track/1OSzjOgzbkNP8ti6444vBv) | [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [What You Want](https://open.spotify.com/album/4k6889NpXtWFLCM70GknB9) | 2:52 |
+| 24 | [Something To Lose](https://open.spotify.com/track/78lR1li9wdwunwNoVYiBpE) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2), [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [Something To Lose](https://open.spotify.com/album/7jBvgF3VkF58blzE4NWOye) | 2:55 |
 | 25 | [In Case You Didn't Know](https://open.spotify.com/track/10M2Ex445zw585Ducldzkw) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Brett Young](https://open.spotify.com/album/6MTPPsqX8KnmDWmnQmbxJ5) | 3:44 |
 | 26 | [Late To The Party](https://open.spotify.com/track/1uXUAE4lmnGCufaAh6n2D5) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Pageant Material](https://open.spotify.com/album/16OVlXWsTKjUkhkPxkgUVa) | 3:37 |
 | 27 | [Be By You](https://open.spotify.com/track/7aLndReanHBzpTGE5Am9H8) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Be By You](https://open.spotify.com/album/5xDfjX4jwqezEfiRzFwHCs) | 3:17 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hFALgilvpL.md) - [plain]
 | 66 | [Burning House](https://open.spotify.com/track/2zhk0kypGeOPsaaZcjyc14) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Untamed](https://open.spotify.com/album/5KlzsMAsw5NujrJVQtjQAB) | 3:51 |
 | 67 | [Ain't Nothin' to It](https://open.spotify.com/track/4QWaq7U3fufJjy1rCBm6ds) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Ain't Nothin' to It](https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob) | 3:22 |
 | 68 | [More Hearts Than Mine](https://open.spotify.com/track/60RFlt48hm0l4Fu0JoccOl) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 3:34 |
-| 69 | [Bigger Houses](https://open.spotify.com/track/7dyjQ4rUIHw3OI8Nl3kdJk) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Bigger Houses](https://open.spotify.com/album/2kJbSNF5JDzEOwYuqNc5PQ) | 3:17 |
-| 70 | [Next Thing You Know](https://open.spotify.com/track/2lNTHWu2I5Tcz9ukWsV5Jj) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Next Thing You Know](https://open.spotify.com/album/7Joe4M8FRFyVxmKUSndVqp) | 2:55 |
+| 69 | [Next Thing You Know](https://open.spotify.com/track/2lNTHWu2I5Tcz9ukWsV5Jj) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Next Thing You Know](https://open.spotify.com/album/7Joe4M8FRFyVxmKUSndVqp) | 2:55 |
+| 70 | [Bigger Houses](https://open.spotify.com/track/7dyjQ4rUIHw3OI8Nl3kdJk) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Bigger Houses](https://open.spotify.com/album/2kJbSNF5JDzEOwYuqNc5PQ) | 3:17 |
 | 71 | [Jesus, Take the Wheel](https://open.spotify.com/track/3lec3CzDPAxsZokPph5w87) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 3:46 |
 | 72 | [The Painter](https://open.spotify.com/track/6UoKX6uLJwhsnyTp5k5StP) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [The Painter](https://open.spotify.com/album/5KxDhlSxJGEOcaTnqKwdYu) | 3:31 |
 | 73 | [You’ll Think Of Me](https://open.spotify.com/track/68Iw932AjRCDEPLIzpmOtF) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Golden Road](https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7) | 4:53 |

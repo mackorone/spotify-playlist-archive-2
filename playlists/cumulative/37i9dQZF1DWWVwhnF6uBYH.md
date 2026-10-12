@@ -4,7 +4,7 @@
 
 > ¡Alista la hielerona que nos vamos pa' las dunas!
 
-423 songs - 22 hr 3 min
+424 songs - 22 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [La Barda](https://open.spotify.com/track/0pi1spZ3Upm2gXb1OVDq5y) | [Grupo 360](https://open.spotify.com/artist/2h9VgLswbVrXfdjW8UVqHC) | [La Barda](https://open.spotify.com/album/1nJyjfqugNuIxK5e1b4svo) | 4:28 | 2023-08-08 | 2023-08-23 |
 | [La Bolsa Gucci](https://open.spotify.com/track/7KBTLsYW2sI42vdlVP079C) | [miguel cornejo](https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [La Bolsa Gucci](https://open.spotify.com/album/1LMGPTkDnylJGOiojhF11C) | 2:16 | 2023-08-08 | 2023-10-07 |
 | [La Capi](https://open.spotify.com/track/2jMAtQFsAhG5Fo9tVH3xfK) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [La Capi](https://open.spotify.com/album/55pTCyi6i0JmvmiIA1yGl2) | 3:09 | 2024-05-21 | 2024-11-16 |
+| [La Cazadora](https://open.spotify.com/track/5CJSOx4mGZk5jIoCv1QjR6) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Joel De La P](https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5), [Grupo Aztteca](https://open.spotify.com/artist/38HFrt2a7X2wCIBJMuVuDS) | [La Cazadora](https://open.spotify.com/album/03jIAWMrRp5Bra8pIMdzK1) | 3:11 | 2026-09-11 |  |
 | [LA CHERRY](https://open.spotify.com/track/2a8yglXvNw07OWu4lO2ByG) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$AD BOYZ 4 LIFE II](https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG) | 3:32 | 2023-10-06 | 2024-09-19 |
 | [La Cita Fresita \- En Vivo](https://open.spotify.com/track/2wD6ENHAvi1WDVsYVuxbNT) | [Grupo Aztteca](https://open.spotify.com/artist/38HFrt2a7X2wCIBJMuVuDS) | [La Cita Fresita \(En Vivo\)](https://open.spotify.com/album/6Oo34Jcr1pKCy8lIOFxQ1L) | 3:00 | 2026-01-21 |  |
 | [La Ciudad del Sol](https://open.spotify.com/track/6xiQzVWczksJRBVbMDkV6A) | [Omar Camacho](https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [La Ciudad del Sol](https://open.spotify.com/album/49pJTurTujrSQA2I5QWRMC) | 3:25 | 2025-09-12 | 2026-07-26 |
@@ -263,7 +264,7 @@
 | [Me Gusta Mi Vida](https://open.spotify.com/track/1lRYofIUSURrWsUVafsmzH) | [Joan Y Su Elite](https://open.spotify.com/artist/7zezEcThEVuTMXsVgPLPG1), [Manuel Rodriguez](https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH) | [Me Gusta Mi Vida](https://open.spotify.com/album/6Afdo0WciubGD9TEGkrop9) | 3:47 | 2023-08-08 | 2023-11-07 |
 | [ME JALO](https://open.spotify.com/track/3D24ErT1MMmUfXWotSj2A2) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [MALA MÍA](https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy) | 3:32 | 2025-01-03 |  |
 | [Me Paseo](https://open.spotify.com/track/2XQnrr8gsvuGcJmPfk18iE) | [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Tutankamon](https://open.spotify.com/album/4ryjxzYmf7uFr7QA87IKoz) | 3:37 | 2025-09-12 | 2026-01-22 |
-| [Medusa](https://open.spotify.com/track/2CDihIzaMKXsFuoypVLAse) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [Medusa](https://open.spotify.com/album/2X2jTBYY061b5JajkNPPTk) | 3:09 | 2026-08-07 |  |
+| [Medusa](https://open.spotify.com/track/2CDihIzaMKXsFuoypVLAse) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [Medusa](https://open.spotify.com/album/2X2jTBYY061b5JajkNPPTk) | 3:09 | 2026-08-07 | 2026-10-12 |
 | [Mejores Jordans](https://open.spotify.com/track/1cZHUhGz7xJ8c4szDipipd) | [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Mejores Jordans](https://open.spotify.com/album/6gK267rs4q9swdpzj79Roz) | 3:54 | 2024-10-18 |  |
 | [Mente Positiva](https://open.spotify.com/track/3WQilym5Vi4ypxb70vx0eY) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Atrapado en un Sueño](https://open.spotify.com/album/4UmrKzDJX0agxs2VF9lkaF) | 3:12 | 2023-08-08 | 2023-10-07 |
 | [Mi Bello Angel](https://open.spotify.com/track/1oWkcc7hQdVYPQMyQ6AFov) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Nata Montana](https://open.spotify.com/album/1YzV3eSAyofYe6QqIaZrj7) | 3:08 | 2023-08-08 | 2023-08-25 |

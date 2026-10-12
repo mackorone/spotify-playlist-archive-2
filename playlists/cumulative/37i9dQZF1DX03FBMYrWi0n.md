@@ -4,7 +4,7 @@
 
 > L’alternatif québécois à plein volume\. Photo: The Barr Brothers
 
-700 songs - 1 day 15 hr 37 min
+701 songs - 1 day 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,7 +285,7 @@
 | [I Love the World](https://open.spotify.com/track/5CJAHB0gl6eg8a08Ukgl59) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [I Love the World](https://open.spotify.com/album/2KoUHCUV9tR3QVZt7rCKUn) | 3:52 | 2026-05-08 | 2026-05-23 |
 | [I Need You](https://open.spotify.com/track/54nLUTBPSLPeLFKEMpSs7h) | [Crimson99](https://open.spotify.com/artist/4MqxhJPhBtuNQU4fy4lkIT) | [I Need You](https://open.spotify.com/album/3ZG5H3VU4gA1GWxKNPsBD0) | 4:06 | 2026-03-06 | 2026-05-23 |
 | [i see red](https://open.spotify.com/track/3Gg7L1NuNNhqltvDgd6VHI) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [i see red](https://open.spotify.com/album/231uuW018MqyHPEGHHjZ8C) | 2:56 | 2026-01-23 | 2026-05-16 |
-| [I Still Do](https://open.spotify.com/track/0OzZrhbl9lMvCbHfN1fqRq) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [I Still Do](https://open.spotify.com/album/6EDLE1CFwG8OlJPV9QIip4) | 2:36 | 2026-07-24 |  |
+| [I Still Do](https://open.spotify.com/track/0OzZrhbl9lMvCbHfN1fqRq) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [I Still Do](https://open.spotify.com/album/6EDLE1CFwG8OlJPV9QIip4) | 2:36 | 2026-07-24 | 2026-10-12 |
 | [I Wasn’t Fully Cooked](https://open.spotify.com/track/18Bzs5tXdAIoyPdWOqm5Kh) | [knitting](https://open.spotify.com/artist/2eRDm8pl8MFrZv1gsfqUtj) | [I Wasn't Fully Cooked](https://open.spotify.com/album/0TdzAcAYjqD9GsXKm8e1Om) | 2:57 | 2026-05-29 | 2026-07-18 |
 | [I Would Live Forever if I Could](https://open.spotify.com/track/5YDkohjmfZmrktCEBP2qAs) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [Life is a Laugh](https://open.spotify.com/album/3HDfizvKh22esbFeGjHLyP) | 2:21 | 2026-06-05 | 2026-08-22 |
 | [I'm a memory](https://open.spotify.com/track/0nTyvtckqQ4hFzpM2Drn2J) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG) | [I'm a memory](https://open.spotify.com/album/421Wt2EFpZCjWua1rId0WM) | 2:42 | 2025-11-21 | 2026-03-14 |
@@ -682,6 +682,7 @@
 | [whatwasthatwine](https://open.spotify.com/track/7L9jN9F0tAueWTIksHQqEY) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [whatwasthatwine](https://open.spotify.com/album/2gggdOGcGb8orDwBnoZOUQ) | 4:01 | 2023-09-29 | 2023-10-29 |
 | [White Claw Addict](https://open.spotify.com/track/3B4SgphwnsLtf1umaZVa0k) | [Brat Star](https://open.spotify.com/artist/75paBOTrEufCOCKV1n4Cn8) | [White Claw Addict](https://open.spotify.com/album/2VzRYpxNzoqq534enPB2RH) | 3:07 | 2026-06-26 |  |
 | [White Pigeon](https://open.spotify.com/track/38Ge17JCxSUtIFgWhLpsvX) | [Brick](https://open.spotify.com/artist/1CJ1jmNdsEbDv2uuJHjEis) | [Knots In The Willow](https://open.spotify.com/album/6LFT0LtQhugMeUY7OeZbq8) | 4:04 | 2026-05-15 | 2026-09-02 |
+| [Who Am I](https://open.spotify.com/track/2CzBHpemQrtHCNfX10qwYy) | [Crimson99](https://open.spotify.com/artist/4MqxhJPhBtuNQU4fy4lkIT) | [Daredevil](https://open.spotify.com/album/76zNXO4xFXdDjxY9st9zBJ) | 5:27 | 2026-10-09 |  |
 | [Wicked Game](https://open.spotify.com/track/5WvotXJOlAi5KsonjA5Pwl) | [La Force](https://open.spotify.com/artist/6Wt2zqLZOrA36sooqmAvFH), [Unessential Oils](https://open.spotify.com/artist/34dPqKupUgAXZRn6beb0Zu) | [Wicked Game](https://open.spotify.com/album/1NxSaYXzNFn0sg53ZhSa6t) | 3:58 | 2026-09-01 |  |
 | [Wildside](https://open.spotify.com/track/3uKyQ0vwpo43PbIXj4vyNp) | [Ragers](https://open.spotify.com/artist/2wiOxdl6V7nqiCBdiFUIuH) | [Wildside](https://open.spotify.com/album/2O9rJrHjjSPaVavkd7XvLw) | 2:22 | 2024-03-22 | 2024-07-01 |
 | [Witness Protection](https://open.spotify.com/track/25c2s6RdpSQN27iPc8Exps) | [SUUNS](https://open.spotify.com/artist/3UkN1XeK2D4wD4uhtJx4vb) | [The Witness](https://open.spotify.com/album/4UqiUZuZyxnwLQPyJflsjl) | 4:09 | 2023-02-10 | 2024-04-19 |

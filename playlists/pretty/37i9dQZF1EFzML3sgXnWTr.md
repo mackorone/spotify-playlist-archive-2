@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2RXuZnFEt8P7rr9UUIsyZo">Alessandro La Cava</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,905 likes - 105 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,903 likes - 105 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 | 59 | [Tramontana](https://open.spotify.com/track/5fv7PpVdqsRttMlSD2OD1g) | [Matteo Romano](https://open.spotify.com/artist/5Imsy0ZXNi7uWLJpP5dZ8b) | [Tramontana](https://open.spotify.com/album/3XcRaeOe3P3s2Z1AZLFFZW) | 2:56 |
 | 60 | [malibu \(with Trevor Daniel\)](https://open.spotify.com/track/31cxJ8JDVyYM1Ybqppmi9s) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP), [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [sangiovanni](https://open.spotify.com/album/4glIx4caTnxFFuRP5tUFaz) | 2:46 |
 | 61 | [finché le stelle non brillano](https://open.spotify.com/track/7y0zSVEiBDAFJ5ea2poaIV) | [Benji](https://open.spotify.com/artist/1TUO8DpCpHhmB4gYdLqLOF) | [finché le stelle non brillano](https://open.spotify.com/album/70KWscv56jX5G9GBmwigAx) | 3:21 |
-| 62 | [cadere volare](https://open.spotify.com/track/77kA6Y1DBIjD1x77WLhxgg) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [CADERE VOLARE](https://open.spotify.com/album/5IQdzZjqyRJ9oVIRX6LXPD) | 3:14 |
-| 63 | [veramente](https://open.spotify.com/track/3fJ8h4lVHBrAD5VFFNLIdT) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [veramente](https://open.spotify.com/album/7jwTIx6Ngo8gbZImPfrXoG) | 3:21 |
+| 62 | [veramente](https://open.spotify.com/track/3fJ8h4lVHBrAD5VFFNLIdT) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [veramente](https://open.spotify.com/album/7jwTIx6Ngo8gbZImPfrXoG) | 3:21 |
+| 63 | [cadere volare](https://open.spotify.com/track/77kA6Y1DBIjD1x77WLhxgg) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [CADERE VOLARE](https://open.spotify.com/album/5IQdzZjqyRJ9oVIRX6LXPD) | 3:14 |
 | 64 | [Cero](https://open.spotify.com/track/0T3HDSk6LqhMND9mgHoBdb) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Almas paralelas](https://open.spotify.com/album/3SYt2GZIfI8DGz8VlipVqb) | 3:21 |
 | 65 | [Fulmini Addosso \- from the Prime Video Original Movie L'ESTATE PIÙ CALDA](https://open.spotify.com/track/0Uz6QFIRBIkZ8PamMBjBgq) | [Francesca Michielin](https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS) | [Cani Sciolti](https://open.spotify.com/album/1wWGQChySCOYjf01lUYzNp) | 3:41 |
 | 66 | [Odio Amore Chimico](https://open.spotify.com/track/02OZT1ygcgP9ZNc8AoUIiJ) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [MI AMI MI ODI](https://open.spotify.com/album/0grqDgwk7yAw6j4PxjHECP) | 3:40 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 | 104 | [Rewind](https://open.spotify.com/track/34NY3jw9ipQYyBa1xVTRmK) | [Benji & Fede](https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm) | [REWIND](https://open.spotify.com/album/1NbBp6motkuIDeTTdRk0B5) | 3:04 |
 | 105 | [Non cambia mai](https://open.spotify.com/track/4huAaH4Q2zf6pj6dhiCqOn) | [Luigi Strangis](https://open.spotify.com/artist/7kuB7tieHx2PaQwRTNFcnZ) | [Voglio la gonna](https://open.spotify.com/album/3NNCpZojXm9nasubGE0JTr) | 3:10 |
 
-Snapshot ID: `AcemkAAAAACb8mYr5wDqPVxZwVZ11X4i`
+Snapshot ID: `AcesbAAAAACCQa3fWVoFRoDjB2ZP3Z0U`

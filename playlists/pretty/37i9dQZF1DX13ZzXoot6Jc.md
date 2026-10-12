@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 
 > Luke Combs and Country hits that will have you singing every word.
 
-[Spotify](https://open.spotify.com/user/spotify) - 449,735 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 449,731 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 | 90 | [Country's Cool Again](https://open.spotify.com/track/6fL5O5y6pSeU5Hjx9SgKar) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Country's Cool Again](https://open.spotify.com/album/2ktPg8ikDApRGiGSWNUC92) | 3:38 |
 | 91 | [Making Good Time](https://open.spotify.com/track/4jh5v2PmmcryAzPnuEQjUG) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Making Good Time](https://open.spotify.com/album/5JXMh1FdutuSfyPtfdJxMQ) | 2:47 |
 | 92 | [You Didn’t Hear It From Me](https://open.spotify.com/track/3nf11phTAo1DOMNwEWCBBf) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [One Of Us](https://open.spotify.com/album/1JusbAeAs7tTPKAn0Y6iiA) | 3:09 |
-| 93 | [Complicated](https://open.spotify.com/track/3GtjS01mYbI1FGUr9xy29d) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Complicated](https://open.spotify.com/album/4KHD5LGWqkmyZSyZOU08l0) | 2:57 |
-| 94 | [Some Whiskey](https://open.spotify.com/track/5Z48gU2EpgzhECkuuXp4Ev) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Pretty Little Poison](https://open.spotify.com/album/2s7CBSj6aKbWmkfBU8eEsg) | 3:03 |
+| 93 | [Some Whiskey](https://open.spotify.com/track/5Z48gU2EpgzhECkuuXp4Ev) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Pretty Little Poison](https://open.spotify.com/album/2s7CBSj6aKbWmkfBU8eEsg) | 3:03 |
+| 94 | [Complicated](https://open.spotify.com/track/3GtjS01mYbI1FGUr9xy29d) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Complicated](https://open.spotify.com/album/4KHD5LGWqkmyZSyZOU08l0) | 2:57 |
 | 95 | [Last Rodeo](https://open.spotify.com/track/2neydrTb5GVPRHNNmW0iPP) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Last Rodeo](https://open.spotify.com/album/3BaNqBIic3TSZtXrnooYES) | 3:15 |
 | 96 | [Moonshines](https://open.spotify.com/track/6OOVF3wtJ6Qj2fPPHcuzj5) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Bruce County](https://open.spotify.com/album/2LtmmDRoH27B1li1RRWYvp) | 3:44 |
 | 97 | [Highway Money](https://open.spotify.com/track/5IKPVFGPc3HWsdiKpue6zi) | [Josh Stumpf](https://open.spotify.com/artist/3KtMd5CrHVTQd4g3Yq8Btj) | [Highway Money](https://open.spotify.com/album/1zqElmiMKrhEZ9OLRC9tJa) | 3:17 |

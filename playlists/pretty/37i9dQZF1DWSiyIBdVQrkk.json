@@ -1,6 +1,6 @@
 {
   "description": "The best in classic and contemporary Reggae. Cover: Original Koffee, for <a href=spotify:playlist:37i9dQZF1DX0rM1NjYKMJa> Carnival Sounds Live 2026.</a>",
-  "num_followers": 2116123,
+  "num_followers": 2115928,
   "original_name": "One Love",
   "owner": {
     "name": "Spotify",
@@ -343,22 +343,6 @@
     {
       "added_at": "2026-08-21 14:00:21",
       "album": {
-        "name": "Uptown Top Ranking",
-        "url": "https://open.spotify.com/album/1FWimRgPFwDVyVlHe9EEnP"
-      },
-      "artists": [
-        {
-          "name": "Althea And Donna",
-          "url": "https://open.spotify.com/artist/5E8FbSTegbOlYAH4b2rZj2"
-        }
-      ],
-      "duration_ms": 229160,
-      "name": "Uptown Top Ranking - Remastered 2001",
-      "url": "https://open.spotify.com/track/34zWZOSpU2V1ab0PiZCcv4"
-    },
-    {
-      "added_at": "2026-08-21 14:00:21",
-      "album": {
         "name": "Legalize It (Legacy Edition)",
         "url": "https://open.spotify.com/album/4ESdQfdgBr9yaYraKU0Vle"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 279360,
       "name": "Legalize It",
       "url": "https://open.spotify.com/track/73lYI49LhfsscO33ohrGN0"
+    },
+    {
+      "added_at": "2026-08-21 14:00:21",
+      "album": {
+        "name": "Uptown Top Ranking",
+        "url": "https://open.spotify.com/album/1FWimRgPFwDVyVlHe9EEnP"
+      },
+      "artists": [
+        {
+          "name": "Althea And Donna",
+          "url": "https://open.spotify.com/artist/5E8FbSTegbOlYAH4b2rZj2"
+        }
+      ],
+      "duration_ms": 229160,
+      "name": "Uptown Top Ranking - Remastered 2001",
+      "url": "https://open.spotify.com/track/34zWZOSpU2V1ab0PiZCcv4"
     },
     {
       "added_at": "2026-08-21 14:00:21",
@@ -479,22 +479,6 @@
     {
       "added_at": "2026-08-21 14:00:21",
       "album": {
-        "name": "Personal",
-        "url": "https://open.spotify.com/album/7gGfsO0o0JcxvgTpVB5sQf"
-      },
-      "artists": [
-        {
-          "name": "Nia Smith",
-          "url": "https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260"
-        }
-      ],
-      "duration_ms": 162920,
-      "name": "Personal",
-      "url": "https://open.spotify.com/track/4eEI8eLVGvvvqPL07bgyB6"
-    },
-    {
-      "added_at": "2026-08-21 14:00:21",
-      "album": {
         "name": "Wanted Dread and Alive",
         "url": "https://open.spotify.com/album/18s7KUeencxiAsv7ths3jK"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 268213,
       "name": "Wanted Dread and Alive - 2002 Remaster",
       "url": "https://open.spotify.com/track/5jkxC8SIZJ4qqusxRPVS5s"
+    },
+    {
+      "added_at": "2026-08-21 14:00:21",
+      "album": {
+        "name": "Personal",
+        "url": "https://open.spotify.com/album/7gGfsO0o0JcxvgTpVB5sQf"
+      },
+      "artists": [
+        {
+          "name": "Nia Smith",
+          "url": "https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260"
+        }
+      ],
+      "duration_ms": 162920,
+      "name": "Personal",
+      "url": "https://open.spotify.com/track/4eEI8eLVGvvvqPL07bgyB6"
     },
     {
       "added_at": "2026-08-21 14:00:21",
@@ -1891,6 +1891,26 @@
     {
       "added_at": "2026-08-21 14:00:21",
       "album": {
+        "name": "Hebron Gate",
+        "url": "https://open.spotify.com/album/7G45S3yiopYRmqpmrpO7tX"
+      },
+      "artists": [
+        {
+          "name": "Groundation",
+          "url": "https://open.spotify.com/artist/5L59UhTBOeIRPxF5umwC9p"
+        },
+        {
+          "name": "Don Carlos & The Congos",
+          "url": "https://open.spotify.com/artist/0L266qgIHqMQKV7A76O95w"
+        }
+      ],
+      "duration_ms": 363866,
+      "name": "Jah Jah Know",
+      "url": "https://open.spotify.com/track/13lOjbr1RqCQ8EbzCWqUoJ"
+    },
+    {
+      "added_at": "2026-08-21 14:00:21",
+      "album": {
         "name": "Welcome to Jamrock",
         "url": "https://open.spotify.com/album/1jL9mDhM5cMAwJD9brYyW5"
       },
@@ -1923,26 +1943,6 @@
     {
       "added_at": "2026-08-21 14:00:21",
       "album": {
-        "name": "Slow Down (with H.E.R.)",
-        "url": "https://open.spotify.com/album/2Z6sqSTQprW8el0lCqojKi"
-      },
-      "artists": [
-        {
-          "name": "Skip Marley",
-          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 195066,
-      "name": "Slow Down (with H.E.R.)",
-      "url": "https://open.spotify.com/track/73FDJgnjt6ZcxoiavN6XrS"
-    },
-    {
-      "added_at": "2026-08-21 14:00:21",
-      "album": {
         "name": "Legend (The Definitive Remasters)",
         "url": "https://open.spotify.com/album/4qsXcmAgPNSliu6oMQGOQ9"
       },
@@ -1952,9 +1952,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 237133,
-      "name": "Could You Be Loved",
-      "url": "https://open.spotify.com/track/3yoWBFuanYVmwbJ4jF0AQi"
+      "duration_ms": 230733,
+      "name": "Is This Love",
+      "url": "https://open.spotify.com/track/5QTEEImISE4USGEwqAci8O"
     }
   ],
   "unique_name": "One Love",

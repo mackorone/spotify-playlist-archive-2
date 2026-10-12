@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY373eEGlSj4.md) - [plain]
 
 > The most unforgettable love songs from the 70s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,449,893 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,449,926 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY373eEGlSj4.md) - [plain]
 | 2 | [Ain't No Sunshine](https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Just As I Am](https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo) | 2:06 |
 | 3 | [I'm Not In Love](https://open.spotify.com/track/5HQEmiV2lKnSO6qa2fsR7x) | [10cc](https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5) | [The Original Soundtrack](https://open.spotify.com/album/1CMgmJjMFskwwmK8h8j1Oj) | 6:06 |
 | 4 | [Your Song](https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0) | 4:01 |
-| 5 | [Imagine \- Remastered 2010](https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Imagine](https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk) | 3:07 |
-| 6 | [You're So Vain](https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [No Secrets](https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5) | 4:18 |
+| 5 | [You're So Vain](https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [No Secrets](https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5) | 4:18 |
+| 6 | [Imagine \- Remastered 2010](https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Imagine](https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk) | 3:07 |
 | 7 | [If You Leave Me Now](https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago X](https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P) | 3:55 |
 | 8 | [How Deep Is Your Love](https://open.spotify.com/track/2JoZzpdeP2G6Csfdq5aLXP) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Greatest](https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT) | 4:05 |
 | 9 | [Easy](https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Commodores](https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl) | 4:16 |
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY373eEGlSj4.md) - [plain]
 | 14 | [Fernando](https://open.spotify.com/track/4BM8yJ0PzBi2ZewpMTOxtx) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9) | 4:12 |
 | 15 | [Here You Come Again](https://open.spotify.com/track/6H7nDglS6xWpRidbhMwI2L) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Here You Come Again](https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr) | 2:59 |
 | 16 | [Everything I Own](https://open.spotify.com/track/52VIdyKqp1pJRSyUQaxKUA) | [Bread](https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL) | [Baby I'm\-a Want You](https://open.spotify.com/album/5OlNb8PMZXFkhhtSrhLuO5) | 3:07 |
-| 17 | [Just the Way You Are](https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 4:50 |
-| 18 | [Can't Get Enough Of Your Love, Babe](https://open.spotify.com/track/3mWpUEBYnv9SIFWfixSJFx) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Can't Get Enough](https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG) | 4:34 |
+| 17 | [Can't Get Enough Of Your Love, Babe](https://open.spotify.com/track/3mWpUEBYnv9SIFWfixSJFx) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Can't Get Enough](https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG) | 4:34 |
+| 18 | [Just the Way You Are](https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 4:50 |
 | 19 | [Let Your Love Flow](https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk) | [The Bellamy Brothers](https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa) | [Bellamy Brothers](https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0) | 3:16 |
 | 20 | [Always On My Mind](https://open.spotify.com/track/1B5Tp2Ml9nLlmTSJx8xVfI) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis \(Fool\)](https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN) | 3:39 |
 | 21 | [Wonderful Tonight](https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Slowhand 35th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP) | 3:45 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY373eEGlSj4.md) - [plain]
 | 31 | [I'd Really Love to See You Tonight](https://open.spotify.com/track/2r008pcfVYc0zgQvSRqUJE) | [England Dan & John Ford Coley](https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO) | [Nights Are Forever](https://open.spotify.com/album/1lAMkHFW0e51taMt34LUQ2) | 2:39 |
 | 32 | [I Will Always Love You](https://open.spotify.com/track/6nRvgo4ySezQKD1D7NIqAu) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene](https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj) | 2:57 |
 | 33 | [You Decorated My Life](https://open.spotify.com/track/6SFeCisbYSqaQwL9hucoF2) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [Kenny](https://open.spotify.com/album/3dJ7K3zS6Ux7OFAWcG8eWI) | 3:38 |
-| 34 | [I Can't Tell You Why \- 2013 Remaster](https://open.spotify.com/track/02BsTeJE4q5gWOTt58ur5U) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [The Long Run \(2013 Remaster\)](https://open.spotify.com/album/1sW1HxI9VppbiXqgFQHVCP) | 4:55 |
-| 35 | [Babe](https://open.spotify.com/track/5W7YROOF6bFfBexY81LFjt) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [Cornerstone](https://open.spotify.com/album/0RhPpU4BvtF44qdvFnGQuh) | 4:25 |
+| 34 | [Babe](https://open.spotify.com/track/5W7YROOF6bFfBexY81LFjt) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [Cornerstone](https://open.spotify.com/album/0RhPpU4BvtF44qdvFnGQuh) | 4:25 |
+| 35 | [I Can't Tell You Why \- 2013 Remaster](https://open.spotify.com/track/02BsTeJE4q5gWOTt58ur5U) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [The Long Run \(2013 Remaster\)](https://open.spotify.com/album/1sW1HxI9VppbiXqgFQHVCP) | 4:55 |
 | 36 | [Just When I Needed You Most](https://open.spotify.com/track/55wl56WlKI85UBNZoFxe9P) | [Randy VanWarmer](https://open.spotify.com/artist/6IRQiyNmNGjGlrmEl0iArm) | [Warmer](https://open.spotify.com/album/4SpkNYHb0pnT9n6gEqkSvM) | 4:01 |
 | 37 | [She's Gone](https://open.spotify.com/track/5dFoWIiJ2814hRwMYDcFiU) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Abandoned Luncheonette](https://open.spotify.com/album/47Dmo9RLpgHMusEiF8luvu) | 5:13 |
 | 38 | [Mandy](https://open.spotify.com/track/6iXQrhhgBisdfvS34EMTZ3) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Barry Manilow II](https://open.spotify.com/album/0D6b0oLPjrrV4YA4bRSkks) | 3:33 |

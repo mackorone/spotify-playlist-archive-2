@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-593 songs - 1 day 9 hr 39 min
+595 songs - 1 day 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Freedom Queen](https://open.spotify.com/track/4pxoCgIkaSSFx8cu31N01R) | [Mink's Miracle Medicine](https://open.spotify.com/artist/1XEYWgovYzwpxtdJba7dO0) | [Freedom Queen](https://open.spotify.com/album/7GPApbSd4SkQrzJeSBMzTt) | 4:15 | 2026-01-04 | 2026-02-21 |
 | [Frequency](https://open.spotify.com/track/6fFANLe45lolpWyZJWy175) | [Nia Tone](https://open.spotify.com/artist/1hPZmJ6YcmKIEQKSzSkOup) | [Frequency](https://open.spotify.com/album/59EtQ9iTxB9kbnJ2kGqwGT) | 2:57 | 2026-07-08 | 2026-08-08 |
 | [Frost In The December](https://open.spotify.com/track/64sEEzP4sXCcZF9FNx6Wtb) | [Grace Chia](https://open.spotify.com/artist/4TW4XlkN4DV6hADS97u8By), [Mylo Stone](https://open.spotify.com/artist/64WCsmam1ea6C4cEnLq2DD), [DJ Thensum](https://open.spotify.com/artist/0yYonVonAHg1NIE1JuPiSZ) | [Frost In The December](https://open.spotify.com/album/2nPh6wx5shAwqcjkjOrbTR) | 3:38 | 2026-05-11 | 2026-09-04 |
+| [Fuck Off](https://open.spotify.com/track/1Q01zHMDA70SNdcrUZxwIT) | [Black Grouse](https://open.spotify.com/artist/5jzQOtU6ojkmCHcQhffLk4) | [Fuck Off](https://open.spotify.com/album/0r2zCLxvtQdFeO4lIQlS6u) | 2:54 | 2026-10-11 |  |
 | [Fucked Up](https://open.spotify.com/track/68uVC0iivrNHCfEmRFhPR4) | [Crest](https://open.spotify.com/artist/7HkVIIis479rPDZsLmp0Z9) | [Fucked Up](https://open.spotify.com/album/3pzmkD8GmhRQsAXYHEFKA0) | 2:42 | 2025-11-02 | 2025-12-01 |
 | [Fuiste de Viaje](https://open.spotify.com/track/2CbJGe8IetHy4H4Qv1TIEq) | [Melany Cubero](https://open.spotify.com/artist/4OrIEJHh24oAbE1evJRR7c) | [Invisible](https://open.spotify.com/album/26CgmwfJA3HjUE9A8SBZ47) | 3:12 | 2026-04-13 | 2026-05-22 |
 | [Game Of Us](https://open.spotify.com/track/5nPiP0lCO9s1ae4o1p0GuW) | [michéle](https://open.spotify.com/artist/0Mgy1tMudfj17qQ9qTiye5) | [Game Of Us](https://open.spotify.com/album/46QTCDq3eHV44nQhk2i1L3) | 3:00 | 2025-11-01 | 2025-12-01 |
@@ -594,6 +595,7 @@
 | [You Never Died](https://open.spotify.com/track/3JBFbPQRqufCifcueo0BeG) | [Boneyard Lily](https://open.spotify.com/artist/4X258WlI0oC78zl7HC2jMn) | [You Never Died](https://open.spotify.com/album/57brjzlWROvtNLEMsNNnem) | 3:38 | 2025-11-11 | 2025-12-01 |
 | [You Planned This](https://open.spotify.com/track/5pFBa9Ks4FJEsTCE624jid) | [ARIE](https://open.spotify.com/artist/6dA76J841h4udyGQEoxnng) | [You Planned This](https://open.spotify.com/album/4ZnAzHdUUYFktDE3u3rRNO) | 3:20 | 2026-04-25 |  |
 | [young frankenstein](https://open.spotify.com/track/35r1UEv4bYbwxHT7MqoPX8) | [open](https://open.spotify.com/artist/0BGu5l3ttSeSQq7yhqBTjB) | [young frankenstein](https://open.spotify.com/album/3HUqK5fRKaBOMUJGJFYPrf) | 2:59 | 2025-12-04 | 2026-01-05 |
+| [Your Fault](https://open.spotify.com/track/0fblNVg8bUKfBoA4WPWth9) | [Ella Kenz](https://open.spotify.com/artist/5k0qIptpKEMpMlGx2wbE8e) | [Chronic Obsessions](https://open.spotify.com/album/78hy2PK22Ll9aZaJuU4fKj) | 3:03 | 2026-10-11 |  |
 | [Yourself](https://open.spotify.com/track/3A1vzDBL3IHjzphf83E3mZ) | [Nissu](https://open.spotify.com/artist/0jFlIuRMZuBZrowaOZXEe0), [Paigey Cakey](https://open.spotify.com/artist/1Lfz8ISr2g1d33hirTmajR) | [Memories](https://open.spotify.com/album/6Kbr8PFQrTu0J2GmK8o5uz) | 3:18 | 2026-02-07 | 2026-03-03 |
 | [Ziggy Is a Alien](https://open.spotify.com/track/54MGPMwVgY22hEZ8IPZm9j) | [Vinto Van Go](https://open.spotify.com/artist/0uUd4TGlqun8VeyQ8fIMwA) | [Ziggy Is a Alien](https://open.spotify.com/album/63jS1IYn1RtilOe8kcgK1Q) | 3:43 | 2026-03-22 | 2026-05-26 |
 | [Вредные привычки](https://open.spotify.com/track/6IVb14z4hVAg6ZXys0OvYE) | [AVISHA](https://open.spotify.com/artist/4UjgtBaKmWqr2hTnSZRvS5) | [Вредные привычки](https://open.spotify.com/album/4PZGbvYySz3OiyC5fH8ukp) | 2:23 | 2026-07-10 | 2026-08-08 |

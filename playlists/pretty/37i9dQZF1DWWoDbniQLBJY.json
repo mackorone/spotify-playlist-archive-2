@@ -1,6 +1,6 @@
 {
   "description": "Aqu\u00ed viven las ac\u00fasticas. Cover: Valentina Rico",
-  "num_followers": 1743860,
+  "num_followers": 1743606,
   "original_name": "Ac\u00fasticas",
   "owner": {
     "name": "Spotify",
@@ -231,22 +231,6 @@
     {
       "added_at": "2026-09-11 04:01:24",
       "album": {
-        "name": "CHILDSTAR",
-        "url": "https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH"
-      },
-      "artists": [
-        {
-          "name": "DANNA",
-          "url": "https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc"
-        }
-      ],
-      "duration_ms": 203546,
-      "name": "AMANECER",
-      "url": "https://open.spotify.com/track/1JsmV1V1IRPR44tVDHpYUZ"
-    },
-    {
-      "added_at": "2026-09-11 04:01:24",
-      "album": {
         "name": "Julieta Venegas - MTV Unplugged",
         "url": "https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 226373,
       "name": "Ilusion (Unplugged) (En Vivo) (with Marisa Monte)",
       "url": "https://open.spotify.com/track/2EGDo3bF1gbRvRqFxoKoV3"
+    },
+    {
+      "added_at": "2026-09-11 04:01:24",
+      "album": {
+        "name": "CHILDSTAR",
+        "url": "https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH"
+      },
+      "artists": [
+        {
+          "name": "DANNA",
+          "url": "https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc"
+        }
+      ],
+      "duration_ms": 203546,
+      "name": "AMANECER",
+      "url": "https://open.spotify.com/track/1JsmV1V1IRPR44tVDHpYUZ"
     },
     {
       "added_at": "2026-09-11 04:01:24",
@@ -543,22 +543,6 @@
     {
       "added_at": "2026-09-11 04:01:24",
       "album": {
-        "name": "Quer\u00e1monos lento",
-        "url": "https://open.spotify.com/album/4Hnnvyr62Z0q2ksKjqHO4z"
-      },
-      "artists": [
-        {
-          "name": "Manuel Lizarazo",
-          "url": "https://open.spotify.com/artist/3GAdaUGcZiphtBqlLxXHZC"
-        }
-      ],
-      "duration_ms": 139852,
-      "name": "Quer\u00e1monos lento",
-      "url": "https://open.spotify.com/track/2GZvRXUFYY1EMJTP4nnVhW"
-    },
-    {
-      "added_at": "2026-09-11 04:01:24",
-      "album": {
         "name": "Shakira MTV Unplugged",
         "url": "https://open.spotify.com/album/3yQQUyIA3vRIRnB4rqtThe"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 298773,
       "name": "Estoy Aqu\u00ed - En Vivo",
       "url": "https://open.spotify.com/track/1C4b2NM9ViU7PbCIA2PLVT"
+    },
+    {
+      "added_at": "2026-09-11 04:01:24",
+      "album": {
+        "name": "Quer\u00e1monos lento",
+        "url": "https://open.spotify.com/album/4Hnnvyr62Z0q2ksKjqHO4z"
+      },
+      "artists": [
+        {
+          "name": "Manuel Lizarazo",
+          "url": "https://open.spotify.com/artist/3GAdaUGcZiphtBqlLxXHZC"
+        }
+      ],
+      "duration_ms": 139852,
+      "name": "Quer\u00e1monos lento",
+      "url": "https://open.spotify.com/track/2GZvRXUFYY1EMJTP4nnVhW"
     },
     {
       "added_at": "2026-09-11 04:01:24",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-09-11 04:01:24",
       "album": {
-        "name": "Soldadito de Hierro",
-        "url": "https://open.spotify.com/album/4aF473yAU7HOafe47RWrLk"
-      },
-      "artists": [
-        {
-          "name": "Nil Moliner",
-          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
-        }
-      ],
-      "duration_ms": 142964,
-      "name": "Soldadito de Hierro",
-      "url": "https://open.spotify.com/track/3DfUO7e24abpbIreUpUK4B"
-    },
-    {
-      "added_at": "2026-09-11 04:01:24",
-      "album": {
         "name": "MTV Unplugged (En Vivo)",
         "url": "https://open.spotify.com/album/0fO8mzViUoz12iCHrPppE9"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 255133,
       "name": "Mar\u00eda (Unplugged) - En Vivo",
       "url": "https://open.spotify.com/track/4KDHQ9jwEg03Ex7TG6tdm8"
+    },
+    {
+      "added_at": "2026-09-11 04:01:24",
+      "album": {
+        "name": "Soldadito de Hierro",
+        "url": "https://open.spotify.com/album/4aF473yAU7HOafe47RWrLk"
+      },
+      "artists": [
+        {
+          "name": "Nil Moliner",
+          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
+        }
+      ],
+      "duration_ms": 142964,
+      "name": "Soldadito de Hierro",
+      "url": "https://open.spotify.com/track/3DfUO7e24abpbIreUpUK4B"
     },
     {
       "added_at": "2026-09-11 04:01:24",
@@ -767,22 +767,6 @@
     {
       "added_at": "2026-09-11 04:01:24",
       "album": {
-        "name": "Contento",
-        "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 179501,
-      "name": "Navegando",
-      "url": "https://open.spotify.com/track/7n0vJaSOM87pMqIIQWxoIh"
-    },
-    {
-      "added_at": "2026-09-11 04:01:24",
-      "album": {
         "name": "pa' que sue\u00f1es",
         "url": "https://open.spotify.com/album/1bGXKrzpyFq1TVzNOr6Fbq"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 170795,
       "name": "pa' que sue\u00f1es",
       "url": "https://open.spotify.com/track/4KuSic9vPLVLgB5lCfeFQy"
+    },
+    {
+      "added_at": "2026-09-11 04:01:24",
+      "album": {
+        "name": "Contento",
+        "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 179501,
+      "name": "Navegando",
+      "url": "https://open.spotify.com/track/7n0vJaSOM87pMqIIQWxoIh"
     },
     {
       "added_at": "2026-09-11 04:01:24",
@@ -919,22 +919,6 @@
     {
       "added_at": "2026-09-11 04:01:24",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/71ouQvRNQdWbSr4FI0i4g8"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        }
-      ],
-      "duration_ms": 255650,
-      "name": "La Carretera - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0INHoQnnPYxlXHsOL3Zeb8"
-    },
-    {
-      "added_at": "2026-09-11 04:01:24",
-      "album": {
         "name": "No Puedo Extra\u00f1arte",
         "url": "https://open.spotify.com/album/2zzaRImwYVaNSEd8MASRoE"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 192656,
       "name": "No Puedo Extra\u00f1arte",
       "url": "https://open.spotify.com/track/6cEY4wW5INlDK75bT7xQf0"
+    },
+    {
+      "added_at": "2026-09-11 04:01:24",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/71ouQvRNQdWbSr4FI0i4g8"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 255650,
+      "name": "La Carretera - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0INHoQnnPYxlXHsOL3Zeb8"
     },
     {
       "added_at": "2026-09-11 04:01:24",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-09-11 04:01:24",
       "album": {
-        "name": "Tarde",
-        "url": "https://open.spotify.com/album/13cTtlvPu7FxZwSR1okLKi"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Tarde",
-      "url": "https://open.spotify.com/track/0lkwcRAUa1LnzBisyKtAqg"
-    },
-    {
-      "added_at": "2026-09-11 04:01:24",
-      "album": {
         "name": "Cuando Te Encuentre",
         "url": "https://open.spotify.com/album/3dz9ty3Lcdeyjef5IUd4GC"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 176056,
       "name": "Cuando Te Encuentre",
       "url": "https://open.spotify.com/track/19HWNXdno7mRCF6ILlkgdV"
+    },
+    {
+      "added_at": "2026-09-11 04:01:24",
+      "album": {
+        "name": "Tarde",
+        "url": "https://open.spotify.com/album/13cTtlvPu7FxZwSR1okLKi"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Tarde",
+      "url": "https://open.spotify.com/track/0lkwcRAUa1LnzBisyKtAqg"
     },
     {
       "added_at": "2026-09-11 04:01:24",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2026-09-11 04:01:24",
       "album": {
-        "name": "Ojos Chiquitos",
-        "url": "https://open.spotify.com/album/20ji0T35I0L4g3OIrEsUOn"
-      },
-      "artists": [
-        {
-          "name": "Ale Z\u00e9guer",
-          "url": "https://open.spotify.com/artist/1jIeEiC6KkryFux23ekWmQ"
-        }
-      ],
-      "duration_ms": 186966,
-      "name": "Ojos Chiquitos",
-      "url": "https://open.spotify.com/track/4Xr2q5L69U9NQAvLs4FAqi"
-    },
-    {
-      "added_at": "2026-09-11 04:01:24",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3U8ndUx2DNmhKPUjqtJuek"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 204734,
       "name": "Un Vuelo A La (feat. Jessie Reyez) - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3Kx1Go2GXVwQk1fozPJ1BQ"
+    },
+    {
+      "added_at": "2026-09-11 04:01:24",
+      "album": {
+        "name": "Ojos Chiquitos",
+        "url": "https://open.spotify.com/album/20ji0T35I0L4g3OIrEsUOn"
+      },
+      "artists": [
+        {
+          "name": "Ale Z\u00e9guer",
+          "url": "https://open.spotify.com/artist/1jIeEiC6KkryFux23ekWmQ"
+        }
+      ],
+      "duration_ms": 186966,
+      "name": "Ojos Chiquitos",
+      "url": "https://open.spotify.com/track/4Xr2q5L69U9NQAvLs4FAqi"
     },
     {
       "added_at": "2026-09-11 04:01:24",

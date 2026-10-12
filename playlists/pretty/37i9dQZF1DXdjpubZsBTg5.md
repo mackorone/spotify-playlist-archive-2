@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdjpubZsBTg5.md) - [plain]
 
 > Revive a la generación que transformó el rock en español para siempre\. En portada: Soda Stereo
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,913 likes - 60 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,953 likes - 60 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdjpubZsBTg5.md) - [plain]
 | 45 | [Pero a tu lado](https://open.spotify.com/track/3JOXwHPhtdRU3kYKcf64Gj) | [Los Secretos](https://open.spotify.com/artist/2KEDbpUlz9nwtGywHT4gyf) | [Dos Caras Distintas](https://open.spotify.com/album/5J74XM1KLvoz4KgdNZczcm) | 3:15 |
 | 46 | [El Final](https://open.spotify.com/track/39ELDQVDsgBmo5gbTuru9U) | [Rostros Ocultos](https://open.spotify.com/artist/4sgBOSpSKtU749d6DGH5Ib) | [Singles](https://open.spotify.com/album/0fflnp0SMGlehNqu07AczV) | 2:38 |
 | 47 | [No Huyas De Mi](https://open.spotify.com/track/6UBl1NDlUjc4vU3tXr3oQz) | [Kenny y los Eléctricos](https://open.spotify.com/artist/4HvW0NM2QwnXGZXxLRuW1N) | [Puro Rock](https://open.spotify.com/album/2HXxumPCyqtjOaw7G3bACs) | 3:47 |
-| 48 | [A.D.O.](https://open.spotify.com/track/1zP1eEWNTrTJxDeGNv0XjH) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [40 Años Vol\. 1](https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1) | 4:54 |
-| 49 | [Veneno Vil](https://open.spotify.com/track/7lBKa0oQnv6w2AgFiBqRW2) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Amor Chiquito](https://open.spotify.com/album/1oNccmu6KxWyQnGi9P7g5u) | 4:57 |
+| 48 | [Veneno Vil](https://open.spotify.com/track/7lBKa0oQnv6w2AgFiBqRW2) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Amor Chiquito](https://open.spotify.com/album/1oNccmu6KxWyQnGi9P7g5u) | 4:57 |
+| 49 | [A.D.O.](https://open.spotify.com/track/1zP1eEWNTrTJxDeGNv0XjH) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [40 Años Vol\. 1](https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1) | 4:54 |
 | 50 | [Mi Agüita Amarilla](https://open.spotify.com/track/2fYRXoal0ysbJJBUddCGDb) | [Los Toreros Muertos](https://open.spotify.com/artist/6o3v1RDHCgICZ7I4y1BtJI) | [30 Años de Éxitos](https://open.spotify.com/album/2LiQiHqbqGuzxXYYnfcySo) | 5:39 |
 | 51 | [Mamá](https://open.spotify.com/track/2oA3tCnnhyMaCVzS5MLZZY) | [Los Amantes De Lola](https://open.spotify.com/artist/7IwYwKG6VacXOThKHvPgUc) | [Rock En Espanol \- Lo Mejor De Los Amantes De Lola](https://open.spotify.com/album/38l9gB9jzOiWkQaR36ZhUG) | 3:46 |
 | 52 | [Déjame](https://open.spotify.com/track/74anwTmdyvA3f8RUtCQqKD) | [Los Secretos](https://open.spotify.com/artist/2KEDbpUlz9nwtGywHT4gyf) | [Los Secretos](https://open.spotify.com/album/1XVL4fl2DMeU1JOPVH6K17) | 2:40 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdjpubZsBTg5.md) - [plain]
 | 57 | [Dime Jaguar](https://open.spotify.com/track/1KnhTAyAcYZ4hO9YBWAATe) | [Jaguares](https://open.spotify.com/artist/1RgXxY6uzWo9cjYYwwgVGq) | [El Equilibrio De Los Jaguares](https://open.spotify.com/album/345ZGeUupFETaN36llAJCR) | 4:57 |
 | 58 | [Nada Personal](https://open.spotify.com/track/2VWQAtJhyN3sQPJidCbP8v) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Obras Cumbres \(Parte 2\)](https://open.spotify.com/album/1I2nAQWVXtI9xJ0xuRBLYV) | 4:52 |
 | 59 | [Bailando en las Veredas](https://open.spotify.com/track/2q4WF7KqM5yvVoQNCyHHZd) | [Raul Porchetto](https://open.spotify.com/artist/3WoxTj3fh8I58MpnwZyYyL) | [Noche y Día](https://open.spotify.com/album/0FWccOOClD62jDsDvqj6Gl) | 4:16 |
-| 60 | [Me Duele La Cara De Ser Tan Guapo](https://open.spotify.com/track/0aIO4vndXigQGEo3hbIkhq) | [Los Inhumanos](https://open.spotify.com/artist/2Q7w7UHyeHu98cUhPcVEBz) | [30 Hombres Solos](https://open.spotify.com/album/0aFdQ1uCqwcrvsfSam3ydw) | 3:51 |
+| 60 | [Viento Loco](https://open.spotify.com/track/1wgUsPEuNiMMOsKYIzKabj) | [GIT](https://open.spotify.com/artist/21o0KNjooi1XjygW6V70NM) | [Vol I](https://open.spotify.com/album/3MMn99oMe2maysD6Vq441s) | 3:18 |
 
 Snapshot ID: `AAAAANrcQ4sl4GFZk2U+2GirOyGWnvHw`

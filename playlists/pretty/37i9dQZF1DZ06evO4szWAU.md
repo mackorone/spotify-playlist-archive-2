@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4szWAU.md) - [plain]
 
 > This is Willie Colón\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,217 likes - 50 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,237 likes - 50 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4szWAU.md) - [plain]
 | 49 | [Güaracha](https://open.spotify.com/track/4XYL7aZZALAQNgaZJJoWaH) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [The Good, The Bad, And The Ugly](https://open.spotify.com/album/3LDMqOKiHh17XZlSjDfQSn) | 5:08 |
 | 50 | [Plazos Traicioneros \- Remastered 2024](https://open.spotify.com/track/7Ml5UAdvDfXljFSwHCHwTj) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Only They Could Have Made This Album \(Remastered 2024\)](https://open.spotify.com/album/7JCLehSDJvpbC1NGmypzlM) | 2:52 |
 
-Snapshot ID: `asgugAAAAACe91OMaK++0sKGJ1IY9qVW`
+Snapshot ID: `asmAAAAAAAAdTH5hGOFgjr0dNIrgz9wX`

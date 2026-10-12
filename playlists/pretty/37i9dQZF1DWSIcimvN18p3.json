@@ -1,6 +1,6 @@
 {
   "description": "Dive into the women of folk and roots music\u2014from Americana icons to roots rock, singer-songwriter, and indie-folk favorites. Cover: Aldous Harding",
-  "num_followers": 335627,
+  "num_followers": 335631,
   "original_name": "Women of Folk",
   "owner": {
     "name": "Spotify",
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
-        "name": "Expectations",
-        "url": "https://open.spotify.com/album/1v30ZLtb2nYIWqDto4GuIP"
-      },
-      "artists": [
-        {
-          "name": "Katie Pruitt",
-          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
-        }
-      ],
-      "duration_ms": 312613,
-      "name": "Out Of The Blue",
-      "url": "https://open.spotify.com/track/3aV4xJGmhJHnyRhnzx5iHE"
-    },
-    {
-      "added_at": "2026-05-15 04:01:12",
-      "album": {
         "name": "Ear to the Ground",
         "url": "https://open.spotify.com/album/3Sse6vFrnjwRIriJaxV38q"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 131440,
       "name": "Little Boxes",
       "url": "https://open.spotify.com/track/0dRvjBVCStIlBxOqbhAQ3q"
+    },
+    {
+      "added_at": "2026-05-15 04:01:12",
+      "album": {
+        "name": "Expectations",
+        "url": "https://open.spotify.com/album/1v30ZLtb2nYIWqDto4GuIP"
+      },
+      "artists": [
+        {
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+        }
+      ],
+      "duration_ms": 312613,
+      "name": "Out Of The Blue",
+      "url": "https://open.spotify.com/track/3aV4xJGmhJHnyRhnzx5iHE"
     },
     {
       "added_at": "2026-05-15 04:01:12",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
-        "name": "Cusp",
-        "url": "https://open.spotify.com/album/6jGsKEUE3weS6QBs5tR2M4"
-      },
-      "artists": [
-        {
-          "name": "Alela Diane",
-          "url": "https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7"
-        }
-      ],
-      "duration_ms": 191813,
-      "name": "\u00c9migr\u00e9",
-      "url": "https://open.spotify.com/track/3t9dQLtZPB8dXRu6QrQYLS"
-    },
-    {
-      "added_at": "2026-05-15 04:01:12",
-      "album": {
         "name": "Motel Bouquet",
         "url": "https://open.spotify.com/album/1wzGEFBlLXHmoW4OK4Qapu"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 184787,
       "name": "Motel",
       "url": "https://open.spotify.com/track/6qe4MSI8cWbBqo2YBNmUic"
+    },
+    {
+      "added_at": "2026-05-15 04:01:12",
+      "album": {
+        "name": "Cusp",
+        "url": "https://open.spotify.com/album/6jGsKEUE3weS6QBs5tR2M4"
+      },
+      "artists": [
+        {
+          "name": "Alela Diane",
+          "url": "https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7"
+        }
+      ],
+      "duration_ms": 191813,
+      "name": "\u00c9migr\u00e9",
+      "url": "https://open.spotify.com/track/3t9dQLtZPB8dXRu6QrQYLS"
     },
     {
       "added_at": "2026-05-15 04:01:12",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
-        "name": "Paradise Hotel",
-        "url": "https://open.spotify.com/album/2PEWS3JPX85pShEiYXmlLa"
-      },
-      "artists": [
-        {
-          "name": "Eliza Gilkyson",
-          "url": "https://open.spotify.com/artist/1x2vfyp8dGA84qgwb3D9QG"
-        }
-      ],
-      "duration_ms": 349413,
-      "name": "Is It Like Today",
-      "url": "https://open.spotify.com/track/09DewAwnhcRWoN0VOEB8u4"
-    },
-    {
-      "added_at": "2026-05-15 04:01:12",
-      "album": {
         "name": "Not Dark Yet",
         "url": "https://open.spotify.com/album/6KLlg2TYo3TlQjoJ5kACeQ"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 259917,
       "name": "Not Dark Yet",
       "url": "https://open.spotify.com/track/1dEaOuZdcUDIzFWYzv2MG4"
+    },
+    {
+      "added_at": "2026-05-15 04:01:12",
+      "album": {
+        "name": "Paradise Hotel",
+        "url": "https://open.spotify.com/album/2PEWS3JPX85pShEiYXmlLa"
+      },
+      "artists": [
+        {
+          "name": "Eliza Gilkyson",
+          "url": "https://open.spotify.com/artist/1x2vfyp8dGA84qgwb3D9QG"
+        }
+      ],
+      "duration_ms": 349413,
+      "name": "Is It Like Today",
+      "url": "https://open.spotify.com/track/09DewAwnhcRWoN0VOEB8u4"
     },
     {
       "added_at": "2026-05-15 04:01:12",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
-        "name": "Pushin' Against A Stone",
-        "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
+        "name": "Home Plate (2008 Remaster)",
+        "url": "https://open.spotify.com/album/5yBKOUYfEPb2CgFLpgeFLX"
       },
       "artists": [
         {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 185506,
-      "name": "Workin' Woman Blues",
-      "url": "https://open.spotify.com/track/58KQWfgO3DEu4kHlsmQEXz"
+      "duration_ms": 167200,
+      "name": "Your Sweet and Shiny Eyes - 2008 Remaster",
+      "url": "https://open.spotify.com/track/34FN0vnOsqW7okjKNJ2uUE"
     },
     {
       "added_at": "2026-05-15 04:01:12",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
-        "name": "Home Plate (2008 Remaster)",
-        "url": "https://open.spotify.com/album/5yBKOUYfEPb2CgFLpgeFLX"
+        "name": "Pushin' Against A Stone",
+        "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
       },
       "artists": [
         {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 167200,
-      "name": "Your Sweet and Shiny Eyes - 2008 Remaster",
-      "url": "https://open.spotify.com/track/34FN0vnOsqW7okjKNJ2uUE"
+      "duration_ms": 185506,
+      "name": "Workin' Woman Blues",
+      "url": "https://open.spotify.com/track/58KQWfgO3DEu4kHlsmQEXz"
     },
     {
       "added_at": "2026-05-15 04:01:12",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
-        "name": "Jeremiah / Why\u2019d Ya Do It",
-        "url": "https://open.spotify.com/album/0AaN7st0yKbhu2QcamRXxJ"
-      },
-      "artists": [
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 184558,
-      "name": "Jeremiah",
-      "url": "https://open.spotify.com/track/6DVPXh16r4Bl1V1SINfFeB"
-    },
-    {
-      "added_at": "2026-05-15 04:01:12",
-      "album": {
         "name": "Optimism",
         "url": "https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 119372,
       "name": "Optimism",
       "url": "https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF"
+    },
+    {
+      "added_at": "2026-05-15 04:01:12",
+      "album": {
+        "name": "Jeremiah / Why\u2019d Ya Do It",
+        "url": "https://open.spotify.com/album/0AaN7st0yKbhu2QcamRXxJ"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 184558,
+      "name": "Jeremiah",
+      "url": "https://open.spotify.com/track/6DVPXh16r4Bl1V1SINfFeB"
     },
     {
       "added_at": "2026-05-15 04:01:12",
@@ -1459,6 +1459,22 @@
       "duration_ms": 229893,
       "name": "Calling Me Home (with Francesco Turrisi)",
       "url": "https://open.spotify.com/track/2C6qZqsYHMFuY0GopknQRr"
+    },
+    {
+      "added_at": "2026-05-15 04:01:12",
+      "album": {
+        "name": "A Southern Gothic",
+        "url": "https://open.spotify.com/album/05ZMEHBBxF23Qm0GDclz3n"
+      },
+      "artists": [
+        {
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+        }
+      ],
+      "duration_ms": 209546,
+      "name": "Magnolia Blues",
+      "url": "https://open.spotify.com/track/168mDRF95TUgri1Kbl9GYA"
     },
     {
       "added_at": "2026-05-15 04:01:12",
@@ -1507,22 +1523,6 @@
       "duration_ms": 241203,
       "name": "Banshee Moan",
       "url": "https://open.spotify.com/track/5HjMZLtFasGq1zqeP4kWMU"
-    },
-    {
-      "added_at": "2026-05-15 04:01:12",
-      "album": {
-        "name": "A Southern Gothic",
-        "url": "https://open.spotify.com/album/05ZMEHBBxF23Qm0GDclz3n"
-      },
-      "artists": [
-        {
-          "name": "Adia Victoria",
-          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
-        }
-      ],
-      "duration_ms": 209546,
-      "name": "Magnolia Blues",
-      "url": "https://open.spotify.com/track/168mDRF95TUgri1Kbl9GYA"
     },
     {
       "added_at": "2026-05-15 04:01:12",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
-        "name": "Blue Heron Suite",
-        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 208746,
-      "name": "Morning",
-      "url": "https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf"
-    },
-    {
-      "added_at": "2026-05-15 04:01:12",
-      "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 206950,
       "name": "Everything Everything",
       "url": "https://open.spotify.com/track/0q0Vlb5g3DV8pysqIllbiR"
+    },
+    {
+      "added_at": "2026-05-15 04:01:12",
+      "album": {
+        "name": "Blue Heron Suite",
+        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 208746,
+      "name": "Morning",
+      "url": "https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf"
     },
     {
       "added_at": "2026-05-15 04:01:12",
@@ -2095,22 +2095,6 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
-        "name": "Do You See The Light Around Me?",
-        "url": "https://open.spotify.com/album/4ryLljFHWYTslwrz8l0UTK"
-      },
-      "artists": [
-        {
-          "name": "Uwade",
-          "url": "https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL"
-        }
-      ],
-      "duration_ms": 204034,
-      "name": "Do You See The Light Around Me?",
-      "url": "https://open.spotify.com/track/6pPfKmVvvu1ztJxqvpQ4Vm"
-    },
-    {
-      "added_at": "2026-05-15 04:01:12",
-      "album": {
         "name": "Songs of Our Native Daughters",
         "url": "https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A"
       },
@@ -2123,6 +2107,22 @@
       "duration_ms": 282586,
       "name": "Quasheba, Quasheba",
       "url": "https://open.spotify.com/track/1Ksgx6hc1sXyIWmUMa2wKJ"
+    },
+    {
+      "added_at": "2026-05-15 04:01:12",
+      "album": {
+        "name": "Do You See The Light Around Me?",
+        "url": "https://open.spotify.com/album/4ryLljFHWYTslwrz8l0UTK"
+      },
+      "artists": [
+        {
+          "name": "Uwade",
+          "url": "https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL"
+        }
+      ],
+      "duration_ms": 204034,
+      "name": "Do You See The Light Around Me?",
+      "url": "https://open.spotify.com/track/6pPfKmVvvu1ztJxqvpQ4Vm"
     },
     {
       "added_at": "2026-05-15 04:01:12",
@@ -2267,6 +2267,22 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
+        "name": "That's How Rumors Get Started",
+        "url": "https://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL"
+      },
+      "artists": [
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        }
+      ],
+      "duration_ms": 194533,
+      "name": "Letting Me Down",
+      "url": "https://open.spotify.com/track/0CFJazMm76jtItqdPYQ53O"
+    },
+    {
+      "added_at": "2026-05-15 04:01:12",
+      "album": {
         "name": "Royal Traveller",
         "url": "https://open.spotify.com/album/0O6Nyhc5bVD0iYtEq5J3sZ"
       },
@@ -2295,22 +2311,6 @@
       "duration_ms": 236614,
       "name": "Swept Away",
       "url": "https://open.spotify.com/track/0j1lzFyh427bXhDHLeth6q"
-    },
-    {
-      "added_at": "2026-05-15 04:01:12",
-      "album": {
-        "name": "That's How Rumors Get Started",
-        "url": "https://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL"
-      },
-      "artists": [
-        {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
-        }
-      ],
-      "duration_ms": 194533,
-      "name": "Letting Me Down",
-      "url": "https://open.spotify.com/track/0CFJazMm76jtItqdPYQ53O"
     },
     {
       "added_at": "2026-05-15 04:01:12",
@@ -2435,22 +2435,6 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
-        "name": "Working Man",
-        "url": "https://open.spotify.com/album/75BL5XrMZ7cF1mcIbs4oYA"
-      },
-      "artists": [
-        {
-          "name": "Maya De Vitry",
-          "url": "https://open.spotify.com/artist/183NiypM74rwjSbeava1pq"
-        }
-      ],
-      "duration_ms": 202506,
-      "name": "Working Man",
-      "url": "https://open.spotify.com/track/37qKqyFLGmIM46OlQYLQpe"
-    },
-    {
-      "added_at": "2026-05-15 04:01:12",
-      "album": {
         "name": "Stand In",
         "url": "https://open.spotify.com/album/2RWRXkpztNYWDRy73TJ49H"
       },
@@ -2463,6 +2447,22 @@
       "duration_ms": 286388,
       "name": "Stand In",
       "url": "https://open.spotify.com/track/2WCtBAhKakTG4YT3hKpAbh"
+    },
+    {
+      "added_at": "2026-05-15 04:01:12",
+      "album": {
+        "name": "Working Man",
+        "url": "https://open.spotify.com/album/75BL5XrMZ7cF1mcIbs4oYA"
+      },
+      "artists": [
+        {
+          "name": "Maya De Vitry",
+          "url": "https://open.spotify.com/artist/183NiypM74rwjSbeava1pq"
+        }
+      ],
+      "duration_ms": 202506,
+      "name": "Working Man",
+      "url": "https://open.spotify.com/track/37qKqyFLGmIM46OlQYLQpe"
     },
     {
       "added_at": "2026-05-15 04:01:12",

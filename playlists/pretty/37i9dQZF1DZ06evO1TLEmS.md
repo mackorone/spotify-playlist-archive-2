@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1TLEmS.md) - [plain]
 
 > This is Madison Cunningham\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,829 likes - 49 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,828 likes - 49 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1TLEmS.md) - [plain]
 | 48 | [Common Language](https://open.spotify.com/track/3rEwolA0qEDonOpKkws7V7) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Who Are You Now](https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy) | 4:26 |
 | 49 | [Arrow Through Me](https://open.spotify.com/track/0WqFBfRAMFqOu5bLKojjIL) | [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [LIFE](https://open.spotify.com/album/2wHNkXpAGzy5MCJg0ZpbIX) | 2:46 |
 
-Snapshot ID: `asgugAAAAADRWi/rtnVNRN17dsiDAHaQ`
+Snapshot ID: `asmAAAAAAAAToMmmuPQFZo2QrldAet/a`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ERdy9Swdy5.md) - [plain]
 
 > Lo mejor de la década\. En portada: Joe Arroyo
 
-[Spotify](https://open.spotify.com/user/spotify) - 813,716 likes - 100 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 813,782 likes - 100 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ERdy9Swdy5.md) - [plain]
 | 49 | [Porque Te Amo](https://open.spotify.com/track/2mjcSFZm71YuqETWajjWFj) | [Nino Segarra](https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK) | [Con La Musica Por Dentro](https://open.spotify.com/album/7Cy84J50vfGKkeJFr2vFqx) | 5:06 |
 | 50 | [No Le Temas A El](https://open.spotify.com/track/6uI5fS4AMfwzogYg5bt5jK) | [Anthony Cruz](https://open.spotify.com/artist/1sM3IJxKOV5gc3JfvxWADC) | [Algo Nuevo](https://open.spotify.com/album/3YTADbz8JeI6slSeV5guJU) | 5:24 |
 | 51 | [No Puedo Prescindir De Ti](https://open.spotify.com/track/7LDZh6bVrES7Z9RuD4HMTC) | [Luisito Ayala Y La Puerto Rican Power](https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7) | [Super Exitos](https://open.spotify.com/album/4ny39fXV8NndHMSBu1V0bT) | 4:10 |
-| 52 | [Lo Mío Es Amor](https://open.spotify.com/track/5TenfxSo2F8ugYyAeUgNwm) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [Lo Mio Es Amor](https://open.spotify.com/album/4Bncf3gkuJc3p3W2DKMpGK) | 5:09 |
-| 53 | [Todo](https://open.spotify.com/track/03T7M7m00T0WMGdS3z3WWn) | [DLG](https://open.spotify.com/artist/0z0w28IvsF1gsKhVAMbh9p) | [Lo Esencial](https://open.spotify.com/album/60IcnJNtwZVqhvuzf9mGcz) | 4:41 |
+| 52 | [Todo](https://open.spotify.com/track/03T7M7m00T0WMGdS3z3WWn) | [DLG](https://open.spotify.com/artist/0z0w28IvsF1gsKhVAMbh9p) | [Lo Esencial](https://open.spotify.com/album/60IcnJNtwZVqhvuzf9mGcz) | 4:41 |
+| 53 | [Lo Mío Es Amor](https://open.spotify.com/track/5TenfxSo2F8ugYyAeUgNwm) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [Lo Mio Es Amor](https://open.spotify.com/album/4Bncf3gkuJc3p3W2DKMpGK) | 5:09 |
 | 54 | [Amor Mío No Te Vayas \- En Vivo Desde El Carnegie Hall Version](https://open.spotify.com/track/4d6AEuczMXLXDIbUYevHSp) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [En Vivo Desde El Carnegie Hall](https://open.spotify.com/album/3ASsv46z8jp15gwRTOjy22) | 7:26 |
 | 55 | [Amor Traicionero](https://open.spotify.com/track/236m1GMOYO0k7WhbZ5Jdyq) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Edición Limitada](https://open.spotify.com/album/7JyQeX40JXO24zFZrdSWpl) | 4:46 |
 | 56 | [Amiga](https://open.spotify.com/track/59Fg7F5Azwd3oDSJ3vemne) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Oro Salsero](https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE) | 4:39 |

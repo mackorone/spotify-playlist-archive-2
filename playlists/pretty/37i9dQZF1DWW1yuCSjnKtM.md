@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1yuCSjnKtM.md) - [plain]
 
 > Hot right now 📈 cover: Gener8ion, Yung Lean
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,390 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,379 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

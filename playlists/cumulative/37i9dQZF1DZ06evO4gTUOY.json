@@ -662,7 +662,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 282026,
       "name": "Go To Sleep",
       "url": "https://open.spotify.com/track/66ezChUOWvgzRQAi3Ay1wt"
@@ -1216,6 +1216,36 @@
       "duration_ms": 244679,
       "name": "Lucky You (feat. Joyner Lucas)",
       "url": "https://open.spotify.com/track/60SdxE8apGAxMiRrpbmLY0"
+    },
+    {
+      "album": {
+        "name": "MADARA (with Eminem)",
+        "url": "https://open.spotify.com/album/6dF6B4EBpatZbuFC1DbEK4"
+      },
+      "artists": [
+        {
+          "name": "EZ MIL",
+          "url": "https://open.spotify.com/artist/1IQ4CjwKkdARjL5KtYiMt4"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Neil Kaplan",
+          "url": "https://open.spotify.com/artist/53aJcejXOK8cLawUOR5VEB"
+        },
+        {
+          "name": "Hideyoshi",
+          "url": "https://open.spotify.com/artist/6CYau5txsDk6Flq7NmlUG7"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295866,
+      "name": "MADARA (with Eminem)",
+      "url": "https://open.spotify.com/track/4SaYK1xomZ5jAIOnqClQsV"
     },
     {
       "album": {

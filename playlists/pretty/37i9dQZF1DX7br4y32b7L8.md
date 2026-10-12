@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 
 > \#fyp songs voor je playlist\. Cover: Issah
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,606 likes - 60 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,621 likes - 60 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

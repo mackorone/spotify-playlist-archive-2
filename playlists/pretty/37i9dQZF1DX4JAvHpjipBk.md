@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Slayyyter, Gunna, Troye Sivan, Remi Wolf and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,644,489 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,644,169 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2hj3ZtMbuO.md) - [plain]
 
 > Sapphic songs that defined your music taste as "yearning."
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,598,892 likes - 75 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,599,033 likes - 75 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2hj3ZtMbuO.md) - [plain]
 | 62 | [Visions of Gideon](https://open.spotify.com/track/5c9qm0bMYawSyRNUTmUMs5) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Call Me by Your Name \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/531pUFZ1BbEhfXDxitF8TU) | 4:07 |
 | 63 | [Real House](https://open.spotify.com/track/62R903SYfJm79xxLhjEhyW) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Bright Future](https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku) | 5:58 |
 | 64 | [Nothing's New](https://open.spotify.com/track/0EF1EE8zusg3Y869e56JFd) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Good God!](https://open.spotify.com/album/3fIxJzinc2MADbgfkLrmYY) | 3:31 |
-| 65 | [\(You\) On My Arm](https://open.spotify.com/track/29nzgSkf11owK8vO9iBgCq) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [To Learn](https://open.spotify.com/album/5k6lsjpZK4l4J9oMQmBR1l) | 4:04 |
-| 66 | [She](https://open.spotify.com/track/45h4w81P5iJJTSeR0jJUQ8) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Human](https://open.spotify.com/album/6Kr92CEAh6YLlEO8ubps17) | 3:33 |
+| 65 | [She](https://open.spotify.com/track/45h4w81P5iJJTSeR0jJUQ8) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Human](https://open.spotify.com/album/6Kr92CEAh6YLlEO8ubps17) | 3:33 |
+| 66 | [\(You\) On My Arm](https://open.spotify.com/track/29nzgSkf11owK8vO9iBgCq) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [To Learn](https://open.spotify.com/album/5k6lsjpZK4l4J9oMQmBR1l) | 4:04 |
 | 67 | [There's A Rhythmn](https://open.spotify.com/track/7uWS4zoWMNU9fUPojMYilC) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 5:16 |
 | 68 | [Come Over \(Again\)](https://open.spotify.com/track/4PDJDIdWxNN1AlnbrKkoPf) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [Crawlers \- EP](https://open.spotify.com/album/4wePwIhGnXxJ3tRFAusMAE) | 4:14 |
 | 69 | [Come Down Soon](https://open.spotify.com/track/6rEcXviYlZCEx01m1z7qZv) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 3:44 |

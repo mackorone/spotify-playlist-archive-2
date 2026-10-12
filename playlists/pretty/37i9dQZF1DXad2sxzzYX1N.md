@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXad2sxzzYX1N.md) - [plain]
 
 > The indie viral hits you can't escape\. Cover: Charli xcx
 
-[Spotify](https://open.spotify.com/user/spotify) - 709,924 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 710,140 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,11 +51,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXad2sxzzYX1N.md) - [plain]
 | 41 | [iloveitiloveitiloveit](https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [iloveitiloveitiloveit](https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF) | 3:03 |
 | 42 | [honeybee](https://open.spotify.com/track/4kX7xkopoXZCfE1D6fNwl2) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY) | 3:43 |
 | 43 | [Washing Machine Heart](https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 2:08 |
-| 44 | [Heart To Heart](https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Here Comes The Cowboy](https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW) | 3:31 |
-| 45 | [Drag Path](https://open.spotify.com/track/0TlcczkVTGpinpkGJpT81L) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Drag Path](https://open.spotify.com/album/27KwvdCscr3IQtSbnyAZpo) | 3:44 |
-| 46 | [party 4 u](https://open.spotify.com/track/2RdEC8Ff83WkX7kDVCHseE) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 4:56 |
-| 47 | [All I Need](https://open.spotify.com/track/5Qv2Nby1xTr9pQyjkrc94J) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) | 3:48 |
-| 48 | [Tek It](https://open.spotify.com/track/751srcHf5tUqcEa9pRCQwP) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Running](https://open.spotify.com/album/2dEf6lN5qYFQQy3Jd3ScHG) | 3:11 |
+| 44 | [Drag Path](https://open.spotify.com/track/0TlcczkVTGpinpkGJpT81L) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Drag Path](https://open.spotify.com/album/27KwvdCscr3IQtSbnyAZpo) | 3:44 |
+| 45 | [party 4 u](https://open.spotify.com/track/2RdEC8Ff83WkX7kDVCHseE) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 4:56 |
+| 46 | [Heart To Heart](https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Here Comes The Cowboy](https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW) | 3:31 |
+| 47 | [Tek It](https://open.spotify.com/track/751srcHf5tUqcEa9pRCQwP) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Running](https://open.spotify.com/album/2dEf6lN5qYFQQy3Jd3ScHG) | 3:11 |
+| 48 | [All I Need](https://open.spotify.com/track/5Qv2Nby1xTr9pQyjkrc94J) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) | 3:48 |
 | 49 | [Edge of the Earth](https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 2:40 |
 | 50 | [I'll Believe in Anything](https://open.spotify.com/track/7zxikeAavSLQVGocbK2nau) | [Wolf Parade](https://open.spotify.com/artist/0XSqX2PB3C5dTMv7SZaxSm) | [Apologies to the Queen Mary](https://open.spotify.com/album/6ZeO3WNF2Gti8ZQnXog5SQ) | 4:36 |
 | 51 | [Heavy](https://open.spotify.com/track/1ShRHPAiiIrh0arZbSFmx1) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [CINEMA](https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v) | 4:13 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXad2sxzzYX1N.md) - [plain]
 | 62 | [When the Sun Hits](https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Souvlaki](https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z) | 4:45 |
 | 63 | [Illegal](https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:29 |
 | 64 | [Disco](https://open.spotify.com/track/2Lumsra3kuU61wXkEKzKaK) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Disco](https://open.spotify.com/album/46LE2xR4e92aVvo1QlUiS3) | 2:32 |
-| 65 | [anything](https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 3:22 |
-| 66 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 |
+| 65 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 |
+| 66 | [anything](https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 3:22 |
 | 67 | [Somewhere Only We Know](https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI) | 3:56 |
 | 68 | [I Smoked Away My Brain \(I'm God x Demons Mashup\) \(feat\. Imogen Heap & Clams Casino\)](https://open.spotify.com/track/3ZaEs1O8BG581qYPHpQ8d6) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz), [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A) | [I Smoked Away My Brain \(I'm God x Demons Mashup\) \(feat\. Imogen Heap & Clams Casino\)](https://open.spotify.com/album/3eb4GbFzAMjgoRAuuSkoLo) | 3:10 |
 | 69 | [Real Love Baby](https://open.spotify.com/track/0Z57YWES04xGh3AImDz6Qr) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Real Love Baby](https://open.spotify.com/album/75614DWrksimeV4oXUhaYP) | 3:09 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXad2sxzzYX1N.md) - [plain]
 | 89 | [Cico Buff](https://open.spotify.com/track/4csSjpkgRI06CpVeYfIjwM) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Blue Bell Knoll](https://open.spotify.com/album/3SXCY4kFMM4T4egq5DSUTa) | 3:46 |
 | 90 | [Me and the Devil](https://open.spotify.com/track/0wrWxW18WK2MkrfDpRHkyh) | [Soap&Skin](https://open.spotify.com/artist/2mAYpnSe3g2Y22JcZ2ddku) | [Sugarbread](https://open.spotify.com/album/5yuGLsbL0XTjON5tewyApa) | 3:05 |
 | 91 | [Help I'm Alive](https://open.spotify.com/track/0cahtHEywK64NSWqm2SDTi) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Fantasies](https://open.spotify.com/album/1N2HeWMUjuAxYL7UnA63JH) | 4:46 |
-| 92 | [Cannock Chase](https://open.spotify.com/track/0WAEGVylZjbe2mQ6Or6HxY) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Crying Laughing Loving Lying](https://open.spotify.com/album/3KJxMjUnBZu3jLeQTIe6aQ) | 4:06 |
-| 93 | [mirrors demo](https://open.spotify.com/track/5Jh7Gc5aF6leolD64pNRD5) | [overtonight throwaways](https://open.spotify.com/artist/5d1xapXUqUmq0CpozCAhr7), [overtonight](https://open.spotify.com/artist/3WUqGdcFJJquJgCPkEzCfs) | [SWAT](https://open.spotify.com/album/4D9FbyngDN1YQM7otNAu1a) | 1:45 |
+| 92 | [mirrors demo](https://open.spotify.com/track/5Jh7Gc5aF6leolD64pNRD5) | [overtonight throwaways](https://open.spotify.com/artist/5d1xapXUqUmq0CpozCAhr7), [overtonight](https://open.spotify.com/artist/3WUqGdcFJJquJgCPkEzCfs) | [SWAT](https://open.spotify.com/album/4D9FbyngDN1YQM7otNAu1a) | 1:45 |
+| 93 | [Cannock Chase](https://open.spotify.com/track/0WAEGVylZjbe2mQ6Or6HxY) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Crying Laughing Loving Lying](https://open.spotify.com/album/3KJxMjUnBZu3jLeQTIe6aQ) | 4:06 |
 | 94 | [Can I Call You Rose?](https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE) | 3:10 |
 | 95 | [Velvet Ring \- 2023 Remaster](https://open.spotify.com/track/3oBNQdDbNrs8wQbcZ3BXwP) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Masterpiece \(2023 Remaster\)](https://open.spotify.com/album/3dtiO2Vs4YZQOFCOCDgtxL) | 2:35 |
 | 96 | [Lovers](https://open.spotify.com/track/6bZuZKR8hoyzZXNh1IW2Bu) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Lovers](https://open.spotify.com/album/5NEfU3Z8PfjeJXABaHf1FF) | 3:35 |

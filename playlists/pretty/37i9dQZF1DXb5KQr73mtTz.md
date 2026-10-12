@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,381 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,386 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 | 32 | [Ivy](https://open.spotify.com/track/6wAJpkOPk0mZRCsue9W6X1) | [RIO](https://open.spotify.com/artist/3sSwsGMEcViUoDXzzcht3g) | [Ivy](https://open.spotify.com/album/2SWsW9JZ3fHmfpifUP6kDL) | 4:35 |
 | 33 | [Why break up? \(My love X Jeon Sang Keun\)](https://open.spotify.com/track/668e9vwoz1MhnFai3fNvHF) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [Why break up? \(My love X Jeon Sang Keun\)](https://open.spotify.com/album/3fKPvx8jP5KFx7nTatm88K) | 4:31 |
 | 34 | [Sunny](https://open.spotify.com/track/3s8c5I3sR7hGy6BfGgnM6T) | [Kim Hyunchang](https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB) | [long to be the garden](https://open.spotify.com/album/1hpg1QLQr7mmyW7XsrxJfq) | 3:12 |
-| 35 | [Afterlove](https://open.spotify.com/track/3hLUt6kR5zQel3G7KGgf52) | [Ourealgoat](https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1) | [Afterlove \(後愛\)](https://open.spotify.com/album/2s7wYj2uqeaOH6XRZQHGZv) | 3:26 |
-| 36 | [Try \(Journey Epilogue\)](https://open.spotify.com/track/7HK1elgUFULwdkMsiCbqoJ) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Try \(Journey Epilogue\)](https://open.spotify.com/album/5jb1JQY7bJhOWXlMjID9uQ) | 3:36 |
+| 35 | [Try \(Journey Epilogue\)](https://open.spotify.com/track/7HK1elgUFULwdkMsiCbqoJ) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Try \(Journey Epilogue\)](https://open.spotify.com/album/5jb1JQY7bJhOWXlMjID9uQ) | 3:36 |
+| 36 | [Afterlove](https://open.spotify.com/track/3hLUt6kR5zQel3G7KGgf52) | [Ourealgoat](https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1) | [Afterlove \(後愛\)](https://open.spotify.com/album/2s7wYj2uqeaOH6XRZQHGZv) | 3:26 |
 | 37 | [Villain](https://open.spotify.com/track/6wiasLz64Eo0qdwOEuuq2Q) | [1ANDON](https://open.spotify.com/artist/3FuZ5fJDy5kgZ994gpSmEf), [Kim Feelsun](https://open.spotify.com/artist/5jOztsbYMrFcbPauBMX6ih), [L\-like](https://open.spotify.com/artist/6L639z5gxUZ0uvXFewX9E7), [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [Phantom Pain](https://open.spotify.com/album/1UHtWE0ml91fMJkFHfsupS) | 3:15 |
 | 38 | [Empty words](https://open.spotify.com/track/3Hf9mJbB2Pif4n3VkB1Lzg) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Empty words](https://open.spotify.com/album/0rMu2ccCP5oQJnLogE2idU) | 4:12 |
 | 39 | [Please Forget Me](https://open.spotify.com/track/6wsPqzuErrbr6ZmnQiT8cG) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [Please Forget Me](https://open.spotify.com/album/4U5CaXlqvjccAJlP5vP5uT) | 4:31 |
@@ -52,10 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 | 42 | [You Ruined Me](https://open.spotify.com/track/5G9yKd2KszcMMK6FaXnzq1) | [Sojung](https://open.spotify.com/artist/3tguePgWKGvSKBrRZYs5lP) | [You Ruined Me](https://open.spotify.com/album/7twWecwz0kjiceI9rLbFzk) | 3:39 |
 | 43 | [I’m Still Into You \(Would You Marry Me? : Original Television Soundtrack\)](https://open.spotify.com/track/3lDNvWzBnY6U8TkYefo7Zs) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Would You Marry Me?, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/5hZd82eDAI9iU8xOrY29Rw) | 3:25 |
 | 44 | [Dumb \(Feat\. Kim Seungmin, Chan\)](https://open.spotify.com/track/7ikmONRRDAN8Qi6C0B2qSp) | [Cosmic Boy](https://open.spotify.com/artist/305pg6Bs6Mz9Tm2zK66psY), [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [Can I Not ?](https://open.spotify.com/album/2oS4HX7sFBamp0sTlR9S2R) | 3:27 |
-| 45 | [Still Here](https://open.spotify.com/track/40ozUffOxCv6Ge5ip6jSN0) | [LEE BYEONGCHAN](https://open.spotify.com/artist/5KrpBywBTvZAMRyadIYX1s) | [Our Cosmos](https://open.spotify.com/album/2yudf19Ddb0ynglfZtKpD0) | 3:47 |
-| 46 | [Unreachable \(Feat\. Milena\)](https://open.spotify.com/track/3L0ipvNeREfCAJWCPaweUu) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Unreachable](https://open.spotify.com/album/5Stxf7cgE1761svCkuFFRm) | 3:06 |
-| 47 | [Still Here](https://open.spotify.com/track/7nVhKlC4JktgjoUXLdhly2) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [Still Here](https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU) | 3:39 |
-| 48 | [Let\`s never meet again](https://open.spotify.com/track/1ds0NS97ocY31n1PSE1DUT) | [Park Boram](https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi) | [Once again OST Part 1](https://open.spotify.com/album/23T8IExqplmEeLrmNhXpQR) | 3:36 |
+| 45 | [Unreachable \(Feat\. Milena\)](https://open.spotify.com/track/3L0ipvNeREfCAJWCPaweUu) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Unreachable](https://open.spotify.com/album/5Stxf7cgE1761svCkuFFRm) | 3:06 |
+| 46 | [Still Here](https://open.spotify.com/track/40ozUffOxCv6Ge5ip6jSN0) | [LEE BYEONGCHAN](https://open.spotify.com/artist/5KrpBywBTvZAMRyadIYX1s) | [Our Cosmos](https://open.spotify.com/album/2yudf19Ddb0ynglfZtKpD0) | 3:47 |
+| 47 | [Let\`s never meet again](https://open.spotify.com/track/1ds0NS97ocY31n1PSE1DUT) | [Park Boram](https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi) | [Once again OST Part 1](https://open.spotify.com/album/23T8IExqplmEeLrmNhXpQR) | 3:36 |
+| 48 | [Still Here](https://open.spotify.com/track/7nVhKlC4JktgjoUXLdhly2) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [Still Here](https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU) | 3:39 |
 | 49 | [Sorrow at my door\(Prod\. ROCOBERRY\)](https://open.spotify.com/track/28Hik8LLOdidQEfww8zGAN) | [Nam Gyu ri](https://open.spotify.com/artist/3Fp5JoccjllfLmNNnUuDkU) | [슬픔이 찾아와서 그래 \(Sorrow at my door\)](https://open.spotify.com/album/52NwC1WFnlSJpOtZ21CnRe) | 3:22 |
 | 50 | [The Walking Dead \(Feat\. Kim Feel\)](https://open.spotify.com/track/1LBNTcVnGw8eJ5oQQmmMZZ) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [HAPPEN](https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s) | 3:13 |
 

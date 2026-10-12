@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EuBHZ.md) - [plain]
 
 > This is Big Mama Thornton\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,032 likes - 47 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,033 likes - 47 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EuBHZ.md) - [plain]
 | 46 | [Walking Blues](https://open.spotify.com/track/2JLgnsgTIFbOvDGvbzninQ) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Hound Dog / The Peacock Recordings](https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S) | 3:01 |
 | 47 | [Laugh, Laugh, Laugh](https://open.spotify.com/track/2WQlIEjPYuVRqbz3EIbm0y) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Real Cool Cat](https://open.spotify.com/album/4ZTvUA6m87dAY6tXAYV25p) | 2:40 |
 
-Snapshot ID: `asbdAAAAAAANQcAOA2HwO/Fjstsys1Ha`
+Snapshot ID: `asmAAAAAAADVymXq6lB1U2D+crMAmlEh`

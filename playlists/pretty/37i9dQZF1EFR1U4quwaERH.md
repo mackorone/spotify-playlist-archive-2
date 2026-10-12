@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0B0BPkmlJbG5tsDwTUUcBq">Blush</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200 likes - 107 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 200 likes - 108 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 | 20 | [ICU \(Madison's Lullabye\)](https://open.spotify.com/track/3RmE7U94bBxbCaK1VwVdP7) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Dancing With The Devil…The Art of Starting Over \(Expanded Edition\)](https://open.spotify.com/album/3XsdVkuj3zMVHPRvodOgeE) | 3:16 |
 | 21 | [Work It Out](https://open.spotify.com/track/3dfSKcVcxle6GUL6i7FBjm) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [Music For People Who Believe In DNCE](https://open.spotify.com/album/5i9q6otDNQm25gyl5Ik3F3) | 2:30 |
 | 22 | [Grave](https://open.spotify.com/track/1XGBUVN05AaKaQ6hzcvKVG) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Free](https://open.spotify.com/album/2GD42iPt0jtcudvlMksV1d) | 3:11 |
-| 23 | [Find Me](https://open.spotify.com/track/25zDQjvFoACl4CzmjwmKu3) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Purpose \- The 2nd Album](https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr) | 4:07 |
-| 24 | [Mirror to the Sky](https://open.spotify.com/track/1iAsoCfNZM96cKRcNcRyJp) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Greetings From Your Hometown](https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR) | 3:23 |
+| 23 | [Mirror to the Sky](https://open.spotify.com/track/1iAsoCfNZM96cKRcNcRyJp) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Greetings From Your Hometown](https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR) | 3:23 |
+| 24 | [Find Me](https://open.spotify.com/track/25zDQjvFoACl4CzmjwmKu3) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Purpose \- The 2nd Album](https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr) | 4:07 |
 | 25 | [Remember Me \(feat\. Moncrieff & Blush\)](https://open.spotify.com/track/5hX77k1ZxCztVqL679pyfi) | [Alex Gaudino](https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d), [Bottai](https://open.spotify.com/artist/2wghI3P3W8vxgsb0le3Fgk), [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC), [Blush](https://open.spotify.com/artist/0kM8578RqYDhRJMOHVMt06) | [Remember Me \(feat\. Moncrieff & Blush\)](https://open.spotify.com/album/0WeDFtcUIBKYlih4rDFqQn) | 3:49 |
 | 26 | [15 Minutes](https://open.spotify.com/track/2JdScT0YydH9WcOWEVIIJl) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Dancing With The Devil…The Art of Starting Over \(Expanded Edition\)](https://open.spotify.com/album/3XsdVkuj3zMVHPRvodOgeE) | 2:51 |
 | 27 | [Blackberry Sap \(with Ari Lennox\)](https://open.spotify.com/track/5xpU73nutoJizKpX3TZRhS) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [D\-Day: A Gangsta Grillz Mixtape](https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy) | 2:29 |
@@ -87,9 +87,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 | 77 | [Alien](https://open.spotify.com/track/213RLfZyGBO20wzgpgngLG) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [Alien](https://open.spotify.com/album/4AV03OU3XeljPET3HW6ai5) | 3:41 |
 | 78 | [Break My Own Heart](https://open.spotify.com/track/4Nf8LoYyxI2R2HLqF2NhFq) | [Nia Monét](https://open.spotify.com/artist/08zBxR59xrYDnrohzxD7mx) | [Break My Own Heart](https://open.spotify.com/album/2PMs1WhPl2m8L1KPbq5sMI) | 2:21 |
 | 79 | [lighthouse](https://open.spotify.com/track/7KwHA6VxQUonpOzCFpi0eD) | [NAO AIHARA](https://open.spotify.com/artist/42u8PGWT2Ic13eOIsvRNM2) | [lighthouse](https://open.spotify.com/album/6Dd2pFTUprxK1FZbQtpxVk) | 3:44 |
-| 80 | [What Is Beautiful \- The Voice Performance](https://open.spotify.com/track/0V9bXbDWKURDQniD7usTzO) | [Brooke Simpson](https://open.spotify.com/artist/2HMZf6yC9JzK4BDAyNl2WE) | [The Complete Season 13 Collection \(The Voice Performance\)](https://open.spotify.com/album/4GxLc7XtUPDaSoFcQh0nKt) | 3:26 |
-| 81 | [Gone](https://open.spotify.com/track/1GHTYjolrAJBkFrQJUkBui) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [Gone](https://open.spotify.com/album/1WpOV23Sug5gCCXSjk8Eqd) | 2:50 |
-| 82 | [Problematic](https://open.spotify.com/track/74IV9ki3DphxwgUgbSChvf) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Little Miss Twain](https://open.spotify.com/album/7wFY6xghEoqMqVi1ojvtIa) | 3:24 |
+| 80 | [Problematic](https://open.spotify.com/track/74IV9ki3DphxwgUgbSChvf) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Little Miss Twain](https://open.spotify.com/album/7wFY6xghEoqMqVi1ojvtIa) | 3:24 |
+| 81 | [What Is Beautiful \- The Voice Performance](https://open.spotify.com/track/0V9bXbDWKURDQniD7usTzO) | [Brooke Simpson](https://open.spotify.com/artist/2HMZf6yC9JzK4BDAyNl2WE) | [The Complete Season 13 Collection \(The Voice Performance\)](https://open.spotify.com/album/4GxLc7XtUPDaSoFcQh0nKt) | 3:26 |
+| 82 | [Gone](https://open.spotify.com/track/1GHTYjolrAJBkFrQJUkBui) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [Gone](https://open.spotify.com/album/1WpOV23Sug5gCCXSjk8Eqd) | 2:50 |
 | 83 | [Unconditional](https://open.spotify.com/track/7BDWXrr18XcTLAdRVNwyxK) | [Ruben Studdard](https://open.spotify.com/artist/0H0yrKDty3I7pPrNUSH3wW) | [Unconditional Love \(Deluxe Edition\)](https://open.spotify.com/album/5FsbjrUkylThwjFohmcjzZ) | 3:48 |
 | 84 | [Walking and Whistling](https://open.spotify.com/track/680T0R2LxxBYOlkI1WCye9) | [The Toontown Tooners](https://open.spotify.com/artist/3skIyYGqzp3KSrfb2KfADr) | [Music from Mickey's Toontown](https://open.spotify.com/album/5bCGUsjittoLfG2La9JHPN) | 2:44 |
 | 85 | [Multiplicity](https://open.spotify.com/track/5FJrp4xbFzQmup3qKAl3Zd) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [Subject To Change](https://open.spotify.com/album/1qcVJ1Bp9CmACPIj0jmbmr) | 3:22 |
@@ -112,8 +112,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 | 102 | [Bittersweet](https://open.spotify.com/track/2XVx3CrFPfBft2UOeNrphk) | [Blush](https://open.spotify.com/artist/31rc0iQFBQBf1PcS7L3wIN) | [Bittersweet](https://open.spotify.com/album/1k6BwqyMHqnUAwbpsL27G4) | 3:21 |
 | 103 | [Cheers](https://open.spotify.com/track/74SFVRttFhSJ39uBIVL6cG) | [Tucker Nichol](https://open.spotify.com/artist/3M9ugSI1Vjp5mg1YpSjrVL) | [i swear i'm fine](https://open.spotify.com/album/5vc312BLfbRpBvX3GLdfDs) | 4:15 |
 | 104 | [Don't Know What to Call It](https://open.spotify.com/track/6zfZyw34dIJZh8WCZWMGMT) | [Blush](https://open.spotify.com/artist/31rc0iQFBQBf1PcS7L3wIN) | [Don't Know What to Call It](https://open.spotify.com/album/4cyMu0ajv2wk0C9YMItSuA) | 3:16 |
-| 105 | [Body Like](https://open.spotify.com/track/2KjiUXQ6LyvIEyHBeic0Pl) | [Tucker Nichol](https://open.spotify.com/artist/3M9ugSI1Vjp5mg1YpSjrVL) | [can you keep a secret](https://open.spotify.com/album/4NykbCCKaLZyrEND5C2IOF) | 4:08 |
-| 106 | [WADE](https://open.spotify.com/track/4oZRhm2x62qN6prKI3S4fO) | [Parker Phillips](https://open.spotify.com/artist/4G4U0Pmtl0I2JKqI7uvsJw) | [AWAKENING](https://open.spotify.com/album/4xblTWNkBQJQQF9l5p9suu) | 2:46 |
-| 107 | [Fire](https://open.spotify.com/track/3Ic9ajFl2aBmmQFXQus3Ed) | [Hawk Love](https://open.spotify.com/artist/3mNH3Eq13YnMTwo8vWwwTR) | [Fire](https://open.spotify.com/album/1h88EmeUgoP9Yjpdhz60Jh) | 4:16 |
+| 105 | [Hate That Way](https://open.spotify.com/track/3JbuRtoIXE9Evm6jUJleG8) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Little Miss Twain \- The Places I'll Go](https://open.spotify.com/album/025elCPgKgk6oamY3uLTZ6) | 2:46 |
+| 106 | [Body Like](https://open.spotify.com/track/2KjiUXQ6LyvIEyHBeic0Pl) | [Tucker Nichol](https://open.spotify.com/artist/3M9ugSI1Vjp5mg1YpSjrVL) | [can you keep a secret](https://open.spotify.com/album/4NykbCCKaLZyrEND5C2IOF) | 4:08 |
+| 107 | [WADE](https://open.spotify.com/track/4oZRhm2x62qN6prKI3S4fO) | [Parker Phillips](https://open.spotify.com/artist/4G4U0Pmtl0I2JKqI7uvsJw) | [AWAKENING](https://open.spotify.com/album/4xblTWNkBQJQQF9l5p9suu) | 2:46 |
+| 108 | [Fire](https://open.spotify.com/track/3Ic9ajFl2aBmmQFXQus3Ed) | [Hawk Love](https://open.spotify.com/artist/3mNH3Eq13YnMTwo8vWwwTR) | [Fire](https://open.spotify.com/album/1h88EmeUgoP9Yjpdhz60Jh) | 4:16 |
 
-Snapshot ID: `AcempAAAAADpQbolMerGuVkNsmnxwbNW`
+Snapshot ID: `AcesRAAAAAD/uq1AQ9slAZhoMtqFF33i`

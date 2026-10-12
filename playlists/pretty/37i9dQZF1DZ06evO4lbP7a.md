@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4lbP7a.md) - [plain]
 
 > This is yama\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,322 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,320 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4lbP7a.md) - [plain]
 | 49 | [春を告げる \- From THE FIRST TAKE](https://open.spotify.com/track/0QDjYBER1ZqISxA2Gc0cJe) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [春を告げる \- From THE FIRST TAKE](https://open.spotify.com/album/61OTGf8KiylPy39lihGoUs) | 5:00 |
 | 50 | [shadow dance](https://open.spotify.com/track/1tyfDn2VPRvh336veB1ajh) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [アダルトチックチルドレン](https://open.spotify.com/album/1fgsyeUzImXkMVBy1vVUNm) | 2:58 |
 
-Snapshot ID: `asbdAAAAAADvF3SSakTLM0fAWdPHctUQ`
+Snapshot ID: `asgugAAAAAAUGUxCGIDMANbGtQtCGAL8`

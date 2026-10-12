@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Busta Rhymes
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,551,321 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,551,201 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 49 | [Friendly Hallucinations](https://open.spotify.com/track/1lw3asU5xp73sdBy0rYsuK) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Balloonerism](https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY) | 4:45 |
 | 50 | [Summer '26](https://open.spotify.com/track/2AMQS3eYfMDQyuaXJoK6AL) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S) | [Summer '26](https://open.spotify.com/album/2rr1wxaebi84QWvm5B1ZbF) | 3:14 |
 
-Snapshot ID: `AAAAAPCZh9eDYYPYPlv4cPR8scVfVZ6U`
+Snapshot ID: `AAAAAL3M4B69gvmqZ18a21RJnKlQJBEr`

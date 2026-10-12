@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g3boY.md) - [plain]
 
 > This is Emicida\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,910 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,918 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g3boY.md) - [plain]
 | 49 | [Finado Neguim memo?](https://open.spotify.com/track/7JyTfeqT0jXjRMmuPh09vZ) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Amaro Freitas](https://open.spotify.com/artist/3Y37ixG7KDgDqxSE6PL679) | [Emicida Racional VL 2 \- Mesmas Cores & Mesmos Valores](https://open.spotify.com/album/0F6jY4tlKrI0whPSmhjlQn) | 2:42 |
 | 50 | [Trevo, Figuinha e Suor na Camisa](https://open.spotify.com/track/5884mCtM3DdbiNIeJzxsQ8) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Trevo, Figuinha e Suor na Camisa](https://open.spotify.com/album/2642lz4wM8Li5L6eXiuZv8) | 2:50 |
 
-Snapshot ID: `asgugAAAAADlT7xxijQJ3nRuVCCXfDW4`
+Snapshot ID: `asmAAAAAAABffjTlCfK1xedeAxA0ND2S`

@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLKM90w7qiQs.md) - [plain]
 | 65 | [Lost My Mind](https://open.spotify.com/track/6XwbwtZe0viiDSfBEPymYc) | [Nykki](https://open.spotify.com/artist/4tr3FhDOdmSORCDrH6Q4CX) | [Lost My Mind](https://open.spotify.com/album/0balRMgDmNaCfpG15ebZxN) | 3:45 |
 | 66 | [I’ll Be Here For You](https://open.spotify.com/track/2j1SimCZFJOQzOVA1R9SPT) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Still Learning](https://open.spotify.com/album/0go1bLt3pqNbRLCOWEYlQh) | 2:38 |
 | 67 | [Stupid Dog](https://open.spotify.com/track/3R9xeYBlGNDYFmaNHgGamd) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [CHAPTER 3: The Burning](https://open.spotify.com/album/4mqEv4XT01WQm45HTqgOEK) | 2:10 |
-| 68 | [Care Less](https://open.spotify.com/track/2Rs0Sd7bdJaTd9QYfA11Jf) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [The Art Of Closure](https://open.spotify.com/album/1uVSiPRSZMowsV2ZbbX4NW) | 3:46 |
-| 69 | [Say It Like You Mean It](https://open.spotify.com/track/2NmSbpmU94WloIuWGSeMCQ) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [IS IT FUN OR IS IT OVER?](https://open.spotify.com/album/74WPtnFgpaweZt8wSqcfQd) | 3:06 |
+| 68 | [Say It Like You Mean It](https://open.spotify.com/track/2NmSbpmU94WloIuWGSeMCQ) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [IS IT FUN OR IS IT OVER?](https://open.spotify.com/album/74WPtnFgpaweZt8wSqcfQd) | 3:06 |
+| 69 | [Care Less](https://open.spotify.com/track/2Rs0Sd7bdJaTd9QYfA11Jf) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [The Art Of Closure](https://open.spotify.com/album/1uVSiPRSZMowsV2ZbbX4NW) | 3:46 |
 | 70 | [If We Had Forever](https://open.spotify.com/track/10yD3uJghYNhSEdiZcoAYP) | [Ally Salort](https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw) | [Isn't it sweeter?](https://open.spotify.com/album/2krUDWgXUjP9FXeqXX3XtZ) | 3:08 |
 | 71 | [Steep](https://open.spotify.com/track/5hgLQwotAYS52Pq9cR6rqq) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Ladybug](https://open.spotify.com/album/43ysMhPPbGWW5eXS0risKq) | 2:57 |
 | 72 | [BED HEAD](https://open.spotify.com/track/09xdIdn86V2ajBH8qrqkxw) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [LOZEAK](https://open.spotify.com/album/7EW8GOijpfI5nohP8w7dzC) | 2:12 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLKM90w7qiQs.md) - [plain]
 | 74 | [All That I Do \(feat\. Aleya Mae\)](https://open.spotify.com/track/307nMi0AaURnpFW6DKQmhd) | [Schak](https://open.spotify.com/artist/7gA8yMxRoBujfmpDLuLPvx), [Aleya Mae](https://open.spotify.com/artist/2O1Sw6WZ4ZVtIQO5LZIOjb) | [All That I Do \(feat\. Aleya Mae\)](https://open.spotify.com/album/3c0o8iHzvSnt26nwvvB6xo) | 2:33 |
 | 75 | [Body Of Work](https://open.spotify.com/track/4PfoFN7JhDhrmJyVmuk4C6) | [July Jones](https://open.spotify.com/artist/0sFyRdif7dRPjq9uHmsJlp) | [Body Of Work](https://open.spotify.com/album/2Tl6XkbmbgfEtlM7TcO7Il) | 2:52 |
 
-Snapshot ID: `AcemmgAAAAA7VJeYmO4SOfYBwVYaXDyl`
+Snapshot ID: `AcesbAAAAAAbfQHgh66KoDBzp8iNRtz2`

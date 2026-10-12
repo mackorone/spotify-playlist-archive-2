@@ -1,12 +1,12 @@
 {
   "description": "This is KB. The essential tracks, all in one playlist.",
-  "num_followers": 29161,
+  "num_followers": 29165,
   "original_name": "This Is KB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asgugAAAAAAN1E06r39iEZ5qk26CpKuN",
+  "snapshot_id": "asmAAAAAAAANzylwZ205mmRetVMBvOwZ",
   "tracks": [
     {
       "added_at": null,
@@ -835,6 +835,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Glory Down",
+        "url": "https://open.spotify.com/album/6o5H1yIsjIUS9mqjw3a09R"
+      },
+      "artists": [
+        {
+          "name": "Tommy Royale",
+          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 179673,
+      "name": "Glory Down",
+      "url": "https://open.spotify.com/track/2pSdPuESQIDrCOtAmTvqeY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Let Go Let God: The EP",
         "url": "https://open.spotify.com/album/0SGMlsj3lq2E4D746PJlQY"
       },
@@ -859,42 +879,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Glory Down",
-        "url": "https://open.spotify.com/album/6o5H1yIsjIUS9mqjw3a09R"
+        "name": "100",
+        "url": "https://open.spotify.com/album/7BQy4Rm4CRWGyBKei9CJFv"
       },
       "artists": [
         {
-          "name": "Tommy Royale",
-          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
-        },
-        {
           "name": "KB",
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 179673,
-      "name": "Glory Down",
-      "url": "https://open.spotify.com/track/2pSdPuESQIDrCOtAmTvqeY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wholehearted",
-        "url": "https://open.spotify.com/album/6vYLD0YIUj06oN7TvjPM8P"
-      },
-      "artists": [
-        {
-          "name": "We Are Messengers",
-          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
         },
         {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+          "name": "Andy Mineo",
+          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
         }
       ],
-      "duration_ms": 182095,
-      "name": "Wholehearted",
-      "url": "https://open.spotify.com/track/6VUkxixPg5mwleZcKlD7Wo"
+      "duration_ms": 219242,
+      "name": "100",
+      "url": "https://open.spotify.com/track/30lW7sca9vsJThBCifkwGo"
     },
     {
       "added_at": null,
@@ -919,22 +919,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "100",
-        "url": "https://open.spotify.com/album/7BQy4Rm4CRWGyBKei9CJFv"
+        "name": "Wholehearted",
+        "url": "https://open.spotify.com/album/6vYLD0YIUj06oN7TvjPM8P"
       },
       "artists": [
         {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
         },
         {
-          "name": "Andy Mineo",
-          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
         }
       ],
-      "duration_ms": 219242,
-      "name": "100",
-      "url": "https://open.spotify.com/track/30lW7sca9vsJThBCifkwGo"
+      "duration_ms": 182095,
+      "name": "Wholehearted",
+      "url": "https://open.spotify.com/track/6VUkxixPg5mwleZcKlD7Wo"
     },
     {
       "added_at": null,

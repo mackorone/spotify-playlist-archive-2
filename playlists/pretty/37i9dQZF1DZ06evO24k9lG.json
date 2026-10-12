@@ -1,12 +1,12 @@
 {
   "description": "This is Binomio de Oro de Am\u00e9rica. The essential tracks, all in one playlist.",
-  "num_followers": 65220,
+  "num_followers": 65226,
   "original_name": "This Is Binomio de Oro de Am\u00e9rica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asbdAAAAAAAjB2hUzuGYjvuBRDI0nrXq",
+  "snapshot_id": "asgugAAAAAApaDkOfDgrMRx9GFii92r6",
   "tracks": [
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "2.000",
-        "url": "https://open.spotify.com/album/4CS4Z7cXj4VtuqBsvECU6c"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "duration_ms": 302416,
-      "name": "Un Camino Lejano",
-      "url": "https://open.spotify.com/track/34dXtfHp5Zf8TV4dwqXGGg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Combinacion Vallenata Vol. 2",
         "url": "https://open.spotify.com/album/4uPNCk5oi9NViVt6nic6cl"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 289746,
       "name": "Como Hago?",
       "url": "https://open.spotify.com/track/7oOM25539RVMMbR8OFMUYF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "2.000",
+        "url": "https://open.spotify.com/album/4CS4Z7cXj4VtuqBsvECU6c"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 302416,
+      "name": "Un Camino Lejano",
+      "url": "https://open.spotify.com/track/34dXtfHp5Zf8TV4dwqXGGg"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Nuestro",
-        "url": "https://open.spotify.com/album/3jUFTOiJjPAVAgCdz2NipN"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "duration_ms": 295450,
-      "name": "El Forastero",
-      "url": "https://open.spotify.com/track/6uz1ZeeLDnuadYCDXi83aH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Combinacion Vallenata Vol. 2",
         "url": "https://open.spotify.com/album/4uPNCk5oi9NViVt6nic6cl"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 291853,
       "name": "Jam\u00e1s Te Olvidar\u00e9",
       "url": "https://open.spotify.com/track/7DnAvmdF8AxO6jdT1dNRON"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Nuestro",
+        "url": "https://open.spotify.com/album/3jUFTOiJjPAVAgCdz2NipN"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 295450,
+      "name": "El Forastero",
+      "url": "https://open.spotify.com/track/6uz1ZeeLDnuadYCDXi83aH"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todo Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/6IJ6INX6TF29ZLLCXLpfbD"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "duration_ms": 293035,
-      "name": "Que Bonito",
-      "url": "https://open.spotify.com/track/0Mwsok9mGp5jpyVWBQqCID"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u2026Que viva el vallenato!",
         "url": "https://open.spotify.com/album/27c9RUtzsuc6OQFgLvK7AY"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 289586,
       "name": "Como Olvidarte",
       "url": "https://open.spotify.com/track/7pt07GWL2dIwCXyf5mlo4A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Todo Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/6IJ6INX6TF29ZLLCXLpfbD"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 293035,
+      "name": "Que Bonito",
+      "url": "https://open.spotify.com/track/0Mwsok9mGp5jpyVWBQqCID"
     },
     {
       "added_at": null,
@@ -823,8 +823,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dif\u00edcil De Igualar",
-        "url": "https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE"
+        "name": "\u2026Que viva el vallenato!",
+        "url": "https://open.spotify.com/album/27c9RUtzsuc6OQFgLvK7AY"
       },
       "artists": [
         {
@@ -832,9 +832,9 @@
           "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
         }
       ],
-      "duration_ms": 289200,
-      "name": "Acuerdate De Mi",
-      "url": "https://open.spotify.com/track/4A8lkKChFBIOniZvmhD0mD"
+      "duration_ms": 296013,
+      "name": "Cuando Vuelvas",
+      "url": "https://open.spotify.com/track/4DIUQD8fBn7ondOghonHa8"
     }
   ],
   "unique_name": "This Is Binomio de Oro de Am\u00e9rica",

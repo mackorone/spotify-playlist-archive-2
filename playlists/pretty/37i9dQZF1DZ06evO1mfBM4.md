@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1mfBM4.md) - [plain]
 
 > This is Luis Miguel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,589,084 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,589,267 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,12 +38,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1mfBM4.md) - [plain]
 | 28 | [El Reloj](https://open.spotify.com/track/6BTte0lvV5phb00xaxseC4) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romances](https://open.spotify.com/album/3OdgRM6jaoh8Q1Nu3BnheU) | 3:01 |
 | 29 | [Inolvidable](https://open.spotify.com/track/2pSZjEpbXwlocV8js7MNmu) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romance](https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP) | 4:17 |
 | 30 | [Un Hombre Busca a Una Mujer](https://open.spotify.com/track/3ZRUhvuUE2lwZF19puKM8P) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Busca Una Mujer](https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo) | 3:35 |
-| 31 | [De Qué Manera Te Olvido](https://open.spotify.com/track/0j0ntQup1Wp9ZiQTUvgnhm) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Mexico en la Piel \(edicion diamante\)](https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM) | 2:31 |
-| 32 | [Devuélveme El Amor](https://open.spotify.com/track/7wTljp825aJ1bgJ8yakPcr) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [33](https://open.spotify.com/album/5HooteTWKKPU1GjuOo5Bpf) | 4:05 |
+| 31 | [Devuélveme El Amor](https://open.spotify.com/track/7wTljp825aJ1bgJ8yakPcr) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [33](https://open.spotify.com/album/5HooteTWKKPU1GjuOo5Bpf) | 4:05 |
+| 32 | [De Qué Manera Te Olvido](https://open.spotify.com/track/0j0ntQup1Wp9ZiQTUvgnhm) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Mexico en la Piel \(edicion diamante\)](https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM) | 2:31 |
 | 33 | [Y \- En vivo](https://open.spotify.com/track/6QbEENozheS46xQY56acH9) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Vivo](https://open.spotify.com/album/2GtCBgC1SYeeb8fcxGWCLo) | 2:42 |
 | 34 | [Yo Que No Vivo Sin Ti](https://open.spotify.com/track/5SnH7xubfdfvHomShSjiIe) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Soy Como Quiero Ser](https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z) | 3:31 |
-| 35 | [México En La Piel](https://open.spotify.com/track/5BPq1UQa1NSN647R6IzD3n) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Mexico en la Piel \(edicion diamante\)](https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM) | 3:29 |
-| 36 | [Te necesito](https://open.spotify.com/track/0svWUjefj6RBlIQxA3VCvx) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [33](https://open.spotify.com/album/5HooteTWKKPU1GjuOo5Bpf) | 3:14 |
+| 35 | [Te necesito](https://open.spotify.com/track/0svWUjefj6RBlIQxA3VCvx) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [33](https://open.spotify.com/album/5HooteTWKKPU1GjuOo5Bpf) | 3:14 |
+| 36 | [México En La Piel](https://open.spotify.com/track/5BPq1UQa1NSN647R6IzD3n) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Mexico en la Piel \(edicion diamante\)](https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM) | 3:29 |
 | 37 | [Palabra De Honor](https://open.spotify.com/track/3WY8ecMJJjdepU2k2NoFv1) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Palabra De Honor](https://open.spotify.com/album/45xKQlOetCnDcZxRu4tEwh) | 3:38 |
 | 38 | [Soy lo prohibido](https://open.spotify.com/track/3zceb1fYe5jdwEmuGvJINO) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [¡MÉXICO Por Siempre!](https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche) | 3:04 |
 | 39 | [Hoy El Aire Huele a Ti](https://open.spotify.com/track/2ZYvD9zQf1iBLelkgkUl7U) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [20 Años](https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd) | 3:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1mfBM4.md) - [plain]
 | 49 | [El Viajero](https://open.spotify.com/track/4qb8QUWJCrW3hHuUcSSvmC) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Mexico en la Piel \(edicion diamante\)](https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM) | 3:36 |
 | 50 | [Serenata huasteca](https://open.spotify.com/track/2y3C3tWoNictZWuOuUtDuO) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [¡MÉXICO Por Siempre!](https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche) | 2:55 |
 
-Snapshot ID: `asgugAAAAAD6d69OePRistzBvWcBb1jz`
+Snapshot ID: `asmAAAAAAAAZCK9vQRmvrmykBeZ4oZ/y`

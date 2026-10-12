@@ -4,7 +4,7 @@
 
 > This is DannyLux\. The essential tracks, all in one playlist.
 
-92 songs - 5 hr 19 min
+93 songs - 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [ME CAMBIASTE \(with Eslabon Armado\)](https://open.spotify.com/track/0cAy6Iu6GQcFegbu9RMK1R) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Eslabon Armado](https://open.spotify.com/artist/3qd5K0Y3u1cYQd5uNTrsVj) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 3:45 | 2024-08-08 |  |
 | [Me Decepcionaste](https://open.spotify.com/track/3pyRKwok4VX601iNJTPgNl) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [DESVELADO](https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM) | 3:59 | 2024-08-08 |  |
 | [Me Haces Falta](https://open.spotify.com/track/0m5Dhug5ODIpxkBxsStjw3) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Las Dos Caras Del Amor](https://open.spotify.com/album/6obhr3xfkuIYkwvEukc2y2) | 3:30 | 2024-08-08 |  |
-| [Me Voy Contigo](https://open.spotify.com/track/6BNaBJvHM85qDtsw9pUCD0) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Lluvia Y Sol](https://open.spotify.com/album/7A2PTwonSaI9wGZj2Te7K8) | 3:42 | 2024-08-08 |  |
+| [Me Voy Contigo](https://open.spotify.com/track/6BNaBJvHM85qDtsw9pUCD0) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Lluvia Y Sol](https://open.spotify.com/album/7A2PTwonSaI9wGZj2Te7K8) | 3:42 | 2024-08-08 | 2026-10-12 |
 | [Mi Otra Mitad](https://open.spotify.com/track/5JQNO0rhJUdOevWVvSWjro) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Love </3](https://open.spotify.com/album/4TXZgt2GxZONIMcxAhVH9w) | 2:51 | 2024-08-08 |  |
 | [Mi Tormenta \(feat\. DannyLux\)](https://open.spotify.com/track/2aWBskyssdR9VyVV3dH65j) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Mi Tormenta \(feat\. DannyLux\)](https://open.spotify.com/album/2fQK7PAhWR8oEsS7nqQCCs) | 3:22 | 2024-10-07 | 2025-03-02 |
 | [Mi Tormenta \(feat\. DannyLux\)](https://open.spotify.com/track/5WasyJEmLNFleXCmju8NHp) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Ohio Players \(Trophy Edition\)](https://open.spotify.com/album/4nL9a6F9au7kYG9KuswdNo) | 3:22 | 2025-05-17 | 2025-05-18 |
@@ -68,6 +68,7 @@
 | [para ti <3](https://open.spotify.com/track/1QHOFeU2Vqa25RtwmcVFML) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Perdido En Ti](https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg) | 2:52 | 2024-08-08 | 2024-10-04 |
 | [Perdón](https://open.spotify.com/track/5w3mQk0oyXswjY9yNRjawb) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Las Dos Caras Del Amor](https://open.spotify.com/album/6obhr3xfkuIYkwvEukc2y2) | 3:57 | 2024-08-08 |  |
 | [preguntalealaluna](https://open.spotify.com/track/2zvBpVyuuWIBfNh2k1UWvi) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [preguntalealaluna](https://open.spotify.com/album/1C8ND2Lh3xBQ1jwQEZcvOo) | 3:48 | 2025-11-02 | 2026-06-07 |
+| [preguntalealaluna](https://open.spotify.com/track/5e9QSIgfKLoLmXKluAiHMO) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [LEYENDA DELUXE](https://open.spotify.com/album/7ywMhF2YkS01uWLrdNBvoU) | 3:48 | 2026-10-12 |  |
 | [Promesas de Amor](https://open.spotify.com/track/68dsfSoqApgPqSdqFTSJAA) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Perdido En Ti](https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg) | 3:17 | 2025-01-01 | 2025-05-18 |
 | [QUIZÁS](https://open.spotify.com/track/6mD6dBmb3BIIB7NK2ZkZif) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [LEYENDA DELUXE](https://open.spotify.com/album/7ywMhF2YkS01uWLrdNBvoU) | 2:59 | 2025-11-13 | 2026-01-16 |
 | [Respuestas](https://open.spotify.com/track/4xF6lmeRyJYneEzL84XTvr) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Limerencia](https://open.spotify.com/album/4d9KK2351FK3PAzlqfy8yj) | 4:19 | 2024-08-13 | 2025-05-18 |

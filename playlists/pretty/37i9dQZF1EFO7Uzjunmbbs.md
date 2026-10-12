@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/21JhxcGHq3awKEjLrsnRD8">Emily Weisband</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,093 likes - 220 songs - 12 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,094 likes - 220 songs - 12 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 35 | [Real Love](https://open.spotify.com/track/6IDublzxvKOiKi8ZmlPHOL) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO) | [Shattered](https://open.spotify.com/album/5rrpgUyAmIR68i3pSv5Uhm) | 3:52 |
 | 36 | [they don't make 'em like you anymore](https://open.spotify.com/track/7t0p2bkfJmSIbc7BUlAKbB) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [gg bb xx \(deluxe\)](https://open.spotify.com/album/77Df1klImSWFeDQh96h626) | 2:35 |
 | 37 | [The Way I Say Goodbye](https://open.spotify.com/track/6ZV6lI92ypdfjeGgDQc5Mm) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Not Afraid to Say Goodbye](https://open.spotify.com/album/76ahXbGodPCqMpKrTHWCpe) | 3:04 |
-| 38 | [Didn't I](https://open.spotify.com/track/7jhCqJlmx37u8o0xo2bjaj) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Meaning of Life](https://open.spotify.com/album/6GBu7GU6dztLYlZuUHiwA2) | 3:38 |
-| 39 | [The Jesus I Know Now](https://open.spotify.com/track/5b1kZLzylm4PWvlX6DEklE) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [The Jesus I Know Now](https://open.spotify.com/album/7lnIDIoFSoHRRx2XJTsxju) | 3:33 |
+| 38 | [The Jesus I Know Now](https://open.spotify.com/track/5b1kZLzylm4PWvlX6DEklE) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [The Jesus I Know Now](https://open.spotify.com/album/7lnIDIoFSoHRRx2XJTsxju) | 3:33 |
+| 39 | [Didn't I](https://open.spotify.com/track/7jhCqJlmx37u8o0xo2bjaj) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Meaning of Life](https://open.spotify.com/album/6GBu7GU6dztLYlZuUHiwA2) | 3:38 |
 | 40 | [Good, but not together](https://open.spotify.com/track/41s8TlEiXtACk0z8Se79KE) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Lost In Translation](https://open.spotify.com/album/2QNQe0cnmzYYc0QcKeEZgb) | 3:02 |
 | 41 | [Child Again](https://open.spotify.com/track/5wWKC300gz5NFjxWxoUnCx) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Out of Body](https://open.spotify.com/album/65WwczdrIsAOeBwyL3EFxf) | 3:49 |
 | 42 | [Gettin' In The Way](https://open.spotify.com/track/2qtPnxwPuGMgCjAIJDFdnW) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Ripcord \(Australian Tour Edition\)](https://open.spotify.com/album/1r7ABqzNXQnUPAH3ZjrHMn) | 3:48 |
@@ -229,4 +229,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 219 | [Stay](https://open.spotify.com/track/7AYev376NUrJ1JaxmfhKyM) | [Andenix](https://open.spotify.com/artist/1vxk9sFXF2O4fUymcUUllP), [Josh Knox](https://open.spotify.com/artist/7ynWG75kdenNhClpJwwx4M) | [Stay](https://open.spotify.com/album/2tXewxcwpzvvZw7prXByPS) | 4:07 |
 | 220 | [Heartache](https://open.spotify.com/track/1ANoywqSXzofnUGE2ZXENq) | [Lil JJ Reynolds](https://open.spotify.com/artist/6tOlcdCH7l4MwVW8EyHBDC) | [Heartache](https://open.spotify.com/album/0R8XSYdAgRsBc5saCdVQUl) | 3:12 |
 
-Snapshot ID: `AcempAAAAAC07w3V4rGJDKS2FQ0Mn5Ps`
+Snapshot ID: `AcesRAAAAABtMyVpVYATnSkCsK3q4Z5C`

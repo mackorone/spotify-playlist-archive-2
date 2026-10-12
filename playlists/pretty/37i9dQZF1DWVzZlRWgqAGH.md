@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 
 > Merna and music for your soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 846,618 likes - 80 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 846,608 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

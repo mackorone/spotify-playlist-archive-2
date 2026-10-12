@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asbdAAAAAAC6YQe4/rsklyY1AEejRv9q",
+  "snapshot_id": "asgugAAAAADb9CK0xpiOP4iXWWCDqrRi",
   "tracks": [
     {
       "added_at": null,
@@ -115,6 +115,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "O Milagre Sou Eu",
+        "url": "https://open.spotify.com/album/7g8BLM7W9A6uzvapx0IcjF"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": " CGM - Central Gospel Music",
+          "url": "https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq"
+        },
+        {
+          "name": "Lucas Santos",
+          "url": "https://open.spotify.com/artist/216ebrw2DF5jcgmTR06rtR"
+        }
+      ],
+      "duration_ms": 246013,
+      "name": "O Milagre Sou Eu",
+      "url": "https://open.spotify.com/track/4OrQaYo5LtcNlHMBntcyf7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mem\u00f3rias do Cora\u00e7\u00e3o - Deluxe (Ao Vivo)",
         "url": "https://open.spotify.com/album/76HKXyRoHi007rh7EISKFl"
       },
@@ -203,30 +227,6 @@
       "duration_ms": 384876,
       "name": "Preciso de Ti - Ao Vivo",
       "url": "https://open.spotify.com/track/3bYTEQ6PyFCJTq3FcohJYQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Milagre Sou Eu",
-        "url": "https://open.spotify.com/album/7g8BLM7W9A6uzvapx0IcjF"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": " CGM - Central Gospel Music",
-          "url": "https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq"
-        },
-        {
-          "name": "Lucas Santos",
-          "url": "https://open.spotify.com/artist/216ebrw2DF5jcgmTR06rtR"
-        }
-      ],
-      "duration_ms": 246013,
-      "name": "O Milagre Sou Eu",
-      "url": "https://open.spotify.com/track/4OrQaYo5LtcNlHMBntcyf7"
     },
     {
       "added_at": null,
@@ -383,26 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nada Pode Calar Um Adorador + Com Muito Louvor (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3kXK7gxzL8DPU3L8LTCATy"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 373933,
-      "name": "Nada Pode Calar Um Adorador + Com Muito Louvor (Ao Vivo)",
-      "url": "https://open.spotify.com/track/7kSlSqgTbzEnsVYJLiDpru"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tira-me do Vale",
         "url": "https://open.spotify.com/album/6ghWDdLfEQ03TdQp7YQreh"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 289500,
       "name": "Tira-me do Vale",
       "url": "https://open.spotify.com/track/6NOJ789tmIWOzIaFQtYR3Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nada Pode Calar Um Adorador + Com Muito Louvor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3kXK7gxzL8DPU3L8LTCATy"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 373933,
+      "name": "Nada Pode Calar Um Adorador + Com Muito Louvor (Ao Vivo)",
+      "url": "https://open.spotify.com/track/7kSlSqgTbzEnsVYJLiDpru"
     },
     {
       "added_at": null,
@@ -547,26 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amigo Esp\u00edrito Santo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4t2qBZ5yBilE2xaVIInAtP"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        },
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 334310,
-      "name": "Amigo Esp\u00edrito Santo (Ao Vivo)",
-      "url": "https://open.spotify.com/track/1uywMDAMeLkFnatbhfXlUE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Profetiza",
         "url": "https://open.spotify.com/album/6IgJb5EU0zSGlqlsLfFbzm"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 294475,
       "name": "Profetiza",
       "url": "https://open.spotify.com/track/27XhnRnhyicK7dn2Ui8AeH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amigo Esp\u00edrito Santo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4t2qBZ5yBilE2xaVIInAtP"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        },
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 334310,
+      "name": "Amigo Esp\u00edrito Santo (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1uywMDAMeLkFnatbhfXlUE"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Tanque de Betesda (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6FkkGzO3T0ZcBAPKSQN9AG"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 304280,
-      "name": "O Tanque de Betesda (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6NwSwEUPsZy3WC7MbsyzmJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sonhos N\u00e3o T\u00eam Fim + Volte a Sonhar (Ao Vivo)",
         "url": "https://open.spotify.com/album/5Uc7YEZkpObjE8kc1gr3kG"
       },
@@ -815,50 +799,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mem\u00f3rias do Cora\u00e7\u00e3o - Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3gSlwMZxzxqPSDi5vjohCS"
-      },
-      "artists": [
-        {
-          "name": "Diante do Trono",
-          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
-        },
-        {
-          "name": "Ana Paula Valad\u00e3o",
-          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
-        },
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        },
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 482974,
-      "name": "Medley A Do\u00e7ura do Teu Falar - Ao Vivo",
-      "url": "https://open.spotify.com/track/2onlvZpMAwpTKTAZN47Hr4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eu Quero Ser Santo + Pela Santidade de Deus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7GMCW2o8zYxHIv5Dms2nu0"
+        "name": "O Tanque de Betesda (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6FkkGzO3T0ZcBAPKSQN9AG"
       },
       "artists": [
         {
           "name": "Eyshila",
           "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Paulo Neto",
-          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
         }
       ],
-      "duration_ms": 308053,
-      "name": "Eu Quero Ser Santo + Pela Santidade de Deus (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0B6CvjP0zkqEMe03vzEx91"
+      "duration_ms": 304280,
+      "name": "O Tanque de Betesda (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6NwSwEUPsZy3WC7MbsyzmJ"
     },
     {
       "added_at": null,
@@ -903,6 +855,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eu Quero Ser Santo + Pela Santidade de Deus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7GMCW2o8zYxHIv5Dms2nu0"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Paulo Neto",
+          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
+        }
+      ],
+      "duration_ms": 308053,
+      "name": "Eu Quero Ser Santo + Pela Santidade de Deus (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0B6CvjP0zkqEMe03vzEx91"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mem\u00f3rias do Cora\u00e7\u00e3o - Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3gSlwMZxzxqPSDi5vjohCS"
+      },
+      "artists": [
+        {
+          "name": "Diante do Trono",
+          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
+        },
+        {
+          "name": "Ana Paula Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
+        },
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        },
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 482974,
+      "name": "Medley A Do\u00e7ura do Teu Falar - Ao Vivo",
+      "url": "https://open.spotify.com/track/2onlvZpMAwpTKTAZN47Hr4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Deus Prover\u00e1 + De Nada Tenho Falta (Ao Vivo)",
         "url": "https://open.spotify.com/album/2zyADzeYjaUwdBh7ecCpSP"
       },
@@ -923,6 +923,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eyshila 30 Anos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1hjPAxFx07DpLKFrlgamzq"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 335773,
+      "name": "Casa de B\u00ean\u00e7\u00e3o + Lugar de Vida (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1W7hFv05H3dMihRpl6ToAH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Minha Casa + Primeira Ess\u00eancia (Jardim Particular) (Ao Vivo)",
         "url": "https://open.spotify.com/album/4dKKLxDteUFQAwu8ygASe5"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 260893,
       "name": "Minha Casa + Primeira Ess\u00eancia (Jardim Particular) (Ao Vivo)",
       "url": "https://open.spotify.com/track/1BhgFlaCVzAhJoCznssFpJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eyshila 30 Anos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1hjPAxFx07DpLKFrlgamzq"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 335773,
-      "name": "Casa de B\u00ean\u00e7\u00e3o + Lugar de Vida (Ao Vivo)",
-      "url": "https://open.spotify.com/track/1W7hFv05H3dMihRpl6ToAH"
     },
     {
       "added_at": null,

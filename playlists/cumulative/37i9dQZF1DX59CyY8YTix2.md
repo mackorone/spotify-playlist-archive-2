@@ -4,7 +4,7 @@
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: Homecomings
 
-2,097 songs - 5 day 9 hr 47 min
+2,098 songs - 5 day 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -423,7 +423,7 @@
 | [I've Got the Power](https://open.spotify.com/track/6biUfADXKG8iOmnfF4tUXM) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [I've Got the Power](https://open.spotify.com/album/7gOvCcSaQOAcGOhomfU5sH) | 3:20 | 2023-09-26 | 2023-10-16 |
 | [I.B.U](https://open.spotify.com/track/56tm9FNBbxDrBxMb6anX04) | [THE LOCAL PINTS](https://open.spotify.com/artist/771IcrenZVG0AS8LmOVwa3) | [I.B.U](https://open.spotify.com/album/722JwCrXNMAFJBSrUzqtfp) | 3:28 | 2022-06-07 | 2022-06-09 |
 | [I.W.S.P](https://open.spotify.com/track/4JAP7z3MSFFcSiW66Lr9J3) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [I.W.S.P](https://open.spotify.com/album/4ik3vEY9isnVmH3wfdnsfN) | 4:12 | 2023-09-12 | 2023-09-27 |
-| [Ice Cream Moment](https://open.spotify.com/track/6eyRiNGtSWHCevrdjIu2Rg) | [Slump Girl](https://open.spotify.com/artist/5qPgLl5YU4UkxzltaWmX15) | [Ice Cream Moment](https://open.spotify.com/album/0c18UlghbglqtpHJ2SN3I3) | 3:56 | 2026-07-21 |  |
+| [Ice Cream Moment](https://open.spotify.com/track/6eyRiNGtSWHCevrdjIu2Rg) | [Slump Girl](https://open.spotify.com/artist/5qPgLl5YU4UkxzltaWmX15) | [Ice Cream Moment](https://open.spotify.com/album/0c18UlghbglqtpHJ2SN3I3) | 3:56 | 2026-07-21 | 2026-10-12 |
 | [ICONIC](https://open.spotify.com/track/5Ppth5M7hMNzW64Snwmzyt) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [ICONIC](https://open.spotify.com/album/2OeQSCyzpoWeldbn3X57Wf) | 3:26 | 2026-01-13 | 2026-07-01 |
 | [idea](https://open.spotify.com/track/5VGdlSCk6UB7SYdxzcbSo8) | [\(yoru to\)SAMPO](https://open.spotify.com/artist/3LAWK80zCJtDxXGBa0BB1n) | [idea](https://open.spotify.com/album/5UUWmONSdccDmVOLOe3zh5) | 5:02 | 2024-07-30 | 2024-08-07 |
 | [Ideals](https://open.spotify.com/track/0m0XrQzGh9sjDIJYL0CXJx) | [The tiva](https://open.spotify.com/artist/4QAZydJKmIPBmDHwqp1k6s) | [Ideals](https://open.spotify.com/album/70ENwTNE8LEAUN4KHAIgi2) | 2:55 | 2022-05-26 | 2022-06-07 |
@@ -1269,6 +1269,7 @@
 | [キャッチ・ミー・イフ・ユー・キャン](https://open.spotify.com/track/7GlWMhWjbB1hshsXebD4Y4) | [AoAu](https://open.spotify.com/artist/5pUW7uz1ZcZzB1zWPDgGtI) | [キャッチ・ミー・イフ・ユー・キャン](https://open.spotify.com/album/4kUipcFi31JSW1Zsz2xBP1) | 4:58 | 2023-12-19 | 2023-12-27 |
 | [キャラクター](https://open.spotify.com/track/1WkMPKhw6w2PAaZyKpITNi) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [キャラクター](https://open.spotify.com/album/2ylk0z5v9TVDEbexjpVh8c) | 4:09 | 2022-07-28 | 2022-08-17 |
 | [キャリーケースは重いままで](https://open.spotify.com/track/2ADl3dTfftKsYTVQjdY7iH) | [やましたりな](https://open.spotify.com/artist/1O235Li0262kkP7gfP6B5W) | [バイバイ、私 / キャリーケースは重いままで](https://open.spotify.com/album/6ywtlcRbSCR213Z70OZIgK) | 4:05 | 2022-05-26 | 2022-07-29 |
+| [キライのちスキ！](https://open.spotify.com/track/6c6tWAr4vul7O7i0MaAnlT) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [キライのちスキ！](https://open.spotify.com/album/5AzdFKB1GHLGdX8pLaC2CL) | 3:14 | 2026-10-06 |  |
 | [キラキラの灰](https://open.spotify.com/track/0u0fZBgvRjNbzmiLyW6ITX) | [Regallily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [キラキラの灰](https://open.spotify.com/album/3k6e6pejyoAWZExzb2p8f2) | 4:07 | 2024-04-09 |  |
 | [キラーワード](https://open.spotify.com/track/6lOrtgsvN9QKtN4h7S1Y5j) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [キラーワード](https://open.spotify.com/album/0hTDFgya1BSBjCucfBfaTQ) | 4:01 | 2023-11-30 | 2023-12-02 |
 | [ギューアグ](https://open.spotify.com/track/4VkVKgNyTFS3hRR3QldFUV) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [ギューアグ](https://open.spotify.com/album/7eWBDcemeEcPROAmKHlYMJ) | 3:08 | 2026-05-12 | 2026-07-13 |

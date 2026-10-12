@@ -3611,6 +3611,24 @@
     },
     {
       "album": {
+        "name": "Fuck Off",
+        "url": "https://open.spotify.com/album/0r2zCLxvtQdFeO4lIQlS6u"
+      },
+      "artists": [
+        {
+          "name": "Black Grouse",
+          "url": "https://open.spotify.com/artist/5jzQOtU6ojkmCHcQhffLk4"
+        }
+      ],
+      "date_added": "2026-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174573,
+      "name": "Fuck Off",
+      "url": "https://open.spotify.com/track/1Q01zHMDA70SNdcrUZxwIT"
+    },
+    {
+      "album": {
         "name": "Fucked Up",
         "url": "https://open.spotify.com/album/3pzmkD8GmhRQsAXYHEFKA0"
       },
@@ -10890,6 +10908,24 @@
       "duration_ms": 179512,
       "name": "young frankenstein",
       "url": "https://open.spotify.com/track/35r1UEv4bYbwxHT7MqoPX8"
+    },
+    {
+      "album": {
+        "name": "Chronic Obsessions",
+        "url": "https://open.spotify.com/album/78hy2PK22Ll9aZaJuU4fKj"
+      },
+      "artists": [
+        {
+          "name": "Ella Kenz",
+          "url": "https://open.spotify.com/artist/5k0qIptpKEMpMlGx2wbE8e"
+        }
+      ],
+      "date_added": "2026-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183130,
+      "name": "Your Fault",
+      "url": "https://open.spotify.com/track/0fblNVg8bUKfBoA4WPWth9"
     },
     {
       "album": {

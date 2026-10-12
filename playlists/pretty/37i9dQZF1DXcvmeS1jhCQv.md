@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 
 > The best new Irish music in one place 📍 cover: Morgana
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,729 likes - 101 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,753 likes - 101 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

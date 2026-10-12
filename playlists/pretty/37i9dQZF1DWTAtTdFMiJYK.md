@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 
 > Most exciting artists from the Indian Indie scene\. Cover: Anubha Bajaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,833 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,932 likes - 75 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 25 | [Meena Bazaar](https://open.spotify.com/track/6zbiXI7GAeG23AIG7ocSdC) | [Keshav Tyohar](https://open.spotify.com/artist/4K2l6pikW66DDwViUWSUpS) | [Meena Bazaar](https://open.spotify.com/album/5qpD2yDln9a0BopzZGefKR) | 2:17 |
 | 26 | [Idhar Zara Sa Dekh Lo](https://open.spotify.com/track/04sAXlM1Lxu1k6Yqr1hTHf) | [Shikhar](https://open.spotify.com/artist/3PPDiyfJdSIL8UW8EeFmjM), [Yashika Sikka](https://open.spotify.com/artist/0lve5IC1Fy0kxyzy8deBih) | [Idhar Zara Sa Dekh Lo](https://open.spotify.com/album/75W6MsVbgjJm9n5Mk3WKNB) | 2:51 |
 | 27 | [Anyayo](https://open.spotify.com/track/5yCOc1MOoekBjy56pCYZHS) | [Aneesh](https://open.spotify.com/artist/2K1yi9M4TJ3cEEO6hFG1z2), [Krtin Kay](https://open.spotify.com/artist/7rDecvyiaWrph8fExUQLG1) | [Anyayo](https://open.spotify.com/album/7CJq5roqrBmkCz5U2JP0yx) | 2:01 |
-| 28 | [Maara Makka \- From "Think Indie"](https://open.spotify.com/track/13TxDpBIVafb5iAKXaO6IG) | [rudh](https://open.spotify.com/artist/2Q3UCe0lQfw6yrq7EoOb4t) | [Maara Makka \(From "Think Indie"\)](https://open.spotify.com/album/19DWPHifKZD73XLtkiRb6B) | 2:43 |
-| 29 | [Halki Halki](https://open.spotify.com/track/20FVN0wtdqkyhGSIJjr4qz) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r) | [Halki Halki](https://open.spotify.com/album/2Je64huDcPfZkx7M4jl2VL) | 2:58 |
+| 28 | [Halki Halki](https://open.spotify.com/track/20FVN0wtdqkyhGSIJjr4qz) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r) | [Halki Halki](https://open.spotify.com/album/2Je64huDcPfZkx7M4jl2VL) | 2:58 |
+| 29 | [Maara Makka \- From "Think Indie"](https://open.spotify.com/track/13TxDpBIVafb5iAKXaO6IG) | [rudh](https://open.spotify.com/artist/2Q3UCe0lQfw6yrq7EoOb4t) | [Maara Makka \(From "Think Indie"\)](https://open.spotify.com/album/19DWPHifKZD73XLtkiRb6B) | 2:43 |
 | 30 | [Main Tera Deewana](https://open.spotify.com/track/1fKbX7xTqivTfyapb01Iht) | [Shyam Sidhawat](https://open.spotify.com/artist/4DMXeH8Y5Yvezzcg9kR0Ui), [Lijo George](https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh), [Rutvij Joshi](https://open.spotify.com/artist/1z2gTsj64IYMJv1HxKfsQi) | [Main Tera Deewana](https://open.spotify.com/album/0TcdNjQLDOyagOMsbqIx66) | 3:40 |
 | 31 | [Sitara](https://open.spotify.com/track/0bK1LCMlZTcAzhl4qLewIs) | [Aashiq Khan](https://open.spotify.com/artist/4V0NivLTfgUFtB6OIxpSus), [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg), [Denny](https://open.spotify.com/artist/6KozIqto3bkoQp4lksicOA) | [Sitara](https://open.spotify.com/album/4FjR8sS5OickJ0OkXmOEXX) | 3:06 |
 | 32 | [Pyaar Ka Jua](https://open.spotify.com/track/2ifXihxjjouUg9bUAL0sxR) | [THE 9TEEN](https://open.spotify.com/artist/4vLv0CXSxGB1PJijrfokwB) | [Pyaar Ka Jua](https://open.spotify.com/album/4CZDD94XvINvDDDipRji4p) | 2:18 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 51 | [Chandni](https://open.spotify.com/track/4TYSwFH0LcKo32RuWJiaao) | [Bharat Chandak](https://open.spotify.com/artist/42x6GyehEtbb2gToHIc3lF) | [Chandni](https://open.spotify.com/album/0eXeInZLi8DMMtncmsk2w5) | 2:54 |
 | 52 | [telusa](https://open.spotify.com/track/5PQQmD4ZfM8hNuqIlcQHkQ) | [ananya](https://open.spotify.com/artist/44c9Q8uuQtb7BXQO4Um7Zc) | [telusa](https://open.spotify.com/album/0bWfpBPy796Tt50RL26Ewp) | 2:50 |
 | 53 | [Dariya](https://open.spotify.com/track/6Y9PQMcP2PwspzZvKbMG6w) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX) | [CIRCLES](https://open.spotify.com/album/2D2JEphFbPsxbthC89eH1t) | 2:52 |
-| 54 | [Aaja Re Piya](https://open.spotify.com/track/1jk5EKgpuQCMRZ5PTO7MFO) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Khushi Pareek](https://open.spotify.com/artist/4XklST8Nob4VrG6o933En8) | [Aaja Re Piya](https://open.spotify.com/album/29ESWyP2Waa639JBQSwkxf) | 2:34 |
-| 55 | [Aashiyan](https://open.spotify.com/track/0OlYIIUtBAWF2iEiTYan5h) | [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Aashiyan](https://open.spotify.com/album/69WkyMOrLpLPnOML7ZYPWq) | 2:54 |
+| 54 | [Aashiyan](https://open.spotify.com/track/0OlYIIUtBAWF2iEiTYan5h) | [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Aashiyan](https://open.spotify.com/album/69WkyMOrLpLPnOML7ZYPWq) | 2:54 |
+| 55 | [Aaja Re Piya](https://open.spotify.com/track/1jk5EKgpuQCMRZ5PTO7MFO) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Khushi Pareek](https://open.spotify.com/artist/4XklST8Nob4VrG6o933En8) | [Aaja Re Piya](https://open.spotify.com/album/29ESWyP2Waa639JBQSwkxf) | 2:34 |
 | 56 | [Le Jaa](https://open.spotify.com/track/1JdphOaJPSdVoGTtilQ4Pr) | [Adeetiiya](https://open.spotify.com/artist/4H7bDnsqf7lF07XmWegR0s), [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk) | [Le Jaa](https://open.spotify.com/album/0imiHfsNmizV0OaVJOYCdA) | 2:34 |
 | 57 | [Jhumki](https://open.spotify.com/track/02TtzIxJej92ghL8hFJt6h) | [Tanmay Gururaj](https://open.spotify.com/artist/2vEgbajKankISg2uwrw8w5), [Sachit Clare](https://open.spotify.com/artist/3fPQPuqoKfqCZXTGQwP9kI) | [Jhumki](https://open.spotify.com/album/6uqr7Jx77Vttq72IxpOO3B) | 2:48 |
 | 58 | [Cries in Crocodile](https://open.spotify.com/track/2FAsIE5rXnHFxLbVgQbxYa) | [JBABE](https://open.spotify.com/artist/3c31TRttHfPOdHHVfijaby) | [A Little Larger Than The Entire Universe](https://open.spotify.com/album/6l66NGkulOLFL5HIwdnqZ2) | 3:01 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 72 | [Megham](https://open.spotify.com/track/2nZWrBa9MRHz3vtvvQ2lXs) | [Bhumi](https://open.spotify.com/artist/6ze415xN4HqPmAhj1P4pRl), [pixlpxl®](https://open.spotify.com/artist/1EGgZfRoAg2Z5kAbF5XaH1), [Samad Khan](https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW) | [Megham](https://open.spotify.com/album/6yEQVYaMrYWUOFSDb7DXwl) | 3:51 |
 | 73 | [Achaar Samachaar](https://open.spotify.com/track/0igKMM5Qi3KBog0Rv4uoDt) | [Faizan](https://open.spotify.com/artist/4SG1sBze1PccNVkHhX4H4x), [Ghabraahat Intensifies](https://open.spotify.com/artist/0MIx96qVdmIUSO8ifuKAlh), [toorjo dey](https://open.spotify.com/artist/2K7LWCOiWME8Na9QWEbUwL) | [Achaar Samachaar](https://open.spotify.com/album/6j7mJeoD9OjVipnxoUnWyR) | 3:34 |
 | 74 | [Kaise Ho Tum](https://open.spotify.com/track/3Uwok7aLLQyXhfqNlekSim) | [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5), [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx), [Likhari](https://open.spotify.com/artist/33SPUncA5xd16yYMbI2t15) | [Kaise Ho Tum](https://open.spotify.com/album/6AnZMvLRQAA3WNH5OXC4ZJ) | 2:43 |
-| 75 | [feeling good](https://open.spotify.com/track/1VXRl2GXUBaHboKPq7usqS) | [Temsu Clover](https://open.spotify.com/artist/1QZD3yzCgj7qHKqG2eC31g) | [feeling good](https://open.spotify.com/album/6j3hoQTyj96ANnqCZXDcTS) | 3:21 |
+| 75 | [Kehndi Hai](https://open.spotify.com/track/2UqVw7C652TCZrc1ZA8CbE) | [Zanai Bhosle](https://open.spotify.com/artist/1KXshKZ6e6JsZ6boHGgkXX), [Siddhant Bhosle](https://open.spotify.com/artist/72FQZIJkOLdKV0YKqS024h) | [Kehndi Hai](https://open.spotify.com/album/6LwC2nt0yfSGOjE5UPghLN) | 2:29 |
 
 Snapshot ID: `AAAAAG3FXDSGDqZpjxd+YFHnvF9n31QV`

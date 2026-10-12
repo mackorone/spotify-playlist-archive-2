@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: Beracah
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,207 likes - 97 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,230 likes - 97 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

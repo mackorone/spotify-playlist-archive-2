@@ -1,6 +1,6 @@
 {
   "description": "Palos de ayer, cl\u00e1sicos para siempre. Foto: Bad Bunny.",
-  "num_followers": 608029,
+  "num_followers": 608103,
   "original_name": "Trap viejito",
   "owner": {
     "name": "Spotify",
@@ -383,6 +383,30 @@
     {
       "added_at": "2026-08-11 14:10:49",
       "album": {
+        "name": "Medusa",
+        "url": "https://open.spotify.com/album/00WVnPPMH4wPiQk7QgLVgn"
+      },
+      "artists": [
+        {
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 305333,
+      "name": "Medusa",
+      "url": "https://open.spotify.com/track/3qM0vBxIe4VUbK0Z0smuVP"
+    },
+    {
+      "added_at": "2026-08-11 14:10:49",
+      "album": {
         "name": "Si Tu Lo Dejas",
         "url": "https://open.spotify.com/album/2kk2iZAScz7J4LoZ4y4tH0"
       },
@@ -411,30 +435,6 @@
       "duration_ms": 275478,
       "name": "Si Tu Lo Dejas",
       "url": "https://open.spotify.com/track/2naJy8SKJ27gj6ZhRPDKaz"
-    },
-    {
-      "added_at": "2026-08-11 14:10:49",
-      "album": {
-        "name": "Medusa",
-        "url": "https://open.spotify.com/album/00WVnPPMH4wPiQk7QgLVgn"
-      },
-      "artists": [
-        {
-          "name": "JHAYCO",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 305333,
-      "name": "Medusa",
-      "url": "https://open.spotify.com/track/3qM0vBxIe4VUbK0Z0smuVP"
     },
     {
       "added_at": "2026-08-11 14:10:49",
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2026-08-11 14:10:49",
       "album": {
-        "name": "Criminal",
-        "url": "https://open.spotify.com/album/1Zo9QC0RI2OqsdEX5IFHmG"
-      },
-      "artists": [
-        {
-          "name": "Neo Pistea",
-          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
-        }
-      ],
-      "duration_ms": 220147,
-      "name": "Criminal",
-      "url": "https://open.spotify.com/track/0eo85yo2kaUvjBHOa4iQX6"
-    },
-    {
-      "added_at": "2026-08-11 14:10:49",
-      "album": {
         "name": "Malportau",
         "url": "https://open.spotify.com/album/2vfsczLvfRlioZqTWfoaDx"
       },
@@ -2219,6 +2203,22 @@
       "duration_ms": 213471,
       "name": "Malportau",
       "url": "https://open.spotify.com/track/4jLFEYbIYqNWnxbuLEf7z5"
+    },
+    {
+      "added_at": "2026-08-11 14:10:49",
+      "album": {
+        "name": "Criminal",
+        "url": "https://open.spotify.com/album/1Zo9QC0RI2OqsdEX5IFHmG"
+      },
+      "artists": [
+        {
+          "name": "Neo Pistea",
+          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
+        }
+      ],
+      "duration_ms": 220147,
+      "name": "Criminal",
+      "url": "https://open.spotify.com/track/0eo85yo2kaUvjBHOa4iQX6"
     },
     {
       "added_at": "2026-08-11 14:10:49",

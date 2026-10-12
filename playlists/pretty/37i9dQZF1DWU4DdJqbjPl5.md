@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 
 > Intersection of R&B and afrobeats\. Cover: Bien
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,975 likes - 85 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,976 likes - 85 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

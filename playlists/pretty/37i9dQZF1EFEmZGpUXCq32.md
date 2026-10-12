@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmZGpUXCq32.md) - [plain]
 | 52 | [Just a Word](https://open.spotify.com/track/19WtCpTdybCtlBoWQhQksl) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Art of Love](https://open.spotify.com/album/7GmZgoldBKNdXMNqq0llGh) | 6:29 |
 | 53 | [Something New](https://open.spotify.com/track/2ljyUaG67Vl02atLDM5Bme) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Operation Funk](https://open.spotify.com/album/5LOlSBya1sfbXDP53KK2A3) | 6:02 |
 | 54 | [Gotcha Now Doc](https://open.spotify.com/track/5Zo2dogaQhNGoabGLHr4rG) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Gotcha Now Doc](https://open.spotify.com/album/7pHAuTN3sOfBQyouX96uOd) | 6:47 |
-| 55 | [Heart at Midnight](https://open.spotify.com/track/69BZZFF0H84XW4rA5EKzdW) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Gotcha Now Doc](https://open.spotify.com/album/7pHAuTN3sOfBQyouX96uOd) | 6:59 |
-| 56 | [What I Want](https://open.spotify.com/track/6F3XmjeZAABXispoA3Qumm) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Operation Funk](https://open.spotify.com/album/5LOlSBya1sfbXDP53KK2A3) | 2:58 |
+| 55 | [What I Want](https://open.spotify.com/track/6F3XmjeZAABXispoA3Qumm) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Operation Funk](https://open.spotify.com/album/5LOlSBya1sfbXDP53KK2A3) | 2:58 |
+| 56 | [Heart at Midnight](https://open.spotify.com/track/69BZZFF0H84XW4rA5EKzdW) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Gotcha Now Doc](https://open.spotify.com/album/7pHAuTN3sOfBQyouX96uOd) | 6:59 |
 | 57 | [Miss Purty](https://open.spotify.com/track/3leGXxXO1gVejwDfW8G6uJ) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [First Steps](https://open.spotify.com/album/1yOkrAspqeWPp5IROfT5O8) | 6:24 |
 | 58 | [Anything 4 U](https://open.spotify.com/track/6FWR1UWLMp8mPtl2tHEFHr) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Something to Say](https://open.spotify.com/album/3Hz4JSR7mxab24T8K8jQOx) | 3:48 |
 | 59 | [Burdens Down](https://open.spotify.com/track/0vEnFmphA8EoNwZDKlog5T) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Church](https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn) | 4:04 |
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmZGpUXCq32.md) - [plain]
 | 121 | [Leap of Faith](https://open.spotify.com/track/4mwSkN12OpWi1Wp9k5Oesq) | [The PRVLG](https://open.spotify.com/artist/2BWNNDrfiAwUHbkihc16I4) | [Lover Girl's Playlist Pt\. 1](https://open.spotify.com/album/2AMZkJYM8t5bloohspD4y6) | 3:00 |
 | 122 | [Offering Song Address](https://open.spotify.com/track/4VotLKO4qyqCJqI75bAiFQ) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Church](https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn) | 0:18 |
 
-Snapshot ID: `AcemrgAAAAB8oWefbDyyTlIqoUPp0/65`
+Snapshot ID: `AcesTgAAAAA4SLJIiURslOijNECjkmFK`

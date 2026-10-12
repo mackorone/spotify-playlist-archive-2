@@ -1,6 +1,6 @@
 {
   "description": "Male artists singing about love.",
-  "num_followers": 828312,
+  "num_followers": 828369,
   "original_name": "In the Arms of a Woman",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Don't Play That Song (Mono)",
-        "url": "https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7"
-      },
-      "artists": [
-        {
-          "name": "Ben E. King",
-          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
-        }
-      ],
-      "duration_ms": 180055,
-      "name": "Stand By Me",
-      "url": "https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Seal",
         "url": "https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 288426,
       "name": "Kiss from a Rose",
       "url": "https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Don't Play That Song (Mono)",
+        "url": "https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7"
+      },
+      "artists": [
+        {
+          "name": "Ben E. King",
+          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
+        }
+      ],
+      "duration_ms": 180055,
+      "name": "Stand By Me",
+      "url": "https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -635,18 +635,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Love Songs (A Compilation Old and New)",
-        "url": "https://open.spotify.com/album/7KZTL6gFUUCzNw4FfjVqCF"
+        "name": "The Hits--Chapter One",
+        "url": "https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r"
       },
       "artists": [
         {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
         }
       ],
-      "duration_ms": 210733,
-      "name": "A Groovy Kind of Love",
-      "url": "https://open.spotify.com/track/5OHUTC4EvTbL0DuZQRIGGX"
+      "duration_ms": 213600,
+      "name": "I Want It That Way",
+      "url": "https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -667,18 +667,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "The Hits--Chapter One",
-        "url": "https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r"
+        "name": "Love Songs (A Compilation Old and New)",
+        "url": "https://open.spotify.com/album/7KZTL6gFUUCzNw4FfjVqCF"
       },
       "artists": [
         {
-          "name": "Backstreet Boys",
-          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
         }
       ],
-      "duration_ms": 213600,
-      "name": "I Want It That Way",
-      "url": "https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6"
+      "duration_ms": 210733,
+      "name": "A Groovy Kind of Love",
+      "url": "https://open.spotify.com/track/5OHUTC4EvTbL0DuZQRIGGX"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Love Story",
-        "url": "https://open.spotify.com/album/3iZ02t8Wkhp51QxieO0ErJ"
-      },
-      "artists": [
-        {
-          "name": "Andy Williams",
-          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
-        }
-      ],
-      "duration_ms": 189066,
-      "name": "Where Do I Begin - Love Theme from \"Love Story\"",
-      "url": "https://open.spotify.com/track/45FLu3nL1iMYXYPzhqLdko"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Amos Lee",
         "url": "https://open.spotify.com/album/0hPXaSKyujqCej452raazD"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 251440,
       "name": "Arms Of A Woman",
       "url": "https://open.spotify.com/track/37pK088xTo1ZpR3y23wsFk"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Love Story",
+        "url": "https://open.spotify.com/album/3iZ02t8Wkhp51QxieO0ErJ"
+      },
+      "artists": [
+        {
+          "name": "Andy Williams",
+          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
+        }
+      ],
+      "duration_ms": 189066,
+      "name": "Where Do I Begin - Love Theme from \"Love Story\"",
+      "url": "https://open.spotify.com/track/45FLu3nL1iMYXYPzhqLdko"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Illuminate (Deluxe)",
-        "url": "https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 215773,
-      "name": "Don't Be A Fool",
-      "url": "https://open.spotify.com/track/7msCKNrI0vZw9H4MIgLnAh"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Paradise Valley",
         "url": "https://open.spotify.com/album/712VoD72K500yLhhgqCyVe"
       },
@@ -1267,18 +1251,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Acoustic Sessions",
-        "url": "https://open.spotify.com/album/1U9wuhGG9sT1frxmyuoYNh"
+        "name": "Illuminate (Deluxe)",
+        "url": "https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq"
       },
       "artists": [
         {
-          "name": "The Script",
-          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
         }
       ],
-      "duration_ms": 228506,
-      "name": "The Man Who Can't Be Moved - Acoustic",
-      "url": "https://open.spotify.com/track/5zmFKotNwxzx2QHWpxLuTg"
+      "duration_ms": 215773,
+      "name": "Don't Be A Fool",
+      "url": "https://open.spotify.com/track/7msCKNrI0vZw9H4MIgLnAh"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1299,6 +1283,22 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "Acoustic Sessions",
+        "url": "https://open.spotify.com/album/1U9wuhGG9sT1frxmyuoYNh"
+      },
+      "artists": [
+        {
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+        }
+      ],
+      "duration_ms": 228506,
+      "name": "The Man Who Can't Be Moved - Acoustic",
+      "url": "https://open.spotify.com/track/5zmFKotNwxzx2QHWpxLuTg"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "Vital Signs",
         "url": "https://open.spotify.com/album/7t6t815Z23bjBVU4Qon6HD"
       },
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "James Arthur (Deluxe)",
-        "url": "https://open.spotify.com/album/029WUoBjWc7Js1QiPH3mw0"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 250653,
-      "name": "Impossible - Acoustic",
-      "url": "https://open.spotify.com/track/0JswmIBSn3XZ15wEEtH5fj"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "One In A Million You",
         "url": "https://open.spotify.com/album/3sT09KMUA39aQYCofvoA1j"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 252600,
       "name": "One in a Million You",
       "url": "https://open.spotify.com/track/1CzgvJvt2JRy4uEX3SVaxO"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "James Arthur (Deluxe)",
+        "url": "https://open.spotify.com/album/029WUoBjWc7Js1QiPH3mw0"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 250653,
+      "name": "Impossible - Acoustic",
+      "url": "https://open.spotify.com/track/0JswmIBSn3XZ15wEEtH5fj"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "More Than This - The Best Of Bryan Ferry And Roxy Music",
+        "url": "https://open.spotify.com/album/7MCxE9Sx4zHSXL4xXHm4Im"
+      },
+      "artists": [
+        {
+          "name": "Bryan Ferry",
+          "url": "https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC"
+        }
+      ],
+      "duration_ms": 259066,
+      "name": "Slave To Love",
+      "url": "https://open.spotify.com/track/7imzBhHn7KD6ag3letxmSt"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "Empty Space",
         "url": "https://open.spotify.com/album/2utLlsPJXe11YMuLwH2rf4"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 285727,
       "name": "There's Nothing Better Than Love",
       "url": "https://open.spotify.com/track/5ufz4Pc89GU8FBAp1lPatq"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "More Than This - The Best Of Bryan Ferry And Roxy Music",
-        "url": "https://open.spotify.com/album/7MCxE9Sx4zHSXL4xXHm4Im"
-      },
-      "artists": [
-        {
-          "name": "Bryan Ferry",
-          "url": "https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC"
-        }
-      ],
-      "duration_ms": 259066,
-      "name": "Slave To Love",
-      "url": "https://open.spotify.com/track/7imzBhHn7KD6ag3letxmSt"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1959,6 +1959,22 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "Into The Light",
+        "url": "https://open.spotify.com/album/5Yi08NDFoVAnvHoXqpp9O5"
+      },
+      "artists": [
+        {
+          "name": "Chris de Burgh",
+          "url": "https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U"
+        }
+      ],
+      "duration_ms": 256173,
+      "name": "The Lady In Red",
+      "url": "https://open.spotify.com/track/1GeNWyZtCHbcp3ZWp8GTOO"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "Synchronicity (Remastered)",
         "url": "https://open.spotify.com/album/28eOriEfl7IGbQDNvWIWXK"
       },
@@ -1975,18 +1991,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Into The Light",
-        "url": "https://open.spotify.com/album/5Yi08NDFoVAnvHoXqpp9O5"
+        "name": "Escape (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0"
       },
       "artists": [
         {
-          "name": "Chris de Burgh",
-          "url": "https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U"
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
         }
       ],
-      "duration_ms": 256173,
-      "name": "The Lady In Red",
-      "url": "https://open.spotify.com/track/1GeNWyZtCHbcp3ZWp8GTOO"
+      "duration_ms": 202173,
+      "name": "Open Arms",
+      "url": "https://open.spotify.com/track/2w4EpqGasrz9qdTwocx54t"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2023,22 +2039,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Escape (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0"
-      },
-      "artists": [
-        {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
-        }
-      ],
-      "duration_ms": 202173,
-      "name": "Open Arms",
-      "url": "https://open.spotify.com/track/2w4EpqGasrz9qdTwocx54t"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Avalon Sunset",
         "url": "https://open.spotify.com/album/2vE3SSFPxYt7jRu93j6rsi"
       },
@@ -2067,6 +2067,22 @@
       "duration_ms": 242266,
       "name": "Back for Good - Radio Mix",
       "url": "https://open.spotify.com/track/24fQpRwKFkC3Fe8QtvvrNw"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Too Good At Goodbyes",
+        "url": "https://open.spotify.com/album/7oiRNdTfUWmsx6DAjEe7DB"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Too Good At Goodbyes - Edit",
+      "url": "https://open.spotify.com/track/0mel2N9Ws9r4yLQn5QE21Y"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2119,6 +2135,22 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "Elton John (Remastered Version)",
+        "url": "https://open.spotify.com/album/7dtLYwLOdYQa2S8Vjeuxci"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 244226,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/17VegeBoHvMlIByrdu64KR"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "Teaser And The Firecat",
         "url": "https://open.spotify.com/album/2B719vL1xtPTwYs0j5BuAo"
       },
@@ -2131,6 +2163,38 @@
       "duration_ms": 200000,
       "name": "Morning Has Broken",
       "url": "https://open.spotify.com/track/3BqqF8suAIzW8655yJfcvh"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "The Best Of Extreme (An Accidental Collication Of Atoms)",
+        "url": "https://open.spotify.com/album/4hgVjEoyjjCXhMg5dZtGiI"
+      },
+      "artists": [
+        {
+          "name": "Extreme",
+          "url": "https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L"
+        }
+      ],
+      "duration_ms": 335946,
+      "name": "More Than Words",
+      "url": "https://open.spotify.com/track/7z0JcZ8PQoAfUaLIXvbyTH"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "In The Lonely Hour (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7p7RFI5jtwYDknwhnQgmlp"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 172723,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/7IHOIqZUUInxjVkko181PB"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2167,38 +2231,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Elton John (Remastered Version)",
-        "url": "https://open.spotify.com/album/7dtLYwLOdYQa2S8Vjeuxci"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 244226,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/17VegeBoHvMlIByrdu64KR"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "The Best Of Extreme (An Accidental Collication Of Atoms)",
-        "url": "https://open.spotify.com/album/4hgVjEoyjjCXhMg5dZtGiI"
-      },
-      "artists": [
-        {
-          "name": "Extreme",
-          "url": "https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L"
-        }
-      ],
-      "duration_ms": 335946,
-      "name": "More Than Words",
-      "url": "https://open.spotify.com/track/7z0JcZ8PQoAfUaLIXvbyTH"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Let's Get It On (Expanded Edition)",
         "url": "https://open.spotify.com/album/6AmnVWOxXYucWxgidEgwhy"
       },
@@ -2215,18 +2247,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "In The Lonely Hour (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7p7RFI5jtwYDknwhnQgmlp"
+        "name": "The Original Soundtrack",
+        "url": "https://open.spotify.com/album/7pHLyF1GWxk65WE6Rkrod3"
       },
       "artists": [
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+          "name": "10cc",
+          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
         }
       ],
-      "duration_ms": 172723,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/7IHOIqZUUInxjVkko181PB"
+      "duration_ms": 366640,
+      "name": "I'm Not In Love",
+      "url": "https://open.spotify.com/track/6cuKJ1bFFy4OjfkCI9YBqc"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2263,38 +2295,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "The Original Soundtrack",
-        "url": "https://open.spotify.com/album/7pHLyF1GWxk65WE6Rkrod3"
-      },
-      "artists": [
-        {
-          "name": "10cc",
-          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
-        }
-      ],
-      "duration_ms": 366640,
-      "name": "I'm Not In Love",
-      "url": "https://open.spotify.com/track/6cuKJ1bFFy4OjfkCI9YBqc"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "Tuesdays",
-        "url": "https://open.spotify.com/album/3DIMaIqQvaGXaYJMFT9LbD"
-      },
-      "artists": [
-        {
-          "name": "Jake Scott",
-          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
-        }
-      ],
-      "duration_ms": 216989,
-      "name": "Tuesdays",
-      "url": "https://open.spotify.com/track/7r5cRFkwHuPy7HlzvuovLD"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Rhino Hi-Five: All-4-One",
         "url": "https://open.spotify.com/album/0OrEq5JeWVzislPoSg0fzZ"
       },
@@ -2311,18 +2311,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Too Good At Goodbyes",
-        "url": "https://open.spotify.com/album/7oiRNdTfUWmsx6DAjEe7DB"
+        "name": "Tuesdays",
+        "url": "https://open.spotify.com/album/3DIMaIqQvaGXaYJMFT9LbD"
       },
       "artists": [
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+          "name": "Jake Scott",
+          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
         }
       ],
-      "duration_ms": 201000,
-      "name": "Too Good At Goodbyes - Edit",
-      "url": "https://open.spotify.com/track/0mel2N9Ws9r4yLQn5QE21Y"
+      "duration_ms": 216989,
+      "name": "Tuesdays",
+      "url": "https://open.spotify.com/track/7r5cRFkwHuPy7HlzvuovLD"
     },
     {
       "added_at": "2022-08-26 12:00:00",

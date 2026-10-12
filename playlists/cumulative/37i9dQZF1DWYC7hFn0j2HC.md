@@ -4,7 +4,7 @@
 
 > ¡Lo mejor de los charros cantores! Antonio Aguilar en portada.
 
-139 songs - 6 hr 59 min
+140 songs - 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [La Que Se Fue](https://open.spotify.com/track/74yLkIS7O070GJ9AMgQNoG) | [Jorge Negrete](https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE) | [Latinos de Oro](https://open.spotify.com/album/7vhSZgkHBPzOwur3ILGgJL) | 2:53 | 2022-01-25 | 2022-11-13 |
 | [Lamberto Quintero](https://open.spotify.com/track/5FWViyEsDYr3hkYmj10GxZ) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar con Mariachi](https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n) | 3:04 | 2022-01-25 |  |
 | [Las Rejas No Matan](https://open.spotify.com/track/4XawDdKDqVXESh3qsBjxli) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Sombras](https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B) | 3:08 | 2022-01-25 | 2026-09-11 |
+| [Llorarás, Llorarás](https://open.spotify.com/track/0qEhbfinyjIow2zVwMQCKw) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Canciones De Sus Peliculas](https://open.spotify.com/album/4b0LLrVt3PWfWBV1Oz4fjL) | 3:01 | 2026-09-11 |  |
 | [Los Laureles](https://open.spotify.com/track/1zFYkxUs2fESIauv11Mu3w) | [Miguel Aceves Mejia](https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY) | [Lo Mejor De Lo Mejor De RCA Victor](https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo) | 2:17 | 2022-01-25 |  |
 | [Lástima Que Seas Ajena](https://open.spotify.com/track/5knj5DnKoHo30GHlHbvkyt) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Lastima Que Seas Ajena](https://open.spotify.com/album/1C4HOslKRQixKHC1Qzf2OX) | 4:17 | 2022-01-25 | 2026-09-11 |
 | [Me Cai De La Nube](https://open.spotify.com/track/4zlYTXsDIa4Q5pqj1GO1KO) | [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx) | [15 Exitos Con Mariachi \- Cornelio Reyna](https://open.spotify.com/album/0jSAdduL3crAhdTYDm58Ga) | 2:48 | 2024-04-08 |  |
@@ -113,7 +114,7 @@
 | [No Volveré](https://open.spotify.com/track/4Ny3BGfhqH2XOkOMuR2A4Y) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Mexico Gran Colección Ranchera: Pedro Infante](https://open.spotify.com/album/4ZiRfUT3xPgjse6CzPGRYC) | 4:27 | 2022-01-25 | 2024-04-19 |
 | [Ojitos Traidores](https://open.spotify.com/track/0Q3lMnbeDXiNkSKyLOT2tM) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Javier Solis Con Acoo De Mariachi](https://open.spotify.com/album/0mo4FKlS0n0NtMAQw8SdNn) | 2:42 | 2026-09-11 |  |
 | [Pa' Todo el Año](https://open.spotify.com/track/3O8QuZZrZF9aDYlmmClMO6) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Las 100 Clasicas Vol\. 2](https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG) | 3:07 | 2022-01-25 |  |
-| [Para Siempre](https://open.spotify.com/track/0uyVgmoXDbwS1ubv8AurVZ) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 2:51 | 2022-01-25 |  |
+| [Para Siempre](https://open.spotify.com/track/0uyVgmoXDbwS1ubv8AurVZ) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 2:51 | 2022-01-25 | 2026-10-12 |
 | [Payaso](https://open.spotify.com/track/4bvgQHmxuwOt251YF0FrUa) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Payaso](https://open.spotify.com/album/1t1tLeEvAthN8QnMpB69QN) | 3:01 | 2022-01-25 |  |
 | [Por Tu Maldito Amor](https://open.spotify.com/track/3KZI2xeiIRJd8fm84ClxH5) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Por Tu Maldito Amor](https://open.spotify.com/album/4AcCWh1DSsRWGU8fWK70E1) | 3:56 | 2022-01-25 | 2023-05-15 |
 | [Por Tu Maldito Amor](https://open.spotify.com/track/4pFrn7MBtpwXlsyO5CbCj2) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Por Tu Maldito Amor](https://open.spotify.com/album/0l6LuLWe4X9EqsPSoU7CE7) | 3:58 | 2022-01-25 |  |

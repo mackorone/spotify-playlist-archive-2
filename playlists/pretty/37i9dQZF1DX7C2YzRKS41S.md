@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 
 > Um pouco de folk, jazz e MPB para acordar com o pé na estrada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,309 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,323 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,12 +44,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 | 34 | [Malibu](https://open.spotify.com/track/1ATQ3x83vDSmiSY8PvHrXJ) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Malibu](https://open.spotify.com/album/3rdky53UG5s1ORpeOTJ2fm) | 4:02 |
 | 35 | [Menino de Papel](https://open.spotify.com/track/2iiZsYIyb2MUANhTkNjtIy) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Hungria](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq) | [Menino de Papel](https://open.spotify.com/album/1ykcByGySTdMT3veccKEXT) | 2:56 |
 | 36 | [Seja Como For](https://open.spotify.com/track/15Ii7uBNwsXEGza3umIZBH) | [Banda do Mar](https://open.spotify.com/artist/1Gu3ALcPEx3FFGAfAbqQvD) | [Banda do Mar](https://open.spotify.com/album/1Jlhl64iUyVxFgApbvyCS4) | 3:39 |
-| 37 | [Eu Sou Sentimental](https://open.spotify.com/track/2ZnG4Lt6TlOKxJn9mq9KXD) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [Capítulo 1](https://open.spotify.com/album/1e7D67Xm7d2bOIDdRlBJIR) | 2:57 |
+| 37 | [Todo Azul](https://open.spotify.com/track/1b4pZ2Z718s9rO7uEqoVHB) | [Capim Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P) | [Todo Azul](https://open.spotify.com/album/0PhIT1yRUYgCFLXAwEka7S) | 2:32 |
 | 38 | [Ponto de Vista](https://open.spotify.com/track/1UMDEJN3JtYmSQXoO1HUc5) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [FIM](https://open.spotify.com/album/2jh6gWgvkanar5rjM3g1ow) | 3:02 |
-| 39 | [Todo Azul](https://open.spotify.com/track/1b4pZ2Z718s9rO7uEqoVHB) | [Capim Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P) | [Todo Azul](https://open.spotify.com/album/0PhIT1yRUYgCFLXAwEka7S) | 2:32 |
+| 39 | [Eu Sou Sentimental](https://open.spotify.com/track/2ZnG4Lt6TlOKxJn9mq9KXD) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [Capítulo 1](https://open.spotify.com/album/1e7D67Xm7d2bOIDdRlBJIR) | 2:57 |
 | 40 | [A Estrada](https://open.spotify.com/track/1HjKLr16ZhZ79Lh5GnDPZE) | [Phill Veras](https://open.spotify.com/artist/3BwypqKeCj1DVIoEFwoz3S) | [Gaveta](https://open.spotify.com/album/3DDhp8UHXbfqCdlhhaX2KP) | 3:38 |
-| 41 | [O Segundo Sol](https://open.spotify.com/track/4B1A052R2n4HGE9JeieF5K) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [DUDA BEAT & NANDO REIS](https://open.spotify.com/album/4VbIJk7efjjzApqlSeEIra) | 4:22 |
-| 42 | [Não Tem Lua](https://open.spotify.com/track/4yV6L8Ow55gGYWrHvPbbrc) | [Josyara](https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC), [Juliana Linhares](https://open.spotify.com/artist/06nnwdhfK1jBLXF9uwyDlN) | [Não Tem Lua](https://open.spotify.com/album/2TKdvdufRf6yTMPnjAwZMh) | 2:59 |
+| 41 | [Não Tem Lua](https://open.spotify.com/track/4yV6L8Ow55gGYWrHvPbbrc) | [Josyara](https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC), [Juliana Linhares](https://open.spotify.com/artist/06nnwdhfK1jBLXF9uwyDlN) | [Não Tem Lua](https://open.spotify.com/album/2TKdvdufRf6yTMPnjAwZMh) | 2:59 |
+| 42 | [O Segundo Sol](https://open.spotify.com/track/4B1A052R2n4HGE9JeieF5K) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [DUDA BEAT & NANDO REIS](https://open.spotify.com/album/4VbIJk7efjjzApqlSeEIra) | 4:22 |
 | 43 | [Ímpar](https://open.spotify.com/track/3vXKSy1vWDvl6DeKUxxpaG) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Amores E Flores](https://open.spotify.com/album/6rqpxYPwbgn348n8b5j7ne) | 3:30 |
 | 44 | [Encantos Mil](https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f) | [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS) | [Encantos Mil](https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq) | 2:48 |
 | 45 | [itajaí](https://open.spotify.com/track/1YORvtFKmOyLdDkr3BE1w8) | [Simão](https://open.spotify.com/artist/2wkEw9j9xteOnF00DqUI34) | [itajaí](https://open.spotify.com/album/3AYHSnmSBTiVmrx0aSAOwF) | 2:32 |

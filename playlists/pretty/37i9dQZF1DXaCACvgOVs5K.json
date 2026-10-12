@@ -1,6 +1,6 @@
 {
   "description": "Get ready for Ibiza season 2026. See you on the dancefloor.",
-  "num_followers": 914007,
+  "num_followers": 914045,
   "original_name": "Ibiza 2026",
   "owner": {
     "name": "Spotify",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
-        "name": "Patigo",
-        "url": "https://open.spotify.com/album/2tos295ovD9NdTx99fCPCf"
-      },
-      "artists": [
-        {
-          "name": "Stryv",
-          "url": "https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Patigo",
-      "url": "https://open.spotify.com/track/6RONUICnXH5jCcHEwX8Lu7"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
         "name": "One Question",
         "url": "https://open.spotify.com/album/6TCTJ5ZlutXnHBbVtPk5VU"
       },
@@ -603,6 +587,22 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
+        "name": "Patigo",
+        "url": "https://open.spotify.com/album/2tos295ovD9NdTx99fCPCf"
+      },
+      "artists": [
+        {
+          "name": "Stryv",
+          "url": "https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Patigo",
+      "url": "https://open.spotify.com/track/6RONUICnXH5jCcHEwX8Lu7"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/1Giq4kCBXCOqpJYaKGdVoo"
       },
@@ -615,26 +615,6 @@
       "duration_ms": 187272,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/0ZZWyT8ppn9PxVe17WX2DR"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
-        "name": "Feel This Grip (feat. Baby Tate)",
-        "url": "https://open.spotify.com/album/6btYsWCF3TsiS5lWSDGMVJ"
-      },
-      "artists": [
-        {
-          "name": "Michael Bibi",
-          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 193846,
-      "name": "Feel This Grip (feat. Baby Tate)",
-      "url": "https://open.spotify.com/track/5zdjPqrvUVkF242fY5ZE7Q"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -659,6 +639,26 @@
       "duration_ms": 180150,
       "name": "DANGER DANGER (feat. Skepta)",
       "url": "https://open.spotify.com/track/4PyDd3GxUijMVOdJA2IQEG"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
+        "name": "Feel This Grip (feat. Baby Tate)",
+        "url": "https://open.spotify.com/album/6btYsWCF3TsiS5lWSDGMVJ"
+      },
+      "artists": [
+        {
+          "name": "Michael Bibi",
+          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 193846,
+      "name": "Feel This Grip (feat. Baby Tate)",
+      "url": "https://open.spotify.com/track/5zdjPqrvUVkF242fY5ZE7Q"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
-        "name": "Want To Know",
-        "url": "https://open.spotify.com/album/080Tcs0ngcJZrF8uqcvJEK"
-      },
-      "artists": [
-        {
-          "name": "Rool\u00e9h",
-          "url": "https://open.spotify.com/artist/7zCwvjLktz2o5LFYvTquJu"
-        }
-      ],
-      "duration_ms": 182441,
-      "name": "Want To Know",
-      "url": "https://open.spotify.com/track/3hvH3Ecc4NCvUhX9hMwXlo"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
         "name": "Misery",
         "url": "https://open.spotify.com/album/0KWx756J9ZMUPKq1WdVbrM"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 195572,
       "name": "Misery",
       "url": "https://open.spotify.com/track/3t6829TdVyxeSSj7SJ7uWn"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
+        "name": "Want To Know",
+        "url": "https://open.spotify.com/album/080Tcs0ngcJZrF8uqcvJEK"
+      },
+      "artists": [
+        {
+          "name": "Rool\u00e9h",
+          "url": "https://open.spotify.com/artist/7zCwvjLktz2o5LFYvTquJu"
+        }
+      ],
+      "duration_ms": 182441,
+      "name": "Want To Know",
+      "url": "https://open.spotify.com/track/3hvH3Ecc4NCvUhX9hMwXlo"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -971,6 +971,26 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
+        "name": "Bad Wolf (feat. UNIIQU3)",
+        "url": "https://open.spotify.com/album/2WKNLWyEI5gKbJ5Y9itEoL"
+      },
+      "artists": [
+        {
+          "name": "Michael Bibi",
+          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
+        },
+        {
+          "name": "UNIIQU3",
+          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+        }
+      ],
+      "duration_ms": 185954,
+      "name": "Bad Wolf (feat. UNIIQU3)",
+      "url": "https://open.spotify.com/track/4S8bYzrUHwoAsPzJWRt4QM"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
         "name": "High In Ibiza",
         "url": "https://open.spotify.com/album/6H0z59p0oklDvTPkrVwCIH"
       },
@@ -991,26 +1011,6 @@
       "duration_ms": 142500,
       "name": "High In Ibiza",
       "url": "https://open.spotify.com/track/1hiKvffSphbFpWEr2VJYJP"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
-        "name": "Bad Wolf (feat. UNIIQU3)",
-        "url": "https://open.spotify.com/album/2WKNLWyEI5gKbJ5Y9itEoL"
-      },
-      "artists": [
-        {
-          "name": "Michael Bibi",
-          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
-        },
-        {
-          "name": "UNIIQU3",
-          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
-        }
-      ],
-      "duration_ms": 185954,
-      "name": "Bad Wolf (feat. UNIIQU3)",
-      "url": "https://open.spotify.com/track/4S8bYzrUHwoAsPzJWRt4QM"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -1051,30 +1051,6 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
-        "name": "Party Time (feat. Aatig)",
-        "url": "https://open.spotify.com/album/49PLdkqAKVdfy608nqQchl"
-      },
-      "artists": [
-        {
-          "name": "Tiga",
-          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
-        },
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "Aatig",
-          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
-        }
-      ],
-      "duration_ms": 199072,
-      "name": "Party Time (feat. Aatig)",
-      "url": "https://open.spotify.com/track/5yYY6UIqKUIgv1gFnlIokW"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
         "name": "Mi Combi EP",
         "url": "https://open.spotify.com/album/4eQDew4OYl7gq9cDF3yIYd"
       },
@@ -1099,6 +1075,30 @@
       "duration_ms": 166874,
       "name": "Mi Combi",
       "url": "https://open.spotify.com/track/2G6AM2rmjjJcyiOvizYawc"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
+        "name": "Party Time (feat. Aatig)",
+        "url": "https://open.spotify.com/album/49PLdkqAKVdfy608nqQchl"
+      },
+      "artists": [
+        {
+          "name": "Tiga",
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+        },
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Aatig",
+          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
+        }
+      ],
+      "duration_ms": 199072,
+      "name": "Party Time (feat. Aatig)",
+      "url": "https://open.spotify.com/track/5yYY6UIqKUIgv1gFnlIokW"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
+        "name": "Mi Casa",
+        "url": "https://open.spotify.com/album/2zSH8i7T0nR7jMvV17dnjO"
+      },
+      "artists": [
+        {
+          "name": "Patrick Topping",
+          "url": "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
+        }
+      ],
+      "duration_ms": 229174,
+      "name": "Mi Casa",
+      "url": "https://open.spotify.com/track/3GQURTVhI9LRYy8Q8CCggN"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
         "name": "Raider on the Storm",
         "url": "https://open.spotify.com/album/5Ru0WPywMRUUfH6LptpD75"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 174081,
       "name": "Love\u2019s Theme",
       "url": "https://open.spotify.com/track/6x98PZzecLKDucRBL324qT"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
-        "name": "Mi Casa",
-        "url": "https://open.spotify.com/album/2zSH8i7T0nR7jMvV17dnjO"
-      },
-      "artists": [
-        {
-          "name": "Patrick Topping",
-          "url": "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
-        }
-      ],
-      "duration_ms": 229174,
-      "name": "Mi Casa",
-      "url": "https://open.spotify.com/track/3GQURTVhI9LRYy8Q8CCggN"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
-        "name": "And When Love Speaks",
-        "url": "https://open.spotify.com/album/1LKSNPCS33NRVUZEPtnqOb"
-      },
-      "artists": [
-        {
-          "name": "Soul Wun",
-          "url": "https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp"
-        }
-      ],
-      "duration_ms": 212177,
-      "name": "And When Love Speaks",
-      "url": "https://open.spotify.com/track/20AN9eYlcCAT8EemxP48H2"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
         "name": "Bad Bara",
         "url": "https://open.spotify.com/album/1nkgMtnzvbBSt0BWxFYAlg"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 245571,
       "name": "Bad Bara",
       "url": "https://open.spotify.com/track/4NVV7bdI8LYB2PG2uqrxu6"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
+        "name": "And When Love Speaks",
+        "url": "https://open.spotify.com/album/1LKSNPCS33NRVUZEPtnqOb"
+      },
+      "artists": [
+        {
+          "name": "Soul Wun",
+          "url": "https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp"
+        }
+      ],
+      "duration_ms": 212177,
+      "name": "And When Love Speaks",
+      "url": "https://open.spotify.com/track/20AN9eYlcCAT8EemxP48H2"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -1815,18 +1815,22 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
-        "name": "Like An Angel (Touch Me) / Word Play",
-        "url": "https://open.spotify.com/album/3U86BRtfgVbBnuX0ZVgl7Z"
+        "name": "Fool Proof",
+        "url": "https://open.spotify.com/album/7kDqMUWxjViqAv5USZa8ig"
       },
       "artists": [
         {
-          "name": "IDEMI",
-          "url": "https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT"
+          "name": "Lee Foss",
+          "url": "https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip"
+        },
+        {
+          "name": "Kosmo Kint",
+          "url": "https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn"
         }
       ],
-      "duration_ms": 183636,
-      "name": "Like An Angel (Touch Me)",
-      "url": "https://open.spotify.com/track/69NLfaFQrL1sSwEMHpHEoT"
+      "duration_ms": 236307,
+      "name": "Fool Proof",
+      "url": "https://open.spotify.com/track/6jk5SRxOPmWX2Qgf6tVMWb"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -1851,22 +1855,18 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
-        "name": "3ady Sahla (By Remix)",
-        "url": "https://open.spotify.com/album/2I4TmQdZQmzTMha8iewVrD"
+        "name": "Like An Angel (Touch Me) / Word Play",
+        "url": "https://open.spotify.com/album/3U86BRtfgVbBnuX0ZVgl7Z"
       },
       "artists": [
         {
-          "name": "Marwan Moussa",
-          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
-        },
-        {
-          "name": "Misty",
-          "url": "https://open.spotify.com/artist/4IrIBE884z1Tjx7A6jRGd6"
+          "name": "IDEMI",
+          "url": "https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT"
         }
       ],
-      "duration_ms": 207491,
-      "name": "3ady Sahla - By Remix",
-      "url": "https://open.spotify.com/track/2XMQPut031KtcM1qcQH55H"
+      "duration_ms": 183636,
+      "name": "Like An Angel (Touch Me)",
+      "url": "https://open.spotify.com/track/69NLfaFQrL1sSwEMHpHEoT"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -1907,6 +1907,26 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
+        "name": "3ady Sahla (By Remix)",
+        "url": "https://open.spotify.com/album/2I4TmQdZQmzTMha8iewVrD"
+      },
+      "artists": [
+        {
+          "name": "Marwan Moussa",
+          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
+        },
+        {
+          "name": "Misty",
+          "url": "https://open.spotify.com/artist/4IrIBE884z1Tjx7A6jRGd6"
+        }
+      ],
+      "duration_ms": 207491,
+      "name": "3ady Sahla - By Remix",
+      "url": "https://open.spotify.com/track/2XMQPut031KtcM1qcQH55H"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
         "name": "Me Sabe Bien",
         "url": "https://open.spotify.com/album/7aeKdx0et8QAQCtovgaHuU"
       },
@@ -1923,42 +1943,26 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
-        "name": "Fool Proof",
-        "url": "https://open.spotify.com/album/7kDqMUWxjViqAv5USZa8ig"
+        "name": "IBIZA",
+        "url": "https://open.spotify.com/album/31czGIdxfoex2L6hGzZGy8"
       },
       "artists": [
         {
-          "name": "Lee Foss",
-          "url": "https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip"
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
         },
         {
-          "name": "Kosmo Kint",
-          "url": "https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn"
-        }
-      ],
-      "duration_ms": 236307,
-      "name": "Fool Proof",
-      "url": "https://open.spotify.com/track/6jk5SRxOPmWX2Qgf6tVMWb"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
-        "name": "Even Angels Ghost",
-        "url": "https://open.spotify.com/album/6ptOCnDXGsj3cw1D87e5MS"
-      },
-      "artists": [
-        {
-          "name": "Overmono",
-          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+          "name": "JADED",
+          "url": "https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf"
         },
         {
-          "name": "Kindora",
-          "url": "https://open.spotify.com/artist/4Y60hS4r2QPUohZh8ciVjN"
+          "name": "CRCLE",
+          "url": "https://open.spotify.com/artist/0XDbOisy0qfOYDjqLLftvS"
         }
       ],
-      "duration_ms": 262976,
-      "name": "Even Angels Ghost",
-      "url": "https://open.spotify.com/track/428xFofpMSCCMl2PZvBN6q"
+      "duration_ms": 182000,
+      "name": "IBIZA",
+      "url": "https://open.spotify.com/track/2UWGoFGAYstslkTzLnHLXq"
     }
   ],
   "unique_name": "Ibiza 2026",

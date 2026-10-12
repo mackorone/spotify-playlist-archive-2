@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qgZOg.md) - [plain]
 
 > This is Skillet\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,519 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,540 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qgZOg.md) - [plain]
 | 49 | [Standing in the Storm](https://open.spotify.com/track/72DI6pnhy26WMx7fI1fL07) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Dominion](https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG) | 4:17 |
 | 50 | [Circus for a Psycho](https://open.spotify.com/track/3AhEF2J0fy33PdGYEkzqm2) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Rise \(Deluxe Edition\)](https://open.spotify.com/album/3AUIurHdBrfvqSs7EEr3AA) | 4:31 |
 
-Snapshot ID: `asgugAAAAAA4QmucT4k2y/Ou/BUHI0By`
+Snapshot ID: `asmAAAAAAABG/yAeBfGgZpnH1AiZS9ah`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요\. \(There is something between us\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,954 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,960 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 10 | [A midsummer night's sweetness](https://open.spotify.com/track/3gug38ZhXQWJbwN7sh0YRR) | [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB), [Raina](https://open.spotify.com/artist/21dQ70DS91icGLN9J4mH7h) | [San E, Raina Project Single 'A midsummer night's sweetness'](https://open.spotify.com/album/1srZhGQymoN6YQksduox2J) | 3:53 |
 | 11 | [Do you want to walk with me? \(Romance 101 X Jukjae\)](https://open.spotify.com/track/1hyyH6xSgtcgwpNOR9cX1t) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Do you want to walk with me? \(Romance 101 X Jukjae\)](https://open.spotify.com/album/6Mt17o8mnGYTu8jryXZaZX) | 3:46 |
 | 12 | [MOVIE](https://open.spotify.com/track/51kQvG4aghW17VSZKkfxTp) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [MOVIE](https://open.spotify.com/album/2yqOMxorfrYXbnVkjcaq5y) | 3:03 |
-| 13 | [Introduce me a good person](https://open.spotify.com/track/2OAEKEb0778gsDaCef7MLI) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/2ulXYvZjbc3y12LiwWKXP4) | 3:03 |
-| 14 | [You Are Spring](https://open.spotify.com/track/0LaFsGJoSqJtrwFeuytslG) | [SUNGHANBIN](https://open.spotify.com/artist/2nklCgDz87eN9JcPTlWFEp) | [Spring Fever, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/0pvUvyCFRyYzFPXLAuZQcN) | 3:47 |
+| 13 | [You Are Spring](https://open.spotify.com/track/0LaFsGJoSqJtrwFeuytslG) | [SUNGHANBIN](https://open.spotify.com/artist/2nklCgDz87eN9JcPTlWFEp) | [Spring Fever, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/0pvUvyCFRyYzFPXLAuZQcN) | 3:47 |
+| 14 | [Introduce me a good person](https://open.spotify.com/track/2OAEKEb0778gsDaCef7MLI) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/2ulXYvZjbc3y12LiwWKXP4) | 3:03 |
 | 15 | [I'II be your star](https://open.spotify.com/track/0l9LpCsYufB1e5PJSvOXbU) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [A\-TEEN Part\. 2](https://open.spotify.com/album/0vRTiHetZUMy6HGswfv73J) | 3:24 |
 | 16 | [Love Frequency](https://open.spotify.com/track/0JpjJ135Rg9wIzl8FPB9Rw) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [Love Frequency \(Original Soundtrack from Just For Meeting You\)](https://open.spotify.com/album/3cgYAtoLlt8nO7YdoEuY2l) | 2:43 |
 | 17 | [Good Person \(2022\)](https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi) | [HAECHAN](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) | [Good Person \(2022\)](https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm) | 4:40 |
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 22 | [HONEY](https://open.spotify.com/track/2Lt1ZRU6nFY88vw24GdYLy) | [Chawoo](https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR), [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [HONEY](https://open.spotify.com/album/13G1o00M2cXesfbhj8p8H2) | 3:47 |
 | 23 | [Paint on Spring](https://open.spotify.com/track/6HpDaHOApCbCgu5AyyRv6v) | [Martin Smith](https://open.spotify.com/artist/3ISWX9gKLGkhlgS5AhvlTd) | [Paint on Spring](https://open.spotify.com/album/3wHPgbPG7fuBktQszASI1I) | 3:52 |
 | 24 | [Question Marks \(Feat\. Paul Kim\)](https://open.spotify.com/track/1juxNlpwdGRJ2byuFW7RBC) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [LOVE CATCHER](https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F) | 2:46 |
-| 25 | [45.7cm \(feat.OOHYO\)](https://open.spotify.com/track/4h2fsF8dnXtqx4SNsF15KW) | [Yu Seung Woo](https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf), [WOOHYO](https://open.spotify.com/artist/6jFvKvItiwnMx2nG3y1Hx9) | [Pit a Pat](https://open.spotify.com/album/2exNFaprmfRUKVofd0PNR4) | 3:32 |
-| 26 | [Love Smile](https://open.spotify.com/track/0RMzZqob3KiT07CXv6Mtmu) | [YUNAH](https://open.spotify.com/artist/0PjmP9xV64eWTo5d5tXxB2), [MINJU](https://open.spotify.com/artist/7lhiEEAGZosFSF2tlSBBKO) | [Love Smile \(Original Soundtrack from Last Summer\)](https://open.spotify.com/album/0jEAsckPwsD1k926YW12Oe) | 2:49 |
+| 25 | [Love Smile](https://open.spotify.com/track/0RMzZqob3KiT07CXv6Mtmu) | [YUNAH](https://open.spotify.com/artist/0PjmP9xV64eWTo5d5tXxB2), [MINJU](https://open.spotify.com/artist/7lhiEEAGZosFSF2tlSBBKO) | [Love Smile \(Original Soundtrack from Last Summer\)](https://open.spotify.com/album/0jEAsckPwsD1k926YW12Oe) | 2:49 |
+| 26 | [45.7cm \(feat.OOHYO\)](https://open.spotify.com/track/4h2fsF8dnXtqx4SNsF15KW) | [Yu Seung Woo](https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf), [WOOHYO](https://open.spotify.com/artist/6jFvKvItiwnMx2nG3y1Hx9) | [Pit a Pat](https://open.spotify.com/album/2exNFaprmfRUKVofd0PNR4) | 3:32 |
 | 27 | [juicy](https://open.spotify.com/track/7CZlQzwfuBgKvhkejwEEoy) | [OWIS](https://open.spotify.com/artist/6XX2VhfOTqYDIvNjkEHqe8) | [MUSEUM](https://open.spotify.com/album/7fBDwY8yeff98Qzycso6pC) | 3:20 |
 | 28 | [Imagine](https://open.spotify.com/track/5NcGZMPu11wT8StES9zA2s) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Red Diary Page.1](https://open.spotify.com/album/0d3mf5fBaIBbozCgeEI9AE) | 2:55 |
 | 29 | [HICCUP](https://open.spotify.com/track/6BMNPNij62XvOMQF5BPGym) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [Episode 25](https://open.spotify.com/album/53voGtFVLwlW8CbkbDeIQx) | 3:15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK4fwx2r07XW.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Australia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,412 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,421 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK4fwx2r07XW.md) - [plain]
 | 49 | [Can't Hold Us \(feat\. Ray Dalton\)](https://open.spotify.com/track/22skzmqfdWrjJylampe0kt) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Ryan Lewis](https://open.spotify.com/artist/5mZJerulcERBZV7xnhrVp1), [Macklemore & Ryan Lewis](https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC), [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [The Heist](https://open.spotify.com/album/5QWHes9ODwn42DHTifGkXd) | 4:18 |
 | 50 | [Draw You Out \- From The Hunger Games: Sunrise on the Reaping \- The Album](https://open.spotify.com/track/5KTcGJKm4HgLhLt8Tc7EQ5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [The Hunger Games](https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF) | [Draw You Out](https://open.spotify.com/album/6AAZV1VyL6Y6HC4hbPg3Cr) | 4:15 |
 
-Snapshot ID: `Ml26iAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Ml8QuAAAAAAAAAAAAAAAAAAAAAAAAGVu`

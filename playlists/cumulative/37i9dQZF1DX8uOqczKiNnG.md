@@ -4,11 +4,11 @@
 
 > Los más grandes éxitos de los 70 en Argentina.
 
-78 songs - 4 hr 53 min
+79 songs - 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Dieciocho Minutos del Sol](https://open.spotify.com/track/7ze8PcVXJzcAfCQ0Etjp6v) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [A 18' Del Sol](https://open.spotify.com/album/1uZafurVG5V3TZDqEnVmeR) | 5:31 | 2024-06-12 |  |
+| [A Dieciocho Minutos del Sol](https://open.spotify.com/track/7ze8PcVXJzcAfCQ0Etjp6v) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [A 18' Del Sol](https://open.spotify.com/album/1uZafurVG5V3TZDqEnVmeR) | 5:31 | 2024-06-12 | 2026-10-12 |
 | [Alguien Más en Quien Confiar \- '74 Single Version](https://open.spotify.com/track/10F81E1vPGGROdMHyVthSh) | [El Reloj](https://open.spotify.com/artist/4qZeDZdBD3NiWVbkwX2Lpx) | [El Reloj](https://open.spotify.com/album/3xIkQ0YsEyRvjEY1a8KdXc) | 4:02 | 2024-06-12 | 2025-08-03 |
 | [Amigo](https://open.spotify.com/track/4CKIoO64EM5M37TkshbaQE) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Inolvidables](https://open.spotify.com/album/7D79IE8KdqXLvfyxi4IKIl) | 3:28 | 2020-03-13 |  |
 | [Amor de Primavera](https://open.spotify.com/track/1bvQiT1IglZ3QKIpEHgKeC) | [Tango](https://open.spotify.com/artist/7CSiyutcNoggAxGRxymDHM) | [Tango](https://open.spotify.com/album/1p9tykpcBRGa6lHjviOn9x) | 3:31 | 2024-03-25 |  |
@@ -22,6 +22,7 @@
 | [Cómo Te Extraño Mi Amor](https://open.spotify.com/track/5ozZHuU1nWqq2UaFM9xa5A) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Como Te Extraño Mi Amor](https://open.spotify.com/album/6LT09D1zPnXGS3mLvpReVm) | 2:55 | 2020-03-13 | 2024-04-19 |
 | [Dancing Queen](https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9) | 3:50 | 2020-03-13 | 2024-04-19 |
 | [Don't Go Breaking My Heart](https://open.spotify.com/track/7HW5WIw7ZgZORCzUxv5gW5) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Kiki Dee](https://open.spotify.com/artist/4vjGlQWexbru6aOUCLTVir) | [Rock Of The Westies](https://open.spotify.com/album/4ObsEU7mIXbo2n9A31yfds) | 4:35 | 2020-03-13 | 2024-04-19 |
+| [Donde Va la Gente Cuando Llueve](https://open.spotify.com/track/2JjB7P18oOeqpWKGsUGINy) | [Pedro Y Pablo](https://open.spotify.com/artist/5YDpwWFLxk3wmHBKqAcfiI) | [Yo Vivo en Esta Ciudad](https://open.spotify.com/album/5rpMRdL6IxV1obCxjf4q5i) | 4:44 | 2024-06-12 |  |
 | [Durazno Sangrando](https://open.spotify.com/track/6pjbkrGImw09Nv5Ji3emkr) | [Invisible](https://open.spotify.com/artist/3FjdJbt6Myq32uv7P4owM1) | [Durazno Sangrando](https://open.spotify.com/album/4Cf6WflKk1FEtffkm9h1U7) | 3:39 | 2024-03-25 |  |
 | [Dust in the Wind](https://open.spotify.com/track/6zeE5tKyr8Nu882DQhhSQI) | [Kansas](https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1) | [Point Of Know Return \(Expanded Edition\)](https://open.spotify.com/album/6oU298pdPTCQnMx1PYwyUA) | 3:26 | 2020-03-13 |  |
 | [El Anillo del Capitán Beto](https://open.spotify.com/track/23jMDvKil4frbTA35BVzBY) | [Invisible](https://open.spotify.com/artist/3FjdJbt6Myq32uv7P4owM1) | [El Jardin de los Presentes](https://open.spotify.com/album/0lbpA4dCZfaNhy6LZrGDvJ) | 5:06 | 2020-03-13 |  |

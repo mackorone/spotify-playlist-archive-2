@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWvDTe.md) - [plain]
 
 > This is Sarkodie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,212 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,215 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWvDTe.md) - [plain]
 | 49 | [Jailer](https://open.spotify.com/track/4YIGk7VneqverAJPWTMVJR) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Jailer](https://open.spotify.com/album/3ikyOGpU9GzXGDCSc65Rin) | 3:50 |
 | 50 | [Bambi Too \(feat\. Maleek Berry, Quavo & Sarkodie\)](https://open.spotify.com/track/0jFGFUFKNuTTRE2j2gSI8Y) | [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn), [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Boomerang](https://open.spotify.com/album/1BQhMEiv7bLPI7wLAdHsn9) | 4:35 |
 
-Snapshot ID: `asbdAAAAAADo6evtPtKtdfmDHVRiwQwR`
+Snapshot ID: `asgugAAAAAAY+Uv8TlfSzjpJnehm9oaw`

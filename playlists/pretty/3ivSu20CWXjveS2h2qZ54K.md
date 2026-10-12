@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,930 likes - 109 songs - 6 hr 13 min
+[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,929 likes - 109 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bl63ywBBgC.md) - [plain]
 
 > Aquí le ponemos ritmo a las tareas del hogar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,496 likes - 90 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,571 likes - 90 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bl63ywBBgC.md) - [plain]
 | 57 | [Pasos de Gigantes](https://open.spotify.com/track/5cfyheAkmqThtjovwfQnD4) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Sinverguenza](https://open.spotify.com/album/7adZK0OmOhHL3DnEL5qWKb) | 3:55 |
 | 58 | [Te regalo](https://open.spotify.com/track/0fmgOwkb9AwgzXhYVSZRDs) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77) | [Baute](https://open.spotify.com/album/6IPD0w0Nlo5JE0A54GQEMp) | 2:49 |
 | 59 | [Lloviendo Estrellas](https://open.spotify.com/track/5b00r2xveYfVIOExZJJ395) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Grandes Hits](https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL) | 4:16 |
-| 60 | [Bonita](https://open.spotify.com/track/6HNsJQihjxODgGWQafAJau) | [Cabas](https://open.spotify.com/artist/3W4lVkySjtIvd67UUg0F3i) | [Amores Difíciles](https://open.spotify.com/album/01oAsRFo8FXUuvGt16vI8P) | 3:57 |
-| 61 | [Una Aventura](https://open.spotify.com/track/26ucR33snMkRD6JExhoD6I) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 5:16 |
+| 60 | [Una Aventura](https://open.spotify.com/track/26ucR33snMkRD6JExhoD6I) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 5:16 |
+| 61 | [Bonita](https://open.spotify.com/track/6HNsJQihjxODgGWQafAJau) | [Cabas](https://open.spotify.com/artist/3W4lVkySjtIvd67UUg0F3i) | [Amores Difíciles](https://open.spotify.com/album/01oAsRFo8FXUuvGt16vI8P) | 3:57 |
 | 62 | [La Quiero A Morir](https://open.spotify.com/track/3rsVX2Pd8UkjqF2MAZqeif) | [DLG](https://open.spotify.com/artist/0z0w28IvsF1gsKhVAMbh9p) | [Lo Esencial](https://open.spotify.com/album/0xgbPkhH5Hvuqa0hBGjpj3) | 5:02 |
 | 63 | [Perderme Contigo](https://open.spotify.com/track/7mHFWWfVlhqGjeIQ5qt9i2) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [¿Dónde Nos Quedamos?](https://open.spotify.com/album/3jcXAJvWPnHyDsUtrFqBIx) | 4:06 |
 | 64 | [Pequeñas Cosas](https://open.spotify.com/track/36T4XY4vbxmw40XMJPe3zw) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Grandes Exitos](https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo) | 5:07 |

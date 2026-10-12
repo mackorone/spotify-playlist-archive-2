@@ -1,6 +1,6 @@
 {
   "description": "La psicodelia tropical latinoamericana y sus alucinantes ritmos.",
-  "num_followers": 52007,
+  "num_followers": 52014,
   "original_name": "TROPILOCO",
   "owner": {
     "name": "Spotify",
@@ -263,18 +263,18 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Guadalupe",
-        "url": "https://open.spotify.com/album/6OGNpHbKy1Y7qFhiUBzBWS"
+        "name": "Historia natural",
+        "url": "https://open.spotify.com/album/6R4jGvcdmRiF8wL6yqp34N"
       },
       "artists": [
         {
-          "name": "Jaguar",
-          "url": "https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC"
+          "name": "Los Pira\u00f1as",
+          "url": "https://open.spotify.com/artist/1TWdamQsAiOgB0szQsMSeq"
         }
       ],
-      "duration_ms": 204705,
-      "name": "Guadalupe",
-      "url": "https://open.spotify.com/track/6iyOEhwDFzkwEEGaxMq2ny"
+      "duration_ms": 223488,
+      "name": "Todos tenemos hogar",
+      "url": "https://open.spotify.com/track/0TS5b5bVfUtGi2VOimdjIH"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -295,18 +295,34 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Historia natural",
-        "url": "https://open.spotify.com/album/6R4jGvcdmRiF8wL6yqp34N"
+        "name": "Guadalupe",
+        "url": "https://open.spotify.com/album/6OGNpHbKy1Y7qFhiUBzBWS"
       },
       "artists": [
         {
-          "name": "Los Pira\u00f1as",
-          "url": "https://open.spotify.com/artist/1TWdamQsAiOgB0szQsMSeq"
+          "name": "Jaguar",
+          "url": "https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC"
         }
       ],
-      "duration_ms": 223488,
-      "name": "Todos tenemos hogar",
-      "url": "https://open.spotify.com/track/0TS5b5bVfUtGi2VOimdjIH"
+      "duration_ms": 204705,
+      "name": "Guadalupe",
+      "url": "https://open.spotify.com/track/6iyOEhwDFzkwEEGaxMq2ny"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Los Charapas de Oro",
+        "url": "https://open.spotify.com/album/1JJYeA9PCioo6wAewUA8CY"
+      },
+      "artists": [
+        {
+          "name": "Los Mirlos",
+          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
+        }
+      ],
+      "duration_ms": 221393,
+      "name": "La Danza del Petrolero",
+      "url": "https://open.spotify.com/track/6wYvtOi8fqJfC2vLNncDnL"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -327,22 +343,6 @@
       "duration_ms": 320682,
       "name": "Agujas en el pecho",
       "url": "https://open.spotify.com/track/0np9UFhTftjmtGJSe0C9wP"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
-        "name": "Los Charapas de Oro",
-        "url": "https://open.spotify.com/album/1JJYeA9PCioo6wAewUA8CY"
-      },
-      "artists": [
-        {
-          "name": "Los Mirlos",
-          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
-        }
-      ],
-      "duration_ms": 221393,
-      "name": "La Danza del Petrolero",
-      "url": "https://open.spotify.com/track/6wYvtOi8fqJfC2vLNncDnL"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -483,22 +483,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Pa\u00f1uelo De Seda",
-        "url": "https://open.spotify.com/album/3WEV4lzWJkdrWC13gGurcY"
-      },
-      "artists": [
-        {
-          "name": "Sonido Gallo Negro",
-          "url": "https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo"
-        }
-      ],
-      "duration_ms": 183103,
-      "name": "Pa\u00f1uelo De Seda",
-      "url": "https://open.spotify.com/track/3LWywxs7H28pgy0PCqIiPd"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Echo en Mexico",
         "url": "https://open.spotify.com/album/4ZjWUw1okFSeqCCRrzLQH4"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 302602,
       "name": "Lamento en la Selva",
       "url": "https://open.spotify.com/track/0rxjDRE2wot2sAiilVDiZt"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Pa\u00f1uelo De Seda",
+        "url": "https://open.spotify.com/album/3WEV4lzWJkdrWC13gGurcY"
+      },
+      "artists": [
+        {
+          "name": "Sonido Gallo Negro",
+          "url": "https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo"
+        }
+      ],
+      "duration_ms": 183103,
+      "name": "Pa\u00f1uelo De Seda",
+      "url": "https://open.spotify.com/track/3LWywxs7H28pgy0PCqIiPd"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Lalango",
-        "url": "https://open.spotify.com/album/05KxvOMM465lpZlzK6hCdg"
-      },
-      "artists": [
-        {
-          "name": "Malphino",
-          "url": "https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij"
-        }
-      ],
-      "duration_ms": 209371,
-      "name": "Republica Federal de Malphino",
-      "url": "https://open.spotify.com/track/2BNNHF4crFVs3qz1kNxyHy"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Caminito de mi Pueblo",
         "url": "https://open.spotify.com/album/4XCBF0qS4YuvzVekwGRKHo"
       },
@@ -819,6 +803,22 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
+        "name": "Lalango",
+        "url": "https://open.spotify.com/album/05KxvOMM465lpZlzK6hCdg"
+      },
+      "artists": [
+        {
+          "name": "Malphino",
+          "url": "https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij"
+        }
+      ],
+      "duration_ms": 209371,
+      "name": "Republica Federal de Malphino",
+      "url": "https://open.spotify.com/track/2BNNHF4crFVs3qz1kNxyHy"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
         "name": "El Nuevo Bugalu",
         "url": "https://open.spotify.com/album/2SwzUlWaxbpEVr5GWURihF"
       },
@@ -835,22 +835,18 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Cumbia Disco Energy",
-        "url": "https://open.spotify.com/album/7t4dB442nNp87febQyO9Ur"
+        "name": "Estraik Back",
+        "url": "https://open.spotify.com/album/5RdZA6wy7EDXvrmAzdlUcY"
       },
       "artists": [
         {
-          "name": "Sonido Gallo Negro",
-          "url": "https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo"
-        },
-        {
-          "name": "Polymarchs",
-          "url": "https://open.spotify.com/artist/0r0MDdN441rIsekmG6fi99"
+          "name": "Los Esplifs",
+          "url": "https://open.spotify.com/artist/5caq5gxBeWAzvz8boqmBdb"
         }
       ],
-      "duration_ms": 237674,
-      "name": "Cumbia Disco Energy",
-      "url": "https://open.spotify.com/track/4I4JOjfW35xlyEgjiyswGJ"
+      "duration_ms": 231226,
+      "name": "Perro Rabioso",
+      "url": "https://open.spotify.com/track/1m3rYHSyIcwoeC3bKncV3D"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -871,18 +867,22 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Estraik Back",
-        "url": "https://open.spotify.com/album/5RdZA6wy7EDXvrmAzdlUcY"
+        "name": "Cumbia Disco Energy",
+        "url": "https://open.spotify.com/album/7t4dB442nNp87febQyO9Ur"
       },
       "artists": [
         {
-          "name": "Los Esplifs",
-          "url": "https://open.spotify.com/artist/5caq5gxBeWAzvz8boqmBdb"
+          "name": "Sonido Gallo Negro",
+          "url": "https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo"
+        },
+        {
+          "name": "Polymarchs",
+          "url": "https://open.spotify.com/artist/0r0MDdN441rIsekmG6fi99"
         }
       ],
-      "duration_ms": 231226,
-      "name": "Perro Rabioso",
-      "url": "https://open.spotify.com/track/1m3rYHSyIcwoeC3bKncV3D"
+      "duration_ms": 237674,
+      "name": "Cumbia Disco Energy",
+      "url": "https://open.spotify.com/track/4I4JOjfW35xlyEgjiyswGJ"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Que Tumba",
-        "url": "https://open.spotify.com/album/0luwH2VIVcYNZoxGESrjrr"
-      },
-      "artists": [
-        {
-          "name": "Romperayo",
-          "url": "https://open.spotify.com/artist/1Ey12Gi2P3PNPBsz39cncu"
-        }
-      ],
-      "duration_ms": 196421,
-      "name": "Que Tumba",
-      "url": "https://open.spotify.com/track/5hDj4IZig0UoK3dGzEUhGF"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Sonido Yoryi",
         "url": "https://open.spotify.com/album/0tbKSUNuPamYlrj6xs2WIe"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 280821,
       "name": "Sonido Yoryi",
       "url": "https://open.spotify.com/track/6NOq1ssPUVhIOjhAPzaRxt"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Que Tumba",
+        "url": "https://open.spotify.com/album/0luwH2VIVcYNZoxGESrjrr"
+      },
+      "artists": [
+        {
+          "name": "Romperayo",
+          "url": "https://open.spotify.com/artist/1Ey12Gi2P3PNPBsz39cncu"
+        }
+      ],
+      "duration_ms": 196421,
+      "name": "Que Tumba",
+      "url": "https://open.spotify.com/track/5hDj4IZig0UoK3dGzEUhGF"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
+        "name": "Porrov\u00eda",
+        "url": "https://open.spotify.com/album/1xglUTNFCosYq9NW4FXc9g"
+      },
+      "artists": [
+        {
+          "name": "Frente Cumbiero",
+          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Porrov\u00eda",
+      "url": "https://open.spotify.com/track/1dYgoBJEkIHfhKGebTRioT"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
         "name": "Cumbia Siglo XXI",
         "url": "https://open.spotify.com/album/6XFHs9bsqazGHLuIokrDmR"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 234231,
       "name": "Cuando tengo fiebre veo la cabeza de un leopardo magn\u00edfico",
       "url": "https://open.spotify.com/track/5klF20vzC2HpEQbhn7CdKE"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
-        "name": "Porrov\u00eda",
-        "url": "https://open.spotify.com/album/1xglUTNFCosYq9NW4FXc9g"
-      },
-      "artists": [
-        {
-          "name": "Frente Cumbiero",
-          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Porrov\u00eda",
-      "url": "https://open.spotify.com/track/1dYgoBJEkIHfhKGebTRioT"
     },
     {
       "added_at": "2025-05-19 17:05:09",

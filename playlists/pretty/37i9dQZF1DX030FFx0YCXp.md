@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX030FFx0YCXp.md) - [plain]
 
 > Crowd\-pleasing favorites for an easy, carefree day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 471,768 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 471,771 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX030FFx0YCXp.md) - [plain]
 | 20 | [Listen to the Music](https://open.spotify.com/track/7Ar4G7Ci11gpt6sfH9Cgz5) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [Toulouse Street](https://open.spotify.com/album/2x1Yi30lsWJUoBj1kmovnm) | 3:47 |
 | 21 | [Think I'm In Love With You](https://open.spotify.com/track/3Gn1zuHNLtGuGEOXwq0k7e) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Higher](https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW) | 3:42 |
 | 22 | [All Your'n](https://open.spotify.com/track/0fCwTrRNfoNk962ati8n2K) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Country Squire](https://open.spotify.com/album/2T9P5dSm786uuxA5tkI1Xb) | 3:38 |
-| 23 | [Jolene](https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene](https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj) | 2:43 |
-| 24 | [You're So Vain](https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [No Secrets](https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5) | 4:18 |
+| 23 | [You're So Vain](https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [No Secrets](https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5) | 4:18 |
+| 24 | [Jolene](https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene](https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj) | 2:43 |
 | 25 | [Night Moves](https://open.spotify.com/track/6UBjSnyP1O5W5ndJoO9vUk) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Night Moves](https://open.spotify.com/album/5QkOpsZupEPLq186YOrBNe) | 5:24 |
 | 26 | [Brandy \(You're a Fine Girl\)](https://open.spotify.com/track/2BY7ALEWdloFHgQZG6VMLA) | [Looking Glass](https://open.spotify.com/artist/5jJN1nmKXzRjodMl1THQeI) | [Looking Glass](https://open.spotify.com/album/5ThwnbpYrk9R1xXkAGCLIs) | 3:09 |
 | 27 | [Doin' Time](https://open.spotify.com/track/0Oqc0kKFsQ6MhFOLBNZIGX) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 3:22 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX030FFx0YCXp.md) - [plain]
 | 49 | [Got to Be Real](https://open.spotify.com/track/58r4JuwHhXLAkttkaUZfLw) | [Cheryl Lynn](https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ) | [Cheryl Lynn \(Expanded Edition\)](https://open.spotify.com/album/059jmsqbxhu2n78LMS0H3P) | 5:07 |
 | 50 | [Right Back Where We Started From](https://open.spotify.com/track/6208B8Utmd2fTqgGMjeNr6) | [Maxine Nightingale](https://open.spotify.com/artist/6jQ9UtYXqNfVnPkrH1Xxwi) | [Right Back Where We Started From](https://open.spotify.com/album/0R3e4Hcf2MQVed40q1zdSB) | 3:12 |
 | 51 | [You Make Me Feel Like Dancing \- Remastered](https://open.spotify.com/track/6gTrbqZnyljwXdYQTyBkSx) | [Leo Sayer](https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV) | [Endless Flight](https://open.spotify.com/album/1d79WI0e5XKTpBymbKADDQ) | 3:39 |
-| 52 | [Cat's in the Cradle](https://open.spotify.com/track/2obblQ6tcePeOEVJV6nEGD) | [Harry Chapin](https://open.spotify.com/artist/42q4Ivs7tAiCZ5C7eG5q4c) | [Verities & Balderdash](https://open.spotify.com/album/3nta4nhqWoWjc6LmHIB0kT) | 3:42 |
-| 53 | [There She Goes](https://open.spotify.com/track/0SMkzFGJOBFDI9KfYD55L0) | [The La's](https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT) | [The La's \(Deluxe Edition\)](https://open.spotify.com/album/4tCf15W7qHi3jE0PdljddW) | 2:42 |
+| 52 | [There She Goes](https://open.spotify.com/track/0SMkzFGJOBFDI9KfYD55L0) | [The La's](https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT) | [The La's \(Deluxe Edition\)](https://open.spotify.com/album/4tCf15W7qHi3jE0PdljddW) | 2:42 |
+| 53 | [Cat's in the Cradle](https://open.spotify.com/track/2obblQ6tcePeOEVJV6nEGD) | [Harry Chapin](https://open.spotify.com/artist/42q4Ivs7tAiCZ5C7eG5q4c) | [Verities & Balderdash](https://open.spotify.com/album/3nta4nhqWoWjc6LmHIB0kT) | 3:42 |
 | 54 | [Saturday in the Park \- 2002 Remaster](https://open.spotify.com/track/4OJFkrRQqol4FsPesF8eu4) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago V \(Expanded & Remastered\)](https://open.spotify.com/album/2oSXXINsWGuEsc4udgWxh8) | 3:55 |
 | 55 | [Some Kind Of Wonderful \- Remastered 1999](https://open.spotify.com/track/1cU34sZG9kF4FYHCoAD0Ib) | [Grand Funk Railroad](https://open.spotify.com/artist/0qEcf3SFlpRcb3lK3f2GZI) | [30 Years Of Funk: 1969\-1999 The Anthology](https://open.spotify.com/album/0ib2UtSmLGssyqyoY6X8cm) | 3:22 |
 | 56 | [I'll Be Around](https://open.spotify.com/track/2vLaES21zwbX1Rnmj56Bbb) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [Spinners](https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg) | 3:08 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX030FFx0YCXp.md) - [plain]
 | 71 | [Up Around The Bend](https://open.spotify.com/track/36gPq8WG7tDxrblyGVUCiT) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Cosmo's Factory \(Expanded Edition\)](https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK) | 2:41 |
 | 72 | [Feelin' Alright](https://open.spotify.com/track/0Jl5bIEve3A4axcjY3EgDZ) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [With A Little Help From My Friends](https://open.spotify.com/album/74sIm8QdXqFwYeDS7OfYVw) | 4:10 |
 | 73 | [Everyday People](https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Stand](https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD) | 2:21 |
-| 74 | [All Night Long \- Single Version](https://open.spotify.com/track/4giIdAr7Plyu5LQzBOR4FP) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Back To Front](https://open.spotify.com/album/3oCmLDbxXc1SDZIkwGo0x5) | 4:20 |
-| 75 | [Turn to Stone](https://open.spotify.com/track/1Pd1h30mgU05QkWYhgFzwt) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [Out of the Blue](https://open.spotify.com/album/3usnShwygMXVZB4IV5dwnU) | 3:49 |
+| 74 | [Turn to Stone](https://open.spotify.com/track/1Pd1h30mgU05QkWYhgFzwt) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [Out of the Blue](https://open.spotify.com/album/3usnShwygMXVZB4IV5dwnU) | 3:49 |
+| 75 | [All Night Long \- Single Version](https://open.spotify.com/track/4giIdAr7Plyu5LQzBOR4FP) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Back To Front](https://open.spotify.com/album/3oCmLDbxXc1SDZIkwGo0x5) | 4:20 |
 | 76 | [Two Tickets to Paradise \(2022 Remaster\)](https://open.spotify.com/track/22CIOfLZB9z8He7WgHYAgH) | [Eddie Money](https://open.spotify.com/artist/4Tw2N3wdvJPGEU7JqMxFfE) | [Eddie Money \(2022 Remaster\)](https://open.spotify.com/album/5gMrkmI53zEn98WDwU0iye) | 4:00 |
 | 77 | [Drift Away \- Single Version](https://open.spotify.com/track/6hJhVBOnkchxBsDHbLOBJP) | [Dobie Gray](https://open.spotify.com/artist/3mC1KCuZZSOlN8Z0M56VsV) | [Ultimate Collection: Dobie Gray](https://open.spotify.com/album/4EuAVxsazdEFr5ylShtllS) | 3:57 |
 | 78 | [365 Flavors](https://open.spotify.com/track/4cVMfP5l4k2KNUhYlFpmQH) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [365 Flavors](https://open.spotify.com/album/0fCd5MFX0y24jiCWuWoU5h) | 3:58 |

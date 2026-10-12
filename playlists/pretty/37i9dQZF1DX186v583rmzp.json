@@ -1,6 +1,6 @@
 {
   "description": "Real rap music from the golden era.\n",
-  "num_followers": 9379960,
+  "num_followers": 9380256,
   "original_name": "I Love My '90s Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -95,6 +95,22 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
+        "name": "The Miseducation of Lauryn Hill",
+        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 320266,
+      "name": "Doo Wop (That Thing)",
+      "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
+    },
+    {
+      "added_at": "2024-06-28 10:14:13",
+      "album": {
         "name": "The Chronic",
         "url": "https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt"
       },
@@ -115,18 +131,18 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
-        "name": "The Miseducation of Lauryn Hill",
-        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
+        "name": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
+        "url": "https://open.spotify.com/album/3tQd5mwBtVyxCoEo4htGAV"
       },
       "artists": [
         {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+          "name": "Wu-Tang Clan",
+          "url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
         }
       ],
-      "duration_ms": 320266,
-      "name": "Doo Wop (That Thing)",
-      "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
+      "duration_ms": 252026,
+      "name": "C.R.E.A.M. (Cash Rules Everything Around Me)",
+      "url": "https://open.spotify.com/track/119c93MHjrDLJTApCVGpvx"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -147,22 +163,6 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
-        "name": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
-        "url": "https://open.spotify.com/album/3tQd5mwBtVyxCoEo4htGAV"
-      },
-      "artists": [
-        {
-          "name": "Wu-Tang Clan",
-          "url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
-        }
-      ],
-      "duration_ms": 252026,
-      "name": "C.R.E.A.M. (Cash Rules Everything Around Me)",
-      "url": "https://open.spotify.com/track/119c93MHjrDLJTApCVGpvx"
-    },
-    {
-      "added_at": "2024-06-28 10:14:13",
-      "album": {
         "name": "ATLiens",
         "url": "https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0"
       },
@@ -175,6 +175,22 @@
       "duration_ms": 230693,
       "name": "ATLiens",
       "url": "https://open.spotify.com/track/2vfvGlqCB7oertO5VLE0sz"
+    },
+    {
+      "added_at": "2024-06-28 10:14:13",
+      "album": {
+        "name": "Black Sunday",
+        "url": "https://open.spotify.com/album/02lktkm4J7K7N8T63Gm7KX"
+      },
+      "artists": [
+        {
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+        }
+      ],
+      "duration_ms": 208266,
+      "name": "Insane in the Brain",
+      "url": "https://open.spotify.com/track/1oTHteQbmJw15rPxPVXUTv"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -195,18 +211,22 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
-        "name": "Black Sunday",
-        "url": "https://open.spotify.com/album/02lktkm4J7K7N8T63Gm7KX"
+        "name": "Operation Stackola",
+        "url": "https://open.spotify.com/album/5pMShIZc6oWiEtcQvXsKfb"
       },
       "artists": [
         {
-          "name": "Cypress Hill",
-          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+          "name": "Luniz",
+          "url": "https://open.spotify.com/artist/3z3g65U7mmyyBmmDfsQK9x"
+        },
+        {
+          "name": "Michael Marshall",
+          "url": "https://open.spotify.com/artist/2FT75iYuWmycqYrXbVD9cn"
         }
       ],
-      "duration_ms": 208266,
-      "name": "Insane in the Brain",
-      "url": "https://open.spotify.com/track/1oTHteQbmJw15rPxPVXUTv"
+      "duration_ms": 253533,
+      "name": "I Got 5 On It",
+      "url": "https://open.spotify.com/track/4IYKjN1DrYzxKXt0umJqsG"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -231,26 +251,6 @@
       "duration_ms": 257399,
       "name": "Mo Money Mo Problems (feat. Puff Daddy & Mase) - 2014 Remaster",
       "url": "https://open.spotify.com/track/4INDiWSKvqSKDEu7mh8HFz"
-    },
-    {
-      "added_at": "2024-06-28 10:14:13",
-      "album": {
-        "name": "Operation Stackola",
-        "url": "https://open.spotify.com/album/5pMShIZc6oWiEtcQvXsKfb"
-      },
-      "artists": [
-        {
-          "name": "Luniz",
-          "url": "https://open.spotify.com/artist/3z3g65U7mmyyBmmDfsQK9x"
-        },
-        {
-          "name": "Michael Marshall",
-          "url": "https://open.spotify.com/artist/2FT75iYuWmycqYrXbVD9cn"
-        }
-      ],
-      "duration_ms": 253533,
-      "name": "I Got 5 On It",
-      "url": "https://open.spotify.com/track/4IYKjN1DrYzxKXt0umJqsG"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -423,26 +423,6 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
-        "name": "Bootlegs And B-Sides",
-        "url": "https://open.spotify.com/album/5WMLlQk7xLN9A40jipd3xo"
-      },
-      "artists": [
-        {
-          "name": "Ice Cube",
-          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
-        },
-        {
-          "name": "Das EFX",
-          "url": "https://open.spotify.com/artist/0auu2itHTxEdAMRHvx7CyG"
-        }
-      ],
-      "duration_ms": 273106,
-      "name": "Check Yo Self - Remix",
-      "url": "https://open.spotify.com/track/3NGT0Td7H4Is1qrlDQJxma"
-    },
-    {
-      "added_at": "2024-06-28 10:14:13",
-      "album": {
         "name": "Nigga Please",
         "url": "https://open.spotify.com/album/26ykyKCa7xOHOnzLdGARfz"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 239546,
       "name": "Got Your Money (feat. Kelis)",
       "url": "https://open.spotify.com/track/6YYd5MLpu45J0uLrMdivF7"
+    },
+    {
+      "added_at": "2024-06-28 10:14:13",
+      "album": {
+        "name": "Bootlegs And B-Sides",
+        "url": "https://open.spotify.com/album/5WMLlQk7xLN9A40jipd3xo"
+      },
+      "artists": [
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        {
+          "name": "Das EFX",
+          "url": "https://open.spotify.com/artist/0auu2itHTxEdAMRHvx7CyG"
+        }
+      ],
+      "duration_ms": 273106,
+      "name": "Check Yo Self - Remix",
+      "url": "https://open.spotify.com/track/3NGT0Td7H4Is1qrlDQJxma"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -643,6 +643,22 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
+        "name": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
+        "url": "https://open.spotify.com/album/3tQd5mwBtVyxCoEo4htGAV"
+      },
+      "artists": [
+        {
+          "name": "Wu-Tang Clan",
+          "url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+        }
+      ],
+      "duration_ms": 291266,
+      "name": "Protect Ya Neck",
+      "url": "https://open.spotify.com/track/1Sgj10byiGzPpI2IrXSFEn"
+    },
+    {
+      "added_at": "2024-06-28 10:14:13",
+      "album": {
         "name": "The Chronic",
         "url": "https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt"
       },
@@ -671,18 +687,18 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
-        "name": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
-        "url": "https://open.spotify.com/album/3tQd5mwBtVyxCoEo4htGAV"
+        "name": "Return of the Boom Bap",
+        "url": "https://open.spotify.com/album/64ub4SfdC8wvPjdUXw8QY9"
       },
       "artists": [
         {
-          "name": "Wu-Tang Clan",
-          "url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+          "name": "KRS-One",
+          "url": "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
         }
       ],
-      "duration_ms": 291266,
-      "name": "Protect Ya Neck",
-      "url": "https://open.spotify.com/track/1Sgj10byiGzPpI2IrXSFEn"
+      "duration_ms": 258506,
+      "name": "Sound of da Police",
+      "url": "https://open.spotify.com/track/3Y6XWs8xMlCngyIxNOFnsp"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -699,22 +715,6 @@
       "duration_ms": 226133,
       "name": "Electric Relaxation",
       "url": "https://open.spotify.com/track/0eEXcw3JLVXcRxYrVYMy68"
-    },
-    {
-      "added_at": "2024-06-28 10:14:13",
-      "album": {
-        "name": "Return of the Boom Bap",
-        "url": "https://open.spotify.com/album/64ub4SfdC8wvPjdUXw8QY9"
-      },
-      "artists": [
-        {
-          "name": "KRS-One",
-          "url": "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
-        }
-      ],
-      "duration_ms": 258506,
-      "name": "Sound of da Police",
-      "url": "https://open.spotify.com/track/3Y6XWs8xMlCngyIxNOFnsp"
     },
     {
       "added_at": "2025-07-22 17:32:08",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
-        "name": "The Low End Theory",
-        "url": "https://open.spotify.com/album/1p12OAWwudgMqfMzjMvl2a"
-      },
-      "artists": [
-        {
-          "name": "A Tribe Called Quest",
-          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
-        }
-      ],
-      "duration_ms": 216693,
-      "name": "Check the Rhime",
-      "url": "https://open.spotify.com/track/4HfxDJ0uLHTLe0fZrx0MbQ"
-    },
-    {
-      "added_at": "2024-06-28 10:14:13",
-      "album": {
         "name": "When Disaster Strikes...",
         "url": "https://open.spotify.com/album/6nPdlsKWGOFepgMMXTZReP"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 194293,
       "name": "Put Your Hands Where My Eyes Could See (feat. Jamal)",
       "url": "https://open.spotify.com/track/1NHwvBmrUje4L1dxfWnXCH"
+    },
+    {
+      "added_at": "2024-06-28 10:14:13",
+      "album": {
+        "name": "The Low End Theory",
+        "url": "https://open.spotify.com/album/1p12OAWwudgMqfMzjMvl2a"
+      },
+      "artists": [
+        {
+          "name": "A Tribe Called Quest",
+          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+        }
+      ],
+      "duration_ms": 216693,
+      "name": "Check the Rhime",
+      "url": "https://open.spotify.com/track/4HfxDJ0uLHTLe0fZrx0MbQ"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -931,6 +931,30 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
+        "name": "Vol.2... Hard Knock Life",
+        "url": "https://open.spotify.com/album/3j1xCJdBMCl6wYQXurz2tb"
+      },
+      "artists": [
+        {
+          "name": "JA\u0178-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Amil",
+          "url": "https://open.spotify.com/artist/6NzM38IkXdbQsQ4qW9CG7z"
+        },
+        {
+          "name": "Ja Rule",
+          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
+        }
+      ],
+      "duration_ms": 309773,
+      "name": "Can I Get A...",
+      "url": "https://open.spotify.com/track/4LGMSdeKOUoy5Wf75Je0Hl"
+    },
+    {
+      "added_at": "2024-06-28 10:14:13",
+      "album": {
         "name": "Reachin' (A New Refutation Of Time And Space)",
         "url": "https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP"
       },
@@ -963,30 +987,6 @@
       "duration_ms": 226440,
       "name": "Award Tour (feat. Trugoy The Dove)",
       "url": "https://open.spotify.com/track/5YTM7OgQDt9EJAYcfHLniJ"
-    },
-    {
-      "added_at": "2024-06-28 10:14:13",
-      "album": {
-        "name": "Vol.2... Hard Knock Life",
-        "url": "https://open.spotify.com/album/3j1xCJdBMCl6wYQXurz2tb"
-      },
-      "artists": [
-        {
-          "name": "JA\u0178-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "name": "Amil",
-          "url": "https://open.spotify.com/artist/6NzM38IkXdbQsQ4qW9CG7z"
-        },
-        {
-          "name": "Ja Rule",
-          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
-        }
-      ],
-      "duration_ms": 309773,
-      "name": "Can I Get A...",
-      "url": "https://open.spotify.com/track/4LGMSdeKOUoy5Wf75Je0Hl"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
-        "name": "Extinction Level Event: The Final World Front",
-        "url": "https://open.spotify.com/album/4zb4gmGzDYtlWMjmc1NZWW"
-      },
-      "artists": [
-        {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
-        }
-      ],
-      "duration_ms": 158466,
-      "name": "Gimme Some More",
-      "url": "https://open.spotify.com/track/47wZfF4OdME3xkIPhhpSSF"
-    },
-    {
-      "added_at": "2024-06-28 10:14:13",
-      "album": {
         "name": "Supa Dupa Fly",
         "url": "https://open.spotify.com/album/6UkdyvPElK6JDkyeRClbI2"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 251000,
       "name": "The Rain (Supa Dupa Fly)",
       "url": "https://open.spotify.com/track/2WRzpLD8qDRrxMXc63E5WJ"
+    },
+    {
+      "added_at": "2024-06-28 10:14:13",
+      "album": {
+        "name": "Extinction Level Event: The Final World Front",
+        "url": "https://open.spotify.com/album/4zb4gmGzDYtlWMjmc1NZWW"
+      },
+      "artists": [
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        }
+      ],
+      "duration_ms": 158466,
+      "name": "Gimme Some More",
+      "url": "https://open.spotify.com/track/47wZfF4OdME3xkIPhhpSSF"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
-        "name": "I Got Next",
-        "url": "https://open.spotify.com/album/6g9rKb1kKlh0M0mS34kCSS"
+        "name": "Kollage",
+        "url": "https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA"
       },
       "artists": [
         {
-          "name": "KRS-One",
-          "url": "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
+          "name": "Bahamadia",
+          "url": "https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO"
         }
       ],
-      "duration_ms": 289906,
-      "name": "Step into a World (Rapture's Delight)",
-      "url": "https://open.spotify.com/track/5xXL4i9L2ZbKBtENNh8fWY"
+      "duration_ms": 214866,
+      "name": "Uknowhowwedu",
+      "url": "https://open.spotify.com/track/5KapB9KJnRsZrprzIAXycW"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
-        "name": "Kollage",
-        "url": "https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA"
+        "name": "I Got Next",
+        "url": "https://open.spotify.com/album/6g9rKb1kKlh0M0mS34kCSS"
       },
       "artists": [
         {
-          "name": "Bahamadia",
-          "url": "https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO"
+          "name": "KRS-One",
+          "url": "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
         }
       ],
-      "duration_ms": 214866,
-      "name": "Uknowhowwedu",
-      "url": "https://open.spotify.com/track/5KapB9KJnRsZrprzIAXycW"
+      "duration_ms": 289906,
+      "name": "Step into a World (Rapture's Delight)",
+      "url": "https://open.spotify.com/track/5xXL4i9L2ZbKBtENNh8fWY"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -1715,6 +1715,22 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
+        "name": "Uptown Saturday Night",
+        "url": "https://open.spotify.com/album/21EglTSwzUorpiXpMBNW2E"
+      },
+      "artists": [
+        {
+          "name": "Camp Lo",
+          "url": "https://open.spotify.com/artist/4oLZx5FplbgfM8DEe9U8LB"
+        }
+      ],
+      "duration_ms": 240093,
+      "name": "Luchini AKA This Is It",
+      "url": "https://open.spotify.com/track/20DcrlNK0NcRknbX4wcEO4"
+    },
+    {
+      "added_at": "2024-06-28 10:14:13",
+      "album": {
         "name": "Life In 1472 (The Original Soundtrack)",
         "url": "https://open.spotify.com/album/4gBlh3imgWjnD275XauGwt"
       },
@@ -1731,22 +1747,6 @@
       "duration_ms": 254253,
       "name": "Money Ain't a Thang (feat. JA\u0178-Z)",
       "url": "https://open.spotify.com/track/12LjNmRrdzhTn1vMcxN81m"
-    },
-    {
-      "added_at": "2024-06-28 10:14:13",
-      "album": {
-        "name": "Uptown Saturday Night",
-        "url": "https://open.spotify.com/album/21EglTSwzUorpiXpMBNW2E"
-      },
-      "artists": [
-        {
-          "name": "Camp Lo",
-          "url": "https://open.spotify.com/artist/4oLZx5FplbgfM8DEe9U8LB"
-        }
-      ],
-      "duration_ms": 240093,
-      "name": "Luchini AKA This Is It",
-      "url": "https://open.spotify.com/track/20DcrlNK0NcRknbX4wcEO4"
     },
     {
       "added_at": "2024-06-28 10:14:13",

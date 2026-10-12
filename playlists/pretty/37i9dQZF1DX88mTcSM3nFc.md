@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX88mTcSM3nFc.md) - [plain]
 
 > christmas always makes me cry
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,466 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,497 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX88mTcSM3nFc.md) - [plain]
 | 26 | [The First Noel](https://open.spotify.com/track/4WW2Bdai1qzTnNkWNJCGNg) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Ultimate Christmas](https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a) | 2:44 |
 | 27 | [Silent Night](https://open.spotify.com/track/4iTfml41SOUBHXgMUHLUVV) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 2:11 |
 | 28 | [For Those Who Can't Be Here](https://open.spotify.com/track/7nrB7gaYNe1x8Kvv7c0Tps) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [For Those Who Can't Be Here](https://open.spotify.com/album/06whzJAwv0hrYW3i2N4TWx) | 3:03 |
-| 29 | [Single On The 25th](https://open.spotify.com/track/3hTSUqyG6ntAYXjgYOjS16) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Single On The 25th](https://open.spotify.com/album/3dQ9PkqMkvgcjvEnKWEL3n) | 2:41 |
-| 30 | [Present Without A Bow](https://open.spotify.com/track/0Pj9cTJcWbrDPjtCKx4Ody) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [A Very Kacey Christmas](https://open.spotify.com/album/7sIB15nu0Rp1vR8wXnTx3a) | 3:50 |
+| 29 | [Present Without A Bow](https://open.spotify.com/track/0Pj9cTJcWbrDPjtCKx4Ody) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [A Very Kacey Christmas](https://open.spotify.com/album/7sIB15nu0Rp1vR8wXnTx3a) | 3:50 |
+| 30 | [Single On The 25th](https://open.spotify.com/track/3hTSUqyG6ntAYXjgYOjS16) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Single On The 25th](https://open.spotify.com/album/3dQ9PkqMkvgcjvEnKWEL3n) | 2:41 |
 | 31 | [2000 Miles](https://open.spotify.com/track/5v1SC5d3F8VHwqkXx53f7d) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [2000 Miles](https://open.spotify.com/album/0Uk9J6k7ZV1SCsezKHCg6w) | 3:15 |
 | 32 | [Christmas is The Only Time I'm Home](https://open.spotify.com/track/4JbwEU1apqYe1dXhThvjag) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Christmas is The Only Time I'm Home](https://open.spotify.com/album/1WuDKfHUB50Uz5bbv0Rn4Z) | 3:20 |
 | 33 | [What Child Is This? \(with Percy Faith & His Orchestra\)](https://open.spotify.com/track/5pHVGMJY8zuukdIAPpT1vj) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf), [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [Merry Christmas \(with Percy Faith & His Orchestra\)](https://open.spotify.com/album/3pHNZvjNOHJX8G9Y0OmIzG) | 3:58 |

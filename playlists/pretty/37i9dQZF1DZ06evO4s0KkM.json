@@ -1,6 +1,6 @@
 {
   "description": "This is Dropkick Murphys. The essential tracks, all in one playlist.",
-  "num_followers": 127547,
+  "num_followers": 127552,
   "original_name": "This Is Dropkick Murphys",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Meanest of Times (Limited Edition)",
+        "url": "https://open.spotify.com/album/4tqRdOGCDOT38iLFojyyuX"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 196693,
+      "name": "God Willing",
+      "url": "https://open.spotify.com/track/6amL7Sov9asiwtCWN3gj8p"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sing Loud, Sing Proud",
         "url": "https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 161026,
       "name": "The Auld Triangle",
       "url": "https://open.spotify.com/track/0waMJXxhuGuyTt8epERx7m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Meanest of Times (Limited Edition)",
-        "url": "https://open.spotify.com/album/4tqRdOGCDOT38iLFojyyuX"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 196693,
-      "name": "God Willing",
-      "url": "https://open.spotify.com/track/6amL7Sov9asiwtCWN3gj8p"
     },
     {
       "added_at": null,
@@ -631,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "11 Short Stories of Pain & Glory",
-        "url": "https://open.spotify.com/album/2x8e1IYd6eaQzAi7X2oRMB"
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza"
       },
       "artists": [
         {
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 202080,
-      "name": "You'll Never Walk Alone",
-      "url": "https://open.spotify.com/track/6CGlNIDb7YCC9wA2L5I9NT"
+      "duration_ms": 183306,
+      "name": "Black Velvet Band",
+      "url": "https://open.spotify.com/track/356DFRPTv6s2jPuQHrIqWi"
     },
     {
       "added_at": null,
@@ -663,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blackout",
-        "url": "https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza"
+        "name": "11 Short Stories of Pain & Glory",
+        "url": "https://open.spotify.com/album/2x8e1IYd6eaQzAi7X2oRMB"
       },
       "artists": [
         {
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 183306,
-      "name": "Black Velvet Band",
-      "url": "https://open.spotify.com/track/356DFRPTv6s2jPuQHrIqWi"
+      "duration_ms": 202080,
+      "name": "You'll Never Walk Alone",
+      "url": "https://open.spotify.com/track/6CGlNIDb7YCC9wA2L5I9NT"
     },
     {
       "added_at": null,

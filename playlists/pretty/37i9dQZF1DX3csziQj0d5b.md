@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3csziQj0d5b.md) - [plain]
 
 > Music to take the pain of homework away.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,935,799 likes - 121 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,935,954 likes - 121 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3csziQj0d5b.md) - [plain]
 | 11 | [Stateside + Zara Larsson](https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 3:04 |
 | 12 | [Sparks](https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 3:47 |
 | 13 | [DAISIES](https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:56 |
-| 14 | [My Body Isn't Ready](https://open.spotify.com/track/79RJg6MqIJlBuedcMqB9F0) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [My Body Isn't Ready](https://open.spotify.com/album/27fL8TMJUfW4XRXZqougTh) | 3:37 |
-| 15 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 |
+| 14 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 |
+| 15 | [My Body Isn't Ready](https://open.spotify.com/track/79RJg6MqIJlBuedcMqB9F0) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [My Body Isn't Ready](https://open.spotify.com/album/27fL8TMJUfW4XRXZqougTh) | 3:37 |
 | 16 | [Gabriela](https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gabriela](https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft) | 3:17 |
 | 17 | [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:58 |
 | 18 | [Night Changes](https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 3:46 |
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3csziQj0d5b.md) - [plain]
 | 63 | [Save Your Tears \(with Ariana Grande\) \(Remix\)](https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Save Your Tears \(Remix\)](https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh) | 3:11 |
 | 64 | [ocean eyes](https://open.spotify.com/track/7hDVYcQq6MxkdJGweuCtl9) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [dont smile at me](https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU) | 3:20 |
 | 65 | [Space Song](https://open.spotify.com/track/1ZgMsA55GIY7ICkQh5MILA) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/4SkZTSXdPpzTbf6C0m1UKv) | 5:20 |
-| 66 | [Run Rabbit](https://open.spotify.com/track/0xVSc4Gvf5ua1yb96Ku5D2) | [Mollie Elizabeth](https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z) | [Run Rabbit](https://open.spotify.com/album/1d5wcguxg3968t6WLUGmx4) | 3:09 |
-| 67 | [It's You](https://open.spotify.com/track/5DqdesEfbRyOlSS3Tf6c29) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [YOU](https://open.spotify.com/album/63Kr9mdWxT7mB2AKgf4rCa) | 3:32 |
-| 68 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 |
+| 66 | [It's You](https://open.spotify.com/track/5DqdesEfbRyOlSS3Tf6c29) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [YOU](https://open.spotify.com/album/63Kr9mdWxT7mB2AKgf4rCa) | 3:32 |
+| 67 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 |
+| 68 | [Run Rabbit](https://open.spotify.com/track/0xVSc4Gvf5ua1yb96Ku5D2) | [Mollie Elizabeth](https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z) | [Run Rabbit](https://open.spotify.com/album/1d5wcguxg3968t6WLUGmx4) | 3:09 |
 | 69 | [Dancing With Your Ghost](https://open.spotify.com/track/1TQXIltqoZ5XXyfCbAeSQQ) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Dancing With Your Ghost](https://open.spotify.com/album/3I677CWVoiOsbMxOQzjShB) | 3:17 |
 | 70 | [12 to 12](https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [12 to 12](https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV) | 4:02 |
 | 71 | [Saturn](https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Saturn](https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k) | 3:06 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3csziQj0d5b.md) - [plain]
 | 86 | [KEHLANI](https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [KEHLANI](https://open.spotify.com/album/5Zwbll6KYxOjZSuxRjQDEm) | 2:02 |
 | 87 | [trees for the woods](https://open.spotify.com/track/4FXQTLl5v1jlaLvrp16mFk) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [trees for the woods](https://open.spotify.com/album/5a1qNYmQldBmdb5NMLGi7a) | 4:07 |
 | 88 | [If We Ever Broke Up](https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [If We Ever Broke Up](https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO) | 2:22 |
-| 89 | [Night at the Opera](https://open.spotify.com/track/4ikhbKiw9pKYkWitSR7M7u) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Night at the Opera](https://open.spotify.com/album/2XU7TKFSPdMo3dyNWLdvjO) | 3:04 |
-| 90 | [White Noise](https://open.spotify.com/track/0rjGD5jVtVbj131wDsfbJG) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cruel World](https://open.spotify.com/album/43TBVIMYFCJNsKSJK6H6TU) | 3:45 |
+| 89 | [White Noise](https://open.spotify.com/track/0rjGD5jVtVbj131wDsfbJG) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cruel World](https://open.spotify.com/album/43TBVIMYFCJNsKSJK6H6TU) | 3:45 |
+| 90 | [Night at the Opera](https://open.spotify.com/track/4ikhbKiw9pKYkWitSR7M7u) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Night at the Opera](https://open.spotify.com/album/2XU7TKFSPdMo3dyNWLdvjO) | 3:04 |
 | 91 | [Before You Leave Me](https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Before You Leave Me](https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz) | 2:56 |
 | 92 | [worst case scenario](https://open.spotify.com/track/3WrqBnovxXQCnFdeQ4buqY) | [jayo](https://open.spotify.com/artist/1kBx4RzRD8An5pUEDBGZQ9) | [worst case scenario](https://open.spotify.com/album/5a3aE0vTeCDSogMWpTFvJQ) | 2:15 |
 | 93 | [iloveitiloveitiloveit](https://open.spotify.com/track/0vVel80XRhw0LuSQucKMui) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [a couple minutes out](https://open.spotify.com/album/13sFSgU0S2NUdpv4BbLN0t) | 3:03 |
@@ -116,8 +116,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3csziQj0d5b.md) - [plain]
 | 106 | [Something About You](https://open.spotify.com/track/6RiiSy9GzSwiyDEJDiMuKe) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [Mulholland Drive](https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1) | 2:33 |
 | 107 | [silent treatment](https://open.spotify.com/track/4T5bTjkZ5Ig3SPJnovf5GN) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [silent treatment](https://open.spotify.com/album/0Hkt9Zqu1AHn51EBjh5mpt) | 2:22 |
 | 108 | [SNAP](https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR) | 2:59 |
-| 109 | [Sailor Song](https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit) | 3:31 |
-| 110 | [Moral of the Story](https://open.spotify.com/track/2nC3QhMI9reBIOWutbU3Tj) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Moral of the Story](https://open.spotify.com/album/4yKwChgdGpJzf2nn3nPHfP) | 3:21 |
+| 109 | [Moral of the Story](https://open.spotify.com/track/2nC3QhMI9reBIOWutbU3Tj) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Moral of the Story](https://open.spotify.com/album/4yKwChgdGpJzf2nn3nPHfP) | 3:21 |
+| 110 | [Sailor Song](https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit) | 3:31 |
 | 111 | [you broke me first](https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [you broke me first](https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc) | 2:49 |
 | 112 | [I Like Me Better](https://open.spotify.com/track/2P91MQbaiQOfbiz9VqhqKQ) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/7lqieLm717j9Z8JrG7POkS) | 3:17 |
 | 113 | [lowkey](https://open.spotify.com/track/5TTXEcfsYLh6fTarLaevTi) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [lowkey](https://open.spotify.com/album/6a1p03zluxNwXTVdm9IStw) | 2:51 |

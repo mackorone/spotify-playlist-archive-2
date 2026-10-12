@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL1Fl8vdBUba.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Colombia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,807 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,807 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL1Fl8vdBUba.md) - [plain]
 | 26 | [Es un Secreto](https://open.spotify.com/track/3Btqti3QpzZZr6uz5mlNzz) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/6sP9EP1NyetOJxmuw2ErZi) | 3:10 |
 | 27 | [LUNA](https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [FERXXOCALIPSIS](https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6) | 3:16 |
 | 28 | [COQUETA](https://open.spotify.com/track/1PREzVLuDT6PSE9sej4wnV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [MALA MÍA](https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy) | 4:01 |
-| 29 | [El Teléfono](https://open.spotify.com/track/1sbiqeh3fCNwebhohDRXAp) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Machete Music Chronicles: Vol\. I](https://open.spotify.com/album/3vBf54VsQZq7R5fDDxYTe2) | 3:59 |
+| 29 | [El Teléfono](https://open.spotify.com/track/614NVFo5csQqRnryl4jXs2) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [The Bad Boy](https://open.spotify.com/album/5eklEkHSU1l3yewxdePzRL) | 3:55 |
 | 30 | [CHÉVERE \(premium\_remix\)](https://open.spotify.com/track/3CBEVPwR3kUXDoTx1lqFUQ) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [CHÉVERE \(premium\_remix\)](https://open.spotify.com/album/4J4UG9VKP7M6XhEuxUj94w) | 3:39 |
 | 31 | [UNA BABY EN SANTIAGO](https://open.spotify.com/track/0sLYR3myPmuIKRzDdeQta0) | [Lil Naay](https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ) | [UNA BABY EN SANTIAGO](https://open.spotify.com/album/2GXdbhlSMDcnJwIepOYp6C) | 2:45 |
 | 32 | [Amor](https://open.spotify.com/track/6r6IPuFvUX72kQGc9b46rk) | [Emmanuel Cortes](https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox) | [Memorias <3](https://open.spotify.com/album/47vZWbCPtkrihW631OcCWi) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL1Fl8vdBUba.md) - [plain]
 | 49 | [YOGURCITO](https://open.spotify.com/track/6rZno3nqeT7hv2PnSWRuYS) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [BlessDeluxury](https://open.spotify.com/album/0MkMu019XCFwwuL1ftHKmQ) | 3:03 |
 | 50 | [After](https://open.spotify.com/track/6xNVBgIRbb9cHKR1ipzIfm) | [Conep](https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx) | [TRAPPii 2](https://open.spotify.com/album/6edg9wy9YoB6Hr27gHmSCQ) | 2:47 |
 
-Snapshot ID: `Ml26iAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Ml8QuAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbyYXnUYgqZ.md) - [plain]
 
 > Enjoy fantastic gameplay with k\-pop music! \(Cover: True Damage\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,732 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,733 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,14 +17,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbyYXnUYgqZ.md) - [plain]
 | 7 | [RUDE!](https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [RUDE!](https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s) | 3:20 |
 | 8 | [SWIM](https://open.spotify.com/track/4g5eopb54XIaV2ciooY3St) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN) | 2:39 |
 | 9 | [Magnetic](https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:40 |
-| 10 | [BOOMPALA](https://open.spotify.com/track/41d2WjuL0ikRKVjxmL7ZFz) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | ['PUREFLOW', Pt\. 1](https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko) | 2:56 |
+| 10 | [Catch Catch](https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [LOVE CATCHER](https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F) | 3:00 |
 | 11 | [FaSHioN](https://open.spotify.com/track/4ecdsGz3Hg6TKPwQ0ZOdJz) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [COLOR OUTSIDE THE LINES](https://open.spotify.com/album/2yMfaynthtWVAkJ5A3Kwrf) | 2:54 |
-| 12 | [Catch Catch](https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [LOVE CATCHER](https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F) | 3:00 |
+| 12 | [BOOMPALA](https://open.spotify.com/track/41d2WjuL0ikRKVjxmL7ZFz) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | ['PUREFLOW', Pt\. 1](https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko) | 2:56 |
 | 13 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 |
 | 14 | [NOT CUTE ANYMORE](https://open.spotify.com/track/1k0JAiH11gHL9dc5dfQjQr) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [NOT CUTE ANYMORE](https://open.spotify.com/album/6wKHLrZczZAhDVsMEG4JXt) | 2:11 |
-| 15 | [Made My Night](https://open.spotify.com/track/5MOIAV008posdOGmxiJBsi) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Made My Night](https://open.spotify.com/album/59BYHVCzCi3WTu2f0ONpKt) | 2:06 |
-| 16 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 |
-| 17 | [CHOOM](https://open.spotify.com/track/4cox7ONwuCwUvfZ9fsGDVu) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [춤 \(CHOOM\)](https://open.spotify.com/album/1VmMG3mtIWHWm618Cwiku7) | 2:58 |
+| 15 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 |
+| 16 | [CHOOM](https://open.spotify.com/track/4cox7ONwuCwUvfZ9fsGDVu) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [춤 \(CHOOM\)](https://open.spotify.com/album/1VmMG3mtIWHWm618Cwiku7) | 2:58 |
+| 17 | [Made My Night](https://open.spotify.com/track/5MOIAV008posdOGmxiJBsi) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Made My Night](https://open.spotify.com/album/59BYHVCzCi3WTu2f0ONpKt) | 2:06 |
 | 18 | [OMG](https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'OMG'](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) | 3:32 |
 | 19 | [Billyeoon Goyangi \(Do the Dance\)](https://open.spotify.com/track/4p0uVFAXKUISu8yp9gNtWE) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [bomb](https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp) | 3:08 |
 | 20 | [Chk Chk Boom](https://open.spotify.com/track/09keT5ocFhEd5W5HidiUNq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/3WdsoMKRqtw5Sgg67YrpnY) | 2:28 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbyYXnUYgqZ.md) - [plain]
 | 45 | [SPOT!](https://open.spotify.com/track/1SS0WlKhJewviwEDZ6dWj0) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [SPOT!](https://open.spotify.com/album/3K3C9JjwCGQAzj3Bu7BUaI) | 2:47 |
 | 46 | [Adrenaline](https://open.spotify.com/track/2VKGO4DNyUK5UxCQB3b3DF) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.4](https://open.spotify.com/album/1FBxW4I6azDVjGallQ4wQk) | 3:39 |
 | 47 | [Heavy Serenade](https://open.spotify.com/track/1404zSB6dqMIiStHLI7gg4) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Heavy Serenade](https://open.spotify.com/album/18i8wouCElE4oR6OqfFecg) | 3:00 |
-| 48 | [UP \- KARINA Solo](https://open.spotify.com/track/5sjnkOfTLCLNfkkchI2re2) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [SYNK : PARALLEL LINE \- Special Digital Single](https://open.spotify.com/album/4vLGHlTnlIIxMSfefCY0cU) | 2:46 |
-| 49 | [After LIKE](https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [After LIKE](https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da) | 2:56 |
+| 48 | [After LIKE](https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [After LIKE](https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da) | 2:56 |
+| 49 | [UP \- KARINA Solo](https://open.spotify.com/track/5sjnkOfTLCLNfkkchI2re2) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [SYNK : PARALLEL LINE \- Special Digital Single](https://open.spotify.com/album/4vLGHlTnlIIxMSfefCY0cU) | 2:46 |
 | 50 | [HANDS UP](https://open.spotify.com/track/2nopDUxom21JoMzFXj9wS0) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [HANDS UP](https://open.spotify.com/album/54jgEDbiF7I2m7kEPl0J6E) | 3:12 |
 | 51 | [Igloo](https://open.spotify.com/track/2DbDefRFJ5YOfXCKOeCJJh) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Lose Yourself](https://open.spotify.com/album/4eguh1dJUXRh0IMiLKRwab) | 2:11 |
 | 52 | [I CAN'T STOP ME](https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 3:25 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbyYXnUYgqZ.md) - [plain]
 | 69 | [MEOW](https://open.spotify.com/track/72gPDy1zVt95zVNali0IhK) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [MEOW](https://open.spotify.com/album/7mtt73Ch1hIRXT5qScF4s5) | 2:52 |
 | 70 | [Pretty Please](https://open.spotify.com/track/6oBDhkYQDhFS2q0wQ6xZLO) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [Pretty Please](https://open.spotify.com/album/6OKTuIMgKFuvdkiXWi3Vpt) | 3:24 |
 | 71 | [plot twist](https://open.spotify.com/track/0aZG8KWrpRnsGL0loUkfSj) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [Sparkling Blue](https://open.spotify.com/album/25qO1VYd8BuT8m5w8CFpdG) | 2:32 |
-| 72 | [FLOWER](https://open.spotify.com/track/0bC7GKnxh9W9JIvJ6HVWxc) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [ME](https://open.spotify.com/album/2xvV55nQYyhozbXtbqwPql) | 2:54 |
-| 73 | [ABCD](https://open.spotify.com/track/0V2passWyAXnON67kfAj7y) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [NA](https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7) | 2:42 |
+| 72 | [ABCD](https://open.spotify.com/track/0V2passWyAXnON67kfAj7y) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [NA](https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7) | 2:42 |
+| 73 | [FLOWER](https://open.spotify.com/track/0bC7GKnxh9W9JIvJ6HVWxc) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [ME](https://open.spotify.com/album/2xvV55nQYyhozbXtbqwPql) | 2:54 |
 | 74 | [HOT](https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Face the Sun](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) | 3:17 |
 | 75 | [Who is she](https://open.spotify.com/track/16iOs2f9G9qRknDgM9cfAw) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Who is she](https://open.spotify.com/album/3oKZB7YNsYSvmI4YQjhtdS) | 2:39 |
 | 76 | [FAMOUS](https://open.spotify.com/track/40UVUuyy5RfpO0awclCttA) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [FAMOUS](https://open.spotify.com/album/7rgnZ9iX2S9HFHmkFmSwW7) | 3:00 |
@@ -97,9 +97,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbyYXnUYgqZ.md) - [plain]
 | 87 | [Panorama](https://open.spotify.com/track/0CnpSTdL9l5vQM4YnzXtyo) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [One\-reeler / Act IV](https://open.spotify.com/album/3gfl9D7cMW3K87YiMbqsWK) | 3:42 |
 | 88 | [HOME SWEET HOME \(feat\. TAEYANG & DAESUNG\)](https://open.spotify.com/track/0Cu8JdYvV9DdmzLzhxaZLH) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c), [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [DAESUNG](https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO) | [HOME SWEET HOME \(feat\. TAEYANG & DAESUNG\)](https://open.spotify.com/album/5fo3PoBblMOTbg7SXPNspq) | 3:31 |
 | 89 | [I DO ME](https://open.spotify.com/track/5PclMa9Pxs1OFWSAS6Nid9) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [I DO ME](https://open.spotify.com/album/2w0HCMkBX7IRscliTVByqB) | 3:10 |
-| 90 | [BODY](https://open.spotify.com/track/0u18ibQ2zk470oLSP3D5WR) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [TOXIC](https://open.spotify.com/album/2JtBV7vukBxQc3GoX6VOWk) | 2:03 |
-| 91 | [KNOW ABOUT ME](https://open.spotify.com/track/5yfhzEct1ulyU6g5oVRraj) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: FORWARD](https://open.spotify.com/album/1qOD7pel3w9en2JKQ3l6Ha) | 2:45 |
-| 92 | [SIGN](https://open.spotify.com/track/6vBVBzf0VeRO4aPwABnohX) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [SIGN](https://open.spotify.com/album/5AAT3LhKilv2xkdFPrdNfd) | 2:46 |
+| 90 | [SIGN](https://open.spotify.com/track/6vBVBzf0VeRO4aPwABnohX) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [SIGN](https://open.spotify.com/album/5AAT3LhKilv2xkdFPrdNfd) | 2:46 |
+| 91 | [BODY](https://open.spotify.com/track/0u18ibQ2zk470oLSP3D5WR) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [TOXIC](https://open.spotify.com/album/2JtBV7vukBxQc3GoX6VOWk) | 2:03 |
+| 92 | [KNOW ABOUT ME](https://open.spotify.com/track/5yfhzEct1ulyU6g5oVRraj) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: FORWARD](https://open.spotify.com/album/1qOD7pel3w9en2JKQ3l6Ha) | 2:45 |
 | 93 | [MAESTRO](https://open.spotify.com/track/2UE9XGbAzicJIyo4bB6sqM) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [17 IS RIGHT HERE](https://open.spotify.com/album/2Jrp37x38qZqtyrIrfxN4H) | 3:18 |
 | 94 | [WICKED](https://open.spotify.com/track/2NOMOpss7BmEXTL9f1koqn) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [FAMOUS](https://open.spotify.com/album/7rgnZ9iX2S9HFHmkFmSwW7) | 2:37 |
 | 95 | [Ice Cream](https://open.spotify.com/track/5JJl9DV0DAg5ekxnBSqZyO) | [YUNA](https://open.spotify.com/artist/6FsEIvsTuqjpejg2jDbYdv) | [Ice Cream](https://open.spotify.com/album/39M5nhUfdu80zpwE8NI8FL) | 2:51 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gMBaRFQjOY.md) - [plain]
 
 > Country classics you know and love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 652,718 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 652,862 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gMBaRFQjOY.md) - [plain]
 | 43 | [Leaving Louisiana In The Broad Daylight](https://open.spotify.com/track/6BjA6FWovt4T2T5ZIW1XJQ) | [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [The Oak Ridge Boys Have Arrived](https://open.spotify.com/album/4AKEZZ8hdjYl8i5IiQMyaC) | 2:59 |
 | 44 | [Guitars, Cadillacs](https://open.spotify.com/track/3HtCJiLV8GH87AViMtUKhO) | [Dwight Yoakam](https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW) | [Guitars, Cadillacs, Etc., Etc.](https://open.spotify.com/album/5QrjSOgrFBfDyGXOcF9ZMO) | 3:05 |
 | 45 | [Jambalaya \(On The Bayou\)](https://open.spotify.com/track/5gbm0aNo7eXNuOEkQi5m9B) | [Hank Williams](https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW) | [Honky Tonkin \(Expanded Undubbed Edition\)](https://open.spotify.com/album/18qEQEBcLbBiDyAW3d73mU) | 2:54 |
-| 46 | [The Last Thing On My Mind](https://open.spotify.com/track/0sJchoPZwC2MV8WzZRoZUk) | [Porter Wagoner](https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [The Essential Porter Wagoner & Dolly Parton](https://open.spotify.com/album/6HsMsuo7HXXwZPk3lIr850) | 2:36 |
-| 47 | [All My Ex's Live In Texas](https://open.spotify.com/track/7k1Xm1wy00hCKJDYJL5p1n) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [George Strait's Greatest Hits, Volume Two](https://open.spotify.com/album/2ZN1GwIaBhc9exRqKI0gad) | 3:20 |
+| 46 | [All My Ex's Live In Texas](https://open.spotify.com/track/7k1Xm1wy00hCKJDYJL5p1n) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [George Strait's Greatest Hits, Volume Two](https://open.spotify.com/album/2ZN1GwIaBhc9exRqKI0gad) | 3:20 |
+| 47 | [The Last Thing On My Mind](https://open.spotify.com/track/0sJchoPZwC2MV8WzZRoZUk) | [Porter Wagoner](https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [The Essential Porter Wagoner & Dolly Parton](https://open.spotify.com/album/6HsMsuo7HXXwZPk3lIr850) | 2:36 |
 | 48 | [You Never Even Called Me By My Name](https://open.spotify.com/track/29TI0GvP5gMQMPTJjdMe0H) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [David Allan Coe \- 16 Biggest Hits](https://open.spotify.com/album/7oSNiyE3ZinACkLFKikw7l) | 5:14 |
 | 49 | [Grandpa \(Tell Me 'Bout The Good Old Days\)](https://open.spotify.com/track/1KNNTdw7SzJ90p6RXq4kGE) | [The Judds](https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc) | [I Will Stand By You \- The Essential Collection](https://open.spotify.com/album/3bKF0hgQ4aETX7Bb0bFQeM) | 4:14 |
 | 50 | [D\-I\-V\-O\-R\-C\-E](https://open.spotify.com/track/5f38UWziNmvOjdMHvwxsL9) | [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [Tammy's Greatest Hits](https://open.spotify.com/album/5QF3r0KyftGsWWs6zmyfNI) | 2:55 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gMBaRFQjOY.md) - [plain]
 | 83 | [Once a Day](https://open.spotify.com/track/1guPCVBMmglx2m1DM0xOBu) | [Connie Smith](https://open.spotify.com/artist/66Pq6HMX0YqsJgtUZrFwmo) | [Connie Smith](https://open.spotify.com/album/6i8X0GmItZN7GOqIDTaXmb) | 2:20 |
 | 84 | [Cattle Call](https://open.spotify.com/track/6Ha2dwEqdLBrDhImosfrBA) | [Eddy Arnold](https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22) | [The Essential Eddy Arnold](https://open.spotify.com/album/2JQPr2Z79G7wkvZ8w5EzVs) | 2:43 |
 | 85 | [Sleeping Single In A Double Bed \- Single Version](https://open.spotify.com/track/2Ln5JJOBoVDIoA8MJ2vG0C) | [Barbara Mandrell](https://open.spotify.com/artist/67BqBdApdbZ0onglFqRoTg) | [Ultimate Collection: Barbara Mandrell](https://open.spotify.com/album/42G4gGwqZzt4t9dlJTzDcX) | 2:18 |
-| 86 | [Almost Persuaded](https://open.spotify.com/track/2Krnm3qWdy4VG5vTkT0cDn) | [David Houston](https://open.spotify.com/artist/7tIs7rxqGuBvWMhIIigunf) | [Almost Persuaded](https://open.spotify.com/album/0zOZyQFw8zR4hFAMyM92tk) | 2:59 |
-| 87 | [My Special Angel](https://open.spotify.com/track/6cen3TFIPFBq2VkUM4Fod8) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) | [Bobby Helms Sings To My Special Angel](https://open.spotify.com/album/4qycsWF8HnXIe1M1XNv3mk) | 2:59 |
+| 86 | [My Special Angel](https://open.spotify.com/track/6cen3TFIPFBq2VkUM4Fod8) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) | [Bobby Helms Sings To My Special Angel](https://open.spotify.com/album/4qycsWF8HnXIe1M1XNv3mk) | 2:59 |
+| 87 | [Almost Persuaded](https://open.spotify.com/track/2Krnm3qWdy4VG5vTkT0cDn) | [David Houston](https://open.spotify.com/artist/7tIs7rxqGuBvWMhIIigunf) | [Almost Persuaded](https://open.spotify.com/album/0zOZyQFw8zR4hFAMyM92tk) | 2:59 |
 | 88 | [Golden Ring \- Single Version](https://open.spotify.com/track/1Bqt4M53ylr5NXMvBg1FMf) | [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [Tears Of Fire: The 25th Anniversary Collection](https://open.spotify.com/album/4yyvXQaZrk45jH6tzvGPwg) | 3:01 |
 | 89 | [Tennessee Flat Top Box](https://open.spotify.com/track/3zyj0RajXg2w2Bnn773mnW) | [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE) | [The Very Best Of Rosanne Cash](https://open.spotify.com/album/2Wc3y0qSYX4fxYBWeiYnFa) | 3:15 |
 | 90 | [\(If Loving You Is Wrong\) I Don't Want To Be Right](https://open.spotify.com/track/1cxjGdsHJn2vo17AbWLFzu) | [Barbara Mandrell](https://open.spotify.com/artist/67BqBdApdbZ0onglFqRoTg) | [Ultimate Collection: Barbara Mandrell](https://open.spotify.com/album/42G4gGwqZzt4t9dlJTzDcX) | 3:05 |

@@ -1,6 +1,6 @@
 {
   "description": "This is Frank Sinatra. The essential tracks, all in one playlist.",
-  "num_followers": 1230356,
+  "num_followers": 1230387,
   "original_name": "This Is Frank Sinatra",
   "owner": {
     "name": "Spotify",
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Days Of Wine And Roses, Moon River And Other Academy Award Winners",
-        "url": "https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 225426,
-      "name": "Three Coins In The Fountain",
-      "url": "https://open.spotify.com/track/2LnTydfDh8VOvJH7cSLqjS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sinatra/Jobim: The Complete Reprise Recordings",
         "url": "https://open.spotify.com/album/5280NkLzxe2w7K1JW9I8jX"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 201560,
       "name": "Wave",
       "url": "https://open.spotify.com/track/4qY2AhtXXuWST74MrShHTu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Days Of Wine And Roses, Moon River And Other Academy Award Winners",
+        "url": "https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 225426,
+      "name": "Three Coins In The Fountain",
+      "url": "https://open.spotify.com/track/2LnTydfDh8VOvJH7cSLqjS"
     },
     {
       "added_at": null,

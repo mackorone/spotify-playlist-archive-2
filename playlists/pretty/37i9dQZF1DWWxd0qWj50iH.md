@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxd0qWj50iH.md) - [plain]
 
 > A softer space.
 
-[Spotify](https://open.spotify.com/user/spotify) - 608,082 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 608,034 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxd0qWj50iH.md) - [plain]
 | 30 | [Brooklyn Baby \- Spotify Singles](https://open.spotify.com/track/7oPy7n1yowiREvMyypIBEC) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Brooklyn Baby \- Spotify Singles](https://open.spotify.com/album/3BVT8znNQvlb22E3ZMu6Uc) | 5:45 |
 | 31 | [33 “GOD”](https://open.spotify.com/track/5sWF1EZGm727f3b620vkbC) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [22, A Million](https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl) | 3:33 |
 | 32 | [Nostalgia](https://open.spotify.com/track/3gV7y7IwafryNLEnhh9gKb) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Nostalgia](https://open.spotify.com/album/6WgmH9NEYyWBbPaHYlpVlD) | 3:57 |
-| 33 | [Whale Call](https://open.spotify.com/track/2vclLpYXFUP8AJvDuOBtK3) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Whale Call](https://open.spotify.com/album/3ZEV0pHcy7vDNVcEkm5Wi0) | 4:19 |
-| 34 | [The Florist](https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [The Florist](https://open.spotify.com/album/1CcPFEX5L52OeFXHlqI4pa) | 3:10 |
-| 35 | [Sappho](https://open.spotify.com/track/5DIGt883aHs3KqWSziy4gR) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Next Thing](https://open.spotify.com/album/0vhRTvVCv9O5orRMgFjxT1) | 1:52 |
+| 33 | [The Florist](https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [The Florist](https://open.spotify.com/album/1CcPFEX5L52OeFXHlqI4pa) | 3:10 |
+| 34 | [Sappho](https://open.spotify.com/track/5DIGt883aHs3KqWSziy4gR) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Next Thing](https://open.spotify.com/album/0vhRTvVCv9O5orRMgFjxT1) | 1:52 |
+| 35 | [Whale Call](https://open.spotify.com/track/2vclLpYXFUP8AJvDuOBtK3) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Whale Call](https://open.spotify.com/album/3ZEV0pHcy7vDNVcEkm5Wi0) | 4:19 |
 | 36 | [No Hard Feelings](https://open.spotify.com/track/6eJaTm3sfYirbFpibBhnRO) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1zt521PK0lam6J79DNMIJi) | 2:35 |
 | 37 | [Anyone But You](https://open.spotify.com/track/4faTuWPQeMo24zvuTDre3c) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Anyone But You](https://open.spotify.com/album/2viPAytIOe7TjMOITmmWav) | 2:56 |
 | 38 | [The Bomb](https://open.spotify.com/track/6QAztdj5jtr41PL56WcgvP) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) | 2:44 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxd0qWj50iH.md) - [plain]
 | 49 | [Philadelphia \(with Searows\)](https://open.spotify.com/track/7areyJPur83YJOJLhvSXvH) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf), [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Philadelphia \(with Searows\)](https://open.spotify.com/album/6FGCL7fcqEcGhXjI7IhQZF) | 3:02 |
 | 50 | [Ain't It Easy](https://open.spotify.com/track/3YdkukHIzvVxSvY92JAVw3) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [God Save The Animals](https://open.spotify.com/album/6TzgWk5HZItbFmMT7hH4bU) | 2:54 |
 | 51 | [Sunflower](https://open.spotify.com/track/6g7cJdDNjCDgqcpVGLzYhh) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH), [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Sahar](https://open.spotify.com/album/2MsR68gI6TNZSztsRYgs6p) | 4:23 |
-| 52 | [JUPiTER](https://open.spotify.com/track/3EbRbM7qyJq9qjRqDIwBTO) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 4:00 |
-| 53 | [UFO](https://open.spotify.com/track/0gnAwDV4RbzPDj83bXj7qV) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [UFO](https://open.spotify.com/album/1L45glxk9MvLdNLysyJPsJ) | 2:34 |
+| 52 | [UFO](https://open.spotify.com/track/0gnAwDV4RbzPDj83bXj7qV) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [UFO](https://open.spotify.com/album/1L45glxk9MvLdNLysyJPsJ) | 2:34 |
+| 53 | [JUPiTER](https://open.spotify.com/track/3EbRbM7qyJq9qjRqDIwBTO) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 4:00 |
 | 54 | [Jesus Christ 2005 God Bless America](https://open.spotify.com/track/6zjBevD0Y6eCbOXaqQ79Xj) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Notes On A Conditional Form](https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi) | 4:24 |
 | 55 | [coogie](https://open.spotify.com/track/3kBWttZ4s6uSErpI0x3qLZ) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [coogie](https://open.spotify.com/album/6O9lTWRoILaLhlq7gSVTyf) | 3:09 |
 | 56 | [Anthems For A Seventeen Year\-Old Girl \- From "I Saw the TV Glow"](https://open.spotify.com/track/15kuqWifv5GzGq3A2P6EbC) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Anthems For A Seventeen Year\-Old Girl \(From "I Saw the TV Glow"\)](https://open.spotify.com/album/3vnboMJaGw6fLJ0B82OkvT) | 3:32 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxd0qWj50iH.md) - [plain]
 | 73 | [Not for Nothing](https://open.spotify.com/track/71LE6SBGVcXdIhHxJ6Nb8c) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Not for Nothing](https://open.spotify.com/album/6h7Q4NvBdCagiNOCSz6rjy) | 3:09 |
 | 74 | [Dumb Feeling](https://open.spotify.com/track/2fF1a2k5TX0hpzcRv8YQCd) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Dumb Feeling](https://open.spotify.com/album/7KxzFjvX8ocoU3wRYW4bmi) | 3:10 |
 | 75 | [See For Miles](https://open.spotify.com/track/1iJXvuuRrLqw1HQsUyWQu9) | [Quiet Houses](https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC) | [Since July](https://open.spotify.com/album/4dtGWZoAfaY8tFEQdAg1jw) | 3:17 |
-| 76 | [Gospel Oak](https://open.spotify.com/track/0CjC7M4cRiy8tJT4ikgv81) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Clearing \(B Sides\)](https://open.spotify.com/album/3ZJRLIRJZeK3TdBmnQJsib) | 2:35 |
-| 77 | [Glu](https://open.spotify.com/track/1PLFWJz52Tt6SaAs6Srtmt) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Glu](https://open.spotify.com/album/0JW4jZeObDmFprj3mtxjkb) | 2:43 |
+| 76 | [Glu](https://open.spotify.com/track/1PLFWJz52Tt6SaAs6Srtmt) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Glu](https://open.spotify.com/album/0JW4jZeObDmFprj3mtxjkb) | 2:43 |
+| 77 | [Gospel Oak](https://open.spotify.com/track/0CjC7M4cRiy8tJT4ikgv81) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Clearing \(B Sides\)](https://open.spotify.com/album/3ZJRLIRJZeK3TdBmnQJsib) | 2:35 |
 | 78 | [Maybe I’m Lonely](https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Maybe I’m Lonely](https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM) | 2:32 |
 | 79 | [I'll Scream \(All the Words\)](https://open.spotify.com/track/5XennSN9tgLRZTdvhGTrBp) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [I'll Scream \(All the Words\)](https://open.spotify.com/album/0OSl9jJB9FR0GrAvtRhw6A) | 3:13 |
 | 80 | [Only Love Can Wait](https://open.spotify.com/track/0iGAHczl365Pswb8u6YeDF) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gold](https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz) | 3:24 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxd0qWj50iH.md) - [plain]
 | 95 | [Loneliness on the run](https://open.spotify.com/track/73yYzvKQM3cXUKyWO5Ynwr) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Small World](https://open.spotify.com/album/5CHaXCMeag2aPjo72Ib8Xj) | 3:39 |
 | 96 | [Life's Gonna Kill You \(If You Let It\)](https://open.spotify.com/track/5BU3BEHViPFjJlOvqCm5VJ) | [Man\-Made Sunshine](https://open.spotify.com/artist/3o7Com7ZIpDARXoOHwK4th) | [Life's Gonna Kill You \(If You Let It\)](https://open.spotify.com/album/0IR4dwltpxKhwyD9DT6o6L) | 4:35 |
 | 97 | [Mechanical Bull](https://open.spotify.com/track/5xW6tYmC8DnppbGrZClVbM) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Mechanical Bull](https://open.spotify.com/album/6oCZlWPocAtzIiwB4wmYOn) | 3:56 |
-| 98 | [Thank You](https://open.spotify.com/track/0RSzx1yGKVNV8zsDtXdAsL) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [Thank You \(SOLOMON VERSION\)](https://open.spotify.com/album/3qEcZxhdZQF14Q869vsUQz) | 2:18 |
-| 99 | [Meet Me At The Record Store](https://open.spotify.com/track/1J08Qpd5e0TgwlmhHrBHQY) | [Pa Sheehy](https://open.spotify.com/artist/7n17tju4Xhlj1IkZR4Q2LX) | [Meet Me At The Record Store](https://open.spotify.com/album/0TjsMhmfPwlXwk7Z2WK0S8) | 3:53 |
+| 98 | [Meet Me At The Record Store](https://open.spotify.com/track/1J08Qpd5e0TgwlmhHrBHQY) | [Pa Sheehy](https://open.spotify.com/artist/7n17tju4Xhlj1IkZR4Q2LX) | [Meet Me At The Record Store](https://open.spotify.com/album/0TjsMhmfPwlXwk7Z2WK0S8) | 3:53 |
+| 99 | [gut health](https://open.spotify.com/track/6sDD5wCAJIGjCqPlPwSOck) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [gut health](https://open.spotify.com/album/0fHoOMkM8YOuSlPWNOvjnP) | 4:03 |
 | 100 | [She Changes the Weather](https://open.spotify.com/track/3q8h28WsxkdRKAtkHNa6zR) | [Swim Deep](https://open.spotify.com/artist/2XddLUPFBmTonCFy8uB3uc) | [Where the Heaven Are We](https://open.spotify.com/album/4pysD7EqnDkRx4mXG42OCo) | 4:35 |
 
 Snapshot ID: `AAAAAJmThxeOgrUMhy35eXfi6Ibn/Bz3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > L2B, Adèle Castillon, Ninho x La Rvfleuze, Louane et Troye Sivan au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,597 likes - 97 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 416,571 likes - 97 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

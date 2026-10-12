@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Taiwan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,621 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,623 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 | 49 | [雨愛](https://open.spotify.com/track/553GNiNqcudWfsF55RBDqz) | [Rainie Yang](https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk) | [雨愛](https://open.spotify.com/album/6SH07iXCRCVUTYtHW5k8y8) | 4:21 |
 | 50 | [REDRED](https://open.spotify.com/track/34YVCoqIm08nbsxFSPL0Uh) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [GREENGREEN\_playextended](https://open.spotify.com/album/26w4RoexAyiXRogASNJDZj) | 2:43 |
 
-Snapshot ID: `Ml26iAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Ml8QuAAAAAAAAAAAAAAAAAAAAAAAAGVu`

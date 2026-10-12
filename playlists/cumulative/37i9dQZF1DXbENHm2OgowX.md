@@ -4,7 +4,7 @@
 
 > wandering the forest as the fog floats through the trees
 
-238 songs - 17 hr 21 min
+239 songs - 17 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [do you love me?](https://open.spotify.com/track/43RHgLTP1lU3THdsqxNCv9) | [Money Flip](https://open.spotify.com/artist/6S1vdiNvRQpBQgq7jSZaZz) | [do you love me?](https://open.spotify.com/album/2oGrvZG4NUNBCBifQnzBCV) | 1:39 | 2026-03-20 | 2026-06-13 |
 | [DOROTHEA’S BED](https://open.spotify.com/track/54vTE49dv8MDAz0yE2e4Ja) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [PHANTOM BRICKWORKS \(LP II\)](https://open.spotify.com/album/1GJ2vLnz8Tz8bdyjORnUCt) | 5:25 | 2024-12-12 |  |
 | [Dream, Ivory](https://open.spotify.com/track/6Hzle86uYcpy3QkcCmMKgE) | [Dream, Ivory](https://open.spotify.com/artist/0qZyvjwZauLmrobrpJmvib) | [Dream, Ivory](https://open.spotify.com/album/4aMcxxMheE6r3FC4a4JLhv) | 3:08 | 2022-11-09 | 2024-08-30 |
-| [Dry Retch \- 2021 Remaster](https://open.spotify.com/track/6unZyubxwrlThrvlfMw1Ot) | [Donnacha Costello](https://open.spotify.com/artist/4E4E7r2hvqQjmNVaHnKXiz) | [Together Is The New Alone \(2021 Remaster\)](https://open.spotify.com/album/50IrZoBBRl0nlOnnPxYS1U) | 10:45 | 2022-02-11 |  |
+| [Dry Retch \- 2021 Remaster](https://open.spotify.com/track/6unZyubxwrlThrvlfMw1Ot) | [Donnacha Costello](https://open.spotify.com/artist/4E4E7r2hvqQjmNVaHnKXiz) | [Together Is The New Alone \(2021 Remaster\)](https://open.spotify.com/album/50IrZoBBRl0nlOnnPxYS1U) | 10:45 | 2022-02-11 | 2026-10-12 |
 | [Earthmover](https://open.spotify.com/track/77yGZRjuWfSzbDT0ROSSUG) | [Have A Nice Life](https://open.spotify.com/artist/0FRKTwQSToXpCxYMhyUzYY) | [Deathconsciousness](https://open.spotify.com/album/6MH3CAXp8AN8ELrbex18dM) | 11:28 | 2022-02-11 | 2023-01-10 |
 | [East Hastings](https://open.spotify.com/track/5jMuXTa5hECm37P7C0mbIB) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [F♯ A♯ ∞](https://open.spotify.com/album/7sh2Z8jj1iySpHRAnGd9w5) | 17:58 | 2022-02-11 | 2022-03-15 |
 | [eclipse](https://open.spotify.com/track/7v6D9mDpewgsnyPjtRqEmc) | [Rōōh](https://open.spotify.com/artist/4iv8oWq1lizY7C7bmB5HzB), [Symoo](https://open.spotify.com/artist/12CDwi9HyJtyPRBqat24LV) | [eclipse](https://open.spotify.com/album/3yspqmjHAoYTy6tZr3r4HR) | 1:52 | 2026-05-15 | 2026-06-13 |
@@ -163,6 +163,7 @@
 | [nowhere else](https://open.spotify.com/track/6MT4GDbRyctS4852m38kDj) | [tee](https://open.spotify.com/artist/0fP5QqFFGGeFmWsf2R0Sk2), [tiired](https://open.spotify.com/artist/0j5uHWFTI0qo3WLcyIkOLN) | [nowhere else](https://open.spotify.com/album/2fzqLRpVhM0v6zhK2LqgaY) | 1:57 | 2026-05-15 | 2026-06-13 |
 | [of folded photographs](https://open.spotify.com/track/3v5uNZ4MV6gV1ZhuuwOiLO) | [Retland](https://open.spotify.com/artist/3dIuop1jVvVHVqOdB7mDMj) | [of folded photographs](https://open.spotify.com/album/7cKD8VOgZRKmc7UK4jqR7J) | 3:41 | 2026-03-20 | 2026-06-13 |
 | [Of the undiscovered country \- From The Original Motion Picture "Hamnet"](https://open.spotify.com/track/5psjdB5UIHuDvfZqxjRIGb) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Of the undiscovered country \(From The Original Motion Picture "Hamnet"\)](https://open.spotify.com/album/6pt0WcKOkyqZkdGz04zoY9) | 5:22 | 2025-11-06 |  |
+| [our secrects](https://open.spotify.com/track/2MVDIJH1mFCCIyaXnTPDQh) | [Necrem](https://open.spotify.com/artist/6hMjnaf9Ow1dJSGeBudJa7) | [trust no one](https://open.spotify.com/album/3k82CCqlXZ01UExxbZqZ4P) | 1:52 | 2026-09-23 |  |
 | [Out Of The Past](https://open.spotify.com/track/6iTpwzfupCsZWM7V67Okog) | [Romance](https://open.spotify.com/artist/0A18cE9pDz57f0cj7q8wxt) | [Love Is Colder Than Death](https://open.spotify.com/album/04G4BWBdbZSPZJPE3anfLb) | 3:33 | 2025-06-05 |  |
 | [Part](https://open.spotify.com/track/03cSAXCu8hzINJuF6D0YBA) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Melodrama](https://open.spotify.com/album/4VDue6QekQ9iZZpMTLS7ZX) | 3:57 | 2022-11-09 | 2026-05-16 |
 | [Path 3 / Whose Name Is Written On Water \- Pt\. 1 / Faded](https://open.spotify.com/track/1HxJyQzfqJCjshpokKVKEa) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Grace Davidson](https://open.spotify.com/artist/1J87mxfzE58rZLrRIOx5I5), [Louisa Fuller](https://open.spotify.com/artist/557AjoqV9wVpa8vO2k4wuJ), [Natalia Bonner](https://open.spotify.com/artist/4d6eKLLJbe2ZeiL07Du7vB), [Nick Barr](https://open.spotify.com/artist/4wY5whlhuthLIZfG1IaZ6Y), [Max Ruisi](https://open.spotify.com/artist/0UqhmCMWvq49fgnXpO4vZQ), [Zara Hudson\-Kozdoj](https://open.spotify.com/artist/3jgKHHxYf7tw8Y6E61Lygb) | [Sleep Circle \(Faded\)](https://open.spotify.com/album/1yjWF5EuGlmJN8PD3jkalo) | 5:35 | 2025-11-06 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvfFlvhiszK.md) - [plain]
 
 > Old school jams to kick nostalgia up a notch.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,680 likes - 50 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,687 likes - 50 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,14 +20,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvfFlvhiszK.md) - [plain]
 | 10 | [Ajeei \(feat\. Nana Boroo & Sarkodie\)](https://open.spotify.com/track/3dx6COHzPCAB1JFFMj58gW) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [Nana Boroo](https://open.spotify.com/artist/6okA9KLxPv9Za9RGkHSOk5), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Refuse to Be Broke: Da Revolution 2](https://open.spotify.com/album/1ERZOMokw1NKzB47dfarQ7) | 3:40 |
 | 11 | [Azonto Ghost](https://open.spotify.com/track/0ygTK8RCFVhyOKUNG1n4jz) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Thanks Giving](https://open.spotify.com/album/373gb0j44PcEDNnvZeDn6s) | 3:40 |
 | 12 | [Aketesia](https://open.spotify.com/track/6D4DkmGGCliXAlqsZVgRkA) | [Kontihene](https://open.spotify.com/artist/0uKjsrSxXWqfWF2mFyehs7) | [Nyankonton](https://open.spotify.com/album/3Nu5sSuQWQX7QcZ80GD7vc) | 5:11 |
-| 13 | [Mfa Me Nkoho](https://open.spotify.com/track/4gmJvvotDVCXVKY0ItNDOe) | [Kojo Antwi](https://open.spotify.com/artist/01ramkYSW4rTNPKnneFa9D) | [Densu](https://open.spotify.com/album/4xrzwSLcJbkFZflR8R2u2c) | 5:59 |
+| 13 | [Kolom](https://open.spotify.com/track/2oiMs23DJaCEj0KSj6ZOjv) | [BukBak](https://open.spotify.com/artist/1E0CW7edfYKv66MrCVSnmV) | [Kolom](https://open.spotify.com/album/1DQxZQNQLJbL4Pd6XhL9aj) | 4:40 |
 | 14 | [Seihor \(feat\. Dblack\)](https://open.spotify.com/track/5iv7WkYexGay1BNXXLWYI1) | [Castro D’destroyer](https://open.spotify.com/artist/3kF3qKO6Fi9h8weEzynE5e), [D\-Black](https://open.spotify.com/artist/1YCN7ZcxMajJ44nCjpf7gB) | [Seihor \(feat\. Dblack\)](https://open.spotify.com/album/7os1p9cKa1Mt78qAs1GUeg) | 3:57 |
-| 15 | [Kolom](https://open.spotify.com/track/2oiMs23DJaCEj0KSj6ZOjv) | [BukBak](https://open.spotify.com/artist/1E0CW7edfYKv66MrCVSnmV) | [Kolom](https://open.spotify.com/album/1DQxZQNQLJbL4Pd6XhL9aj) | 4:40 |
+| 15 | [Mfa Me Nkoho](https://open.spotify.com/track/4gmJvvotDVCXVKY0ItNDOe) | [Kojo Antwi](https://open.spotify.com/artist/01ramkYSW4rTNPKnneFa9D) | [Densu](https://open.spotify.com/album/4xrzwSLcJbkFZflR8R2u2c) | 5:59 |
 | 16 | [Odwo](https://open.spotify.com/track/1F3o99FyY2k2YpBUtc7Zr7) | [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Odwo](https://open.spotify.com/album/6HcOIbMSbKYjec6gzIctbs) | 5:43 |
 | 17 | [Away](https://open.spotify.com/track/4tkRfb5PUoJ7d8epDatZ7g) | [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4) | [Progress](https://open.spotify.com/album/5Tq5ATKhOia0vW66dX8syT) | 5:04 |
-| 18 | [Densu](https://open.spotify.com/track/3Bif5CgGVc8fgA27T3whVr) | [Kojo Antwi](https://open.spotify.com/artist/01ramkYSW4rTNPKnneFa9D) | [Densu](https://open.spotify.com/album/4xrzwSLcJbkFZflR8R2u2c) | 5:16 |
+| 18 | [Wo Onane No](https://open.spotify.com/track/2dguh4zWtrZK6VIJsEsXhe) | [Kwamz & Flava](https://open.spotify.com/artist/3RdldZQW8cYFLEDEH7haJe) | [DeYaaa](https://open.spotify.com/album/5sJDwsKEbIfoNwIT3sJ9bp) | 3:29 |
 | 19 | [Boneshaker](https://open.spotify.com/track/2W93d3UVhKkCf6YgZ6ywBD) | [Castro D’destroyer](https://open.spotify.com/artist/3kF3qKO6Fi9h8weEzynE5e) | [Toffee](https://open.spotify.com/album/5N7oJwI4as7lZpVlh6hRQ0) | 6:46 |
-| 20 | [Wo Onane No](https://open.spotify.com/track/2dguh4zWtrZK6VIJsEsXhe) | [Kwamz & Flava](https://open.spotify.com/artist/3RdldZQW8cYFLEDEH7haJe) | [DeYaaa](https://open.spotify.com/album/5sJDwsKEbIfoNwIT3sJ9bp) | 3:29 |
+| 20 | [Densu](https://open.spotify.com/track/3Bif5CgGVc8fgA27T3whVr) | [Kojo Antwi](https://open.spotify.com/artist/01ramkYSW4rTNPKnneFa9D) | [Densu](https://open.spotify.com/album/4xrzwSLcJbkFZflR8R2u2c) | 5:16 |
 | 21 | [ABC](https://open.spotify.com/track/1VWsOHwb8bThWcbqYKzh6y) | [Oheneba Kissi](https://open.spotify.com/artist/1PVgxPvoW5i5sfFozT2Rz4) | [ABC Of Love](https://open.spotify.com/album/4laW16BiD24CmfqHGQ5TfH) | 5:37 |
 | 22 | [Fefe Na Efe](https://open.spotify.com/track/57z4I0GeGLwByEcPYOVUsT) | [Tic Tac](https://open.spotify.com/artist/7xtmj62gTz59CEBTSDOiML) | [Wope](https://open.spotify.com/album/6gEFYo0IQdlMJ1D6eOxH9k) | 6:00 |
 | 23 | [Abiba](https://open.spotify.com/track/6F0D7wS8XbrClBxhC4Okex) | [Rex Omar](https://open.spotify.com/artist/4IPHkdjugU9e3ACphVpX3s) | [The Collection](https://open.spotify.com/album/0g60elM8DKMcjusfaaQi8x) | 4:55 |

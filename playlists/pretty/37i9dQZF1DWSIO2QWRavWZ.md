@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 
 > New music from your favorite women\.  Cover: Dawn Richard
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,409 likes - 185 songs - 9 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,416 likes - 185 songs - 9 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

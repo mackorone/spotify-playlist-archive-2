@@ -1,6 +1,6 @@
 {
   "description": "Waktu Indonesia bagian mager dan dengar lagu-lagu enak.",
-  "num_followers": 345970,
+  "num_followers": 345941,
   "original_name": "Mager Parah",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2025-12-09 07:32:17",
       "album": {
-        "name": "Brand New Eyes",
-        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 267653,
-      "name": "The Only Exception",
-      "url": "https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs"
-    },
-    {
-      "added_at": "2025-12-09 07:32:17",
-      "album": {
         "name": "x (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 281560,
       "name": "Thinking out Loud",
       "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
+    },
+    {
+      "added_at": "2025-12-09 07:32:17",
+      "album": {
+        "name": "Brand New Eyes",
+        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 267653,
+      "name": "The Only Exception",
+      "url": "https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs"
     },
     {
       "added_at": "2025-12-09 07:32:17",

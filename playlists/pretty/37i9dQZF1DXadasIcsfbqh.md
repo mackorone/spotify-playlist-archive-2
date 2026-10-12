@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadasIcsfbqh.md) - [plain]
 
 > Pop country hits of today and tomorrow\. Cover: Dasha
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,808 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,835 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadasIcsfbqh.md) - [plain]
 | 48 | [II MOST WANTED](https://open.spotify.com/track/1UP7PXne1lIYZB5G5aiRGL) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 3:28 |
 | 49 | [Memory](https://open.spotify.com/track/34chhNX59Wo9HMFCsI3K8Y) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Memory](https://open.spotify.com/album/0jpQZkMeWh9yysxyTSCywk) | 2:33 |
 | 50 | [Texas \(feat\. Maren Morris\)](https://open.spotify.com/track/7IP075Nyr92maaJNS52hUM) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Texas \(feat\. Maren Morris\)](https://open.spotify.com/album/0eFUKdJ9A9TeBoRbnLlIcK) | 3:18 |
-| 51 | [That’s Not How This Works \(feat\. Dan + Shay\)](https://open.spotify.com/track/28a0aMV1OKoyNiCJuNsWrY) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [That’s Not How This Works \(feat\. Dan + Shay\)](https://open.spotify.com/album/67IEDkeGYxOvS2RvcarzrT) | 2:45 |
-| 52 | [Chasing After You \(with Maren Morris\)](https://open.spotify.com/track/1ZIKpMTRPqhwAoVXWY3tXI) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Chasing After You \(with Maren Morris\)](https://open.spotify.com/album/5QUwCi1lbk0kZ5k87fRNbK) | 3:27 |
+| 51 | [Chasing After You \(with Maren Morris\)](https://open.spotify.com/track/1ZIKpMTRPqhwAoVXWY3tXI) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Chasing After You \(with Maren Morris\)](https://open.spotify.com/album/5QUwCi1lbk0kZ5k87fRNbK) | 3:27 |
+| 52 | [That’s Not How This Works \(feat\. Dan + Shay\)](https://open.spotify.com/track/28a0aMV1OKoyNiCJuNsWrY) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [That’s Not How This Works \(feat\. Dan + Shay\)](https://open.spotify.com/album/67IEDkeGYxOvS2RvcarzrT) | 2:45 |
 | 53 | [Too Little Too Late](https://open.spotify.com/track/2bYKV9SimbXjo8bgy9Rqip) | [Jordana Bryant](https://open.spotify.com/artist/69CLILkCLdR4JOoQieAFm2) | [Too Little Too Late](https://open.spotify.com/album/5EeozmQ9YHK5te77UK9nRF) | 2:39 |
 | 54 | [We Got History](https://open.spotify.com/track/6Awl7JBDQjfm7xkS3LkhDi) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [This Is the Heavy](https://open.spotify.com/album/7hWoBHqzfN4QMcVPFSqbBS) | 3:23 |
 | 55 | [That’s When \(feat\. Keith Urban\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/7eResoqEJJAVTkQYSqvO3P) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 3:09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNIrSzKgQbP.md) - [plain]
 
 > Sweet songs for sunny days.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,631,058 likes - 75 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,630,846 likes - 75 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNIrSzKgQbP.md) - [plain]
 | 17 | [Featherstone](https://open.spotify.com/track/5KaN2M7seUV4uyNFp4twv6) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland](https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ) | 3:49 |
 | 18 | [Way Of The World \(feat\. Ella Langley\)](https://open.spotify.com/track/60I5P0izzrBCzXb0K6etVy) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [I WANT MY LOVED ONES TO GO WITH ME](https://open.spotify.com/album/26gGJnMKjkq2WeF8MH3alW) | 2:49 |
 | 19 | [Such A Simple Thing](https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Part Of The Light](https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f) | 4:58 |
-| 20 | [Feeling](https://open.spotify.com/track/5J6TfufAsesi9BPnvlgBl8) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Feeling](https://open.spotify.com/album/15BiKQLRmY8xQIk4arEEsq) | 3:20 |
-| 21 | [Drop Stop Roll](https://open.spotify.com/track/1y3NV3N99VoSP4crdkbog7) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Drop Stop Roll](https://open.spotify.com/album/7C45E727Jyq6UrMyLYD2Ab) | 2:50 |
+| 20 | [Drop Stop Roll](https://open.spotify.com/track/1y3NV3N99VoSP4crdkbog7) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Drop Stop Roll](https://open.spotify.com/album/7C45E727Jyq6UrMyLYD2Ab) | 2:50 |
+| 21 | [Feeling](https://open.spotify.com/track/5J6TfufAsesi9BPnvlgBl8) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Feeling](https://open.spotify.com/album/15BiKQLRmY8xQIk4arEEsq) | 3:20 |
 | 22 | [Real Thing](https://open.spotify.com/track/7z5wTQlgqpCm3kvhn6s9Xh) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ), [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Real Thing](https://open.spotify.com/album/1yx1ve9BzAO7hLIzcStCJv) | 3:25 |
 | 23 | [Wishing Stone](https://open.spotify.com/track/2vXS0Aia2hmzUvZg2iFpEz) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Wishing Stone](https://open.spotify.com/album/5Rq1WgYz5l7DSHU7FYgtbE) | 3:48 |
 | 24 | [Rattlesnake \(feat\. Zach Bryan\)](https://open.spotify.com/track/26NtL6qvVuRqFrpimqxSwx) | [Jack Van Cleaf](https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk), [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [JVC](https://open.spotify.com/album/5P3HlykmoZNiNXG4nAa2Ry) | 4:53 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNIrSzKgQbP.md) - [plain]
 | 66 | [Truly Madly Deeply \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0hLObGB9xRjuRVasHehmLI) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Spotify Singles](https://open.spotify.com/album/1MIrKfOLcpv4bBLRJg8AnH) | 3:10 |
 | 67 | [Julia](https://open.spotify.com/track/0LO7f7ZJg871B8hLTRzrfB) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Mt\. Joy](https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01) | 3:10 |
 | 68 | [Wildfire](https://open.spotify.com/track/6VfY0sgS4j4JpFQH8kk4XA) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Blindfaller](https://open.spotify.com/album/2Ww7LYiKIxQUhLyiXtlppZ) | 5:29 |
-| 69 | [Shark Smile](https://open.spotify.com/track/0Fc0vCE3yWvAGKbU5twVOz) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Capacity](https://open.spotify.com/album/3jXbdginoAtjcBqT7GcYRd) | 3:57 |
-| 70 | [Millions](https://open.spotify.com/track/66PYWmVolRfCo0oaZp0H7L) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Copper Changes Color](https://open.spotify.com/album/52Pm7PUhlVVBqd5l9To4Sy) | 4:12 |
-| 71 | [California](https://open.spotify.com/track/6bQgMGR0zwVYYs2WU13PKR) | [Bonny Light Horseman](https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s), [Eric D\. Johnson](https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6), [Josh Kaufman](https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc) | [California](https://open.spotify.com/album/7p60qDZbD3VqHVhFQDX4Ry) | 3:16 |
-| 72 | [Sunday Funday](https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Jockeys of Love](https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT) | 4:16 |
-| 73 | [Sick of This Feeling](https://open.spotify.com/track/4uofAamZ0yx9op14TjmQVp) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [A River Running to Your Heart](https://open.spotify.com/album/2n4dZnB3Iz7wWPdDQO3auX) | 3:33 |
-| 74 | [Hoagy's Place](https://open.spotify.com/track/6cJzZZ8z2NCBcHh2XDfkRv) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Hoagy's Place](https://open.spotify.com/album/4I5qxVI5RqbTVzbqw9cwKP) | 3:05 |
-| 75 | [Savannah](https://open.spotify.com/track/0tjnfbTtCONUoMqMJmY1vP) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Savannah](https://open.spotify.com/album/06RBvB1oS78HYZ6n0zRLwz) | 3:24 |
+| 69 | [Millions](https://open.spotify.com/track/66PYWmVolRfCo0oaZp0H7L) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Copper Changes Color](https://open.spotify.com/album/52Pm7PUhlVVBqd5l9To4Sy) | 4:12 |
+| 70 | [Scott Street](https://open.spotify.com/track/0jqFM7E9z1PLYtPVCuFwAi) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0AkAmg94XyiHODJaiGHh9O) | 5:05 |
+| 71 | [Sunday Funday](https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Jockeys of Love](https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT) | 4:16 |
+| 72 | [California](https://open.spotify.com/track/6bQgMGR0zwVYYs2WU13PKR) | [Bonny Light Horseman](https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s), [Eric D\. Johnson](https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6), [Josh Kaufman](https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc) | [California](https://open.spotify.com/album/7p60qDZbD3VqHVhFQDX4Ry) | 3:16 |
+| 73 | [Shark Smile](https://open.spotify.com/track/0Fc0vCE3yWvAGKbU5twVOz) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Capacity](https://open.spotify.com/album/3jXbdginoAtjcBqT7GcYRd) | 3:57 |
+| 74 | [Sick of This Feeling](https://open.spotify.com/track/4uofAamZ0yx9op14TjmQVp) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [A River Running to Your Heart](https://open.spotify.com/album/2n4dZnB3Iz7wWPdDQO3auX) | 3:33 |
+| 75 | [Hoagy's Place](https://open.spotify.com/track/6cJzZZ8z2NCBcHh2XDfkRv) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Hoagy's Place](https://open.spotify.com/album/4I5qxVI5RqbTVzbqw9cwKP) | 3:05 |
 
 Snapshot ID: `AAAAABrnj4hFFdQkKc37VgE7AyIoZiD7`

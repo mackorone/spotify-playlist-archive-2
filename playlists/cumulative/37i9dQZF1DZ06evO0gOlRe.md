@@ -4,7 +4,7 @@
 
 > This is Alexander Stewart\. The essential tracks, all in one playlist.
 
-87 songs - 4 hr 5 min
+88 songs - 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,5 +95,6 @@
 | [Would You Lie](https://open.spotify.com/track/1M54nLzTxoQFjC0g8H11Bk) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Would You Lie](https://open.spotify.com/album/3gcHGmgDIWkXg3ZeBm719V) | 3:34 | 2024-01-10 |  |
 | [Wrong Way](https://open.spotify.com/track/0FXcLWA1NO6MxAe9yiK3oo) | [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Wrong Way](https://open.spotify.com/album/7ezbuwRqByOoFxJbs9G7dm) | 2:57 | 2024-06-30 |  |
 | [You \(feat\. Alexander Stewart\)](https://open.spotify.com/track/6zUnVnCCm02H7NP2R6It54) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [You \(feat\. Alexander Stewart\)](https://open.spotify.com/album/1QefxorzxXxbFOgr1anUAg) | 4:12 | 2024-01-10 | 2025-09-30 |
+| [zombie](https://open.spotify.com/track/32igac7UX96WwPlOOjAGlT) | [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT), [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [zombie](https://open.spotify.com/album/6lU6lWL0VEng3czSpQPstH) | 3:01 | 2026-10-12 |  |
 
 \*This playlist was first scraped on 2024-01-11. Prior content cannot be recovered.

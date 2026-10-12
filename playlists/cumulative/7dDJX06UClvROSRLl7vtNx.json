@@ -3985,6 +3985,28 @@
     },
     {
       "album": {
+        "name": "Call Me Home",
+        "url": "https://open.spotify.com/album/00eDUlgVbb8pR2xAhiD3V0"
+      },
+      "artists": [
+        {
+          "name": "Hobes",
+          "url": "https://open.spotify.com/artist/4oJwnrOedR0fQkD9NlbrMl"
+        },
+        {
+          "name": "maybealice",
+          "url": "https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb"
+        }
+      ],
+      "date_added": "2026-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139826,
+      "name": "Call Me Home",
+      "url": "https://open.spotify.com/track/1GcOaRhclyvvNadm56JljT"
+    },
+    {
+      "album": {
         "name": "Call You Mine",
         "url": "https://open.spotify.com/album/3QAN1NLqV1vjIDp1Z2ZK7v"
       },
@@ -20109,6 +20131,32 @@
     },
     {
       "album": {
+        "name": "Mrs. Robinson",
+        "url": "https://open.spotify.com/album/0Xd0fUDOhTl35YrtKpxWhK"
+      },
+      "artists": [
+        {
+          "name": "uast\u00e9",
+          "url": "https://open.spotify.com/artist/0OweHeYvHClQA06RdwNLUu"
+        },
+        {
+          "name": "Kalkovich",
+          "url": "https://open.spotify.com/artist/1FeiNJm4aeEJ97JnSMduTh"
+        },
+        {
+          "name": "Akamas",
+          "url": "https://open.spotify.com/artist/3pQvaeIhy8MqUbmRaO3Ahe"
+        }
+      ],
+      "date_added": "2026-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144489,
+      "name": "Mrs. Robinson",
+      "url": "https://open.spotify.com/track/5KuzLxFni8akkMkrmtLHaY"
+    },
+    {
+      "album": {
         "name": "Murder On The Dancefloor",
         "url": "https://open.spotify.com/album/6NIGzChRDEi06XbymNn2Gb"
       },
@@ -25717,6 +25765,28 @@
     },
     {
       "album": {
+        "name": "Sister Golden Hair",
+        "url": "https://open.spotify.com/album/6x3WV15q0XHj0yrWSPL6b3"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00e9va",
+          "url": "https://open.spotify.com/artist/5yflQy84fSowPAeRfTseCV"
+        },
+        {
+          "name": "Tropical Tide",
+          "url": "https://open.spotify.com/artist/1WJJYyo9NHKxvjLtUoBBmW"
+        }
+      ],
+      "date_added": "2026-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140639,
+      "name": "Sister Golden Hair",
+      "url": "https://open.spotify.com/track/4ck7pqHWMwSERtmT9JcgdZ"
+    },
+    {
+      "album": {
         "name": "Skin (Blaank Remix)",
         "url": "https://open.spotify.com/album/1rd8q4XcBszvmVbwfqtfMk"
       },
@@ -28844,7 +28914,7 @@
       ],
       "date_added": "2026-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 177965,
       "name": "Talk To You",
       "url": "https://open.spotify.com/track/7y3LUgB2IoaYbt3gviLVl5"
@@ -31208,7 +31278,7 @@
       ],
       "date_added": "2025-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 156578,
       "name": "Waiting For The Sunshine",
       "url": "https://open.spotify.com/track/5h2qSYxnAvuks0uSxYwqdO"
@@ -33642,7 +33712,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-12",
       "duration_ms": 163500,
       "name": "You're My Only High",
       "url": "https://open.spotify.com/track/0IjrNQlKMdi6vwrgZ9lg6w"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 
 > Relax to acoustic versions of your favorite rock songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,101,219 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,101,252 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 | 47 | [Something Human \(Acoustic\)](https://open.spotify.com/track/1D2ISRyHAs9QBHIWVQIbgM) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Simulation Theory \(Super Deluxe\)](https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC) | 3:46 |
 | 48 | [Bad Life \- acoustic](https://open.spotify.com/track/5DwJKJ3Gg5UlzsTMpYXkwT) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Bad Life \(acoustic\)](https://open.spotify.com/album/4QheMIrqrXYPKeDfB4TXzI) | 3:40 |
 | 49 | [Crash Land](https://open.spotify.com/track/7r8Ut9Pn4kzEJwNFtgDQKr) | [Twin Atlantic](https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9) | [Free \(Deluxe\)](https://open.spotify.com/album/0mRS9byJHTnRXaaJaxDM8Z) | 3:57 |
-| 50 | [Wrong Side Of Heaven \- Acoustic](https://open.spotify.com/track/2pDUQD1PCN7nYNay2G22Qy) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Wrong Side Of Heaven \(Acoustic\)](https://open.spotify.com/album/2p7EHDph1VrRTfgF9YpzCQ) | 4:29 |
+| 50 | [Grand Theft Autumn / Where Is Your Boy \- Acoustic](https://open.spotify.com/track/02WfKxLdKIHi5grvCiY2cs) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [My Heart Will Always Be the B\-Side to My Tongue](https://open.spotify.com/album/2CrBpjJ4xQUAPSwns8Wi7H) | 3:12 |
 
 Snapshot ID: `AAAAAAE4TdTU+LnAuNqnXqetlN0++BYN`

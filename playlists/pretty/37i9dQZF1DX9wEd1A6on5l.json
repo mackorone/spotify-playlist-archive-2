@@ -1,6 +1,6 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 121752,
+  "num_followers": 121802,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "AAAAANT5yFnopeCVzsTGT4JChngfAug/",
   "tracks": [
+    {
+      "added_at": "2026-10-09 00:01:58",
+      "album": {
+        "name": "Oh No",
+        "url": "https://open.spotify.com/album/4gxDCaxwQ8HmgN4yACif96"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 195285,
+      "name": "Oh No",
+      "url": "https://open.spotify.com/track/2aLQ89nVUJgLjn3tlmjaxN"
+    },
     {
       "added_at": "2026-10-09 00:01:58",
       "album": {
@@ -31,22 +47,6 @@
       "duration_ms": 166150,
       "name": "B4 B4 (with Mayorkun & FOLA)",
       "url": "https://open.spotify.com/track/37BTNKEaW6aUvsKH3O2UUt"
-    },
-    {
-      "added_at": "2026-10-09 00:01:58",
-      "album": {
-        "name": "Oh No",
-        "url": "https://open.spotify.com/album/4gxDCaxwQ8HmgN4yACif96"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 195285,
-      "name": "Oh No",
-      "url": "https://open.spotify.com/track/2aLQ89nVUJgLjn3tlmjaxN"
     },
     {
       "added_at": "2026-10-09 00:01:58",
@@ -279,6 +279,22 @@
     {
       "added_at": "2026-10-09 00:01:58",
       "album": {
+        "name": "Still In Charge",
+        "url": "https://open.spotify.com/album/0NlUfh4P7iyypIcxYd0GiD"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 162284,
+      "name": "If You Like",
+      "url": "https://open.spotify.com/track/6d4YQtaZ7M4WwoYiTC2U06"
+    },
+    {
+      "added_at": "2026-10-09 00:01:58",
+      "album": {
         "name": "THAT GIRL!",
         "url": "https://open.spotify.com/album/6WqlTMTWck54798Lhpv39d"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 155852,
       "name": "attention!",
       "url": "https://open.spotify.com/track/1MGCRWKSEutuqNQwbktV7C"
-    },
-    {
-      "added_at": "2026-10-09 00:01:58",
-      "album": {
-        "name": "Still In Charge",
-        "url": "https://open.spotify.com/album/0NlUfh4P7iyypIcxYd0GiD"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 162284,
-      "name": "If You Like",
-      "url": "https://open.spotify.com/track/6d4YQtaZ7M4WwoYiTC2U06"
     },
     {
       "added_at": "2026-10-09 00:01:58",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-10-09 00:01:58",
       "album": {
-        "name": "B4SAVEME",
-        "url": "https://open.spotify.com/album/6ZcMtQFLlwsSwZaQe2MOLt"
-      },
-      "artists": [
-        {
-          "name": "Zaylevelten",
-          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
-        }
-      ],
-      "duration_ms": 120302,
-      "name": "Tease Me",
-      "url": "https://open.spotify.com/track/1VjiMQA4ZnBQpgXE1yTs4A"
-    },
-    {
-      "added_at": "2026-10-09 00:01:58",
-      "album": {
         "name": "GLACIER GIRL / FAAJI",
         "url": "https://open.spotify.com/album/7aV7yb4bhdcAzeBDo0bC5w"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 137142,
       "name": "GLACIER GIRL",
       "url": "https://open.spotify.com/track/7DjCte93Dk2YIVMixhUqHO"
+    },
+    {
+      "added_at": "2026-10-09 00:01:58",
+      "album": {
+        "name": "B4SAVEME",
+        "url": "https://open.spotify.com/album/6ZcMtQFLlwsSwZaQe2MOLt"
+      },
+      "artists": [
+        {
+          "name": "Zaylevelten",
+          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
+        }
+      ],
+      "duration_ms": 120302,
+      "name": "Tease Me",
+      "url": "https://open.spotify.com/track/1VjiMQA4ZnBQpgXE1yTs4A"
     },
     {
       "added_at": "2026-10-09 00:01:58",
@@ -907,8 +907,8 @@
     {
       "added_at": "2026-10-09 00:01:58",
       "album": {
-        "name": "Paparazzi",
-        "url": "https://open.spotify.com/album/3y6KnQqXjVz7lK5gi9CuRX"
+        "name": "CHE",
+        "url": "https://open.spotify.com/album/6U7Rlp4IUTdgtaOHiycx3x"
       },
       "artists": [
         {
@@ -916,13 +916,13 @@
           "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
         },
         {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
         }
       ],
-      "duration_ms": 147302,
-      "name": "Paparazzi",
-      "url": "https://open.spotify.com/track/7BhG41omZ3k1wwlNzIlCrm"
+      "duration_ms": 144000,
+      "name": "CHE",
+      "url": "https://open.spotify.com/track/6sPehU8iJcnrSndiAoFONQ"
     },
     {
       "added_at": "2026-10-09 00:01:58",
@@ -983,42 +983,6 @@
     {
       "added_at": "2026-10-09 00:01:58",
       "album": {
-        "name": "Go Crazy",
-        "url": "https://open.spotify.com/album/1kyywoFIbu2xBRi90JyiNE"
-      },
-      "artists": [
-        {
-          "name": "Kidd Carder",
-          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Go Crazy",
-      "url": "https://open.spotify.com/track/7jZaRjGVgywP7xgaJJ8Imp"
-    },
-    {
-      "added_at": "2026-10-09 00:01:58",
-      "album": {
-        "name": "CHE",
-        "url": "https://open.spotify.com/album/6U7Rlp4IUTdgtaOHiycx3x"
-      },
-      "artists": [
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        },
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "CHE",
-      "url": "https://open.spotify.com/track/6sPehU8iJcnrSndiAoFONQ"
-    },
-    {
-      "added_at": "2026-10-09 00:01:58",
-      "album": {
         "name": "CLARITY OF MIND",
         "url": "https://open.spotify.com/album/28c5qLjX7puNQ96Wa86t5k"
       },
@@ -1031,6 +995,42 @@
       "duration_ms": 192419,
       "name": "I AM",
       "url": "https://open.spotify.com/track/1iDNf6nP0BCXilLVVptflh"
+    },
+    {
+      "added_at": "2026-10-09 00:01:58",
+      "album": {
+        "name": "Paparazzi",
+        "url": "https://open.spotify.com/album/3y6KnQqXjVz7lK5gi9CuRX"
+      },
+      "artists": [
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        },
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "duration_ms": 147302,
+      "name": "Paparazzi",
+      "url": "https://open.spotify.com/track/7BhG41omZ3k1wwlNzIlCrm"
+    },
+    {
+      "added_at": "2026-10-09 00:01:58",
+      "album": {
+        "name": "Go Crazy",
+        "url": "https://open.spotify.com/album/1kyywoFIbu2xBRi90JyiNE"
+      },
+      "artists": [
+        {
+          "name": "Kidd Carder",
+          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Go Crazy",
+      "url": "https://open.spotify.com/track/7jZaRjGVgywP7xgaJJ8Imp"
     },
     {
       "added_at": "2026-10-09 00:01:58",
@@ -1135,6 +1135,26 @@
     {
       "added_at": "2026-10-09 00:01:58",
       "album": {
+        "name": "Comfort",
+        "url": "https://open.spotify.com/album/4fD3EutBzZNAkVF2CD8ZQc"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "MOLIY",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        }
+      ],
+      "duration_ms": 146054,
+      "name": "Comfort",
+      "url": "https://open.spotify.com/track/3QFhAWy6waNB7igaBsLfoK"
+    },
+    {
+      "added_at": "2026-10-09 00:01:58",
+      "album": {
         "name": "SNOKONOKO",
         "url": "https://open.spotify.com/album/2ZoXRaK0N0KUTGH6L23CBp"
       },
@@ -1179,22 +1199,6 @@
     {
       "added_at": "2026-10-09 00:01:58",
       "album": {
-        "name": "STARLIFE",
-        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 154705,
-      "name": "2FRESH",
-      "url": "https://open.spotify.com/track/0UBGGJAUGlzl7nQ3DIUbnm"
-    },
-    {
-      "added_at": "2026-10-09 00:01:58",
-      "album": {
         "name": "FOR YOU",
         "url": "https://open.spotify.com/album/6hFthTS1JDZZeXmNHNCXpV"
       },
@@ -1211,42 +1215,18 @@
     {
       "added_at": "2026-10-09 00:01:58",
       "album": {
-        "name": "Comfort",
-        "url": "https://open.spotify.com/album/4fD3EutBzZNAkVF2CD8ZQc"
+        "name": "STARLIFE",
+        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
       },
       "artists": [
         {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "MOLIY",
-          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 146054,
-      "name": "Comfort",
-      "url": "https://open.spotify.com/track/3QFhAWy6waNB7igaBsLfoK"
-    },
-    {
-      "added_at": "2026-10-09 00:01:58",
-      "album": {
-        "name": "Gimme Dat Ting",
-        "url": "https://open.spotify.com/album/3Ps3UIOBR65ycJclGQF6Nc"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "NO11",
-          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
-        }
-      ],
-      "duration_ms": 243755,
-      "name": "Gimme Dat Ting (with NO11)",
-      "url": "https://open.spotify.com/track/5RVZ1kfkbUkZ2s3BsRss18"
+      "duration_ms": 154705,
+      "name": "2FRESH",
+      "url": "https://open.spotify.com/track/0UBGGJAUGlzl7nQ3DIUbnm"
     },
     {
       "added_at": "2026-10-09 00:01:58",
@@ -1267,38 +1247,22 @@
     {
       "added_at": "2026-10-09 00:01:58",
       "album": {
-        "name": "Uncle K: Lemon Chase",
-        "url": "https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF"
+        "name": "Gimme Dat Ting",
+        "url": "https://open.spotify.com/album/3Ps3UIOBR65ycJclGQF6Nc"
       },
       "artists": [
         {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         },
         {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+          "name": "NO11",
+          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
         }
       ],
-      "duration_ms": 181606,
-      "name": "Titi",
-      "url": "https://open.spotify.com/track/56lGvDVasowdpufZnBJbuB"
-    },
-    {
-      "added_at": "2026-10-09 00:01:58",
-      "album": {
-        "name": "Happy Song",
-        "url": "https://open.spotify.com/album/5yBYWy0YJUo9Fut7Xa6XfO"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 129391,
-      "name": "Happy Song",
-      "url": "https://open.spotify.com/track/2YA4T4tYZNtMvEF1bVYFSY"
+      "duration_ms": 243755,
+      "name": "Gimme Dat Ting (with NO11)",
+      "url": "https://open.spotify.com/track/5RVZ1kfkbUkZ2s3BsRss18"
     },
     {
       "added_at": "2026-10-09 00:01:58",
@@ -1327,38 +1291,22 @@
     {
       "added_at": "2026-10-09 00:01:58",
       "album": {
-        "name": "Calculate (II)",
-        "url": "https://open.spotify.com/album/1PkPQJDdcDjgG6tCgiUBlK"
+        "name": "Uncle K: Lemon Chase",
+        "url": "https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF"
       },
       "artists": [
         {
-          "name": "Kidd Carder",
-          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
         },
         {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
         }
       ],
-      "duration_ms": 180688,
-      "name": "Calculate - II",
-      "url": "https://open.spotify.com/track/1sCQfPNKw2QIIV0CloMdpw"
-    },
-    {
-      "added_at": "2026-10-09 00:01:58",
-      "album": {
-        "name": "STARLIFE",
-        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 149605,
-      "name": "FYNE",
-      "url": "https://open.spotify.com/track/4YZlGQCYgs1d0jZ6cK08D4"
+      "duration_ms": 181606,
+      "name": "Titi",
+      "url": "https://open.spotify.com/track/56lGvDVasowdpufZnBJbuB"
     },
     {
       "added_at": "2026-10-09 00:01:58",
@@ -1387,6 +1335,42 @@
     {
       "added_at": "2026-10-09 00:01:58",
       "album": {
+        "name": "Happy Song",
+        "url": "https://open.spotify.com/album/5yBYWy0YJUo9Fut7Xa6XfO"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 129391,
+      "name": "Happy Song",
+      "url": "https://open.spotify.com/track/2YA4T4tYZNtMvEF1bVYFSY"
+    },
+    {
+      "added_at": "2026-10-09 00:01:58",
+      "album": {
+        "name": "Calculate (II)",
+        "url": "https://open.spotify.com/album/1PkPQJDdcDjgG6tCgiUBlK"
+      },
+      "artists": [
+        {
+          "name": "Kidd Carder",
+          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 180688,
+      "name": "Calculate - II",
+      "url": "https://open.spotify.com/track/1sCQfPNKw2QIIV0CloMdpw"
+    },
+    {
+      "added_at": "2026-10-09 00:01:58",
+      "album": {
         "name": "LAPOPIANO",
         "url": "https://open.spotify.com/album/1Js1M91xFCddcTgWde9yim"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 139285,
       "name": "LAPOPIANO",
       "url": "https://open.spotify.com/track/4XZCgK3WWvK4BNvJ5jJle6"
+    },
+    {
+      "added_at": "2026-10-09 00:01:58",
+      "album": {
+        "name": "STARLIFE",
+        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 149605,
+      "name": "FYNE",
+      "url": "https://open.spotify.com/track/4YZlGQCYgs1d0jZ6cK08D4"
     },
     {
       "added_at": "2026-10-09 00:01:58",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2026-10-09 00:01:58",
       "album": {
-        "name": "All Over You",
-        "url": "https://open.spotify.com/album/7m2pHHLujtRpWFnz3aLSdb"
-      },
-      "artists": [
-        {
-          "name": "Deobi",
-          "url": "https://open.spotify.com/artist/2VFjhFAJd6PHcwVG4eo9EI"
-        }
-      ],
-      "duration_ms": 145519,
-      "name": "All Over You",
-      "url": "https://open.spotify.com/track/6EzsUkZqhkXet4vVTc7kKv"
-    },
-    {
-      "added_at": "2026-10-09 00:01:58",
-      "album": {
         "name": "Shakabulizzy (Remix)",
         "url": "https://open.spotify.com/album/7ASL5WnVt8QkEB0QvwtIjM"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 175000,
       "name": "Shakabulizzy - Remix",
       "url": "https://open.spotify.com/track/3yzs58LteW16AjEb4J5vvi"
+    },
+    {
+      "added_at": "2026-10-09 00:01:58",
+      "album": {
+        "name": "All Over You",
+        "url": "https://open.spotify.com/album/7m2pHHLujtRpWFnz3aLSdb"
+      },
+      "artists": [
+        {
+          "name": "Deobi",
+          "url": "https://open.spotify.com/artist/2VFjhFAJd6PHcwVG4eo9EI"
+        }
+      ],
+      "duration_ms": 145519,
+      "name": "All Over You",
+      "url": "https://open.spotify.com/track/6EzsUkZqhkXet4vVTc7kKv"
     },
     {
       "added_at": "2026-10-09 00:01:58",

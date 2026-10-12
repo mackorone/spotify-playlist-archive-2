@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2xeZDW.md) - [plain]
 
 > This is Michael Giacchino\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,630 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,631 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2xeZDW.md) - [plain]
 | 49 | [Forget Me Knots \- from "Spider\-Man: No Way Home" Soundtrack](https://open.spotify.com/track/1nHM5nGsbpskmBnZOfxirW) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Spider\-Man: No Way Home \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1vfxAPvnlWNr5lY9WojHQL) | 6:49 |
 | 50 | [The Suspension Is Killing Me](https://open.spotify.com/track/4pb4UbeCqZx6lkdIsgmds4) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Toy Story of Terror!](https://open.spotify.com/album/4L6pTViOcuDnXHhpOrq9yf) | 0:44 |
 
-Snapshot ID: `asbdAAAAAAAtFe7KStyE4LtuC62/YjXA`
+Snapshot ID: `asgugAAAAADQUwpl3PuVW7NrdH8/Yc+o`

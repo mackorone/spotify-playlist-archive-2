@@ -1,6 +1,6 @@
 {
   "description": "Stay relaxed with these easy, laid-back songs.",
-  "num_followers": 2115794,
+  "num_followers": 2115756,
   "original_name": "Totally Stress Free",
   "owner": {
     "name": "Spotify",
@@ -319,6 +319,22 @@
     {
       "added_at": "2026-09-18 04:00:59",
       "album": {
+        "name": "Supply And Demand",
+        "url": "https://open.spotify.com/album/7zAMTPQbo4MM4trmSpvsNo"
+      },
+      "artists": [
+        {
+          "name": "Amos Lee",
+          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
+        }
+      ],
+      "duration_ms": 129626,
+      "name": "Sweet Pea",
+      "url": "https://open.spotify.com/track/4KqBoq7MoDJeVsvUHTjXCM"
+    },
+    {
+      "added_at": "2026-09-18 04:00:59",
+      "album": {
         "name": "First Two Pages of Frankenstein",
         "url": "https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 267773,
       "name": "The Alcott (feat. Taylor Swift)",
       "url": "https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP"
-    },
-    {
-      "added_at": "2026-09-18 04:00:59",
-      "album": {
-        "name": "Supply And Demand",
-        "url": "https://open.spotify.com/album/7zAMTPQbo4MM4trmSpvsNo"
-      },
-      "artists": [
-        {
-          "name": "Amos Lee",
-          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
-        }
-      ],
-      "duration_ms": 129626,
-      "name": "Sweet Pea",
-      "url": "https://open.spotify.com/track/4KqBoq7MoDJeVsvUHTjXCM"
     },
     {
       "added_at": "2026-09-18 04:00:59",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-09-18 04:00:59",
       "album": {
-        "name": "That Was Yesterday",
-        "url": "https://open.spotify.com/album/2GYGaipOwfLGveAF3ta6Iv"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 230013,
-      "name": "That Was Yesterday",
-      "url": "https://open.spotify.com/track/3gwfEBrFpzEFCZMjw7mqxA"
-    },
-    {
-      "added_at": "2026-09-18 04:00:59",
-      "album": {
         "name": "In Your Hands",
         "url": "https://open.spotify.com/album/0tZj37rUrevqNsoI4N0iEA"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 230164,
       "name": "In Your Hands - Single Version",
       "url": "https://open.spotify.com/track/7tJHvRoGvkckZkZk5ORUot"
+    },
+    {
+      "added_at": "2026-09-18 04:00:59",
+      "album": {
+        "name": "That Was Yesterday",
+        "url": "https://open.spotify.com/album/2GYGaipOwfLGveAF3ta6Iv"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 230013,
+      "name": "That Was Yesterday",
+      "url": "https://open.spotify.com/track/3gwfEBrFpzEFCZMjw7mqxA"
     },
     {
       "added_at": "2026-09-18 04:00:59",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-09-18 04:00:59",
       "album": {
-        "name": "About A House",
-        "url": "https://open.spotify.com/album/5jRQSsPgR0dQSUMNuccSWM"
-      },
-      "artists": [
-        {
-          "name": "Curiosity Shop",
-          "url": "https://open.spotify.com/artist/1T0VltNs70p1wi7Tgh2rTy"
-        }
-      ],
-      "duration_ms": 204745,
-      "name": "About A House",
-      "url": "https://open.spotify.com/track/380cfvRBQfkqcc4RGnFCAh"
-    },
-    {
-      "added_at": "2026-09-18 04:00:59",
-      "album": {
         "name": "Humble Quest",
         "url": "https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 195763,
       "name": "Circles Around This Town",
       "url": "https://open.spotify.com/track/08TCIO6LpgC11UdayeOxWB"
+    },
+    {
+      "added_at": "2026-09-18 04:00:59",
+      "album": {
+        "name": "About A House",
+        "url": "https://open.spotify.com/album/5jRQSsPgR0dQSUMNuccSWM"
+      },
+      "artists": [
+        {
+          "name": "Curiosity Shop",
+          "url": "https://open.spotify.com/artist/1T0VltNs70p1wi7Tgh2rTy"
+        }
+      ],
+      "duration_ms": 204745,
+      "name": "About A House",
+      "url": "https://open.spotify.com/track/380cfvRBQfkqcc4RGnFCAh"
     },
     {
       "added_at": "2026-09-18 04:00:59",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-09-18 04:00:59",
       "album": {
-        "name": "Joyride",
-        "url": "https://open.spotify.com/album/2kbQUnNWsS3C931Sx7FYzb"
-      },
-      "artists": [
-        {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
-        }
-      ],
-      "duration_ms": 212945,
-      "name": "Joyride",
-      "url": "https://open.spotify.com/track/0VcVy0kpfwyd5rMS5URyVD"
-    },
-    {
-      "added_at": "2026-09-18 04:00:59",
-      "album": {
         "name": "Feet Off The Ground (feat. Jade Bird)",
         "url": "https://open.spotify.com/album/3limK1OjauMlUTz8U28IiK"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 258188,
       "name": "Feet Off The Ground (feat. Jade Bird)",
       "url": "https://open.spotify.com/track/5HlqJxuU7T8Tqn56f2d3Pg"
+    },
+    {
+      "added_at": "2026-09-18 04:00:59",
+      "album": {
+        "name": "Joyride",
+        "url": "https://open.spotify.com/album/2kbQUnNWsS3C931Sx7FYzb"
+      },
+      "artists": [
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        }
+      ],
+      "duration_ms": 212945,
+      "name": "Joyride",
+      "url": "https://open.spotify.com/track/0VcVy0kpfwyd5rMS5URyVD"
     },
     {
       "added_at": "2026-09-18 04:00:59",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-09-18 04:00:59",
       "album": {
-        "name": "Catch A Fire",
-        "url": "https://open.spotify.com/album/22nOFO4lMgF0nEpm0lNCPQ"
-      },
-      "artists": [
-        {
-          "name": "Mat Kearney",
-          "url": "https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1"
-        }
-      ],
-      "duration_ms": 193658,
-      "name": "Catch A Fire",
-      "url": "https://open.spotify.com/track/7r43gqBcINKb1o1NQ43Wcu"
-    },
-    {
-      "added_at": "2026-09-18 04:00:59",
-      "album": {
         "name": "Without You",
         "url": "https://open.spotify.com/album/16F30mi5701yHEy2RyTkDX"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 321431,
       "name": "Without You",
       "url": "https://open.spotify.com/track/6GW06Om130LSYa5YbLKrjx"
+    },
+    {
+      "added_at": "2026-09-18 04:00:59",
+      "album": {
+        "name": "Catch A Fire",
+        "url": "https://open.spotify.com/album/22nOFO4lMgF0nEpm0lNCPQ"
+      },
+      "artists": [
+        {
+          "name": "Mat Kearney",
+          "url": "https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1"
+        }
+      ],
+      "duration_ms": 193658,
+      "name": "Catch A Fire",
+      "url": "https://open.spotify.com/track/7r43gqBcINKb1o1NQ43Wcu"
     },
     {
       "added_at": "2026-09-18 04:00:59",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2026-09-18 04:00:59",
       "album": {
+        "name": "Can You Handle My Love??",
+        "url": "https://open.spotify.com/album/5HuxJH43h3FTR8W258lhps"
+      },
+      "artists": [
+        {
+          "name": "WALK THE MOON",
+          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
+        }
+      ],
+      "duration_ms": 256326,
+      "name": "Can You Handle My Love??",
+      "url": "https://open.spotify.com/track/7GKMstqz3UYkFvlX93qCyz"
+    },
+    {
+      "added_at": "2026-09-18 04:00:59",
+      "album": {
         "name": "(self-titled)",
         "url": "https://open.spotify.com/album/2PVuzlWu3Z7Af2y9O2Gppk"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 181706,
       "name": "Go In Light",
       "url": "https://open.spotify.com/track/1mUZTXHmvSUR7Hv3g5NXYq"
-    },
-    {
-      "added_at": "2026-09-18 04:00:59",
-      "album": {
-        "name": "Can You Handle My Love??",
-        "url": "https://open.spotify.com/album/5HuxJH43h3FTR8W258lhps"
-      },
-      "artists": [
-        {
-          "name": "WALK THE MOON",
-          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
-        }
-      ],
-      "duration_ms": 256326,
-      "name": "Can You Handle My Love??",
-      "url": "https://open.spotify.com/track/7GKMstqz3UYkFvlX93qCyz"
     },
     {
       "added_at": "2026-09-18 04:00:59",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2026-09-18 04:00:59",
       "album": {
+        "name": "Into The Mystery",
+        "url": "https://open.spotify.com/album/3VJ6mi9zBjEeDOTW167lMF"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        }
+      ],
+      "duration_ms": 234677,
+      "name": "Into The Mystery",
+      "url": "https://open.spotify.com/track/7zUgIo1qgHuJ3LmeFxmqiN"
+    },
+    {
+      "added_at": "2026-09-18 04:00:59",
+      "album": {
         "name": "Adeline",
         "url": "https://open.spotify.com/album/5vhWPJmfv17WuWHpmMtbUb"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 229000,
       "name": "Adeline (feat. Kathleen)",
       "url": "https://open.spotify.com/track/4upefrum9ayh1aAgo52f4k"
-    },
-    {
-      "added_at": "2026-09-18 04:00:59",
-      "album": {
-        "name": "Into The Mystery",
-        "url": "https://open.spotify.com/album/3VJ6mi9zBjEeDOTW167lMF"
-      },
-      "artists": [
-        {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
-        }
-      ],
-      "duration_ms": 234677,
-      "name": "Into The Mystery",
-      "url": "https://open.spotify.com/track/7zUgIo1qgHuJ3LmeFxmqiN"
     },
     {
       "added_at": "2026-09-18 04:00:59",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2026-09-18 04:00:59",
       "album": {
-        "name": "Highway Queen",
-        "url": "https://open.spotify.com/album/5IDhjEAh7I0P8IXf5YIiiv"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 212470,
-      "name": "Highway Queen",
-      "url": "https://open.spotify.com/track/3E7z1rLE9rR2rhTW3TeXGo"
-    },
-    {
-      "added_at": "2026-09-18 04:00:59",
-      "album": {
         "name": "Did I Make You Up?",
         "url": "https://open.spotify.com/album/5BFctZsAHYCWm2QOF3GRHc"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 214150,
       "name": "Making Do",
       "url": "https://open.spotify.com/track/46quRQAj7MxBJ38B5EyJOc"
+    },
+    {
+      "added_at": "2026-09-18 04:00:59",
+      "album": {
+        "name": "Highway Queen",
+        "url": "https://open.spotify.com/album/5IDhjEAh7I0P8IXf5YIiiv"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 212470,
+      "name": "Highway Queen",
+      "url": "https://open.spotify.com/track/3E7z1rLE9rR2rhTW3TeXGo"
     },
     {
       "added_at": "2026-09-18 04:00:59",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2026-09-18 04:00:59",
       "album": {
-        "name": "A Little Bit of Love",
-        "url": "https://open.spotify.com/album/5PN3w2kkPaP3ZDVUtwebge"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 164359,
-      "name": "A Little Bit of Love",
-      "url": "https://open.spotify.com/track/0eLXFaZoGjVbzNmMd4LpmA"
-    },
-    {
-      "added_at": "2026-09-18 04:00:59",
-      "album": {
         "name": "The Weekend",
         "url": "https://open.spotify.com/album/7f9oUUbD25iMavLWOX3E0e"
       },
@@ -1955,6 +1939,22 @@
       "duration_ms": 244160,
       "name": "How Low",
       "url": "https://open.spotify.com/track/6aKbgrbGG8KUU6WNSaOWR9"
+    },
+    {
+      "added_at": "2026-09-18 04:00:59",
+      "album": {
+        "name": "A Little Bit of Love",
+        "url": "https://open.spotify.com/album/5PN3w2kkPaP3ZDVUtwebge"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 164359,
+      "name": "A Little Bit of Love",
+      "url": "https://open.spotify.com/track/0eLXFaZoGjVbzNmMd4LpmA"
     },
     {
       "added_at": "2026-09-18 04:00:59",
@@ -2135,22 +2135,6 @@
     {
       "added_at": "2026-09-18 04:00:59",
       "album": {
-        "name": "Hurt By You",
-        "url": "https://open.spotify.com/album/3RykZ9zgjIrCRMF1YsrO05"
-      },
-      "artists": [
-        {
-          "name": "Donna Missal",
-          "url": "https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8"
-        }
-      ],
-      "duration_ms": 230339,
-      "name": "Hurt By You",
-      "url": "https://open.spotify.com/track/0iLbxQU6BJ2zOa9yK8RNMA"
-    },
-    {
-      "added_at": "2026-09-18 04:00:59",
-      "album": {
         "name": "Anything Without You",
         "url": "https://open.spotify.com/album/4ea2marOalv22zoOpc5wnl"
       },
@@ -2163,6 +2147,22 @@
       "duration_ms": 240987,
       "name": "Sunshine Kisses",
       "url": "https://open.spotify.com/track/7t0EiqNogoInkPjvI3eLZI"
+    },
+    {
+      "added_at": "2026-09-18 04:00:59",
+      "album": {
+        "name": "Hurt By You",
+        "url": "https://open.spotify.com/album/3RykZ9zgjIrCRMF1YsrO05"
+      },
+      "artists": [
+        {
+          "name": "Donna Missal",
+          "url": "https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8"
+        }
+      ],
+      "duration_ms": 230339,
+      "name": "Hurt By You",
+      "url": "https://open.spotify.com/track/0iLbxQU6BJ2zOa9yK8RNMA"
     },
     {
       "added_at": "2026-09-18 04:00:59",
@@ -2351,18 +2351,18 @@
     {
       "added_at": "2026-09-18 04:00:59",
       "album": {
-        "name": "Ponte Vedra Sunrise",
-        "url": "https://open.spotify.com/album/2lCIMUfeeATX3JkUW20mDN"
+        "name": "Becoming All Alone",
+        "url": "https://open.spotify.com/album/4tJzSc9zVi8PVjS50Yrq9n"
       },
       "artists": [
         {
-          "name": "Madison Hughes",
-          "url": "https://open.spotify.com/artist/03rZGNLcaUYnzsTxlXpJ3F"
+          "name": "Regina Spektor",
+          "url": "https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i"
         }
       ],
-      "duration_ms": 245000,
-      "name": "Ponte Vedra Sunrise",
-      "url": "https://open.spotify.com/track/7gkUReys335e5KA5ljkpmp"
+      "duration_ms": 258079,
+      "name": "Becoming All Alone",
+      "url": "https://open.spotify.com/track/5j5pE7RwYw7Au1UeHpYpqS"
     },
     {
       "added_at": "2026-09-18 04:00:59",
@@ -2383,22 +2383,6 @@
     {
       "added_at": "2026-09-18 04:00:59",
       "album": {
-        "name": "Becoming All Alone",
-        "url": "https://open.spotify.com/album/4tJzSc9zVi8PVjS50Yrq9n"
-      },
-      "artists": [
-        {
-          "name": "Regina Spektor",
-          "url": "https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i"
-        }
-      ],
-      "duration_ms": 258079,
-      "name": "Becoming All Alone",
-      "url": "https://open.spotify.com/track/5j5pE7RwYw7Au1UeHpYpqS"
-    },
-    {
-      "added_at": "2026-09-18 04:00:59",
-      "album": {
         "name": "Supernova",
         "url": "https://open.spotify.com/album/2m9qpnKqmy3c8FbwApTSvb"
       },
@@ -2411,6 +2395,22 @@
       "duration_ms": 211933,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/3apMZR8xEsLHEA2KvIefC7"
+    },
+    {
+      "added_at": "2026-09-18 04:00:59",
+      "album": {
+        "name": "Ponte Vedra Sunrise",
+        "url": "https://open.spotify.com/album/2lCIMUfeeATX3JkUW20mDN"
+      },
+      "artists": [
+        {
+          "name": "Madison Hughes",
+          "url": "https://open.spotify.com/artist/03rZGNLcaUYnzsTxlXpJ3F"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Ponte Vedra Sunrise",
+      "url": "https://open.spotify.com/track/7gkUReys335e5KA5ljkpmp"
     },
     {
       "added_at": "2026-09-18 04:00:59",
@@ -2463,18 +2463,18 @@
     {
       "added_at": "2026-09-18 04:00:59",
       "album": {
-        "name": "Rescue Me",
-        "url": "https://open.spotify.com/album/2bsIieEAgCyVwcdGNiBDFB"
+        "name": "Ghost In The Machine",
+        "url": "https://open.spotify.com/album/35uUl3hTYQfBhH8CvSsTiV"
       },
       "artists": [
         {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+          "name": "Dawes",
+          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
         }
       ],
-      "duration_ms": 286320,
-      "name": "Rescue Me",
-      "url": "https://open.spotify.com/track/2YgmnWc5M8DDYLKgDarBq7"
+      "duration_ms": 330653,
+      "name": "Comes In Waves",
+      "url": "https://open.spotify.com/track/0gDGS8oW4kLxU7G4BYZG3y"
     },
     {
       "added_at": "2026-09-18 04:00:59",
@@ -2495,18 +2495,18 @@
     {
       "added_at": "2026-09-18 04:00:59",
       "album": {
-        "name": "Ghost In The Machine",
-        "url": "https://open.spotify.com/album/35uUl3hTYQfBhH8CvSsTiV"
+        "name": "Rescue Me",
+        "url": "https://open.spotify.com/album/2bsIieEAgCyVwcdGNiBDFB"
       },
       "artists": [
         {
-          "name": "Dawes",
-          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
         }
       ],
-      "duration_ms": 330653,
-      "name": "Comes In Waves",
-      "url": "https://open.spotify.com/track/0gDGS8oW4kLxU7G4BYZG3y"
+      "duration_ms": 286320,
+      "name": "Rescue Me",
+      "url": "https://open.spotify.com/track/2YgmnWc5M8DDYLKgDarBq7"
     }
   ],
   "unique_name": "Totally Stress Free",

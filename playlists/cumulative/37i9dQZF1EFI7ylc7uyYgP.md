@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2LTWvs1eqq4r0Qln13AssN">Phil Bentley</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-145 songs - 7 hr 8 min
+146 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Chasing Highs](https://open.spotify.com/track/4iRug4QLFFFhk7phV0ajzY) | [Too Close To Touch](https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp) | [I'm Hard To Love, But So Are You, Vol\. 3](https://open.spotify.com/album/7FCRaYlQdUlnObamBLMSkR) | 3:35 | 2024-01-29 |  |
 | [Chemical](https://open.spotify.com/track/6eqCoTTdRaTwVVvKuqu58V) | [Jack Garratt](https://open.spotify.com/artist/1Zp054Jc86WVKCxKEqZGOA) | [Phase \(Deluxe\)](https://open.spotify.com/album/5NvSqYFMTXEkp2jAc3tFYR) | 3:34 | 2024-01-29 |  |
 | [Christmas Time to Me \- from "The Best Man Holiday Original Motion Picture Soundtrack"](https://open.spotify.com/track/6Rxich879W1mvxoMFXrswU) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [The Best Man Holiday: Original Motion Picture Soundtrack](https://open.spotify.com/album/1oV4pg51THaPN4eJveWxHt) | 2:53 | 2024-01-29 |  |
-| [Cloud Nine](https://open.spotify.com/track/6exy0PjoNMrlYjcBWnX99U) | [Cherry Bullet](https://open.spotify.com/artist/3IJCdgkBZbieocLZ4e94GZ) | [Cherry Dash](https://open.spotify.com/album/4WKhHCj1pBU1aVyEmRkMZQ) | 2:48 | 2024-01-29 |  |
+| [Cloud Nine](https://open.spotify.com/track/6DyKskICdwkw0aynH3z1b2) | [Cherry Bullet](https://open.spotify.com/artist/3IJCdgkBZbieocLZ4e94GZ) | [Cherry Dash](https://open.spotify.com/album/3KFqjMozNykMi3MEdvOSmV) | 2:48 | 2026-10-11 |  |
+| [Cloud Nine](https://open.spotify.com/track/6exy0PjoNMrlYjcBWnX99U) | [Cherry Bullet](https://open.spotify.com/artist/3IJCdgkBZbieocLZ4e94GZ) | [Cherry Dash](https://open.spotify.com/album/4WKhHCj1pBU1aVyEmRkMZQ) | 2:48 | 2024-01-29 | 2026-10-12 |
 | [Commander](https://open.spotify.com/track/7ppW4pdWW3M0yUwNbO2cGd) | [Punch !nc](https://open.spotify.com/artist/0iRdgcSMVRBHPqEXWdqMkl) | [The High L!fe](https://open.spotify.com/album/6AkxONHcB8l41HvWInyF7q) | 3:19 | 2024-01-29 |  |
 | [Complain \- COFRESI Remix](https://open.spotify.com/track/57efnVNmEV540jiXVyBZQB) | [Too Close To Touch](https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp), [COFRESI](https://open.spotify.com/artist/5qqc3uTsdX82MR0IpU5jsY) | [Complain \(COFRESI Remix\)](https://open.spotify.com/album/4WZEd6gUNQUZRdg6TOBXqF) | 4:53 | 2024-01-29 |  |
 | [Con Fuego](https://open.spotify.com/track/3B0cRFbHELHYXLCrUVa5jI) | [Soraya](https://open.spotify.com/artist/4HsWGs7hJKcbM1aiRnUDWj) | [Akustika](https://open.spotify.com/album/4K74zuaJwqeV5hS7FyFnzL) | 3:47 | 2024-01-29 |  |

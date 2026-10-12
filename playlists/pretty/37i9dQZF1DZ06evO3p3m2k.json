@@ -1,12 +1,12 @@
 {
   "description": "This is Juliana. The essential tracks, all in one playlist.",
-  "num_followers": 6115,
+  "num_followers": 6116,
   "original_name": "This Is Juliana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asbdAAAAAAAgEzhE129vcsqkY0Oau57v",
+  "snapshot_id": "asgugAAAAADiUeGkeMnkxpE6r5xW545H",
   "tracks": [
     {
       "added_at": null,
@@ -127,22 +127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La GuapA",
-        "url": "https://open.spotify.com/album/7FJXAjtGwzdCr5Ku5qHPWE"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 136124,
-      "name": "La GuapA",
-      "url": "https://open.spotify.com/track/360BMRTge92ufqa7fiVffL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DOS DOS DOS",
         "url": "https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 190580,
       "name": "Toda la Vida",
       "url": "https://open.spotify.com/track/2KSUy9yJZbXXfvIIIqQ6we"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La GuapA",
+        "url": "https://open.spotify.com/album/7FJXAjtGwzdCr5Ku5qHPWE"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 136124,
+      "name": "La GuapA",
+      "url": "https://open.spotify.com/track/360BMRTge92ufqa7fiVffL"
     },
     {
       "added_at": null,
@@ -211,18 +211,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Juliana",
-        "url": "https://open.spotify.com/album/6REdS1fIBEUTa0hkCEFX0x"
+        "name": "Aqu\u00ed Seguir\u00e9",
+        "url": "https://open.spotify.com/album/038lsrWVpmcYnC5mXb09fz"
       },
       "artists": [
         {
           "name": "Juliana",
           "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        },
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        },
+        {
+          "name": "Nidia Gongora",
+          "url": "https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8"
+        },
+        {
+          "name": "Herencia de Timbiqui",
+          "url": "https://open.spotify.com/artist/3aeY1LxKK63GRg7tmI8UVa"
         }
       ],
-      "duration_ms": 169399,
-      "name": "C\u00f3seme (2:22am)",
-      "url": "https://open.spotify.com/track/3UcjHVz7rFjEcDK2ZZvGl4"
+      "duration_ms": 248684,
+      "name": "Aqu\u00ed Seguir\u00e9",
+      "url": "https://open.spotify.com/track/5WD8Qs7IRj4gxXdeU0jpkR"
     },
     {
       "added_at": null,
@@ -259,6 +271,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Juliana",
+        "url": "https://open.spotify.com/album/6REdS1fIBEUTa0hkCEFX0x"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 169399,
+      "name": "C\u00f3seme (2:22am)",
+      "url": "https://open.spotify.com/track/3UcjHVz7rFjEcDK2ZZvGl4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Primera Vez",
         "url": "https://open.spotify.com/album/0j45QHGc7TLFr2csPro4DJ"
       },
@@ -275,22 +303,6 @@
       "duration_ms": 230013,
       "name": "La Primera Vez",
       "url": "https://open.spotify.com/track/6dMGhnoZyPLbELETfiGGn1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "24 Horas",
-        "url": "https://open.spotify.com/album/4SHVF6pqNpYoWjYeROe5le"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 218972,
-      "name": "24 Horas",
-      "url": "https://open.spotify.com/track/6dOZaQaueSGM05NdOczDFE"
     },
     {
       "added_at": null,
@@ -331,6 +343,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "24 Horas",
+        "url": "https://open.spotify.com/album/4SHVF6pqNpYoWjYeROe5le"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 218972,
+      "name": "24 Horas",
+      "url": "https://open.spotify.com/track/6dOZaQaueSGM05NdOczDFE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sin medir distancias",
         "url": "https://open.spotify.com/album/0NqLWiJ5IfOUFUDTBdxGaA"
       },
@@ -343,22 +371,6 @@
       "duration_ms": 256759,
       "name": "Sin medir distancias",
       "url": "https://open.spotify.com/track/3JM3WhGaWoAZ6JCsH6T1zx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Juliana",
-        "url": "https://open.spotify.com/album/6REdS1fIBEUTa0hkCEFX0x"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 237272,
-      "name": "Electricidad (2:21am)",
-      "url": "https://open.spotify.com/track/5ErcJsujfGgRXsTTz7FGRm"
     },
     {
       "added_at": null,
@@ -395,6 +407,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Juliana",
+        "url": "https://open.spotify.com/album/6REdS1fIBEUTa0hkCEFX0x"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 237272,
+      "name": "Electricidad (2:21am)",
+      "url": "https://open.spotify.com/track/5ErcJsujfGgRXsTTz7FGRm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DOS DOS DOS",
         "url": "https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP"
       },
@@ -402,35 +430,11 @@
         {
           "name": "Juliana",
           "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        },
-        {
-          "name": "Mabiland",
-          "url": "https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J"
         }
       ],
-      "duration_ms": 207946,
-      "name": "Pendejada feat. Mabiland",
-      "url": "https://open.spotify.com/track/1LA1dNwVWQQZwuSQ8TmOry"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cometa Feat. Daniela Calle (En Vivo)",
-        "url": "https://open.spotify.com/album/0hR2l1PUKrem5AbwJc9EJY"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        },
-        {
-          "name": "Daniela Calle",
-          "url": "https://open.spotify.com/artist/7KpsVPUvyYUhwQaUCVNYZX"
-        }
-      ],
-      "duration_ms": 158802,
-      "name": "Cometa Feat. Daniela Calle - En Vivo",
-      "url": "https://open.spotify.com/track/5mqYQFMbHe9NX1P8hWNZNl"
+      "duration_ms": 227053,
+      "name": "A Tiempo",
+      "url": "https://open.spotify.com/track/0l7o1qoJ754BKRlH7uBf2q"
     },
     {
       "added_at": null,
@@ -471,6 +475,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cometa Feat. Daniela Calle (En Vivo)",
+        "url": "https://open.spotify.com/album/0hR2l1PUKrem5AbwJc9EJY"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        },
+        {
+          "name": "Daniela Calle",
+          "url": "https://open.spotify.com/artist/7KpsVPUvyYUhwQaUCVNYZX"
+        }
+      ],
+      "duration_ms": 158802,
+      "name": "Cometa Feat. Daniela Calle - En Vivo",
+      "url": "https://open.spotify.com/track/5mqYQFMbHe9NX1P8hWNZNl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DOS DOS DOS",
         "url": "https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP"
       },
@@ -478,11 +502,31 @@
         {
           "name": "Juliana",
           "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        },
+        {
+          "name": "Mabiland",
+          "url": "https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J"
         }
       ],
-      "duration_ms": 227053,
-      "name": "A Tiempo",
-      "url": "https://open.spotify.com/track/0l7o1qoJ754BKRlH7uBf2q"
+      "duration_ms": 207946,
+      "name": "Pendejada feat. Mabiland",
+      "url": "https://open.spotify.com/track/1LA1dNwVWQQZwuSQ8TmOry"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mar Adentro",
+        "url": "https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 238460,
+      "name": "Desde La Orilla",
+      "url": "https://open.spotify.com/track/6JADr8YFprsEK8qczdQ01k"
     },
     {
       "added_at": null,
@@ -503,22 +547,6 @@
       "duration_ms": 179820,
       "name": "Ausencia",
       "url": "https://open.spotify.com/track/4in1mmGO097Q3IYNaTZApa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mar Adentro",
-        "url": "https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 238460,
-      "name": "Desde La Orilla",
-      "url": "https://open.spotify.com/track/6JADr8YFprsEK8qczdQ01k"
     },
     {
       "added_at": null,
@@ -663,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con las Que Crec\u00ed (Sesi\u00f3n en Vivo)",
-        "url": "https://open.spotify.com/album/7mmgvSwgtVu8OhQNW6z0cr"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 202381,
-      "name": "Burbujas de Amor - (Sesi\u00f3n en vivo)",
-      "url": "https://open.spotify.com/track/2kipawZSvwFIVD0y6tT2LG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Mala Hora",
         "url": "https://open.spotify.com/album/34TloCPADxqF8R3otAHRA6"
       },
@@ -695,6 +707,22 @@
       "duration_ms": 199736,
       "name": "YA NO SIENTO FR\u00cdO",
       "url": "https://open.spotify.com/track/5pWKM3ZxK7T14uSyuxVrH5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con las Que Crec\u00ed (Sesi\u00f3n en Vivo)",
+        "url": "https://open.spotify.com/album/7mmgvSwgtVu8OhQNW6z0cr"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 202381,
+      "name": "Burbujas de Amor - (Sesi\u00f3n en vivo)",
+      "url": "https://open.spotify.com/track/2kipawZSvwFIVD0y6tT2LG"
     },
     {
       "added_at": null,
@@ -735,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con las Que Crec\u00ed (Sesi\u00f3n en Vivo)",
-        "url": "https://open.spotify.com/album/7mmgvSwgtVu8OhQNW6z0cr"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 234358,
-      "name": "Coraz\u00f3n Part\u00edo - (Sesi\u00f3n en vivo)",
-      "url": "https://open.spotify.com/track/1CADK7STloqa9WjCGbRU73"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Si Quieres Marcharte Feat. Dstance (Cap. 1)",
         "url": "https://open.spotify.com/album/2inN1Sd7GBOyIIDpIlkhZX"
       },
@@ -767,6 +779,22 @@
       "duration_ms": 170896,
       "name": "Si Quieres Marcharte Feat. Dstance (Cap. 1)",
       "url": "https://open.spotify.com/track/6ZuMhCPd0VP6vfjQIuJaOX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con las Que Crec\u00ed (Sesi\u00f3n en Vivo)",
+        "url": "https://open.spotify.com/album/7mmgvSwgtVu8OhQNW6z0cr"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 234358,
+      "name": "Coraz\u00f3n Part\u00edo - (Sesi\u00f3n en vivo)",
+      "url": "https://open.spotify.com/track/1CADK7STloqa9WjCGbRU73"
     },
     {
       "added_at": null,
@@ -807,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con las Que Crec\u00ed (Sesi\u00f3n en Vivo)",
-        "url": "https://open.spotify.com/album/7mmgvSwgtVu8OhQNW6z0cr"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 177610,
-      "name": "Que Locura Enamorarme de Ti - (Sesi\u00f3n en vivo)",
-      "url": "https://open.spotify.com/track/42b9sbzyqVZsjfoxzvHVwZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ens\u00e9\u00f1ame",
         "url": "https://open.spotify.com/album/34KSApIN48IpEUePEJYV97"
       },
@@ -835,6 +847,22 @@
       "duration_ms": 217350,
       "name": "Ens\u00e9\u00f1ame",
       "url": "https://open.spotify.com/track/2MzA4qntR39kCOeiNnGzZ2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con las Que Crec\u00ed (Sesi\u00f3n en Vivo)",
+        "url": "https://open.spotify.com/album/7mmgvSwgtVu8OhQNW6z0cr"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 177610,
+      "name": "Que Locura Enamorarme de Ti - (Sesi\u00f3n en vivo)",
+      "url": "https://open.spotify.com/track/42b9sbzyqVZsjfoxzvHVwZ"
     },
     {
       "added_at": null,
@@ -859,46 +887,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aqu\u00ed Seguir\u00e9",
-        "url": "https://open.spotify.com/album/038lsrWVpmcYnC5mXb09fz"
+        "name": "La Primera Vez",
+        "url": "https://open.spotify.com/album/0TLFTxAK3nJUwN5cvUcSZS"
       },
       "artists": [
         {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+          "name": "Opa!",
+          "url": "https://open.spotify.com/artist/5RkExucftRinoiN1HV0uDZ"
         },
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        },
-        {
-          "name": "Nidia Gongora",
-          "url": "https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8"
-        },
-        {
-          "name": "Herencia de Timbiqui",
-          "url": "https://open.spotify.com/artist/3aeY1LxKK63GRg7tmI8UVa"
-        }
-      ],
-      "duration_ms": 248684,
-      "name": "Aqu\u00ed Seguir\u00e9",
-      "url": "https://open.spotify.com/track/5WD8Qs7IRj4gxXdeU0jpkR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Con las Que Crec\u00ed (Sesi\u00f3n en Vivo)",
-        "url": "https://open.spotify.com/album/7mmgvSwgtVu8OhQNW6z0cr"
-      },
-      "artists": [
         {
           "name": "Juliana",
           "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
         }
       ],
-      "duration_ms": 163295,
-      "name": "\u00bfY C\u00f3mo Es \u00c9l? - (Sesi\u00f3n en vivo)",
-      "url": "https://open.spotify.com/track/0EFtIku6LZPToZJ2F3hath"
+      "duration_ms": 305898,
+      "name": "La Primera Vez",
+      "url": "https://open.spotify.com/track/1nKESoKeZvAAOqlEXBG1if"
     }
   ],
   "unique_name": "This Is Juliana",

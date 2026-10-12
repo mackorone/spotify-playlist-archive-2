@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ckaZO.md) - [plain]
 
 > This is Ice Spice\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,313 likes - 40 songs - 1 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,306 likes - 40 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ckaZO.md) - [plain]
 | 13 | [Gyatt](https://open.spotify.com/track/3srvOwMjHkTEmjphUucVip) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Gyatt](https://open.spotify.com/album/6mJonxS4QLPYRzYYmjnZwV) | 2:17 |
 | 14 | [In Ha Mood](https://open.spotify.com/track/0yUaLqhsVsguBpoOPL4cO7) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [In Ha Mood](https://open.spotify.com/album/0CQzO0dUktGpymhtvrIXqW) | 2:09 |
 | 15 | [Pretty Girl \(with Rema\)](https://open.spotify.com/track/1p5GikXPiCkw5T2VrSPrO1) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Pretty Girl \(with Rema\)](https://open.spotify.com/album/4IjqbyZZsfaNHnxV92CFuH) | 2:17 |
-| 16 | [Think U The Shit \(Fart\)](https://open.spotify.com/track/4w2Furap0ZzaiK4J14E9sR) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Think U The Shit \(Fart\)](https://open.spotify.com/album/1NEBms3ay8CUHTUzD7wzHO) | 2:21 |
-| 17 | [Munch \(Feelin’ U\)](https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Munch \(Feelin’ U\)](https://open.spotify.com/album/0LgFPcU3P2HLGUtBQTBBpv) | 1:44 |
+| 16 | [Munch \(Feelin’ U\)](https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Munch \(Feelin’ U\)](https://open.spotify.com/album/0LgFPcU3P2HLGUtBQTBBpv) | 1:44 |
+| 17 | [Think U The Shit \(Fart\)](https://open.spotify.com/track/4w2Furap0ZzaiK4J14E9sR) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Think U The Shit \(Fart\)](https://open.spotify.com/album/1NEBms3ay8CUHTUzD7wzHO) | 2:21 |
 | 18 | [BB Belt](https://open.spotify.com/track/3oLlS8NTMdePBohjgPZKk1) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Y2K!](https://open.spotify.com/album/56fzdpwMftta3Dd2MZyGhH) | 1:56 |
 | 19 | [Bikini Bottom](https://open.spotify.com/track/27Qz0cFmMGADsniMeUwyUe) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Bikini Bottom](https://open.spotify.com/album/2n38ZBBmPSssEGGPgu6NPl) | 1:46 |
 | 20 | [Gangsta Boo \(with Lil Tjay\)](https://open.spotify.com/track/2g5q0UpOOFMNOcHGaMG4b0) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Like..?](https://open.spotify.com/album/53cTBnSWosJkQCDPHzumvg) | 2:39 |

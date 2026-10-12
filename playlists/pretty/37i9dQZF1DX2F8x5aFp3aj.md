@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2F8x5aFp3aj.md) - [plain]
 
 > Revive aquellos tiempos de new wave, post\-punk y sentimientos decadentes\. The Cure en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,807 likes - 75 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,877 likes - 75 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2F8x5aFp3aj.md) - [plain]
 | 56 | [The Killing Moon](https://open.spotify.com/track/15049rGLXHwrWtE4euUb5C) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [Songs to Learn & Sing](https://open.spotify.com/album/0VYyqjM5H2sXj6z8ocAyjb) | 5:46 |
 | 57 | [Lorelei](https://open.spotify.com/track/1ZnXuijpwEBjhNxpEnb8WH) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62) | 3:43 |
 | 58 | [Mountain Song](https://open.spotify.com/track/5fKZJHzJ9d3MADArbm9muW) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Nothing's Shocking](https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa) | 4:02 |
-| 59 | [Living in Another World \- 1997 Remaster](https://open.spotify.com/track/03d3DCqwvt65Orfdomjs6e) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [The Colour of Spring](https://open.spotify.com/album/70V1kL7w7Q9pDU4I6zDjYE) | 6:58 |
-| 60 | [Big in Japan \- Best Of](https://open.spotify.com/track/3F8aTQzmKovktFcR7MCGFW) | [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX) | [First Harvest 1984\-1992](https://open.spotify.com/album/0d60Pri6GuV9E8jeJrSB33) | 3:55 |
+| 59 | [Big in Japan \- Best Of](https://open.spotify.com/track/3F8aTQzmKovktFcR7MCGFW) | [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX) | [First Harvest 1984\-1992](https://open.spotify.com/album/0d60Pri6GuV9E8jeJrSB33) | 3:55 |
+| 60 | [Living in Another World \- 1997 Remaster](https://open.spotify.com/track/03d3DCqwvt65Orfdomjs6e) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [The Colour of Spring](https://open.spotify.com/album/70V1kL7w7Q9pDU4I6zDjYE) | 6:58 |
 | 61 | [Sailing On The Seven Seas](https://open.spotify.com/track/30R6QDPKZCeepPj3hSmQvp) | [Orchestral Manoeuvres In The Dark](https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk) | [Sugar Tax](https://open.spotify.com/album/1J8e1dLKVmZbsyxpGa9lGg) | 3:45 |
 | 62 | [Pandora \(for Cindy\)](https://open.spotify.com/track/2Vqi1Si1dQjMtAZ79UreqL) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62) | 5:35 |
 | 63 | [Arabian Knights](https://open.spotify.com/track/2o1Deu2r99ZkkQwQ27LnZd) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Juju](https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb) | 3:05 |

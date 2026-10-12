@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OlVrN.md) - [plain]
 
 > This is Los Relampagos Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,324 likes - 46 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,326 likes - 45 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,11 +22,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OlVrN.md) - [plain]
 | 12 | [El Coyote \- Live](https://open.spotify.com/track/086prN6onXRaD0TDMZnVjz) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Los Relampagos Del Norte En Vivo \(Live\)](https://open.spotify.com/album/3kpuqV5noBtcsTFui98VEj) | 3:45 |
 | 13 | [Vengo a Llevarte](https://open.spotify.com/track/3ZkbdZPuWewYNzwhTumX2E) | [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx), [Ramón Ayala](https://open.spotify.com/artist/0fIdQWpwzU2oEtsoyArDOL), [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Cornelio Reyna Con Ramón Ayala y los Relámpagos del Norte](https://open.spotify.com/album/3QqP4X0qTnexiRDaDSe5dS) | 3:08 |
 | 14 | [Anhelo](https://open.spotify.com/track/16Ghnlp54Vfk8T3EVlYOGp) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [20 Súper Éxitos](https://open.spotify.com/album/2oi7Q0C7IgX9vOOWFOSUlk) | 2:51 |
-| 15 | [Falsa Ilusion](https://open.spotify.com/track/1s02yQ5hlpDzn9FATAh89J) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [30 Exitos Inmortales](https://open.spotify.com/album/2zXix1WTlM3E4vtSnKwLMT) | 3:16 |
+| 15 | [Que Bonita Chaparrita](https://open.spotify.com/track/1uhMOpXwk5bmKVziqFJMoG) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Iconos Eternos: Cornelio Reyna](https://open.spotify.com/album/3i9F9Y0WoNxiIP4bZC04qI) | 2:44 |
 | 16 | [Aunque Tengas Otros Amores \- Live](https://open.spotify.com/track/0KEsDqkKqV2Ix7rHNmyhtq) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Los Relampagos Del Norte En Vivo \(Live\)](https://open.spotify.com/album/3kpuqV5noBtcsTFui98VEj) | 3:30 |
 | 17 | [¿de Qué Es Tu Corazón?](https://open.spotify.com/track/1Ch3Xd1HOaz2A6ndWvJUxO) | [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx), [Ramón Ayala](https://open.spotify.com/artist/0fIdQWpwzU2oEtsoyArDOL), [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Cornelio Reyna Con Ramón Ayala y los Relámpagos del Norte](https://open.spotify.com/album/3QqP4X0qTnexiRDaDSe5dS) | 2:53 |
 | 18 | [Por El Amor A Mi Madre](https://open.spotify.com/track/2tNH25WlzOdld1e1060LQO) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [20 Súper Éxitos](https://open.spotify.com/album/2oi7Q0C7IgX9vOOWFOSUlk) | 3:04 |
-| 19 | [Que Bonita Chaparrita](https://open.spotify.com/track/1uhMOpXwk5bmKVziqFJMoG) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Iconos Eternos: Cornelio Reyna](https://open.spotify.com/album/3i9F9Y0WoNxiIP4bZC04qI) | 2:44 |
+| 19 | [Falsa Ilusion](https://open.spotify.com/track/1s02yQ5hlpDzn9FATAh89J) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [30 Exitos Inmortales](https://open.spotify.com/album/2zXix1WTlM3E4vtSnKwLMT) | 3:16 |
 | 20 | [Podiosero De Amor \- Live](https://open.spotify.com/track/4k6hwuu0agWO2RaMCJ94wM) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Los Relampagos Del Norte En Vivo \(Live\)](https://open.spotify.com/album/3kpuqV5noBtcsTFui98VEj) | 4:03 |
 | 21 | [Tu Desconfianza](https://open.spotify.com/track/2kj352d6US9v2nyis5jgKB) | [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx), [Ramón Ayala](https://open.spotify.com/artist/0fIdQWpwzU2oEtsoyArDOL), [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Cornelio Reyna Con Ramón Ayala y los Relámpagos del Norte](https://open.spotify.com/album/3QqP4X0qTnexiRDaDSe5dS) | 3:07 |
 | 22 | [Vuelve Gaviota](https://open.spotify.com/track/3D9EZqnh00hJPmaM2akMsd) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [20 Súper Éxitos](https://open.spotify.com/album/2oi7Q0C7IgX9vOOWFOSUlk) | 2:56 |
@@ -53,6 +53,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OlVrN.md) - [plain]
 | 43 | [Vagando Voy](https://open.spotify.com/track/5TV0CzAeiTbKY2mcsdDmkJ) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [El Disco de Oro](https://open.spotify.com/album/2QZ6R4kMgLDHhbgKrw5BnF) | 2:07 |
 | 44 | [Pobre de Ti](https://open.spotify.com/track/7glaORssesYaKDg1m8ehjc) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [50 Años de Exitos](https://open.spotify.com/album/3CBgvvTeYBtuwfXtGN3Cot) | 2:20 |
 | 45 | [Ahnelo](https://open.spotify.com/track/2wKZmiRVteowF30QqLLBel) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [20 Relampagazos](https://open.spotify.com/album/6lRVsaNHrszXSdA7ZfKtpE) | 2:53 |
-| 46 | [Gabino Barrera](https://open.spotify.com/track/0O2Xy6fraAVq3q841IYH9T) | [Country Roland Band](https://open.spotify.com/artist/4lHtr3k2oeLN4wqDAU5LSs), [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Country Roland Vs\. Los Relampagos](https://open.spotify.com/album/5reWQ2xXXaOn3Z9cyFwXn1) | 2:44 |
 
-Snapshot ID: `asbdAAAAAACrPDrge5Us5vR82BNy3o25`
+Snapshot ID: `asgugAAAAAD5jPrhVwC1T4ukAnsbE1uG`

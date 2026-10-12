@@ -1,12 +1,12 @@
 {
   "description": "This is Kendrick Lamar. The essential tracks, all in one playlist.",
-  "num_followers": 1923223,
+  "num_followers": 1923239,
   "original_name": "This Is Kendrick Lamar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asgugAAAAAB+YNGuhWVw1zGFETW/VQcm",
+  "snapshot_id": "asmAAAAAAADek7mNehBv1MQ/tRxdP5xE",
   "tracks": [
     {
       "added_at": null,
@@ -583,30 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ca$ino",
-        "url": "https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b"
-      },
-      "artists": [
-        {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "Momo Boyd",
-          "url": "https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd"
-        }
-      ],
-      "duration_ms": 232424,
-      "name": "Good Flirts (feat. Kendrick Lamar & Momo Boyd)",
-      "url": "https://open.spotify.com/track/5sHeIGDbdzw8DeO57XZKIy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GNX",
         "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
       },
@@ -631,6 +607,30 @@
       "duration_ms": 131240,
       "name": "dodger blue (feat. wallie the sensei, siete7x, roddy ricch)",
       "url": "https://open.spotify.com/track/4K1Pg0FLno1ltzX3jeqT83"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ca$ino",
+        "url": "https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Momo Boyd",
+          "url": "https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd"
+        }
+      ],
+      "duration_ms": 232424,
+      "name": "Good Flirts (feat. Kendrick Lamar & Momo Boyd)",
+      "url": "https://open.spotify.com/track/5sHeIGDbdzw8DeO57XZKIy"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "i",
-        "url": "https://open.spotify.com/album/51C65YqHrDODM1hD5FEL5x"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 231933,
-      "name": "i",
-      "url": "https://open.spotify.com/track/7wdzLe2Gsx1RGqbvYZHASz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Sun's Tirade",
         "url": "https://open.spotify.com/album/6jjX8mGrsWtrpYpFhGMrg1"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 330783,
       "name": "Wat's Wrong (feat. Zacari & Kendrick Lamar)",
       "url": "https://open.spotify.com/track/2RPbEp0DyBVlkRvvYKopO7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "i",
+        "url": "https://open.spotify.com/album/51C65YqHrDODM1hD5FEL5x"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 231933,
+      "name": "i",
+      "url": "https://open.spotify.com/track/7wdzLe2Gsx1RGqbvYZHASz"
     },
     {
       "added_at": null,
@@ -839,6 +839,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chasing Summer",
+        "url": "https://open.spotify.com/album/7mU7c3lx4jCFocOYEc2rs7"
+      },
+      "artists": [
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 216933,
+      "name": "Hair Down",
+      "url": "https://open.spotify.com/track/2jrXrZdn5PoPsMw9W0T5sn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "To Pimp A Butterfly",
         "url": "https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP"
       },
@@ -859,26 +879,6 @@
       "duration_ms": 287360,
       "name": "Wesley's Theory",
       "url": "https://open.spotify.com/track/7Ks4VCY1wFebnOdJrM13t6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chasing Summer",
-        "url": "https://open.spotify.com/album/7mU7c3lx4jCFocOYEc2rs7"
-      },
-      "artists": [
-        {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 216933,
-      "name": "Hair Down",
-      "url": "https://open.spotify.com/track/2jrXrZdn5PoPsMw9W0T5sn"
     },
     {
       "added_at": null,

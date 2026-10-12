@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 
 > All the vibes\. All the feels\. 🫠 🙄
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,711,931 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,711,800 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 | 10 | [Love](https://open.spotify.com/track/6uSa5iCMwPr10Ftpz8w09b) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Aijuswanaseing](https://open.spotify.com/album/2RmMKj20xouC3Mqq1CyZ3c) | 5:04 |
 | 11 | [If I Ain't Got You](https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 3:48 |
 | 12 | [Come Through and Chill \(feat\. J\. Cole & Salaam Remi\)](https://open.spotify.com/track/2F1GDrbrhsU8oLwA4n7vxc) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN) | [Come Through and Chill \(feat\. J\. Cole & Salaam Remi\)](https://open.spotify.com/album/3sMtekXSEaMWDo2kq0zlar) | 5:22 |
-| 13 | [LOVE\. FEAT\. ZACARI.](https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 3:33 |
+| 13 | [Kill Bill](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 2:33 |
 | 14 | [Nightingale Lane.](https://open.spotify.com/track/7j7J2M3ZsKOsrhBueDjhqF) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Nightingale Lane.](https://open.spotify.com/album/22FLublraJkicHyrK2egu0) | 5:02 |
-| 15 | [Kill Bill](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 2:33 |
+| 15 | [LOVE\. FEAT\. ZACARI.](https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 3:33 |
 | 16 | [Stuck In Sixteen](https://open.spotify.com/track/0K77y1Qbihu4hK54zAFxVV) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Twenty Something](https://open.spotify.com/album/3zIuPy0xhAOMg9veibhAwy) | 2:51 |
 | 17 | [Needed Me](https://open.spotify.com/track/4pAl7FkDMNBsjykPXo91B3) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:11 |
 | 18 | [Not You Too \(feat\. Chris Brown\)](https://open.spotify.com/track/3Q4gttWQ6hxqWOa3tHoTNi) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Dark Lane Demo Tapes](https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK) | 4:29 |
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 | 30 | [Let Me Love You](https://open.spotify.com/track/3ibKnFDaa3GhpPGlOUj7ff) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Let Me Love You](https://open.spotify.com/album/7EXstuWka51pNFzEAidEol) | 4:16 |
 | 31 | [Foolish](https://open.spotify.com/track/6zMUIb4uce1CzpbjR3vMdN) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Ashanti](https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X) | 3:47 |
 | 32 | [Ex\-Factor](https://open.spotify.com/track/2VjXGuPVVxyhMgER3Uz2Fe) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:26 |
-| 33 | [SOMEBODY LOVES ME](https://open.spotify.com/track/2kZoOj1n5vk9BuF0sih58M) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:02 |
-| 34 | [Poison](https://open.spotify.com/track/5NijSs5dAwaIybq1GaRTIe) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Poison](https://open.spotify.com/album/17dsllSewkPuKbkGWU4chD) | 3:32 |
-| 35 | [Burn](https://open.spotify.com/track/7z3N2W7Xz1t2G2sAO8wFVH) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 3:51 |
+| 33 | [Poison](https://open.spotify.com/track/5NijSs5dAwaIybq1GaRTIe) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Poison](https://open.spotify.com/album/17dsllSewkPuKbkGWU4chD) | 3:32 |
+| 34 | [Burn](https://open.spotify.com/track/7z3N2W7Xz1t2G2sAO8wFVH) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 3:51 |
+| 35 | [SOMEBODY LOVES ME](https://open.spotify.com/track/2kZoOj1n5vk9BuF0sih58M) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:02 |
 | 36 | [Nights Like This \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/6ZRuF2n1CQxyxxAAWsKJOy) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [While We Wait](https://open.spotify.com/album/73ZvpuYhKDr2FW4vlPsTpW) | 3:21 |
 | 37 | [Doing It Wrong](https://open.spotify.com/track/4eSGSqP2TZvvX0kadZZttM) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 4:25 |
 | 38 | [I Fall Apart](https://open.spotify.com/track/75ZvA4QfFiZvzhj2xkaWAh) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 3:43 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 | 95 | [Want U Around \(feat\. Ruel\)](https://open.spotify.com/track/5vprsDWNcHMEMH95sbJkH2) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Want U Around \(feat\. Ruel\)](https://open.spotify.com/album/5UKxiuiDgmjI35ZKYbAUPx) | 4:07 |
 | 96 | [Stuck On You](https://open.spotify.com/track/53Nwlr3hxsGsu9eWU5EYjq) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [When It's All Said And Done](https://open.spotify.com/album/62Yd5v100Og1YZ7FNsGv9q) | 3:25 |
 | 97 | [BOTHER ME \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/4ZAdgjD0HL9F6NkTqcqhlX) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WORLDS APART\*](https://open.spotify.com/album/37kTdbXevOm7O3D5MOBofw) | 2:26 |
-| 98 | [Don't Leave Me](https://open.spotify.com/track/6CtTSC4APeyjYayZBZxAQj) | [Blackstreet](https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA) | [Cool \- R&B](https://open.spotify.com/album/421reEXYaXldvMHmkWzrvH) | 5:10 |
-| 99 | [Don't Want A Love Song](https://open.spotify.com/track/7LTovppsXm7ncfRF0lA6q8) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [Don't Want A Love Song](https://open.spotify.com/album/3s5TTh0Xv3hEthrOKpRZTe) | 3:03 |
+| 98 | [Don't Want A Love Song](https://open.spotify.com/track/7LTovppsXm7ncfRF0lA6q8) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [Don't Want A Love Song](https://open.spotify.com/album/3s5TTh0Xv3hEthrOKpRZTe) | 3:03 |
+| 99 | [Don't Leave Me](https://open.spotify.com/track/6CtTSC4APeyjYayZBZxAQj) | [Blackstreet](https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA) | [Cool \- R&B](https://open.spotify.com/album/421reEXYaXldvMHmkWzrvH) | 5:10 |
 | 100 | [Waiting For You \(feat\. Naomi Sharon\)](https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Waiting For You \(feat\. Naomi Sharon\)](https://open.spotify.com/album/09l5EnCPP1AKIqaozUT6LQ) | 3:39 |
 
 Snapshot ID: `AAAAALqvIFO4yTRV7Dt6l1i3nT9yy2cb`

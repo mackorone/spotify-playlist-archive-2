@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 
 > ¡Rock para cantar en todos lados! Motel en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,948 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,970 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,18 +70,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 | 60 | [Prometimos](https://open.spotify.com/track/1V5zzGagkwA8n4f13R8aQL) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Narvarte](https://open.spotify.com/album/3kCuVZItIikXwQoNER1SlI) | 3:13 |
 | 61 | [Nadie](https://open.spotify.com/track/2Dsf9be24UFTl9dcdKeBb5) | [Besmaya](https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97) | [La vida de Nadie](https://open.spotify.com/album/3zzUdNCdGCDobDktA3v6yi) | 2:47 |
 | 62 | [Dame Love \- Remix](https://open.spotify.com/track/4osMQOkwTX79FUbNJpGxCD) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [7 Secretos](https://open.spotify.com/album/1DHS9kMaklrQAiiOxUAzmO) | 3:11 |
-| 63 | [Vivos](https://open.spotify.com/track/7BDQNZamnUfc0JVJTDJ29E) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Vivos](https://open.spotify.com/album/1X4qVzX9VIvwyhiWK5cK4p) | 3:46 |
-| 64 | [Soy Tuyo](https://open.spotify.com/track/1RBd8r7gC8ZYrEHAKITkw3) | [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d) | [Soy Tuyo](https://open.spotify.com/album/4b9QYeAeZ6apmWZpCdaC80) | 2:39 |
+| 63 | [Soy Tuyo](https://open.spotify.com/track/1RBd8r7gC8ZYrEHAKITkw3) | [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d) | [Soy Tuyo](https://open.spotify.com/album/4b9QYeAeZ6apmWZpCdaC80) | 2:39 |
+| 64 | [Vivos](https://open.spotify.com/track/7BDQNZamnUfc0JVJTDJ29E) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Vivos](https://open.spotify.com/album/1X4qVzX9VIvwyhiWK5cK4p) | 3:46 |
 | 65 | [Contradicción](https://open.spotify.com/track/2vCQG5PSjoJnfFnij0TdAc) | [Love of Lesbian](https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF), [Rigoberta Bandini](https://open.spotify.com/artist/7DOERbtkx9aTLvWzZSB0qx) | [Contradicción](https://open.spotify.com/album/6rtsrC8IQb9s0kbuL7lr7y) | 4:56 |
 | 66 | [El Reloj Me Miente](https://open.spotify.com/track/0OiQup7RDj8XgOe4yHIDpP) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs), [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [El Reloj Me Miente](https://open.spotify.com/album/5OLRpRcnGYLR1u0HFy0DTk) | 3:43 |
 | 67 | [Brillante Sobre el Mic \- EADDA9223](https://open.spotify.com/track/3gnbXX0Fv5iiUvxZVX2O2x) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Brillante Sobre el Mic \- EADDA9223](https://open.spotify.com/album/1qZYz4prjJ6jqO99G9G7Vh) | 4:06 |
 | 68 | [Quisiera Ser Como Tú](https://open.spotify.com/track/5Ik9AlzPoV7NPUnOczG58f) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Alta Fidelidad](https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ) | 3:50 |
 | 69 | [Mentiras Arriesgadas](https://open.spotify.com/track/30fg5jzLCAPTrCbBurBA41) | [Melendi](https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4) | [Mentiras Arriesgadas](https://open.spotify.com/album/7CY5pnkyNQT1T5uR2TaF80) | 3:32 |
 | 70 | [Perder](https://open.spotify.com/track/64P2xSklZne3dsvcAHpdRg) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Perder](https://open.spotify.com/album/4kugrRF2bFcwtLJcUp1tT8) | 3:39 |
-| 71 | [Quiero saber si es amor \(feat\. Joy\)](https://open.spotify.com/track/7eCEgiZZkQXtLtfZWaOBOv) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN), [Joy](https://open.spotify.com/artist/6iH6aIbOCOdO3Ja6JeyOm1) | [Quiero saber si es amor \(feat\. Joy\)](https://open.spotify.com/album/33hSdcOl6uiBMEtmRvAVGx) | 4:27 |
-| 72 | [Los mejores años de nuestra vida](https://open.spotify.com/track/2gefFE6cOjYJ9n4QHUOzan) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Los mejores años de nuestra vida](https://open.spotify.com/album/0vgA7E6cinrPHGrBF9Qbzo) | 4:17 |
-| 73 | [Rayo de Luz](https://open.spotify.com/track/5f6NAUO04clfZMGEHh1ohC) | [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw) | [Campeones del Mundo / Rayo de Luz](https://open.spotify.com/album/2KWmh6cY1fCU4WNZtaIJvF) | 5:41 |
-| 74 | [EN LO TOTAL](https://open.spotify.com/track/3y48Sa22j19xNtlnUMX9CR) | [Lori Meyers](https://open.spotify.com/artist/3mOsjj1MhocRVwOejIZlTi) | [EN LO TOTAL](https://open.spotify.com/album/6YyvXPie5Mvhl9LnLez2ix) | 3:55 |
-| 75 | [Todo está pasando ahora](https://open.spotify.com/track/4QrrOXttnTFPpLRf5PyZwb) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Todo está pasando ahora](https://open.spotify.com/album/2d3AHkakmD2pD6UTNe5Sj2) | 3:48 |
+| 71 | [Los mejores años de nuestra vida](https://open.spotify.com/track/2gefFE6cOjYJ9n4QHUOzan) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Los mejores años de nuestra vida](https://open.spotify.com/album/0vgA7E6cinrPHGrBF9Qbzo) | 4:17 |
+| 72 | [Quiero saber si es amor \(feat\. Joy\)](https://open.spotify.com/track/7eCEgiZZkQXtLtfZWaOBOv) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN), [Joy](https://open.spotify.com/artist/6iH6aIbOCOdO3Ja6JeyOm1) | [Quiero saber si es amor \(feat\. Joy\)](https://open.spotify.com/album/33hSdcOl6uiBMEtmRvAVGx) | 4:27 |
+| 73 | [EN LO TOTAL](https://open.spotify.com/track/3y48Sa22j19xNtlnUMX9CR) | [Lori Meyers](https://open.spotify.com/artist/3mOsjj1MhocRVwOejIZlTi) | [EN LO TOTAL](https://open.spotify.com/album/6YyvXPie5Mvhl9LnLez2ix) | 3:55 |
+| 74 | [Rayo de Luz](https://open.spotify.com/track/5f6NAUO04clfZMGEHh1ohC) | [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw) | [Campeones del Mundo / Rayo de Luz](https://open.spotify.com/album/2KWmh6cY1fCU4WNZtaIJvF) | 5:41 |
+| 75 | [Sabor a Chocolate](https://open.spotify.com/track/1SMVUXsly4CTjjOen5uTpq) | [Elefante](https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb) | [Sabor a Chocolate](https://open.spotify.com/album/1DdGH31QzyzvClzx9U4Wtq) | 3:51 |
 
 Snapshot ID: `AAAAAKLyGwOPGzdCS78ff4DqX8qiRlfz`

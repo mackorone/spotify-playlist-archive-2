@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGcHV6BqOiQl.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/34ez51Qa142eo2zewgoonx">Mbryo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 384 likes - 38 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 385 likes - 38 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGcHV6BqOiQl.md) - [plain]
 | 11 | [All The Love](https://open.spotify.com/track/47r4tUxUEOiDICuhfkIFKl) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [All The Love](https://open.spotify.com/album/2obX1HxOQWl31B7xwmhal9) | 3:08 |
 | 12 | [All Over](https://open.spotify.com/track/64sNl4VMbqi41L80qFRw0w) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [ATOM](https://open.spotify.com/album/3TtgIiEx4g8r4Nn95xxWbT) | 2:55 |
 | 13 | [FOR THE ROAD](https://open.spotify.com/track/0SGea6cYbJWWz0MW1MYWlD) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:27 |
-| 14 | [treat u right](https://open.spotify.com/track/38Mnfr1l5t2kckdzoJuXTl) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [treat u right](https://open.spotify.com/album/40A1rVfEkPBAri7GV6iCZE) | 2:57 |
+| 14 | [treat u right](https://open.spotify.com/track/2SKuiB4czNhIdk8Ng0DoRn) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [9](https://open.spotify.com/album/1fHRY61FCATcIMjN0DPtdm) | 2:57 |
 | 15 | [PINACOLADA](https://open.spotify.com/track/1kqBTGpxaC5kGz3rPlr1TF) | [Thisizlondon](https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [PINACOLADA](https://open.spotify.com/album/1pAYhCfEJa2Nz6zF409RvE) | 2:57 |
 | 16 | [PINACOLADA REMIX \(feat\. Beéle, Ayra Starr, 6LACK\)](https://open.spotify.com/track/7qNZLFVB86qiyRT9xFg0f4) | [Thisizlondon](https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [PINACOLADA REMIX \(feat\. Beéle, Ayra Starr, 6LACK\)](https://open.spotify.com/album/12CsRgdLnx2J6Da2mS4JyN) | 3:31 |
 | 17 | [GODFATHER](https://open.spotify.com/track/6Tf5WfhWbg8wRkox9bXHPd) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:50 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGcHV6BqOiQl.md) - [plain]
 | 37 | [Mind](https://open.spotify.com/track/5F8eCL9KDpMgny7MAS7AkD) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Before The Morning Light](https://open.spotify.com/album/2ReT5MpfcBcllICauo5NNr) | 2:21 |
 | 38 | [Kayama](https://open.spotify.com/track/7I7aUudSiVMZPj5gqGcbTG) | [DNA](https://open.spotify.com/artist/1FlxUQ2UXUNGGXqJipuytq) | [Gemini EP](https://open.spotify.com/album/4YikoYZN8EAjWlBw3763sU) | 2:56 |
 
-Snapshot ID: `AcemmgAAAAAZQvt2Be0LGxcgqv92Cp0b`
+Snapshot ID: `AcesOgAAAABKaot7FYjB2p0kw5sTPiUB`

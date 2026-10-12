@@ -1,6 +1,6 @@
 {
   "description": "This is Grupo Arriesgado. The essential tracks, all in one playlist.",
-  "num_followers": 118610,
+  "num_followers": 118619,
   "original_name": "This Is Grupo Arriesgado",
   "owner": {
     "name": "Spotify",
@@ -171,6 +171,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Enloquecido",
+        "url": "https://open.spotify.com/album/3RIOdfaWVO61obWJwEtnNv"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 169145,
+      "name": "El Fugitivo",
+      "url": "https://open.spotify.com/track/6s2xZ3c71UsTpgI68iw9lP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "San Lucas",
         "url": "https://open.spotify.com/album/5Yskk2DcFtwcUo0C1XHRcU"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 214293,
       "name": "San Lucas",
       "url": "https://open.spotify.com/track/0tY1AQYjy5sucb4LoZjWtP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Enloquecido",
-        "url": "https://open.spotify.com/album/3RIOdfaWVO61obWJwEtnNv"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 212915,
-      "name": "Enloquecido",
-      "url": "https://open.spotify.com/track/2xVS1tIdvTjMNZuam83uiX"
     },
     {
       "added_at": null,
@@ -235,6 +235,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Enloquecido",
+        "url": "https://open.spotify.com/album/3RIOdfaWVO61obWJwEtnNv"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 212915,
+      "name": "Enloquecido",
+      "url": "https://open.spotify.com/track/2xVS1tIdvTjMNZuam83uiX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Puras De Servando ZL, Vol. 2 (En Vivo)",
         "url": "https://open.spotify.com/album/5WBBN9fuNvwyKyZmwY8HxM"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 195070,
       "name": "El Yuko - En vivo",
       "url": "https://open.spotify.com/track/2Q7WUNDbsHITZO54t9JSUZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Enloquecido",
-        "url": "https://open.spotify.com/album/3RIOdfaWVO61obWJwEtnNv"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 169145,
-      "name": "El Fugitivo",
-      "url": "https://open.spotify.com/track/6s2xZ3c71UsTpgI68iw9lP"
     },
     {
       "added_at": null,
@@ -371,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ayer & Hoy",
-        "url": "https://open.spotify.com/album/6R0IH7A8RtsCl3HXOI7aiR"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 155008,
-      "name": "Ayer & Hoy",
-      "url": "https://open.spotify.com/track/3Z8dLMmpusKUZNLotCMH0V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nunca Me Quisiste",
         "url": "https://open.spotify.com/album/20uhkai4M2QzzVVrGK1dDL"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 152789,
       "name": "Nunca Me Quisiste",
       "url": "https://open.spotify.com/track/0a5dX4BSWeqk9N5AUyZdGf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ayer & Hoy",
+        "url": "https://open.spotify.com/album/6R0IH7A8RtsCl3HXOI7aiR"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 155008,
+      "name": "Ayer & Hoy",
+      "url": "https://open.spotify.com/track/3Z8dLMmpusKUZNLotCMH0V"
     },
     {
       "added_at": null,
@@ -459,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A La Sombra De Un \u00c1rbol, Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/1XBHkino209lUqg5yra3wO"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 189738,
+      "name": "Chuyito y el Mayo - En Vivo",
+      "url": "https://open.spotify.com/track/1MJ3hyAnpTrajRRToGInF2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Pato Nada",
         "url": "https://open.spotify.com/album/0OhyD2tALC8PZSFLRydDfJ"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 164989,
       "name": "El Pato Nada",
       "url": "https://open.spotify.com/track/79ODiZgprtTlyPhRfIlcBl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A La Sombra De Un \u00c1rbol, Vol. 2 (En Vivo)",
-        "url": "https://open.spotify.com/album/1XBHkino209lUqg5yra3wO"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 189738,
-      "name": "Chuyito y el Mayo - En Vivo",
-      "url": "https://open.spotify.com/track/1MJ3hyAnpTrajRRToGInF2"
     },
     {
       "added_at": null,
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Las Cuartitos No Falten",
-        "url": "https://open.spotify.com/album/2OM6ccQ4cHqTUhrOYXPA3V"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 164690,
-      "name": "El H",
-      "url": "https://open.spotify.com/track/1ipRWFeVZQ449C0HL8K8kS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Otra Cara",
         "url": "https://open.spotify.com/album/3PXMIloVcTFvoOKsFrloNt"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 158048,
       "name": "El Instructivo",
       "url": "https://open.spotify.com/track/6vtfKCxBf7GrcyvlU2Dl0D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Que Las Cuartitos No Falten",
+        "url": "https://open.spotify.com/album/2OM6ccQ4cHqTUhrOYXPA3V"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 164690,
+      "name": "El H",
+      "url": "https://open.spotify.com/track/1ipRWFeVZQ449C0HL8K8kS"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Aqui Soy",
-        "url": "https://open.spotify.com/album/6LTBwWPfJVQnvMp07CP6NP"
+        "name": "A La Sombra De Un \u00c1rbol, Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/1XBHkino209lUqg5yra3wO"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 168317,
-      "name": "De Aqui Soy",
-      "url": "https://open.spotify.com/track/4JB95jzbRRnCvcW4mA0Qel"
+      "duration_ms": 185973,
+      "name": "El Mas Poderoso - En Vivo",
+      "url": "https://open.spotify.com/track/2Dgl2lWN7geG4QxG81XtKp"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A La Sombra De Un \u00c1rbol, Vol. 2 (En Vivo)",
-        "url": "https://open.spotify.com/album/1XBHkino209lUqg5yra3wO"
+        "name": "De Aqui Soy",
+        "url": "https://open.spotify.com/album/6LTBwWPfJVQnvMp07CP6NP"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 185973,
-      "name": "El Mas Poderoso - En Vivo",
-      "url": "https://open.spotify.com/track/2Dgl2lWN7geG4QxG81XtKp"
+      "duration_ms": 168317,
+      "name": "De Aqui Soy",
+      "url": "https://open.spotify.com/track/4JB95jzbRRnCvcW4mA0Qel"
     },
     {
       "added_at": null,
@@ -751,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A La Sombra De Un \u00c1rbol, Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/1XBHkino209lUqg5yra3wO"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 170410,
+      "name": "El Chivo Tatemado - En Vivo",
+      "url": "https://open.spotify.com/track/7GYWEcRh7ztQJNC7JGRg72"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mi Nueva Versi\u00f3n",
         "url": "https://open.spotify.com/album/3P1UMzb7EjxZsm3eTnYz6L"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 163034,
       "name": "Mi Nueva Versi\u00f3n",
       "url": "https://open.spotify.com/track/7iNDZjyrVBlCgdVF3PCpDf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A La Sombra De Un \u00c1rbol, Vol. 2 (En Vivo)",
-        "url": "https://open.spotify.com/album/1XBHkino209lUqg5yra3wO"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 170410,
-      "name": "El Chivo Tatemado - En Vivo",
-      "url": "https://open.spotify.com/track/7GYWEcRh7ztQJNC7JGRg72"
     },
     {
       "added_at": null,

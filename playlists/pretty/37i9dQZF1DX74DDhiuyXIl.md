@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74DDhiuyXIl.md) - [plain]
 
 > 回家的路上、獨步的時刻，心情腳下難免沈重，有好聽的歌曲陪伴，會讓人暫時忘了疲倦。
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,501 likes - 75 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,509 likes - 75 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74DDhiuyXIl.md) - [plain]
 | 37 | [無名之輩 \(電視劇《親愛的, 熱愛的》主題曲\)](https://open.spotify.com/track/4t6xJufZtFgVb0fbjCnWNv) | [陳雪燃](https://open.spotify.com/artist/4S60pJTRGN6LLZsJb7f4Of) | [無名之輩 \(電視劇《親愛的, 熱愛的》主題曲\)](https://open.spotify.com/album/25SPilLsgRVlEgDzbH6KcV) | 4:22 |
 | 38 | [不簡單的歌 \(feat\. Faye 詹雯婷\)](https://open.spotify.com/track/77Y69dj99sTYGAWule3nz8) | [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9), [Faye 詹雯婷](https://open.spotify.com/artist/7hmSHY9HVVQKejpGbPbo16) | [不簡單的歌 \(feat\. Faye 詹雯婷\)](https://open.spotify.com/album/7D0UoSpD6qC3PAFP1KStSE) | 4:37 |
 | 39 | [受夠](https://open.spotify.com/track/5JLLWtgBLRxpd4MRkGAm74) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [小時候的我們](https://open.spotify.com/album/2GaVDyAX5sgrX5CuWxRhZm) | 5:31 |
-| 40 | [最會裝沒事的人](https://open.spotify.com/track/3rsHzGmkNxgw65ywJRvaWy) | [張語噥](https://open.spotify.com/artist/3PWY4Z5OjA9aABPh5ipDk8), [宏兒 Kuan Hong](https://open.spotify.com/artist/2aKuUj6H873hTJpLeBFENe) | [最會裝沒事的人](https://open.spotify.com/album/4iAKZJD5Wl2NqYqXI98ueX) | 4:12 |
-| 41 | [數到十](https://open.spotify.com/track/73VL4sm5aHQWaWwZCEURsd) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w) | [數到十](https://open.spotify.com/album/3hraLuOIsylxL46mXfYZAe) | 3:53 |
+| 40 | [數到十](https://open.spotify.com/track/73VL4sm5aHQWaWwZCEURsd) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w) | [數到十](https://open.spotify.com/album/3hraLuOIsylxL46mXfYZAe) | 3:53 |
+| 41 | [最會裝沒事的人](https://open.spotify.com/track/3rsHzGmkNxgw65ywJRvaWy) | [張語噥](https://open.spotify.com/artist/3PWY4Z5OjA9aABPh5ipDk8), [宏兒 Kuan Hong](https://open.spotify.com/artist/2aKuUj6H873hTJpLeBFENe) | [最會裝沒事的人](https://open.spotify.com/album/4iAKZJD5Wl2NqYqXI98ueX) | 4:12 |
 | 42 | [想过不止一百遍](https://open.spotify.com/track/0Xld54ZC4WYqTahn8lWn6J) | [LBI利比](https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J) | [想过不止一百遍](https://open.spotify.com/album/5phB3l1NbFTgPGeYYpLEwW) | 3:15 |
 | 43 | [內傷](https://open.spotify.com/track/6tIaVtOWhsJhOYT81hioxk) | [Ricky Hsiao](https://open.spotify.com/artist/0E6oEhZZtQvj811iXQFLrB) | [說故事的歌](https://open.spotify.com/album/2OcafcgIRbdMhbAKjrYRVB) | 4:52 |
 | 44 | [忠孝東路走九遍](https://open.spotify.com/track/5vdLbWLiR9dH7uWoFQH6cf) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy) | [忠孝東路走九遍](https://open.spotify.com/album/4QFQFIpq2drStUz2yPphHw) | 4:52 |
@@ -70,16 +70,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74DDhiuyXIl.md) - [plain]
 | 60 | [愛上你等於愛上寂寞](https://open.spotify.com/track/1g2l9OvadMo1MJvjFlBZ57) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [不如在歌裡遇見](https://open.spotify.com/album/7bJpER8m82kNz2y2vM7PC5) | 4:09 |
 | 61 | [你不會一輩子的愛上我](https://open.spotify.com/track/5FbxrTeMrO3zbLe3uLbYH7) | [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [你不會一輩子的愛上我](https://open.spotify.com/album/0FjMxaIatcw3nOgc9osLif) | 3:17 |
 | 62 | [恆星不忘 Forever Forever](https://open.spotify.com/track/4eyAIvfoQ8PR7ZBzjh0jW5) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [Jerry Yan](https://open.spotify.com/artist/2WkfI6UZfc7Ohpyba7d086), [Van Ness Wu](https://open.spotify.com/artist/2Lcyl3luks1H4TDORlJIUW), [Vic Chou](https://open.spotify.com/artist/03pYLhfpWF8iKk4p6Cm5w9), [Ashin Chen](https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb) | [恆星不忘 Forever Forever](https://open.spotify.com/album/4S1DAsonZzfrgD0ezbKApU) | 4:47 |
-| 63 | [還是愛錯](https://open.spotify.com/track/1X42y2V1zBc938IRMrMGxd) | [黃長俊](https://open.spotify.com/artist/7aPCuTZPyKhq4BevJfFHye) | [還是愛錯](https://open.spotify.com/album/4zXlxHK4ksEgVcOPQvII9b) | 3:58 |
-| 64 | [毒藥](https://open.spotify.com/track/34YwC7hZlGeIyIZGir8WHE) | [蕭秉治](https://open.spotify.com/artist/0Ej4GfzIcW3dWP0rC5d4x1) | [毒藥](https://open.spotify.com/album/49FXdUp7VMFszWjZSHlvWc) | 3:25 |
+| 63 | [毒藥](https://open.spotify.com/track/34YwC7hZlGeIyIZGir8WHE) | [蕭秉治](https://open.spotify.com/artist/0Ej4GfzIcW3dWP0rC5d4x1) | [毒藥](https://open.spotify.com/album/49FXdUp7VMFszWjZSHlvWc) | 3:25 |
+| 64 | [還是愛錯](https://open.spotify.com/track/1X42y2V1zBc938IRMrMGxd) | [黃長俊](https://open.spotify.com/artist/7aPCuTZPyKhq4BevJfFHye) | [還是愛錯](https://open.spotify.com/album/4zXlxHK4ksEgVcOPQvII9b) | 3:58 |
 | 65 | [黑夜狂奔](https://open.spotify.com/track/4rCpwGXcaoNejahMl7BbFQ) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [我們就像那些要命的傻瓜](https://open.spotify.com/album/3ZswervhsAwTbWS8Z1c4WB) | 5:20 |
 | 66 | [風](https://open.spotify.com/track/2nwRk2QTUrMPfDcpISEvPY) | [芒果醬 Mango Jump](https://open.spotify.com/artist/1t1GIb4bb1lARAXwWEekUN) | [風](https://open.spotify.com/album/5iWWdVYZvtY3g1RdF3V1qJ) | 4:12 |
-| 67 | [是我愛太用力](https://open.spotify.com/track/1vT1871BlFvowhs3KnHHZa) | [宏兒 Kuan Hong](https://open.spotify.com/artist/2aKuUj6H873hTJpLeBFENe) | [是我愛太用力](https://open.spotify.com/album/3bTgMWfcClw7vboyXJlkAO) | 4:03 |
-| 68 | [看起來不錯其實也還好](https://open.spotify.com/track/3zMmF25anSSUsnJmcYMbmF) | [J.Sheon](https://open.spotify.com/artist/4DEItwf281SHmTnS8q3Mn9) | [巷子內](https://open.spotify.com/album/7aNRNUuP1X1f6B1MxUp9QX) | 4:00 |
+| 67 | [看起來不錯其實也還好](https://open.spotify.com/track/3zMmF25anSSUsnJmcYMbmF) | [J.Sheon](https://open.spotify.com/artist/4DEItwf281SHmTnS8q3Mn9) | [巷子內](https://open.spotify.com/album/7aNRNUuP1X1f6B1MxUp9QX) | 4:00 |
+| 68 | [是我愛太用力](https://open.spotify.com/track/1vT1871BlFvowhs3KnHHZa) | [宏兒 Kuan Hong](https://open.spotify.com/artist/2aKuUj6H873hTJpLeBFENe) | [是我愛太用力](https://open.spotify.com/album/3bTgMWfcClw7vboyXJlkAO) | 4:03 |
 | 69 | [因為你 所以我](https://open.spotify.com/track/3oRP6yGs5d0kFpGRRzzaS8) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [因為你 所以我](https://open.spotify.com/album/0bLc2MyuEEP8eiMnd6v5Rt) | 4:41 |
 | 70 | [隔著螢幕想念你](https://open.spotify.com/track/2UG57mASKdND4iQaS8EH1y) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [隔著螢幕想念你](https://open.spotify.com/album/14X0jLPKuLpJUa3YH8wpeC) | 3:04 |
-| 71 | [明天我在你身邊 \(電影《危機航線》片尾曲\)](https://open.spotify.com/track/67KtRQhwhQbSEl9SRHyuoq) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [明天我在你身邊 \(電影《危機航線》片尾曲\)](https://open.spotify.com/album/6682vtcZcXjdmx9cZGQLR4) | 4:31 |
-| 72 | [初戀](https://open.spotify.com/track/60L6mymaKo7KuGkmnnvtyk) | [Rachel Liang](https://open.spotify.com/artist/4rdSHzO4enUlVxdQeHPGTp) | [\#2019還在聽](https://open.spotify.com/album/0687JPYolanYGONrSkOZtK) | 3:44 |
+| 71 | [初戀](https://open.spotify.com/track/60L6mymaKo7KuGkmnnvtyk) | [Rachel Liang](https://open.spotify.com/artist/4rdSHzO4enUlVxdQeHPGTp) | [\#2019還在聽](https://open.spotify.com/album/0687JPYolanYGONrSkOZtK) | 3:44 |
+| 72 | [明天我在你身邊 \(電影《危機航線》片尾曲\)](https://open.spotify.com/track/67KtRQhwhQbSEl9SRHyuoq) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [明天我在你身邊 \(電影《危機航線》片尾曲\)](https://open.spotify.com/album/6682vtcZcXjdmx9cZGQLR4) | 4:31 |
 | 73 | [想悄悄住進你的靈魂 \(電視劇《難哄》插曲\)](https://open.spotify.com/track/23y0POoEllY2LM9EwWJ3ab) | [蕭秉治](https://open.spotify.com/artist/0Ej4GfzIcW3dWP0rC5d4x1) | [想悄悄住進你的靈魂](https://open.spotify.com/album/7AceFgFxvjH64hBcGZsB6d) | 4:01 |
 | 74 | [溫柔 \#MaydayBlue20th \- feat.孫燕姿](https://open.spotify.com/track/40fcXSuSb80MekMZM1ei2J) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY), [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [溫柔 \#MaydayBlue20th](https://open.spotify.com/album/0hFNgUJRgBphC1NBJaZGI3) | 4:31 |
 | 75 | [傘下 \- 電視劇《歡喜來逗陣》片尾曲](https://open.spotify.com/track/0oydZSHL9DztppHaWJdDaB) | [Phil Chang](https://open.spotify.com/artist/7g65zUBhUAbiu4pAcoyWRd) | [張宇戲劇主題曲精選 \(2008\-2011\)](https://open.spotify.com/album/5Y7M1SLHMtiZ9WW3TT4ufe) | 4:39 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 
 > The best indie rock vibes — classic and current.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,297,775 likes - 150 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,297,682 likes - 150 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 | 88 | [Hands Down](https://open.spotify.com/track/0dqJjKKxuKD5Dt3QH2n4CG) | [The Greeting Committee](https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm) | [It’s Not All That Bad](https://open.spotify.com/album/0y3tRiTDYzj5IuQb0Kk86x) | 4:17 |
 | 89 | [Superbloomer](https://open.spotify.com/track/6HqdxpWOasNjyjLFVXCB6x) | [Arcy Drive](https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O) | [Superbloomer](https://open.spotify.com/album/43M8szELX9et29YildxYbP) | 4:37 |
 | 90 | [Showtime](https://open.spotify.com/track/0YLhxYUv69go9H8iirbSWO) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [Showtime](https://open.spotify.com/album/3KuRm7unewgWVJkruzxwAA) | 4:40 |
-| 91 | [My Body ft Your Lips](https://open.spotify.com/track/4xkxhTvP9tmCKfAIO8GFJR) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy), [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 2:53 |
-| 92 | [Marvelous](https://open.spotify.com/track/5wkEdciZkVGiasumRPReSV) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Tell Me That It’s Over](https://open.spotify.com/album/5L6fAzbz2x5oF8l0qluSKm) | 2:22 |
+| 91 | [Marvelous](https://open.spotify.com/track/5wkEdciZkVGiasumRPReSV) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Tell Me That It’s Over](https://open.spotify.com/album/5L6fAzbz2x5oF8l0qluSKm) | 2:22 |
+| 92 | [My Body ft Your Lips](https://open.spotify.com/track/4xkxhTvP9tmCKfAIO8GFJR) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy), [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 2:53 |
 | 93 | [Funky Galileo](https://open.spotify.com/track/0TAHhMjG17P5pzlSm1sgSl) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Funky Galileo](https://open.spotify.com/album/4FpWPCgvF7mSQpDZGZgwSU) | 4:06 |
 | 94 | [The Narcissist](https://open.spotify.com/track/35d93v9AXADp8Wc0qJ3mIo) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Narcissist](https://open.spotify.com/album/2BfpnbY3M0oc9NyW87NKGz) | 4:05 |
 | 95 | [Then It All Goes Away](https://open.spotify.com/track/7MzjD4Ayl07w0TRsYSqfCh) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs) | 3:03 |
@@ -122,8 +122,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 | 112 | [Don't Wanna](https://open.spotify.com/track/5hMffqN6nHPltws5nhjTpR) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM) | 3:21 |
 | 113 | [Classical](https://open.spotify.com/track/4DlGLD32K7shuL8ub067DL) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Only God Was Above Us](https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y) | 4:19 |
 | 114 | [Your Life Your Time](https://open.spotify.com/track/1HWkMkgqKMLqsAPRh0KNmE) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Your Life Your Time](https://open.spotify.com/album/4EZaBjrZvPKOch67xp0E3J) | 2:40 |
-| 115 | [Lemon Tree](https://open.spotify.com/track/0SnCZci0wyVj0RZXknNaWq) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Lemon Tree](https://open.spotify.com/album/4ibM2rJfsOdr0d72AlOI2G) | 4:08 |
-| 116 | [Bag of Bones](https://open.spotify.com/track/1M2AqYT4Y6X0zRboZgIw8K) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Bag of Bones](https://open.spotify.com/album/4tWOuqMX9aMpFxvNU1WkYl) | 4:04 |
+| 115 | [Bag of Bones](https://open.spotify.com/track/1M2AqYT4Y6X0zRboZgIw8K) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Bag of Bones](https://open.spotify.com/album/4tWOuqMX9aMpFxvNU1WkYl) | 4:04 |
+| 116 | [Lemon Tree](https://open.spotify.com/track/0SnCZci0wyVj0RZXknNaWq) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Lemon Tree](https://open.spotify.com/album/4ibM2rJfsOdr0d72AlOI2G) | 4:08 |
 | 117 | [Right Here, for Now](https://open.spotify.com/track/2mMU463xwCEiBKJJTlA3tc) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Right Here, For Now](https://open.spotify.com/album/5eiR2EXJbe3N9QTzFJ4Jzi) | 3:00 |
 | 118 | [These Are The Days](https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [These Are The Days](https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz) | 3:42 |
 | 119 | [Again](https://open.spotify.com/track/7e0LOBvgnz3Rnu20gUKOeh) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Again](https://open.spotify.com/album/6s144Vjf21zEdbZpySRE82) | 2:53 |
@@ -155,8 +155,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 | 145 | [Marigold](https://open.spotify.com/track/0xtRShSDM9MNsaARH6hJkF) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Marigold](https://open.spotify.com/album/6lXwCrLRKIaAW3xxKMXnze) | 4:05 |
 | 146 | [All the Noise](https://open.spotify.com/track/6Tgj4AN3ufqIeIVqxnCE1N) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [All the Noise](https://open.spotify.com/album/1vqh5RgezLNVZwDLxTsdKc) | 2:59 |
 | 147 | [Back To The Start](https://open.spotify.com/track/3rf2zzhaqAu5Rx4n14YqiU) | [Cary Brothers](https://open.spotify.com/artist/21R50WhyQI5HxWOTr6MyY1) | [Back To The Start](https://open.spotify.com/album/5c09bkL58RiNSPUwKJnlj4) | 3:28 |
-| 148 | [Persuasion](https://open.spotify.com/track/5rbh9uwfOz2vBramGDs5Lo) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Triple Seven](https://open.spotify.com/album/0xCWaLwotmO3NtVQsHrhNf) | 2:48 |
-| 149 | [Hello](https://open.spotify.com/track/3DcJhILpOqM0tNWTKGf6uq) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Hello, All!](https://open.spotify.com/album/3hAyNJLQx0Mdq1LKclx7R4) | 3:23 |
+| 148 | [Hello](https://open.spotify.com/track/3DcJhILpOqM0tNWTKGf6uq) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Hello, All!](https://open.spotify.com/album/3hAyNJLQx0Mdq1LKclx7R4) | 3:23 |
+| 149 | [Persuasion](https://open.spotify.com/track/5rbh9uwfOz2vBramGDs5Lo) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Triple Seven](https://open.spotify.com/album/0xCWaLwotmO3NtVQsHrhNf) | 2:48 |
 | 150 | [Shudder](https://open.spotify.com/track/1w5m4J6icg6zmt0KuneqST) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [The Sweater Club](https://open.spotify.com/album/73lkqaVOVZnVMHi2ZYrY0N) | 2:47 |
 
 Snapshot ID: `AAAAAP4YoYn+wRd2/Rn3oYInlmveV7e3`

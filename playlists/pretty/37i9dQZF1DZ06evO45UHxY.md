@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45UHxY.md) - [plain]
 
 > This is Banda Zeta\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,951 likes - 46 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,954 likes - 46 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45UHxY.md) - [plain]
 | 45 | [El señor de las canas](https://open.spotify.com/track/2N0gHRZb3TgOqssub2q8wm) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [16 de Septiembre: Gruperas \(USA\) \[Vol\. 2\]](https://open.spotify.com/album/63mvOAHFDhD2QZLVfNAMcn) | 2:48 |
 | 46 | [Zapatos viejos](https://open.spotify.com/track/4vXizQTMHAA7AnqBESDfUd) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Grandes Bandas](https://open.spotify.com/album/6DejTyQTl57yvFotq3l4xg) | 2:51 |
 
-Snapshot ID: `asgugAAAAACnl58VQZ/+3bgLKIfGMfrp`
+Snapshot ID: `asmAAAAAAAC8kjrEBguryp+TAhHEHw0C`

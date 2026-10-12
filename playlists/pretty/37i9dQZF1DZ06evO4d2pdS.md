@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4d2pdS.md) - [plain]
 
 > This is Lakeyah\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,042 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,040 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4d2pdS.md) - [plain]
 | 36 | [WANT EM HOOD](https://open.spotify.com/track/36tZ01gUYSQVF29hqYx5Xa) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [WANT EM HOOD](https://open.spotify.com/album/5RDX2YRAeBPI5ayzMqHubO) | 2:45 |
 | 37 | [Heartbeat](https://open.spotify.com/track/4IuWMIcuPDFmPhPrdl0DD2) | [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Ann Marie](https://open.spotify.com/artist/3feB1IF85It42sebtWSqws) | [Heartbeat](https://open.spotify.com/album/0SoDqZyYx0DOmbSv0ReBwQ) | 3:37 |
 | 38 | [What I Do To You](https://open.spotify.com/track/6nlmmqWZEea4ALWSaG9mTX) | [Tay B](https://open.spotify.com/artist/1bPS827zEKbtWhNcWUMTpO), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [SEVEN77](https://open.spotify.com/album/6zAQRyUgSpJvjxQ4eYOqUx) | 2:34 |
-| 39 | [look easy](https://open.spotify.com/track/39RWZFE5UAeXpzZaOWW7uV) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [310degrees](https://open.spotify.com/album/6ILh4lBjtyPaHYROZBISwO) | 2:04 |
-| 40 | [Can't Get Enough \(feat\. BIA, Lakeyah & Flau'jae\)](https://open.spotify.com/track/3XvMwcBtHnk5GDem3AweQN) | [Culture Jam](https://open.spotify.com/artist/3NbMf2TTL0tcjISP5AFgzf), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Flau'jae](https://open.spotify.com/artist/5IQcgEvxwvq8kwy4iWCiBC) | [Can't Get Enough \(feat\. BIA, Lakeyah & Flau'jae\)](https://open.spotify.com/album/3NiNyHyUbObfCYN3GuytFL) | 3:28 |
-| 41 | [Raw Btch](https://open.spotify.com/track/38KjYLWUWylehWT4KKdadU) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Stunna Girl](https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV) | [Raw Btch](https://open.spotify.com/album/3Fb4B4fjf7MuePkflCsZ1a) | 2:41 |
-| 42 | [WATER \(with Lakeyah\)](https://open.spotify.com/track/364P8zq6aNHvuEH3Io4SIi) | [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [ETHER](https://open.spotify.com/album/3mirEbkWRb68aRgUGMeZkA) | 3:14 |
+| 39 | [Can't Get Enough \(feat\. BIA, Lakeyah & Flau'jae\)](https://open.spotify.com/track/3XvMwcBtHnk5GDem3AweQN) | [Culture Jam](https://open.spotify.com/artist/3NbMf2TTL0tcjISP5AFgzf), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Flau'jae](https://open.spotify.com/artist/5IQcgEvxwvq8kwy4iWCiBC) | [Can't Get Enough \(feat\. BIA, Lakeyah & Flau'jae\)](https://open.spotify.com/album/3NiNyHyUbObfCYN3GuytFL) | 3:28 |
+| 40 | [look easy](https://open.spotify.com/track/39RWZFE5UAeXpzZaOWW7uV) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [310degrees](https://open.spotify.com/album/6ILh4lBjtyPaHYROZBISwO) | 2:04 |
+| 41 | [WATER \(with Lakeyah\)](https://open.spotify.com/track/364P8zq6aNHvuEH3Io4SIi) | [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [ETHER](https://open.spotify.com/album/3mirEbkWRb68aRgUGMeZkA) | 3:14 |
+| 42 | [Raw Btch](https://open.spotify.com/track/38KjYLWUWylehWT4KKdadU) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Stunna Girl](https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV) | [Raw Btch](https://open.spotify.com/album/3Fb4B4fjf7MuePkflCsZ1a) | 2:41 |
 | 43 | [2 Tone](https://open.spotify.com/track/3Jnl2guSuAyunmKjC7OuO0) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Time's Up](https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi) | 2:04 |
 | 44 | [Get Ratchet](https://open.spotify.com/track/27lIN1WJRpKBfRblsq8D3u) | [Tae The Don](https://open.spotify.com/artist/5ZGmhUNmNDxC2YSPxl3MR5), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf) | [Get Ratchet](https://open.spotify.com/album/2uzIUxdNx19ABCbkNedcNp) | 2:21 |
 | 45 | [FYT \(Fuckin you tonight\)](https://open.spotify.com/track/0tDpmDKQVeoFtXb15iR0sM) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [FYT \(Fuckin you tonight\)](https://open.spotify.com/album/3s4MhPooDDud14FpO4zRR6) | 4:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4d2pdS.md) - [plain]
 | 49 | [Girl friend](https://open.spotify.com/track/4JX2QWZkfaevdrY62MQb04) | [Papa Jay](https://open.spotify.com/artist/18Q9sSUKyTM1CxVBn1s2Wg), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [It's Papa](https://open.spotify.com/album/53wK6OWLvlkNwt7fYOhX6i) | 3:30 |
 | 50 | [A Letter To You](https://open.spotify.com/track/0W512ZGCgkNqHW7ETE2YV7) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [My Time \(Gangsta Grillz: Special Edition\)](https://open.spotify.com/album/7fN9TVZE3JJFV7QqyVisnh) | 2:43 |
 
-Snapshot ID: `asbdAAAAAADoISthM/A7gP2i7Nl9VMmj`
+Snapshot ID: `asgugAAAAABk+qb/D2TkMMkE03s2Lp9j`

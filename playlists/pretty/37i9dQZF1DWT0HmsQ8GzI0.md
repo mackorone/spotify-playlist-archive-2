@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0HmsQ8GzI0.md) - [plain]
 
 > Zenék, amik félreugranak a műfaji határok elől\. Cover: Дeva
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,040 likes - 80 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,046 likes - 80 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,12 +62,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0HmsQ8GzI0.md) - [plain]
 | 52 | [Én vagyok az aki nem jó](https://open.spotify.com/track/01P21N3rbuulKkskjgDXCI) | [Csinszka](https://open.spotify.com/artist/5Tnw6MRgzvpCp6iH0YHKJ6) | [TRANSFORMANIA](https://open.spotify.com/album/43q2bqCPhvFRjIC6p64VtO) | 3:51 |
 | 53 | [Vadnyugati](https://open.spotify.com/track/5oPCKEKVVbcu7WwvLr5Lrn) | [Fiúk](https://open.spotify.com/artist/18sTF3DgwshbIZU9vdghG7), [Sisi](https://open.spotify.com/artist/6DM0KWyDnsqdKIfFvk6d8f) | [Vadnyugati](https://open.spotify.com/album/2HOkcyEGG8wrf8bGrLdj1O) | 3:22 |
 | 54 | [A szív vezet](https://open.spotify.com/track/4DYbJ4osRQVvzr5Stzq22q) | [Zaporozsec](https://open.spotify.com/artist/6sCNFSN1IvhWtxSEjPk4vP), [Blansch](https://open.spotify.com/artist/3ayr9hpwhjojhJ4wuqVQED) | [A szív vezet](https://open.spotify.com/album/5kVYf3Gm7wgk1F7Jjcm3Lm) | 2:46 |
-| 55 | [Sehovavaló](https://open.spotify.com/track/40H2mLXeC2gxJuQPzpyWhT) | [Molnár Tamás](https://open.spotify.com/artist/50ktSO1tNyaOAn7mC2lOWm), [Lábas Viki](https://open.spotify.com/artist/1FVZNAWNizA5FuYp5UvYOL) | [Sehovavaló](https://open.spotify.com/album/59MgYQgY8TPlQLIZ5UwZu4) | 2:54 |
+| 55 | [NEM NÉMÍTHATTOK EL](https://open.spotify.com/track/7hiLmgxXlxzfpOQlfqeBU0) | [Molnár Tamás](https://open.spotify.com/artist/50ktSO1tNyaOAn7mC2lOWm) | [NEM NÉMÍTHATTOK EL](https://open.spotify.com/album/2R1Psv1ZPyF3FggKde4rfp) | 2:33 |
 | 56 | [ÜDV A KLUBBAN](https://open.spotify.com/track/6lqGo3OzCYhPGIX4IRZYDT) | [Hűvös](https://open.spotify.com/artist/3xUvGJC2dqdwZ63D801tmA) | [IMÁGÓ](https://open.spotify.com/album/6a7Dw3UNp2o57zyLn2vFeQ) | 3:05 |
 | 57 | [ALL\-IN](https://open.spotify.com/track/2y4F6BLHSKnwfaML1PVWk0) | [Duckshell](https://open.spotify.com/artist/0UwipkMBTtmv6dORNlafC9), [Várkonyi Csibészek](https://open.spotify.com/artist/1RoqJqUGdtcjnKyGARoWF3) | [ALL\-IN](https://open.spotify.com/album/5OBtMgai6IIIudhnm0hGBz) | 3:38 |
 | 58 | [zúgj szél](https://open.spotify.com/track/0R1J9WiI9xyMppsuLJKRYU) | [30Y](https://open.spotify.com/artist/3uLh2gv7vN8sZ5rAPdCBE9) | [zúgj szél](https://open.spotify.com/album/053TgtTiFDCDCL9v3S3cDS) | 3:21 |
 | 59 | [Portugízer](https://open.spotify.com/track/0lnVWY8vppgZX8rfw3twUg) | [Aurevoir.](https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw) | [Portugízer](https://open.spotify.com/album/05V71VFk9C52HFiLSLt1Mx) | 4:02 |
-| 60 | [NEM NÉMÍTHATTOK EL](https://open.spotify.com/track/7hiLmgxXlxzfpOQlfqeBU0) | [Molnár Tamás](https://open.spotify.com/artist/50ktSO1tNyaOAn7mC2lOWm) | [NEM NÉMÍTHATTOK EL](https://open.spotify.com/album/2R1Psv1ZPyF3FggKde4rfp) | 2:33 |
+| 60 | [Sehovavaló](https://open.spotify.com/track/40H2mLXeC2gxJuQPzpyWhT) | [Molnár Tamás](https://open.spotify.com/artist/50ktSO1tNyaOAn7mC2lOWm), [Lábas Viki](https://open.spotify.com/artist/1FVZNAWNizA5FuYp5UvYOL) | [Sehovavaló](https://open.spotify.com/album/59MgYQgY8TPlQLIZ5UwZu4) | 2:54 |
 | 61 | [ÉLEK ÉS VIRULOK](https://open.spotify.com/track/7EknOyrrRIVBQNWrwOkuSl) | [Hűvös](https://open.spotify.com/artist/3xUvGJC2dqdwZ63D801tmA), [Bíró Bence](https://open.spotify.com/artist/7wZnYDn8PGMZ8A0ziYrSmz) | [ÉLEK ÉS VIRULOK](https://open.spotify.com/album/0PuEl5Tdjlt0bF4vFdzUaT) | 2:56 |
 | 62 | [Blicc](https://open.spotify.com/track/2lXERDGIK7xnA6klLbMFy6) | [Duckshell](https://open.spotify.com/artist/0UwipkMBTtmv6dORNlafC9) | [Blicc](https://open.spotify.com/album/6XjzZGNmJh7cAfrxI5WiKS) | 3:48 |
 | 63 | [KICSIKE FÉNY](https://open.spotify.com/track/0zSJD8hIVRARlAXr6zLnWb) | [HIPERKARMA](https://open.spotify.com/artist/3I4YFS0OzOA9yDOu0hcGqs) | [SZÓLNI KELL](https://open.spotify.com/album/47JjFF1Xmb9vnGFSLbTV1l) | 3:43 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0HmsQ8GzI0.md) - [plain]
 | 76 | [Groteszk](https://open.spotify.com/track/7DEz8GHB8LxhYNgamY9zXa) | [Indigo](https://open.spotify.com/artist/7JpalwREu08h1nkdkmh2ZA), [Blaize](https://open.spotify.com/artist/2yc8L4CBEwRcc5hwxcRAzD), [OB](https://open.spotify.com/artist/04DZtaXcurMKKFIdV4FNvt) | [Nárcisz](https://open.spotify.com/album/2Ds2rjH6PrfQ5c6VTqUqLK) | 2:59 |
 | 77 | [Utcasarki fény](https://open.spotify.com/track/4hXUyPaRvIleZ0kyxfFw8R) | [Artūr Rambo](https://open.spotify.com/artist/6ojhS7hjck7Lztk5mHagHe) | [Utcasarki fény](https://open.spotify.com/album/1V3e1jy9kToUikxhzK7Ges) | 3:10 |
 | 78 | [közöny](https://open.spotify.com/track/4eMZw6XRSLEXrVWLmXCgyq) | [girlhood](https://open.spotify.com/artist/3fNcMexoD7MGbJ2rzqpk6U) | [csendháborítás?!](https://open.spotify.com/album/1xjOE1GQmQQzq0OCae1XMl) | 2:59 |
-| 79 | [Gyönyörű nők](https://open.spotify.com/track/5KBuiDH1fBxhtgtAGiLZWg) | [Fiúk](https://open.spotify.com/artist/18sTF3DgwshbIZU9vdghG7) | [Gyönyörű nők](https://open.spotify.com/album/1GZ0heATALaS0vJGTUqt6Y) | 3:38 |
-| 80 | [Magam sem tudom](https://open.spotify.com/track/22xCahAMd6iR2r7AsVqnvk) | [Bohemian Betyars](https://open.spotify.com/artist/2ezYPSKWBfnFTobN9puCow) | [Magam sem tudom](https://open.spotify.com/album/6k6hfT293PG9NduWzLC55r) | 3:10 |
+| 79 | [Magam sem tudom](https://open.spotify.com/track/22xCahAMd6iR2r7AsVqnvk) | [Bohemian Betyars](https://open.spotify.com/artist/2ezYPSKWBfnFTobN9puCow) | [Magam sem tudom](https://open.spotify.com/album/6k6hfT293PG9NduWzLC55r) | 3:10 |
+| 80 | [Gyönyörű nők](https://open.spotify.com/track/5KBuiDH1fBxhtgtAGiLZWg) | [Fiúk](https://open.spotify.com/artist/18sTF3DgwshbIZU9vdghG7) | [Gyönyörű nők](https://open.spotify.com/album/1GZ0heATALaS0vJGTUqt6Y) | 3:38 |
 
 Snapshot ID: `AAAAAEqbEYnhZl2vc/Ou+yx0rfgtyBPb`
