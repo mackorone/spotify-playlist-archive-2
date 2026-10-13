@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,868 songs - 11 day 0 hr 1 min
+4,873 songs - 11 day 0 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Agujas](https://open.spotify.com/track/4E4xgatRQurGBlsXaKfp1z) | [Anedonia](https://open.spotify.com/artist/0Aqh4GZUYMq4i6UH7ptaBP) | [Catarsis](https://open.spotify.com/album/2kswk3FL9QXty9kwJZdadg) | 3:45 | 2025-10-16 |  |
 | [Ahora puedo mirarte oh Dios](https://open.spotify.com/track/3Knv0521JrAhkZQyhoePu2) | [A su voz creadora](https://open.spotify.com/artist/1hN5zcgDGT6IVPoskkglvl) | [Ahora puedo mirarte oh Dios](https://open.spotify.com/album/1WcRZBAB7IXHVjwXxwIrrS) | 5:04 | 2026-01-04 |  |
 | [AI](https://open.spotify.com/track/7ebhBmUFfZHEUwcW8vRADG) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [404 Love Not Found](https://open.spotify.com/album/6W1kWmXKLg6sKQPvzfjfLK) | 3:54 | 2025-08-28 |  |
+| [Ain't no prophet](https://open.spotify.com/track/6ZE56Hi2jI8QcsAqZbxoCY) | [Uphoria](https://open.spotify.com/artist/4VV955PUWxiXGLACeAVve1) | [Ain't no prophet](https://open.spotify.com/album/63UKewywVeEyOuHS6bKTuH) | 5:01 | 2026-10-12 |  |
 | [Air](https://open.spotify.com/track/37JKoDkSY448tzmQq8SZwX) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Music for peace](https://open.spotify.com/album/7iiVG6H66iXwiG3rT0qZLD) | 3:18 | 2025-09-17 |  |
 | [Air](https://open.spotify.com/track/4UXAz6ubt5i9TRd7681xmL) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Pop swing style](https://open.spotify.com/album/7JA7rjWIXI24vmR6WfEMUE) | 3:19 | 2025-09-17 |  |
 | [Air \(another\)](https://open.spotify.com/track/6ummRkRHNYtYHGxjWXKmja) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Pop swing style](https://open.spotify.com/album/7JA7rjWIXI24vmR6WfEMUE) | 3:23 | 2025-09-17 |  |
@@ -378,6 +379,7 @@
 | [Bank Teller.](https://open.spotify.com/track/7lWIwOOialndshBkc13sTm) | [HOZATHEBOSS](https://open.spotify.com/artist/5qlQBBPsnIsx0UxLSVotFj) | [Bank Teller.](https://open.spotify.com/album/2IRFHEUeU5WSQesKUSAIDl) | 2:09 | 2025-07-24 |  |
 | [Banshee](https://open.spotify.com/track/2NfuInPKrFxgWOZQwh3o1p) | [Wolves of Totem](https://open.spotify.com/artist/1YPgVxpuJHs9FVRejxxKV4) | [Dance of the Dead](https://open.spotify.com/album/7nJFwiZnbSFdxXQ8ZjFeDW) | 4:08 | 2025-05-27 |  |
 | [BARBIE PHANTOM](https://open.spotify.com/track/1F1FyXzfq3M5MuVErMv8ja) | [Rico Ivy](https://open.spotify.com/artist/6NvErZ0GMC0Yh0Jem3DpCH) | [BARBIE PHANTOM](https://open.spotify.com/album/37RjQSoBpkoNq7VPq827H1) | 1:58 | 2025-04-26 |  |
+| [Basement Series](https://open.spotify.com/track/3wMPh1kYr8Jx6sCuro6B8R) | [Zeike](https://open.spotify.com/artist/6QgyxO2UBQAFRkUOwneJ7S) | [Not Too Sweet](https://open.spotify.com/album/3m9DNbsESe790WBdY7ybnC) | 2:24 | 2026-10-12 |  |
 | [BE](https://open.spotify.com/track/0cBO012DLhQJA4hZ6NKhcK) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [404 Love Not Found](https://open.spotify.com/album/6W1kWmXKLg6sKQPvzfjfLK) | 3:18 | 2025-08-28 |  |
 | [Be Like You](https://open.spotify.com/track/3NhHeLPXVTeOmWt09w8dUK) | [Routi](https://open.spotify.com/artist/0B3uouY3r7w7uJLIcORpIX) | [Sunrise EP](https://open.spotify.com/album/7JDicUKhX8bbuQxM0xxW2J) | 3:04 | 2025-10-07 |  |
 | [Be Nice 2 Me](https://open.spotify.com/track/2TmqHjg7uhizGndzXQdFuf) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Icedancer](https://open.spotify.com/album/0cT1SQDE7wSh1eUJkGFXse) | 2:07 | 2025-07-28 |  |
@@ -865,6 +867,7 @@
 | [CROCEVIA](https://open.spotify.com/track/2A9VIY7bgdG8A7nor3w9Ae) | [EDY](https://open.spotify.com/artist/7j8SjESINTw9J7TkSUQ9cV) | [CROCEVIA](https://open.spotify.com/album/6khi0zbmXz59UOzVgczZYv) | 2:24 | 2026-01-20 |  |
 | [Cromoterapia](https://open.spotify.com/track/2FcD7aXAebYhBQwok93LTo) | [Ipostatomici](https://open.spotify.com/artist/1qtIbNG68SDTZfos1q4ACi) | [Cromoterapia](https://open.spotify.com/album/3cmuDeVogBxVsTfbj48jF7) | 3:02 | 2026-02-13 |  |
 | [Cross](https://open.spotify.com/track/4dNxRlFdR7Zev6JuIjuhpX) | [Springworks](https://open.spotify.com/artist/351ok85APWNYv1RcU0UMcn) | [Cross](https://open.spotify.com/album/1uUnqmcPIxByy7uFJIdRdX) | 3:13 | 2025-12-04 |  |
+| [crossroads](https://open.spotify.com/track/65P5pZNXqVElz1owJKiE1S) | [Ario Nanaj](https://open.spotify.com/artist/3oxKAakkUQ02MoRb5Z6qrq) | [Echos from the mountains](https://open.spotify.com/album/7IrOHvz02TtBycSBIUg0E7) | 3:30 | 2026-10-12 |  |
 | [Crossroads](https://open.spotify.com/track/1cmzIPAC51yUa8jYqddqiE) | [Ario Nanaj](https://open.spotify.com/artist/3oxKAakkUQ02MoRb5Z6qrq) | [Crossroads](https://open.spotify.com/album/1BWa9mUEDaKcn1SCtE1Amc) | 3:30 | 2026-05-26 |  |
 | [Crowd all Night](https://open.spotify.com/track/0dlnrqBXCtLgtt6RmI13QR) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Super Super](https://open.spotify.com/album/6nCFTmz29k90pleVZVW3sW) | 3:08 | 2025-09-19 |  |
 | [Crowd all Night \(another\)](https://open.spotify.com/track/4mIqAlaRbkrbkThEk2XoNE) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Super Super](https://open.spotify.com/album/6nCFTmz29k90pleVZVW3sW) | 2:54 | 2025-09-19 |  |
@@ -1519,7 +1522,7 @@
 | [Fading Trace](https://open.spotify.com/track/6VRtRhIuagAfxY6tXIjWMe) | [WIARANETY](https://open.spotify.com/artist/2kwehltxPs2mt5vFreVDxL) | [Fading Trace](https://open.spotify.com/album/0L1E65Cgz1nwbjD3XOe47v) | 2:45 | 2026-08-26 |  |
 | [Faith and Loss](https://open.spotify.com/track/3zlB7vUQsAE28KJDcg8Hk1) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [Faith and Loss](https://open.spotify.com/album/0WlDmKxKEDZsXMEOrpsNfm) | 3:25 | 2025-05-31 |  |
 | [Fake](https://open.spotify.com/track/0MBYfuf0BxZH1FJf6jHTus) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [TRUE POWER](https://open.spotify.com/album/6SjY4WK6VMFYEINGVOHzGa) | 2:51 | 2025-04-09 |  |
-| [Fall](https://open.spotify.com/track/11IWTXz2DUUSJWC91x10gu) | [TailoredToTale](https://open.spotify.com/artist/1KqRWLbTL5nyi9WzxSl4cv) | [Fall](https://open.spotify.com/album/1zo8HY4BC5EjTymCkJ1vD4) | 3:31 | 2025-09-15 |  |
+| [Fall](https://open.spotify.com/track/11IWTXz2DUUSJWC91x10gu) | [TailoredToTale](https://open.spotify.com/artist/1KqRWLbTL5nyi9WzxSl4cv) | [Fall](https://open.spotify.com/album/1zo8HY4BC5EjTymCkJ1vD4) | 3:31 | 2025-09-15 | 2026-10-13 |
 | [Fall In Luv](https://open.spotify.com/track/2U4FhFOMGWnmsHu6XjkvPm) | [Oxdead](https://open.spotify.com/artist/5d7wjK3C2HChu5FT0UwtTv) | [Fall In Luv](https://open.spotify.com/album/09RmMKiCxWXacewYilGFnu) | 1:37 | 2026-01-17 |  |
 | [Fallen](https://open.spotify.com/track/7rL3uju1dGb33Un6IqK3mO) | [Riptide River](https://open.spotify.com/artist/34jMmxTuTBIR5DnbUE9AkX) | [Fallen](https://open.spotify.com/album/7JsR93BfyOTZZWplglV6Qk) | 3:53 | 2025-09-26 |  |
 | [Fallen Angels \#Music \#NewMusic \#Viral](https://open.spotify.com/track/7IPuaVKx36f7KBHZvJDgN0) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Absinthe Nights \#Music \#NewMusic \#Viral](https://open.spotify.com/album/4OEm70Vv5QIeDRUKSrKx1m) | 2:33 | 2025-09-15 |  |
@@ -4205,6 +4208,7 @@
 | [The J\-curve](https://open.spotify.com/track/6DxAV7dvKUKMHONC3V4TTt) | [Jay's Expedition](https://open.spotify.com/artist/0E2u7IhwC4nHDtw6oG29jW) | [The J\-curve](https://open.spotify.com/album/1FUIqQy7lviyKPFEfesG9X) | 3:24 | 2025-01-22 |  |
 | [The Labyrinth in My Mind](https://open.spotify.com/track/0MC3fHpR5cFBVoM9YdzECx) | [ian3celia](https://open.spotify.com/artist/30022KpFyikBjT2dvQ1dHU) | [From dolmen to stonehenge](https://open.spotify.com/album/2DWREFYzrdkMdMLHtmeSpf) | 3:04 | 2026-02-01 |  |
 | [The Last Night](https://open.spotify.com/track/2rYjXQKCHoLGJvEht2G3WI) | [Katzen Dj](https://open.spotify.com/artist/16xe0CbKc4sQj6FMAUEWe0) | [The Last Night](https://open.spotify.com/album/1wu4OJmotIMK41tytsqYjt) | 2:07 | 2025-07-30 |  |
+| [The Loop](https://open.spotify.com/track/1w61IX7YfpXAqDIAxZDcVF) | [Chuck Charles](https://open.spotify.com/artist/7nKrg3b8hWbGjW5AZcGWVI) | [The Loop](https://open.spotify.com/album/0Zvp9OI247cWcdcOr3zau1) | 3:30 | 2026-10-12 |  |
 | [The Loudest Cry](https://open.spotify.com/track/5kAO7qQNE2B4VqXqMGoxFC) | [Fabian Engelhardt Suno AI Music](https://open.spotify.com/artist/4QraHGMu9reMvbQFUzpi7T), [Suno AI Music](https://open.spotify.com/artist/08QF0s09VdFPjKDTYaJviE) | [Between Moments & People](https://open.spotify.com/album/4nuNxooAoPlY1P9AsQ6M7D) | 3:42 | 2026-10-04 |  |
 | [The Machine](https://open.spotify.com/track/3MC6OOjEQtYqvWSjbwJS51) | [Andrea Pizzo](https://open.spotify.com/artist/7EVlN5lRqIfrLnVRoCEu9Q), [Roberto Tiranti](https://open.spotify.com/artist/2BJtWP99RwRDDvAvZxxBkS) | [The Machine](https://open.spotify.com/album/33W5jxMfOpoU5wVnabJc88) | 4:20 | 2025-06-24 |  |
 | [The Man From The Future](https://open.spotify.com/track/7p65nQleos3WPKv8QDz874) | [Bad Profile](https://open.spotify.com/artist/5c43PH7EfMfeClZuUTqWIr) | [The Man From The Future](https://open.spotify.com/album/6dLHgNSzzSW09uzLRouSyh) | 4:51 | 2026-09-25 |  |
@@ -4779,6 +4783,7 @@
 | [Wounded](https://open.spotify.com/track/7eGXImTeH1h1mgDVV833yK) | [Ash](https://open.spotify.com/artist/1oNJRkVDb7UEvRpPp4rNff) | [Wounded](https://open.spotify.com/album/0tKcSl23jpR4cj4udUsrBv) | 2:16 | 2026-02-20 |  |
 | [Wrath of the Steel](https://open.spotify.com/track/6tHz63onbanTeazLYBzk2Y) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Eighties style heavy metal](https://open.spotify.com/album/6j2jeJa6FmNMtXyWgjpfDN) | 3:34 | 2025-09-17 |  |
 | [Wrath of the Void](https://open.spotify.com/track/5WO8sLwPuYJ5Qx0pOzZiZ4) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Eighties style heavy metal](https://open.spotify.com/album/6j2jeJa6FmNMtXyWgjpfDN) | 4:28 | 2025-09-17 |  |
+| [X Plata](https://open.spotify.com/track/2hsmD1g0NlRY6Q6zVkfeUQ) | [Mala Fama G](https://open.spotify.com/artist/6CmxGetOUMaZvdL2QQeLRY), [Tre60 "The Rookie"](https://open.spotify.com/artist/5xwdvA3lc7Q00PMrqLIjV6) | [X Plata](https://open.spotify.com/album/2PaGccDLVJ1ZF3Vq7VWljk) | 2:10 | 2026-10-12 |  |
 | [XanMan](https://open.spotify.com/track/2JAa6n5fsEVSQub0mYmUZy) | [Oxdead](https://open.spotify.com/artist/5d7wjK3C2HChu5FT0UwtTv) | [XanMan](https://open.spotify.com/album/6qzidS9awVafvZeKvE8TOl) | 1:39 | 2025-10-14 |  |
 | [Xave Xx](https://open.spotify.com/track/7aAAn7Mb7LqoEjinrv2P36) | [Xavage](https://open.spotify.com/artist/7xaYswPqUJcpT1wx9IGidt) | [Sexual Healing](https://open.spotify.com/album/1XSK5jL1NQE0etoxlcMTPh) | 2:39 | 2025-06-23 |  |
 | [Xmas Night](https://open.spotify.com/track/3hcvIxj5uXSLanmejQU1Ue) | [CORPORATION 89](https://open.spotify.com/artist/3mIIbHBmhpLhasfYyyYNM7) | [Xmas Night](https://open.spotify.com/album/3u7JgQdGH18YK1wWsSf0sW) | 2:25 | 2025-06-05 |  |

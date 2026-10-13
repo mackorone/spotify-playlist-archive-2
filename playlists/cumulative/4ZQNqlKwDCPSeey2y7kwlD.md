@@ -4,7 +4,7 @@
 
 > Start your morning with a mix of new and classic hits to keep you singing all day long! New songs from Olivia Rodrigo, Ariana Grande, and Sofia Camara.
 
-521 songs - 1 day 4 hr 32 min
+523 songs - 1 day 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Caught Me At A Good Time](https://open.spotify.com/track/2fRP7yg4VYwyIHKDXLRj9W) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [Caught Me At A Good Time](https://open.spotify.com/album/12Kz7CkGnf5zKNI7VtNFAj) | 2:42 | 2025-03-09 | 2025-04-27 |
 | [Cause I Do](https://open.spotify.com/track/00iDHVhXnvigmwfNJXyHq7) | [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5) | [Cause I Do](https://open.spotify.com/album/11Kn3hXn8f5QX4Cm8mSGhH) | 2:39 | 2026-03-01 |  |
 | [Centerfold](https://open.spotify.com/track/1DZExFaytfOj1iFJW6XbvT) | [Andye](https://open.spotify.com/artist/45WqSW6mVJQNJuqF1nIKqj) | [Centerfold](https://open.spotify.com/album/1tXMKm3r18f0712G4sQKFK) | 3:08 | 2026-06-19 | 2026-08-04 |
+| [Champagne](https://open.spotify.com/track/0Rxs96nQeboThWCNzP4H0c) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Mud](https://open.spotify.com/album/19cvoEE5d3pMkxLFL5TsAG) | 3:30 | 2026-10-13 |  |
 | [Chanel](https://open.spotify.com/track/4M2wpBspHtN6DVkSsEM1Fk) | [TyriqueOrDie](https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE) | [Chanel](https://open.spotify.com/album/2aDRBThYdeLPU8G5phnteD) | 2:35 | 2026-05-29 | 2026-07-04 |
 | [Chemical](https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA) | 3:04 | 2023-12-01 | 2024-09-22 |
 | [Chemistry](https://open.spotify.com/track/0VySCkMP67vSTy9IrzbvHE) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Chemistry](https://open.spotify.com/album/5L6B0gqE9CCOWwq783IaNZ) | 4:44 | 2025-03-03 | 2025-03-23 |
@@ -404,7 +405,7 @@
 | [Somebody I Know](https://open.spotify.com/track/6T9BLDu6WMTplsum4NfoXv) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [Somebody I Know](https://open.spotify.com/album/2u0tcHfJFHaxudbFcuz23e) | 3:00 | 2025-06-08 | 2026-04-11 |
 | [Somebody Save Me](https://open.spotify.com/track/4HMUrFl8y6rQCzEbaGEkcj) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [The Death of Slim Shady \(Coup De Grâce\)](https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6) | 3:50 | 2024-07-21 | 2025-03-04 |
 | [Someday](https://open.spotify.com/track/5ebQ6S9f8GQjHh9JWztA0F) | [Rohin](https://open.spotify.com/artist/0pUsChzvXQKeICRYbmlqWs) | [Someday](https://open.spotify.com/album/3gob1qFZmkkilR7wYIPKC1) | 3:50 | 2025-06-30 | 2025-08-03 |
-| [Someday](https://open.spotify.com/track/2YLfKobtt9zkdox9E1JqVE) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Someday](https://open.spotify.com/album/0CIDdMVYigHQVYDXVYb9JR) | 3:41 | 2026-08-04 |  |
+| [Someday](https://open.spotify.com/track/2YLfKobtt9zkdox9E1JqVE) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Someday](https://open.spotify.com/album/0CIDdMVYigHQVYDXVYb9JR) | 3:41 | 2026-08-04 | 2026-10-13 |
 | [Somewhere Between](https://open.spotify.com/track/11N3xwyjdDK8WAWnkvYZO2) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Somewhere Between](https://open.spotify.com/album/4qXo28L1OSKzJIckZk1oej) | 3:40 | 2024-03-01 | 2024-03-18 |
 | [Standing Next to You \(USHER Remix\)](https://open.spotify.com/track/0VPFT123HKoQ2J6ipeDcI1) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Standing Next to You \(USHER Remix\)](https://open.spotify.com/album/3bKfV6NFUOd6KMCkDJyEbh) | 3:34 | 2023-12-01 | 2024-05-06 |
 | [Starlight](https://open.spotify.com/track/4PIMqo5UuquO6Ygq0YWluB) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Starlight](https://open.spotify.com/album/4NCi5xTV4dpRZktV3BeEaK) | 3:49 | 2024-10-14 | 2025-06-02 |
@@ -472,6 +473,7 @@
 | [Try Me](https://open.spotify.com/track/6IDx8fFhFIEU7xT3GBvbMf) | [Mae Martin](https://open.spotify.com/artist/4etFFWEsaFOkYCmPKHgVxn) | [I'm A TV](https://open.spotify.com/album/05BuE3SIGlbsHhGN1rBstS) | 2:50 | 2025-03-03 | 2025-06-30 |
 | [twilight zone](https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead](https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn) | 3:18 | 2025-04-04 | 2025-06-09 |
 | [UH OH!](https://open.spotify.com/track/0qFJaAtOXhT94nwgRxPVpI) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [UH OH!](https://open.spotify.com/album/3szo1Pgvq1SIJccaADZuSQ) | 2:23 | 2025-09-13 | 2026-10-04 |
+| [Unlike You](https://open.spotify.com/track/6e9Cu6KNAimXTlhuDNAWc7) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Still Somewhere Here](https://open.spotify.com/album/1109HrTid5HIXWEFPHKpAh) | 3:54 | 2026-10-13 |  |
 | [unloving you](https://open.spotify.com/track/6lAjTAvUTMcfSzlAypLcWd) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [unloving you](https://open.spotify.com/album/769BuaELVS37ol4D7zD5cl) | 3:23 | 2025-05-17 | 2025-07-14 |
 | [Until I Found You \(with Em Beihold\) \- Em Beihold Version](https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Until I Found You \(Em Beihold Version\)](https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs) | 2:56 | 2023-12-01 | 2025-03-23 |
 | [Up All Night \(with The Lumineers & Noah Kahan\)](https://open.spotify.com/track/4fZ07aBMo69QTEKo4OC4Dz) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD), [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Up All Night](https://open.spotify.com/album/1HHb15TOhnSn5m8UDheP3s) | 3:23 | 2024-07-21 | 2024-10-28 |

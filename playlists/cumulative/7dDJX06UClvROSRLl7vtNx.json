@@ -20507,6 +20507,28 @@
     },
     {
       "album": {
+        "name": "Nevada",
+        "url": "https://open.spotify.com/album/5n2nGH2W1O5XvEpC44apJU"
+      },
+      "artists": [
+        {
+          "name": "VIS",
+          "url": "https://open.spotify.com/artist/1Ntxpk3QGrN1J5eEOl4Ygg"
+        },
+        {
+          "name": "Deep Mage",
+          "url": "https://open.spotify.com/artist/0MR7IMVJ0cdWJBivbwRr4A"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159346,
+      "name": "Nevada",
+      "url": "https://open.spotify.com/track/69AT9CSvIfnky1KoKU9qL3"
+    },
+    {
+      "album": {
         "name": "Never Enough",
         "url": "https://open.spotify.com/album/4cH4VMzQkEbIHTXgy8HknL"
       },

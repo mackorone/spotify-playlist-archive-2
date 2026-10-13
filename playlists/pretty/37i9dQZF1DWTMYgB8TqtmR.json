@@ -1,29 +1,13 @@
 {
   "description": "Hot Hits \u2013 st\u00f6rsta och b\u00e4sta hitsen just nu!",
-  "num_followers": 841845,
+  "num_followers": 841772,
   "original_name": "Hot Hits Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADZLSvPmaSbglvZSjoaQypcGaV40",
+  "snapshot_id": "AAAAAM72yOI/hohwLyCBHB0M/qxQU6Xd",
   "tracks": [
-    {
-      "added_at": "2026-10-08 22:00:32",
-      "album": {
-        "name": "The Life of a Showgirl: The Encore",
-        "url": "https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 225868,
-      "name": "Patient Zero",
-      "url": "https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub"
-    },
     {
       "added_at": "2026-10-08 22:00:32",
       "album": {
@@ -43,6 +27,22 @@
       "duration_ms": 173386,
       "name": "STORM II",
       "url": "https://open.spotify.com/track/4ipD5CMmWkehabGlAGTOBB"
+    },
+    {
+      "added_at": "2026-10-08 22:00:32",
+      "album": {
+        "name": "The Life of a Showgirl: The Encore",
+        "url": "https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 225868,
+      "name": "Patient Zero",
+      "url": "https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub"
     },
     {
       "added_at": "2026-10-08 22:00:32",
@@ -67,22 +67,6 @@
     {
       "added_at": "2026-10-08 22:00:32",
       "album": {
-        "name": "waste my time",
-        "url": "https://open.spotify.com/album/5ePyXmFNZNEmKfzuFBCTtI"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        }
-      ],
-      "duration_ms": 212333,
-      "name": "waste my time",
-      "url": "https://open.spotify.com/track/2xSllS4AsXs2AjbKhtQuFy"
-    },
-    {
-      "added_at": "2026-10-08 22:00:32",
-      "album": {
         "name": "Vem du \u00e4n \u00e4r",
         "url": "https://open.spotify.com/album/5ErLUOWuqlTFRPMeYx9FCF"
       },
@@ -99,18 +83,18 @@
     {
       "added_at": "2026-10-08 22:00:32",
       "album": {
-        "name": "PRIMA",
-        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
+        "name": "Veteraner",
+        "url": "https://open.spotify.com/album/30p7eIg2ZUEsa02NqX7yZm"
       },
       "artists": [
         {
-          "name": "AD\u00c9LA",
-          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+          "name": "Bolaget",
+          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
         }
       ],
-      "duration_ms": 181270,
-      "name": "Nicole Kidman",
-      "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
+      "duration_ms": 272470,
+      "name": "Veteraner",
+      "url": "https://open.spotify.com/track/4xfl1mBH3zF35Oe5Za10uc"
     },
     {
       "added_at": "2026-10-08 22:00:32",
@@ -131,18 +115,18 @@
     {
       "added_at": "2026-10-08 22:00:32",
       "album": {
-        "name": "Highway to Heaven",
-        "url": "https://open.spotify.com/album/4WXSyC7wKpLZ49I8Io73Hr"
+        "name": "funny feeling",
+        "url": "https://open.spotify.com/album/0jDeDHlr4rJduEYTa2zKsI"
       },
       "artists": [
         {
-          "name": "Lovet",
-          "url": "https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK"
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
         }
       ],
-      "duration_ms": 186375,
-      "name": "Highway to Heaven",
-      "url": "https://open.spotify.com/track/4z1ex5e2r3hyY9Qd43afdm"
+      "duration_ms": 194306,
+      "name": "funny feeling",
+      "url": "https://open.spotify.com/track/4qvR1iPYj6XZKtJnpcSELd"
     },
     {
       "added_at": "2026-10-08 22:00:32",
@@ -163,18 +147,34 @@
     {
       "added_at": "2026-10-08 22:00:32",
       "album": {
-        "name": "Veteraner",
-        "url": "https://open.spotify.com/album/30p7eIg2ZUEsa02NqX7yZm"
+        "name": "Highway to Heaven",
+        "url": "https://open.spotify.com/album/4WXSyC7wKpLZ49I8Io73Hr"
       },
       "artists": [
         {
-          "name": "Bolaget",
-          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
+          "name": "Lovet",
+          "url": "https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK"
         }
       ],
-      "duration_ms": 272470,
-      "name": "Veteraner",
-      "url": "https://open.spotify.com/track/4xfl1mBH3zF35Oe5Za10uc"
+      "duration_ms": 186375,
+      "name": "Highway to Heaven",
+      "url": "https://open.spotify.com/track/4z1ex5e2r3hyY9Qd43afdm"
+    },
+    {
+      "added_at": "2026-10-08 22:00:32",
+      "album": {
+        "name": "PRIMA",
+        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "duration_ms": 181270,
+      "name": "Nicole Kidman",
+      "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
     },
     {
       "added_at": "2026-10-08 22:00:32",
@@ -211,8 +211,8 @@
     {
       "added_at": "2026-10-08 22:00:32",
       "album": {
-        "name": "funny feeling",
-        "url": "https://open.spotify.com/album/0jDeDHlr4rJduEYTa2zKsI"
+        "name": "waste my time",
+        "url": "https://open.spotify.com/album/5ePyXmFNZNEmKfzuFBCTtI"
       },
       "artists": [
         {
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
         }
       ],
-      "duration_ms": 194306,
-      "name": "funny feeling",
-      "url": "https://open.spotify.com/track/4qvR1iPYj6XZKtJnpcSELd"
+      "duration_ms": 212333,
+      "name": "waste my time",
+      "url": "https://open.spotify.com/track/2xSllS4AsXs2AjbKhtQuFy"
     },
     {
       "added_at": "2026-10-08 22:00:32",

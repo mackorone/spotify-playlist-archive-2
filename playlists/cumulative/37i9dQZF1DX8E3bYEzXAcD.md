@@ -4,7 +4,7 @@
 
 > "ik ben terug van weggeweest ze bleven me vragen waar was je"\. cover: Boufi
 
-83 songs - 3 hr 46 min
+84 songs - 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Amazing Girl](https://open.spotify.com/track/2mPnJGQZJ6WgqHd8m9Xqjb) | [HIGH SOCIETY](https://open.spotify.com/artist/4jKqyxQfzYrfO3MvccH7Ps), [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk), [Lostt](https://open.spotify.com/artist/2zvq4i4GGwZ6T5CmWcjJkk) | [Springplank 2](https://open.spotify.com/album/5RBDnynhE6JzqTX7crUAXd) | 2:33 | 2026-07-07 | 2026-09-08 |
 | [Aventador](https://open.spotify.com/track/1q3TMJUpWHLOx15fIArZfv) | [Clep N Flyy](https://open.spotify.com/artist/5jX0t5N4lu8OfUFQDQURNq) | [Aventador](https://open.spotify.com/album/3OGAYjnJmDBvrvnHtQpFb2) | 2:00 | 2026-03-03 | 2026-07-08 |
 | [Blacka Man Waggie \(feat\. Rz\)](https://open.spotify.com/track/5tuNTGCLsYQp0z663yPaeQ) | [DSAAF](https://open.spotify.com/artist/79Wzu3NpW82H9rHbw4Gvlf), [Rz](https://open.spotify.com/artist/0Uicf2CoBVxIQZxFXuXlO8) | [Blacka Man Waggie \(feat\. Rz\)](https://open.spotify.com/album/5zFJS7OeaLfsw8Vrj08gkH) | 2:22 | 2026-03-03 |  |
+| [Borst Vooruit](https://open.spotify.com/track/2QfJkHE1sxt5q4XYsLhwsx) | [Casperr](https://open.spotify.com/artist/1EzhBak6CiANVqE0lLeRwr) | [Borst Vooruit](https://open.spotify.com/album/7j0DFfHUKdtkiDk3hgFjmb) | 1:51 | 2026-10-12 |  |
 | [Brassen](https://open.spotify.com/track/72yHK7rmosQlWOcrhJ27w9) | [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk) | [Ereronde \(Deluxe\)](https://open.spotify.com/album/4EnUKKxdXG5fcAYee26gta) | 2:23 | 2026-07-07 |  |
 | [Brick By Brick](https://open.spotify.com/track/20hJR3U7Ar0WE7vQrl3iWp) | [Karma K](https://open.spotify.com/artist/0ua6wTu1hZ9yCFbxwPRXII) | [Brick By Brick](https://open.spotify.com/album/0X30EwgT0OaGGBTPJgYYGy) | 3:19 | 2026-02-26 | 2026-06-18 |
 | [Bump & Cruise](https://open.spotify.com/track/0hjR8cYla9P40bzNSIPPx5) | [Lostt](https://open.spotify.com/artist/2zvq4i4GGwZ6T5CmWcjJkk) | [Verloren in Passie](https://open.spotify.com/album/4exmmTyyqd1udQyjfJP5Bl) | 2:29 | 2026-07-07 | 2026-09-08 |
@@ -37,7 +38,7 @@
 | [Ff Lekker Zo](https://open.spotify.com/track/2t4XyM7mNb6kRHBo512bEA) | [BNT](https://open.spotify.com/artist/6xATWp0X67aEsjPM8GT7DR), [Boufi](https://open.spotify.com/artist/2MdgZ3w54OVxWs8C0wdBFK), [Touns](https://open.spotify.com/artist/5g6vdHeiEkI38WAP92XvEj), [Safouu](https://open.spotify.com/artist/4FdxQSa75EB8AypcyHlyBy), [Tramo](https://open.spotify.com/artist/6iScCoy2D7zw7MLWNZETTb), [Curved](https://open.spotify.com/artist/3VYrPMiZNKklGWvhpcyojr) | [BNT Vol\. 1](https://open.spotify.com/album/2hRFLumetrIxEE4py3GnJE) | 2:22 | 2026-09-11 |  |
 | [Gabos](https://open.spotify.com/track/68eEgyThiurm8AOBis4lVh) | [JoeyAK](https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0) | [Gabos](https://open.spotify.com/album/3ubUjgaZWw5YCdxdv4GHqW) | 3:05 | 2025-06-27 |  |
 | [Geen Cartoon](https://open.spotify.com/track/6ljxMRrulo8H4HUAWW4RCs) | [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o), [YassineBeats](https://open.spotify.com/artist/1sBuaNJSSSQgG1cseKY7Hk) | [Geen Cartoon](https://open.spotify.com/album/0dQMeQyC3abWHKdCsekI3C) | 2:35 | 2025-06-27 | 2025-09-26 |
-| [GEKKE GUNZ](https://open.spotify.com/track/5BDr1iWvhH8b4oE192HMpT) | [ILLIE](https://open.spotify.com/artist/04fDz5ShbYBrGXsujOoVT5), [Marone](https://open.spotify.com/artist/6BWzlvYNWf5v6W0aoE08x4) | [ILLIEGALITEIT](https://open.spotify.com/album/3i3Tfr42wK3GZ3x8A8AeKF) | 2:29 | 2025-06-27 |  |
+| [GEKKE GUNZ](https://open.spotify.com/track/5BDr1iWvhH8b4oE192HMpT) | [ILLIE](https://open.spotify.com/artist/04fDz5ShbYBrGXsujOoVT5), [Marone](https://open.spotify.com/artist/6BWzlvYNWf5v6W0aoE08x4) | [ILLIEGALITEIT](https://open.spotify.com/album/3i3Tfr42wK3GZ3x8A8AeKF) | 2:29 | 2025-06-27 | 2026-10-13 |
 | [Generator](https://open.spotify.com/track/2Fs93DHTCcNspJIJoYZtHD) | [HIGH SOCIETY](https://open.spotify.com/artist/4jKqyxQfzYrfO3MvccH7Ps), [NOBODYPANICC](https://open.spotify.com/artist/4JIZ3k1lKVbM61RPGN6QTg), [Lostt](https://open.spotify.com/artist/2zvq4i4GGwZ6T5CmWcjJkk) | [Springplank 2 \(Deluxe\)](https://open.spotify.com/album/2H3WpgJ9cxgjMcVSwAJTlL) | 2:33 | 2026-07-07 | 2026-09-08 |
 | [Gerechtigheid](https://open.spotify.com/track/1IswIiRshxMSGMWGEdsOuw) | [JayKoppig](https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp) | [Gerechtigheid](https://open.spotify.com/album/3FZgUvklx7yGLJO4GfPtBs) | 3:26 | 2025-06-27 |  |
 | [Grimmig](https://open.spotify.com/track/7mHHDz5Z4HJ3Vusz20ndns) | [Ella](https://open.spotify.com/artist/2LQwOII1L3oQrjWHaNgeWd) | [Grimmig](https://open.spotify.com/album/0pnHayMlrea3RqrkY0h0ay) | 2:08 | 2026-03-12 |  |

@@ -1,13 +1,97 @@
 {
   "description": "<a href=\"spotify:artist:6wMr4zKPrrR0UVz08WtUWc\">Black Coffee</a>'s favorite tracks. Updated regularly. Curated by Black Coffee. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 235360,
+  "num_followers": 235418,
   "original_name": "Black Coffee's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJrZzFo3VzSw7fNW+CS4KrUuFzj0",
+  "snapshot_id": "AAAAAPQzn+y6yCalRwtB5jfGhELLyRxD",
   "tracks": [
+    {
+      "added_at": "2026-10-12 10:31:46",
+      "album": {
+        "name": "Holdin' on EP",
+        "url": "https://open.spotify.com/album/0BauG227PB8D9uBuYmJRrh"
+      },
+      "artists": [
+        {
+          "name": "Ede",
+          "url": "https://open.spotify.com/artist/7mxkWNWc7ceydKrZmVQmKK"
+        },
+        {
+          "name": "JAMIIE",
+          "url": "https://open.spotify.com/artist/3tDYYvrKv7Duw3ismQGnHF"
+        }
+      ],
+      "duration_ms": 222806,
+      "name": "Love Every Day",
+      "url": "https://open.spotify.com/track/3KEqpV02GVVH1THDf2g3lT"
+    },
+    {
+      "added_at": "2026-10-12 10:31:46",
+      "album": {
+        "name": "Warriors, Pt. II",
+        "url": "https://open.spotify.com/album/5J8RtKmGSSBJ2ixiBVazuM"
+      },
+      "artists": [
+        {
+          "name": "Groove Salvation",
+          "url": "https://open.spotify.com/artist/0UcKMYfXU1KWcwOgnaY5Pr"
+        },
+        {
+          "name": "Mr Norble Guy",
+          "url": "https://open.spotify.com/artist/651fy57YJX5IKTZuMWxdFw"
+        }
+      ],
+      "duration_ms": 468504,
+      "name": "Warriors - Mr Noble Guy Afro Tech Mix",
+      "url": "https://open.spotify.com/track/00hDeEpGvuNjqez59VIx1T"
+    },
+    {
+      "added_at": "2026-10-12 10:31:46",
+      "album": {
+        "name": "Buyani (\u00dcDOR\u0100 & Native P. Remix)",
+        "url": "https://open.spotify.com/album/6Fdbync8wVOqqWoa6gltIA"
+      },
+      "artists": [
+        {
+          "name": "Studio Bros",
+          "url": "https://open.spotify.com/artist/5TGycVupaB4WmtdWZNC2b3"
+        },
+        {
+          "name": "Toshi",
+          "url": "https://open.spotify.com/artist/2bIg95CGHmriFZX7MsnFRK"
+        },
+        {
+          "name": "\u00dcDOR\u0100",
+          "url": "https://open.spotify.com/artist/4opfpihhGD63A38XX6s9lq"
+        },
+        {
+          "name": "Native P.",
+          "url": "https://open.spotify.com/artist/5L3T44EFiAzvsqmpFMFhSr"
+        }
+      ],
+      "duration_ms": 391000,
+      "name": "Buyani - \u00dcDOR\u0100 & Native P. Remix",
+      "url": "https://open.spotify.com/track/2t28EUokksGpEVkqAuT8zu"
+    },
+    {
+      "added_at": "2026-10-12 10:31:46",
+      "album": {
+        "name": "Love Is Freedom",
+        "url": "https://open.spotify.com/album/7ah9Cao4VZ9ibsesZJxpEg"
+      },
+      "artists": [
+        {
+          "name": "Tefo Foxx",
+          "url": "https://open.spotify.com/artist/4lbSJYKEwAaBPoQNIjdljh"
+        }
+      ],
+      "duration_ms": 232500,
+      "name": "Love Is Freedom",
+      "url": "https://open.spotify.com/track/14Te7QZGC6H2wZxMsPD9MD"
+    },
     {
       "added_at": "2026-10-07 11:38:00",
       "album": {
@@ -539,94 +623,6 @@
       "duration_ms": 344498,
       "name": "Umlilo",
       "url": "https://open.spotify.com/track/1JE96CpkaL21OLE1KM8xA4"
-    },
-    {
-      "added_at": "2026-09-25 11:31:09",
-      "album": {
-        "name": "Infinite Path",
-        "url": "https://open.spotify.com/album/5NWwXULC5ElfqlmRsPeIz6"
-      },
-      "artists": [
-        {
-          "name": "Em Ex",
-          "url": "https://open.spotify.com/artist/5onpzOhX4fOa6fMziKvN03"
-        }
-      ],
-      "duration_ms": 433250,
-      "name": "Abasiki Bebunda",
-      "url": "https://open.spotify.com/track/3mrm73XLbvYTcbchuZapDw"
-    },
-    {
-      "added_at": "2026-09-25 11:31:09",
-      "album": {
-        "name": "Hustla",
-        "url": "https://open.spotify.com/album/72uW5sZ9JiqkL5qCJkWJYz"
-      },
-      "artists": [
-        {
-          "name": "MentMusik",
-          "url": "https://open.spotify.com/artist/6IaXToqmOb6L9jV31jVsrt"
-        },
-        {
-          "name": "Meith",
-          "url": "https://open.spotify.com/artist/2XTv5bUTw9Dm3H730vqdV9"
-        }
-      ],
-      "duration_ms": 250500,
-      "name": "Hustla",
-      "url": "https://open.spotify.com/track/0pJDlz7Knzy5FqtBjWvbAe"
-    },
-    {
-      "added_at": "2026-09-25 11:31:09",
-      "album": {
-        "name": "Rise from the Darkness",
-        "url": "https://open.spotify.com/album/16NC3cXuP9zjxJjowjOThJ"
-      },
-      "artists": [
-        {
-          "name": "MPILOZA",
-          "url": "https://open.spotify.com/artist/3nUf5Jdq1f6fdUOewuDwlh"
-        },
-        {
-          "name": "Sundile",
-          "url": "https://open.spotify.com/artist/52IA2ZKjpv4G7zFBuoovjk"
-        }
-      ],
-      "duration_ms": 424000,
-      "name": "Rise from the Darkness",
-      "url": "https://open.spotify.com/track/1u4jF2pOajM6THm6fYtUeS"
-    },
-    {
-      "added_at": "2026-09-25 11:31:09",
-      "album": {
-        "name": "Danka (Vocal Mix)",
-        "url": "https://open.spotify.com/album/2R2QUhYrEAEYTECd4An7l1"
-      },
-      "artists": [
-        {
-          "name": "Dj Husca Boy",
-          "url": "https://open.spotify.com/artist/4C73L9PtH3QwiqycdlBI4r"
-        }
-      ],
-      "duration_ms": 318570,
-      "name": "Danka - Vocal Mix",
-      "url": "https://open.spotify.com/track/0T1eRiLxEKyEsJcIG9ISJn"
-    },
-    {
-      "added_at": "2026-10-07 11:38:00",
-      "album": {
-        "name": "Mid Tempo House Hits - 45 BPM",
-        "url": "https://open.spotify.com/album/3wYvyfV6kJLIy85tQIOlPn"
-      },
-      "artists": [
-        {
-          "name": "The Heavy Dee Krew",
-          "url": "https://open.spotify.com/artist/2c7Oc9wHuv1Y9HBGptgBl5"
-        }
-      ],
-      "duration_ms": 384346,
-      "name": "Come to Me",
-      "url": "https://open.spotify.com/track/2WqGr1TwgBGVbpqOWyTinv"
     }
   ],
   "unique_name": "Black Coffee's track IDs",

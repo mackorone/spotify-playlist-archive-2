@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: DJ Sliink
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,489 likes - 75 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,511 likes - 75 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 53 | [Don't Get Me Started \(feat\. Coi Leray & Nija\)](https://open.spotify.com/track/5AmuyYZBlIbC9PuFM9hmso) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Dennis Daughter](https://open.spotify.com/album/6MhWcjVKMVa7QbIELyjaUe) | 3:19 |
 | 54 | [WYN?](https://open.spotify.com/track/6n99GemuJTbOLteL66QpBa) | [2famousjayy](https://open.spotify.com/artist/0yDwTqMPtBFHvqXxmMorSc) | [WYN?](https://open.spotify.com/album/56V8zJi2KpJT9rJ65HK2XE) | 2:36 |
 | 55 | [Vacation](https://open.spotify.com/track/2eAcey7KS6TmHulCNjxABW) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [Club Soda, Vol\. 2](https://open.spotify.com/album/5uYz79dshnrizAGPcM7bKz) | 2:25 |
-| 56 | [Mariah](https://open.spotify.com/track/2Mi6o1VgvjnJa31yrPT3UC) | [GROOVY](https://open.spotify.com/artist/6Y6qIKwe32BxNflpxbKsJc), [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [Crying in the Club](https://open.spotify.com/album/2YvnSFSzTj30fh7DtS12uN) | 3:05 |
+| 56 | [Toss It](https://open.spotify.com/track/6bOCT1tRZEq8c3F5JrGaWL) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr), [DEELA](https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4), [Lisha G](https://open.spotify.com/artist/5nwxAowdUQSK1tuyVHD5lJ), [UTILITY](https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi) | [Toss It](https://open.spotify.com/album/3yQlKR9h9RrvUpfLVsLGIR) | 3:32 |
 | 57 | [Can You Bounce? \- Remix](https://open.spotify.com/track/0NEFhpfDe0ObM1mg1J7paV) | [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK), [DJ Blizz](https://open.spotify.com/artist/76fhX39W3Z3NnXvTphr3qh) | [Can You Bounce? \(Remix\)](https://open.spotify.com/album/73COd8PD1PZMDlOvVjVNW1) | 2:06 |
-| 58 | [Walk It](https://open.spotify.com/track/6jlXwexeAfo6Cy6MLPEqQW) | [DJ Bake](https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE) | [Walk It](https://open.spotify.com/album/6WL8LjmangFJvZwCbvWoBL) | 2:17 |
-| 59 | [Toss It](https://open.spotify.com/track/6bOCT1tRZEq8c3F5JrGaWL) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr), [DEELA](https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4), [Lisha G](https://open.spotify.com/artist/5nwxAowdUQSK1tuyVHD5lJ), [UTILITY](https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi) | [Toss It](https://open.spotify.com/album/3yQlKR9h9RrvUpfLVsLGIR) | 3:32 |
+| 58 | [Mariah](https://open.spotify.com/track/2Mi6o1VgvjnJa31yrPT3UC) | [GROOVY](https://open.spotify.com/artist/6Y6qIKwe32BxNflpxbKsJc), [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [Crying in the Club](https://open.spotify.com/album/2YvnSFSzTj30fh7DtS12uN) | 3:05 |
+| 59 | [Walk It](https://open.spotify.com/track/6jlXwexeAfo6Cy6MLPEqQW) | [DJ Bake](https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE) | [Walk It](https://open.spotify.com/album/6WL8LjmangFJvZwCbvWoBL) | 2:17 |
 | 60 | [Bbl Drizzy \(Jersey Club\)](https://open.spotify.com/track/4FlUWawGvc3f1xV78SVEPx) | [Fazobeats](https://open.spotify.com/artist/5fpOmsbbaKJNE4hqbPzMhT), [ProdByAbnormal](https://open.spotify.com/artist/7fc1beONoGaY0613kvQKWe) | [Bbl Drizzy \(Jersey Club\)](https://open.spotify.com/album/1UTiZHIMa2jspPMZWdyVFZ) | 2:08 |
 | 61 | [Back It Up](https://open.spotify.com/track/3LGAo5WuCHhUA7bt6boBsy) | [DJ LILMAN](https://open.spotify.com/artist/0IYk6BQrE0HkCOkdITNEUi) | [I Said It's Lilman](https://open.spotify.com/album/6HK9k5noV9U2UrI9STEd7H) | 2:36 |
 | 62 | [Orange Soda \- Jersey Club Remix](https://open.spotify.com/track/6Pj3meDGkdOCufJoDO9sDJ) | [SJAYY](https://open.spotify.com/artist/0X0hwDJnBd4NjGLDsCcNSc) | [Orange Soda \(Jersey Club Remix\)](https://open.spotify.com/album/1bB4TDuBMLrSIRBR6Yyn9O) | 1:51 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 72 | [Freaky](https://open.spotify.com/track/0ny7hXvXLyabtm0lnG26tI) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq) | [Hood Mona Lisa](https://open.spotify.com/album/2jYJnqma1UFlZz8OqTrsar) | 1:48 |
 | 73 | [Anytime I Want, Pt\. 2](https://open.spotify.com/track/77jOT6Faz1r2mP1bcGR1Gu) | [DJ SoulChild AC](https://open.spotify.com/artist/1dH2cKRZSWg0Bx64RavLNH), [Bryansanon](https://open.spotify.com/artist/4Gi918o3VYKKgw6WWWs36s) | [NJ Turnpike, Vol\. 1 \(A Jersey Club Mixtape\)](https://open.spotify.com/album/0atiXVuqlhHIfdPQeunWG6) | 1:32 |
 | 74 | [cómo t va?](https://open.spotify.com/track/0wNfrrgnzjFLbFeGKPBax5) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi) | [cómo t va?](https://open.spotify.com/album/3GdlieFk7Zy21yxHI5qdgd) | 2:06 |
-| 75 | [70s](https://open.spotify.com/track/6UnGv7gBJAfAdUWLu5uYhj) | [LilC4](https://open.spotify.com/artist/7pWlsOONCcf8KRBQkmBC3W) | [POPULAR LONER](https://open.spotify.com/album/1bzVF1YHTdYAk6plJjjDjx) | 1:40 |
+| 75 | [goingoutsad](https://open.spotify.com/track/2YhmhcFT5JTlbNHSeKTk3W) | [keltiey](https://open.spotify.com/artist/6ffRXY5wKedZhPTMa6WGys) | [goingoutsad](https://open.spotify.com/album/5VC48rIAFB2zQLiukR16DN) | 1:59 |
 
 Snapshot ID: `AAAAAIkefFBWwAh+tL4+2nNtkY2PFPZF`

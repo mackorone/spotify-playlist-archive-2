@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,682 songs - 6 day 12 hr 5 min
+2,686 songs - 6 day 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Alone](https://open.spotify.com/track/53t7HgLImRHYhmhnei7g1c) | [Rheghen Bell](https://open.spotify.com/artist/1PsTuifMhhQ4qqVJQkFdOB) | [we can't be friends](https://open.spotify.com/album/1Gt06y6LtRAzg9qAqO2Ghh) | 2:43 | 2025-05-19 |  |
 | [Alone in December](https://open.spotify.com/track/46EnMxmiepQ2RtZvjFFet8) | [Celo Relax](https://open.spotify.com/artist/7clLuVpdgcqkETFLfdLlOw) | [Alone in December](https://open.spotify.com/album/60lSdW7y6So3soJqh71IKW) | 2:23 | 2026-10-10 |  |
 | [Altered Dimensions](https://open.spotify.com/track/4poOYdmSUlo52tEAAraYp0) | [SistaSara](https://open.spotify.com/artist/5FlVmD8yus10fruwtb3jFg) | [Space Stepper](https://open.spotify.com/album/1NTA9xNmI3UWkvfn0m63ui) | 3:34 | 2024-05-04 |  |
+| [Always Me](https://open.spotify.com/track/2eeZ7feQjjbj7K8mM8ZVyE) | [Cloud Static](https://open.spotify.com/artist/3c0gCqBOn3TsFMJ0XFVGra) | [Always Me](https://open.spotify.com/album/5GETAmuKeALaBNvgWCNFv0) | 2:34 | 2026-10-12 |  |
 | [Alza Le Mani](https://open.spotify.com/track/4TMGmpr0iuU0f5VnMQwNyn) | [Fra](https://open.spotify.com/artist/7bbemKBpCgvwVPn8dF4kct) | [Alza Le Mani](https://open.spotify.com/album/3VbUhT0Tn6m6vcdPW3Z0Gt) | 3:43 | 2025-08-27 |  |
 | [Amanecer](https://open.spotify.com/track/2mbpjOVwM7dDfukfXmLjEI) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Tocar la lluvia](https://open.spotify.com/album/1YPCa52lWFtLNr16GgANuh) | 2:24 | 2026-04-12 |  |
 | [AMANECER](https://open.spotify.com/track/05ODtVUKZfu2IHGi650JlW) | [El Punto Cardinal](https://open.spotify.com/artist/6vEp4t3ZjlmWYJbzc6OTUE) | [GOLDENSHADE](https://open.spotify.com/album/6BRnUAnUIw3LFyX2Tvbdt5) | 4:10 | 2025-11-13 |  |
@@ -1959,6 +1960,7 @@
 | [Rumbo](https://open.spotify.com/track/0AlyK3qVIdAr8yRhhrSrNW) | [Lorena R](https://open.spotify.com/artist/3qfQq9PuAnv7AAAMkf0TVO) | [Rumbo](https://open.spotify.com/album/6EohaAqrW0OzAFRLRSELhl) | 2:16 | 2025-06-09 |  |
 | [Run & Jump](https://open.spotify.com/track/4ZFA6kB1yOC1q5Gj3YoAD5) | [Armin F.](https://open.spotify.com/artist/6J7s0zqShr52v68ASUClSm) | [Run & Jump](https://open.spotify.com/album/5TZ2COA1Fd1o4wpcJ1E5zn) | 3:34 | 2025-07-24 |  |
 | [Run Away Mountain Woman](https://open.spotify.com/track/0XbrSi909O8mPsiy92JpsQ) | [Mildred's Big Day](https://open.spotify.com/artist/2ayq6NXWGwkbCzqEyTTpQv) | [For 91.1](https://open.spotify.com/album/5YKcMoJ79pjcsaNdLtZUNb) | 4:24 | 2025-09-24 |  |
+| [Runnin' Down A Dream](https://open.spotify.com/track/4cygbs2nGxNUW83x7Gceip) | [W\. Charles Hall](https://open.spotify.com/artist/1YJgR9U2T5deghpvxv7VSj) | [Heartland](https://open.spotify.com/album/3qamfjUyjGNTFBDxI6g9uY) | 4:06 | 2026-10-12 |  |
 | [Running Dub](https://open.spotify.com/track/4KeTJEv3u5yuGpmcT8CV03) | [Foshan Roots](https://open.spotify.com/artist/0Erm3ZsKDZVUF4NdUMfYtj) | [The Wing Chun Album](https://open.spotify.com/album/4Ev2WLIu3iZJp3rWGYVh5m) | 4:03 | 2024-03-25 |  |
 | [Running on Fumes and Regret](https://open.spotify.com/track/78LxePJ4LlJToM3OJqESqd) | [Apex89](https://open.spotify.com/artist/0jdPGIACeHmp89qaOUEsWZ) | [Running on Fumes and Regret](https://open.spotify.com/album/00mVQClS9CCm6C08Xq9RE6) | 3:29 | 2026-04-28 |  |
 | [RWD](https://open.spotify.com/track/1qQGJVggMqG58YYsiGkxth) | [Kier](https://open.spotify.com/artist/0tcPqqUBSuCA9VENxwwyEl), [Cheatz](https://open.spotify.com/artist/4ZA66hsvIPVsSelQsobJ0B), [Skibovicz](https://open.spotify.com/artist/3EeZpR5eIsMxDCFVv2QzFX), [2latefor](https://open.spotify.com/artist/17gX3tD2iLMYlMGE3fXiq1) | [GAMMA](https://open.spotify.com/album/2UdAQuQVSJvv8LX5IRb4A2) | 2:17 | 2025-11-29 |  |
@@ -2428,6 +2430,7 @@
 | [Twisted](https://open.spotify.com/track/1mGvvyLacsnDLQOhQOmg3o) | [Yxngex](https://open.spotify.com/artist/0d0dXzwgVkfOBeOZEfCdbz), [Velll](https://open.spotify.com/artist/3IQkPreO643OIfIdJHKx37), [Tee El](https://open.spotify.com/artist/26toZDZj8tnjsNOZVsvBZy) | [End Of The Line](https://open.spotify.com/album/32Sq6609YnxfoSMG3cuD3U) | 3:21 | 2026-08-18 |  |
 | [Two Princes](https://open.spotify.com/track/4ePP9So5xRzspjLFVVbj90) | [Spin Doctors](https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m) | [Pocket Full Of Kryptonite](https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK) | 4:16 | 2024-03-04 |  |
 | [Tócame](https://open.spotify.com/track/2wqJij98B0rouH14batoif) | [Yunez](https://open.spotify.com/artist/3WqoLbV8XYbKrXUTTScsKI) | [Tócame](https://open.spotify.com/album/4dWm6sgedDn3maMz8HjZ0P) | 2:32 | 2025-11-25 |  |
+| [Tô de Boa](https://open.spotify.com/track/15hI0GEN7t3t0NBDeKbfTZ) | [J\. Bernard](https://open.spotify.com/artist/6cw4bvntntvCFSZ6zS2nx2) | [Tô de Boa](https://open.spotify.com/album/581fmi1sdvGarhkV6mbVEy) | 1:59 | 2026-10-12 |  |
 | [Tükröm](https://open.spotify.com/track/66lj9fWMUcvwcFjy9WxMEp) | [BRUMIKO](https://open.spotify.com/artist/5SVttRH8PTal59RNTpPGpE) | [Felejtsd el!](https://open.spotify.com/album/2BvhBusLCqco5GyiSinxSV) | 4:09 | 2025-12-17 |  |
 | [Uhuru](https://open.spotify.com/track/6OoZlWpxqGbIHHxXQhq7Qp) | [Sensijam](https://open.spotify.com/artist/5VazvcVzHCDG301Q5QXIvo) | [Reggae Sunjam](https://open.spotify.com/album/6kYiNLr72LY5Wdz98ArSi2) | 3:55 | 2024-03-23 |  |
 | [Un buco nell'acqua](https://open.spotify.com/track/23oNF6NYgdDApPHp867KAF) | [WinWar](https://open.spotify.com/artist/7eiIqiTGRznJzFxIVzuU23) | [Un buco nell'acqua](https://open.spotify.com/album/6U72VdWYkXb1mwNIxuoXkx) | 2:52 | 2024-09-06 |  |
@@ -2674,6 +2677,7 @@
 | [Я попрошу](https://open.spotify.com/track/5nFVFo2lDvCpLBtPmpeBsU) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Космос](https://open.spotify.com/album/2jcE7I4Mqs4iGeY9PL3yRZ) | 4:09 | 2025-07-03 |  |
 | [בסוף יהיה טוב](https://open.spotify.com/track/4pweKO7kjfKZ49RMXlMRcq) | [Bar Alfandari](https://open.spotify.com/artist/0GE2lMUi936oDHpSGEOaGH) | [קעקוע](https://open.spotify.com/album/2PVt35lk55xeksgl5yBiEN) | 3:20 | 2025-08-23 |  |
 | [שלוש שנים](https://open.spotify.com/track/3MeArNHAOCEo4wLhpg4hnh) | [Bar Alfandari](https://open.spotify.com/artist/0GE2lMUi936oDHpSGEOaGH) | [קעקוע](https://open.spotify.com/album/2PVt35lk55xeksgl5yBiEN) | 3:13 | 2025-08-30 |  |
+| [תמיד אוהב אותי \- Body 3](https://open.spotify.com/track/47tDMmD6e4VJyniEzM3TBg) | [Ori Ahinoam](https://open.spotify.com/artist/70OctIUrjKyvFMHEOo4hTw), [Alon Lifshitz](https://open.spotify.com/artist/3tKq0F7PTmGqj1cpN4cIG2), [Gal Inbar](https://open.spotify.com/artist/7yc1iwjMNqWMIWDZR4F5H8) | [Three Body Solution](https://open.spotify.com/album/7KvAjtGdHHUo1aFEEO9NC5) | 7:30 | 2026-10-12 |  |
 | [قولي لية \( السكة ضاقت \)](https://open.spotify.com/track/09SbdmnCu4cyMrrBynK5M5) | [AFROTO Beats](https://open.spotify.com/artist/3nCLSI5jV4qNit9F2hgrq0), [Super Mono](https://open.spotify.com/artist/76VzYrqb4WDRVNBimbYsWt), [Ahmed M Farid](https://open.spotify.com/artist/7I6twl0w4JIsFe7howLGLk) | [قولي لية \( السكة ضاقت \)](https://open.spotify.com/album/4a62YKi3au42STNxvedOZl) | 3:47 | 2026-04-10 |  |
 | [ليل و سهر](https://open.spotify.com/track/1LpYFfXPmghqqxrSd8EoQz) | [Ahmed M Farid](https://open.spotify.com/artist/7I6twl0w4JIsFe7howLGLk), [AFROTO Beats](https://open.spotify.com/artist/3nCLSI5jV4qNit9F2hgrq0), [Super Mono](https://open.spotify.com/artist/76VzYrqb4WDRVNBimbYsWt) | [ليل و سهر](https://open.spotify.com/album/6f9FczaUDIwBd54D3k8RiG) | 2:59 | 2026-05-25 |  |
 | [مزمار 24 \- التعويذة](https://open.spotify.com/track/4D0c9cpn7XOvFPkBJy2asd) | [AFROTO Beats](https://open.spotify.com/artist/3nCLSI5jV4qNit9F2hgrq0), [Super Mono](https://open.spotify.com/artist/76VzYrqb4WDRVNBimbYsWt) | [مزمار علي السقفة \(انغام بلدي\)](https://open.spotify.com/album/4esPsMZUekvuDGLkl9dNEJ) | 4:04 | 2026-06-06 |  |

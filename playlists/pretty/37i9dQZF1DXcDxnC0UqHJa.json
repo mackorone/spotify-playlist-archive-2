@@ -1,6 +1,6 @@
 {
   "description": "Folksy takes on your favorite tracks. Cover: The Brudi Brothers",
-  "num_followers": 436843,
+  "num_followers": 436808,
   "original_name": "Folksy Covers",
   "owner": {
     "name": "Spotify",
@@ -1867,6 +1867,22 @@
     {
       "added_at": "2026-05-01 04:03:53",
       "album": {
+        "name": "Love Will Tear Us Apart",
+        "url": "https://open.spotify.com/album/4rIfE20Yf1aeKSNdlRp81C"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        }
+      ],
+      "duration_ms": 168968,
+      "name": "Love Will Tear Us Apart",
+      "url": "https://open.spotify.com/track/24mkZs0ouxgWcSa7zhlBZf"
+    },
+    {
+      "added_at": "2026-05-01 04:03:53",
+      "album": {
         "name": "In Your Eyes",
         "url": "https://open.spotify.com/album/1nETVDmxFwKb4EFiiDD4jV"
       },
@@ -1883,22 +1899,6 @@
       "duration_ms": 282715,
       "name": "In Your Eyes",
       "url": "https://open.spotify.com/track/2Zc0lXc8psW1wzLWVVCQdN"
-    },
-    {
-      "added_at": "2026-05-01 04:03:53",
-      "album": {
-        "name": "Love Will Tear Us Apart",
-        "url": "https://open.spotify.com/album/4rIfE20Yf1aeKSNdlRp81C"
-      },
-      "artists": [
-        {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-        }
-      ],
-      "duration_ms": 168968,
-      "name": "Love Will Tear Us Apart",
-      "url": "https://open.spotify.com/track/24mkZs0ouxgWcSa7zhlBZf"
     },
     {
       "added_at": "2026-05-01 04:03:53",

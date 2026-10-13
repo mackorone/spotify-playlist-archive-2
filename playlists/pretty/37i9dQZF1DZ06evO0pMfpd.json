@@ -1,12 +1,12 @@
 {
   "description": "This is Mi Banda El Mexicano. The essential tracks, all in one playlist.",
-  "num_followers": 80230,
+  "num_followers": 80240,
   "original_name": "This Is Mi Banda El Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asgugAAAAABhyYPiuYMk4qa3X6LOSHyG",
+  "snapshot_id": "asrRgAAAAAAjbYIlQc7I98PRpYO7T0KY",
   "tracks": [
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
         }
       ],
-      "duration_ms": 293021,
-      "name": "Burbujas De Amor",
-      "url": "https://open.spotify.com/track/5B3DTCOYLv4zgEnAsGpT7d"
+      "duration_ms": 211739,
+      "name": "Pachuco Bailar\u00edn",
+      "url": "https://open.spotify.com/track/4Oqo3cgcbpvuEPnci1wnYp"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/4ah8hW8051zINZLlMnH7Eu"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 99766,
-      "name": "Presentaci\u00f3n - En Vivo",
-      "url": "https://open.spotify.com/track/2DsMc0M1oyDdRX5zGj9NB7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fuera de Serie (Remastered 2025)",
         "url": "https://open.spotify.com/album/09bA0l9N7ntRqwpP0mSWAK"
       },
@@ -539,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/4ah8hW8051zINZLlMnH7Eu"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 99766,
+      "name": "Presentaci\u00f3n - En Vivo",
+      "url": "https://open.spotify.com/track/2DsMc0M1oyDdRX5zGj9NB7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pa'que Lo Bailes",
         "url": "https://open.spotify.com/album/6tOeNZ4Apb6RI68KTisQIb"
       },
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
         }
       ],
-      "duration_ms": 211739,
-      "name": "Pachuco Bailar\u00edn",
-      "url": "https://open.spotify.com/track/4Oqo3cgcbpvuEPnci1wnYp"
+      "duration_ms": 293021,
+      "name": "Burbujas De Amor",
+      "url": "https://open.spotify.com/track/5B3DTCOYLv4zgEnAsGpT7d"
     },
     {
       "added_at": null,

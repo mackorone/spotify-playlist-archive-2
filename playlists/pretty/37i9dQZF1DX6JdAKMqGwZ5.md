@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 
 > Descubre los temas emergentes del mundo indie\. Foto: Marina Herlop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,331 likes - 120 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,324 likes - 120 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 | 28 | [Hermosa Terapia](https://open.spotify.com/track/2QgyrLWBawsUFKJt7L3rMW) | [Carmen 113](https://open.spotify.com/artist/3wcfgYTtdxmXrhuUuq3kEe) | [Hermosa Terapia](https://open.spotify.com/album/6KTwzyu1z1vyoE3MyQnzrF) | 3:23 |
 | 29 | [Alucinante](https://open.spotify.com/track/2oZJGQWqNfcfqLvjxlisJR) | [Mujeres](https://open.spotify.com/artist/5vnfKgHNYLnKeuFA6c2jJO) | [Alucinante](https://open.spotify.com/album/1QW4bdzgkOdWLl3BMLakrB) | 3:20 |
 | 30 | [tiene que ser más fácil](https://open.spotify.com/track/2QmjmQQeNAl4BFynm5N4Dh) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [tiene que ser más fácil](https://open.spotify.com/album/6xVdTAJCQAcjM4CyHiJjZa) | 3:50 |
-| 31 | [Lucía](https://open.spotify.com/track/0hnYRG585G2FQY6lZ85ONf) | [Korashe](https://open.spotify.com/artist/0HFSv9JWkZcY2K4yLGNaHS), [Kfé](https://open.spotify.com/artist/21Oja0BVOrXu4kGqK8MfDF) | [Lucía](https://open.spotify.com/album/5nJu1mS4AXeKF6q5nv0paC) | 2:49 |
+| 31 | [Lucía](https://open.spotify.com/track/0hnYRG585G2FQY6lZ85ONf) | [Korashe](https://open.spotify.com/artist/0HFSv9JWkZcY2K4yLGNaHS), [Kfé](https://open.spotify.com/artist/21Oja0BVOrXu4kGqK8MfDF) | [Lucía](https://open.spotify.com/album/5nJu1mS4AXeKF6q5nv0paC) | 2:51 |
 | 32 | [QUE ME QUITEN](https://open.spotify.com/track/42RiQAFZlqX2cl31Jru3mF) | [Maria Arnal](https://open.spotify.com/artist/05l58aTZztZhHZPKDpboWm) | [QUE ME QUITEN](https://open.spotify.com/album/6XDcw63W4s1NfTlzJWjpRx) | 2:15 |
 | 33 | [Tormenta de Verano](https://open.spotify.com/track/2VxJ25Mth6Sgo1s8gJJmcL) | [Ciao Marina](https://open.spotify.com/artist/2Xhr9xrjtvIj1mmkUDUUTo) | [Tormenta de Verano](https://open.spotify.com/album/7xOmZtxBm956kqWkq5IkR9) | 2:14 |
 | 34 | [Tengo](https://open.spotify.com/track/0V7SjQPNJsJ4JG2nLUzUHn) | [Dora Band](https://open.spotify.com/artist/7xVhPBHVpiU1YPef9aHQOE), [Kinder Malo](https://open.spotify.com/artist/1Aoj8qX6kPfLTagb7qbKg0), [Pimp Flaco](https://open.spotify.com/artist/3UZFWMkyLElpRsLPdButSC) | [Tengo](https://open.spotify.com/album/5ZS4XSoEXEp86YWhGwEeHz) | 2:56 |

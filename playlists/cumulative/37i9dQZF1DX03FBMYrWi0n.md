@@ -4,7 +4,7 @@
 
 > L’alternatif québécois à plein volume\. Photo: The Barr Brothers
 
-701 songs - 1 day 15 hr 43 min
+702 songs - 1 day 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -396,7 +396,7 @@
 | [Lovers by Chance](https://open.spotify.com/track/4S2aSsWfdCnZBtZ61u2RBM) | [Brothel in Belize](https://open.spotify.com/artist/09mAnJyOUyAGCo42qyKBHH) | [Lovers by Chance](https://open.spotify.com/album/6Tvfj2BF4azAR89JBT2YzZ) | 2:06 | 2026-05-15 | 2026-06-20 |
 | [LUCKY8](https://open.spotify.com/track/2iV2aeAY52wxUdkZHk3DNC) | [Ribbon Skirt](https://open.spotify.com/artist/4Ymrgi3r6TZQwmBSp3jBca) | [LUCKY8](https://open.spotify.com/album/6f0pLMVbyBpdDpxQmE9DA4) | 2:46 | 2025-09-11 | 2026-01-03 |
 | [Lundi normal](https://open.spotify.com/track/01q5hNY32vR6b1xa1nMZlQ) | [Grand Public](https://open.spotify.com/artist/5Ctw4xKmnbdrLyWdEA4KiO) | [Lundi normal](https://open.spotify.com/album/7jjPYqJd43EwfEnXHxy4kx) | 3:03 | 2023-02-10 | 2023-03-04 |
-| [LUNGS! LUNGS! LUNGS!](https://open.spotify.com/track/3N9LF2YaRFiCzOuXO8I6DA) | [kaiiser](https://open.spotify.com/artist/5rmDs0edkn7z69Jv7oIuD3) | [LUNGS! LUNGS! LUNGS!](https://open.spotify.com/album/4758fSvElutPcrpl3FIGVp) | 2:26 | 2026-08-14 |  |
+| [LUNGS! LUNGS! LUNGS!](https://open.spotify.com/track/3N9LF2YaRFiCzOuXO8I6DA) | [kaiiser](https://open.spotify.com/artist/5rmDs0edkn7z69Jv7oIuD3) | [LUNGS! LUNGS! LUNGS!](https://open.spotify.com/album/4758fSvElutPcrpl3FIGVp) | 2:26 | 2026-08-14 | 2026-10-13 |
 | [Lying in Wait](https://open.spotify.com/track/3r1RYiEStgIqNCHwkSfk7N) | [Prism Shores](https://open.spotify.com/artist/6GAOVXekIJiv2MWeCBQoEk) | [Softest Attack](https://open.spotify.com/album/51uYxZpz3l8pJpE3fPGYb5) | 2:48 | 2026-04-10 | 2026-05-02 |
 | [Léo](https://open.spotify.com/track/3fB7SMF0iP2LZDeLsyR9cg) | [Alex Pic](https://open.spotify.com/artist/5nnFfYhJHiCcO3BznCYBnQ) | [Léo](https://open.spotify.com/album/0q6xd6lq4FGP0w00BFHtag) | 3:05 | 2024-08-16 | 2025-09-22 |
 | [Ma maison](https://open.spotify.com/track/2OuvHFcMCxr4Y3allMuic3) | [Pasteur Papillon](https://open.spotify.com/artist/3x1SdsTSvhIkg0NcvDUlTB) | [Urubu, gospel d’un charognard](https://open.spotify.com/album/1xfBlC6rPqHUiB5ezMkOEz) | 3:37 | 2025-11-14 | 2026-01-31 |
@@ -462,6 +462,7 @@
 | [OK](https://open.spotify.com/track/7iE0J8k2Hqt1opubRHco0g) | [Vulgaires Machins](https://open.spotify.com/artist/7ys7ta4FOM1pKxJwpqvazG) | [Disruption](https://open.spotify.com/album/4LizSEpXM9elUheVmOzRg8) | 3:13 | 2023-02-10 | 2025-10-11 |
 | [OMG \(oiseau\)](https://open.spotify.com/track/6TqUAXAPivrpuJcmJDzeqD) | [Totalement Sublime](https://open.spotify.com/artist/1aeePX7Ou6mrvZYVUpk4OY) | [Totalement Sublime](https://open.spotify.com/album/6MQXmQjOXqN47I1y3172Td) | 4:03 | 2023-02-24 | 2025-09-26 |
 | [On ne prête qu'aux riches](https://open.spotify.com/track/1ndwpvp9LyBYpWWxHkNH8Z) | [Les Breastfeeders](https://open.spotify.com/artist/37x62KkbU6JaY7W8mHHw4i) | [On ne prête qu'aux riches](https://open.spotify.com/album/1NJ6cCWRdxsaaBgVKTe034) | 3:08 | 2024-11-08 | 2025-11-15 |
+| [On s'en fout](https://open.spotify.com/track/2eXCndL43pMclj3Q2SzVmV) | [PRINCESSES](https://open.spotify.com/artist/6xxREfIH6g5mdbVCcxaxLA) | [On s'en fout](https://open.spotify.com/album/614Ohtsx9VloGd5gteGZ3F) | 3:15 | 2026-10-09 |  |
 | [Oolong tea](https://open.spotify.com/track/6PxaQxyfet4qf89FkeWqZg) | [igorah](https://open.spotify.com/artist/5QPcjuaLqvZl4g3qYqJJgl), [Jades Goudreault](https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN) | [Oolong tea](https://open.spotify.com/album/49HeQRAlR4a5f6JmMXcYab) | 1:50 | 2026-05-22 | 2026-06-27 |
 | [Oublié](https://open.spotify.com/track/4HlHPrHHWerDTKllHbQbRP) | [Conflit Majeur](https://open.spotify.com/artist/0xLL3mof0eOcEIdVoPgqEg) | [Désinvolte](https://open.spotify.com/album/1bl9IOFxgpvEZv6hiIbCR5) | 2:22 | 2025-10-31 | 2025-11-15 |
 | [oui non I know](https://open.spotify.com/track/2cQyLwCqV0QJmdkKW96zLw) | [HAWA B](https://open.spotify.com/artist/5oLk1TljUmRtfqtaeLBWam) | [oui non I know](https://open.spotify.com/album/1lkPyq3kwRTHmi2kPXpZLX) | 2:22 | 2025-10-31 | 2026-01-24 |

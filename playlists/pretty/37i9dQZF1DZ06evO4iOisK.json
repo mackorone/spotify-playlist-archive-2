@@ -1,12 +1,12 @@
 {
   "description": "This is SPYAIR. The essential tracks, all in one playlist.",
-  "num_followers": 28589,
+  "num_followers": 28587,
   "original_name": "This Is SPYAIR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asmAAAAAAAAisDjX3mG+NZ1AT8+fRECV",
+  "snapshot_id": "asrRgAAAAAD0v1q7jBjA/htaPXVZ62gp",
   "tracks": [
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "KINGDOM",
-        "url": "https://open.spotify.com/album/4uPXRFvnyXL13UV154reKX"
+        "name": "MILLION",
+        "url": "https://open.spotify.com/album/1gijAmde8RoTtzFIy4pa58"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
         }
       ],
-      "duration_ms": 236000,
-      "name": "THIS IS HOW WE ROCK",
-      "url": "https://open.spotify.com/track/3BNlW6QAR8xiONRS0wRmPE"
+      "duration_ms": 298813,
+      "name": "\u8679",
+      "url": "https://open.spotify.com/track/4025tnZPnd3kpYuGytu3Mo"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "MILLION",
-        "url": "https://open.spotify.com/album/1gijAmde8RoTtzFIy4pa58"
+        "name": "KINGDOM",
+        "url": "https://open.spotify.com/album/4uPXRFvnyXL13UV154reKX"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
         }
       ],
-      "duration_ms": 298813,
-      "name": "\u8679",
-      "url": "https://open.spotify.com/track/4025tnZPnd3kpYuGytu3Mo"
+      "duration_ms": 236000,
+      "name": "THIS IS HOW WE ROCK",
+      "url": "https://open.spotify.com/track/3BNlW6QAR8xiONRS0wRmPE"
     },
     {
       "added_at": null,

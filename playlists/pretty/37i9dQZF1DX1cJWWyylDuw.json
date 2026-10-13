@@ -1,6 +1,6 @@
 {
   "description": "A mix of the best modern Deathcore tracks. Cover: Bring Me The Horizon",
-  "num_followers": 311323,
+  "num_followers": 311502,
   "original_name": "Deathcore",
   "owner": {
     "name": "Spotify",
@@ -759,18 +759,22 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
-        "name": "Purge",
-        "url": "https://open.spotify.com/album/7o1VvlYeqiBiSQUZNXQHbF"
+        "name": "Helheim (feat. Signs of the Swarm)",
+        "url": "https://open.spotify.com/album/3f9o79ZvqITcxWpqYxVnol"
       },
       "artists": [
         {
-          "name": "Brand of Sacrifice",
-          "url": "https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod"
+          "name": "Mental Cruelty",
+          "url": "https://open.spotify.com/artist/2iE1NqruxoSxTvOpTCLkE9"
+        },
+        {
+          "name": "Signs of the Swarm",
+          "url": "https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS"
         }
       ],
-      "duration_ms": 282909,
-      "name": "Purge",
-      "url": "https://open.spotify.com/track/4O0qk2XaOAKVjLnKnEQ0RW"
+      "duration_ms": 232114,
+      "name": "Helheim (feat. Signs of the Swarm)",
+      "url": "https://open.spotify.com/track/0EayiN0EIN6oEQNgsc3ZUY"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -791,22 +795,18 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
-        "name": "Helheim (feat. Signs of the Swarm)",
-        "url": "https://open.spotify.com/album/3f9o79ZvqITcxWpqYxVnol"
+        "name": "Purge",
+        "url": "https://open.spotify.com/album/7o1VvlYeqiBiSQUZNXQHbF"
       },
       "artists": [
         {
-          "name": "Mental Cruelty",
-          "url": "https://open.spotify.com/artist/2iE1NqruxoSxTvOpTCLkE9"
-        },
-        {
-          "name": "Signs of the Swarm",
-          "url": "https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS"
+          "name": "Brand of Sacrifice",
+          "url": "https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod"
         }
       ],
-      "duration_ms": 232114,
-      "name": "Helheim (feat. Signs of the Swarm)",
-      "url": "https://open.spotify.com/track/0EayiN0EIN6oEQNgsc3ZUY"
+      "duration_ms": 282909,
+      "name": "Purge",
+      "url": "https://open.spotify.com/track/4O0qk2XaOAKVjLnKnEQ0RW"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
-        "name": "Hatred",
-        "url": "https://open.spotify.com/album/7sIHuZVKvvgzknGjVmBoHc"
-      },
-      "artists": [
-        {
-          "name": "Paleface Swiss",
-          "url": "https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A"
-        }
-      ],
-      "duration_ms": 183964,
-      "name": "Hatred",
-      "url": "https://open.spotify.com/track/4OfKo7WsPOqueL2V2YmK7c"
-    },
-    {
-      "added_at": "2026-07-17 04:04:53",
-      "album": {
         "name": "Zwielicht",
         "url": "https://open.spotify.com/album/2KYHW0qffmoyIQe9JibNIu"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 356917,
       "name": "Forgotten Kings",
       "url": "https://open.spotify.com/track/4Rkmv5Ev1PhtLjL07rZhOY"
+    },
+    {
+      "added_at": "2026-07-17 04:04:53",
+      "album": {
+        "name": "Hatred",
+        "url": "https://open.spotify.com/album/7sIHuZVKvvgzknGjVmBoHc"
+      },
+      "artists": [
+        {
+          "name": "Paleface Swiss",
+          "url": "https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A"
+        }
+      ],
+      "duration_ms": 183964,
+      "name": "Hatred",
+      "url": "https://open.spotify.com/track/4OfKo7WsPOqueL2V2YmK7c"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
+        "name": "Crossing Nails",
+        "url": "https://open.spotify.com/album/4xM8HEY092XTTswORmrm2K"
+      },
+      "artists": [
+        {
+          "name": "Crystal Lake",
+          "url": "https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX"
+        }
+      ],
+      "duration_ms": 222928,
+      "name": "Crossing Nails",
+      "url": "https://open.spotify.com/track/61Ofd1JOWQ9IkvpO61CgvV"
+    },
+    {
+      "added_at": "2026-07-17 04:04:53",
+      "album": {
         "name": "Needful Things",
         "url": "https://open.spotify.com/album/5kNyXGLHUusKlqJlrT8o7k"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 133113,
       "name": "Resurfacing (ft. Jacob Mathes of Orphan)",
       "url": "https://open.spotify.com/track/5hKqEbZyJmhZIcnbdzJjqA"
-    },
-    {
-      "added_at": "2026-07-17 04:04:53",
-      "album": {
-        "name": "Crossing Nails",
-        "url": "https://open.spotify.com/album/4xM8HEY092XTTswORmrm2K"
-      },
-      "artists": [
-        {
-          "name": "Crystal Lake",
-          "url": "https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX"
-        }
-      ],
-      "duration_ms": 222928,
-      "name": "Crossing Nails",
-      "url": "https://open.spotify.com/track/61Ofd1JOWQ9IkvpO61CgvV"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
-        "name": "Confounder",
-        "url": "https://open.spotify.com/album/3OwqYRjxbTvsiaE3JFbtV5"
-      },
-      "artists": [
-        {
-          "name": "Heaven Shall Burn",
-          "url": "https://open.spotify.com/artist/4sy5qWfwUwpGYBnCKnwfcW"
-        }
-      ],
-      "duration_ms": 261012,
-      "name": "Confounder",
-      "url": "https://open.spotify.com/track/2k31Xzc5ooZO44mBeYx7dw"
-    },
-    {
-      "added_at": "2026-07-17 04:04:53",
-      "album": {
         "name": "Disfigured",
         "url": "https://open.spotify.com/album/1aghj04fhxEzEeTzE3S6gp"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 97295,
       "name": "Disfigured",
       "url": "https://open.spotify.com/track/5GV3docVmNAbEk7An8iX3S"
+    },
+    {
+      "added_at": "2026-07-17 04:04:53",
+      "album": {
+        "name": "Confounder",
+        "url": "https://open.spotify.com/album/3OwqYRjxbTvsiaE3JFbtV5"
+      },
+      "artists": [
+        {
+          "name": "Heaven Shall Burn",
+          "url": "https://open.spotify.com/artist/4sy5qWfwUwpGYBnCKnwfcW"
+        }
+      ],
+      "duration_ms": 261012,
+      "name": "Confounder",
+      "url": "https://open.spotify.com/track/2k31Xzc5ooZO44mBeYx7dw"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
-        "name": "Invertebrate",
-        "url": "https://open.spotify.com/album/4bQGrNnX0xOhOkcsfsSBef"
-      },
-      "artists": [
-        {
-          "name": "Our Common Collapse",
-          "url": "https://open.spotify.com/artist/4VTXcebcyltPt1ezdBBMQb"
-        }
-      ],
-      "duration_ms": 181052,
-      "name": "Invertebrate",
-      "url": "https://open.spotify.com/track/1NmmtuPkji5oAaIEt11KGo"
-    },
-    {
-      "added_at": "2026-07-17 04:04:53",
-      "album": {
         "name": "The Tide of Death and Fractured Dreams",
         "url": "https://open.spotify.com/album/1vrBZpr5a4DEPJNMnpzPkM"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 271717,
       "name": "Where No Light Shines",
       "url": "https://open.spotify.com/track/38pklo617cL9UmIMU8FkTQ"
+    },
+    {
+      "added_at": "2026-07-17 04:04:53",
+      "album": {
+        "name": "Invertebrate",
+        "url": "https://open.spotify.com/album/4bQGrNnX0xOhOkcsfsSBef"
+      },
+      "artists": [
+        {
+          "name": "Our Common Collapse",
+          "url": "https://open.spotify.com/artist/4VTXcebcyltPt1ezdBBMQb"
+        }
+      ],
+      "duration_ms": 181052,
+      "name": "Invertebrate",
+      "url": "https://open.spotify.com/track/1NmmtuPkji5oAaIEt11KGo"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -1807,6 +1807,22 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
+        "name": "EVERMORE",
+        "url": "https://open.spotify.com/album/69fT5NXfGfl67tJPKv89x3"
+      },
+      "artists": [
+        {
+          "name": "Aviana",
+          "url": "https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy"
+        }
+      ],
+      "duration_ms": 221250,
+      "name": "EVERMORE",
+      "url": "https://open.spotify.com/track/6kaCDMySbzL7bPa3DRDPcV"
+    },
+    {
+      "added_at": "2026-07-17 04:04:53",
+      "album": {
         "name": "Hydra",
         "url": "https://open.spotify.com/album/2CcrbnhIrWhdiIkfTLKcQv"
       },
@@ -1835,22 +1851,6 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
-        "name": "EVERMORE",
-        "url": "https://open.spotify.com/album/69fT5NXfGfl67tJPKv89x3"
-      },
-      "artists": [
-        {
-          "name": "Aviana",
-          "url": "https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy"
-        }
-      ],
-      "duration_ms": 221250,
-      "name": "EVERMORE",
-      "url": "https://open.spotify.com/track/6kaCDMySbzL7bPa3DRDPcV"
-    },
-    {
-      "added_at": "2026-07-17 04:04:53",
-      "album": {
         "name": "Misery Eternal",
         "url": "https://open.spotify.com/album/5xfr42OlCFI8PaEs8YElqD"
       },
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
-        "name": "Konstrukt",
-        "url": "https://open.spotify.com/album/4X29QVXcrriPfphEJbZulX"
-      },
-      "artists": [
-        {
-          "name": "Consvmer",
-          "url": "https://open.spotify.com/artist/1kJPCB066I6xZNqadwZx9C"
-        }
-      ],
-      "duration_ms": 136452,
-      "name": "Konstrukt",
-      "url": "https://open.spotify.com/track/1WgeLChNMNqaP8KJCr0i8S"
-    },
-    {
-      "added_at": "2026-07-17 04:04:53",
-      "album": {
         "name": "I'm Bored",
         "url": "https://open.spotify.com/album/7aRdLgA0zwgv0RzsmmtSZn"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 225429,
       "name": "I'm Bored",
       "url": "https://open.spotify.com/track/0BpSXduCeEkdTwUHuDcJUD"
+    },
+    {
+      "added_at": "2026-07-17 04:04:53",
+      "album": {
+        "name": "Konstrukt",
+        "url": "https://open.spotify.com/album/4X29QVXcrriPfphEJbZulX"
+      },
+      "artists": [
+        {
+          "name": "Consvmer",
+          "url": "https://open.spotify.com/artist/1kJPCB066I6xZNqadwZx9C"
+        }
+      ],
+      "duration_ms": 136452,
+      "name": "Konstrukt",
+      "url": "https://open.spotify.com/track/1WgeLChNMNqaP8KJCr0i8S"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -2199,22 +2199,6 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
-        "name": "Kiss The Dice",
-        "url": "https://open.spotify.com/album/7u0t1WlQEKZdBUwxrPUlOg"
-      },
-      "artists": [
-        {
-          "name": "Disfiguring The Goddess",
-          "url": "https://open.spotify.com/artist/4KNivmUcgaar8yZvjYRoqv"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Kiss The Dice",
-      "url": "https://open.spotify.com/track/1ESHWKQu1i2WUZDj7PSWVE"
-    },
-    {
-      "added_at": "2026-07-17 04:04:53",
-      "album": {
         "name": "Shard Throat",
         "url": "https://open.spotify.com/album/6YDZrM7UvIVHtgo8P08XrD"
       },
@@ -2227,6 +2211,22 @@
       "duration_ms": 153705,
       "name": "Shard Throat",
       "url": "https://open.spotify.com/track/3E2cJPNoEPrrxxZUihLQMU"
+    },
+    {
+      "added_at": "2026-07-17 04:04:53",
+      "album": {
+        "name": "Kiss The Dice",
+        "url": "https://open.spotify.com/album/7u0t1WlQEKZdBUwxrPUlOg"
+      },
+      "artists": [
+        {
+          "name": "Disfiguring The Goddess",
+          "url": "https://open.spotify.com/artist/4KNivmUcgaar8yZvjYRoqv"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Kiss The Dice",
+      "url": "https://open.spotify.com/track/1ESHWKQu1i2WUZDj7PSWVE"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -2263,22 +2263,18 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
-        "name": "Become Death",
-        "url": "https://open.spotify.com/album/78mkHcNRrEaEzDKrBnAG8U"
+        "name": "Concrete Casket",
+        "url": "https://open.spotify.com/album/6lICdyiJ6S1WU8aUjx9UVg"
       },
       "artists": [
         {
           "name": "Waste",
           "url": "https://open.spotify.com/artist/2XuyPcxHeNlK7tOej51mqj"
-        },
-        {
-          "name": "Late 9",
-          "url": "https://open.spotify.com/artist/07du8MUEUnqRsf0zjIDBup"
         }
       ],
-      "duration_ms": 129022,
-      "name": "Become Death",
-      "url": "https://open.spotify.com/track/7JztNZfxQ6bIYW85OecBsS"
+      "duration_ms": 178173,
+      "name": "Concrete Casket",
+      "url": "https://open.spotify.com/track/6zKq6LzG5XtVKye6urOW6G"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -2315,54 +2311,6 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
-        "name": "Eradication Protocol",
-        "url": "https://open.spotify.com/album/5w1pK88N0mSVghqZNDCYOp"
-      },
-      "artists": [
-        {
-          "name": "I Am Mook",
-          "url": "https://open.spotify.com/artist/7x45BsPZ55whpyDuFTwm6C"
-        }
-      ],
-      "duration_ms": 159191,
-      "name": "Teufel",
-      "url": "https://open.spotify.com/track/6uv8g96iFQbMavH6akBMoF"
-    },
-    {
-      "added_at": "2026-07-17 04:04:53",
-      "album": {
-        "name": "SPECTER",
-        "url": "https://open.spotify.com/album/7J778cP4g1pROg081pIdM0"
-      },
-      "artists": [
-        {
-          "name": "Monochromatic Black",
-          "url": "https://open.spotify.com/artist/22jL7DWPeqnMN1v9spmkxz"
-        }
-      ],
-      "duration_ms": 225432,
-      "name": "SPECTER",
-      "url": "https://open.spotify.com/track/3IJT9IkrnCcRVEQRFXlwOl"
-    },
-    {
-      "added_at": "2026-07-17 04:04:53",
-      "album": {
-        "name": "Concrete Casket",
-        "url": "https://open.spotify.com/album/6lICdyiJ6S1WU8aUjx9UVg"
-      },
-      "artists": [
-        {
-          "name": "Waste",
-          "url": "https://open.spotify.com/artist/2XuyPcxHeNlK7tOej51mqj"
-        }
-      ],
-      "duration_ms": 178173,
-      "name": "Concrete Casket",
-      "url": "https://open.spotify.com/track/6zKq6LzG5XtVKye6urOW6G"
-    },
-    {
-      "added_at": "2026-07-17 04:04:53",
-      "album": {
         "name": "S.O.S",
         "url": "https://open.spotify.com/album/54aH9F95VgkAfCMCnveGxz"
       },
@@ -2395,6 +2343,58 @@
       "duration_ms": 149432,
       "name": "S.O.S",
       "url": "https://open.spotify.com/track/19HmHAY4FPJXh8StiN8qLu"
+    },
+    {
+      "added_at": "2026-07-17 04:04:53",
+      "album": {
+        "name": "Eradication Protocol",
+        "url": "https://open.spotify.com/album/5w1pK88N0mSVghqZNDCYOp"
+      },
+      "artists": [
+        {
+          "name": "I Am Mook",
+          "url": "https://open.spotify.com/artist/7x45BsPZ55whpyDuFTwm6C"
+        }
+      ],
+      "duration_ms": 159191,
+      "name": "Teufel",
+      "url": "https://open.spotify.com/track/6uv8g96iFQbMavH6akBMoF"
+    },
+    {
+      "added_at": "2026-07-17 04:04:53",
+      "album": {
+        "name": "Become Death",
+        "url": "https://open.spotify.com/album/78mkHcNRrEaEzDKrBnAG8U"
+      },
+      "artists": [
+        {
+          "name": "Waste",
+          "url": "https://open.spotify.com/artist/2XuyPcxHeNlK7tOej51mqj"
+        },
+        {
+          "name": "Late 9",
+          "url": "https://open.spotify.com/artist/07du8MUEUnqRsf0zjIDBup"
+        }
+      ],
+      "duration_ms": 129022,
+      "name": "Become Death",
+      "url": "https://open.spotify.com/track/7JztNZfxQ6bIYW85OecBsS"
+    },
+    {
+      "added_at": "2026-07-17 04:04:53",
+      "album": {
+        "name": "SPECTER",
+        "url": "https://open.spotify.com/album/7J778cP4g1pROg081pIdM0"
+      },
+      "artists": [
+        {
+          "name": "Monochromatic Black",
+          "url": "https://open.spotify.com/artist/22jL7DWPeqnMN1v9spmkxz"
+        }
+      ],
+      "duration_ms": 225432,
+      "name": "SPECTER",
+      "url": "https://open.spotify.com/track/3IJT9IkrnCcRVEQRFXlwOl"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -2471,6 +2471,22 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
+        "name": "The Substance",
+        "url": "https://open.spotify.com/album/4zRZVEWooswBKCk4Ymbef0"
+      },
+      "artists": [
+        {
+          "name": "Decayer",
+          "url": "https://open.spotify.com/artist/2uEEkcNT0D7EmVs2ebKe9i"
+        }
+      ],
+      "duration_ms": 275360,
+      "name": "The Substance",
+      "url": "https://open.spotify.com/track/7dPZOf2Hyn5BRSUmz1ScDI"
+    },
+    {
+      "added_at": "2026-07-17 04:04:53",
+      "album": {
         "name": "Sworn To Repay",
         "url": "https://open.spotify.com/album/74ZJH8kdxayr72jwpcAluo"
       },
@@ -2487,18 +2503,18 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
-        "name": "The Substance",
-        "url": "https://open.spotify.com/album/4zRZVEWooswBKCk4Ymbef0"
+        "name": "Will To Power",
+        "url": "https://open.spotify.com/album/06wESQykn7vrMX6OsYIogr"
       },
       "artists": [
         {
-          "name": "Decayer",
-          "url": "https://open.spotify.com/artist/2uEEkcNT0D7EmVs2ebKe9i"
+          "name": "CRUCIFICTION",
+          "url": "https://open.spotify.com/artist/1yf1dC29po0p4GRKzrcxGS"
         }
       ],
-      "duration_ms": 275360,
-      "name": "The Substance",
-      "url": "https://open.spotify.com/track/7dPZOf2Hyn5BRSUmz1ScDI"
+      "duration_ms": 220192,
+      "name": "Will To Power",
+      "url": "https://open.spotify.com/track/2GAH9zumOv7EIFhIzUVn8S"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -2555,22 +2571,6 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
-        "name": "Will To Power",
-        "url": "https://open.spotify.com/album/06wESQykn7vrMX6OsYIogr"
-      },
-      "artists": [
-        {
-          "name": "CRUCIFICTION",
-          "url": "https://open.spotify.com/artist/1yf1dC29po0p4GRKzrcxGS"
-        }
-      ],
-      "duration_ms": 220192,
-      "name": "Will To Power",
-      "url": "https://open.spotify.com/track/2GAH9zumOv7EIFhIzUVn8S"
-    },
-    {
-      "added_at": "2026-07-17 04:04:53",
-      "album": {
         "name": "The Wretch",
         "url": "https://open.spotify.com/album/0qlqpg3Zc6Mw7n2tfaUHNk"
       },
@@ -2587,26 +2587,34 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
-        "name": "DEPTHS",
-        "url": "https://open.spotify.com/album/4Ci4DonjInElqisA3x30q3"
+        "name": "Portrait of God",
+        "url": "https://open.spotify.com/album/6sQXYY4UOfTmfCo5MbD0Jp"
       },
       "artists": [
         {
-          "name": "SUICIDE MESSIAH",
-          "url": "https://open.spotify.com/artist/43d9cIWGbJrzetNX3zi4JO"
+          "name": "Nouri Yetgin",
+          "url": "https://open.spotify.com/artist/4QWhRZYvNeYXSBkfW9hCap"
         },
         {
-          "name": "ENEMY 906",
-          "url": "https://open.spotify.com/artist/7KxQQIZ8rQ6jOM6FcimDp0"
+          "name": "CABAL",
+          "url": "https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO"
         },
         {
-          "name": "Blegh! Label",
-          "url": "https://open.spotify.com/artist/7igNgb0c4WUYyGZm84aaOl"
+          "name": "Sugar Spine",
+          "url": "https://open.spotify.com/artist/2xevVC5j2Ink2VeA2wnwkR"
+        },
+        {
+          "name": "Distant",
+          "url": "https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ"
+        },
+        {
+          "name": "Torn From Oblivion",
+          "url": "https://open.spotify.com/artist/5IXqeHYM84k26hwnTNDuZS"
         }
       ],
-      "duration_ms": 196431,
-      "name": "DEPTHS",
-      "url": "https://open.spotify.com/track/77LUHqjZUv9vNLuqcyF2ZL"
+      "duration_ms": 270484,
+      "name": "Portrait of God",
+      "url": "https://open.spotify.com/track/1W9sFH9GnNHPHYWNvkdN8A"
     },
     {
       "added_at": "2026-07-17 04:04:53",

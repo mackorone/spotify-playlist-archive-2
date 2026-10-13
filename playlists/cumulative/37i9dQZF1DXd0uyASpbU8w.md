@@ -4,7 +4,7 @@
 
 > New music from Khalil Harrison, Usimamane, Blxckie, Sammie Heavens, Nasty C and more.
 
-11,994 songs - 34 day 23 hr 45 min
+11,995 songs - 34 day 23 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7623,6 +7623,7 @@
 | [Not Tonite](https://open.spotify.com/track/1y4nunWLhmJhb3BNmCqBC6) | [mashamplane](https://open.spotify.com/artist/5fzPHND3XzZgA3CoFg0KmG), [Citizen Boy](https://open.spotify.com/artist/6TTcOTMAqvaVzmZBZkU4S0) | [Not Tonite](https://open.spotify.com/album/7a4thGDhKSuVmp15gqdDid) | 2:46 | 2026-07-30 | 2026-08-07 |
 | [Not yet Uhuru](https://open.spotify.com/track/11vpljSOBAZgZE5YxgdNIw) | [DJ Ngwazi](https://open.spotify.com/artist/1G8HHPk0dZaahLJQPySFCi), [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Zeh McGeba](https://open.spotify.com/artist/1dllQgzSDUNbXbtk5INbhj) | [GOITSEMODIMO \(I AM A SUPERSTAR\)](https://open.spotify.com/album/1HA2EbqvrD9GsFyrIBHmOF) | 6:55 | 2025-11-13 | 2025-11-22 |
 | [Not Your Drug](https://open.spotify.com/track/2uTLxUasBF5a9t80oXzBMp) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [Not Your Drug](https://open.spotify.com/album/6wy7po6NpxwqKUVpBdSmVz) | 3:01 | 2026-05-07 | 2026-05-16 |
+| [not your wife](https://open.spotify.com/track/6vahp1JzG4nrgq7Acb2QLC) | [Coasters](https://open.spotify.com/artist/4VjyjBUcEwwx4xqtU359Ep) | [not your wife](https://open.spotify.com/album/5AjiZWW1elqJecfnCKMKUA) | 3:45 | 2026-10-12 |  |
 | [Notes From A Wrist](https://open.spotify.com/track/7hhBtKyUAqWFu5rpLkyWVq) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Notes From A Wrist](https://open.spotify.com/album/5pbNr4xCNBBRwPh7DPVSht) | 3:09 | 2023-08-17 | 2023-08-25 |
 | [nothin lasts 4ever](https://open.spotify.com/track/1uriDwfQjwE54CXc14xkSo) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [nothin lasts 4ever](https://open.spotify.com/album/28KXehF6hOt3iYjCxVPr0o) | 2:41 | 2026-02-27 | 2026-03-06 |
 | [Nothing](https://open.spotify.com/track/4me4lJKlDzxhIAxwqtrCqS) | [Nutty Nys](https://open.spotify.com/artist/7Hbhksw9E9NGS44qobhTSX) | [Nothing](https://open.spotify.com/album/6vBrabhbMXnMfZVb4fMO2q) | 10:30 | 2023-07-14 | 2023-07-22 |

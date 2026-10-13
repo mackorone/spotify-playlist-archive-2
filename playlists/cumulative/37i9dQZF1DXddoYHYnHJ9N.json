@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Az 50 legn\u00e9pszer\u0171bb dal Magyarorsz\u00e1gon. Cover: Marics Peti & KKevin & DZSINDZSER",
+  "description": "Az 50 legn\u00e9pszer\u0171bb dal Magyarorsz\u00e1gon. Cover: Bruno X Spacc & T. Danny",
   "name": "Hot Hits Magyarorsz\u00e1g",
   "tracks": [
     {
@@ -1539,6 +1539,24 @@
     },
     {
       "album": {
+        "name": "Free Johnny",
+        "url": "https://open.spotify.com/album/5mjVrlYRezgEdlZQfpAtJO"
+      },
+      "artists": [
+        {
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197341,
+      "name": "Free Johnny",
+      "url": "https://open.spotify.com/track/6B6oxOWau5ngBRfMrLuDsz"
+    },
+    {
+      "album": {
         "name": "FREY TIMI",
         "url": "https://open.spotify.com/album/7opLiKvuCVuAkdFMJN2t7k"
       },
@@ -1608,7 +1626,7 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 188389,
       "name": "Gabi",
       "url": "https://open.spotify.com/track/5XTOQnTIpi49kuycmAuTut"
@@ -2715,6 +2733,28 @@
     },
     {
       "album": {
+        "name": "MEREDEK",
+        "url": "https://open.spotify.com/album/5cphGJqxt3YRyPhbvFAbfs"
+      },
+      "artists": [
+        {
+          "name": "Bruno X Spacc",
+          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
+        },
+        {
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107432,
+      "name": "MEREDEK",
+      "url": "https://open.spotify.com/track/7evObvcDijcKbmdngMFXKO"
+    },
+    {
+      "album": {
         "name": "MI B\u00c1NT",
         "url": "https://open.spotify.com/album/4H77WxRwlo58BjVB5cNCNH"
       },
@@ -3330,7 +3370,7 @@
       ],
       "date_added": "2026-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 225868,
       "name": "Patient Zero",
       "url": "https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub"

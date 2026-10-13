@@ -1,12 +1,12 @@
 {
   "description": "The hottest out the South. Cover: Gunna",
-  "num_followers": 1268615,
+  "num_followers": 1268527,
   "original_name": "No Cap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG8TCnEONR1anSQVKph2KDwaWyz2",
+  "snapshot_id": "AAAAAM0Fjh7FhwQiexbzpnWWZbf3sI+6",
   "tracks": [
     {
       "added_at": "2026-10-09 04:00:19",
@@ -499,6 +499,22 @@
       "duration_ms": 179924,
       "name": "LET 'EM KNOW",
       "url": "https://open.spotify.com/track/6AXf9n3qazR1bE1dngnqxi"
+    },
+    {
+      "added_at": "2026-10-12 17:08:22",
+      "album": {
+        "name": "Sey Mami",
+        "url": "https://open.spotify.com/album/0ksGtmJysm4zKtB0k6Auwr"
+      },
+      "artists": [
+        {
+          "name": "Cinco Suave",
+          "url": "https://open.spotify.com/artist/1WeKYh21pkgNuU1IfHGZVd"
+        }
+      ],
+      "duration_ms": 108120,
+      "name": "Sey Mami",
+      "url": "https://open.spotify.com/track/0cZmwo85fwCqA1xTF4PPFA"
     },
     {
       "added_at": "2026-10-09 04:00:19",

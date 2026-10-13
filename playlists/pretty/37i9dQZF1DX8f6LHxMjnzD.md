@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 922,375 likes - 40 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 922,294 likes - 40 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 33 | [Used To Be](https://open.spotify.com/track/4wj4ogBPevGweczZNtHoZ2) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [Used To Be](https://open.spotify.com/album/3RYKpZIW82JbMpULEdcxHG) | 3:01 |
 | 34 | [Remember Me That Way](https://open.spotify.com/track/3BZDakYGhC7ja1WHUbq86X) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Silver Sands Marina](https://open.spotify.com/album/0ESd1qZt6XOB3kbqiRlTuS) | 3:27 |
 | 35 | [I Can't \(feat\. OC Chris\)](https://open.spotify.com/track/0yWIsHUaRNEKRSVmG4m9eh) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [OC Chris](https://open.spotify.com/artist/3dFWCaBy7JxiA7uHPQeLZh) | [I Can't \(feat\. OC Chris\)](https://open.spotify.com/album/5mkVZv62nIYyV4s9GYGFsV) | 2:36 |
-| 36 | [\(no\) te quiero perder \- By Bershka Music](https://open.spotify.com/track/7iOXb777qN8aqu8ulgZd6l) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [\(no\) te quiero perder \[By Bershka Music\]](https://open.spotify.com/album/3aDgxK43chuaG2UTt9HJ9E) | 2:21 |
+| 36 | [\(no\) te quiero perder \- BY BERSHKA MUSIC](https://open.spotify.com/track/7iOXb777qN8aqu8ulgZd6l) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [\(no\) te quiero perder \[BY BERSHKA MUSIC\]](https://open.spotify.com/album/3aDgxK43chuaG2UTt9HJ9E) | 2:21 |
 | 37 | [Decimate](https://open.spotify.com/track/6nLUixjBeTjJqsKXdu6MBm) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Decimate](https://open.spotify.com/album/0SqDA9jpDJeC1uSwq7Lp35) | 3:20 |
 | 38 | [Alma Mia](https://open.spotify.com/track/0UbHQ7wLwqGetrn2dOVBVc) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Los Ojos Del Cóndor](https://open.spotify.com/album/2C8ZUoLNFrEO7KzPg03329) | 3:14 |
 | 39 | [DA BUSINESS](https://open.spotify.com/track/5XmIFwv3CFpNXL8taA0U3Z) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [DA BUSINESS](https://open.spotify.com/album/5QND0sxPeCwR6HMCWxBPoS) | 3:10 |

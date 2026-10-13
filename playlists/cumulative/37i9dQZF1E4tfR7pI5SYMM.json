@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Bad Scullianz, Jon Drake, Pablo Mercedes and more",
+  "description": "With Bad Scullianz, Jon Drake, HAM and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2026-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 158311,
       "name": "#StopPayola",
       "url": "https://open.spotify.com/track/5FFYcyT1354rYzaQ064bW3"
@@ -468,6 +468,24 @@
       "duration_ms": 330814,
       "name": "Alarm Bell",
       "url": "https://open.spotify.com/track/6l7UWZ3Gt3bDl1KGAXFiyW"
+    },
+    {
+      "album": {
+        "name": "Alchemy",
+        "url": "https://open.spotify.com/album/06ui8OeB5qoz0o0T1NaKQe"
+      },
+      "artists": [
+        {
+          "name": "Ox",
+          "url": "https://open.spotify.com/artist/1QjqzABONYHSJQoar4E9i2"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228375,
+      "name": "Alchemy",
+      "url": "https://open.spotify.com/track/3orKbuMfrVYHCGM21Uz78u"
     },
     {
       "album": {
@@ -1016,7 +1034,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 191225,
       "name": "Attrition",
       "url": "https://open.spotify.com/track/4RMccHZii59g4LsuXKdiCd"
@@ -1280,7 +1298,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 215836,
       "name": "Battle Damaged",
       "url": "https://open.spotify.com/track/26XPlS6lDhvL6VAJBHXX1a"
@@ -1676,7 +1694,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-03",
+      "date_removed": null,
       "duration_ms": 353515,
       "name": "Blindsonen",
       "url": "https://open.spotify.com/track/2ahamw6URtHTNbsO4plwe7"
@@ -1892,7 +1910,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 283500,
       "name": "Brain Bleed",
       "url": "https://open.spotify.com/track/2xOgJckO9fsLaqtINgW7bA"
@@ -2054,7 +2072,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 214966,
       "name": "Burning Bright",
       "url": "https://open.spotify.com/track/52VYoaI6Vv8QXgRuPXQ26B"
@@ -2310,7 +2328,7 @@
       ],
       "date_added": "2026-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-12",
+      "date_removed": null,
       "duration_ms": 216756,
       "name": "Carry The Light",
       "url": "https://open.spotify.com/track/01QlANmhnuBGjN4ZzACMhR"
@@ -3218,7 +3236,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 175169,
       "name": "Danish Rush",
       "url": "https://open.spotify.com/track/53xrVLMMQzs3aJUJK6QSQ5"
@@ -3290,7 +3308,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 226758,
       "name": "Days and Roses",
       "url": "https://open.spotify.com/track/3zpfjxjnfosCaGLfJeZdEf"
@@ -3672,7 +3690,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-10",
+      "date_removed": null,
       "duration_ms": 210961,
       "name": "Devil's Night",
       "url": "https://open.spotify.com/track/1rDU40IvTcXGerxa1QQAau"
@@ -5644,7 +5662,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-30",
+      "date_removed": null,
       "duration_ms": 177352,
       "name": "Feel the Burn",
       "url": "https://open.spotify.com/track/4M3fdKeOdFbZS7uBbY56Km"
@@ -6228,7 +6246,7 @@
       ],
       "date_added": "2026-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-11",
+      "date_removed": null,
       "duration_ms": 194458,
       "name": "F\u00f8rrbi",
       "url": "https://open.spotify.com/track/51yl5HUS0n61xMdrvqJoUS"
@@ -6648,6 +6666,24 @@
       "duration_ms": 192000,
       "name": "G\u00e5 Hardt Eller G\u00e5 Hjem",
       "url": "https://open.spotify.com/track/7oF3DOYkEbjDa9AJPX8gRX"
+    },
+    {
+      "album": {
+        "name": "Chromo Sapiens: T\u00f3nlist fyrir Shoplifter",
+        "url": "https://open.spotify.com/album/4h3j5cKWiun8LFw8GQBhZ2"
+      },
+      "artists": [
+        {
+          "name": "HAM",
+          "url": "https://open.spotify.com/artist/0oxFfQiaEinJbDSrTVB6c4"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301026,
+      "name": "Haf tr\u00fa",
+      "url": "https://open.spotify.com/track/1UmueEYGxu5qgBcLXvBhwP"
     },
     {
       "album": {
@@ -8162,7 +8198,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 299655,
       "name": "IO",
       "url": "https://open.spotify.com/track/78IlRY43O1FTXkXQFEKCU1"
@@ -8198,7 +8234,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 167285,
       "name": "Iron Line",
       "url": "https://open.spotify.com/track/4NVfZCQJskqECiopkrCFws"
@@ -8350,6 +8386,24 @@
       "duration_ms": 157600,
       "name": "Jetzt gehts los - EM Version",
       "url": "https://open.spotify.com/track/2XZYcrcxmj1Ohz4iAhBatL"
+    },
+    {
+      "album": {
+        "name": "Ljud i Tysta Rum",
+        "url": "https://open.spotify.com/album/6ZlFZ3p5ChqpjGve6mS5kM"
+      },
+      "artists": [
+        {
+          "name": "Bottenhavet",
+          "url": "https://open.spotify.com/artist/2kA0uC0XeZORs8jtAAPRV4"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312265,
+      "name": "Jord",
+      "url": "https://open.spotify.com/track/1oA1LiXTj4ZdQX4evszWH3"
     },
     {
       "album": {
@@ -8632,7 +8686,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 155846,
       "name": "Kick the Shit",
       "url": "https://open.spotify.com/track/3kvludAdfWJNKxacq95b5u"
@@ -9238,7 +9292,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 87251,
       "name": "Life In Prison",
       "url": "https://open.spotify.com/track/1fZgTjAaFx0KJRhbmtU09N"
@@ -9964,7 +10018,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 188625,
       "name": "Man on a Horse",
       "url": "https://open.spotify.com/track/5UHGAvVqmjfACrwDSKIPax"
@@ -10162,7 +10216,7 @@
       ],
       "date_added": "2026-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-12",
+      "date_removed": null,
       "duration_ms": 163846,
       "name": "Maybe Now",
       "url": "https://open.spotify.com/track/73s0QLKk5Ys610y8yho2TW"
@@ -10368,7 +10422,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 151500,
       "name": "Mercury (In Retrograde)",
       "url": "https://open.spotify.com/track/7j6MPoDgVUSwvzNLJkdLf7"
@@ -11010,7 +11064,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-11",
+      "date_removed": null,
       "duration_ms": 232000,
       "name": "My Heroin",
       "url": "https://open.spotify.com/track/6qmcht0ya4g8wzJIfL0MqO"
@@ -11086,7 +11140,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 299896,
       "name": "My Remains",
       "url": "https://open.spotify.com/track/2CgUeZgikS4M19YwxgxLte"
@@ -11570,7 +11624,7 @@
       ],
       "date_added": "2026-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-12",
+      "date_removed": null,
       "duration_ms": 222763,
       "name": "Nomad",
       "url": "https://open.spotify.com/track/5qUFjHOWPpy5kwVQaC8y2v"
@@ -12958,7 +13012,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-11",
+      "date_removed": null,
       "duration_ms": 119052,
       "name": "Por Por - From \"Narakarappor Alias The GrandMaster\"",
       "url": "https://open.spotify.com/track/6GRXpbjruwNCNpAgFsjbIF"
@@ -14268,7 +14322,7 @@
       ],
       "date_added": "2026-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-12",
+      "date_removed": null,
       "duration_ms": 177562,
       "name": "She's Outside",
       "url": "https://open.spotify.com/track/5h0OQLMrwlAHKC1xlO5DG3"
@@ -15662,7 +15716,7 @@
       ],
       "date_added": "2026-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 287413,
       "name": "Take Me for a While - Edition 2022",
       "url": "https://open.spotify.com/track/3nMqFVYcktz5ZVxa4clYb7"
@@ -16052,7 +16106,7 @@
       ],
       "date_added": "2026-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-06",
+      "date_removed": null,
       "duration_ms": 421885,
       "name": "The Deep",
       "url": "https://open.spotify.com/track/2RYQpzVCvzOLDeLvTv0kUO"
@@ -18298,7 +18352,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-25",
+      "date_removed": null,
       "duration_ms": 282133,
       "name": "Verschworen (Metropolis Remaster)",
       "url": "https://open.spotify.com/track/3nmFptZo0VDSeIps4eL6SO"
@@ -18496,7 +18550,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-23",
+      "date_removed": null,
       "duration_ms": 286750,
       "name": "Vortex",
       "url": "https://open.spotify.com/track/4f2s8tjc9RB3yDkLnyWdbG"
@@ -19950,7 +20004,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 142321,
       "name": "\u00c6 G\u00e5r R\u00e6tt P\u00e5",
       "url": "https://open.spotify.com/track/3VxDsrk7ktvrkjv3JFz1ms"

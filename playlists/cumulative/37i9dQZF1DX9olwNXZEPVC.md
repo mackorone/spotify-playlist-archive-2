@@ -4,7 +4,7 @@
 
 > NSWER! Change up!
 
-129 songs - 5 hr 10 min
+137 songs - 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,15 @@
 | [TANK \- Instrumental](https://open.spotify.com/track/1kHR4bGkpPesFOOiai9NUW) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [AD MARE](https://open.spotify.com/album/0QkOWJsNjhHQwhmhy4bstt) | 2:48 | 2024-01-15 |  |
 | [Thank you for waiting us!](https://open.spotify.com/track/28V8wFi1vHWkqmlzYqOTWQ) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Now is the time! : We Are NMIXX](https://open.spotify.com/album/1NaADge8wCv2oCkMsOrTd6) | 0:21 | 2022-11-24 | 2023-08-06 |
 | [Thank you for waiting us!](https://open.spotify.com/track/66Nedi5HluuBBCKMC5ykWe) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Now is the time! : We are NMIXX](https://open.spotify.com/album/5HT9Ife6Cu3E5xG4JCMmU6) | 0:21 | 2023-07-03 |  |
+| [THE MIXXTOPIA SAGA 1](https://open.spotify.com/track/2bfYgLxs8nE7InssmJVMEA) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [This Is NMIXX Audio Liners](https://open.spotify.com/album/6zCq78NSfXoDkzHcLC771R) | 1:29 | 2026-10-12 |  |
+| [THE MIXXTOPIA SAGA 2](https://open.spotify.com/track/2N0OdNr9zCzyZRzk0VQQ1o) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [This Is NMIXX Audio Liners](https://open.spotify.com/album/6zCq78NSfXoDkzHcLC771R) | 2:00 | 2026-10-12 |  |
+| [THE MIXXTOPIA SAGA 3](https://open.spotify.com/track/1oMEIFQBndYDg8A4kuzba6) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [This Is NMIXX Audio Liners](https://open.spotify.com/album/6zCq78NSfXoDkzHcLC771R) | 2:08 | 2026-10-12 |  |
+| [THE MIXXTOPIA SAGA 4](https://open.spotify.com/track/15b6EyZ8NYwcIwwCoz4NaS) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [This Is NMIXX Audio Liners](https://open.spotify.com/album/6zCq78NSfXoDkzHcLC771R) | 1:25 | 2026-10-12 |  |
+| [THE MIXXTOPIA SAGA 5](https://open.spotify.com/track/69NSJ4U9yOlA55kZDOHYsf) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [This Is NMIXX Audio Liners](https://open.spotify.com/album/6zCq78NSfXoDkzHcLC771R) | 1:53 | 2026-10-12 |  |
+| [THE MIXXTOPIA SAGA 6](https://open.spotify.com/track/7r2sSeAzrrCSrqtKME4Aua) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [This Is NMIXX Audio Liners](https://open.spotify.com/album/6zCq78NSfXoDkzHcLC771R) | 1:24 | 2026-10-12 |  |
+| [THE MIXXTOPIA SAGA 7](https://open.spotify.com/track/0KN9KFozuRuNxzrJnM4sVR) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [This Is NMIXX Audio Liners](https://open.spotify.com/album/6zCq78NSfXoDkzHcLC771R) | 2:29 | 2026-10-12 |  |
 | [The Moment](https://open.spotify.com/track/6QJWJ6hjq5ESMZtsNLJq1w) | [LILY](https://open.spotify.com/artist/0INVGid5ozT0WUEGa0WYV5), [SULLYOON](https://open.spotify.com/artist/2zThkgO048BYfaNSHQhyTH) | [Love to Hate You, Pt\. 4 \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/7qMURkrL885kAgogHHnSon) | 3:11 | 2023-02-16 |  |
+| [This Is NMIXX Audio Liner](https://open.spotify.com/track/2whQdEBB308CuSpt7rBR8a) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [This Is NMIXX Audio Liners](https://open.spotify.com/album/6zCq78NSfXoDkzHcLC771R) | 0:14 | 2026-10-12 |  |
 | [TIC TIC \(feat\. Pabllo Vittar\)](https://open.spotify.com/track/3LI7emieOkgFz1qbVcKR7m) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [TIC TIC](https://open.spotify.com/album/0vjMmLl4CGSYbmXASYydhQ) | 2:13 | 2026-03-19 |  |
 | [Up & Down](https://open.spotify.com/track/4YGhgJsNrg0E7wTUKsU2Zn) | [배이 \(NMIXX\)](https://open.spotify.com/artist/27E22J7VSc9aYvjqOGqyyo) | [제4차 사랑혁명 \(Original Sound Track\) Pt.1](https://open.spotify.com/album/1DQ3TZXKpJ6JXMcqI8bckC) | 4:04 | 2025-11-13 |  |
 | [XOXO](https://open.spotify.com/track/5jJgfoe8qJ59Dtp5nWmVVX) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: BREAK](https://open.spotify.com/album/5CCxLQgcI7cVwmgFDlicbP) | 2:42 | 2024-01-15 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 
 > Zwolnij tempo i daj się otulić jesiennym brzmieniom\. 🍂🎃☕
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,872 likes - 60 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,967 likes - 60 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,14 +50,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 40 | [MANGO](https://open.spotify.com/track/5jVMVRFbk57ovUm15hl6zw) | [Sylwia Grzeszczak](https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS) | [MANGO](https://open.spotify.com/album/1OtN3XYMdhEds2mdEtu5ui) | 3:16 |
 | 41 | [Jak my \- z filmu „Nasza rewolucja”](https://open.spotify.com/track/2rvtG0aAmZoOChMWSzoEZy) | [Kaśka Sochacka](https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN), [Kortez](https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk) | [Jak my \- z filmu „Nasza rewolucja”](https://open.spotify.com/album/716b7TQh18uiQ98HZsqA30) | 3:43 |
 | 42 | [Summer Clothes](https://open.spotify.com/track/1bOnbXldcr1DnseZ7getJp) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Summer Clothes](https://open.spotify.com/album/2QfJtIK3efePBUUoYgrgm3) | 4:25 |
-| 43 | [Ostatni dzień lata](https://open.spotify.com/track/6vAdfVyvcqGdRPmvutIp4D) | [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ), [Igo](https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N), [4Money](https://open.spotify.com/artist/6EjCs0fSiq0HvAbCzIPeq1) | [NURT](https://open.spotify.com/album/4HSrEiHI07MfLJEAlJUTj7) | 3:06 |
-| 44 | [⁠Wildfire](https://open.spotify.com/track/3V7Hl03AvjE96bo66GRwK8) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Nocturne](https://open.spotify.com/album/3BhBjyJdYkJXBiAJeBV8bC) | 4:56 |
-| 45 | [Lepsze czasy](https://open.spotify.com/track/5PEpqM4aMDhmqM2VojaSBy) | [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX) | [WSZYSTKO CZEGO CHCIAŁEM](https://open.spotify.com/album/22Xh3awslZAcS8KNMasds7) | 3:16 |
+| 43 | [Lepsze czasy](https://open.spotify.com/track/5PEpqM4aMDhmqM2VojaSBy) | [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX) | [WSZYSTKO CZEGO CHCIAŁEM](https://open.spotify.com/album/22Xh3awslZAcS8KNMasds7) | 3:16 |
+| 44 | [Ostatni dzień lata](https://open.spotify.com/track/6vAdfVyvcqGdRPmvutIp4D) | [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ), [Igo](https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N), [4Money](https://open.spotify.com/artist/6EjCs0fSiq0HvAbCzIPeq1) | [NURT](https://open.spotify.com/album/4HSrEiHI07MfLJEAlJUTj7) | 3:06 |
+| 45 | [⁠Wildfire](https://open.spotify.com/track/3V7Hl03AvjE96bo66GRwK8) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Nocturne](https://open.spotify.com/album/3BhBjyJdYkJXBiAJeBV8bC) | 4:56 |
 | 46 | [Chłopaki](https://open.spotify.com/track/2nI04xLBi0oRFsGmTJYeUU) | [Kuba i Kuba](https://open.spotify.com/artist/43i9C47bAIVm8jKgEKYPfh) | [Chłopaki](https://open.spotify.com/album/5b9FqCGkBCvoALEdOGC0De) | 2:50 |
 | 47 | [Mirafiori](https://open.spotify.com/track/2ypGq1U1VIrFZCdy1IBFz9) | [Artur Rojek](https://open.spotify.com/artist/2wmdMX0w131ZumU30P5WZH) | [Mirafiori](https://open.spotify.com/album/0l6bmzWH6Fxc84e3AZ8LMx) | 2:46 |
-| 48 | [Wolne popołudnia w Polsce](https://open.spotify.com/track/4Po0aFEMfZiWyZQXRXHByI) | [Szczyl](https://open.spotify.com/artist/2L5NIiBRiidSecXHHTB1Hm), [Hubert.](https://open.spotify.com/artist/7dlH4L7i8CtRUZMQDSuXqH), [Nolyrics Beats](https://open.spotify.com/artist/4z9oiedO8ugGNpfbJcg0iq) | [Wolne popołudnia w Polsce](https://open.spotify.com/album/0JW48Ni0H9RvCi1VfnHz8I) | 3:34 |
-| 49 | [daj mi znak](https://open.spotify.com/track/7qOAHK3XcMHz9YlSopJ107) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [daj mi znak](https://open.spotify.com/album/5crKBVQ9Tp0yMZJrgDCNG7) | 2:44 |
-| 50 | [Nie ma miejsca jak dom](https://open.spotify.com/track/2W61aot3YavDVRABULNHAy) | [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX) | [Nie ma miejsca jak dom](https://open.spotify.com/album/2cMSGsICanADztWRLYbEZw) | 3:18 |
+| 48 | [Nie ma miejsca jak dom](https://open.spotify.com/track/2W61aot3YavDVRABULNHAy) | [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX) | [Nie ma miejsca jak dom](https://open.spotify.com/album/2cMSGsICanADztWRLYbEZw) | 3:18 |
+| 49 | [Wolne popołudnia w Polsce](https://open.spotify.com/track/4Po0aFEMfZiWyZQXRXHByI) | [Szczyl](https://open.spotify.com/artist/2L5NIiBRiidSecXHHTB1Hm), [Hubert.](https://open.spotify.com/artist/7dlH4L7i8CtRUZMQDSuXqH), [Nolyrics Beats](https://open.spotify.com/artist/4z9oiedO8ugGNpfbJcg0iq) | [Wolne popołudnia w Polsce](https://open.spotify.com/album/0JW48Ni0H9RvCi1VfnHz8I) | 3:34 |
+| 50 | [daj mi znak](https://open.spotify.com/track/7qOAHK3XcMHz9YlSopJ107) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [daj mi znak](https://open.spotify.com/album/5crKBVQ9Tp0yMZJrgDCNG7) | 2:44 |
 | 51 | [halo Houston](https://open.spotify.com/track/4kIqI8h1bxOgrI9siEkD62) | [Jasiek Piwowarczyk](https://open.spotify.com/artist/705MUvkld29STeOVijPoTe) | [halo Houston](https://open.spotify.com/album/0ASB9yWOXdBFSnjKlZmI87) | 2:23 |
 | 52 | [W dziale na S](https://open.spotify.com/track/6FMQvAhWw7jLanJZIGgXM3) | [Artur Rojek](https://open.spotify.com/artist/2wmdMX0w131ZumU30P5WZH) | [Chciałbym urodzić się żeby latałem](https://open.spotify.com/album/1XvO6cGRXpNZWyk6bTHN0a) | 2:31 |
 | 53 | [Tak bym chciał...](https://open.spotify.com/track/3mbVuvuQQC9LLzvgSIHsbg) | [Dawid Kwiatkowski](https://open.spotify.com/artist/0hwjSlN7w3WWQY3mLdogAC) | [Południe](https://open.spotify.com/album/682aI8kCrCpjITb2VV69hn) | 3:20 |

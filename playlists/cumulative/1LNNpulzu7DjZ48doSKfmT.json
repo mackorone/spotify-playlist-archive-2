@@ -5739,6 +5739,24 @@
     },
     {
       "album": {
+        "name": "Unbroken After the Storm",
+        "url": "https://open.spotify.com/album/7wsDt2Eqn8EXfE6W22o1Lo"
+      },
+      "artists": [
+        {
+          "name": "Massey's Cross",
+          "url": "https://open.spotify.com/artist/44srOgIHTKwyOBmWW1tqkQ"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385500,
+      "name": "Donner Party / Sadly Forgotten",
+      "url": "https://open.spotify.com/track/4pCIv4vfwZdrDLix4rQDCq"
+    },
+    {
+      "album": {
         "name": "Donnie T",
         "url": "https://open.spotify.com/album/5qobuiLNV8CwZ2RRBfhU9x"
       },
@@ -10762,6 +10780,28 @@
       "duration_ms": 222147,
       "name": "Just Another Sun Going Down",
       "url": "https://open.spotify.com/track/0opwEDW1ipm3aGgCawAyye"
+    },
+    {
+      "album": {
+        "name": "Kamli",
+        "url": "https://open.spotify.com/album/6On01aNRDqJP4JFv3LmQRQ"
+      },
+      "artists": [
+        {
+          "name": "Komb",
+          "url": "https://open.spotify.com/artist/3O5f9vEgwXavGPnB0dQUQc"
+        },
+        {
+          "name": "Maurya Sevak",
+          "url": "https://open.spotify.com/artist/0xdqRvO8mc7jwRjfo4gqCs"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170400,
+      "name": "Kamli",
+      "url": "https://open.spotify.com/track/6U4JgXC2GVDF1Wbz1O50VY"
     },
     {
       "album": {

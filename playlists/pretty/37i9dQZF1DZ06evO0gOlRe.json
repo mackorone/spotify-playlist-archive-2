@@ -1,12 +1,12 @@
 {
   "description": "This is Alexander Stewart. The essential tracks, all in one playlist.",
-  "num_followers": 37714,
+  "num_followers": 37720,
   "original_name": "This Is Alexander Stewart",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asgugAAAAABidmKrxzl1ww+mqZqlrpAh",
+  "snapshot_id": "asrRgAAAAAAANPXDbu/9CUcpcFNvEE++",
   "tracks": [
     {
       "added_at": null,
@@ -64,9 +64,9 @@
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 190666,
-      "name": "i wish you cheated",
-      "url": "https://open.spotify.com/track/6yCcEYC4iWqMGqOsmQV99o"
+      "duration_ms": 138400,
+      "name": "blame's on me",
+      "url": "https://open.spotify.com/track/6L1kMQmgnMDtjlPKie9MQh"
     },
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Temporary",
-        "url": "https://open.spotify.com/album/4S4a9LgBwoQPRtgLasP5Vh"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 154927,
-      "name": "Temporary",
-      "url": "https://open.spotify.com/track/6oe1NvIn5P8zX5HwGAU9Nr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Halo",
         "url": "https://open.spotify.com/album/2dh9A1fIhtW9ggbd1nvDTL"
       },
@@ -123,6 +107,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Temporary",
+        "url": "https://open.spotify.com/album/4S4a9LgBwoQPRtgLasP5Vh"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 154927,
+      "name": "Temporary",
+      "url": "https://open.spotify.com/track/6oe1NvIn5P8zX5HwGAU9Nr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "bleeding heart",
         "url": "https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au"
       },
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 138400,
-      "name": "blame's on me",
-      "url": "https://open.spotify.com/track/6L1kMQmgnMDtjlPKie9MQh"
+      "duration_ms": 190666,
+      "name": "i wish you cheated",
+      "url": "https://open.spotify.com/track/6yCcEYC4iWqMGqOsmQV99o"
     },
     {
       "added_at": null,
@@ -171,6 +171,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "bleeding heart",
+        "url": "https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 162146,
+      "name": "if you only knew",
+      "url": "https://open.spotify.com/track/3xbvoHRRmgl2VJJ6vo5F4y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "House of Cards",
         "url": "https://open.spotify.com/album/278AZLs8DAqE2hldJ8pw41"
       },
@@ -187,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "bleeding heart",
-        "url": "https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au"
+        "name": "What If?",
+        "url": "https://open.spotify.com/album/3NQLzsml2l8kwASLKj3Av5"
       },
       "artists": [
         {
@@ -196,9 +212,9 @@
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 162146,
-      "name": "if you only knew",
-      "url": "https://open.spotify.com/track/3xbvoHRRmgl2VJJ6vo5F4y"
+      "duration_ms": 171760,
+      "name": "The Way a Heart Breaks",
+      "url": "https://open.spotify.com/track/0Bu17sNQtoxhPITYpxdblf"
     },
     {
       "added_at": null,
@@ -219,22 +235,6 @@
       "duration_ms": 177026,
       "name": "Wrong Way",
       "url": "https://open.spotify.com/track/0FXcLWA1NO6MxAe9yiK3oo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "What If?",
-        "url": "https://open.spotify.com/album/3NQLzsml2l8kwASLKj3Av5"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 171760,
-      "name": "The Way a Heart Breaks",
-      "url": "https://open.spotify.com/track/0Bu17sNQtoxhPITYpxdblf"
     },
     {
       "added_at": null,
@@ -499,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "broken by you",
+        "url": "https://open.spotify.com/album/3xGBQIPJYhqeSkTF53Jr70"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "broken by you",
+      "url": "https://open.spotify.com/track/472jZF9DQbbJlp6Zg58aai"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "birthday cake (duet)",
         "url": "https://open.spotify.com/album/6G3MPHbJfxqlNCC5VB6e3k"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 205280,
       "name": "birthday cake (duet)",
       "url": "https://open.spotify.com/track/5XgX3fuwz4BumeRyzQKW0S"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "broken by you",
-        "url": "https://open.spotify.com/album/3xGBQIPJYhqeSkTF53Jr70"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "broken by you",
-      "url": "https://open.spotify.com/track/472jZF9DQbbJlp6Zg58aai"
     },
     {
       "added_at": null,
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 155066,
-      "name": "drunk thought",
-      "url": "https://open.spotify.com/track/0LDgdxnp94Ut3f5d4Yxzcb"
+      "duration_ms": 144400,
+      "name": "knowing you exist",
+      "url": "https://open.spotify.com/track/2TRtmJg3JGtfKKnNOkU5Dn"
     },
     {
       "added_at": null,
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 144400,
-      "name": "knowing you exist",
-      "url": "https://open.spotify.com/track/2TRtmJg3JGtfKKnNOkU5Dn"
+      "duration_ms": 155066,
+      "name": "drunk thought",
+      "url": "https://open.spotify.com/track/0LDgdxnp94Ut3f5d4Yxzcb"
     },
     {
       "added_at": null,

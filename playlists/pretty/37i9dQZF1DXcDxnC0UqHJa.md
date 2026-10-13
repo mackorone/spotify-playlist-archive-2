@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDxnC0UqHJa.md) - [plain]
 
 > Folksy takes on your favorite tracks\. Cover: The Brudi Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 436,843 likes - 115 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 436,808 likes - 115 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,8 +117,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDxnC0UqHJa.md) - [plain]
 | 107 | [Look At Miss Ohio](https://open.spotify.com/track/4V7GKEwhd4NTF6xBbQq1tF) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Look At Miss Ohio](https://open.spotify.com/album/7LuDUHiZQ3e2OcrbwgzHIE) | 3:25 |
 | 108 | [To Ramona](https://open.spotify.com/track/5YL8nR0e3zF5fFqvBmSKDI) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [To Ramona](https://open.spotify.com/album/0JNGjWHIOEzGbjmakQvzBU) | 3:37 |
 | 109 | [Someone Like You](https://open.spotify.com/track/3S7BZqv1qZO5hxku8u8fqB) | [Dan Wilson](https://open.spotify.com/artist/045EiHd7X7cCjlamF0LV2M), [Kronos Quartet](https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3) | [Someone Like You](https://open.spotify.com/album/7hkImNgsAoOS5CtitpnFOb) | 4:51 |
-| 110 | [In Your Eyes](https://open.spotify.com/track/2Zc0lXc8psW1wzLWVVCQdN) | [Sons Of Bill](https://open.spotify.com/artist/52oqBs3nTaZ3K3PcGpjCgw), [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [In Your Eyes](https://open.spotify.com/album/1nETVDmxFwKb4EFiiDD4jV) | 4:42 |
-| 111 | [Love Will Tear Us Apart](https://open.spotify.com/track/24mkZs0ouxgWcSa7zhlBZf) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Love Will Tear Us Apart](https://open.spotify.com/album/4rIfE20Yf1aeKSNdlRp81C) | 2:48 |
+| 110 | [Love Will Tear Us Apart](https://open.spotify.com/track/24mkZs0ouxgWcSa7zhlBZf) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Love Will Tear Us Apart](https://open.spotify.com/album/4rIfE20Yf1aeKSNdlRp81C) | 2:48 |
+| 111 | [In Your Eyes](https://open.spotify.com/track/2Zc0lXc8psW1wzLWVVCQdN) | [Sons Of Bill](https://open.spotify.com/artist/52oqBs3nTaZ3K3PcGpjCgw), [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [In Your Eyes](https://open.spotify.com/album/1nETVDmxFwKb4EFiiDD4jV) | 4:42 |
 | 112 | [These Days](https://open.spotify.com/track/6FYoE2PUzG3ydfp63ByTCa) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [Cover to Cover](https://open.spotify.com/album/4N2eJ7m1ziNW5ODI6jGOTB) | 3:03 |
 | 113 | [Both Sides Now \(feat\. Natalie Prass\)](https://open.spotify.com/track/1rBmszepBsy1Wgq8ijQ8ak) | [Alva Leigh](https://open.spotify.com/artist/0Gfyhc754mTJyx0XAxXnD5), [Natalie Prass](https://open.spotify.com/artist/0EmUT6i9rTu9ZHy1Tl1iuX) | [In Nashville](https://open.spotify.com/album/1yQ0wwJJHexIeAK2fOqt4r) | 4:42 |
 | 114 | [good 4 u \- Spotify Sessions](https://open.spotify.com/track/3ruHm5bxqfPnAO14kYGvFx) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n) | [good 4 u / Dooley's Farm \(Spotify Singles\)](https://open.spotify.com/album/65mrgLaC6S4drN9PoJRxKm) | 3:36 |

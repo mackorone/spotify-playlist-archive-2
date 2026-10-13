@@ -1,6 +1,6 @@
 {
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
-  "num_followers": 594408,
+  "num_followers": 594446,
   "original_name": "Soft Office",
   "owner": {
     "name": "Spotify",
@@ -451,26 +451,6 @@
     {
       "added_at": "2026-09-30 22:47:28",
       "album": {
-        "name": "Hallucinating Love",
-        "url": "https://open.spotify.com/album/6NyoU5F25y1I7V9fqbKqy9"
-      },
-      "artists": [
-        {
-          "name": "Maribou State",
-          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
-        },
-        {
-          "name": "Holly Walker",
-          "url": "https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC"
-        }
-      ],
-      "duration_ms": 210994,
-      "name": "Peace Talk",
-      "url": "https://open.spotify.com/track/4c1GHCAXEFa08WHckJ6txh"
-    },
-    {
-      "added_at": "2026-09-30 22:47:28",
-      "album": {
         "name": "Too Good (Unknown Mortal Orchestra Remix)",
         "url": "https://open.spotify.com/album/5PHJreAXfXiHlSEWigdeFN"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 235005,
       "name": "Too Good - Unknown Mortal Orchestra Remix",
       "url": "https://open.spotify.com/track/4jMmXKJjle1GD241r9s1oj"
+    },
+    {
+      "added_at": "2026-09-30 22:47:28",
+      "album": {
+        "name": "Hallucinating Love",
+        "url": "https://open.spotify.com/album/6NyoU5F25y1I7V9fqbKqy9"
+      },
+      "artists": [
+        {
+          "name": "Maribou State",
+          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
+        },
+        {
+          "name": "Holly Walker",
+          "url": "https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC"
+        }
+      ],
+      "duration_ms": 210994,
+      "name": "Peace Talk",
+      "url": "https://open.spotify.com/track/4c1GHCAXEFa08WHckJ6txh"
     },
     {
       "added_at": "2026-09-30 22:47:28",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-09-30 22:47:28",
       "album": {
-        "name": "Baby Face",
-        "url": "https://open.spotify.com/album/03ED4VmMZWk0WfEqkNjhUe"
-      },
-      "artists": [
-        {
-          "name": "Porij",
-          "url": "https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp"
-        }
-      ],
-      "duration_ms": 219083,
-      "name": "Nobody Scared",
-      "url": "https://open.spotify.com/track/4kSOiZOW85gDgPMKVmnNVC"
-    },
-    {
-      "added_at": "2026-09-30 22:47:28",
-      "album": {
         "name": "ALPHA",
         "url": "https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 164693,
       "name": "I Can Only Whisper (feat. BADBADNOTGOOD)",
       "url": "https://open.spotify.com/track/5qXwFOkT3lrEonTzsYCeZ1"
+    },
+    {
+      "added_at": "2026-09-30 22:47:28",
+      "album": {
+        "name": "Baby Face",
+        "url": "https://open.spotify.com/album/03ED4VmMZWk0WfEqkNjhUe"
+      },
+      "artists": [
+        {
+          "name": "Porij",
+          "url": "https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp"
+        }
+      ],
+      "duration_ms": 219083,
+      "name": "Nobody Scared",
+      "url": "https://open.spotify.com/track/4kSOiZOW85gDgPMKVmnNVC"
     },
     {
       "added_at": "2026-09-30 22:47:28",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-09-30 22:47:28",
       "album": {
-        "name": "Acts of Faith",
-        "url": "https://open.spotify.com/album/0m8G0dSYf4rc8SRftPjZXU"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 434758,
-      "name": "Pray for Me",
-      "url": "https://open.spotify.com/track/78SFRnKmI86Hyq0pdO7j9f"
-    },
-    {
-      "added_at": "2026-09-30 22:47:28",
-      "album": {
         "name": "In The Half Light",
         "url": "https://open.spotify.com/album/7sV0NIlkRFHNBhbr3wD2AL"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 248400,
       "name": "Masquerade",
       "url": "https://open.spotify.com/track/4KWMFTpxFkwV5avb7Za0Sy"
+    },
+    {
+      "added_at": "2026-09-30 22:47:28",
+      "album": {
+        "name": "Acts of Faith",
+        "url": "https://open.spotify.com/album/0m8G0dSYf4rc8SRftPjZXU"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 434758,
+      "name": "Pray for Me",
+      "url": "https://open.spotify.com/track/78SFRnKmI86Hyq0pdO7j9f"
     },
     {
       "added_at": "2026-09-30 22:47:28",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-09-30 22:47:28",
       "album": {
-        "name": "Pensamientos Violentos",
-        "url": "https://open.spotify.com/album/5cHn5IrSpXnuyeRkacu0Al"
-      },
-      "artists": [
-        {
-          "name": "jere",
-          "url": "https://open.spotify.com/artist/2pW3XFfc7CT0Uu9Ophy7zx"
-        }
-      ],
-      "duration_ms": 208042,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/18U7HAw98r4jEMC2kce3SO"
-    },
-    {
-      "added_at": "2026-09-30 22:47:28",
-      "album": {
         "name": "Phosphorescent",
         "url": "https://open.spotify.com/album/0GgLzw8RdggLtLjpP4iSIE"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 240449,
       "name": "Skylight",
       "url": "https://open.spotify.com/track/0kwBCyPQMZVdqpqhcv50JA"
+    },
+    {
+      "added_at": "2026-09-30 22:47:28",
+      "album": {
+        "name": "Pensamientos Violentos",
+        "url": "https://open.spotify.com/album/5cHn5IrSpXnuyeRkacu0Al"
+      },
+      "artists": [
+        {
+          "name": "jere",
+          "url": "https://open.spotify.com/artist/2pW3XFfc7CT0Uu9Ophy7zx"
+        }
+      ],
+      "duration_ms": 208042,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/18U7HAw98r4jEMC2kce3SO"
     },
     {
       "added_at": "2026-09-30 22:47:28",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2026-09-30 22:47:28",
       "album": {
-        "name": "The Adventures Of Masta Splinta",
-        "url": "https://open.spotify.com/album/6C9MolvNVm2DdfJ2or8qQQ"
-      },
-      "artists": [
-        {
-          "name": "Intalekt",
-          "url": "https://open.spotify.com/artist/0DyatUnzbcULupeMCfqumy"
-        }
-      ],
-      "duration_ms": 221086,
-      "name": "Peace",
-      "url": "https://open.spotify.com/track/6Rw869ObJGXU1duRiWbIiU"
-    },
-    {
-      "added_at": "2026-09-30 22:47:28",
-      "album": {
         "name": "Drifting Out EP",
         "url": "https://open.spotify.com/album/5LkepEqRrfqY2t0UeOaEnh"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 219312,
       "name": "Drifting Out",
       "url": "https://open.spotify.com/track/2XmzxM91Pu7VvbjkszniBQ"
+    },
+    {
+      "added_at": "2026-09-30 22:47:28",
+      "album": {
+        "name": "The Adventures Of Masta Splinta",
+        "url": "https://open.spotify.com/album/6C9MolvNVm2DdfJ2or8qQQ"
+      },
+      "artists": [
+        {
+          "name": "Intalekt",
+          "url": "https://open.spotify.com/artist/0DyatUnzbcULupeMCfqumy"
+        }
+      ],
+      "duration_ms": 221086,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/6Rw869ObJGXU1duRiWbIiU"
     },
     {
       "added_at": "2026-09-30 22:47:28",
@@ -1707,18 +1707,18 @@
     {
       "added_at": "2026-09-30 22:47:28",
       "album": {
-        "name": "Musas en Mi",
-        "url": "https://open.spotify.com/album/4DpsoTA4hQJ3C92jvokX1s"
+        "name": "Love Potion",
+        "url": "https://open.spotify.com/album/04LlcT4cTidlpzQc3rHxOH"
       },
       "artists": [
         {
-          "name": "Arath Herce",
-          "url": "https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs"
+          "name": "Thee Marloes",
+          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
         }
       ],
-      "duration_ms": 334893,
-      "name": "Musas en Mi",
-      "url": "https://open.spotify.com/track/2z5Lw3cfLUpfXJymwKH6An"
+      "duration_ms": 166000,
+      "name": "Love Potion",
+      "url": "https://open.spotify.com/track/0V0wKd905Y3zUHbvYAt5nU"
     }
   ],
   "unique_name": "Soft Office",

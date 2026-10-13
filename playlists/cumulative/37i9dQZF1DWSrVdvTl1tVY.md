@@ -4,7 +4,7 @@
 
 > The biggest house bangers popping off in the UK, let's go! Cover: Patrick Topping
 
-1,575 songs - 3 day 16 hr 42 min
+1,576 songs - 3 day 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -516,7 +516,7 @@
 | [G.O.A.T](https://open.spotify.com/track/4AvD91GmVkVyDY6Q5Gdoan) | [Charlotte Devaney](https://open.spotify.com/artist/58quCP7j2McEeEtRungVle) | [G.O.A.T](https://open.spotify.com/album/4oVlzKpW3Sc17Jptq6PVb5) | 3:19 | 2022-03-08 | 2022-03-10 |
 | [GANGSTA](https://open.spotify.com/track/5w2J3jCuxhCKXSeAKooytB) | [Joss Dean](https://open.spotify.com/artist/5wY7g9kThj0QTE33r30CXf) | [GANGSTA](https://open.spotify.com/album/2FkZgqzJkucGubEC2Zw76l) | 3:00 | 2026-06-18 | 2026-09-18 |
 | [Garden](https://open.spotify.com/track/77uXlUY5qtAxiN1UCtAcyF) | [Emily Nash](https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup) | [Garden](https://open.spotify.com/album/1ojXM8eKlN2poo2wbKpwCm) | 3:35 | 2022-01-14 | 2022-05-14 |
-| [Gator Boots](https://open.spotify.com/track/0ON2rwK5dBNykojqtug4lY) | [James Poole](https://open.spotify.com/artist/14jYWAqwskpQJI3Uzg8XdT), [GUDFELLA](https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO) | [Gator Boots](https://open.spotify.com/album/1eNG28Pic6eX39VwSwNls9) | 2:21 | 2026-07-02 |  |
+| [Gator Boots](https://open.spotify.com/track/0ON2rwK5dBNykojqtug4lY) | [James Poole](https://open.spotify.com/artist/14jYWAqwskpQJI3Uzg8XdT), [GUDFELLA](https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO) | [Gator Boots](https://open.spotify.com/album/1eNG28Pic6eX39VwSwNls9) | 2:21 | 2026-07-02 | 2026-10-13 |
 | [GDH](https://open.spotify.com/track/2PhKn3tXUkx5vHlYM3P4Ob) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [GDH](https://open.spotify.com/album/0XuC5xsv6jj7zlrO2kUYz2) | 2:57 | 2025-06-12 | 2025-10-03 |
 | [Get Bossy \(feat\. MariaDennis\)](https://open.spotify.com/track/0eL7XibRJtKYfWH5H0Fnk5) | [Us Two](https://open.spotify.com/artist/4zTMBc60g05ykRN18LqIlN), [MariaDennis](https://open.spotify.com/artist/3YU24EoiqfIRzZ2RR1xsL1) | [Get Bossy \(feat\. MariaDennis\)](https://open.spotify.com/album/4leFDUKpsKCCwiBEpzDHIs) | 2:49 | 2024-01-26 | 2024-06-07 |
 | [Get Close](https://open.spotify.com/track/1OmTOm3sl7YAe8fJSVCtrK) | [Alex Adair](https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5) | [Get Close](https://open.spotify.com/album/16dFWwANoVShEiO04HyZRG) | 3:37 | 2022-07-21 | 2022-11-18 |
@@ -1170,6 +1170,7 @@
 | [Rockin'](https://open.spotify.com/track/6KeiZ3gXkeqkKMyH8FL17U) | [Caleb Laurenson](https://open.spotify.com/artist/1KBwb4QGzLkhNtLjIkNRDR), [Will Makin](https://open.spotify.com/artist/5mlHhVwONbABzNhcrw4jNd) | [NTB / Rockin'](https://open.spotify.com/album/6Zs6JUFnrETZbqTUfAZ2O4) | 3:27 | 2026-07-23 |  |
 | [Rocksteady Rumble](https://open.spotify.com/track/78HVdp7NRs7sRYisKYdbjF) | [Lauren Lo Sung](https://open.spotify.com/artist/2skgOXx0JaoCoR7gqJYH05), [ADR \(UK\)](https://open.spotify.com/artist/3IMrOdTFlakSWfVl6DKMub) | [Rocksteady Rumble](https://open.spotify.com/album/5wmc0YmKPYaWyU7DIRpZL7) | 3:01 | 2026-07-30 |  |
 | [Role Model](https://open.spotify.com/track/5CSfhQ8ql3ofBE8PsQnQfR) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW), [Dan Diamond](https://open.spotify.com/artist/2MXl3PpdGGUqQNgfboIImS), [Luca Guerrieri](https://open.spotify.com/artist/0kSI1cgEztfBxr2QUYlU7c) | [Role Model](https://open.spotify.com/album/3sxeCXtywWoYIcpGj5aGKm) | 3:26 | 2024-05-17 | 2024-12-06 |
+| [Rollercoaster](https://open.spotify.com/track/5Alk9qfDLzHZlsWimnJble) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH), [Dart](https://open.spotify.com/artist/6osq4qbA2enSjbGxYviPgj) | [Rollercoaster](https://open.spotify.com/album/6xEbjbvcJzDK7qXy1hsbCX) | 3:09 | 2026-10-12 |  |
 | [Rolling Thunder](https://open.spotify.com/track/6s7dLjVizkile3eKaqt4db) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Rolling Thunder](https://open.spotify.com/album/341NSo0xEGEeSpTTggK7vu) | 2:46 | 2025-07-10 | 2025-10-03 |
 | [Rooftopin Again](https://open.spotify.com/track/3SagPegAVUZSNfT3khDcZZ) | [Marvin Aloys](https://open.spotify.com/artist/3CCJPt2Y7WxjlW8tswCu2q), [Black Prez](https://open.spotify.com/artist/3kGJGwSmyImKKigpSkKnTz) | [Rooftopin Again](https://open.spotify.com/album/3YRQzZCG4RTeZTWByhIJrV) | 3:33 | 2023-12-22 | 2024-04-05 |
 | [Roskill](https://open.spotify.com/track/0SaXnvFBhh9xbSH68xUxli) | [Josh Butler](https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX) | [Roskill](https://open.spotify.com/album/3Mj7BTnNRpcRQwUM0u1ugc) | 7:00 | 2021-12-17 | 2022-03-04 |

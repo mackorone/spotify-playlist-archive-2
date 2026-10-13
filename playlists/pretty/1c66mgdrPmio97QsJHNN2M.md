@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2026 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 6,042 likes - 234 songs - 12 hr 15 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 6,049 likes - 246 songs - 12 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -242,5 +242,17 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 232 | [Talking to my ghost](https://open.spotify.com/track/6hxb1KtWAQrL0xhw63pyr6) | [Prince Frencho](https://open.spotify.com/artist/2BwRP4jLpHD1Tj5BpB6qkQ) | [Talking to my ghost](https://open.spotify.com/album/2QK4SWD3HqtqqnrCMKrZuK) | 3:00 |
 | 233 | [Lago di Garda \- Felt Piano](https://open.spotify.com/track/19BtXs7G3LA9eYZGutLR6Q) | [Raphaël Novarina](https://open.spotify.com/artist/2a1ku6axhh00M3y40JK2as) | [Felt Piano II](https://open.spotify.com/album/2oRSmnuvw6XADdv0S6Qg11) | 2:51 |
 | 234 | [City Skies](https://open.spotify.com/track/1h4Fv7HSWH7swYerwdjWvl) | [Irfad](https://open.spotify.com/artist/2bdTySHQu8orEocLZwMy89), [Christine Turcel](https://open.spotify.com/artist/69HQQ9caNrCVO6ZlLoyvWa) | [City Skies](https://open.spotify.com/album/2IKprNWr2TNmqGVDm2tlsI) | 2:31 |
+| 235 | [Believe Your Heart](https://open.spotify.com/track/2nn57dqyFl0BrT6NPsoJYY) | [Aaron Lewinter](https://open.spotify.com/artist/0EucucDa2H5UjykSAqjt6S) | [Believe Your Heart](https://open.spotify.com/album/7cIi3cFX74m19VoxJA337Y) | 2:47 |
+| 236 | [Nocturnal](https://open.spotify.com/track/3FsjZxUite1emwfpv6wMz8) | [Harrison Jay](https://open.spotify.com/artist/1IP2JOtGneRPhNZEJTo4TG), [Shreyansh Janagal](https://open.spotify.com/artist/0JscdeMsX5DwnCOtuTsVcA) | [Nocturnal](https://open.spotify.com/album/3nubPxKahpQrwYyfKkeWmC) | 2:32 |
+| 237 | [ACCEPTANCE](https://open.spotify.com/track/1QuYHH4Rn4GQx1C8l4cLWj) | [lowkeylindsay](https://open.spotify.com/artist/2DArB2xJDcVk2MQPfgeWiH) | [EVERYTHING ALL AT ONCE](https://open.spotify.com/album/54TZOr9pmJImSrb5VADXoR) | 2:39 |
+| 238 | [Teenage Dirtbag](https://open.spotify.com/track/2ornoIPPFbS07AHHpWbmmB) | [Dryva](https://open.spotify.com/artist/1KqTLO06qRmOoCAW86a5oB) | [Teenage Dirtbag](https://open.spotify.com/album/3Ut4NEknK4yKciEe4pgAdl) | 2:32 |
+| 239 | [ZoR!K](https://open.spotify.com/track/5uygvOlcy7jIcrrXDqNzrb) | [Eclipsonic](https://open.spotify.com/artist/1iETsPCa4hU0ET5xPduY8d) | [ZoR!K](https://open.spotify.com/album/0i39mLzolivb4BuCeEjbmq) | 4:56 |
+| 240 | [Whatever, Whatever](https://open.spotify.com/track/1RcRcXDyrTrYQRyUx7yM3y) | [Tom J Dean](https://open.spotify.com/artist/52IkhNf7BbTf72yuzlGVnw) | [Whatever, Whatever](https://open.spotify.com/album/05Pe0sesI99eGDAGx9NJaW) | 3:20 |
+| 241 | [Posters on the Ceiling](https://open.spotify.com/track/2bXVWIRpLh0mh0rvNU7oGa) | [Funk Lazarus](https://open.spotify.com/artist/27Lj5gvLs9RK7jYpd3q5Cf), [Stasis Core](https://open.spotify.com/artist/7jGouNuqGNIPzU3TBguRPj) | [Posters on the Ceiling](https://open.spotify.com/album/3ZiT9Vhb7fS92qnMwlyvzt) | 1:35 |
+| 242 | [CD Skips & Roller Rinks](https://open.spotify.com/track/6hriXDzAVmp8lzLAwNalF4) | [Stasis Core](https://open.spotify.com/artist/7jGouNuqGNIPzU3TBguRPj), [Funk Lazarus](https://open.spotify.com/artist/27Lj5gvLs9RK7jYpd3q5Cf) | [CD Skips & Roller Rinks](https://open.spotify.com/album/6VQ1vmcwQC4iywP2ZaBXzI) | 2:47 |
+| 243 | [Freak](https://open.spotify.com/track/1zMkrij3OWaSKf6Nw4UIIT) | [Mysterious MJ](https://open.spotify.com/artist/7kFyntatuNYvJYo3lLc5ot) | [Freak](https://open.spotify.com/album/5jTIsp81lmtaQ68Ndqp7ML) | 3:18 |
+| 244 | [You will remember me](https://open.spotify.com/track/5slNOzKTbwJmL7axQStSbN) | [ALTSOUND SRB](https://open.spotify.com/artist/4OZruhUi24VNQTmHMkU2lA) | [You will remember me](https://open.spotify.com/album/0AMTqW0CIlWQF5KVxUYg0v) | 2:28 |
+| 245 | [Hungry For You \(CheeseBurger\)](https://open.spotify.com/track/3zANb3j3x592uqN3lacizc) | [Pranit Vijay Mhaske](https://open.spotify.com/artist/2Ea2o2JM9nsZl7mUSjUnPb) | [Hungry For You \(CheeseBurger\)](https://open.spotify.com/album/4sPpLewiohPUXyD2gQMq0m) | 3:29 |
+| 246 | [AIM HIGH](https://open.spotify.com/track/4vrJey2o4pZFJy0u9FQlZF) | [Mimis Music Program](https://open.spotify.com/artist/2m1Hult9jmeBQfmTvlE2d0) | [AIM HIGH](https://open.spotify.com/album/6R75d4EYg4OM84mGePXb53) | 2:58 |
 
-Snapshot ID: `AAA9F4hV7d/wcBy1v5XCZXLI0U3KT7Vg`
+Snapshot ID: `AAA9I47fpPHq+TsJD+54e/pDH01dY50l`

@@ -4,7 +4,7 @@
 
 > Bring the festival vibes to wherever you are with these dance bangers.
 
-358 songs - 20 hr 22 min
+359 songs - 20 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Blow My Mind](https://open.spotify.com/track/0XreCaaGPkZpuEiRM1MiWq) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d), [GHSTGHSTGHST](https://open.spotify.com/artist/3SrkcdnKx2kzCHGFk9xE48) | [Blow My Mind](https://open.spotify.com/album/1slkHMzVPHaSr0OIhMrxZ1) | 2:31 | 2024-05-23 | 2024-09-20 |
 | [Boost Up](https://open.spotify.com/track/07Sm4SlYGZ4CRSxgwP3hUr) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Boost Up](https://open.spotify.com/album/58koXuocSFzeYdnmC4gyFK) | 3:31 | 2024-08-09 | 2026-05-02 |
 | [Both Of Us \- Edit](https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us](https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA) | 3:49 | 2025-05-16 |  |
-| [Boujee](https://open.spotify.com/track/5jcgGbYZAFYR9s2HuVO7ff) | [Stephani B](https://open.spotify.com/artist/1KO1lRmzn2ruREb8hlFa0A), [Scott Forshaw](https://open.spotify.com/artist/2B3lljR6lMaymKtckOsdoy) | [Boujee](https://open.spotify.com/album/3JQg1rv2uGIQEdfnoir8CJ) | 2:32 | 2026-08-13 |  |
+| [Boujee](https://open.spotify.com/track/5jcgGbYZAFYR9s2HuVO7ff) | [Stephani B](https://open.spotify.com/artist/1KO1lRmzn2ruREb8hlFa0A), [Scott Forshaw](https://open.spotify.com/artist/2B3lljR6lMaymKtckOsdoy) | [Boujee](https://open.spotify.com/album/3JQg1rv2uGIQEdfnoir8CJ) | 2:32 | 2026-08-13 | 2026-10-13 |
 | [Bounce Music](https://open.spotify.com/track/0gOnBcr0GJtmduY7oijUuP) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Bounce Music](https://open.spotify.com/album/1duGEpqKEjHGRQGvxc7n1G) | 3:50 | 2026-08-06 | 2026-08-14 |
 | [BREAK IT DOWN \(ON THE BASSLINE\)](https://open.spotify.com/track/1poGDt4f2MB2q9m1lsBwAB) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [IN2STELLAR](https://open.spotify.com/artist/6JDTszsnsJ44yCRBnISbVq) | [BREAK IT DOWN \(ON THE BASSLINE\)](https://open.spotify.com/album/35HrIn0UbaHzkoLNMusEo1) | 2:34 | 2024-07-19 | 2024-07-27 |
 | [Breathe](https://open.spotify.com/track/6TR0FGw4zhlGbQALN065AI) | [CAMELPHAT](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Breathe](https://open.spotify.com/album/7c4A33WznTkdnqBEmLsWWF) | 3:14 | 2025-05-16 |  |
@@ -225,6 +225,7 @@
 | [Mash up the Dance](https://open.spotify.com/track/3HWxmlUkBo3GXRxefWas8m) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Mash up the Dance](https://open.spotify.com/album/6FjPHeZxl5hwST6ZF2MC3v) | 3:09 | 2022-07-18 | 2024-03-01 |
 | [Meli \(II\)](https://open.spotify.com/track/6nGhGBz7uaE1RngnIFRKep) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Meli \(II\)](https://open.spotify.com/album/6pDZnLDqV5XuiVmuSw7oZs) | 6:57 | 2022-07-18 | 2023-11-25 |
 | [Mercy](https://open.spotify.com/track/6u1BgjotlF5sUwMvpTqtdA) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Mercy](https://open.spotify.com/album/3oM67ehG9IkPgF8JqQVPLl) | 2:30 | 2024-07-05 | 2025-05-17 |
+| [Mi Combi](https://open.spotify.com/track/2G6AM2rmjjJcyiOvizYawc) | [Ollie BC](https://open.spotify.com/artist/7crjp3htKFvWTqzRjdnjmQ), [Mason Collective](https://open.spotify.com/artist/5v1K4IgzvVs7rFzessYPhS), [Dany Gomez](https://open.spotify.com/artist/5kMchfwW30VxyO1hwOnaCt), [EMBI](https://open.spotify.com/artist/6NBXnI1dWJ0gh8CrmV4Wg0) | [Mi Combi EP](https://open.spotify.com/album/4eQDew4OYl7gq9cDF3yIYd) | 2:46 | 2026-10-02 |  |
 | [Midtown Playground](https://open.spotify.com/track/22fEl4nzfgTqKi7ZYNXW3c) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [Midtown Playground](https://open.spotify.com/album/4wJmh4uUgDAAAyFdRMIE7K) | 3:42 | 2023-10-06 | 2024-05-24 |
 | [Mind Still \(feat\. blythe\)](https://open.spotify.com/track/5698qx5K7VmYzeJ6O4WR7v) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [blythe](https://open.spotify.com/artist/3a6XMXgL5f92tw3wX42kOC) | [Mind Still \(feat\. blythe\)](https://open.spotify.com/album/5vQgixmnyYGp53WtWEfBtQ) | 2:36 | 2024-05-23 | 2026-05-02 |
 | [Mind, Body & Soul](https://open.spotify.com/track/3R4SI5aMIiUhNDGOAOQk38) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d), [Tristan Henry](https://open.spotify.com/artist/6UyRsPqWooGjDexC857b1T) | [Mind, Body & Soul](https://open.spotify.com/album/6nBOwBr4EULU9wXzzImmNI) | 3:17 | 2025-08-14 | 2026-05-02 |

@@ -4,7 +4,7 @@
 
 > This is Kinderen voor Kinderen\. The essential tracks, all in one playlist.
 
-76 songs - 3 hr 42 min
+77 songs - 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Daba Die Daba Daa](https://open.spotify.com/track/1a7sr4v7f7tAig5fl68Vir) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Daba Die Daba Daa](https://open.spotify.com/album/0xHWsgwM49ZtsJz3GNDQIS) | 3:02 | 2025-08-19 | 2026-01-15 |
 | [Daba Die Daba Daa](https://open.spotify.com/track/4to9kWICO3BiSYrD4a3zyX) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [45 \- Lekker eigenwijs](https://open.spotify.com/album/26Fp5Uw7UDheeFVXlu1HAr) | 3:02 | 2026-01-15 |  |
 | [Dansen in de regen](https://open.spotify.com/track/5zh0gHpGzmzZEtsQRL4xPG) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [45 \- Lekker eigenwijs](https://open.spotify.com/album/26Fp5Uw7UDheeFVXlu1HAr) | 2:50 | 2025-08-19 |  |
-| [Dierenfreak](https://open.spotify.com/track/2Me97ssmNwYNWv3pmG9udm) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Dierenfreak](https://open.spotify.com/album/7stY2T5LaZrgYSbviajtyb) | 2:27 | 2025-08-19 |  |
+| [Dierenfreak](https://open.spotify.com/track/2Me97ssmNwYNWv3pmG9udm) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Dierenfreak](https://open.spotify.com/album/7stY2T5LaZrgYSbviajtyb) | 2:27 | 2025-08-19 | 2026-10-13 |
 | [Doe mee! warming\-up](https://open.spotify.com/track/6PxuoFoxBSOwX9k00JzD6u) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Doe mee! warming\-up](https://open.spotify.com/album/6E4xBt8xyVqunxfh69mtxP) | 4:47 | 2026-10-03 |  |
 | [Eigen Tempo](https://open.spotify.com/track/6Ae0Kc5HBKRCh7RU919aB5) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [40 \- Reis mee!](https://open.spotify.com/album/3s1UkvqVNjeDkoH3VGMqmW) | 3:06 | 2025-08-19 | 2025-10-14 |
 | [En toen?](https://open.spotify.com/track/0xISITZcc7YpCwkcxRcW3G) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [En toen?](https://open.spotify.com/album/2SvWduNB5ax7RYt4I6TyEm) | 2:43 | 2025-08-19 | 2026-01-20 |
@@ -45,6 +45,7 @@
 | [Hoogbegaafd](https://open.spotify.com/track/7kMU6QAAOl8VwAnelWkXOV) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [44 \- Bij mij thuis](https://open.spotify.com/album/4NhFo1kpTnSg3KMi8B2hFV) | 3:08 | 2025-08-19 | 2025-10-12 |
 | [Hupsakee!](https://open.spotify.com/track/7pXiqvF1YAmAGohFzpqXbM) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [37 \- Voor altijd jong!](https://open.spotify.com/album/3hE8s3hbQbD6eY9LQQyBMK) | 2:55 | 2025-08-19 |  |
 | [Ik Heb Zo Waanzinnig Gedroomd](https://open.spotify.com/track/4A7tc8ZBC1fsJaNErPnWCo) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [1 \- Kinderen voor Kinderen](https://open.spotify.com/album/1xLhUCW6dYpKezCIt1FR5L) | 2:29 | 2026-01-21 | 2026-03-28 |
+| [Jodeladihee](https://open.spotify.com/track/0iptFvC3oCIivRvKpGe6bq) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [47 \- Spot aan](https://open.spotify.com/album/4TuM9TSDGhc1XgAZZynKl5) | 2:32 | 2026-10-13 |  |
 | [Klaar Voor De Start](https://open.spotify.com/track/55n2cy2VZxceL5kcsBqwqf) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Klaar Voor De Start \(Deel 34\)](https://open.spotify.com/album/2JN272oH25vLaaK57Grk6p) | 3:03 | 2025-08-19 |  |
 | [Kleur de wereld groen](https://open.spotify.com/track/5MppH5OIxJKacTcpdfZws4) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [46 \- Vol avontuur](https://open.spotify.com/album/1YGnCuWsBhzrFBBWwEeBku) | 2:42 | 2025-10-14 |  |
 | [Kliekjesdag](https://open.spotify.com/track/3ZBAWASFvAOBsPTC6UeLQj) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [41 \- En toen?](https://open.spotify.com/album/70eAbvTqUjOBCQqEN6rlUJ) | 3:09 | 2025-08-19 | 2025-11-12 |

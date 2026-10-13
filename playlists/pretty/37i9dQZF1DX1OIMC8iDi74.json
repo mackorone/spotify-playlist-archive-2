@@ -1,6 +1,6 @@
 {
   "description": "The best of electronic trap \ud83e\ude77 with ISOxo",
-  "num_followers": 872150,
+  "num_followers": 872101,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2026-10-09 04:02:01",
       "album": {
+        "name": "DOPAMINE++",
+        "url": "https://open.spotify.com/album/6eMsuTTLUDP2IyUpniYuqF"
+      },
+      "artists": [
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        }
+      ],
+      "duration_ms": 202285,
+      "name": "DOPAMINE++",
+      "url": "https://open.spotify.com/track/22ruxNj3CULTE2dAM1r9aw"
+    },
+    {
+      "added_at": "2026-10-09 04:02:01",
+      "album": {
         "name": "Throw Ya Body",
         "url": "https://open.spotify.com/album/4TADJ1eEDYHdmMfUN9fWwg"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 171428,
       "name": "Throw Ya Body",
       "url": "https://open.spotify.com/track/5f3KMJbhhUJl1S3deq0P6C"
-    },
-    {
-      "added_at": "2026-10-09 04:02:01",
-      "album": {
-        "name": "DOPAMINE++",
-        "url": "https://open.spotify.com/album/6eMsuTTLUDP2IyUpniYuqF"
-      },
-      "artists": [
-        {
-          "name": "Juelz",
-          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
-        }
-      ],
-      "duration_ms": 202285,
-      "name": "DOPAMINE++",
-      "url": "https://open.spotify.com/track/22ruxNj3CULTE2dAM1r9aw"
     },
     {
       "added_at": "2026-10-09 04:02:01",
@@ -1839,26 +1839,6 @@
     {
       "added_at": "2026-10-09 04:02:01",
       "album": {
-        "name": "2MINUTES",
-        "url": "https://open.spotify.com/album/2v3aGtCv3R0C2cTqa0bMon"
-      },
-      "artists": [
-        {
-          "name": "Bishu",
-          "url": "https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL"
-        },
-        {
-          "name": "rossxo",
-          "url": "https://open.spotify.com/artist/1q1ZWybfsUJFayBQiDye8W"
-        }
-      ],
-      "duration_ms": 219428,
-      "name": "2MINUTES",
-      "url": "https://open.spotify.com/track/0uMacCT18h0GN7OhvTD8AT"
-    },
-    {
-      "added_at": "2026-10-09 04:02:01",
-      "album": {
         "name": "POWER",
         "url": "https://open.spotify.com/album/3mcCT5ge4xxobfw0bdeGNm"
       },
@@ -1875,6 +1855,26 @@
       "duration_ms": 144545,
       "name": "POWER",
       "url": "https://open.spotify.com/track/0P5KTcGLQludTZtkKoUOjK"
+    },
+    {
+      "added_at": "2026-10-09 04:02:01",
+      "album": {
+        "name": "2MINUTES",
+        "url": "https://open.spotify.com/album/2v3aGtCv3R0C2cTqa0bMon"
+      },
+      "artists": [
+        {
+          "name": "Bishu",
+          "url": "https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL"
+        },
+        {
+          "name": "rossxo",
+          "url": "https://open.spotify.com/artist/1q1ZWybfsUJFayBQiDye8W"
+        }
+      ],
+      "duration_ms": 219428,
+      "name": "2MINUTES",
+      "url": "https://open.spotify.com/track/0uMacCT18h0GN7OhvTD8AT"
     }
   ],
   "unique_name": "Trap Mojito",

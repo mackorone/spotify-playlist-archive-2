@@ -1,6 +1,6 @@
 {
   "description": "New morning mercies. \u2600\ufe0f",
-  "num_followers": 125865,
+  "num_followers": 125899,
   "original_name": "GOoD Morning",
   "owner": {
     "name": "Spotify",
@@ -607,6 +607,22 @@
     {
       "added_at": "2026-07-29 15:45:01",
       "album": {
+        "name": "Blinded",
+        "url": "https://open.spotify.com/album/4HIa4aAv2MMUq8eTlJUVCc"
+      },
+      "artists": [
+        {
+          "name": "Ryan Stevenson",
+          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
+        }
+      ],
+      "duration_ms": 207969,
+      "name": "Blinded",
+      "url": "https://open.spotify.com/track/1wsxYJWrgYuVzieibPpyIP"
+    },
+    {
+      "added_at": "2026-07-29 15:45:01",
+      "album": {
         "name": "Brand New (feat. Terrian)",
         "url": "https://open.spotify.com/album/7fJpxRI9nTu4iloWvOquOJ"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 199573,
       "name": "Good Lord",
       "url": "https://open.spotify.com/track/1Jy3KTQbhHHr7DEc72oys2"
-    },
-    {
-      "added_at": "2026-07-29 15:45:01",
-      "album": {
-        "name": "Blinded",
-        "url": "https://open.spotify.com/album/4HIa4aAv2MMUq8eTlJUVCc"
-      },
-      "artists": [
-        {
-          "name": "Ryan Stevenson",
-          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
-        }
-      ],
-      "duration_ms": 207969,
-      "name": "Blinded",
-      "url": "https://open.spotify.com/track/1wsxYJWrgYuVzieibPpyIP"
     },
     {
       "added_at": "2026-07-29 15:45:01",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-07-29 15:45:01",
       "album": {
-        "name": "Happy Song",
-        "url": "https://open.spotify.com/album/6puwQ7UxKF00TT75wByboX"
-      },
-      "artists": [
-        {
-          "name": "Folabi Nuel",
-          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
-        }
-      ],
-      "duration_ms": 147452,
-      "name": "Happy Song",
-      "url": "https://open.spotify.com/track/0SO8tJC5e504QtFiZ84sqC"
-    },
-    {
-      "added_at": "2026-07-29 15:45:01",
-      "album": {
         "name": "Beautiful Day (House of the Lord)",
         "url": "https://open.spotify.com/album/7yOXtwk3vprAVZla2WDpuv"
       },
@@ -839,6 +823,22 @@
     {
       "added_at": "2026-07-29 15:45:01",
       "album": {
+        "name": "Happy Song",
+        "url": "https://open.spotify.com/album/6puwQ7UxKF00TT75wByboX"
+      },
+      "artists": [
+        {
+          "name": "Folabi Nuel",
+          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
+        }
+      ],
+      "duration_ms": 147452,
+      "name": "Happy Song",
+      "url": "https://open.spotify.com/track/0SO8tJC5e504QtFiZ84sqC"
+    },
+    {
+      "added_at": "2026-07-29 15:45:01",
+      "album": {
         "name": "The Morning",
         "url": "https://open.spotify.com/album/4sP4BjciIheSSBEGwDpG2q"
       },
@@ -851,22 +851,6 @@
       "duration_ms": 179244,
       "name": "The Morning",
       "url": "https://open.spotify.com/track/33BC4dasTbw4awRdBOlP5z"
-    },
-    {
-      "added_at": "2026-07-29 15:45:01",
-      "album": {
-        "name": "high water",
-        "url": "https://open.spotify.com/album/7gzbODpxaT7WXSi3nW8e9J"
-      },
-      "artists": [
-        {
-          "name": "Tori Kelly",
-          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
-        }
-      ],
-      "duration_ms": 168975,
-      "name": "high water",
-      "url": "https://open.spotify.com/track/32dWnUPQ0l4cdsOcEj5fCk"
     },
     {
       "added_at": "2026-07-29 15:45:01",
@@ -903,6 +887,22 @@
       "duration_ms": 228074,
       "name": "alright <3",
       "url": "https://open.spotify.com/track/3B3UXCixeVlTOyJS0dkMi9"
+    },
+    {
+      "added_at": "2026-07-29 15:45:01",
+      "album": {
+        "name": "high water",
+        "url": "https://open.spotify.com/album/7gzbODpxaT7WXSi3nW8e9J"
+      },
+      "artists": [
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        }
+      ],
+      "duration_ms": 168975,
+      "name": "high water",
+      "url": "https://open.spotify.com/track/32dWnUPQ0l4cdsOcEj5fCk"
     },
     {
       "added_at": "2026-07-29 15:45:01",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2026-07-29 15:45:01",
       "album": {
-        "name": "First Light / Last Word",
-        "url": "https://open.spotify.com/album/4PxxW2zfSOhoysKPLZMLII"
-      },
-      "artists": [
-        {
-          "name": "River Valley Worship",
-          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
-        },
-        {
-          "name": "Ben Cruse",
-          "url": "https://open.spotify.com/artist/3WOiJEhXDFffYyUDKo8isf"
-        }
-      ],
-      "duration_ms": 333367,
-      "name": "Morning Psalm (feat. Ben Cruse)",
-      "url": "https://open.spotify.com/track/3X1lam7uHad3F3sMuvFp0l"
-    },
-    {
-      "added_at": "2026-07-29 15:45:01",
-      "album": {
         "name": "Get Up: The Remixes",
         "url": "https://open.spotify.com/album/2B5gNl8mQt6LpqXTcBGsoe"
       },
@@ -1135,6 +1115,26 @@
       "duration_ms": 253040,
       "name": "Good Morning - Capital Kings Remix",
       "url": "https://open.spotify.com/track/6UzMzphhijZY0MnrCqx1PC"
+    },
+    {
+      "added_at": "2026-07-29 15:45:01",
+      "album": {
+        "name": "First Light / Last Word",
+        "url": "https://open.spotify.com/album/4PxxW2zfSOhoysKPLZMLII"
+      },
+      "artists": [
+        {
+          "name": "River Valley Worship",
+          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
+        },
+        {
+          "name": "Ben Cruse",
+          "url": "https://open.spotify.com/artist/3WOiJEhXDFffYyUDKo8isf"
+        }
+      ],
+      "duration_ms": 333367,
+      "name": "Morning Psalm (feat. Ben Cruse)",
+      "url": "https://open.spotify.com/track/3X1lam7uHad3F3sMuvFp0l"
     },
     {
       "added_at": "2026-07-29 15:45:01",
@@ -1191,6 +1191,26 @@
     {
       "added_at": "2026-07-29 15:45:01",
       "album": {
+        "name": "THIS IS THE DAY",
+        "url": "https://open.spotify.com/album/7KKCTcSzQTJMlmeP0C43T7"
+      },
+      "artists": [
+        {
+          "name": "Vintage Worship",
+          "url": "https://open.spotify.com/artist/0qUuZVm9ly1AlsuZyYMQwp"
+        },
+        {
+          "name": "Joshua Seller",
+          "url": "https://open.spotify.com/artist/0hMcMrkgNgJC7oO82fZsli"
+        }
+      ],
+      "duration_ms": 224081,
+      "name": "THIS IS THE DAY",
+      "url": "https://open.spotify.com/track/15ZHJggxSsnjk3CbQH0SCd"
+    },
+    {
+      "added_at": "2026-07-29 15:45:01",
+      "album": {
         "name": "awakening",
         "url": "https://open.spotify.com/album/60DamUC9xhmbNm7P0qa0Dz"
       },
@@ -1227,22 +1247,18 @@
     {
       "added_at": "2026-07-29 15:45:01",
       "album": {
-        "name": "THIS IS THE DAY",
-        "url": "https://open.spotify.com/album/7KKCTcSzQTJMlmeP0C43T7"
+        "name": "Pure Gold",
+        "url": "https://open.spotify.com/album/29QjD47g5WsFp4H7RlxyRJ"
       },
       "artists": [
         {
-          "name": "Vintage Worship",
-          "url": "https://open.spotify.com/artist/0qUuZVm9ly1AlsuZyYMQwp"
-        },
-        {
-          "name": "Joshua Seller",
-          "url": "https://open.spotify.com/artist/0hMcMrkgNgJC7oO82fZsli"
+          "name": "IMRSQD",
+          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
         }
       ],
-      "duration_ms": 224081,
-      "name": "THIS IS THE DAY",
-      "url": "https://open.spotify.com/track/15ZHJggxSsnjk3CbQH0SCd"
+      "duration_ms": 137769,
+      "name": "Pure Gold",
+      "url": "https://open.spotify.com/track/4GPfoPbpLppbzVLBIR337i"
     },
     {
       "added_at": "2026-07-29 15:45:01",
@@ -1259,22 +1275,6 @@
       "duration_ms": 198058,
       "name": "Power - Acoustic",
       "url": "https://open.spotify.com/track/3XwxvufJ0ve4BdOOCJ5OEb"
-    },
-    {
-      "added_at": "2026-07-29 15:45:01",
-      "album": {
-        "name": "Pure Gold",
-        "url": "https://open.spotify.com/album/29QjD47g5WsFp4H7RlxyRJ"
-      },
-      "artists": [
-        {
-          "name": "IMRSQD",
-          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
-        }
-      ],
-      "duration_ms": 137769,
-      "name": "Pure Gold",
-      "url": "https://open.spotify.com/track/4GPfoPbpLppbzVLBIR337i"
     },
     {
       "added_at": "2026-07-29 15:45:01",

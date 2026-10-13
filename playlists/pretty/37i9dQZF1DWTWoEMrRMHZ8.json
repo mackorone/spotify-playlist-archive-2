@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Leo Middea",
-  "num_followers": 353032,
+  "num_followers": 353044,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -359,6 +359,26 @@
     {
       "added_at": "2026-10-09 17:04:01",
       "album": {
+        "name": "Saara No Rio",
+        "url": "https://open.spotify.com/album/3X8zN1yXYLLJntjAB996UB"
+      },
+      "artists": [
+        {
+          "name": "Jorge Vercillo",
+          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
+        },
+        {
+          "name": "Rik Oliveira",
+          "url": "https://open.spotify.com/artist/57obwqvQ0XtMlXprugNUGz"
+        }
+      ],
+      "duration_ms": 282720,
+      "name": "Saara No Rio",
+      "url": "https://open.spotify.com/track/3fgYUrgScJ7C1zLR9u0016"
+    },
+    {
+      "added_at": "2026-10-09 17:04:01",
+      "album": {
         "name": "Dan\u00e7a N\u2019kisi Dan\u00e7a",
         "url": "https://open.spotify.com/album/4MsrnDkwgg0GCZfp1OjRJh"
       },
@@ -379,26 +399,6 @@
       "duration_ms": 260603,
       "name": "Dan\u00e7a N\u2019kisi Dan\u00e7a",
       "url": "https://open.spotify.com/track/4k80imJJqnVRDxpc1O0Y1a"
-    },
-    {
-      "added_at": "2026-10-09 17:04:01",
-      "album": {
-        "name": "Saara No Rio",
-        "url": "https://open.spotify.com/album/3X8zN1yXYLLJntjAB996UB"
-      },
-      "artists": [
-        {
-          "name": "Jorge Vercillo",
-          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
-        },
-        {
-          "name": "Rik Oliveira",
-          "url": "https://open.spotify.com/artist/57obwqvQ0XtMlXprugNUGz"
-        }
-      ],
-      "duration_ms": 282720,
-      "name": "Saara No Rio",
-      "url": "https://open.spotify.com/track/3fgYUrgScJ7C1zLR9u0016"
     },
     {
       "added_at": "2026-10-09 17:04:01",
@@ -439,26 +439,6 @@
       "duration_ms": 214831,
       "name": "Jo\u00e3o",
       "url": "https://open.spotify.com/track/4rfBy8eeyvMaaXbuWjIkBe"
-    },
-    {
-      "added_at": "2026-10-09 17:04:01",
-      "album": {
-        "name": "Sangue Bom",
-        "url": "https://open.spotify.com/album/7DypAdT7904ztdjudUGVen"
-      },
-      "artists": [
-        {
-          "name": "Paulo Ricardo",
-          "url": "https://open.spotify.com/artist/07V0GWuWYmgheREejBORmk"
-        },
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        }
-      ],
-      "duration_ms": 179663,
-      "name": "Sangue Bom",
-      "url": "https://open.spotify.com/track/6SofGoEv9lZvL5ej9eULkP"
     },
     {
       "added_at": "2026-10-09 17:04:01",
@@ -507,6 +487,26 @@
     {
       "added_at": "2026-10-09 17:04:01",
       "album": {
+        "name": "Sangue Bom",
+        "url": "https://open.spotify.com/album/7DypAdT7904ztdjudUGVen"
+      },
+      "artists": [
+        {
+          "name": "Paulo Ricardo",
+          "url": "https://open.spotify.com/artist/07V0GWuWYmgheREejBORmk"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        }
+      ],
+      "duration_ms": 179663,
+      "name": "Sangue Bom",
+      "url": "https://open.spotify.com/track/6SofGoEv9lZvL5ej9eULkP"
+    },
+    {
+      "added_at": "2026-10-09 17:04:01",
+      "album": {
         "name": "1\u00b0 Ato (Ao Vivo)",
         "url": "https://open.spotify.com/album/0o6JR0Qoj0JY2UVUecBaS4"
       },
@@ -547,22 +547,6 @@
     {
       "added_at": "2026-10-09 17:04:01",
       "album": {
-        "name": "Em Sil\u00eancio o Afeto Cresce",
-        "url": "https://open.spotify.com/album/2846p6Xqfr0BeDwEyQhWqs"
-      },
-      "artists": [
-        {
-          "name": "Rafa Castro",
-          "url": "https://open.spotify.com/artist/7uGnyRc35uFXOcyUtOkgX0"
-        }
-      ],
-      "duration_ms": 198893,
-      "name": "Perdi Meu Rumo Na Sua Boca",
-      "url": "https://open.spotify.com/track/2IlPnizayYXeu0OrxEr9fw"
-    },
-    {
-      "added_at": "2026-10-09 17:04:01",
-      "album": {
         "name": "vov\u00f3vov\u00f4",
         "url": "https://open.spotify.com/album/3LBgxHEn4tzZk8cvC1rBaQ"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 204177,
       "name": "Pra Ter Fim",
       "url": "https://open.spotify.com/track/5aOcYyEFQJzLxwIunTjGyA"
+    },
+    {
+      "added_at": "2026-10-09 17:04:01",
+      "album": {
+        "name": "Em Sil\u00eancio o Afeto Cresce",
+        "url": "https://open.spotify.com/album/2846p6Xqfr0BeDwEyQhWqs"
+      },
+      "artists": [
+        {
+          "name": "Rafa Castro",
+          "url": "https://open.spotify.com/artist/7uGnyRc35uFXOcyUtOkgX0"
+        }
+      ],
+      "duration_ms": 198893,
+      "name": "Perdi Meu Rumo Na Sua Boca",
+      "url": "https://open.spotify.com/track/2IlPnizayYXeu0OrxEr9fw"
     },
     {
       "added_at": "2026-10-09 17:04:01",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-10-09 17:04:01",
       "album": {
-        "name": "Quase uma trai\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/7uo4oqQbCn8fHb4FSm7yHl"
-      },
-      "artists": [
-        {
-          "name": "Frejat",
-          "url": "https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw"
-        }
-      ],
-      "duration_ms": 197866,
-      "name": "Quase uma trai\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/6xFjoyv5tCdbvrH2gMeZmy"
-    },
-    {
-      "added_at": "2026-10-09 17:04:01",
-      "album": {
         "name": "OLHO NO OLHO",
         "url": "https://open.spotify.com/album/2cdVtTXvo7LAGoyf7sZ32Q"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 220500,
       "name": "OLHO NO OLHO",
       "url": "https://open.spotify.com/track/657LqO6QrB6TJm6ZYZzVLg"
+    },
+    {
+      "added_at": "2026-10-09 17:04:01",
+      "album": {
+        "name": "Quase uma trai\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/7uo4oqQbCn8fHb4FSm7yHl"
+      },
+      "artists": [
+        {
+          "name": "Frejat",
+          "url": "https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw"
+        }
+      ],
+      "duration_ms": 197866,
+      "name": "Quase uma trai\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/6xFjoyv5tCdbvrH2gMeZmy"
     },
     {
       "added_at": "2026-10-09 17:04:01",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2026-10-09 17:04:01",
       "album": {
+        "name": "Salvador",
+        "url": "https://open.spotify.com/album/5nus9ry9wWPu7I8Kz2mtVr"
+      },
+      "artists": [
+        {
+          "name": "Bruno Chelles",
+          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
+        }
+      ],
+      "duration_ms": 151800,
+      "name": "Salvador",
+      "url": "https://open.spotify.com/track/563tt8KfkDb3FFhPCSl4em"
+    },
+    {
+      "added_at": "2026-10-09 17:04:01",
+      "album": {
         "name": "NORTEAR",
         "url": "https://open.spotify.com/album/11sBu1W6HvPSC9KrgIQLjq"
       },
@@ -1091,22 +1107,6 @@
     {
       "added_at": "2026-10-09 17:04:01",
       "album": {
-        "name": "Salvador",
-        "url": "https://open.spotify.com/album/5nus9ry9wWPu7I8Kz2mtVr"
-      },
-      "artists": [
-        {
-          "name": "Bruno Chelles",
-          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
-        }
-      ],
-      "duration_ms": 151800,
-      "name": "Salvador",
-      "url": "https://open.spotify.com/track/563tt8KfkDb3FFhPCSl4em"
-    },
-    {
-      "added_at": "2026-10-09 17:04:01",
-      "album": {
         "name": "C\u00ea T\u00e1 pensando Que Eu Sou Loki?",
         "url": "https://open.spotify.com/album/2zPCfTUx1Xmu6XPxYWfD2I"
       },
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-10-09 17:04:01",
       "album": {
-        "name": "Inofensiva Flor",
-        "url": "https://open.spotify.com/album/4FMDat4GTYrxAf6z5dB6MR"
-      },
-      "artists": [
-        {
-          "name": "SalDoce",
-          "url": "https://open.spotify.com/artist/79k0fJ9NVmt26RyXfBNZuG"
-        }
-      ],
-      "duration_ms": 158731,
-      "name": "Fera Domesticada",
-      "url": "https://open.spotify.com/track/6BvpKAmTAxzZxX0g3vzu5n"
-    },
-    {
-      "added_at": "2026-10-09 17:04:01",
-      "album": {
         "name": "Flor de Maracuj\u00e1",
         "url": "https://open.spotify.com/album/6y6BalfQYIoT8Mx6Qc5bnr"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 204537,
       "name": "Flor de Maracuj\u00e1",
       "url": "https://open.spotify.com/track/08bxoA6X4I7fdxWN0IW6DY"
+    },
+    {
+      "added_at": "2026-10-09 17:04:01",
+      "album": {
+        "name": "Inofensiva Flor",
+        "url": "https://open.spotify.com/album/4FMDat4GTYrxAf6z5dB6MR"
+      },
+      "artists": [
+        {
+          "name": "SalDoce",
+          "url": "https://open.spotify.com/artist/79k0fJ9NVmt26RyXfBNZuG"
+        }
+      ],
+      "duration_ms": 158731,
+      "name": "Fera Domesticada",
+      "url": "https://open.spotify.com/track/6BvpKAmTAxzZxX0g3vzu5n"
     },
     {
       "added_at": "2026-10-09 17:04:01",
@@ -1199,6 +1199,42 @@
       "duration_ms": 139250,
       "name": "Sa\u00ed pra Ver Se a Saudade Fica em Casa",
       "url": "https://open.spotify.com/track/2baE0gIKX4cDBjDifNuw1O"
+    },
+    {
+      "added_at": "2026-10-09 17:04:01",
+      "album": {
+        "name": "Leo Jaime - As Mais Pedidas",
+        "url": "https://open.spotify.com/album/7eGFIc6VQRRpUvZ9Ucnpcy"
+      },
+      "artists": [
+        {
+          "name": "Leo Jaime",
+          "url": "https://open.spotify.com/artist/2TjzEhCBd9s3YPWKPwKZYo"
+        }
+      ],
+      "duration_ms": 190605,
+      "name": "Preciso Dizer Que Te Amo",
+      "url": "https://open.spotify.com/track/6PFaC1vSe27DTWN7jfX3Zz"
+    },
+    {
+      "added_at": "2026-10-09 17:04:01",
+      "album": {
+        "name": "Nua Ideia",
+        "url": "https://open.spotify.com/album/6Xe31DHl0rtGseTSlLSdlw"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Donato",
+          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
+        },
+        {
+          "name": "Bebel Gilberto",
+          "url": "https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz"
+        }
+      ],
+      "duration_ms": 233229,
+      "name": "Nua Ideia",
+      "url": "https://open.spotify.com/track/3H8uWBh0pnP1VAEgkcrSnO"
     },
     {
       "added_at": "2026-10-09 17:04:01",
@@ -1247,22 +1283,22 @@
     {
       "added_at": "2026-10-09 17:04:01",
       "album": {
-        "name": "Nua Ideia",
-        "url": "https://open.spotify.com/album/6Xe31DHl0rtGseTSlLSdlw"
+        "name": "Gol de Quem? (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4jqMI0S8Nwgpzs36a3D3S8"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Donato",
-          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
+          "name": "Pato Fu",
+          "url": "https://open.spotify.com/artist/4NSbUIfUAkaedUIm8eJ631"
         },
         {
-          "name": "Bebel Gilberto",
-          "url": "https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz"
+          "name": "Tom Z\u00e9",
+          "url": "https://open.spotify.com/artist/1gIa65d5ICT2xVWiUJ3u27"
         }
       ],
-      "duration_ms": 233229,
-      "name": "Nua Ideia",
-      "url": "https://open.spotify.com/track/3H8uWBh0pnP1VAEgkcrSnO"
+      "duration_ms": 187415,
+      "name": "Qualquer Bobagem - Ao Vivo",
+      "url": "https://open.spotify.com/track/7nnMIioa5nnMMjoXBzu7Hc"
     },
     {
       "added_at": "2026-10-09 17:04:01",
@@ -1303,38 +1339,22 @@
     {
       "added_at": "2026-10-09 17:04:01",
       "album": {
-        "name": "Gol de Quem? (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4jqMI0S8Nwgpzs36a3D3S8"
+        "name": "N\u00d3S",
+        "url": "https://open.spotify.com/album/2DTb4PV6ULoaHWgRJ2Xauh"
       },
       "artists": [
         {
-          "name": "Pato Fu",
-          "url": "https://open.spotify.com/artist/4NSbUIfUAkaedUIm8eJ631"
+          "name": "Daniel Cruz",
+          "url": "https://open.spotify.com/artist/3rz9EEzOyMgtVEnrplaD7h"
         },
         {
-          "name": "Tom Z\u00e9",
-          "url": "https://open.spotify.com/artist/1gIa65d5ICT2xVWiUJ3u27"
+          "name": "garotamilena",
+          "url": "https://open.spotify.com/artist/1DwC5f9hcduIrHM6gp7mVo"
         }
       ],
-      "duration_ms": 187415,
-      "name": "Qualquer Bobagem - Ao Vivo",
-      "url": "https://open.spotify.com/track/7nnMIioa5nnMMjoXBzu7Hc"
-    },
-    {
-      "added_at": "2026-10-09 17:04:01",
-      "album": {
-        "name": "Meus Olhos",
-        "url": "https://open.spotify.com/album/5lGcU56YCUumpmNj3V2Axv"
-      },
-      "artists": [
-        {
-          "name": "Lud Mazzucatti",
-          "url": "https://open.spotify.com/artist/5UO9TQYbWYGDoG5eVAPpzH"
-        }
-      ],
-      "duration_ms": 202837,
-      "name": "Verde em Mim",
-      "url": "https://open.spotify.com/track/576twieNfCtHJmHHw5VXyZ"
+      "duration_ms": 152000,
+      "name": "N\u00d3S",
+      "url": "https://open.spotify.com/track/2X50ZlAwADKYkmgliV03Gm"
     },
     {
       "added_at": "2026-10-09 17:04:01",
@@ -1359,22 +1379,18 @@
     {
       "added_at": "2026-10-09 17:04:01",
       "album": {
-        "name": "N\u00d3S",
-        "url": "https://open.spotify.com/album/2DTb4PV6ULoaHWgRJ2Xauh"
+        "name": "Meus Olhos",
+        "url": "https://open.spotify.com/album/5lGcU56YCUumpmNj3V2Axv"
       },
       "artists": [
         {
-          "name": "Daniel Cruz",
-          "url": "https://open.spotify.com/artist/3rz9EEzOyMgtVEnrplaD7h"
-        },
-        {
-          "name": "garotamilena",
-          "url": "https://open.spotify.com/artist/1DwC5f9hcduIrHM6gp7mVo"
+          "name": "Lud Mazzucatti",
+          "url": "https://open.spotify.com/artist/5UO9TQYbWYGDoG5eVAPpzH"
         }
       ],
-      "duration_ms": 152000,
-      "name": "N\u00d3S",
-      "url": "https://open.spotify.com/track/2X50ZlAwADKYkmgliV03Gm"
+      "duration_ms": 202837,
+      "name": "Verde em Mim",
+      "url": "https://open.spotify.com/track/576twieNfCtHJmHHw5VXyZ"
     },
     {
       "added_at": "2026-10-09 17:04:01",
@@ -1415,22 +1431,6 @@
     {
       "added_at": "2026-10-09 17:04:01",
       "album": {
-        "name": "Leo Jaime - As Mais Pedidas",
-        "url": "https://open.spotify.com/album/7eGFIc6VQRRpUvZ9Ucnpcy"
-      },
-      "artists": [
-        {
-          "name": "Leo Jaime",
-          "url": "https://open.spotify.com/artist/2TjzEhCBd9s3YPWKPwKZYo"
-        }
-      ],
-      "duration_ms": 190605,
-      "name": "Preciso Dizer Que Te Amo",
-      "url": "https://open.spotify.com/track/6PFaC1vSe27DTWN7jfX3Zz"
-    },
-    {
-      "added_at": "2026-10-09 17:04:01",
-      "album": {
         "name": "romance",
         "url": "https://open.spotify.com/album/6DcmRRoMxg002zcCVihaTa"
       },
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2026-10-09 17:04:01",
       "album": {
+        "name": "MATUMBI (Ao vivo)",
+        "url": "https://open.spotify.com/album/5yIrL1L2legY3ZrqyWjQlg"
+      },
+      "artists": [
+        {
+          "name": "Lazzo Matumbi",
+          "url": "https://open.spotify.com/artist/5dW7bJXFalrMehazA9L2yV"
+        }
+      ],
+      "duration_ms": 183680,
+      "name": "MATUMBI - Ao vivo",
+      "url": "https://open.spotify.com/track/647qGJzdQnsazCgAz95c5Z"
+    },
+    {
+      "added_at": "2026-10-09 17:04:01",
+      "album": {
         "name": "Sabi\u00e1",
         "url": "https://open.spotify.com/album/1M3IYBNa9kkS5gEm72y7mD"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 212853,
       "name": "Sembal",
       "url": "https://open.spotify.com/track/5pJfwJZBwzJDhBP8pKeORU"
-    },
-    {
-      "added_at": "2026-10-09 17:04:01",
-      "album": {
-        "name": "MATUMBI (Ao vivo)",
-        "url": "https://open.spotify.com/album/5yIrL1L2legY3ZrqyWjQlg"
-      },
-      "artists": [
-        {
-          "name": "Lazzo Matumbi",
-          "url": "https://open.spotify.com/artist/5dW7bJXFalrMehazA9L2yV"
-        }
-      ],
-      "duration_ms": 183680,
-      "name": "MATUMBI - Ao vivo",
-      "url": "https://open.spotify.com/track/647qGJzdQnsazCgAz95c5Z"
     },
     {
       "added_at": "2026-10-09 17:04:01",

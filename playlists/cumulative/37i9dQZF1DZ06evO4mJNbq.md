@@ -15,7 +15,7 @@
 | [Bedspell](https://open.spotify.com/track/0486NoRItdcZ1k42ErhWHG) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Evil Angel](https://open.spotify.com/album/6I71YS1YRE68mrNEM2Z7lO) | 2:49 | 2026-03-20 |  |
 | [Belle's HELL \(Interlude\)](https://open.spotify.com/track/1art06Q1EWEro00cyuaSTg) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Hell's Belles](https://open.spotify.com/album/62W8uslGsNVWJzU3c1N8jR) | 0:56 | 2026-08-30 | 2026-09-20 |
 | [Best Ex of Your Life](https://open.spotify.com/track/2RhLKRJJq29Tvecbk63X4K) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Best Ex of Your Life](https://open.spotify.com/album/7HRxfQtn1QyngtjAyFeUzi) | 2:22 | 2026-07-11 | 2026-09-20 |
-| [Best Ex of Your Life](https://open.spotify.com/track/4EMm5GKwiqAL09AD67I44C) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Hell's Belles](https://open.spotify.com/album/62W8uslGsNVWJzU3c1N8jR) | 2:22 | 2026-09-20 |  |
+| [Best Ex of Your Life](https://open.spotify.com/track/4EMm5GKwiqAL09AD67I44C) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Hell's Belles](https://open.spotify.com/album/62W8uslGsNVWJzU3c1N8jR) | 2:22 | 2026-09-20 | 2026-10-13 |
 | [Black Magic](https://open.spotify.com/track/730cOyBWglmh94hEvmLoJE) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Evil Angel \(Deluxe Edition\)](https://open.spotify.com/album/0n2eTEITSu0EwdkpjtNFBr) | 3:12 | 2026-03-20 |  |
 | [Bloodstream](https://open.spotify.com/track/0oPCvCDccyPM8kXHR2Wnn8) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Queen of Hearts](https://open.spotify.com/album/5uAQzG8eTpqgOLqXqiGoIk) | 3:31 | 2026-03-20 |  |
 | [Bye Bye Baby](https://open.spotify.com/track/4KQishDlTPsAJtih2MeETB) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Bye Bye Baby](https://open.spotify.com/album/7johZg5HaYBD0zl3b6fDMk) | 2:59 | 2026-03-20 |  |
@@ -57,7 +57,7 @@
 | [Truth Tea](https://open.spotify.com/track/5bognKHojz6lQ7EzangIpr) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Evil Angel](https://open.spotify.com/album/6I71YS1YRE68mrNEM2Z7lO) | 3:35 | 2026-03-20 |  |
 | [U Remind Me](https://open.spotify.com/track/5AC5BslKdVrjBRC6YwnCKX) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [U Remind Me](https://open.spotify.com/album/32PpjwWVpWcy3n2syzkBnI) | 2:57 | 2026-03-20 |  |
 | [VOODOO DOLL](https://open.spotify.com/track/2Z6x8QvT0cv0ZbQ7i3CL1p) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [VOODOO DOLL](https://open.spotify.com/album/4tGltm6yCCNsjn7i5hyRSw) | 2:26 | 2026-08-07 | 2026-09-29 |
-| [VOODOO DOLL](https://open.spotify.com/track/5HtmXaNOjiMfHgagVVRsTZ) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Hell's Belles](https://open.spotify.com/album/62W8uslGsNVWJzU3c1N8jR) | 2:26 | 2026-09-29 | 2026-10-06 |
+| [VOODOO DOLL](https://open.spotify.com/track/5HtmXaNOjiMfHgagVVRsTZ) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Hell's Belles](https://open.spotify.com/album/62W8uslGsNVWJzU3c1N8jR) | 2:26 | 2026-09-29 |  |
 | [What If](https://open.spotify.com/track/6IZkI9PhxaTHLLltkHBu4t) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Queen of Hearts](https://open.spotify.com/album/5uAQzG8eTpqgOLqXqiGoIk) | 2:54 | 2026-03-20 |  |
 
 \*This playlist was first scraped on 2026-03-20. Prior content cannot be recovered.

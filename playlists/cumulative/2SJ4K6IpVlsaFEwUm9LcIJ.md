@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: sept\-oct 2026 \(previous playlists archived on my profile\)
 
-1,104 songs - 2 day 19 hr 21 min
+1,106 songs - 2 day 19 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [Dance](https://open.spotify.com/track/3idjeb4oia9I59Dql0aPkD) | [Duncan Troast](https://open.spotify.com/artist/0Qrm0co28DmwqKD2HrWHzR), [Charlie Martin](https://open.spotify.com/artist/4FAFa9p2vpYWRZdUpcAKH4) | [music for 2 pianos](https://open.spotify.com/album/77A0GbCVkBQZFC4iB5yByx) | 1:05 | 2026-01-13 | 2026-03-08 |
 | [Dance of the Young \(Augurs of Spring\)](https://open.spotify.com/track/2h3zpcP3xK9wguWVIOlTzr) | [Otro](https://open.spotify.com/artist/5WLKVJGJWUubfyG8KSfuvK) | [Vidas](https://open.spotify.com/album/5XemYVF10oIwkD8FrJvoNJ) | 2:41 | 2026-07-18 | 2026-10-05 |
 | [Dancing with your eyes closed](https://open.spotify.com/track/1QkeomwCeKgXOEWoMHzrXr) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Dancing with your eyes closed](https://open.spotify.com/album/56bYgJoNy2rzmrjJQnmoJy) | 3:50 | 2025-03-01 | 2025-05-09 |
+| [Dangerous Night](https://open.spotify.com/track/4QqiPyYSKNow3CvtLyru71) | [Genevieve Artadi](https://open.spotify.com/artist/4FGpdN4lqGwjrFx9f2E1RI) | [Dangerous Night](https://open.spotify.com/album/4UpIHJWLnXUX4wKuF2w9TC) | 4:26 | 2026-10-12 |  |
 | [Dans le sillage du temps](https://open.spotify.com/track/1HsInZbAD52PAloaHGhJqe) | [Baptiste Dubreuil](https://open.spotify.com/artist/44ms1pwVnGrYVevD6D4AtJ) | [Dans le sillage du temps](https://open.spotify.com/album/1PedxrLz0xa6xTnCutthrn) | 2:02 | 2025-09-16 | 2025-11-15 |
 | [Dark Shirt](https://open.spotify.com/track/17TsEp9AloYl6GzMsc11el) | [Joshua Chuquimia Crampton](https://open.spotify.com/artist/4vV7A3OS088S8Ps2NtTcRO) | [Profundo Amor](https://open.spotify.com/album/08CsyRBplwnCGEHy6vy26Y) | 4:39 | 2025-12-24 | 2026-01-15 |
 | [Dark Shirt](https://open.spotify.com/track/2FU34BCqCh93uP1XQYNtoq) | [Joshua Chuquimia Crampton](https://open.spotify.com/artist/4vV7A3OS088S8Ps2NtTcRO) | [Profundo Amor](https://open.spotify.com/album/0kcRYlSmu6DV3nIjFsYfTl) | 4:39 | 2025-04-13 | 2025-05-09 |
@@ -281,6 +282,7 @@
 | [Every Time](https://open.spotify.com/track/4m6esDH7UC26ZfSQAaFG5e) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [The Velvet Rope](https://open.spotify.com/album/1uFp52Q9EXLNA6DTRYnpTj) | 4:17 | 2025-09-16 | 2025-11-15 |
 | [Every Time I Hear](https://open.spotify.com/track/07mE5wD18Ki9yjscGoird0) | [Sharp Pins](https://open.spotify.com/artist/0eTeMvSkCzEnLH4EgHhrzN) | [Radio DDR](https://open.spotify.com/album/187xHScatgoZvJa48yGuyG) | 2:43 | 2024-09-27 | 2024-11-14 |
 | [Everyone Else Is Ahead Far Ahead](https://open.spotify.com/track/4tNmcoZysizQT9Io7CIDQy) | [The Marshmallow Kisses](https://open.spotify.com/artist/4tzg961dC4xoU1YYGZeYud) | [I Wonder Why My Favorite Boy Leaves Me An EP](https://open.spotify.com/album/0tVIqiviChQkxeZoVC9aGq) | 2:41 | 2024-07-12 | 2024-09-08 |
+| [Everything in the shade](https://open.spotify.com/track/6wS9y7UwgL1DQnIWrm5GjF) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Everything in the shade](https://open.spotify.com/album/5A6ti3IM50zvD9RkLa7usZ) | 3:36 | 2026-10-12 |  |
 | [Excalibur](https://open.spotify.com/track/1nyELhx0gcRfoOjyQIlnXS) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Good Morning Seven](https://open.spotify.com/album/6uRkdBZB2rgImAjDUbhw60) | 3:25 | 2024-03-22 | 2024-04-25 |
 | [Excellent](https://open.spotify.com/track/0zHt4XtjSIJ3io6Vex53PC) | [Cedric Freeman](https://open.spotify.com/artist/2YlaxSEjRPCbEnV3mF3I2m) | [Backdrop](https://open.spotify.com/album/20Er2ERoLRu061MKC0lRtT) | 2:48 | 2025-01-21 | 2025-03-02 |
 | [Explain](https://open.spotify.com/track/3J216Nn7CBDSnFk5S9gKXW) | [Julie Doiron](https://open.spotify.com/artist/1sjeOeIPG7quxVgmNspYyT) | [Loneliest In The Morning](https://open.spotify.com/album/2LGJoiH5Vjj7t7B49vYKHm) | 2:12 | 2025-03-31 | 2025-05-09 |

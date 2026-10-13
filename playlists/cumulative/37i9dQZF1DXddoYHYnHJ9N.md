@@ -2,9 +2,9 @@
 
 ### [Hot Hits Magyarország](https://open.spotify.com/playlist/37i9dQZF1DXddoYHYnHJ9N)
 
-> Az 50 legnépszerűbb dal Magyarországon\. Cover: Marics Peti & KKevin & DZSINDZSER
+> Az 50 legnépszerűbb dal Magyarországon\. Cover: Bruno X Spacc & T\. Danny
 
-262 songs - 12 hr 53 min
+264 songs - 12 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,10 +83,11 @@
 | [FATHER \(feat\. Travis Scott\)](https://open.spotify.com/track/5pfn68duSmBKo4FhYknOms) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [BULLY](https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS) | 2:49 | 2026-03-31 | 2026-04-28 |
 | [FEVER DREAM](https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [FEVER DREAM](https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ) | 2:33 | 2026-03-02 | 2026-05-12 |
 | [FLESS](https://open.spotify.com/track/2SYOjGmLH8lGvlE85oNX3Y) | [RZMVS](https://open.spotify.com/artist/2OFqNrzP6JRCfsX9xglMH4), [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5) | [FLESS](https://open.spotify.com/album/261KMZNJIPk6fZnhokAu7U) | 2:50 | 2026-08-24 | 2026-09-15 |
+| [Free Johnny](https://open.spotify.com/track/6B6oxOWau5ngBRfMrLuDsz) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Free Johnny](https://open.spotify.com/album/5mjVrlYRezgEdlZQfpAtJO) | 3:17 | 2026-10-12 |  |
 | [FREY TIMI](https://open.spotify.com/track/0vTNCXwJiPPs5rQ99fz68x) | [L.L\. Junior](https://open.spotify.com/artist/3cG03cMdrtBCrmM0843f9O) | [FREY TIMI](https://open.spotify.com/album/7opLiKvuCVuAkdFMJN2t7k) | 2:35 | 2025-08-19 | 2026-04-01 |
 | [FUEGO](https://open.spotify.com/track/04JBLnGi7AQ3vEayf6wuk0) | [Marics Peti](https://open.spotify.com/artist/3AL01X7ic44uuE4xsMVPbp), [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [FUEGO](https://open.spotify.com/album/7eW86IEHYqxTc00Mwm8tuJ) | 2:48 | 2026-09-22 |  |
 | [furcsa](https://open.spotify.com/track/4RQny0WnIyGTLCWVxxYsc0) | [ByeAlex és a Slepp](https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS) | [elterelés](https://open.spotify.com/album/3qmORfcKkMXuIEqm3b7BMc) | 2:03 | 2026-03-31 | 2026-06-16 |
-| [Gabi](https://open.spotify.com/track/5XTOQnTIpi49kuycmAuTut) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [Gabi](https://open.spotify.com/album/5QcfodgaXvDCZNm0waFcBZ) | 3:08 | 2026-08-24 |  |
+| [Gabi](https://open.spotify.com/track/5XTOQnTIpi49kuycmAuTut) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [Gabi](https://open.spotify.com/album/5QcfodgaXvDCZNm0waFcBZ) | 3:08 | 2026-08-24 | 2026-10-13 |
 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 | 2024-07-01 | 2024-10-22 |
 | [Gate Closed](https://open.spotify.com/track/4pPGHHybZH45ETSGROCMwg) | [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA) | [Four Seasons \- Spring](https://open.spotify.com/album/4iDm13QQDysn1H3w0cZypc) | 2:29 | 2026-04-27 | 2026-07-28 |
 | [Gengetek ellen](https://open.spotify.com/track/3mfSO4e6l0mlsjcNpqrktC) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [Gengetek ellen](https://open.spotify.com/album/1sNJvYsvXA0QAkfb1DfrHY) | 2:49 | 2024-07-01 | 2024-08-14 |
@@ -141,6 +142,7 @@
 | [MARIO](https://open.spotify.com/track/4AFGsWF8bF7w8s1gqUucvj) | [LMEN PRALA](https://open.spotify.com/artist/3IIFNhvPllMor8rcbecmSj), [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA) | [MARIO](https://open.spotify.com/album/4hBIjSARJ1kmQE351GDdp0) | 2:20 | 2025-12-01 | 2026-01-15 |
 | [Megcsalok veled akárkit](https://open.spotify.com/track/0ZQ5xI0kFUJG4BbC0FGoU9) | [Marics Peti](https://open.spotify.com/artist/3AL01X7ic44uuE4xsMVPbp) | [Megcsalok veled akárkit](https://open.spotify.com/album/1DBXUt5xMsJA8KtP5JVLO6) | 2:24 | 2025-11-24 | 2026-04-21 |
 | [MEGGYFÁN](https://open.spotify.com/track/0Ro1NBqAymTPeQuHVNOekw) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y), [ANUBII$](https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd) | [0](https://open.spotify.com/album/3IOx3DP8tK4ihrbAyk7fCf) | 2:26 | 2024-07-01 | 2025-11-04 |
+| [MEREDEK](https://open.spotify.com/track/7evObvcDijcKbmdngMFXKO) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv), [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [MEREDEK](https://open.spotify.com/album/5cphGJqxt3YRyPhbvFAbfs) | 1:47 | 2026-10-12 |  |
 | [MI BÁNT](https://open.spotify.com/track/4M28Of5b7EG3ECpmqtBZt0) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [MI BÁNT](https://open.spotify.com/album/4H77WxRwlo58BjVB5cNCNH) | 4:30 | 2026-04-27 | 2026-06-09 |
 | [Michelin csillag](https://open.spotify.com/track/2qAHIKBw6UcnFEt8IrQBBQ) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [Valamit Majd Kitalálok](https://open.spotify.com/album/3ZyqM2dihxZ91iNz02PrT1) | 3:13 | 2026-04-20 | 2026-07-08 |
 | [Milliók](https://open.spotify.com/track/5trI6snHPkJHvg0cygjRes) | [Jaber](https://open.spotify.com/artist/6T2yephqss2R5uK7CmfLgo), [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [Milliók](https://open.spotify.com/album/0dZzGPImkenhI2yuYD0urs) | 2:41 | 2024-12-02 | 2025-02-04 |
@@ -171,7 +173,7 @@
 | [Para](https://open.spotify.com/track/3uSUgrz21jJtPGtDcyXBn8) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Orgonabokor \(Part 3\)](https://open.spotify.com/album/7xDuQfy7GG77mu9BGwQT04) | 2:55 | 2025-02-10 | 2025-05-13 |
 | [Passenger Princess](https://open.spotify.com/track/030Ndm2tv9gonGnjXz8CFl) | [mollywood](https://open.spotify.com/artist/4JUoajUgI0mmICMBpV6iEP) | [Playboy](https://open.spotify.com/album/0PZftC8lqjmTANjYRfGW9R) | 2:17 | 2026-02-17 | 2026-05-20 |
 | [Passport](https://open.spotify.com/track/1tI1LGUz4fZg8es7toVK6K) | [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA) | [Lidokain](https://open.spotify.com/album/5hHkNlH2do1slAmf9FBKoJ) | 2:17 | 2024-12-16 | 2026-03-17 |
-| [Patient Zero](https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl: The Encore](https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J) | 3:45 | 2026-09-28 |  |
+| [Patient Zero](https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl: The Encore](https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J) | 3:45 | 2026-09-28 | 2026-10-13 |
 | [PATKÁNY](https://open.spotify.com/track/769BgoDplcfdCwuMKzVMgV) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5) | [PATKÁNY](https://open.spotify.com/album/5QBhS7BWtdqDSz6N9YICeK) | 2:29 | 2025-02-24 | 2025-12-02 |
 | [Pedro](https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r), [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Pedro](https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1) | 2:24 | 2024-07-01 | 2024-10-08 |
 | [Pesti bárdok](https://open.spotify.com/track/6GbI4lomlbCVHGfufZrjOv) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [Pesti bárdok](https://open.spotify.com/album/45uG02RJkRCwM5yAcLoeG8) | 5:55 | 2026-07-01 | 2026-09-29 |

@@ -822,7 +822,7 @@
       ],
       "date_added": "2026-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 151578,
       "name": "Anubis",
       "url": "https://open.spotify.com/track/0zexhbxUH0orSkJfd0tAk0"
@@ -1634,7 +1634,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-11",
+      "date_removed": null,
       "duration_ms": 178853,
       "name": "Berghain",
       "url": "https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj"
@@ -2890,7 +2890,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 173144,
       "name": "C\u00e2nt\u0103 l\u0103utare",
       "url": "https://open.spotify.com/track/6GbmRPRbFkxasxrC2ee67E"
@@ -5614,7 +5614,7 @@
       ],
       "date_added": "2026-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 244600,
       "name": "Inima fara noroc",
       "url": "https://open.spotify.com/track/5DwFy1Hh4B6Net4HTuznM6"
@@ -5996,7 +5996,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-15",
+      "date_removed": null,
       "duration_ms": 227401,
       "name": "KLK",
       "url": "https://open.spotify.com/track/2ZFu40Ik8VsUE9H87W0MmZ"
@@ -6018,7 +6018,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 215266,
       "name": "La Furat (Toata Viata Mea) [feat. Luchian]",
       "url": "https://open.spotify.com/track/58sQSb57vLiR5YKm9Ok34E"
@@ -6855,6 +6855,24 @@
     },
     {
       "album": {
+        "name": "Los Homerun-es",
+        "url": "https://open.spotify.com/album/20DPRLGTkmOvCv9k5wMoIS"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72013,
+      "name": "Me Quedo",
+      "url": "https://open.spotify.com/track/7catwNsmz9tHX68C1SOfcj"
+    },
+    {
+      "album": {
         "name": "Meneaito",
         "url": "https://open.spotify.com/album/7nAYBo6ma8p4sGj9cig5Bb"
       },
@@ -6994,7 +7012,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 160122,
       "name": "MI AMOR",
       "url": "https://open.spotify.com/track/2fpArW4gdskbBMyeNSmhJ4"
@@ -7825,6 +7843,24 @@
     },
     {
       "album": {
+        "name": "Nu r\u0103s\u0103ri\u021bi stele",
+        "url": "https://open.spotify.com/album/2ZdyAFBaYBs4EUsGp1oB7L"
+      },
+      "artists": [
+        {
+          "name": "Babasha",
+          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165217,
+      "name": "Nu r\u0103s\u0103ri\u021bi stele",
+      "url": "https://open.spotify.com/track/3VJgRYPFOnDdhfqWGuUPib"
+    },
+    {
+      "album": {
         "name": "LUCIFER",
         "url": "https://open.spotify.com/album/7cZxVrz4JkxEP4lVrqX9NS"
       },
@@ -8586,6 +8622,24 @@
       "duration_ms": 203551,
       "name": "Prometeu",
       "url": "https://open.spotify.com/track/6aGg3t5K8DjfpymWv7AkIy"
+    },
+    {
+      "album": {
+        "name": "Pun mana pe ea",
+        "url": "https://open.spotify.com/album/7vjIrOpcC1LwoUb6nyCFGE"
+      },
+      "artists": [
+        {
+          "name": "Ursaru",
+          "url": "https://open.spotify.com/artist/3bxxzWVZpk4rfuuQUESsAy"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137872,
+      "name": "Pun mana pe ea",
+      "url": "https://open.spotify.com/track/5tM7fT2w14kNUg0CkitDpi"
     },
     {
       "album": {
@@ -9363,6 +9417,24 @@
     },
     {
       "album": {
+        "name": "Shotta's.",
+        "url": "https://open.spotify.com/album/7ANxNZQm8jpjNH6nER0M2I"
+      },
+      "artists": [
+        {
+          "name": "Season 25",
+          "url": "https://open.spotify.com/artist/1WtceoonufhxRc6AnUSbat"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142663,
+      "name": "Shotta's.",
+      "url": "https://open.spotify.com/track/43yprMxePR9BXo1DZg0vwY"
+    },
+    {
+      "album": {
         "name": "Show cu Banii",
         "url": "https://open.spotify.com/album/0fR9ISgufBFlAS5ULYcuzp"
       },
@@ -9502,7 +9574,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 133793,
       "name": "Simpatica",
       "url": "https://open.spotify.com/track/7rvezbe0QVV6JNUNlSFHiU"
@@ -11107,6 +11179,24 @@
     },
     {
       "album": {
+        "name": "888",
+        "url": "https://open.spotify.com/album/0nOx92YDM4B6KLWeTVhbhc"
+      },
+      "artists": [
+        {
+          "name": "Aerozen",
+          "url": "https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120024,
+      "name": "Vb Frumos",
+      "url": "https://open.spotify.com/track/52WSv1pJToTwF8qCZbHBHG"
+    },
+    {
+      "album": {
         "name": "Viata Bate Filmul",
         "url": "https://open.spotify.com/album/375My8DsXLTBLcAECbDpzl"
       },
@@ -11490,7 +11580,7 @@
       ],
       "date_added": "2026-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 104071,
       "name": "WYW",
       "url": "https://open.spotify.com/track/6GbRvzlz16ebnMB7CZDsSR"

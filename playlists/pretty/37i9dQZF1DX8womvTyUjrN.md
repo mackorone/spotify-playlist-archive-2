@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > The new wave of Latin pop 🌊 Cover: Alex Ponce
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,302 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,286 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 37 | [De Sueño en Sueño](https://open.spotify.com/track/027M0nMG5b1cojrWeR0k7N) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Arón Piper](https://open.spotify.com/artist/79ehGac6casNGvc5n8XL7J) | [De Sueño en Sueño](https://open.spotify.com/album/3iZbH8MZdJ1tDjYMz3hA8D) | 2:43 |
 | 38 | [modo avión](https://open.spotify.com/track/69pSiwDPhES4RkVIloawsj) | [Clara Luna](https://open.spotify.com/artist/6J50g2avhNLHeZcMcYSKJi) | [modo avión](https://open.spotify.com/album/2Cznt4TJygEYcD3kZ4DujA) | 2:43 |
 | 39 | [SI NO ESTÁS TÚ](https://open.spotify.com/track/1nLER1WPkhoePtsc8QYZCt) | [Lara Project](https://open.spotify.com/artist/5FXxWnN3DpfSS4vbcoqvbs), [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Finjo y estoy bien \(División A\)](https://open.spotify.com/album/2oBIqhcZ9Z0NjgRa9JDKQx) | 3:55 |
-| 40 | [\(no\) te quiero perder \- By Bershka Music](https://open.spotify.com/track/7iOXb777qN8aqu8ulgZd6l) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [\(no\) te quiero perder \[By Bershka Music\]](https://open.spotify.com/album/3aDgxK43chuaG2UTt9HJ9E) | 2:21 |
+| 40 | [\(no\) te quiero perder \- BY BERSHKA MUSIC](https://open.spotify.com/track/7iOXb777qN8aqu8ulgZd6l) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [\(no\) te quiero perder \[BY BERSHKA MUSIC\]](https://open.spotify.com/album/3aDgxK43chuaG2UTt9HJ9E) | 2:21 |
 | 41 | [todo va a estar bien](https://open.spotify.com/track/6iTviu0qySOiZRD1lfqkMT) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [si escribo, no contestes](https://open.spotify.com/album/1NHW9hoXLNAhWyfte9Z6Qu) | 3:30 |
 | 42 | [Como Te Pienso Yo](https://open.spotify.com/track/0CPZduaSTKevb1AnrwYTjs) | [Mari Segura](https://open.spotify.com/artist/2ih7yN0J7tvnUaX3h7xQjT) | [Como Te Pienso Yo](https://open.spotify.com/album/3RKgq0fu5tIC1yWNx2IDSL) | 3:10 |
 | 43 | [desamarte](https://open.spotify.com/track/4bjGzeO9Eat8RhjW4IBDBC) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [ciclos](https://open.spotify.com/album/6t2HxVOXaO4TFEVZtqM2jG) | 3:21 |

@@ -2607,6 +2607,28 @@
     },
     {
       "album": {
+        "name": "Betty's in the Band",
+        "url": "https://open.spotify.com/album/7FxZDwJDrJ8StZU0XmkMPM"
+      },
+      "artists": [
+        {
+          "name": "Abigail Rose",
+          "url": "https://open.spotify.com/artist/2CraSvnAIaUnmEaNEVBwYd"
+        },
+        {
+          "name": "Weston Hunter",
+          "url": "https://open.spotify.com/artist/2LlrTkoqkuyqzbO9C7DttQ"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206105,
+      "name": "Betty's in the Band",
+      "url": "https://open.spotify.com/track/3xdFInFLsj2Zj1E6VlK3mc"
+    },
+    {
+      "album": {
         "name": "Big Dawgs",
         "url": "https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD"
       },
@@ -10067,6 +10089,28 @@
     },
     {
       "album": {
+        "name": "Hello (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/7fKBbaDDVJlbjjWAuDG2nU"
+      },
+      "artists": [
+        {
+          "name": "daine",
+          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
+        },
+        {
+          "name": "triple j",
+          "url": "https://open.spotify.com/artist/2ztWo9ZI0S6mzpQVmmMcE1"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205212,
+      "name": "Hello - triple j Like A Version",
+      "url": "https://open.spotify.com/track/6B8XcuiJW6IR8YUEfwCfbi"
+    },
+    {
+      "album": {
         "name": "Hello Miss Johnson",
         "url": "https://open.spotify.com/album/3MJGcgbroIjiO90yi7RMhy"
       },
@@ -11684,7 +11728,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 194026,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/0bC2Kb7qq9gH0lGt8kZsR6"
@@ -17862,7 +17906,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 212195,
       "name": "PQC",
       "url": "https://open.spotify.com/track/0bP1I4aL8vehpEkXQ3dmgO"
@@ -21006,7 +21050,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-17",
+      "date_removed": null,
       "duration_ms": 173433,
       "name": "STORM II",
       "url": "https://open.spotify.com/track/0FZd4IaxB12sUTKSUUGwWq"
@@ -22212,7 +22256,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 176876,
       "name": "THAT GIRL",
       "url": "https://open.spotify.com/track/7vn1jku0IydU4cVGm5C9lF"

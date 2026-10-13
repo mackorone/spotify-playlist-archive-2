@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-484 songs - 1 day 0 hr 51 min
+486 songs - 1 day 0 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Defect](https://open.spotify.com/track/1VfoY7t1Z79IA7rU2gAc8i) | [Reece Rosé](https://open.spotify.com/artist/7e7AGt1EJqxXsb9xpaflJ5) | [The People](https://open.spotify.com/album/7zP5P3ddTfoYYnaxW75ouB) | 3:00 | 2026-09-22 |  |
 | [DELTA](https://open.spotify.com/track/5NcT6HWiBiETs1mTFYXR1U) | [DJ FKU](https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe) | [DELTA](https://open.spotify.com/album/6jrRtiZ11ETv5ercTeB2gH) | 2:52 | 2024-06-14 |  |
 | [Demnuhbad](https://open.spotify.com/track/22CeWpYhyEruCsFauCHlLv) | [Vosai](https://open.spotify.com/artist/7u4uMBxwuDZsN7wGxzdiGw), [VinDon](https://open.spotify.com/artist/6hS0eB6BQPvcKhIM6Ltem0) | [Demnuhbad](https://open.spotify.com/album/4NnK9RjEAOOxk5rHtutkBH) | 3:06 | 2022-11-03 | 2023-08-11 |
+| [Desire](https://open.spotify.com/track/4QMaq3T0J6ObGCJjD7RDiy) | [gabriawll](https://open.spotify.com/artist/5jMwLnp7dI0H2YFvXpCaMH), [Ada Petcu](https://open.spotify.com/artist/2xAiFXyl3ulbLocrLfz47X) | [Desire](https://open.spotify.com/album/6CHopY6xE9FOJ1p3B48VxA) | 3:37 | 2026-10-12 |  |
 | [Desperate](https://open.spotify.com/track/068gApVgHSg3dZbqHjYRW4) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [Desperate](https://open.spotify.com/album/6iBQ9N0IsxqPxSn2QJjpZv) | 3:15 | 2023-04-28 |  |
 | [devaste](https://open.spotify.com/track/649O7DxFSeEHIbGNdjpJ81) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [kellapsage](https://open.spotify.com/artist/4TGsEz9x7p8SkARvMyklH4) | [devaste](https://open.spotify.com/album/1j6H1mHcaZLvKgwNYtDGZ8) | 2:27 | 2026-04-14 |  |
 | [Devil](https://open.spotify.com/track/5mn6mZIHIQF6sl3KCkMtIY) | [Diamond Eyes](https://open.spotify.com/artist/7u7MDzwo7VtVe7FhS3cq8Y) | [Devil](https://open.spotify.com/album/54WiyGQ7TL7nqIPoh1ieF8) | 4:01 | 2023-10-31 |  |
@@ -148,6 +149,7 @@
 | [Feel](https://open.spotify.com/track/1whGAh2hFEr9CQeEmhouJq) | [Raptures.](https://open.spotify.com/artist/37H2zWHT07jLwDF8ddpu6m), [DigEx](https://open.spotify.com/artist/1fkyWtQzPTsS3Vj6kRtKi0) | [Feel](https://open.spotify.com/album/6fvg92JFSGmu8WbC3xLtDU) | 2:36 | 2022-06-07 | 2023-08-11 |
 | [Feel Alive](https://open.spotify.com/track/2ny7EDengavertveA3WeVT) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN), [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Feel Alive](https://open.spotify.com/album/5zKvA3heSNYN4A1EfcyakR) | 3:02 | 2022-02-03 | 2022-09-15 |
 | [Feel Good Funk](https://open.spotify.com/track/2jElfWdcul95hdywpEcCkM) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH), [Nakama](https://open.spotify.com/artist/1kd6WqngBvP0Vthu1sGI0j) | [Feel Good Funk](https://open.spotify.com/album/3t4mt4bgAc6MpkIemI7gSf) | 1:36 | 2026-03-06 |  |
+| [Feel It](https://open.spotify.com/track/3WzEd0Ibz0cVwPysw1EE0p) | [Zack Griffin](https://open.spotify.com/artist/4wbYi9fts1O6KBhND6bDlM) | [Feel It](https://open.spotify.com/album/5NayYnyLGiQKJVwxKSIGQf) | 4:16 | 2026-10-12 |  |
 | [Feel Like](https://open.spotify.com/track/5Oji8AVm2hDRqs0hTgKJUc) | [Aix Cee](https://open.spotify.com/artist/7gyRTQclDoJrMHMNfSuSUe) | [Feel Like](https://open.spotify.com/album/2gycRsICkZ2zZlXda4YXA6) | 2:51 | 2024-06-13 |  |
 | [Feelings](https://open.spotify.com/track/7IV83i6cyhQwAhqe84Mt12) | [Facading](https://open.spotify.com/artist/3swqKb9ThB6V60oQEFyDu0) | [Feelings](https://open.spotify.com/album/56Opln9OdI3F6NvSoEzncW) | 2:40 | 2022-02-03 | 2022-09-15 |
 | [Feelings](https://open.spotify.com/track/0objHGHDjDdVGCyWYBLdQT) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64), [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY) | [Feelings](https://open.spotify.com/album/6ufiR1kjFwmTAvhrmcFLjE) | 2:41 | 2022-05-05 | 2023-08-11 |

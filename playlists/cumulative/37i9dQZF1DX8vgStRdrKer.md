@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-887 songs - 3 day 5 hr 51 min
+888 songs - 3 day 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Canopy](https://open.spotify.com/track/6Zs5Ub2gLL3FDl2bAtAVh9) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Tariee](https://open.spotify.com/artist/5SoIX1tmK5I0xpS06fHKEW) | [Canopy](https://open.spotify.com/album/6MjdnMrYZ7cJDTD9MljL3X) | 2:18 | 2026-06-12 | 2026-07-20 |
 | [Carry Me](https://open.spotify.com/track/06fxnpXNeFEd3LzsHn8Wwy) | [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4) | [Carry Me](https://open.spotify.com/album/4ECzawlYXN2Ek3SsailujV) | 8:00 | 2025-11-28 | 2026-06-23 |
 | [Carry me like Baby](https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 3:12 | 2023-12-01 | 2024-02-09 |
+| [Catholic Boy](https://open.spotify.com/track/1dWrrmOqCkMr0puVaMiVXI) | [Vicla boi](https://open.spotify.com/artist/0VupyRTwkYyNf9iooZcLFN) | [Catholic Boy](https://open.spotify.com/album/3cIz5GI6LqMhJyrxUY1GsP) | 3:01 | 2026-10-02 |  |
 | [Celebration](https://open.spotify.com/track/7qcZTkaE3dXKI1pSKvAGfv) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T) | [Celebration](https://open.spotify.com/album/6Ol3vEyWQcgUkV28aWGBcB) | 2:54 | 2025-04-25 | 2025-06-27 |
 | [Chale](https://open.spotify.com/track/4hKnUUJ5YUz21mEKk1KyFs) | [richieo](https://open.spotify.com/artist/1I0DhnrGCFdgRHreaYacf0), [Kofi Kinaata](https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm) | [Chale](https://open.spotify.com/album/4XY20uumfyqrVMspFmBF17) | 2:26 | 2024-03-01 | 2025-05-30 |
 | [Chante](https://open.spotify.com/track/5IR1HN5u67s98hxOf9w8ci) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Chante](https://open.spotify.com/album/4p7agkJ4UNNfmA9AGpx7y9) | 3:43 | 2025-06-13 | 2025-10-08 |
@@ -828,7 +829,7 @@
 | [When I Have You](https://open.spotify.com/track/6CU8ll61ugtCodNhrBAyoW) | [Minister Rachel K](https://open.spotify.com/artist/3e5JDlZMh9AHtEv5zee0bl) | [When I Have You](https://open.spotify.com/album/70bzK3vtHYnZTPHhn58cZa) | 4:34 | 2026-07-17 | 2026-08-20 |
 | [When I Rise](https://open.spotify.com/track/6Vcb3GG1I9Chhwcc4OFEVS) | [Nkay](https://open.spotify.com/artist/1PQcG2ep2nohJCMyRFyWlv), [Still Shadey](https://open.spotify.com/artist/7r4NtPJ0mYRidQYQtxq8sV) | [Find Me](https://open.spotify.com/album/2i6vGDEC1cSBDqNOanDu5b) | 2:54 | 2023-10-20 | 2023-11-03 |
 | [When You Are There \- Piano Ballad](https://open.spotify.com/track/2YhDgRSPNjwttKOLLcwkoQ) | [Dr Paul Enenche](https://open.spotify.com/artist/5bbq9LbEHKVq6FEpVLuz7i) | [When You Are There \(Piano Ballad\)](https://open.spotify.com/album/5CiQkbQmr7rtnjgK1p808b) | 5:09 | 2024-10-11 | 2025-06-20 |
-| [When You Say A Thing](https://open.spotify.com/track/36JNRz48wspzRPzA6fU2tc) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [When You Say A Thing](https://open.spotify.com/album/58KaH3OCajM4VlwWV2XhXY) | 3:59 | 2025-07-04 |  |
+| [When You Say A Thing](https://open.spotify.com/track/36JNRz48wspzRPzA6fU2tc) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [When You Say A Thing](https://open.spotify.com/album/58KaH3OCajM4VlwWV2XhXY) | 3:59 | 2025-07-04 | 2026-10-13 |
 | [Who Is Like The Lord \- LIVE](https://open.spotify.com/track/73TY0ezTyS10sBzN61ULS9) | [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [Uwana Etuk](https://open.spotify.com/artist/1vUtm6BcZuvgWqlhCUF2M3) | [Who Is Like The Lord \(LIVE\)](https://open.spotify.com/album/1BlFPOk2ErZz4GVi9Lbdqe) | 9:49 | 2025-08-22 | 2025-10-03 |
 | [Who Is Like You \- Live](https://open.spotify.com/track/2gbB7Qux8u6qCZhGxlEKFo) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Who Is Like You \(Live\)](https://open.spotify.com/album/4Z7NcJsD3IbJRCGalgEyW9) | 19:01 | 2025-03-07 | 2025-06-27 |
 | [WINNER](https://open.spotify.com/track/0viS773I33X8MFp3yufGEf) | [Naomi Classik](https://open.spotify.com/artist/6UvgdnOto2BWiiK8ycagqW) | [WINNER](https://open.spotify.com/album/1gYrOC1z0daWT2ncgCOctt) | 3:32 | 2025-06-27 | 2025-09-05 |

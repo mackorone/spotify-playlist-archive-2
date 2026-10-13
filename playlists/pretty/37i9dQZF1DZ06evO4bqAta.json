@@ -1,12 +1,12 @@
 {
   "description": "This is Bob Dylan. The essential tracks, all in one playlist.",
-  "num_followers": 594153,
+  "num_followers": 594175,
   "original_name": "This Is Bob Dylan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asmAAAAAAADfPSY811iHycChLl1/W8Az",
+  "snapshot_id": "asrRgAAAAABrK94H2D58Gdlq+2nz825u",
   "tracks": [
     {
       "added_at": null,
@@ -39,22 +39,6 @@
       "duration_ms": 197020,
       "name": "The Times They Are A-Changin'",
       "url": "https://open.spotify.com/track/52vA3CYKZqZVdQnzRrdZt6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Going, Going, Gone (Live at Tarrant County Convention Center Arena, Fort Worth, TX - May 16, 1976)",
-        "url": "https://open.spotify.com/album/3rIs6ocYkun62cDGQfdALA"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 349248,
-      "name": "Going, Going, Gone - Live at Tarrant County Convention Center Arena, Fort Worth, TX - May 16, 1976",
-      "url": "https://open.spotify.com/track/148pGYwurEnSflr6TJ1BRP"
     },
     {
       "added_at": null,
@@ -831,6 +815,22 @@
       "duration_ms": 170980,
       "name": "Love Minus Zero",
       "url": "https://open.spotify.com/track/2FDTgrYDUdQKyGmtynEk90"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Times They Are A-Changin'",
+        "url": "https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 162436,
+      "name": "One Too Many Mornings",
+      "url": "https://open.spotify.com/track/5ATUmaVJWUTTagmPwQLck3"
     }
   ],
   "unique_name": "This Is Bob Dylan",

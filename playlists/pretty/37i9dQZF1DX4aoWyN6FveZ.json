@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/ravieb/\">Ravie B</a>",
-  "num_followers": 24827,
+  "num_followers": 24834,
   "original_name": "Ravie B's Taste",
   "owner": {
     "name": "Spotify",
@@ -747,6 +747,22 @@
     {
       "added_at": "2022-10-01 20:09:45",
       "album": {
+        "name": "Life of a DON",
+        "url": "https://open.spotify.com/album/2WmJ5wp5wKBlIJE6FDAIBJ"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 155131,
+      "name": "Get Throwed",
+      "url": "https://open.spotify.com/track/3nfARfVxSqwFahp3yY53aD"
+    },
+    {
+      "added_at": "2022-10-01 20:09:45",
+      "album": {
         "name": "Huncho Jack, Jack Huncho",
         "url": "https://open.spotify.com/album/6FED8aeieEnUWwQqAO9zT1"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 191409,
       "name": "Motorcycle Patches",
       "url": "https://open.spotify.com/track/7g7raxdQpiLZT7aOlib4S1"
-    },
-    {
-      "added_at": "2022-10-01 20:09:45",
-      "album": {
-        "name": "Life of a DON",
-        "url": "https://open.spotify.com/album/2WmJ5wp5wKBlIJE6FDAIBJ"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 155131,
-      "name": "Get Throwed",
-      "url": "https://open.spotify.com/track/3nfARfVxSqwFahp3yY53aD"
     },
     {
       "added_at": "2022-10-01 20:09:45",

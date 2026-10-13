@@ -1,12 +1,12 @@
 {
   "description": "This is Jimi Hendrix. The essential tracks, all in one playlist.",
-  "num_followers": 329448,
+  "num_followers": 329455,
   "original_name": "This Is Jimi Hendrix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asgugAAAAAAaD4J2tZxrMJFIhFPFWHbU",
+  "snapshot_id": "asrRgAAAAADGluRDeXQUkmLIBMdviVOg",
   "tracks": [
     {
       "added_at": null,
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 234866,
-      "name": "Sweet Angel",
-      "url": "https://open.spotify.com/track/3t3CO2eP3gLbiFFN5Z4gmB"
+      "duration_ms": 301520,
+      "name": "Mannish Boy",
+      "url": "https://open.spotify.com/track/0hnlRgTh80b1emNnM0jmwt"
     },
     {
       "added_at": null,
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 301520,
-      "name": "Mannish Boy",
-      "url": "https://open.spotify.com/track/0hnlRgTh80b1emNnM0jmwt"
+      "duration_ms": 234866,
+      "name": "Sweet Angel",
+      "url": "https://open.spotify.com/track/3t3CO2eP3gLbiFFN5Z4gmB"
     },
     {
       "added_at": null,
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 229120,
-      "name": "Drifting",
-      "url": "https://open.spotify.com/track/4xmlBI4xprNK78GSoTtkxp"
+      "duration_ms": 232506,
+      "name": "Night Bird Flying",
+      "url": "https://open.spotify.com/track/6qKlw6TyxVkaUZrlJYP8xD"
     },
     {
       "added_at": null,
@@ -751,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Cry of Love",
+        "url": "https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 229120,
+      "name": "Drifting",
+      "url": "https://open.spotify.com/track/4xmlBI4xprNK78GSoTtkxp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Live At Monterey",
         "url": "https://open.spotify.com/album/6NdaU4JVYrQAxDOSrG0aPF"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 194653,
       "name": "Killing Floor - Live At Monterey",
       "url": "https://open.spotify.com/track/2v1DwZai9QYkcq8iuDzeDB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Cry of Love",
-        "url": "https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 232506,
-      "name": "Night Bird Flying",
-      "url": "https://open.spotify.com/track/6qKlw6TyxVkaUZrlJYP8xD"
     },
     {
       "added_at": null,

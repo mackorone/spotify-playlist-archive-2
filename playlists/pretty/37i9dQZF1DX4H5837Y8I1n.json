@@ -1,12 +1,12 @@
 {
   "description": "For your workouts!\nCover : Ram Charan",
-  "num_followers": 114979,
+  "num_followers": 115042,
   "original_name": "Telugu Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKVShrczl3GoQRT+7d04/OhGoD95",
+  "snapshot_id": "AAAAAIhpGx6alqKd7ZRMIRfUVCupAzZc",
   "tracks": [
     {
       "added_at": "2026-05-28 10:27:51",
@@ -123,6 +123,30 @@
       "duration_ms": 227332,
       "name": "Rara Dheevara (From \"Swayambhu\") (Telugu)",
       "url": "https://open.spotify.com/track/1Q8ScqfqhoYC5atHMcCxwE"
+    },
+    {
+      "added_at": "2026-10-12 08:33:19",
+      "album": {
+        "name": "Kobali (From \"Ranabaali\")",
+        "url": "https://open.spotify.com/album/5LHyjwfU2P0pzynpLnblQs"
+      },
+      "artists": [
+        {
+          "name": "Ajay-Atul",
+          "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
+        },
+        {
+          "name": "V.M. Mahalingam",
+          "url": "https://open.spotify.com/artist/6mHtkNCvRoFV9XMzvjSF1u"
+        },
+        {
+          "name": "Kesavaditya",
+          "url": "https://open.spotify.com/artist/0CM7Hfgn5wovQuvBTJUK7b"
+        }
+      ],
+      "duration_ms": 247015,
+      "name": "Kobali (From \"Ranabaali\")",
+      "url": "https://open.spotify.com/track/0wFQDpkcOlBMlFt4ihVRRl"
     },
     {
       "added_at": "2026-03-03 06:27:58",

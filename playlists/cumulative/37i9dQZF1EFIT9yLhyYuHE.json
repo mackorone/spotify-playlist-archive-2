@@ -737,6 +737,28 @@
     },
     {
       "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/3A86ZfahL8jBCWGT1Put5n"
+      },
+      "artists": [
+        {
+          "name": "Leroy Styles",
+          "url": "https://open.spotify.com/artist/2MoxYOhy9ooC8KRcdgIFif"
+        },
+        {
+          "name": "Cara Mel\u00edn",
+          "url": "https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255832,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/65vsAU45KgqKRvRx0WSPp8"
+    },
+    {
+      "album": {
         "name": "I'm On My Way",
         "url": "https://open.spotify.com/album/1fuchE5QF91ApbeNXMkt1O"
       },

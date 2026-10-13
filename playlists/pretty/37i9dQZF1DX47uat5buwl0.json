@@ -1,12 +1,12 @@
 {
   "description": "Banger na banger. Cover: Def \ud83d\udd25",
-  "num_followers": 313495,
+  "num_followers": 313474,
   "original_name": "Studenten Hits 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG1//F9r8PXTN7TI8APVSjJkmxij",
+  "snapshot_id": "AAAAAFF9xrRRWdrqsPO7LD1XRi8vnN8E",
   "tracks": [
     {
       "added_at": "2026-10-08 22:00:24",
@@ -171,6 +171,30 @@
     {
       "added_at": "2026-10-08 22:00:24",
       "album": {
+        "name": "Sant\u00e9",
+        "url": "https://open.spotify.com/album/3bPJcUhzrJeN2PXR9PW5kg"
+      },
+      "artists": [
+        {
+          "name": "LA$$A",
+          "url": "https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR"
+        },
+        {
+          "name": "Nachtdienst",
+          "url": "https://open.spotify.com/artist/3064mDVay7KaKF8TyuD8kw"
+        },
+        {
+          "name": "Amelie",
+          "url": "https://open.spotify.com/artist/34R5rx4TvQmpxz3fyRfiKu"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "Sant\u00e9",
+      "url": "https://open.spotify.com/track/2lFTGVULcx1tRHhm2TY56I"
+    },
+    {
+      "added_at": "2026-10-08 22:00:24",
+      "album": {
         "name": "BOEM!",
         "url": "https://open.spotify.com/album/5Vwt8ws6fUX8C6Ba9DPSbo"
       },
@@ -211,22 +235,54 @@
     {
       "added_at": "2026-10-08 22:00:24",
       "album": {
-        "name": "Paradise Again",
-        "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
+        "name": "On 2nite",
+        "url": "https://open.spotify.com/album/46NWiHTOxSLHBGJIT6J73N"
       },
       "artists": [
         {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Constance Power",
-          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
+          "name": "Silva Bumpa",
+          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
         }
       ],
-      "duration_ms": 214071,
-      "name": "Heaven Takes You Home (feat. Connie Constance)",
-      "url": "https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4"
+      "duration_ms": 158848,
+      "name": "On 2nite",
+      "url": "https://open.spotify.com/track/2BoSbGSp2OaDBOx5NFHkrr"
+    },
+    {
+      "added_at": "2026-10-08 22:00:24",
+      "album": {
+        "name": "PUNTA CANA (feat. ADF Antje & Trapmoneybiggie)",
+        "url": "https://open.spotify.com/album/3EZYBf3uZB5ilS6Olfammf"
+      },
+      "artists": [
+        {
+          "name": "ADF",
+          "url": "https://open.spotify.com/artist/6VT2Npi6yGDqn3H07qI1DY"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        },
+        {
+          "name": "DJ DYLVN",
+          "url": "https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l"
+        },
+        {
+          "name": "Carel",
+          "url": "https://open.spotify.com/artist/5qbldCiZAkn2KfwyUfithX"
+        },
+        {
+          "name": "ADF Antje",
+          "url": "https://open.spotify.com/artist/0CKK7htZL4Vhg1OycK8FFP"
+        },
+        {
+          "name": "Trapmoneybiggie",
+          "url": "https://open.spotify.com/artist/2chklSpWYaRe261GLkvKrv"
+        }
+      ],
+      "duration_ms": 148185,
+      "name": "PUNTA CANA",
+      "url": "https://open.spotify.com/track/6zDGORdshSWpR5nYMnEUZH"
     },
     {
       "added_at": "2026-10-08 22:00:24",
@@ -283,30 +339,6 @@
       "duration_ms": 150656,
       "name": "Fran\u00e7aise",
       "url": "https://open.spotify.com/track/3XdNLqN4nyNyYALXivzyuv"
-    },
-    {
-      "added_at": "2026-10-08 22:00:24",
-      "album": {
-        "name": "Sant\u00e9",
-        "url": "https://open.spotify.com/album/3bPJcUhzrJeN2PXR9PW5kg"
-      },
-      "artists": [
-        {
-          "name": "LA$$A",
-          "url": "https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR"
-        },
-        {
-          "name": "Nachtdienst",
-          "url": "https://open.spotify.com/artist/3064mDVay7KaKF8TyuD8kw"
-        },
-        {
-          "name": "Amelie",
-          "url": "https://open.spotify.com/artist/34R5rx4TvQmpxz3fyRfiKu"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "Sant\u00e9",
-      "url": "https://open.spotify.com/track/2lFTGVULcx1tRHhm2TY56I"
     },
     {
       "added_at": "2026-10-08 22:00:24",
@@ -383,22 +415,6 @@
     {
       "added_at": "2026-10-08 22:00:24",
       "album": {
-        "name": "On 2nite",
-        "url": "https://open.spotify.com/album/46NWiHTOxSLHBGJIT6J73N"
-      },
-      "artists": [
-        {
-          "name": "Silva Bumpa",
-          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
-        }
-      ],
-      "duration_ms": 158848,
-      "name": "On 2nite",
-      "url": "https://open.spotify.com/track/2BoSbGSp2OaDBOx5NFHkrr"
-    },
-    {
-      "added_at": "2026-10-08 22:00:24",
-      "album": {
         "name": "DJ ROFFA (LIVE @ FLEX FM)",
         "url": "https://open.spotify.com/album/5CKa57PQ9rT4aGR0OCGuyh"
       },
@@ -431,6 +447,46 @@
       "duration_ms": 139370,
       "name": "DIXI",
       "url": "https://open.spotify.com/track/0Bkg6kTvoEpEvPXx3wBZAD"
+    },
+    {
+      "added_at": "2026-10-12 12:18:17",
+      "album": {
+        "name": "Bon Bini",
+        "url": "https://open.spotify.com/album/17lnrp9WEtqzc71ZtwuuTR"
+      },
+      "artists": [
+        {
+          "name": "Luca Ferron",
+          "url": "https://open.spotify.com/artist/19AdBUGKGQJk2hyMb8MKG0"
+        },
+        {
+          "name": "Ninochello",
+          "url": "https://open.spotify.com/artist/6JdcexCU89cX0E9tDtTcsF"
+        },
+        {
+          "name": "Gio",
+          "url": "https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Bon Bini",
+      "url": "https://open.spotify.com/track/2b8b6hpLWKD2MKiblkqhYN"
+    },
+    {
+      "added_at": "2026-10-08 22:00:24",
+      "album": {
+        "name": "Vriendenteam",
+        "url": "https://open.spotify.com/album/0yQRhRNZCcExn8xH8r8E6Q"
+      },
+      "artists": [
+        {
+          "name": "Young Dylan",
+          "url": "https://open.spotify.com/artist/6qqRfVXPotai8VXd2Umpyc"
+        }
+      ],
+      "duration_ms": 142153,
+      "name": "Vriendenteam",
+      "url": "https://open.spotify.com/track/2Xso9DP91bB4Is1ab7Hb0s"
     },
     {
       "added_at": "2026-10-08 22:00:24",
@@ -523,6 +579,26 @@
     {
       "added_at": "2026-10-08 22:00:24",
       "album": {
+        "name": "Paradise Again",
+        "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Constance Power",
+          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
+        }
+      ],
+      "duration_ms": 214071,
+      "name": "Heaven Takes You Home (feat. Connie Constance)",
+      "url": "https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4"
+    },
+    {
+      "added_at": "2026-10-08 22:00:24",
+      "album": {
         "name": "Zonnebank",
         "url": "https://open.spotify.com/album/6HGoeSFFyVHFMTis04Td9E"
       },
@@ -585,6 +661,54 @@
       "url": "https://open.spotify.com/track/12vfSzaIb3fz94rdkJ33Jl"
     },
     {
+      "added_at": "2026-10-12 12:18:17",
+      "album": {
+        "name": "POLSKA JUMPSTYLE",
+        "url": "https://open.spotify.com/album/49SXqW0HBJZOT22uaHEKZ1"
+      },
+      "artists": [
+        {
+          "name": "Mr. Polska",
+          "url": "https://open.spotify.com/artist/1A6HQzOvtGaCYihOuIKjE6"
+        },
+        {
+          "name": "Natte Visstick",
+          "url": "https://open.spotify.com/artist/5hUbXqyif2dZ3ArU1v9Rli"
+        },
+        {
+          "name": "Vieze Asbak",
+          "url": "https://open.spotify.com/artist/66FZq0wsY6770bc4O9Dlig"
+        }
+      ],
+      "duration_ms": 140258,
+      "name": "POLSKA JUMPSTYLE",
+      "url": "https://open.spotify.com/track/2mShDoJYcOa4OdO2MFatxz"
+    },
+    {
+      "added_at": "2026-10-08 22:00:24",
+      "album": {
+        "name": "Free Your Mind",
+        "url": "https://open.spotify.com/album/0uo2O3BcYrZJzCnHk0I0BU"
+      },
+      "artists": [
+        {
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        },
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Sybil",
+          "url": "https://open.spotify.com/artist/1EbIfIjVcauDatNO4vagL1"
+        }
+      ],
+      "duration_ms": 201700,
+      "name": "Free Your Mind",
+      "url": "https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa"
+    },
+    {
       "added_at": "2026-10-08 22:00:24",
       "album": {
         "name": "Feessie",
@@ -623,22 +747,6 @@
     {
       "added_at": "2026-10-08 22:00:24",
       "album": {
-        "name": "Vriendenteam",
-        "url": "https://open.spotify.com/album/0yQRhRNZCcExn8xH8r8E6Q"
-      },
-      "artists": [
-        {
-          "name": "Young Dylan",
-          "url": "https://open.spotify.com/artist/6qqRfVXPotai8VXd2Umpyc"
-        }
-      ],
-      "duration_ms": 142153,
-      "name": "Vriendenteam",
-      "url": "https://open.spotify.com/track/2Xso9DP91bB4Is1ab7Hb0s"
-    },
-    {
-      "added_at": "2026-10-08 22:00:24",
-      "album": {
         "name": "Shinjuku",
         "url": "https://open.spotify.com/album/5HiGwQ6NJl5XuXD2ugSFMz"
       },
@@ -651,30 +759,6 @@
       "duration_ms": 167905,
       "name": "Shinjuku",
       "url": "https://open.spotify.com/track/0niU8VMrQzSNhrmsiLlmeS"
-    },
-    {
-      "added_at": "2026-10-08 22:00:24",
-      "album": {
-        "name": "Free Your Mind",
-        "url": "https://open.spotify.com/album/0uo2O3BcYrZJzCnHk0I0BU"
-      },
-      "artists": [
-        {
-          "name": "Prospa",
-          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
-        },
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        },
-        {
-          "name": "Sybil",
-          "url": "https://open.spotify.com/artist/1EbIfIjVcauDatNO4vagL1"
-        }
-      ],
-      "duration_ms": 201700,
-      "name": "Free Your Mind",
-      "url": "https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa"
     },
     {
       "added_at": "2026-10-08 22:00:24",
@@ -1003,42 +1087,6 @@
     {
       "added_at": "2026-10-08 22:00:24",
       "album": {
-        "name": "PUNTA CANA (feat. ADF Antje & Trapmoneybiggie)",
-        "url": "https://open.spotify.com/album/3EZYBf3uZB5ilS6Olfammf"
-      },
-      "artists": [
-        {
-          "name": "ADF",
-          "url": "https://open.spotify.com/artist/6VT2Npi6yGDqn3H07qI1DY"
-        },
-        {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
-        },
-        {
-          "name": "DJ DYLVN",
-          "url": "https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l"
-        },
-        {
-          "name": "Carel",
-          "url": "https://open.spotify.com/artist/5qbldCiZAkn2KfwyUfithX"
-        },
-        {
-          "name": "ADF Antje",
-          "url": "https://open.spotify.com/artist/0CKK7htZL4Vhg1OycK8FFP"
-        },
-        {
-          "name": "Trapmoneybiggie",
-          "url": "https://open.spotify.com/artist/2chklSpWYaRe261GLkvKrv"
-        }
-      ],
-      "duration_ms": 148185,
-      "name": "PUNTA CANA",
-      "url": "https://open.spotify.com/track/6zDGORdshSWpR5nYMnEUZH"
-    },
-    {
-      "added_at": "2026-10-08 22:00:24",
-      "album": {
         "name": "Go (I Don't Wanna) [RnB Version]",
         "url": "https://open.spotify.com/album/7ts8h3snVDrf6fkppi6ejw"
       },
@@ -1143,30 +1191,6 @@
     {
       "added_at": "2026-10-08 22:00:24",
       "album": {
-        "name": "Lichten Gaan Aan",
-        "url": "https://open.spotify.com/album/7JTrHqAGyO7Rtx0z0K7UVw"
-      },
-      "artists": [
-        {
-          "name": "LA$$A",
-          "url": "https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR"
-        },
-        {
-          "name": "Turfy Gang",
-          "url": "https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W"
-        },
-        {
-          "name": "Kraantje Pappie",
-          "url": "https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q"
-        }
-      ],
-      "duration_ms": 129807,
-      "name": "Lichten Gaan Aan",
-      "url": "https://open.spotify.com/track/5en449sQuxUQh3PBH2O4Iq"
-    },
-    {
-      "added_at": "2026-10-08 22:00:24",
-      "album": {
         "name": "Tot Het Eind Van Mij",
         "url": "https://open.spotify.com/album/5j5NTP6nC9pSNzmxkyaARU"
       },
@@ -1251,34 +1275,6 @@
       "duration_ms": 280540,
       "name": "No Go Zone (Remix)",
       "url": "https://open.spotify.com/track/4XetXvo7S3IXMRPn8Do4LO"
-    },
-    {
-      "added_at": "2026-10-08 22:00:24",
-      "album": {
-        "name": "Cheerio Summer Mix",
-        "url": "https://open.spotify.com/album/7mkZQYGBJa1LMWFjnRrZrl"
-      },
-      "artists": [
-        {
-          "name": "DJ Larita",
-          "url": "https://open.spotify.com/artist/73BcfubAabKdfcR0WpxbAg"
-        },
-        {
-          "name": "Afro Bros",
-          "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
-        },
-        {
-          "name": "Carmell",
-          "url": "https://open.spotify.com/artist/4N7rpMAZalTWO8swnp2Fse"
-        },
-        {
-          "name": "Billy Dans",
-          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
-        }
-      ],
-      "duration_ms": 121512,
-      "name": "Cheerio Summer Mix",
-      "url": "https://open.spotify.com/track/1kpq0c9ErTJIaR3MPJz6sn"
     },
     {
       "added_at": "2026-10-08 22:00:24",

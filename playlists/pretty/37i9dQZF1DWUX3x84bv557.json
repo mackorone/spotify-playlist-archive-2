@@ -1,12 +1,12 @@
 {
   "description": "Frisse Nederlandse pop. Cover: Samuel Welten",
-  "num_followers": 246220,
+  "num_followers": 246204,
   "original_name": "Je Moerstaal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALkbSEsSDzz5JBM6GVhFcJE2p+HJ",
+  "snapshot_id": "AAAAAGOMvrs3MVajnH5/qUSuw+sk2w+F",
   "tracks": [
     {
       "added_at": "2026-10-08 22:01:10",
@@ -159,18 +159,22 @@
     {
       "added_at": "2026-10-08 22:01:10",
       "album": {
-        "name": "De Echte",
-        "url": "https://open.spotify.com/album/6MmU4KEF0bxmn4unaxnS7Z"
+        "name": "Voorbij",
+        "url": "https://open.spotify.com/album/4Y7q8OQaYg91BxZWerlBMV"
       },
       "artists": [
         {
-          "name": "Herman van Veen",
-          "url": "https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh"
+          "name": "Alessio",
+          "url": "https://open.spotify.com/artist/6gFuwMAaoJDU6M3c8UHcAj"
+        },
+        {
+          "name": "Montana",
+          "url": "https://open.spotify.com/artist/5JxBfSx4Hez2JQEqZy9xgb"
         }
       ],
-      "duration_ms": 154160,
-      "name": "De Echte",
-      "url": "https://open.spotify.com/track/3ubs1pAO1vR2Irsqcg27V4"
+      "duration_ms": 134526,
+      "name": "Voorbij",
+      "url": "https://open.spotify.com/track/1HTIlXjgPKk7BQx7lUS8ML"
     },
     {
       "added_at": "2026-10-08 22:01:10",
@@ -227,6 +231,26 @@
     {
       "added_at": "2026-10-08 22:01:10",
       "album": {
+        "name": "Aflevering 6 - Jeangu Macrooy",
+        "url": "https://open.spotify.com/album/5LRrDd1d285J0rSXCXqYX9"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Livay",
+          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
+        },
+        {
+          "name": "Beste Zangers",
+          "url": "https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa"
+        }
+      ],
+      "duration_ms": 183509,
+      "name": "Het Komt Door Jou",
+      "url": "https://open.spotify.com/track/7wvfe7WWSz3HHaa9epKMSx"
+    },
+    {
+      "added_at": "2026-10-08 22:01:10",
+      "album": {
         "name": "Rapido",
         "url": "https://open.spotify.com/album/4GHjuL2otqfI3tRLk7v5XF"
       },
@@ -243,6 +267,38 @@
       "duration_ms": 167103,
       "name": "Rapido",
       "url": "https://open.spotify.com/track/00WZWFbf7B5uGDIdWw5OmE"
+    },
+    {
+      "added_at": "2026-10-08 22:01:10",
+      "album": {
+        "name": "Ik Beloof Je Dat Het Beter Wordt",
+        "url": "https://open.spotify.com/album/57HWVtslY6u0w3DudtNhno"
+      },
+      "artists": [
+        {
+          "name": "Roxeanne Hazes",
+          "url": "https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6"
+        }
+      ],
+      "duration_ms": 172941,
+      "name": "Ik Beloof Je Dat Het Beter Wordt",
+      "url": "https://open.spotify.com/track/5UP8PzhH0ljxvU0bT9qtvE"
+    },
+    {
+      "added_at": "2026-10-08 22:01:10",
+      "album": {
+        "name": "De Echte",
+        "url": "https://open.spotify.com/album/6MmU4KEF0bxmn4unaxnS7Z"
+      },
+      "artists": [
+        {
+          "name": "Herman van Veen",
+          "url": "https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh"
+        }
+      ],
+      "duration_ms": 154160,
+      "name": "De Echte",
+      "url": "https://open.spotify.com/track/3ubs1pAO1vR2Irsqcg27V4"
     },
     {
       "added_at": "2026-10-08 22:01:10",
@@ -283,22 +339,6 @@
     {
       "added_at": "2026-10-08 22:01:10",
       "album": {
-        "name": "Ik Beloof Je Dat Het Beter Wordt",
-        "url": "https://open.spotify.com/album/57HWVtslY6u0w3DudtNhno"
-      },
-      "artists": [
-        {
-          "name": "Roxeanne Hazes",
-          "url": "https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6"
-        }
-      ],
-      "duration_ms": 172941,
-      "name": "Ik Beloof Je Dat Het Beter Wordt",
-      "url": "https://open.spotify.com/track/5UP8PzhH0ljxvU0bT9qtvE"
-    },
-    {
-      "added_at": "2026-10-08 22:01:10",
-      "album": {
         "name": "Terug Naar Toen",
         "url": "https://open.spotify.com/album/1KEsesYvD9y0anfFbbNMgK"
       },
@@ -311,46 +351,6 @@
       "duration_ms": 145316,
       "name": "Terug Naar Toen",
       "url": "https://open.spotify.com/track/5F96zcYJqIuBbKikZxeueb"
-    },
-    {
-      "added_at": "2026-10-08 22:01:10",
-      "album": {
-        "name": "Voorbij",
-        "url": "https://open.spotify.com/album/4Y7q8OQaYg91BxZWerlBMV"
-      },
-      "artists": [
-        {
-          "name": "Alessio",
-          "url": "https://open.spotify.com/artist/6gFuwMAaoJDU6M3c8UHcAj"
-        },
-        {
-          "name": "Montana",
-          "url": "https://open.spotify.com/artist/5JxBfSx4Hez2JQEqZy9xgb"
-        }
-      ],
-      "duration_ms": 134526,
-      "name": "Voorbij",
-      "url": "https://open.spotify.com/track/1HTIlXjgPKk7BQx7lUS8ML"
-    },
-    {
-      "added_at": "2026-10-08 22:01:10",
-      "album": {
-        "name": "Aflevering 6 - Jeangu Macrooy",
-        "url": "https://open.spotify.com/album/5LRrDd1d285J0rSXCXqYX9"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00eb Livay",
-          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
-        },
-        {
-          "name": "Beste Zangers",
-          "url": "https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa"
-        }
-      ],
-      "duration_ms": 183509,
-      "name": "Het Komt Door Jou",
-      "url": "https://open.spotify.com/track/7wvfe7WWSz3HHaa9epKMSx"
     },
     {
       "added_at": "2026-10-08 22:01:10",

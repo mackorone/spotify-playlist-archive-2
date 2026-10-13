@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Dusky
 
-[Spotify](https://open.spotify.com/user/spotify) - 546,625 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 546,654 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,12 +20,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 10 | [If You Want Me](https://open.spotify.com/track/2kGdtsoikfnm2ElE7S1wk1) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [If You Want Me](https://open.spotify.com/album/1PYBSKS97wpvT0rhx6DX9g) | 3:00 |
 | 11 | [Radio Nacional](https://open.spotify.com/track/1Nxbt8pCIRKraImjjHd34M) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8), [DJ GTi](https://open.spotify.com/artist/6mPCyDhyxqefBQbhKcm9Ms), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Radio Nacional](https://open.spotify.com/album/2quDxCML4J1cT7i4ZiMh6A) | 4:58 |
 | 12 | [Illusion](https://open.spotify.com/track/3oowIGctmBAAOLGi04Ysvo) | [DJ BORING](https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p), [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Illusion](https://open.spotify.com/album/1QBnnhNimYbsPtwSODQxuo) | 2:45 |
-| 13 | [Talking Walls](https://open.spotify.com/track/3ACp5zZfBI62yfR3aMGMBF) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3), [Cantoalegre](https://open.spotify.com/artist/4UKb01orqntSwUPAWNv668) | [DIGITiSE](https://open.spotify.com/album/5scldZE0Xai2ry7Dvlrwcf) | 6:31 |
-| 14 | [Lucky\[Hymn\]](https://open.spotify.com/track/0plo6dVRUzgOsVOV0OtjTw) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Lucky\[Hymn\]](https://open.spotify.com/album/6mgCA7TIo6aHcehFNVQMBz) | 3:48 |
-| 15 | [Level Up](https://open.spotify.com/track/4H0Hf5KBC7pWDEvArrGqiU) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [Level Up](https://open.spotify.com/album/1GFjYh88k10fLtruQ3alh3) | 2:36 |
-| 16 | [linea rossa](https://open.spotify.com/track/5Zxs47wrNNldpeXprV1q3K) | [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C), [Cameo Blush](https://open.spotify.com/artist/2Lx2CAHHQ2IC1iXjS6Y70v) | [linea rossa](https://open.spotify.com/album/7rzG9m326lh7XqH9n5Yk89) | 3:25 |
-| 17 | [This City \(feat\. Devlin\)](https://open.spotify.com/track/5izYtB29cwjnVVUVEulUv0) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Devlin](https://open.spotify.com/artist/7Ks3elJhSP20mD04lgiA68) | [What Are The Odds](https://open.spotify.com/album/53Rf76kJAhJNtyrxLgKTRa) | 3:15 |
-| 18 | [Rollercoaster](https://open.spotify.com/track/5Alk9qfDLzHZlsWimnJble) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH), [Dart](https://open.spotify.com/artist/6osq4qbA2enSjbGxYviPgj) | [Rollercoaster](https://open.spotify.com/album/6xEbjbvcJzDK7qXy1hsbCX) | 3:09 |
+| 13 | [Rollercoaster](https://open.spotify.com/track/5Alk9qfDLzHZlsWimnJble) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH), [Dart](https://open.spotify.com/artist/6osq4qbA2enSjbGxYviPgj) | [Rollercoaster](https://open.spotify.com/album/6xEbjbvcJzDK7qXy1hsbCX) | 3:09 |
+| 14 | [Talking Walls](https://open.spotify.com/track/3ACp5zZfBI62yfR3aMGMBF) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3), [Cantoalegre](https://open.spotify.com/artist/4UKb01orqntSwUPAWNv668) | [DIGITiSE](https://open.spotify.com/album/5scldZE0Xai2ry7Dvlrwcf) | 6:31 |
+| 15 | [Lucky\[Hymn\]](https://open.spotify.com/track/0plo6dVRUzgOsVOV0OtjTw) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Lucky\[Hymn\]](https://open.spotify.com/album/6mgCA7TIo6aHcehFNVQMBz) | 3:48 |
+| 16 | [Level Up](https://open.spotify.com/track/4H0Hf5KBC7pWDEvArrGqiU) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [Level Up](https://open.spotify.com/album/1GFjYh88k10fLtruQ3alh3) | 2:36 |
+| 17 | [linea rossa](https://open.spotify.com/track/5Zxs47wrNNldpeXprV1q3K) | [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C), [Cameo Blush](https://open.spotify.com/artist/2Lx2CAHHQ2IC1iXjS6Y70v) | [linea rossa](https://open.spotify.com/album/7rzG9m326lh7XqH9n5Yk89) | 3:25 |
+| 18 | [This City \(feat\. Devlin\)](https://open.spotify.com/track/5izYtB29cwjnVVUVEulUv0) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Devlin](https://open.spotify.com/artist/7Ks3elJhSP20mD04lgiA68) | [What Are The Odds](https://open.spotify.com/album/53Rf76kJAhJNtyrxLgKTRa) | 3:15 |
 | 19 | [All Night Long](https://open.spotify.com/track/7rTDt4MbccGE53h72e5zbW) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [All Night Long](https://open.spotify.com/album/4XU6CXzUW673zn5ncvBcAM) | 3:30 |
 | 20 | [South of the Thames](https://open.spotify.com/track/23AlkF4Vp1EMadT6JvBWU1) | [SKALAH](https://open.spotify.com/artist/5a1P3oJAiCkIu67CaLajlx), [Novelist](https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc) | [South of the Thames](https://open.spotify.com/album/5jyqJlZAF9wnKkneyoizKc) | 2:52 |
 | 21 | [When We're Together](https://open.spotify.com/track/0fl2nYDUUdvn1KlE5uvoz0) | [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [When We're Together](https://open.spotify.com/album/1iEOcNc53oRsznywsfkAja) | 3:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 99 | [Pulse](https://open.spotify.com/track/2TUAiQIUA0wKnQcpJslfoh) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F), [howtin](https://open.spotify.com/artist/17n21mJLkfRIaCnyYzuqWU) | [Pulse](https://open.spotify.com/album/4QpjUojSJeFkoqW4qMioyg) | 4:51 |
 | 100 | [ten toes](https://open.spotify.com/track/31nmYWiPPyVHnYFoCH2kZs) | [KTmelodies](https://open.spotify.com/artist/10IVkptwI3f1wi8XYDl2hd) | [ten toes](https://open.spotify.com/album/5OVHJp0XgK9cMW32m4eOXz) | 1:54 |
 
-Snapshot ID: `AAAAABNoVTfHC8/ohmXiC1x34fhMvUx6`
+Snapshot ID: `AAAAAGaicjWwpGVh+afm6KVzCQ2U1uJ4`

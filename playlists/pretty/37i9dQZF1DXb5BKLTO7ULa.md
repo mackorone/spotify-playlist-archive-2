@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: Ronnie Flex, Samuel Welten, Slayyyter, DI\-RECT, Sarah Julia, Troye Sivan, Acda en de Munnik en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,736 likes - 101 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,715 likes - 101 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 31 | [Is It That Deep?](https://open.spotify.com/track/0IAHJ9bxdoF56QbLIUEv9t) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Is It That Deep?](https://open.spotify.com/album/60Jot68Vp3ZpUhsiaxGrfZ) | 2:51 |
 | 32 | [The Brightest](https://open.spotify.com/track/76kuiwPVPJLlw2glwy5RvR) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7) | [The Brightest](https://open.spotify.com/album/26zzLxnYQtJY6D7ORYCH8d) | 4:09 |
 | 33 | [Baby show me your dance](https://open.spotify.com/track/2PpfAO09pGLqqKl3Ze9nBW) | [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3), [TrapLaudo](https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF), [DU'L](https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS), [DJ Glenner](https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK), [Dj Daltin no Beat](https://open.spotify.com/artist/2lFKqFqItmkHQB8jKilc44) | [Baby show me your dance](https://open.spotify.com/album/0mJ8RCMC2VWuXONjrSDSYz) | 2:31 |
-| 34 | [Eyes On Me](https://open.spotify.com/track/1bCeED0zVJb4r3l1hEtG6C) | [Säm Wilder](https://open.spotify.com/artist/5ggPsCXzRhoyVoeMRvg32B), [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [Eyes On Me](https://open.spotify.com/album/6CK1vs9xJkebDayXu0aCdG) | 2:53 |
+| 34 | [Eyes On Me](https://open.spotify.com/track/1bCeED0zVJb4r3l1hEtG6C) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA), [Säm Wilder](https://open.spotify.com/artist/5ggPsCXzRhoyVoeMRvg32B) | [Eyes On Me](https://open.spotify.com/album/6CK1vs9xJkebDayXu0aCdG) | 2:53 |
 | 35 | [Goed Zien](https://open.spotify.com/track/594VP7Kq7rOBeOc1gZCCxj) | [Nnelg](https://open.spotify.com/artist/7bbzOJyYWRp0cef7NpIClP) | [Goed Zien](https://open.spotify.com/album/6ZH9NAczMUXMxqsQ8qICqn) | 2:59 |
 | 36 | [Vallen & Opstaan](https://open.spotify.com/track/1bENbibgY1mG7weZC6UBXs) | [Frans Duijts](https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t) | [Vallen & Opstaan](https://open.spotify.com/album/5aJEJMgEAJEghoEl9ZTDRe) | 3:59 |
 | 37 | [I Love You, That’s All](https://open.spotify.com/track/7aDQlqbS2sB5Mu3SaaJ7hv) | [Dermot Henry](https://open.spotify.com/artist/0RhsllRA8vVKWSiBxuF77H) | [I Love You, That’s All](https://open.spotify.com/album/2zeJJzOz4HYfpFuIDrVDfx) | 3:43 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 42 | [Hope in \- Fear out](https://open.spotify.com/track/2PcBQfm3c6m1cPlyTn0jpm) | [John Coffey](https://open.spotify.com/artist/4kffVdSOMGP0BOiBXVgeyA) | [Not Alone](https://open.spotify.com/album/3RKQoboq11enzodEGmJeEX) | 2:36 |
 | 43 | [Can I Do It?](https://open.spotify.com/track/3qyapL4gd5urt6t8F2flvp) | [Moss](https://open.spotify.com/artist/2b5IpGsb4QnU46rf1jpZQ0) | [Can I Do It?](https://open.spotify.com/album/2Gjg0JL34KsFdj8ZJQ0IUE) | 2:53 |
 | 44 | [blue](https://open.spotify.com/track/0RJB6ldc79QC6jW5OR2Pv1) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [blue](https://open.spotify.com/album/3kxuW16FADFPyKmeke0wlR) | 4:10 |
-| 45 | [Heart Of A Dragon](https://open.spotify.com/track/5FKpVXEuq3qsuKeoAlLpnX) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Ran\-D](https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT), [Floor Jansen](https://open.spotify.com/artist/2ZNTJ9Bu9QMJwBboMSpQgJ) | [Heart Of A Dragon](https://open.spotify.com/album/3ZrBUSijdZYlPvSokYosxa) | 3:50 |
+| 45 | [Heart Of A Dragon](https://open.spotify.com/track/5FKpVXEuq3qsuKeoAlLpnX) | [Ran\-D](https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Floor Jansen](https://open.spotify.com/artist/2ZNTJ9Bu9QMJwBboMSpQgJ) | [Heart Of A Dragon](https://open.spotify.com/album/3ZrBUSijdZYlPvSokYosxa) | 3:50 |
 | 46 | [I Want You \(DJ\-Kicks\)](https://open.spotify.com/track/4AzzI4aJxY03CyJf5JZTvi) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU), [Allysha Joy](https://open.spotify.com/artist/3CzYPWEnpaODw56A53qxh3) | [I Want You \(DJ\-Kicks\)](https://open.spotify.com/album/4JQWcP3E46ajseeMViMY7G) | 4:30 |
 | 47 | [Vicious](https://open.spotify.com/track/7y1VFj1QU4T5VmY0kFZrp7) | [JAEL](https://open.spotify.com/artist/5p77ntJBUVTiJ00bmwhQaO), [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Vicious](https://open.spotify.com/album/0eYP2bmTEqFWU8eWS8xd4C) | 4:05 |
 | 48 | [THE PARTY NEVER ENDS](https://open.spotify.com/track/0TfWsdj1To4c40EZEzvLFA) | [Lamsi](https://open.spotify.com/artist/6qdxvGWY0xnOmV8ISg6yjJ) | [THE PARTY NEVER ENDS](https://open.spotify.com/album/6oIhlEOrFYeCHvkyWndzyj) | 3:38 |
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 93 | [Heimwee](https://open.spotify.com/track/5vVxnrTRex3uSS6ZSwLeqg) | [Berend](https://open.spotify.com/artist/1gplC639zf5QFkEGFU4yt5) | [Heimwee](https://open.spotify.com/album/2lyWUMoV1LwDYuWlK0SAVR) | 2:01 |
 | 94 | [Bènamee](https://open.spotify.com/track/1FF4jycvQCB7wHuAhVuMZM) | [De Règâhs](https://open.spotify.com/artist/0ojKDtOM16jOxerFRbuxjE) | [Groetuh uit Den Haag](https://open.spotify.com/album/6eBapCA3tHBl5rPuYeCrYC) | 3:30 |
 | 95 | [Get to Work](https://open.spotify.com/track/6XfDFJanW0aKEAMEhSxNhk) | [BERTHAJU](https://open.spotify.com/artist/78ZYaBigpiwJBwo2owu6ks) | [5 YEAR PLAN](https://open.spotify.com/album/0fArUu7U85I3vOHMVRik50) | 3:12 |
-| 96 | [Bag of Cool](https://open.spotify.com/track/5THAStIZHf7o9HcluBeZUg) | [MICH](https://open.spotify.com/artist/4HDfVcO8QmARunFcBJofWQ) | [Bag of Cool](https://open.spotify.com/album/2E4dMK1UXf3gYAY9xUJ9hS) | 1:51 |
+| 96 | [Bag of Cool](https://open.spotify.com/track/5THAStIZHf7o9HcluBeZUg) | [MICH](https://open.spotify.com/artist/4HDfVcO8QmARunFcBJofWQ) | [Bag of Cool](https://open.spotify.com/album/2E4dMK1UXf3gYAY9xUJ9hS) | 1:50 |
 | 97 | [specializer](https://open.spotify.com/track/4Nm38tUhq4thCDn7SKVU9x) | [FIEP](https://open.spotify.com/artist/4NicMfR6iYKLcfXs1ydcAE) | [specializer](https://open.spotify.com/album/0UQidwLyKyb9vSGy9lR0BX) | 3:01 |
 | 98 | [The Hole](https://open.spotify.com/track/1hESTIjVNvtmYal2JnuiT7) | [My Purse](https://open.spotify.com/artist/72xKwzomFXRApIyHghBrO4) | [The Hole](https://open.spotify.com/album/5asfeBv0CxsiNkR2RqnRrf) | 3:12 |
 | 99 | [Thorns](https://open.spotify.com/track/4WVodmLQfyfMa5xoFyk1MU) | [Asiah](https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX) | [Thorns](https://open.spotify.com/album/28Mc4RzhwNKeJEKgbKmVvl) | 3:10 |

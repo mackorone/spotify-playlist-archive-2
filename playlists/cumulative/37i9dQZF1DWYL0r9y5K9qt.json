@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2026-03-19",
-  "description": "time to strike a couple of poses. cover: New Lore",
+  "description": "time to strike a couple of poses. cover: pami ",
   "name": "poses",
   "tracks": [
     {
@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "10yrs",
+        "url": "https://open.spotify.com/album/58HEOt2iZV3ITEt0ZM1VjT"
+      },
+      "artists": [
+        {
+          "name": "Nadine Lustre",
+          "url": "https://open.spotify.com/artist/17Do37U0HEbxu1tOrKH8dL"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "10yrs",
+      "url": "https://open.spotify.com/track/7smsa7cVPwPteHJJ2Rgpbo"
+    },
+    {
+      "album": {
         "name": "Delulu Pack",
         "url": "https://open.spotify.com/album/0a8NPzV3WclFa2IliStNK8"
       },
@@ -70,7 +88,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 173333,
       "name": "5/9",
       "url": "https://open.spotify.com/track/37lGk86yeOKZhwnm6SHylE"
@@ -200,6 +218,24 @@
       "duration_ms": 185000,
       "name": "ATTITUDE",
       "url": "https://open.spotify.com/track/6QIY4JAyzPH6UuFsyndaPs"
+    },
+    {
+      "album": {
+        "name": "Baby Baby",
+        "url": "https://open.spotify.com/album/1qej5vPe576CcZWiXyPixQ"
+      },
+      "artists": [
+        {
+          "name": "Mint Pattarasaya",
+          "url": "https://open.spotify.com/artist/5RDsR7OZJeeHJtjnnDsSph"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266933,
+      "name": "Baby Baby",
+      "url": "https://open.spotify.com/track/4ME0r64EIQ0dw8YKIUp4Ay"
     },
     {
       "album": {
@@ -366,6 +402,24 @@
       "duration_ms": 167773,
       "name": "Boy in the Matrix",
       "url": "https://open.spotify.com/track/6wZcPL2h8uFXXiSgxA2hSM"
+    },
+    {
+      "album": {
+        "name": "Break The Habit",
+        "url": "https://open.spotify.com/album/6ENIVIwvnlqcf5lFSGgCjA"
+      },
+      "artists": [
+        {
+          "name": "ARI LEE",
+          "url": "https://open.spotify.com/artist/2CR4RXDXZVMvjEV3rrEVA7"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181833,
+      "name": "Break The Habit",
+      "url": "https://open.spotify.com/track/32SMJKVThDZuGpK2qeQXPr"
     },
     {
       "album": {
@@ -542,7 +596,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 181758,
       "name": "Dark Arts",
       "url": "https://open.spotify.com/track/2wRXvIGUTRWod4yp1k3bGN"
@@ -676,7 +730,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 198598,
       "name": "Flowers in June",
       "url": "https://open.spotify.com/track/5KcPziZTjRQUiEHFv4zAwW"
@@ -876,7 +930,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 213488,
       "name": "Hit and Run",
       "url": "https://open.spotify.com/track/4CSPyzqhaKX3CBkPlpsIYt"
@@ -1038,7 +1092,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 210500,
       "name": "I Ruin, I Love",
       "url": "https://open.spotify.com/track/79Jw5owZrm5dJq8zyvDDjn"
@@ -1255,6 +1309,24 @@
     },
     {
       "album": {
+        "name": "loser",
+        "url": "https://open.spotify.com/album/0TEipdEWfi3EOhxY6WtASj"
+      },
+      "artists": [
+        {
+          "name": "pami",
+          "url": "https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "loser",
+      "url": "https://open.spotify.com/track/0Jlu1QY7Q3X84dHAzjYt2Y"
+    },
+    {
+      "album": {
         "name": "LOVE AGAIN",
         "url": "https://open.spotify.com/album/6ot9MVm7jHd0GbvmZ9JkZ7"
       },
@@ -1363,6 +1435,28 @@
     },
     {
       "album": {
+        "name": "marshmallow kisses",
+        "url": "https://open.spotify.com/album/2G6Wrh0AV7YBIdyb1kINAe"
+      },
+      "artists": [
+        {
+          "name": "wadfah",
+          "url": "https://open.spotify.com/artist/4VLJF0kk8HDMK7VPDctSzo"
+        },
+        {
+          "name": "Choi Jungyoon",
+          "url": "https://open.spotify.com/artist/1jpRO6feBr1rjOCSHzu3Xi"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182771,
+      "name": "marshmallow kisses",
+      "url": "https://open.spotify.com/track/2r7qfubJKAMyPMF6NFxp1y"
+    },
+    {
+      "album": {
         "name": "maybe not tonight",
         "url": "https://open.spotify.com/album/6fZPBWGC7T0r0PwDyOuh7p"
       },
@@ -1432,7 +1526,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 177750,
       "name": "Miss Chacheap",
       "url": "https://open.spotify.com/track/2p2uX6VDrDK79TnhD34Pd0"
@@ -1522,7 +1616,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 178285,
       "name": "Ms Conceited",
       "url": "https://open.spotify.com/track/1pqGcpCJvbMvLOvWJtHgGN"
@@ -2027,6 +2121,24 @@
     },
     {
       "album": {
+        "name": "Champagne Cherry",
+        "url": "https://open.spotify.com/album/1QPDDsRhujL7cMdQd4jbGf"
+      },
+      "artists": [
+        {
+          "name": "VARITDA",
+          "url": "https://open.spotify.com/artist/5wwlhvoD6LFYdiIjOHhcUB"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209300,
+      "name": "Soft Spot",
+      "url": "https://open.spotify.com/track/13kHqgcqPWyqfWNEHDNulr"
+    },
+    {
+      "album": {
         "name": "SOUR GRAPE",
         "url": "https://open.spotify.com/album/66CaiDuiDrxLpIiFKwEueS"
       },
@@ -2244,6 +2356,24 @@
       "duration_ms": 175005,
       "name": "Surprise Surprise",
       "url": "https://open.spotify.com/track/1qxP9aigVY42COVRva1rO9"
+    },
+    {
+      "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/4D8K3auIXNdxTvDBLgsgL8"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Yen",
+          "url": "https://open.spotify.com/artist/4PQ0uJWdQam5rtXciDKVnS"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130894,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/4a1ZYe8ed9cL1NHl7er6Bw"
     },
     {
       "album": {

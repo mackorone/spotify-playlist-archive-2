@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-595 songs - 1 day 9 hr 45 min
+598 songs - 1 day 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Better Now](https://open.spotify.com/track/7DBegQYOfNSU6yldagfco6) | [Roy Aharon](https://open.spotify.com/artist/6iG05TrjWso3eQiNOcvmvc), [Sapir J\. Fox](https://open.spotify.com/artist/574DPDIpkGHROQN4fgCOek) | [Better Now](https://open.spotify.com/album/2BRvr1z1PMXALclzfx99Zq) | 3:15 | 2026-02-15 | 2026-09-04 |
 | [Big Momma's Door](https://open.spotify.com/track/4Ly3A5E1Bq2pKhODzTPO7z) | [CHOCA BLUES](https://open.spotify.com/artist/3cCPBFA3njtllaTGO7Av2W) | [Big Momma's Door](https://open.spotify.com/album/4ocODwLGtZNiHIVZqrSgsj) | 5:13 | 2025-12-22 | 2026-01-25 |
 | [Big Time](https://open.spotify.com/track/3RReWov7XbJ0KdVOL58cni) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [Big Time](https://open.spotify.com/album/62uHGwqlRgb77KRM8BoGDF) | 2:40 | 2026-08-18 |  |
+| [BIMMA](https://open.spotify.com/track/0N3ay0NW33bsbfOds4HD4j) | [AME](https://open.spotify.com/artist/6QoVi8LaBxXTAXZVVfJpLV) | [BIMMA](https://open.spotify.com/album/6lYIWN98PypZoOdoGyvg2v) | 2:57 | 2026-10-12 |  |
 | [Black Butterfly](https://open.spotify.com/track/1ayzm5eskvnKXY9aqL927Y) | [Rafael Vidal Lykova](https://open.spotify.com/artist/7jFo2dnzVJ2XpI3e9AcDWA) | [Black Butterfly](https://open.spotify.com/album/0t79bLTGTN3IjGFmusISln) | 2:22 | 2025-12-04 | 2026-01-05 |
 | [Black Cat](https://open.spotify.com/track/6dSioFJXazwRx8v0TFKcVX) | [Jenny Scara](https://open.spotify.com/artist/0F4yegE6Xa3vC2KvCoJTGw) | [Black Cat](https://open.spotify.com/album/2kPGAf4iPwfIehyfdqno0R) | 2:27 | 2026-02-08 |  |
 | [Black Lashes](https://open.spotify.com/track/6GzppPjh6RuuoF9gkkRefR) | [The Jaded Lips](https://open.spotify.com/artist/6orV08XQAM5wA7Sm1BlrLx) | [Lip Service](https://open.spotify.com/album/4dQF4Bp3SoiFTkvGzv9ohI) | 4:02 | 2026-05-05 | 2026-06-14 |
@@ -153,6 +154,7 @@
 | [Der letzte Atemzug](https://open.spotify.com/track/6tlekuUGxDNQzFPYvKlhwU) | [binichwer](https://open.spotify.com/artist/66IcuW0n8YtbJnVM73ZQDK) | [Der letzte Atemzug](https://open.spotify.com/album/3uS9SEJqOrXjBjVQykpvRv) | 2:46 | 2025-11-10 | 2025-12-01 |
 | [Despierta](https://open.spotify.com/track/3DfMMtS8g3P3NvmaBKcCdB) | [Madame Babilonia](https://open.spotify.com/artist/1U1z22LC7vMv8sVmPImg1b) | [Despierta](https://open.spotify.com/album/7vtpUhuSrPg6OJW8PYgTQX) | 4:17 | 2025-12-09 | 2026-01-05 |
 | [Destino](https://open.spotify.com/track/3ZzXAcYmNtY1LaEXvEKzI8) | [Harmada](https://open.spotify.com/artist/7n7lcKO8out5UWWm8aqhNP), [1LUM3](https://open.spotify.com/artist/01JSyuJJh1WCHIuM3Zx7hn) | [Os Fugitivos](https://open.spotify.com/album/5dEBKULs3xbFyKxyMA1rEk) | 3:54 | 2025-11-01 | 2025-12-01 |
+| [Devil's Blues](https://open.spotify.com/track/33X5j5PnNGzEx68ASBqaQv) | [Gravens](https://open.spotify.com/artist/3ynl82AyQaG2Rw8Kws3f7Y) | [Rising](https://open.spotify.com/album/5hawHjIi7zbq7iEbaArhUL) | 3:55 | 2026-10-12 |  |
 | [Didsbury Dozen](https://open.spotify.com/track/5ze0tk0ZLfW2vBAuabcNsV) | [FYNN](https://open.spotify.com/artist/7eQMNHftIP2NlWsHkXOBSf) | [Didsbury Dozen](https://open.spotify.com/album/6b1TM8wYvhk08kXdn2JZ9e) | 3:59 | 2026-06-26 | 2026-08-08 |
 | [Different Ways.](https://open.spotify.com/track/11eAPhBGWABYFFmZBVAcVL) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Different Ways.](https://open.spotify.com/album/0QCDJ5fyxvtBFYjAXNJgJu) | 3:49 | 2026-07-21 |  |
 | [Difícil Ser Yo](https://open.spotify.com/track/17r9q4k5OSHfHd4TzDqDa0) | [Taa Prandi](https://open.spotify.com/artist/1YM7Tybd4BSrM9SrLJHxXX) | [Difícil Ser Yo](https://open.spotify.com/album/5meEldQC8AdbduXg64Xgt2) | 2:55 | 2025-11-30 | 2026-01-05 |
@@ -446,6 +448,7 @@
 | [She Wants To Walk Away \(Distribution\)](https://open.spotify.com/track/4bzxN8X4P0vLf60nNOxeRn) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [She Wants To Walk Away](https://open.spotify.com/album/2j7luFA0VH7aMbwF70JHCk) | 3:14 | 2026-04-30 | 2026-06-14 |
 | [She's Hiding Her Smile](https://open.spotify.com/track/6Ya1hSqW2kWthZeDAeivZh) | [Solo el Malo](https://open.spotify.com/artist/6zInnYXXcyniz3JBivUoX8) | [She's Hiding Her Smile](https://open.spotify.com/album/06dbcxLucTaAoCL0pbdkr0) | 3:44 | 2026-06-29 | 2026-08-08 |
 | [Shine Again](https://open.spotify.com/track/3gvW1GzMz9ZziCm7oMzxFK) | [Radio Rosine](https://open.spotify.com/artist/6PcdAKYKrMZubT4YUfebka) | [Shine Again](https://open.spotify.com/album/1EIhHwdJLtXEvXDWtSpjPc) | 3:39 | 2025-12-20 | 2026-01-15 |
+| [SHOW IT](https://open.spotify.com/track/6PL1s8zAlm3kMfDrcW6vX3) | [RealMRCarty](https://open.spotify.com/artist/4eYsJcc8WUX8DD2U35rgRS), [Alber Joe 2\-30](https://open.spotify.com/artist/6qgaa2Ju4yEgADEaYmfuUp) | [MOTION CONTROL](https://open.spotify.com/album/2n3ipDzFDy6mwqojl7B078) | 2:54 | 2026-10-12 |  |
 | [Shut Myself Off](https://open.spotify.com/track/51OiflmOLo6eLNwIbNHt9c) | [Lainey Dionne](https://open.spotify.com/artist/4EaKMngmssLu9FK6TpUfyJ) | [Shut Myself Off](https://open.spotify.com/album/741hJtGdMDGETYWD700vww) | 3:40 | 2026-08-29 |  |
 | [Sin aire](https://open.spotify.com/track/5cOfPn6Krz3MKoBiOKDtJV) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Sin aire](https://open.spotify.com/album/51FfR6nXySt8MN06vr84bh) | 2:37 | 2025-11-05 | 2025-12-01 |
 | [Sins](https://open.spotify.com/track/0e7qshg39yZQKsA7pCfuHx) | [Concourse](https://open.spotify.com/artist/3huqIWF9fBYluGW3Cw1DRe) | [Sins](https://open.spotify.com/album/7upoZURMk4ZcAlulV9Rluu) | 3:28 | 2026-05-13 | 2026-06-14 |

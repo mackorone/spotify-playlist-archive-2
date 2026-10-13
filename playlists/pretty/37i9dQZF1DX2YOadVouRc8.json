@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 50409,
+  "num_followers": 50422,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-10-09 00:02:00",
       "album": {
-        "name": "STARLIFE",
-        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 124950,
-      "name": "TOO LIT",
-      "url": "https://open.spotify.com/track/2yirN2SCfxotgZi6xwipv4"
-    },
-    {
-      "added_at": "2026-10-09 00:02:00",
-      "album": {
         "name": "INDUSTRY MACHINE",
         "url": "https://open.spotify.com/album/0I8i8NKTztZQJiQCkUSA63"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 206968,
       "name": "BIG TIME (feat. Wizkid)",
       "url": "https://open.spotify.com/track/4zGLBKonWuLSeK35mrUXf0"
+    },
+    {
+      "added_at": "2026-10-09 00:02:00",
+      "album": {
+        "name": "STARLIFE",
+        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 124950,
+      "name": "TOO LIT",
+      "url": "https://open.spotify.com/track/2yirN2SCfxotgZi6xwipv4"
     },
     {
       "added_at": "2026-10-09 00:02:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-10-09 00:02:00",
       "album": {
-        "name": "Tension",
-        "url": "https://open.spotify.com/album/1eX8NF6QsW224pMwphpPiL"
-      },
-      "artists": [
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        }
-      ],
-      "duration_ms": 234560,
-      "name": "Can You Stay",
-      "url": "https://open.spotify.com/track/4Xm3PUvwXpTUq7xQ1ATPtA"
-    },
-    {
-      "added_at": "2026-10-09 00:02:00",
-      "album": {
         "name": "YoYo",
         "url": "https://open.spotify.com/album/50zFt2TgGXsfDnf6W0gYys"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 200666,
       "name": "YoYo",
       "url": "https://open.spotify.com/track/1KIv5Z3YLlURsQ8e2OwXuo"
+    },
+    {
+      "added_at": "2026-10-09 00:02:00",
+      "album": {
+        "name": "Tension",
+        "url": "https://open.spotify.com/album/1eX8NF6QsW224pMwphpPiL"
+      },
+      "artists": [
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        }
+      ],
+      "duration_ms": 234560,
+      "name": "Can You Stay",
+      "url": "https://open.spotify.com/track/4Xm3PUvwXpTUq7xQ1ATPtA"
     },
     {
       "added_at": "2026-10-09 00:02:00",
@@ -1011,18 +1011,22 @@
     {
       "added_at": "2026-10-09 00:02:00",
       "album": {
-        "name": "Only Fans",
-        "url": "https://open.spotify.com/album/2JEoO3X2c9JShuhcsDFiBu"
+        "name": "Apala Groove",
+        "url": "https://open.spotify.com/album/4Fi4ydQzaJ2709uu2yQMNr"
       },
       "artists": [
         {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+        },
+        {
+          "name": "Terry Apala",
+          "url": "https://open.spotify.com/artist/0lHE0lpGvHJWcbieicn5wM"
         }
       ],
-      "duration_ms": 149126,
-      "name": "Only Fans",
-      "url": "https://open.spotify.com/track/2JkjBVJIukdat5jNJeYyzz"
+      "duration_ms": 215192,
+      "name": "Apala Groove",
+      "url": "https://open.spotify.com/track/3DRcePAOqjaqfpjV5nlLy9"
     },
     {
       "added_at": "2026-10-09 00:02:00",
@@ -1043,22 +1047,18 @@
     {
       "added_at": "2026-10-09 00:02:00",
       "album": {
-        "name": "Apala Groove",
-        "url": "https://open.spotify.com/album/4Fi4ydQzaJ2709uu2yQMNr"
+        "name": "Only Fans",
+        "url": "https://open.spotify.com/album/2JEoO3X2c9JShuhcsDFiBu"
       },
       "artists": [
         {
-          "name": "DJ Tunez",
-          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
-        },
-        {
-          "name": "Terry Apala",
-          "url": "https://open.spotify.com/artist/0lHE0lpGvHJWcbieicn5wM"
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
         }
       ],
-      "duration_ms": 215192,
-      "name": "Apala Groove",
-      "url": "https://open.spotify.com/track/3DRcePAOqjaqfpjV5nlLy9"
+      "duration_ms": 149126,
+      "name": "Only Fans",
+      "url": "https://open.spotify.com/track/2JkjBVJIukdat5jNJeYyzz"
     },
     {
       "added_at": "2026-10-09 00:02:00",
@@ -1267,6 +1267,26 @@
     {
       "added_at": "2026-10-09 00:02:00",
       "album": {
+        "name": "XOXO",
+        "url": "https://open.spotify.com/album/6q5zDop76n4wtnZg3Zhfo1"
+      },
+      "artists": [
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        },
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 187037,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/4zMoZEkWSHb5NXuflbLHNI"
+    },
+    {
+      "added_at": "2026-10-09 00:02:00",
+      "album": {
         "name": "All You Need",
         "url": "https://open.spotify.com/album/681fiILmrmzJzZDWmvVpnF"
       },
@@ -1291,26 +1311,6 @@
       "duration_ms": 163837,
       "name": "All You Need",
       "url": "https://open.spotify.com/track/5gPkTBrIBBiLvP56xgDf5Q"
-    },
-    {
-      "added_at": "2026-10-09 00:02:00",
-      "album": {
-        "name": "XOXO",
-        "url": "https://open.spotify.com/album/6q5zDop76n4wtnZg3Zhfo1"
-      },
-      "artists": [
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        },
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 187037,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/4zMoZEkWSHb5NXuflbLHNI"
     },
     {
       "added_at": "2026-10-09 00:02:00",
@@ -1419,6 +1419,26 @@
     {
       "added_at": "2026-10-09 00:02:00",
       "album": {
+        "name": "Hashtag",
+        "url": "https://open.spotify.com/album/0ORYGBhSHeVpjKoslUKZas"
+      },
+      "artists": [
+        {
+          "name": "CupidSZN",
+          "url": "https://open.spotify.com/artist/150lmofYTz4i9fnVzM6AZZ"
+        },
+        {
+          "name": "255",
+          "url": "https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK"
+        }
+      ],
+      "duration_ms": 192941,
+      "name": "Hashtag",
+      "url": "https://open.spotify.com/track/5TWz9SGcGlMuVFLmtUY1v8"
+    },
+    {
+      "added_at": "2026-10-09 00:02:00",
+      "album": {
         "name": "Time Of Our Lives",
         "url": "https://open.spotify.com/album/566xpmRwGi7Ho4I4BoQSoF"
       },
@@ -1439,26 +1459,6 @@
       "duration_ms": 160000,
       "name": "Time Of Our Lives",
       "url": "https://open.spotify.com/track/6PaDuV64iFg4PPUWmc6yc7"
-    },
-    {
-      "added_at": "2026-10-09 00:02:00",
-      "album": {
-        "name": "Hashtag",
-        "url": "https://open.spotify.com/album/0ORYGBhSHeVpjKoslUKZas"
-      },
-      "artists": [
-        {
-          "name": "CupidSZN",
-          "url": "https://open.spotify.com/artist/150lmofYTz4i9fnVzM6AZZ"
-        },
-        {
-          "name": "255",
-          "url": "https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK"
-        }
-      ],
-      "duration_ms": 192941,
-      "name": "Hashtag",
-      "url": "https://open.spotify.com/track/5TWz9SGcGlMuVFLmtUY1v8"
     },
     {
       "added_at": "2026-10-09 00:02:00",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2026-10-09 00:02:00",
       "album": {
+        "name": "SUNSET IN PARIS",
+        "url": "https://open.spotify.com/album/3DhEtDbJB5wNyOV8fkBik3"
+      },
+      "artists": [
+        {
+          "name": "Yarden",
+          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "SUNSET IN PARIS",
+      "url": "https://open.spotify.com/track/6wPXn7X3Zx2icmv6qXh8oQ"
+    },
+    {
+      "added_at": "2026-10-09 00:02:00",
+      "album": {
         "name": "Stylish",
         "url": "https://open.spotify.com/album/3LJtOTCierH7NQUhOubKvk"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 147326,
       "name": "To Me",
       "url": "https://open.spotify.com/track/2ii0uPYAV5yptflE9dXel6"
-    },
-    {
-      "added_at": "2026-10-09 00:02:00",
-      "album": {
-        "name": "SUNSET IN PARIS",
-        "url": "https://open.spotify.com/album/3DhEtDbJB5wNyOV8fkBik3"
-      },
-      "artists": [
-        {
-          "name": "Yarden",
-          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "SUNSET IN PARIS",
-      "url": "https://open.spotify.com/track/6wPXn7X3Zx2icmv6qXh8oQ"
     },
     {
       "added_at": "2026-10-09 00:02:00",

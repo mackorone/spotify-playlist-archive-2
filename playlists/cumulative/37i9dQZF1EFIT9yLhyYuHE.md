@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4wCJ7LHeFGJxtYRwCxFHOA">Charlene Meulenberg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-70 songs - 3 hr 37 min
+71 songs - 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [I Feel You Everywhere \(Antibodies\)](https://open.spotify.com/track/5ARaZug8wImCAm23KIqvwT) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Cara Melín](https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8) | [I Feel You Everywhere \(Antibodies\)](https://open.spotify.com/album/2HOODjF6x99Icb8BBe62VG) | 3:10 | 2023-02-10 | 2026-04-20 |
 | [I Feel You Everywhere \(Antibodies\)](https://open.spotify.com/track/6a8LfgC5aAaHNhsQcGQY1r) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Cara Melín](https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8) | [Antibodies](https://open.spotify.com/album/4hAoKf5xkhdK0myoWXKQgS) | 5:12 | 2022-07-15 | 2026-09-13 |
 | [I Feel You Everywhere \(Antibodies\) \- Extended Mix](https://open.spotify.com/track/5yqNlBL5P9rkTJSCtstfkk) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Cara Melín](https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8) | [Antibodies \(LP Giobbi Remix\)](https://open.spotify.com/album/4CaYNtpdgftVCZQEIccNbM) | 5:12 | 2026-02-19 | 2026-02-26 |
+| [I Got You](https://open.spotify.com/track/65vsAU45KgqKRvRx0WSPp8) | [Leroy Styles](https://open.spotify.com/artist/2MoxYOhy9ooC8KRcdgIFif), [Cara Melín](https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8) | [Rebirth](https://open.spotify.com/album/3A86ZfahL8jBCWGT1Put5n) | 4:15 | 2026-10-12 |  |
 | [I'm On My Way](https://open.spotify.com/track/3iXgSRk7u8qcnM5xOsxyVw) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [I'm On My Way](https://open.spotify.com/album/1fuchE5QF91ApbeNXMkt1O) | 2:50 | 2022-05-29 | 2026-09-12 |
 | [In Heaven](https://open.spotify.com/track/4uINEnAkWBH93gpB0dyhCd) | [Trilane](https://open.spotify.com/artist/4hEojNVUgNvXDE8Aem4P7h), [Charlie Ray](https://open.spotify.com/artist/5E0lRlMBtVgbEo3gsn8UuF), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [In Heaven](https://open.spotify.com/album/4k5Qgmcc24xPOMBb1DCr4f) | 3:18 | 2022-05-29 | 2026-09-13 |
 | [Love After Love](https://open.spotify.com/track/4tOYaHjIW3sb6mPt7fIA4H) | [Almost Weekend](https://open.spotify.com/artist/6FCDyfws4NWiy6eQbZR40O), [Max Vermeulen](https://open.spotify.com/artist/35V85QUB0dxx7I4Q6AAc5w), [Cara Melín](https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8) | [Love After Love](https://open.spotify.com/album/1zpqtg4zGSAK4vCrzZcbmg) | 2:48 | 2026-09-08 |  |

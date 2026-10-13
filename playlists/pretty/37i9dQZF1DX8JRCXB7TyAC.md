@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 
 > Workout with Haryanvi Songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,714 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,741 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 20 | [His Grace](https://open.spotify.com/track/332MWQx06lB5rX26awlEou) | [Ndee Kundu](https://open.spotify.com/artist/61P6g4b3TgZ9m2caJlXS4K), [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe), [Shine](https://open.spotify.com/artist/0tSuiGWMqg0KzeweQKeiIM) | [His Grace](https://open.spotify.com/album/7pEeKnBVNMSxL1L098K1VB) | 3:37 |
 | 21 | [Surrey BC](https://open.spotify.com/track/7uMZMs65u1FlVYdmvQKXMs) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Surrey BC](https://open.spotify.com/album/4FZjdxEiFL0HWL4antngWO) | 3:47 |
 | 22 | [Old Money](https://open.spotify.com/track/3PHOMMcNp29NtsLJzorVpD) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [Manya Yadav](https://open.spotify.com/artist/3TugQ9wtCPiJaip0NFyobh) | [Old Money](https://open.spotify.com/album/50vJjo0y9W57YUcdv2PX3K) | 3:06 |
-| 23 | [Og](https://open.spotify.com/track/2y286nV941JBSCJUF35fhC) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo) | [Og](https://open.spotify.com/album/6jO2GFWlZRkYqVXc5U3nnS) | 3:05 |
+| 23 | [Jaat Anthem](https://open.spotify.com/track/3XcyzvbdfkXaXyFSEwUfUq) | [D Naveen](https://open.spotify.com/artist/5D80BHvnjVZSI4M9mVp7Sb), [Kajal Saraswat](https://open.spotify.com/artist/4lCRPDIGHWbey0EkWI9lF9), [Sumit Kajla](https://open.spotify.com/artist/3Hvf7S9LHmpan3CzIUGaRq) | [Jaat Anthem](https://open.spotify.com/album/1SlzsALoJIh9X8RQC67ScO) | 2:33 |
 | 24 | [Kaun Marvana](https://open.spotify.com/track/4aFmzuZXXtCbwW7SfWXFFZ) | [Masoom Sharma](https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj), [Priyam](https://open.spotify.com/artist/6zHVlpak6U0fqQ5FjAeZN2), [Amar Karnawal](https://open.spotify.com/artist/6DAbqsPFnfdjW7qUtVW7wS) | [Kaun Marvana](https://open.spotify.com/album/7JfXrTOs73RMeR0FdmBwI0) | 2:59 |
-| 25 | [Jaat Anthem](https://open.spotify.com/track/3XcyzvbdfkXaXyFSEwUfUq) | [D Naveen](https://open.spotify.com/artist/5D80BHvnjVZSI4M9mVp7Sb), [Kajal Saraswat](https://open.spotify.com/artist/4lCRPDIGHWbey0EkWI9lF9), [Sumit Kajla](https://open.spotify.com/artist/3Hvf7S9LHmpan3CzIUGaRq) | [Jaat Anthem](https://open.spotify.com/album/1SlzsALoJIh9X8RQC67ScO) | 2:33 |
+| 25 | [Og](https://open.spotify.com/track/2y286nV941JBSCJUF35fhC) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo) | [Og](https://open.spotify.com/album/6jO2GFWlZRkYqVXc5U3nnS) | 3:05 |
 | 26 | [Ha Ha Ha](https://open.spotify.com/track/57JUrL5ZfFN35tLCJuyGmU) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb), [Deep Kalsi](https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I) | [Ha Ha Ha](https://open.spotify.com/album/5gxztKpDmQc00vuOCE9NtV) | 3:09 |
 | 27 | [Jaat](https://open.spotify.com/track/7ukOVopzKs1CFGZgZRTOMo) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [Ghanu Music](https://open.spotify.com/artist/21dcNsxyYDyCaF33KDYL3T) | [Jaat](https://open.spotify.com/album/1T3kwFgMDCxWqQzfU61use) | 2:57 |
 | 28 | [GYM \(feat\. Vaishali Chaudhary\)](https://open.spotify.com/track/2sLLBFHDmGVKfwt4zYKiKq) | [Himanshu Kaushik](https://open.spotify.com/artist/0hIrW1jncz4tDCnJTm7pfZ), [Ruchika Jangid](https://open.spotify.com/artist/5NgijFuMvkarmVkTpCnwjE), [Shrikant](https://open.spotify.com/artist/1GFXuGQMPwZjdjzwt7WdQe), [Vaishali Chaudhary](https://open.spotify.com/artist/1IAz1o1bWqWHYzx0qKoarq) | [GYM \(feat\. Vaishali Chaudhary\)](https://open.spotify.com/album/6xbQfYXB6QUfoVa4okMy8Z) | 2:14 |

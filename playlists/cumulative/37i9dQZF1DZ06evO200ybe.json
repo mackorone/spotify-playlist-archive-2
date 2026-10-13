@@ -875,6 +875,28 @@
     },
     {
       "album": {
+        "name": "Gerry Mulligan Quartet Vol.1 (Expanded Edition)",
+        "url": "https://open.spotify.com/album/58yI7hd0vFL77B8iMBpYkB"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan Quartet",
+          "url": "https://open.spotify.com/artist/6nLkWu5DSXItXcB6q2ISTO"
+        },
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196146,
+      "name": "Lullaby Of The Leaves",
+      "url": "https://open.spotify.com/track/2ynGfwePiLptW599QebWbr"
+    },
+    {
+      "album": {
         "name": "Make Me Rainbows",
         "url": "https://open.spotify.com/album/76J4OCj6na4NliLGRK1X2E"
       },

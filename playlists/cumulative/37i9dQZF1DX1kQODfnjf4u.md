@@ -2,9 +2,9 @@
 
 ### [Hot Hits Česká republika](https://open.spotify.com/playlist/37i9dQZF1DX1kQODfnjf4u)
 
-> 50 nejžhavějších hitů v České republice\. Cover: Mc Kenny
+> 50 nejžhavějších hitů v České republice\. Cover: Marie April & kubmat
 
-265 songs - 12 hr 53 min
+266 songs - 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,7 @@
 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 | 2025-09-01 | 2025-12-02 |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-07-01 | 2024-09-10 |
 | [Lush Life](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:20 | 2026-01-05 |  |
-| [Léto s tebou](https://open.spotify.com/track/7xBQGaPKszWq72lCF9DiNd) | [Sofian Medjmedj](https://open.spotify.com/artist/2ZHJEckf6HJXMSuD2icSSW) | [Léto s tebou](https://open.spotify.com/album/5LW6DVrciTdWhrhHO2F8sv) | 3:40 | 2026-09-28 |  |
+| [Léto s tebou](https://open.spotify.com/track/7xBQGaPKszWq72lCF9DiNd) | [Sofian Medjmedj](https://open.spotify.com/artist/2ZHJEckf6HJXMSuD2icSSW) | [Léto s tebou](https://open.spotify.com/album/5LW6DVrciTdWhrhHO2F8sv) | 3:40 | 2026-09-28 | 2026-10-13 |
 | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR) | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/album/3ZZlKPrWKSVI28zT3AGLQB) | 2:27 | 2024-12-02 | 2025-01-21 |
 | [Midnight Sun](https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki) | 3:09 | 2026-02-03 | 2026-02-10 |
 | [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 | 2024-07-01 | 2024-07-09 |
@@ -185,6 +185,7 @@
 | [Phantom](https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy), [Rico Ace](https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o) | [Rebel](https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug) | 1:49 | 2026-01-05 | 2026-04-10 |
 | [Pistácie \(feat\. Sofian Medjmedj\)](https://open.spotify.com/track/5LG6E6hwx6u84X7hMVkpKp) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd), [Sofian Medjmedj](https://open.spotify.com/artist/2ZHJEckf6HJXMSuD2icSSW) | [Bieber Fever Tour Life](https://open.spotify.com/album/5MlxIyYE1oUZg9bp1vXI52) | 2:54 | 2024-12-16 |  |
 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 | 2024-07-01 | 2024-08-13 |
+| [po show](https://open.spotify.com/track/71eERERMDR7epp7n2ncgqI) | [Marie April](https://open.spotify.com/artist/1x5UWbWiwd3P8PYz00coCo), [kubmat](https://open.spotify.com/artist/4kknfnqQZGLYDfUBxhcCG7) | [po show](https://open.spotify.com/album/7yck5CD4hRaABHNAA00R3i) | 2:29 | 2026-10-12 |  |
 | [PODIVEJ MAMA](https://open.spotify.com/track/2s6HALw9KVn5vHxLDD7KuQ) | [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk) | [PODIVEJ MAMA](https://open.spotify.com/album/4rucUavQ3UF5aqIoY4CwT6) | 2:43 | 2026-05-04 | 2026-06-23 |
 | [Pondělí až neděle \- Sped Up](https://open.spotify.com/track/3lcCxnxPqh0Rp7vsrD7KD6) | [Totally Nothin](https://open.spotify.com/artist/4esOzxPLunJ597xOtRt0A1), [DJ Kadr](https://open.spotify.com/artist/1GFQTS0zSjX2tLhV37rFkU) | [Waves](https://open.spotify.com/album/7aGS901TtaEwj4PzRQxeGy) | 3:27 | 2024-07-01 | 2025-02-04 |
 | [PORCELÁN](https://open.spotify.com/track/1WSurN3LITJ7udCeV5jlu4) | [Ben Cristovao](https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8) | [PORCELÁN](https://open.spotify.com/album/6LegOnM8XnpsCy2C8vNzoo) | 3:09 | 2026-04-09 |  |

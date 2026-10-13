@@ -1,6 +1,6 @@
 {
   "description": "Explore the inner worlds floating in the imagination of experimental Ambient music producers.",
-  "num_followers": 228306,
+  "num_followers": 228308,
   "original_name": "Exospheres",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Wolf Moon",
-        "url": "https://open.spotify.com/album/5MOqmNcrFSxoNZA9HgZIcw"
-      },
-      "artists": [
-        {
-          "name": "Highland Park Sleep Collective",
-          "url": "https://open.spotify.com/artist/52tBivESnfK4iqF7gYhn7T"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Jupiter 285",
-      "url": "https://open.spotify.com/track/5IDYiDJLlEL4Mscj33ao83"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "outside of your lifetime",
         "url": "https://open.spotify.com/album/6byELpoEiFADM1j4Zgv0WJ"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 237187,
       "name": "Moderato",
       "url": "https://open.spotify.com/track/5nihxnUMrvUAY7NweeNPbT"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Wolf Moon",
+        "url": "https://open.spotify.com/album/5MOqmNcrFSxoNZA9HgZIcw"
+      },
+      "artists": [
+        {
+          "name": "Highland Park Sleep Collective",
+          "url": "https://open.spotify.com/artist/52tBivESnfK4iqF7gYhn7T"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Jupiter 285",
+      "url": "https://open.spotify.com/track/5IDYiDJLlEL4Mscj33ao83"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -693,22 +693,6 @@
       "url": "https://open.spotify.com/track/4sWXp7FHiusy8V0b6klQKp"
     },
     {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "Anoyo",
-        "url": "https://open.spotify.com/album/78DUDqx2smwm8ZB8D6zG4T"
-      },
-      "artists": [
-        {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
-        }
-      ],
-      "duration_ms": 288802,
-      "name": "Into the void",
-      "url": "https://open.spotify.com/track/2fnRLwVjO6okNLKTssmWIl"
-    },
-    {
       "added_at": "2024-09-01 14:43:43",
       "album": {
         "name": "+puzzle",
@@ -723,6 +707,22 @@
       "duration_ms": 254561,
       "name": "+puzzle",
       "url": "https://open.spotify.com/track/4rZ6nmUhYVCcuk2ijWgcrW"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Anoyo",
+        "url": "https://open.spotify.com/album/78DUDqx2smwm8ZB8D6zG4T"
+      },
+      "artists": [
+        {
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+        }
+      ],
+      "duration_ms": 288802,
+      "name": "Into the void",
+      "url": "https://open.spotify.com/track/2fnRLwVjO6okNLKTssmWIl"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/7gv0Nr7L0yZ8s0GM0gfDbO"
-      },
-      "artists": [
-        {
-          "name": "X.Y.R.",
-          "url": "https://open.spotify.com/artist/6toHLoCsmqKPjtprSVucxz"
-        }
-      ],
-      "duration_ms": 386000,
-      "name": "Labyrinth (Exit)",
-      "url": "https://open.spotify.com/track/1uWdXliELcLPxbgLAXiTQL"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Das Unheimliche",
         "url": "https://open.spotify.com/album/3YEBwRr6N9v9RVz46Sbo9v"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 390000,
       "name": "Das Unheimliche",
       "url": "https://open.spotify.com/track/64EQZLoqKiaxjghEeaxVxQ"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/7gv0Nr7L0yZ8s0GM0gfDbO"
+      },
+      "artists": [
+        {
+          "name": "X.Y.R.",
+          "url": "https://open.spotify.com/artist/6toHLoCsmqKPjtprSVucxz"
+        }
+      ],
+      "duration_ms": 386000,
+      "name": "Labyrinth (Exit)",
+      "url": "https://open.spotify.com/track/1uWdXliELcLPxbgLAXiTQL"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1017,6 +1017,26 @@
       "url": "https://open.spotify.com/track/4xqdlgyj4LQvP13GBmP3AN"
     },
     {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Equivalents",
+        "url": "https://open.spotify.com/album/6U30ugActrLoDvKgESHFQs"
+      },
+      "artists": [
+        {
+          "name": "Loscil",
+          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
+        },
+        {
+          "name": "Secret Pyramid",
+          "url": "https://open.spotify.com/artist/1a4TAz1A8cp9SRNhOPXBM0"
+        }
+      ],
+      "duration_ms": 410133,
+      "name": "Equivalent 7",
+      "url": "https://open.spotify.com/track/2INERy7ISuQM07gKwjEVos"
+    },
+    {
       "added_at": "2024-01-11 03:32:09",
       "album": {
         "name": "Solar Bridge",
@@ -1043,26 +1063,6 @@
       "duration_ms": 750293,
       "name": "Magic",
       "url": "https://open.spotify.com/track/7os5F4kzYma6UM1zUMc7X8"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "Equivalents",
-        "url": "https://open.spotify.com/album/6U30ugActrLoDvKgESHFQs"
-      },
-      "artists": [
-        {
-          "name": "Loscil",
-          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
-        },
-        {
-          "name": "Secret Pyramid",
-          "url": "https://open.spotify.com/artist/1a4TAz1A8cp9SRNhOPXBM0"
-        }
-      ],
-      "duration_ms": 410133,
-      "name": "Equivalent 7",
-      "url": "https://open.spotify.com/track/2INERy7ISuQM07gKwjEVos"
     },
     {
       "added_at": "2024-05-30 01:04:31",
@@ -1255,6 +1255,26 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "Signals Bulletin",
+        "url": "https://open.spotify.com/album/10FIu2uRFbl2UVZSKgaK54"
+      },
+      "artists": [
+        {
+          "name": "ASUNA",
+          "url": "https://open.spotify.com/artist/3LEHiXHn9lLao21ZKGlUJt"
+        },
+        {
+          "name": "Jan Jelinek",
+          "url": "https://open.spotify.com/artist/6Bpr6Jvb2Ic7WlzPD9EPJT"
+        }
+      ],
+      "duration_ms": 385998,
+      "name": "How A Spiral Works",
+      "url": "https://open.spotify.com/track/7eGYkcCZMNTLpJZ0sc4Jgc"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "Sequences",
         "url": "https://open.spotify.com/album/0BhgTe2K6uO37VjJAtjD7B"
       },
@@ -1283,26 +1303,6 @@
       "duration_ms": 435004,
       "name": "Stargazers",
       "url": "https://open.spotify.com/track/3PpzHsBBaQidL7kLGEspN3"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "Signals Bulletin",
-        "url": "https://open.spotify.com/album/10FIu2uRFbl2UVZSKgaK54"
-      },
-      "artists": [
-        {
-          "name": "ASUNA",
-          "url": "https://open.spotify.com/artist/3LEHiXHn9lLao21ZKGlUJt"
-        },
-        {
-          "name": "Jan Jelinek",
-          "url": "https://open.spotify.com/artist/6Bpr6Jvb2Ic7WlzPD9EPJT"
-        }
-      ],
-      "duration_ms": 385998,
-      "name": "How A Spiral Works",
-      "url": "https://open.spotify.com/track/7eGYkcCZMNTLpJZ0sc4Jgc"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Sublunar Oracles",
-        "url": "https://open.spotify.com/album/0ErOiDberv4cJ2Kxj4J2fk"
+        "name": "The Senja Recordings",
+        "url": "https://open.spotify.com/album/5FwxcdIt5HKvuFIUaopKp9"
       },
       "artists": [
         {
-          "name": "Trans-4M",
-          "url": "https://open.spotify.com/artist/19BCL3CRrl1hMq8cIJV4fj"
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
         }
       ],
-      "duration_ms": 566333,
-      "name": "Arrival",
-      "url": "https://open.spotify.com/track/4sBqFcXxQEfyqNYA7tDNwq"
+      "duration_ms": 292480,
+      "name": "Bergsbotn I",
+      "url": "https://open.spotify.com/track/2o2kesEPWqDCcvOkFpkoUT"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "The Senja Recordings",
-        "url": "https://open.spotify.com/album/5FwxcdIt5HKvuFIUaopKp9"
+        "name": "Sublunar Oracles",
+        "url": "https://open.spotify.com/album/0ErOiDberv4cJ2Kxj4J2fk"
       },
       "artists": [
         {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+          "name": "Trans-4M",
+          "url": "https://open.spotify.com/artist/19BCL3CRrl1hMq8cIJV4fj"
         }
       ],
-      "duration_ms": 292480,
-      "name": "Bergsbotn I",
-      "url": "https://open.spotify.com/track/2o2kesEPWqDCcvOkFpkoUT"
+      "duration_ms": 566333,
+      "name": "Arrival",
+      "url": "https://open.spotify.com/track/4sBqFcXxQEfyqNYA7tDNwq"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1419,22 +1419,6 @@
       "duration_ms": 301007,
       "name": "Haust",
       "url": "https://open.spotify.com/track/6HTQcwflvXohkWPTt6JYH4"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "E2-XO",
-        "url": "https://open.spotify.com/album/1ugwG7gGoTefOjLbrPDKMd"
-      },
-      "artists": [
-        {
-          "name": "GCOM",
-          "url": "https://open.spotify.com/artist/515LVYd7UvdvWzYcg5niJI"
-        }
-      ],
-      "duration_ms": 475965,
-      "name": "XO 4 - Wolf 1061c",
-      "url": "https://open.spotify.com/track/1BmsXPYs9cJ7jiCywPfPjF"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1475,6 +1459,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "E2-XO",
+        "url": "https://open.spotify.com/album/1ugwG7gGoTefOjLbrPDKMd"
+      },
+      "artists": [
+        {
+          "name": "GCOM",
+          "url": "https://open.spotify.com/artist/515LVYd7UvdvWzYcg5niJI"
+        }
+      ],
+      "duration_ms": 475965,
+      "name": "XO 4 - Wolf 1061c",
+      "url": "https://open.spotify.com/track/1BmsXPYs9cJ7jiCywPfPjF"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "Murmur (Machinefabriek Remix)",
         "url": "https://open.spotify.com/album/0ZO7czDtPwdpa76DvMdydf"
       },
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Birthmark",
-        "url": "https://open.spotify.com/album/3XTEDDQrax78NT8svV3tLj"
-      },
-      "artists": [
-        {
-          "name": "Minotauro",
-          "url": "https://open.spotify.com/artist/25adRravBvCxFrjrs3527m"
-        }
-      ],
-      "duration_ms": 189525,
-      "name": "Birthmark",
-      "url": "https://open.spotify.com/track/7COvUw2SjHzBsqbSqsx1On"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Funny Morning",
         "url": "https://open.spotify.com/album/33QUh3g9UqsgAuQ4NFrrAJ"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 1177077,
       "name": "Chrysanthemum (Slow)",
       "url": "https://open.spotify.com/track/0p3YM9SmRloxrNHmzaK4J0"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Birthmark",
+        "url": "https://open.spotify.com/album/3XTEDDQrax78NT8svV3tLj"
+      },
+      "artists": [
+        {
+          "name": "Minotauro",
+          "url": "https://open.spotify.com/artist/25adRravBvCxFrjrs3527m"
+        }
+      ],
+      "duration_ms": 189525,
+      "name": "Birthmark",
+      "url": "https://open.spotify.com/track/7COvUw2SjHzBsqbSqsx1On"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "Auroras",
+        "url": "https://open.spotify.com/album/6STaRwLyivZTQosFvfYQnt"
+      },
+      "artists": [
+        {
+          "name": "Aeromancias",
+          "url": "https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw"
+        }
+      ],
+      "duration_ms": 154838,
+      "name": "Boreal",
+      "url": "https://open.spotify.com/track/4SfLJ0ZO8LTbrgxqNKnzys"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "A Pale Shelter",
         "url": "https://open.spotify.com/album/4A4urd6gIK7PGxRC2E6Q1B"
       },
@@ -1639,22 +1655,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Auroras",
-        "url": "https://open.spotify.com/album/6STaRwLyivZTQosFvfYQnt"
-      },
-      "artists": [
-        {
-          "name": "Aeromancias",
-          "url": "https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw"
-        }
-      ],
-      "duration_ms": 154838,
-      "name": "Boreal",
-      "url": "https://open.spotify.com/track/4SfLJ0ZO8LTbrgxqNKnzys"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Guidance in Dreams",
         "url": "https://open.spotify.com/album/3nwRb1uqt2bX0jT6bD5ECJ"
       },
@@ -1669,20 +1669,20 @@
       "url": "https://open.spotify.com/track/0Ldll3NS6kcb89k9PqolI7"
     },
     {
-      "added_at": "2023-04-21 14:41:23",
+      "added_at": "2023-10-10 02:23:30",
       "album": {
-        "name": "Limits",
-        "url": "https://open.spotify.com/album/773mDOeXXWvisdgrirVPTu"
+        "name": "how will we get back to life again?",
+        "url": "https://open.spotify.com/album/0iqzM5KEn16W9Y3a3KPHDg"
       },
       "artists": [
         {
-          "name": "Andrew Tasselmyer",
-          "url": "https://open.spotify.com/artist/3vwXyo09sUewtbKz6Bwkjx"
+          "name": "Patrick Shiroishi",
+          "url": "https://open.spotify.com/artist/2lHGXQLY8KwPpuxBRsINR2"
         }
       ],
-      "duration_ms": 278000,
-      "name": "Possibilities",
-      "url": "https://open.spotify.com/track/11HL6JG9JFu0WLZEZhpv5V"
+      "duration_ms": 223735,
+      "name": "how will we get back to life again?",
+      "url": "https://open.spotify.com/track/2Ijzl5nr2rFV5FDFW6Fitn"
     }
   ],
   "unique_name": "Exospheres",

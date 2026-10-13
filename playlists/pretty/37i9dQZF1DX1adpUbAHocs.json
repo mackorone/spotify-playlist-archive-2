@@ -1,6 +1,6 @@
 {
   "description": "hop in and take the long way.",
-  "num_followers": 627889,
+  "num_followers": 627825,
   "original_name": "Scenic Route",
   "owner": {
     "name": "Spotify",
@@ -11,18 +11,18 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Dream Your Life Away",
-        "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
+        "name": "RMCM",
+        "url": "https://open.spotify.com/album/2weOG4ZiOjfxiuFMsHm9JQ"
       },
       "artists": [
         {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+          "name": "Richy Mitch & The Coal Miners",
+          "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
         }
       ],
-      "duration_ms": 204280,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm"
+      "duration_ms": 87000,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -43,18 +43,18 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "RMCM",
-        "url": "https://open.spotify.com/album/2weOG4ZiOjfxiuFMsHm9JQ"
+        "name": "Dream Your Life Away",
+        "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
       },
       "artists": [
         {
-          "name": "Richy Mitch & The Coal Miners",
-          "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
         }
       ],
-      "duration_ms": 87000,
-      "name": "Evergreen",
-      "url": "https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD"
+      "duration_ms": 204280,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -211,22 +211,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Strangers No More",
-        "url": "https://open.spotify.com/album/5tnxqWDBONuqqZ3vLSUSJV"
-      },
-      "artists": [
-        {
-          "name": "Drew Holcomb & The Neighbors",
-          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
-        }
-      ],
-      "duration_ms": 194093,
-      "name": "Find Your People",
-      "url": "https://open.spotify.com/track/5htghP7rThIe6oXBN6uYI5"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "And It\u2019s Still Alright",
         "url": "https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 235746,
       "name": "And It's Still Alright",
       "url": "https://open.spotify.com/track/2tRxHjEkdgGMv9kZbOyqOH"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "Strangers No More",
+        "url": "https://open.spotify.com/album/5tnxqWDBONuqqZ3vLSUSJV"
+      },
+      "artists": [
+        {
+          "name": "Drew Holcomb & The Neighbors",
+          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
+        }
+      ],
+      "duration_ms": 194093,
+      "name": "Find Your People",
+      "url": "https://open.spotify.com/track/5htghP7rThIe6oXBN6uYI5"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Designer",
-        "url": "https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI"
-      },
-      "artists": [
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        }
-      ],
-      "duration_ms": 299440,
-      "name": "The Barrel",
-      "url": "https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "Resin",
         "url": "https://open.spotify.com/album/3zurNYr1HaGcnoI20tvYSX"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 203939,
       "name": "Resin",
       "url": "https://open.spotify.com/track/6AmrRS8slCMxGUZePjV6dH"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "Designer",
+        "url": "https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 299440,
+      "name": "The Barrel",
+      "url": "https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Old Time Feeling",
-        "url": "https://open.spotify.com/album/157xeDtGxPmnZIQfdJjQFT"
-      },
-      "artists": [
-        {
-          "name": "S.G. Goodman",
-          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
-        }
-      ],
-      "duration_ms": 176600,
-      "name": "Supertramp",
-      "url": "https://open.spotify.com/track/0XUC0NWE9vAakeCgvaekVs"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "Sometimes I Wish We Were An Eagle",
         "url": "https://open.spotify.com/album/4bKHXqEVmt32YU7u51GIHB"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 342746,
       "name": "Rococo Zephyr",
       "url": "https://open.spotify.com/track/4pptcDdsgxN4qsjOOzotI6"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "Old Time Feeling",
+        "url": "https://open.spotify.com/album/157xeDtGxPmnZIQfdJjQFT"
+      },
+      "artists": [
+        {
+          "name": "S.G. Goodman",
+          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
+        }
+      ],
+      "duration_ms": 176600,
+      "name": "Supertramp",
+      "url": "https://open.spotify.com/track/0XUC0NWE9vAakeCgvaekVs"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Faithless",
-        "url": "https://open.spotify.com/album/02jRAhRPMCdjOGnp7vxFfh"
-      },
-      "artists": [
-        {
-          "name": "The Airborne Toxic Event",
-          "url": "https://open.spotify.com/artist/7xovAENFxmyEWhzbnHsB3Z"
-        }
-      ],
-      "duration_ms": 250565,
-      "name": "Faithless",
-      "url": "https://open.spotify.com/track/6Ehy2SxoGNmLoJQxGUr9fq"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "Foxwarren",
         "url": "https://open.spotify.com/album/7AQ1f6J9I55bW2qYPJbWgp"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 260093,
       "name": "Sunset Canyon",
       "url": "https://open.spotify.com/track/3kXrgO7Sl0jgURAv7boX5q"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "Faithless",
+        "url": "https://open.spotify.com/album/02jRAhRPMCdjOGnp7vxFfh"
+      },
+      "artists": [
+        {
+          "name": "The Airborne Toxic Event",
+          "url": "https://open.spotify.com/artist/7xovAENFxmyEWhzbnHsB3Z"
+        }
+      ],
+      "duration_ms": 250565,
+      "name": "Faithless",
+      "url": "https://open.spotify.com/track/6Ehy2SxoGNmLoJQxGUr9fq"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
+        "name": "Heigh Ho",
+        "url": "https://open.spotify.com/album/05oav7mCaoTnTpuIFSv7T6"
+      },
+      "artists": [
+        {
+          "name": "Blake Mills",
+          "url": "https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR"
+        }
+      ],
+      "duration_ms": 319706,
+      "name": "Don't Tell Our Friends About Me",
+      "url": "https://open.spotify.com/track/4ktZEbOKEnx5svwITaKwqK"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
         "name": "People Are My Drug",
         "url": "https://open.spotify.com/album/1b2q2YbnCCP4DQaQQ7Zexl"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 239466,
       "name": "I'm Ready",
       "url": "https://open.spotify.com/track/7oO94Tv1jcfpn1NZXolLJU"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
-        "name": "Heigh Ho",
-        "url": "https://open.spotify.com/album/05oav7mCaoTnTpuIFSv7T6"
-      },
-      "artists": [
-        {
-          "name": "Blake Mills",
-          "url": "https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR"
-        }
-      ],
-      "duration_ms": 319706,
-      "name": "Don't Tell Our Friends About Me",
-      "url": "https://open.spotify.com/track/4ktZEbOKEnx5svwITaKwqK"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Where'd All the Time Go",
-        "url": "https://open.spotify.com/album/4BZkn39LpuX2LO7Cf3sjjD"
-      },
-      "artists": [
-        {
-          "name": "Bird and Byron",
-          "url": "https://open.spotify.com/artist/28VCKRVnl8KvcrvUVxpbLt"
-        }
-      ],
-      "duration_ms": 241023,
-      "name": "Where'd All the Time Go",
-      "url": "https://open.spotify.com/track/6gvUAc9EaArZs1Hv8h6uxw"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "Don't Do Me Good",
         "url": "https://open.spotify.com/album/26sIa4onZCyC8VWiKLSwuB"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 204693,
       "name": "Diamond Studded Shoes",
       "url": "https://open.spotify.com/track/5SfM1f729pv1DdiEcyDiex"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "Where'd All the Time Go",
+        "url": "https://open.spotify.com/album/4BZkn39LpuX2LO7Cf3sjjD"
+      },
+      "artists": [
+        {
+          "name": "Bird and Byron",
+          "url": "https://open.spotify.com/artist/28VCKRVnl8KvcrvUVxpbLt"
+        }
+      ],
+      "duration_ms": 241023,
+      "name": "Where'd All the Time Go",
+      "url": "https://open.spotify.com/track/6gvUAc9EaArZs1Hv8h6uxw"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
+        "name": "Good Luck With Whatever",
+        "url": "https://open.spotify.com/album/3esEgXmUs1zjBVqijbZ6RQ"
+      },
+      "artists": [
+        {
+          "name": "Dawes",
+          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
+        }
+      ],
+      "duration_ms": 332853,
+      "name": "Didn't Fix Me",
+      "url": "https://open.spotify.com/track/4pqcb6b9PoBnK3HSt4tIeo"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
         "name": "Weather Balloons [Feat. Frances Cone]",
         "url": "https://open.spotify.com/album/752tNJJGYbjlnFfSZBO9ju"
       },
@@ -1507,22 +1523,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Good Luck With Whatever",
-        "url": "https://open.spotify.com/album/3esEgXmUs1zjBVqijbZ6RQ"
-      },
-      "artists": [
-        {
-          "name": "Dawes",
-          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
-        }
-      ],
-      "duration_ms": 332853,
-      "name": "Didn't Fix Me",
-      "url": "https://open.spotify.com/track/4pqcb6b9PoBnK3HSt4tIeo"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "(self-titled)",
         "url": "https://open.spotify.com/album/2PVuzlWu3Z7Af2y9O2Gppk"
       },
@@ -1535,22 +1535,6 @@
       "duration_ms": 205600,
       "name": "Better Angels",
       "url": "https://open.spotify.com/track/1WckQ5AxU2e4lvZ5aR845A"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
-        "name": "Brother Sister",
-        "url": "https://open.spotify.com/album/27nsoapWtsOW9f1kRd41TL"
-      },
-      "artists": [
-        {
-          "name": "Watkins Family Hour",
-          "url": "https://open.spotify.com/artist/6zoDxs0nnHuD3dKmi7xIIj"
-        }
-      ],
-      "duration_ms": 237186,
-      "name": "The Cure",
-      "url": "https://open.spotify.com/track/4HlqSTUFKv6bzI3OK2q7kE"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1575,6 +1559,22 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
+        "name": "Brother Sister",
+        "url": "https://open.spotify.com/album/27nsoapWtsOW9f1kRd41TL"
+      },
+      "artists": [
+        {
+          "name": "Watkins Family Hour",
+          "url": "https://open.spotify.com/artist/6zoDxs0nnHuD3dKmi7xIIj"
+        }
+      ],
+      "duration_ms": 237186,
+      "name": "The Cure",
+      "url": "https://open.spotify.com/track/4HlqSTUFKv6bzI3OK2q7kE"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
         "name": "Lost Track",
         "url": "https://open.spotify.com/album/3oiTuW8YuHwmhpDHQOdJGE"
       },
@@ -1587,22 +1587,6 @@
       "duration_ms": 142133,
       "name": "Lost Track",
       "url": "https://open.spotify.com/track/3dxgq3THNqGk6Mv5ZZ7yXY"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
-        "name": "The Alien Coast",
-        "url": "https://open.spotify.com/album/5WhgDWJBLKg4pf1OJgoxZm"
-      },
-      "artists": [
-        {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
-        }
-      ],
-      "duration_ms": 204548,
-      "name": "The Last Dance",
-      "url": "https://open.spotify.com/track/3hBdokqeqDzx0ftNTiCqFA"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1623,6 +1607,22 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
+        "name": "The Alien Coast",
+        "url": "https://open.spotify.com/album/5WhgDWJBLKg4pf1OJgoxZm"
+      },
+      "artists": [
+        {
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+        }
+      ],
+      "duration_ms": 204548,
+      "name": "The Last Dance",
+      "url": "https://open.spotify.com/track/3hBdokqeqDzx0ftNTiCqFA"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
         "name": "Alaska",
         "url": "https://open.spotify.com/album/4rFxEoG9PEDkONioOInJhy"
       },
@@ -1635,22 +1635,6 @@
       "duration_ms": 125830,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/3jfYDfrnp0dseGWZfa3jqt"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
-        "name": "Sour Lemon",
-        "url": "https://open.spotify.com/album/2gl1YvNVNAd1DdV3r7rOQ0"
-      },
-      "artists": [
-        {
-          "name": "Local Natives",
-          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
-        }
-      ],
-      "duration_ms": 236466,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/25JOOXgL3bVkBzjzGvcLoE"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1671,6 +1655,22 @@
       "duration_ms": 207500,
       "name": "Drivin (feat. Field Medic)",
       "url": "https://open.spotify.com/track/00uUhSnmZOLJqq79mYoC2y"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "Sour Lemon",
+        "url": "https://open.spotify.com/album/2gl1YvNVNAd1DdV3r7rOQ0"
+      },
+      "artists": [
+        {
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+        }
+      ],
+      "duration_ms": 236466,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/25JOOXgL3bVkBzjzGvcLoE"
     }
   ],
   "unique_name": "Scenic Route",

@@ -1,12 +1,12 @@
 {
   "description": "This is Daniel Caesar. The essential tracks, all in one playlist.",
-  "num_followers": 451370,
+  "num_followers": 451470,
   "original_name": "This Is Daniel Caesar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asgugAAAAAAn1C/tlpGXeS7lsW7SoY6i",
+  "snapshot_id": "asrRgAAAAACP8nyjvkZsbx20wyUqagfd",
   "tracks": [
     {
       "added_at": null,
@@ -663,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pilgrim's Paradise",
+        "url": "https://open.spotify.com/album/2oRaqvWFLOKFUDIt5EEQfa"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 88916,
+      "name": "A Cappella",
+      "url": "https://open.spotify.com/track/4kgBKSVyDGTIpqnglasnKW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/4iOj6nJVkB4K9nbfLFIHC0"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 156780,
       "name": "Blue",
       "url": "https://open.spotify.com/track/3T7vWvqWxZJnx9i5Az5rX4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pilgrim's Paradise",
-        "url": "https://open.spotify.com/album/2oRaqvWFLOKFUDIt5EEQfa"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 88916,
-      "name": "A Cappella",
-      "url": "https://open.spotify.com/track/4kgBKSVyDGTIpqnglasnKW"
     },
     {
       "added_at": null,
@@ -747,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pilgrim's Paradise",
+        "url": "https://open.spotify.com/album/2oRaqvWFLOKFUDIt5EEQfa"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 305081,
+      "name": "Death & Taxes",
+      "url": "https://open.spotify.com/track/1epujjBDhuqmYAwAhR29xI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Indigo",
         "url": "https://open.spotify.com/album/7H23XdhKb4H4mSCRd6gpwU"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 152250,
       "name": "West",
       "url": "https://open.spotify.com/track/2R5GzHdM4xdA8HNLIF8lOY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pilgrim's Paradise",
-        "url": "https://open.spotify.com/album/2oRaqvWFLOKFUDIt5EEQfa"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 305081,
-      "name": "Death & Taxes",
-      "url": "https://open.spotify.com/track/1epujjBDhuqmYAwAhR29xI"
     },
     {
       "added_at": null,

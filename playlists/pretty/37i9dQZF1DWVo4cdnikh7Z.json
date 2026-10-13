@@ -1,12 +1,12 @@
 {
   "description": "New Music from Kollywood.\nCover : Jailer 2",
-  "num_followers": 767502,
+  "num_followers": 767565,
   "original_name": "Latest Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABDi36QGlj+GCpsIuwfC2i2+3Uzv",
+  "snapshot_id": "AAAAADKhhVvWixxILcdifPKdV7lo6ygK",
   "tracks": [
     {
       "added_at": "2026-09-30 17:51:13",
@@ -301,6 +301,22 @@
       "url": "https://open.spotify.com/track/5z7XDTEiWPSSQkktjOGQeL"
     },
     {
+      "added_at": "2026-10-12 05:20:31",
+      "album": {
+        "name": "Nandhini (From \"Gods and Soldiers\") (Tamil)",
+        "url": "https://open.spotify.com/album/0MBlTxeFeyTQDZ3vOIKidg"
+      },
+      "artists": [
+        {
+          "name": "Paal Dabba",
+          "url": "https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx"
+        }
+      ],
+      "duration_ms": 129562,
+      "name": "Nandhini (From \"Gods and Soldiers\") (Tamil)",
+      "url": "https://open.spotify.com/track/2qHBhyZaoizXYT11yNf0sa"
+    },
+    {
       "added_at": "2026-10-07 15:34:52",
       "album": {
         "name": "Meesaya Murukku 2",
@@ -401,6 +417,34 @@
       "url": "https://open.spotify.com/track/3qoYI2NADoZpJUTuF926sh"
     },
     {
+      "added_at": "2026-10-12 05:20:31",
+      "album": {
+        "name": "Terror Error (From \"Drones\")",
+        "url": "https://open.spotify.com/album/4IGeL238QSfFbqUQISeRfA"
+      },
+      "artists": [
+        {
+          "name": "Hari S R",
+          "url": "https://open.spotify.com/artist/2JE6c6KUpnyUqx8JcyU7d7"
+        },
+        {
+          "name": "Iykki Berry",
+          "url": "https://open.spotify.com/artist/0I0EZKnUpimGfzPY17L1yD"
+        },
+        {
+          "name": "Kelithee",
+          "url": "https://open.spotify.com/artist/6HlnMXGEvONMYRUGa3QQTg"
+        },
+        {
+          "name": "Gana Gowtham",
+          "url": "https://open.spotify.com/artist/4uLvyDqG9a9ar8wk20issC"
+        }
+      ],
+      "duration_ms": 216020,
+      "name": "Terror Error (From \"Drones\")",
+      "url": "https://open.spotify.com/track/1p6s0I3e7XOBoadlX44qw0"
+    },
+    {
       "added_at": "2026-09-02 14:45:35",
       "album": {
         "name": "Mandaadi (Original Motion Picture Soundtrack)",
@@ -483,6 +527,54 @@
       "duration_ms": 134089,
       "name": "Kanmaniye",
       "url": "https://open.spotify.com/track/40f0T8AapRJJC81d4BScnj"
+    },
+    {
+      "added_at": "2026-10-12 08:30:02",
+      "album": {
+        "name": "Dheeram Dheeram (From \"Ranabaali\")",
+        "url": "https://open.spotify.com/album/7mBPnulYRorYOCQaAHRKxA"
+      },
+      "artists": [
+        {
+          "name": "Ajay-Atul",
+          "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
+        },
+        {
+          "name": "V.M. Mahalingam",
+          "url": "https://open.spotify.com/artist/6mHtkNCvRoFV9XMzvjSF1u"
+        },
+        {
+          "name": "Madhurakavi",
+          "url": "https://open.spotify.com/artist/4HNFPBEsradUUxFbtQNPKh"
+        }
+      ],
+      "duration_ms": 247029,
+      "name": "Dheeram Dheeram (From \"Ranabaali\")",
+      "url": "https://open.spotify.com/track/5DHmJMScuaR1pV0OQaAZFH"
+    },
+    {
+      "added_at": "2026-10-12 05:20:31",
+      "album": {
+        "name": "Karuvizhi (From \"Haiku\") (Tamil)",
+        "url": "https://open.spotify.com/album/36WqsrzAmGd6pXVFsTVaSM"
+      },
+      "artists": [
+        {
+          "name": "Siddhu Kumar",
+          "url": "https://open.spotify.com/artist/652AxOhhHWM3oxqY82UhQ9"
+        },
+        {
+          "name": "Armaan Malik",
+          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+        },
+        {
+          "name": "Mohan Rajan",
+          "url": "https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Karuvizhi (From \"Haiku\") (Tamil)",
+      "url": "https://open.spotify.com/track/0gH3wyL1PzPbiCbfIh9LqM"
     },
     {
       "added_at": "2026-09-30 17:51:13",
@@ -859,30 +951,6 @@
       "duration_ms": 283846,
       "name": "Namakkaai Oru Vaanam",
       "url": "https://open.spotify.com/track/3w8xJbu9LBvZmr5FBGFJHU"
-    },
-    {
-      "added_at": "2026-10-07 10:23:26",
-      "album": {
-        "name": "Don\u2019T Trouble The Trouble (Tamil)",
-        "url": "https://open.spotify.com/album/0BgSqSgN8noQbSlMU56wwt"
-      },
-      "artists": [
-        {
-          "name": "Anjali Ajaikumar Nair",
-          "url": "https://open.spotify.com/artist/6KKksEEj0TU87BtwYj0xFC"
-        },
-        {
-          "name": "Kala Bhairava",
-          "url": "https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14"
-        },
-        {
-          "name": "Vijaykumar",
-          "url": "https://open.spotify.com/artist/6SSCmVLB1atCK6DkFKPnEG"
-        }
-      ],
-      "duration_ms": 237951,
-      "name": "Aari Raaro",
-      "url": "https://open.spotify.com/track/0Uffm4CsryUIx7vZ0hE9zU"
     },
     {
       "added_at": "2026-09-24 14:31:56",
@@ -1709,38 +1777,6 @@
       "url": "https://open.spotify.com/track/66npPu11fiYnio7TG8Ztbd"
     },
     {
-      "added_at": "2026-08-30 01:25:36",
-      "album": {
-        "name": "Jio Jiyale (From \"Jolliya Iruntha Oruthan\")",
-        "url": "https://open.spotify.com/album/7IMFlZgaOMGjWl8wJJ0c1T"
-      },
-      "artists": [
-        {
-          "name": "Yuvan Shankar Raja",
-          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
-        },
-        {
-          "name": "Amrish",
-          "url": "https://open.spotify.com/artist/0aGTnzmMIRLkP50xeuuINj"
-        },
-        {
-          "name": "Velu",
-          "url": "https://open.spotify.com/artist/2RSkJy7tN23yEXfx1DkbI4"
-        },
-        {
-          "name": "Vignesh Ramakrishna",
-          "url": "https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu"
-        },
-        {
-          "name": "Mathichiyam Bala",
-          "url": "https://open.spotify.com/artist/4o0KXeyOSB2BftArHVnsyG"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Jio Jiyale - From \"Jolliya Iruntha Oruthan\"",
-      "url": "https://open.spotify.com/track/6JqapfTJvtJCvz5PR1mkXP"
-    },
-    {
       "added_at": "2026-09-02 14:45:35",
       "album": {
         "name": "Mandaadi (Original Motion Picture Soundtrack)",
@@ -2275,38 +2311,6 @@
       "duration_ms": 258993,
       "name": "Ekavali (From \"Renigunta 2\")",
       "url": "https://open.spotify.com/track/40rsaNsQOa4jFd15CvdUFX"
-    },
-    {
-      "added_at": "2026-08-07 10:36:26",
-      "album": {
-        "name": "Karuppu - Side B (God Mode Begins) [Original Score]",
-        "url": "https://open.spotify.com/album/31X5UjAhTDsTJW141eYLhd"
-      },
-      "artists": [
-        {
-          "name": "Sai Abhyankkar",
-          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
-        }
-      ],
-      "duration_ms": 186500,
-      "name": "Verappa Thandavam Interval",
-      "url": "https://open.spotify.com/track/5dVtEgHy96yttk2LHnJ8k5"
-    },
-    {
-      "added_at": "2026-08-07 10:36:26",
-      "album": {
-        "name": "Karuppu - Side B (God Mode Begins) [Original Score]",
-        "url": "https://open.spotify.com/album/31X5UjAhTDsTJW141eYLhd"
-      },
-      "artists": [
-        {
-          "name": "Sai Abhyankkar",
-          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
-        }
-      ],
-      "duration_ms": 94208,
-      "name": "Karuppane Vaarumayya",
-      "url": "https://open.spotify.com/track/40z4C1EQcBw4XeotvcaKRU"
     },
     {
       "added_at": "2026-07-06 12:23:12",

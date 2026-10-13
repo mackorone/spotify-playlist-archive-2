@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: sept\-oct 2026 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 24,672 likes - 35 songs - 2 hr 5 min
+[margeaux](https://open.spotify.com/user/1220511975) - 24,675 likes - 37 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,5 +43,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 33 | [Far Away](https://open.spotify.com/track/5ZBhkGimg2yiDysnib69uC) | [Ron Heiss](https://open.spotify.com/artist/4nWxJwM7dCJ6GrYUzJ7ymy), [The Low Notes](https://open.spotify.com/artist/6vrbdMSmy8U4zEOAmmrYQ4) | [They Move In The Night](https://open.spotify.com/album/2pcPhnsmVZpz9dZe7DWUay) | 2:30 |
 | 34 | [Wasn't There](https://open.spotify.com/track/7rZPtM731eSs9XZbxPS04b) | [X\-Cetra](https://open.spotify.com/artist/0Z7bG1GbifD6EC0QrsmARs) | [Stardust](https://open.spotify.com/album/44l3L5pHknhpAnOgYaXYvu) | 1:51 |
 | 35 | [Psychedelic Ranger](https://open.spotify.com/track/1WEWZtP8EHxoIQV55Wr8YV) | [The Clean](https://open.spotify.com/artist/6LRmgzRManplPQghd2BMqz) | [Anthology](https://open.spotify.com/album/0ImmzKzNfwfAUrvq7WS0xA) | 2:49 |
+| 36 | [Dangerous Night](https://open.spotify.com/track/4QqiPyYSKNow3CvtLyru71) | [Genevieve Artadi](https://open.spotify.com/artist/4FGpdN4lqGwjrFx9f2E1RI) | [Dangerous Night](https://open.spotify.com/album/4UpIHJWLnXUX4wKuF2w9TC) | 4:26 |
+| 37 | [Everything in the shade](https://open.spotify.com/track/6wS9y7UwgL1DQnIWrm5GjF) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Everything in the shade](https://open.spotify.com/album/5A6ti3IM50zvD9RkLa7usZ) | 3:36 |
 
-Snapshot ID: `AAAO15ZjtJ1iJCWtH5D5U5b2ko2bHGWe`
+Snapshot ID: `AAAO2fEF03fCMSH907XmQz5Ew/mvovLj`

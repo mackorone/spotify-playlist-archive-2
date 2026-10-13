@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: LUDMILLA
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,044 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,053 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 55 | [Te Faria](https://open.spotify.com/track/2fp1et9og5rgwuT7osCkxo) | [Ellen Oléria](https://open.spotify.com/artist/2Lw4xNNXMrVhYWLNTmBo7B), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo) | [Te Faria](https://open.spotify.com/album/7fj562PkAXglCzk3v3B2vW) | 3:04 |
 | 56 | [Sem ter que me explicar](https://open.spotify.com/track/4l3PInS0V5wgzbkoI3Ofcu) | [Bebé](https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu) | [Dissolução](https://open.spotify.com/album/7m90r6b0oCcJlMPMzW9NXB) | 1:59 |
 | 57 | [FORA DA LEI](https://open.spotify.com/track/5icVJ94721IikUq0hEDvnv) | [BIAB](https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF) | [FORA DA LEI](https://open.spotify.com/album/2cV1oGBot85ZGwuTqOVz2E) | 3:06 |
-| 58 | [NÃO VOU PARAR](https://open.spotify.com/track/4alEl0SGua9H6t5waKGwyd) | [MARINA NA VOZ](https://open.spotify.com/artist/5FXyRWk0BmDfBJ5XKz8A1G), [Los Brasileros](https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW) | [NÃO VOU PARAR](https://open.spotify.com/album/0drLMm4wYVMOZBl3kp0QrB) | 2:25 |
-| 59 | [MergulhoFundo](https://open.spotify.com/track/4L9LVdgCBNM16NWUOwooog) | [Alt Niss](https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6), [Nill](https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl) | [Al\-Kimiya, Ato I](https://open.spotify.com/album/4JDMKjOO4UvoOof9WhJx5s) | 4:16 |
+| 58 | [MergulhoFundo](https://open.spotify.com/track/4L9LVdgCBNM16NWUOwooog) | [Alt Niss](https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6), [Nill](https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl) | [Al\-Kimiya, Ato I](https://open.spotify.com/album/4JDMKjOO4UvoOof9WhJx5s) | 4:16 |
+| 59 | [NÃO VOU PARAR](https://open.spotify.com/track/4alEl0SGua9H6t5waKGwyd) | [MARINA NA VOZ](https://open.spotify.com/artist/5FXyRWk0BmDfBJ5XKz8A1G), [Los Brasileros](https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW) | [NÃO VOU PARAR](https://open.spotify.com/album/0drLMm4wYVMOZBl3kp0QrB) | 2:25 |
 | 60 | [SEM AR](https://open.spotify.com/track/1aqyJwn9vx6WMV6h8RfhM9) | [Gustavvo](https://open.spotify.com/artist/1g7ecQxDIGyHBz8lGGexH8), [Guiggow](https://open.spotify.com/artist/5EQOHqyIiNMSVwndMmZRuN), [Zuchini](https://open.spotify.com/artist/7Kydl65dvmuhcxPgG3WTKZ) | [SEM AR//CAOS](https://open.spotify.com/album/2x3AutqIh3CMYwiC3A1ZQl) | 2:40 |
 | 61 | [Viu!?](https://open.spotify.com/track/0Y5Ulasjgo28kEpFbBFKkf) | [Cyro Sampaio](https://open.spotify.com/artist/5L0ZOCLmpOTteBYRqeIl9g) | [Viu!?](https://open.spotify.com/album/073YAMjODyN4sxKRQq9mXM) | 3:05 |
 | 62 | [Tudo Que Eu Sempre Quis](https://open.spotify.com/track/4fKDzsmTnCqFiRBZpReHiE) | [JovemBlues](https://open.spotify.com/artist/2ZHImurdtryvP7qUCFdDZH), [Dos Anjos](https://open.spotify.com/artist/1082w5hRcoRGY04f8T2Tmn) | [Tudo Que Eu Sempre Quis](https://open.spotify.com/album/5T2DVfz1CJguGF8AYiAOm5) | 2:33 |

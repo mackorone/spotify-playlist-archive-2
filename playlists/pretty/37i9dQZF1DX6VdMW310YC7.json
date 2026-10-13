@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 4017441,
+  "num_followers": 4017346,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -399,6 +399,22 @@
     {
       "added_at": "2026-10-09 04:02:16",
       "album": {
+        "name": "Wanna Be Somewhere With You",
+        "url": "https://open.spotify.com/album/58rRfLmVlk5RnUOTsH58VY"
+      },
+      "artists": [
+        {
+          "name": "Rules",
+          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
+        }
+      ],
+      "duration_ms": 220959,
+      "name": "Wanna Be Somewhere With You",
+      "url": "https://open.spotify.com/track/2ZYz1NTuQxoKy7BaYHzzSi"
+    },
+    {
+      "added_at": "2026-10-09 04:02:16",
+      "album": {
         "name": "Lost In The Woods",
         "url": "https://open.spotify.com/album/5jKMnxhWTDmF8lV6tSU0ax"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 183934,
       "name": "Lost In The Woods",
       "url": "https://open.spotify.com/track/3USL3vqTBzGdm1SR8T8BZx"
-    },
-    {
-      "added_at": "2026-10-09 04:02:16",
-      "album": {
-        "name": "Wanna Be Somewhere With You",
-        "url": "https://open.spotify.com/album/58rRfLmVlk5RnUOTsH58VY"
-      },
-      "artists": [
-        {
-          "name": "Rules",
-          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
-        }
-      ],
-      "duration_ms": 220959,
-      "name": "Wanna Be Somewhere With You",
-      "url": "https://open.spotify.com/track/2ZYz1NTuQxoKy7BaYHzzSi"
     },
     {
       "added_at": "2026-10-09 04:02:16",
@@ -507,6 +507,26 @@
     {
       "added_at": "2026-10-09 04:02:16",
       "album": {
+        "name": "Stay Now",
+        "url": "https://open.spotify.com/album/0EZ6dMa4OWDZdrcm5MLesY"
+      },
+      "artists": [
+        {
+          "name": "Rules",
+          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
+        },
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        }
+      ],
+      "duration_ms": 208484,
+      "name": "Stay Now",
+      "url": "https://open.spotify.com/track/0JG0XzJeONILCRHgKDJX1s"
+    },
+    {
+      "added_at": "2026-10-09 04:02:16",
+      "album": {
         "name": "Coming Home",
         "url": "https://open.spotify.com/album/79BvQiisRxhMJd80E0KhbC"
       },
@@ -527,22 +547,6 @@
     {
       "added_at": "2026-10-09 04:02:16",
       "album": {
-        "name": "Not Giving You Up",
-        "url": "https://open.spotify.com/album/5V3TvHdleNDEhSIC4g7IFM"
-      },
-      "artists": [
-        {
-          "name": "Rules",
-          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
-        }
-      ],
-      "duration_ms": 172939,
-      "name": "Not Giving You Up",
-      "url": "https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw"
-    },
-    {
-      "added_at": "2026-10-09 04:02:16",
-      "album": {
         "name": "life gets hard",
         "url": "https://open.spotify.com/album/5u6aeRDXBKNwJxKSUcykEj"
       },
@@ -555,26 +559,6 @@
       "duration_ms": 125917,
       "name": "life gets hard",
       "url": "https://open.spotify.com/track/3acsNhkPp9gHSsamIsw0xO"
-    },
-    {
-      "added_at": "2026-10-09 04:02:16",
-      "album": {
-        "name": "Midnight Sun",
-        "url": "https://open.spotify.com/album/7rsuL0QKTG0jAceR17H1uZ"
-      },
-      "artists": [
-        {
-          "name": "Jan Blomqvist",
-          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
-        },
-        {
-          "name": "Natascha Polk\u00e9",
-          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
-        }
-      ],
-      "duration_ms": 204039,
-      "name": "Midnight Sun",
-      "url": "https://open.spotify.com/track/5H5wa2EQJyOkR0ghHZDcNI"
     },
     {
       "added_at": "2026-10-09 04:02:16",
@@ -599,6 +583,42 @@
     {
       "added_at": "2026-10-09 04:02:16",
       "album": {
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/7rsuL0QKTG0jAceR17H1uZ"
+      },
+      "artists": [
+        {
+          "name": "Jan Blomqvist",
+          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
+        },
+        {
+          "name": "Natascha Polk\u00e9",
+          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
+        }
+      ],
+      "duration_ms": 204039,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/5H5wa2EQJyOkR0ghHZDcNI"
+    },
+    {
+      "added_at": "2026-10-09 04:02:16",
+      "album": {
+        "name": "Not Giving You Up",
+        "url": "https://open.spotify.com/album/5V3TvHdleNDEhSIC4g7IFM"
+      },
+      "artists": [
+        {
+          "name": "Rules",
+          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
+        }
+      ],
+      "duration_ms": 172939,
+      "name": "Not Giving You Up",
+      "url": "https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw"
+    },
+    {
+      "added_at": "2026-10-09 04:02:16",
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/3OQZaCnc8B6JxWyuZkCTI9"
       },
@@ -615,26 +635,6 @@
       "duration_ms": 196306,
       "name": "Closer",
       "url": "https://open.spotify.com/track/7Jnhl4HMucYxZIIxhcE5Zb"
-    },
-    {
-      "added_at": "2026-10-09 04:02:16",
-      "album": {
-        "name": "Stay Now",
-        "url": "https://open.spotify.com/album/0EZ6dMa4OWDZdrcm5MLesY"
-      },
-      "artists": [
-        {
-          "name": "Rules",
-          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
-        },
-        {
-          "name": "Maverick Sabre",
-          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
-        }
-      ],
-      "duration_ms": 208484,
-      "name": "Stay Now",
-      "url": "https://open.spotify.com/track/0JG0XzJeONILCRHgKDJX1s"
     },
     {
       "added_at": "2026-10-09 04:02:16",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-10-09 04:02:16",
       "album": {
-        "name": "ABOUT YOU",
-        "url": "https://open.spotify.com/album/4EisehMLZwMwc8lgLU3mWE"
-      },
-      "artists": [
-        {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        }
-      ],
-      "duration_ms": 211875,
-      "name": "ABOUT YOU",
-      "url": "https://open.spotify.com/track/3WtsCUlsCUhmhHRY7gh97V"
-    },
-    {
-      "added_at": "2026-10-09 04:02:16",
-      "album": {
         "name": "As Soon As I Get Home",
         "url": "https://open.spotify.com/album/3E5N8NPp69VJcFROhdxJw7"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 239885,
       "name": "As Soon As I Get Home",
       "url": "https://open.spotify.com/track/6dkawkK65WB7GeRg880lx9"
+    },
+    {
+      "added_at": "2026-10-09 04:02:16",
+      "album": {
+        "name": "ABOUT YOU",
+        "url": "https://open.spotify.com/album/4EisehMLZwMwc8lgLU3mWE"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        }
+      ],
+      "duration_ms": 211875,
+      "name": "ABOUT YOU",
+      "url": "https://open.spotify.com/track/3WtsCUlsCUhmhHRY7gh97V"
     },
     {
       "added_at": "2026-10-09 04:02:16",
@@ -771,6 +771,26 @@
       "duration_ms": 313152,
       "name": "Threads",
       "url": "https://open.spotify.com/track/6uDOlnBhgzWqfYD4BZctJL"
+    },
+    {
+      "added_at": "2026-10-09 04:02:16",
+      "album": {
+        "name": "Smiling Through The Pain 3",
+        "url": "https://open.spotify.com/album/7btqsflspTMMLYmW7v15Z6"
+      },
+      "artists": [
+        {
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        },
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        }
+      ],
+      "duration_ms": 159325,
+      "name": "Stay Cool",
+      "url": "https://open.spotify.com/track/2415eI6C0m7OXK7J7vfdWv"
     },
     {
       "added_at": "2026-10-09 04:02:16",
@@ -827,26 +847,6 @@
       "duration_ms": 248571,
       "name": "Spirit Bird",
       "url": "https://open.spotify.com/track/3y5Ufbqnrdpp2wUsaDpPuS"
-    },
-    {
-      "added_at": "2026-10-09 04:02:16",
-      "album": {
-        "name": "Smiling Through The Pain 3",
-        "url": "https://open.spotify.com/album/7btqsflspTMMLYmW7v15Z6"
-      },
-      "artists": [
-        {
-          "name": "Swimming Paul",
-          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
-        },
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        }
-      ],
-      "duration_ms": 159325,
-      "name": "Stay Cool",
-      "url": "https://open.spotify.com/track/2415eI6C0m7OXK7J7vfdWv"
     },
     {
       "added_at": "2026-10-09 04:02:16",
@@ -983,26 +983,6 @@
     {
       "added_at": "2026-10-09 04:02:16",
       "album": {
-        "name": "We Are Always Under The Same Sky",
-        "url": "https://open.spotify.com/album/0SpZZ8NyMsk2xlKrp9rBkJ"
-      },
-      "artists": [
-        {
-          "name": "Qrion",
-          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
-        },
-        {
-          "name": "Josie Man",
-          "url": "https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ"
-        }
-      ],
-      "duration_ms": 249479,
-      "name": "Wayside",
-      "url": "https://open.spotify.com/track/41BRWHGuqEcSZszacBBCld"
-    },
-    {
-      "added_at": "2026-10-09 04:02:16",
-      "album": {
         "name": "I Cared For You",
         "url": "https://open.spotify.com/album/6PoJhDNqk7LRys76iIwhDu"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 270476,
       "name": "I Cared For You",
       "url": "https://open.spotify.com/track/66POHEgKYBNW5cpocQvSfC"
+    },
+    {
+      "added_at": "2026-10-09 04:02:16",
+      "album": {
+        "name": "We Are Always Under The Same Sky",
+        "url": "https://open.spotify.com/album/0SpZZ8NyMsk2xlKrp9rBkJ"
+      },
+      "artists": [
+        {
+          "name": "Qrion",
+          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
+        },
+        {
+          "name": "Josie Man",
+          "url": "https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ"
+        }
+      ],
+      "duration_ms": 249479,
+      "name": "Wayside",
+      "url": "https://open.spotify.com/track/41BRWHGuqEcSZszacBBCld"
     },
     {
       "added_at": "2026-10-09 04:02:16",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-10-09 04:02:16",
       "album": {
-        "name": "The last dance...",
-        "url": "https://open.spotify.com/album/1OwHW1ICmMkp9dGSmHLLjN"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 184761,
-      "name": "The last dance...",
-      "url": "https://open.spotify.com/track/5MLawmtoMCQEPx7kt44IFn"
-    },
-    {
-      "added_at": "2026-10-09 04:02:16",
-      "album": {
         "name": "Bittersweet",
         "url": "https://open.spotify.com/album/2YBVdVWIfh2qMHIwczlmdE"
       },
@@ -1319,22 +1303,18 @@
     {
       "added_at": "2026-10-09 04:02:16",
       "album": {
-        "name": "Return to Ojai",
-        "url": "https://open.spotify.com/album/5HiSFg20JTQ5KTcD5Xsini"
+        "name": "The last dance...",
+        "url": "https://open.spotify.com/album/1OwHW1ICmMkp9dGSmHLLjN"
       },
       "artists": [
         {
-          "name": "Catching Flies",
-          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
-        },
-        {
-          "name": "TEED",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
         }
       ],
-      "duration_ms": 259480,
-      "name": "Return to Ojai",
-      "url": "https://open.spotify.com/track/3g70GmoZQlHPOTIkPUxLd9"
+      "duration_ms": 184761,
+      "name": "The last dance...",
+      "url": "https://open.spotify.com/track/5MLawmtoMCQEPx7kt44IFn"
     },
     {
       "added_at": "2026-10-09 04:02:16",
@@ -1375,6 +1355,26 @@
     {
       "added_at": "2026-10-09 04:02:16",
       "album": {
+        "name": "Return to Ojai",
+        "url": "https://open.spotify.com/album/5HiSFg20JTQ5KTcD5Xsini"
+      },
+      "artists": [
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        },
+        {
+          "name": "TEED",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "duration_ms": 259480,
+      "name": "Return to Ojai",
+      "url": "https://open.spotify.com/track/3g70GmoZQlHPOTIkPUxLd9"
+    },
+    {
+      "added_at": "2026-10-09 04:02:16",
+      "album": {
         "name": "Finding Home",
         "url": "https://open.spotify.com/album/3CRJaVRt0ni52xagPsekyk"
       },
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-10-09 04:02:16",
       "album": {
-        "name": "The Ladder",
-        "url": "https://open.spotify.com/album/0BnvRhQDmp6pPITNv9jqAs"
-      },
-      "artists": [
-        {
-          "name": "George FitzGerald",
-          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
-        }
-      ],
-      "duration_ms": 249846,
-      "name": "The Ladder",
-      "url": "https://open.spotify.com/track/1nZu07VvySocuOdQ1jQuUg"
-    },
-    {
-      "added_at": "2026-10-09 04:02:16",
-      "album": {
         "name": "One Love (Nobody Else)",
         "url": "https://open.spotify.com/album/1jhsm4hCvQR4S6L1lMdCrV"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 217487,
       "name": "One Love (Nobody Else)",
       "url": "https://open.spotify.com/track/1plh94yAIkbjOAH3cGXc7B"
+    },
+    {
+      "added_at": "2026-10-09 04:02:16",
+      "album": {
+        "name": "The Ladder",
+        "url": "https://open.spotify.com/album/0BnvRhQDmp6pPITNv9jqAs"
+      },
+      "artists": [
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        }
+      ],
+      "duration_ms": 249846,
+      "name": "The Ladder",
+      "url": "https://open.spotify.com/track/1nZu07VvySocuOdQ1jQuUg"
     },
     {
       "added_at": "2026-10-09 04:02:16",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2026-10-09 04:02:16",
       "album": {
-        "name": "Sewn",
-        "url": "https://open.spotify.com/album/4r51uVlWZVOutNSvswb0NH"
-      },
-      "artists": [
-        {
-          "name": "Kidnap",
-          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
-        }
-      ],
-      "duration_ms": 212903,
-      "name": "Sewn",
-      "url": "https://open.spotify.com/track/5HK5WzgL0w9KS8tqsyGcdM"
-    },
-    {
-      "added_at": "2026-10-09 04:02:16",
-      "album": {
         "name": "How Will I Know?",
         "url": "https://open.spotify.com/album/5EXB5oYUClbbNjqWbMb3N0"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 252693,
       "name": "How Will I Know?",
       "url": "https://open.spotify.com/track/0jgvWGiQSdnjsK74KyIAEa"
+    },
+    {
+      "added_at": "2026-10-09 04:02:16",
+      "album": {
+        "name": "Sewn",
+        "url": "https://open.spotify.com/album/4r51uVlWZVOutNSvswb0NH"
+      },
+      "artists": [
+        {
+          "name": "Kidnap",
+          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
+        }
+      ],
+      "duration_ms": 212903,
+      "name": "Sewn",
+      "url": "https://open.spotify.com/track/5HK5WzgL0w9KS8tqsyGcdM"
     },
     {
       "added_at": "2026-10-09 04:02:16",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2026-10-09 04:02:16",
       "album": {
+        "name": "LOVE",
+        "url": "https://open.spotify.com/album/3XzF1AVLmTtSA9exleQY0V"
+      },
+      "artists": [
+        {
+          "name": "Eric Luttrell",
+          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "LOVE",
+      "url": "https://open.spotify.com/track/2Ci8fAS7bgl1RMHiWzJvcD"
+    },
+    {
+      "added_at": "2026-10-09 04:02:16",
+      "album": {
         "name": "Heal",
         "url": "https://open.spotify.com/album/6Z5HYN50xuRIikzXPCo2oB"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 273442,
       "name": "Heal",
       "url": "https://open.spotify.com/track/5NX2oe1rMMAprjsbKbWEGS"
-    },
-    {
-      "added_at": "2026-10-09 04:02:16",
-      "album": {
-        "name": "LOVE",
-        "url": "https://open.spotify.com/album/3XzF1AVLmTtSA9exleQY0V"
-      },
-      "artists": [
-        {
-          "name": "Eric Luttrell",
-          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "LOVE",
-      "url": "https://open.spotify.com/track/2Ci8fAS7bgl1RMHiWzJvcD"
     },
     {
       "added_at": "2026-10-09 04:02:16",
@@ -1795,6 +1795,26 @@
     {
       "added_at": "2026-10-09 04:02:16",
       "album": {
+        "name": "Just Noise Pt. II",
+        "url": "https://open.spotify.com/album/6NL7SkrK3auwVEvuISvSaV"
+      },
+      "artists": [
+        {
+          "name": "Rinzen",
+          "url": "https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI"
+        },
+        {
+          "name": "Ae:ther",
+          "url": "https://open.spotify.com/artist/2Va4TMOAXwdFAcakAUNSsV"
+        }
+      ],
+      "duration_ms": 266189,
+      "name": "Pangea",
+      "url": "https://open.spotify.com/track/3zeST3OUSGo90oZBQzIuNm"
+    },
+    {
+      "added_at": "2026-10-09 04:02:16",
+      "album": {
         "name": "feeling something",
         "url": "https://open.spotify.com/album/34j9PJGs4V9LPRDdOGSk92"
       },
@@ -1815,26 +1835,6 @@
       "duration_ms": 256000,
       "name": "feeling something",
       "url": "https://open.spotify.com/track/1Sp9umOnqKXjsqhELwazBY"
-    },
-    {
-      "added_at": "2026-10-09 04:02:16",
-      "album": {
-        "name": "Just Noise Pt. II",
-        "url": "https://open.spotify.com/album/6NL7SkrK3auwVEvuISvSaV"
-      },
-      "artists": [
-        {
-          "name": "Rinzen",
-          "url": "https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI"
-        },
-        {
-          "name": "Ae:ther",
-          "url": "https://open.spotify.com/artist/2Va4TMOAXwdFAcakAUNSsV"
-        }
-      ],
-      "duration_ms": 266189,
-      "name": "Pangea",
-      "url": "https://open.spotify.com/track/3zeST3OUSGo90oZBQzIuNm"
     },
     {
       "added_at": "2026-10-09 04:02:16",
@@ -1871,30 +1871,6 @@
       "duration_ms": 219923,
       "name": "Let You Know",
       "url": "https://open.spotify.com/track/609FRLY8f3c7CXqsloE09P"
-    },
-    {
-      "added_at": "2026-10-09 04:02:16",
-      "album": {
-        "name": "Superstition EP",
-        "url": "https://open.spotify.com/album/7sHi05ALIKm6MsZhhLkqAw"
-      },
-      "artists": [
-        {
-          "name": "MYRNE",
-          "url": "https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg"
-        },
-        {
-          "name": "Syence",
-          "url": "https://open.spotify.com/artist/4VfTgWhy9PKLJN3xKJcDqf"
-        },
-        {
-          "name": "artemis orion",
-          "url": "https://open.spotify.com/artist/6xLeeQEqxKiq6mXCgvFKSg"
-        }
-      ],
-      "duration_ms": 318688,
-      "name": "Superstition",
-      "url": "https://open.spotify.com/track/10yQfULdZ2BfoipahuFZ0z"
     },
     {
       "added_at": "2026-10-09 04:02:16",
@@ -1943,6 +1919,30 @@
       "duration_ms": 265161,
       "name": "Love Pains",
       "url": "https://open.spotify.com/track/6juK43DmhqHK7FsAecv92Q"
+    },
+    {
+      "added_at": "2026-10-09 04:02:16",
+      "album": {
+        "name": "Superstition EP",
+        "url": "https://open.spotify.com/album/7sHi05ALIKm6MsZhhLkqAw"
+      },
+      "artists": [
+        {
+          "name": "MYRNE",
+          "url": "https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg"
+        },
+        {
+          "name": "Syence",
+          "url": "https://open.spotify.com/artist/4VfTgWhy9PKLJN3xKJcDqf"
+        },
+        {
+          "name": "artemis orion",
+          "url": "https://open.spotify.com/artist/6xLeeQEqxKiq6mXCgvFKSg"
+        }
+      ],
+      "duration_ms": 318688,
+      "name": "Superstition",
+      "url": "https://open.spotify.com/track/10yQfULdZ2BfoipahuFZ0z"
     }
   ],
   "unique_name": "Chill Tracks",

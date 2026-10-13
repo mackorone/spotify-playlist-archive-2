@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1Dz1enrHJyUrLyxdqr1SPg.md) - [plain]
 
 > NEW  POPULAR MUSIC BY  INDIE AND ESTABLISHED ARTISTS .\. Free submission  \- 1 week on the list  NO EXPLICITS \- NO RAP Active supporters who play and share the list will get more time  \-so please play and share \- Thank you &lt;3  https:&\#x2F;&\#x2F;www.instagram.com&\#x2F;enilsounds&\#x2F;
 
-[enilsounds](https://open.spotify.com/user/enilsounds) - 2,033 likes - 99 songs - 5 hr 37 min
+[enilsounds](https://open.spotify.com/user/enilsounds) - 2,035 likes - 101 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,5 +107,7 @@ pretty - [cumulative](/playlists/cumulative/1Dz1enrHJyUrLyxdqr1SPg.md) - [plain]
 | 97 | [The Way](https://open.spotify.com/track/3Qs4DzYZfRYCsvVYySC68q) | [The Dreamers Roots](https://open.spotify.com/artist/3GGadIaVfzQO2amB4criGb) | [The Way](https://open.spotify.com/album/209R5C78jtU7cYoPkzjpK1) | 4:27 |
 | 98 | [Fuego](https://open.spotify.com/track/6gsbAhf3XxE8OhabLMmPw7) | [Tebin Ramos](https://open.spotify.com/artist/3JuVLgCeHAGhyLtlF8iCZd) | [Fuego](https://open.spotify.com/album/2cuIJ4oqOCNTtth0wxPJrb) | 3:20 |
 | 99 | [Life in the Slow Lane](https://open.spotify.com/track/5Vys4dZ1Pq4MRUDGHrGfZh) | [Electron Revolt](https://open.spotify.com/artist/7inTXltGl51TDpZAW7BFAm) | [Fluster Crux](https://open.spotify.com/album/2quBW7IVo2JdekZXJc8Qdx) | 4:00 |
+| 100 | [Suicide Sugar](https://open.spotify.com/track/4SbP8W45yuDFNXWnjbC7Hz) | [Gran Fenwick](https://open.spotify.com/artist/0VEN5dR1HedhA1jEGYMRcz) | [Suicide Sugar](https://open.spotify.com/album/1tcQBg0EwqqVlxr37XHKWd) | 3:51 |
+| 101 | [In The Name Of Love](https://open.spotify.com/track/3bpubBf13MuSjpJV6qmb8R) | [The Dreamers Roots](https://open.spotify.com/artist/3GGadIaVfzQO2amB4criGb) | [In The Name Of Love](https://open.spotify.com/album/2hnITGv7giDVZpAhUI4pRm) | 3:24 |
 
-Snapshot ID: `AABkAGKzYzlU3F6hNJtzAlRb70SgRibh`
+Snapshot ID: `AABkAjA7/WQ5xmNyg54uRPFZPsPE/F9q`

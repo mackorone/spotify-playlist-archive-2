@@ -1892,7 +1892,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 200333,
       "name": "AYTO ME TON SADAM",
       "url": "https://open.spotify.com/track/7aLH0PAEjMkNwEaoJV9xhm"
@@ -3118,7 +3118,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 135272,
       "name": "CRETA",
       "url": "https://open.spotify.com/track/5nj63xdbymspnKmHC5isVZ"
@@ -3761,6 +3761,28 @@
     },
     {
       "album": {
+        "name": "DRAKOS",
+        "url": "https://open.spotify.com/album/029rZwDYwchuO0mbmgyMfu"
+      },
+      "artists": [
+        {
+          "name": "YungKapa",
+          "url": "https://open.spotify.com/artist/23iVXbj5uK4e3MtRQLNPdG"
+        },
+        {
+          "name": "Corteo",
+          "url": "https://open.spotify.com/artist/7vHwSdqnwKnxJiMHFr0Edd"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121250,
+      "name": "DRAKOS",
+      "url": "https://open.spotify.com/track/4YKJlKApPEaLf7Ba2etctU"
+    },
+    {
+      "album": {
         "name": "Metal Slang",
         "url": "https://open.spotify.com/album/4bmNVze4PROPrLse71bcjd"
       },
@@ -4044,6 +4066,32 @@
       "duration_ms": 176170,
       "name": "ELA ELA",
       "url": "https://open.spotify.com/track/3lQC1Q8BHxKLe8lFXR7idT"
+    },
+    {
+      "album": {
+        "name": "Ela Poios?",
+        "url": "https://open.spotify.com/album/3bEaoqdhHMwS0nWRaRNMJR"
+      },
+      "artists": [
+        {
+          "name": "Ivan Greko",
+          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
+        },
+        {
+          "name": "Donn",
+          "url": "https://open.spotify.com/artist/5ZW3jmupWrQDBKilPyUVkv"
+        },
+        {
+          "name": "BLVD",
+          "url": "https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166875,
+      "name": "Ela Poios?",
+      "url": "https://open.spotify.com/track/6TgFF0enkF3Fp8h5CzXLE9"
     },
     {
       "album": {
@@ -6936,7 +6984,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 109179,
       "name": "KILLING SPREE",
       "url": "https://open.spotify.com/track/3aKTKJIsov1jUMM7yLJNCc"
@@ -8383,6 +8431,32 @@
     },
     {
       "album": {
+        "name": "METRO",
+        "url": "https://open.spotify.com/album/7pdqpLcGGANCoi3lwD4qbK"
+      },
+      "artists": [
+        {
+          "name": "BORAC",
+          "url": "https://open.spotify.com/artist/0GWmVguOlm1wG9ewMP4iBO"
+        },
+        {
+          "name": "Arab",
+          "url": "https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a"
+        },
+        {
+          "name": "ASOK",
+          "url": "https://open.spotify.com/artist/6Zx32XYdrM9A2rIt6jKVmm"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133636,
+      "name": "METRO",
+      "url": "https://open.spotify.com/track/0ZDg6lOFCGgniBUQmPmAPz"
+    },
+    {
+      "album": {
         "name": "Love, Rack.",
         "url": "https://open.spotify.com/album/71OmR1jsVbmkUt0LGhZFdu"
       },
@@ -9482,6 +9556,32 @@
       "duration_ms": 139607,
       "name": "OSE",
       "url": "https://open.spotify.com/track/0Ythgq8uacb9uwkWSs0Vkb"
+    },
+    {
+      "album": {
+        "name": "Oxi Oxi",
+        "url": "https://open.spotify.com/album/3qst1bDkeVQpgfinmhgssF"
+      },
+      "artists": [
+        {
+          "name": "Khay Be",
+          "url": "https://open.spotify.com/artist/5k33Wwmqe50DI0c0tF7X9y"
+        },
+        {
+          "name": "Arab",
+          "url": "https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a"
+        },
+        {
+          "name": "Destiny",
+          "url": "https://open.spotify.com/artist/00EuEpMzi9sEgwVRxuPBky"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113333,
+      "name": "Oxi Oxi",
+      "url": "https://open.spotify.com/track/4tr7QnnigYv7MfWZECjtTD"
     },
     {
       "album": {
@@ -13554,6 +13654,28 @@
       "duration_ms": 196363,
       "name": "VERSACE",
       "url": "https://open.spotify.com/track/77Ncp4dEk7bVbDTpTwfj6I"
+    },
+    {
+      "album": {
+        "name": "VGAINO RIXNO",
+        "url": "https://open.spotify.com/album/22BmVOKqRtGWC7jOpF2wKs"
+      },
+      "artists": [
+        {
+          "name": "HermesHermes",
+          "url": "https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY"
+        },
+        {
+          "name": "BLVD",
+          "url": "https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117735,
+      "name": "VGAINO RIXNO",
+      "url": "https://open.spotify.com/track/703yjsRft9WQxljrzopeuz"
     },
     {
       "album": {

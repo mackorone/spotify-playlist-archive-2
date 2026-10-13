@@ -1,6 +1,6 @@
 {
   "description": "El futuro ya est\u00e1 aqu\u00ed, con nuestra nueva promoci\u00f3n. Foto: Teo Planell.",
-  "num_followers": 30138,
+  "num_followers": 30145,
   "original_name": "RADAR Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -379,18 +379,22 @@
     {
       "added_at": "2026-10-08 22:02:07",
       "album": {
-        "name": "El Mundo Nadie",
-        "url": "https://open.spotify.com/album/2ebXa37CytU1fUkMucOhWN"
+        "name": "Tu no est\u00e1s sola",
+        "url": "https://open.spotify.com/album/769d4Of1bYO5Pt3m1YLkpp"
       },
       "artists": [
         {
           "name": "El Bobo de las 3000",
           "url": "https://open.spotify.com/artist/0Gqu6SH6up2gE5Hkj1Y4eB"
+        },
+        {
+          "name": "Moncho Chavea",
+          "url": "https://open.spotify.com/artist/7fL1kRUb9Zv1xxgOmsuUPn"
         }
       ],
-      "duration_ms": 193247,
-      "name": "El Mundo Nadie",
-      "url": "https://open.spotify.com/track/2drLIPJ3A7yJgsUnbJc1UI"
+      "duration_ms": 208000,
+      "name": "Tu no est\u00e1s sola",
+      "url": "https://open.spotify.com/track/5kJJUScriQ6h6k3yIQfCgR"
     },
     {
       "added_at": "2026-10-08 22:02:07",
@@ -487,22 +491,18 @@
     {
       "added_at": "2026-10-08 22:02:07",
       "album": {
-        "name": "Tu no est\u00e1s sola",
-        "url": "https://open.spotify.com/album/769d4Of1bYO5Pt3m1YLkpp"
+        "name": "El Mundo Nadie",
+        "url": "https://open.spotify.com/album/2ebXa37CytU1fUkMucOhWN"
       },
       "artists": [
         {
           "name": "El Bobo de las 3000",
           "url": "https://open.spotify.com/artist/0Gqu6SH6up2gE5Hkj1Y4eB"
-        },
-        {
-          "name": "Moncho Chavea",
-          "url": "https://open.spotify.com/artist/7fL1kRUb9Zv1xxgOmsuUPn"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Tu no est\u00e1s sola",
-      "url": "https://open.spotify.com/track/5kJJUScriQ6h6k3yIQfCgR"
+      "duration_ms": 193247,
+      "name": "El Mundo Nadie",
+      "url": "https://open.spotify.com/track/2drLIPJ3A7yJgsUnbJc1UI"
     },
     {
       "added_at": "2026-10-08 22:02:07",

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: \u00c1rbol de Ojos",
-  "num_followers": 91771,
+  "num_followers": 91768,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,18 @@
     {
       "added_at": "2026-09-11 04:59:19",
       "album": {
-        "name": "Nada que hablar (feat. Aterciopelados)",
-        "url": "https://open.spotify.com/album/3NJno867gz0ZuAy8td5pRm"
+        "name": "Castillos de Arena",
+        "url": "https://open.spotify.com/album/6ufTtCn7TfxmFDrcxLNXoB"
       },
       "artists": [
         {
           "name": "Don Tetto",
           "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
-        },
-        {
-          "name": "Aterciopelados",
-          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
         }
       ],
-      "duration_ms": 205180,
-      "name": "Nada que hablar (feat. Aterciopelados)",
-      "url": "https://open.spotify.com/track/7tHQZ9Wbb8dI4ldZBaKfaw"
+      "duration_ms": 196437,
+      "name": "Punto Final",
+      "url": "https://open.spotify.com/track/56YcLUmZ3d7cJOxOin7y9A"
     },
     {
       "added_at": "2026-09-11 04:59:19",
@@ -347,18 +343,22 @@
     {
       "added_at": "2026-09-11 04:59:19",
       "album": {
-        "name": "Castillos de Arena",
-        "url": "https://open.spotify.com/album/6ufTtCn7TfxmFDrcxLNXoB"
+        "name": "Nada que hablar (feat. Aterciopelados)",
+        "url": "https://open.spotify.com/album/3NJno867gz0ZuAy8td5pRm"
       },
       "artists": [
         {
           "name": "Don Tetto",
           "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
+        },
+        {
+          "name": "Aterciopelados",
+          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
         }
       ],
-      "duration_ms": 196437,
-      "name": "Punto Final",
-      "url": "https://open.spotify.com/track/56YcLUmZ3d7cJOxOin7y9A"
+      "duration_ms": 205180,
+      "name": "Nada que hablar (feat. Aterciopelados)",
+      "url": "https://open.spotify.com/track/7tHQZ9Wbb8dI4ldZBaKfaw"
     },
     {
       "added_at": "2026-09-11 04:59:19",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-09-11 04:59:19",
       "album": {
-        "name": "Fr\u00e1gil",
-        "url": "https://open.spotify.com/album/2zlHTnoNZOZohSnXXt65GR"
-      },
-      "artists": [
-        {
-          "name": "Higuita en Chanclas",
-          "url": "https://open.spotify.com/artist/6KxEb5gHvWvxrplWIe6rcO"
-        }
-      ],
-      "duration_ms": 263449,
-      "name": "Fr\u00e1gil",
-      "url": "https://open.spotify.com/track/0RrAW7InSmDFgpJ1yLkKxC"
-    },
-    {
-      "added_at": "2026-09-11 04:59:19",
-      "album": {
         "name": "Campesino",
         "url": "https://open.spotify.com/album/1dr8WuOYOeGk27RgnXImXQ"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 278724,
       "name": "Campesino",
       "url": "https://open.spotify.com/track/16NjxeQhuY5wQ8xl3gTZXt"
+    },
+    {
+      "added_at": "2026-09-11 04:59:19",
+      "album": {
+        "name": "Fr\u00e1gil",
+        "url": "https://open.spotify.com/album/2zlHTnoNZOZohSnXXt65GR"
+      },
+      "artists": [
+        {
+          "name": "Higuita en Chanclas",
+          "url": "https://open.spotify.com/artist/6KxEb5gHvWvxrplWIe6rcO"
+        }
+      ],
+      "duration_ms": 263449,
+      "name": "Fr\u00e1gil",
+      "url": "https://open.spotify.com/track/0RrAW7InSmDFgpJ1yLkKxC"
     },
     {
       "added_at": "2026-09-11 04:59:19",
@@ -727,22 +727,6 @@
     {
       "added_at": "2026-09-11 04:59:19",
       "album": {
-        "name": "Prende",
-        "url": "https://open.spotify.com/album/4yoIFrJyYMVB78v2oVYzHG"
-      },
-      "artists": [
-        {
-          "name": "Tequendama",
-          "url": "https://open.spotify.com/artist/5jtmZEtfuDg8on48lsLxmU"
-        }
-      ],
-      "duration_ms": 197886,
-      "name": "Prende",
-      "url": "https://open.spotify.com/track/1MkRoo0Vr7Ol8BMQ6bMbGs"
-    },
-    {
-      "added_at": "2026-09-11 04:59:19",
-      "album": {
         "name": "Rocal",
         "url": "https://open.spotify.com/album/4ihD17BMxTDcCfwcC2TlfC"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 230237,
       "name": "Rocal",
       "url": "https://open.spotify.com/track/2lYG5r6ahoFOknygopkjMr"
+    },
+    {
+      "added_at": "2026-09-11 04:59:19",
+      "album": {
+        "name": "Prende",
+        "url": "https://open.spotify.com/album/4yoIFrJyYMVB78v2oVYzHG"
+      },
+      "artists": [
+        {
+          "name": "Tequendama",
+          "url": "https://open.spotify.com/artist/5jtmZEtfuDg8on48lsLxmU"
+        }
+      ],
+      "duration_ms": 197886,
+      "name": "Prende",
+      "url": "https://open.spotify.com/track/1MkRoo0Vr7Ol8BMQ6bMbGs"
     },
     {
       "added_at": "2026-09-11 04:59:19",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-09-11 04:59:19",
       "album": {
-        "name": "El Silencio",
-        "url": "https://open.spotify.com/album/7oMs3PmmJsccmhFWImH8wE"
-      },
-      "artists": [
-        {
-          "name": "Encarta 98",
-          "url": "https://open.spotify.com/artist/28Am1s75o5KAGaAwCQ22mv"
-        }
-      ],
-      "duration_ms": 340017,
-      "name": "El Silencio",
-      "url": "https://open.spotify.com/track/1C6NglWjiovt1lUrITZEIo"
-    },
-    {
-      "added_at": "2026-09-11 04:59:19",
-      "album": {
         "name": "Estallados",
         "url": "https://open.spotify.com/album/0bKbPtDXlXn07olVlaIAnr"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 270000,
       "name": "Estallados",
       "url": "https://open.spotify.com/track/3FO2k1oUkFBsU63BqVIGRS"
+    },
+    {
+      "added_at": "2026-09-11 04:59:19",
+      "album": {
+        "name": "El Silencio",
+        "url": "https://open.spotify.com/album/7oMs3PmmJsccmhFWImH8wE"
+      },
+      "artists": [
+        {
+          "name": "Encarta 98",
+          "url": "https://open.spotify.com/artist/28Am1s75o5KAGaAwCQ22mv"
+        }
+      ],
+      "duration_ms": 340017,
+      "name": "El Silencio",
+      "url": "https://open.spotify.com/track/1C6NglWjiovt1lUrITZEIo"
     },
     {
       "added_at": "2026-09-11 04:59:19",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-09-11 04:59:19",
       "album": {
-        "name": "Diciembre",
-        "url": "https://open.spotify.com/album/2CaTs90sNVNUxcNhVDfjzt"
-      },
-      "artists": [
-        {
-          "name": "Encarta 98",
-          "url": "https://open.spotify.com/artist/28Am1s75o5KAGaAwCQ22mv"
-        }
-      ],
-      "duration_ms": 278453,
-      "name": "Diciembre",
-      "url": "https://open.spotify.com/track/0HWHBcKEk8aT82oHLUJ1IE"
-    },
-    {
-      "added_at": "2026-09-11 04:59:19",
-      "album": {
         "name": "Todo Se Olvida",
         "url": "https://open.spotify.com/album/7IiH1HtllaGle5PNAgZDOU"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 272999,
       "name": "Todo Se Olvida",
       "url": "https://open.spotify.com/track/5picMImS7FTOFGovnF8YFg"
+    },
+    {
+      "added_at": "2026-09-11 04:59:19",
+      "album": {
+        "name": "Diciembre",
+        "url": "https://open.spotify.com/album/2CaTs90sNVNUxcNhVDfjzt"
+      },
+      "artists": [
+        {
+          "name": "Encarta 98",
+          "url": "https://open.spotify.com/artist/28Am1s75o5KAGaAwCQ22mv"
+        }
+      ],
+      "duration_ms": 278453,
+      "name": "Diciembre",
+      "url": "https://open.spotify.com/track/0HWHBcKEk8aT82oHLUJ1IE"
     },
     {
       "added_at": "2026-09-11 04:59:19",

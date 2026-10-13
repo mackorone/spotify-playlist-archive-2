@@ -1,6 +1,6 @@
 {
   "description": "Cozy Christmas jazz tunes for your shopping, wrapping, cooking, studying or relaxing.",
-  "num_followers": 38771,
+  "num_followers": 38775,
   "original_name": "Jazzy Christmas Chill\ud83c\udf84\u2728",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2025-12-19 14:32:05",
       "album": {
-        "name": "A Child Is Born",
-        "url": "https://open.spotify.com/album/5i3P1z4tgoe8qMFnsFG9Bb"
-      },
-      "artists": [
-        {
-          "name": "Hudson Harris & Haim",
-          "url": "https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV"
-        }
-      ],
-      "duration_ms": 140755,
-      "name": "Blue Christmas",
-      "url": "https://open.spotify.com/track/5Xsw49uHfrolDpzV1S0R3n"
-    },
-    {
-      "added_at": "2025-12-19 14:32:05",
-      "album": {
         "name": "When Christmas Comes To Town",
         "url": "https://open.spotify.com/album/3qGQQNK6A22LBRUmiO74fO"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 209259,
       "name": "When Christmas Comes To Town",
       "url": "https://open.spotify.com/track/5Z3ieIAxQzR7pMx8p9QLfV"
+    },
+    {
+      "added_at": "2025-12-19 14:32:05",
+      "album": {
+        "name": "A Child Is Born",
+        "url": "https://open.spotify.com/album/5i3P1z4tgoe8qMFnsFG9Bb"
+      },
+      "artists": [
+        {
+          "name": "Hudson Harris & Haim",
+          "url": "https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV"
+        }
+      ],
+      "duration_ms": 140755,
+      "name": "Blue Christmas",
+      "url": "https://open.spotify.com/track/5Xsw49uHfrolDpzV1S0R3n"
     },
     {
       "added_at": "2025-12-19 14:32:05",
@@ -555,22 +555,6 @@
     {
       "added_at": "2025-12-19 14:32:05",
       "album": {
-        "name": "Candy Canes and Silver Lanes",
-        "url": "https://open.spotify.com/album/7bBNCGA5mKWVHVBqoJPPXC"
-      },
-      "artists": [
-        {
-          "name": "Brandon's Three",
-          "url": "https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM"
-        }
-      ],
-      "duration_ms": 223151,
-      "name": "Candy Canes and Silver Lanes",
-      "url": "https://open.spotify.com/track/2q9XGPnpBqtHd0JnKN3tH6"
-    },
-    {
-      "added_at": "2025-12-19 14:32:05",
-      "album": {
         "name": "Meet Me Under the Mistletoe",
         "url": "https://open.spotify.com/album/7eWMP5eQSUrOKivRDD9rHc"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 204187,
       "name": "Meet Me Under the Mistletoe",
       "url": "https://open.spotify.com/track/39kbAYlQI8I9WA6j3YxKSD"
+    },
+    {
+      "added_at": "2025-12-19 14:32:05",
+      "album": {
+        "name": "Candy Canes and Silver Lanes",
+        "url": "https://open.spotify.com/album/7bBNCGA5mKWVHVBqoJPPXC"
+      },
+      "artists": [
+        {
+          "name": "Brandon's Three",
+          "url": "https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM"
+        }
+      ],
+      "duration_ms": 223151,
+      "name": "Candy Canes and Silver Lanes",
+      "url": "https://open.spotify.com/track/2q9XGPnpBqtHd0JnKN3tH6"
     },
     {
       "added_at": "2025-12-19 14:32:05",
@@ -667,22 +667,6 @@
     {
       "added_at": "2025-12-19 14:32:05",
       "album": {
-        "name": "O Tannenbaum",
-        "url": "https://open.spotify.com/album/0bUeT7ZJYJgnulpvq30EHN"
-      },
-      "artists": [
-        {
-          "name": "A Little Time",
-          "url": "https://open.spotify.com/artist/3GjKdKhPY5KYrtJaWe6xfR"
-        }
-      ],
-      "duration_ms": 123173,
-      "name": "O Tannenbaum",
-      "url": "https://open.spotify.com/track/0Qh82xyuVeCP8TU9LHZOk7"
-    },
-    {
-      "added_at": "2025-12-19 14:32:05",
-      "album": {
         "name": "The Boar's Head Carol",
         "url": "https://open.spotify.com/album/6KMnu9pR2hmYwBP3kDClYb"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 199315,
       "name": "The Boar's Head Carol",
       "url": "https://open.spotify.com/track/76MGFBv1q0lxsEE6p1Is7t"
+    },
+    {
+      "added_at": "2025-12-19 14:32:05",
+      "album": {
+        "name": "O Tannenbaum",
+        "url": "https://open.spotify.com/album/0bUeT7ZJYJgnulpvq30EHN"
+      },
+      "artists": [
+        {
+          "name": "A Little Time",
+          "url": "https://open.spotify.com/artist/3GjKdKhPY5KYrtJaWe6xfR"
+        }
+      ],
+      "duration_ms": 123173,
+      "name": "O Tannenbaum",
+      "url": "https://open.spotify.com/track/0Qh82xyuVeCP8TU9LHZOk7"
     },
     {
       "added_at": "2025-12-19 14:32:05",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2025-12-19 14:32:05",
       "album": {
-        "name": "Christmas Mood",
-        "url": "https://open.spotify.com/album/1prCYFqQV04mzRptYLm1pm"
-      },
-      "artists": [
-        {
-          "name": "Christopher Colman",
-          "url": "https://open.spotify.com/artist/1UxRQ4Luzf0P1b6zFjXk7N"
-        }
-      ],
-      "duration_ms": 206552,
-      "name": "The Ultimate Gift",
-      "url": "https://open.spotify.com/track/1VhZ2wkxATCvH9lwOHsgC0"
-    },
-    {
-      "added_at": "2025-12-19 14:32:05",
-      "album": {
         "name": "Holly Jolly Christmas",
         "url": "https://open.spotify.com/album/0AdbsAnET4JV9zsd9LTHDd"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 123000,
       "name": "Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/0quJINxC2EJafaaAFYA2sE"
+    },
+    {
+      "added_at": "2025-12-19 14:32:05",
+      "album": {
+        "name": "Christmas Mood",
+        "url": "https://open.spotify.com/album/1prCYFqQV04mzRptYLm1pm"
+      },
+      "artists": [
+        {
+          "name": "Christopher Colman",
+          "url": "https://open.spotify.com/artist/1UxRQ4Luzf0P1b6zFjXk7N"
+        }
+      ],
+      "duration_ms": 206552,
+      "name": "The Ultimate Gift",
+      "url": "https://open.spotify.com/track/1VhZ2wkxATCvH9lwOHsgC0"
     },
     {
       "added_at": "2025-12-19 14:32:05",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2025-12-19 14:32:05",
       "album": {
-        "name": "Ring in the Season",
-        "url": "https://open.spotify.com/album/01YBrLsmmRoqzu1r4rZnnB"
-      },
-      "artists": [
-        {
-          "name": "Otto Noir",
-          "url": "https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS"
-        }
-      ],
-      "duration_ms": 212781,
-      "name": "Ring in the Season",
-      "url": "https://open.spotify.com/track/4GSrxmvhvcW5ngrnDLYx2S"
-    },
-    {
-      "added_at": "2025-12-19 14:32:05",
-      "album": {
         "name": "Christmas Love",
         "url": "https://open.spotify.com/album/5STKuTbSZYWJxNinEf7Jua"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 193500,
       "name": "Christmas Love",
       "url": "https://open.spotify.com/track/2LW2VCbUjkyh67iX0KbEDF"
+    },
+    {
+      "added_at": "2025-12-19 14:32:05",
+      "album": {
+        "name": "Ring in the Season",
+        "url": "https://open.spotify.com/album/01YBrLsmmRoqzu1r4rZnnB"
+      },
+      "artists": [
+        {
+          "name": "Otto Noir",
+          "url": "https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS"
+        }
+      ],
+      "duration_ms": 212781,
+      "name": "Ring in the Season",
+      "url": "https://open.spotify.com/track/4GSrxmvhvcW5ngrnDLYx2S"
     },
     {
       "added_at": "2025-12-19 14:32:05",

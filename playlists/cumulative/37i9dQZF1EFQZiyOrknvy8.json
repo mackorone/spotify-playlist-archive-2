@@ -1143,6 +1143,24 @@
     },
     {
       "album": {
+        "name": "256th Note",
+        "url": "https://open.spotify.com/album/4gn5qA9UixpTwnP9Q0XKLW"
+      },
+      "artists": [
+        {
+          "name": "CLOSE YOUR EYES",
+          "url": "https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182640,
+      "name": "Drop That!",
+      "url": "https://open.spotify.com/track/0yIytxEHCvUcSCVRvwwXEi"
+    },
+    {
+      "album": {
         "name": "Drunk On You",
         "url": "https://open.spotify.com/album/7oAvImtminoHsBgJFgKgCd"
       },

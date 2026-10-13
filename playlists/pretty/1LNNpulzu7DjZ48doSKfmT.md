@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 478 likes - 431 songs - 22 hr 31 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 478 likes - 433 songs - 22 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -439,5 +439,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 429 | [September 1st \- Instrumental Version](https://open.spotify.com/track/0kFVihmhanzgytWCRaKEr2) | [DaMarcus VanBuren](https://open.spotify.com/artist/1cuEMktMYY9Dn4bBkjxCtb) | [VII.B.E.S \(Instrumental Versions\)](https://open.spotify.com/album/07scKbEPcpCNvOK3ryikiN) | 2:30 |
 | 430 | [Dime Que Puedo Hacer Sin Ti \- Remix](https://open.spotify.com/track/0WhxLpotzzMvKdF0HKpLcb) | [Dr\. Leo](https://open.spotify.com/artist/1KPjYNSnNtKiZXCyeDfuw5), [Bernal Villegas](https://open.spotify.com/artist/3odi1BKZOHNVgJ1fOpEkWM), [Melany Cubero](https://open.spotify.com/artist/4OrIEJHh24oAbE1evJRR7c) | [Dime Que Puedo Hacer Sin Ti \(Remix\)](https://open.spotify.com/album/1nSXeJ5KaW8cCFkjXQSgQe) | 6:38 |
 | 431 | [22 Settembre](https://open.spotify.com/track/3RficKMy181JNMFoV82XE8) | [Michele Blasco](https://open.spotify.com/artist/0LsldhiLiieaUY63tH9QfW) | [22 Settembre](https://open.spotify.com/album/2rPJTpAO6Fvwn7athS4Jxn) | 4:06 |
+| 432 | [Donner Party / Sadly Forgotten](https://open.spotify.com/track/4pCIv4vfwZdrDLix4rQDCq) | [Massey's Cross](https://open.spotify.com/artist/44srOgIHTKwyOBmWW1tqkQ) | [Unbroken After the Storm](https://open.spotify.com/album/7wsDt2Eqn8EXfE6W22o1Lo) | 6:25 |
+| 433 | [Kamli](https://open.spotify.com/track/6U4JgXC2GVDF1Wbz1O50VY) | [Komb](https://open.spotify.com/artist/3O5f9vEgwXavGPnB0dQUQc), [Maurya Sevak](https://open.spotify.com/artist/0xdqRvO8mc7jwRjfo4gqCs) | [Kamli](https://open.spotify.com/album/6On01aNRDqJP4JFv3LmQRQ) | 2:50 |
 
-Snapshot ID: `AAAeyGASAiBj7PJzPIvYARw+vdJ+j+B2`
+Snapshot ID: `AAAeygelRQlnfnA0I/aoNlf36tLemc4D`

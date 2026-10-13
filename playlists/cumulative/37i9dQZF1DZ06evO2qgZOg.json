@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "After The Storm",
+        "url": "https://open.spotify.com/album/1GE38CgvNGJMxgm5lAfyOs"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225866,
+      "name": "After The Storm",
+      "url": "https://open.spotify.com/track/4ChqapoSKR3dFwVJ36ScMS"
+    },
+    {
+      "album": {
         "name": "All That Matters",
         "url": "https://open.spotify.com/album/5bN0t7gKY1LAYMQJOPAqQt"
       },
@@ -248,7 +266,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 271933,
       "name": "Circus for a Psycho",
       "url": "https://open.spotify.com/track/3AhEF2J0fy33PdGYEkzqm2"
@@ -270,6 +288,24 @@
       "duration_ms": 230426,
       "name": "Comatose",
       "url": "https://open.spotify.com/track/5pRElcsPZrgZXkoON2o5Go"
+    },
+    {
+      "album": {
+        "name": "After The Storm",
+        "url": "https://open.spotify.com/album/1GE38CgvNGJMxgm5lAfyOs"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204133,
+      "name": "Come and Find Me",
+      "url": "https://open.spotify.com/track/53L67CGzWMjG91DPMZc5qH"
     },
     {
       "album": {
@@ -522,6 +558,24 @@
       "duration_ms": 238220,
       "name": "Happy Wedding Day (Alex's Song)",
       "url": "https://open.spotify.com/track/58XQjDbllqxicjzYxckU8K"
+    },
+    {
+      "album": {
+        "name": "After The Storm",
+        "url": "https://open.spotify.com/album/1GE38CgvNGJMxgm5lAfyOs"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226200,
+      "name": "Heaven Help Us",
+      "url": "https://open.spotify.com/track/0NT4gDp41RefSVTIvs0qom"
     },
     {
       "album": {
@@ -1098,7 +1152,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 257468,
       "name": "Standing in the Storm",
       "url": "https://open.spotify.com/track/72DI6pnhy26WMx7fI1fL07"
@@ -1452,7 +1506,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 197586,
       "name": "You Get Me High",
       "url": "https://open.spotify.com/track/4AapC5EaUVuL7LZojRPyGu"

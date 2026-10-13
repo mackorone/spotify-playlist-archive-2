@@ -4,7 +4,7 @@
 
 > Unwind to the real beauty of Instrumentals!
 
-150 songs - 11 hr 58 min
+151 songs - 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [For Tom](https://open.spotify.com/track/12SKOQnmgrFQogNZI9Lmld) | [Sanjay Divecha](https://open.spotify.com/artist/2Z68fPcM9qkmKpaBIFrVWJ), [Vasundhara Vee](https://open.spotify.com/artist/14O8IcSoBXHkWx7cp3UeR8) | [Leela](https://open.spotify.com/album/3VP9x8JTNS2oYFIT2VGQNa) | 4:35 | 2025-07-07 |  |
 | [Garden Lounge](https://open.spotify.com/track/5yYy5YAfL3KaheD5qlRAnp) | [Sharat Chandra Srivastava](https://open.spotify.com/artist/3CPeq5bCgG560Ixb2DcM8U) | [No Passport Control](https://open.spotify.com/album/3PJf1a7bCNUqdJSX28wb1I) | 9:42 | 2022-06-10 |  |
 | [Govind Bolo, Shri Krishna Govind \- Instrumental](https://open.spotify.com/track/51PKSVnXdhOKA9JD1Hs2UU) | [Ramachandra Murthy](https://open.spotify.com/artist/5qUWPR9NIfKM0SuXWgB736), [Phani Narayana](https://open.spotify.com/artist/5xbjAQJmDH4MyNh68NJ4U0) | [Divine Melodies \- The Greatest Devotional Instrumentals](https://open.spotify.com/album/2U2atbhUFumw0Q1ZIJXVMb) | 5:46 | 2022-06-10 |  |
+| [Grooveena](https://open.spotify.com/track/2ACOee4Cp7dh2P1K5xjDj9) | [Rajhesh Vaidhya](https://open.spotify.com/artist/4ymxXOXgxZVu5dDot8oXuL) | [Grooveena](https://open.spotify.com/album/3VIklQi7hvdCq3PLObLBoe) | 3:29 | 2026-10-12 |  |
 | [Haze](https://open.spotify.com/track/5tzJJvvmTxVf5D4hchXVu8) | [Shubh Saran](https://open.spotify.com/artist/2F9WG9ugzneeesOZfmQ18V) | [Hmayra](https://open.spotify.com/album/3ZqJ9lLpVNWNBxd3nV8TeY) | 6:04 | 2022-06-10 | 2023-08-20 |
 | [Hey 2020](https://open.spotify.com/track/4nVNpumEiHV7TrK2Y5d04E) | [Blackstratblues](https://open.spotify.com/artist/688Lauh0j7oRekX6qHHIp1) | [Hindsight Is 2020](https://open.spotify.com/album/4JqFv2qEGyJylss14D0BYM) | 2:57 | 2022-06-10 |  |
 | [Hues \(feat\. Seb Read & Sandeep Chowta\)](https://open.spotify.com/track/0T80o0Ah5dUVZMsX710Fn0) | [Abhay Nayampally](https://open.spotify.com/artist/6gMthCwlWiJ0dq7lvDitTa), [Sandeep Chowta](https://open.spotify.com/artist/4eqUmWQwI1nm86edvyGsXy), [Seb Read](https://open.spotify.com/artist/5IdebZbdwhXbLRj9dVVPOR) | [Abhay Nayampally](https://open.spotify.com/album/3IkUBDxwNCrjavADJMynrN) | 5:43 | 2022-06-10 | 2023-11-05 |
@@ -129,7 +130,7 @@
 | [So…Now Hear This](https://open.spotify.com/track/40HT4dMVbIY0TO1a0nqkOx) | [Abhay Nayampally](https://open.spotify.com/artist/6gMthCwlWiJ0dq7lvDitTa) | [Abhay Nayampally](https://open.spotify.com/album/0PHqvL0508Pp8PSESdRrih) | 5:09 | 2022-06-10 | 2025-10-03 |
 | [Space Trip](https://open.spotify.com/track/5TyiSv9gMv17EZw3LxDafv) | [Ketan Mohite](https://open.spotify.com/artist/0g8F74eyvNS6cgmGEoXrPA), [Yadhunandan Nagaraj](https://open.spotify.com/artist/5i1uUQMGXoNSVeNHpT2Zaf), [Rajeev Prasanna](https://open.spotify.com/artist/0cYYHB1dkwNq5FgcP6xZu2) | [Hope](https://open.spotify.com/album/6PVYVEqMnMn6QHZ0Vyh3XA) | 2:14 | 2022-06-10 |  |
 | [Strings of Serenity](https://open.spotify.com/track/4zK8HjRTipwsfWLQqS04A4) | [Mehtab Ali Niazi](https://open.spotify.com/artist/0VeyExXFhPsEQAqH9uyKWK), [Pratik Shrivastava](https://open.spotify.com/artist/2Qm0bUwXaOt9QtYz6kjkvl) | [Strings of Serenity](https://open.spotify.com/album/4MY9EVXf6y9UuDrGsXh85v) | 2:20 | 2023-12-28 |  |
-| [Suka \- Instrumental Version](https://open.spotify.com/track/03Z44Y3S9rpSWGOj8BPs4V) | [TED](https://open.spotify.com/artist/3vYuRADChTXexcQyHbIS0T), [Yohanan](https://open.spotify.com/artist/1ibksd4lv48ZNCu0tw2DMB) | [Pustaka: Origins \(Instrumental Version\)](https://open.spotify.com/album/44z0kwvLlh9vObWqbf1OSA) | 5:17 | 2022-06-10 |  |
+| [Suka \- Instrumental Version](https://open.spotify.com/track/03Z44Y3S9rpSWGOj8BPs4V) | [TED](https://open.spotify.com/artist/3vYuRADChTXexcQyHbIS0T), [Yohanan](https://open.spotify.com/artist/1ibksd4lv48ZNCu0tw2DMB) | [Pustaka: Origins \(Instrumental Version\)](https://open.spotify.com/album/44z0kwvLlh9vObWqbf1OSA) | 5:17 | 2022-06-10 | 2026-10-13 |
 | [Swan Song](https://open.spotify.com/track/75eOXZRhZza077pvj5dmK9) | [Neil Mukherjee](https://open.spotify.com/artist/3cR7HOfNj7hxOHFGPV6fUZ) | [Swan Song](https://open.spotify.com/album/6NTVsgQI5drqf97yKLFgnJ) | 4:02 | 2022-06-10 |  |
 | [Tabla Tonic](https://open.spotify.com/track/2JnxT8ITZQMbCdMbjtme0Q) | [Anuradha Pal](https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT) | [Tabla Tonic](https://open.spotify.com/album/7ege3FGyKO1IGmWgGAOdYK) | 3:23 | 2023-09-01 |  |
 | [Taj Mahal](https://open.spotify.com/track/4ar7UgwkIpRklX7ZXfKYUs) | [Nitin Sawhney](https://open.spotify.com/artist/5NCKpzuowtihcIrIHFjKbJ) | [The Namesake \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3nziFdCTmqxIlYl82Lz9UW) | 0:40 | 2022-06-10 | 2023-09-06 |

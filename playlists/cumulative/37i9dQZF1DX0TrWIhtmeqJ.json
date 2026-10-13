@@ -1506,7 +1506,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 161764,
       "name": "Fell Again",
       "url": "https://open.spotify.com/track/6S86CLAoA7S19wk8WeQjRs"
@@ -3673,6 +3673,24 @@
     },
     {
       "album": {
+        "name": "Shotta's.",
+        "url": "https://open.spotify.com/album/6z49RFUy6MNYlhMShZ6h4p"
+      },
+      "artists": [
+        {
+          "name": "Season 25",
+          "url": "https://open.spotify.com/artist/1WtceoonufhxRc6AnUSbat"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142613,
+      "name": "Shotta's.",
+      "url": "https://open.spotify.com/track/0M4R6G6junOgTJDccOEGHo"
+    },
+    {
+      "album": {
         "name": "ATTITUDE ERA!",
         "url": "https://open.spotify.com/album/0EvdpMkKgFSH9oz9SHIni5"
       },
@@ -5010,8 +5028,8 @@
       },
       "artists": [
         {
-          "name": "Len Lucci",
-          "url": "https://open.spotify.com/artist/4RFMoaKlMKR4HLjnM8NOia"
+          "name": "Len",
+          "url": "https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s"
         },
         {
           "name": "onoola-sama",

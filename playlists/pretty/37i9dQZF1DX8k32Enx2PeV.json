@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 17497,
+  "num_followers": 17503,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,26 @@
     {
       "added_at": "2026-10-09 04:59:21",
       "album": {
+        "name": "La Luna Me Dijo",
+        "url": "https://open.spotify.com/album/513fTyVwVc64UWDYAAUY0r"
+      },
+      "artists": [
+        {
+          "name": "Soley",
+          "url": "https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 157241,
+      "name": "La Luna Me Dijo",
+      "url": "https://open.spotify.com/track/356yogopiw8SyrRO6aXilZ"
+    },
+    {
+      "added_at": "2026-10-09 04:59:21",
+      "album": {
         "name": "Que Se Reporten",
         "url": "https://open.spotify.com/album/0MsTM8UKeN4EIfuHJO7IQs"
       },
@@ -799,22 +819,22 @@
     {
       "added_at": "2026-10-09 04:59:21",
       "album": {
-        "name": "La Luna Me Dijo",
-        "url": "https://open.spotify.com/album/513fTyVwVc64UWDYAAUY0r"
+        "name": "Pedacito de Playa (Remix)",
+        "url": "https://open.spotify.com/album/0imbRSXYfskLHqDOQ50E61"
       },
       "artists": [
         {
-          "name": "Soley",
-          "url": "https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs"
+          "name": "Fonseca",
+          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
         },
         {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+          "name": "Arg\u00fcello",
+          "url": "https://open.spotify.com/artist/6igd1VAlbbrTDCMFLXfcwy"
         }
       ],
-      "duration_ms": 157241,
-      "name": "La Luna Me Dijo",
-      "url": "https://open.spotify.com/track/356yogopiw8SyrRO6aXilZ"
+      "duration_ms": 197294,
+      "name": "Pedacito de Playa - Remix",
+      "url": "https://open.spotify.com/track/6tMkEfwBSGx32v2Pe04o7q"
     },
     {
       "added_at": "2026-10-09 04:59:21",
@@ -839,26 +859,6 @@
       "duration_ms": 240006,
       "name": "Belleza",
       "url": "https://open.spotify.com/track/1RCLBRAJc2iEDE8DTXHCxj"
-    },
-    {
-      "added_at": "2026-10-09 04:59:21",
-      "album": {
-        "name": "Pedacito de Playa (Remix)",
-        "url": "https://open.spotify.com/album/0imbRSXYfskLHqDOQ50E61"
-      },
-      "artists": [
-        {
-          "name": "Fonseca",
-          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
-        },
-        {
-          "name": "Arg\u00fcello",
-          "url": "https://open.spotify.com/artist/6igd1VAlbbrTDCMFLXfcwy"
-        }
-      ],
-      "duration_ms": 197294,
-      "name": "Pedacito de Playa - Remix",
-      "url": "https://open.spotify.com/track/6tMkEfwBSGx32v2Pe04o7q"
     },
     {
       "added_at": "2026-10-09 04:59:21",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2026-10-09 04:59:21",
       "album": {
+        "name": "Ojitos Chinos",
+        "url": "https://open.spotify.com/album/0zwvkTHUGRjbcWUDCXEkXk"
+      },
+      "artists": [
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "duration_ms": 141575,
+      "name": "Ojitos Chinos",
+      "url": "https://open.spotify.com/track/2HixgseTWGGRlziKcE1Cyh"
+    },
+    {
+      "added_at": "2026-10-09 04:59:21",
+      "album": {
         "name": "TE LO ADVERT\u00cd",
         "url": "https://open.spotify.com/album/3k5sKzriLrzq46FcLccPZK"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 199388,
       "name": "TE LO ADVERT\u00cd",
       "url": "https://open.spotify.com/track/65obf6PsnYTQk4votV4aA3"
-    },
-    {
-      "added_at": "2026-10-09 04:59:21",
-      "album": {
-        "name": "Ojitos Chinos",
-        "url": "https://open.spotify.com/album/0zwvkTHUGRjbcWUDCXEkXk"
-      },
-      "artists": [
-        {
-          "name": "DEKKO",
-          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
-        }
-      ],
-      "duration_ms": 141575,
-      "name": "Ojitos Chinos",
-      "url": "https://open.spotify.com/track/2HixgseTWGGRlziKcE1Cyh"
     },
     {
       "added_at": "2026-10-09 04:59:21",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2026-10-09 04:59:21",
       "album": {
-        "name": "Partycito",
-        "url": "https://open.spotify.com/album/28DHg1LteW1sdOMuJne9kk"
+        "name": "Nene",
+        "url": "https://open.spotify.com/album/0tgy5chY8udqVnwvAoFMBG"
       },
       "artists": [
         {
-          "name": "Nohaaddana",
-          "url": "https://open.spotify.com/artist/2w4vDNeEe7xccBqtBNjPcA"
+          "name": "Mit\u00fa",
+          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
         }
       ],
-      "duration_ms": 153786,
-      "name": "Partycito",
-      "url": "https://open.spotify.com/track/7hJMkJjzw4NcIq3pwmAbZl"
+      "duration_ms": 201700,
+      "name": "Nene",
+      "url": "https://open.spotify.com/track/4072ATOEodtwhvqNn6YZ40"
     },
     {
       "added_at": "2026-10-09 04:59:21",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2026-10-09 04:59:21",
       "album": {
-        "name": "Nene",
-        "url": "https://open.spotify.com/album/0tgy5chY8udqVnwvAoFMBG"
+        "name": "Partycito",
+        "url": "https://open.spotify.com/album/28DHg1LteW1sdOMuJne9kk"
       },
       "artists": [
         {
-          "name": "Mit\u00fa",
-          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
+          "name": "Nohaaddana",
+          "url": "https://open.spotify.com/artist/2w4vDNeEe7xccBqtBNjPcA"
         }
       ],
-      "duration_ms": 201700,
-      "name": "Nene",
-      "url": "https://open.spotify.com/track/4072ATOEodtwhvqNn6YZ40"
+      "duration_ms": 153786,
+      "name": "Partycito",
+      "url": "https://open.spotify.com/track/7hJMkJjzw4NcIq3pwmAbZl"
     },
     {
       "added_at": "2026-10-09 04:59:21",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2026-10-09 04:59:21",
       "album": {
+        "name": "Sol Y Lluvia",
+        "url": "https://open.spotify.com/album/7dvh8EBJFZLom05NRjmiH7"
+      },
+      "artists": [
+        {
+          "name": "Reyna Tropical",
+          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
+        }
+      ],
+      "duration_ms": 184925,
+      "name": "Como Fuego",
+      "url": "https://open.spotify.com/track/5DXL5uI0bfC5q1pBe5Qcwm"
+    },
+    {
+      "added_at": "2026-10-09 04:59:21",
+      "album": {
         "name": "Pailas Parcera",
         "url": "https://open.spotify.com/album/4dDvlsfbXQ8Gf1bOzlGCNH"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 188936,
       "name": "Pailas Parcera",
       "url": "https://open.spotify.com/track/7wadGShHx40m4EJGObdjyj"
-    },
-    {
-      "added_at": "2026-10-09 04:59:21",
-      "album": {
-        "name": "Sol Y Lluvia",
-        "url": "https://open.spotify.com/album/7dvh8EBJFZLom05NRjmiH7"
-      },
-      "artists": [
-        {
-          "name": "Reyna Tropical",
-          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
-        }
-      ],
-      "duration_ms": 184925,
-      "name": "Como Fuego",
-      "url": "https://open.spotify.com/track/5DXL5uI0bfC5q1pBe5Qcwm"
     },
     {
       "added_at": "2026-10-09 04:59:21",

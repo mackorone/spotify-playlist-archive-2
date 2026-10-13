@@ -868,7 +868,7 @@
       ],
       "date_added": "2026-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 196788,
       "name": "Coast 2 Coast",
       "url": "https://open.spotify.com/track/07gQQzhCuZxwHVQddKCmtD"
@@ -1256,7 +1256,7 @@
       ],
       "date_added": "2026-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-22",
+      "date_removed": null,
       "duration_ms": 199324,
       "name": "E A\u00ed Tempo",
       "url": "https://open.spotify.com/track/5iVvBRhx0gHgAVRk2eAQaK"
@@ -2420,7 +2420,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 201514,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/5VcRLtOGzG3YVFhntoJ57E"
@@ -2576,7 +2576,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 204754,
       "name": "Me Mata",
       "url": "https://open.spotify.com/track/2JPpLGuHXx66cKbSxVsI6B"
@@ -2612,7 +2612,7 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-22",
+      "date_removed": null,
       "duration_ms": 212309,
       "name": "Me Reh\u00faso",
       "url": "https://open.spotify.com/track/3ixd3roAc4Zlxejevskffz"
@@ -2909,6 +2909,24 @@
     },
     {
       "album": {
+        "name": "Oba",
+        "url": "https://open.spotify.com/album/4ZSrCQyf9f5ANeANi2QKjF"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171840,
+      "name": "Oba",
+      "url": "https://open.spotify.com/track/6ynQZ0WrQPhYfkGZGeTB3O"
+    },
+    {
+      "album": {
         "name": "Oh No",
         "url": "https://open.spotify.com/album/6brjejE4Fjrrv1IRq8SXvE"
       },
@@ -3040,7 +3058,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 185365,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/22CA8GnsXHYdTmuuF4ZGOb"
@@ -3214,7 +3232,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 177813,
       "name": "pop it",
       "url": "https://open.spotify.com/track/6WgpMdGrnVtbhff985Gjen"
@@ -3254,7 +3272,7 @@
       ],
       "date_added": "2026-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 149418,
       "name": "Postinho de Gasolina",
       "url": "https://open.spotify.com/track/6UZq14fcGEzuMvnryb02He"
@@ -3294,6 +3312,24 @@
       "duration_ms": 228550,
       "name": "Pure (Live) | Presented by Spotify",
       "url": "https://open.spotify.com/track/1qsvzrtLNBtdK413pJ51A8"
+    },
+    {
+      "album": {
+        "name": "Pvta Luna",
+        "url": "https://open.spotify.com/album/6shmO9ld9Wb5gNrzyoRJGQ"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197982,
+      "name": "Pvta Luna",
+      "url": "https://open.spotify.com/track/1zOjLMZbfWmfvYnfjts90x"
     },
     {
       "album": {
@@ -4157,6 +4193,24 @@
     },
     {
       "album": {
+        "name": "TRALALA",
+        "url": "https://open.spotify.com/album/5CLjc8hUUhq4Eoc6RLjXP9"
+      },
+      "artists": [
+        {
+          "name": "manifest",
+          "url": "https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229183,
+      "name": "TRALALA",
+      "url": "https://open.spotify.com/track/1DviBWXzR8j4JktAcHCAeT"
+    },
+    {
+      "album": {
         "name": "TU SANCHO",
         "url": "https://open.spotify.com/album/2GcbOw6CG4n17SIoOF5QHQ"
       },
@@ -4400,6 +4454,24 @@
       "duration_ms": 234651,
       "name": "You Belong With Me",
       "url": "https://open.spotify.com/track/3PK7gijh68pEcZO1TEDq2K"
+    },
+    {
+      "album": {
+        "name": "Zara Larsson - Live at Portola Music Festival 2026",
+        "url": "https://open.spotify.com/album/7b4x4VGx6rJZCfkwboc7i7"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199381,
+      "name": "Zara Larsson - Live at Portola Music Festival 2026",
+      "url": "https://open.spotify.com/track/4MjrrYxewQWeWnSmXrCAej"
     },
     {
       "album": {

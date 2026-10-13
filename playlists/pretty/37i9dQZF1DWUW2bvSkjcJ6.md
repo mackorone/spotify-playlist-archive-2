@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von girl in red, Troye Sivan, Sido, Montez, Marlon Hoffstadt, David Guetta & vielen mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 935,843 likes - 79 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 935,783 likes - 79 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 47 | [Unlike You](https://open.spotify.com/track/6e9Cu6KNAimXTlhuDNAWc7) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Still Somewhere Here](https://open.spotify.com/album/1109HrTid5HIXWEFPHKpAh) | 3:54 |
 | 48 | [Ghosts](https://open.spotify.com/track/0KBaCuTluuswEN4ZQs30Gn) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Ghosts](https://open.spotify.com/album/5dchb4R4CXlOSpO0Tw2NMQ) | 3:46 |
 | 49 | [wenigstens für jetzt](https://open.spotify.com/track/0pbdMK8Pix2NfRSkbTVZ72) | [Mika Noé](https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9) | [wenigstens für jetzt](https://open.spotify.com/album/5Pq4onkgUufE1MH3PAXQjH) | 2:26 |
-| 50 | [MANTRAS \- Demo](https://open.spotify.com/track/0Pyn5g5dnmHxRp6cL2uduO) | [Eli Preiss](https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID) | [\(Selbst\)bewusst Deluxe](https://open.spotify.com/album/7kQF1a39e7nczlyu6pCry9) | 1:57 |
+| 50 | [MANTRAS \(Demo\)](https://open.spotify.com/track/0Pyn5g5dnmHxRp6cL2uduO) | [Eli Preiss](https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID) | [\(Selbst\)bewusst Deluxe](https://open.spotify.com/album/7kQF1a39e7nczlyu6pCry9) | 1:57 |
 | 51 | [Cold](https://open.spotify.com/track/1AFF0ITCSnyFfnCa4gvB9M) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564), [Jeannel](https://open.spotify.com/artist/69kqP1mHMwDajWdU2XKZLZ) | [Cold](https://open.spotify.com/album/4Fuz9hNtZGdHExeggwFeha) | 4:10 |
 | 52 | [Goodwife](https://open.spotify.com/track/7eWj1RD9as5EZjjevoxSXg) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [Goodwife](https://open.spotify.com/album/35e4s1PKAh8iwiRWmqg978) | 4:10 |
 | 53 | [Every Night \(feat\. Don Toliver\)](https://open.spotify.com/track/3BDhcu7pO83YKd7W80498k) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Every Night \(feat\. Don Toliver\)](https://open.spotify.com/album/7xE4Kautja5zGPN1GOwKQT) | 2:44 |

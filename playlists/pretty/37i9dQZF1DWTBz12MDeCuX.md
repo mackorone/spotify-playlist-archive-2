@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Morpheuz
 
-[Spotify](https://open.spotify.com/user/spotify) - 474,989 likes - 100 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 474,956 likes - 100 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 3 | [Abgrundtief](https://open.spotify.com/track/4nRWsLmxvGd7b9Upm6OSfC) | [Morpheuz](https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf) | [Abgrundtief](https://open.spotify.com/album/1vaxpMBXPIXb1AgQkte6sd) | 3:17 |
 | 4 | [fliegen](https://open.spotify.com/track/2NYJv15WMhGbFN7L6CQQWi) | [VICKY](https://open.spotify.com/artist/7JJqR4GbZwWeUMkRGAk0Va), [GX488](https://open.spotify.com/artist/2vejmZVbfJvdE4xepeUqVa) | [fliegen](https://open.spotify.com/album/1GdGfvTaKumEUV2rXemugH) | 2:37 |
 | 5 | [Küss mich \- Ivo Martin x Techno Mix](https://open.spotify.com/track/1kEZGwMkrDH2enK3Vh9DNU) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE) | [Küss mich \(Ivo Martin x Techno Mix\)](https://open.spotify.com/album/4kIYJzc4kN2W8jxEsYs7zd) | 2:20 |
-| 6 | [MANTRAS \- Demo](https://open.spotify.com/track/0Pyn5g5dnmHxRp6cL2uduO) | [Eli Preiss](https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID) | [\(Selbst\)bewusst Deluxe](https://open.spotify.com/album/7kQF1a39e7nczlyu6pCry9) | 1:57 |
+| 6 | [MANTRAS \(Demo\)](https://open.spotify.com/track/0Pyn5g5dnmHxRp6cL2uduO) | [Eli Preiss](https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID) | [\(Selbst\)bewusst Deluxe](https://open.spotify.com/album/7kQF1a39e7nczlyu6pCry9) | 1:57 |
 | 7 | [traum](https://open.spotify.com/track/4rJ7Mu1pTf7XGyvX08VBmM) | [Hank](https://open.spotify.com/artist/1OZz0inGRhM1MojienwKeN) | [traum](https://open.spotify.com/album/510TUxmx6oG5bd3MUwN4an) | 2:10 |
 | 8 | [Cry Baby Cry](https://open.spotify.com/track/78MVrtGTJQXI3dRDOugoMG) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Cry Baby Cry](https://open.spotify.com/album/6iIBPT7er93Tii1o764t7j) | 3:08 |
 | 9 | [Von hier an blind](https://open.spotify.com/track/2LQZNpXsR6hzsuAz7ROfbP) | [Wir sind Helden](https://open.spotify.com/artist/3jiOHVFdVQjbSDVeC7RgY7) | [Wir sind Helden](https://open.spotify.com/album/6yor2VVRMYFnRz2JmtmpND) | 3:31 |

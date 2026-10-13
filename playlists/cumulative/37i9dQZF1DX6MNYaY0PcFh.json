@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound. Cover: Diffrent",
+  "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound. Cover: Interplanetary Criminal",
   "name": "New UK Garage",
   "tracks": [
     {
@@ -96,7 +96,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 196911,
       "name": "90S",
       "url": "https://open.spotify.com/track/0oMUKpzLniw9wYY2XszdZG"
@@ -1452,7 +1452,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 209523,
       "name": "Clueless",
       "url": "https://open.spotify.com/track/6MWJ2DehSpjVcbEPBcWt6c"
@@ -1744,7 +1744,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 238297,
       "name": "DARWIN",
       "url": "https://open.spotify.com/track/24caY3L0inVduxmvqNfrzj"
@@ -4135,6 +4135,24 @@
     },
     {
       "album": {
+        "name": "Jack",
+        "url": "https://open.spotify.com/album/5fd7Bbll6brWIycpuCcrYP"
+      },
+      "artists": [
+        {
+          "name": "GHSTGHSTGHST",
+          "url": "https://open.spotify.com/artist/3SrkcdnKx2kzCHGFk9xE48"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157287,
+      "name": "Jack",
+      "url": "https://open.spotify.com/track/54UKy8h5G8wsbvTEmlJzPI"
+    },
+    {
+      "album": {
         "name": "JOY (By My Side)",
         "url": "https://open.spotify.com/album/1pTMDMH44oAjkBArRruE3g"
       },
@@ -4679,6 +4697,24 @@
     },
     {
       "album": {
+        "name": "Lock Off",
+        "url": "https://open.spotify.com/album/26l6Jkp5eDrblVQ7T1I8F8"
+      },
+      "artists": [
+        {
+          "name": "IN PARALLEL",
+          "url": "https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160446,
+      "name": "Lock Off",
+      "url": "https://open.spotify.com/track/4mlIb7yCPMoYcqNreirfPB"
+    },
+    {
+      "album": {
         "name": "Lola",
         "url": "https://open.spotify.com/album/6l1M4X2wod3t8TRskGOtYH"
       },
@@ -5129,6 +5165,46 @@
     },
     {
       "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/7iva1QVtX8yUQOzR2ysAVj"
+      },
+      "artists": [
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284420,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/1wyzwFsSpEh65mQqApmd7o"
+    },
+    {
+      "album": {
+        "name": "Mi Ah Seh (feat. Logan_olm)",
+        "url": "https://open.spotify.com/album/5XBXYkOk6HxcrsBWoC7Zeh"
+      },
+      "artists": [
+        {
+          "name": "DJ Jackum",
+          "url": "https://open.spotify.com/artist/0d44JahSUHqjM6UTn1y8IX"
+        },
+        {
+          "name": "Logan_olm",
+          "url": "https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169846,
+      "name": "Mi Ah Seh (feat. Logan_olm)",
+      "url": "https://open.spotify.com/track/3AP4w0E8T5APHnprogFZe3"
+    },
+    {
+      "album": {
         "name": "Microdosing (Conducta Remix)",
         "url": "https://open.spotify.com/album/52r0BbElKJLiF59usacC0A"
       },
@@ -5338,7 +5414,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 200571,
       "name": "Motion Sickness",
       "url": "https://open.spotify.com/track/1XWmqyDgC9pZfAjkgMmj18"
@@ -5450,7 +5526,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 146893,
       "name": "Naughties",
       "url": "https://open.spotify.com/track/7zzQAlN6An9YQfIK7KT8DP"
@@ -5942,6 +6018,28 @@
       "duration_ms": 154074,
       "name": "One To Leave",
       "url": "https://open.spotify.com/track/5TStZRNSWIbAfqkXJkTFi6"
+    },
+    {
+      "album": {
+        "name": "Onez 'N' Twoz",
+        "url": "https://open.spotify.com/album/6JKTaFE5CKoHdziFV3GPCa"
+      },
+      "artists": [
+        {
+          "name": "hiRobbie",
+          "url": "https://open.spotify.com/artist/6zn04HXbz1t5qFIpOeyjZi"
+        },
+        {
+          "name": "Seah",
+          "url": "https://open.spotify.com/artist/1TpMVu71X4YNKNi7E1HBNO"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232727,
+      "name": "Onez 'N' Twoz",
+      "url": "https://open.spotify.com/track/6rQ6unyRT9lQdKUeqbI3Nd"
     },
     {
       "album": {
@@ -6870,7 +6968,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 128283,
       "name": "Renegade (Power To The People)",
       "url": "https://open.spotify.com/track/5Noo993fLRchdzg2OUYOR2"
@@ -7342,6 +7440,24 @@
       "duration_ms": 163972,
       "name": "Sirens",
       "url": "https://open.spotify.com/track/0C5yZEXslHsoIQ3BWijgOQ"
+    },
+    {
+      "album": {
+        "name": "SLICK",
+        "url": "https://open.spotify.com/album/31UUFOxBCeT87WM9Lh3Gky"
+      },
+      "artists": [
+        {
+          "name": "ANIMATE",
+          "url": "https://open.spotify.com/artist/6YzhVTqCwOWYet9QLi2Kbs"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194558,
+      "name": "SLICK",
+      "url": "https://open.spotify.com/track/6vzBjc6Ea6EkPwfNwgMUUx"
     },
     {
       "album": {

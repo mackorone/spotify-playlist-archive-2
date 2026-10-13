@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [&Run](https://open.spotify.com/track/0w4m3Xp4svlIoyL94Zjlyd) | [Sir Sly](https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue) | [Don't You Worry, Honey](https://open.spotify.com/album/5VvCD7gVffRgdPfExxLfF4) | 3:46 | 2026-06-05 |  |
+| [&Run](https://open.spotify.com/track/0w4m3Xp4svlIoyL94Zjlyd) | [Sir Sly](https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue) | [Don't You Worry, Honey](https://open.spotify.com/album/5VvCD7gVffRgdPfExxLfF4) | 3:46 | 2026-06-05 | 2026-10-13 |
 | [1517](https://open.spotify.com/track/3l9zGL9JXEOyH5fHEDMoaC) | [The Whitest Boy Alive](https://open.spotify.com/artist/1qcU8NabUQ5efQf8UGW6CV) | [Rules](https://open.spotify.com/album/3wE1kEIg3a0W6CVuHLCpR6) | 3:41 | 2026-06-26 | 2026-07-04 |
 | [16 Years](https://open.spotify.com/track/3BWbj5NXUgr0hK7PmFSI9D) | [The Griswolds](https://open.spotify.com/artist/3nUbzTTtP2w4HqvT5y5vkV) | [Be Impressive](https://open.spotify.com/album/159cL7XcdoUldPCCy6JlfB) | 3:45 | 2022-11-07 | 2024-04-19 |
 | [16 Years](https://open.spotify.com/track/3GncyQAqKMwlSVhyM31Lsu) | [The Griswolds](https://open.spotify.com/artist/3nUbzTTtP2w4HqvT5y5vkV) | [Be Impressive](https://open.spotify.com/album/689bhllQWGeODWheOb9Ejt) | 3:45 | 2022-11-07 | 2026-06-06 |
@@ -187,7 +187,7 @@
 | [Levanta e Anda](https://open.spotify.com/track/7d8sqXhIwIJltlGHL47ASh) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [O Glorioso Retorno de Quem Nunca Esteve Aqui](https://open.spotify.com/album/3NOxGBXC0ZvKaH7ZybX7Cp) | 2:30 | 2022-11-07 | 2026-06-06 |
 | [Levanta e Anda](https://open.spotify.com/track/2YEBWxw7dXdmYFM4VqR3p1) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [O Glorioso Retorno de Quem Nunca Esteve Aqui](https://open.spotify.com/album/4UqGzHq5gbqDhFI27IPVd2) | 2:30 | 2022-11-07 | 2022-11-13 |
 | [Levanta e Anda](https://open.spotify.com/track/0JSux25Te5HYMSr2D64d02) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [O Glorioso Retorno de Quem Nunca Esteve Aqui](https://open.spotify.com/album/57PWjWHzqzODblomXxnQca) | 2:30 | 2022-11-07 | 2026-06-27 |
-| [like JENNIE](https://open.spotify.com/track/6nWWuodRc3aJS7aLrflaqF) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/4gBtLWLja2rOze5SknGdUZ) | 2:03 | 2026-06-05 | 2026-10-11 |
+| [like JENNIE](https://open.spotify.com/track/6nWWuodRc3aJS7aLrflaqF) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/4gBtLWLja2rOze5SknGdUZ) | 2:03 | 2026-06-05 |  |
 | [Lil Ze](https://open.spotify.com/track/1ZwjorzjJ36qg87Fhhn5Et) | [Jevon](https://open.spotify.com/artist/1cwNKCIuq12wLqAAsC1Zyi) | [Fell In Love In Brasil](https://open.spotify.com/album/3UBUrbE23Ad7Kjy2E09UNx) | 2:40 | 2026-06-19 | 2026-06-27 |
 | [Live in the Moment](https://open.spotify.com/track/60eOMEt3WNVX1m1jmApmnX) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Woodstock](https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB) | 4:06 | 2022-11-07 |  |
 | [Lloret de Mar](https://open.spotify.com/track/4S78rQHd6cSC8g2TfdNJTf) | [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id) | [Lloret de Mar](https://open.spotify.com/album/6umGWX7xQ0WgIDeZFsFFYX) | 2:05 | 2026-06-05 | 2026-09-11 |

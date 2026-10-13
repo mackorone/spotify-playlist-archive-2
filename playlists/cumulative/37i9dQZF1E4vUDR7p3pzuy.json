@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With JUST LIZZY, Ursula, DIE DIE BE and more",
+  "description": "With JUST LIZZY, Ursula, Evil Level Live and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -204,6 +204,24 @@
       "duration_ms": 72678,
       "name": "???",
       "url": "https://open.spotify.com/track/2QyxzIl4U4jGoHdIPbBjwx"
+    },
+    {
+      "album": {
+        "name": "AB Positive",
+        "url": "https://open.spotify.com/album/2dMKvqeX8YYpthCIXWtr3B"
+      },
+      "artists": [
+        {
+          "name": "NUDNIK",
+          "url": "https://open.spotify.com/artist/6wXx613GPctyfnNcbRn3p0"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224253,
+      "name": "A Capricorn Dog",
+      "url": "https://open.spotify.com/track/0wREo90Y2efzFE0wCHXJMG"
     },
     {
       "album": {
@@ -749,6 +767,24 @@
     },
     {
       "album": {
+        "name": "Alexandria",
+        "url": "https://open.spotify.com/album/4yJCjkI55JkrQYLWXAaLed"
+      },
+      "artists": [
+        {
+          "name": "Medivh",
+          "url": "https://open.spotify.com/artist/6H43kafh75INiZoNU3X8Dw"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185093,
+      "name": "Alexandria",
+      "url": "https://open.spotify.com/track/6uIFzWkJHnTqm1BhimX5v9"
+    },
+    {
+      "album": {
         "name": "All I Am Is Bleeding",
         "url": "https://open.spotify.com/album/1LEz1vQxn2IAnffaOUdxhC"
       },
@@ -822,7 +858,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 264441,
       "name": "All the Things I Could've Done",
       "url": "https://open.spotify.com/track/3lBB3QBBf8Sv0EJ3hBLYqv"
@@ -956,6 +992,24 @@
       "duration_ms": 220190,
       "name": "AM PM",
       "url": "https://open.spotify.com/track/5bcq3tfrM2lerLrGqpLqBJ"
+    },
+    {
+      "album": {
+        "name": "Amber Traces",
+        "url": "https://open.spotify.com/album/7ECLjAxCnoFU4x1CYZP2mw"
+      },
+      "artists": [
+        {
+          "name": "Monroe & She",
+          "url": "https://open.spotify.com/artist/01EaxB14HZHyJNGZQJoq0c"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216409,
+      "name": "Amber Traces",
+      "url": "https://open.spotify.com/track/5zWg5b2MpatEbh0NjuyQok"
     },
     {
       "album": {
@@ -1332,7 +1386,7 @@
       ],
       "date_added": "2026-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-12",
+      "date_removed": null,
       "duration_ms": 229875,
       "name": "Ashes",
       "url": "https://open.spotify.com/track/3YiTA333q4lr1k8M6M43IK"
@@ -2740,7 +2794,7 @@
       ],
       "date_added": "2026-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 219024,
       "name": "Broken Picasso (A Very British Protest)",
       "url": "https://open.spotify.com/track/3zDIxb2YHxCrxu5ObouenM"
@@ -6540,7 +6594,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 216000,
       "name": "EVERY VILLAIN NEEDS ONE IN THEIR OWN STORY",
       "url": "https://open.spotify.com/track/4GrVW9RnOSfJOvrxMoPcYl"
@@ -7844,7 +7898,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 362238,
       "name": "Full Moon Raging",
       "url": "https://open.spotify.com/track/5q4QoW7xycpvTn2rYAsWGY"
@@ -8492,7 +8546,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-30",
+      "date_removed": null,
       "duration_ms": 183500,
       "name": "Half the Glass",
       "url": "https://open.spotify.com/track/6e9AiR1hqiJ6x9PCFMFRuK"
@@ -8662,7 +8716,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 237600,
       "name": "Haunted Ballroom",
       "url": "https://open.spotify.com/track/1smUjiafyUGlnbLRY1jPww"
@@ -10326,7 +10380,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 249716,
       "name": "Indigo",
       "url": "https://open.spotify.com/track/0HuanearWSgH1HshtDDHZY"
@@ -10658,7 +10712,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 138705,
       "name": "is it enough?",
       "url": "https://open.spotify.com/track/6vMWHxbtL2u34lk510XQv3"
@@ -10766,7 +10820,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-12",
+      "date_removed": null,
       "duration_ms": 145838,
       "name": "It Is, Is It?",
       "url": "https://open.spotify.com/track/12suIX22O7suMz8l37riiP"
@@ -11972,7 +12026,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-10",
+      "date_removed": null,
       "duration_ms": 234127,
       "name": "Letters for the Burn Pile",
       "url": "https://open.spotify.com/track/2wYqr5nlTud45QCwYYoXpv"
@@ -12062,7 +12116,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 262226,
       "name": "Life on a chain",
       "url": "https://open.spotify.com/track/5H0c1YApnVuiXwXxHPDQIO"
@@ -12722,7 +12776,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 216784,
       "name": "Lucretia My Reflection",
       "url": "https://open.spotify.com/track/3AmX0Kkj3GcFum0zY0jP9m"
@@ -13726,7 +13780,7 @@
       ],
       "date_added": "2026-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-28",
+      "date_removed": null,
       "duration_ms": 207353,
       "name": "Mother!",
       "url": "https://open.spotify.com/track/7KvGtDkWfirXEpBPOG9QEv"
@@ -14881,6 +14935,28 @@
     },
     {
       "album": {
+        "name": "Outer Dark",
+        "url": "https://open.spotify.com/album/1gKoclJO1Kr1Jgz6ZCtd3E"
+      },
+      "artists": [
+        {
+          "name": "Tyler Bates",
+          "url": "https://open.spotify.com/artist/75fIuwXxhZ1atNzWLMrgF0"
+        },
+        {
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249225,
+      "name": "Outer Dark",
+      "url": "https://open.spotify.com/track/0izhUoYunRoNPSJu3aVwuz"
+    },
+    {
+      "album": {
         "name": "cl\u00e2m",
         "url": "https://open.spotify.com/album/1FJ1RT3BovxzqGs9BzEb1s"
       },
@@ -15061,6 +15137,24 @@
     },
     {
       "album": {
+        "name": "Pain of Us",
+        "url": "https://open.spotify.com/album/6LqIpDRV3T0gPofWUTqJff"
+      },
+      "artists": [
+        {
+          "name": "LTMAA",
+          "url": "https://open.spotify.com/artist/0QwAVO25Ccedtc36CmTFgH"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262423,
+      "name": "Pain of Us",
+      "url": "https://open.spotify.com/track/4AwKcI9Tfk4SgWnKBhG6so"
+    },
+    {
+      "album": {
         "name": "Paradise Lost",
         "url": "https://open.spotify.com/album/5DILirIotY5WlctbmGFD0V"
       },
@@ -15202,6 +15296,24 @@
       "duration_ms": 293750,
       "name": "Perfume Well",
       "url": "https://open.spotify.com/track/5rjUPdlJ02ARcI8izdrc4S"
+    },
+    {
+      "album": {
+        "name": "Persephone's Sister",
+        "url": "https://open.spotify.com/album/0E9NQKNoYOfwLsJlcvn1Ls"
+      },
+      "artists": [
+        {
+          "name": "Take Me With You",
+          "url": "https://open.spotify.com/artist/2VbSBFsebuuiRAO0tH9uwQ"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222439,
+      "name": "Persephone's Sister",
+      "url": "https://open.spotify.com/track/1FcBLISw3NmxAcdPZqg7k8"
     },
     {
       "album": {
@@ -15564,7 +15676,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 253978,
       "name": "pridefool",
       "url": "https://open.spotify.com/track/1fHnQvB8Hhz5hC7dzBqecu"
@@ -15976,7 +16088,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 280753,
       "name": "Reel",
       "url": "https://open.spotify.com/track/5Q7Dutrz0XqXSMsCLcax5n"
@@ -16012,7 +16124,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-13",
+      "date_removed": null,
       "duration_ms": 178205,
       "name": "Reishi (Dark Forest Mix)",
       "url": "https://open.spotify.com/track/1DmqcIAhNDjZWAkQiSnQkp"
@@ -16784,7 +16896,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 169176,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/6qN7Qb4ilAhYjMFVrHsjNY"
@@ -18996,7 +19108,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 302112,
       "name": "Strong Enough",
       "url": "https://open.spotify.com/track/0roS1g287szeaSfFXh9Vje"
@@ -19466,7 +19578,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-12",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "Take A Bow",
       "url": "https://open.spotify.com/track/5V10D0PxNgH98EpqRMXxxw"
@@ -20006,7 +20118,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 289093,
       "name": "The Dark of Light",
       "url": "https://open.spotify.com/track/505s5auBD7triJ8I36BI37"
@@ -20204,7 +20316,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 199083,
       "name": "The Fear of Missing Out",
       "url": "https://open.spotify.com/track/5lbRoMEzZmt351oTJVRXw5"
@@ -21802,7 +21914,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 197570,
       "name": "Totality",
       "url": "https://open.spotify.com/track/1wmjBBrwY2oTn0wat6PLBL"
@@ -21910,7 +22022,7 @@
       ],
       "date_added": "2026-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 244000,
       "name": "Triple Sized Cocktail",
       "url": "https://open.spotify.com/track/5bNWG72kk0iq7ZXPtQi0LA"
@@ -23102,7 +23214,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-11",
+      "date_removed": null,
       "duration_ms": 185499,
       "name": "War Zone",
       "url": "https://open.spotify.com/track/5xSTOK4FEXiBeRji0zFx61"
@@ -23692,6 +23804,24 @@
       "duration_ms": 220952,
       "name": "Where Is My Head",
       "url": "https://open.spotify.com/track/7iPS23vxN3mgUyjXsPFfcM"
+    },
+    {
+      "album": {
+        "name": "where is the sign",
+        "url": "https://open.spotify.com/album/42n5P6Y9sCKJk4meo7oBpN"
+      },
+      "artists": [
+        {
+          "name": "Oblivyus",
+          "url": "https://open.spotify.com/artist/4SJZ4N7pzgJlTEqITA8XVz"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151876,
+      "name": "where is the sign",
+      "url": "https://open.spotify.com/track/0t3jA9lPbkAXrGgs6J7FYg"
     },
     {
       "album": {

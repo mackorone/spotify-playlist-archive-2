@@ -1,6 +1,6 @@
 {
   "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: YESUNG) \uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
-  "num_followers": 414186,
+  "num_followers": 414165,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,6 @@
     {
       "added_at": "2026-10-06 09:03:33",
       "album": {
-        "name": "Panorama : The Best of TAEYEON",
-        "url": "https://open.spotify.com/album/0ALRDKNI0rnUcwQKMsEbyg"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Panorama",
-      "url": "https://open.spotify.com/track/6aj9Cf3LDG3zehyw3qJyRu"
-    },
-    {
-      "added_at": "2026-10-06 09:03:33",
-      "album": {
         "name": "\ucc98\uc74c\ucc98\ub7fc",
         "url": "https://open.spotify.com/album/2Pgvz4Apdr3ORROIaW2ZdH"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 239480,
       "name": "\ub0b4\uac8c \uc624\ub294 \uae38 - Bonus Track",
       "url": "https://open.spotify.com/track/5rfOHC8IMqyvqAi4TUrnsn"
+    },
+    {
+      "added_at": "2026-10-06 09:03:33",
+      "album": {
+        "name": "Panorama : The Best of TAEYEON",
+        "url": "https://open.spotify.com/album/0ALRDKNI0rnUcwQKMsEbyg"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Panorama",
+      "url": "https://open.spotify.com/track/6aj9Cf3LDG3zehyw3qJyRu"
     },
     {
       "added_at": "2026-10-06 09:03:33",
@@ -539,6 +539,22 @@
     {
       "added_at": "2026-10-06 09:03:33",
       "album": {
+        "name": "Go Back",
+        "url": "https://open.spotify.com/album/2CpY4FJ5OJlN1NAhQs5EsE"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Go Back",
+      "url": "https://open.spotify.com/track/4SQH8x0PnOqEWWgbAlXIXJ"
+    },
+    {
+      "added_at": "2026-10-06 09:03:33",
+      "album": {
         "name": "Through the Night",
         "url": "https://open.spotify.com/album/1zQnkQc68sQj2Ns5GIuxld"
       },
@@ -571,22 +587,6 @@
     {
       "added_at": "2026-10-06 09:03:33",
       "album": {
-        "name": "Go Back",
-        "url": "https://open.spotify.com/album/2CpY4FJ5OJlN1NAhQs5EsE"
-      },
-      "artists": [
-        {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Go Back",
-      "url": "https://open.spotify.com/track/4SQH8x0PnOqEWWgbAlXIXJ"
-    },
-    {
-      "added_at": "2026-10-06 09:03:33",
-      "album": {
         "name": "\ucc9c\uad6d\uc758 \uacc4\ub2e8 OST",
         "url": "https://open.spotify.com/album/5uZtiEhZmVROQk8dsiOrwq"
       },
@@ -599,22 +599,6 @@
       "duration_ms": 244128,
       "name": "\ubcf4\uace0\uc2f6\ub2e4",
       "url": "https://open.spotify.com/track/4i39vkBJzBnYvBMua65Rwi"
-    },
-    {
-      "added_at": "2026-10-06 09:03:33",
-      "album": {
-        "name": "Summer, I",
-        "url": "https://open.spotify.com/album/5l7WQaKkWSyj9kR6NnqtEU"
-      },
-      "artists": [
-        {
-          "name": "JEONG EUN JI",
-          "url": "https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "i love LOVE",
-      "url": "https://open.spotify.com/track/5rkbfBD7Na0dYrcxZGqRO3"
     },
     {
       "added_at": "2026-10-06 09:03:33",
@@ -635,6 +619,22 @@
     {
       "added_at": "2026-10-06 09:03:33",
       "album": {
+        "name": "Summer, I",
+        "url": "https://open.spotify.com/album/5l7WQaKkWSyj9kR6NnqtEU"
+      },
+      "artists": [
+        {
+          "name": "JEONG EUN JI",
+          "url": "https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "i love LOVE",
+      "url": "https://open.spotify.com/track/5rkbfBD7Na0dYrcxZGqRO3"
+    },
+    {
+      "added_at": "2026-10-06 09:03:33",
+      "album": {
         "name": "Yesterday",
         "url": "https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT"
       },
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-10-06 09:03:33",
       "album": {
-        "name": "Dandelion",
-        "url": "https://open.spotify.com/album/5FvhtKgxtrYHULhgdwPTDO"
-      },
-      "artists": [
-        {
-          "name": "SEUNGKWAN",
-          "url": "https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6"
-        }
-      ],
-      "duration_ms": 274400,
-      "name": "Dandelion",
-      "url": "https://open.spotify.com/track/6Gxl4O8CQIHsYPlCMnimG7"
-    },
-    {
-      "added_at": "2026-10-06 09:03:33",
-      "album": {
         "name": "I Will",
         "url": "https://open.spotify.com/album/71sCwkDMfhICitl4Rt5JCt"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 233813,
       "name": "I Will",
       "url": "https://open.spotify.com/track/1FkEJePjsSTZNJbrxd2BhI"
+    },
+    {
+      "added_at": "2026-10-06 09:03:33",
+      "album": {
+        "name": "Dandelion",
+        "url": "https://open.spotify.com/album/5FvhtKgxtrYHULhgdwPTDO"
+      },
+      "artists": [
+        {
+          "name": "SEUNGKWAN",
+          "url": "https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6"
+        }
+      ],
+      "duration_ms": 274400,
+      "name": "Dandelion",
+      "url": "https://open.spotify.com/track/6Gxl4O8CQIHsYPlCMnimG7"
     },
     {
       "added_at": "2026-10-06 09:03:33",
@@ -835,18 +835,22 @@
     {
       "added_at": "2026-10-06 09:03:33",
       "album": {
-        "name": "Arcadia",
-        "url": "https://open.spotify.com/album/2FHD4nJJF6KBh5fVPRvYEO"
+        "name": "Officially Cool",
+        "url": "https://open.spotify.com/album/7ak1PBCmrVLvOANEenebe9"
       },
       "artists": [
         {
-          "name": "CHEN",
-          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
+          "name": "BANG YEDAM",
+          "url": "https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X"
+        },
+        {
+          "name": "WINTER",
+          "url": "https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI"
         }
       ],
-      "duration_ms": 170000,
-      "name": "Arcadia",
-      "url": "https://open.spotify.com/track/3idsUT3KIpNhLwL3AJkhEn"
+      "duration_ms": 177253,
+      "name": "Officially Cool",
+      "url": "https://open.spotify.com/track/52rdnAZoYsEbguqMwCOeLi"
     },
     {
       "added_at": "2026-10-06 09:03:33",
@@ -867,22 +871,38 @@
     {
       "added_at": "2026-10-06 09:03:33",
       "album": {
-        "name": "Officially Cool",
-        "url": "https://open.spotify.com/album/7ak1PBCmrVLvOANEenebe9"
+        "name": "40th Anniversary Tribute Duet VOICE TO VOICE",
+        "url": "https://open.spotify.com/album/1ZbSqeeZJHDK9ECDBBPZTp"
       },
       "artists": [
         {
-          "name": "BANG YEDAM",
-          "url": "https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X"
+          "name": "WOODZ",
+          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
         },
         {
-          "name": "WINTER",
-          "url": "https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI"
+          "name": "Lee Seung Chul",
+          "url": "https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF"
         }
       ],
-      "duration_ms": 177253,
-      "name": "Officially Cool",
-      "url": "https://open.spotify.com/track/52rdnAZoYsEbguqMwCOeLi"
+      "duration_ms": 224973,
+      "name": "OUR STORY",
+      "url": "https://open.spotify.com/track/3sJqTm3IBKks1FsnapMQSe"
+    },
+    {
+      "added_at": "2026-10-06 09:03:33",
+      "album": {
+        "name": "Arcadia",
+        "url": "https://open.spotify.com/album/2FHD4nJJF6KBh5fVPRvYEO"
+      },
+      "artists": [
+        {
+          "name": "CHEN",
+          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Arcadia",
+      "url": "https://open.spotify.com/track/3idsUT3KIpNhLwL3AJkhEn"
     },
     {
       "added_at": "2026-10-06 09:03:33",
@@ -919,26 +939,6 @@
       "duration_ms": 268000,
       "name": "Bye Bye (Feat. LEE MU JIN)",
       "url": "https://open.spotify.com/track/76vu2smcuQgil4Xqa5yAYv"
-    },
-    {
-      "added_at": "2026-10-06 09:03:33",
-      "album": {
-        "name": "40th Anniversary Tribute Duet VOICE TO VOICE",
-        "url": "https://open.spotify.com/album/1ZbSqeeZJHDK9ECDBBPZTp"
-      },
-      "artists": [
-        {
-          "name": "WOODZ",
-          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
-        },
-        {
-          "name": "Lee Seung Chul",
-          "url": "https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF"
-        }
-      ],
-      "duration_ms": 224973,
-      "name": "OUR STORY",
-      "url": "https://open.spotify.com/track/3sJqTm3IBKks1FsnapMQSe"
     },
     {
       "added_at": "2026-10-06 09:03:33",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-10-06 09:03:33",
       "album": {
-        "name": "Butterfly Effect",
-        "url": "https://open.spotify.com/album/6WvzLgorV49BBNnshntOzu"
-      },
-      "artists": [
-        {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
-        }
-      ],
-      "duration_ms": 273680,
-      "name": "Space",
-      "url": "https://open.spotify.com/track/2AAYL6JwiPKHn33buQqo4P"
-    },
-    {
-      "added_at": "2026-10-06 09:03:33",
-      "album": {
         "name": "Last Love",
         "url": "https://open.spotify.com/album/4jMqo0Fsa1nGt0yq5S2pk6"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 255000,
       "name": "Last Love",
       "url": "https://open.spotify.com/track/5wOCYMy0SP58fPiXOc4p3s"
+    },
+    {
+      "added_at": "2026-10-06 09:03:33",
+      "album": {
+        "name": "Butterfly Effect",
+        "url": "https://open.spotify.com/album/6WvzLgorV49BBNnshntOzu"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "duration_ms": 273680,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/2AAYL6JwiPKHn33buQqo4P"
     },
     {
       "added_at": "2026-10-06 09:03:33",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2026-10-06 09:03:33",
       "album": {
-        "name": "&10",
-        "url": "https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF"
-      },
-      "artists": [
-        {
-          "name": "DAVICHI",
-          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
-        }
-      ],
-      "duration_ms": 273292,
-      "name": "Days without you",
-      "url": "https://open.spotify.com/track/14xiv5uhzoRdqd3cxHiBbw"
-    },
-    {
-      "added_at": "2026-10-06 09:03:33",
-      "album": {
         "name": "My Dearest (Original Television Soundtrack), Pt.5",
         "url": "https://open.spotify.com/album/3kcfskSR4RWXWelADGzNli"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 222013,
       "name": "Unforgettable Love",
       "url": "https://open.spotify.com/track/6nC0meiqIoorz6Lb7Ufte8"
+    },
+    {
+      "added_at": "2026-10-06 09:03:33",
+      "album": {
+        "name": "&10",
+        "url": "https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "duration_ms": 273292,
+      "name": "Days without you",
+      "url": "https://open.spotify.com/track/14xiv5uhzoRdqd3cxHiBbw"
     },
     {
       "added_at": "2026-10-06 09:03:33",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2026-10-06 09:03:33",
       "album": {
-        "name": "Rookie Cops (Original Television Soundtrack) Pt. 1",
-        "url": "https://open.spotify.com/album/3Ra3w8SYFm3Oaou3Per5bn"
-      },
-      "artists": [
-        {
-          "name": "Chancellor",
-          "url": "https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx"
-        }
-      ],
-      "duration_ms": 212146,
-      "name": "Because of You",
-      "url": "https://open.spotify.com/track/5jZYTT8lSXiVzkpiBTQGTj"
-    },
-    {
-      "added_at": "2026-10-06 09:03:33",
-      "album": {
         "name": "Burn Like A Star",
         "url": "https://open.spotify.com/album/36xIARKjnu1X4NijtbBpMQ"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 246000,
       "name": "Walk through the rain",
       "url": "https://open.spotify.com/track/668TPlB2MKEFE4r3BrdKPA"
+    },
+    {
+      "added_at": "2026-10-06 09:03:33",
+      "album": {
+        "name": "Rookie Cops (Original Television Soundtrack) Pt. 1",
+        "url": "https://open.spotify.com/album/3Ra3w8SYFm3Oaou3Per5bn"
+      },
+      "artists": [
+        {
+          "name": "Chancellor",
+          "url": "https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx"
+        }
+      ],
+      "duration_ms": 212146,
+      "name": "Because of You",
+      "url": "https://open.spotify.com/track/5jZYTT8lSXiVzkpiBTQGTj"
     },
     {
       "added_at": "2026-10-06 09:03:33",

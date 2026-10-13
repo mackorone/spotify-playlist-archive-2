@@ -6,7 +6,7 @@
     "name": "dio",
     "url": "https://open.spotify.com/user/1ph1ewkwxtpfwzf6jygqxad1i"
   },
-  "snapshot_id": "AAAGCmOnRYeAhfnAfikA/uavGpRjg3mV",
+  "snapshot_id": "AAAGEqbTz5FpOHaXNztCCAwGlgsUxigb",
   "tracks": [
     {
       "added_at": "2023-10-19 14:38:14",
@@ -14055,6 +14055,38 @@
       "duration_ms": 245294,
       "name": "Yukidoke (feat. isui)",
       "url": "https://open.spotify.com/track/2r451zJML8U3NiTi2MqAxh"
+    },
+    {
+      "added_at": "2026-10-12 15:25:42",
+      "album": {
+        "name": "\u76d7\u4f5c",
+        "url": "https://open.spotify.com/album/6pZ0SrZCP8Bm28L6JhMtBy"
+      },
+      "artists": [
+        {
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+        }
+      ],
+      "duration_ms": 287453,
+      "name": "\u9003\u4ea1",
+      "url": "https://open.spotify.com/track/444TdAemfLOz77t9dlCeAa"
+    },
+    {
+      "added_at": "2026-10-12 15:31:56",
+      "album": {
+        "name": "HIGH HEART",
+        "url": "https://open.spotify.com/album/1yzzf8SV2nxVnhy3jYX93g"
+      },
+      "artists": [
+        {
+          "name": "Plastic Girl In Closet",
+          "url": "https://open.spotify.com/artist/4s1vZEFHO3fbQiwxbKgFjm"
+        }
+      ],
+      "duration_ms": 213055,
+      "name": "World's End",
+      "url": "https://open.spotify.com/track/48TSMbk7XwAPbZyzhow2Vb"
     }
   ],
   "unique_name": "japan",

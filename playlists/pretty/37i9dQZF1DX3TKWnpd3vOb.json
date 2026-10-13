@@ -1,6 +1,6 @@
 {
   "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: Fother Muckers",
-  "num_followers": 180831,
+  "num_followers": 180813,
   "original_name": "Rock Chileno",
   "owner": {
     "name": "Spotify",
@@ -227,22 +227,6 @@
     {
       "added_at": "2026-10-09 03:00:37",
       "album": {
-        "name": "NUNCA NUNCA",
-        "url": "https://open.spotify.com/album/3wpT1eo3XhqomrxIiaLLj1"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 281142,
-      "name": "Nunca Nunca",
-      "url": "https://open.spotify.com/track/0o7JL5BSJuW43aeQI5cP3B"
-    },
-    {
-      "added_at": "2026-10-09 03:00:37",
-      "album": {
         "name": "El Duelo",
         "url": "https://open.spotify.com/album/1e9SFF9jr6iW7jEZ08THwg"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 355657,
       "name": "El Duelo",
       "url": "https://open.spotify.com/track/7MzNE3Ui7JCKpuSu0oMusD"
+    },
+    {
+      "added_at": "2026-10-09 03:00:37",
+      "album": {
+        "name": "NUNCA NUNCA",
+        "url": "https://open.spotify.com/album/3wpT1eo3XhqomrxIiaLLj1"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 281142,
+      "name": "Nunca Nunca",
+      "url": "https://open.spotify.com/track/0o7JL5BSJuW43aeQI5cP3B"
     },
     {
       "added_at": "2026-10-09 03:00:37",
@@ -311,22 +311,6 @@
     {
       "added_at": "2026-10-09 03:00:37",
       "album": {
-        "name": "1988 (Remezclado 2025)",
-        "url": "https://open.spotify.com/album/6h2ssxozeNzivGcrvdu5CF"
-      },
-      "artists": [
-        {
-          "name": "La Ley",
-          "url": "https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK"
-        }
-      ],
-      "duration_ms": 198721,
-      "name": "A veces - Remezclado 2025",
-      "url": "https://open.spotify.com/track/3Zyt4DluEHhTCZMflBUvj9"
-    },
-    {
-      "added_at": "2026-10-09 03:00:37",
-      "album": {
         "name": "\u00a1Respira!",
         "url": "https://open.spotify.com/album/4s2waJJMAp7DCJrJ50GudD"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 242931,
       "name": "\u00a1Respira!",
       "url": "https://open.spotify.com/track/6sOOUEkE4AF4BIdC7U1Hqv"
+    },
+    {
+      "added_at": "2026-10-09 03:00:37",
+      "album": {
+        "name": "1988 (Remezclado 2025)",
+        "url": "https://open.spotify.com/album/6h2ssxozeNzivGcrvdu5CF"
+      },
+      "artists": [
+        {
+          "name": "La Ley",
+          "url": "https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK"
+        }
+      ],
+      "duration_ms": 198721,
+      "name": "A veces - Remezclado 2025",
+      "url": "https://open.spotify.com/track/3Zyt4DluEHhTCZMflBUvj9"
     },
     {
       "added_at": "2026-10-09 03:00:37",
@@ -399,22 +399,6 @@
     {
       "added_at": "2026-10-09 03:00:37",
       "album": {
-        "name": "Revuelta En Vivo",
-        "url": "https://open.spotify.com/album/2ym8AVQH15hneb9a4des9V"
-      },
-      "artists": [
-        {
-          "name": "Los Tres",
-          "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
-        }
-      ],
-      "duration_ms": 276465,
-      "name": "He barrido el sol (Revuelta en vivo)",
-      "url": "https://open.spotify.com/track/5flEqRCBL4AJ4NAYvK7KVY"
-    },
-    {
-      "added_at": "2026-10-09 03:00:37",
-      "album": {
         "name": "Respira: Vol 1",
         "url": "https://open.spotify.com/album/2WsFttKsztYbXLVD8Qtc03"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 207683,
       "name": "De Volver a Comenzar",
       "url": "https://open.spotify.com/track/7aUCXhB4HReQZxJbpJoqAt"
+    },
+    {
+      "added_at": "2026-10-09 03:00:37",
+      "album": {
+        "name": "Revuelta En Vivo",
+        "url": "https://open.spotify.com/album/2ym8AVQH15hneb9a4des9V"
+      },
+      "artists": [
+        {
+          "name": "Los Tres",
+          "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
+        }
+      ],
+      "duration_ms": 276465,
+      "name": "He barrido el sol (Revuelta en vivo)",
+      "url": "https://open.spotify.com/track/5flEqRCBL4AJ4NAYvK7KVY"
     },
     {
       "added_at": "2026-10-09 03:00:37",
@@ -631,22 +631,18 @@
     {
       "added_at": "2026-10-09 03:00:37",
       "album": {
-        "name": "Veneno",
-        "url": "https://open.spotify.com/album/6JARYXt8wnQyjIyqnPLmP7"
+        "name": "La vida mi vida se vive as\u00ed (Radio Edit)",
+        "url": "https://open.spotify.com/album/6d8HeRuWTKAoDDWxzeoRGS"
       },
       "artists": [
         {
-          "name": "Cler Canifr\u00fa",
-          "url": "https://open.spotify.com/artist/1dBUAcFepQhvIVgUUHxRPf"
-        },
-        {
-          "name": "Lula Bertoldi",
-          "url": "https://open.spotify.com/artist/5WX7W5ESabcsJrPMHYkjNQ"
+          "name": "Valija Diplomatica",
+          "url": "https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV"
         }
       ],
-      "duration_ms": 219000,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/3YJNkKxZghsufLlhEODFZa"
+      "duration_ms": 174683,
+      "name": "La vida mi vida se vive as\u00ed - Radio Edit",
+      "url": "https://open.spotify.com/track/4KiadmrJu0p0LYGPshd7kB"
     },
     {
       "added_at": "2026-10-09 03:00:37",
@@ -667,18 +663,22 @@
     {
       "added_at": "2026-10-09 03:00:37",
       "album": {
-        "name": "La vida mi vida se vive as\u00ed (Radio Edit)",
-        "url": "https://open.spotify.com/album/6d8HeRuWTKAoDDWxzeoRGS"
+        "name": "Veneno",
+        "url": "https://open.spotify.com/album/6JARYXt8wnQyjIyqnPLmP7"
       },
       "artists": [
         {
-          "name": "Valija Diplomatica",
-          "url": "https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV"
+          "name": "Cler Canifr\u00fa",
+          "url": "https://open.spotify.com/artist/1dBUAcFepQhvIVgUUHxRPf"
+        },
+        {
+          "name": "Lula Bertoldi",
+          "url": "https://open.spotify.com/artist/5WX7W5ESabcsJrPMHYkjNQ"
         }
       ],
-      "duration_ms": 174683,
-      "name": "La vida mi vida se vive as\u00ed - Radio Edit",
-      "url": "https://open.spotify.com/track/4KiadmrJu0p0LYGPshd7kB"
+      "duration_ms": 219000,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/3YJNkKxZghsufLlhEODFZa"
     },
     {
       "added_at": "2026-10-09 03:00:37",

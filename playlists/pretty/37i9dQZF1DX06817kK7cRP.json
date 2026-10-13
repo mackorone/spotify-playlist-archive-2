@@ -1,6 +1,6 @@
 {
   "description": "Soft Jazz beats in the background while you're focusing, studying or relaxing.",
-  "num_followers": 203816,
+  "num_followers": 203835,
   "original_name": "Smooth Jazz Beats",
   "owner": {
     "name": "Spotify",
@@ -207,6 +207,22 @@
     {
       "added_at": "2026-09-23 07:49:45",
       "album": {
+        "name": "Good Life",
+        "url": "https://open.spotify.com/album/1ICaCOfTCfaa6lIImFCKx4"
+      },
+      "artists": [
+        {
+          "name": "Harry Hawaii",
+          "url": "https://open.spotify.com/artist/7fQVHvcP2LSpPU3pNU7wKA"
+        }
+      ],
+      "duration_ms": 126005,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/2Ud7OQ3gvBuKOhMrzX1SVe"
+    },
+    {
+      "added_at": "2026-09-23 07:49:45",
+      "album": {
         "name": "Hand / Kanji",
         "url": "https://open.spotify.com/album/4oPxZTV0GELOEb6v8ElLtj"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 133770,
       "name": "Hand",
       "url": "https://open.spotify.com/track/4glF0mDJfHRguZYXgKoCoX"
-    },
-    {
-      "added_at": "2026-09-23 07:49:45",
-      "album": {
-        "name": "Good Life",
-        "url": "https://open.spotify.com/album/1ICaCOfTCfaa6lIImFCKx4"
-      },
-      "artists": [
-        {
-          "name": "Harry Hawaii",
-          "url": "https://open.spotify.com/artist/7fQVHvcP2LSpPU3pNU7wKA"
-        }
-      ],
-      "duration_ms": 126005,
-      "name": "Good Life",
-      "url": "https://open.spotify.com/track/2Ud7OQ3gvBuKOhMrzX1SVe"
     },
     {
       "added_at": "2026-09-23 07:49:45",
@@ -299,6 +299,22 @@
     {
       "added_at": "2026-09-23 07:49:45",
       "album": {
+        "name": "Backhouse Bounce",
+        "url": "https://open.spotify.com/album/5W1PsgMdkj7ADcw4BRafl6"
+      },
+      "artists": [
+        {
+          "name": "Gaslamp",
+          "url": "https://open.spotify.com/artist/4Iufg5jdqQELqh9fQukPUE"
+        }
+      ],
+      "duration_ms": 107294,
+      "name": "Backhouse Bounce",
+      "url": "https://open.spotify.com/track/4nsiwpMeYUodbmMBs17OEZ"
+    },
+    {
+      "added_at": "2026-09-23 07:49:45",
+      "album": {
         "name": "Lunar garden",
         "url": "https://open.spotify.com/album/6t5owrTHDe7VWziwq5zP4P"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 114352,
       "name": "Lunar garden",
       "url": "https://open.spotify.com/track/7vXmhCsyBVW6oSp7rffhPm"
-    },
-    {
-      "added_at": "2026-09-23 07:49:45",
-      "album": {
-        "name": "Backhouse Bounce",
-        "url": "https://open.spotify.com/album/5W1PsgMdkj7ADcw4BRafl6"
-      },
-      "artists": [
-        {
-          "name": "Gaslamp",
-          "url": "https://open.spotify.com/artist/4Iufg5jdqQELqh9fQukPUE"
-        }
-      ],
-      "duration_ms": 107294,
-      "name": "Backhouse Bounce",
-      "url": "https://open.spotify.com/track/4nsiwpMeYUodbmMBs17OEZ"
     },
     {
       "added_at": "2026-09-23 07:49:45",
@@ -447,22 +447,6 @@
     {
       "added_at": "2026-09-23 07:49:45",
       "album": {
-        "name": "Cloudscape",
-        "url": "https://open.spotify.com/album/1fN2VRfRVaRSJCn6hS4bgo"
-      },
-      "artists": [
-        {
-          "name": "baegel",
-          "url": "https://open.spotify.com/artist/5NaaHKhCjBsIbSRh96NuzA"
-        }
-      ],
-      "duration_ms": 146328,
-      "name": "Jetlag",
-      "url": "https://open.spotify.com/track/0HFPMPIPGy0o9ocbHMNz2P"
-    },
-    {
-      "added_at": "2026-09-23 07:49:45",
-      "album": {
         "name": "solid",
         "url": "https://open.spotify.com/album/3dZj6KE3zyR68GLyybP9vn"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 125783,
       "name": "Lava Lamp",
       "url": "https://open.spotify.com/track/1Zk4cXeXgFzRZRFxj9xqqc"
+    },
+    {
+      "added_at": "2026-09-23 07:49:45",
+      "album": {
+        "name": "Cloudscape",
+        "url": "https://open.spotify.com/album/1fN2VRfRVaRSJCn6hS4bgo"
+      },
+      "artists": [
+        {
+          "name": "baegel",
+          "url": "https://open.spotify.com/artist/5NaaHKhCjBsIbSRh96NuzA"
+        }
+      ],
+      "duration_ms": 146328,
+      "name": "Jetlag",
+      "url": "https://open.spotify.com/track/0HFPMPIPGy0o9ocbHMNz2P"
     },
     {
       "added_at": "2026-09-23 07:49:45",
@@ -631,6 +631,22 @@
     {
       "added_at": "2026-09-23 07:49:45",
       "album": {
+        "name": "Another One",
+        "url": "https://open.spotify.com/album/1EE19WjhpCrf7VZFriw4xF"
+      },
+      "artists": [
+        {
+          "name": "Phlocalyst",
+          "url": "https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Another One",
+      "url": "https://open.spotify.com/track/0sYDpoiZCWQv0iTRITUz7w"
+    },
+    {
+      "added_at": "2026-09-23 07:49:45",
+      "album": {
         "name": "Honey",
         "url": "https://open.spotify.com/album/6HA0YCt69EeDJzGXpab7qt"
       },
@@ -651,18 +667,18 @@
     {
       "added_at": "2026-09-23 07:49:45",
       "album": {
-        "name": "Another One",
-        "url": "https://open.spotify.com/album/1EE19WjhpCrf7VZFriw4xF"
+        "name": "skills",
+        "url": "https://open.spotify.com/album/6wrc9Wgs0TbJBweRqWWj8W"
       },
       "artists": [
         {
-          "name": "Phlocalyst",
-          "url": "https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt"
+          "name": "skrn",
+          "url": "https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ"
         }
       ],
       "duration_ms": 120000,
-      "name": "Another One",
-      "url": "https://open.spotify.com/track/0sYDpoiZCWQv0iTRITUz7w"
+      "name": "skills",
+      "url": "https://open.spotify.com/track/2I0IyaxKWCbpsWpKqTm17U"
     },
     {
       "added_at": "2026-09-23 07:49:45",
@@ -679,22 +695,6 @@
       "duration_ms": 114146,
       "name": "Nowhere",
       "url": "https://open.spotify.com/track/27ptY9nQRlAZmz6r7bmzqO"
-    },
-    {
-      "added_at": "2026-09-23 07:49:45",
-      "album": {
-        "name": "skills",
-        "url": "https://open.spotify.com/album/6wrc9Wgs0TbJBweRqWWj8W"
-      },
-      "artists": [
-        {
-          "name": "skrn",
-          "url": "https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "skills",
-      "url": "https://open.spotify.com/track/2I0IyaxKWCbpsWpKqTm17U"
     },
     {
       "added_at": "2026-09-23 07:49:45",
@@ -735,8 +735,8 @@
     {
       "added_at": "2026-09-23 07:49:45",
       "album": {
-        "name": "Wind",
-        "url": "https://open.spotify.com/album/0UkQR5qvcniCN4wF8Xu7e1"
+        "name": "moments",
+        "url": "https://open.spotify.com/album/4JNzCvA37BbzSpNWVDIDqi"
       },
       "artists": [
         {
@@ -744,13 +744,13 @@
           "url": "https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8"
         },
         {
-          "name": "The Flipside",
-          "url": "https://open.spotify.com/artist/3mY04DjYiRz57V8FeLyuJ1"
+          "name": "wielandwieland",
+          "url": "https://open.spotify.com/artist/5Lz8NfVK4TCVMmRTfaak6n"
         }
       ],
-      "duration_ms": 130500,
-      "name": "Wind",
-      "url": "https://open.spotify.com/track/604BAQOd2ZXTnQkVIUKK1c"
+      "duration_ms": 113323,
+      "name": "tuesday evenings",
+      "url": "https://open.spotify.com/track/1Rl4Qph0hXgF6cadGi4qcd"
     },
     {
       "added_at": "2026-09-23 07:49:45",
@@ -827,8 +827,8 @@
     {
       "added_at": "2026-09-23 07:49:45",
       "album": {
-        "name": "moments",
-        "url": "https://open.spotify.com/album/4JNzCvA37BbzSpNWVDIDqi"
+        "name": "Wind",
+        "url": "https://open.spotify.com/album/0UkQR5qvcniCN4wF8Xu7e1"
       },
       "artists": [
         {
@@ -836,13 +836,13 @@
           "url": "https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8"
         },
         {
-          "name": "wielandwieland",
-          "url": "https://open.spotify.com/artist/5Lz8NfVK4TCVMmRTfaak6n"
+          "name": "The Flipside",
+          "url": "https://open.spotify.com/artist/3mY04DjYiRz57V8FeLyuJ1"
         }
       ],
-      "duration_ms": 113323,
-      "name": "tuesday evenings",
-      "url": "https://open.spotify.com/track/1Rl4Qph0hXgF6cadGi4qcd"
+      "duration_ms": 130500,
+      "name": "Wind",
+      "url": "https://open.spotify.com/track/604BAQOd2ZXTnQkVIUKK1c"
     },
     {
       "added_at": "2026-09-23 07:49:45",
@@ -991,18 +991,22 @@
     {
       "added_at": "2026-09-23 07:49:45",
       "album": {
-        "name": "pearls",
-        "url": "https://open.spotify.com/album/3YYdtz7Jg3r2oKW7cq37Et"
+        "name": "Suite 8",
+        "url": "https://open.spotify.com/album/6zlTwu4W93EGNO9mBToGTP"
       },
       "artists": [
         {
-          "name": "skrn",
-          "url": "https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ"
+          "name": "Casiio",
+          "url": "https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a"
+        },
+        {
+          "name": "Nokiaa",
+          "url": "https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN"
         }
       ],
-      "duration_ms": 108000,
-      "name": "pearls",
-      "url": "https://open.spotify.com/track/2nLLeDCCmy27w6v405VVZT"
+      "duration_ms": 110769,
+      "name": "Suite 8",
+      "url": "https://open.spotify.com/track/2gT8jhUQ5BXEBLNTePmlR1"
     },
     {
       "added_at": "2026-09-23 07:49:45",
@@ -1027,22 +1031,18 @@
     {
       "added_at": "2026-09-23 07:49:45",
       "album": {
-        "name": "Suite 8",
-        "url": "https://open.spotify.com/album/6zlTwu4W93EGNO9mBToGTP"
+        "name": "pearls",
+        "url": "https://open.spotify.com/album/3YYdtz7Jg3r2oKW7cq37Et"
       },
       "artists": [
         {
-          "name": "Casiio",
-          "url": "https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a"
-        },
-        {
-          "name": "Nokiaa",
-          "url": "https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN"
+          "name": "skrn",
+          "url": "https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ"
         }
       ],
-      "duration_ms": 110769,
-      "name": "Suite 8",
-      "url": "https://open.spotify.com/track/2gT8jhUQ5BXEBLNTePmlR1"
+      "duration_ms": 108000,
+      "name": "pearls",
+      "url": "https://open.spotify.com/track/2nLLeDCCmy27w6v405VVZT"
     },
     {
       "added_at": "2026-09-23 07:49:45",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-09-23 07:49:45",
       "album": {
-        "name": "Osterly Park",
-        "url": "https://open.spotify.com/album/3Jli1ZXPdsGl3GfHAM9cqp"
-      },
-      "artists": [
-        {
-          "name": "Golden Mist",
-          "url": "https://open.spotify.com/artist/0Hd6QWTqvltK9qwevGqQtK"
-        }
-      ],
-      "duration_ms": 183301,
-      "name": "Osterly Park",
-      "url": "https://open.spotify.com/track/5V3zWcqclnl3AIIrk2elWd"
-    },
-    {
-      "added_at": "2026-09-23 07:49:45",
-      "album": {
         "name": "Eat More Fruits",
         "url": "https://open.spotify.com/album/3JENHK40xUTH4VgMbxrZVu"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 136153,
       "name": "Eat More Fruits",
       "url": "https://open.spotify.com/track/5zWf9Ug3ubWOizrx9iDnTi"
+    },
+    {
+      "added_at": "2026-09-23 07:49:45",
+      "album": {
+        "name": "Osterly Park",
+        "url": "https://open.spotify.com/album/3Jli1ZXPdsGl3GfHAM9cqp"
+      },
+      "artists": [
+        {
+          "name": "Golden Mist",
+          "url": "https://open.spotify.com/artist/0Hd6QWTqvltK9qwevGqQtK"
+        }
+      ],
+      "duration_ms": 183301,
+      "name": "Osterly Park",
+      "url": "https://open.spotify.com/track/5V3zWcqclnl3AIIrk2elWd"
     },
     {
       "added_at": "2026-09-23 07:49:45",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2026-09-23 07:49:45",
       "album": {
-        "name": "Leafy Greens",
-        "url": "https://open.spotify.com/album/5vaCBfz8K866fJH9GUAfZt"
-      },
-      "artists": [
-        {
-          "name": "Beats Me, Innit?",
-          "url": "https://open.spotify.com/artist/5szil3lhFSrW575RVEyPle"
-        }
-      ],
-      "duration_ms": 160750,
-      "name": "Leafy Greens",
-      "url": "https://open.spotify.com/track/4v2QdeTrznnSrGhPPc5szG"
-    },
-    {
-      "added_at": "2026-09-23 07:49:45",
-      "album": {
         "name": "Finish Line",
         "url": "https://open.spotify.com/album/50A6GHBw1sNjVbzVOyyojT"
       },
@@ -1303,6 +1287,22 @@
     {
       "added_at": "2026-09-23 07:49:45",
       "album": {
+        "name": "Leafy Greens",
+        "url": "https://open.spotify.com/album/5vaCBfz8K866fJH9GUAfZt"
+      },
+      "artists": [
+        {
+          "name": "Beats Me, Innit?",
+          "url": "https://open.spotify.com/artist/5szil3lhFSrW575RVEyPle"
+        }
+      ],
+      "duration_ms": 160750,
+      "name": "Leafy Greens",
+      "url": "https://open.spotify.com/track/4v2QdeTrznnSrGhPPc5szG"
+    },
+    {
+      "added_at": "2026-09-23 07:49:45",
+      "album": {
         "name": "Orle",
         "url": "https://open.spotify.com/album/6s3FEdI41LNe9vgPWbgQAm"
       },
@@ -1315,6 +1315,22 @@
       "duration_ms": 186666,
       "name": "Orle",
       "url": "https://open.spotify.com/track/3HMSwkVRwDlSqHjAzJ8Pqh"
+    },
+    {
+      "added_at": "2026-09-23 07:49:45",
+      "album": {
+        "name": "Central Park",
+        "url": "https://open.spotify.com/album/13CM5Q8EOtVdfmFtlkgtI5"
+      },
+      "artists": [
+        {
+          "name": "Galva-Nice",
+          "url": "https://open.spotify.com/artist/1bKtP3B1PRR916WGM3Morj"
+        }
+      ],
+      "duration_ms": 163500,
+      "name": "Central Park",
+      "url": "https://open.spotify.com/track/3ohDGLqiQv6TOdR3N7xmCf"
     },
     {
       "added_at": "2026-09-23 07:49:45",
@@ -1499,22 +1515,6 @@
       "duration_ms": 136438,
       "name": "High Expectations",
       "url": "https://open.spotify.com/track/4rn17OCKU2IAPEPVOi8kPy"
-    },
-    {
-      "added_at": "2026-09-23 07:49:45",
-      "album": {
-        "name": "Central Park",
-        "url": "https://open.spotify.com/album/13CM5Q8EOtVdfmFtlkgtI5"
-      },
-      "artists": [
-        {
-          "name": "Galva-Nice",
-          "url": "https://open.spotify.com/artist/1bKtP3B1PRR916WGM3Morj"
-        }
-      ],
-      "duration_ms": 163500,
-      "name": "Central Park",
-      "url": "https://open.spotify.com/track/3ohDGLqiQv6TOdR3N7xmCf"
     },
     {
       "added_at": "2026-09-23 07:49:45",

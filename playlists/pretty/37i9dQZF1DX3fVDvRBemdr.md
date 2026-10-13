@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste Hollands & Volkspop\. Cover: Jesse Prins
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,771 likes - 100 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,767 likes - 100 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Nooit Meer Weg](https://open.spotify.com/track/66BmFTlWkLHkCyBvjd7FLS) | [Jesse Prins](https://open.spotify.com/artist/7cTPmBuInxNTQsNGlDIyrm) | [Nooit Meer Weg](https://open.spotify.com/album/7yVu2W8COcxfpmgYD1yx6h) | 2:36 |
-| 2 | [Terug Bij Mij](https://open.spotify.com/track/11Cdudg1aqYCyuiwX605RI) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Terug Bij Mij](https://open.spotify.com/album/632FPOQ9TbwaTB0zviAflo) | 3:34 |
-| 3 | [Valse Start](https://open.spotify.com/track/1jemmXmlgoQOXsHyGyb5DM) | [Gino Schallenberg](https://open.spotify.com/artist/5c1NHu3IKuHYlW3gtVnTFp) | [Valse Start](https://open.spotify.com/album/6XrOfwMzOUBAl7y15W8tnF) | 2:28 |
-| 4 | [Partytent](https://open.spotify.com/track/5HndG3ksWnTSf32DUvpyUM) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Justen de Wildt](https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X) | [Partytent](https://open.spotify.com/album/3fGwD8nd8KY9Sk7kesDSOU) | 2:42 |
-| 5 | [Niks Aan De Hand Dag](https://open.spotify.com/track/1e1n10ufGpD0djFh0h3T78) | [Vinzzent](https://open.spotify.com/artist/3fUb97KMK2mirr4PQrYKVX) | [Niks Aan De Hand Dag](https://open.spotify.com/album/6wAoaeJQ82uXN0QBHVOZ9j) | 2:40 |
-| 6 | [Vallen & Opstaan](https://open.spotify.com/track/1bENbibgY1mG7weZC6UBXs) | [Frans Duijts](https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t) | [Vallen & Opstaan](https://open.spotify.com/album/5aJEJMgEAJEghoEl9ZTDRe) | 3:59 |
+| 2 | [Valse Start](https://open.spotify.com/track/1jemmXmlgoQOXsHyGyb5DM) | [Gino Schallenberg](https://open.spotify.com/artist/5c1NHu3IKuHYlW3gtVnTFp) | [Valse Start](https://open.spotify.com/album/6XrOfwMzOUBAl7y15W8tnF) | 2:28 |
+| 3 | [Vallen & Opstaan](https://open.spotify.com/track/1bENbibgY1mG7weZC6UBXs) | [Frans Duijts](https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t) | [Vallen & Opstaan](https://open.spotify.com/album/5aJEJMgEAJEghoEl9ZTDRe) | 3:59 |
+| 4 | [Terug Bij Mij](https://open.spotify.com/track/11Cdudg1aqYCyuiwX605RI) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Terug Bij Mij](https://open.spotify.com/album/632FPOQ9TbwaTB0zviAflo) | 3:34 |
+| 5 | [Partytent](https://open.spotify.com/track/5HndG3ksWnTSf32DUvpyUM) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Justen de Wildt](https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X) | [Partytent](https://open.spotify.com/album/3fGwD8nd8KY9Sk7kesDSOU) | 2:42 |
+| 6 | [Niks Aan De Hand Dag](https://open.spotify.com/track/1e1n10ufGpD0djFh0h3T78) | [Vinzzent](https://open.spotify.com/artist/3fUb97KMK2mirr4PQrYKVX) | [Niks Aan De Hand Dag](https://open.spotify.com/album/6wAoaeJQ82uXN0QBHVOZ9j) | 2:40 |
 | 7 | [Don Juan](https://open.spotify.com/track/6aNZD8vntHkk8M5yARpEuL) | [Toon Schut](https://open.spotify.com/artist/4vZnZBqVPhnTFy8xBQNpC2) | [Don Juan](https://open.spotify.com/album/0qZSbOfk4tK06722DOdduv) | 2:33 |
-| 8 | [Nieuwe verhalen](https://open.spotify.com/track/2t4ezDaOLjk9OhgrQwG0Gz) | [Dennie Christian](https://open.spotify.com/artist/3rIFlp14SwbtFe5r70bGdC) | [Nieuwe verhalen](https://open.spotify.com/album/6deZqqYD15briV6rNvwjt3) | 2:37 |
-| 9 | [Niet Nodig](https://open.spotify.com/track/0qkrcsLsXIczU8pGASpFuE) | [Richelle Maria](https://open.spotify.com/artist/46ziMpTk0LKhxZW8iPRUqO) | [Niet Nodig](https://open.spotify.com/album/64KQmrjXqwqlsVJEs9WyIm) | 2:17 |
-| 10 | [Polonaise door de Nacht](https://open.spotify.com/track/72BEra9RPq2623q74LSlAH) | [Fons Veurink](https://open.spotify.com/artist/3rBMW23ztdIPx3poh9Z0G0) | [Polonaise door de Nacht](https://open.spotify.com/album/0py4k2MomiJ986Ybz1yO0G) | 3:14 |
-| 11 | [Ik wil jou](https://open.spotify.com/track/32RhYcl7oPFRhZDIExoE9J) | [Jan Wolters](https://open.spotify.com/artist/4EtJ1OniPEqijDvHQU0esN) | [Ik wil jou](https://open.spotify.com/album/0p8hB4RjAuOhWgVHOgEihm) | 3:13 |
-| 12 | [Uit Mijn Stekker](https://open.spotify.com/track/4fuXPWmNaHVK3uvwBjyrwH) | [Gideon](https://open.spotify.com/artist/6PHGgzRIDkaBOexjV4wfSp) | [Uit Mijn Stekker](https://open.spotify.com/album/1OXwKLqjPSzNsTaZicpfUT) | 2:37 |
+| 8 | [Uit Mijn Stekker](https://open.spotify.com/track/4fuXPWmNaHVK3uvwBjyrwH) | [Gideon](https://open.spotify.com/artist/6PHGgzRIDkaBOexjV4wfSp) | [Uit Mijn Stekker](https://open.spotify.com/album/1OXwKLqjPSzNsTaZicpfUT) | 2:37 |
+| 9 | [Nieuwe verhalen](https://open.spotify.com/track/2t4ezDaOLjk9OhgrQwG0Gz) | [Dennie Christian](https://open.spotify.com/artist/3rIFlp14SwbtFe5r70bGdC) | [Nieuwe verhalen](https://open.spotify.com/album/6deZqqYD15briV6rNvwjt3) | 2:37 |
+| 10 | [Niet Nodig](https://open.spotify.com/track/0qkrcsLsXIczU8pGASpFuE) | [Richelle Maria](https://open.spotify.com/artist/46ziMpTk0LKhxZW8iPRUqO) | [Niet Nodig](https://open.spotify.com/album/64KQmrjXqwqlsVJEs9WyIm) | 2:17 |
+| 11 | [Polonaise door de Nacht](https://open.spotify.com/track/72BEra9RPq2623q74LSlAH) | [Fons Veurink](https://open.spotify.com/artist/3rBMW23ztdIPx3poh9Z0G0) | [Polonaise door de Nacht](https://open.spotify.com/album/0py4k2MomiJ986Ybz1yO0G) | 3:14 |
+| 12 | [Ik wil jou](https://open.spotify.com/track/32RhYcl7oPFRhZDIExoE9J) | [Jan Wolters](https://open.spotify.com/artist/4EtJ1OniPEqijDvHQU0esN) | [Ik wil jou](https://open.spotify.com/album/0p8hB4RjAuOhWgVHOgEihm) | 3:13 |
 | 13 | [My Little Lady](https://open.spotify.com/track/0gGePUZ5hNrtrCdtP7VEKe) | [Marco de Hollander](https://open.spotify.com/artist/4nwhnw1lPCR31e95U4Blir) | [My Little Lady](https://open.spotify.com/album/26rpWpV8qFClptDjSXWHec) | 2:49 |
 | 14 | [Hard To Get](https://open.spotify.com/track/1rUjgtpKXHLEEKvJ7S2oGz) | [Daymian Van Os](https://open.spotify.com/artist/0wJ3lSX1D60OTNub53er9p) | [Hard To Get](https://open.spotify.com/album/16SCvjPxjZT0pBmPIymJwf) | 2:23 |
 | 15 | [Hangxiety](https://open.spotify.com/track/0CV2Q62N0y694aWIzfXzfB) | [Mikki van Wijk](https://open.spotify.com/artist/3IyRx9pTYYkwVOzwg1M8wW) | [Hangxiety](https://open.spotify.com/album/70LnZLv28TPOiPBGPkRqoc) | 2:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 99 | [Nog Eentje](https://open.spotify.com/track/32IsZhwCUbqcSnascNciEc) | [Daan](https://open.spotify.com/artist/6JLmCgHQwZeTt0ati2JqQA) | [Nog Eentje](https://open.spotify.com/album/0ZAmHBYRLO1HSJWJZkZ33U) | 2:38 |
 | 100 | [De Avond Is Van Ons](https://open.spotify.com/track/2gjiYuQ2y15tDZIOU8qFx8) | [Willem Huisman](https://open.spotify.com/artist/0z26rX79N8arGB1aQFSM1I), [Harrie Snijders](https://open.spotify.com/artist/34FVUX7HgK45ek1hEXBX7S) | [De Avond Is Van Ons](https://open.spotify.com/album/7cdN5GOJroOJoARrfyxAAt) | 2:28 |
 
-Snapshot ID: `AAAAAESFjsBHH6EXD7BA5holFpfCzIG/`
+Snapshot ID: `AAAAAFYBrN/l8aUN/2elpju2NTD0uy9S`

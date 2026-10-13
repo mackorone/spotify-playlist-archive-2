@@ -652,7 +652,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 141826,
       "name": "Golden Retriever",
       "url": "https://open.spotify.com/track/1h0yzHM2tkKUG3sWwQgJGT"
@@ -1028,6 +1028,24 @@
       "duration_ms": 187680,
       "name": "Less Out Of Sync",
       "url": "https://open.spotify.com/track/5q4MPKCtF5IlDQgxSvQwmX"
+    },
+    {
+      "album": {
+        "name": "Ruined My Life",
+        "url": "https://open.spotify.com/album/6DmNm4kgQ8ImBla8OvEahZ"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Licking Knifes",
+      "url": "https://open.spotify.com/track/342JNaWgJDRa5vj1hBYNa4"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is J\u00e3o. The essential tracks, all in one playlist.",
-  "num_followers": 209283,
+  "num_followers": 209319,
   "original_name": "This Is J\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asmAAAAAAACVfX2U656lkiXs3z5oUBzz",
+  "snapshot_id": "asrRgAAAAAB3EYrZT8tK/XPrXkXzmD8e",
   "tracks": [
     {
       "added_at": null,
@@ -367,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "AMOR PIRATA",
-        "url": "https://open.spotify.com/album/4wxp5gMpPpvtKup4KgDrdm"
+        "name": "ANTI-HER\u00d3I",
+        "url": "https://open.spotify.com/album/3l3LZovnHa1TmtR1V2fxkP"
       },
       "artists": [
         {
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
         }
       ],
-      "duration_ms": 172963,
-      "name": "AMOR PIRATA",
-      "url": "https://open.spotify.com/track/5K5g0QQZI1a1ZS3Ag7CU5f"
+      "duration_ms": 255159,
+      "name": "A \u00daltima Noite",
+      "url": "https://open.spotify.com/track/1COly0kisSWSrcUQkXUMcF"
     },
     {
       "added_at": null,
@@ -399,8 +399,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "ANTI-HER\u00d3I",
-        "url": "https://open.spotify.com/album/3l3LZovnHa1TmtR1V2fxkP"
+        "name": "AMOR PIRATA",
+        "url": "https://open.spotify.com/album/4wxp5gMpPpvtKup4KgDrdm"
       },
       "artists": [
         {
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
         }
       ],
-      "duration_ms": 255159,
-      "name": "A \u00daltima Noite",
-      "url": "https://open.spotify.com/track/1COly0kisSWSrcUQkXUMcF"
+      "duration_ms": 172963,
+      "name": "AMOR PIRATA",
+      "url": "https://open.spotify.com/track/5K5g0QQZI1a1ZS3Ag7CU5f"
     },
     {
       "added_at": null,
@@ -447,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "ANTI-HER\u00d3I",
+        "url": "https://open.spotify.com/album/3l3LZovnHa1TmtR1V2fxkP"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "duration_ms": 236921,
+      "name": "VSF",
+      "url": "https://open.spotify.com/track/6rL40EhmdDeEeqS0FDZ9Ab"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mal",
         "url": "https://open.spotify.com/album/66cKlnpPVfGXR0Xgec7lK7"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 166255,
       "name": "Mal",
       "url": "https://open.spotify.com/track/3Q97FKXvvhX7xNE9T3rp0Z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ANTI-HER\u00d3I",
-        "url": "https://open.spotify.com/album/3l3LZovnHa1TmtR1V2fxkP"
-      },
-      "artists": [
-        {
-          "name": "J\u00e3o",
-          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
-        }
-      ],
-      "duration_ms": 236921,
-      "name": "VSF",
-      "url": "https://open.spotify.com/track/6rL40EhmdDeEeqS0FDZ9Ab"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LOBOS",
-        "url": "https://open.spotify.com/album/67a6pDoMKQYOKGMnmUQZbq"
-      },
-      "artists": [
-        {
-          "name": "J\u00e3o",
-          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
-        }
-      ],
-      "duration_ms": 178186,
-      "name": "Imaturo",
-      "url": "https://open.spotify.com/track/0S86atec73KKaexn67JsDy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ANTI-HER\u00d3I",
         "url": "https://open.spotify.com/album/3l3LZovnHa1TmtR1V2fxkP"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 219634,
       "name": "Enquanto Me Beija",
       "url": "https://open.spotify.com/track/0EsftWIxQKCoCz5HZtlpkW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LOBOS",
+        "url": "https://open.spotify.com/album/67a6pDoMKQYOKGMnmUQZbq"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "duration_ms": 178186,
+      "name": "Imaturo",
+      "url": "https://open.spotify.com/track/0S86atec73KKaexn67JsDy"
     },
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LOBOS",
-        "url": "https://open.spotify.com/album/67a6pDoMKQYOKGMnmUQZbq"
-      },
-      "artists": [
-        {
-          "name": "J\u00e3o",
-          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
-        }
-      ],
-      "duration_ms": 196658,
-      "name": "Me Beija Com Raiva",
-      "url": "https://open.spotify.com/track/7kRhodBTcAQXGoZdTEw8fZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ANTI-HER\u00d3I",
         "url": "https://open.spotify.com/album/3l3LZovnHa1TmtR1V2fxkP"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 179446,
       "name": "Triste Pra Sempre",
       "url": "https://open.spotify.com/track/3n7ZwCXQUZekntN3f7dzwD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LOBOS",
+        "url": "https://open.spotify.com/album/67a6pDoMKQYOKGMnmUQZbq"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "duration_ms": 196658,
+      "name": "Me Beija Com Raiva",
+      "url": "https://open.spotify.com/track/7kRhodBTcAQXGoZdTEw8fZ"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LOBOS",
-        "url": "https://open.spotify.com/album/67a6pDoMKQYOKGMnmUQZbq"
-      },
-      "artists": [
-        {
-          "name": "J\u00e3o",
-          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
-        }
-      ],
-      "duration_ms": 174519,
-      "name": "Vou Morrer Sozinho",
-      "url": "https://open.spotify.com/track/1XVN2BVHfKUUcMH0jxSRZ5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ANTI-HER\u00d3I",
         "url": "https://open.spotify.com/album/3l3LZovnHa1TmtR1V2fxkP"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 184712,
       "name": "Voc\u00ea Vai Me Destruir",
       "url": "https://open.spotify.com/track/3mPz8WMo0zOWMxezQjyc8n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LOBOS",
+        "url": "https://open.spotify.com/album/67a6pDoMKQYOKGMnmUQZbq"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "duration_ms": 174519,
+      "name": "Vou Morrer Sozinho",
+      "url": "https://open.spotify.com/track/1XVN2BVHfKUUcMH0jxSRZ5"
     },
     {
       "added_at": null,

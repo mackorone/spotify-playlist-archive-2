@@ -1,6 +1,6 @@
 {
   "description": "Vibraciones rastafari con Caloncho y Jaze.",
-  "num_followers": 1359142,
+  "num_followers": 1359022,
   "original_name": "Reggae en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-09-11 04:59:18",
       "album": {
-        "name": "In & On",
-        "url": "https://open.spotify.com/album/33ah8yrHvflRc5aovdORpA"
-      },
-      "artists": [
-        {
-          "name": "NOITE",
-          "url": "https://open.spotify.com/artist/50Xm9Pr2Kjp5OpnwjUVdlP"
-        }
-      ],
-      "duration_ms": 177272,
-      "name": "In & On",
-      "url": "https://open.spotify.com/track/3IzhQqMVrgDvM5jYWglOMc"
-    },
-    {
-      "added_at": "2026-09-11 04:59:18",
-      "album": {
         "name": "International Love",
         "url": "https://open.spotify.com/album/6TfIPMw7QqgcTEL0sIMW48"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 246400,
       "name": "International Love",
       "url": "https://open.spotify.com/track/2O282x8rik9PMihQAx6bAq"
+    },
+    {
+      "added_at": "2026-09-11 04:59:18",
+      "album": {
+        "name": "In & On",
+        "url": "https://open.spotify.com/album/33ah8yrHvflRc5aovdORpA"
+      },
+      "artists": [
+        {
+          "name": "NOITE",
+          "url": "https://open.spotify.com/artist/50Xm9Pr2Kjp5OpnwjUVdlP"
+        }
+      ],
+      "duration_ms": 177272,
+      "name": "In & On",
+      "url": "https://open.spotify.com/track/3IzhQqMVrgDvM5jYWglOMc"
     },
     {
       "added_at": "2026-09-11 04:59:18",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2026-09-11 04:59:18",
       "album": {
-        "name": "Mar Adentro",
-        "url": "https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 172590,
-      "name": "The Heaven",
-      "url": "https://open.spotify.com/track/0dUEH1E7yUrXar2UZEERrg"
-    },
-    {
-      "added_at": "2026-09-11 04:59:18",
-      "album": {
         "name": "Gaia",
         "url": "https://open.spotify.com/album/4PYQYYOE41VWrnr9OqqYYY"
       },
@@ -1315,6 +1299,22 @@
     {
       "added_at": "2026-09-11 04:59:18",
       "album": {
+        "name": "Mar Adentro",
+        "url": "https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 172590,
+      "name": "The Heaven",
+      "url": "https://open.spotify.com/track/0dUEH1E7yUrXar2UZEERrg"
+    },
+    {
+      "added_at": "2026-09-11 04:59:18",
+      "album": {
         "name": "El Sonido Real",
         "url": "https://open.spotify.com/album/0ny4vJH3LRvW8AjTotkY4A"
       },
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2026-09-11 04:59:18",
       "album": {
-        "name": "LOCO PERDIDO",
-        "url": "https://open.spotify.com/album/7ayutJVCI79fMgDvi895qn"
-      },
-      "artists": [
-        {
-          "name": "Dollar Selmouni",
-          "url": "https://open.spotify.com/artist/2544NCTfffschCn1NZVMSb"
-        }
-      ],
-      "duration_ms": 194250,
-      "name": "LOCO PERDIDO",
-      "url": "https://open.spotify.com/track/6vyyrRNK9OoroDwq8xMxcw"
-    },
-    {
-      "added_at": "2026-09-11 04:59:18",
-      "album": {
         "name": "Uma Brasileira",
         "url": "https://open.spotify.com/album/4Hyx4W2Sn1sDkzdt59D7uC"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 198238,
       "name": "Uma Brasileira",
       "url": "https://open.spotify.com/track/29D91Pr51YCpddMwXBv6MC"
+    },
+    {
+      "added_at": "2026-09-11 04:59:18",
+      "album": {
+        "name": "LOCO PERDIDO",
+        "url": "https://open.spotify.com/album/7ayutJVCI79fMgDvi895qn"
+      },
+      "artists": [
+        {
+          "name": "Dollar Selmouni",
+          "url": "https://open.spotify.com/artist/2544NCTfffschCn1NZVMSb"
+        }
+      ],
+      "duration_ms": 194250,
+      "name": "LOCO PERDIDO",
+      "url": "https://open.spotify.com/track/6vyyrRNK9OoroDwq8xMxcw"
     },
     {
       "added_at": "2026-09-11 04:59:18",
@@ -1527,30 +1527,6 @@
     {
       "added_at": "2026-09-11 04:59:18",
       "album": {
-        "name": "Criminal (feat. Elsa y Elmar)",
-        "url": "https://open.spotify.com/album/6VHUYwwNx4EubxQsYwXtxU"
-      },
-      "artists": [
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        },
-        {
-          "name": "Recoversi\u00f3n",
-          "url": "https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r"
-        },
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 221042,
-      "name": "Criminal (feat. Elsa y Elmar)",
-      "url": "https://open.spotify.com/track/6FG9h8E4Z7su0QBYPRsgWQ"
-    },
-    {
-      "added_at": "2026-09-11 04:59:18",
-      "album": {
         "name": "Lo que piensen de mi",
         "url": "https://open.spotify.com/album/6IVbC1LTF7lGNyVBNXdJkF"
       },
@@ -1571,6 +1547,30 @@
       "duration_ms": 206794,
       "name": "Lo que piensen de mi",
       "url": "https://open.spotify.com/track/5rcTB3yayyjw5I1ZhpLHkp"
+    },
+    {
+      "added_at": "2026-09-11 04:59:18",
+      "album": {
+        "name": "Criminal (feat. Elsa y Elmar)",
+        "url": "https://open.spotify.com/album/6VHUYwwNx4EubxQsYwXtxU"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        },
+        {
+          "name": "Recoversi\u00f3n",
+          "url": "https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r"
+        },
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 221042,
+      "name": "Criminal (feat. Elsa y Elmar)",
+      "url": "https://open.spotify.com/track/6FG9h8E4Z7su0QBYPRsgWQ"
     },
     {
       "added_at": "2026-09-11 04:59:18",
@@ -1803,6 +1803,26 @@
     {
       "added_at": "2026-09-11 04:59:18",
       "album": {
+        "name": "Pericos & Friends (Extended)",
+        "url": "https://open.spotify.com/album/4IIfIS47aChs97w8hrgCcY"
+      },
+      "artists": [
+        {
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        },
+        {
+          "name": "Tony Dize",
+          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
+        }
+      ],
+      "duration_ms": 195348,
+      "name": "Mucha Experiencia - Su Reggaeton Mix",
+      "url": "https://open.spotify.com/track/2fDS9RVbESui1ufoov4nGJ"
+    },
+    {
+      "added_at": "2026-09-11 04:59:18",
+      "album": {
         "name": "CONECTA EL SOUND #2",
         "url": "https://open.spotify.com/album/54RW72KgtFYWcdygC0pGuP"
       },
@@ -1831,26 +1851,6 @@
       "duration_ms": 240000,
       "name": "CONECTA EL SOUND #2",
       "url": "https://open.spotify.com/track/3BIu9U6Bz6wuVu6TrOuN9i"
-    },
-    {
-      "added_at": "2026-09-11 04:59:18",
-      "album": {
-        "name": "Pericos & Friends (Extended)",
-        "url": "https://open.spotify.com/album/4IIfIS47aChs97w8hrgCcY"
-      },
-      "artists": [
-        {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
-        },
-        {
-          "name": "Tony Dize",
-          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
-        }
-      ],
-      "duration_ms": 195348,
-      "name": "Mucha Experiencia - Su Reggaeton Mix",
-      "url": "https://open.spotify.com/track/2fDS9RVbESui1ufoov4nGJ"
     },
     {
       "added_at": "2026-09-11 04:59:18",

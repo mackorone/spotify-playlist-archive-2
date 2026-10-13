@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > ⁺‧₊˚⋆a curated space for the avant\-garde⋆˚₊‧⁺ cover: femtanyl
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,338 likes - 88 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,372 likes - 88 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [SNOW ON THE TABLE](https://open.spotify.com/track/0KHVv7KPMEnu54Ci5v6e5x) | [Ledbyher](https://open.spotify.com/artist/4UDkTxtdr3HpZrDRu9727s) | [SNOW ON THE TABLE](https://open.spotify.com/album/41J33SFHdCe6YfIhVAPBk4) | 2:06 |
-| 2 | [All dogs go to heaven](https://open.spotify.com/track/6wAEahV7CPHBNYFBgxQ20x) | [Deadin Dogyears](https://open.spotify.com/artist/1zB26j1lx6VfX3DW48Gc4N) | [All dogs go to heaven](https://open.spotify.com/album/5NWKlmyUqNen4ON0c0BXPy) | 2:22 |
-| 3 | [You're Gonna Be OK!](https://open.spotify.com/track/5MsfEsSSopXeBdfmXVZAQa) | [dear cupid.](https://open.spotify.com/artist/31nUrCOQRMlh4cg7aUpD43) | [You're Gonna Be OK!](https://open.spotify.com/album/6TEuwyzYGbTG0sILwujNm6) | 2:35 |
-| 4 | [ALL THE TIME](https://open.spotify.com/track/07Lnncx7fTArEe4BHLnLWJ) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [ALL THE TIME](https://open.spotify.com/album/6DZxQpQzDRwsJhDxsKY6dH) | 2:37 |
-| 5 | [Baby you're a mess](https://open.spotify.com/track/53uiyax0R8EXdinnARGj30) | [Creach](https://open.spotify.com/artist/1rXzU8skEqngYPWZDWCRcH) | [Baby you're a mess](https://open.spotify.com/album/2PBRi5Kf6lP31GiEBHIKAw) | 2:57 |
-| 6 | [vintage vuitton](https://open.spotify.com/track/6Rvi7T8vQkkIYQcp1DWm3u) | [earfzilla](https://open.spotify.com/artist/65SDZetBIC5qK27DoJUx0f) | [vintage vuitton](https://open.spotify.com/album/6l9qksdtvLKaFg6SZv1Xem) | 1:26 |
-| 7 | [ACCELERANDO](https://open.spotify.com/track/3Vv6jWPmzKXlaoKsVwNM0O) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [VADAKIN](https://open.spotify.com/artist/67KVnh5ZMCqghjFzGWojzZ) | [ACCELERANDO](https://open.spotify.com/album/05fB9r7Z6fMkGxLRufTXJv) | 4:02 |
-| 8 | [ENERGY](https://open.spotify.com/track/7MDCCnQeDtmzItt0O6s2TB) | [OAKK](https://open.spotify.com/artist/5Fxhpw4yw2CH0k6q3b4q0y) | [ENERGY](https://open.spotify.com/album/0PFEpg2fWIqdfmL89zUbVl) | 2:55 |
-| 9 | [ready or noT](https://open.spotify.com/track/4R6mvFkBtqoETkCLs3pXwU) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [ready or noT](https://open.spotify.com/album/65yX2K3hB9sV0sxOa5mxXK) | 4:02 |
+| 1 | [vintage vuitton](https://open.spotify.com/track/6Rvi7T8vQkkIYQcp1DWm3u) | [earfzilla](https://open.spotify.com/artist/65SDZetBIC5qK27DoJUx0f) | [vintage vuitton](https://open.spotify.com/album/6l9qksdtvLKaFg6SZv1Xem) | 1:26 |
+| 2 | [Baby you're a mess](https://open.spotify.com/track/53uiyax0R8EXdinnARGj30) | [Creach](https://open.spotify.com/artist/1rXzU8skEqngYPWZDWCRcH) | [Baby you're a mess](https://open.spotify.com/album/2PBRi5Kf6lP31GiEBHIKAw) | 2:57 |
+| 3 | [ready or noT](https://open.spotify.com/track/4R6mvFkBtqoETkCLs3pXwU) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [ready or noT](https://open.spotify.com/album/65yX2K3hB9sV0sxOa5mxXK) | 4:02 |
+| 4 | [All dogs go to heaven](https://open.spotify.com/track/6wAEahV7CPHBNYFBgxQ20x) | [Deadin Dogyears](https://open.spotify.com/artist/1zB26j1lx6VfX3DW48Gc4N) | [All dogs go to heaven](https://open.spotify.com/album/5NWKlmyUqNen4ON0c0BXPy) | 2:22 |
+| 5 | [SNOW ON THE TABLE](https://open.spotify.com/track/0KHVv7KPMEnu54Ci5v6e5x) | [Ledbyher](https://open.spotify.com/artist/4UDkTxtdr3HpZrDRu9727s) | [SNOW ON THE TABLE](https://open.spotify.com/album/41J33SFHdCe6YfIhVAPBk4) | 2:06 |
+| 6 | [You're Gonna Be OK!](https://open.spotify.com/track/5MsfEsSSopXeBdfmXVZAQa) | [dear cupid.](https://open.spotify.com/artist/31nUrCOQRMlh4cg7aUpD43) | [You're Gonna Be OK!](https://open.spotify.com/album/6TEuwyzYGbTG0sILwujNm6) | 2:35 |
+| 7 | [ALL THE TIME](https://open.spotify.com/track/07Lnncx7fTArEe4BHLnLWJ) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [ALL THE TIME](https://open.spotify.com/album/6DZxQpQzDRwsJhDxsKY6dH) | 2:37 |
+| 8 | [ACCELERANDO](https://open.spotify.com/track/3Vv6jWPmzKXlaoKsVwNM0O) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [VADAKIN](https://open.spotify.com/artist/67KVnh5ZMCqghjFzGWojzZ) | [ACCELERANDO](https://open.spotify.com/album/05fB9r7Z6fMkGxLRufTXJv) | 4:02 |
+| 9 | [ENERGY](https://open.spotify.com/track/7MDCCnQeDtmzItt0O6s2TB) | [OAKK](https://open.spotify.com/artist/5Fxhpw4yw2CH0k6q3b4q0y) | [ENERGY](https://open.spotify.com/album/0PFEpg2fWIqdfmL89zUbVl) | 2:55 |
 | 10 | [Wouldn't Say](https://open.spotify.com/track/21NbcXsuKVVdymWt8Kz57t) | [Monsune](https://open.spotify.com/artist/6NgYKD0TKGjwtRFqTyyqKF) | [Wouldn't Say](https://open.spotify.com/album/5syUY2ehWGz7LCHMnYF2wL) | 4:35 |
 | 11 | [Follow](https://open.spotify.com/track/0ux2EioEe5Fw07rXYRUSTz) | [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Star Of Love](https://open.spotify.com/album/00v21bgN2da5KonMWEAMec) | 3:14 |
 | 12 | [Somehow](https://open.spotify.com/track/0o0xDQvMqZUMu4LbuRsck6) | [Madrid Exit](https://open.spotify.com/artist/3WFmXJyXjp3MEf97eT0uzO) | [Somehow](https://open.spotify.com/album/4qFSrzg96dR3w8KAnfpFW2) | 3:03 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 87 | [－･･ ･ ･－－･ ･－ ･－･ － ･･－ ･－･ ･](https://open.spotify.com/track/4S0TvmAnhdoEXmCTmiFNp6) | [･ ･－･ ･－ ･･･ ･ －･･](https://open.spotify.com/artist/0EUOiLsLpv9g7H9YCzUnBS) | [－･･ ･ ･－－･ ･－ ･－･ － ･･－ ･－･ ･](https://open.spotify.com/album/6V2s6MGb8X7C9eZfDhF7Jy) | 7:10 |
 | 88 | [MUSIC SAVED MY LIFE](https://open.spotify.com/track/11s4KWKnusrlkZspPoQNyA) | [IDHEM](https://open.spotify.com/artist/0ev3YqTtoPa2dtCEG2HNDa) | [BEFORE GRANDE](https://open.spotify.com/album/3V2tbjvK7Yl9gquooDh08f) | 3:27 |
 
-Snapshot ID: `AAAAAHc13qqI4WX5tCrPwK5bAFGepyNw`
+Snapshot ID: `AAAAAFr5hIkEeCLIT6Vd8mNic4hK883Y`

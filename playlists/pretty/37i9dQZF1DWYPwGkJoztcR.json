@@ -1,6 +1,6 @@
 {
   "description": "Koffie met gemoedelijke muziek op de achtergrond.",
-  "num_followers": 398406,
+  "num_followers": 398421,
   "original_name": "'t Koffiehuis",
   "owner": {
     "name": "Spotify",
@@ -551,22 +551,6 @@
     {
       "added_at": "2026-09-10 22:00:08",
       "album": {
-        "name": "goodbye",
-        "url": "https://open.spotify.com/album/59txMlbVSKHpifWj0pN5Vq"
-      },
-      "artists": [
-        {
-          "name": "Amistat",
-          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
-        }
-      ],
-      "duration_ms": 170476,
-      "name": "goodbye",
-      "url": "https://open.spotify.com/track/4CgpqIHgo979yH4gu9AU66"
-    },
-    {
-      "added_at": "2026-09-10 22:00:08",
-      "album": {
         "name": "Lies",
         "url": "https://open.spotify.com/album/0NQ0db0GPSUYicdx1aiF5e"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 227408,
       "name": "Lies",
       "url": "https://open.spotify.com/track/5hXctFvYF5cp6y9eIjAqy2"
+    },
+    {
+      "added_at": "2026-09-10 22:00:08",
+      "album": {
+        "name": "goodbye",
+        "url": "https://open.spotify.com/album/59txMlbVSKHpifWj0pN5Vq"
+      },
+      "artists": [
+        {
+          "name": "Amistat",
+          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
+        }
+      ],
+      "duration_ms": 170476,
+      "name": "goodbye",
+      "url": "https://open.spotify.com/track/4CgpqIHgo979yH4gu9AU66"
     },
     {
       "added_at": "2026-09-10 22:00:08",
@@ -631,6 +631,22 @@
     {
       "added_at": "2026-09-10 22:00:08",
       "album": {
+        "name": "Until My Last Breath",
+        "url": "https://open.spotify.com/album/2gIZT0Buq4dZ1mwcYdCuKT"
+      },
+      "artists": [
+        {
+          "name": "NYVE",
+          "url": "https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA"
+        }
+      ],
+      "duration_ms": 177813,
+      "name": "Until My Last Breath",
+      "url": "https://open.spotify.com/track/14IkANhrfPnJownyQUpiq1"
+    },
+    {
+      "added_at": "2026-09-10 22:00:08",
+      "album": {
         "name": "On The Way",
         "url": "https://open.spotify.com/album/3H2v38YigQUXP24Yhq49YA"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 175844,
       "name": "Saturday Silence",
       "url": "https://open.spotify.com/track/1QGVy7iVqFrb45SKBWt6e9"
-    },
-    {
-      "added_at": "2026-09-10 22:00:08",
-      "album": {
-        "name": "Until My Last Breath",
-        "url": "https://open.spotify.com/album/2gIZT0Buq4dZ1mwcYdCuKT"
-      },
-      "artists": [
-        {
-          "name": "NYVE",
-          "url": "https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA"
-        }
-      ],
-      "duration_ms": 177813,
-      "name": "Until My Last Breath",
-      "url": "https://open.spotify.com/track/14IkANhrfPnJownyQUpiq1"
     },
     {
       "added_at": "2026-09-10 22:00:08",
@@ -747,18 +747,18 @@
     {
       "added_at": "2026-09-10 22:00:08",
       "album": {
-        "name": "Calling Out",
-        "url": "https://open.spotify.com/album/6fzk3KsLIJzzlYaEoOmSvn"
+        "name": "Beginners",
+        "url": "https://open.spotify.com/album/5gG3tn5rwn5MRVVIRq8wNN"
       },
       "artists": [
         {
-          "name": "Solar State",
-          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
+          "name": "HAEVN",
+          "url": "https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6"
         }
       ],
-      "duration_ms": 150904,
-      "name": "Calling Out",
-      "url": "https://open.spotify.com/track/7dDFaYUvDRqrGFIKWRQUMW"
+      "duration_ms": 216005,
+      "name": "Beginners",
+      "url": "https://open.spotify.com/track/5AsLsFWZPWDC5KSv49nEhd"
     },
     {
       "added_at": "2026-09-10 22:00:08",
@@ -779,18 +779,18 @@
     {
       "added_at": "2026-09-10 22:00:08",
       "album": {
-        "name": "Beginners",
-        "url": "https://open.spotify.com/album/5gG3tn5rwn5MRVVIRq8wNN"
+        "name": "Calling Out",
+        "url": "https://open.spotify.com/album/6fzk3KsLIJzzlYaEoOmSvn"
       },
       "artists": [
         {
-          "name": "HAEVN",
-          "url": "https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6"
+          "name": "Solar State",
+          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
         }
       ],
-      "duration_ms": 216005,
-      "name": "Beginners",
-      "url": "https://open.spotify.com/track/5AsLsFWZPWDC5KSv49nEhd"
+      "duration_ms": 150904,
+      "name": "Calling Out",
+      "url": "https://open.spotify.com/track/7dDFaYUvDRqrGFIKWRQUMW"
     },
     {
       "added_at": "2026-09-10 22:00:08",
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-09-10 22:00:08",
       "album": {
-        "name": "Like It Always Was",
-        "url": "https://open.spotify.com/album/1MbDgDFNVspz3stTWb1vDI"
-      },
-      "artists": [
-        {
-          "name": "Danny Vera",
-          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
-        }
-      ],
-      "duration_ms": 200113,
-      "name": "Like It Always Was",
-      "url": "https://open.spotify.com/track/5aniJiKNuKy75LfedJ5dTt"
-    },
-    {
-      "added_at": "2026-09-10 22:00:08",
-      "album": {
         "name": "Happy, Pt. 2",
         "url": "https://open.spotify.com/album/6ZU1LCfGkXbU7Ot0R528yi"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 230715,
       "name": "I Miss You",
       "url": "https://open.spotify.com/track/2AAhrVlXSqTUDLGPQDbqCz"
+    },
+    {
+      "added_at": "2026-09-10 22:00:08",
+      "album": {
+        "name": "Like It Always Was",
+        "url": "https://open.spotify.com/album/1MbDgDFNVspz3stTWb1vDI"
+      },
+      "artists": [
+        {
+          "name": "Danny Vera",
+          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
+        }
+      ],
+      "duration_ms": 200113,
+      "name": "Like It Always Was",
+      "url": "https://open.spotify.com/track/5aniJiKNuKy75LfedJ5dTt"
     },
     {
       "added_at": "2026-09-10 22:00:08",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2026-09-10 22:00:08",
       "album": {
-        "name": "Hunter",
-        "url": "https://open.spotify.com/album/5oWJKqQnZp3xNZRx6ncRpR"
+        "name": "Don't Leave Me Now",
+        "url": "https://open.spotify.com/album/3242iTcpKXzQe4zFTp2AMz"
       },
       "artists": [
         {
-          "name": "\u00c1sgeir",
-          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
+          "name": "Lucas Hamming",
+          "url": "https://open.spotify.com/artist/4iDpNIlF0YzksZ35iQf196"
         }
       ],
-      "duration_ms": 252400,
-      "name": "Hunter",
-      "url": "https://open.spotify.com/track/55C3EVIHYnHxX8lKIR4Pjy"
+      "duration_ms": 232082,
+      "name": "Don't Leave Me Now",
+      "url": "https://open.spotify.com/track/6WmFcu5t23LYIw6jotpn5Z"
     },
     {
       "added_at": "2026-09-10 22:00:08",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-09-10 22:00:08",
       "album": {
-        "name": "Don't Leave Me Now",
-        "url": "https://open.spotify.com/album/3242iTcpKXzQe4zFTp2AMz"
-      },
-      "artists": [
-        {
-          "name": "Lucas Hamming",
-          "url": "https://open.spotify.com/artist/4iDpNIlF0YzksZ35iQf196"
-        }
-      ],
-      "duration_ms": 232082,
-      "name": "Don't Leave Me Now",
-      "url": "https://open.spotify.com/track/6WmFcu5t23LYIw6jotpn5Z"
-    },
-    {
-      "added_at": "2026-09-10 22:00:08",
-      "album": {
         "name": "One Life",
         "url": "https://open.spotify.com/album/7d3jCuEQ8pXtg0bjxtcTsC"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 150937,
       "name": "One Life",
       "url": "https://open.spotify.com/track/4H6huybuIXixEEvEFBiltj"
+    },
+    {
+      "added_at": "2026-09-10 22:00:08",
+      "album": {
+        "name": "Hunter",
+        "url": "https://open.spotify.com/album/5oWJKqQnZp3xNZRx6ncRpR"
+      },
+      "artists": [
+        {
+          "name": "\u00c1sgeir",
+          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
+        }
+      ],
+      "duration_ms": 252400,
+      "name": "Hunter",
+      "url": "https://open.spotify.com/track/55C3EVIHYnHxX8lKIR4Pjy"
     },
     {
       "added_at": "2026-09-10 22:00:08",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-09-10 22:00:08",
       "album": {
-        "name": "One Day",
-        "url": "https://open.spotify.com/album/4W8MdPWEUpVTttKtzhbERL"
-      },
-      "artists": [
-        {
-          "name": "Axelle",
-          "url": "https://open.spotify.com/artist/6ngMbvXa9lkh6ArCCuw0LQ"
-        }
-      ],
-      "duration_ms": 179148,
-      "name": "One Day",
-      "url": "https://open.spotify.com/track/0Tka4kL8PHgbrI1cfd4cqS"
-    },
-    {
-      "added_at": "2026-09-10 22:00:08",
-      "album": {
         "name": "Easy To Love (feat. Iris Jean)",
         "url": "https://open.spotify.com/album/4dzcTV21H0O6LfuliqlYBp"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 226853,
       "name": "Easy To Love (feat. Iris Jean)",
       "url": "https://open.spotify.com/track/63iSpVU9FUKevNdkUYpnUD"
+    },
+    {
+      "added_at": "2026-09-10 22:00:08",
+      "album": {
+        "name": "One Day",
+        "url": "https://open.spotify.com/album/4W8MdPWEUpVTttKtzhbERL"
+      },
+      "artists": [
+        {
+          "name": "Axelle",
+          "url": "https://open.spotify.com/artist/6ngMbvXa9lkh6ArCCuw0LQ"
+        }
+      ],
+      "duration_ms": 179148,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/0Tka4kL8PHgbrI1cfd4cqS"
     },
     {
       "added_at": "2026-09-10 22:00:08",
@@ -1271,8 +1271,8 @@
     {
       "added_at": "2026-09-10 22:00:08",
       "album": {
-        "name": "Crystal Tears",
-        "url": "https://open.spotify.com/album/5FwyV0GtSv7cFi5jf8IykE"
+        "name": "Body Language",
+        "url": "https://open.spotify.com/album/6FqyoSKSRukmIm6kcXaLJR"
       },
       "artists": [
         {
@@ -1280,9 +1280,9 @@
           "url": "https://open.spotify.com/artist/7IGk0iXhaPjqvQF4Zi2R2K"
         }
       ],
-      "duration_ms": 222691,
-      "name": "Crystal Tears",
-      "url": "https://open.spotify.com/track/2U79GTtriUkPKJJSy4Ggeb"
+      "duration_ms": 191040,
+      "name": "Body Language",
+      "url": "https://open.spotify.com/track/0lMWdThDnxoiySOEX6ur4o"
     },
     {
       "added_at": "2026-09-10 22:00:08",
@@ -1359,8 +1359,8 @@
     {
       "added_at": "2026-09-10 22:00:08",
       "album": {
-        "name": "Body Language",
-        "url": "https://open.spotify.com/album/6FqyoSKSRukmIm6kcXaLJR"
+        "name": "Crystal Tears",
+        "url": "https://open.spotify.com/album/5FwyV0GtSv7cFi5jf8IykE"
       },
       "artists": [
         {
@@ -1368,25 +1368,9 @@
           "url": "https://open.spotify.com/artist/7IGk0iXhaPjqvQF4Zi2R2K"
         }
       ],
-      "duration_ms": 191040,
-      "name": "Body Language",
-      "url": "https://open.spotify.com/track/0lMWdThDnxoiySOEX6ur4o"
-    },
-    {
-      "added_at": "2026-09-10 22:00:08",
-      "album": {
-        "name": "I'm Always On Stage",
-        "url": "https://open.spotify.com/album/7cp6JGilOv7SbJxOSzc1UB"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 243546,
-      "name": "I'm Always On Stage",
-      "url": "https://open.spotify.com/track/2GR3y9iXb5Lae2KLQJUy2J"
+      "duration_ms": 222691,
+      "name": "Crystal Tears",
+      "url": "https://open.spotify.com/track/2U79GTtriUkPKJJSy4Ggeb"
     },
     {
       "added_at": "2026-09-10 22:00:08",
@@ -1403,6 +1387,22 @@
       "duration_ms": 199000,
       "name": "Always Lost",
       "url": "https://open.spotify.com/track/1GLJrhvJcD7MDzH4oSfimf"
+    },
+    {
+      "added_at": "2026-09-10 22:00:08",
+      "album": {
+        "name": "I'm Always On Stage",
+        "url": "https://open.spotify.com/album/7cp6JGilOv7SbJxOSzc1UB"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 243546,
+      "name": "I'm Always On Stage",
+      "url": "https://open.spotify.com/track/2GR3y9iXb5Lae2KLQJUy2J"
     },
     {
       "added_at": "2026-09-10 22:00:08",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2026-09-10 22:00:08",
       "album": {
-        "name": "Conversation",
-        "url": "https://open.spotify.com/album/2uiBton7Bsbn3rFABv8vDp"
+        "name": "Back to the River",
+        "url": "https://open.spotify.com/album/6yaMZCMnX7lTWKLeyAhutG"
       },
       "artists": [
         {
-          "name": "Sarah Julia",
-          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+          "name": "Jon Allen",
+          "url": "https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa"
         }
       ],
-      "duration_ms": 186438,
-      "name": "Conversation",
-      "url": "https://open.spotify.com/track/7xNTBpjd4aU98Roi43Gzzo"
+      "duration_ms": 249863,
+      "name": "Back to the River",
+      "url": "https://open.spotify.com/track/7h15s9nOXVe8nH9TGqXb6O"
     },
     {
       "added_at": "2026-09-10 22:00:08",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2026-09-10 22:00:08",
       "album": {
-        "name": "Back to the River",
-        "url": "https://open.spotify.com/album/6yaMZCMnX7lTWKLeyAhutG"
-      },
-      "artists": [
-        {
-          "name": "Jon Allen",
-          "url": "https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa"
-        }
-      ],
-      "duration_ms": 249863,
-      "name": "Back to the River",
-      "url": "https://open.spotify.com/track/7h15s9nOXVe8nH9TGqXb6O"
-    },
-    {
-      "added_at": "2026-09-10 22:00:08",
-      "album": {
         "name": "Bend",
         "url": "https://open.spotify.com/album/24Lcq3Gfs5zUkovQWsmTAT"
       },
@@ -1519,6 +1503,22 @@
     {
       "added_at": "2026-09-10 22:00:08",
       "album": {
+        "name": "Conversation",
+        "url": "https://open.spotify.com/album/2uiBton7Bsbn3rFABv8vDp"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "duration_ms": 186438,
+      "name": "Conversation",
+      "url": "https://open.spotify.com/track/7xNTBpjd4aU98Roi43Gzzo"
+    },
+    {
+      "added_at": "2026-09-10 22:00:08",
+      "album": {
         "name": "Queen Of My Castle",
         "url": "https://open.spotify.com/album/1FmqqLLTFfcUKKhKI4q7FM"
       },
@@ -1531,6 +1531,22 @@
       "duration_ms": 179054,
       "name": "Company Store",
       "url": "https://open.spotify.com/track/5t62X15lF4mm3tcw3S1HAu"
+    },
+    {
+      "added_at": "2026-09-10 22:00:08",
+      "album": {
+        "name": "Pink Shades",
+        "url": "https://open.spotify.com/album/3ukzsoKcwtAyFnjtbGbCKw"
+      },
+      "artists": [
+        {
+          "name": "Blackbird",
+          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
+        }
+      ],
+      "duration_ms": 195586,
+      "name": "Lonely On Lovers Lane",
+      "url": "https://open.spotify.com/track/5PLSERzlNXmiOJsMMyI9j7"
     },
     {
       "added_at": "2026-09-10 22:00:08",
@@ -1567,42 +1583,6 @@
     {
       "added_at": "2026-09-10 22:00:08",
       "album": {
-        "name": "Pink Shades",
-        "url": "https://open.spotify.com/album/3ukzsoKcwtAyFnjtbGbCKw"
-      },
-      "artists": [
-        {
-          "name": "Blackbird",
-          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
-        }
-      ],
-      "duration_ms": 195586,
-      "name": "Lonely On Lovers Lane",
-      "url": "https://open.spotify.com/track/5PLSERzlNXmiOJsMMyI9j7"
-    },
-    {
-      "added_at": "2026-09-10 22:00:08",
-      "album": {
-        "name": "Just Another Road",
-        "url": "https://open.spotify.com/album/6QhmM3FglBHKpZdYF6DQo6"
-      },
-      "artists": [
-        {
-          "name": "Tim Akkerman",
-          "url": "https://open.spotify.com/artist/1mdYzJv7Z90aiNlfBvoI9u"
-        },
-        {
-          "name": "The Ivy League",
-          "url": "https://open.spotify.com/artist/3sEDJcE3V0YjnmaxIQP5qO"
-        }
-      ],
-      "duration_ms": 180177,
-      "name": "Just Another Road",
-      "url": "https://open.spotify.com/track/1AG54oWoFQkowhjonVMemw"
-    },
-    {
-      "added_at": "2026-09-10 22:00:08",
-      "album": {
         "name": "Trouble Is Me",
         "url": "https://open.spotify.com/album/2haCvHHeluKqvojJPKzJpN"
       },
@@ -1635,18 +1615,38 @@
     {
       "added_at": "2026-09-10 22:00:08",
       "album": {
-        "name": "Po\u00e8te Maudit",
-        "url": "https://open.spotify.com/album/7vLoKhrg9BBXWqUVOeE5bZ"
+        "name": "Just Another Road",
+        "url": "https://open.spotify.com/album/6QhmM3FglBHKpZdYF6DQo6"
       },
       "artists": [
         {
-          "name": "Orange Skyline",
-          "url": "https://open.spotify.com/artist/2khmzZ3jOfcd9tJ821E6Xx"
+          "name": "Tim Akkerman",
+          "url": "https://open.spotify.com/artist/1mdYzJv7Z90aiNlfBvoI9u"
+        },
+        {
+          "name": "The Ivy League",
+          "url": "https://open.spotify.com/artist/3sEDJcE3V0YjnmaxIQP5qO"
         }
       ],
-      "duration_ms": 167320,
-      "name": "Po\u00e8te Maudit",
-      "url": "https://open.spotify.com/track/1Jxowf9kQioNDbM2znWRbV"
+      "duration_ms": 180177,
+      "name": "Just Another Road",
+      "url": "https://open.spotify.com/track/1AG54oWoFQkowhjonVMemw"
+    },
+    {
+      "added_at": "2026-09-10 22:00:08",
+      "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/3rd9u0gRWSDMCkO7UcF0jV"
+      },
+      "artists": [
+        {
+          "name": "Celine Cairo",
+          "url": "https://open.spotify.com/artist/2icndAD2G5umAWdgrARONR"
+        }
+      ],
+      "duration_ms": 248019,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/5q5bSQnrPsdxvmb17kAIxU"
     }
   ],
   "unique_name": "'t Koffiehuis",

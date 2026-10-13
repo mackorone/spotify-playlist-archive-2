@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 163764,
+  "num_followers": 163791,
   "original_name": "Fiesta Cristiana",
   "owner": {
     "name": "Spotify",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "Para Mi Familia",
-        "url": "https://open.spotify.com/album/2XB5BdIK6HyN5KQRVzwFo1"
-      },
-      "artists": [
-        {
-          "name": "Andrez Babii",
-          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
-        }
-      ],
-      "duration_ms": 235132,
-      "name": "Para Mi Familia",
-      "url": "https://open.spotify.com/track/1qNE7QsxoOwLHKGfHYb8NG"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
         "name": "LA CARRERA",
         "url": "https://open.spotify.com/album/1sSG2TAk0x8UPvxK7XP4UF"
       },
@@ -747,6 +731,38 @@
       "duration_ms": 177605,
       "name": "LA CARRERA",
       "url": "https://open.spotify.com/track/5CXwffu2JuV5ZbkaRltH6n"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
+        "name": "Para Mi Familia",
+        "url": "https://open.spotify.com/album/2XB5BdIK6HyN5KQRVzwFo1"
+      },
+      "artists": [
+        {
+          "name": "Andrez Babii",
+          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
+        }
+      ],
+      "duration_ms": 235132,
+      "name": "Para Mi Familia",
+      "url": "https://open.spotify.com/track/1qNE7QsxoOwLHKGfHYb8NG"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
+        "name": "Buenas Vibras",
+        "url": "https://open.spotify.com/album/3drBEOSydxW1BOBC2ISWf9"
+      },
+      "artists": [
+        {
+          "name": "Germ\u00e1n Barcel\u00f3",
+          "url": "https://open.spotify.com/artist/0TqIqqSqiZQaWUZaoGGHVJ"
+        }
+      ],
+      "duration_ms": 188624,
+      "name": "Buenas Vibras",
+      "url": "https://open.spotify.com/track/72ApGW2XVzlMsL5uXnZeS7"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -771,22 +787,6 @@
       "duration_ms": 217253,
       "name": "Invencible",
       "url": "https://open.spotify.com/track/6bRVHuWfivG1EkMaUdPvZ7"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
-        "name": "Buenas Vibras",
-        "url": "https://open.spotify.com/album/3drBEOSydxW1BOBC2ISWf9"
-      },
-      "artists": [
-        {
-          "name": "Germ\u00e1n Barcel\u00f3",
-          "url": "https://open.spotify.com/artist/0TqIqqSqiZQaWUZaoGGHVJ"
-        }
-      ],
-      "duration_ms": 188624,
-      "name": "Buenas Vibras",
-      "url": "https://open.spotify.com/track/72ApGW2XVzlMsL5uXnZeS7"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -839,26 +839,6 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "Ya Casi (EP)",
-        "url": "https://open.spotify.com/album/5D37Ew73jCOQzlLdMznYrb"
-      },
-      "artists": [
-        {
-          "name": "Tommy Royale",
-          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
-        },
-        {
-          "name": "CRYS",
-          "url": "https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Perfecto Amor",
-      "url": "https://open.spotify.com/track/0jBbeVhkryAwD2APDFLF7v"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
         "name": "Prepararse para la Buena",
         "url": "https://open.spotify.com/album/7oEHPS2X62dX0izKEwVU65"
       },
@@ -879,6 +859,26 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
+        "name": "Ya Casi (EP)",
+        "url": "https://open.spotify.com/album/5D37Ew73jCOQzlLdMznYrb"
+      },
+      "artists": [
+        {
+          "name": "Tommy Royale",
+          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
+        },
+        {
+          "name": "CRYS",
+          "url": "https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Perfecto Amor",
+      "url": "https://open.spotify.com/track/0jBbeVhkryAwD2APDFLF7v"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
         "name": "Hombre Nuevo",
         "url": "https://open.spotify.com/album/5fwaqRiuPuWy20W0H8L33G"
       },
@@ -891,22 +891,6 @@
       "duration_ms": 178285,
       "name": "Hombre Nuevo",
       "url": "https://open.spotify.com/track/72WPumC5PUtjxDqei587sW"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/3E3UbV8CHRyD25cHZU1dtw"
-      },
-      "artists": [
-        {
-          "name": "ANMILY",
-          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
-        }
-      ],
-      "duration_ms": 147672,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/0bI1DevumPPMmeTCyfoi6X"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -927,18 +911,18 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "GRACIAS",
-        "url": "https://open.spotify.com/album/2o4wNjj8v1ltM7rwAHnpf5"
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3E3UbV8CHRyD25cHZU1dtw"
       },
       "artists": [
         {
-          "name": "Manny Montes",
-          "url": "https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd"
+          "name": "ANMILY",
+          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
         }
       ],
-      "duration_ms": 166310,
-      "name": "GRACIAS",
-      "url": "https://open.spotify.com/track/2sZ3ZWYVtFDqvBZDB4kyd1"
+      "duration_ms": 147672,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/0bI1DevumPPMmeTCyfoi6X"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -959,6 +943,22 @@
       "duration_ms": 186750,
       "name": "Cubana",
       "url": "https://open.spotify.com/track/6LcXSW7D6XH5BzBFeCM9OX"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
+        "name": "GRACIAS",
+        "url": "https://open.spotify.com/album/2o4wNjj8v1ltM7rwAHnpf5"
+      },
+      "artists": [
+        {
+          "name": "Manny Montes",
+          "url": "https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd"
+        }
+      ],
+      "duration_ms": 166310,
+      "name": "GRACIAS",
+      "url": "https://open.spotify.com/track/2sZ3ZWYVtFDqvBZDB4kyd1"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
+        "name": "Por \u00c9l",
+        "url": "https://open.spotify.com/album/3DsRMA1y064FYY6NiiPZx5"
+      },
+      "artists": [
+        {
+          "name": "Jairon High",
+          "url": "https://open.spotify.com/artist/7uvf9bsJVUHUyiSK0aU42M"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Por \u00c9l",
+      "url": "https://open.spotify.com/track/4byLjSJHwOMjFr6Lv0ZhxA"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
         "name": "Yeshua Hamashiaj - MelGod (Remix)",
         "url": "https://open.spotify.com/album/2XTIYiYuAmD7oIQBlp6Eeg"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 200000,
       "name": "Yeshua Hamashiaj - MelGod - Remix",
       "url": "https://open.spotify.com/track/3nqBd4EKWTW822kwFikdVB"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
-        "name": "Por \u00c9l",
-        "url": "https://open.spotify.com/album/3DsRMA1y064FYY6NiiPZx5"
-      },
-      "artists": [
-        {
-          "name": "Jairon High",
-          "url": "https://open.spotify.com/artist/7uvf9bsJVUHUyiSK0aU42M"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Por \u00c9l",
-      "url": "https://open.spotify.com/track/4byLjSJHwOMjFr6Lv0ZhxA"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "The Comeback",
-        "url": "https://open.spotify.com/album/6QHrG7LHkxHllhPJWPoler"
-      },
-      "artists": [
-        {
-          "name": "Triple Seven",
-          "url": "https://open.spotify.com/artist/7cOcEjYXnkleFMc5J8ypBN"
-        }
-      ],
-      "duration_ms": 177804,
-      "name": "Pasa La Pagina",
-      "url": "https://open.spotify.com/track/4uEjtzySgNys9SE5zsjnYC"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
         "name": "La Verdad EP",
         "url": "https://open.spotify.com/album/27nCwqrnUIZ0HnIKIUV5Di"
       },
@@ -1123,18 +1107,18 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "SE\u00d1ALES",
-        "url": "https://open.spotify.com/album/32vBL6gW4fNNAlLRvVXTdC"
+        "name": "The Comeback",
+        "url": "https://open.spotify.com/album/6QHrG7LHkxHllhPJWPoler"
       },
       "artists": [
         {
-          "name": "Lilo Music",
-          "url": "https://open.spotify.com/artist/5Ohvie2JLowLLNB7SdTvEd"
+          "name": "Triple Seven",
+          "url": "https://open.spotify.com/artist/7cOcEjYXnkleFMc5J8ypBN"
         }
       ],
-      "duration_ms": 135737,
-      "name": "TE ENCONTRE",
-      "url": "https://open.spotify.com/track/3f6EjbsN0NBnGXDpwXbW1w"
+      "duration_ms": 177804,
+      "name": "Pasa La Pagina",
+      "url": "https://open.spotify.com/track/4uEjtzySgNys9SE5zsjnYC"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -1175,6 +1159,22 @@
       "duration_ms": 222715,
       "name": "Lamento En Baile",
       "url": "https://open.spotify.com/track/4saQuK5mH4rp0C2TqJiuEi"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
+        "name": "SE\u00d1ALES",
+        "url": "https://open.spotify.com/album/32vBL6gW4fNNAlLRvVXTdC"
+      },
+      "artists": [
+        {
+          "name": "Lilo Music",
+          "url": "https://open.spotify.com/artist/5Ohvie2JLowLLNB7SdTvEd"
+        }
+      ],
+      "duration_ms": 135737,
+      "name": "TE ENCONTRE",
+      "url": "https://open.spotify.com/track/3f6EjbsN0NBnGXDpwXbW1w"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "BUENO",
-        "url": "https://open.spotify.com/album/3KkIKPzguKWwH8a8Cn9QqG"
-      },
-      "artists": [
-        {
-          "name": "Nate Diaz",
-          "url": "https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN"
-        },
-        {
-          "name": "Isaani Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/4x8OSQZsomr7H00K1sBCbk"
-        }
-      ],
-      "duration_ms": 168214,
-      "name": "BUENO",
-      "url": "https://open.spotify.com/track/4FJK8XrXrHLSbO25WLduz8"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
         "name": "Del Agua Al Cielo",
         "url": "https://open.spotify.com/album/1OCvOFV7UCnBknPshXgXaC"
       },
@@ -1455,6 +1435,26 @@
       "duration_ms": 209316,
       "name": "Del Agua Al Cielo",
       "url": "https://open.spotify.com/track/1eDMdg30D6ylaY3cFhKeva"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
+        "name": "BUENO",
+        "url": "https://open.spotify.com/album/3KkIKPzguKWwH8a8Cn9QqG"
+      },
+      "artists": [
+        {
+          "name": "Nate Diaz",
+          "url": "https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN"
+        },
+        {
+          "name": "Isaani Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/4x8OSQZsomr7H00K1sBCbk"
+        }
+      ],
+      "duration_ms": 168214,
+      "name": "BUENO",
+      "url": "https://open.spotify.com/track/4FJK8XrXrHLSbO25WLduz8"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "Al Que Tenga O\u00eddos",
-        "url": "https://open.spotify.com/album/495hr9d0zX8u9sQNpdrGKs"
-      },
-      "artists": [
-        {
-          "name": "Son By Four",
-          "url": "https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j"
-        }
-      ],
-      "duration_ms": 283425,
-      "name": "Al Que Tenga O\u00eddos",
-      "url": "https://open.spotify.com/track/6lvxBy3WOcvso7klc5Yr3F"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
         "name": "Ni\u00f1os De Iglesia",
         "url": "https://open.spotify.com/album/07nUnS3pfK554wgcxyERFh"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 210690,
       "name": "La Bandera",
       "url": "https://open.spotify.com/track/4TokDL5lQ2HZPv8D718orZ"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
+        "name": "Al Que Tenga O\u00eddos",
+        "url": "https://open.spotify.com/album/495hr9d0zX8u9sQNpdrGKs"
+      },
+      "artists": [
+        {
+          "name": "Son By Four",
+          "url": "https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j"
+        }
+      ],
+      "duration_ms": 283425,
+      "name": "Al Que Tenga O\u00eddos",
+      "url": "https://open.spotify.com/track/6lvxBy3WOcvso7klc5Yr3F"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
+        "name": "closefriend",
+        "url": "https://open.spotify.com/album/2EBh6PRsSVmVxRmlRCdpDa"
+      },
+      "artists": [
+        {
+          "name": "Calejandro",
+          "url": "https://open.spotify.com/artist/59qZZ7RuILeDLzHNcBt0Ye"
+        }
+      ],
+      "duration_ms": 188108,
+      "name": "closefriend",
+      "url": "https://open.spotify.com/track/26e0AKJGdXBGlznLTYW1SA"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
         "name": "Volver\u00e1",
         "url": "https://open.spotify.com/album/7DRNG9t5bs1NS2DQjvPTm7"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 168000,
       "name": "Volver\u00e1",
       "url": "https://open.spotify.com/track/2qGxIyNElbwwmdgovGPXFQ"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
-        "name": "closefriend",
-        "url": "https://open.spotify.com/album/2EBh6PRsSVmVxRmlRCdpDa"
-      },
-      "artists": [
-        {
-          "name": "Calejandro",
-          "url": "https://open.spotify.com/artist/59qZZ7RuILeDLzHNcBt0Ye"
-        }
-      ],
-      "duration_ms": 188108,
-      "name": "closefriend",
-      "url": "https://open.spotify.com/track/26e0AKJGdXBGlznLTYW1SA"
     },
     {
       "added_at": "2026-08-01 02:46:09",

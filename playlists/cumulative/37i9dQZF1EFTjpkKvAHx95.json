@@ -2229,6 +2229,28 @@
     },
     {
       "album": {
+        "name": "Pretty Girlz Run The World",
+        "url": "https://open.spotify.com/album/1CE0V7fzLEnlGPcTaj4ruh"
+      },
+      "artists": [
+        {
+          "name": "Loe Shimmy",
+          "url": "https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147401,
+      "name": "Just Saying (feat. Summer Walker)",
+      "url": "https://open.spotify.com/track/2J23wFXB3E99p5jTRN1JjJ"
+    },
+    {
+      "album": {
         "name": "Never Gets Late Here",
         "url": "https://open.spotify.com/album/2wkK1n9m6c7OutXRgtvVsz"
       },
@@ -4430,6 +4452,46 @@
       "duration_ms": 152563,
       "name": "WATER",
       "url": "https://open.spotify.com/track/5vIiGOCqhPwnQDZhWhewGU"
+    },
+    {
+      "album": {
+        "name": "Cut Ties",
+        "url": "https://open.spotify.com/album/2KH8PHZCwSqFWiFOz2jzAy"
+      },
+      "artists": [
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142675,
+      "name": "Weakness",
+      "url": "https://open.spotify.com/track/3v8uR7XAZqt33CYissKybU"
+    },
+    {
+      "album": {
+        "name": "Cut Ties (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6dkIA6cPbDA99Q3zNon5iS"
+      },
+      "artists": [
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        },
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178631,
+      "name": "Weakness - feat. Chl\u00f6e",
+      "url": "https://open.spotify.com/track/1Wc4wmMx49snocr8JbO2iG"
     },
     {
       "album": {

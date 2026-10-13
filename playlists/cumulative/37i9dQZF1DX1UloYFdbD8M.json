@@ -9462,6 +9462,32 @@
     {
       "album": {
         "name": "Porul",
+        "url": "https://open.spotify.com/album/5S4cs8jCekXHhxRCqymSXG"
+      },
+      "artists": [
+        {
+          "name": "Akhil Vijay",
+          "url": "https://open.spotify.com/artist/5b6V4OlRznrWP4wOjIIVnh"
+        },
+        {
+          "name": "Vaikom Vijayalakshmi",
+          "url": "https://open.spotify.com/artist/1tsy6ph4p6fVETd32Cbpcb"
+        },
+        {
+          "name": "Akhil Sisupal",
+          "url": "https://open.spotify.com/artist/5qRl2MSbk4p1cQ3tYSiLFM"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208037,
+      "name": "Porul",
+      "url": "https://open.spotify.com/track/7bLqlTTkrYwEVlVJiYxzLQ"
+    },
+    {
+      "album": {
+        "name": "Porul",
         "url": "https://open.spotify.com/album/6fQGWw9fs9ms6JVpMQDzeM"
       },
       "artists": [
@@ -9600,6 +9626,32 @@
       "duration_ms": 230183,
       "name": "Premaalamil",
       "url": "https://open.spotify.com/track/1VeJX1Mx3wXV46KYhWiXmt"
+    },
+    {
+      "album": {
+        "name": "Punchiri",
+        "url": "https://open.spotify.com/album/3dqZQWkJ9uOvWIoz4TK2UY"
+      },
+      "artists": [
+        {
+          "name": "Eechuu",
+          "url": "https://open.spotify.com/artist/4CB5jLRM1EUNK2y6l7kixx"
+        },
+        {
+          "name": "Suhas",
+          "url": "https://open.spotify.com/artist/4p2Sm00Hqt9ICdLO7ASkcO"
+        },
+        {
+          "name": "Chris Wayne",
+          "url": "https://open.spotify.com/artist/5GkVAEDUPPeV3INTYATuzc"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163759,
+      "name": "Punchiri",
+      "url": "https://open.spotify.com/track/1CJOj6Bs5OIasNTROmfWFJ"
     },
     {
       "album": {

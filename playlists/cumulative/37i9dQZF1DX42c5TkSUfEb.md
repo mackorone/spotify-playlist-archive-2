@@ -4,7 +4,7 @@
 
 > La playlist idéale pour se détendre en musique.
 
-544 songs - 1 day 8 hr 53 min
+545 songs - 1 day 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,7 +249,7 @@
 | [Is This Really Love?](https://open.spotify.com/track/0h2vooD5PFOykbPon6ShIZ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WITHERED](https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf) | 3:15 | 2025-04-25 | 2025-05-30 |
 | [Island](https://open.spotify.com/track/3YKwLWmaVqrW6u0eogYXFD) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Welcome to the Mood \(Special Edition\)](https://open.spotify.com/album/3DBaYwShtoRDePdSskpsHf) | 3:03 | 2026-05-29 |  |
 | [It's a Mirror](https://open.spotify.com/track/3El9UdrncPt4ISzlv7v8ON) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [It's a Mirror](https://open.spotify.com/album/1fy2JdEjjXymGJWtVE1ckz) | 3:32 | 2025-01-23 | 2025-02-21 |
-| [it's over, i'm sober](https://open.spotify.com/track/3xXoPfR3HWKHPHgwFxqd0J) | [Felix Antonio](https://open.spotify.com/artist/2pSPk7tWs5NpVMB6l6EbyZ) | [Felix Antonio & the Sea](https://open.spotify.com/album/6f4lM2gbgsiFejncsNfM0h) | 3:28 | 2026-09-17 |  |
+| [it's over, i'm sober](https://open.spotify.com/track/3xXoPfR3HWKHPHgwFxqd0J) | [Felix Antonio](https://open.spotify.com/artist/2pSPk7tWs5NpVMB6l6EbyZ) | [Felix Antonio & the Sea](https://open.spotify.com/album/6f4lM2gbgsiFejncsNfM0h) | 3:28 | 2026-09-17 | 2026-10-13 |
 | [It's Too Late](https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 3:53 | 2022-11-25 |  |
 | [J'ai besoin de toi \- A COLORS SHOW](https://open.spotify.com/track/3XomyFTFwlXp7pdAJOLEAP) | [Ariane Bonzini](https://open.spotify.com/artist/2usVLqamY2IRU9OWILJZWz), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [J'ai besoin de toi \- A COLORS SHOW](https://open.spotify.com/album/4uLJaDz52N7VNGjxCA6XCM) | 2:45 | 2026-02-06 |  |
 | [Jamie](https://open.spotify.com/track/1CixWJUzpYMzFWkViPYcri) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Glory \(Extended\)](https://open.spotify.com/album/5ybA8BfD2SVzJQ0rwWIcCz) | 5:02 | 2026-02-27 | 2026-04-27 |
@@ -519,6 +519,7 @@
 | [Villa d'été](https://open.spotify.com/track/5b9ynJg3oLzBSs087ubJzN) | [Amouë](https://open.spotify.com/artist/5hxkInZtrkxDnUjsRqs5Ww), [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH) | [Villa d'été](https://open.spotify.com/album/2aVPOnczxN0DHnZpLAvVSy) | 3:22 | 2025-09-18 | 2025-09-30 |
 | [Virginia Moon](https://open.spotify.com/track/2Ei5auE9kCmwKB2JZtKPKO) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [In Your Honor](https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ) | 3:49 | 2023-02-21 | 2023-11-21 |
 | [Vivid Light](https://open.spotify.com/track/5AvrkGFKSu7Hj66y7BPiBE) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Essex Honey](https://open.spotify.com/album/5RUma3H9uzDLXxwT7JzTel) | 4:22 | 2025-08-28 | 2026-03-13 |
+| [waiting for me](https://open.spotify.com/track/7o34qMgjMGWjadKNH1cBvc) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Ambiguous Desire \(Deluxe\)](https://open.spotify.com/album/7rbyJmp77Xj3utqDm71rWO) | 3:14 | 2026-10-12 |  |
 | [Walk On the Wild Side](https://open.spotify.com/track/5p3JunprHCxClJjOmcLV8G) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Transformer](https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St) | 4:15 | 2022-11-25 |  |
 | [WALLS](https://open.spotify.com/track/41QhRnFDdhMLtR8tmnolbr) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [WALLS](https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm) | 5:29 | 2022-11-25 |  |
 | [Walls](https://open.spotify.com/track/3XMl69GS63VxoSOO6Nxord) | [The Army, The Navy](https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI) | [Walls](https://open.spotify.com/album/4FnT4jNQkFwDtHbmWz6laY) | 3:12 | 2026-03-06 | 2026-08-22 |

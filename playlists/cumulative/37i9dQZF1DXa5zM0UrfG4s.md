@@ -4,7 +4,7 @@
 
 > rølp og sånt
 
-484 songs - 22 hr 15 min
+485 songs - 22 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -340,7 +340,8 @@
 | [Nå Er Det Fredan Igjen](https://open.spotify.com/track/6zYOdvNQuHxUQtmktw2vwo) | [Rune Rudberg](https://open.spotify.com/artist/5vViCpDnSSDRHtSmFhrKfY) | [Tro](https://open.spotify.com/album/0kFw68XIGOIjPDa39wgSKb) | 2:50 | 2021-12-16 | 2022-05-11 |
 | [Nå er det helg](https://open.spotify.com/track/2n7GTFWvs7pyR02eHEjiLp) | [Katastrofe](https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR) | [Nå er det helg](https://open.spotify.com/album/0YPZCUXaKBeoC2Y5AV7ius) | 3:03 | 2021-12-16 | 2026-05-01 |
 | [Nå Koser Vi Oss](https://open.spotify.com/track/6bZHVGx3Qj0zoUUSZjextf) | [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9) | [Nå Koser Vi Oss](https://open.spotify.com/album/4xXIxalm2k3gzYDPxBUgaF) | 2:49 | 2021-12-16 | 2024-02-09 |
-| [Når solå går ned](https://open.spotify.com/track/4AqDTmKxJMMAOsNhhKVI5V) | [Stavangerkameratene](https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA) | [Når solå går ned](https://open.spotify.com/album/6Fnzvn4reiS3UJVrYOaqQo) | 3:19 | 2025-10-16 |  |
+| [Når solå går ned](https://open.spotify.com/track/4AqDTmKxJMMAOsNhhKVI5V) | [Stavangerkameratene](https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA) | [Når solå går ned](https://open.spotify.com/album/6Fnzvn4reiS3UJVrYOaqQo) | 3:19 | 2025-10-16 | 2026-10-13 |
+| [Når tårer fell](https://open.spotify.com/track/3INwh9Vs7vPkqs5UVQFgBE) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [Før du går](https://open.spotify.com/album/3ESeJbRLVfkCkQRCHo2Za2) | 4:36 | 2026-10-09 |  |
 | [Ola](https://open.spotify.com/track/4xjEz1oESbKlbge5czJUa6) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Ola](https://open.spotify.com/album/6aSofv0Ux8UAd2d9SLjgFG) | 3:24 | 2022-03-10 | 2026-08-28 |
 | [Om igjen](https://open.spotify.com/track/1xjH8AXPen7QsInIual4yF) | [Archer](https://open.spotify.com/artist/5nhwZTZri5arEhPjYJVtfe), [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN) | [Om igjen](https://open.spotify.com/album/16f2U7RUhhchDESg3o81hV) | 2:55 | 2025-07-03 | 2026-02-02 |
 | [Oppi Ein Dal](https://open.spotify.com/track/6JMatYYmKlvo1I0dNKes5R) | [Kruttrøyk](https://open.spotify.com/artist/1e1vDSbWqUyPfETrVY5mM8) | [Farande Fant](https://open.spotify.com/album/6NQHQ6V4o7d2Vd1EGF1lsn) | 3:01 | 2022-01-13 | 2022-04-21 |

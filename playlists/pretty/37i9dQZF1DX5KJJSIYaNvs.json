@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover - Palak Muchhal",
-  "num_followers": 110053,
+  "num_followers": 110076,
   "original_name": "EQUAL India",
   "owner": {
     "name": "Spotify",
@@ -295,34 +295,6 @@
     {
       "added_at": "2026-10-09 04:31:25",
       "album": {
-        "name": "Vaari Jaavan (From \"Dhurandhar The Revenge\")",
-        "url": "https://open.spotify.com/album/3ZuPJdRCHLLmqr2y6qrqKC"
-      },
-      "artists": [
-        {
-          "name": "Shashwat Sachdev",
-          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
-        },
-        {
-          "name": "Jyoti Nooran",
-          "url": "https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB"
-        },
-        {
-          "name": "Jasmine Sandlas",
-          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
-        },
-        {
-          "name": "Reble",
-          "url": "https://open.spotify.com/artist/3MsxNLVtDVGxjEaxgKAoi0"
-        }
-      ],
-      "duration_ms": 250040,
-      "name": "Vaari Jaavan (From \"Dhurandhar The Revenge\")",
-      "url": "https://open.spotify.com/track/1qJiRzRlmNrzYBsMdVPqT2"
-    },
-    {
-      "added_at": "2026-10-09 04:31:25",
-      "album": {
         "name": "Omkara (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3CdkDorcfkSaGbnjUsz884"
       },
@@ -351,6 +323,34 @@
       "duration_ms": 350160,
       "name": "Beedi",
       "url": "https://open.spotify.com/track/2YMM8URWpyGIrT0sKBLtD3"
+    },
+    {
+      "added_at": "2026-10-09 04:31:25",
+      "album": {
+        "name": "Vaari Jaavan (From \"Dhurandhar The Revenge\")",
+        "url": "https://open.spotify.com/album/3ZuPJdRCHLLmqr2y6qrqKC"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        },
+        {
+          "name": "Jyoti Nooran",
+          "url": "https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB"
+        },
+        {
+          "name": "Jasmine Sandlas",
+          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
+        },
+        {
+          "name": "Reble",
+          "url": "https://open.spotify.com/artist/3MsxNLVtDVGxjEaxgKAoi0"
+        }
+      ],
+      "duration_ms": 250040,
+      "name": "Vaari Jaavan (From \"Dhurandhar The Revenge\")",
+      "url": "https://open.spotify.com/track/1qJiRzRlmNrzYBsMdVPqT2"
     },
     {
       "added_at": "2026-10-09 04:31:25",
@@ -839,22 +839,26 @@
     {
       "added_at": "2026-10-09 04:31:25",
       "album": {
-        "name": "Feeka",
-        "url": "https://open.spotify.com/album/76gnTOJwG2tIcpUsR6Dd0A"
+        "name": "Raanjha Ve",
+        "url": "https://open.spotify.com/album/1aKRuchDESVVFxttPnSl9i"
       },
       "artists": [
         {
-          "name": "gini",
-          "url": "https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0"
+          "name": "Tulsi Kumar",
+          "url": "https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1"
         },
         {
-          "name": "NEVERSOBER",
-          "url": "https://open.spotify.com/artist/4QWgs64BJEmTH6OfcBsEvO"
+          "name": "Abhijeet Srivastava",
+          "url": "https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C"
+        },
+        {
+          "name": "Shayra Apoorva",
+          "url": "https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8"
         }
       ],
-      "duration_ms": 163500,
-      "name": "Feeka",
-      "url": "https://open.spotify.com/track/0KtpHwKA3UylFJyaJcdBxv"
+      "duration_ms": 173043,
+      "name": "Raanjha Ve",
+      "url": "https://open.spotify.com/track/1H0f09c2KuSuXMfF0scX5j"
     },
     {
       "added_at": "2026-10-09 04:31:25",
@@ -907,26 +911,22 @@
     {
       "added_at": "2026-10-09 04:31:25",
       "album": {
-        "name": "Raanjha Ve",
-        "url": "https://open.spotify.com/album/1aKRuchDESVVFxttPnSl9i"
+        "name": "Feeka",
+        "url": "https://open.spotify.com/album/76gnTOJwG2tIcpUsR6Dd0A"
       },
       "artists": [
         {
-          "name": "Tulsi Kumar",
-          "url": "https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1"
+          "name": "gini",
+          "url": "https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0"
         },
         {
-          "name": "Abhijeet Srivastava",
-          "url": "https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C"
-        },
-        {
-          "name": "Shayra Apoorva",
-          "url": "https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8"
+          "name": "NEVERSOBER",
+          "url": "https://open.spotify.com/artist/4QWgs64BJEmTH6OfcBsEvO"
         }
       ],
-      "duration_ms": 173043,
-      "name": "Raanjha Ve",
-      "url": "https://open.spotify.com/track/1H0f09c2KuSuXMfF0scX5j"
+      "duration_ms": 163500,
+      "name": "Feeka",
+      "url": "https://open.spotify.com/track/0KtpHwKA3UylFJyaJcdBxv"
     },
     {
       "added_at": "2026-10-09 04:31:25",
@@ -975,30 +975,6 @@
       "duration_ms": 255584,
       "name": "Chand Mera Dil - Shreya Ghoshal",
       "url": "https://open.spotify.com/track/5cSqQfaMvqzHGEaNwixO0E"
-    },
-    {
-      "added_at": "2026-10-09 04:31:25",
-      "album": {
-        "name": "Toxic (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4jGcNTPz6qjQxPM7uTQJUV"
-      },
-      "artists": [
-        {
-          "name": "Vishal Mishra",
-          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
-        },
-        {
-          "name": "Jonita Gandhi",
-          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
-        },
-        {
-          "name": "Raj Shekhar",
-          "url": "https://open.spotify.com/artist/2DFCHTDIA0t638a4mm37dK"
-        }
-      ],
-      "duration_ms": 171547,
-      "name": "Chingariyaan - From \"Toxic\"",
-      "url": "https://open.spotify.com/track/3w2rfa8YIAgLEqwRBublOJ"
     },
     {
       "added_at": "2026-10-09 04:31:25",
@@ -1063,6 +1039,30 @@
       "duration_ms": 198837,
       "name": "Piya Bina",
       "url": "https://open.spotify.com/track/5ZzyOL637Vkvp2K6nIjYrp"
+    },
+    {
+      "added_at": "2026-10-09 04:31:25",
+      "album": {
+        "name": "Toxic (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4jGcNTPz6qjQxPM7uTQJUV"
+      },
+      "artists": [
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        },
+        {
+          "name": "Raj Shekhar",
+          "url": "https://open.spotify.com/artist/2DFCHTDIA0t638a4mm37dK"
+        }
+      ],
+      "duration_ms": 171547,
+      "name": "Chingariyaan - From \"Toxic\"",
+      "url": "https://open.spotify.com/track/3w2rfa8YIAgLEqwRBublOJ"
     },
     {
       "added_at": "2026-10-09 04:31:25",
@@ -1219,30 +1219,6 @@
     {
       "added_at": "2026-10-09 04:31:25",
       "album": {
-        "name": "Le Chal",
-        "url": "https://open.spotify.com/album/2YDwbvLoFZeo8aV2X6EYhQ"
-      },
-      "artists": [
-        {
-          "name": "Salim\u2013Sulaiman",
-          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
-        },
-        {
-          "name": "Hansika Pareek",
-          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
-        },
-        {
-          "name": "Shraddha Pandit",
-          "url": "https://open.spotify.com/artist/4rhk6lDh2srdV1a1qmIqGa"
-        }
-      ],
-      "duration_ms": 167663,
-      "name": "Le Chal",
-      "url": "https://open.spotify.com/track/1kUJWLNZMOGoYfZWXjmXra"
-    },
-    {
-      "added_at": "2026-10-09 04:31:25",
-      "album": {
         "name": "Red Flag",
         "url": "https://open.spotify.com/album/31IK2iRy13nI7JeepjD1X4"
       },
@@ -1267,6 +1243,54 @@
     {
       "added_at": "2026-10-09 04:31:25",
       "album": {
+        "name": "Phata Patakha (From \"Nayyi Navelli\")",
+        "url": "https://open.spotify.com/album/77sVe4XjjylJ1ceFFV2DzG"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Madhubanti Bagchi",
+          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
+        },
+        {
+          "name": "Vayu",
+          "url": "https://open.spotify.com/artist/5vwmYR4hN6lASQJUMWPrEL"
+        }
+      ],
+      "duration_ms": 196444,
+      "name": "Phata Patakha - From \"Nayyi Navelli\"",
+      "url": "https://open.spotify.com/track/6K7O2zTFOukjnOE1jxwV9s"
+    },
+    {
+      "added_at": "2026-10-09 04:31:25",
+      "album": {
+        "name": "Le Chal",
+        "url": "https://open.spotify.com/album/2YDwbvLoFZeo8aV2X6EYhQ"
+      },
+      "artists": [
+        {
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+        },
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        },
+        {
+          "name": "Shraddha Pandit",
+          "url": "https://open.spotify.com/artist/4rhk6lDh2srdV1a1qmIqGa"
+        }
+      ],
+      "duration_ms": 167663,
+      "name": "Le Chal",
+      "url": "https://open.spotify.com/track/1kUJWLNZMOGoYfZWXjmXra"
+    },
+    {
+      "added_at": "2026-10-09 04:31:25",
+      "album": {
         "name": "Jiya",
         "url": "https://open.spotify.com/album/7f1k4Bhpsa8jyEcIuOwDVM"
       },
@@ -1279,6 +1303,30 @@
       "duration_ms": 181826,
       "name": "Jiya",
       "url": "https://open.spotify.com/track/0N0k2zsecxTf0Z2mRIFryQ"
+    },
+    {
+      "added_at": "2026-10-09 04:31:25",
+      "album": {
+        "name": "Late Night In The Living Room",
+        "url": "https://open.spotify.com/album/0aRozipSX2QwhzssRkEb0B"
+      },
+      "artists": [
+        {
+          "name": "Denny",
+          "url": "https://open.spotify.com/artist/6KozIqto3bkoQp4lksicOA"
+        },
+        {
+          "name": "Sanah Moidutty",
+          "url": "https://open.spotify.com/artist/5PRw7B1MlnXte2taK1ePlC"
+        },
+        {
+          "name": "Shloke Lal",
+          "url": "https://open.spotify.com/artist/5hICADiHIRxjNDx2qEhlXb"
+        }
+      ],
+      "duration_ms": 144118,
+      "name": "Raazi",
+      "url": "https://open.spotify.com/track/0ExOAhgB6vv1ldXym9yI7B"
     },
     {
       "added_at": "2026-10-09 04:31:25",
@@ -1327,50 +1375,46 @@
     {
       "added_at": "2026-10-09 04:31:25",
       "album": {
-        "name": "Late Night In The Living Room",
-        "url": "https://open.spotify.com/album/0aRozipSX2QwhzssRkEb0B"
+        "name": "HISAAB",
+        "url": "https://open.spotify.com/album/6N8K0OL3KMROwl2EwewZ26"
       },
       "artists": [
         {
-          "name": "Denny",
-          "url": "https://open.spotify.com/artist/6KozIqto3bkoQp4lksicOA"
+          "name": "Aanchal Tyagi",
+          "url": "https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off"
         },
         {
-          "name": "Sanah Moidutty",
-          "url": "https://open.spotify.com/artist/5PRw7B1MlnXte2taK1ePlC"
-        },
-        {
-          "name": "Shloke Lal",
-          "url": "https://open.spotify.com/artist/5hICADiHIRxjNDx2qEhlXb"
+          "name": "Abhijeet Srivastava",
+          "url": "https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C"
         }
       ],
-      "duration_ms": 144118,
-      "name": "Raazi",
-      "url": "https://open.spotify.com/track/0ExOAhgB6vv1ldXym9yI7B"
+      "duration_ms": 143644,
+      "name": "HISAAB",
+      "url": "https://open.spotify.com/track/0R9xT7EWcutJxpCu5PKRUq"
     },
     {
       "added_at": "2026-10-09 04:31:25",
       "album": {
-        "name": "Phata Patakha (From \"Nayyi Navelli\")",
-        "url": "https://open.spotify.com/album/77sVe4XjjylJ1ceFFV2DzG"
+        "name": "Dusk",
+        "url": "https://open.spotify.com/album/3Dq4SEDCl3vFSOqvH7m7ik"
       },
       "artists": [
         {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+          "name": "Bhoomi",
+          "url": "https://open.spotify.com/artist/0gMaH5l7qBDky1LyM6ELYS"
         },
         {
-          "name": "Madhubanti Bagchi",
-          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
+          "name": "Sparsh Dangwal",
+          "url": "https://open.spotify.com/artist/1SClATlfgXE2qlr4FcEhUS"
         },
         {
-          "name": "Vayu",
-          "url": "https://open.spotify.com/artist/5vwmYR4hN6lASQJUMWPrEL"
+          "name": "Mukul Verma",
+          "url": "https://open.spotify.com/artist/7CoPUqZrA6s6x8Iqa4eY6H"
         }
       ],
-      "duration_ms": 196444,
-      "name": "Phata Patakha - From \"Nayyi Navelli\"",
-      "url": "https://open.spotify.com/track/6K7O2zTFOukjnOE1jxwV9s"
+      "duration_ms": 164571,
+      "name": "Dusk",
+      "url": "https://open.spotify.com/track/5RDcDKJPV5YaNNj4C8Id12"
     },
     {
       "added_at": "2026-10-09 04:31:25",
@@ -1399,26 +1443,18 @@
     {
       "added_at": "2026-10-09 04:31:25",
       "album": {
-        "name": "Dusk",
-        "url": "https://open.spotify.com/album/3Dq4SEDCl3vFSOqvH7m7ik"
+        "name": "Beparwai",
+        "url": "https://open.spotify.com/album/1BeYM2mXXPO7ZLOugJnzO8"
       },
       "artists": [
         {
-          "name": "Bhoomi",
-          "url": "https://open.spotify.com/artist/0gMaH5l7qBDky1LyM6ELYS"
-        },
-        {
-          "name": "Sparsh Dangwal",
-          "url": "https://open.spotify.com/artist/1SClATlfgXE2qlr4FcEhUS"
-        },
-        {
-          "name": "Mukul Verma",
-          "url": "https://open.spotify.com/artist/7CoPUqZrA6s6x8Iqa4eY6H"
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
         }
       ],
-      "duration_ms": 164571,
-      "name": "Dusk",
-      "url": "https://open.spotify.com/track/5RDcDKJPV5YaNNj4C8Id12"
+      "duration_ms": 160749,
+      "name": "Beparwai",
+      "url": "https://open.spotify.com/track/4qcuk9fEUEvnm2rCoBJG5K"
     },
     {
       "added_at": "2026-10-09 04:31:25",
@@ -1451,22 +1487,6 @@
     {
       "added_at": "2026-10-09 04:31:25",
       "album": {
-        "name": "Beparwai",
-        "url": "https://open.spotify.com/album/1BeYM2mXXPO7ZLOugJnzO8"
-      },
-      "artists": [
-        {
-          "name": "Jonita Gandhi",
-          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
-        }
-      ],
-      "duration_ms": 160749,
-      "name": "Beparwai",
-      "url": "https://open.spotify.com/track/4qcuk9fEUEvnm2rCoBJG5K"
-    },
-    {
-      "added_at": "2026-10-09 04:31:25",
-      "album": {
         "name": "Asla Najaij",
         "url": "https://open.spotify.com/album/46cJtfiJmMzUYoKhkefiQU"
       },
@@ -1483,26 +1503,6 @@
       "duration_ms": 141900,
       "name": "Asla Najaij",
       "url": "https://open.spotify.com/track/1gp9frbLJZRdvu7GFfTKbX"
-    },
-    {
-      "added_at": "2026-10-09 04:31:25",
-      "album": {
-        "name": "HISAAB",
-        "url": "https://open.spotify.com/album/6N8K0OL3KMROwl2EwewZ26"
-      },
-      "artists": [
-        {
-          "name": "Aanchal Tyagi",
-          "url": "https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off"
-        },
-        {
-          "name": "Abhijeet Srivastava",
-          "url": "https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C"
-        }
-      ],
-      "duration_ms": 143644,
-      "name": "HISAAB",
-      "url": "https://open.spotify.com/track/0R9xT7EWcutJxpCu5PKRUq"
     },
     {
       "added_at": "2026-10-09 04:31:25",
@@ -1531,6 +1531,22 @@
       "duration_ms": 180728,
       "name": "Balma",
       "url": "https://open.spotify.com/track/2Ao7j1XOc6CdC1Nehjatzo"
+    },
+    {
+      "added_at": "2026-10-09 04:31:25",
+      "album": {
+        "name": "Kasoor/Doori",
+        "url": "https://open.spotify.com/album/5eC2ybLTURAU1BOsX00FtH"
+      },
+      "artists": [
+        {
+          "name": "W.i.S.H.",
+          "url": "https://open.spotify.com/artist/2vLEmJVZps65484RfPMM1k"
+        }
+      ],
+      "duration_ms": 156500,
+      "name": "Kasoor",
+      "url": "https://open.spotify.com/track/35eeeFZ1sL1tAuu1Te0Vcj"
     },
     {
       "added_at": "2026-10-09 04:31:25",
@@ -1651,22 +1667,6 @@
       "duration_ms": 222586,
       "name": "Main Baavri",
       "url": "https://open.spotify.com/track/1DceX8Q6yDVg3DWH6qhnPT"
-    },
-    {
-      "added_at": "2026-10-09 04:31:25",
-      "album": {
-        "name": "Kasoor/Doori",
-        "url": "https://open.spotify.com/album/5eC2ybLTURAU1BOsX00FtH"
-      },
-      "artists": [
-        {
-          "name": "W.i.S.H.",
-          "url": "https://open.spotify.com/artist/2vLEmJVZps65484RfPMM1k"
-        }
-      ],
-      "duration_ms": 156500,
-      "name": "Kasoor",
-      "url": "https://open.spotify.com/track/35eeeFZ1sL1tAuu1Te0Vcj"
     },
     {
       "added_at": "2026-10-09 04:31:25",

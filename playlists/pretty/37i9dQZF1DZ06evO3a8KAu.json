@@ -1,12 +1,12 @@
 {
   "description": "This is Ulices Chaidez. The essential tracks, all in one playlist.",
-  "num_followers": 50960,
+  "num_followers": 50963,
   "original_name": "This Is Ulices Chaidez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asgugAAAAACPU/22iSzqnlmUwhdD9Nl4",
+  "snapshot_id": "asrRgAAAAADR6DkzsDdDYj5S++geM+3v",
   "tracks": [
     {
       "added_at": null,
@@ -163,8 +163,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ten\u00eda Que Ser As\u00ed",
-        "url": "https://open.spotify.com/album/5jwi3znQm71ufVih6xLgED"
+        "name": "Resumen 16-23",
+        "url": "https://open.spotify.com/album/1UdIN4v7LKvKZ0AuscGLWc"
       },
       "artists": [
         {
@@ -172,9 +172,9 @@
           "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
         }
       ],
-      "duration_ms": 150605,
-      "name": "Mi Bello \u00c1ngel",
-      "url": "https://open.spotify.com/track/31FzCxz4Iys6DXWgWPIw18"
+      "duration_ms": 198721,
+      "name": "Mirate Nomas",
+      "url": "https://open.spotify.com/track/1HanGbd4wdUiWiaYO59ubb"
     },
     {
       "added_at": null,
@@ -195,8 +195,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Resumen 16-23",
-        "url": "https://open.spotify.com/album/1UdIN4v7LKvKZ0AuscGLWc"
+        "name": "Ten\u00eda Que Ser As\u00ed",
+        "url": "https://open.spotify.com/album/5jwi3znQm71ufVih6xLgED"
       },
       "artists": [
         {
@@ -204,9 +204,9 @@
           "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
         }
       ],
-      "duration_ms": 198721,
-      "name": "Mirate Nomas",
-      "url": "https://open.spotify.com/track/1HanGbd4wdUiWiaYO59ubb"
+      "duration_ms": 150605,
+      "name": "Mi Bello \u00c1ngel",
+      "url": "https://open.spotify.com/track/31FzCxz4Iys6DXWgWPIw18"
     },
     {
       "added_at": null,
@@ -351,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Muchacho de La Esquina",
-        "url": "https://open.spotify.com/album/7izvRY7Za6veHyloHmhGuf"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 154151,
-      "name": "El Muchacho de La Esquina",
-      "url": "https://open.spotify.com/track/6lCqXnW5hWF1LK5IBgttSt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ten\u00eda Que Ser As\u00ed",
         "url": "https://open.spotify.com/album/5jwi3znQm71ufVih6xLgED"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 198896,
       "name": "Despu\u00e9s No Hay Despu\u00e9s",
       "url": "https://open.spotify.com/track/4zjZ9enXsiY1shAytEiCPP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Muchacho de La Esquina",
+        "url": "https://open.spotify.com/album/7izvRY7Za6veHyloHmhGuf"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 154151,
+      "name": "El Muchacho de La Esquina",
+      "url": "https://open.spotify.com/track/6lCqXnW5hWF1LK5IBgttSt"
     },
     {
       "added_at": null,
@@ -559,6 +559,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gente del Este",
+        "url": "https://open.spotify.com/album/671aHdlbJoWJyDhTzIXz0B"
+      },
+      "artists": [
+        {
+          "name": "Oscar Cortez",
+          "url": "https://open.spotify.com/artist/6sCLeqbuK4nOWjcMRb10Gp"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        },
+        {
+          "name": "Los Del Arroyo",
+          "url": "https://open.spotify.com/artist/43mTldLHocYpIrVrGuY4e4"
+        }
+      ],
+      "duration_ms": 186972,
+      "name": "DEL Rojo",
+      "url": "https://open.spotify.com/track/4M4xMmMS8pMrffCzUHz5IG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Por Ti",
         "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
       },
@@ -595,34 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gente del Este",
-        "url": "https://open.spotify.com/album/671aHdlbJoWJyDhTzIXz0B"
-      },
-      "artists": [
-        {
-          "name": "Oscar Cortez",
-          "url": "https://open.spotify.com/artist/6sCLeqbuK4nOWjcMRb10Gp"
-        },
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        },
-        {
-          "name": "Los Del Arroyo",
-          "url": "https://open.spotify.com/artist/43mTldLHocYpIrVrGuY4e4"
-        }
-      ],
-      "duration_ms": 186972,
-      "name": "DEL Rojo",
-      "url": "https://open.spotify.com/track/4M4xMmMS8pMrffCzUHz5IG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dile Luna",
         "url": "https://open.spotify.com/album/5NqeFweZPDsG8BBaDu4t7M"
       },
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Elegido",
-        "url": "https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 193150,
-      "name": "D\u00e9jame Decirle",
-      "url": "https://open.spotify.com/track/4VIgDfzTKpHqRnxQqF3lum"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Por Ti",
         "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 219149,
       "name": "Entre Mas Te Miro",
       "url": "https://open.spotify.com/track/4S0cDhVhaJtF5dDJvPCLov"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Elegido",
+        "url": "https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 193150,
+      "name": "D\u00e9jame Decirle",
+      "url": "https://open.spotify.com/track/4VIgDfzTKpHqRnxQqF3lum"
     },
     {
       "added_at": null,
@@ -719,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Por Ti",
+        "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 222778,
+      "name": "Por Ti",
+      "url": "https://open.spotify.com/track/6EoJjlaHxHGuDGYQd2xMJB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Seguimos En El Ruedo",
         "url": "https://open.spotify.com/album/5hvmfoq7LhljtwgtKiTKI5"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 218923,
       "name": "Voy a Echarme Otra",
       "url": "https://open.spotify.com/track/0xhrEHmvRyhyOtBmz9SQ07"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Por Ti",
-        "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 222778,
-      "name": "Por Ti",
-      "url": "https://open.spotify.com/track/6EoJjlaHxHGuDGYQd2xMJB"
     },
     {
       "added_at": null,

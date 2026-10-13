@@ -4,7 +4,7 @@
 
 > mostly furry
 
-566 songs - 1 day 3 hr 28 min
+569 songs - 1 day 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [DOGMATICA](https://open.spotify.com/track/5yMYeobBNjomn5lBwUNDVY) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [DOGMATICA](https://open.spotify.com/album/0d85LGE6ITL8D5iYo8OTgr) | 2:15 | 2026-08-24 |  |
 | [Don't Bother](https://open.spotify.com/track/6YtbTjeTRj1lnrAmMf0qo9) | [UrvTek](https://open.spotify.com/artist/3YRcEMe1SRTPBGYbiRtBGh) | [Boiler](https://open.spotify.com/album/1FopjRrsqvxJnOAIpmwRHR) | 2:42 | 2026-09-30 |  |
 | [Doom Crossing: Eternal Horizons](https://open.spotify.com/track/7sVOXV0aWjuTYtCbZdxPQn) | [The Chalkeaters](https://open.spotify.com/artist/7x7YgBS9WW3rfvfagAlohI), [Natalia Natchan](https://open.spotify.com/artist/7abYLz64sBgHaMYPJmOq7T) | [Doom Crossing: Eternal Horizons](https://open.spotify.com/album/2yD2cKgM5RhdGuSO5peBnJ) | 2:33 | 2024-07-19 |  |
+| [Down Down Down](https://open.spotify.com/track/6u9Nn6X2eqhrtyzoG296kc) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [OodleZz](https://open.spotify.com/artist/2eCpXBK9mnqr6o9TydXu98) | [Down Down Down](https://open.spotify.com/album/0GJGtyGJLXSdUqDJf4mQed) | 3:37 | 2026-10-12 |  |
 | [Drained](https://open.spotify.com/track/0LnCoc53qeB23X9Ae72Ea7) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Verplex Originals](https://open.spotify.com/album/43xO23OT1dvjB3XtCXuZu9) | 2:44 | 2024-08-03 |  |
 | [Dreamscape](https://open.spotify.com/track/2hqMEyxqZbbyUo76xmVw8e) | [FuryTheOddity](https://open.spotify.com/artist/64UGZxowXHLgIc0mmSfWvl), [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Dreamscape](https://open.spotify.com/album/6UlQZRa8keMyyaBVrVFGRg) | 4:35 | 2024-08-17 |  |
 | [DRIF\-T](https://open.spotify.com/track/4rhNlKuQzmT3nMNuWOTb1s) | [RET TRO](https://open.spotify.com/artist/0a2CSknxVwcDWdXR3QfO4x) | [DRIF\-T](https://open.spotify.com/album/6uu9JRdKlLTT1rpikN8UZZ) | 1:39 | 2024-05-23 |  |
@@ -134,6 +135,7 @@
 | [Fall Is Fallsome](https://open.spotify.com/track/1DFqyin6eL0nuKwJyEyXH9) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Fall Is Fallsome](https://open.spotify.com/album/3nATfZ39oRaHawNdZNNg9A) | 3:05 | 2025-04-26 |  |
 | [Fallacy](https://open.spotify.com/track/6MfjWLBkGRCybOT4mxU67y) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [Fallacy](https://open.spotify.com/album/1PRH0TklfCDJSrzgUF4KbH) | 3:41 | 2024-05-22 |  |
 | [Fallen World](https://open.spotify.com/track/71iOt8FGtRxQygbB5RipWm) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Fallen World](https://open.spotify.com/album/4wy0KibO5jbzRGmW4p8wYk) | 2:24 | 2025-04-26 |  |
+| [False Idol](https://open.spotify.com/track/1X1AU4LZYuQAZ0EcE8R0Tg) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [False Idol](https://open.spotify.com/album/3CDGLKH9aLf2fq5Fjyskje) | 4:34 | 2026-10-12 |  |
 | [False Idol](https://open.spotify.com/track/1c0d0AkCgjtP4PlTZUGRKD) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [False Idol](https://open.spotify.com/album/1jQptzc0Ly6IIrC19j5SRR) | 4:34 | 2024-05-15 |  |
 | [Fantasy](https://open.spotify.com/track/41RvLMCx08DtxVhX5ybc19) | [Tundra Fox](https://open.spotify.com/artist/5YhzBLEPDn6WsOletqmX5M) | [Fantasy](https://open.spotify.com/album/1HpPMK2PYlpEjDab6GuZRo) | 3:50 | 2023-12-07 |  |
 | [Faster n Harder](https://open.spotify.com/track/3qaMprRWLGggArD14diXYz) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [Faster n Harder](https://open.spotify.com/album/60Ip03ili2ml9zed9hmQ9W) | 2:03 | 2024-07-07 |  |
@@ -156,6 +158,7 @@
 | [Forgotten](https://open.spotify.com/track/1gqetDNNBUgWcaGHFXjT2J) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Forgotten](https://open.spotify.com/album/3hMzyfy66NNeZZD4X6TWSA) | 2:46 | 2024-01-20 |  |
 | [Forgotten](https://open.spotify.com/track/2r5HfRXMJ2l75Z9ZObSERc) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Forgotten](https://open.spotify.com/album/2EKpATGHvFcDH4BVOc4tLz) | 2:46 | 2026-09-08 |  |
 | [Frankie x](https://open.spotify.com/track/6NibLABbjTVawkjQVF9UYq) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Furry Youtubers](https://open.spotify.com/album/5oJOcMbnsMH3BMIalIc8ix) | 3:51 | 2025-04-24 |  |
+| [Fratricide](https://open.spotify.com/track/2iCtxcc8oO8GXAsEVMhjMR) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Moka](https://open.spotify.com/artist/4W6v3SkHwSbsdCkJrzQLXl) | [Fratricide](https://open.spotify.com/album/7D2TmpVvx8dinVH8T4ivef) | 3:40 | 2026-10-12 |  |
 | [Fratricide](https://open.spotify.com/track/7a6Q9vKtA9oPU08XZSOGR9) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Moka](https://open.spotify.com/artist/4W6v3SkHwSbsdCkJrzQLXl) | [Fratricide](https://open.spotify.com/album/6yzq6H3QI7ylehs1yZ4z3G) | 3:40 | 2024-01-20 |  |
 | [Freaks](https://open.spotify.com/track/0Q0uGcwtVm3GrxexoZelWk) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Unleashed](https://open.spotify.com/album/36ZrBEKFyHtbNumTv7pSuA) | 4:12 | 2023-11-18 |  |
 | [Free](https://open.spotify.com/track/4IoHKp55jI0ZXeBHhMh3fX) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [Raised by Aliens](https://open.spotify.com/album/1mTM51rvOXPen3pVzekCf3) | 2:51 | 2024-12-07 |  |

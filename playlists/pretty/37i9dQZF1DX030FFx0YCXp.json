@@ -1,6 +1,6 @@
 {
   "description": "Crowd-pleasing favorites for an easy, carefree day. ",
-  "num_followers": 471771,
+  "num_followers": 471764,
   "original_name": "Backyard BBQ",
   "owner": {
     "name": "Spotify",
@@ -557,22 +557,6 @@
       "url": "https://open.spotify.com/track/5zH710lFSLtkHbMkslLDjR"
     },
     {
-      "added_at": "2026-06-30 19:56:38",
-      "album": {
-        "name": "Tom Petty And The Heartbreakers",
-        "url": "https://open.spotify.com/album/0JBy4lxBlQIxMZ8qPMIJER"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 214733,
-      "name": "American Girl",
-      "url": "https://open.spotify.com/track/53LwBS4bovyljsMlLqGfd6"
-    },
-    {
       "added_at": "2026-06-30 13:32:35",
       "album": {
         "name": "The Great American Bar Scene",
@@ -587,6 +571,22 @@
       "duration_ms": 218933,
       "name": "American Nights",
       "url": "https://open.spotify.com/track/00ju8gshHD67on6Aqh83Pb"
+    },
+    {
+      "added_at": "2026-06-30 19:56:38",
+      "album": {
+        "name": "Tom Petty And The Heartbreakers",
+        "url": "https://open.spotify.com/album/0JBy4lxBlQIxMZ8qPMIJER"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 214733,
+      "name": "American Girl",
+      "url": "https://open.spotify.com/track/53LwBS4bovyljsMlLqGfd6"
     },
     {
       "added_at": "2026-06-30 13:32:35",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-06-30 13:32:35",
       "album": {
-        "name": "Got a Story to Tell",
-        "url": "https://open.spotify.com/album/6yvKcQNyd09wYCCp8O8mNB"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 210320,
-      "name": "Live For You",
-      "url": "https://open.spotify.com/track/2cgHekIPyuKxEEcV72tuy4"
-    },
-    {
-      "added_at": "2026-06-30 13:32:35",
-      "album": {
         "name": "The Stranger (Legacy Edition)",
         "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 210760,
       "name": "Movin' Out (Anthony's Song)",
       "url": "https://open.spotify.com/track/16GUMo6u3D2qo9a19AkYct"
+    },
+    {
+      "added_at": "2026-06-30 13:32:35",
+      "album": {
+        "name": "Got a Story to Tell",
+        "url": "https://open.spotify.com/album/6yvKcQNyd09wYCCp8O8mNB"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 210320,
+      "name": "Live For You",
+      "url": "https://open.spotify.com/track/2cgHekIPyuKxEEcV72tuy4"
     },
     {
       "added_at": "2026-06-30 13:32:35",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-06-30 13:32:35",
       "album": {
-        "name": "Chicago V (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/2oSXXINsWGuEsc4udgWxh8"
-      },
-      "artists": [
-        {
-          "name": "Chicago",
-          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
-        }
-      ],
-      "duration_ms": 235666,
-      "name": "Saturday in the Park - 2002 Remaster",
-      "url": "https://open.spotify.com/track/4OJFkrRQqol4FsPesF8eu4"
-    },
-    {
-      "added_at": "2026-06-30 13:32:35",
-      "album": {
         "name": "30 Years Of Funk: 1969-1999 The Anthology",
         "url": "https://open.spotify.com/album/0ib2UtSmLGssyqyoY6X8cm"
       },
@@ -923,18 +907,18 @@
     {
       "added_at": "2026-06-30 13:32:35",
       "album": {
-        "name": "Spinners",
-        "url": "https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg"
+        "name": "Chicago V (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/2oSXXINsWGuEsc4udgWxh8"
       },
       "artists": [
         {
-          "name": "The Spinners",
-          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
         }
       ],
-      "duration_ms": 188800,
-      "name": "I'll Be Around",
-      "url": "https://open.spotify.com/track/2vLaES21zwbX1Rnmj56Bbb"
+      "duration_ms": 235666,
+      "name": "Saturday in the Park - 2002 Remaster",
+      "url": "https://open.spotify.com/track/4OJFkrRQqol4FsPesF8eu4"
     },
     {
       "added_at": "2026-06-30 13:32:35",
@@ -951,6 +935,22 @@
       "duration_ms": 285797,
       "name": "Rocky Mountain High",
       "url": "https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER"
+    },
+    {
+      "added_at": "2026-06-30 13:32:35",
+      "album": {
+        "name": "Spinners",
+        "url": "https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg"
+      },
+      "artists": [
+        {
+          "name": "The Spinners",
+          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
+        }
+      ],
+      "duration_ms": 188800,
+      "name": "I'll Be Around",
+      "url": "https://open.spotify.com/track/2vLaES21zwbX1Rnmj56Bbb"
     },
     {
       "added_at": "2026-06-30 13:32:35",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-06-30 13:32:35",
       "album": {
-        "name": "Made by These Moments",
-        "url": "https://open.spotify.com/album/0UQr4EfIUbii2ufru3mnKe"
-      },
-      "artists": [
-        {
-          "name": "The Red Clay Strays",
-          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
-        }
-      ],
-      "duration_ms": 257372,
-      "name": "No One Else Like Me",
-      "url": "https://open.spotify.com/track/5XlMj49P3jjmXpAdVGOLyW"
-    },
-    {
-      "added_at": "2026-06-30 13:32:35",
-      "album": {
         "name": "Damn The Torpedoes (Deluxe Edition)",
         "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 161786,
       "name": "Don't Do Me Like That",
       "url": "https://open.spotify.com/track/5AzpZ5ADn1AFPxcEBd2Ugf"
+    },
+    {
+      "added_at": "2026-06-30 13:32:35",
+      "album": {
+        "name": "Made by These Moments",
+        "url": "https://open.spotify.com/album/0UQr4EfIUbii2ufru3mnKe"
+      },
+      "artists": [
+        {
+          "name": "The Red Clay Strays",
+          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
+        }
+      ],
+      "duration_ms": 257372,
+      "name": "No One Else Like Me",
+      "url": "https://open.spotify.com/track/5XlMj49P3jjmXpAdVGOLyW"
     },
     {
       "added_at": "2026-06-30 13:32:35",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-06-30 13:32:35",
       "album": {
-        "name": "Ultimate Collection: Dobie Gray",
-        "url": "https://open.spotify.com/album/4EuAVxsazdEFr5ylShtllS"
-      },
-      "artists": [
-        {
-          "name": "Dobie Gray",
-          "url": "https://open.spotify.com/artist/3mC1KCuZZSOlN8Z0M56VsV"
-        }
-      ],
-      "duration_ms": 237466,
-      "name": "Drift Away - Single Version",
-      "url": "https://open.spotify.com/track/6hJhVBOnkchxBsDHbLOBJP"
-    },
-    {
-      "added_at": "2026-06-30 13:32:35",
-      "album": {
         "name": "365 Flavors",
         "url": "https://open.spotify.com/album/0fCd5MFX0y24jiCWuWoU5h"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 238410,
       "name": "365 Flavors",
       "url": "https://open.spotify.com/track/4cVMfP5l4k2KNUhYlFpmQH"
+    },
+    {
+      "added_at": "2026-06-30 13:32:35",
+      "album": {
+        "name": "Ultimate Collection: Dobie Gray",
+        "url": "https://open.spotify.com/album/4EuAVxsazdEFr5ylShtllS"
+      },
+      "artists": [
+        {
+          "name": "Dobie Gray",
+          "url": "https://open.spotify.com/artist/3mC1KCuZZSOlN8Z0M56VsV"
+        }
+      ],
+      "duration_ms": 237466,
+      "name": "Drift Away - Single Version",
+      "url": "https://open.spotify.com/track/6hJhVBOnkchxBsDHbLOBJP"
     },
     {
       "added_at": "2026-06-30 13:32:35",

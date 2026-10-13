@@ -986,7 +986,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-13",
+      "date_removed": null,
       "duration_ms": 178795,
       "name": "Again",
       "url": "https://open.spotify.com/track/5LUPRiBWi2ZeECTfZnUQDG"
@@ -1731,6 +1731,24 @@
     },
     {
       "album": {
+        "name": "American Life",
+        "url": "https://open.spotify.com/album/0HmKy8AKLQd2QtRfDJiKJS"
+      },
+      "artists": [
+        {
+          "name": "Randys Torres",
+          "url": "https://open.spotify.com/artist/2FVB6kLahh6LROGhGCA0DQ"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187520,
+      "name": "American Life",
+      "url": "https://open.spotify.com/track/5zBV4YUgBGs5ugY36zfV9H"
+    },
+    {
+      "album": {
         "name": "Amerta Naraka",
         "url": "https://open.spotify.com/album/4ra3kWjxuQAqHnGAQAzJ7J"
       },
@@ -2262,6 +2280,24 @@
       "duration_ms": 187228,
       "name": "Are We Not Men?",
       "url": "https://open.spotify.com/track/2dsddOLeJMxJIKDuBysVz1"
+    },
+    {
+      "album": {
+        "name": "Arm Farm",
+        "url": "https://open.spotify.com/album/66Vp7GfXVrOZvtZibRo3ag"
+      },
+      "artists": [
+        {
+          "name": "The Dayjobs",
+          "url": "https://open.spotify.com/artist/0x18MuxnoLIxyzdsCYzzE1"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201881,
+      "name": "Arm Farm",
+      "url": "https://open.spotify.com/track/390ZWcCNSZvTbynEDKLVog"
     },
     {
       "album": {
@@ -5310,6 +5346,24 @@
     {
       "album": {
         "name": "Breakdown",
+        "url": "https://open.spotify.com/album/0thTt4Fygdy5utBGoh40LK"
+      },
+      "artists": [
+        {
+          "name": "Haints",
+          "url": "https://open.spotify.com/artist/5K3zms42vDfJY37pZEayS4"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157479,
+      "name": "Breakdown",
+      "url": "https://open.spotify.com/track/1SHRbw1AjtRLvS2skAZDAj"
+    },
+    {
+      "album": {
+        "name": "Breakdown",
         "url": "https://open.spotify.com/album/7qVmZP7hJ9vFsQaMd2PIj9"
       },
       "artists": [
@@ -5418,6 +5472,24 @@
       "duration_ms": 199999,
       "name": "Breaking Through",
       "url": "https://open.spotify.com/track/11rh6PP2Qv3IiHI8TKKJ4Y"
+    },
+    {
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/5eAfTZ2NPwhu4GdLBerlPQ"
+      },
+      "artists": [
+        {
+          "name": "Bluntknees",
+          "url": "https://open.spotify.com/artist/22b9yLFkWq3MejpTkpgcCO"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228884,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/1Ht1oivk4Bt50INCFOrMsC"
     },
     {
       "album": {
@@ -5616,6 +5688,24 @@
       "duration_ms": 225333,
       "name": "Broken (Goodbye)",
       "url": "https://open.spotify.com/track/22r1gUmB2NNu88vNv1Cqc0"
+    },
+    {
+      "album": {
+        "name": "This Cadaver is a Keepsake",
+        "url": "https://open.spotify.com/album/2cBCTfycYQwmkE5jQVvXGy"
+      },
+      "artists": [
+        {
+          "name": "Divide By",
+          "url": "https://open.spotify.com/artist/5WoubIHXH3FbMWKg3DKOG7"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172769,
+      "name": "Broken Boughs",
+      "url": "https://open.spotify.com/track/7IeG8OCsqbvGeE4C6l9BP1"
     },
     {
       "album": {
@@ -7673,6 +7763,28 @@
     },
     {
       "album": {
+        "name": "Breakthrough",
+        "url": "https://open.spotify.com/album/0273917VrFFT9JMPLEfBPQ"
+      },
+      "artists": [
+        {
+          "name": "Synth Esthetics",
+          "url": "https://open.spotify.com/artist/4aZ3gp98MqVBwTMsdrEYI4"
+        },
+        {
+          "name": "Bibs",
+          "url": "https://open.spotify.com/artist/6HAaZCUHWKsrXrOSiYZFga"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217786,
+      "name": "Cold As Stone",
+      "url": "https://open.spotify.com/track/5i5SJAOWTb8h0mZXv2Itd7"
+    },
+    {
+      "album": {
         "name": "Cold Void",
         "url": "https://open.spotify.com/album/4U5TZLO36RiUtZq9BJTFkj"
       },
@@ -8930,6 +9042,24 @@
       "duration_ms": 236450,
       "name": "Dans",
       "url": "https://open.spotify.com/track/7zfgUPY8U2FnV89Rd0RcD8"
+    },
+    {
+      "album": {
+        "name": "Dark Entries",
+        "url": "https://open.spotify.com/album/33UA0kq5M5jJiKRlLmiCUj"
+      },
+      "artists": [
+        {
+          "name": "Ask The Dust",
+          "url": "https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193200,
+      "name": "Dark Entries",
+      "url": "https://open.spotify.com/track/2MwR5DSrLhuGGnqAWEAWuB"
     },
     {
       "album": {
@@ -12038,6 +12168,28 @@
       "duration_ms": 168331,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/6J4FD5JSsLTw0Q8RjJXPSe"
+    },
+    {
+      "album": {
+        "name": "The Burnout",
+        "url": "https://open.spotify.com/album/3H4J9Xww7YO7PAbduf5wsM"
+      },
+      "artists": [
+        {
+          "name": "Tektula",
+          "url": "https://open.spotify.com/artist/5xYYP8RoqR5BMVeKeBphRL"
+        },
+        {
+          "name": "Eric Castiglia",
+          "url": "https://open.spotify.com/artist/6vGC6bQvCeRHHXp9JB4JRj"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "End of Love",
+      "url": "https://open.spotify.com/track/0IdyTq1kdWrZ78NVxuxnl6"
     },
     {
       "album": {
@@ -16280,7 +16432,7 @@
       ],
       "date_added": "2026-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 254334,
       "name": "Habits",
       "url": "https://open.spotify.com/track/77msBTsBNOR7p99JtCzxsV"
@@ -17780,6 +17932,24 @@
       "duration_ms": 175999,
       "name": "How Do You Sleep?",
       "url": "https://open.spotify.com/track/4jPV9n9d4ofuJEeurNh7WE"
+    },
+    {
+      "album": {
+        "name": "Constellations Strange",
+        "url": "https://open.spotify.com/album/0a2UBHFYjEhuto8u1FwyHI"
+      },
+      "artists": [
+        {
+          "name": "FarFarAway",
+          "url": "https://open.spotify.com/artist/490rVPFm6pcN8iWh3Fj7Dp"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221919,
+      "name": "Human Centipede",
+      "url": "https://open.spotify.com/track/4Gpf7htOtNtzzSc1ibWkRX"
     },
     {
       "album": {
@@ -22412,6 +22582,24 @@
       "duration_ms": 239346,
       "name": "Lloret De Mar",
       "url": "https://open.spotify.com/track/0blmdQGJzv1sSORn5tsdAP"
+    },
+    {
+      "album": {
+        "name": "Lo que quedo de m\u00ed",
+        "url": "https://open.spotify.com/album/0FJtsEwwEYX3Vf5aCv0pMN"
+      },
+      "artists": [
+        {
+          "name": "Roger Lecourt",
+          "url": "https://open.spotify.com/artist/6VJ03rCG6633a1LQ2bT8jf"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390844,
+      "name": "Lo que quedo de m\u00ed",
+      "url": "https://open.spotify.com/track/1vQmJ7XYOJttfm73NGuOFO"
     },
     {
       "album": {
@@ -28353,6 +28541,24 @@
     },
     {
       "album": {
+        "name": "Sucker Bet",
+        "url": "https://open.spotify.com/album/6mzUppPbexOulDlp66HDJl"
+      },
+      "artists": [
+        {
+          "name": "HEADCANNON",
+          "url": "https://open.spotify.com/artist/2tStR3BVxSg9R87VXBaVCq"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267790,
+      "name": "Paradust",
+      "url": "https://open.spotify.com/track/27ekYjKIHUJO3d4y8xJGkY"
+    },
+    {
+      "album": {
         "name": "Paranoia",
         "url": "https://open.spotify.com/album/7cztImoabH0nnQFCja9TKR"
       },
@@ -29367,6 +29573,24 @@
     },
     {
       "album": {
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/57uQwm5VOm0zjPZxFJEBEp"
+      },
+      "artists": [
+        {
+          "name": "Hyperwulf",
+          "url": "https://open.spotify.com/artist/3F1eWjq5p66Q0u6Hm2hSzY"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/1nmAvj4MBQ2t8EIWqyAfIy"
+    },
+    {
+      "album": {
         "name": "Polaroid Damage",
         "url": "https://open.spotify.com/album/4CFXupdSv9oSMTJhoranxk"
       },
@@ -29800,6 +30024,24 @@
       "duration_ms": 232309,
       "name": "Promises",
       "url": "https://open.spotify.com/track/1CEL1VeUavd9vghQT8SoHl"
+    },
+    {
+      "album": {
+        "name": "PROTECT UR KNECK",
+        "url": "https://open.spotify.com/album/5vStlN4llKwKphSUvVS9Sk"
+      },
+      "artists": [
+        {
+          "name": "Pyrokinesis",
+          "url": "https://open.spotify.com/artist/2fafP7QTEavCsKGAstcL0I"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133714,
+      "name": "PROTECT UR NECK",
+      "url": "https://open.spotify.com/track/4mlNCrPwUqq8HbE9fdAypt"
     },
     {
       "album": {
@@ -34386,7 +34628,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 164476,
       "name": "SOAPBOX - Single Version",
       "url": "https://open.spotify.com/track/11XQKzMwrZjBW9RCgKNEko"
@@ -36304,6 +36546,24 @@
       "duration_ms": 101043,
       "name": "Sullen Freak",
       "url": "https://open.spotify.com/track/1X1XPu1wrVyeDv1sGqK0bL"
+    },
+    {
+      "album": {
+        "name": "Messages from Another World",
+        "url": "https://open.spotify.com/album/1VDZtXovE4LYH3aHto9XJZ"
+      },
+      "artists": [
+        {
+          "name": "V.E.N!",
+          "url": "https://open.spotify.com/artist/3sO9u4dOUWYj61kcOTBExd"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237977,
+      "name": "Summer Storm",
+      "url": "https://open.spotify.com/track/5zDAHm4oMsTmUUmRUrc9Ci"
     },
     {
       "album": {
@@ -40846,7 +41106,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 184090,
       "name": "Trust",
       "url": "https://open.spotify.com/track/1MZLhAKVUPZkcbUVmwOO3v"
@@ -41743,6 +42003,24 @@
     },
     {
       "album": {
+        "name": "Vicious Circle",
+        "url": "https://open.spotify.com/album/1KK3JBNjkdZc929XN0dtev"
+      },
+      "artists": [
+        {
+          "name": "First Law",
+          "url": "https://open.spotify.com/artist/4Rx4epjvH1jr9iOrK4eaC9"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188853,
+      "name": "Vicious Circle",
+      "url": "https://open.spotify.com/track/4ewVtbCiVnvWoQBVjcst3c"
+    },
+    {
+      "album": {
         "name": "Victims of Society",
         "url": "https://open.spotify.com/album/0bl3NAz6NDDVO1RwW9jjeg"
       },
@@ -42115,6 +42393,24 @@
     },
     {
       "album": {
+        "name": "WAKE UP!",
+        "url": "https://open.spotify.com/album/6QH1vhZymK46J5woPh5C8C"
+      },
+      "artists": [
+        {
+          "name": "Harri Georgio",
+          "url": "https://open.spotify.com/artist/2Td89Xyv9wnPRfO0KodMHe"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137663,
+      "name": "WAKE UP!",
+      "url": "https://open.spotify.com/track/5ODCvT4RZxavk8cU2yBVLY"
+    },
+    {
+      "album": {
         "name": "Walk Alone",
         "url": "https://open.spotify.com/album/5cuCbtHxbawgrCr32BCXxQ"
       },
@@ -42476,6 +42772,28 @@
       "duration_ms": 255936,
       "name": "Wasteman",
       "url": "https://open.spotify.com/track/1esf4MKhQ8Ps1EcYqxNprR"
+    },
+    {
+      "album": {
+        "name": "Watch The Whole World Burn Down",
+        "url": "https://open.spotify.com/album/6juCeJRHpJQDIUtEceIh7Q"
+      },
+      "artists": [
+        {
+          "name": "Sometimes Five",
+          "url": "https://open.spotify.com/artist/4pwaRANybwL3Uithm3InPo"
+        },
+        {
+          "name": "BECCA",
+          "url": "https://open.spotify.com/artist/1SoAVMvvpUIeetsCJPrB5K"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218853,
+      "name": "Watch The Whole World Burn Down",
+      "url": "https://open.spotify.com/track/53ryWSwKtqmiyYaGK8cH7z"
     },
     {
       "album": {

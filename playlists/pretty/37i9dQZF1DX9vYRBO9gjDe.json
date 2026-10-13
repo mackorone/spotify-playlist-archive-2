@@ -1,13 +1,81 @@
 {
-  "description": "Spotify Japan\u306e\u30c7\u30a4\u30ea\u30fc\u6025\u4e0a\u6607\u30c1\u30e3\u30fc\u30c8\u3002\u6bce\u9031\u6708\u301c\u91d1\u66dc\u65e5\u66f4\u65b0\u300210\u67086\u65e5\u4ed8\u3002",
-  "num_followers": 327375,
+  "description": "Spotify Japan\u306e\u30c7\u30a4\u30ea\u30fc\u6025\u4e0a\u6607\u30c1\u30e3\u30fc\u30c8\u3002\u6bce\u9031\u6708\u301c\u91d1\u66dc\u65e5\u66f4\u65b0\u300210\u670811\u65e5\u4ed8\u3002",
+  "num_followers": 327432,
   "original_name": "Spotify Japan \u6025\u4e0a\u6607\u30c1\u30e3\u30fc\u30c8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAxV7X3FhE1vUCFv6rTj0ZYJ0IyO",
+  "snapshot_id": "AAAAAOTwU7nI7Pihx3nsleTe+9ghBO0B",
   "tracks": [
+    {
+      "added_at": "2026-10-13 02:00:45",
+      "album": {
+        "name": "On-Deck!",
+        "url": "https://open.spotify.com/album/2G0Z81aDUx9JlZtbU6oVLo"
+      },
+      "artists": [
+        {
+          "name": "Dytica",
+          "url": "https://open.spotify.com/artist/1SsxNjkCOxP28ogTVCZHVH"
+        }
+      ],
+      "duration_ms": 197959,
+      "name": "\u6708\u4e0b\u7f8e\u4eba",
+      "url": "https://open.spotify.com/track/4VgNMKxhhfOAhsBqSGkk5Y"
+    },
+    {
+      "added_at": "2026-10-13 02:00:45",
+      "album": {
+        "name": "On-Deck!",
+        "url": "https://open.spotify.com/album/2G0Z81aDUx9JlZtbU6oVLo"
+      },
+      "artists": [
+        {
+          "name": "MECHATU-A",
+          "url": "https://open.spotify.com/artist/4MNLahZcHm9XBv2mikjZRB"
+        }
+      ],
+      "duration_ms": 180452,
+      "name": "\u634c -HACHI-",
+      "url": "https://open.spotify.com/track/0sNOf2vTIcjI6USSbrfpnw"
+    },
+    {
+      "added_at": "2026-10-13 02:00:45",
+      "album": {
+        "name": "On-Deck!",
+        "url": "https://open.spotify.com/album/2G0Z81aDUx9JlZtbU6oVLo"
+      },
+      "artists": [
+        {
+          "name": "Oriens",
+          "url": "https://open.spotify.com/artist/6ORCl0QYaqstk2XEy8C4Gc"
+        }
+      ],
+      "duration_ms": 202972,
+      "name": "Promised Future",
+      "url": "https://open.spotify.com/track/5ApO5v0yDvEK9RcJuilIzv"
+    },
+    {
+      "added_at": "2026-10-13 02:00:45",
+      "album": {
+        "name": "Dai Dai",
+        "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 223448,
+      "name": "Dai Dai",
+      "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
+    },
     {
       "added_at": "2026-10-08 04:35:43",
       "album": {
@@ -109,6 +177,22 @@
       "url": "https://open.spotify.com/track/2S4IkDNGWarWgzI5W9fUtb"
     },
     {
+      "added_at": "2026-10-13 02:00:45",
+      "album": {
+        "name": "\u305d\u308c\u3044\u3051\uff01\u30a2\u30f3\u30d1\u30f3\u30de\u30f3 \u6050\u7adc\u30ce\u30c3\u30b7\u30fc\u306e\u5927\u5192\u967a",
+        "url": "https://open.spotify.com/album/4KqNbhc7QjASUToxOaRlDo"
+      },
+      "artists": [
+        {
+          "name": "Dreaming",
+          "url": "https://open.spotify.com/artist/4M9FTgU2MKVIwZAFfMsr3r"
+        }
+      ],
+      "duration_ms": 274293,
+      "name": "\u30a2\u30f3\u30d1\u30f3\u30de\u30f3\u305f\u3044\u305d\u3046",
+      "url": "https://open.spotify.com/track/1uet9g0vZZPACZ83oMDDe4"
+    },
+    {
       "added_at": "2026-10-08 04:35:43",
       "album": {
         "name": "WARAiNA",
@@ -155,22 +239,6 @@
       "duration_ms": 194066,
       "name": "Love Options",
       "url": "https://open.spotify.com/track/63gCdrDtZlt1PMIGrzYEqt"
-    },
-    {
-      "added_at": "2026-10-08 04:35:43",
-      "album": {
-        "name": "THE SECOND STEP : CHAPTER TWO",
-        "url": "https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g"
-      },
-      "artists": [
-        {
-          "name": "TREASURE",
-          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
-        }
-      ],
-      "duration_ms": 181432,
-      "name": "HELLO",
-      "url": "https://open.spotify.com/track/1ex8euBuzVyqjThnYfwY2k"
     },
     {
       "added_at": "2026-10-08 04:35:43",
@@ -347,6 +415,22 @@
       "duration_ms": 216013,
       "name": "\u9053",
       "url": "https://open.spotify.com/track/4nYtqZDscX8TLvR4p0ON1s"
+    },
+    {
+      "added_at": "2026-10-13 02:00:45",
+      "album": {
+        "name": "\u307b\u3093\u307e\u3084\u3067\u2606\u306a\u3093\u3067\u3084\u306d\u3093\u2606\u3057\u3089\u3093\u3051\u3069\uff0f\u3053\u3093\u306a\u3082\u3093\u3058\u3083\u306d\u3047 (A\u30bf\u30a4\u30d7)",
+        "url": "https://open.spotify.com/album/3mcZV7uNaUca6jvyH5Akyu"
+      },
+      "artists": [
+        {
+          "name": "\u30e2\u30ca\u30ad",
+          "url": "https://open.spotify.com/artist/48La8eUwq93H7Va1Hl4bMd"
+        }
+      ],
+      "duration_ms": 211952,
+      "name": "\u307b\u3093\u307e\u3084\u3067\u2606\u306a\u3093\u3067\u3084\u306d\u3093\u2606\u3057\u3089\u3093\u3051\u3069",
+      "url": "https://open.spotify.com/track/4ufk3YG63bwSLIqZ8vdgFx"
     },
     {
       "added_at": "2026-10-08 04:35:43",
@@ -549,6 +633,22 @@
       "url": "https://open.spotify.com/track/1wdW2U0jxre5f2GMcR7tiF"
     },
     {
+      "added_at": "2026-10-13 02:00:45",
+      "album": {
+        "name": "THE POWER SOURCE",
+        "url": "https://open.spotify.com/album/3EmVZE8tSVKN0tblpt8Mzo"
+      },
+      "artists": [
+        {
+          "name": "JUDY AND MARY",
+          "url": "https://open.spotify.com/artist/7unNuvk3OEqGmegHTaxRA9"
+        }
+      ],
+      "duration_ms": 255706,
+      "name": "\u305d\u3070\u304b\u3059",
+      "url": "https://open.spotify.com/track/5zydI0vRlMI6mrEKgZR8zq"
+    },
+    {
       "added_at": "2026-10-08 04:35:43",
       "album": {
         "name": "TIME",
@@ -563,6 +663,22 @@
       "duration_ms": 240133,
       "name": "\u30b7\u30eb\u30a8\u30c3\u30c8",
       "url": "https://open.spotify.com/track/1di1C0QI6Y92yZPYn6XYAZ"
+    },
+    {
+      "added_at": "2026-10-13 02:00:45",
+      "album": {
+        "name": "\u591c\u306b\u3057\u304c\u307f\u3064\u3044\u3066\u3001\u671d\u3067\u6eb6\u304b\u3057\u3066",
+        "url": "https://open.spotify.com/album/2xXBLrS026lOtokTttSEm8"
+      },
+      "artists": [
+        {
+          "name": "Creep Hyp",
+          "url": "https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8"
+        }
+      ],
+      "duration_ms": 241213,
+      "name": "\u30ad\u30b1\u30f3\u30ca\u30a2\u30bd\u30d3",
+      "url": "https://open.spotify.com/track/2XvtKqNuL8vCkekyzmb8OJ"
     },
     {
       "added_at": "2026-10-08 04:35:43",
@@ -583,6 +699,38 @@
       "duration_ms": 262693,
       "name": "\u30a2\u30a4\u30ce\u30ab\u30bf\u30c1",
       "url": "https://open.spotify.com/track/7mSVOYRseiZi20xtBKhHnF"
+    },
+    {
+      "added_at": "2026-10-13 02:00:45",
+      "album": {
+        "name": "\u30b3\u30ea\u30f3\u30ba",
+        "url": "https://open.spotify.com/album/2WaRUGRx1I5uRs0hrMEFYk"
+      },
+      "artists": [
+        {
+          "name": "10-FEET",
+          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
+        }
+      ],
+      "duration_ms": 286000,
+      "name": "\u7b2c\u30bc\u30ed\u611f",
+      "url": "https://open.spotify.com/track/6zjk7Qbwb9DZ4ykUUoqknh"
+    },
+    {
+      "added_at": "2026-10-13 02:00:45",
+      "album": {
+        "name": "GO LIVE",
+        "url": "https://open.spotify.com/album/0UNe68TUKuA57Xo0QrHliu"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 167922,
+      "name": "God's Menu",
+      "url": "https://open.spotify.com/track/0oWusldermKl7MdzF2XQTj"
     },
     {
       "added_at": "2026-10-08 04:35:43",
@@ -715,142 +863,6 @@
       "duration_ms": 244720,
       "name": "\u4eba\u3068\u3057\u3066",
       "url": "https://open.spotify.com/track/5sCLe2F8qkAIUtTORsnjpE"
-    },
-    {
-      "added_at": "2026-10-08 04:35:43",
-      "album": {
-        "name": "\u3042\u3063\u3001\u3069\u3082\u3002\u306f\u3058\u3081\u307e\u3057\u3066\u3002",
-        "url": "https://open.spotify.com/album/4Q36ZjQvCRgQ3MDFwDh6Wh"
-      },
-      "artists": [
-        {
-          "name": "GReeeeN",
-          "url": "https://open.spotify.com/artist/14T8NkbwXVZgbOvwnuGV89"
-        }
-      ],
-      "duration_ms": 236253,
-      "name": "\u611b\u5504",
-      "url": "https://open.spotify.com/track/7iXHLtPosbHvglVSJ4rxLq"
-    },
-    {
-      "added_at": "2026-10-08 04:35:43",
-      "album": {
-        "name": "\u3042\u306a\u305f\u3068\u3044\u305f\u3044",
-        "url": "https://open.spotify.com/album/7sXFcyqLpDJiLs4awycwQk"
-      },
-      "artists": [
-        {
-          "name": "Ayumu Imazu",
-          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
-        }
-      ],
-      "duration_ms": 213757,
-      "name": "\u3042\u306a\u305f\u3068\u3044\u305f\u3044",
-      "url": "https://open.spotify.com/track/3lhSoYrMfyX9Mg24Fdp0eo"
-    },
-    {
-      "added_at": "2026-10-08 04:35:43",
-      "album": {
-        "name": "MAMIHLAPINATAPAI",
-        "url": "https://open.spotify.com/album/5VIt2dA2StboE900mllWdJ"
-      },
-      "artists": [
-        {
-          "name": "ILLIT",
-          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
-        }
-      ],
-      "duration_ms": 138284,
-      "name": "It's Me",
-      "url": "https://open.spotify.com/track/1D5L58KLBbceOynTP4DQnY"
-    },
-    {
-      "added_at": "2026-10-08 04:35:43",
-      "album": {
-        "name": "BOOTLEG",
-        "url": "https://open.spotify.com/album/1mvoieMR8Dwiy7S052ihoC"
-      },
-      "artists": [
-        {
-          "name": "Kenshi Yonezu",
-          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
-        },
-        {
-          "name": "SUDA MASAKI",
-          "url": "https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX"
-        }
-      ],
-      "duration_ms": 332131,
-      "name": "\u7070\u8272\u3068\u9752 ( + \u83c5\u7530\u5c06\u6689 )",
-      "url": "https://open.spotify.com/track/3KnURrjsXA0TDce8N7iOwz"
-    },
-    {
-      "added_at": "2026-10-08 04:35:43",
-      "album": {
-        "name": "AIZO",
-        "url": "https://open.spotify.com/album/7BAFUXup2XFZpcnCmLjXmM"
-      },
-      "artists": [
-        {
-          "name": "King Gnu",
-          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
-        }
-      ],
-      "duration_ms": 215858,
-      "name": "AIZO",
-      "url": "https://open.spotify.com/track/65X2koe1LhDgQmRkNdJFv9"
-    },
-    {
-      "added_at": "2026-10-08 04:35:43",
-      "album": {
-        "name": "Illuminate (Deluxe)",
-        "url": "https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 199440,
-      "name": "There's Nothing Holdin' Me Back",
-      "url": "https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml"
-    },
-    {
-      "added_at": "2026-10-08 04:35:43",
-      "album": {
-        "name": "Nine Track Mind (Special Edition)",
-        "url": "https://open.spotify.com/album/5J4SS8wTmXdyIEVYjmHzpZ"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 199133,
-      "name": "Dangerously",
-      "url": "https://open.spotify.com/track/2EbseeW2cr5zK3J8VuYntw"
-    },
-    {
-      "added_at": "2026-10-08 04:35:43",
-      "album": {
-        "name": "BPM (feat. KREVA)",
-        "url": "https://open.spotify.com/album/2GlGoYZji2Y1aiSjeWMWVU"
-      },
-      "artists": [
-        {
-          "name": "Kvi Baba",
-          "url": "https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs"
-        },
-        {
-          "name": "KREVA",
-          "url": "https://open.spotify.com/artist/6lAinPkC2U1Huibu6Vfr9R"
-        }
-      ],
-      "duration_ms": 173853,
-      "name": "BPM (feat. KREVA)",
-      "url": "https://open.spotify.com/track/6SMUXzvpo1dGg1N7QaMjvy"
     }
   ],
   "unique_name": "Spotify Japan \u6025\u4e0a\u6607\u30c1\u30e3\u30fc\u30c8",

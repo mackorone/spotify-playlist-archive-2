@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 
 > mostly furry
 
-[Karlito](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 1,286 likes - 553 songs - 1 day 2 hr 58 min
+[Karlito](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 1,287 likes - 556 songs - 1 day 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -561,5 +561,8 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 | 551 | [SleepyHArdstyle.mp3](https://open.spotify.com/track/3722vnbMmcgGqpum0yPvNf) | [UrvTek](https://open.spotify.com/artist/3YRcEMe1SRTPBGYbiRtBGh) | [SleepyHArdstyle.mp3](https://open.spotify.com/album/0UibN6xqyZF1FA0oh32VpZ) | 4:55 |
 | 552 | [CHIPCRUSH](https://open.spotify.com/track/1oaG4aYIMQwt8Q6nbJejAX) | [UrvTek](https://open.spotify.com/artist/3YRcEMe1SRTPBGYbiRtBGh), [la.la.thc](https://open.spotify.com/artist/4W1YH9rAlkSEFpIPAevqeZ) | [CHIPCRUSH](https://open.spotify.com/album/4ihkCUw40mGKUsiYE5Zi4i) | 2:30 |
 | 553 | [Cats With Striped Socks](https://open.spotify.com/track/0LinCTCmFyAT2H27wTu3H4) | [Studi01](https://open.spotify.com/artist/6JahkHwKoCgQsAc2wxYKy3) | [Cats With Striped Socks](https://open.spotify.com/album/3MaO2LKMKD3Effl23L5EdE) | 2:08 |
+| 554 | [Down Down Down](https://open.spotify.com/track/6u9Nn6X2eqhrtyzoG296kc) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [OodleZz](https://open.spotify.com/artist/2eCpXBK9mnqr6o9TydXu98) | [Down Down Down](https://open.spotify.com/album/0GJGtyGJLXSdUqDJf4mQed) | 3:37 |
+| 555 | [False Idol](https://open.spotify.com/track/1X1AU4LZYuQAZ0EcE8R0Tg) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [False Idol](https://open.spotify.com/album/3CDGLKH9aLf2fq5Fjyskje) | 4:34 |
+| 556 | [Fratricide](https://open.spotify.com/track/2iCtxcc8oO8GXAsEVMhjMR) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Moka](https://open.spotify.com/artist/4W6v3SkHwSbsdCkJrzQLXl) | [Fratricide](https://open.spotify.com/album/7D2TmpVvx8dinVH8T4ivef) | 3:40 |
 
-Snapshot ID: `AAACDqMqP3lfDojFEI8O4iMcieMANyLy`
+Snapshot ID: `AAACEQG3rGIBueGmOZbhdEW9kZYF8nIA`

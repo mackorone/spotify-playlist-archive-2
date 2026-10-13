@@ -2,9 +2,9 @@
 
 ### [PRIDE France](https://open.spotify.com/playlist/37i9dQZF1DX2D4YSkCZ0rP)
 
-> La playlist des artistes LGBTQIA+\. Photo : Piche
+> La playlist des artistes LGBTQIA+\. Photo : Loa Mercury
 
-140 songs - 7 hr 20 min
+141 songs - 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Dis\-moi oui](https://open.spotify.com/track/5RZ2uasddAXgIw35HhvtMZ) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [RECOMMENCE\-MOI \(Édition OR\)](https://open.spotify.com/album/2hNZGt3B5r81TDem4XvWYT) | 3:56 | 2026-06-07 |  |
 | [DMQTMA \(Dis\-moi que tu m'aimes\)](https://open.spotify.com/track/65wdkLee8iwcWAII9FG9WM) | [Kiddy Smile](https://open.spotify.com/artist/4Y5crYhYaEQKOzikPPIZDx) | [Repris de Justesse](https://open.spotify.com/album/4TDCOYjJb8ob4foKS8un20) | 3:30 | 2026-06-07 |  |
 | [Drifting Away](https://open.spotify.com/track/4avPf7Sn8QCeL6ZWyWzemL) | [Nicky Doll](https://open.spotify.com/artist/4EuM3R5q2w7YIedgtQiMrj) | [Drifting Away](https://open.spotify.com/album/2mbm5VKHxqPNO8NUzkYxKg) | 3:30 | 2025-06-27 | 2026-06-08 |
+| [DÉSIR](https://open.spotify.com/track/4MoJaVhA04WspUheA55r3e) | [Loa Mercury](https://open.spotify.com/artist/6Zb2vTrIhur77yejWgHN60) | [DÉSIR](https://open.spotify.com/album/6OBlt0Ggf4Z7TOnIv3NRyG) | 3:33 | 2026-10-12 |  |
 | [ELLE NE VEUT QUE](https://open.spotify.com/track/25bJTUy3ByJUqXN3QUhIlj) | [Le Juiice](https://open.spotify.com/artist/67MIpliQaIhUN1WLSkYEqC) | [NOUS ART : Masterpiece](https://open.spotify.com/album/0a2XyKU93jIJAhFz9oZDDe) | 2:31 | 2025-05-26 | 2026-06-08 |
 | [Enfant de](https://open.spotify.com/track/6z8hRlJeWY33LvjpOQxIkr) | [Pierre de Maere](https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd) | [Enfant de](https://open.spotify.com/album/0jgDWVC9Wp7XaAd0Zxm9oR) | 2:54 | 2024-06-04 | 2025-05-27 |
 | [Estafette](https://open.spotify.com/track/3DNz1uS5Z5Qw5XHFZmxL9I) | [Sexy Sushi](https://open.spotify.com/artist/6yNXUzxIakMVY5LoVgZGHG), [Rebeka Warrior](https://open.spotify.com/artist/0VPogECnuuH2xbYP3Rmpd4), [Mitch Silver](https://open.spotify.com/artist/585FeCXfQKceH2hCHn5SKO) | [Estafette](https://open.spotify.com/album/2jlIufCIWbnn0x9f00pL8I) | 2:38 | 2026-06-07 |  |
@@ -112,7 +113,7 @@
 | [Pegasus \(ft\. Phoebe Bridgers\)](https://open.spotify.com/track/2oZH5jrlSr0sFWoiIymVHh) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Pegasus \(ft\. Phoebe Bridgers\)](https://open.spotify.com/album/0gsw4flnfCrEqGr16ACAoQ) | 3:06 | 2024-06-04 | 2025-05-27 |
 | [Petit Homme](https://open.spotify.com/track/7jVit1MfVSmF57FNgP1079) | [Piche](https://open.spotify.com/artist/0c32N2qsP2BxRGcUUxyHZn) | [Petit Homme](https://open.spotify.com/album/3QOg5k2uYxgKb1IIwhiK6o) | 2:16 | 2026-06-07 | 2026-09-14 |
 | [Pink Pony Club](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 4:18 | 2025-05-26 | 2026-06-08 |
-| [Pleure encore pour moi](https://open.spotify.com/track/3HAXuuDkSDDjUnCbLniGzs) | [Marius](https://open.spotify.com/artist/2ovkVhnrSdDvpIvsVWgnMP) | [Pleure encore pour moi](https://open.spotify.com/album/1jyIyg8kAFHoLtAhiWVAuM) | 3:23 | 2026-07-05 |  |
+| [Pleure encore pour moi](https://open.spotify.com/track/3HAXuuDkSDDjUnCbLniGzs) | [Marius](https://open.spotify.com/artist/2ovkVhnrSdDvpIvsVWgnMP) | [Pleure encore pour moi](https://open.spotify.com/album/1jyIyg8kAFHoLtAhiWVAuM) | 3:23 | 2026-07-05 | 2026-10-13 |
 | [Pleurer en dansant](https://open.spotify.com/track/1TXTfBITlGjV3iObZitZs2) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Pleurer en dansant](https://open.spotify.com/album/0WYQgUq0o57dPJIgPYtkuS) | 3:30 | 2026-06-21 |  |
 | [Poison](https://open.spotify.com/track/121YFyW8DmAZcMk3ax3PQA) | [Paloma](https://open.spotify.com/artist/0se892wuxZ6XIMUOEPewVb), [Elips](https://open.spotify.com/artist/2AIzKTzFPBh0VNaf87zG24) | [Château Intérieur](https://open.spotify.com/album/0l9T71EcM3Io83UFjIDBFQ) | 3:14 | 2026-06-07 |  |
 | [Polypocket](https://open.spotify.com/track/2576iEXHGpjyr5zn1Ylv8r) | [Camion Bip Bip](https://open.spotify.com/artist/2JCA0IH0hQkHYl5aVbwgQh) | [Polypocket](https://open.spotify.com/album/17qkle3Ru2RkmPVrcuko0X) | 3:01 | 2026-06-07 |  |

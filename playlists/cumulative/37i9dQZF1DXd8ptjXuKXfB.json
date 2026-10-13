@@ -1410,7 +1410,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-29",
+      "date_removed": null,
       "duration_ms": 235102,
       "name": "BarnaL\u00e1ny",
       "url": "https://open.spotify.com/track/0JL2yE2whAosfSHgRDqitI"
@@ -1494,7 +1494,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 184193,
       "name": "Beef",
       "url": "https://open.spotify.com/track/0aiD9jQDJOWzGoFlYOZVUe"
@@ -1592,7 +1592,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 176463,
       "name": "Besz\u00edvom",
       "url": "https://open.spotify.com/track/76rWiHUfPWXAxgWVVP5lyi"
@@ -1868,7 +1868,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 163636,
       "name": "Brazil F\u00e1nk",
       "url": "https://open.spotify.com/track/5rkw0Vg3RkYsAERJj1ivsr"
@@ -4006,7 +4006,7 @@
       ],
       "date_added": "2026-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 168932,
       "name": "FUEGO",
       "url": "https://open.spotify.com/track/5ePKLhbLUom4iI6FpPJDZn"
@@ -4676,7 +4676,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 139700,
       "name": "Ha bukok",
       "url": "https://open.spotify.com/track/1jqthYE9Qyki3574xA7ZPL"
@@ -5110,6 +5110,28 @@
       "duration_ms": 222439,
       "name": "Hitmaker",
       "url": "https://open.spotify.com/track/7MI1dxESU58P2unWWYeQzC"
+    },
+    {
+      "album": {
+        "name": "Hi\u00e1nyzol",
+        "url": "https://open.spotify.com/album/2ilZXohJCrEP4OCf8ns0A2"
+      },
+      "artists": [
+        {
+          "name": "Nemes",
+          "url": "https://open.spotify.com/artist/6PpqLUiqmMT5pKV3CkFVwg"
+        },
+        {
+          "name": "BOTTKA",
+          "url": "https://open.spotify.com/artist/6ldpbLMr9rj1ya5dZSp3Zx"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256744,
+      "name": "Hi\u00e1nyzol",
+      "url": "https://open.spotify.com/track/5JMZgxAIe26zvewCc5rjw2"
     },
     {
       "album": {
@@ -7245,6 +7267,28 @@
     },
     {
       "album": {
+        "name": "MEREDEK",
+        "url": "https://open.spotify.com/album/5cphGJqxt3YRyPhbvFAbfs"
+      },
+      "artists": [
+        {
+          "name": "Bruno X Spacc",
+          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
+        },
+        {
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107432,
+      "name": "MEREDEK",
+      "url": "https://open.spotify.com/track/7evObvcDijcKbmdngMFXKO"
+    },
+    {
+      "album": {
         "name": "This Wasn't Meant For You Anyway",
         "url": "https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U"
       },
@@ -7418,6 +7462,28 @@
       "duration_ms": 210526,
       "name": "Mihaszna",
       "url": "https://open.spotify.com/track/4fV9i6y3YjloifMR59K9O2"
+    },
+    {
+      "album": {
+        "name": "Minden elm\u00falik",
+        "url": "https://open.spotify.com/album/4SA6X1NbYkdXTeEzrc5btq"
+      },
+      "artists": [
+        {
+          "name": "Filo",
+          "url": "https://open.spotify.com/artist/2pWeXE1GbI1qweHZHZi4Ee"
+        },
+        {
+          "name": "Misshmusic",
+          "url": "https://open.spotify.com/artist/6PD6eSZM8ulCg5PRU6mEII"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222272,
+      "name": "Mikor elment\u00e9l",
+      "url": "https://open.spotify.com/track/4CHJ4o405nvYaKe625Ocdz"
     },
     {
       "album": {
@@ -8055,6 +8121,28 @@
     },
     {
       "album": {
+        "name": "M\u00e9g miel\u0151tt",
+        "url": "https://open.spotify.com/album/1UuT4YA9w4506BLTD71yxs"
+      },
+      "artists": [
+        {
+          "name": "Children Of Distance",
+          "url": "https://open.spotify.com/artist/7JjqhUJxYz1xIZB7w8Gof3"
+        },
+        {
+          "name": "Arany Timi",
+          "url": "https://open.spotify.com/artist/3HYaB7MkTwdNScb9Ux3oZt"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232340,
+      "name": "M\u00e9g miel\u0151tt",
+      "url": "https://open.spotify.com/track/4CF6nLL1grN6Oy90oz7MN7"
+    },
+    {
+      "album": {
         "name": "M\u00e9g nem vesz\u00edthetek (Jimmy m\u00e1sk\u00e9pp)",
         "url": "https://open.spotify.com/album/2Z5BNETxLt8ih9vcALhKGc"
       },
@@ -8164,7 +8252,7 @@
       ],
       "date_added": "2026-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 160765,
       "name": "Ne M\u00e9regess",
       "url": "https://open.spotify.com/track/6ROGowG1f2Yw7oTtzS9kqE"
@@ -8314,7 +8402,7 @@
       ],
       "date_added": "2026-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 199235,
       "name": "Nem b\u00facs\u00fazom",
       "url": "https://open.spotify.com/track/0MAE6RF2eG6prmJ5ld5qGN"
@@ -9699,6 +9787,28 @@
     },
     {
       "album": {
+        "name": "PR\u00c9MIUM PUSZI",
+        "url": "https://open.spotify.com/album/6vdBENhpNX5wTR7IVSxoMp"
+      },
+      "artists": [
+        {
+          "name": "Mih\u00e1lyfi Luca",
+          "url": "https://open.spotify.com/artist/0D6r3l2qcIowUMJ2Odb9ot"
+        },
+        {
+          "name": "Sofi",
+          "url": "https://open.spotify.com/artist/6Ng4zfUKTRC1ZLMCQcsBrK"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144150,
+      "name": "PR\u00c9MIUM PUSZI",
+      "url": "https://open.spotify.com/track/0aDT12wndLicr7UVXrE8n1"
+    },
+    {
+      "album": {
         "name": "PR\u00c9MIUM VIP GANG EXTRA POSSE EXKLUZ\u00cdV",
         "url": "https://open.spotify.com/album/2heWdXuUdUU0bQTkJVqiZY"
       },
@@ -10605,6 +10715,24 @@
     },
     {
       "album": {
+        "name": "Senki Se Hullajt K\u00f6nnyet",
+        "url": "https://open.spotify.com/album/6CSohBSgINMcMJLwO50QC2"
+      },
+      "artists": [
+        {
+          "name": "Soulwave",
+          "url": "https://open.spotify.com/artist/4oo6opSxv4xcTl22TteFS5"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Senki Se Hullajt K\u00f6nnyet",
+      "url": "https://open.spotify.com/track/7riuBDGVLyplVmCSPD3FKm"
+    },
+    {
+      "album": {
         "name": "Sephora",
         "url": "https://open.spotify.com/album/57wKUH3yHkLcxx6F0yNQ0w"
       },
@@ -11310,7 +11438,7 @@
       ],
       "date_added": "2026-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 136000,
       "name": "SZEXFANTOM - Bonus Track",
       "url": "https://open.spotify.com/track/1Azz15IP4Fuf07sSc2DcSS"
@@ -11895,6 +12023,24 @@
     },
     {
       "album": {
+        "name": "Te vagy az \u00e9n hib\u00e1m",
+        "url": "https://open.spotify.com/album/6s3SVuBXAjaLs0fwOqcyXz"
+      },
+      "artists": [
+        {
+          "name": "P\u00e1pai Joci",
+          "url": "https://open.spotify.com/artist/1xYRrfmh7NjIUY6XuJhvVm"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165258,
+      "name": "Te vagy az \u00e9n hib\u00e1m",
+      "url": "https://open.spotify.com/track/5dlXcyZle0u20scHIii12r"
+    },
+    {
+      "album": {
         "name": "Teardrops",
         "url": "https://open.spotify.com/album/110skZzsCFyckMdjupeIBX"
       },
@@ -12224,7 +12370,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 122500,
       "name": "TOP TIER - SPACCONE",
       "url": "https://open.spotify.com/track/4n9zK3ZjwyNfs0Bp1cUNiQ"
@@ -12522,6 +12668,28 @@
       "duration_ms": 259333,
       "name": "Unwritten",
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
+    },
+    {
+      "album": {
+        "name": "UTCA",
+        "url": "https://open.spotify.com/album/2tmyUAUCLbtLKMekYCi6Y6"
+      },
+      "artists": [
+        {
+          "name": "Bruno X Spacc",
+          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
+        },
+        {
+          "name": "KKevin",
+          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162555,
+      "name": "UTCA",
+      "url": "https://open.spotify.com/track/1HKO552g5ZkCXubx3i3MwW"
     },
     {
       "album": {

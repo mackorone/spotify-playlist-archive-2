@@ -4,27 +4,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe alternative & rock releases\. Cover: CHVRCHES
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,179 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,185 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Roses](https://open.spotify.com/track/3cV0ssCRS5OUR6iRUHf56C) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Roses](https://open.spotify.com/album/658SJZUurCZ0tbKEyhNMYF) | 3:28 |
 | 2 | [Sly \(Like Ever\)](https://open.spotify.com/track/2YFZ3Kegeiq1y4r1zX79l5) | [Tramhaus](https://open.spotify.com/artist/5HXrUfoDwofY8lehLNIykB) | [Blister](https://open.spotify.com/album/1wjNEyCjp09WFtdbEB98u0) | 3:57 |
-| 3 | [What I Need](https://open.spotify.com/track/7IVZxCAahqMAU1CcKuxkHL) | [ILA](https://open.spotify.com/artist/4dTDkzVuBCP4Rml12Iq5b2) | [Motherland](https://open.spotify.com/album/0Jboh9OZSKWYjhKfi3ypwM) | 3:05 |
-| 4 | [Midnight Sunlight](https://open.spotify.com/track/6zBwwfaDtbp2wlpQjHcD3R) | [Pyo](https://open.spotify.com/artist/3BNTy9A6fRhC8tCg7wApZB), [The Haunted Youth](https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod) | [Midnight Sunlight](https://open.spotify.com/album/0zAwwhwwUwB5tL89qyTAz9) | 2:31 |
-| 5 | [Can I Do It?](https://open.spotify.com/track/3qyapL4gd5urt6t8F2flvp) | [Moss](https://open.spotify.com/artist/2b5IpGsb4QnU46rf1jpZQ0) | [Can I Do It?](https://open.spotify.com/album/2Gjg0JL34KsFdj8ZJQ0IUE) | 2:53 |
-| 6 | [Wish Upon You](https://open.spotify.com/track/5S6Lu1hiwmipUZZV4g9n1Z) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Wish Upon You](https://open.spotify.com/album/1jB0LeWCN64fYmjJe2cW1V) | 4:37 |
-| 7 | [Who's That](https://open.spotify.com/track/2YPP52aPZiFUxTmbQTUiR6) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Who's That](https://open.spotify.com/album/5aPI8eIDOS7z4FwcLd0fDH) | 5:14 |
-| 8 | [Hope in \- Fear out](https://open.spotify.com/track/2PcBQfm3c6m1cPlyTn0jpm) | [John Coffey](https://open.spotify.com/artist/4kffVdSOMGP0BOiBXVgeyA) | [Not Alone](https://open.spotify.com/album/3RKQoboq11enzodEGmJeEX) | 2:36 |
-| 9 | [Tourniquet](https://open.spotify.com/track/3PDSQK3LBgjjbatSh1YSPt) | [Bleech 9:3](https://open.spotify.com/artist/2S6eJYUlnmZL5XOaC3nvRL) | [Tourniquet](https://open.spotify.com/album/2U1NHrusYm2RjcbX1tEi56) | 4:00 |
-| 10 | [HELEN KELLER](https://open.spotify.com/track/2Ava4a7PWhrhAPFFnzN8Bb) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [HELEN KELLER](https://open.spotify.com/album/3PhznlJ1F4bGmsuSuUkBwB) | 4:43 |
-| 11 | [Dead Company](https://open.spotify.com/track/01oyX4Sq1w6ZpgeOUHdqsJ) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Dead Company](https://open.spotify.com/album/76Ef0MsA8Z7bhBlCQsowir) | 3:19 |
+| 3 | [HELEN KELLER](https://open.spotify.com/track/2Ava4a7PWhrhAPFFnzN8Bb) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [HELEN KELLER](https://open.spotify.com/album/3PhznlJ1F4bGmsuSuUkBwB) | 4:43 |
+| 4 | [Dead Company](https://open.spotify.com/track/01oyX4Sq1w6ZpgeOUHdqsJ) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Dead Company](https://open.spotify.com/album/76Ef0MsA8Z7bhBlCQsowir) | 3:19 |
+| 5 | [What I Need](https://open.spotify.com/track/7IVZxCAahqMAU1CcKuxkHL) | [ILA](https://open.spotify.com/artist/4dTDkzVuBCP4Rml12Iq5b2) | [Motherland](https://open.spotify.com/album/0Jboh9OZSKWYjhKfi3ypwM) | 3:05 |
+| 6 | [Tourniquet](https://open.spotify.com/track/3PDSQK3LBgjjbatSh1YSPt) | [Bleech 9:3](https://open.spotify.com/artist/2S6eJYUlnmZL5XOaC3nvRL) | [Tourniquet](https://open.spotify.com/album/2U1NHrusYm2RjcbX1tEi56) | 4:00 |
+| 7 | [Midnight Sunlight](https://open.spotify.com/track/6zBwwfaDtbp2wlpQjHcD3R) | [Pyo](https://open.spotify.com/artist/3BNTy9A6fRhC8tCg7wApZB), [The Haunted Youth](https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod) | [Midnight Sunlight](https://open.spotify.com/album/0zAwwhwwUwB5tL89qyTAz9) | 2:31 |
+| 8 | [Can I Do It?](https://open.spotify.com/track/3qyapL4gd5urt6t8F2flvp) | [Moss](https://open.spotify.com/artist/2b5IpGsb4QnU46rf1jpZQ0) | [Can I Do It?](https://open.spotify.com/album/2Gjg0JL34KsFdj8ZJQ0IUE) | 2:53 |
+| 9 | [Wish Upon You](https://open.spotify.com/track/5S6Lu1hiwmipUZZV4g9n1Z) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Wish Upon You](https://open.spotify.com/album/1jB0LeWCN64fYmjJe2cW1V) | 4:37 |
+| 10 | [Who's That](https://open.spotify.com/track/2YPP52aPZiFUxTmbQTUiR6) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Who's That](https://open.spotify.com/album/5aPI8eIDOS7z4FwcLd0fDH) | 5:14 |
+| 11 | [Hope in \- Fear out](https://open.spotify.com/track/2PcBQfm3c6m1cPlyTn0jpm) | [John Coffey](https://open.spotify.com/artist/4kffVdSOMGP0BOiBXVgeyA) | [Not Alone](https://open.spotify.com/album/3RKQoboq11enzodEGmJeEX) | 2:36 |
 | 12 | [Heya](https://open.spotify.com/track/1phV9t2iyMfjXxGygcQ75k) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Palace for the People](https://open.spotify.com/album/1qog58rW47hLVPpG63TLyS) | 4:39 |
 | 13 | [Heart of Darkness](https://open.spotify.com/track/24zbHhoxY7EKcijv98EWL7) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Heart of Darkness](https://open.spotify.com/album/3x9DfNi4Tmn81AI2Db7buQ) | 3:26 |
 | 14 | [Not That Deep](https://open.spotify.com/track/4u0tXLPqbUcNTUWSznp4Dj) | [Alice Mae](https://open.spotify.com/artist/1BH0GCT0bBB4uiWFX1aruD) | [Not That Deep](https://open.spotify.com/album/6VdsRupAtI9jB2hngxJfrm) | 3:37 |
 | 15 | [Get to Work](https://open.spotify.com/track/6XfDFJanW0aKEAMEhSxNhk) | [BERTHAJU](https://open.spotify.com/artist/78ZYaBigpiwJBwo2owu6ks) | [5 YEAR PLAN](https://open.spotify.com/album/0fArUu7U85I3vOHMVRik50) | 3:12 |
 | 16 | [Waist 36 Leg 32](https://open.spotify.com/track/3Sm6Ytyh4Rd1bdHz03pxHB) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [Waist 36 Leg 32](https://open.spotify.com/album/5YtUriXwFzwLrgB22mu82w) | 3:50 |
-| 17 | [Bag of Cool](https://open.spotify.com/track/5THAStIZHf7o9HcluBeZUg) | [MICH](https://open.spotify.com/artist/4HDfVcO8QmARunFcBJofWQ) | [Bag of Cool](https://open.spotify.com/album/2E4dMK1UXf3gYAY9xUJ9hS) | 1:51 |
+| 17 | [Bag of Cool](https://open.spotify.com/track/5THAStIZHf7o9HcluBeZUg) | [MICH](https://open.spotify.com/artist/4HDfVcO8QmARunFcBJofWQ) | [Bag of Cool](https://open.spotify.com/album/2E4dMK1UXf3gYAY9xUJ9hS) | 1:50 |
 | 18 | [specializer](https://open.spotify.com/track/4Nm38tUhq4thCDn7SKVU9x) | [FIEP](https://open.spotify.com/artist/4NicMfR6iYKLcfXs1ydcAE) | [specializer](https://open.spotify.com/album/0UQidwLyKyb9vSGy9lR0BX) | 3:01 |
 | 19 | [Georgia](https://open.spotify.com/track/5nN8WUGQvp1Hqo8hGIqxeP) | [Jaïr Faria](https://open.spotify.com/artist/0nzaebKwaLRFXNwKLrXBRe) | [Georgia](https://open.spotify.com/album/2kwemYoubfya2nsFnusIG1) | 2:31 |
 | 20 | [The Ugliest Girl On The Beach](https://open.spotify.com/track/7zULk1BRwUrMjgImBEe37D) | [Victoryland](https://open.spotify.com/artist/63tTs259cHmrkQ7lGTmDdp) | [My Heart Is A Room With No Cameras In It \(Deluxe\)](https://open.spotify.com/album/1ihrc3yuJI063vqKwupVPp) | 2:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 | 99 | [Easy Street](https://open.spotify.com/track/415xhtL862VVvSiKWuS2SW) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Easy Street](https://open.spotify.com/album/1RL2L40aUcxmRFKHJbhX8n) | 3:51 |
 | 100 | [Glimmer](https://open.spotify.com/track/6HxdF6wqrHeuIyyypYaeUK) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [BLISS](https://open.spotify.com/album/7ma9QDQt7T6WhjF4UIITvA) | 3:55 |
 
-Snapshot ID: `AAAAAD3u18Y4wbkqdKMIkr5qVUZIAXZm`
+Snapshot ID: `AAAAANh4xI1Mr2j2kdFJhl5SPDN43cuz`

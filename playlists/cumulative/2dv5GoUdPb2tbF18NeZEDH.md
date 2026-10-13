@@ -4,7 +4,7 @@
 
 > Desert queens, vintage california soul and dusty americana nights\. Featured genres: Americana, Desert Folk, Cosmic Country, Alt Country, Folk Rock, Singer\-Songwriter\. Follow insta @glitchandgoldmusic for interviews, Radar features and new discoveries\. Submit on glitchandgold.com
 
-1,380 songs - 3 day 12 hr 17 min
+1,385 songs - 3 day 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,6 +258,7 @@
 | [Dancing In The Moonlight \(It's Caught Me In It's Spotlight\)](https://open.spotify.com/track/7pzJHDC3qv0qMJ92WZJk7G) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Wild One \- The Very Best Of Thin Lizzy \(Remastered Version\)](https://open.spotify.com/album/01iw3ZO4AQKvvIjXq5wPEL) | 3:22 | 2024-03-28 | 2025-12-14 |
 | [Dancing with Her](https://open.spotify.com/track/0k9lN7b4xTSfCLyEq0YNws) | [Leonardo979](https://open.spotify.com/artist/4BrUhoNq2K1uJX2OcSk7FW) | [Dancing with Her](https://open.spotify.com/album/45NsRlRjWWCXt6ntGT80Wa) | 3:24 | 2025-04-03 | 2025-12-14 |
 | [Danza Circular](https://open.spotify.com/track/4NXc1Ms1coXeXtX1KMHJer) | [Zeke Wilki](https://open.spotify.com/artist/7Lt4Ye71anJynKRtXG0sl1) | [Danza Circular](https://open.spotify.com/album/5pD1XOHeJeLQpQ3weWBzCe) | 3:15 | 2025-02-08 | 2025-12-14 |
+| [Dark Back](https://open.spotify.com/track/5kgFBa8KteN18oWS138wvT) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Mud Blood Bone](https://open.spotify.com/album/6eT5qu4VM8hXFm2uJ1JiQU) | 2:57 | 2026-10-12 |  |
 | [Darkness](https://open.spotify.com/track/5qDQxDnrVu8iVmE1BlqweI) | [ArtuJumper](https://open.spotify.com/artist/5RhgJPugDhmMBIA2fQFCF5) | [Mixtape : frACTured](https://open.spotify.com/album/55x9u4lQjA2ZChAZawMQWw) | 5:14 | 2025-05-07 | 2025-12-14 |
 | [Dawn of Fire](https://open.spotify.com/track/70u4eYyVh7kADzMIjSVvKC) | [Decadent Heroes](https://open.spotify.com/artist/5qvi0Vbn3IMRqrt1esaIbO) | [Dawn of Fire](https://open.spotify.com/album/6SP5Zv4zrTR60UNpnxxenG) | 3:35 | 2025-04-25 | 2025-12-14 |
 | [Days go by](https://open.spotify.com/track/7k3h0wAA7hHdvIdIqAA3r7) | [Jcende](https://open.spotify.com/artist/1t1eljhsc90z003MvhskK8) | [Days go by](https://open.spotify.com/album/72fDA8xnnispUuPyxSMyoZ) | 3:37 | 2025-04-03 | 2025-12-14 |
@@ -422,6 +423,7 @@
 | [Fra](https://open.spotify.com/track/1PbjACsnYy58cp8z4jZtC0) | [Lozì](https://open.spotify.com/artist/0q3SPGeBvqr3ZXhficzgJu) | [Fra](https://open.spotify.com/album/7xO5fVKW1BHsbMoqQblFXu) | 3:43 | 2025-04-10 | 2025-12-14 |
 | [Fragile](https://open.spotify.com/track/7dOxGOv0TEKgjdHvUUy8Dm) | [Maledetto](https://open.spotify.com/artist/2csLuQAaoanlNaHP8FMkES) | [Fragile](https://open.spotify.com/album/1wXdkSTjaNXwhCDnfNPxd7) | 3:23 | 2025-04-03 | 2025-12-14 |
 | [Frankenstein](https://open.spotify.com/track/4aK0vJsPXFsFdBUh8hPaDT) | [The Edgar Winter Group](https://open.spotify.com/artist/7j9PMegEgVN1fNp8NZXNCI) | [The Best Of Edgar Winter](https://open.spotify.com/album/6knWE50fnmU6X50X7QGfQY) | 4:45 | 2024-03-28 | 2025-12-14 |
+| [Free Wine](https://open.spotify.com/track/3Mk6ghUOomW5Ze4D2981kh) | [Rainbow Girls](https://open.spotify.com/artist/5qV8qZrppecEsKTWwCCtA7) | [Rolling Dumpster Fire](https://open.spotify.com/album/7IIeHi7dtn3oXl9OOcjaUl) | 3:01 | 2026-10-12 |  |
 | [From Belgrado to Tirana](https://open.spotify.com/track/0PHdAPuKB8Iq9bPzGCaDZ6) | [Bumbart Dj](https://open.spotify.com/artist/2Ft53dnGW9FNcHT5rsR2L9) | [Pipelines Vol 1](https://open.spotify.com/album/3twTUUKFv5wj1fi8UWkHBg) | 3:01 | 2025-06-23 | 2025-12-14 |
 | [From Singapore](https://open.spotify.com/track/5lKl4UJSzdSUuUtqg3pYUd) | [Andrea Fedeli](https://open.spotify.com/artist/2BmCN01Rnv3CXx4lqZtFJm) | [Il Mondo Con Gli Occhi Di Overland, \(Colonna Sonora Originale Del Programma TV\), Vol\. 3](https://open.spotify.com/album/4R9LoACLMuJb9d6qqTtnrH) | 1:54 | 2025-05-20 | 2025-12-14 |
 | [Fruit on the Vine](https://open.spotify.com/track/5QgWl7qQVLjqdD1rS6BeID) | [Kip Lily](https://open.spotify.com/artist/0lJ4m103Yzpv9aWNfI1g5y) | [Fruit on the Vine](https://open.spotify.com/album/39WBV1h8qFbnxgEYpxUqkI) | 3:53 | 2025-09-18 | 2025-12-14 |
@@ -1082,6 +1084,7 @@
 | [Spacco tutto](https://open.spotify.com/track/42zFFd0LCM0xaFRTIiZt9E) | [Marececo](https://open.spotify.com/artist/6RTXCGb0topFpC7JfkxaHg) | [Spacco tutto](https://open.spotify.com/album/2LnRpAR1vPPPl1GGnCZetD) | 3:15 | 2025-04-10 | 2025-12-14 |
 | [Spatial](https://open.spotify.com/track/3Fxceybn6mUOFlAHIz3Zsn) | [Rafael Vidal Lykova](https://open.spotify.com/artist/7jFo2dnzVJ2XpI3e9AcDWA) | [Spatial](https://open.spotify.com/album/6b7WFerr0JRtw8X5H9L9IS) | 2:15 | 2025-09-23 | 2025-12-14 |
 | [Spatial \(Slowed + Reverb\)](https://open.spotify.com/track/25ZwRVSIX2i8EmA0P64Dzx) | [Rafael Vidal Lykova](https://open.spotify.com/artist/7jFo2dnzVJ2XpI3e9AcDWA) | [Spatial \(Slowed + Reverb\)](https://open.spotify.com/album/5SMZ95uJelDSoRgC610VOd) | 2:48 | 2025-09-20 | 2025-12-14 |
+| [Spider](https://open.spotify.com/track/5RyBqIGm2gRGIDSpq0cKFY) | [Esther Rose](https://open.spotify.com/artist/2oHUiSQkf9M1TELQvNJJPs) | [Safe to Run](https://open.spotify.com/album/4I9i05PJiLa0aRyyIsJQxv) | 3:50 | 2026-10-12 |  |
 | [Spiral](https://open.spotify.com/track/2GmR8f2PjE9gcUkRws7rYJ) | [Worn Out Welcome](https://open.spotify.com/artist/0ibx8tICHFMIC94A8NrrqM) | [Spiral](https://open.spotify.com/album/2q2Ht27aBPC0AbXIEO4gmA) | 3:46 | 2025-04-23 | 2025-12-14 |
 | [Spirit](https://open.spotify.com/track/7IB3Q05uji6Jen1Av16yZV) | [Elvis Nick](https://open.spotify.com/artist/6RdhCLrXSfeBbf84XU2MVf) | [Born This Way](https://open.spotify.com/album/6G7XR6w962jb9bdqI2cpNH) | 2:40 | 2025-04-06 | 2025-12-14 |
 | [Stand by](https://open.spotify.com/track/1GdHgqxXn2TRy8NYN4aoll) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Días de Duelo](https://open.spotify.com/album/40B1Qk67ksaID4xYqcqw6v) | 3:22 | 2025-05-03 | 2025-12-14 |
@@ -1125,6 +1128,7 @@
 | [Suo](https://open.spotify.com/track/2cnCCtsHeFBGuVSiGp9Joi) | [Joezi](https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B), [Emmanuel Jal](https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm), [DJ Tomer](https://open.spotify.com/artist/0hpl6679CBWX360qBPGIVj), [Ricardo](https://open.spotify.com/artist/6xBY3gRIguf7N54fXPRKvJ) | [SUO](https://open.spotify.com/album/72pw3DB1iNQq2vYhQx9ThU) | 3:00 | 2025-12-13 | 2026-04-21 |
 | [Super Freak](https://open.spotify.com/track/55OjNE2lCUX19YsiwjmtYX) | [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL) | [Street Songs \(Remastered\)](https://open.spotify.com/album/1BTAUQ7wPtXLfk2iSzdbgj) | 3:24 | 2024-03-28 | 2025-12-14 |
 | [Superfly](https://open.spotify.com/track/59qMoWacc63YxgtJyFzapH) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Simply Soul](https://open.spotify.com/album/6RMGM5aukVj2UO2h6J8UoJ) | 3:54 | 2024-03-28 | 2025-12-14 |
+| [Supertramp](https://open.spotify.com/track/0XUC0NWE9vAakeCgvaekVs) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Old Time Feeling](https://open.spotify.com/album/157xeDtGxPmnZIQfdJjQFT) | 2:56 | 2026-10-12 |  |
 | [Survive \- 2.0](https://open.spotify.com/track/1OGY8Tm2Cm30eHjwzfokxf) | [TSIMECA](https://open.spotify.com/artist/3qjKbpkDNtLc6X7xEScpKy) | [Cyber Sanctum: Act 1 \(2.0\)](https://open.spotify.com/album/5YQjKdmrwj3DOC7OQDEytT) | 3:09 | 2026-03-27 | 2026-04-21 |
 | [Svegli alle 3:00](https://open.spotify.com/track/4idxx9BSRJmDsV2BXQ41Rz) | [Mars Era](https://open.spotify.com/artist/1oCY3sD7vJ4vGKaphi4DCo) | [Svegli alle 3:00](https://open.spotify.com/album/7vrhJgfBe2BREGQAgktd7q) | 5:02 | 2025-05-04 | 2025-12-14 |
 | [Swear](https://open.spotify.com/track/6V5utJRMWoIbzMgjbwPSxU) | [The Seadix](https://open.spotify.com/artist/5q5xX0d07ULjV8NKTGXLrB) | [The Seadix](https://open.spotify.com/album/57KXLCCEgLNCP9yCd54ZEq) | 2:48 | 2025-04-14 | 2025-12-14 |
@@ -1143,6 +1147,7 @@
 | [Tarnish Me](https://open.spotify.com/track/0oNPNs7YaGkUawteIroqdC) | [The Groundswell](https://open.spotify.com/artist/4MiMzugMniyd4PBZsxbDqj) | [No Goodbyes](https://open.spotify.com/album/1q4DnWJLO4aHsxpqtDbFbV) | 3:09 | 2025-04-22 | 2025-12-14 |
 | [Te Hare Creer](https://open.spotify.com/track/71qlgyphxFp9HRCFxTRDOP) | [Noé Matz](https://open.spotify.com/artist/38BdynrtLryDY2Upf67Gjc) | [Te Hare Creer](https://open.spotify.com/album/36DMtg3KpiLhSqW5q1a04a) | 3:59 | 2025-05-24 | 2025-12-14 |
 | [Te Mintieron](https://open.spotify.com/track/0wyzDJntPZ45iBlrIxfdI7) | [YouYouHD4](https://open.spotify.com/artist/4pBakMble4EM5zVw9eKaNq) | [Te Mintieron](https://open.spotify.com/album/2j91ivStrZxne4ecoyPg52) | 3:23 | 2025-04-07 | 2025-12-14 |
+| [Teeth Marks](https://open.spotify.com/track/6L7uYQYLL6veGWP89fFph0) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Teeth Marks](https://open.spotify.com/album/5fXIv2d6FP5hSTYThKREZH) | 3:37 | 2026-10-12 |  |
 | [Tela Bianca](https://open.spotify.com/track/73Wq7NkanszoPwAdAksjw1) | [Carducci](https://open.spotify.com/artist/2THb3si9v6rQ2uqBAp8ZMf) | [Le vie del Cercatore](https://open.spotify.com/album/2RprCD6Thm9yNUx86vWxeC) | 2:33 | 2025-05-29 | 2025-12-14 |
 | [Telegram \- Radio Edit](https://open.spotify.com/track/54pwj9FEGQj64uwE4Hwfea) | [Nevia](https://open.spotify.com/artist/7g786aXP2HsoPtUVn4N30Z) | [Telegram](https://open.spotify.com/album/4e7kDtGF1rzbm9q6BXen38) | 2:41 | 2025-06-23 | 2025-12-14 |
 | [Telenovela, Tele TV](https://open.spotify.com/track/5ckS6JJD1zmnnc5TXOahkj) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [Lo Scommettitore](https://open.spotify.com/album/5IfnJZpGKhohKV3yjQUuc0) | 2:12 | 2025-06-05 | 2025-12-14 |

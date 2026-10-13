@@ -535,6 +535,26 @@
     {
       "added_at": "2026-09-18 06:00:22",
       "album": {
+        "name": "PEKORITAS VOL.1",
+        "url": "https://open.spotify.com/album/62NyBs8dQmOtKYZUmdex6A"
+      },
+      "artists": [
+        {
+          "name": "DENNA LA PORRI",
+          "url": "https://open.spotify.com/artist/0xc9ZT3PSktJFx0N96FJQG"
+        },
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        }
+      ],
+      "duration_ms": 184044,
+      "name": "BYE BYE",
+      "url": "https://open.spotify.com/track/4fRl4vW5SN8V3zoekNCF4Z"
+    },
+    {
+      "added_at": "2026-09-18 06:00:22",
+      "album": {
         "name": "Me Ilumin\u00e9",
         "url": "https://open.spotify.com/album/0M9tAy51bRMeT7xGdPJGP5"
       },
@@ -555,26 +575,6 @@
       "duration_ms": 138720,
       "name": "Me Ilumin\u00e9",
       "url": "https://open.spotify.com/track/62jHLKgkJtuuJUmCidGUEo"
-    },
-    {
-      "added_at": "2026-09-18 06:00:22",
-      "album": {
-        "name": "PEKORITAS VOL.1",
-        "url": "https://open.spotify.com/album/62NyBs8dQmOtKYZUmdex6A"
-      },
-      "artists": [
-        {
-          "name": "DENNA LA PORRI",
-          "url": "https://open.spotify.com/artist/0xc9ZT3PSktJFx0N96FJQG"
-        },
-        {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
-        }
-      ],
-      "duration_ms": 184044,
-      "name": "BYE BYE",
-      "url": "https://open.spotify.com/track/4fRl4vW5SN8V3zoekNCF4Z"
     },
     {
       "added_at": "2026-09-18 06:00:22",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-09-18 06:00:22",
       "album": {
-        "name": "Ping\u00fcinos",
-        "url": "https://open.spotify.com/album/3V79Llwk7Lb9EUbsYd3wiG"
-      },
-      "artists": [
-        {
-          "name": "Agris",
-          "url": "https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q"
-        }
-      ],
-      "duration_ms": 196629,
-      "name": "Ping\u00fcinos",
-      "url": "https://open.spotify.com/track/6vmzWzScqJ70yumSCoNa3y"
-    },
-    {
-      "added_at": "2026-09-18 06:00:22",
-      "album": {
         "name": "house sin ti",
         "url": "https://open.spotify.com/album/1d7OOEA9nFDbeLQdS8d0Gv"
       },
@@ -943,6 +927,22 @@
     {
       "added_at": "2026-09-18 06:00:22",
       "album": {
+        "name": "Ping\u00fcinos",
+        "url": "https://open.spotify.com/album/3V79Llwk7Lb9EUbsYd3wiG"
+      },
+      "artists": [
+        {
+          "name": "Agris",
+          "url": "https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q"
+        }
+      ],
+      "duration_ms": 196629,
+      "name": "Ping\u00fcinos",
+      "url": "https://open.spotify.com/track/6vmzWzScqJ70yumSCoNa3y"
+    },
+    {
+      "added_at": "2026-09-18 06:00:22",
+      "album": {
         "name": "Cadena Nacional",
         "url": "https://open.spotify.com/album/4P0TbN0tnLHdJVR6bMmGK6"
       },
@@ -955,6 +955,26 @@
       "duration_ms": 148274,
       "name": "Cadena Nacional",
       "url": "https://open.spotify.com/track/4VoIHa5TY0wvY3jwmrxRM5"
+    },
+    {
+      "added_at": "2026-09-18 06:00:22",
+      "album": {
+        "name": "\u2698incendi\u00e9 el jard\u00edn/// lo siento\u2698",
+        "url": "https://open.spotify.com/album/2JVmpU2d4eN05qVws1XRoP"
+      },
+      "artists": [
+        {
+          "name": "El Verumcito",
+          "url": "https://open.spotify.com/artist/0Xe3f3OUBfpL0WbRwAJXwY"
+        },
+        {
+          "name": "Emiliano Athie",
+          "url": "https://open.spotify.com/artist/1qho775jbZoPnNUR9Xtjzr"
+        }
+      ],
+      "duration_ms": 232258,
+      "name": "14 plegarias /x\\",
+      "url": "https://open.spotify.com/track/7refz4ih2vIt2O09qHowPP"
     },
     {
       "added_at": "2026-09-18 06:00:22",
@@ -995,26 +1015,6 @@
     {
       "added_at": "2026-09-18 06:00:22",
       "album": {
-        "name": "\u2698incendi\u00e9 el jard\u00edn/// lo siento\u2698",
-        "url": "https://open.spotify.com/album/2JVmpU2d4eN05qVws1XRoP"
-      },
-      "artists": [
-        {
-          "name": "El Verumcito",
-          "url": "https://open.spotify.com/artist/0Xe3f3OUBfpL0WbRwAJXwY"
-        },
-        {
-          "name": "Emiliano Athie",
-          "url": "https://open.spotify.com/artist/1qho775jbZoPnNUR9Xtjzr"
-        }
-      ],
-      "duration_ms": 232258,
-      "name": "14 plegarias /x\\",
-      "url": "https://open.spotify.com/track/7refz4ih2vIt2O09qHowPP"
-    },
-    {
-      "added_at": "2026-09-18 06:00:22",
-      "album": {
         "name": "CAMINO",
         "url": "https://open.spotify.com/album/0vUAfMyeqlXI2vHy22oKSw"
       },
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2026-09-18 06:00:22",
       "album": {
+        "name": "Cereza",
+        "url": "https://open.spotify.com/album/7cLLmRt2PwNs66wbjtuxiR"
+      },
+      "artists": [
+        {
+          "name": "Mosmo",
+          "url": "https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr"
+        }
+      ],
+      "duration_ms": 198150,
+      "name": "Cereza",
+      "url": "https://open.spotify.com/track/2VGS9wYeryfMENNEbdD2jy"
+    },
+    {
+      "added_at": "2026-09-18 06:00:22",
+      "album": {
         "name": "No puedo estar aqu\u00ed (feat. iza tkm)",
         "url": "https://open.spotify.com/album/5ZLQVx0ai0on6tKN7FMv6j"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 147586,
       "name": "No puedo estar aqu\u00ed (feat. iza tkm)",
       "url": "https://open.spotify.com/track/6XIe5UZSwsdgtuSTLuWlBP"
-    },
-    {
-      "added_at": "2026-09-18 06:00:22",
-      "album": {
-        "name": "Cereza",
-        "url": "https://open.spotify.com/album/7cLLmRt2PwNs66wbjtuxiR"
-      },
-      "artists": [
-        {
-          "name": "Mosmo",
-          "url": "https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr"
-        }
-      ],
-      "duration_ms": 198150,
-      "name": "Cereza",
-      "url": "https://open.spotify.com/track/2VGS9wYeryfMENNEbdD2jy"
     },
     {
       "added_at": "2026-09-18 06:00:22",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2026-09-18 06:00:22",
       "album": {
+        "name": "La Culpable",
+        "url": "https://open.spotify.com/album/5XMBK8fMW1S1oto6Qmyl6R"
+      },
+      "artists": [
+        {
+          "name": "eydrey",
+          "url": "https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4"
+        }
+      ],
+      "duration_ms": 237005,
+      "name": "La Culpable",
+      "url": "https://open.spotify.com/track/3LcfsnsxE0AsUtry81FxsU"
+    },
+    {
+      "added_at": "2026-09-18 06:00:22",
+      "album": {
         "name": "Te Llevo A D\u00f3nde Quieras",
         "url": "https://open.spotify.com/album/4Xl7jqz3vr2eNjxaQDh3G9"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 144098,
       "name": "Te Llevo A D\u00f3nde Quieras",
       "url": "https://open.spotify.com/track/59LU3KyaBPQohgDdaHL58Q"
-    },
-    {
-      "added_at": "2026-09-18 06:00:22",
-      "album": {
-        "name": "La Culpable",
-        "url": "https://open.spotify.com/album/5XMBK8fMW1S1oto6Qmyl6R"
-      },
-      "artists": [
-        {
-          "name": "eydrey",
-          "url": "https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4"
-        }
-      ],
-      "duration_ms": 237005,
-      "name": "La Culpable",
-      "url": "https://open.spotify.com/track/3LcfsnsxE0AsUtry81FxsU"
     },
     {
       "added_at": "2026-09-18 06:00:22",

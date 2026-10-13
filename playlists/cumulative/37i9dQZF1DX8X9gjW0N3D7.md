@@ -4,7 +4,7 @@
 
 > De la musique québécoise pour tous les goûts\.  Photo: Thierry Larose
 
-634 songs - 1 day 11 hr 29 min
+635 songs - 1 day 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -378,7 +378,7 @@
 | [Mon amour](https://open.spotify.com/track/11r38rBuSbkj0M51YLDBh8) | [Clara Roy\-Jensen](https://open.spotify.com/artist/1JZu5DVhnKHHPWa9q4IJbZ) | [Mon amour](https://open.spotify.com/album/7CIx0b1ScA7XrRLTmbwJLk) | 4:29 | 2026-01-16 | 2026-03-21 |
 | [Monnaie](https://open.spotify.com/track/5SQMb560m9tf4ocbCQlZU7) | [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc) | [Monnaie](https://open.spotify.com/album/7sLIbhxsS3mFjE3nnqQYhZ) | 2:25 | 2025-09-12 | 2025-10-18 |
 | [monsieur Quan](https://open.spotify.com/track/5JvgShGpd6azGj7JO9XpxY) | [Alphonse Bisaillon](https://open.spotify.com/artist/2D6FbkaHZ4AYvKzp2E2Plt) | [monsieur Quan](https://open.spotify.com/album/0qiMtfdSUDzTDOkwgn6ZSM) | 5:17 | 2026-01-23 | 2026-03-07 |
-| [Mood Ring](https://open.spotify.com/track/7rDj3Mst01U7U6GmfHImZT) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Mood Ring](https://open.spotify.com/album/32egrBNmQPGPRSYWdkn9Xf) | 3:22 | 2026-08-21 |  |
+| [Mood Ring](https://open.spotify.com/track/7rDj3Mst01U7U6GmfHImZT) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Mood Ring](https://open.spotify.com/album/32egrBNmQPGPRSYWdkn9Xf) | 3:22 | 2026-08-21 | 2026-10-13 |
 | [Mosaic in the Sun](https://open.spotify.com/track/2iitUrUOfO8Mj5fdLUNGj1) | [Edwin Raphael](https://open.spotify.com/artist/44DUgsrbRUlhwfLyj4ySUB) | [I Know A Garden](https://open.spotify.com/album/5m48ZpXDMCaEYBIUlkEkmb) | 3:10 | 2026-07-17 |  |
 | [Moucherons](https://open.spotify.com/track/7MKcEo1tspRup4Ci2uDK2k) | [Grégoire Lemån](https://open.spotify.com/artist/3XvUHowr5b2j7xekM989Qi) | [Moucherons](https://open.spotify.com/album/0k5sogOb9BX47fxCTsMhpF) | 4:03 | 2025-10-17 | 2026-02-14 |
 | [Mourir ensemble](https://open.spotify.com/track/5cnFw5edGRri2cmWysHkuG) | [Mantisse](https://open.spotify.com/artist/20iPdUZMRpNULtRfv9mJP7) | [Mourir ensemble](https://open.spotify.com/album/0nH1KOHq6HogQGhIlNn3Lz) | 1:38 | 2026-02-20 | 2026-05-16 |
@@ -450,6 +450,7 @@
 | [Plus près](https://open.spotify.com/track/0yxjVkM1Ux3uCcYv4pnyqr) | [oui merci](https://open.spotify.com/artist/6XUr1bWIBVkLmXHySucgyr) | [Plus près](https://open.spotify.com/album/5mJr7TKCUmFAiMblLqDGoi) | 2:31 | 2025-10-17 | 2026-02-14 |
 | [Pomme](https://open.spotify.com/track/26s7UGEzE0vfIK7BxvWb8q) | [William Papillon](https://open.spotify.com/artist/3Hrbbg19aEK3UpbzpPcfys), [Alfa Rococo](https://open.spotify.com/artist/6nG2T7gGBQilOJXPWw0F0n) | [Pomme](https://open.spotify.com/album/7I2rduDJv8Np37F3cQuupC) | 2:59 | 2024-07-12 | 2025-10-03 |
 | [porcelaine](https://open.spotify.com/track/18ymUE8BDQDnJIzebhk2PZ) | [mirani coelho](https://open.spotify.com/artist/25W2wGoMZL13LGDKG0AwFE) | [porcelaine](https://open.spotify.com/album/3rKbLbdC2CVE1U0bCGQpcU) | 4:31 | 2026-02-27 | 2026-05-09 |
+| [Postcard](https://open.spotify.com/track/4WQ8w6jr2ZPZ021iUm2J1D) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Postcard](https://open.spotify.com/album/2sd2am38eV9C5aKSnmZpAg) | 3:06 | 2026-10-09 |  |
 | [Pour que tu m'aimes](https://open.spotify.com/track/5BMhYj3GsMuI7esiL5FGAT) | [King Melrose](https://open.spotify.com/artist/2AQF1jj79zuIK0HFMSPn91), [Katrine Sansregret](https://open.spotify.com/artist/23l9JLbR4HKMyJLY2WuiNw) | [Pour que tu m’aimes](https://open.spotify.com/album/5kr4A20V2uSv44u0mN9kqm) | 2:56 | 2025-09-18 | 2026-02-21 |
 | [pourquoi](https://open.spotify.com/track/1F5vx3A1XQMAiJGQ9F1TCJ) | [William Gravel](https://open.spotify.com/artist/0d5FjYRJhQ9GSIphJgbsd4) | [pourquoi](https://open.spotify.com/album/27WLdbSsQYZhLGjac8p9zS) | 4:52 | 2026-04-03 | 2026-04-25 |
 | [Prendre soin du beau](https://open.spotify.com/track/6cqT1guXExDBibebscbGqg) | [Jessica Charlie](https://open.spotify.com/artist/0nBaWM1NoLFB7kPSftK6op) | [Prendre soin du beau](https://open.spotify.com/album/6qGTjFlt1VfhS1ISV2OACY) | 3:15 | 2025-12-19 |  |

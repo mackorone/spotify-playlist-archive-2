@@ -1,12 +1,12 @@
 {
   "description": "This is Wale. The essential tracks, all in one playlist.",
-  "num_followers": 41222,
+  "num_followers": 41229,
   "original_name": "This Is Wale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asgugAAAAABqAU7ktOeGIgtUpQ4Zepet",
+  "snapshot_id": "asrRgAAAAABMalNg5rFsF8T51VoUybea",
   "tracks": [
     {
       "added_at": null,
@@ -487,22 +487,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Folarin II",
-        "url": "https://open.spotify.com/album/2hWG79pDHBFMCr5PQsCtF9"
+        "name": "Small Chops",
+        "url": "https://open.spotify.com/album/0a0tO3TtUkC09ATMHt3qo9"
       },
       "artists": [
         {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
         },
         {
-          "name": "Jamie Foxx",
-          "url": "https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w"
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
         }
       ],
-      "duration_ms": 109000,
-      "name": "Dearly Beloved (feat. Jamie Foxx)",
-      "url": "https://open.spotify.com/track/0JQ0F7iBZ3rIZaY9PTlBpT"
+      "duration_ms": 156000,
+      "name": "How It Feels",
+      "url": "https://open.spotify.com/track/5WkZ4p427oVrlHqQj0AK7Z"
     },
     {
       "added_at": null,
@@ -523,22 +523,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Small Chops",
-        "url": "https://open.spotify.com/album/0a0tO3TtUkC09ATMHt3qo9"
+        "name": "Folarin II",
+        "url": "https://open.spotify.com/album/2hWG79pDHBFMCr5PQsCtF9"
       },
       "artists": [
         {
-          "name": "Mannywellz",
-          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
-        },
-        {
           "name": "Wale",
           "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Jamie Foxx",
+          "url": "https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w"
         }
       ],
-      "duration_ms": 156000,
-      "name": "How It Feels",
-      "url": "https://open.spotify.com/track/5WkZ4p427oVrlHqQj0AK7Z"
+      "duration_ms": 109000,
+      "name": "Dearly Beloved (feat. Jamie Foxx)",
+      "url": "https://open.spotify.com/track/0JQ0F7iBZ3rIZaY9PTlBpT"
     },
     {
       "added_at": null,
@@ -679,6 +679,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "You Never Visit Me (feat. Wale & Enny)",
+        "url": "https://open.spotify.com/album/5768qKkadOnArtFfrupjLe"
+      },
+      "artists": [
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        },
+        {
+          "name": "ENNY",
+          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "You Never Visit Me (feat. Wale & Enny)",
+      "url": "https://open.spotify.com/track/7qArEpkWxXwdh8nkfqcjIf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shine",
         "url": "https://open.spotify.com/album/3X1Ljgkvf2cLwi8mMjhvKy"
       },
@@ -703,30 +727,6 @@
       "duration_ms": 228706,
       "name": "My Love (feat. Major Lazer, WizKid, Dua Lipa)",
       "url": "https://open.spotify.com/track/7rfiXyFb5M9BqdkvKvVEiB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You Never Visit Me (feat. Wale & Enny)",
-        "url": "https://open.spotify.com/album/5768qKkadOnArtFfrupjLe"
-      },
-      "artists": [
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        },
-        {
-          "name": "ENNY",
-          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "You Never Visit Me (feat. Wale & Enny)",
-      "url": "https://open.spotify.com/track/7qArEpkWxXwdh8nkfqcjIf"
     },
     {
       "added_at": null,
@@ -835,6 +835,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Home (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6RM05aDNmbqF7AV1xwubac"
+      },
+      "artists": [
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Feel the Love (feat. Wale)",
+      "url": "https://open.spotify.com/track/0ojU4I7FDbtkvh4lnkPI1C"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bag of Money (feat. Rick Ross, Meek Mill & T-Pain)",
         "url": "https://open.spotify.com/album/4M1WXCpnNqFMmiZz0W3FfW"
       },
@@ -859,26 +879,6 @@
       "duration_ms": 247293,
       "name": "Bag of Money (feat. Rick Ross, Meek Mill & T-Pain)",
       "url": "https://open.spotify.com/track/1BvTqJLeB9ZeGU01gFzJbh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Home (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6RM05aDNmbqF7AV1xwubac"
-      },
-      "artists": [
-        {
-          "name": "Rudimental",
-          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Feel the Love (feat. Wale)",
-      "url": "https://open.spotify.com/track/0ojU4I7FDbtkvh4lnkPI1C"
     },
     {
       "added_at": null,
@@ -999,26 +999,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slow Down (Remix) [feat. H.E.R. & Wale]",
-        "url": "https://open.spotify.com/album/2HGRESjom1ev3i6XQfSszY"
+        "name": "Attention Deficit (Explicit Version)",
+        "url": "https://open.spotify.com/album/4wvluWE0xVSY59d1fafNCI"
       },
       "artists": [
         {
-          "name": "Skip Marley",
-          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        },
-        {
           "name": "Wale",
           "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Melanie Fiona",
+          "url": "https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 222068,
-      "name": "Slow Down (Remix) [feat. H.E.R. & Wale]",
-      "url": "https://open.spotify.com/track/3oMICOZz49EM5LT4Z330uo"
+      "duration_ms": 304613,
+      "name": "Beautiful Bliss",
+      "url": "https://open.spotify.com/track/5Ys7Mcr0n8NBTFiwqbTR8m"
     },
     {
       "added_at": null,
@@ -1043,26 +1043,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Attention Deficit (Explicit Version)",
-        "url": "https://open.spotify.com/album/4wvluWE0xVSY59d1fafNCI"
+        "name": "Slow Down (Remix) [feat. H.E.R. & Wale]",
+        "url": "https://open.spotify.com/album/2HGRESjom1ev3i6XQfSszY"
       },
       "artists": [
         {
+          "name": "Skip Marley",
+          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
           "name": "Wale",
           "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "Melanie Fiona",
-          "url": "https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 304613,
-      "name": "Beautiful Bliss",
-      "url": "https://open.spotify.com/track/5Ys7Mcr0n8NBTFiwqbTR8m"
+      "duration_ms": 222068,
+      "name": "Slow Down (Remix) [feat. H.E.R. & Wale]",
+      "url": "https://open.spotify.com/track/3oMICOZz49EM5LT4Z330uo"
     }
   ],
   "unique_name": "This Is Wale",

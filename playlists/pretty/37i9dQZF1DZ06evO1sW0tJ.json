@@ -1,12 +1,12 @@
 {
   "description": "This is Clara Schumann. The essential tracks, all in one playlist.",
-  "num_followers": 2262,
+  "num_followers": 2264,
   "original_name": "This Is Clara Schumann",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asmAAAAAAACZ6eAcHXeEiLeuNRl5II47",
+  "snapshot_id": "asrRgAAAAABbwBnTeMrhDWLUDpzUTKlB",
   "tracks": [
     {
       "added_at": null,
@@ -115,26 +115,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "C. Schumann: Soir\u00e9es musicales, Op. 6: II. Notturno. Andante con moto (Version for Harp)",
-        "url": "https://open.spotify.com/album/5BVP1Pfk82ukSEHCgEi88Q"
-      },
-      "artists": [
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        },
-        {
-          "name": "Magdalena Hoffmann",
-          "url": "https://open.spotify.com/artist/6Rq4dclwT2EHEG8lhvWqBT"
-        }
-      ],
-      "duration_ms": 318213,
-      "name": "Soir\u00e9es musicales, Op. 6: II. Notturno. Andante con moto (Version for Harp)",
-      "url": "https://open.spotify.com/track/7msodaosInbttzEEJ9MRfq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Echoes of Women - International Women's Day 2024",
         "url": "https://open.spotify.com/album/0wmLZVzrWZrwmNH20OdYrd"
       },
@@ -155,6 +135,26 @@
       "duration_ms": 177733,
       "name": "3 Romances For Violin And Piano, Op. 22: 1. Andante molto",
       "url": "https://open.spotify.com/track/6tpTj0gRqA8C9VdQEtD65e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "C. Schumann: Soir\u00e9es musicales, Op. 6: II. Notturno. Andante con moto (Version for Harp)",
+        "url": "https://open.spotify.com/album/5BVP1Pfk82ukSEHCgEi88Q"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Magdalena Hoffmann",
+          "url": "https://open.spotify.com/artist/6Rq4dclwT2EHEG8lhvWqBT"
+        }
+      ],
+      "duration_ms": 318213,
+      "name": "Soir\u00e9es musicales, Op. 6: II. Notturno. Andante con moto (Version for Harp)",
+      "url": "https://open.spotify.com/track/7msodaosInbttzEEJ9MRfq"
     },
     {
       "added_at": null,
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj"
         }
       ],
-      "duration_ms": 70585,
-      "name": "Variations on a Theme by Robert Schumann, Op. 20: Var. 6",
-      "url": "https://open.spotify.com/track/0hEdWzRxXUdgUT3whyRoCl"
+      "duration_ms": 58093,
+      "name": "Variations on a Theme by Robert Schumann, Op. 20: Var. 4",
+      "url": "https://open.spotify.com/track/6oixOO4CI7zAN8o0UUGReP"
     },
     {
       "added_at": null,
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj"
         }
       ],
-      "duration_ms": 58093,
-      "name": "Variations on a Theme by Robert Schumann, Op. 20: Var. 4",
-      "url": "https://open.spotify.com/track/6oixOO4CI7zAN8o0UUGReP"
+      "duration_ms": 70585,
+      "name": "Variations on a Theme by Robert Schumann, Op. 20: Var. 6",
+      "url": "https://open.spotify.com/track/0hEdWzRxXUdgUT3whyRoCl"
     },
     {
       "added_at": null,
@@ -607,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Breaking Waves",
-        "url": "https://open.spotify.com/album/5iILSPeMu6TIEhGHccDVub"
+        "name": "Eternal Clara",
+        "url": "https://open.spotify.com/album/5TpTjNfazXHHi8X2eRiIlQ"
       },
       "artists": [
         {
@@ -616,17 +616,13 @@
           "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
         },
         {
-          "name": "Swedish Wind Ensemble",
-          "url": "https://open.spotify.com/artist/1buVOqH2p4OsCK0LQSlCvT"
-        },
-        {
-          "name": "Cathrine Winnes",
-          "url": "https://open.spotify.com/artist/6mu7Aa7awnK1xo2PmX81c4"
+          "name": "Carl Schwarz",
+          "url": "https://open.spotify.com/artist/79IvVCvF5Pf0Q4GDoFQzx2"
         }
       ],
-      "duration_ms": 418744,
-      "name": "Soir\u00e9es musicales, Op. 6: IV. Ballade (Arr. for Wind Ensemble)",
-      "url": "https://open.spotify.com/track/6XF1fHkEZBfEB05NsnRFF5"
+      "duration_ms": 190960,
+      "name": "Romance, Op. 22: No. 1, Andante Molto",
+      "url": "https://open.spotify.com/track/1lMgYTRVLaJFyPefP0SJNB"
     },
     {
       "added_at": null,
@@ -695,6 +691,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Breaking Waves",
+        "url": "https://open.spotify.com/album/5iILSPeMu6TIEhGHccDVub"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Swedish Wind Ensemble",
+          "url": "https://open.spotify.com/artist/1buVOqH2p4OsCK0LQSlCvT"
+        },
+        {
+          "name": "Cathrine Winnes",
+          "url": "https://open.spotify.com/artist/6mu7Aa7awnK1xo2PmX81c4"
+        }
+      ],
+      "duration_ms": 418744,
+      "name": "Soir\u00e9es musicales, Op. 6: IV. Ballade (Arr. for Wind Ensemble)",
+      "url": "https://open.spotify.com/track/6XF1fHkEZBfEB05NsnRFF5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "...wo die Zitronen bl\u00fchn",
         "url": "https://open.spotify.com/album/7aJHFPy7ULfY3prEatAK3t"
       },
@@ -723,26 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clara et Robert Schumann, Romances, Variations, Grande sonate",
-        "url": "https://open.spotify.com/album/39n5wrHWx5GHQkFpUzG7t1"
-      },
-      "artists": [
-        {
-          "name": "Pierre-Alain Volondat",
-          "url": "https://open.spotify.com/artist/07ocrn91p26FT9D2A3G8Rn"
-        },
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        }
-      ],
-      "duration_ms": 737973,
-      "name": "Variations op.20",
-      "url": "https://open.spotify.com/track/2uspxzx6IIEmDrqu2FVNl2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quatre Pi\u00e8ces fugitives, Op. 15 (Nr 1 Larghetto)",
         "url": "https://open.spotify.com/album/27nuasQV8GloG3AWhhYWsl"
       },
@@ -763,8 +763,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clara Schumann & Fanny Mendelssohn: Piano Trios & String Quartet",
-        "url": "https://open.spotify.com/album/5o01sGGWRABtuoKC6TS03I"
+        "name": "Clara et Robert Schumann, Romances, Variations, Grande sonate",
+        "url": "https://open.spotify.com/album/39n5wrHWx5GHQkFpUzG7t1"
+      },
+      "artists": [
+        {
+          "name": "Pierre-Alain Volondat",
+          "url": "https://open.spotify.com/artist/07ocrn91p26FT9D2A3G8Rn"
+        },
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        }
+      ],
+      "duration_ms": 737973,
+      "name": "Variations op.20",
+      "url": "https://open.spotify.com/track/2uspxzx6IIEmDrqu2FVNl2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Clara Schumann: Piano Sonata in G Minor",
+        "url": "https://open.spotify.com/album/57cUGwG3O0kO8v0puKP1V9"
       },
       "artists": [
         {
@@ -772,13 +792,13 @@
           "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
         },
         {
-          "name": "Nash Ensemble",
-          "url": "https://open.spotify.com/artist/4JxE9udapTtgj0yOFS4Se7"
+          "name": "Sharon Su",
+          "url": "https://open.spotify.com/artist/2AMO3bJWEATyOhjJnu6gwl"
         }
       ],
-      "duration_ms": 628133,
-      "name": "Piano Trio in G Minor, Op. 17: I. Allegro moderato",
-      "url": "https://open.spotify.com/track/1iDvTbEI7goxi0frO50MyM"
+      "duration_ms": 512721,
+      "name": "Piano Sonata in G Minor: I. Allegro",
+      "url": "https://open.spotify.com/track/13EXQBwEJHb5520ov15a2r"
     },
     {
       "added_at": null,
@@ -811,8 +831,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clara Schumann: Piano Sonata in G Minor",
-        "url": "https://open.spotify.com/album/57cUGwG3O0kO8v0puKP1V9"
+        "name": "Clara Schumann & Fanny Mendelssohn: Piano Trios & String Quartet",
+        "url": "https://open.spotify.com/album/5o01sGGWRABtuoKC6TS03I"
       },
       "artists": [
         {
@@ -820,13 +840,13 @@
           "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
         },
         {
-          "name": "Sharon Su",
-          "url": "https://open.spotify.com/artist/2AMO3bJWEATyOhjJnu6gwl"
+          "name": "Nash Ensemble",
+          "url": "https://open.spotify.com/artist/4JxE9udapTtgj0yOFS4Se7"
         }
       ],
-      "duration_ms": 512721,
-      "name": "Piano Sonata in G Minor: I. Allegro",
-      "url": "https://open.spotify.com/track/13EXQBwEJHb5520ov15a2r"
+      "duration_ms": 628133,
+      "name": "Piano Trio in G Minor, Op. 17: I. Allegro moderato",
+      "url": "https://open.spotify.com/track/1iDvTbEI7goxi0frO50MyM"
     },
     {
       "added_at": null,
@@ -855,8 +875,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clara Schumann & Fanny Mendelssohn: Piano Trios & String Quartet",
-        "url": "https://open.spotify.com/album/5o01sGGWRABtuoKC6TS03I"
+        "name": "Women Composers & The Piano",
+        "url": "https://open.spotify.com/album/3VnZU0WMsbDURQ6FbAqm3U"
       },
       "artists": [
         {
@@ -864,13 +884,13 @@
           "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
         },
         {
-          "name": "Nash Ensemble",
-          "url": "https://open.spotify.com/artist/4JxE9udapTtgj0yOFS4Se7"
+          "name": "Susan Tomes",
+          "url": "https://open.spotify.com/artist/3OP4EwLAnli8pp9rvEossC"
         }
       ],
-      "duration_ms": 305706,
-      "name": "Piano Trio in G Minor, Op. 17: III. Andante",
-      "url": "https://open.spotify.com/track/1EpgYZP6ytXTxDupr0gfza"
+      "duration_ms": 269333,
+      "name": "3 Romances , Op. 21: No. 3, Agitato",
+      "url": "https://open.spotify.com/track/65uLPKKfOrPAANpKURmp20"
     },
     {
       "added_at": null,
@@ -899,6 +919,26 @@
       "duration_ms": 146426,
       "name": "6 Lieder, Op. 13: No. 3, Liebeszauber (Arr. Rouger for Choir and Piano)",
       "url": "https://open.spotify.com/track/27bFGG6FVrDNPCjLKB9dFl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Clara Schumann & Fanny Mendelssohn: Piano Trios & String Quartet",
+        "url": "https://open.spotify.com/album/5o01sGGWRABtuoKC6TS03I"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Nash Ensemble",
+          "url": "https://open.spotify.com/artist/4JxE9udapTtgj0yOFS4Se7"
+        }
+      ],
+      "duration_ms": 305706,
+      "name": "Piano Trio in G Minor, Op. 17: III. Andante",
+      "url": "https://open.spotify.com/track/1EpgYZP6ytXTxDupr0gfza"
     },
     {
       "added_at": null,
@@ -943,6 +983,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Soir\u00e9es musicales",
+        "url": "https://open.spotify.com/album/5PgY486B6EbdVZ4WFIWKUi"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        }
+      ],
+      "duration_ms": 123158,
+      "name": "Soir\u00e9es musicales - N\u00b0 5 Mazurka",
+      "url": "https://open.spotify.com/track/1siOkybas59yBpzfMTHqe2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Clara Schumann & Fanny Mendelssohn: Piano Trios & String Quartet",
         "url": "https://open.spotify.com/album/5o01sGGWRABtuoKC6TS03I"
       },
@@ -963,42 +1019,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soir\u00e9es musicales",
-        "url": "https://open.spotify.com/album/5PgY486B6EbdVZ4WFIWKUi"
-      },
-      "artists": [
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        }
-      ],
-      "duration_ms": 123158,
-      "name": "Soir\u00e9es musicales - N\u00b0 5 Mazurka",
-      "url": "https://open.spotify.com/track/1siOkybas59yBpzfMTHqe2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eternal Clara",
-        "url": "https://open.spotify.com/album/5TpTjNfazXHHi8X2eRiIlQ"
-      },
-      "artists": [
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        },
-        {
-          "name": "Carl Schwarz",
-          "url": "https://open.spotify.com/artist/79IvVCvF5Pf0Q4GDoFQzx2"
-        }
-      ],
-      "duration_ms": 190960,
-      "name": "Romance, Op. 22: No. 1, Andante Molto",
-      "url": "https://open.spotify.com/track/1lMgYTRVLaJFyPefP0SJNB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Women Composers",
         "url": "https://open.spotify.com/album/44nfUcdSTmWtjvNvdkvKEN"
       },
@@ -1015,26 +1035,6 @@
       "duration_ms": 375400,
       "name": "3 Romances, Op. 21: I. Andante",
       "url": "https://open.spotify.com/track/0yYHpgxYYjgSnzFUcNEPQo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Women Composers & The Piano",
-        "url": "https://open.spotify.com/album/3VnZU0WMsbDURQ6FbAqm3U"
-      },
-      "artists": [
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        },
-        {
-          "name": "Susan Tomes",
-          "url": "https://open.spotify.com/artist/3OP4EwLAnli8pp9rvEossC"
-        }
-      ],
-      "duration_ms": 269333,
-      "name": "3 Romances , Op. 21: No. 3, Agitato",
-      "url": "https://open.spotify.com/track/65uLPKKfOrPAANpKURmp20"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto:  Fran Gil",
-  "num_followers": 433135,
+  "num_followers": 433136,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -367,26 +367,6 @@
     {
       "added_at": "2026-10-09 03:00:12",
       "album": {
-        "name": "Fa\u00e7o Parar de Chover",
-        "url": "https://open.spotify.com/album/29ZKPLd1xdn8JodQ5a00Cu"
-      },
-      "artists": [
-        {
-          "name": "Capim Lim\u00e3o",
-          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
-        },
-        {
-          "name": "Jovem Dionisio",
-          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
-        }
-      ],
-      "duration_ms": 199711,
-      "name": "Fa\u00e7o Parar de Chover",
-      "url": "https://open.spotify.com/track/5dfccBFPBINHmIXbvuos5Y"
-    },
-    {
-      "added_at": "2026-10-09 03:00:12",
-      "album": {
         "name": "Emaranhei",
         "url": "https://open.spotify.com/album/75Q84Fp94DPjOYcxTtKUTR"
       },
@@ -403,6 +383,26 @@
       "duration_ms": 171692,
       "name": "Emaranhei",
       "url": "https://open.spotify.com/track/4cN88WMuH5CAVg6YhnBCIP"
+    },
+    {
+      "added_at": "2026-10-09 03:00:12",
+      "album": {
+        "name": "Fa\u00e7o Parar de Chover",
+        "url": "https://open.spotify.com/album/29ZKPLd1xdn8JodQ5a00Cu"
+      },
+      "artists": [
+        {
+          "name": "Capim Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+        },
+        {
+          "name": "Jovem Dionisio",
+          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
+        }
+      ],
+      "duration_ms": 199711,
+      "name": "Fa\u00e7o Parar de Chover",
+      "url": "https://open.spotify.com/track/5dfccBFPBINHmIXbvuos5Y"
     },
     {
       "added_at": "2026-10-09 03:00:12",
@@ -515,26 +515,6 @@
     {
       "added_at": "2026-10-09 03:00:12",
       "album": {
-        "name": "BRava",
-        "url": "https://open.spotify.com/album/0dywxqPyKMZLM4N39I8DcH"
-      },
-      "artists": [
-        {
-          "name": "Jenni Mosello",
-          "url": "https://open.spotify.com/artist/6V7LnXA4LZLzPQtUm08c2v"
-        },
-        {
-          "name": "Ney Matogrosso",
-          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
-        }
-      ],
-      "duration_ms": 189886,
-      "name": "FOME",
-      "url": "https://open.spotify.com/track/7sezrbvzwMphXpexbdJW6G"
-    },
-    {
-      "added_at": "2026-10-09 03:00:12",
-      "album": {
         "name": "Branca",
         "url": "https://open.spotify.com/album/2JcdU4HBsoWM1jeLJQkNGt"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 168051,
       "name": "Branca",
       "url": "https://open.spotify.com/track/5VXwwVcGmd1kiG1hC5tan6"
+    },
+    {
+      "added_at": "2026-10-09 03:00:12",
+      "album": {
+        "name": "BRava",
+        "url": "https://open.spotify.com/album/0dywxqPyKMZLM4N39I8DcH"
+      },
+      "artists": [
+        {
+          "name": "Jenni Mosello",
+          "url": "https://open.spotify.com/artist/6V7LnXA4LZLzPQtUm08c2v"
+        },
+        {
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
+        }
+      ],
+      "duration_ms": 189886,
+      "name": "FOME",
+      "url": "https://open.spotify.com/track/7sezrbvzwMphXpexbdJW6G"
     },
     {
       "added_at": "2026-10-09 03:00:12",
@@ -619,6 +619,22 @@
     {
       "added_at": "2026-10-09 03:00:12",
       "album": {
+        "name": "AMARINA Canta Kid Abelha",
+        "url": "https://open.spotify.com/album/4iuSPxyDs724tP27eWWrEP"
+      },
+      "artists": [
+        {
+          "name": "AMARINA",
+          "url": "https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG"
+        }
+      ],
+      "duration_ms": 227410,
+      "name": "L\u00e1grimas e Chuva",
+      "url": "https://open.spotify.com/track/5nZ8tWzucUEgElfP919F3A"
+    },
+    {
+      "added_at": "2026-10-09 03:00:12",
+      "album": {
         "name": "J\u00e1 Vi Fogo",
         "url": "https://open.spotify.com/album/1H6u2TMNG8ZT91bDWkdJKu"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 273281,
       "name": "J\u00e1 Vi Fogo",
       "url": "https://open.spotify.com/track/2ypKBa1kMmSa6zWT8TDEtC"
-    },
-    {
-      "added_at": "2026-10-09 03:00:12",
-      "album": {
-        "name": "AMARINA Canta Kid Abelha",
-        "url": "https://open.spotify.com/album/4iuSPxyDs724tP27eWWrEP"
-      },
-      "artists": [
-        {
-          "name": "AMARINA",
-          "url": "https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG"
-        }
-      ],
-      "duration_ms": 227410,
-      "name": "L\u00e1grimas e Chuva",
-      "url": "https://open.spotify.com/track/5nZ8tWzucUEgElfP919F3A"
     },
     {
       "added_at": "2026-10-09 03:00:12",
@@ -819,6 +819,22 @@
     {
       "added_at": "2026-10-09 03:00:12",
       "album": {
+        "name": "ESTRANGEIRA",
+        "url": "https://open.spotify.com/album/0vXWDMAx5nlCHomKLSvgKr"
+      },
+      "artists": [
+        {
+          "name": "Bruna Foss",
+          "url": "https://open.spotify.com/artist/4FrN1zhyhsLkK3Kxy5hYh6"
+        }
+      ],
+      "duration_ms": 194880,
+      "name": "Medo do Escuro",
+      "url": "https://open.spotify.com/track/21ArLTRbiDZAEiXEPPNe4x"
+    },
+    {
+      "added_at": "2026-10-09 03:00:12",
+      "album": {
         "name": "NOVA: Surpresa",
         "url": "https://open.spotify.com/album/1WfQ7zdLni16pLdaQ6ohqD"
       },
@@ -895,8 +911,8 @@
     {
       "added_at": "2026-10-09 03:00:12",
       "album": {
-        "name": "Sa\u00ed pra Ver Se a Saudade Fica em Casa",
-        "url": "https://open.spotify.com/album/57v6btGGS9RdtVGzG088jj"
+        "name": "Quero Descobrir",
+        "url": "https://open.spotify.com/album/5wzKrU0eUxhcdf6nNxtBze"
       },
       "artists": [
         {
@@ -904,13 +920,13 @@
           "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
         },
         {
-          "name": "Pe Lu",
-          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
+          "name": "Reis do Nada",
+          "url": "https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3"
         }
       ],
-      "duration_ms": 139250,
-      "name": "Sa\u00ed pra Ver Se a Saudade Fica em Casa",
-      "url": "https://open.spotify.com/track/2baE0gIKX4cDBjDifNuw1O"
+      "duration_ms": 177647,
+      "name": "Quero Descobrir",
+      "url": "https://open.spotify.com/track/2IqfiQXWiJs4uWUO3GGcM0"
     },
     {
       "added_at": "2026-10-09 03:00:12",
@@ -947,22 +963,6 @@
     {
       "added_at": "2026-10-09 03:00:12",
       "album": {
-        "name": "ESTRANGEIRA",
-        "url": "https://open.spotify.com/album/0vXWDMAx5nlCHomKLSvgKr"
-      },
-      "artists": [
-        {
-          "name": "Bruna Foss",
-          "url": "https://open.spotify.com/artist/4FrN1zhyhsLkK3Kxy5hYh6"
-        }
-      ],
-      "duration_ms": 194880,
-      "name": "Medo do Escuro",
-      "url": "https://open.spotify.com/track/21ArLTRbiDZAEiXEPPNe4x"
-    },
-    {
-      "added_at": "2026-10-09 03:00:12",
-      "album": {
         "name": "SENSA\u00c7\u00c3O BONITA",
         "url": "https://open.spotify.com/album/0JAXCHt3TMYQcnmFC2TFT8"
       },
@@ -979,26 +979,6 @@
       "duration_ms": 159997,
       "name": "SENSA\u00c7\u00c3O BONITA",
       "url": "https://open.spotify.com/track/2EGSyyy3YUBq0R0EbMt7yK"
-    },
-    {
-      "added_at": "2026-10-09 03:00:12",
-      "album": {
-        "name": "Quero Descobrir",
-        "url": "https://open.spotify.com/album/5wzKrU0eUxhcdf6nNxtBze"
-      },
-      "artists": [
-        {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        },
-        {
-          "name": "Reis do Nada",
-          "url": "https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3"
-        }
-      ],
-      "duration_ms": 177647,
-      "name": "Quero Descobrir",
-      "url": "https://open.spotify.com/track/2IqfiQXWiJs4uWUO3GGcM0"
     },
     {
       "added_at": "2026-10-09 03:00:12",
@@ -1023,6 +1003,26 @@
     {
       "added_at": "2026-10-09 03:00:12",
       "album": {
+        "name": "Sa\u00ed pra Ver Se a Saudade Fica em Casa",
+        "url": "https://open.spotify.com/album/57v6btGGS9RdtVGzG088jj"
+      },
+      "artists": [
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        },
+        {
+          "name": "Pe Lu",
+          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
+        }
+      ],
+      "duration_ms": 139250,
+      "name": "Sa\u00ed pra Ver Se a Saudade Fica em Casa",
+      "url": "https://open.spotify.com/track/2baE0gIKX4cDBjDifNuw1O"
+    },
+    {
+      "added_at": "2026-10-09 03:00:12",
+      "album": {
         "name": "Tudo que deu pra fazer em um ano",
         "url": "https://open.spotify.com/album/5ef1VhRr9OuXuEnqErdp5I"
       },
@@ -1039,22 +1039,6 @@
       "duration_ms": 131538,
       "name": "Nada vai ser como antes",
       "url": "https://open.spotify.com/track/6EGAre3TGtj7hlhR8C7A1n"
-    },
-    {
-      "added_at": "2026-10-09 03:00:12",
-      "album": {
-        "name": "Ressaca de saudade",
-        "url": "https://open.spotify.com/album/5vZFGhNC15YJ7yow6y2MM9"
-      },
-      "artists": [
-        {
-          "name": "TIRI",
-          "url": "https://open.spotify.com/artist/2biikdsPdw63klSogoB5Ab"
-        }
-      ],
-      "duration_ms": 143999,
-      "name": "Ressaca de saudade",
-      "url": "https://open.spotify.com/track/4vjqJmw3IKxmTt9Z2pY2mT"
     },
     {
       "added_at": "2026-10-09 03:00:12",
@@ -1079,18 +1063,18 @@
     {
       "added_at": "2026-10-09 03:00:12",
       "album": {
-        "name": "Manh\u00e3 de Sol",
-        "url": "https://open.spotify.com/album/3112UESU5WJFX24ulal6XM"
+        "name": "Ressaca de saudade",
+        "url": "https://open.spotify.com/album/5vZFGhNC15YJ7yow6y2MM9"
       },
       "artists": [
         {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+          "name": "TIRI",
+          "url": "https://open.spotify.com/artist/2biikdsPdw63klSogoB5Ab"
         }
       ],
-      "duration_ms": 181666,
-      "name": "Manh\u00e3 de Sol",
-      "url": "https://open.spotify.com/track/6IK8FcpWZ1j6VJvAqnjH0g"
+      "duration_ms": 143999,
+      "name": "Ressaca de saudade",
+      "url": "https://open.spotify.com/track/4vjqJmw3IKxmTt9Z2pY2mT"
     },
     {
       "added_at": "2026-10-09 03:00:12",
@@ -1111,6 +1095,22 @@
     {
       "added_at": "2026-10-09 03:00:12",
       "album": {
+        "name": "Manh\u00e3 de Sol",
+        "url": "https://open.spotify.com/album/3112UESU5WJFX24ulal6XM"
+      },
+      "artists": [
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        }
+      ],
+      "duration_ms": 181666,
+      "name": "Manh\u00e3 de Sol",
+      "url": "https://open.spotify.com/track/6IK8FcpWZ1j6VJvAqnjH0g"
+    },
+    {
+      "added_at": "2026-10-09 03:00:12",
+      "album": {
         "name": "Tudo Pode Mudar (Acusticamente)",
         "url": "https://open.spotify.com/album/6vq5yAqGvdymhJ8GwFxthg"
       },
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2026-10-09 03:00:12",
       "album": {
+        "name": "Decifrar",
+        "url": "https://open.spotify.com/album/4RTMGJib64yRORCf9DnOfc"
+      },
+      "artists": [
+        {
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
+        }
+      ],
+      "duration_ms": 162935,
+      "name": "Decifrar",
+      "url": "https://open.spotify.com/track/7cEthfgEv5kBtnL5cqL5Cs"
+    },
+    {
+      "added_at": "2026-10-09 03:00:12",
+      "album": {
         "name": "Cen\u00e1rio a Dois",
         "url": "https://open.spotify.com/album/34vZmU9FRIXRJqL01Vz2w8"
       },
@@ -1139,26 +1155,6 @@
       "duration_ms": 221099,
       "name": "Cen\u00e1rio a Dois",
       "url": "https://open.spotify.com/track/2Xn3GarBXoDiQhK7wm5CPD"
-    },
-    {
-      "added_at": "2026-10-09 03:00:12",
-      "album": {
-        "name": "Te Amar",
-        "url": "https://open.spotify.com/album/7AdfzKVnZDHIHl4Oh9Arat"
-      },
-      "artists": [
-        {
-          "name": "Aydan",
-          "url": "https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU"
-        },
-        {
-          "name": "Machadez",
-          "url": "https://open.spotify.com/artist/1CbWrXtZpVnkN8cstE2VL2"
-        }
-      ],
-      "duration_ms": 178645,
-      "name": "Te Amar",
-      "url": "https://open.spotify.com/track/2guWowZjpG8OPiIWaNRQOf"
     },
     {
       "added_at": "2026-10-09 03:00:12",
@@ -1183,6 +1179,26 @@
       "duration_ms": 115422,
       "name": "te quero sem final",
       "url": "https://open.spotify.com/track/3KhIaL5rfQFfl2t5K65jN6"
+    },
+    {
+      "added_at": "2026-10-09 03:00:12",
+      "album": {
+        "name": "Te Amar",
+        "url": "https://open.spotify.com/album/7AdfzKVnZDHIHl4Oh9Arat"
+      },
+      "artists": [
+        {
+          "name": "Aydan",
+          "url": "https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU"
+        },
+        {
+          "name": "Machadez",
+          "url": "https://open.spotify.com/artist/1CbWrXtZpVnkN8cstE2VL2"
+        }
+      ],
+      "duration_ms": 178645,
+      "name": "Te Amar",
+      "url": "https://open.spotify.com/track/2guWowZjpG8OPiIWaNRQOf"
     },
     {
       "added_at": "2026-10-09 03:00:12",
@@ -1223,22 +1239,6 @@
       "duration_ms": 149026,
       "name": "Coisa de Alma",
       "url": "https://open.spotify.com/track/6x3UHY7jsjP9JrrBJjQhf1"
-    },
-    {
-      "added_at": "2026-10-09 03:00:12",
-      "album": {
-        "name": "Decifrar",
-        "url": "https://open.spotify.com/album/4RTMGJib64yRORCf9DnOfc"
-      },
-      "artists": [
-        {
-          "name": "Juy\u00e8",
-          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
-        }
-      ],
-      "duration_ms": 162935,
-      "name": "Decifrar",
-      "url": "https://open.spotify.com/track/7cEthfgEv5kBtnL5cqL5Cs"
     },
     {
       "added_at": "2026-10-09 03:00:12",

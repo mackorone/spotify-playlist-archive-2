@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:0RRUXaSteOOZzo5gMCAeuX">Fatt Smaxk</a>
 
-3,069 songs - 5 day 14 hr 31 min
+3,071 songs - 5 day 14 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [act like](https://open.spotify.com/track/3P3PONWYGlQWSu3rd4wGIl) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [PLAY CASH COBAIN](https://open.spotify.com/album/1nMDe5h9FEfmCSm6nwA66s) | 2:20 | 2024-08-23 | 2024-09-14 |
 | [Act Like Money](https://open.spotify.com/track/59srqH5Kg6NWlUzH1T5olL) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Act Like Money](https://open.spotify.com/album/6mhUQS9GEUVhJ6hUKIHYdU) | 1:44 | 2026-02-13 | 2026-03-14 |
 | [act xi: she ain’t no angel](https://open.spotify.com/track/0hRE77xggFCr9fDitZgBE0) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Still Shinin](https://open.spotify.com/album/5NUNaj9pyIjcNd5e9ObgzE) | 2:17 | 2025-09-12 | 2026-07-25 |
+| [Acting Like You Kanye](https://open.spotify.com/track/0a1SVxFIghCTo0TynJn2rG) | [Raud](https://open.spotify.com/artist/0BgRotGO2vUPyxguQlXsR7) | [Acting Like You Kanye](https://open.spotify.com/album/4feZSrwcYQmTxHcQWvEeYf) | 1:35 | 2026-10-12 |  |
 | [Adderall](https://open.spotify.com/track/0YiRaRTzeYZijTUsYDnBSL) | [Rot Ken](https://open.spotify.com/artist/64WnGi9H0Xc2RCGbjYAFd5), [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [Kenny World](https://open.spotify.com/album/2m6SZ6zZKGGk2nfmvChy28) | 3:41 | 2024-01-19 | 2024-02-24 |
 | [Addicted](https://open.spotify.com/track/7iZqma5DV0h12Orxlb20VU) | [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [psykotic](https://open.spotify.com/album/1jlNLn16ksXKSVGSFGCeDQ) | 2:18 | 2025-10-10 | 2025-10-18 |
 | [Addy](https://open.spotify.com/track/0MaNWrLab10U4DOi6nK6sB) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [Addy](https://open.spotify.com/album/57a2jFTnluxa3WNu6BrIDr) | 2:03 | 2022-08-26 | 2022-10-01 |
@@ -2375,6 +2376,7 @@
 | [Settle \(feat\. Seddy Hendrinx\)](https://open.spotify.com/track/5tSEc1zFTKe8gBpeOi600K) | [2FeetBino](https://open.spotify.com/artist/5sw4vau0N1fwalr2ACVN9M), [Seddy Hendrinx](https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4) | [Settle \(feat\. Seddy Hendrinx\)](https://open.spotify.com/album/2OFIv4JASD85jXQCA1Xn0M) | 3:02 | 2021-12-03 | 2022-02-26 |
 | [Sevan](https://open.spotify.com/track/4W4hhnxvRE0rRUK1vaGlsk) | [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [Five Forever](https://open.spotify.com/album/0zBzGId66SwQWCsPJgNLY1) | 2:41 | 2025-06-06 | 2025-11-22 |
 | [Seventeen](https://open.spotify.com/track/3VgFxRLEvav1ewTx5IaROh) | [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Seventeen](https://open.spotify.com/album/1xZkfphab61c5kqctCexP7) | 3:13 | 2025-06-13 | 2025-07-19 |
+| [Sey Mami](https://open.spotify.com/track/0cZmwo85fwCqA1xTF4PPFA) | [Cinco Suave](https://open.spotify.com/artist/1WeKYh21pkgNuU1IfHGZVd) | [Sey Mami](https://open.spotify.com/album/0ksGtmJysm4zKtB0k6Auwr) | 1:48 | 2026-10-12 |  |
 | [SF5 Intro](https://open.spotify.com/track/4HPXpgjciNBu8Wm6q0WHyi) | [Tafia](https://open.spotify.com/artist/75s3jBhtUyWmQLLqzhIub4) | [SF5 Intro](https://open.spotify.com/album/5A6JHzNR1BsZsjt7nDkAsV) | 2:27 | 2026-05-18 | 2026-08-08 |
 | [SGA](https://open.spotify.com/track/17vu0Ttn2ArNqfX1pnNNYW) | [Zukenee](https://open.spotify.com/artist/3FFfAZsrsx8ot1m6H5vzQc) | [SGA](https://open.spotify.com/album/77wY1T1RU4DCaBxRHTGIuy) | 1:30 | 2026-03-27 | 2026-05-09 |
 | [Sh\*t Sad](https://open.spotify.com/track/48GihjnmhKG9a6wbKJC6MF) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Goodbye Horses](https://open.spotify.com/album/0I3cC1B19vTlERLgrYkeU9) | 3:14 | 2024-10-18 | 2024-11-16 |

@@ -1502,7 +1502,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 212973,
       "name": "Lifeboats",
       "url": "https://open.spotify.com/track/04b8MNvFf9Wwv6hkjE3uNx"
@@ -1810,6 +1810,24 @@
       "duration_ms": 81973,
       "name": "Negative Space",
       "url": "https://open.spotify.com/track/54GtzmielGnNaqkpmfCp4o"
+    },
+    {
+      "album": {
+        "name": "The Fire",
+        "url": "https://open.spotify.com/album/6UPgoFeBEdlabQBR1QkZpS"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229480,
+      "name": "Nero",
+      "url": "https://open.spotify.com/track/2IeoFDWqo520xqQItCAz6H"
     },
     {
       "album": {

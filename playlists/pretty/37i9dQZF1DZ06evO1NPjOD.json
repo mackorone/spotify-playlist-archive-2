@@ -1,12 +1,12 @@
 {
   "description": "This is City Girls. The essential tracks, all in one playlist.",
-  "num_followers": 40131,
+  "num_followers": 40130,
   "original_name": "This Is City Girls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asmAAAAAAACtWFFFzORVL5unZC7kW215",
+  "snapshot_id": "asrRgAAAAADAwLvcyAk3GYr68rHkeQxA",
   "tracks": [
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Girl Code",
-        "url": "https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 114766,
-      "name": "Panties An Bra",
-      "url": "https://open.spotify.com/track/5Pv2Mupc12dt63SbqkMEhP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Face Down",
         "url": "https://open.spotify.com/album/5c1HMH7bxAm1Qd60Ku0Ia1"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 127058,
       "name": "Face Down",
       "url": "https://open.spotify.com/track/0DEjFljgDbPjkm5460EJnA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Girl Code",
+        "url": "https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 114766,
+      "name": "Panties An Bra",
+      "url": "https://open.spotify.com/track/5Pv2Mupc12dt63SbqkMEhP"
     },
     {
       "added_at": null,
@@ -880,9 +880,29 @@
           "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
         }
       ],
-      "duration_ms": 115987,
-      "name": "That's My Bitch",
-      "url": "https://open.spotify.com/track/4llNsoTNNhxC1bOm0feE98"
+      "duration_ms": 126672,
+      "name": "Come Outside",
+      "url": "https://open.spotify.com/track/10gO1lQggmecSUP1925juj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "4 1 Nite",
+        "url": "https://open.spotify.com/album/0ZmKE5dS6QIyXHuNkxVgUV"
+      },
+      "artists": [
+        {
+          "name": "Mike Smiff",
+          "url": "https://open.spotify.com/artist/7cothdI1W9TGQXdnzyqXmH"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 205296,
+      "name": "4 1 Nite",
+      "url": "https://open.spotify.com/track/10iEDtadUnpzEsgohPmATA"
     },
     {
       "added_at": null,
@@ -907,26 +927,6 @@
       "duration_ms": 192000,
       "name": "Act Bad",
       "url": "https://open.spotify.com/track/1Bgga0poKKUZftx5p8b16y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "4 1 Nite",
-        "url": "https://open.spotify.com/album/0ZmKE5dS6QIyXHuNkxVgUV"
-      },
-      "artists": [
-        {
-          "name": "Mike Smiff",
-          "url": "https://open.spotify.com/artist/7cothdI1W9TGQXdnzyqXmH"
-        },
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 205296,
-      "name": "4 1 Nite",
-      "url": "https://open.spotify.com/track/10iEDtadUnpzEsgohPmATA"
     },
     {
       "added_at": null,
@@ -971,26 +971,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shisha",
-        "url": "https://open.spotify.com/album/0uYvcZDVArtKfHmgAiybtl"
-      },
-      "artists": [
-        {
-          "name": "Saucy Santana",
-          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
-        },
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Shisha",
-      "url": "https://open.spotify.com/track/3C2mcvtPzGLPSai3XZPmw2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RAW",
         "url": "https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu"
       },
@@ -1007,6 +987,26 @@
       "duration_ms": 167441,
       "name": "Static (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/7j1clHjAMtpsO0gKF76GF0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shisha",
+        "url": "https://open.spotify.com/album/0uYvcZDVArtKfHmgAiybtl"
+      },
+      "artists": [
+        {
+          "name": "Saucy Santana",
+          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Shisha",
+      "url": "https://open.spotify.com/track/3C2mcvtPzGLPSai3XZPmw2"
     }
   ],
   "unique_name": "This Is City Girls",

@@ -963,6 +963,32 @@
     },
     {
       "album": {
+        "name": "Kobali (From \"Ranabaali\")",
+        "url": "https://open.spotify.com/album/5LHyjwfU2P0pzynpLnblQs"
+      },
+      "artists": [
+        {
+          "name": "Ajay-Atul",
+          "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
+        },
+        {
+          "name": "V.M. Mahalingam",
+          "url": "https://open.spotify.com/artist/6mHtkNCvRoFV9XMzvjSF1u"
+        },
+        {
+          "name": "Kesavaditya",
+          "url": "https://open.spotify.com/artist/0CM7Hfgn5wovQuvBTJUK7b"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247015,
+      "name": "Kobali (From \"Ranabaali\")",
+      "url": "https://open.spotify.com/track/0wFQDpkcOlBMlFt4ihVRRl"
+    },
+    {
+      "album": {
         "name": "Naayak",
         "url": "https://open.spotify.com/album/4BpfaiS3qe8u8Wn5ADj2Mv"
       },

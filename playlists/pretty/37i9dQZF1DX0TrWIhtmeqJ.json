@@ -1,12 +1,12 @@
 {
   "description": "For the new generation of trendsetters coming through, we move. Cover: Bricknasty",
-  "num_followers": 99657,
+  "num_followers": 99649,
   "original_name": "We Move",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAINxUGuFR1yO2fWruCOBxqTXIkr2",
+  "snapshot_id": "AAAAAGXFDBwdKxglIbpmrlTJwdNzqswh",
   "tracks": [
     {
       "added_at": "2026-10-08 23:00:53",
@@ -103,6 +103,22 @@
       "duration_ms": 196762,
       "name": "Mr Right",
       "url": "https://open.spotify.com/track/3rZj4LoO1tK4NsmlVAVe8e"
+    },
+    {
+      "added_at": "2026-10-12 10:24:44",
+      "album": {
+        "name": "Shotta's.",
+        "url": "https://open.spotify.com/album/6z49RFUy6MNYlhMShZ6h4p"
+      },
+      "artists": [
+        {
+          "name": "Season 25",
+          "url": "https://open.spotify.com/artist/1WtceoonufhxRc6AnUSbat"
+        }
+      ],
+      "duration_ms": 142613,
+      "name": "Shotta's.",
+      "url": "https://open.spotify.com/track/0M4R6G6junOgTJDccOEGHo"
     },
     {
       "added_at": "2026-10-08 23:00:53",
@@ -424,8 +440,8 @@
       },
       "artists": [
         {
-          "name": "Len Lucci",
-          "url": "https://open.spotify.com/artist/4RFMoaKlMKR4HLjnM8NOia"
+          "name": "Len",
+          "url": "https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s"
         },
         {
           "name": "onoola-sama",
@@ -1191,22 +1207,6 @@
       "duration_ms": 211084,
       "name": "SNM",
       "url": "https://open.spotify.com/track/7gpKJqAxBdpXj2TDcdsYs9"
-    },
-    {
-      "added_at": "2026-10-08 23:00:53",
-      "album": {
-        "name": "Fell Again / Stranger What's Your Name?",
-        "url": "https://open.spotify.com/album/5ug1JL9PFc1gCxokrSh1yo"
-      },
-      "artists": [
-        {
-          "name": "cikho",
-          "url": "https://open.spotify.com/artist/3K5lshiZhzx2bvme3n4hTz"
-        }
-      ],
-      "duration_ms": 161764,
-      "name": "Fell Again",
-      "url": "https://open.spotify.com/track/6S86CLAoA7S19wk8WeQjRs"
     }
   ],
   "unique_name": "We Move",

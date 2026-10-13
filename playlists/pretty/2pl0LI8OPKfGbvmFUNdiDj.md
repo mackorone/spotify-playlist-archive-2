@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,225 likes - 73 songs - 4 hr 6 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,233 likes - 76 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,5 +81,8 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 71 | [Can I Have Ya Number?](https://open.spotify.com/track/3QVRa8jDHfAjH8TrIhfARQ) | [Prince LDJ](https://open.spotify.com/artist/4VaqTSzt4FF1Qz0e7fG5dT) | [Unfinished Business EP](https://open.spotify.com/album/4pCSzypjL7TBI6HgoMf2Wt) | 3:36 |
 | 72 | [Fuck Off](https://open.spotify.com/track/1Q01zHMDA70SNdcrUZxwIT) | [Black Grouse](https://open.spotify.com/artist/5jzQOtU6ojkmCHcQhffLk4) | [Fuck Off](https://open.spotify.com/album/0r2zCLxvtQdFeO4lIQlS6u) | 2:54 |
 | 73 | [Your Fault](https://open.spotify.com/track/0fblNVg8bUKfBoA4WPWth9) | [Ella Kenz](https://open.spotify.com/artist/5k0qIptpKEMpMlGx2wbE8e) | [Chronic Obsessions](https://open.spotify.com/album/78hy2PK22Ll9aZaJuU4fKj) | 3:03 |
+| 74 | [SHOW IT](https://open.spotify.com/track/6PL1s8zAlm3kMfDrcW6vX3) | [RealMRCarty](https://open.spotify.com/artist/4eYsJcc8WUX8DD2U35rgRS), [Alber Joe 2\-30](https://open.spotify.com/artist/6qgaa2Ju4yEgADEaYmfuUp) | [MOTION CONTROL](https://open.spotify.com/album/2n3ipDzFDy6mwqojl7B078) | 2:54 |
+| 75 | [BIMMA](https://open.spotify.com/track/0N3ay0NW33bsbfOds4HD4j) | [AME](https://open.spotify.com/artist/6QoVi8LaBxXTAXZVVfJpLV) | [BIMMA](https://open.spotify.com/album/6lYIWN98PypZoOdoGyvg2v) | 2:57 |
+| 76 | [Devil's Blues](https://open.spotify.com/track/33X5j5PnNGzEx68ASBqaQv) | [Gravens](https://open.spotify.com/artist/3ynl82AyQaG2Rw8Kws3f7Y) | [Rising](https://open.spotify.com/album/5hawHjIi7zbq7iEbaArhUL) | 3:55 |
 
-Snapshot ID: `AAAEa0PYkPp66cdMB26HFd/GVr71LB/6`
+Snapshot ID: `AAAEbpleuDZeC5Td5ZwrS7SzTd1Wi1sz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 
 > bailando en el antro con Marcos Villalobos y Martinwhite hasta el amanecer
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,783 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,784 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 | 77 | [ENTE VIRTUAL](https://open.spotify.com/track/3C03edn86LdGuAMO3bIDqr) | [Chzter](https://open.spotify.com/artist/5aIzq2RvChAJtWFwOBNxDj), [Tzunami](https://open.spotify.com/artist/2cBbmcVOi87IB5bpl05Hv8), [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0) | [ENTE VIRTUAL](https://open.spotify.com/album/0b99jXx0r365IFJFdsaf6I) | 2:09 |
 | 78 | [Explicación](https://open.spotify.com/track/3EmPNpenfX19hm2eIBIsoe) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3), [PBJ](https://open.spotify.com/artist/4dkYg7BkqHtFtAYb5JsDsP) | [Explicación](https://open.spotify.com/album/2nJGIhn24efI0YQVCvAxDp) | 2:42 |
 | 79 | [CUANDO LLUEVA](https://open.spotify.com/track/5iLFWbFDC4UVVNRHNhIqQE) | [Blo](https://open.spotify.com/artist/0KUh8oxldeWuZ8pKAvvet4) | [CUANDO LLUEVA](https://open.spotify.com/album/4wSnDrKuZ4JShcIO6QIXRe) | 3:01 |
-| 80 | [Pichersita](https://open.spotify.com/track/5IJ09fmhbr06HTRA3O84pG) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Pichersita](https://open.spotify.com/album/0xZAeYNDZX9GAaFaMVWyay) | 2:18 |
+| 80 | [Shippeo](https://open.spotify.com/track/0Fpf1FiEbWfr8rPWmibpLE) | [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [Shippeo](https://open.spotify.com/album/4DhwrVu3V0UOIZKWCW10pp) | 2:35 |
 
 Snapshot ID: `AAAAAN38Jv6JzsLYb1Y9UsXkh+CZR79h`

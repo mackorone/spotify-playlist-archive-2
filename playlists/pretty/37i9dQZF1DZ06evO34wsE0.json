@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asgugAAAAAAZPDP/FDPSirlNXaTvWhG3",
+  "snapshot_id": "asrRgAAAAAAAWsNKCZePzpLdF5XweBZb",
   "tracks": [
     {
       "added_at": null,
@@ -682,11 +682,15 @@
         {
           "name": "Shania Twain",
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        },
+        {
+          "name": "Tanya Tucker",
+          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
         }
       ],
-      "duration_ms": 166413,
-      "name": "Quit My Life",
-      "url": "https://open.spotify.com/track/5vt1ysjL6f5u4woxChkCWq"
+      "duration_ms": 255883,
+      "name": "Little Miss Twain (feat. Tanya Tucker)",
+      "url": "https://open.spotify.com/track/58F4PSTYKRRI79k5xhvkGf"
     },
     {
       "added_at": null,
@@ -746,15 +750,11 @@
         {
           "name": "Shania Twain",
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        },
-        {
-          "name": "Tanya Tucker",
-          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
         }
       ],
-      "duration_ms": 255883,
-      "name": "Little Miss Twain (feat. Tanya Tucker)",
-      "url": "https://open.spotify.com/track/58F4PSTYKRRI79k5xhvkGf"
+      "duration_ms": 166413,
+      "name": "Quit My Life",
+      "url": "https://open.spotify.com/track/5vt1ysjL6f5u4woxChkCWq"
     },
     {
       "added_at": null,
@@ -851,18 +851,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock This Country",
-        "url": "https://open.spotify.com/album/50U6VmuhDLN5s3bOWnkdU9"
+        "name": "Show Pony",
+        "url": "https://open.spotify.com/album/39R5c82ytTeEF85kmJTtNT"
       },
       "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        },
         {
           "name": "Shania Twain",
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 210333,
-      "name": "I Ain't No Quitter - Greatest Hits Version",
-      "url": "https://open.spotify.com/track/2DzmwmdLOaexPrwfEpfypK"
+      "duration_ms": 232773,
+      "name": "Legends Never Die - with Shania Twain",
+      "url": "https://open.spotify.com/track/5iG3DidIjI5wUqNowgmXQb"
     }
   ],
   "unique_name": "This Is Shania Twain",

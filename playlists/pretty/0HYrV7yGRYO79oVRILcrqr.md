@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,905 likes - 136 songs - 8 hr 44 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,905 likes - 143 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -140,9 +140,16 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 130 | [El lienzo](https://open.spotify.com/track/6rHQGvTpPRrQt1WNVwiVJb) | [Gal Baliero](https://open.spotify.com/artist/3IuWLDPy58I11hj2tOsn7M), [Isaac Gomez](https://open.spotify.com/artist/6OP5rawJOEJ3SGN6up8zOW), [Jacksa Suazo](https://open.spotify.com/artist/7rwpfamWDwfJ6F26zue6LV), [Banda Pope Joan](https://open.spotify.com/artist/1xG6VbKG0O3HUAhbu6UbR5) | [Pope Joan Sinfónico](https://open.spotify.com/album/2TvI5ziSqPflqifuBbcQbf) | 6:27 |
 | 131 | [No Dreams In Your Eyes](https://open.spotify.com/track/6RKwl6hSnS6jawPDnDNwtZ) | [Merlin Swann](https://open.spotify.com/artist/6SnhBPrv5OriKL1Ywet26r) | [Just Two Kids](https://open.spotify.com/album/03uNZiuseMMIt1EsUel7Fx) | 3:34 |
 | 132 | [Shots Fired](https://open.spotify.com/track/1CUbH9qBSyMz7cdvUnapiF) | [AudioCide](https://open.spotify.com/artist/2a1Pi1SeB9Uvo5yKa2QPel) | [Shots Fired](https://open.spotify.com/album/6kuzz2EA3vlhegoE0WxyQa) | 4:40 |
-| 133 | [I See Scared](https://open.spotify.com/track/4mx6MPSWrSJT6QD9IqS0BJ) | [Carl Schonbeck](https://open.spotify.com/artist/64G455sXZCInt8gPhAe7mF) | [I See Scared](https://open.spotify.com/album/6QIiAKhYUUATIqKNQt0zV3) | 3:53 |
-| 134 | [Adrenaline](https://open.spotify.com/track/4zrQH961tUHDOG2KLxaLYv) | [Lauren Presley](https://open.spotify.com/artist/2MtAIOQOd55jnPFR6JXFiN) | [Adrenaline](https://open.spotify.com/album/3BplHVb9o00Yro8rvfBWim) | 2:44 |
-| 135 | [The New Witches](https://open.spotify.com/track/3ddQs4JGrpklvhtuESe1hK) | [9th Evolution](https://open.spotify.com/artist/3AUUqI27GNAiKHLG7wr2jS) | [The New Witches](https://open.spotify.com/album/0keI8Aseeb9IJjCGVMLu9w) | 3:00 |
-| 136 | [Out of My Mind](https://open.spotify.com/track/1sv5wWAbgZ4g9VJbW70nHO) | [THE ROCKERS HORIZON](https://open.spotify.com/artist/7vELOY3m3aOCPTFG94ZDBY) | [Out of My Mind](https://open.spotify.com/album/6t39GOgLoDIun7BCryKrnW) | 4:32 |
+| 133 | [Gum On My Shoe](https://open.spotify.com/track/6RxMgMkrKsNBW6OFClALJf) | [Steve Hines](https://open.spotify.com/artist/7wnyATyxlbNuEZ8FzjIAvv) | [Gum On My Shoe](https://open.spotify.com/album/1pCNAudbov019XN9bmYycg) | 2:49 |
+| 134 | [Sunday Scaries](https://open.spotify.com/track/0gAWc6xFU6v5No0CE7YYBb) | [Philip Lively](https://open.spotify.com/artist/4arV1CWn3VChyg2DLfBd95) | [Sunday Scaries](https://open.spotify.com/album/5nPsYxEOuuykz3HmxkHMdE) | 3:18 |
+| 135 | [I See Scared](https://open.spotify.com/track/4mx6MPSWrSJT6QD9IqS0BJ) | [Carl Schonbeck](https://open.spotify.com/artist/64G455sXZCInt8gPhAe7mF) | [I See Scared](https://open.spotify.com/album/6QIiAKhYUUATIqKNQt0zV3) | 3:53 |
+| 136 | [Adrenaline](https://open.spotify.com/track/4zrQH961tUHDOG2KLxaLYv) | [Lauren Presley](https://open.spotify.com/artist/2MtAIOQOd55jnPFR6JXFiN) | [Adrenaline](https://open.spotify.com/album/3BplHVb9o00Yro8rvfBWim) | 2:44 |
+| 137 | [The New Witches](https://open.spotify.com/track/3ddQs4JGrpklvhtuESe1hK) | [9th Evolution](https://open.spotify.com/artist/3AUUqI27GNAiKHLG7wr2jS) | [The New Witches](https://open.spotify.com/album/0keI8Aseeb9IJjCGVMLu9w) | 3:00 |
+| 138 | [Out of My Mind](https://open.spotify.com/track/1sv5wWAbgZ4g9VJbW70nHO) | [THE ROCKERS HORIZON](https://open.spotify.com/artist/7vELOY3m3aOCPTFG94ZDBY) | [Out of My Mind](https://open.spotify.com/album/6t39GOgLoDIun7BCryKrnW) | 4:32 |
+| 139 | [RE](https://open.spotify.com/track/2CwKc8mmXVIAQ9jDHeZdnV) | [Cameron Ravenhill](https://open.spotify.com/artist/6GStRwlHVeTkevfVsq3BUE) | [RE](https://open.spotify.com/album/3fL4bD0V2CrCMv0Hqs0B63) | 3:23 |
+| 140 | [10:35](https://open.spotify.com/track/0GoJsS7cN416pkGvpnjdzI) | [Quentin Wallace](https://open.spotify.com/artist/4ZsvhCZ5uKfGDtbq0a4SGh) | [10:35](https://open.spotify.com/album/0xuJo5o6ywuLQFSgKs1qDy) | 3:03 |
+| 141 | [Pasado de Estilo](https://open.spotify.com/track/1Sps8sD4rL6EOSNEeQ5NHU) | [Dani Sugar](https://open.spotify.com/artist/1ZoIRn3Y4sGWoMEr3j22QN), [Angie](https://open.spotify.com/artist/2DjtxC5D5B1mwdyIIzV2TH) | [Pasado de Estilo](https://open.spotify.com/album/6wH5JF0C9JnuXLPTz7znwD) | 2:53 |
+| 142 | [You Think You've Got It](https://open.spotify.com/track/0yMfVMcr9vOBhWj3iU7O8f) | [Nitrate](https://open.spotify.com/artist/6wEVMZieIv9ttCzvuDYev8) | [Renegade](https://open.spotify.com/album/3vYFD37Z4kBwKK9VypycbE) | 4:31 |
+| 143 | [El Peor](https://open.spotify.com/track/0XTYkteXdSmzBgnc3DhdOx) | [Axius](https://open.spotify.com/artist/2rWdPoCs8cj3kjYwr2ydnB) | [Eminente](https://open.spotify.com/album/69FzRRDlBaoWFbVSQBoXRB) | 2:50 |
 
-Snapshot ID: `AAAMtXg+sa0rS9emrh9GzNIIEkmURgVb`
+Snapshot ID: `AAAMvD5qcYx7t1Tc2bml5YrUSep1yJNc`

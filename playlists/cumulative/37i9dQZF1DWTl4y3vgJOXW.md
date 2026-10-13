@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Bijan Robinson
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Mike Evans
 
 949 songs - 2 day 0 hr 3 min
 

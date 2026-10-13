@@ -1,13 +1,53 @@
 {
-  "description": "Az 50 legn\u00e9pszer\u0171bb dal Magyarorsz\u00e1gon. Cover: Marics Peti & KKevin & DZSINDZSER",
-  "num_followers": 97736,
+  "description": "Az 50 legn\u00e9pszer\u0171bb dal Magyarorsz\u00e1gon. Cover: Bruno X Spacc & T. Danny",
+  "num_followers": 97778,
   "original_name": "Hot Hits Magyarorsz\u00e1g",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKrOfvyZrMj5ykywXUrE7/11lDfr",
+  "snapshot_id": "AAAAAAR97RbHiJ/7mOFxDlRWOjI2hyha",
   "tracks": [
+    {
+      "added_at": "2026-10-12 17:05:51",
+      "album": {
+        "name": "MEREDEK",
+        "url": "https://open.spotify.com/album/5cphGJqxt3YRyPhbvFAbfs"
+      },
+      "artists": [
+        {
+          "name": "Bruno X Spacc",
+          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
+        },
+        {
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+        }
+      ],
+      "duration_ms": 107432,
+      "name": "MEREDEK",
+      "url": "https://open.spotify.com/track/7evObvcDijcKbmdngMFXKO"
+    },
+    {
+      "added_at": "2026-10-05 09:16:46",
+      "album": {
+        "name": "SUV 2",
+        "url": "https://open.spotify.com/album/019iGK5CLJmrwQ5rDND2Th"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        },
+        {
+          "name": "Young Fly",
+          "url": "https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N"
+        }
+      ],
+      "duration_ms": 139239,
+      "name": "SUV 2",
+      "url": "https://open.spotify.com/track/7aucJQT8Lnx7WvSMyP0N75"
+    },
     {
       "added_at": "2026-10-05 09:16:46",
       "album": {
@@ -33,44 +73,20 @@
       "url": "https://open.spotify.com/track/2uWdrP4brpE5wYmoOb7NzV"
     },
     {
-      "added_at": "2026-10-05 09:16:46",
+      "added_at": "2026-10-12 17:05:51",
       "album": {
-        "name": "SUV 2",
-        "url": "https://open.spotify.com/album/019iGK5CLJmrwQ5rDND2Th"
+        "name": "Free Johnny",
+        "url": "https://open.spotify.com/album/5mjVrlYRezgEdlZQfpAtJO"
       },
       "artists": [
         {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
-        },
-        {
-          "name": "Young Fly",
-          "url": "https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N"
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
         }
       ],
-      "duration_ms": 139239,
-      "name": "SUV 2",
-      "url": "https://open.spotify.com/track/7aucJQT8Lnx7WvSMyP0N75"
-    },
-    {
-      "added_at": "2026-10-05 09:16:46",
-      "album": {
-        "name": "UTCA",
-        "url": "https://open.spotify.com/album/2tmyUAUCLbtLKMekYCi6Y6"
-      },
-      "artists": [
-        {
-          "name": "Bruno X Spacc",
-          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
-        },
-        {
-          "name": "KKevin",
-          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
-        }
-      ],
-      "duration_ms": 162555,
-      "name": "UTCA",
-      "url": "https://open.spotify.com/track/1HKO552g5ZkCXubx3i3MwW"
+      "duration_ms": 197341,
+      "name": "Free Johnny",
+      "url": "https://open.spotify.com/track/6B6oxOWau5ngBRfMrLuDsz"
     },
     {
       "added_at": "2026-10-05 09:16:46",
@@ -215,26 +231,22 @@
     {
       "added_at": "2026-10-05 09:16:46",
       "album": {
-        "name": "GRIND",
-        "url": "https://open.spotify.com/album/2lsK4dIcNT3eK6Z6c9E3tW"
+        "name": "UTCA",
+        "url": "https://open.spotify.com/album/2tmyUAUCLbtLKMekYCi6Y6"
       },
       "artists": [
-        {
-          "name": "Marics Peti",
-          "url": "https://open.spotify.com/artist/3AL01X7ic44uuE4xsMVPbp"
-        },
         {
           "name": "Bruno X Spacc",
           "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
         },
         {
-          "name": "RZMVS",
-          "url": "https://open.spotify.com/artist/2OFqNrzP6JRCfsX9xglMH4"
+          "name": "KKevin",
+          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
         }
       ],
-      "duration_ms": 136421,
-      "name": "GRIND",
-      "url": "https://open.spotify.com/track/29URpEljCaPFoODyrDmuhd"
+      "duration_ms": 162555,
+      "name": "UTCA",
+      "url": "https://open.spotify.com/track/1HKO552g5ZkCXubx3i3MwW"
     },
     {
       "added_at": "2026-10-05 09:16:46",
@@ -275,6 +287,30 @@
       "duration_ms": 202919,
       "name": "Van Valami (feat. RZMVS)",
       "url": "https://open.spotify.com/track/0IM555Y5XQsro0o7vZa4y6"
+    },
+    {
+      "added_at": "2026-10-05 09:16:46",
+      "album": {
+        "name": "GRIND",
+        "url": "https://open.spotify.com/album/2lsK4dIcNT3eK6Z6c9E3tW"
+      },
+      "artists": [
+        {
+          "name": "Marics Peti",
+          "url": "https://open.spotify.com/artist/3AL01X7ic44uuE4xsMVPbp"
+        },
+        {
+          "name": "Bruno X Spacc",
+          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
+        },
+        {
+          "name": "RZMVS",
+          "url": "https://open.spotify.com/artist/2OFqNrzP6JRCfsX9xglMH4"
+        }
+      ],
+      "duration_ms": 136421,
+      "name": "GRIND",
+      "url": "https://open.spotify.com/track/29URpEljCaPFoODyrDmuhd"
     },
     {
       "added_at": "2026-10-05 09:16:46",
@@ -667,22 +703,6 @@
     {
       "added_at": "2026-10-05 09:16:46",
       "album": {
-        "name": "The Life of a Showgirl: The Encore",
-        "url": "https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 225868,
-      "name": "Patient Zero",
-      "url": "https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub"
-    },
-    {
-      "added_at": "2026-10-05 09:16:46",
-      "album": {
         "name": "BAD BUNNY",
         "url": "https://open.spotify.com/album/2ya64b5CUXkMBsEDzyM97A"
       },
@@ -883,22 +903,6 @@
       "duration_ms": 139551,
       "name": "KERTES H\u00c1Z",
       "url": "https://open.spotify.com/track/1YEzjWjdDNHFeycih2VNGm"
-    },
-    {
-      "added_at": "2026-10-05 09:16:46",
-      "album": {
-        "name": "Gabi",
-        "url": "https://open.spotify.com/album/5QcfodgaXvDCZNm0waFcBZ"
-      },
-      "artists": [
-        {
-          "name": "Carson Coma",
-          "url": "https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6"
-        }
-      ],
-      "duration_ms": 188389,
-      "name": "Gabi",
-      "url": "https://open.spotify.com/track/5XTOQnTIpi49kuycmAuTut"
     },
     {
       "added_at": "2026-10-05 09:16:46",

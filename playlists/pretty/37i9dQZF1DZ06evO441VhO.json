@@ -1,12 +1,12 @@
 {
   "description": "This is zebrahead. The essential tracks, all in one playlist.",
-  "num_followers": 18966,
+  "num_followers": 18969,
   "original_name": "This Is zebrahead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asmAAAAAAABis0Q/vu5A5h/KelLP/3hx",
+  "snapshot_id": "asrRgAAAAAD1ybt99GtW/z+BKc5uwRJl",
   "tracks": [
     {
       "added_at": null,
@@ -59,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/2HdAxjR3RwHCYRAbBtZYxP"
+        "name": "The Perfect Crime",
+        "url": "https://open.spotify.com/album/2ZWhDKzgWckMPzdKzbh4bf"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 217487,
-      "name": "Hell Yeah!",
-      "url": "https://open.spotify.com/track/28q2v77HT5TrNO4Spm4AYk"
+      "duration_ms": 206826,
+      "name": "The Perfect Crime",
+      "url": "https://open.spotify.com/track/5rRwE8PjHsBXfvQ2toLAA9"
     },
     {
       "added_at": null,
@@ -91,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Perfect Crime",
-        "url": "https://open.spotify.com/album/2ZWhDKzgWckMPzdKzbh4bf"
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/2HdAxjR3RwHCYRAbBtZYxP"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 206826,
-      "name": "The Perfect Crime",
-      "url": "https://open.spotify.com/track/5rRwE8PjHsBXfvQ2toLAA9"
+      "duration_ms": 217487,
+      "name": "Hell Yeah!",
+      "url": "https://open.spotify.com/track/28q2v77HT5TrNO4Spm4AYk"
     },
     {
       "added_at": null,
@@ -123,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Walk the Plank",
-        "url": "https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 203694,
-      "name": "Worse Than This",
-      "url": "https://open.spotify.com/track/4wjCtIESmOrufJnqpCNeNs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The World's On Fire",
         "url": "https://open.spotify.com/album/3YrPHd8CGlPBfLG4FgmQVy"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 200293,
       "name": "Out of Control",
       "url": "https://open.spotify.com/track/4qcXBDltsFoCFeERHYfFKE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Walk the Plank",
+        "url": "https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 203694,
+      "name": "Worse Than This",
+      "url": "https://open.spotify.com/track/4wjCtIESmOrufJnqpCNeNs"
     },
     {
       "added_at": null,
@@ -255,22 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Don\u2019t Know How to Put This (But I\u2019m Kinda a Big Deal)",
-        "url": "https://open.spotify.com/album/5NwZolzRtEyu8twvxdkv28"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 157457,
-      "name": "I Don\u2019t Know How to Put This (But I\u2019m Kinda a Big Deal)",
-      "url": "https://open.spotify.com/track/0poBSW3FexK3jzHJq6CUoi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Waste Of Mind",
         "url": "https://open.spotify.com/album/7bYhJeHWcA2fQcrdLEI5gJ"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 145733,
       "name": "Check",
       "url": "https://open.spotify.com/track/4NAm3aWUkQlQcAll13HVEt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Don\u2019t Know How to Put This (But I\u2019m Kinda a Big Deal)",
+        "url": "https://open.spotify.com/album/5NwZolzRtEyu8twvxdkv28"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 157457,
+      "name": "I Don\u2019t Know How to Put This (But I\u2019m Kinda a Big Deal)",
+      "url": "https://open.spotify.com/track/0poBSW3FexK3jzHJq6CUoi"
     },
     {
       "added_at": null,
@@ -351,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Walk the Plank",
-        "url": "https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi"
+        "name": "III.II.",
+        "url": "https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 179178,
-      "name": "Keep It to Myself",
-      "url": "https://open.spotify.com/track/5x973aFd6Tj4nuvcT69TeW"
+      "duration_ms": 194657,
+      "name": "No Tomorrow",
+      "url": "https://open.spotify.com/track/1Jkhd7PGnybdLLVRYgVWZN"
     },
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "III.II.",
-        "url": "https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ"
+        "name": "Walk the Plank",
+        "url": "https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 194657,
-      "name": "No Tomorrow",
-      "url": "https://open.spotify.com/track/1Jkhd7PGnybdLLVRYgVWZN"
+      "duration_ms": 179178,
+      "name": "Keep It to Myself",
+      "url": "https://open.spotify.com/track/5x973aFd6Tj4nuvcT69TeW"
     },
     {
       "added_at": null,
@@ -415,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Broadcast to the World",
-        "url": "https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ"
+        "name": "III.II.",
+        "url": "https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ"
       },
       "artists": [
         {
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 165386,
-      "name": "Postcards From Hell",
-      "url": "https://open.spotify.com/track/6x5AHaFSlfgeVm6U95CNtr"
+      "duration_ms": 173788,
+      "name": "Homesick for Hope",
+      "url": "https://open.spotify.com/track/4d3nGjhjO6w8cgr2Do2vAk"
     },
     {
       "added_at": null,
@@ -447,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "III.II.",
-        "url": "https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ"
+        "name": "Broadcast to the World",
+        "url": "https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 173788,
-      "name": "Homesick for Hope",
-      "url": "https://open.spotify.com/track/4d3nGjhjO6w8cgr2Do2vAk"
+      "duration_ms": 165386,
+      "name": "Postcards From Hell",
+      "url": "https://open.spotify.com/track/6x5AHaFSlfgeVm6U95CNtr"
     },
     {
       "added_at": null,

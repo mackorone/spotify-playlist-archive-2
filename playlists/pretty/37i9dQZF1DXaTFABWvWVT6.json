@@ -1,6 +1,6 @@
 {
   "description": "Bring the festival vibes to wherever you are with these dance bangers. ",
-  "num_followers": 90340,
+  "num_followers": 90342,
   "original_name": "The Dance Tent",
   "owner": {
     "name": "Spotify",
@@ -487,6 +487,22 @@
     {
       "added_at": "2026-10-02 10:12:09",
       "album": {
+        "name": "We Do What We Want (Edit)",
+        "url": "https://open.spotify.com/album/5WzbzjfI0AeLlYwyZ1rHOa"
+      },
+      "artists": [
+        {
+          "name": "Alan Fitzpatrick",
+          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
+        }
+      ],
+      "duration_ms": 188095,
+      "name": "We Do What We Want - Edit",
+      "url": "https://open.spotify.com/track/2qGvgsRsmrB0Y7Y4MmuP1M"
+    },
+    {
+      "added_at": "2026-10-02 10:12:09",
+      "album": {
         "name": "Loco Loco",
         "url": "https://open.spotify.com/album/5TENfmB9MmYxC6nmKvJ0XJ"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 136666,
       "name": "Loco Loco",
       "url": "https://open.spotify.com/track/1mZnxNzp17JrPyzDzkoiiC"
-    },
-    {
-      "added_at": "2026-10-02 10:12:09",
-      "album": {
-        "name": "We Do What We Want (Edit)",
-        "url": "https://open.spotify.com/album/5WzbzjfI0AeLlYwyZ1rHOa"
-      },
-      "artists": [
-        {
-          "name": "Alan Fitzpatrick",
-          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
-        }
-      ],
-      "duration_ms": 188095,
-      "name": "We Do What We Want - Edit",
-      "url": "https://open.spotify.com/track/2qGvgsRsmrB0Y7Y4MmuP1M"
     },
     {
       "added_at": "2026-10-02 10:12:09",
@@ -1543,6 +1543,34 @@
     {
       "added_at": "2026-10-02 10:12:09",
       "album": {
+        "name": "Mi Combi EP",
+        "url": "https://open.spotify.com/album/4eQDew4OYl7gq9cDF3yIYd"
+      },
+      "artists": [
+        {
+          "name": "Ollie BC",
+          "url": "https://open.spotify.com/artist/7crjp3htKFvWTqzRjdnjmQ"
+        },
+        {
+          "name": "Mason Collective",
+          "url": "https://open.spotify.com/artist/5v1K4IgzvVs7rFzessYPhS"
+        },
+        {
+          "name": "Dany Gomez",
+          "url": "https://open.spotify.com/artist/5kMchfwW30VxyO1hwOnaCt"
+        },
+        {
+          "name": "EMBI",
+          "url": "https://open.spotify.com/artist/6NBXnI1dWJ0gh8CrmV4Wg0"
+        }
+      ],
+      "duration_ms": 166874,
+      "name": "Mi Combi",
+      "url": "https://open.spotify.com/track/2G6AM2rmjjJcyiOvizYawc"
+    },
+    {
+      "added_at": "2026-10-02 10:12:09",
+      "album": {
         "name": "Different Side",
         "url": "https://open.spotify.com/album/5MvoxzRfTWDYjNF98qRezc"
       },
@@ -1563,26 +1591,6 @@
       "duration_ms": 193710,
       "name": "Different Side",
       "url": "https://open.spotify.com/track/76Lq3l4TEzt2javAjXezAr"
-    },
-    {
-      "added_at": "2026-10-02 10:12:09",
-      "album": {
-        "name": "Boujee",
-        "url": "https://open.spotify.com/album/3JQg1rv2uGIQEdfnoir8CJ"
-      },
-      "artists": [
-        {
-          "name": "Stephani B",
-          "url": "https://open.spotify.com/artist/1KO1lRmzn2ruREb8hlFa0A"
-        },
-        {
-          "name": "Scott Forshaw",
-          "url": "https://open.spotify.com/artist/2B3lljR6lMaymKtckOsdoy"
-        }
-      ],
-      "duration_ms": 152727,
-      "name": "Boujee",
-      "url": "https://open.spotify.com/track/5jcgGbYZAFYR9s2HuVO7ff"
     },
     {
       "added_at": "2026-10-02 10:12:09",

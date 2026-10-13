@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0MYMXcPN7yx8kdLSKi3Rqb">Gabe Simon</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 371 likes - 190 songs - 10 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 372 likes - 190 songs - 10 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,8 +139,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 | 129 | [Some People](https://open.spotify.com/track/6tx9Hz84YvpMVp6SWAl7Iv) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Changes All The Time \(Deluxe\)](https://open.spotify.com/album/441Y4TBgKQWHBJYlQBomI1) | 2:40 |
 | 130 | [French Girls](https://open.spotify.com/track/1HFVDMxkXsYSF7MV2i9j4n) | [Swimming With Bears](https://open.spotify.com/artist/7fvjtxGJoVNFZf1rGddHSD) | [French Girls](https://open.spotify.com/album/3zRBTq4T2qOPfuqTC6kHv5) | 3:41 |
 | 131 | [Devastation \(with PAMÉ\)](https://open.spotify.com/track/6oxH7cP0JbbICm8DdVYta9) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [PAMÉ](https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03) | [Devastation \(with PAMÉ\)](https://open.spotify.com/album/1yFtcNjSezziWM0lXQAT5h) | 3:22 |
-| 132 | [Parallel Lines \(feat\. Aron Wright\)](https://open.spotify.com/track/1XZwJeg5jryK2LWFyPDWlE) | [Future Reference](https://open.spotify.com/artist/7sgujsUpd4gQyKWDGLcauv), [Aron Wright](https://open.spotify.com/artist/4MKVLp1MAwYFqaXhe1g8dA) | [Parallel Lines \(feat\. Aron Wright\)](https://open.spotify.com/album/60BgZECcvdJ4oINnmPYqTG) | 3:51 |
-| 133 | [Problem](https://open.spotify.com/track/0qGyFPcW68FQZpDYn1fLDw) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [I'm Not Afraid Of Music Anymore](https://open.spotify.com/album/0iYfLtcJwYEl23TtnwTibd) | 3:31 |
+| 132 | [Problem](https://open.spotify.com/track/0qGyFPcW68FQZpDYn1fLDw) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [I'm Not Afraid Of Music Anymore](https://open.spotify.com/album/0iYfLtcJwYEl23TtnwTibd) | 3:31 |
+| 133 | [Parallel Lines \(feat\. Aron Wright\)](https://open.spotify.com/track/1XZwJeg5jryK2LWFyPDWlE) | [Future Reference](https://open.spotify.com/artist/7sgujsUpd4gQyKWDGLcauv), [Aron Wright](https://open.spotify.com/artist/4MKVLp1MAwYFqaXhe1g8dA) | [Parallel Lines \(feat\. Aron Wright\)](https://open.spotify.com/album/60BgZECcvdJ4oINnmPYqTG) | 3:51 |
 | 134 | [Seasons](https://open.spotify.com/track/0jzuoUYtIxSMJLUktZXV9o) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw), [Garrett Nash](https://open.spotify.com/artist/0rdndvV0SFiSHPRHHUNmR0) | [one](https://open.spotify.com/album/1tZ2W5PW2lyAf1K7sTM6iW) | 3:24 |
 | 135 | [I Believe](https://open.spotify.com/track/46wkwGumty9sQ28Y9mzekY) | [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S) | [Good Morning Stranger](https://open.spotify.com/album/3l68t2EXAFAy2owRv4lQPZ) | 2:46 |
 | 136 | [Portraits](https://open.spotify.com/track/2Req5uUF6yCH0eaBUhWsCz) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Portraits](https://open.spotify.com/album/0ntTitta8btOS93RiM3TrO) | 3:53 |
@@ -158,8 +158,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 | 148 | [Sing Along](https://open.spotify.com/track/7uYY9GcjZLTVvXSOtLSBVs) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [I'm Not Afraid Of Music Anymore](https://open.spotify.com/album/0iYfLtcJwYEl23TtnwTibd) | 3:39 |
 | 149 | [Everything Looks Beautiful](https://open.spotify.com/track/4Q6wWm1GyMweUtoz6PNvrr) | [Lucie Silvas](https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju) | [E.G.O.](https://open.spotify.com/album/1VVaCcDi6CDJ86XpyGVUQ0) | 4:59 |
 | 150 | [Estás Con Alguien \(feat\. Eva Ruiz\)](https://open.spotify.com/track/0kaYnO56h2Jwo1Pu3RysuF) | [Axel Muñiz](https://open.spotify.com/artist/2TwjyKRJpvRn4SpsniXJka), [Eva Ruiz](https://open.spotify.com/artist/0u2TFlIJZJiir8Oi7YkbwV) | [Estás Con Alguien \(feat\. Eva Ruiz\)](https://open.spotify.com/album/1q2K9ybEnXEtFsvL3S2e8a) | 3:08 |
-| 151 | [Sway](https://open.spotify.com/track/6cf2GFrgq63gQUybV8xzGj) | [Sarah Cothran](https://open.spotify.com/artist/3kft86DbqCNr7rjq3pEj0G) | [i hope you're happy](https://open.spotify.com/album/1kR8ROs5klKibWulbjWjxa) | 2:54 |
-| 152 | [Bloodtype](https://open.spotify.com/track/63fm2Xluo70j5rs8h5kPoq) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [I'm Not Afraid Of Music Anymore](https://open.spotify.com/album/0iYfLtcJwYEl23TtnwTibd) | 1:54 |
+| 151 | [Bloodtype](https://open.spotify.com/track/63fm2Xluo70j5rs8h5kPoq) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [I'm Not Afraid Of Music Anymore](https://open.spotify.com/album/0iYfLtcJwYEl23TtnwTibd) | 1:54 |
+| 152 | [Sway](https://open.spotify.com/track/6cf2GFrgq63gQUybV8xzGj) | [Sarah Cothran](https://open.spotify.com/artist/3kft86DbqCNr7rjq3pEj0G) | [i hope you're happy](https://open.spotify.com/album/1kR8ROs5klKibWulbjWjxa) | 2:54 |
 | 153 | [Pablo Picasso](https://open.spotify.com/track/6XJ8EUzRWx0ksY5MXbsC0Y) | [Matt Nathanson](https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA) | [King Of \(Un\)Simple](https://open.spotify.com/album/22vMnan4RJZmIjLPOIR5FC) | 2:52 |
 | 154 | [Kite](https://open.spotify.com/track/2izOoDboxV7I9MqO1idpgE) | [Lucie Silvas](https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju) | [E.G.O.](https://open.spotify.com/album/1VVaCcDi6CDJ86XpyGVUQ0) | 3:21 |
 | 155 | [Guiding Light](https://open.spotify.com/track/4BeR7pAPOTuMJyZI8Xwuzp) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw), [Garrett Nash](https://open.spotify.com/artist/0rdndvV0SFiSHPRHHUNmR0) | [three](https://open.spotify.com/album/1ooobrQ5GnZuoVvmGJit4f) | 2:57 |
@@ -199,4 +199,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 | 189 | [Going Nowhere](https://open.spotify.com/track/2Jcch257ODLARJyQENv541) | [WAITERS](https://open.spotify.com/artist/3mv2bMoIxhLVw3eRBFoO9h) | [Going Nowhere](https://open.spotify.com/album/4luFG6rwCdyRJvses0MjIx) | 3:20 |
 | 190 | [Happens All The Time](https://open.spotify.com/track/6A3BEvSriUmACL0fsAgdN7) | [Joshua Speers](https://open.spotify.com/artist/7KlIBAc2EPCSzwvrLftuch) | [All American Zero](https://open.spotify.com/album/2ioglZgabUgpPrt25Nl30h) | 3:03 |
 
-Snapshot ID: `AcesOgAAAABot04TFAHj0ZQdnpowmp7R`
+Snapshot ID: `AceyNAAAAAAx+ttqZTTk7JWgxeg0g/Hg`

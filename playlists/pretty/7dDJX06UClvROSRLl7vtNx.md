@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-[j\-dosch](https://open.spotify.com/user/j-dosch) - 138,783 likes - 233 songs - 10 hr 3 min
+[j\-dosch](https://open.spotify.com/user/j-dosch) - 138,815 likes - 234 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -241,5 +241,6 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 | 231 | [Who You Are](https://open.spotify.com/track/0ShEGvZwPUT9PMat6bnWuc) | [CLOVER](https://open.spotify.com/artist/0RUPz70lvFw5gQ6Yye9nSC), [dusk:dawn](https://open.spotify.com/artist/0ovM12PnBmC1MvVXRVeIIe) | [Who You Are](https://open.spotify.com/album/2yl5LeFFWBA1jEg4L6abhi) | 2:14 |
 | 232 | [Chills](https://open.spotify.com/track/7mCz5ly2yn5HEzc34IgUQG) | [Second Sun](https://open.spotify.com/artist/4ITZhADtXQl7SXvQOlMmPS) | [Chills](https://open.spotify.com/album/5lckTaYHovHJdMHPKLp766) | 2:51 |
 | 233 | [Don't Forget \(About Me\)](https://open.spotify.com/track/7mIwqQouqiZVRYa0b13RLK) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Don't Forget \(About Me\)](https://open.spotify.com/album/30bKA6XdH6Fa5ghF1O29uc) | 2:51 |
+| 234 | [Nevada](https://open.spotify.com/track/69AT9CSvIfnky1KoKU9qL3) | [VIS](https://open.spotify.com/artist/1Ntxpk3QGrN1J5eEOl4Ygg), [Deep Mage](https://open.spotify.com/artist/0MR7IMVJ0cdWJBivbwRr4A) | [Nevada](https://open.spotify.com/album/5n2nGH2W1O5XvEpC44apJU) | 2:39 |
 
-Snapshot ID: `AABWs9IRh8gVWioBCYt0spUBzebyYYKZ`
+Snapshot ID: `AABWtJtcPRfz7KynhbtZ+65O6tJrr/eZ`

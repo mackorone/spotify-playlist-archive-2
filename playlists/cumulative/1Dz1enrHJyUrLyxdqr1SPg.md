@@ -4,7 +4,7 @@
 
 > NEW  POPULAR MUSIC BY  INDIE AND ESTABLISHED ARTISTS .\. Free submission  \- 1 week on the list  NO EXPLICITS \- NO RAP Active supporters who play and share the list will get more time  \-so please play and share \- Thank you &lt;3  https:&\#x2F;&\#x2F;www.instagram.com&\#x2F;enilsounds&\#x2F;
 
-179 songs - 10 hr 36 min
+181 songs - 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [I'm Not My Brain \- Smooth Jazz Version](https://open.spotify.com/track/4dok81glpUJ6CmL7q6jrhk) | [Dario Margeli](https://open.spotify.com/artist/7mxNhEknpLj1TyWByXLrlt) | [I'm Not My Brain \(Smooth Jazz Version\)](https://open.spotify.com/album/2GrDB4ACxBI2Zfj3MUXOYE) | 4:29 | 2026-02-23 | 2026-09-30 |
 | [If I'm James Dean, You're Audrey Hepburn](https://open.spotify.com/track/5JoVGZVHWEw9YX29Q9qoR0) | [Andrew Wilson](https://open.spotify.com/artist/7nJeosmDpSeqMG1gjzuRLk) | [If I'm James Dean, You're Audrey Hepburn](https://open.spotify.com/album/5qMRcGq5Mi2sRpnS2QZMH3) | 3:56 | 2026-02-01 | 2026-03-25 |
 | [In My Way](https://open.spotify.com/track/4Cc2l0New2b1H1xo0YcKgu) | [Florin Gindu](https://open.spotify.com/artist/7tK6mIokWaz9Awj8pc2c2k) | [In My Way](https://open.spotify.com/album/1VONvnDOsrBbequpLPtl64) | 1:25 | 2023-10-14 |  |
+| [In The Name Of Love](https://open.spotify.com/track/3bpubBf13MuSjpJV6qmb8R) | [The Dreamers Roots](https://open.spotify.com/artist/3GGadIaVfzQO2amB4criGb) | [In The Name Of Love](https://open.spotify.com/album/2hnITGv7giDVZpAhUI4pRm) | 3:24 | 2026-10-12 |  |
 | [In the Zone](https://open.spotify.com/track/0il4gfhVGuKu1oMG6PcRhr) | [MaXimum Boost](https://open.spotify.com/artist/0turMaNvhFbQANB1QKyvmN) | [In the Zone](https://open.spotify.com/album/4dZJvmT95nDQ6tT0emGUEm) | 5:19 | 2026-09-26 |  |
 | [Inspiration](https://open.spotify.com/track/7kJe4f5qvxkSQEMS5N5wCl) | [Charles Connolly](https://open.spotify.com/artist/177sVR4PIPRGPAys8e5vG1) | [Inspiration](https://open.spotify.com/album/31sfUoh8zXgKOb509lxj3y) | 4:56 | 2024-03-08 |  |
 | [It's My Life](https://open.spotify.com/track/3XGK7kWTvorW1S1Lt86gUA) | [Jill Winter](https://open.spotify.com/artist/5m6M42fpTjqKbu0VuKjfSD) | [It's My Life](https://open.spotify.com/album/7hZTVJRgLVNLz8riZzE294) | 3:50 | 2024-07-19 |  |
@@ -138,6 +139,7 @@
 | [Spring flow](https://open.spotify.com/track/6bfDxRfn9l0SakKPBu5nEq) | [Tropicalmonroe](https://open.spotify.com/artist/74W4kN8GOt7Gg2fOhXyhTJ) | [Spring flow](https://open.spotify.com/album/6YHSQHMf0xOBDgQK0pOl5c) | 2:33 | 2025-03-16 | 2025-12-17 |
 | [Street Politics](https://open.spotify.com/track/6ytt2PFbLNgXyepsWB5V6R) | [Forwardman](https://open.spotify.com/artist/4biSHaP7pPMoeLLlVluXLR) | [Stranded Future Soho Fugitive](https://open.spotify.com/album/0xaATkbGSU84aL8zvRW2Mm) | 3:22 | 2024-06-24 | 2026-09-17 |
 | [Streets of Minneapolis \- Radio Mix](https://open.spotify.com/track/6AtgHxdvghUjcjdPX1VhWN) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Streets of Minneapolis \(Radio Mix\)](https://open.spotify.com/album/5fto6noZ6cH98MASeDxMed) | 4:30 | 2026-02-09 |  |
+| [Suicide Sugar](https://open.spotify.com/track/4SbP8W45yuDFNXWnjbC7Hz) | [Gran Fenwick](https://open.spotify.com/artist/0VEN5dR1HedhA1jEGYMRcz) | [Suicide Sugar](https://open.spotify.com/album/1tcQBg0EwqqVlxr37XHKWd) | 3:51 | 2026-10-12 |  |
 | [Summer Suite](https://open.spotify.com/track/3glAritAmxyFSc772bZhU3) | [MoonDreams Music](https://open.spotify.com/artist/2kqkSGHlIwUek8tVkfUB1N) | [Summer Suite](https://open.spotify.com/album/3VzaxX50Ecet1LbYJs0ijG) | 3:56 | 2026-02-06 |  |
 | [Summer Suite \(Shoegaze Version\)](https://open.spotify.com/track/5dBK0PW5RhFFadnUBNprNE) | [MoonDreams Music](https://open.spotify.com/artist/2kqkSGHlIwUek8tVkfUB1N) | [Summer Suite \(Shoegaze Version\)](https://open.spotify.com/album/4RIrZGJyoh1Rmo1ekcIjTb) | 2:55 | 2026-06-05 |  |
 | [Summer Suite \- Neon Puls Shifter Sunshine Remix](https://open.spotify.com/track/5oSO2F7a3e5ggjFHBAOfzZ) | [MoonDreams Music](https://open.spotify.com/artist/2kqkSGHlIwUek8tVkfUB1N), [Neon Puls Shifter](https://open.spotify.com/artist/4jQrmdTGBHPgf0hFEgkZIQ) | [Summer Suite \(Neon Puls Shifter Sunshine Remix\)](https://open.spotify.com/album/4jrghTrXNnSFfIJbuoJC8J) | 2:58 | 2026-08-06 |  |

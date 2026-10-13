@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "50 nej\u017ehav\u011bj\u0161\u00edch hit\u016f v \u010cesk\u00e9 republice. Cover: Mc Kenny ",
+  "description": "50 nej\u017ehav\u011bj\u0161\u00edch hit\u016f v \u010cesk\u00e9 republice. Cover: Marie April & kubmat",
   "name": "Hot Hits \u010cesk\u00e1 republika",
   "tracks": [
     {
@@ -2608,7 +2608,7 @@
       ],
       "date_added": "2026-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 220757,
       "name": "L\u00e9to s tebou",
       "url": "https://open.spotify.com/track/7xBQGaPKszWq72lCF9DiNd"
@@ -3608,6 +3608,28 @@
       "duration_ms": 186365,
       "name": "Please Please Please",
       "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
+    },
+    {
+      "album": {
+        "name": "po show",
+        "url": "https://open.spotify.com/album/7yck5CD4hRaABHNAA00R3i"
+      },
+      "artists": [
+        {
+          "name": "Marie April",
+          "url": "https://open.spotify.com/artist/1x5UWbWiwd3P8PYz00coCo"
+        },
+        {
+          "name": "kubmat",
+          "url": "https://open.spotify.com/artist/4kknfnqQZGLYDfUBxhcCG7"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149368,
+      "name": "po show",
+      "url": "https://open.spotify.com/track/71eERERMDR7epp7n2ncgqI"
     },
     {
       "album": {

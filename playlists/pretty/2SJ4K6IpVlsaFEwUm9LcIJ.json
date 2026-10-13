@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: sept-oct 2026 (previous playlists archived on my profile)",
-  "num_followers": 24672,
+  "num_followers": 24675,
   "original_name": "sometimes i",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAAO15ZjtJ1iJCWtH5D5U5b2ko2bHGWe",
+  "snapshot_id": "AAAO2fEF03fCMSH907XmQz5Ew/mvovLj",
   "tracks": [
     {
       "added_at": "2026-10-04 20:21:14",
@@ -579,6 +579,38 @@
       "duration_ms": 169986,
       "name": "Psychedelic Ranger",
       "url": "https://open.spotify.com/track/1WEWZtP8EHxoIQV55Wr8YV"
+    },
+    {
+      "added_at": "2026-10-12 21:59:28",
+      "album": {
+        "name": "Dangerous Night",
+        "url": "https://open.spotify.com/album/4UpIHJWLnXUX4wKuF2w9TC"
+      },
+      "artists": [
+        {
+          "name": "Genevieve Artadi",
+          "url": "https://open.spotify.com/artist/4FGpdN4lqGwjrFx9f2E1RI"
+        }
+      ],
+      "duration_ms": 266000,
+      "name": "Dangerous Night",
+      "url": "https://open.spotify.com/track/4QqiPyYSKNow3CvtLyru71"
+    },
+    {
+      "added_at": "2026-10-12 22:06:01",
+      "album": {
+        "name": "Everything in the shade",
+        "url": "https://open.spotify.com/album/5A6ti3IM50zvD9RkLa7usZ"
+      },
+      "artists": [
+        {
+          "name": "Fine",
+          "url": "https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5"
+        }
+      ],
+      "duration_ms": 216750,
+      "name": "Everything in the shade",
+      "url": "https://open.spotify.com/track/6wS9y7UwgL1DQnIWrm5GjF"
     }
   ],
   "unique_name": "sometimes i",

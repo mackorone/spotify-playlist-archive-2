@@ -1,29 +1,13 @@
 {
   "description": "This is Danny Go!. The essential tracks, all in one playlist.",
-  "num_followers": 39231,
+  "num_followers": 39288,
   "original_name": "This Is Danny Go!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asgugAAAAAAIf5sMgeM5B8X85xn6Lebm",
+  "snapshot_id": "asrRgAAAAADqaMcbJ4KdXTh8IzRjsv2Q",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Wiggle Dance",
-        "url": "https://open.spotify.com/album/5cVUlWoP7MsItP5DoYfdyQ"
-      },
-      "artists": [
-        {
-          "name": "Danny Go!",
-          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
-        }
-      ],
-      "duration_ms": 184868,
-      "name": "The Wiggle Dance",
-      "url": "https://open.spotify.com/track/57qfCDMbmBzWHuVk3A9Iir"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 242208,
       "name": "Chug Like a Train!",
       "url": "https://open.spotify.com/track/6xkSfdfDrw7RLT5DPRNxMF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Wiggle Dance",
+        "url": "https://open.spotify.com/album/5cVUlWoP7MsItP5DoYfdyQ"
+      },
+      "artists": [
+        {
+          "name": "Danny Go!",
+          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
+        }
+      ],
+      "duration_ms": 184868,
+      "name": "The Wiggle Dance",
+      "url": "https://open.spotify.com/track/57qfCDMbmBzWHuVk3A9Iir"
     },
     {
       "added_at": null,
@@ -59,22 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sharks In The Water",
-        "url": "https://open.spotify.com/album/2VsIoGKJLRHxcIw2B8oPEB"
-      },
-      "artists": [
-        {
-          "name": "Danny Go!",
-          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
-        }
-      ],
-      "duration_ms": 193293,
-      "name": "Sharks In The Water",
-      "url": "https://open.spotify.com/track/4aKvFOdwJIaPgThgWZdZi8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Burning Energy!",
         "url": "https://open.spotify.com/album/59K3YaAwxti0OT65SChvno"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 264548,
       "name": "Burning Energy!",
       "url": "https://open.spotify.com/track/4eDJcUYFwbeLMrVCCCauux"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sharks In The Water",
+        "url": "https://open.spotify.com/album/2VsIoGKJLRHxcIw2B8oPEB"
+      },
+      "artists": [
+        {
+          "name": "Danny Go!",
+          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
+        }
+      ],
+      "duration_ms": 193293,
+      "name": "Sharks In The Water",
+      "url": "https://open.spotify.com/track/4aKvFOdwJIaPgThgWZdZi8"
     },
     {
       "added_at": null,
@@ -187,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ka-Pow! Superhero Dance",
-        "url": "https://open.spotify.com/album/7mxU8ArlD8DvWYgddtD9ix"
-      },
-      "artists": [
-        {
-          "name": "Danny Go!",
-          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
-        }
-      ],
-      "duration_ms": 192892,
-      "name": "Ka-Pow! Superhero Dance",
-      "url": "https://open.spotify.com/track/501TN2V1YvVfIfPLNafJnX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Bravest Knight!",
         "url": "https://open.spotify.com/album/7DiWcMXwZb4kOJGcjZmmJs"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 560875,
       "name": "The Bravest Knight!",
       "url": "https://open.spotify.com/track/4L3JmesNmUOkvC73qhdUeq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ka-Pow! Superhero Dance",
+        "url": "https://open.spotify.com/album/7mxU8ArlD8DvWYgddtD9ix"
+      },
+      "artists": [
+        {
+          "name": "Danny Go!",
+          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
+        }
+      ],
+      "duration_ms": 192892,
+      "name": "Ka-Pow! Superhero Dance",
+      "url": "https://open.spotify.com/track/501TN2V1YvVfIfPLNafJnX"
     },
     {
       "added_at": null,
@@ -292,25 +292,9 @@
           "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
         }
       ],
-      "duration_ms": 209076,
-      "name": "Razz Ma Tazz Lullaby",
-      "url": "https://open.spotify.com/track/3NhHZ4RuTSTrD7mG0JcLaI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Bat Wing Beat",
-        "url": "https://open.spotify.com/album/48DBQhK2EEFB6cddf9DRVO"
-      },
-      "artists": [
-        {
-          "name": "Danny Go!",
-          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
-        }
-      ],
-      "duration_ms": 229028,
-      "name": "The Bat Wing Beat",
-      "url": "https://open.spotify.com/track/1fFZ0TRXThCKcVCJx5LLrf"
+      "duration_ms": 255250,
+      "name": "Great Big Sea Lullaby",
+      "url": "https://open.spotify.com/track/1uJsAWQ72UOxOBTqxaXTkF"
     },
     {
       "added_at": null,
@@ -327,6 +311,22 @@
       "duration_ms": 162391,
       "name": "The Creepy Crawl",
       "url": "https://open.spotify.com/track/3sjwPrNmCYwkGMvAm8wlS2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Bat Wing Beat",
+        "url": "https://open.spotify.com/album/48DBQhK2EEFB6cddf9DRVO"
+      },
+      "artists": [
+        {
+          "name": "Danny Go!",
+          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
+        }
+      ],
+      "duration_ms": 229028,
+      "name": "The Bat Wing Beat",
+      "url": "https://open.spotify.com/track/1fFZ0TRXThCKcVCJx5LLrf"
     },
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Happy Moon",
-        "url": "https://open.spotify.com/album/2uoegB0rfYELLyLU65qQwF"
+        "name": "Sharks in the Water 2",
+        "url": "https://open.spotify.com/album/5JhcqXNqspZ2s6HxeHcQuX"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
         }
       ],
-      "duration_ms": 238928,
-      "name": "Happy Moon",
-      "url": "https://open.spotify.com/track/0h4XnULY4rpmAid4bNKiIQ"
+      "duration_ms": 259133,
+      "name": "Sharks in the Water 2 - Rise of the Shark King",
+      "url": "https://open.spotify.com/track/1yybUHjAyLICv5BlT43pTv"
     },
     {
       "added_at": null,
@@ -420,9 +420,25 @@
           "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
         }
       ],
-      "duration_ms": 255250,
-      "name": "Great Big Sea Lullaby",
-      "url": "https://open.spotify.com/track/1uJsAWQ72UOxOBTqxaXTkF"
+      "duration_ms": 209076,
+      "name": "Razz Ma Tazz Lullaby",
+      "url": "https://open.spotify.com/track/3NhHZ4RuTSTrD7mG0JcLaI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Happy Moon",
+        "url": "https://open.spotify.com/album/2uoegB0rfYELLyLU65qQwF"
+      },
+      "artists": [
+        {
+          "name": "Danny Go!",
+          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
+        }
+      ],
+      "duration_ms": 238928,
+      "name": "Happy Moon",
+      "url": "https://open.spotify.com/track/0h4XnULY4rpmAid4bNKiIQ"
     },
     {
       "added_at": null,
@@ -443,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sharks in the Water 2",
-        "url": "https://open.spotify.com/album/5JhcqXNqspZ2s6HxeHcQuX"
-      },
-      "artists": [
-        {
-          "name": "Danny Go!",
-          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
-        }
-      ],
-      "duration_ms": 259133,
-      "name": "Sharks in the Water 2 - Rise of the Shark King",
-      "url": "https://open.spotify.com/track/1yybUHjAyLICv5BlT43pTv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Brand New Day (Good Morning Dance)",
         "url": "https://open.spotify.com/album/2ZqxJ0m0mJVw6KyA0hJYQb"
       },
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Magnet Mania!",
-        "url": "https://open.spotify.com/album/7tsgZYw4ug4VmaihnHPAQZ"
+        "name": "Airplane Mode!",
+        "url": "https://open.spotify.com/album/2ReW0UXS7OOEysEAUxuzxL"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
         }
       ],
-      "duration_ms": 341374,
-      "name": "Magnet Mania!",
-      "url": "https://open.spotify.com/track/29BvKOZz1KNd0aHKNHeAjB"
+      "duration_ms": 224557,
+      "name": "Airplane Mode!",
+      "url": "https://open.spotify.com/track/3SiijksKZyytWUhHftvctc"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Airplane Mode!",
-        "url": "https://open.spotify.com/album/2ReW0UXS7OOEysEAUxuzxL"
+        "name": "Magnet Mania!",
+        "url": "https://open.spotify.com/album/7tsgZYw4ug4VmaihnHPAQZ"
       },
       "artists": [
         {
@@ -516,9 +516,25 @@
           "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
         }
       ],
-      "duration_ms": 224557,
-      "name": "Airplane Mode!",
-      "url": "https://open.spotify.com/track/3SiijksKZyytWUhHftvctc"
+      "duration_ms": 341374,
+      "name": "Magnet Mania!",
+      "url": "https://open.spotify.com/track/29BvKOZz1KNd0aHKNHeAjB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Package Pop!",
+        "url": "https://open.spotify.com/album/3tdfxKVXO5V7YnFaSYShS3"
+      },
+      "artists": [
+        {
+          "name": "Danny Go!",
+          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
+        }
+      ],
+      "duration_ms": 308608,
+      "name": "Package Pop!",
+      "url": "https://open.spotify.com/track/01sDJ03maWvaItz8DzP4hK"
     },
     {
       "added_at": null,
@@ -551,22 +567,6 @@
       "duration_ms": 197057,
       "name": "Drive Drive Vehicle Dance",
       "url": "https://open.spotify.com/track/6W1pb7YKtRIkcgSuvC7Pyb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Package Pop!",
-        "url": "https://open.spotify.com/album/3tdfxKVXO5V7YnFaSYShS3"
-      },
-      "artists": [
-        {
-          "name": "Danny Go!",
-          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
-        }
-      ],
-      "duration_ms": 308608,
-      "name": "Package Pop!",
-      "url": "https://open.spotify.com/track/01sDJ03maWvaItz8DzP4hK"
     },
     {
       "added_at": null,
@@ -619,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ka-Pow! 2: Attack of the Gravity Goldfish!",
+        "url": "https://open.spotify.com/album/06DxKoTL6ZTc8igBpiMV4t"
+      },
+      "artists": [
+        {
+          "name": "Danny Go!",
+          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
+        }
+      ],
+      "duration_ms": 454854,
+      "name": "Ka-Pow! 2: Attack of the Gravity Goldfish!",
+      "url": "https://open.spotify.com/track/4Q2K0ZwwkafTcW1vwWSLOg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Floor is Quicksand (Pyramid Adventure)",
         "url": "https://open.spotify.com/album/4I8uTjGJhiMRPgyEMGGu1n"
       },
@@ -631,6 +647,22 @@
       "duration_ms": 237704,
       "name": "The Floor is Quicksand - Pyramid Adventure",
       "url": "https://open.spotify.com/track/21PquaRGrYlY7MI2b9YNdr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Ice King Freeze Dance",
+        "url": "https://open.spotify.com/album/6savsF7SNiPRKpzCCUqpG0"
+      },
+      "artists": [
+        {
+          "name": "Danny Go!",
+          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
+        }
+      ],
+      "duration_ms": 203169,
+      "name": "The Ice King Freeze Dance",
+      "url": "https://open.spotify.com/track/1a14fAbcmd3vwjUOHDgAXh"
     },
     {
       "added_at": null,
@@ -667,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ka-Pow! 2: Attack of the Gravity Goldfish!",
-        "url": "https://open.spotify.com/album/06DxKoTL6ZTc8igBpiMV4t"
+        "name": "The Color Dance",
+        "url": "https://open.spotify.com/album/1V3RbczTVUkoKPJ8Dk0U70"
       },
       "artists": [
         {
@@ -676,41 +708,9 @@
           "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
         }
       ],
-      "duration_ms": 454854,
-      "name": "Ka-Pow! 2: Attack of the Gravity Goldfish!",
-      "url": "https://open.spotify.com/track/4Q2K0ZwwkafTcW1vwWSLOg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Ice King Freeze Dance",
-        "url": "https://open.spotify.com/album/6savsF7SNiPRKpzCCUqpG0"
-      },
-      "artists": [
-        {
-          "name": "Danny Go!",
-          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
-        }
-      ],
-      "duration_ms": 203169,
-      "name": "The Ice King Freeze Dance",
-      "url": "https://open.spotify.com/track/1a14fAbcmd3vwjUOHDgAXh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Little Cat",
-        "url": "https://open.spotify.com/album/7khTtFbmq7o0y1hrydp7VB"
-      },
-      "artists": [
-        {
-          "name": "Danny Go!",
-          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
-        }
-      ],
-      "duration_ms": 194700,
-      "name": "Little Cat",
-      "url": "https://open.spotify.com/track/0DAtPFHyXrKNhqnHqbh5hN"
+      "duration_ms": 224390,
+      "name": "The Color Dance",
+      "url": "https://open.spotify.com/track/38V02vJaYwPImeFEGhRBAT"
     },
     {
       "added_at": null,
@@ -727,6 +727,22 @@
       "duration_ms": 226526,
       "name": "The Floor is Lava 2 - Into the Volcano",
       "url": "https://open.spotify.com/track/09zBhV6REwERPc3LDy1xx0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Little Cat",
+        "url": "https://open.spotify.com/album/7khTtFbmq7o0y1hrydp7VB"
+      },
+      "artists": [
+        {
+          "name": "Danny Go!",
+          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
+        }
+      ],
+      "duration_ms": 194700,
+      "name": "Little Cat",
+      "url": "https://open.spotify.com/track/0DAtPFHyXrKNhqnHqbh5hN"
     },
     {
       "added_at": null,
@@ -759,22 +775,6 @@
       "duration_ms": 178007,
       "name": "Rainbow Disco Unicorn",
       "url": "https://open.spotify.com/track/5J8qbgtxKEgM8FXhLeatNm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Color Dance",
-        "url": "https://open.spotify.com/album/1V3RbczTVUkoKPJ8Dk0U70"
-      },
-      "artists": [
-        {
-          "name": "Danny Go!",
-          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
-        }
-      ],
-      "duration_ms": 224390,
-      "name": "The Color Dance",
-      "url": "https://open.spotify.com/track/38V02vJaYwPImeFEGhRBAT"
     },
     {
       "added_at": null,

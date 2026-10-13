@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Ashley Milred
 
-564 songs - 1 day 10 hr 48 min
+566 songs - 1 day 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -440,6 +440,7 @@
 | [Por](https://open.spotify.com/track/2DA4LbthGUavPOppBKI9eh) | [MarcX](https://open.spotify.com/artist/6fAYGvK8Ow3JcvoV15Kowt), [Georginaa Mathew](https://open.spotify.com/artist/3zea7fMKhT73CXEFO5XhrX) | [Por](https://open.spotify.com/album/5n4k8FrKgiyF5kR53RQ6hi) | 3:16 | 2025-07-25 | 2025-09-04 |
 | [Poraattam](https://open.spotify.com/track/2OKCRHRIseK0xrvu2n9t0E) | [Shaan Rahman](https://open.spotify.com/artist/42k1aOQmLqy5YQmqJ2zq8s), [Pavithra Menon](https://open.spotify.com/artist/6vs87fqt96uUfyrrsOQeAL), [Fil$](https://open.spotify.com/artist/7f0UeNCU8nGFeU3DAUoNH1), [SRMC Choir](https://open.spotify.com/artist/0Ezeqz3lqIatAwSf4hr32r) | [Poraattam](https://open.spotify.com/album/5uXQnjIzmW0suiPjj0BiTs) | 3:37 | 2025-02-06 | 2025-04-29 |
 | [Poralikal](https://open.spotify.com/track/4Yi3Z3kmaQIqG00EZ5XEyv) | [MC Couper](https://open.spotify.com/artist/4AJoyMa0S1kgtcde6gtKBB), [Parimal Shais](https://open.spotify.com/artist/2epRpDIZDqjmxSyysULdTQ) | [Poralikal](https://open.spotify.com/album/0JsO6jG4H4NOHyDZ21grXa) | 2:51 | 2023-05-26 | 2023-07-28 |
+| [Porul](https://open.spotify.com/track/7bLqlTTkrYwEVlVJiYxzLQ) | [Akhil Vijay](https://open.spotify.com/artist/5b6V4OlRznrWP4wOjIIVnh), [Vaikom Vijayalakshmi](https://open.spotify.com/artist/1tsy6ph4p6fVETd32Cbpcb), [Akhil Sisupal](https://open.spotify.com/artist/5qRl2MSbk4p1cQ3tYSiLFM) | [Porul](https://open.spotify.com/album/5S4cs8jCekXHhxRCqymSXG) | 3:28 | 2026-10-12 |  |
 | [Porul](https://open.spotify.com/track/0kJJmko72rMUeFdi3WI4dM) | [Saju Sreenivas](https://open.spotify.com/artist/6CmEs3zFMHjLjYsanVCK0T) | [Porul](https://open.spotify.com/album/6fQGWw9fs9ms6JVpMQDzeM) | 4:20 | 2024-07-23 | 2025-02-11 |
 | [Poyidum Kaalame](https://open.spotify.com/track/2kj948pj6cnDVwrCPdeZ07) | [Derby Tomhills](https://open.spotify.com/artist/2cdukNqEfEWuFupQIfjen8), [Kavya S Chandra](https://open.spotify.com/artist/39ZeUmal47Ovg1oksPfyCj), [Javad Ali](https://open.spotify.com/artist/654obrgvs7v0Bj4QS8XxeM) | [Poyidum Kaalame](https://open.spotify.com/album/3lxQGNalGRGOWRmHNcgxFl) | 3:08 | 2025-07-11 | 2025-11-12 |
 | [Pranayam](https://open.spotify.com/track/4GgOKuJ1cXDPZa1vxPPqSY) | [Crishna](https://open.spotify.com/artist/2MH6exyP2K90nuxJ4bqZvi) | [Pranayam](https://open.spotify.com/album/2HKtcIQXADZBD3k3MZue0F) | 2:42 | 2024-10-14 | 2025-05-24 |
@@ -447,6 +448,7 @@
 | [Pratheekshakal](https://open.spotify.com/track/23P2vTIEwxRZAbqLKkLLNW) | [Gowry Lekshmi](https://open.spotify.com/artist/4Te1MOr4Y7E4lMvaeuyEjR) | [Pratheekshakal](https://open.spotify.com/album/6ousBdz2ouSwrWZGuuOGAQ) | 3:09 | 2026-06-24 | 2026-08-20 |
 | [Pravasi](https://open.spotify.com/track/2T5FVgSvxUyEn1rH4Stfu2) | [Thakara](https://open.spotify.com/artist/528QfTIbfkN7BD1AM2I0SC) | [Mojo Sessions Live](https://open.spotify.com/album/6UtfSEfMlTw9h4DKa59Yjn) | 4:03 | 2022-12-22 | 2024-06-29 |
 | [Premaalamil](https://open.spotify.com/track/1VeJX1Mx3wXV46KYhWiXmt) | [Wraith V](https://open.spotify.com/artist/4BOMjhDXc0Aet35ZlLZNgZ), [Jawed Aslam](https://open.spotify.com/artist/7dxeL109zn2qpD5W2HX1sC) | [Premaalamil](https://open.spotify.com/album/07WgthIei5wM26SmISQvhu) | 3:50 | 2025-07-04 | 2025-12-21 |
+| [Punchiri](https://open.spotify.com/track/1CJOj6Bs5OIasNTROmfWFJ) | [Eechuu](https://open.spotify.com/artist/4CB5jLRM1EUNK2y6l7kixx), [Suhas](https://open.spotify.com/artist/4p2Sm00Hqt9ICdLO7ASkcO), [Chris Wayne](https://open.spotify.com/artist/5GkVAEDUPPeV3INTYATuzc) | [Punchiri](https://open.spotify.com/album/3dqZQWkJ9uOvWIoz4TK2UY) | 2:43 | 2026-10-12 |  |
 | [Puthumazha](https://open.spotify.com/track/5CfnIDYUEXRTe6eiYR4YQZ) | [Ewinikz](https://open.spotify.com/artist/5gfzutNloSkBDuLVikIUN8), [Godwin Fernandez](https://open.spotify.com/artist/5vTeO5rzVIjdqNv7RTmB43), [Suchith Surendran](https://open.spotify.com/artist/3Dmkg6TaEsyJ9n8grHJl5T) | [Puthumazha](https://open.spotify.com/album/7ys3lpm8qwYbepZ8bPr08v) | 1:10 | 2025-07-22 | 2025-09-04 |
 | [Puttu Biriyani](https://open.spotify.com/track/0HNQsBtT9LfC1PCV1W9V2y) | [Sannidanandan](https://open.spotify.com/artist/36G7EzMNhakODA2g5hLxIq), [Retheesh Narayanan](https://open.spotify.com/artist/6JdxkqU06zxt6pLC0PSeSz) | [Puttu Biriyani](https://open.spotify.com/album/3PsgvyeqCTUCeKE4FaSuMr) | 3:44 | 2025-02-18 | 2025-04-29 |
 | [Puttu Paattu](https://open.spotify.com/track/7i8me6jJ0iAWHeOwdImXFT) | [Thakara](https://open.spotify.com/artist/528QfTIbfkN7BD1AM2I0SC) | [Mojo Sessions Live](https://open.spotify.com/album/6UtfSEfMlTw9h4DKa59Yjn) | 5:32 | 2022-12-22 | 2025-01-14 |

@@ -4,7 +4,7 @@
 
 > in your lush & lazy era 🪷 cozy beats, comfy self\-care vibes
 
-1,347 songs - 2 day 3 hr 31 min
+1,348 songs - 2 day 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Bliss](https://open.spotify.com/track/0XmnlDKrzvIXoOsp8YwWbY) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke) | [Bliss](https://open.spotify.com/album/2nC5R4NmZBOwXZivGLLIDD) | 3:15 | 2023-02-07 | 2023-10-23 |
 | [blossom](https://open.spotify.com/track/4Hv7TnBfBCzSCbqH0k4RhE) | [ai sayuri](https://open.spotify.com/artist/5YohkWp4bq0IUw4c0StwjJ) | [blossom](https://open.spotify.com/album/1qKGMnxUe2kVwG096pTR7U) | 2:17 | 2023-12-15 | 2024-05-14 |
 | [Blossom's Day](https://open.spotify.com/track/2kQKAtga9QYY9RV4xO8huL) | [Perspolis](https://open.spotify.com/artist/6M0KZSevYJX27uqBGw3Ae9) | [Blossom's Day](https://open.spotify.com/album/4cYgeynqELpDFRPxaiWhwh) | 1:41 | 2022-10-07 | 2025-07-16 |
-| [blue](https://open.spotify.com/track/4p9isEOrb1yAvhAcy78Axb) | [the tofu paradigm](https://open.spotify.com/artist/3Ux7jaAusHBJAKgdzZ1RCe) | [blue](https://open.spotify.com/album/45SeGCGt34dvINrNWMCpeT) | 1:56 | 2026-10-09 |  |
+| [blue](https://open.spotify.com/track/4p9isEOrb1yAvhAcy78Axb) | [the tofu paradigm](https://open.spotify.com/artist/3Ux7jaAusHBJAKgdzZ1RCe) | [blue](https://open.spotify.com/album/45SeGCGt34dvINrNWMCpeT) | 1:56 | 2026-10-09 | 2026-10-13 |
 | [blue bird](https://open.spotify.com/track/6qCw0yjnCxxASxV87RMudj) | [Slipp](https://open.spotify.com/artist/6bmyHY2oYF7LNsOCLdZH7e), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [blue bird](https://open.spotify.com/album/1BR01bzVheG3dH7IGvo7lA) | 2:14 | 2023-09-22 | 2025-07-16 |
 | [Blue Fraction](https://open.spotify.com/track/3V5oF645lO6vFmOjwfXalX) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Blue Fraction](https://open.spotify.com/album/3kzLYlY7ByzGe90WcKCjXy) | 3:02 | 2022-10-28 | 2023-10-06 |
 | [blue jacket](https://open.spotify.com/track/7AaALYPKTkyXODP4YU72Jq) | [costa rossa](https://open.spotify.com/artist/2X3PPKj7e0xtArhiXP6n1U) | [blue jacket](https://open.spotify.com/album/771iUXmzwZbihDdCWUmIV9) | 2:09 | 2021-11-10 | 2022-05-27 |
@@ -791,6 +791,7 @@
 | [motylek](https://open.spotify.com/track/2jdGc9nzRquVJ24HPDC3Is) | [Kenzo Hill](https://open.spotify.com/artist/0t8px0Bpm4kjzSJ2RREXiK) | [motylek](https://open.spotify.com/album/66pXgt3qcK1xild9iNQV8Y) | 1:57 | 2022-07-22 | 2025-07-16 |
 | [Mr\. Bemm](https://open.spotify.com/track/050jUCD3ITuHr2xZy1ld13) | [yoranda](https://open.spotify.com/artist/6RASfL9QFAOiqYdKetXooz) | [Mr\. Bemm](https://open.spotify.com/album/6HZ2w8DQ2gLkqsno1zALQd) | 2:39 | 2022-12-09 | 2025-07-13 |
 | [mt\. fuji](https://open.spotify.com/track/2RNNPl9fpAb0ziigldf85I) | [Sakloma24](https://open.spotify.com/artist/6PkzYxQ7Bae6IJyyhkPhmf) | [kyoto](https://open.spotify.com/album/0ekYAWFyx9byUsfY6L00kq) | 1:49 | 2021-11-10 | 2022-06-03 |
+| [Mukashi](https://open.spotify.com/track/4YZC9eHwDEyNCxU95g59Ya) | [Yasumi](https://open.spotify.com/artist/34l34Oez7Yh2TuELTDmNKZ) | [Mukashi](https://open.spotify.com/album/49iuBduhxHVbst8Nv4KFhN) | 2:10 | 2026-10-12 |  |
 | [Multiverse](https://open.spotify.com/track/1eNDyRFLcuozAqujBKXIO6) | [Glow Down](https://open.spotify.com/artist/1gWqPuL3TnL7maQnhHAZhn) | [Multiverse](https://open.spotify.com/album/4LiUvrxaW0hy3iMVmDaiGR) | 2:32 | 2022-09-09 |  |
 | [Music is Medicine](https://open.spotify.com/track/7byM1UkSAzYRd1O1sLkN5g) | [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG) | [Music is Medicine](https://open.spotify.com/album/2roJJLZfwIz19t4pBA475c) | 2:19 | 2023-01-20 | 2023-09-29 |
 | [Must've Been the Wind](https://open.spotify.com/track/6dJ9y9bauSaavJbkPcEjkk) | [Luna Rossa](https://open.spotify.com/artist/5KM0Pgy2NxMnZrxtOhM9nW) | [Must've Been the Wind](https://open.spotify.com/album/1ZcDCFhsueOAXABOPaN6QT) | 2:17 | 2024-02-09 |  |

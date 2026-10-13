@@ -1,6 +1,6 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 200567,
+  "num_followers": 200548,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
@@ -551,22 +551,6 @@
     {
       "added_at": "2025-09-18 22:01:59",
       "album": {
-        "name": "Plan Mundial Para La Destrucci\u00f3n",
-        "url": "https://open.spotify.com/album/7fBKqH6kZsrgY2RJWkaiC5"
-      },
-      "artists": [
-        {
-          "name": "Logos",
-          "url": "https://open.spotify.com/artist/4aCWTRWrh5lyIaZTVCP6ja"
-        }
-      ],
-      "duration_ms": 257773,
-      "name": "Darse Cuenta",
-      "url": "https://open.spotify.com/track/41ijCwVP2PQmGCRxwhKbkH"
-    },
-    {
-      "added_at": "2025-09-18 22:01:59",
-      "album": {
         "name": "Earthliens",
         "url": "https://open.spotify.com/album/5tyMcEgeoKK0USWlBAjg3l"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 250362,
       "name": "Las Venas Abiertas...",
       "url": "https://open.spotify.com/track/26e1lqciRLcyXPzYvxOgfy"
+    },
+    {
+      "added_at": "2025-09-18 22:01:59",
+      "album": {
+        "name": "Plan Mundial Para La Destrucci\u00f3n",
+        "url": "https://open.spotify.com/album/7fBKqH6kZsrgY2RJWkaiC5"
+      },
+      "artists": [
+        {
+          "name": "Logos",
+          "url": "https://open.spotify.com/artist/4aCWTRWrh5lyIaZTVCP6ja"
+        }
+      ],
+      "duration_ms": 257773,
+      "name": "Darse Cuenta",
+      "url": "https://open.spotify.com/track/41ijCwVP2PQmGCRxwhKbkH"
     },
     {
       "added_at": "2025-09-18 22:01:59",
@@ -807,18 +807,18 @@
     {
       "added_at": "2025-09-18 22:01:59",
       "album": {
-        "name": "Deceitful Idols",
-        "url": "https://open.spotify.com/album/4qBeMQFxxHVqL8MThlr0iw"
+        "name": "Carnage Drinking Party",
+        "url": "https://open.spotify.com/album/7aepstukqCVA5U97ZbaEYR"
       },
       "artists": [
         {
-          "name": "Anima Tempo",
-          "url": "https://open.spotify.com/artist/6lBAIZGZ3aHv3eS53wOPF5"
+          "name": "Gore and Carnage",
+          "url": "https://open.spotify.com/artist/17iNOJcVt7aZW0XhoIfHON"
         }
       ],
-      "duration_ms": 331013,
-      "name": "Deceitful Idols",
-      "url": "https://open.spotify.com/track/3sday56iSsKePe8emJf9Gz"
+      "duration_ms": 170161,
+      "name": "Poseido Por Mezcal",
+      "url": "https://open.spotify.com/track/1OqhBWdoqAhKxucWfyL6Dp"
     }
   ],
   "unique_name": "Metal del Nuestro",

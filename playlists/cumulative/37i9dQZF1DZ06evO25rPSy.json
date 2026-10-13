@@ -697,6 +697,28 @@
     },
     {
       "album": {
+        "name": "30 Grandes Canciones",
+        "url": "https://open.spotify.com/album/5K9kijwfrDJGHFjjiHbl3I"
+      },
+      "artists": [
+        {
+          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
+          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
+        },
+        {
+          "name": "Huecco",
+          "url": "https://open.spotify.com/artist/6Zd2JZF0kIBpeyv2FlPh8i"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317853,
+      "name": "Maril\u00f3",
+      "url": "https://open.spotify.com/track/3CfjXMpEzzVkNBLIKzESzn"
+    },
+    {
+      "album": {
         "name": "(No Existen) T\u00e9cnicas para Olvidar",
         "url": "https://open.spotify.com/album/0R0UUOJ6km3KSucmDUPlyS"
       },

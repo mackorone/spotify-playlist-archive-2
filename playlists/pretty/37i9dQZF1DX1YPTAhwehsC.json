@@ -1,12 +1,12 @@
 {
   "description": "Up and down I-95. Cover: Mac Miller",
-  "num_followers": 454415,
+  "num_followers": 454385,
   "original_name": "State of Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPpTGk9QCQDTV2fXu7J5c/pXo95z",
+  "snapshot_id": "AAAAAO1tifjEWsHDRXTbntbLZXtC2SSe",
   "tracks": [
     {
       "added_at": "2026-10-09 20:48:41",
@@ -159,6 +159,22 @@
       "duration_ms": 136306,
       "name": "Ever Since U Left Me - UK Remix",
       "url": "https://open.spotify.com/track/5bpcleC2yygNAYvY0wCWda"
+    },
+    {
+      "added_at": "2026-10-12 17:09:37",
+      "album": {
+        "name": "Acting Like You Kanye",
+        "url": "https://open.spotify.com/album/4feZSrwcYQmTxHcQWvEeYf"
+      },
+      "artists": [
+        {
+          "name": "Raud",
+          "url": "https://open.spotify.com/artist/0BgRotGO2vUPyxguQlXsR7"
+        }
+      ],
+      "duration_ms": 95112,
+      "name": "Acting Like You Kanye",
+      "url": "https://open.spotify.com/track/0a1SVxFIghCTo0TynJn2rG"
     },
     {
       "added_at": "2026-10-09 20:48:41",

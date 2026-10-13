@@ -1,6 +1,6 @@
 {
   "description": "No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo. ",
-  "num_followers": 491477,
+  "num_followers": 491563,
   "original_name": "Louvando no Tr\u00e2nsito",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2026-04-10 17:18:15",
       "album": {
-        "name": "O Medo N\u00e3o Vai Me Parar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7crn3QiywbOhiLG1kxQ3tY"
-      },
-      "artists": [
-        {
-          "name": "Sarah Beatriz",
-          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
-        }
-      ],
-      "duration_ms": 303346,
-      "name": "O Medo N\u00e3o Vai Me Parar - Ao Vivo",
-      "url": "https://open.spotify.com/track/4lILbjkdIihRgg3Z1QP5Qh"
-    },
-    {
-      "added_at": "2026-04-10 17:18:15",
-      "album": {
         "name": "A Maior Honra (Ao Vivo)",
         "url": "https://open.spotify.com/album/4ILheZBIdfuSt6cjQRsWiB"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 682941,
       "name": "A Maior Honra - Ao Vivo",
       "url": "https://open.spotify.com/track/1C9gcXH4aJVwz7dr4JNnOG"
+    },
+    {
+      "added_at": "2026-04-10 17:18:15",
+      "album": {
+        "name": "O Medo N\u00e3o Vai Me Parar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7crn3QiywbOhiLG1kxQ3tY"
+      },
+      "artists": [
+        {
+          "name": "Sarah Beatriz",
+          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
+        }
+      ],
+      "duration_ms": 303346,
+      "name": "O Medo N\u00e3o Vai Me Parar - Ao Vivo",
+      "url": "https://open.spotify.com/track/4lILbjkdIihRgg3Z1QP5Qh"
     },
     {
       "added_at": "2026-04-10 17:18:15",
@@ -811,6 +811,26 @@
     {
       "added_at": "2026-04-10 17:18:15",
       "album": {
+        "name": "Existe Vida A\u00ed",
+        "url": "https://open.spotify.com/album/7nVEGZcdfKFzyjVD2WVegZ"
+      },
+      "artists": [
+        {
+          "name": "Samba Pra Deus",
+          "url": "https://open.spotify.com/artist/0Hx1x22OHUgFJ2BMNUnHz6"
+        },
+        {
+          "name": "Marvvila",
+          "url": "https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz"
+        }
+      ],
+      "duration_ms": 239946,
+      "name": "Existe Vida A\u00ed",
+      "url": "https://open.spotify.com/track/1w9OyO138ipRSs8wLnwmp9"
+    },
+    {
+      "added_at": "2026-04-10 17:18:15",
+      "album": {
         "name": "Eu S\u00f3 Quero Adorar",
         "url": "https://open.spotify.com/album/0J0CZ6pQkckFYkOfWxBfBs"
       },
@@ -835,26 +855,6 @@
     {
       "added_at": "2026-04-10 17:18:15",
       "album": {
-        "name": "Tua Gl\u00f3ria Me Abra\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1GXc9lZVWfB4msh6AnaRSa"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        },
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 327318,
-      "name": "Tua Gl\u00f3ria Me Abra\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/3GisPyEirIgTI6mEeJ7SHL"
-    },
-    {
-      "added_at": "2026-04-10 17:18:15",
-      "album": {
         "name": "MEU UNIVERSO",
         "url": "https://open.spotify.com/album/3ZRURB6L7WwE4t0nnzKNqF"
       },
@@ -875,22 +875,22 @@
     {
       "added_at": "2026-04-10 17:18:15",
       "album": {
-        "name": "Existe Vida A\u00ed",
-        "url": "https://open.spotify.com/album/7nVEGZcdfKFzyjVD2WVegZ"
+        "name": "Tua Gl\u00f3ria Me Abra\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1GXc9lZVWfB4msh6AnaRSa"
       },
       "artists": [
         {
-          "name": "Samba Pra Deus",
-          "url": "https://open.spotify.com/artist/0Hx1x22OHUgFJ2BMNUnHz6"
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         },
         {
-          "name": "Marvvila",
-          "url": "https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz"
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 239946,
-      "name": "Existe Vida A\u00ed",
-      "url": "https://open.spotify.com/track/1w9OyO138ipRSs8wLnwmp9"
+      "duration_ms": 327318,
+      "name": "Tua Gl\u00f3ria Me Abra\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/3GisPyEirIgTI6mEeJ7SHL"
     },
     {
       "added_at": "2026-04-10 17:18:15",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-04-10 17:18:15",
       "album": {
-        "name": "Avenida do Arrependimento",
-        "url": "https://open.spotify.com/album/20gaQaN1H4v5Y4PSvES6fM"
-      },
-      "artists": [
-        {
-          "name": "Thalles Roberto",
-          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
-        }
-      ],
-      "duration_ms": 323000,
-      "name": "Esp\u00edrito Santo (Inhabit)",
-      "url": "https://open.spotify.com/track/0X3vkwKZwCBP2XCLSvPf1b"
-    },
-    {
-      "added_at": "2026-04-10 17:18:15",
-      "album": {
         "name": "Jesus te Amamos (Ao Vivo)",
         "url": "https://open.spotify.com/album/2LMOlA7SNUShLKkgJBrKdL"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 415435,
       "name": "Jesus te Amamos - Ao Vivo",
       "url": "https://open.spotify.com/track/1lKhV7gDhuyiztoAQ6LDKv"
+    },
+    {
+      "added_at": "2026-04-10 17:18:15",
+      "album": {
+        "name": "Avenida do Arrependimento",
+        "url": "https://open.spotify.com/album/20gaQaN1H4v5Y4PSvES6fM"
+      },
+      "artists": [
+        {
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+        }
+      ],
+      "duration_ms": 323000,
+      "name": "Esp\u00edrito Santo (Inhabit)",
+      "url": "https://open.spotify.com/track/0X3vkwKZwCBP2XCLSvPf1b"
     },
     {
       "added_at": "2026-04-10 17:18:15",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2026-04-10 17:18:15",
       "album": {
+        "name": "Fogo em Teus Olhos (Ao Vivo em S\u00e3o Paulo)",
+        "url": "https://open.spotify.com/album/6nyBJXAaCo4Zy1BXcKqnt0"
+      },
+      "artists": [
+        {
+          "name": "Marcos Freire",
+          "url": "https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g"
+        }
+      ],
+      "duration_ms": 378928,
+      "name": "Fogo em Teus Olhos - Ao Vivo em S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/30i42PQ8OGhgKqS4J4TJbs"
+    },
+    {
+      "added_at": "2026-04-10 17:18:15",
+      "album": {
         "name": "Eu Te Ouvi (Ao Vivo)",
         "url": "https://open.spotify.com/album/2U9dIctF3FOBSdHS4n1nnt"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 243368,
       "name": "Eu Te Ouvi - Ao Vivo",
       "url": "https://open.spotify.com/track/6Nd8xm5PxHE3E7cRtDRfP8"
-    },
-    {
-      "added_at": "2026-04-10 17:18:15",
-      "album": {
-        "name": "Fogo em Teus Olhos (Ao Vivo em S\u00e3o Paulo)",
-        "url": "https://open.spotify.com/album/6nyBJXAaCo4Zy1BXcKqnt0"
-      },
-      "artists": [
-        {
-          "name": "Marcos Freire",
-          "url": "https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g"
-        }
-      ],
-      "duration_ms": 378928,
-      "name": "Fogo em Teus Olhos - Ao Vivo em S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/30i42PQ8OGhgKqS4J4TJbs"
     },
     {
       "added_at": "2026-04-10 17:18:15",
@@ -1363,26 +1363,6 @@
     {
       "added_at": "2026-04-10 17:18:15",
       "album": {
-        "name": "Que Ele Cres\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2vpNnPQpLDEZxDktUxb8sJ"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        },
-        {
-          "name": "Nathanael Brito",
-          "url": "https://open.spotify.com/artist/09Ls1rANRO31oG4naDyNJK"
-        }
-      ],
-      "duration_ms": 602491,
-      "name": "Que Ele Cres\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/297lnlXZD2tFe8wotWyaA8"
-    },
-    {
-      "added_at": "2026-04-10 17:18:15",
-      "album": {
         "name": "20 Anos de Adora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/79MbPZxQDWw1Tn6zvBhIG5"
       },
@@ -1399,6 +1379,26 @@
       "duration_ms": 348433,
       "name": "Sobre As \u00c1guas",
       "url": "https://open.spotify.com/track/6ZZNZQYx2W5zvHoy6F4PCa"
+    },
+    {
+      "added_at": "2026-04-10 17:18:15",
+      "album": {
+        "name": "Que Ele Cres\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2vpNnPQpLDEZxDktUxb8sJ"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        },
+        {
+          "name": "Nathanael Brito",
+          "url": "https://open.spotify.com/artist/09Ls1rANRO31oG4naDyNJK"
+        }
+      ],
+      "duration_ms": 602491,
+      "name": "Que Ele Cres\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/297lnlXZD2tFe8wotWyaA8"
     },
     {
       "added_at": "2026-04-10 17:18:15",
@@ -1731,6 +1731,22 @@
     {
       "added_at": "2026-04-10 17:18:15",
       "album": {
+        "name": "\u00c9 Sobre Ele (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0r2pTLmYNoveZOekuvFg15"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Gomes",
+          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
+        }
+      ],
+      "duration_ms": 354250,
+      "name": "A Melhor Parte - Ao Vivo",
+      "url": "https://open.spotify.com/track/4eEVADJvhubm7mSCAt9jz2"
+    },
+    {
+      "added_at": "2026-04-10 17:18:15",
+      "album": {
         "name": "Samaritana",
         "url": "https://open.spotify.com/album/7uW5JSvS0J8JSX9KHnVh01"
       },
@@ -1767,22 +1783,6 @@
       "duration_ms": 170927,
       "name": "Caindo em si",
       "url": "https://open.spotify.com/track/2mcOLrlr3TRDZjwu6HGSyT"
-    },
-    {
-      "added_at": "2026-04-10 17:18:15",
-      "album": {
-        "name": "\u00c9 Sobre Ele (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0r2pTLmYNoveZOekuvFg15"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Gomes",
-          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
-        }
-      ],
-      "duration_ms": 354250,
-      "name": "A Melhor Parte - Ao Vivo",
-      "url": "https://open.spotify.com/track/4eEVADJvhubm7mSCAt9jz2"
     },
     {
       "added_at": "2026-04-10 17:18:15",
@@ -1899,38 +1899,6 @@
     {
       "added_at": "2026-04-10 17:18:15",
       "album": {
-        "name": "N\u00e3o \u00c9 o Fim da Hist\u00f3ria",
-        "url": "https://open.spotify.com/album/1h1axBoJHetIHgTIF2ikLw"
-      },
-      "artists": [
-        {
-          "name": "Leandro Soares",
-          "url": "https://open.spotify.com/artist/5QiowaqBJe5wxa8S1c2Xhr"
-        }
-      ],
-      "duration_ms": 218424,
-      "name": "N\u00e3o \u00c9 o Fim da Hist\u00f3ria",
-      "url": "https://open.spotify.com/track/5B6IQuwgmq1oVJksv0IUNQ"
-    },
-    {
-      "added_at": "2026-04-10 17:18:15",
-      "album": {
-        "name": "Respira Bem Fundo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/07wFnsSEJwOtpZauuTveti"
-      },
-      "artists": [
-        {
-          "name": "Leandro Borges",
-          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
-        }
-      ],
-      "duration_ms": 231730,
-      "name": "Respira Bem Fundo - Ao Vivo",
-      "url": "https://open.spotify.com/track/5Ym8ZEdJ4B6cbypqQYPcTG"
-    },
-    {
-      "added_at": "2026-04-10 17:18:15",
-      "album": {
         "name": "Camp Sessions Vol. 3",
         "url": "https://open.spotify.com/album/7oavgldYd6ckNT5P4w5g5r"
       },
@@ -1947,6 +1915,22 @@
       "duration_ms": 270652,
       "name": "Tu Sabes",
       "url": "https://open.spotify.com/track/6EG5Q3gj0WCukC7ePlOS4s"
+    },
+    {
+      "added_at": "2026-04-10 17:18:15",
+      "album": {
+        "name": "Respira Bem Fundo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/07wFnsSEJwOtpZauuTveti"
+      },
+      "artists": [
+        {
+          "name": "Leandro Borges",
+          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
+        }
+      ],
+      "duration_ms": 231730,
+      "name": "Respira Bem Fundo - Ao Vivo",
+      "url": "https://open.spotify.com/track/5Ym8ZEdJ4B6cbypqQYPcTG"
     },
     {
       "added_at": "2026-04-10 17:18:15",
@@ -1971,18 +1955,18 @@
     {
       "added_at": "2026-04-10 17:18:15",
       "album": {
-        "name": "Me Aceita de Volta",
-        "url": "https://open.spotify.com/album/40g7pZn4kFW3zyk7tQNWRs"
+        "name": "N\u00e3o \u00c9 o Fim da Hist\u00f3ria",
+        "url": "https://open.spotify.com/album/1h1axBoJHetIHgTIF2ikLw"
       },
       "artists": [
         {
-          "name": "Fernando Vinhote",
-          "url": "https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS"
+          "name": "Leandro Soares",
+          "url": "https://open.spotify.com/artist/5QiowaqBJe5wxa8S1c2Xhr"
         }
       ],
-      "duration_ms": 229947,
-      "name": "Me Aceita de Volta",
-      "url": "https://open.spotify.com/track/0rJAQc6vA1BSZmjvRk3B1W"
+      "duration_ms": 218424,
+      "name": "N\u00e3o \u00c9 o Fim da Hist\u00f3ria",
+      "url": "https://open.spotify.com/track/5B6IQuwgmq1oVJksv0IUNQ"
     },
     {
       "added_at": "2026-04-10 17:18:15",
@@ -1999,6 +1983,22 @@
       "duration_ms": 474701,
       "name": "Abre os Selos - Ao Vivo",
       "url": "https://open.spotify.com/track/2b0UBZsCXF1fsJ2tClZPdh"
+    },
+    {
+      "added_at": "2026-04-10 17:18:15",
+      "album": {
+        "name": "Me Aceita de Volta",
+        "url": "https://open.spotify.com/album/40g7pZn4kFW3zyk7tQNWRs"
+      },
+      "artists": [
+        {
+          "name": "Fernando Vinhote",
+          "url": "https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS"
+        }
+      ],
+      "duration_ms": 229947,
+      "name": "Me Aceita de Volta",
+      "url": "https://open.spotify.com/track/0rJAQc6vA1BSZmjvRk3B1W"
     },
     {
       "added_at": "2026-04-10 17:18:15",

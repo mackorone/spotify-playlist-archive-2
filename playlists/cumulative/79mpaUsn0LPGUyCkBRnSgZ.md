@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,251 songs - 3 day 9 hr 8 min
+1,253 songs - 3 day 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -699,6 +699,7 @@
 | [Mobius Streak](https://open.spotify.com/track/40l4Z2pYvnoXD2PTl3T26Z) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Tawk Tomahawk](https://open.spotify.com/album/3s7dB6EHrYkaWjzfVbZfCo) | 5:59 | 2023-12-31 |  |
 | [Mojo Pin](https://open.spotify.com/track/3wBy12K7BHKHJspUwJw8fq) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 5:42 | 2022-07-31 |  |
 | [Mood Ring](https://open.spotify.com/track/644FhkwUGzrUwTZKCU1GYS) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Haunted Mountain](https://open.spotify.com/album/0Dw5lEKTJgSULnuv7iYBKg) | 3:53 | 2025-09-09 |  |
+| [Moonlight](https://open.spotify.com/track/1qcJdr8TYuGjFhjRoYNC3e) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/5X7x18kW3mVIvnuNeedM6b) | 3:22 | 2026-10-12 |  |
 | [Moonshine](https://open.spotify.com/track/3ruBXwL19x2aqvwLPWZd5F) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Wasteland](https://open.spotify.com/album/6A6M2w1PVPOPY8Jp8aV0Ao) | 4:00 | 2023-07-08 | 2023-08-09 |
 | [Morbid Stuff](https://open.spotify.com/track/19Sozc70q82PgkezdFv80F) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [Morbid Stuff](https://open.spotify.com/album/5bVJC9KPcUvQPcibNpjAk9) | 2:44 | 2025-09-09 |  |
 | [More Today](https://open.spotify.com/track/6hmpvFKplIrMc7sySSl94Q) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Blue Reminder](https://open.spotify.com/album/7GeWoOysWD8oI0BdddsMxH) | 5:07 | 2025-09-08 |  |
@@ -862,6 +863,7 @@
 | [Race for the Prize \- 2017 Remaster](https://open.spotify.com/track/1RZlGlz8eXT1KmJYpqFRzH) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [The Soft Bulletin](https://open.spotify.com/album/1mJFgPeuLhU1PzLNBURdJC) | 4:18 | 2022-08-19 |  |
 | [Radio Free Europe](https://open.spotify.com/track/46dGFTD918NMz1IP1rPJXO) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Murmur](https://open.spotify.com/album/4Mw9Gcu1LT7JaipXdwrq1Q) | 4:05 | 2023-08-14 |  |
 | [Rain Dance](https://open.spotify.com/track/7vAuvUggnyjtuAu77pfapf) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Projector](https://open.spotify.com/album/1E094hHDWCHZqO1YVLIUmj) | 3:23 | 2024-01-15 | 2025-11-09 |
+| [raindrops \(an angel cried\)](https://open.spotify.com/track/0v2LUO8oTHnkjQ8MmKuXyk) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 0:37 | 2026-10-12 |  |
 | [Ramona Park Legend Pt\. 1](https://open.spotify.com/track/1wjyGxvNK5POKbIfNroB3E) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Summertime '06](https://open.spotify.com/album/4Csoz10NhNJOrCTUoPBdUD) | 0:36 | 2022-04-15 | 2024-03-19 |
 | [Ramona Reborn](https://open.spotify.com/track/4dMRURWuPZmjpAMeNqvUkt) | [Delicate Steve](https://open.spotify.com/artist/1bNgeTuV3MlkAq64Ybvcq5) | [Positive Force](https://open.spotify.com/album/2aZxhSUDHeE3tXSlWvao1w) | 3:09 | 2024-01-03 |  |
 | [Rang Tang Ring Toon](https://open.spotify.com/track/2HZRjBrPeo3HwyZVUZxK62) | [Mountain Man](https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm) | [Magic Ship](https://open.spotify.com/album/26ahuw4JsKSGyNN1PCZe83) | 3:29 | 2024-05-09 | 2024-05-10 |

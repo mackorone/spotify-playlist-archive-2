@@ -1,12 +1,12 @@
 {
   "description": "playlist spotify free",
-  "num_followers": 288,
+  "num_followers": 289,
   "original_name": "playlist spotify free",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAKeP2JNPDFy9Kwp0PcYUgEqs9bPnCF",
+  "snapshot_id": "AAAKfiKajB6GUxBk9Utlr43YBNWysKS8",
   "tracks": [
     {
       "added_at": "2026-05-07 07:57:17",
@@ -2919,22 +2919,6 @@
       "duration_ms": 249625,
       "name": "Dentro quell'ora",
       "url": "https://open.spotify.com/track/6J5X0qtjRQKgKCgcAPvuWU"
-    },
-    {
-      "added_at": "2025-09-15 07:39:55",
-      "album": {
-        "name": "Fall",
-        "url": "https://open.spotify.com/album/1zo8HY4BC5EjTymCkJ1vD4"
-      },
-      "artists": [
-        {
-          "name": "TailoredToTale",
-          "url": "https://open.spotify.com/artist/1KqRWLbTL5nyi9WzxSl4cv"
-        }
-      ],
-      "duration_ms": 211625,
-      "name": "Fall",
-      "url": "https://open.spotify.com/track/11IWTXz2DUUSJWC91x10gu"
     },
     {
       "added_at": "2025-09-15 07:37:51",
@@ -80331,6 +80315,90 @@
       "duration_ms": 182052,
       "name": "Obsession",
       "url": "https://open.spotify.com/track/0SAgfYEHKPEZBPLXV8S8Bs"
+    },
+    {
+      "added_at": "2026-10-12 11:10:58",
+      "album": {
+        "name": "Ain't no prophet",
+        "url": "https://open.spotify.com/album/63UKewywVeEyOuHS6bKTuH"
+      },
+      "artists": [
+        {
+          "name": "Uphoria",
+          "url": "https://open.spotify.com/artist/4VV955PUWxiXGLACeAVve1"
+        }
+      ],
+      "duration_ms": 301956,
+      "name": "Ain't no prophet",
+      "url": "https://open.spotify.com/track/6ZE56Hi2jI8QcsAqZbxoCY"
+    },
+    {
+      "added_at": "2026-10-12 18:43:10",
+      "album": {
+        "name": "X Plata",
+        "url": "https://open.spotify.com/album/2PaGccDLVJ1ZF3Vq7VWljk"
+      },
+      "artists": [
+        {
+          "name": "Mala Fama G",
+          "url": "https://open.spotify.com/artist/6CmxGetOUMaZvdL2QQeLRY"
+        },
+        {
+          "name": "Tre60 \"The Rookie\"",
+          "url": "https://open.spotify.com/artist/5xwdvA3lc7Q00PMrqLIjV6"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "X Plata",
+      "url": "https://open.spotify.com/track/2hsmD1g0NlRY6Q6zVkfeUQ"
+    },
+    {
+      "added_at": "2026-10-12 20:12:08",
+      "album": {
+        "name": "Echos from the mountains",
+        "url": "https://open.spotify.com/album/7IrOHvz02TtBycSBIUg0E7"
+      },
+      "artists": [
+        {
+          "name": "Ario Nanaj",
+          "url": "https://open.spotify.com/artist/3oxKAakkUQ02MoRb5Z6qrq"
+        }
+      ],
+      "duration_ms": 210131,
+      "name": "crossroads",
+      "url": "https://open.spotify.com/track/65P5pZNXqVElz1owJKiE1S"
+    },
+    {
+      "added_at": "2026-10-12 20:15:02",
+      "album": {
+        "name": "The Loop",
+        "url": "https://open.spotify.com/album/0Zvp9OI247cWcdcOr3zau1"
+      },
+      "artists": [
+        {
+          "name": "Chuck Charles",
+          "url": "https://open.spotify.com/artist/7nKrg3b8hWbGjW5AZcGWVI"
+        }
+      ],
+      "duration_ms": 210863,
+      "name": "The Loop",
+      "url": "https://open.spotify.com/track/1w61IX7YfpXAqDIAxZDcVF"
+    },
+    {
+      "added_at": "2026-10-12 20:31:48",
+      "album": {
+        "name": "Not Too Sweet",
+        "url": "https://open.spotify.com/album/3m9DNbsESe790WBdY7ybnC"
+      },
+      "artists": [
+        {
+          "name": "Zeike",
+          "url": "https://open.spotify.com/artist/6QgyxO2UBQAFRkUOwneJ7S"
+        }
+      ],
+      "duration_ms": 144504,
+      "name": "Basement Series",
+      "url": "https://open.spotify.com/track/3wMPh1kYr8Jx6sCuro6B8R"
     }
   ],
   "unique_name": "playlist spotify free",

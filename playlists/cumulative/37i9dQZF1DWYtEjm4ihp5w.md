@@ -4,7 +4,7 @@
 
 > Cover: Shaw
 
-563 songs - 1 day 5 hr 6 min
+564 songs - 1 day 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Casablanca](https://open.spotify.com/track/5rXsQFfmIDaUtRpyoPpxLM) | [Demi Portion](https://open.spotify.com/artist/3xQiLcsmj0KCiFtconY6Dz), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Casablanca](https://open.spotify.com/album/39TxiVIpZwVtntKtxdenwr) | 3:13 | 2022-11-14 | 2023-02-07 |
 | [Casadream](https://open.spotify.com/track/1o7QXcVqkza8Ssml6vbme0) | [Gustavo 51](https://open.spotify.com/artist/2rHNFU9YnHNRjqpcT6VxPY), [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX) | [Casadream](https://open.spotify.com/album/1ImQKybUH6thgYXNxKkxWV) | 4:15 | 2025-09-24 | 2025-11-22 |
 | [Casanightmare](https://open.spotify.com/track/65dVh1R2J7aoKTSJtIqzQV) | [Gustavo 51](https://open.spotify.com/artist/2rHNFU9YnHNRjqpcT6VxPY), [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX) | [Casanightmare](https://open.spotify.com/album/4LhaAJDLMifJOgHjwFMVf8) | 3:09 | 2026-08-25 |  |
+| [CESAR](https://open.spotify.com/track/4Re910e8EhQCrvUW7Yp9IC) | [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [OLYMPICS](https://open.spotify.com/album/4cpZ5lDJdxU4AxY9G42dp8) | 2:33 | 2026-10-12 |  |
 | [Chabiba](https://open.spotify.com/track/1BYBQKiPt5Nn2Qr9voSabo) | [Clemando](https://open.spotify.com/artist/2DosD7ocz68w23IdxfmtL3) | [Chabiba](https://open.spotify.com/album/6qQNLM5mRSFkjucuy8ghvn) | 2:28 | 2023-10-26 | 2023-11-16 |
 | [CHAINSOMNIA](https://open.spotify.com/track/2oHeNtYUMzxvNstwht8bri) | [Fat Mizzo](https://open.spotify.com/artist/4sGgnHfL5rjJqK5WxQl9bU) | [CHAINSOMNIA](https://open.spotify.com/album/04PJqCbNrq3miYRMclUjA9) | 2:48 | 2023-12-16 | 2024-05-26 |
 | [Chanel](https://open.spotify.com/track/3nkZHzCyxc1Eyg3L14Vb0m) | [LHAJ](https://open.spotify.com/artist/1Rn9VGYBgWB83nWmPAU0I7), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [Chanel](https://open.spotify.com/album/2RSrMxoMzrWtjFl7BWBSm2) | 2:02 | 2024-02-23 | 2024-04-08 |
@@ -210,7 +211,7 @@
 | [GOD DAYM](https://open.spotify.com/track/3Pd9OfLtlGKdXVgXHO6ldN) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [SPLIT](https://open.spotify.com/album/0v2yXgpOX31IRK27a8dcq3) | 2:28 | 2026-03-27 | 2026-06-10 |
 | [Gova](https://open.spotify.com/track/2poCHmrHxB704EPoQ1GdcU) | [Marouane](https://open.spotify.com/artist/0NOPgjB8SLX44CDPTaW0Be), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Gova](https://open.spotify.com/album/1eSWpdKHSupOJeAtTGKUul) | 3:42 | 2022-11-14 | 2023-04-09 |
 | [Gueule tapée](https://open.spotify.com/track/6h8Q07MtQBabHOjObg1a57) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Gueule tapée](https://open.spotify.com/album/1yfFlOQRzc88m1ba79InmM) | 3:26 | 2022-11-14 | 2023-06-23 |
-| [GUNMAN DANCING](https://open.spotify.com/track/4xL6sQfq51rK7cvB587HmD) | [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [OLYMPICS](https://open.spotify.com/album/4cpZ5lDJdxU4AxY9G42dp8) | 2:48 | 2026-09-24 |  |
+| [GUNMAN DANCING](https://open.spotify.com/track/4xL6sQfq51rK7cvB587HmD) | [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [OLYMPICS](https://open.spotify.com/album/4cpZ5lDJdxU4AxY9G42dp8) | 2:48 | 2026-09-24 | 2026-10-13 |
 | [GWB](https://open.spotify.com/track/45RMPbRapeirTpV8zieyi4) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [GWB](https://open.spotify.com/album/6VbDuASVTNy2eapQPqQsgm) | 2:29 | 2025-06-20 | 2025-07-04 |
 | [Habitus](https://open.spotify.com/track/0iwBCDnJ3x6OJFgemAm0Q4) | [PAUSE](https://open.spotify.com/artist/0QO3bJ9BmI5WUKG6CSLtJE) | [Habitus](https://open.spotify.com/album/3fbU0kIj3aAD06b9P7qwbK) | 2:53 | 2023-07-11 | 2023-07-23 |
 | [HABITUS](https://open.spotify.com/track/0ZxZXNK4vC6WFitavjSKYT) | [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5) | [HABITUS](https://open.spotify.com/album/49JVpdUTrQcenJDv5cakM9) | 3:00 | 2023-07-20 | 2023-10-20 |

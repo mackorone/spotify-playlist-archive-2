@@ -6660,10 +6660,28 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 199920,
       "name": "N\u00e5r sol\u00e5 g\u00e5r ned",
       "url": "https://open.spotify.com/track/4AqDTmKxJMMAOsNhhKVI5V"
+    },
+    {
+      "album": {
+        "name": "F\u00f8r du g\u00e5r",
+        "url": "https://open.spotify.com/album/3ESeJbRLVfkCkQRCHo2Za2"
+      },
+      "artists": [
+        {
+          "name": "Odd Nordstoga",
+          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276493,
+      "name": "N\u00e5r t\u00e5rer fell",
+      "url": "https://open.spotify.com/track/3INwh9Vs7vPkqs5UVQFgBE"
     },
     {
       "album": {

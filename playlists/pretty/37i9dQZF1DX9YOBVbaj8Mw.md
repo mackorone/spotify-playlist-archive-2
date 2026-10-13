@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Posłuchaj zwycięzców i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,407 likes - 79 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,404 likes - 79 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,10 +33,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 23 | [PÓŁNOC / POŁUDNIE](https://open.spotify.com/track/4QTSoHVlCjAp0DWUYUZ3Ok) | [Quebonafide](https://open.spotify.com/artist/1fxbULcd6ryMNc1usHoP0R), [JIMEK](https://open.spotify.com/artist/0ij2PQYebfZF0UuitRTeyh) | [PÓŁNOC / POŁUDNIE](https://open.spotify.com/album/4qVRuXfOjrafPOOUSnGmL1) | 5:01 |
 | 24 | [tom i jerry](https://open.spotify.com/track/5Ce7f1EBFE7QNZ9XaEYj5W) | [Kosma Król](https://open.spotify.com/artist/4F3X9OYQhZkUfaniE6u3NI), [Kepler](https://open.spotify.com/artist/7ycDermclPImSqRTxzpHn2), [Kania](https://open.spotify.com/artist/3MetjMHjReEw9IZKH3m7zq) | [POLOT](https://open.spotify.com/album/3kufOEFkqCrE0lMaDTasjR) | 2:36 |
 | 25 | [Himalaje](https://open.spotify.com/track/3VVkjA4KTxFjCTr7PyaY5C) | [Mela Koteluk](https://open.spotify.com/artist/5GTjrNnnlOPxOgi3JAW2Eq) | [Harmonia](https://open.spotify.com/album/42CNwNbrwex67xNAmR3yWV) | 3:27 |
-| 26 | [Na drodze do wspomnień](https://open.spotify.com/track/4jbwoNOFu6EvL6DMRK2eve) | [Kuba Badach](https://open.spotify.com/artist/5370ZRL4QLnYElDr8sjDzC) | [Radio Edit](https://open.spotify.com/album/1jQ2hZKn5vxyIbyzPvOmBC) | 3:29 |
+| 26 | [Motyle](https://open.spotify.com/track/4Yaz1ROIB410KmtOrvXlWY) | [Lady Pank](https://open.spotify.com/artist/0PkkQfDUJZuR2PcQ6uEV8j) | [45](https://open.spotify.com/album/4lG4wogGTP6bNbi5MU2Xoq) | 3:22 |
 | 27 | [MOJA WINA](https://open.spotify.com/track/117KifGYCTOCz3lFev5urW) | [Kacperczyk](https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X), [Kukon](https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD), [ZORZA](https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX) | [MOJA WINA](https://open.spotify.com/album/7sVLTQs9bdJEurrnUKYjvY) | 2:48 |
-| 28 | [Motyle](https://open.spotify.com/track/4Yaz1ROIB410KmtOrvXlWY) | [Lady Pank](https://open.spotify.com/artist/0PkkQfDUJZuR2PcQ6uEV8j) | [45](https://open.spotify.com/album/4lG4wogGTP6bNbi5MU2Xoq) | 3:22 |
-| 29 | [Niemoc](https://open.spotify.com/track/1KMrGfMA3vxGaI2UUKjBbl) | [Fisz Emade Tworzywo](https://open.spotify.com/artist/0YYxsW13yGiA2e80fu4VIA) | [25](https://open.spotify.com/album/0xjzc4iCVMxVPE5584fUhW) | 3:52 |
+| 28 | [Niemoc](https://open.spotify.com/track/1KMrGfMA3vxGaI2UUKjBbl) | [Fisz Emade Tworzywo](https://open.spotify.com/artist/0YYxsW13yGiA2e80fu4VIA) | [25](https://open.spotify.com/album/0xjzc4iCVMxVPE5584fUhW) | 3:52 |
+| 29 | [Na drodze do wspomnień](https://open.spotify.com/track/4jbwoNOFu6EvL6DMRK2eve) | [Kuba Badach](https://open.spotify.com/artist/5370ZRL4QLnYElDr8sjDzC) | [Radio Edit](https://open.spotify.com/album/1jQ2hZKn5vxyIbyzPvOmBC) | 3:29 |
 | 30 | [Dni, które przed nami](https://open.spotify.com/track/3qmIGvh3yQHnBzNaG2Wb9M) | [Wiraszko](https://open.spotify.com/artist/0H3VxOYCzs8tbva6JtyTJu) | [Tak młodo się nie spotkamy](https://open.spotify.com/album/57tNR0XV962YDMH8ZDXStm) | 6:17 |
 | 31 | [SAM](https://open.spotify.com/track/59QcLK3VRrBSUcEhpICVHQ) | [O.S.T.R.](https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv) | [404](https://open.spotify.com/album/1QGA9rHIYcH3Da9bIsSxSc) | 3:17 |
 | 32 | [Ramen](https://open.spotify.com/track/1fWiLeqoyGNpm1IiMv4sMt) | [Natalia Przybysz](https://open.spotify.com/artist/03KLzHVK6la8dVop1iVI5x), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F), [Zagorski](https://open.spotify.com/artist/1HeMjOGamilY6kKP2vohac), [Wa$kiewicH](https://open.spotify.com/artist/4FJ4FKoryndsLF8rCJ1qDI) | [Ramen](https://open.spotify.com/album/6HSD328wfB8GSsIOGoSrcC) | 3:57 |
@@ -86,6 +86,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 76 | [Dawno I Nieprawda](https://open.spotify.com/track/0FMtDM8wYBLsbtknqqAClY) | [Karolina Błachnia](https://open.spotify.com/artist/1xUsokZJfAI3eZtjjuKhtX) | [Wschód](https://open.spotify.com/album/2px8SaiCc5Ah5jefyoRc92) | 7:50 |
 | 77 | [Etiuda f\-moll z Trois Nouvelles Études nr 1 Dbop\. 36A](https://open.spotify.com/track/0j3xAlkbbM0ZTgBm8yYLeK) | [LIS](https://open.spotify.com/artist/2GUiiK3uiO9aRJbWkCOGju), [Zuzanna Malisz](https://open.spotify.com/artist/4jsgm84uldfJKyy0lSOF3A) | [Fryderyk LIS](https://open.spotify.com/album/1SfN921eAsd9laV3u0PX71) | 4:11 |
 | 78 | [number 4](https://open.spotify.com/track/4ibIVReoP9Kv7EOLKiSato) | [Aga Derlak](https://open.spotify.com/artist/4HF1r8SlGoxntonU0hlk6l) | [neurodivergent](https://open.spotify.com/album/6gBwZZvR34WXlnP8j0yebu) | 3:09 |
-| 79 | [Give It a Rest](https://open.spotify.com/track/1z2mOmCdvmLRkdBpj5QWVZ) | [Alan Balcerowski Quintet](https://open.spotify.com/artist/3HaJFX15XfR5A076i6H2ug) | [Looking Ahead](https://open.spotify.com/album/60txM9aYiGsMyhNvIIOdB9) | 7:06 |
+| 79 | [Through The Hourglass](https://open.spotify.com/track/1qK1QaIsVwDGtpoEZO1nku) | [Grzegorz Masłowski](https://open.spotify.com/artist/0Niiwq7pOtjOiLHWgazzFf), [Marcin Kaletka](https://open.spotify.com/artist/3Nt9qGuEE62mfXix1olw8T), [Jarosław Bothur](https://open.spotify.com/artist/27py90o2nVmbxES4ZRD0G0), [Mateusz Pałka](https://open.spotify.com/artist/6xP0Vou9vkHkmiblCpoLgo), [Piotr Południak](https://open.spotify.com/artist/5crOp7ea1g8f6YHiqzL8UH) | [Through The Hourglass \(Acoustic\)](https://open.spotify.com/album/776qd7dIOzM2n4x9jO6IqE) | 9:10 |
 
 Snapshot ID: `AAAAAAzY2L6gPrIUQEGdRg64FdD+GxpO`

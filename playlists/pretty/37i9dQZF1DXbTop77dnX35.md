@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from FOLA, Gunna, Phyno, Wave$tar, Kashcoming, Bien and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,007 likes - 57 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,060 likes - 57 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 11 | [Sisyphus](https://open.spotify.com/track/5sa2fKOw0V3k6KZVDMJiyz) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Imagine Sisyphus Obedient](https://open.spotify.com/album/4TSU1uPanNTx6zzc0MQNw8) | 2:59 |
 | 12 | [Uwese \(feat\. Oxlade\)](https://open.spotify.com/track/6LjhNdD7XDi3deb1gGx552) | [KOHDEE](https://open.spotify.com/artist/4VAE2wGIfC4WMTh6N3mm7M), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [THE KOHDEX](https://open.spotify.com/album/298p6WboOSnrcVLbXMRqRl) | 2:41 |
 | 13 | [What A Feeling](https://open.spotify.com/track/0zUzki4TULK7JUbWf2ILwV) | [Moonshine](https://open.spotify.com/artist/3t66HrWji19Ey3uJE2DSyC), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [What A Feeling](https://open.spotify.com/album/233CXYAN2uRStnzufNSzHm) | 2:35 |
-| 14 | [Dad & Dot](https://open.spotify.com/track/49fgTlPlnNrXBis9698zcg) | [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [Cynthia Ifie](https://open.spotify.com/artist/5XiICdmxrEVb3EjVW79h8F) | [Dad & Dot](https://open.spotify.com/album/3Cux3fOA5vgwzAFkK4UhmS) | 3:50 |
+| 14 | [Dad & Dot](https://open.spotify.com/track/49fgTlPlnNrXBis9698zcg) | [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [Cynthia Ifie](https://open.spotify.com/artist/0TfdHdpes90WM7OnRPwYFc) | [Dad & Dot](https://open.spotify.com/album/3Cux3fOA5vgwzAFkK4UhmS) | 3:50 |
 | 15 | [Settings](https://open.spotify.com/track/3ixN2tpb37RJ4ADQN3M48Z) | [Zoro Swagbag](https://open.spotify.com/artist/3S3T7zQ5vPdxH6vvh4ipxm) | [Settings](https://open.spotify.com/album/7iQ6vYFfenGmDqBc0VSFnj) | 3:09 |
 | 16 | [put b0dy \- Remix](https://open.spotify.com/track/0WmEJEb1jsJucouKoitPwK) | [Zen Univrse](https://open.spotify.com/artist/5CSSzEHLGMcRVwq340BpHl), [R33NZO](https://open.spotify.com/artist/2w34rjWGumCU3vOiCVd3J6), [Thajuice](https://open.spotify.com/artist/67UKwIMPZTYkNeRNTXYwaG) | [put b0dy \(Remix\)](https://open.spotify.com/album/2yjbK9Kojv3jxbk4b5fw0r) | 1:32 |
 | 17 | [SPIRITUAL, pt\. i](https://open.spotify.com/track/2cMOuiaTW7vOT1FXLUTy8B) | [King Dr\. Saheed Osupa](https://open.spotify.com/artist/44bzPvFDA5djUYE6cvumyu) | [SPIRITUAL](https://open.spotify.com/album/5vwo8aGGbeMbvGjSp0ok6W) | 13:40 |

@@ -1,6 +1,6 @@
 {
   "description": "If you're blessed!",
-  "num_followers": 22155,
+  "num_followers": 22161,
   "original_name": "Blessed",
   "owner": {
     "name": "Spotify",
@@ -409,24 +409,28 @@
       "url": "https://open.spotify.com/track/4cOdaT4uVp3xzVqF9l3Xx0"
     },
     {
-      "added_at": "2026-01-30 00:01:25",
+      "added_at": "2026-08-28 00:01:38",
       "album": {
-        "name": "God, In all Seasons",
-        "url": "https://open.spotify.com/album/755o89dLMkJLE3OR4T8GOc"
+        "name": "FAVOUR",
+        "url": "https://open.spotify.com/album/1wTcgfvbZAABUaM7pytnq5"
       },
       "artists": [
         {
-          "name": "Yadah",
-          "url": "https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q"
+          "name": "Daniel Mylez",
+          "url": "https://open.spotify.com/artist/3PoZsBUVUU8Veps0p9dabE"
         },
         {
-          "name": "Ada Ehi",
-          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+          "name": "Festizie",
+          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
+        },
+        {
+          "name": "Protek Illasheva",
+          "url": "https://open.spotify.com/artist/5E8DCdcnM0P7tHQP9CjXcP"
         }
       ],
-      "duration_ms": 237913,
-      "name": "Boku",
-      "url": "https://open.spotify.com/track/3EX183tnITp6RMePnXFAfl"
+      "duration_ms": 242285,
+      "name": "FAVOUR",
+      "url": "https://open.spotify.com/track/2A5T6u23iRWLAB9pmDONkX"
     },
     {
       "added_at": "2025-01-31 00:01:08",
@@ -469,48 +473,24 @@
       "url": "https://open.spotify.com/track/5WDbJHOq4PksAQVxQbWEQV"
     },
     {
-      "added_at": "2026-08-28 00:01:38",
+      "added_at": "2026-01-30 00:01:25",
       "album": {
-        "name": "FAVOUR",
-        "url": "https://open.spotify.com/album/1wTcgfvbZAABUaM7pytnq5"
+        "name": "God, In all Seasons",
+        "url": "https://open.spotify.com/album/755o89dLMkJLE3OR4T8GOc"
       },
       "artists": [
         {
-          "name": "Daniel Mylez",
-          "url": "https://open.spotify.com/artist/3PoZsBUVUU8Veps0p9dabE"
+          "name": "Yadah",
+          "url": "https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q"
         },
         {
-          "name": "Festizie",
-          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
-        },
-        {
-          "name": "Protek Illasheva",
-          "url": "https://open.spotify.com/artist/5E8DCdcnM0P7tHQP9CjXcP"
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
         }
       ],
-      "duration_ms": 242285,
-      "name": "FAVOUR",
-      "url": "https://open.spotify.com/track/2A5T6u23iRWLAB9pmDONkX"
-    },
-    {
-      "added_at": "2026-07-17 00:01:08",
-      "album": {
-        "name": "Yours Truly",
-        "url": "https://open.spotify.com/album/46UJrtPx6i6Xia26H4aER2"
-      },
-      "artists": [
-        {
-          "name": "Saelem",
-          "url": "https://open.spotify.com/artist/78bIYHmB39w825leFgF6Wb"
-        },
-        {
-          "name": "Ugoaelo",
-          "url": "https://open.spotify.com/artist/4q4QPKG2CblSLln7Eb3XKT"
-        }
-      ],
-      "duration_ms": 173153,
-      "name": "Yours Truly",
-      "url": "https://open.spotify.com/track/47EuJYd1DTp6osZcwsTT13"
+      "duration_ms": 237913,
+      "name": "Boku",
+      "url": "https://open.spotify.com/track/3EX183tnITp6RMePnXFAfl"
     },
     {
       "added_at": "2025-02-14 00:01:09",
@@ -543,6 +523,26 @@
       "duration_ms": 362553,
       "name": "I Testify",
       "url": "https://open.spotify.com/track/25WsThhuvxiv7i2G0qMv0h"
+    },
+    {
+      "added_at": "2026-07-17 00:01:08",
+      "album": {
+        "name": "Yours Truly",
+        "url": "https://open.spotify.com/album/46UJrtPx6i6Xia26H4aER2"
+      },
+      "artists": [
+        {
+          "name": "Saelem",
+          "url": "https://open.spotify.com/artist/78bIYHmB39w825leFgF6Wb"
+        },
+        {
+          "name": "Ugoaelo",
+          "url": "https://open.spotify.com/artist/4q4QPKG2CblSLln7Eb3XKT"
+        }
+      ],
+      "duration_ms": 173153,
+      "name": "Yours Truly",
+      "url": "https://open.spotify.com/track/47EuJYd1DTp6osZcwsTT13"
     },
     {
       "added_at": "2025-03-14 00:01:27",
@@ -749,22 +749,6 @@
       "url": "https://open.spotify.com/track/38Bc8Z1AFPpUoWnolmwi7Y"
     },
     {
-      "added_at": "2026-04-03 00:01:46",
-      "album": {
-        "name": "Yeshua!",
-        "url": "https://open.spotify.com/album/6f1T835QYYd56uvPFg2gj8"
-      },
-      "artists": [
-        {
-          "name": "Vic Lucas",
-          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
-        }
-      ],
-      "duration_ms": 220766,
-      "name": "Yeshua!",
-      "url": "https://open.spotify.com/track/1j9kTaj53ZnU2JOXPbgGhN"
-    },
-    {
       "added_at": "2026-05-15 00:01:23",
       "album": {
         "name": "Aanu Ni",
@@ -781,6 +765,22 @@
       "url": "https://open.spotify.com/track/7c8gwEfww1T0J2OHyugiAt"
     },
     {
+      "added_at": "2026-04-03 00:01:46",
+      "album": {
+        "name": "Yeshua!",
+        "url": "https://open.spotify.com/album/6f1T835QYYd56uvPFg2gj8"
+      },
+      "artists": [
+        {
+          "name": "Vic Lucas",
+          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
+        }
+      ],
+      "duration_ms": 220766,
+      "name": "Yeshua!",
+      "url": "https://open.spotify.com/track/1j9kTaj53ZnU2JOXPbgGhN"
+    },
+    {
       "added_at": "2026-05-22 00:01:37",
       "album": {
         "name": "Want to Grow",
@@ -795,6 +795,22 @@
       "duration_ms": 189557,
       "name": "Want to Grow",
       "url": "https://open.spotify.com/track/53y4ULVul9iY3XnUx5720J"
+    },
+    {
+      "added_at": "2026-08-21 00:01:32",
+      "album": {
+        "name": "Reign Jesus",
+        "url": "https://open.spotify.com/album/4vsstCcMsyok7uakh0qBs1"
+      },
+      "artists": [
+        {
+          "name": "Evans Ighodalo",
+          "url": "https://open.spotify.com/artist/0g3JSjP5xE0ljj4TmNv6Av"
+        }
+      ],
+      "duration_ms": 186318,
+      "name": "Reign Jesus",
+      "url": "https://open.spotify.com/track/4QHPE3bbVO88z8hVlezd0f"
     },
     {
       "added_at": "2026-07-31 00:01:30",
@@ -815,22 +831,6 @@
       "duration_ms": 243692,
       "name": "This Joy",
       "url": "https://open.spotify.com/track/072Sq0ueJbKXahJvg21OC8"
-    },
-    {
-      "added_at": "2026-08-21 00:01:32",
-      "album": {
-        "name": "Reign Jesus",
-        "url": "https://open.spotify.com/album/4vsstCcMsyok7uakh0qBs1"
-      },
-      "artists": [
-        {
-          "name": "Evans Ighodalo",
-          "url": "https://open.spotify.com/artist/0g3JSjP5xE0ljj4TmNv6Av"
-        }
-      ],
-      "duration_ms": 186318,
-      "name": "Reign Jesus",
-      "url": "https://open.spotify.com/track/4QHPE3bbVO88z8hVlezd0f"
     },
     {
       "added_at": "2024-09-30 14:25:52",
@@ -863,6 +863,22 @@
       "duration_ms": 267551,
       "name": "Nothing Spoils in my Hand",
       "url": "https://open.spotify.com/track/2XqCY3rGj9lQtfghvaucTT"
+    },
+    {
+      "added_at": "2026-10-09 00:01:36",
+      "album": {
+        "name": "No Other Saviour",
+        "url": "https://open.spotify.com/album/3gczJFglRLc8S2VALfEwIe"
+      },
+      "artists": [
+        {
+          "name": "Minister GUC",
+          "url": "https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL"
+        }
+      ],
+      "duration_ms": 1026979,
+      "name": "No Other Saviour",
+      "url": "https://open.spotify.com/track/4aBITS0tTpnPkCjH5dVgPI"
     },
     {
       "added_at": "2026-01-23 00:01:16",
@@ -901,20 +917,36 @@
       "url": "https://open.spotify.com/track/4dlkdZmcHiNQwyg248UXH0"
     },
     {
-      "added_at": "2026-10-09 00:01:36",
+      "added_at": "2026-10-02 00:01:17",
       "album": {
-        "name": "No Other Saviour",
-        "url": "https://open.spotify.com/album/3gczJFglRLc8S2VALfEwIe"
+        "name": "Hollow of Your Hands",
+        "url": "https://open.spotify.com/album/1WxjNXWW9tcct8k9Z07GIK"
       },
       "artists": [
         {
-          "name": "Minister GUC",
-          "url": "https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL"
+          "name": "Moses Akoh",
+          "url": "https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT"
         }
       ],
-      "duration_ms": 1026979,
-      "name": "No Other Saviour",
-      "url": "https://open.spotify.com/track/4aBITS0tTpnPkCjH5dVgPI"
+      "duration_ms": 277000,
+      "name": "Hollow of Your Hands",
+      "url": "https://open.spotify.com/track/0qNXioiAXhoRi5IuCBSRGN"
+    },
+    {
+      "added_at": "2026-08-14 00:01:28",
+      "album": {
+        "name": "God Is Cooking",
+        "url": "https://open.spotify.com/album/21HHlmaDOJOMSpAU4kxwZL"
+      },
+      "artists": [
+        {
+          "name": "Gaise Baba",
+          "url": "https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "Oruko",
+      "url": "https://open.spotify.com/track/3pKSt41GhJwhCn5JFIeEcf"
     },
     {
       "added_at": "2026-05-01 00:02:08",
@@ -939,38 +971,6 @@
       "duration_ms": 221874,
       "name": "Will Be Done",
       "url": "https://open.spotify.com/track/0xgqTe1zh9FZa1x8zpvs9H"
-    },
-    {
-      "added_at": "2026-08-14 00:01:28",
-      "album": {
-        "name": "God Is Cooking",
-        "url": "https://open.spotify.com/album/21HHlmaDOJOMSpAU4kxwZL"
-      },
-      "artists": [
-        {
-          "name": "Gaise Baba",
-          "url": "https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "Oruko",
-      "url": "https://open.spotify.com/track/3pKSt41GhJwhCn5JFIeEcf"
-    },
-    {
-      "added_at": "2026-10-02 00:01:17",
-      "album": {
-        "name": "Hollow of Your Hands",
-        "url": "https://open.spotify.com/album/1WxjNXWW9tcct8k9Z07GIK"
-      },
-      "artists": [
-        {
-          "name": "Moses Akoh",
-          "url": "https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT"
-        }
-      ],
-      "duration_ms": 277000,
-      "name": "Hollow of Your Hands",
-      "url": "https://open.spotify.com/track/0qNXioiAXhoRi5IuCBSRGN"
     },
     {
       "added_at": "2026-08-14 00:01:28",
@@ -1089,22 +1089,6 @@
       "url": "https://open.spotify.com/track/4LGVb3Rhr5zQGtH3xWwjzm"
     },
     {
-      "added_at": "2026-06-26 00:01:41",
-      "album": {
-        "name": "Breakthrough",
-        "url": "https://open.spotify.com/album/5Uubczhxq1GTQqGbz6SivQ"
-      },
-      "artists": [
-        {
-          "name": "No\u00ebl Mio",
-          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Breakthrough",
-      "url": "https://open.spotify.com/track/2IKGA1CxxaDvYkdowBCvbN"
-    },
-    {
       "added_at": "2026-10-02 00:01:17",
       "album": {
         "name": "When I Walk (Psalm 23) [World Version]",
@@ -1123,6 +1107,22 @@
       "duration_ms": 222162,
       "name": "When I Walk (Psalm 23) - World Version",
       "url": "https://open.spotify.com/track/5qN1eGLDxoLPxp2TQGDGmA"
+    },
+    {
+      "added_at": "2026-06-26 00:01:41",
+      "album": {
+        "name": "Breakthrough",
+        "url": "https://open.spotify.com/album/5Uubczhxq1GTQqGbz6SivQ"
+      },
+      "artists": [
+        {
+          "name": "No\u00ebl Mio",
+          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Breakthrough",
+      "url": "https://open.spotify.com/track/2IKGA1CxxaDvYkdowBCvbN"
     },
     {
       "added_at": "2025-12-05 00:01:10",
@@ -1229,26 +1229,6 @@
       "url": "https://open.spotify.com/track/5v8dMFDfK1i9ssKKfWJNCD"
     },
     {
-      "added_at": "2026-02-20 00:01:25",
-      "album": {
-        "name": "Your Love II",
-        "url": "https://open.spotify.com/album/1y8ooTIE4Yld3QGMjReUwk"
-      },
-      "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        },
-        {
-          "name": "Soweto Gospel Choir",
-          "url": "https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl"
-        }
-      ],
-      "duration_ms": 220235,
-      "name": "Your Love II",
-      "url": "https://open.spotify.com/track/1sc1pQKdOvTJfNAcqci9Xv"
-    },
-    {
       "added_at": "2026-05-15 00:01:23",
       "album": {
         "name": "Ifunanya",
@@ -1271,6 +1251,26 @@
     {
       "added_at": "2026-02-20 00:01:25",
       "album": {
+        "name": "Your Love II",
+        "url": "https://open.spotify.com/album/1y8ooTIE4Yld3QGMjReUwk"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
+        {
+          "name": "Soweto Gospel Choir",
+          "url": "https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl"
+        }
+      ],
+      "duration_ms": 220235,
+      "name": "Your Love II",
+      "url": "https://open.spotify.com/track/1sc1pQKdOvTJfNAcqci9Xv"
+    },
+    {
+      "added_at": "2026-02-20 00:01:25",
+      "album": {
         "name": "You Are There",
         "url": "https://open.spotify.com/album/0rFk98XNaIJkoPATUDYCjm"
       },
@@ -1287,22 +1287,6 @@
       "duration_ms": 381970,
       "name": "You Are There",
       "url": "https://open.spotify.com/track/3EAHBjhFMwuIdAS5FodQTF"
-    },
-    {
-      "added_at": "2026-08-14 00:01:28",
-      "album": {
-        "name": "The Address",
-        "url": "https://open.spotify.com/album/4F7TGXjAeJtpyiOxQuI5Sl"
-      },
-      "artists": [
-        {
-          "name": "Chris Morgan",
-          "url": "https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM"
-        }
-      ],
-      "duration_ms": 223966,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/1SPeUtWyImKQQ8LyeXEKI2"
     },
     {
       "added_at": "2026-03-27 00:01:13",
@@ -1323,6 +1307,22 @@
       "duration_ms": 204036,
       "name": "Impossibility Shatterer",
       "url": "https://open.spotify.com/track/4NCR1DUnHd1HHrCRfJu68P"
+    },
+    {
+      "added_at": "2026-08-14 00:01:28",
+      "album": {
+        "name": "The Address",
+        "url": "https://open.spotify.com/album/4F7TGXjAeJtpyiOxQuI5Sl"
+      },
+      "artists": [
+        {
+          "name": "Chris Morgan",
+          "url": "https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM"
+        }
+      ],
+      "duration_ms": 223966,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/1SPeUtWyImKQQ8LyeXEKI2"
     },
     {
       "added_at": "2026-08-28 00:01:38",
@@ -1361,26 +1361,6 @@
       "url": "https://open.spotify.com/track/5my8ScRHzur1cdz2dnnZqL"
     },
     {
-      "added_at": "2026-08-21 00:01:32",
-      "album": {
-        "name": "I Dey Grateful",
-        "url": "https://open.spotify.com/album/6eq6DuwWtkH3H6YfW6wkcu"
-      },
-      "artists": [
-        {
-          "name": "Lyrical HI",
-          "url": "https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU"
-        },
-        {
-          "name": "SteveHills",
-          "url": "https://open.spotify.com/artist/6EaWQoRFKjzdn9YzlDO89M"
-        }
-      ],
-      "duration_ms": 173676,
-      "name": "I Dey Grateful",
-      "url": "https://open.spotify.com/track/5far3Cb0Y4LPy0AnWk7Uwh"
-    },
-    {
       "added_at": "2026-09-18 00:01:36",
       "album": {
         "name": "Riverside",
@@ -1403,6 +1383,26 @@
       "duration_ms": 193658,
       "name": "Riverside",
       "url": "https://open.spotify.com/track/3mr4ss6jZzRWRgQoSRNUSf"
+    },
+    {
+      "added_at": "2026-08-21 00:01:32",
+      "album": {
+        "name": "I Dey Grateful",
+        "url": "https://open.spotify.com/album/6eq6DuwWtkH3H6YfW6wkcu"
+      },
+      "artists": [
+        {
+          "name": "Lyrical HI",
+          "url": "https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU"
+        },
+        {
+          "name": "SteveHills",
+          "url": "https://open.spotify.com/artist/6EaWQoRFKjzdn9YzlDO89M"
+        }
+      ],
+      "duration_ms": 173676,
+      "name": "I Dey Grateful",
+      "url": "https://open.spotify.com/track/5far3Cb0Y4LPy0AnWk7Uwh"
     },
     {
       "added_at": "2026-09-18 00:01:36",
@@ -1457,22 +1457,6 @@
       "url": "https://open.spotify.com/track/4PH7CkhsXd4hlc1iTnUV4p"
     },
     {
-      "added_at": "2026-09-11 00:01:55",
-      "album": {
-        "name": "Gata 2 (Gospel According to Amapiano)",
-        "url": "https://open.spotify.com/album/7f3AFQFqN86wyR3wW057Rp"
-      },
-      "artists": [
-        {
-          "name": "Pastor Courage",
-          "url": "https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "I Am Blessed - Amapiano",
-      "url": "https://open.spotify.com/track/4DleBkMi8V323WLZE9KQt3"
-    },
-    {
       "added_at": "2026-03-06 00:01:07",
       "album": {
         "name": "Overflow",
@@ -1491,6 +1475,42 @@
       "duration_ms": 130285,
       "name": "Overflow",
       "url": "https://open.spotify.com/track/3tlvLZKwCJ5OHGqnWzroLt"
+    },
+    {
+      "added_at": "2026-09-11 00:01:55",
+      "album": {
+        "name": "Gata 2 (Gospel According to Amapiano)",
+        "url": "https://open.spotify.com/album/7f3AFQFqN86wyR3wW057Rp"
+      },
+      "artists": [
+        {
+          "name": "Pastor Courage",
+          "url": "https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "I Am Blessed - Amapiano",
+      "url": "https://open.spotify.com/track/4DleBkMi8V323WLZE9KQt3"
+    },
+    {
+      "added_at": "2026-10-02 00:01:17",
+      "album": {
+        "name": "MY LOVE",
+        "url": "https://open.spotify.com/album/0qlVGbPbFM5vQzNPM0dRjz"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Ahonen",
+          "url": "https://open.spotify.com/artist/2qDngxRoJC05fBkcOhDyq9"
+        },
+        {
+          "name": "Tkeyz",
+          "url": "https://open.spotify.com/artist/6MRNiMCUDv9mDmMcaXhjgI"
+        }
+      ],
+      "duration_ms": 181232,
+      "name": "MY LOVE",
+      "url": "https://open.spotify.com/track/4VCD1SsPXnWv7B8e9Bv7TT"
     },
     {
       "added_at": "2026-06-19 00:01:33",
@@ -1519,22 +1539,6 @@
       "duration_ms": 199023,
       "name": "Titilailai II",
       "url": "https://open.spotify.com/track/1rg8E4pDltX9oZXAC2mR0r"
-    },
-    {
-      "added_at": "2026-07-24 00:01:56",
-      "album": {
-        "name": "AGABA",
-        "url": "https://open.spotify.com/album/4VfMu1gbyTQEBuqLgOLKLT"
-      },
-      "artists": [
-        {
-          "name": "Blessing Lopez",
-          "url": "https://open.spotify.com/artist/3311Wqrg5A5Zji9GUitIHd"
-        }
-      ],
-      "duration_ms": 163215,
-      "name": "AGABA",
-      "url": "https://open.spotify.com/track/2CljurYlwVbQ2qMtrY2Pys"
     }
   ],
   "unique_name": "Blessed",

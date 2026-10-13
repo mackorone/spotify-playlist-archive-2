@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 
 > aquí está la nueva ola 🌊  RIVVAA en cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,176 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,167 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 | 17 | [SALIR A BUSCARTE](https://open.spotify.com/track/5vVbHTEphWiFwPpalQ0OIx) | [DABUDABU](https://open.spotify.com/artist/0qnGXnvr3l0CzZ7p61fQ2U), [Sullen](https://open.spotify.com/artist/6U4Xuc6Hoa8FfBAWcwGYh9) | [SALIR A BUSCARTE](https://open.spotify.com/album/20yhrlbcKdEwdNf07Clwel) | 3:05 |
 | 18 | [Hombre De Bien](https://open.spotify.com/track/2FkhJgD9FUnaoAxbWv6cyy) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [Hombre De Bien](https://open.spotify.com/album/6tUMEhQHiTN8kzVz8lfCQ3) | 3:01 |
 | 19 | [Luz](https://open.spotify.com/track/5gWuFVmTAtjiMxMLLB9cNp) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ) | [Luz](https://open.spotify.com/album/5DpdFclf9jmpQSWKfOJQOA) | 3:17 |
-| 20 | [\(no\) te quiero perder \- By Bershka Music](https://open.spotify.com/track/7iOXb777qN8aqu8ulgZd6l) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [\(no\) te quiero perder \[By Bershka Music\]](https://open.spotify.com/album/3aDgxK43chuaG2UTt9HJ9E) | 2:21 |
+| 20 | [\(no\) te quiero perder \- BY BERSHKA MUSIC](https://open.spotify.com/track/7iOXb777qN8aqu8ulgZd6l) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [\(no\) te quiero perder \[BY BERSHKA MUSIC\]](https://open.spotify.com/album/3aDgxK43chuaG2UTt9HJ9E) | 2:21 |
 | 21 | [detrás d ti](https://open.spotify.com/track/3KKaqVHL8Qtnobuh8llytJ) | [JOZZEE](https://open.spotify.com/artist/77752A6Aw4gR5GQXEzlm8F) | [detrás d ti](https://open.spotify.com/album/2uDPohcguI5fbO3tkHeKrm) | 3:10 |
 | 22 | [soñé la respuesta pero no recuerdo \- RADAR México](https://open.spotify.com/track/36VBCbNjmbQbdYWZrqJCFT) | [iza tkm](https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3), [Zenei](https://open.spotify.com/artist/0BSgbcq8IZrLbHFWUnGz6u) | [soñé la respuesta pero no recuerdo \- RADAR México](https://open.spotify.com/album/1BrxxWa0vt457lQmNoeidn) | 3:09 |
 | 23 | [BRISA.](https://open.spotify.com/track/08BOIM9Wxae7opSnJPL7fP) | [Lucas Gael](https://open.spotify.com/artist/27H7D7CnN2Ef5Pra7wjsSB), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [\#CARTASYBORRONES](https://open.spotify.com/album/2eJIiRdUlixhPBJRO0vcSu) | 2:41 |

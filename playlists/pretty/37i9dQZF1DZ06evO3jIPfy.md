@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3jIPfy.md) - [plain]
 
 > This is Yo\-Yo Ma\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,695 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,718 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3jIPfy.md) - [plain]
 | 49 | [Attaboy](https://open.spotify.com/track/2Y0tFR4iYR57EnBK4mf34l) | [Stuart Duncan](https://open.spotify.com/artist/53pmIwVqcTM68qW6PVhjW2), [Edgar Meyer](https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD), [Chris Thile](https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [The Goat Rodeo Sessions](https://open.spotify.com/album/3P7xbl4YB4T73vWRHgcHMa) | 5:41 |
 | 50 | [Cello Suite No\. 5 in C Minor, BWV 1011: III\. Courante](https://open.spotify.com/track/3gJem1ky3SSSdBAkgHk5sA) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Bach: Cello Suites Nos\. 1, 5 & 6](https://open.spotify.com/album/3cvjMNWg7t46NyDZzujfNg) | 1:56 |
 
-Snapshot ID: `asgugAAAAAAkCxWMEN0pxOafZceUAgN8`
+Snapshot ID: `asrRgAAAAAD1D4cuzEEJ+szyf6rn+FWu`

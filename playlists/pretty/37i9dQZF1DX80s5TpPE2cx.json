@@ -1,6 +1,6 @@
 {
   "description": "The songs that defined Nigeria's Alt\u00e9 era. Cover: Amaarae",
-  "num_followers": 21581,
+  "num_followers": 21588,
   "original_name": "Alt\u00e9 Classics ",
   "owner": {
     "name": "Spotify",
@@ -151,6 +151,22 @@
     {
       "added_at": "2025-06-20 07:45:33",
       "album": {
+        "name": "Phases EP",
+        "url": "https://open.spotify.com/album/67yZd1xUTES5qFQT9XNwZG"
+      },
+      "artists": [
+        {
+          "name": "MALIKAA",
+          "url": "https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs"
+        }
+      ],
+      "duration_ms": 200680,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/0CxVnKu6PG6tYTGVtSD8UU"
+    },
+    {
+      "added_at": "2025-06-20 07:45:33",
+      "album": {
         "name": "Mandy & The Jungle",
         "url": "https://open.spotify.com/album/4IMFZY59ree679oXQS36xM"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 192000,
       "name": "Rapid Fire",
       "url": "https://open.spotify.com/track/1RHFgbaMxkM3dVYHBrg7Me"
-    },
-    {
-      "added_at": "2025-06-20 07:45:33",
-      "album": {
-        "name": "Phases EP",
-        "url": "https://open.spotify.com/album/67yZd1xUTES5qFQT9XNwZG"
-      },
-      "artists": [
-        {
-          "name": "MALIKAA",
-          "url": "https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs"
-        }
-      ],
-      "duration_ms": 200680,
-      "name": "Sunday Morning",
-      "url": "https://open.spotify.com/track/0CxVnKu6PG6tYTGVtSD8UU"
     },
     {
       "added_at": "2025-06-20 07:45:33",
@@ -247,22 +247,6 @@
     {
       "added_at": "2025-06-20 07:45:33",
       "album": {
-        "name": "Subaru Boys : FINAL HEAVEN",
-        "url": "https://open.spotify.com/album/0t69hftoCPq776cXlSpqFl"
-      },
-      "artists": [
-        {
-          "name": "Cruel Santino",
-          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
-        }
-      ],
-      "duration_ms": 187307,
-      "name": "FINAL CHAMPION",
-      "url": "https://open.spotify.com/track/3glpc7pE2ARlH1rnCxNohE"
-    },
-    {
-      "added_at": "2025-06-20 07:45:33",
-      "album": {
         "name": "Never Gunna Be the Same",
         "url": "https://open.spotify.com/album/29oPLnD1XgYvbu5RUblGH3"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 165981,
       "name": "London",
       "url": "https://open.spotify.com/track/0GScClMG7w5PZ4XCB5ViNu"
+    },
+    {
+      "added_at": "2025-06-20 07:45:33",
+      "album": {
+        "name": "Subaru Boys : FINAL HEAVEN",
+        "url": "https://open.spotify.com/album/0t69hftoCPq776cXlSpqFl"
+      },
+      "artists": [
+        {
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+        }
+      ],
+      "duration_ms": 187307,
+      "name": "FINAL CHAMPION",
+      "url": "https://open.spotify.com/track/3glpc7pE2ARlH1rnCxNohE"
     },
     {
       "added_at": "2025-06-20 07:45:33",
@@ -331,22 +331,6 @@
     {
       "added_at": "2025-06-20 07:45:33",
       "album": {
-        "name": "Mandy & The Jungle",
-        "url": "https://open.spotify.com/album/4IMFZY59ree679oXQS36xM"
-      },
-      "artists": [
-        {
-          "name": "Cruel Santino",
-          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Sparky",
-      "url": "https://open.spotify.com/track/19FcrKMpCp4bZOxcPkTMsZ"
-    },
-    {
-      "added_at": "2025-06-20 07:45:33",
-      "album": {
         "name": "Better Days / Wetin Dey",
         "url": "https://open.spotify.com/album/2iiLSjMEVjkUnpWrNQ8Qun"
       },
@@ -363,18 +347,38 @@
     {
       "added_at": "2025-06-20 07:45:33",
       "album": {
-        "name": "Radio",
-        "url": "https://open.spotify.com/album/2fnclztAsDqRkHYH5RXKp0"
+        "name": "Mandy & The Jungle",
+        "url": "https://open.spotify.com/album/4IMFZY59ree679oXQS36xM"
+      },
+      "artists": [
+        {
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Sparky",
+      "url": "https://open.spotify.com/track/19FcrKMpCp4bZOxcPkTMsZ"
+    },
+    {
+      "added_at": "2025-06-20 07:45:33",
+      "album": {
+        "name": "When It Blooms",
+        "url": "https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq"
       },
       "artists": [
         {
           "name": "Nonso Amadi",
           "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        },
+        {
+          "name": "BEAM",
+          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
         }
       ],
-      "duration_ms": 190104,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/39wqPXxc7NMh8QvcMhMbYt"
+      "duration_ms": 191952,
+      "name": "Kilimanjaro (with BEAM)",
+      "url": "https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM"
     },
     {
       "added_at": "2025-06-20 07:45:33",
@@ -411,6 +415,22 @@
     {
       "added_at": "2025-06-20 07:45:33",
       "album": {
+        "name": "In The Morning",
+        "url": "https://open.spotify.com/album/7FcUaQQ171IYWM4H6C2UvW"
+      },
+      "artists": [
+        {
+          "name": "Odunsi (The Engine)",
+          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
+        }
+      ],
+      "duration_ms": 187206,
+      "name": "In The Morning",
+      "url": "https://open.spotify.com/track/6ujpgpRiy9MKpae941OGrq"
+    },
+    {
+      "added_at": "2025-06-20 07:45:33",
+      "album": {
         "name": "Mandy & The Jungle",
         "url": "https://open.spotify.com/album/4IMFZY59ree679oXQS36xM"
       },
@@ -435,38 +455,18 @@
     {
       "added_at": "2025-06-20 07:45:33",
       "album": {
-        "name": "In The Morning",
-        "url": "https://open.spotify.com/album/7FcUaQQ171IYWM4H6C2UvW"
-      },
-      "artists": [
-        {
-          "name": "Odunsi (The Engine)",
-          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
-        }
-      ],
-      "duration_ms": 187206,
-      "name": "In The Morning",
-      "url": "https://open.spotify.com/track/6ujpgpRiy9MKpae941OGrq"
-    },
-    {
-      "added_at": "2025-06-20 07:45:33",
-      "album": {
-        "name": "When It Blooms",
-        "url": "https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq"
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/2fnclztAsDqRkHYH5RXKp0"
       },
       "artists": [
         {
           "name": "Nonso Amadi",
           "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        },
-        {
-          "name": "BEAM",
-          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
         }
       ],
-      "duration_ms": 191952,
-      "name": "Kilimanjaro (with BEAM)",
-      "url": "https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM"
+      "duration_ms": 190104,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/39wqPXxc7NMh8QvcMhMbYt"
     },
     {
       "added_at": "2025-06-20 07:45:33",
@@ -507,26 +507,6 @@
     {
       "added_at": "2025-06-20 07:45:33",
       "album": {
-        "name": "showmetheway !!",
-        "url": "https://open.spotify.com/album/3JYPab6Bqkk4BXdvdinw5G"
-      },
-      "artists": [
-        {
-          "name": "Cruel Santino",
-          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
-        },
-        {
-          "name": "Poco Lee",
-          "url": "https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc"
-        }
-      ],
-      "duration_ms": 140800,
-      "name": "showmetheway !!",
-      "url": "https://open.spotify.com/track/6JRfbZ9d0Caw35pbCsOTSL"
-    },
-    {
-      "added_at": "2025-06-20 07:45:33",
-      "album": {
         "name": "rare.",
         "url": "https://open.spotify.com/album/2rCQfEwg1KO3gksFF2Wq48"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 192309,
       "name": "Alt\u00e9 Cruise",
       "url": "https://open.spotify.com/track/6vdhXHNT6yKhheq7pxw68E"
+    },
+    {
+      "added_at": "2025-06-20 07:45:33",
+      "album": {
+        "name": "showmetheway !!",
+        "url": "https://open.spotify.com/album/3JYPab6Bqkk4BXdvdinw5G"
+      },
+      "artists": [
+        {
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+        },
+        {
+          "name": "Poco Lee",
+          "url": "https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc"
+        }
+      ],
+      "duration_ms": 140800,
+      "name": "showmetheway !!",
+      "url": "https://open.spotify.com/track/6JRfbZ9d0Caw35pbCsOTSL"
     },
     {
       "added_at": "2025-06-20 07:45:33",
@@ -607,22 +607,6 @@
     {
       "added_at": "2025-06-20 07:45:33",
       "album": {
-        "name": "GEMINI",
-        "url": "https://open.spotify.com/album/6Vj6WP5MosdtM023SqTAul"
-      },
-      "artists": [
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        }
-      ],
-      "duration_ms": 231160,
-      "name": "MONICA",
-      "url": "https://open.spotify.com/track/0GWX9HNUu2qZT16FAoBENM"
-    },
-    {
-      "added_at": "2025-06-20 07:45:33",
-      "album": {
         "name": "Desire (feat. Funbi & Tay Iwar)",
         "url": "https://open.spotify.com/album/4MHuKMcLChLqDdbLtwlmqm"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 245655,
       "name": "Desire (feat. Funbi & Tay Iwar)",
       "url": "https://open.spotify.com/track/1MJJ9lXWKHjRdWxSk3BpTo"
+    },
+    {
+      "added_at": "2025-06-20 07:45:33",
+      "album": {
+        "name": "GEMINI",
+        "url": "https://open.spotify.com/album/6Vj6WP5MosdtM023SqTAul"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "duration_ms": 231160,
+      "name": "MONICA",
+      "url": "https://open.spotify.com/track/0GWX9HNUu2qZT16FAoBENM"
     },
     {
       "added_at": "2025-06-20 07:45:33",
@@ -723,22 +723,6 @@
     {
       "added_at": "2025-06-20 07:45:33",
       "album": {
-        "name": "Passionfruit Summers",
-        "url": "https://open.spotify.com/album/3baroqzwcg8SdAZYTg96Rt"
-      },
-      "artists": [
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 145506,
-      "name": "Fluid",
-      "url": "https://open.spotify.com/track/3renF2gJdJPDKIWwPPZQu6"
-    },
-    {
-      "added_at": "2025-06-20 07:45:33",
-      "album": {
         "name": "Magic",
         "url": "https://open.spotify.com/album/25ReKrxbR8qbwhzO3LiU9A"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 191179,
       "name": "Magic",
       "url": "https://open.spotify.com/track/2dWEzqyLmdbUTTzf8TXn9Z"
+    },
+    {
+      "added_at": "2025-06-20 07:45:33",
+      "album": {
+        "name": "Passionfruit Summers",
+        "url": "https://open.spotify.com/album/3baroqzwcg8SdAZYTg96Rt"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 145506,
+      "name": "Fluid",
+      "url": "https://open.spotify.com/track/3renF2gJdJPDKIWwPPZQu6"
     },
     {
       "added_at": "2025-06-20 07:45:33",
@@ -947,18 +947,18 @@
     {
       "added_at": "2025-06-20 07:45:33",
       "album": {
-        "name": "Lagos City Vice",
-        "url": "https://open.spotify.com/album/4ogJSCLn5r8ShZZdAnlBj5"
+        "name": "On My Life",
+        "url": "https://open.spotify.com/album/3Y2ydko8AudJ9Rc6N7yYUJ"
       },
       "artists": [
         {
-          "name": "WANI",
-          "url": "https://open.spotify.com/artist/52sXq7h0dM2d4zh1lpFRxt"
+          "name": "Laime",
+          "url": "https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA"
         }
       ],
-      "duration_ms": 172800,
-      "name": "China Designer",
-      "url": "https://open.spotify.com/track/67OocI3BccxEbDwPoJGwk0"
+      "duration_ms": 125607,
+      "name": "On My Life",
+      "url": "https://open.spotify.com/track/4Q80vNHSXSLYvmcQ0sYgWZ"
     },
     {
       "added_at": "2025-06-20 07:45:33",
@@ -983,22 +983,6 @@
     {
       "added_at": "2025-06-20 07:45:33",
       "album": {
-        "name": "On My Life",
-        "url": "https://open.spotify.com/album/3Y2ydko8AudJ9Rc6N7yYUJ"
-      },
-      "artists": [
-        {
-          "name": "Laime",
-          "url": "https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA"
-        }
-      ],
-      "duration_ms": 125607,
-      "name": "On My Life",
-      "url": "https://open.spotify.com/track/4Q80vNHSXSLYvmcQ0sYgWZ"
-    },
-    {
-      "added_at": "2025-06-20 07:45:33",
-      "album": {
         "name": "Swing",
         "url": "https://open.spotify.com/album/6dL8SxYZ6TwI0ATlUDEq2F"
       },
@@ -1019,6 +1003,22 @@
     {
       "added_at": "2025-06-20 07:45:33",
       "album": {
+        "name": "Lagos City Vice",
+        "url": "https://open.spotify.com/album/4ogJSCLn5r8ShZZdAnlBj5"
+      },
+      "artists": [
+        {
+          "name": "WANI",
+          "url": "https://open.spotify.com/artist/52sXq7h0dM2d4zh1lpFRxt"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "China Designer",
+      "url": "https://open.spotify.com/track/67OocI3BccxEbDwPoJGwk0"
+    },
+    {
+      "added_at": "2025-06-20 07:45:33",
+      "album": {
         "name": "sundays",
         "url": "https://open.spotify.com/album/1Qgw1P1tA1b4RIeZZrMLHP"
       },
@@ -1031,6 +1031,38 @@
       "duration_ms": 174000,
       "name": "sundays",
       "url": "https://open.spotify.com/track/1eV2Rt6YeyNUVdTLQpX6IZ"
+    },
+    {
+      "added_at": "2025-06-20 07:45:33",
+      "album": {
+        "name": "Unruly",
+        "url": "https://open.spotify.com/album/1oqD64QwyyRfz3h8gWDD1T"
+      },
+      "artists": [
+        {
+          "name": "Rukmani",
+          "url": "https://open.spotify.com/artist/4lz2CgyavcVw3XfnvID7FV"
+        }
+      ],
+      "duration_ms": 153548,
+      "name": "Unruly",
+      "url": "https://open.spotify.com/track/58Wujfnk39NKHNwmEXqGx2"
+    },
+    {
+      "added_at": "2025-06-20 07:45:33",
+      "album": {
+        "name": "Passport",
+        "url": "https://open.spotify.com/album/5pQXeCuA6l4kmhWzh4lsig"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "TheBox",
+      "url": "https://open.spotify.com/track/55R9jXpjIkCPMiYzbOzkAV"
     },
     {
       "added_at": "2025-06-20 07:45:33",
@@ -1055,38 +1087,6 @@
       "duration_ms": 180705,
       "name": "Call on Me",
       "url": "https://open.spotify.com/track/4G46ARDqN8E5FmXbLPRUgM"
-    },
-    {
-      "added_at": "2025-06-20 07:45:33",
-      "album": {
-        "name": "Passport",
-        "url": "https://open.spotify.com/album/5pQXeCuA6l4kmhWzh4lsig"
-      },
-      "artists": [
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "TheBox",
-      "url": "https://open.spotify.com/track/55R9jXpjIkCPMiYzbOzkAV"
-    },
-    {
-      "added_at": "2025-06-20 07:45:33",
-      "album": {
-        "name": "Unruly",
-        "url": "https://open.spotify.com/album/1oqD64QwyyRfz3h8gWDD1T"
-      },
-      "artists": [
-        {
-          "name": "Rukmani",
-          "url": "https://open.spotify.com/artist/4lz2CgyavcVw3XfnvID7FV"
-        }
-      ],
-      "duration_ms": 153548,
-      "name": "Unruly",
-      "url": "https://open.spotify.com/track/58Wujfnk39NKHNwmEXqGx2"
     },
     {
       "added_at": "2025-06-20 07:45:33",

@@ -4,7 +4,7 @@
 
 > 
 
-985 songs - 2 day 15 hr 15 min
+987 songs - 2 day 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -588,6 +588,7 @@
 | [WHY](https://open.spotify.com/track/647iDGkytLSArmTgHMIqYh) | [Kinokoteikoku](https://open.spotify.com/artist/61H9d7hbIfFNxJJQmIL9AJ) | [タイム・ラプス](https://open.spotify.com/album/3g010J7Tee9KgJEjzBb2TX) | 2:45 | 2023-07-28 |  |
 | [winter reminds me of you](https://open.spotify.com/track/0Wkygid08HdhVw2jmtgdyi) | [my dead girlfriend](https://open.spotify.com/artist/6PAbMbxHZaXPwtxwu0wcXG) | [shaman's daughter](https://open.spotify.com/album/7GYwD0h6YroMt5MZzFMNSZ) | 4:14 | 2023-10-01 |  |
 | [World Is Yours](https://open.spotify.com/track/5Il7yZGCHcnV6eKivjgfNQ) | [MASS OF THE FERMENTING DREGS](https://open.spotify.com/artist/14d5KCX9nprUcxnKIShrr1) | [World Is Yours](https://open.spotify.com/album/0nwLNp8Qef1KpnUdXJgEJn) | 3:31 | 2023-08-18 |  |
+| [World's End](https://open.spotify.com/track/48TSMbk7XwAPbZyzhow2Vb) | [Plastic Girl In Closet](https://open.spotify.com/artist/4s1vZEFHO3fbQiwxbKgFjm) | [HIGH HEART](https://open.spotify.com/album/1yzzf8SV2nxVnhy3jYX93g) | 3:33 | 2026-10-12 |  |
 | [Wozwald](https://open.spotify.com/track/3okYYZTWf6Z2MLxwdDkwVw) | [Yuu Miyashita](https://open.spotify.com/artist/6hJkIUy4LmRN3l0Ld99M5x), [NILFRUITS](https://open.spotify.com/artist/4vb4gG2AkqqY7W6wBIGJfU) | [Wozwald](https://open.spotify.com/album/5u0ESZHKZumWBJQD2RXRCv) | 4:52 | 2023-09-09 |  |
 | [Yarusenai](https://open.spotify.com/track/2LQZmLAwIMEgZACET5VDjk) | [kudaranai1nichi](https://open.spotify.com/artist/75E3iu2PfQXjKv4B6lyAIa) | [rebound](https://open.spotify.com/album/5CAQImKGNH4OaIBJXmA5l4) | 2:35 | 2024-01-18 |  |
 | [yasasihikari](https://open.spotify.com/track/02YruPz8Z3P6dWsXJNP1ud) | [Cruyff In The Bedroom](https://open.spotify.com/artist/4tuW8N80UUAOJjJLkP0y1z) | [ukiyogunjou](https://open.spotify.com/album/4LFPA0612qiC5mSfUPs8am) | 5:49 | 2024-09-13 |  |
@@ -968,6 +969,7 @@
 | [超でかい竜が君を狙っている](https://open.spotify.com/track/1T3w1JEMToej9jGrlxUyP0) | [二錠](https://open.spotify.com/artist/4rCdJgEFyA5vXOYdNrN0oX), [Chis\-A](https://open.spotify.com/artist/4kmZaUQhElz6uF2s4Bd1Av) | [処方箋](https://open.spotify.com/album/3G8lgyDgYheWynWIcIFTaA) | 5:54 | 2024-10-08 |  |
 | [踊り子](https://open.spotify.com/track/1YXot2MLAG9sttepCtBRM7) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:49 | 2024-05-04 |  |
 | [退屈しのぎ](https://open.spotify.com/track/1BPe3cDxLlttYncoNB8myV) | [Kinokoteikoku](https://open.spotify.com/artist/61H9d7hbIfFNxJJQmIL9AJ) | [渦になる](https://open.spotify.com/album/33If3et94InFSJsipiARYH) | 8:10 | 2024-01-02 |  |
+| [逃亡](https://open.spotify.com/track/444TdAemfLOz77t9dlCeAa) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [盗作](https://open.spotify.com/album/6pZ0SrZCP8Bm28L6JhMtBy) | 4:47 | 2026-10-12 |  |
 | [透明少女](https://open.spotify.com/track/4qkvemDrFXkVSYsNlMdc40) | [Number Girl](https://open.spotify.com/artist/0FXxQ0TEYtebM8gGg0xdoC) | [SCHOOL GIRL DISTORTIONAL ADDICT](https://open.spotify.com/album/0SZzkQKnO96Di2u24UzaWB) | 3:21 | 2023-08-08 |  |
 | [通り恋](https://open.spotify.com/track/72lrebaqFNOZt8GMS32gvZ) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [濡れゆく私小説](https://open.spotify.com/album/7fWU9HyW6Ukh8ajJNJAuOI) | 3:55 | 2023-07-19 |  |
 | [過去を喰らう](https://open.spotify.com/track/19tvf7Xaibjq9HiGNWtYzL) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4) | [観測](https://open.spotify.com/album/0V1BmWezVWcFC3hO3yFEPy) | 4:02 | 2024-08-09 | 2026-10-10 |

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > 🇳🇴🤝🇸🇪
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,706 likes - 142 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,710 likes - 142 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Försent](https://open.spotify.com/track/3RyKmUDsx9dbZVGKZO30RN) | [aNtik](https://open.spotify.com/artist/1Af5IgNiNuENt7pcNLmaUP) | [Försent](https://open.spotify.com/album/3Qx4i4EqT3AQSau9SMAYOu) | 2:58 |
-| 2 | [Superman \(feat\. Pontus\)](https://open.spotify.com/track/47XWjDpf3JyAs6GIks6qIB) | [Anis Don Demina](https://open.spotify.com/artist/3WnmyxLdTHKN83h75tcb8P) | [Superman \(feat\. Pontus\)](https://open.spotify.com/album/2g4pbtA9omzcd8zxvWF2O4) | 2:47 |
-| 3 | [STÖRD](https://open.spotify.com/track/1FJTj1IQfejgdNJB44l0oJ) | [KYPARN](https://open.spotify.com/artist/2p9OeruY0AAgWRu84YZMPw), [DIREKTÖREN](https://open.spotify.com/artist/1pATe4JpMAfVn2UKNNTwHY), [OKVH](https://open.spotify.com/artist/2KlhZOYTfG8pidklQFSSRQ) | [STÖRD](https://open.spotify.com/album/4yVljNTuC3juvmr1D4tq8u) | 2:41 |
+| 1 | [Superman \(feat\. Pontus\)](https://open.spotify.com/track/47XWjDpf3JyAs6GIks6qIB) | [Anis Don Demina](https://open.spotify.com/artist/3WnmyxLdTHKN83h75tcb8P) | [Superman \(feat\. Pontus\)](https://open.spotify.com/album/2g4pbtA9omzcd8zxvWF2O4) | 2:47 |
+| 2 | [STÖRD](https://open.spotify.com/track/1FJTj1IQfejgdNJB44l0oJ) | [KYPARN](https://open.spotify.com/artist/2p9OeruY0AAgWRu84YZMPw), [DIREKTÖREN](https://open.spotify.com/artist/1pATe4JpMAfVn2UKNNTwHY), [OKVH](https://open.spotify.com/artist/2KlhZOYTfG8pidklQFSSRQ) | [STÖRD](https://open.spotify.com/album/4yVljNTuC3juvmr1D4tq8u) | 2:41 |
+| 3 | [Försent](https://open.spotify.com/track/3RyKmUDsx9dbZVGKZO30RN) | [aNtik](https://open.spotify.com/artist/1Af5IgNiNuENt7pcNLmaUP) | [Försent](https://open.spotify.com/album/3Qx4i4EqT3AQSau9SMAYOu) | 2:58 |
 | 4 | [Din idiot](https://open.spotify.com/track/4nnIgm5DhitoGJY88JaOh5) | [KaptenX](https://open.spotify.com/artist/5m1kkyZcYNKkjeAh6o9XLp) | [Din idiot](https://open.spotify.com/album/2lrIDpwdGZYHlF7jKpChvn) | 2:04 |
 | 5 | [Höjer Våra Glas](https://open.spotify.com/track/0pA3CEVNAowtMSIkzkDFAn) | [Hasselyra](https://open.spotify.com/artist/13D0gA0YkSBYe5Fksj5H4B) | [Höjer Våra Glas](https://open.spotify.com/album/76v9qXmEgMLvoy4Zlqq5iI) | 2:00 |
 | 6 | [Hyvää Puuta](https://open.spotify.com/track/15tUbWhDoHTwRF8PA9ELSt) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Hyvää Puuta](https://open.spotify.com/album/483YnkDxfrASNzzNC2iQrK) | 2:31 |
@@ -151,4 +151,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 141 | [FUCK MITT EX](https://open.spotify.com/track/5uZbNtwrtQKOCkXFoVOGxX) | [Kaptenen](https://open.spotify.com/artist/6DSprS2EbPUhzEly95Ptvl) | [FUCK MITT EX](https://open.spotify.com/album/1FzUlKjvO9lEdKj5XUcrvU) | 2:50 |
 | 142 | [Det Løser Seg](https://open.spotify.com/track/1uvYRZPOtfnI9SbYzgqV4S) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [Det Løser Seg](https://open.spotify.com/album/6hygzpsQObLO2CrgnTIO9W) | 2:12 |
 
-Snapshot ID: `AAAAADogw3hhOIbCJ+Nhn8a6NhM574Nm`
+Snapshot ID: `AAAAAJoTMXgNADw4srMLZHvadnqTcyyY`

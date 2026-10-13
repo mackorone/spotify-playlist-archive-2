@@ -1,29 +1,13 @@
 {
   "description": "This is KISS. The essential tracks, all in one playlist.",
-  "num_followers": 488405,
+  "num_followers": 488417,
   "original_name": "This Is KISS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asmAAAAAAABjdWsJLStlT6dyo4Quv2dJ",
+  "snapshot_id": "asrRgAAAAADnlzEkgU9fXoN+8y6ioXrx",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hard Luck Woman (Outtake)",
-        "url": "https://open.spotify.com/album/1QTB19waB3UfK4x5MG9Sql"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 226360,
-      "name": "Hard Luck Woman - Outtake",
-      "url": "https://open.spotify.com/track/104gOf7mPTkf9cCH4vDzIF"
-    },
     {
       "added_at": null,
       "album": {
@@ -815,6 +799,22 @@
       "duration_ms": 135918,
       "name": "Rock And Roll All Nite - MOONLGHT Remix",
       "url": "https://open.spotify.com/track/2eTYcP7pFAnFZOMfXlpXO4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hotter Than Hell (Remastered 1997)",
+        "url": "https://open.spotify.com/album/4n2ovJeGDVOP9SqcvaspxE"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 211800,
+      "name": "Hotter Than Hell - Remastered 1997",
+      "url": "https://open.spotify.com/track/7xYo3ytFiilO6bzf6Hr1Rt"
     }
   ],
   "unique_name": "This Is KISS",

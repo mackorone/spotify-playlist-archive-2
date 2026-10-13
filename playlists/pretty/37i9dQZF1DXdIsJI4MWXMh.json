@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena! Foto: La Descendencia Chilena",
-  "num_followers": 85346,
+  "num_followers": 85376,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
@@ -427,6 +427,22 @@
     {
       "added_at": "2026-09-11 21:07:48",
       "album": {
+        "name": "De Padre Desconocido",
+        "url": "https://open.spotify.com/album/6hsBJneAqhFImnsdNDL6ZW"
+      },
+      "artists": [
+        {
+          "name": "Los Llaneros De La Frontera",
+          "url": "https://open.spotify.com/artist/0lU35vHpvzadavslHv2pVV"
+        }
+      ],
+      "duration_ms": 282000,
+      "name": "Dos Monedas",
+      "url": "https://open.spotify.com/track/6N1ykx2KOySjEXcVgrZ42J"
+    },
+    {
+      "added_at": "2026-09-11 21:07:48",
+      "album": {
         "name": "La Ultima Granada",
         "url": "https://open.spotify.com/album/2EHRSifbFayruTaspm9lRf"
       },
@@ -463,22 +479,6 @@
     {
       "added_at": "2026-09-11 21:07:48",
       "album": {
-        "name": "De Padre Desconocido",
-        "url": "https://open.spotify.com/album/6hsBJneAqhFImnsdNDL6ZW"
-      },
-      "artists": [
-        {
-          "name": "Los Llaneros De La Frontera",
-          "url": "https://open.spotify.com/artist/0lU35vHpvzadavslHv2pVV"
-        }
-      ],
-      "duration_ms": 282000,
-      "name": "Dos Monedas",
-      "url": "https://open.spotify.com/track/6N1ykx2KOySjEXcVgrZ42J"
-    },
-    {
-      "added_at": "2026-09-11 21:07:48",
-      "album": {
         "name": "Voy a Ser",
         "url": "https://open.spotify.com/album/1l8VoUVZi4Zg44PETgtyrD"
       },
@@ -495,22 +495,6 @@
     {
       "added_at": "2026-09-11 21:07:48",
       "album": {
-        "name": "Bil\u00fa Bil\u00fa",
-        "url": "https://open.spotify.com/album/45eeHLEvaOO5UoGmWmOdHW"
-      },
-      "artists": [
-        {
-          "name": "Grupo Z\u00fambale Primo",
-          "url": "https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K"
-        }
-      ],
-      "duration_ms": 229640,
-      "name": "Bil\u00fa Bil\u00fa",
-      "url": "https://open.spotify.com/track/5VIU0pNUmmIEF54my1hd5t"
-    },
-    {
-      "added_at": "2026-09-11 21:07:48",
-      "album": {
         "name": "Te Extra\u00f1o, Te Olvido, Te Amo",
         "url": "https://open.spotify.com/album/0LtVrgVbR0Q9SP2Zj1Bx8z"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 219389,
       "name": "Te Extra\u00f1o, Te Olvido, Te Amo",
       "url": "https://open.spotify.com/track/2CdxmSPq2YLHWemapVnw7j"
+    },
+    {
+      "added_at": "2026-09-11 21:07:48",
+      "album": {
+        "name": "Bil\u00fa Bil\u00fa",
+        "url": "https://open.spotify.com/album/45eeHLEvaOO5UoGmWmOdHW"
+      },
+      "artists": [
+        {
+          "name": "Grupo Z\u00fambale Primo",
+          "url": "https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K"
+        }
+      ],
+      "duration_ms": 229640,
+      "name": "Bil\u00fa Bil\u00fa",
+      "url": "https://open.spotify.com/track/5VIU0pNUmmIEF54my1hd5t"
     },
     {
       "added_at": "2026-09-11 21:07:48",
@@ -919,22 +919,6 @@
     {
       "added_at": "2026-09-11 21:07:48",
       "album": {
-        "name": "La Bella y la Bestia",
-        "url": "https://open.spotify.com/album/3uzaS6D2FiktrOOz8q8Uwe"
-      },
-      "artists": [
-        {
-          "name": "Los Rancheros de Quilleco",
-          "url": "https://open.spotify.com/artist/1rRjhEozUEpIHwGveSLhqx"
-        }
-      ],
-      "duration_ms": 229084,
-      "name": "La Bella y la Bestia",
-      "url": "https://open.spotify.com/track/3K1eKkz623cGkxHDr3IAo1"
-    },
-    {
-      "added_at": "2026-09-11 21:07:48",
-      "album": {
         "name": "Amor Traicionero",
         "url": "https://open.spotify.com/album/1rBNGTq5QjIQNAQPoCMaei"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 256346,
       "name": "Amor Traicionero",
       "url": "https://open.spotify.com/track/0wR0jWstWqLdQvjdalQIKM"
+    },
+    {
+      "added_at": "2026-09-11 21:07:48",
+      "album": {
+        "name": "La Bella y la Bestia",
+        "url": "https://open.spotify.com/album/3uzaS6D2FiktrOOz8q8Uwe"
+      },
+      "artists": [
+        {
+          "name": "Los Rancheros de Quilleco",
+          "url": "https://open.spotify.com/artist/1rRjhEozUEpIHwGveSLhqx"
+        }
+      ],
+      "duration_ms": 229084,
+      "name": "La Bella y la Bestia",
+      "url": "https://open.spotify.com/track/3K1eKkz623cGkxHDr3IAo1"
     },
     {
       "added_at": "2026-09-11 21:07:48",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-09-11 21:07:48",
       "album": {
-        "name": "Por una Yegua No Se para la Trilla",
-        "url": "https://open.spotify.com/album/1ImwrMRcka92sIKex1lbmm"
-      },
-      "artists": [
-        {
-          "name": "Grupo el duelo",
-          "url": "https://open.spotify.com/artist/00q1iEmkH6dNeT4Os4mAOv"
-        }
-      ],
-      "duration_ms": 193125,
-      "name": "La Mesa 20",
-      "url": "https://open.spotify.com/track/0hDEKg9kg4d46bXmtZzYJO"
-    },
-    {
-      "added_at": "2026-09-11 21:07:48",
-      "album": {
         "name": "Para Mi Gente Campesina",
         "url": "https://open.spotify.com/album/0WR66V5mPl5xkTLBo4LYAE"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 192776,
       "name": "Vivo la Vida",
       "url": "https://open.spotify.com/track/5dSElsITPbdki1S7PuWtjV"
+    },
+    {
+      "added_at": "2026-09-11 21:07:48",
+      "album": {
+        "name": "Por una Yegua No Se para la Trilla",
+        "url": "https://open.spotify.com/album/1ImwrMRcka92sIKex1lbmm"
+      },
+      "artists": [
+        {
+          "name": "Grupo el duelo",
+          "url": "https://open.spotify.com/artist/00q1iEmkH6dNeT4Os4mAOv"
+        }
+      ],
+      "duration_ms": 193125,
+      "name": "La Mesa 20",
+      "url": "https://open.spotify.com/track/0hDEKg9kg4d46bXmtZzYJO"
     },
     {
       "added_at": "2026-09-11 21:07:48",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2026-09-11 21:07:48",
       "album": {
+        "name": "El Sol No Regresa",
+        "url": "https://open.spotify.com/album/2XMrbnwRqoQDNnBNpINrBH"
+      },
+      "artists": [
+        {
+          "name": "LOS FLORES DE YUNGAY",
+          "url": "https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD"
+        }
+      ],
+      "duration_ms": 174474,
+      "name": "El Sol No Regresa",
+      "url": "https://open.spotify.com/track/2G547gJdbWyrQWqBwPmKpt"
+    },
+    {
+      "added_at": "2026-09-11 21:07:48",
+      "album": {
         "name": "Cumbias",
         "url": "https://open.spotify.com/album/3mPPWnzitqTU3DnKj6njLY"
       },
@@ -1243,18 +1259,18 @@
     {
       "added_at": "2026-09-11 21:07:48",
       "album": {
-        "name": "El Sol No Regresa",
-        "url": "https://open.spotify.com/album/2XMrbnwRqoQDNnBNpINrBH"
+        "name": "12 A\u00f1os de Historia",
+        "url": "https://open.spotify.com/album/26Mb8YUJfW0yhdUmu3YWjn"
       },
       "artists": [
         {
-          "name": "LOS FLORES DE YUNGAY",
-          "url": "https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD"
+          "name": "Los Cumbieros",
+          "url": "https://open.spotify.com/artist/1oxiRPCo3i3tVs9nbcIYdF"
         }
       ],
-      "duration_ms": 174474,
-      "name": "El Sol No Regresa",
-      "url": "https://open.spotify.com/track/2G547gJdbWyrQWqBwPmKpt"
+      "duration_ms": 178586,
+      "name": "La Rumbera",
+      "url": "https://open.spotify.com/track/7FM9C1MThKu9AlMltdBZDL"
     },
     {
       "added_at": "2026-09-11 21:07:48",
@@ -1271,22 +1287,6 @@
       "duration_ms": 267859,
       "name": "Como T\u00fa",
       "url": "https://open.spotify.com/track/1TQKYm6U2FnKVCH9E6gJWu"
-    },
-    {
-      "added_at": "2026-09-11 21:07:48",
-      "album": {
-        "name": "12 A\u00f1os de Historia",
-        "url": "https://open.spotify.com/album/26Mb8YUJfW0yhdUmu3YWjn"
-      },
-      "artists": [
-        {
-          "name": "Los Cumbieros",
-          "url": "https://open.spotify.com/artist/1oxiRPCo3i3tVs9nbcIYdF"
-        }
-      ],
-      "duration_ms": 178586,
-      "name": "La Rumbera",
-      "url": "https://open.spotify.com/track/7FM9C1MThKu9AlMltdBZDL"
     },
     {
       "added_at": "2026-09-11 21:07:48",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2026-09-11 21:07:48",
       "album": {
-        "name": "Siempre Villanos",
-        "url": "https://open.spotify.com/album/14yl58zWBYJ70CziQoaA6E"
-      },
-      "artists": [
-        {
-          "name": "Los Villanos de Coltauco",
-          "url": "https://open.spotify.com/artist/653hTCHsQjYo9jLOEGJenk"
-        }
-      ],
-      "duration_ms": 220203,
-      "name": "Maldita Sea la Primera Vez",
-      "url": "https://open.spotify.com/track/3lMCr3w4Z1wnugLe1TMaQ4"
-    },
-    {
-      "added_at": "2026-09-11 21:07:48",
-      "album": {
         "name": "Para Mi Gente Campesina",
         "url": "https://open.spotify.com/album/0WR66V5mPl5xkTLBo4LYAE"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 196662,
       "name": "Pecado de Amor",
       "url": "https://open.spotify.com/track/1o4te8zmQt1mE2yxoXXoAz"
+    },
+    {
+      "added_at": "2026-09-11 21:07:48",
+      "album": {
+        "name": "Siempre Villanos",
+        "url": "https://open.spotify.com/album/14yl58zWBYJ70CziQoaA6E"
+      },
+      "artists": [
+        {
+          "name": "Los Villanos de Coltauco",
+          "url": "https://open.spotify.com/artist/653hTCHsQjYo9jLOEGJenk"
+        }
+      ],
+      "duration_ms": 220203,
+      "name": "Maldita Sea la Primera Vez",
+      "url": "https://open.spotify.com/track/3lMCr3w4Z1wnugLe1TMaQ4"
     },
     {
       "added_at": "2026-09-11 21:07:48",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2026-09-11 21:07:48",
       "album": {
-        "name": "La Pagar\u00e1s",
-        "url": "https://open.spotify.com/album/4A20U2NzYqyWFwsmdubrcz"
-      },
-      "artists": [
-        {
-          "name": "Zumba Ranchera",
-          "url": "https://open.spotify.com/artist/7yqVm4qWAFjxvtw5R9HHLu"
-        }
-      ],
-      "duration_ms": 232190,
-      "name": "La Pagar\u00e1s",
-      "url": "https://open.spotify.com/track/6e3m4DljhPz53HKhaFqsky"
-    },
-    {
-      "added_at": "2026-09-11 21:07:48",
-      "album": {
         "name": "Ac\u00e1bame de Matar",
         "url": "https://open.spotify.com/album/2dJ2IMonVOVdV73CyjK5zV"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 215370,
       "name": "Ac\u00e1bame de Matar",
       "url": "https://open.spotify.com/track/4L3VeEZtIaP6nMh3LTPAtJ"
+    },
+    {
+      "added_at": "2026-09-11 21:07:48",
+      "album": {
+        "name": "La Pagar\u00e1s",
+        "url": "https://open.spotify.com/album/4A20U2NzYqyWFwsmdubrcz"
+      },
+      "artists": [
+        {
+          "name": "Zumba Ranchera",
+          "url": "https://open.spotify.com/artist/7yqVm4qWAFjxvtw5R9HHLu"
+        }
+      ],
+      "duration_ms": 232190,
+      "name": "La Pagar\u00e1s",
+      "url": "https://open.spotify.com/track/6e3m4DljhPz53HKhaFqsky"
     },
     {
       "added_at": "2026-09-11 21:07:48",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2026-09-11 21:07:48",
       "album": {
+        "name": "Estoy Con Otro en la Cama",
+        "url": "https://open.spotify.com/album/7xECaOAPUu81Mz8AQCgwY1"
+      },
+      "artists": [
+        {
+          "name": "Las Patronas de Chile",
+          "url": "https://open.spotify.com/artist/08a5CYvnnoJmAw6fy2fFLk"
+        }
+      ],
+      "duration_ms": 199140,
+      "name": "Estoy Con Otro en la Cama",
+      "url": "https://open.spotify.com/track/5LOhedbcSswrPBsfMpRGnN"
+    },
+    {
+      "added_at": "2026-09-11 21:07:48",
+      "album": {
         "name": "La Pololita",
         "url": "https://open.spotify.com/album/0cLkRFrl1nzwUqL2dk5TlX"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 262500,
       "name": "Soy Adicto a Ti",
       "url": "https://open.spotify.com/track/559VSAiv3rFTDrmkfv7nQd"
-    },
-    {
-      "added_at": "2026-09-11 21:07:48",
-      "album": {
-        "name": "Estoy Con Otro en la Cama",
-        "url": "https://open.spotify.com/album/7xECaOAPUu81Mz8AQCgwY1"
-      },
-      "artists": [
-        {
-          "name": "Las Patronas de Chile",
-          "url": "https://open.spotify.com/artist/08a5CYvnnoJmAw6fy2fFLk"
-        }
-      ],
-      "duration_ms": 199140,
-      "name": "Estoy Con Otro en la Cama",
-      "url": "https://open.spotify.com/track/5LOhedbcSswrPBsfMpRGnN"
     },
     {
       "added_at": "2026-09-11 21:07:48",

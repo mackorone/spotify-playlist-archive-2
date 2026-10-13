@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Alberto Vazquez 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,426 likes - 80 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,421 likes - 80 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,12 +43,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 33 | [Tu Eterno Enamorado](https://open.spotify.com/track/2Q5f4WrxWWdZgQybH6edxg) | [Osbaldo Lopez](https://open.spotify.com/artist/1BkSj4IPSrMfdLttjbYj0d) | [Tu Eterno Enamorado](https://open.spotify.com/album/1u0hzSTwrrbm5HbHOCAcDV) | 3:02 |
 | 34 | [Vives En Mí](https://open.spotify.com/track/5wWtNPiu1pd9jzdJ7MJqMm) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Vives En Mí](https://open.spotify.com/album/1vQADX1pnQEI17CjpAe5UQ) | 3:30 |
 | 35 | [Contigo Quiero \(A Caballo\)](https://open.spotify.com/track/0A0SUCIQPukRmRMHhCe52z) | [Reyli Barba](https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ) | [Contigo Quiero \(A Caballo\)](https://open.spotify.com/album/4EsebZYxCbdKCa8HHGmpL5) | 4:11 |
-| 36 | [Casí 16](https://open.spotify.com/track/1HnlNGgq9Y0tRJdh1jqz8i) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Casí 16](https://open.spotify.com/album/1RTYkT9Z40oP1lASdKEGhB) | 3:12 |
-| 37 | [Te Vi](https://open.spotify.com/track/5Y8frlGLc3QL2RftusJQwo) | [Fatima Campo](https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn) | [Endeble](https://open.spotify.com/album/1h1nLkBcMSHBbcRZuHss6Y) | 3:10 |
-| 38 | [Se Me Acabó El Dinero](https://open.spotify.com/track/0Bg0GMvfDXvljuAaLLUMJJ) | [El As De La Sierra](https://open.spotify.com/artist/6uQMkB156uIN27tFar9qQl), [Leonel el Ranchero](https://open.spotify.com/artist/1DN5Y1Kdhvz5LCWe5n61p6) | [Se Me Acabó El Dinero](https://open.spotify.com/album/6fyYoTUPob7hoPx9Qtp7a7) | 2:58 |
+| 36 | [Se Me Acabó El Dinero](https://open.spotify.com/track/0Bg0GMvfDXvljuAaLLUMJJ) | [El As De La Sierra](https://open.spotify.com/artist/6uQMkB156uIN27tFar9qQl), [Leonel el Ranchero](https://open.spotify.com/artist/1DN5Y1Kdhvz5LCWe5n61p6) | [Se Me Acabó El Dinero](https://open.spotify.com/album/6fyYoTUPob7hoPx9Qtp7a7) | 2:58 |
+| 37 | [Casí 16](https://open.spotify.com/track/1HnlNGgq9Y0tRJdh1jqz8i) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Casí 16](https://open.spotify.com/album/1RTYkT9Z40oP1lASdKEGhB) | 3:12 |
+| 38 | [Te Vi](https://open.spotify.com/track/5Y8frlGLc3QL2RftusJQwo) | [Fatima Campo](https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn) | [Endeble](https://open.spotify.com/album/1h1nLkBcMSHBbcRZuHss6Y) | 3:10 |
 | 39 | [Esclavo y Amo \- Live](https://open.spotify.com/track/7AudDJj0o5KPq1SZ4Vibqn) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Esclavo y Amo \(Live\)](https://open.spotify.com/album/6f3JaQoDmn2QWhcfzJERkE) | 3:18 |
-| 40 | [Yo No Se Que Me Paso](https://open.spotify.com/track/3MNuURpGZTS9NvbNFZqWDO) | [Osbaldo Lopez](https://open.spotify.com/artist/1BkSj4IPSrMfdLttjbYj0d) | [Yo No Se Que Me Paso](https://open.spotify.com/album/2O8QiGKmYZ4wQuoL5EY9hk) | 4:48 |
-| 41 | [MIL RAZONES](https://open.spotify.com/track/2Wa2x4jWNGIyWWSc1vg0oa) | [Alexander Acha](https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh) | [MIL RAZONES](https://open.spotify.com/album/6iYxOAcJG12yCBuNrNY27x) | 2:56 |
+| 40 | [MIL RAZONES](https://open.spotify.com/track/2Wa2x4jWNGIyWWSc1vg0oa) | [Alexander Acha](https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh) | [MIL RAZONES](https://open.spotify.com/album/6iYxOAcJG12yCBuNrNY27x) | 2:56 |
+| 41 | [Yo No Se Que Me Paso](https://open.spotify.com/track/3MNuURpGZTS9NvbNFZqWDO) | [Osbaldo Lopez](https://open.spotify.com/artist/1BkSj4IPSrMfdLttjbYj0d) | [Yo No Se Que Me Paso](https://open.spotify.com/album/2O8QiGKmYZ4wQuoL5EY9hk) | 4:48 |
 | 42 | [Vete](https://open.spotify.com/track/4XMpHNazONIhzh3hr2TQmF) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Vete](https://open.spotify.com/album/2MowOz3kjdjFX9zs8BgZvq) | 3:03 |
 | 43 | [Culpa Mía](https://open.spotify.com/track/3g6rZd5OcdxsVgYbTDkJv2) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q), [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g) | [Culpa Mía+ El Mimoso Luis Antonio López](https://open.spotify.com/album/3WYhM3JvuFDIkGRVxP4HL3) | 3:10 |
 | 44 | [La Más Fina](https://open.spotify.com/track/3uQ3Y6adjNz3TejsibvWwA) | [Francy](https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT) | [La Más Fina](https://open.spotify.com/album/0zD8jsVdIqQNXC8zMobhsX) | 2:41 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 65 | [Pintando sueños](https://open.spotify.com/track/4UKmYn5sjGpalQ30l1ixwG) | [Mariacho Ay Ay Ay](https://open.spotify.com/artist/4JyndRgkNK1KbUyMEm0Oy2) | [Pintando sueños](https://open.spotify.com/album/14V5KPb8H43N7f5ND1JF3x) | 3:42 |
 | 66 | [Pagaré Condena](https://open.spotify.com/track/7j1MTMjDWlbyzanmsoeLTW) | [Juan Pablo Tostado](https://open.spotify.com/artist/4arqPiSaDf0CHApe1QN2Jp) | [Pagaré Condena](https://open.spotify.com/album/4rEta5YoGKqAas5frnNZJS) | 2:44 |
 | 67 | [Así Fue](https://open.spotify.com/track/5YNlvxFFdcS1Jili8ln0ZP) | [ANDYVERE](https://open.spotify.com/artist/5XxeDwviA9LNx9xMBUAZxa) | [Así Fue](https://open.spotify.com/album/7HVzgfaschYlAQZzlenb6g) | 7:06 |
-| 68 | [El Último Beso](https://open.spotify.com/track/7yO0Y1qzLnxnkHV3nZDo1e) | [Eddy Y Samu](https://open.spotify.com/artist/1ltW6BF5qgKsoN2T0nyEvn) | [El Último Beso](https://open.spotify.com/album/7vujXpwWOhQ3JGzkwve84S) | 2:49 |
-| 69 | [El Target](https://open.spotify.com/track/6RBuiU0CCxBEMCwTT2LsqL) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV), [Denise Gutiérrez](https://open.spotify.com/artist/4svp08yFN6IGlkBJlEhT4Z) | [El Target](https://open.spotify.com/album/0jVQrG7MOjYvKP77Bgp5RQ) | 2:45 |
+| 68 | [El Target](https://open.spotify.com/track/6RBuiU0CCxBEMCwTT2LsqL) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV), [Denise Gutiérrez](https://open.spotify.com/artist/4svp08yFN6IGlkBJlEhT4Z) | [El Target](https://open.spotify.com/album/0jVQrG7MOjYvKP77Bgp5RQ) | 2:45 |
+| 69 | [El Último Beso](https://open.spotify.com/track/7yO0Y1qzLnxnkHV3nZDo1e) | [Eddy Y Samu](https://open.spotify.com/artist/1ltW6BF5qgKsoN2T0nyEvn) | [El Último Beso](https://open.spotify.com/album/7vujXpwWOhQ3JGzkwve84S) | 2:49 |
 | 70 | [Playa Sola](https://open.spotify.com/track/0aiT7asptX1UK7v2HIi7k4) | [Jessi Valente](https://open.spotify.com/artist/42RHynQK9VaFPjO1GLcPKs) | [Playa Sola](https://open.spotify.com/album/0m5WSWZNlScdO2S92fZCqW) | 2:44 |
 | 71 | [Señor Dios](https://open.spotify.com/track/5jUZFbRbGaTwoOXjUQP0na) | [Roberto Tapia](https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0) | [Señor Dios](https://open.spotify.com/album/4QwsLyZcwyK1OOJg6MVOMe) | 3:09 |
 | 72 | [La Noche de Mi Mal](https://open.spotify.com/track/1Nu2dm44T3NoGBiAdioDKD) | [Kaylanie Barrera](https://open.spotify.com/artist/2j3qEhbr3yzytI7ozGIHWN) | [La Noche de Mi Mal \(Versión Mariachi\)](https://open.spotify.com/album/0ZbRQiYvzz50QfD0YwOyxO) | 4:00 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 79 | [Golpe Inesperado](https://open.spotify.com/track/2tGXd9lzFREBUdWwcoA48V) | [Los del Norteño Sax](https://open.spotify.com/artist/4mnmnqk1QkvxHYpq5mFXbB) | [Mariachi y Norteño](https://open.spotify.com/album/24ssNJt1pKcLkG6CadBw02) | 3:18 |
 | 80 | [Un Abrazo \- Versión Regional](https://open.spotify.com/track/0QO0d6FjUjvcb65xu832YQ) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Un Abrazo \(Versión Regional\)](https://open.spotify.com/album/5gwNUXcnQpmaik21UHDS5H) | 3:58 |
 
-Snapshot ID: `AAAAANwcVJPJ0ijWm2vA15EVB1sAbNRD`
+Snapshot ID: `AAAAAMOwc6dYCTkVBu69/K/vvU43MOKA`

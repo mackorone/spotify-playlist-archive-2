@@ -1,6 +1,6 @@
 {
   "description": "Meet the future of music around the world. Cover: Maia Reficco",
-  "num_followers": 88586,
+  "num_followers": 88589,
   "original_name": "RADAR Global",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2026-09-25 13:00:07",
       "album": {
-        "name": "MUM SAID",
-        "url": "https://open.spotify.com/album/1yr4DBSW1Y5Xh9lZZOG5E8"
-      },
-      "artists": [
-        {
-          "name": "TR Gobrazy",
-          "url": "https://open.spotify.com/artist/2bWovm0DNeEkCevemRHN0C"
-        }
-      ],
-      "duration_ms": 113337,
-      "name": "MUM SAID",
-      "url": "https://open.spotify.com/track/5N22PeJ72MQaf4EMAyZc1z"
-    },
-    {
-      "added_at": "2026-09-25 13:00:07",
-      "album": {
         "name": "Man On The Moon",
         "url": "https://open.spotify.com/album/3Egk8lWJrbHZw7XvMSJsMx"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 203225,
       "name": "Man On The Moon",
       "url": "https://open.spotify.com/track/1B4zZQIEqRlmP4Ps2oRrE0"
+    },
+    {
+      "added_at": "2026-09-25 13:00:07",
+      "album": {
+        "name": "MUM SAID",
+        "url": "https://open.spotify.com/album/1yr4DBSW1Y5Xh9lZZOG5E8"
+      },
+      "artists": [
+        {
+          "name": "TR Gobrazy",
+          "url": "https://open.spotify.com/artist/2bWovm0DNeEkCevemRHN0C"
+        }
+      ],
+      "duration_ms": 113337,
+      "name": "MUM SAID",
+      "url": "https://open.spotify.com/track/5N22PeJ72MQaf4EMAyZc1z"
     },
     {
       "added_at": "2026-09-25 13:00:07",
@@ -511,22 +511,6 @@
     {
       "added_at": "2026-09-25 13:00:07",
       "album": {
-        "name": "chilling in my bathtub",
-        "url": "https://open.spotify.com/album/7xWjvCyfTkOyyp7FtWnvhX"
-      },
-      "artists": [
-        {
-          "name": "CLAUDIA",
-          "url": "https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P"
-        }
-      ],
-      "duration_ms": 191842,
-      "name": "chilling in my bathtub",
-      "url": "https://open.spotify.com/track/4kU6toL3cyw5Tly52hCsqb"
-    },
-    {
-      "added_at": "2026-09-25 13:00:07",
-      "album": {
         "name": "WHAT CAN I TELL U",
         "url": "https://open.spotify.com/album/3hbjx9QSXlYmizj5cSULSA"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 125024,
       "name": "WRANGLER",
       "url": "https://open.spotify.com/track/0DY8rIKn5G8rGyE8QMGGDQ"
+    },
+    {
+      "added_at": "2026-09-25 13:00:07",
+      "album": {
+        "name": "chilling in my bathtub",
+        "url": "https://open.spotify.com/album/7xWjvCyfTkOyyp7FtWnvhX"
+      },
+      "artists": [
+        {
+          "name": "CLAUDIA",
+          "url": "https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P"
+        }
+      ],
+      "duration_ms": 191842,
+      "name": "chilling in my bathtub",
+      "url": "https://open.spotify.com/track/4kU6toL3cyw5Tly52hCsqb"
     },
     {
       "added_at": "2026-09-25 13:00:07",
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-09-25 13:00:07",
       "album": {
-        "name": "DON'T ASK!",
-        "url": "https://open.spotify.com/album/5rqi3IpAQc4QgQoO6LadFU"
-      },
-      "artists": [
-        {
-          "name": "Natanya",
-          "url": "https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp"
-        }
-      ],
-      "duration_ms": 182395,
-      "name": "DON'T ASK!",
-      "url": "https://open.spotify.com/track/47Z2SkqckoCdJiUgCs46jA"
-    },
-    {
-      "added_at": "2026-09-25 13:00:07",
-      "album": {
         "name": "Hridhayam",
         "url": "https://open.spotify.com/album/6voA6abUq7Jd8jmUfur0HB"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 198072,
       "name": "Hridhayam",
       "url": "https://open.spotify.com/track/0gSgiwCwOhj2gi2RQczwWV"
+    },
+    {
+      "added_at": "2026-09-25 13:00:07",
+      "album": {
+        "name": "DON'T ASK!",
+        "url": "https://open.spotify.com/album/5rqi3IpAQc4QgQoO6LadFU"
+      },
+      "artists": [
+        {
+          "name": "Natanya",
+          "url": "https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp"
+        }
+      ],
+      "duration_ms": 182395,
+      "name": "DON'T ASK!",
+      "url": "https://open.spotify.com/track/47Z2SkqckoCdJiUgCs46jA"
     },
     {
       "added_at": "2026-09-25 13:00:07",

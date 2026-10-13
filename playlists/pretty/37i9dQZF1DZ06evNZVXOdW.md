@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZVXOdW.md) - [plain]
 
 > This is Arooj Aftab\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,754 likes - 43 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,756 likes - 43 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZVXOdW.md) - [plain]
 | 10 | [Island No\. 1](https://open.spotify.com/track/2m8vgajbox6jm2BbUYMqQf) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Siren Islands](https://open.spotify.com/album/3JXHEKcmSRlvDesUhccbDZ) | 8:01 |
 | 11 | [Baghon Main](https://open.spotify.com/track/4VGFLMTNy3jr4Q1JLqV5LL) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5), [Darian Donovan Thomas](https://open.spotify.com/artist/4hJmlJAgDI3ivZouvwnCEJ) | [Vulture Prince](https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH) | 6:44 |
 | 12 | [Na Gul](https://open.spotify.com/track/3ysGLacY2BHPZlfmNLlcbQ) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Night Reign](https://open.spotify.com/album/2JdE3ilolUGhsNkW1oQfvf) | 5:29 |
-| 13 | [Prayer Song](https://open.spotify.com/track/4dfxyErdt8o8WceKTpXTTQ) | [Terri Lyne Carrington](https://open.spotify.com/artist/02HpkiuAylAwAnQBswaXlP), [Social Science](https://open.spotify.com/artist/5DUkrv5eaZkCU9embIoyr5), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5), [Moor Mother](https://open.spotify.com/artist/4kANxfLenUobb7t5fHSrgA), [Rashaan Carter](https://open.spotify.com/artist/0aDfV9CStk7AwSQCurBKsQ), [Morgan Guerin](https://open.spotify.com/artist/17j0vWqj5tc8GO1U3izp8d) | [Trip the Night Fantastic](https://open.spotify.com/album/1q5gdBspvO2o1fkcHAAMh0) | 5:37 |
-| 14 | [Man Kunto Maula](https://open.spotify.com/track/3184CMyowuchbfDlpM1rop) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Bird Under Water](https://open.spotify.com/album/1NAirccLvSolVSRuDNQ61R) | 8:17 |
+| 13 | [Man Kunto Maula](https://open.spotify.com/track/3184CMyowuchbfDlpM1rop) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Bird Under Water](https://open.spotify.com/album/1NAirccLvSolVSRuDNQ61R) | 8:17 |
+| 14 | [Prayer Song](https://open.spotify.com/track/4dfxyErdt8o8WceKTpXTTQ) | [Terri Lyne Carrington](https://open.spotify.com/artist/02HpkiuAylAwAnQBswaXlP), [Social Science](https://open.spotify.com/artist/5DUkrv5eaZkCU9embIoyr5), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5), [Moor Mother](https://open.spotify.com/artist/4kANxfLenUobb7t5fHSrgA), [Rashaan Carter](https://open.spotify.com/artist/0aDfV9CStk7AwSQCurBKsQ), [Morgan Guerin](https://open.spotify.com/artist/17j0vWqj5tc8GO1U3izp8d) | [Trip the Night Fantastic](https://open.spotify.com/album/1q5gdBspvO2o1fkcHAAMh0) | 5:37 |
 | 15 | [Diya Hai](https://open.spotify.com/track/5kxJ6PiADtz7kxMr9mBYBS) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5), [Badi Assad](https://open.spotify.com/artist/5FjCbWsyUcmYeuOweDuyqs) | [Vulture Prince](https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH) | 5:40 |
 | 16 | [Whiskey](https://open.spotify.com/track/2ZeVYOdBt4wqY5u7T54yWT) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Night Reign](https://open.spotify.com/album/2JdE3ilolUGhsNkW1oQfvf) | 5:07 |
 | 17 | [Sweet Dreams \(Are Made Of This\)](https://open.spotify.com/track/0cBwTa35pfbzD3vo5W519M) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Bait \(Music From & Inspired by the Original Series\)](https://open.spotify.com/album/03ZfkSBjBDBWbI5b7yjtzX) | 3:29 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZVXOdW.md) - [plain]
 | 42 | [Sharabi](https://open.spotify.com/track/3vIyVXqOTGNtLDoZ2zQ7Hw) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5), [Vijay Iyer](https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6), [Shahzad Ismaily](https://open.spotify.com/artist/4FaBmP30QiO2lXc3yyuqrV) | [Love In Exile](https://open.spotify.com/album/0nP1MzWoPnLfLglLS0v4CQ) | 13:35 |
 | 43 | [Starling](https://open.spotify.com/track/5AYoaXGvbUYMnMlfAP62uT) | [Danshin](https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Tails Noir \(Original Game Soundtrack\)](https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy) | 3:05 |
 
-Snapshot ID: `asmAAAAAAABvzl4NdfMSraGJyYtvNIjf`
+Snapshot ID: `asrRgAAAAAAtifyvbnwYZw28g7qiyWEZ`

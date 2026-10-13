@@ -4,7 +4,7 @@
 
 > This is Chief Commander Ebenezer Obey\. The essential tracks, all in one playlist.
 
-126 songs - 20 hr 45 min
+127 songs - 20 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,8 +103,9 @@
 | [Ondo Ogbomosho \(Juju Yoruba\)](https://open.spotify.com/track/2QwKlafIg1jxYTixvM11eP) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Ebenezer Obey in London](https://open.spotify.com/album/02N1jGGr6BjwUFO2KlCN9t) | 6:02 | 2021-12-28 | 2025-07-29 |
 | [Ope Fun Oluwa](https://open.spotify.com/track/1yLSuh0RjDNBqGZHvBwQ1D) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Obey In the 60's \(Vol 1\)](https://open.spotify.com/album/5d7oZqNlwwvJCSExmupLH9) | 2:57 | 2021-12-28 | 2025-05-07 |
 | [Ope Fun Oluwa](https://open.spotify.com/track/5fVEYXrfBe1zsKrAu37J3w) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs 50](https://open.spotify.com/album/6dqxA3R56pAP0pelY8b0N6) | 4:29 | 2025-05-07 |  |
-| [Ore Mi E Se Pelepele](https://open.spotify.com/track/1tHSyy1LN1I9lbCL5Wo99V) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [51 Lex Presents: Awa Sope Odun](https://open.spotify.com/album/1D8sdbN0jvtRGd9QeewDVv) | 2:50 | 2022-11-21 |  |
+| [Ore Mi E Se Pelepele](https://open.spotify.com/track/1tHSyy1LN1I9lbCL5Wo99V) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [51 Lex Presents: Awa Sope Odun](https://open.spotify.com/album/1D8sdbN0jvtRGd9QeewDVv) | 2:50 | 2022-11-21 | 2026-10-13 |
 | [Ore Mi E Se Pelepele](https://open.spotify.com/track/3FHFnDVYHkwe3sN7DZOeW7) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Origina 20](https://open.spotify.com/album/10eAPX33VJ9M19Uz216an5) | 2:50 | 2021-12-28 | 2022-08-25 |
+| [Ore Mi E Se Pelepele](https://open.spotify.com/track/0vbD60o3u4Me8edTuiowrK) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Awa Sope Odun](https://open.spotify.com/album/0hnr30caSCaFgDBBDBPhCm) | 2:57 | 2026-10-13 |  |
 | [Ore Mi Maje Aja](https://open.spotify.com/track/7e42KWNUCxJkdFR7dBbfOd) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Original 5](https://open.spotify.com/album/7Euc3Fn3Gax7MLO4F8u0Y7) | 5:05 | 2021-12-28 | 2023-01-21 |
 | [Ore se rere \(Juju High\-Life Yoruba\)](https://open.spotify.com/track/5KuAQ2HIw3x1UrFpPsvxGJ) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Ebenezer Obey in London](https://open.spotify.com/album/02N1jGGr6BjwUFO2KlCN9t) | 2:56 | 2024-05-10 | 2024-11-15 |
 | [Ori Mi Ko Ni Buru \(Jujju High\-Life Yoruba\)](https://open.spotify.com/track/4OhtSQcLWeArrHlFYhTrXZ) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Ebenezer Obey in London](https://open.spotify.com/album/02N1jGGr6BjwUFO2KlCN9t) | 3:23 | 2021-12-28 |  |

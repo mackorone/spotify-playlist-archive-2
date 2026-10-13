@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1813564,
+  "num_followers": 1813666,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -63,6 +63,26 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Blue (Da Ba Dee)",
+        "url": "https://open.spotify.com/album/3j90eFnVFEYzOVt024QCTf"
+      },
+      "artists": [
+        {
+          "name": "Eiffel 65",
+          "url": "https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "duration_ms": 219618,
+      "name": "Blue (Da Ba Dee) - Gabry Ponte Video Edit",
+      "url": "https://open.spotify.com/track/7lMIJ4EFWRVoAIPDpeGyM3"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Music Sounds Better With You",
         "url": "https://open.spotify.com/album/7Kusf5plZjl76X5ARWJbNO"
       },
@@ -87,26 +107,6 @@
       "duration_ms": 260906,
       "name": "Music Sounds Better With You - Radio Edit",
       "url": "https://open.spotify.com/track/1mv4lh1rW1K6xhxhJmEezy"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Blue (Da Ba Dee)",
-        "url": "https://open.spotify.com/album/3j90eFnVFEYzOVt024QCTf"
-      },
-      "artists": [
-        {
-          "name": "Eiffel 65",
-          "url": "https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF"
-        },
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        }
-      ],
-      "duration_ms": 219618,
-      "name": "Blue (Da Ba Dee) - Gabry Ponte Video Edit",
-      "url": "https://open.spotify.com/track/7lMIJ4EFWRVoAIPDpeGyM3"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -327,22 +327,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Pure... 90s Dance Party",
-        "url": "https://open.spotify.com/album/03awYMGLQWIlD1VyDwq1HF"
-      },
-      "artists": [
-        {
-          "name": "Faithless",
-          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
-        }
-      ],
-      "duration_ms": 215093,
-      "name": "Insomnia - Radio Edit",
-      "url": "https://open.spotify.com/track/3dX6WDwnHwYzB5t754oB4T"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Toca (20th Anniversary Edition)",
         "url": "https://open.spotify.com/album/2snIy07hupBGM5rLYtgImH"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 200483,
       "name": "Toca's Miracle - Radio Edit",
       "url": "https://open.spotify.com/track/6oE5yvroDXWNYWpIFz2JJB"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Pure... 90s Dance Party",
+        "url": "https://open.spotify.com/album/03awYMGLQWIlD1VyDwq1HF"
+      },
+      "artists": [
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        }
+      ],
+      "duration_ms": 215093,
+      "name": "Insomnia - Radio Edit",
+      "url": "https://open.spotify.com/track/3dX6WDwnHwYzB5t754oB4T"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -763,18 +763,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Underlying Feeling",
-        "url": "https://open.spotify.com/album/3UTLZYi4Mk1fAsEteWp58u"
+        "name": "Girlfriend (2008 Remix)",
+        "url": "https://open.spotify.com/album/78ehClbvFAiT3iJjJrNml9"
       },
       "artists": [
         {
-          "name": "Sylvia Tosun",
-          "url": "https://open.spotify.com/artist/0DhprLDFQGaundr4WVi9P1"
+          "name": "Robbie Rivera",
+          "url": "https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP"
+        },
+        {
+          "name": "Keylime",
+          "url": "https://open.spotify.com/artist/0Id47LmcZuneJKiCqlsSJA"
         }
       ],
-      "duration_ms": 224842,
-      "name": "Underlying Feeling - Adam K & Soha Radio Edit",
-      "url": "https://open.spotify.com/track/3RaCcyWwRIdczuefF10UCb"
+      "duration_ms": 435986,
+      "name": "Girlfriend - 2008 Remix",
+      "url": "https://open.spotify.com/track/04hY9ZE6jatvZjsu1Q9nPc"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -803,22 +807,18 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Girlfriend (2008 Remix)",
-        "url": "https://open.spotify.com/album/78ehClbvFAiT3iJjJrNml9"
+        "name": "Underlying Feeling",
+        "url": "https://open.spotify.com/album/3UTLZYi4Mk1fAsEteWp58u"
       },
       "artists": [
         {
-          "name": "Robbie Rivera",
-          "url": "https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP"
-        },
-        {
-          "name": "Keylime",
-          "url": "https://open.spotify.com/artist/0Id47LmcZuneJKiCqlsSJA"
+          "name": "Sylvia Tosun",
+          "url": "https://open.spotify.com/artist/0DhprLDFQGaundr4WVi9P1"
         }
       ],
-      "duration_ms": 435986,
-      "name": "Girlfriend - 2008 Remix",
-      "url": "https://open.spotify.com/track/04hY9ZE6jatvZjsu1Q9nPc"
+      "duration_ms": 224842,
+      "name": "Underlying Feeling - Adam K & Soha Radio Edit",
+      "url": "https://open.spotify.com/track/3RaCcyWwRIdczuefF10UCb"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Don't Call Me Baby",
-        "url": "https://open.spotify.com/album/5L0SjLio3BQhFfvLxS5Eg7"
-      },
-      "artists": [
-        {
-          "name": "Madison Avenue",
-          "url": "https://open.spotify.com/artist/6otgz5gkB40UnWFwTy0VDh"
-        }
-      ],
-      "duration_ms": 228140,
-      "name": "Don't Call Me Baby",
-      "url": "https://open.spotify.com/track/4fazGt0v2v2zkzddQOcDZD"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Nervous Nitelife: Vegas",
         "url": "https://open.spotify.com/album/7wKLfPH7nZs3E7McMPFP62"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 357160,
       "name": "Summerfish - Scandall Sunset On Ibiza Instrumental",
       "url": "https://open.spotify.com/track/2rVoUSkbUS0dbKrHkZN2mi"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Don't Call Me Baby",
+        "url": "https://open.spotify.com/album/5L0SjLio3BQhFfvLxS5Eg7"
+      },
+      "artists": [
+        {
+          "name": "Madison Avenue",
+          "url": "https://open.spotify.com/artist/6otgz5gkB40UnWFwTy0VDh"
+        }
+      ],
+      "duration_ms": 228140,
+      "name": "Don't Call Me Baby",
+      "url": "https://open.spotify.com/track/4fazGt0v2v2zkzddQOcDZD"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Call On Me",
-        "url": "https://open.spotify.com/album/4FN8F3aiiUagVSBBGW5ULu"
-      },
-      "artists": [
-        {
-          "name": "Eric Prydz",
-          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
-        }
-      ],
-      "duration_ms": 171360,
-      "name": "Call On Me - Radio Edit",
-      "url": "https://open.spotify.com/track/3uLSUZEmTY50H6Kw17lpfW"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Better Off Alone (Laidback Luke Remix)",
         "url": "https://open.spotify.com/album/1mujD0TLUx27MXlxune8nb"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 185613,
       "name": "Show Me Love (feat. Robin S) - Radio Edit",
       "url": "https://open.spotify.com/track/5Nzph7bpgv2GNh2DcVX29T"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Call On Me",
+        "url": "https://open.spotify.com/album/4FN8F3aiiUagVSBBGW5ULu"
+      },
+      "artists": [
+        {
+          "name": "Eric Prydz",
+          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
+        }
+      ],
+      "duration_ms": 171360,
+      "name": "Call On Me - Radio Edit",
+      "url": "https://open.spotify.com/track/3uLSUZEmTY50H6Kw17lpfW"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Movements",
+        "url": "https://open.spotify.com/album/52YO0uURAvAHYGWK38zP8r"
+      },
+      "artists": [
+        {
+          "name": "Booka Shade",
+          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+        }
+      ],
+      "duration_ms": 326840,
+      "name": "In White Rooms",
+      "url": "https://open.spotify.com/track/4m2RLN7imvsaLL1ZUGfFFw"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Floorfillers Club Anthems",
         "url": "https://open.spotify.com/album/7DL594iAHi5xd9zCayZbzE"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 190426,
       "name": "Take Me Away - Vocal Radio Mix",
       "url": "https://open.spotify.com/track/2DBZoeYzOGURGY3nj8XpC7"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Movements",
-        "url": "https://open.spotify.com/album/52YO0uURAvAHYGWK38zP8r"
-      },
-      "artists": [
-        {
-          "name": "Booka Shade",
-          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
-        }
-      ],
-      "duration_ms": 326840,
-      "name": "In White Rooms",
-      "url": "https://open.spotify.com/track/4m2RLN7imvsaLL1ZUGfFFw"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -2000,9 +2000,9 @@
           "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 404320,
-      "name": "Nyana",
-      "url": "https://open.spotify.com/track/3gVqtCpLK6tHeFbiU20QL6"
+      "duration_ms": 453146,
+      "name": "Sweet Misery",
+      "url": "https://open.spotify.com/track/5O71Sv4uv46dV9stV8Cujv"
     },
     {
       "added_at": "2024-07-12 15:40:20",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Frisse Nederlandse pop\. Cover: Samuel Welten
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,220 likes - 80 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,204 likes - 80 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,17 +17,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 7 | [Dicht Bij Het Vuur](https://open.spotify.com/track/7rXjKVKU9oYwl0TXPYPj3t) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Dicht Bij Het Vuur](https://open.spotify.com/album/28hXQjFqMi1OVhV7YAVL1s) | 3:44 |
 | 8 | [Niets Doen](https://open.spotify.com/track/1mEV7KSc5jqIBjRTXFU5D7) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Niets Doen](https://open.spotify.com/album/2k2s5a6JlV2olXRitmux9S) | 3:54 |
 | 9 | [Pokerface](https://open.spotify.com/track/599Q3PcqiQR3xDmaLIYttX) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo) | [Pokerface](https://open.spotify.com/album/2i0kTMuNjMe0wTmTFLKGq4) | 2:36 |
-| 10 | [De Echte](https://open.spotify.com/track/3ubs1pAO1vR2Irsqcg27V4) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh) | [De Echte](https://open.spotify.com/album/6MmU4KEF0bxmn4unaxnS7Z) | 2:34 |
+| 10 | [Voorbij](https://open.spotify.com/track/1HTIlXjgPKk7BQx7lUS8ML) | [Alessio](https://open.spotify.com/artist/6gFuwMAaoJDU6M3c8UHcAj), [Montana](https://open.spotify.com/artist/5JxBfSx4Hez2JQEqZy9xgb) | [Voorbij](https://open.spotify.com/album/4Y7q8OQaYg91BxZWerlBMV) | 2:14 |
 | 11 | [Passie](https://open.spotify.com/track/0FfFpBiLKxAnoUx2PYeVua) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2026 \(Zoë Livay\)](https://open.spotify.com/album/7CkFGcKMO939zANooTt2W4) | 3:59 |
 | 12 | [Overdosis](https://open.spotify.com/track/1sRugaIR5UKUh4aORiz6Dv) | [Line De Dauw](https://open.spotify.com/artist/5tzFHUjiUr3LkxuWK7ibBX) | [Overdosis](https://open.spotify.com/album/3ob1mhoyjL0E4hcKPsILA0) | 2:47 |
 | 13 | [Luzacstraat](https://open.spotify.com/track/5IH1bXoWQd64kOIwfpT1Kc) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Kijk Je Naar Mij?](https://open.spotify.com/album/0Dmabzo3P2nHBYb0fWpDZu) | 3:00 |
-| 14 | [Rapido](https://open.spotify.com/track/00WZWFbf7B5uGDIdWw5OmE) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB), [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Rapido](https://open.spotify.com/album/4GHjuL2otqfI3tRLk7v5XF) | 2:47 |
-| 15 | [Ik Zing](https://open.spotify.com/track/38rook8KIh6wCyPSK8CMBH) | [Clouseau](https://open.spotify.com/artist/1aK4CAEPdOJS3wBL0OnQts), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Ik Zing](https://open.spotify.com/album/491aQnOVV8alceqdFqtTam) | 3:42 |
-| 16 | [Niemand Wil Een Popster](https://open.spotify.com/track/4ylzEL9Fiz17Wh9ojfG0cL) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Niemand Wil Een Popster](https://open.spotify.com/album/33rXtwNcRKwvEM8w0vqVPQ) | 2:58 |
-| 17 | [Ik Beloof Je Dat Het Beter Wordt](https://open.spotify.com/track/5UP8PzhH0ljxvU0bT9qtvE) | [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Ik Beloof Je Dat Het Beter Wordt](https://open.spotify.com/album/57HWVtslY6u0w3DudtNhno) | 2:52 |
-| 18 | [Terug Naar Toen](https://open.spotify.com/track/5F96zcYJqIuBbKikZxeueb) | [Liv Webbers](https://open.spotify.com/artist/74he4SuOzyeqs99TYxvXcT) | [Terug Naar Toen](https://open.spotify.com/album/1KEsesYvD9y0anfFbbNMgK) | 2:25 |
-| 19 | [Voorbij](https://open.spotify.com/track/1HTIlXjgPKk7BQx7lUS8ML) | [Alessio](https://open.spotify.com/artist/6gFuwMAaoJDU6M3c8UHcAj), [Montana](https://open.spotify.com/artist/5JxBfSx4Hez2JQEqZy9xgb) | [Voorbij](https://open.spotify.com/album/4Y7q8OQaYg91BxZWerlBMV) | 2:14 |
-| 20 | [Het Komt Door Jou](https://open.spotify.com/track/7wvfe7WWSz3HHaa9epKMSx) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Aflevering 6 \- Jeangu Macrooy](https://open.spotify.com/album/5LRrDd1d285J0rSXCXqYX9) | 3:03 |
+| 14 | [Het Komt Door Jou](https://open.spotify.com/track/7wvfe7WWSz3HHaa9epKMSx) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Aflevering 6 \- Jeangu Macrooy](https://open.spotify.com/album/5LRrDd1d285J0rSXCXqYX9) | 3:03 |
+| 15 | [Rapido](https://open.spotify.com/track/00WZWFbf7B5uGDIdWw5OmE) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB), [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Rapido](https://open.spotify.com/album/4GHjuL2otqfI3tRLk7v5XF) | 2:47 |
+| 16 | [Ik Beloof Je Dat Het Beter Wordt](https://open.spotify.com/track/5UP8PzhH0ljxvU0bT9qtvE) | [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Ik Beloof Je Dat Het Beter Wordt](https://open.spotify.com/album/57HWVtslY6u0w3DudtNhno) | 2:52 |
+| 17 | [De Echte](https://open.spotify.com/track/3ubs1pAO1vR2Irsqcg27V4) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh) | [De Echte](https://open.spotify.com/album/6MmU4KEF0bxmn4unaxnS7Z) | 2:34 |
+| 18 | [Ik Zing](https://open.spotify.com/track/38rook8KIh6wCyPSK8CMBH) | [Clouseau](https://open.spotify.com/artist/1aK4CAEPdOJS3wBL0OnQts), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Ik Zing](https://open.spotify.com/album/491aQnOVV8alceqdFqtTam) | 3:42 |
+| 19 | [Niemand Wil Een Popster](https://open.spotify.com/track/4ylzEL9Fiz17Wh9ojfG0cL) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Niemand Wil Een Popster](https://open.spotify.com/album/33rXtwNcRKwvEM8w0vqVPQ) | 2:58 |
+| 20 | [Terug Naar Toen](https://open.spotify.com/track/5F96zcYJqIuBbKikZxeueb) | [Liv Webbers](https://open.spotify.com/artist/74he4SuOzyeqs99TYxvXcT) | [Terug Naar Toen](https://open.spotify.com/album/1KEsesYvD9y0anfFbbNMgK) | 2:25 |
 | 21 | [Casually Obsessed](https://open.spotify.com/track/1ZrgtIdrzkmrAu7W9C85t7) | [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [Ms\. Lauren](https://open.spotify.com/album/1V1B6QOOeJexGmKbgHDIWL) | 2:20 |
 | 22 | [Gianni](https://open.spotify.com/track/3bZCTz8RuBTvcYXoVFxWga) | [Linde Schöne](https://open.spotify.com/artist/0XnberZ5D2ZUrwBm4RfFi4) | [Gianni](https://open.spotify.com/album/0HRvk6rOkS2nUIGzJfH4BA) | 3:02 |
 | 23 | [Patronen](https://open.spotify.com/track/5AfyTEjCIe7A774ZRkD326) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2026 \(Yves Berendse\)](https://open.spotify.com/album/4SRtdeedZBNyRWEOOkJMmF) | 4:00 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 79 | [Allang Van Mij](https://open.spotify.com/track/6cmxD3gXSujTVgEqEygqTL) | [Vincent Visser](https://open.spotify.com/artist/5Pt6RzzwjfVqE0TWHyK101) | [Allang Van Mij](https://open.spotify.com/album/6ZK2NXTLHNzid9R826LbCC) | 2:45 |
 | 80 | [Wat Er Morgen Komt](https://open.spotify.com/track/4wM8F7SWTi3TywSEOFiF6L) | [Van Dik Hout](https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo) | [Wat Er Morgen Komt](https://open.spotify.com/album/792TgZ3757WTiZjv4fovlt) | 2:46 |
 
-Snapshot ID: `AAAAALkbSEsSDzz5JBM6GVhFcJE2p+HJ`
+Snapshot ID: `AAAAAGOMvrs3MVajnH5/qUSuw+sk2w+F`

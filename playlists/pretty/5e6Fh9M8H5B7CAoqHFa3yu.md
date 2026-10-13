@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 358 likes - 2,743 songs - 6 day 15 hr 47 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 358 likes - 2,748 songs - 6 day 16 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2751,5 +2751,10 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2741 | [The Frame](https://open.spotify.com/track/2n8swjsvLVGr9g4kGq285Q) | [Hasamura](https://open.spotify.com/artist/1bbe83p1En6vfNkPTvTErG) | [Timewave](https://open.spotify.com/album/0Uwi3TbDhS0BdFe3S0hsnb) | 4:43 |
 | 2742 | [i wish i could forget](https://open.spotify.com/track/0bDCWL9NJFMOWbiyaxim95) | [Cold Water](https://open.spotify.com/artist/5kazB8wdgdWlnTuByuKYVw) | [i wish i could forget](https://open.spotify.com/album/6ILNFS3HG0VqlvyKjeserQ) | 1:26 |
 | 2743 | [Slow Morning](https://open.spotify.com/track/0Ri3JL1PRvBwfIu7HTjk00) | [Bon Echo](https://open.spotify.com/artist/0cptB7nxVh6aCVkUZcrSLy) | [Slow Morning](https://open.spotify.com/album/3V64xs8qTljjhW5BRkiNum) | 1:30 |
+| 2744 | [We Have Harry Kane](https://open.spotify.com/track/6OXbPC5ncz1EstAgav1CbM) | [NextDoor Mage](https://open.spotify.com/artist/5cO4cQqabqnH68zkTuv5gd), [Luke Bringer](https://open.spotify.com/artist/45qgSwcEcW4UelBZB3WocF) | [We Have Harry Kane](https://open.spotify.com/album/4foeESK3ga493y8vurna3l) | 1:52 |
+| 2745 | [תמיד אוהב אותי \- Body 3](https://open.spotify.com/track/47tDMmD6e4VJyniEzM3TBg) | [Ori Ahinoam](https://open.spotify.com/artist/70OctIUrjKyvFMHEOo4hTw), [Alon Lifshitz](https://open.spotify.com/artist/3tKq0F7PTmGqj1cpN4cIG2), [Gal Inbar](https://open.spotify.com/artist/7yc1iwjMNqWMIWDZR4F5H8) | [Three Body Solution](https://open.spotify.com/album/7KvAjtGdHHUo1aFEEO9NC5) | 7:30 |
+| 2746 | [Runnin' Down A Dream](https://open.spotify.com/track/4cygbs2nGxNUW83x7Gceip) | [W\. Charles Hall](https://open.spotify.com/artist/1YJgR9U2T5deghpvxv7VSj) | [Heartland](https://open.spotify.com/album/3qamfjUyjGNTFBDxI6g9uY) | 4:06 |
+| 2747 | [Tô de Boa](https://open.spotify.com/track/15hI0GEN7t3t0NBDeKbfTZ) | [J\. Bernard](https://open.spotify.com/artist/6cw4bvntntvCFSZ6zS2nx2) | [Tô de Boa](https://open.spotify.com/album/581fmi1sdvGarhkV6mbVEy) | 1:59 |
+| 2748 | [Always Me](https://open.spotify.com/track/2eeZ7feQjjbj7K8mM8ZVyE) | [Cloud Static](https://open.spotify.com/artist/3c0gCqBOn3TsFMJ0XFVGra) | [Always Me](https://open.spotify.com/album/5GETAmuKeALaBNvgWCNFv0) | 2:34 |
 
-Snapshot ID: `AAALwGLp9aILj1BTVZ4HNVTzV39vcbMD`
+Snapshot ID: `AAALxUs7tSmzhD77WOP/XXqSdS9szxbW`

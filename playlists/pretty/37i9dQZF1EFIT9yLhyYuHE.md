@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIT9yLhyYuHE.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4wCJ7LHeFGJxtYRwCxFHOA">Charlene Meulenberg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86 likes - 9 songs - 25 min 25 sec
+[Spotify](https://open.spotify.com/user/spotify) - 86 likes - 10 songs - 29 min 41 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,5 +17,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIT9yLhyYuHE.md) - [plain]
 | 7 | [Automatic](https://open.spotify.com/track/4jX9g4ulmQaHtQUYv6FIEH) | [Paul Mayson](https://open.spotify.com/artist/2aSbTqzj52OymR8fEx4dca) | [One Life](https://open.spotify.com/album/6yVtJqVevwUOlZSA7FxTlG) | 2:50 |
 | 8 | [Esta Noche](https://open.spotify.com/track/67v9RxHvSKpuKAMiayfXYP) | [Denise Faro](https://open.spotify.com/artist/2FtfhftN2XCuRFblobGGDX) | [Esta Noche](https://open.spotify.com/album/1wO5BYi995trUEdWvfSk61) | 3:21 |
 | 9 | [Hold Me](https://open.spotify.com/track/2kDRN8L3nVihuFt2yDAhOK) | [Freejak](https://open.spotify.com/artist/3bhHEBJ3RJGTyOGp0KIB11), [Cara Melín](https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8), [Benno](https://open.spotify.com/artist/4HYjlPJLk1PyVwuuy63o6L) | [Hold Me](https://open.spotify.com/album/7vmXsXELhHmhrVYiONd3db) | 2:30 |
+| 10 | [I Got You](https://open.spotify.com/track/65vsAU45KgqKRvRx0WSPp8) | [Leroy Styles](https://open.spotify.com/artist/2MoxYOhy9ooC8KRcdgIFif), [Cara Melín](https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8) | [Rebirth](https://open.spotify.com/album/3A86ZfahL8jBCWGT1Put5n) | 4:15 |
 
-Snapshot ID: `AcesRAAAAACeh5m33w3ZzT/FTcJYem26`
+Snapshot ID: `AceyIAAAAADH3Nw8j/JLzkAytVfkrr37`

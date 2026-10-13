@@ -4,7 +4,7 @@
 
 > The hottest out the South\. Cover: Gunna
 
-2,967 songs - 5 day 17 hr 56 min
+2,968 songs - 5 day 17 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2291,6 +2291,7 @@
 | [Sexin Me \(Never Broke Again feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/7KroBq1fSWb7yYSJag3EXa) | [Never Broke Again](https://open.spotify.com/artist/5YyTs9tUWqcdI9kIQb85P2), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Never Broke Again Presents: Green Flag Activity](https://open.spotify.com/album/6p45iXHeIoALPPd3UPrdJO) | 2:32 | 2022-06-10 | 2022-07-16 |
 | [Sexxy](https://open.spotify.com/track/6dtaMcXlvmaNEwrMTUDrN3) | [Breskii](https://open.spotify.com/artist/2wVt4s4eHizk62Er2CLunw) | [Sexxy](https://open.spotify.com/album/2dc5uNgPeHZACvXFP0nrMB) | 3:17 | 2026-06-19 |  |
 | [Sexy Soulaan](https://open.spotify.com/track/0xH565ykWKUrYdcizBbz30) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Sexy Soulaan](https://open.spotify.com/album/3ChMIwC91eiIA6KMJNq8EK) | 2:02 | 2025-09-26 | 2025-10-18 |
+| [Sey Mami](https://open.spotify.com/track/0cZmwo85fwCqA1xTF4PPFA) | [Cinco Suave](https://open.spotify.com/artist/1WeKYh21pkgNuU1IfHGZVd) | [Sey Mami](https://open.spotify.com/album/0ksGtmJysm4zKtB0k6Auwr) | 1:48 | 2026-10-12 |  |
 | [SF5 Intro](https://open.spotify.com/track/4HPXpgjciNBu8Wm6q0WHyi) | [Tafia](https://open.spotify.com/artist/75s3jBhtUyWmQLLqzhIub4) | [SF5 Intro](https://open.spotify.com/album/5A6JHzNR1BsZsjt7nDkAsV) | 2:27 | 2026-04-17 | 2026-06-13 |
 | [SGA](https://open.spotify.com/track/17vu0Ttn2ArNqfX1pnNNYW) | [Zukenee](https://open.spotify.com/artist/3FFfAZsrsx8ot1m6H5vzQc) | [SGA](https://open.spotify.com/album/77wY1T1RU4DCaBxRHTGIuy) | 1:30 | 2026-03-27 | 2026-07-15 |
 | [Shackles to Diamonds](https://open.spotify.com/track/5e3gWKvlWtGLy5wh7tg1KY) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Mr\. Crawford Teaser](https://open.spotify.com/album/01aYWhU8KqQKOEKAzFrUOm) | 2:56 | 2022-03-18 | 2022-04-29 |

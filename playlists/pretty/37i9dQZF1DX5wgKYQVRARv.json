@@ -1,6 +1,6 @@
 {
   "description": "New and recent favorites of Prog Metal. Cover: Periphery",
-  "num_followers": 572105,
+  "num_followers": 572102,
   "original_name": "Progressive Metal",
   "owner": {
     "name": "Spotify",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
+        "name": "Charismatic Leaders",
+        "url": "https://open.spotify.com/album/6cEt44K9fifMdnTxMEyds7"
+      },
+      "artists": [
+        {
+          "name": "Wheel",
+          "url": "https://open.spotify.com/artist/4msm1QtpV7zMReePhbEQ6H"
+        }
+      ],
+      "duration_ms": 646400,
+      "name": "Submission",
+      "url": "https://open.spotify.com/track/75vZMlMCz2GUmfPtaDNAA2"
+    },
+    {
+      "added_at": "2026-05-15 04:02:10",
+      "album": {
         "name": "Flow",
         "url": "https://open.spotify.com/album/0tJxWTiYYvX7drrvzc2l5G"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 185503,
       "name": "Flow",
       "url": "https://open.spotify.com/track/0FB5RGj1qwh4x8grFbiYDn"
-    },
-    {
-      "added_at": "2026-05-15 04:02:10",
-      "album": {
-        "name": "Charismatic Leaders",
-        "url": "https://open.spotify.com/album/6cEt44K9fifMdnTxMEyds7"
-      },
-      "artists": [
-        {
-          "name": "Wheel",
-          "url": "https://open.spotify.com/artist/4msm1QtpV7zMReePhbEQ6H"
-        }
-      ],
-      "duration_ms": 646400,
-      "name": "Submission",
-      "url": "https://open.spotify.com/track/75vZMlMCz2GUmfPtaDNAA2"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
-        "name": "Rick Ranch",
-        "url": "https://open.spotify.com/album/23egjJfvGsThThz7eiqPy2"
-      },
-      "artists": [
-        {
-          "name": "Wolf & Bear",
-          "url": "https://open.spotify.com/artist/7DHLWUbPofoFR1yRFfgL5a"
-        }
-      ],
-      "duration_ms": 228461,
-      "name": "Rick Ranch",
-      "url": "https://open.spotify.com/track/1gLZbd6goTWHwtrp3LaNiy"
-    },
-    {
-      "added_at": "2026-05-15 04:02:10",
-      "album": {
         "name": "OXYGEN!",
         "url": "https://open.spotify.com/album/7sEkwo3nFDzAILuvSvCzf8"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 380480,
       "name": "OXYGEN!",
       "url": "https://open.spotify.com/track/01OuTCfQH5RKwMDaVvNEZ1"
+    },
+    {
+      "added_at": "2026-05-15 04:02:10",
+      "album": {
+        "name": "Rick Ranch",
+        "url": "https://open.spotify.com/album/23egjJfvGsThThz7eiqPy2"
+      },
+      "artists": [
+        {
+          "name": "Wolf & Bear",
+          "url": "https://open.spotify.com/artist/7DHLWUbPofoFR1yRFfgL5a"
+        }
+      ],
+      "duration_ms": 228461,
+      "name": "Rick Ranch",
+      "url": "https://open.spotify.com/track/1gLZbd6goTWHwtrp3LaNiy"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
-        "name": "How's The Heart? (Bonus Version)",
-        "url": "https://open.spotify.com/album/56LhvuOSc78r0wPojHtfwo"
-      },
-      "artists": [
-        {
-          "name": "Bloodred Hourglass",
-          "url": "https://open.spotify.com/artist/5LDGgIxaWuRV4KlY6oob6b"
-        }
-      ],
-      "duration_ms": 229975,
-      "name": "Only When I'm Breathing",
-      "url": "https://open.spotify.com/track/7yGR564nb0jMzLHQbC1ZwB"
-    },
-    {
-      "added_at": "2026-05-15 04:02:10",
-      "album": {
         "name": "16",
         "url": "https://open.spotify.com/album/25jWll9IwvwbKSChqKmMdG"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 382420,
       "name": "Splitting the Soul (feat. Ihsahn)",
       "url": "https://open.spotify.com/track/3HH1qLT6rCbk8BU9sCUgqd"
+    },
+    {
+      "added_at": "2026-05-15 04:02:10",
+      "album": {
+        "name": "How's The Heart? (Bonus Version)",
+        "url": "https://open.spotify.com/album/56LhvuOSc78r0wPojHtfwo"
+      },
+      "artists": [
+        {
+          "name": "Bloodred Hourglass",
+          "url": "https://open.spotify.com/artist/5LDGgIxaWuRV4KlY6oob6b"
+        }
+      ],
+      "duration_ms": 229975,
+      "name": "Only When I'm Breathing",
+      "url": "https://open.spotify.com/track/7yGR564nb0jMzLHQbC1ZwB"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
-        "name": "Winds of Time",
-        "url": "https://open.spotify.com/album/5fR2dtNeHgvBVawwNz1c0N"
-      },
-      "artists": [
-        {
-          "name": "Wings of Steel",
-          "url": "https://open.spotify.com/artist/0y43lCvntQtyFlhCABGb0T"
-        }
-      ],
-      "duration_ms": 640306,
-      "name": "Winds of Time",
-      "url": "https://open.spotify.com/track/7piaXNn95jDeesxcdLca7E"
-    },
-    {
-      "added_at": "2026-05-15 04:02:10",
-      "album": {
         "name": "The Phantom Void",
         "url": "https://open.spotify.com/album/3i6luWWKFx8rfVYfdfNV7E"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 473426,
       "name": "Phantom Void",
       "url": "https://open.spotify.com/track/5Q46MHpnqwiFcMIMGMjNVU"
+    },
+    {
+      "added_at": "2026-05-15 04:02:10",
+      "album": {
+        "name": "Winds of Time",
+        "url": "https://open.spotify.com/album/5fR2dtNeHgvBVawwNz1c0N"
+      },
+      "artists": [
+        {
+          "name": "Wings of Steel",
+          "url": "https://open.spotify.com/artist/0y43lCvntQtyFlhCABGb0T"
+        }
+      ],
+      "duration_ms": 640306,
+      "name": "Winds of Time",
+      "url": "https://open.spotify.com/track/7piaXNn95jDeesxcdLca7E"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -1959,6 +1959,26 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
+        "name": "humAnIty",
+        "url": "https://open.spotify.com/album/27UpDVJhVwusFYfSomvS2j"
+      },
+      "artists": [
+        {
+          "name": "Void Chapter",
+          "url": "https://open.spotify.com/artist/6hJhjhNdtSCfZhQiqN03lq"
+        },
+        {
+          "name": "The Anix",
+          "url": "https://open.spotify.com/artist/6nFvVbL2RN5czSm7NZjE51"
+        }
+      ],
+      "duration_ms": 322185,
+      "name": "Our Time is Now (feat. The Anix) - Extended",
+      "url": "https://open.spotify.com/track/6wph3xiQIXwpcVRhhXzsik"
+    },
+    {
+      "added_at": "2026-05-15 04:02:10",
+      "album": {
         "name": "Moon",
         "url": "https://open.spotify.com/album/4J6S42detU6cSBoQC4VSQi"
       },
@@ -1987,26 +2007,6 @@
       "duration_ms": 292093,
       "name": "Noir",
       "url": "https://open.spotify.com/track/7L3ocnzkhY2BXKKWBd7xOY"
-    },
-    {
-      "added_at": "2026-05-15 04:02:10",
-      "album": {
-        "name": "humAnIty",
-        "url": "https://open.spotify.com/album/27UpDVJhVwusFYfSomvS2j"
-      },
-      "artists": [
-        {
-          "name": "Void Chapter",
-          "url": "https://open.spotify.com/artist/6hJhjhNdtSCfZhQiqN03lq"
-        },
-        {
-          "name": "The Anix",
-          "url": "https://open.spotify.com/artist/6nFvVbL2RN5czSm7NZjE51"
-        }
-      ],
-      "duration_ms": 322185,
-      "name": "Our Time is Now (feat. The Anix) - Extended",
-      "url": "https://open.spotify.com/track/6wph3xiQIXwpcVRhhXzsik"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -2191,22 +2191,6 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
-        "name": "Subatlantic",
-        "url": "https://open.spotify.com/album/5EeaoNCpy5e8lI6NbV6h21"
-      },
-      "artists": [
-        {
-          "name": "The Ocean",
-          "url": "https://open.spotify.com/artist/6fuALtryzj4cq7vkglKLxq"
-        }
-      ],
-      "duration_ms": 415666,
-      "name": "Subatlantic",
-      "url": "https://open.spotify.com/track/5aQwquM8wHf0X7OktRg69P"
-    },
-    {
-      "added_at": "2026-05-15 04:02:10",
-      "album": {
         "name": "Overwhelming Love",
         "url": "https://open.spotify.com/album/7AKhS9gGnRyTEh6gsdnXpn"
       },
@@ -2223,18 +2207,18 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
-        "name": "Advent",
-        "url": "https://open.spotify.com/album/2fZv7TL9N67yLmb8lJbj5c"
+        "name": "Subatlantic",
+        "url": "https://open.spotify.com/album/5EeaoNCpy5e8lI6NbV6h21"
       },
       "artists": [
         {
-          "name": "Gus G.",
-          "url": "https://open.spotify.com/artist/6LEttL8kbm67tcEy84Qh5O"
+          "name": "The Ocean",
+          "url": "https://open.spotify.com/artist/6fuALtryzj4cq7vkglKLxq"
         }
       ],
-      "duration_ms": 243762,
-      "name": "Advent",
-      "url": "https://open.spotify.com/track/2px9mi7GbVZZ6RusPID9a3"
+      "duration_ms": 415666,
+      "name": "Subatlantic",
+      "url": "https://open.spotify.com/track/5aQwquM8wHf0X7OktRg69P"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -2251,6 +2235,22 @@
       "duration_ms": 562000,
       "name": "Lamentations By The Lochan",
       "url": "https://open.spotify.com/track/4fKscys0eDaqU6K3KCF2en"
+    },
+    {
+      "added_at": "2026-05-15 04:02:10",
+      "album": {
+        "name": "Advent",
+        "url": "https://open.spotify.com/album/2fZv7TL9N67yLmb8lJbj5c"
+      },
+      "artists": [
+        {
+          "name": "Gus G.",
+          "url": "https://open.spotify.com/artist/6LEttL8kbm67tcEy84Qh5O"
+        }
+      ],
+      "duration_ms": 243762,
+      "name": "Advent",
+      "url": "https://open.spotify.com/track/2px9mi7GbVZZ6RusPID9a3"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -2411,6 +2411,22 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
+        "name": "Piros kocsi, fekete \u00e9j",
+        "url": "https://open.spotify.com/album/0jLHOyvimhtp1UQEGfTF9z"
+      },
+      "artists": [
+        {
+          "name": "Thy Catafalque",
+          "url": "https://open.spotify.com/artist/4sgTqbA7htxYkRRJBPZIom"
+        }
+      ],
+      "duration_ms": 252237,
+      "name": "Piros kocsi, fekete \u00e9j",
+      "url": "https://open.spotify.com/track/5n4TEThz5HOTIohhi2PBr5"
+    },
+    {
+      "added_at": "2026-05-15 04:02:10",
+      "album": {
         "name": "Gallimaufry",
         "url": "https://open.spotify.com/album/5TqrK0OA6CcOtei9BmUHKK"
       },
@@ -2427,22 +2443,6 @@
       "duration_ms": 255743,
       "name": "Fragile Space",
       "url": "https://open.spotify.com/track/3jqbSOib3SFAp6hYSH0m18"
-    },
-    {
-      "added_at": "2026-05-15 04:02:10",
-      "album": {
-        "name": "Piros kocsi, fekete \u00e9j",
-        "url": "https://open.spotify.com/album/0jLHOyvimhtp1UQEGfTF9z"
-      },
-      "artists": [
-        {
-          "name": "Thy Catafalque",
-          "url": "https://open.spotify.com/artist/4sgTqbA7htxYkRRJBPZIom"
-        }
-      ],
-      "duration_ms": 252237,
-      "name": "Piros kocsi, fekete \u00e9j",
-      "url": "https://open.spotify.com/track/5n4TEThz5HOTIohhi2PBr5"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -2499,18 +2499,18 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
-        "name": "The Pyre",
-        "url": "https://open.spotify.com/album/5sGI2AS7F4DH5N24RiYr5q"
+        "name": "Envy",
+        "url": "https://open.spotify.com/album/2VA3u3c4lz0rZMisWxCIqN"
       },
       "artists": [
         {
-          "name": "A Swarm Of The Sun",
-          "url": "https://open.spotify.com/artist/0WYYIH0BaJCvkYFIO5AVTN"
+          "name": "Theraphosa",
+          "url": "https://open.spotify.com/artist/6KbRoNB73W0QozKoQ7T2Ge"
         }
       ],
-      "duration_ms": 1096346,
-      "name": "The Pyre",
-      "url": "https://open.spotify.com/track/1QPzDg5WQN90mpE32nIyr5"
+      "duration_ms": 270344,
+      "name": "Envy",
+      "url": "https://open.spotify.com/track/3BoLYG2QSpR1bCOhuTUsYR"
     }
   ],
   "unique_name": "Progressive Metal",

@@ -1,12 +1,12 @@
 {
   "description": "Today's biggest dance hits! Cover: Solomun, Dom Dolla, Skepta",
-  "num_followers": 449885,
+  "num_followers": 449853,
   "original_name": "Dance Generation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPbzOMlr9y+oWMpq/dluEhNNsXxv",
+  "snapshot_id": "AAAAAFEpjMbeg4Bc25W3sFKYyng977bU",
   "tracks": [
     {
       "added_at": "2026-10-08 13:00:19",
@@ -339,6 +339,26 @@
       "duration_ms": 192855,
       "name": "Nosebleeds",
       "url": "https://open.spotify.com/track/4nL8u0wNU4jUPNf0CnKzbp"
+    },
+    {
+      "added_at": "2026-10-12 23:28:42",
+      "album": {
+        "name": "Generic Everything",
+        "url": "https://open.spotify.com/album/2cu3mSocMVwnSnV9Ge69Do"
+      },
+      "artists": [
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 188624,
+      "name": "Carnage (feat. Little Simz)",
+      "url": "https://open.spotify.com/track/2DNHy7NQNQO40EkGlrgtkY"
     },
     {
       "added_at": "2026-10-08 13:00:19",
@@ -1343,42 +1363,6 @@
       "duration_ms": 169968,
       "name": "Out My Body",
       "url": "https://open.spotify.com/track/1pA3PUVtJALwxZIQ6wj42X"
-    },
-    {
-      "added_at": "2026-10-08 13:00:19",
-      "album": {
-        "name": "Groovejet (If This Ain\u2019t Love) [not without friends Remix]",
-        "url": "https://open.spotify.com/album/5eQfhNNii4T8pMQebfhrpF"
-      },
-      "artists": [
-        {
-          "name": "Spiller",
-          "url": "https://open.spotify.com/artist/4bmymFwDu9zLCiTRUmrewb"
-        },
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        },
-        {
-          "name": "not without friends",
-          "url": "https://open.spotify.com/artist/2KAgMiCIqPHTA04WRNrhWg"
-        },
-        {
-          "name": "Luke Alessi",
-          "url": "https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp"
-        },
-        {
-          "name": "Jordan Brando",
-          "url": "https://open.spotify.com/artist/1LvEV4mvbTOdntchECXeAO"
-        },
-        {
-          "name": "William Kiss",
-          "url": "https://open.spotify.com/artist/2AI2RMWWeOAhkMhrQgxyNx"
-        }
-      ],
-      "duration_ms": 180362,
-      "name": "Groovejet (If This Ain\u2019t Love) - not without friends Remix",
-      "url": "https://open.spotify.com/track/6yb14tUTLWfBStXgcQJbPV"
     },
     {
       "added_at": "2026-10-08 13:00:19",

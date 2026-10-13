@@ -2,9 +2,9 @@
 
 ### [Telugu Indie](https://open.spotify.com/playlist/37i9dQZF1DX3I9bqAkK5Dr)
 
-> Check out the emerging independent tracks from these Telugu Artists!<br/>Cover : Saloni
+> Check out the emerging independent tracks from these Telugu Artists!<br/>Cover : Dasagriva
 
-596 songs - 1 day 11 hr 24 min
+597 songs - 1 day 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [BABA MODE](https://open.spotify.com/track/6QT1yxqJUvCE96xkPJuLpw) | [Rowdraa](https://open.spotify.com/artist/4X6iChAN4eW4s811KHo9p4), [Aaron Zoro](https://open.spotify.com/artist/3z2zMAx64AvPE0HLXHinyC), [Sean Verse](https://open.spotify.com/artist/4B4XQnDHaGVHLCBpG4uzdV) | [BABA MODE](https://open.spotify.com/album/6l1AZ4PoY7YnK2KHhuV4WX) | 2:48 | 2026-07-01 |  |
 | [Badlove](https://open.spotify.com/track/4JKJkslEo77sWeJ5dAAIxp) | [Priyadarshan Balasubramanian](https://open.spotify.com/artist/3h6fcAII4NEJ5oPu3VUEdH), [Feroz Israel](https://open.spotify.com/artist/5YBkkXErEv1axnFc6kxsPQ) | [Badlove](https://open.spotify.com/album/6KbFNnagvVLfTGYRrqvS2L) | 3:20 | 2025-02-03 | 2025-08-01 |
 | [Bagundhiley](https://open.spotify.com/track/2NqXqilVdviS616yjTlpeg) | [Fleep & Arin](https://open.spotify.com/artist/2zRyvhoEFi8FPPf32qOVSl) | [Bagundhiley](https://open.spotify.com/album/2Tvhfw6AmuuFgzfcBEpaCS) | 3:35 | 2026-05-29 |  |
+| [Bandh Chesko \- From "Think Indie"](https://open.spotify.com/track/3AizCMDZU3QZRSSCN9uANw) | [Dasagriva](https://open.spotify.com/artist/2W6JEglcLHFJkD4uwqhhCn), [CLOWNY BEATZZ](https://open.spotify.com/artist/4AZNZr8cunGj8kKj81NGFm) | [Bandh Chesko \(From "Think Indie"\)](https://open.spotify.com/album/1ueqGUERs9VbsxDwYjDLf0) | 3:35 | 2026-10-13 |  |
 | [Bangaram](https://open.spotify.com/track/2snhZ3f3oy2HZiQhkpldqJ) | [Afroz Ali](https://open.spotify.com/artist/163z7nRHrdBeQtMSIUacZW), [Sameera Bharadwaj](https://open.spotify.com/artist/10CItw8tdXThklMWPI55vu), [Demon pavan](https://open.spotify.com/artist/7kTNpD0qqAj7w47lKnmr53), [Rithu chowdary](https://open.spotify.com/artist/2aeVHaVoodSftVbc5CX5Zs) | [Bangaram](https://open.spotify.com/album/7GbY5rwvglskAcSFvchmVK) | 3:06 | 2026-08-31 |  |
 | [Bangaru](https://open.spotify.com/track/09qjN4zFiZH8lcuINSJ5lk) | [Sreerama Chandra](https://open.spotify.com/artist/2bfyLSCw72lQ5qoD8cdVBB) | [Bangaru](https://open.spotify.com/album/51t7QiRHzfXqyiZ3euyglO) | 3:20 | 2025-11-11 | 2025-12-14 |
 | [Bangaru Bomma](https://open.spotify.com/track/48qXwLDpUe1LySShTJ7mh5) | [Madhavi Naresh](https://open.spotify.com/artist/2Le7dBedJ7iIuZCBjlOcwo) | [Bangaru Bomma](https://open.spotify.com/album/5UXhIZQ5mXymYPgKrn7Fsn) | 6:05 | 2026-03-05 | 2026-09-30 |
@@ -105,7 +106,7 @@
 | [Dream](https://open.spotify.com/track/7i6jmXMoOIkAMhCP7cIrGr) | [Shreedeep](https://open.spotify.com/artist/5iHRrEoxdYUpAES9n0EYzu), [Tejashwi Padma](https://open.spotify.com/artist/39Fef3uM5lFcvIoVSZFhKZ) | [Dream](https://open.spotify.com/album/3fF8cyP87lOePeOCq3UZJT) | 3:34 | 2026-02-20 | 2026-09-26 |
 | [Drunkard On The Road](https://open.spotify.com/track/7t7nXXkHjaReVvr9plCax3) | [Pranav Chaganty](https://open.spotify.com/artist/3qMXirOtsqGAITRcMp8Dpo) | [Drunkard On The Road](https://open.spotify.com/album/5FVbWIhlp7LSJz08VT08PS) | 2:26 | 2023-02-15 | 2023-05-23 |
 | [E Kshanamey](https://open.spotify.com/track/6j5qKkJpWhRN88ltIAWlru) | [Eknaath](https://open.spotify.com/artist/52KBH8rcaOrSUejVA7KBoU) | [E Kshanamey](https://open.spotify.com/album/2X2FUV5zUfGAEyjGdVYqOM) | 3:18 | 2026-03-13 |  |
-| [Edho Varamila](https://open.spotify.com/track/3aBodknhLkUpac581YamqC) | [Akhil Chandra](https://open.spotify.com/artist/1KCetua5AbUq0QJqhga3qe), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4) | [Edho Varamila](https://open.spotify.com/album/6aUxYQX5Krg0aWNCTOTTOX) | 4:03 | 2026-04-15 |  |
+| [Edho Varamila](https://open.spotify.com/track/3aBodknhLkUpac581YamqC) | [Akhil Chandra](https://open.spotify.com/artist/1KCetua5AbUq0QJqhga3qe), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4) | [Edho Varamila](https://open.spotify.com/album/6aUxYQX5Krg0aWNCTOTTOX) | 4:03 | 2026-04-15 | 2026-10-13 |
 | [Edo Bhayam](https://open.spotify.com/track/6P2waqwcPRbHxsZqmzrSkk) | [Snigdha Sharma](https://open.spotify.com/artist/5UvSpmSgcPlDX49LTyvdfl) | [Edo Bhayam](https://open.spotify.com/album/5ptAuXYOstlXoGthcTkpeM) | 1:57 | 2024-10-07 | 2025-01-31 |
 | [Ee Dhooram](https://open.spotify.com/track/05xRro06AoS24cKRabrPMH) | [Nikhita Gurukula](https://open.spotify.com/artist/1XFT4IBVHDkk3Q6N83c0V7), [SS Vardhan](https://open.spotify.com/artist/0KoZrlePZVOyfMntY1RftL) | [Ee Dhooram](https://open.spotify.com/album/4WHiD2ROlMapOF9yDKejUs) | 3:13 | 2025-09-19 | 2026-01-31 |
 | [Ee Maaye Prema](https://open.spotify.com/track/76GLjMzjpF1H1eEXCCa5qf) | [Suman Vankara](https://open.spotify.com/artist/2eOybWItY2efNjJWY7QQjS), [Riya Birra](https://open.spotify.com/artist/06zzSAM2zmpuOeLPANUrGu) | [Ee Maaye Prema](https://open.spotify.com/album/7z6UZcpBFZvpEiJqHfUQAH) | 3:20 | 2024-01-03 | 2024-05-26 |

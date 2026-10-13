@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 
 > Nousussa olevat hitit\. 🌪️
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,483 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,477 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 39 | [Huvipuisto](https://open.spotify.com/track/3hE4jxLr5p29CynrK4zg4F) | [EEMELI](https://open.spotify.com/artist/71lHRJ8M9JmE3uZ5ZrTMiL) | [Huvipuisto](https://open.spotify.com/album/3ghZuBW3U57EdcmEmM4Mro) | 3:23 |
 | 40 | [Älä lannistu](https://open.spotify.com/track/50OEJKYCC6Z8bF2c8TyIs4) | [Päkä](https://open.spotify.com/artist/4xrzA9GQLSSuQ9fKqHd0SE), [PETRELL](https://open.spotify.com/artist/0AaCEhTBpPWnfVNK4kLiYS) | [Pullomeri](https://open.spotify.com/album/5ol0SGEohvaATPsXY3bQ1V) | 2:49 |
 | 41 | [Tehty elää \(feat\. Asla Jo\)](https://open.spotify.com/track/3AZor9wxZ9G4UmW38dK0cG) | [yaya](https://open.spotify.com/artist/4sxY8yotC6cWq0ZD2gPW2z), [Asla Jo](https://open.spotify.com/artist/5z6VH7BWb3QDIAhdMILyG4) | [Tehty elää \(feat\. Asla Jo\)](https://open.spotify.com/album/2nzCAGid389eK1QYzRN84d) | 2:55 |
-| 42 | [Santana](https://open.spotify.com/track/598SWcATgKhBcyhtMJBNgR) | [Jenni & Juho](https://open.spotify.com/artist/5uYU6UHu7wuyF2Oa4OjZnp) | [Santana](https://open.spotify.com/album/1fBQfan1acewdtJ0lt0DnT) | 2:52 |
-| 43 | [Yhteiset askeleet \(feat\. Bahamo\)](https://open.spotify.com/track/6Tl8Ke5x96Mep4w2I2PMXA) | [Kielletty Ruusu](https://open.spotify.com/artist/2sHFjyMe0EOZvnREwcgGSr), [Bahamo](https://open.spotify.com/artist/2waFsMVhlxp6dyCD4YIEps) | [Yhteiset askeleet](https://open.spotify.com/album/2b3r4ipLoU1rk0g6Z36aAS) | 3:08 |
+| 42 | [Yhteiset askeleet \(feat\. Bahamo\)](https://open.spotify.com/track/6Tl8Ke5x96Mep4w2I2PMXA) | [Kielletty Ruusu](https://open.spotify.com/artist/2sHFjyMe0EOZvnREwcgGSr), [Bahamo](https://open.spotify.com/artist/2waFsMVhlxp6dyCD4YIEps) | [Yhteiset askeleet](https://open.spotify.com/album/2b3r4ipLoU1rk0g6Z36aAS) | 3:08 |
+| 43 | [Santana](https://open.spotify.com/track/598SWcATgKhBcyhtMJBNgR) | [Jenni & Juho](https://open.spotify.com/artist/5uYU6UHu7wuyF2Oa4OjZnp) | [Santana](https://open.spotify.com/album/1fBQfan1acewdtJ0lt0DnT) | 2:52 |
 | 44 | [Kallio](https://open.spotify.com/track/0fGlYL8OWJM8hxiZgyRcmQ) | [Aatulove](https://open.spotify.com/artist/68tgBoDueRzHJqVOHYSGVm) | [Lohtulauluja](https://open.spotify.com/album/17ennUwc9eY9ZsNEuSlez5) | 2:06 |
 | 45 | [Ruusunen](https://open.spotify.com/track/2tXRHusp7SiSnYTk1Kmbuz) | [EMI](https://open.spotify.com/artist/0fZ4VC0udPzZNPi1yF88uB) | [Ruusunen](https://open.spotify.com/album/6hH5TyKIonQlYPjiijinl9) | 3:22 |
 | 46 | [Tyhmä](https://open.spotify.com/track/55HOqI6aUmBUBe0jHi9cz5) | [leba](https://open.spotify.com/artist/329hEYn8r1SUGkRomjKqRP) | [Tyhmä](https://open.spotify.com/album/5pV0o7QimNEYCw67DFOTJX) | 2:27 |
 | 47 | [Chanel](https://open.spotify.com/track/6aW2HT07ejN6YFdKGyFONi) | [Mjay](https://open.spotify.com/artist/4LyW2oFLhrNAMsNo7QzHE1) | [Chanel](https://open.spotify.com/album/5kviiiQHcdaCXnahu2a3nc) | 2:30 |
 | 48 | [Lehmityttö](https://open.spotify.com/track/1TAKLDnzz9IdQFLu7sozWO) | [Katariina Juselius](https://open.spotify.com/artist/075DeS26KHmrP8bteg75Om) | [Lehmityttö](https://open.spotify.com/album/09GBZbGAUDnoMvUcdrI4fw) | 3:15 |
 | 49 | [etkö sä nää?](https://open.spotify.com/track/0NGBbbo7fPs6tYvMy2uTGS) | [viola](https://open.spotify.com/artist/2Fqr0ihu3bCzXcY1j0gSyP) | [etkö sä nää?](https://open.spotify.com/album/1GIQL59f1EekF4EGiE5SUr) | 3:25 |
-| 50 | [Sori täti](https://open.spotify.com/track/0S7JHKWm7M11juyTnaIHcb) | [TINA](https://open.spotify.com/artist/3wm3F9NVTrqDmkdG80qISm) | [Sori täti](https://open.spotify.com/album/4v6Im6iFdS0C82jOSYvmCl) | 3:06 |
+| 50 | [Pilvenpiirtäjät](https://open.spotify.com/track/73I9BEWL543fECv8svC4Ag) | [Ruletti](https://open.spotify.com/artist/4gwwt7saKvdjebQgIHRyaC), [Melissa](https://open.spotify.com/artist/2Ad6Z1GThSF2pyR0A4HKLn) | [Pilvenpiirtäjät](https://open.spotify.com/album/5sWMhpLwiIa2mnzEGRv9bk) | 3:33 |
 
 Snapshot ID: `AAAAAENKNog510YZvSEFiXMIL3vvuYVn`

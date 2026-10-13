@@ -1,6 +1,6 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Frank Mastra",
-  "num_followers": 429040,
+  "num_followers": 429069,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,22 @@
     {
       "added_at": "2026-10-02 04:01:36",
       "album": {
+        "name": "Fire Drill",
+        "url": "https://open.spotify.com/album/2vhA82VBs18qhzEr3yoJ7F"
+      },
+      "artists": [
+        {
+          "name": "Harper O'Neill",
+          "url": "https://open.spotify.com/artist/4jmirGdgyRdMSmoZSmM6yg"
+        }
+      ],
+      "duration_ms": 222793,
+      "name": "Fire Drill",
+      "url": "https://open.spotify.com/track/0L8tkxpgoSrRjML2kXL5Eo"
+    },
+    {
+      "added_at": "2026-10-02 04:01:36",
+      "album": {
         "name": "The Illusion Of Love (feat. Lukas Nelson)",
         "url": "https://open.spotify.com/album/2ORyv79ovybfjEdkR4OM9A"
       },
@@ -555,18 +571,18 @@
     {
       "added_at": "2026-10-02 04:01:36",
       "album": {
-        "name": "Fire Drill",
-        "url": "https://open.spotify.com/album/2vhA82VBs18qhzEr3yoJ7F"
+        "name": "Lay Down In a Pickup",
+        "url": "https://open.spotify.com/album/2fGhy7gI0d0R5etraxu7YF"
       },
       "artists": [
         {
-          "name": "Harper O'Neill",
-          "url": "https://open.spotify.com/artist/4jmirGdgyRdMSmoZSmM6yg"
+          "name": "Alex Lambert",
+          "url": "https://open.spotify.com/artist/6iQBhWmcQcl9s4w1hL5lnN"
         }
       ],
-      "duration_ms": 222793,
-      "name": "Fire Drill",
-      "url": "https://open.spotify.com/track/0L8tkxpgoSrRjML2kXL5Eo"
+      "duration_ms": 206806,
+      "name": "Lay Down In a Pickup",
+      "url": "https://open.spotify.com/track/6wsdEj8UWkIptEkBTIRAv0"
     },
     {
       "added_at": "2026-10-02 04:01:36",
@@ -603,22 +619,6 @@
     {
       "added_at": "2026-10-02 04:01:36",
       "album": {
-        "name": "Lay Down In a Pickup",
-        "url": "https://open.spotify.com/album/2fGhy7gI0d0R5etraxu7YF"
-      },
-      "artists": [
-        {
-          "name": "Alex Lambert",
-          "url": "https://open.spotify.com/artist/6iQBhWmcQcl9s4w1hL5lnN"
-        }
-      ],
-      "duration_ms": 206806,
-      "name": "Lay Down In a Pickup",
-      "url": "https://open.spotify.com/track/6wsdEj8UWkIptEkBTIRAv0"
-    },
-    {
-      "added_at": "2026-10-02 04:01:36",
-      "album": {
         "name": "Delilah",
         "url": "https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ"
       },
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-10-02 04:01:36",
       "album": {
-        "name": "Sideways",
-        "url": "https://open.spotify.com/album/1ikP6HnW0jO7ILAmmgBf4r"
-      },
-      "artists": [
-        {
-          "name": "Josh Gilligan",
-          "url": "https://open.spotify.com/artist/46g5hcuu0pLv0KYtk3m899"
-        }
-      ],
-      "duration_ms": 200160,
-      "name": "Sammy G's",
-      "url": "https://open.spotify.com/track/23xsBjHKk0SisnMHrJzemJ"
-    },
-    {
-      "added_at": "2026-10-02 04:01:36",
-      "album": {
         "name": "How To Get Away With Murder",
         "url": "https://open.spotify.com/album/4PyIO9NiEwHtHvIUihZvwD"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 171000,
       "name": "How To Get Away With Murder",
       "url": "https://open.spotify.com/track/62JXETIcpRBOlNz7xldjS1"
+    },
+    {
+      "added_at": "2026-10-02 04:01:36",
+      "album": {
+        "name": "Sideways",
+        "url": "https://open.spotify.com/album/1ikP6HnW0jO7ILAmmgBf4r"
+      },
+      "artists": [
+        {
+          "name": "Josh Gilligan",
+          "url": "https://open.spotify.com/artist/46g5hcuu0pLv0KYtk3m899"
+        }
+      ],
+      "duration_ms": 200160,
+      "name": "Sammy G's",
+      "url": "https://open.spotify.com/track/23xsBjHKk0SisnMHrJzemJ"
     },
     {
       "added_at": "2026-10-02 04:01:36",
@@ -847,6 +847,22 @@
     {
       "added_at": "2026-10-02 04:01:36",
       "album": {
+        "name": "Lost Child",
+        "url": "https://open.spotify.com/album/6JpOa88t7gWJ2rpjW8JQol"
+      },
+      "artists": [
+        {
+          "name": "Jim James",
+          "url": "https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4"
+        }
+      ],
+      "duration_ms": 211346,
+      "name": "Lost Child",
+      "url": "https://open.spotify.com/track/12nINXObjFpoofWmixLUrD"
+    },
+    {
+      "added_at": "2026-10-02 04:01:36",
+      "album": {
         "name": "Moonlit Breakers (feat. Dijon)",
         "url": "https://open.spotify.com/album/2wnS7uImW9YKItsZ0cyTxD"
       },
@@ -867,18 +883,18 @@
     {
       "added_at": "2026-10-02 04:01:36",
       "album": {
-        "name": "Lost Child",
-        "url": "https://open.spotify.com/album/6JpOa88t7gWJ2rpjW8JQol"
+        "name": "By The River",
+        "url": "https://open.spotify.com/album/7p55zVmytZ7Hg5op4VpDMb"
       },
       "artists": [
         {
-          "name": "Jim James",
-          "url": "https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4"
+          "name": "Davie",
+          "url": "https://open.spotify.com/artist/3LtkIxt8EHLpuXMOpFYZ06"
         }
       ],
-      "duration_ms": 211346,
-      "name": "Lost Child",
-      "url": "https://open.spotify.com/track/12nINXObjFpoofWmixLUrD"
+      "duration_ms": 159750,
+      "name": "By The River",
+      "url": "https://open.spotify.com/track/3hBXaSKCYYLgnwJ2qIcqUd"
     },
     {
       "added_at": "2026-10-02 04:01:36",
@@ -915,22 +931,6 @@
       "duration_ms": 250520,
       "name": "Searchlight (ft. Kashus Culpepper)",
       "url": "https://open.spotify.com/track/0cEwQVCHALAXWAHqIiqudp"
-    },
-    {
-      "added_at": "2026-10-02 04:01:36",
-      "album": {
-        "name": "By The River",
-        "url": "https://open.spotify.com/album/7p55zVmytZ7Hg5op4VpDMb"
-      },
-      "artists": [
-        {
-          "name": "Davie",
-          "url": "https://open.spotify.com/artist/3LtkIxt8EHLpuXMOpFYZ06"
-        }
-      ],
-      "duration_ms": 159750,
-      "name": "By The River",
-      "url": "https://open.spotify.com/track/3hBXaSKCYYLgnwJ2qIcqUd"
     },
     {
       "added_at": "2026-10-02 04:01:36",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-10-02 04:01:36",
       "album": {
-        "name": "Fake It Till You Make It",
-        "url": "https://open.spotify.com/album/5FwnR18zlJpfZxJKHwcO6z"
-      },
-      "artists": [
-        {
-          "name": "Honeybear, the Band",
-          "url": "https://open.spotify.com/artist/1t3BkCQTMTGykNPpmj7drk"
-        }
-      ],
-      "duration_ms": 219120,
-      "name": "Fake It Till You Make It",
-      "url": "https://open.spotify.com/track/4Gkug9PYnMDUAmfbk6r5sj"
-    },
-    {
-      "added_at": "2026-10-02 04:01:36",
-      "album": {
         "name": "The Very Last Day",
         "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 164533,
       "name": "Pining",
       "url": "https://open.spotify.com/track/2necAV33vY9L5x2SUXYZeY"
+    },
+    {
+      "added_at": "2026-10-02 04:01:36",
+      "album": {
+        "name": "Fake It Till You Make It",
+        "url": "https://open.spotify.com/album/5FwnR18zlJpfZxJKHwcO6z"
+      },
+      "artists": [
+        {
+          "name": "Honeybear, the Band",
+          "url": "https://open.spotify.com/artist/1t3BkCQTMTGykNPpmj7drk"
+        }
+      ],
+      "duration_ms": 219120,
+      "name": "Fake It Till You Make It",
+      "url": "https://open.spotify.com/track/4Gkug9PYnMDUAmfbk6r5sj"
     },
     {
       "added_at": "2026-10-02 04:01:36",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-10-02 04:01:36",
       "album": {
-        "name": "Logan Ledger",
-        "url": "https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD"
-      },
-      "artists": [
-        {
-          "name": "Logan Ledger",
-          "url": "https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM"
-        }
-      ],
-      "duration_ms": 321400,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/1kb4gNmvXUhQItlxnI6sLe"
-    },
-    {
-      "added_at": "2026-10-02 04:01:36",
-      "album": {
         "name": "The Very Last Day",
         "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 180013,
       "name": "The Very Last Day",
       "url": "https://open.spotify.com/track/76Fc9ApTagfE0DFLFdnMj1"
+    },
+    {
+      "added_at": "2026-10-02 04:01:36",
+      "album": {
+        "name": "Logan Ledger",
+        "url": "https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD"
+      },
+      "artists": [
+        {
+          "name": "Logan Ledger",
+          "url": "https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM"
+        }
+      ],
+      "duration_ms": 321400,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/1kb4gNmvXUhQItlxnI6sLe"
     },
     {
       "added_at": "2026-10-02 04:01:36",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2026-10-02 04:01:36",
       "album": {
-        "name": "Like We Used To",
-        "url": "https://open.spotify.com/album/1WhCCKtCd1se0iKebeeuqq"
-      },
-      "artists": [
-        {
-          "name": "Eli \"Paperboy\" Reed",
-          "url": "https://open.spotify.com/artist/37D1QyrEFNkcv0f62xo46x"
-        }
-      ],
-      "duration_ms": 229950,
-      "name": "Like We Used To",
-      "url": "https://open.spotify.com/track/43Vmbt88IU2nlHn6wb1fiz"
-    },
-    {
-      "added_at": "2026-10-02 04:01:36",
-      "album": {
         "name": "Hold On (Hourglass)",
         "url": "https://open.spotify.com/album/1xT90CemUTK48e1L3y7Pfx"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 203986,
       "name": "Something In The Water",
       "url": "https://open.spotify.com/track/5mSZyyhus6o620qkJbZ8yG"
+    },
+    {
+      "added_at": "2026-10-02 04:01:36",
+      "album": {
+        "name": "Like We Used To",
+        "url": "https://open.spotify.com/album/1WhCCKtCd1se0iKebeeuqq"
+      },
+      "artists": [
+        {
+          "name": "Eli \"Paperboy\" Reed",
+          "url": "https://open.spotify.com/artist/37D1QyrEFNkcv0f62xo46x"
+        }
+      ],
+      "duration_ms": 229950,
+      "name": "Like We Used To",
+      "url": "https://open.spotify.com/track/43Vmbt88IU2nlHn6wb1fiz"
     },
     {
       "added_at": "2026-10-02 04:01:36",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2026-10-02 04:01:36",
       "album": {
-        "name": "It's Been Too Long (Since I've Loved Someone)",
-        "url": "https://open.spotify.com/album/08VCMe5xh0XERXQrtqFhnv"
-      },
-      "artists": [
-        {
-          "name": "Bird and Byron",
-          "url": "https://open.spotify.com/artist/28VCKRVnl8KvcrvUVxpbLt"
-        }
-      ],
-      "duration_ms": 178081,
-      "name": "It's Been Too Long (Since I've Loved Someone)",
-      "url": "https://open.spotify.com/track/25Mf214vqBqOxgTgXevqZp"
-    },
-    {
-      "added_at": "2026-10-02 04:01:36",
-      "album": {
         "name": "Sister Andre",
         "url": "https://open.spotify.com/album/6J3yk0Qw2U2iGINcNelPQp"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 189466,
       "name": "Overtime",
       "url": "https://open.spotify.com/track/02RFtV8Z2L3M4zOpGkJfKN"
+    },
+    {
+      "added_at": "2026-10-02 04:01:36",
+      "album": {
+        "name": "It's Been Too Long (Since I've Loved Someone)",
+        "url": "https://open.spotify.com/album/08VCMe5xh0XERXQrtqFhnv"
+      },
+      "artists": [
+        {
+          "name": "Bird and Byron",
+          "url": "https://open.spotify.com/artist/28VCKRVnl8KvcrvUVxpbLt"
+        }
+      ],
+      "duration_ms": 178081,
+      "name": "It's Been Too Long (Since I've Loved Someone)",
+      "url": "https://open.spotify.com/track/25Mf214vqBqOxgTgXevqZp"
     },
     {
       "added_at": "2026-10-02 04:01:36",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2026-10-02 04:01:36",
       "album": {
-        "name": "Choose Love / It\u2019s Been Too Long",
-        "url": "https://open.spotify.com/album/7rcXmePnj6U9ScOvXkaMuU"
-      },
-      "artists": [
-        {
-          "name": "Ringo Starr",
-          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
-        }
-      ],
-      "duration_ms": 234801,
-      "name": "Choose Love",
-      "url": "https://open.spotify.com/track/1IRZD7Wz6WRy06v2BEofAr"
-    },
-    {
-      "added_at": "2026-10-02 04:01:36",
-      "album": {
         "name": "Grace Love and the True Loves",
         "url": "https://open.spotify.com/album/30LpiaV6x2Jv89Y2pQrFaK"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 183266,
       "name": "Nobody Sweeter",
       "url": "https://open.spotify.com/track/2f6gJU89sk9FT1ESUpxPG4"
+    },
+    {
+      "added_at": "2026-10-02 04:01:36",
+      "album": {
+        "name": "Choose Love / It\u2019s Been Too Long",
+        "url": "https://open.spotify.com/album/7rcXmePnj6U9ScOvXkaMuU"
+      },
+      "artists": [
+        {
+          "name": "Ringo Starr",
+          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
+        }
+      ],
+      "duration_ms": 234801,
+      "name": "Choose Love",
+      "url": "https://open.spotify.com/track/1IRZD7Wz6WRy06v2BEofAr"
     },
     {
       "added_at": "2026-10-02 04:01:36",

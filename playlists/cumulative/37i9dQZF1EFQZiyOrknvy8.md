@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0TXhxoo7C4jisEGDp8fiUS">Kalli</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-193 songs - 9 hr 43 min
+194 songs - 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Drei Uhr Nachts](https://open.spotify.com/track/4lWV6MBFNz9B9ZgNuC4bPC) | [Mark Forster](https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG), [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1) | [Drei Uhr Nachts \(Official Video\)](https://open.spotify.com/album/1mPqRAFIZ5fj7NlZxaPADh) | 2:40 | 2024-01-30 | 2024-02-01 |
 | [Drei Uhr Nachts](https://open.spotify.com/track/6NMA5MsBDOqwQuVT3IbwNj) | [Mark Forster](https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG), [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1) | [MUSKETIERE](https://open.spotify.com/album/0EbLUbzQzBFpAbyGjfDnAE) | 2:40 | 2024-01-29 |  |
 | [Drop It Down](https://open.spotify.com/track/7oHdGobTs66dcu7lA4TEWd) | [MALUGI](https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6) | [Drop It Down](https://open.spotify.com/album/6B8cJuwQEZFN0jmxs7X5EF) | 2:12 | 2024-02-27 |  |
+| [Drop That!](https://open.spotify.com/track/0yIytxEHCvUcSCVRvwwXEi) | [CLOSE YOUR EYES](https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5) | [256th Note](https://open.spotify.com/album/4gn5qA9UixpTwnP9Q0XKLW) | 3:02 | 2026-10-12 |  |
 | [Drunk On You](https://open.spotify.com/track/25HWrN7rPVMy7r7JlYZvsC) | [Zookeepers](https://open.spotify.com/artist/1frSJ3BwjRHE9jgMRQV5wC) | [Drunk On You](https://open.spotify.com/album/7oAvImtminoHsBgJFgKgCd) | 3:28 | 2024-01-29 |  |
 | [Du Fehlst Hier](https://open.spotify.com/track/01QqgzwltAoxvlXPvGnNJ7) | [bac](https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF) | [Du Fehlst Hier](https://open.spotify.com/album/6hqFDjBsVVljEJoR4MlCm2) | 2:49 | 2025-11-13 | 2025-12-18 |
 | [Du Fehlst Hier](https://open.spotify.com/track/5qD7oqZsxQ7JPSB4LE6EK8) | [bac](https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF) | [Halbzeit](https://open.spotify.com/album/5mbpVmDxFNVp1Y3QTI5mU5) | 2:49 | 2025-12-17 |  |

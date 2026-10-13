@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s fresh! Enrique Iglesias y Santos Bravos en portada \u2728",
-  "num_followers": 96535,
+  "num_followers": 96542,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
@@ -403,6 +403,38 @@
     {
       "added_at": "2026-10-09 06:00:14",
       "album": {
+        "name": "Soy Luna: Volver a rodar (Banda Sonora Original)",
+        "url": "https://open.spotify.com/album/6glYGr5mPdY0m1vt9mzNuO"
+      },
+      "artists": [
+        {
+          "name": "Elenco de Soy Luna",
+          "url": "https://open.spotify.com/artist/2mvVgc0UMgFwXGktcNmA6l"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
+        {
+          "name": "Karol Sevilla",
+          "url": "https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3"
+        },
+        {
+          "name": "Ruggero Pasquarelli",
+          "url": "https://open.spotify.com/artist/7uMsrJMSZWhL8IXO6YArQL"
+        },
+        {
+          "name": "Michael Ronda",
+          "url": "https://open.spotify.com/artist/0TRtXrrdp0uEmcdg5amrLt"
+        }
+      ],
+      "duration_ms": 165500,
+      "name": "Jet",
+      "url": "https://open.spotify.com/track/48k8Aqk90ytRKbhaRCPcc5"
+    },
+    {
+      "added_at": "2026-10-09 06:00:14",
+      "album": {
         "name": "saman\u00e1",
         "url": "https://open.spotify.com/album/1WlUsQsnYw5aANItfBxFRR"
       },
@@ -439,38 +471,6 @@
       "duration_ms": 193437,
       "name": "Si T\u00fa Te Vas",
       "url": "https://open.spotify.com/track/3qh9SrScSV7wEzIccdECR8"
-    },
-    {
-      "added_at": "2026-10-09 06:00:14",
-      "album": {
-        "name": "Soy Luna: Volver a rodar (Banda Sonora Original)",
-        "url": "https://open.spotify.com/album/6glYGr5mPdY0m1vt9mzNuO"
-      },
-      "artists": [
-        {
-          "name": "Elenco de Soy Luna",
-          "url": "https://open.spotify.com/artist/2mvVgc0UMgFwXGktcNmA6l"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        },
-        {
-          "name": "Karol Sevilla",
-          "url": "https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3"
-        },
-        {
-          "name": "Ruggero Pasquarelli",
-          "url": "https://open.spotify.com/artist/7uMsrJMSZWhL8IXO6YArQL"
-        },
-        {
-          "name": "Michael Ronda",
-          "url": "https://open.spotify.com/artist/0TRtXrrdp0uEmcdg5amrLt"
-        }
-      ],
-      "duration_ms": 165500,
-      "name": "Jet",
-      "url": "https://open.spotify.com/track/48k8Aqk90ytRKbhaRCPcc5"
     },
     {
       "added_at": "2026-10-09 06:00:14",
@@ -595,26 +595,6 @@
     {
       "added_at": "2026-10-09 06:00:14",
       "album": {
-        "name": "Diamantes",
-        "url": "https://open.spotify.com/album/6kn5ZIUlHA3NBsacObuBiU"
-      },
-      "artists": [
-        {
-          "name": "Bon Calso",
-          "url": "https://open.spotify.com/artist/7ayZ0ZHp9SC1Bp6rzDd6gu"
-        },
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 250006,
-      "name": "Diamantes",
-      "url": "https://open.spotify.com/track/7IwG40uAh2A39GQtqANRNW"
-    },
-    {
-      "added_at": "2026-10-09 06:00:14",
-      "album": {
         "name": "CHILDSTAR",
         "url": "https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH"
       },
@@ -631,34 +611,22 @@
     {
       "added_at": "2026-10-09 06:00:14",
       "album": {
-        "name": "Limonar",
-        "url": "https://open.spotify.com/album/6JKiblGr9JWNYFQ5qmbuN3"
+        "name": "Diamantes",
+        "url": "https://open.spotify.com/album/6kn5ZIUlHA3NBsacObuBiU"
       },
       "artists": [
         {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 195892,
-      "name": "Limonar",
-      "url": "https://open.spotify.com/track/5A0BHKTVDwtO2X20EDiZlG"
-    },
-    {
-      "added_at": "2026-10-09 06:00:14",
-      "album": {
-        "name": "Chance",
-        "url": "https://open.spotify.com/album/6EMUBfbdMpi708BLwQ9Sd9"
-      },
-      "artists": [
+          "name": "Bon Calso",
+          "url": "https://open.spotify.com/artist/7ayZ0ZHp9SC1Bp6rzDd6gu"
+        },
         {
-          "name": "DAAZ",
-          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
         }
       ],
-      "duration_ms": 156521,
-      "name": "Chance",
-      "url": "https://open.spotify.com/track/7HO32nFlwhg1uDC2KZKDN8"
+      "duration_ms": 250006,
+      "name": "Diamantes",
+      "url": "https://open.spotify.com/track/7IwG40uAh2A39GQtqANRNW"
     },
     {
       "added_at": "2026-10-09 06:00:14",
@@ -683,7 +651,39 @@
     {
       "added_at": "2026-10-09 06:00:14",
       "album": {
-        "name": "(no) te quiero perder [By Bershka Music]",
+        "name": "Chance",
+        "url": "https://open.spotify.com/album/6EMUBfbdMpi708BLwQ9Sd9"
+      },
+      "artists": [
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        }
+      ],
+      "duration_ms": 156521,
+      "name": "Chance",
+      "url": "https://open.spotify.com/track/7HO32nFlwhg1uDC2KZKDN8"
+    },
+    {
+      "added_at": "2026-10-09 06:00:14",
+      "album": {
+        "name": "Limonar",
+        "url": "https://open.spotify.com/album/6JKiblGr9JWNYFQ5qmbuN3"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 195892,
+      "name": "Limonar",
+      "url": "https://open.spotify.com/track/5A0BHKTVDwtO2X20EDiZlG"
+    },
+    {
+      "added_at": "2026-10-09 06:00:14",
+      "album": {
+        "name": "(no) te quiero perder [BY BERSHKA MUSIC]",
         "url": "https://open.spotify.com/album/3aDgxK43chuaG2UTt9HJ9E"
       },
       "artists": [
@@ -693,7 +693,7 @@
         }
       ],
       "duration_ms": 141663,
-      "name": "(no) te quiero perder - By Bershka Music",
+      "name": "(no) te quiero perder - BY BERSHKA MUSIC",
       "url": "https://open.spotify.com/track/7iOXb777qN8aqu8ulgZd6l"
     },
     {
@@ -915,6 +915,22 @@
     {
       "added_at": "2026-10-09 06:00:14",
       "album": {
+        "name": "HAGAMOS QUE PASE",
+        "url": "https://open.spotify.com/album/1sBviNCx9e0eiwqdlUShiB"
+      },
+      "artists": [
+        {
+          "name": "Maxi Espindola",
+          "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
+        }
+      ],
+      "duration_ms": 173112,
+      "name": "HAGAMOS QUE PASE",
+      "url": "https://open.spotify.com/track/34CbFmtuNcm7e3xZRUKLbw"
+    },
+    {
+      "added_at": "2026-10-09 06:00:14",
+      "album": {
         "name": "as\u00ed eres t\u00fa",
         "url": "https://open.spotify.com/album/1HRPSK8c5x45irt5w5fJUa"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 173621,
       "name": "as\u00ed eres t\u00fa",
       "url": "https://open.spotify.com/track/0PTWNq1YbL9XTbDf2P7v6d"
-    },
-    {
-      "added_at": "2026-10-09 06:00:14",
-      "album": {
-        "name": "HAGAMOS QUE PASE",
-        "url": "https://open.spotify.com/album/1sBviNCx9e0eiwqdlUShiB"
-      },
-      "artists": [
-        {
-          "name": "Maxi Espindola",
-          "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
-        }
-      ],
-      "duration_ms": 173112,
-      "name": "HAGAMOS QUE PASE",
-      "url": "https://open.spotify.com/track/34CbFmtuNcm7e3xZRUKLbw"
     },
     {
       "added_at": "2026-10-09 06:00:14",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2026-10-09 06:00:14",
       "album": {
+        "name": "Palomitas en la muela",
+        "url": "https://open.spotify.com/album/7corFIHXwhyIBKHF8Co9RE"
+      },
+      "artists": [
+        {
+          "name": "ANASOF",
+          "url": "https://open.spotify.com/artist/3f8A9SF4KU1QISytS4jxDm"
+        }
+      ],
+      "duration_ms": 173547,
+      "name": "Palomitas en la muela",
+      "url": "https://open.spotify.com/track/7ItcYYRng70afXbYmypbPW"
+    },
+    {
+      "added_at": "2026-10-09 06:00:14",
+      "album": {
         "name": "qu\u00e9 ves en m\u00ed? / interesante",
         "url": "https://open.spotify.com/album/4tcCh5G7uvLuG7MCC7M9pw"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 176470,
       "name": "Ve y Diles V2 - Remix",
       "url": "https://open.spotify.com/track/3NO1321RAnd9GmZoJANxlI"
-    },
-    {
-      "added_at": "2026-10-09 06:00:14",
-      "album": {
-        "name": "Palomitas en la muela",
-        "url": "https://open.spotify.com/album/7corFIHXwhyIBKHF8Co9RE"
-      },
-      "artists": [
-        {
-          "name": "ANASOF",
-          "url": "https://open.spotify.com/artist/3f8A9SF4KU1QISytS4jxDm"
-        }
-      ],
-      "duration_ms": 173547,
-      "name": "Palomitas en la muela",
-      "url": "https://open.spotify.com/track/7ItcYYRng70afXbYmypbPW"
     },
     {
       "added_at": "2026-10-09 06:00:14",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-10-09 06:00:14",
       "album": {
-        "name": "Tengamos Pasado",
-        "url": "https://open.spotify.com/album/5INXB8bPP0WzT5lLuhRSlF"
-      },
-      "artists": [
-        {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
-        }
-      ],
-      "duration_ms": 180648,
-      "name": "Tengamos Pasado",
-      "url": "https://open.spotify.com/track/4fBDh59Cybyp5UNqoNGRfP"
-    },
-    {
-      "added_at": "2026-10-09 06:00:14",
-      "album": {
         "name": "Lienzo",
         "url": "https://open.spotify.com/album/3PaifgkK7vVua23LjjhXEv"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 180643,
       "name": "Lienzo",
       "url": "https://open.spotify.com/track/6Z7Pj8Yq2rUWh9kT9NMmUN"
+    },
+    {
+      "added_at": "2026-10-09 06:00:14",
+      "album": {
+        "name": "Tengamos Pasado",
+        "url": "https://open.spotify.com/album/5INXB8bPP0WzT5lLuhRSlF"
+      },
+      "artists": [
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        }
+      ],
+      "duration_ms": 180648,
+      "name": "Tengamos Pasado",
+      "url": "https://open.spotify.com/track/4fBDh59Cybyp5UNqoNGRfP"
     },
     {
       "added_at": "2026-10-09 06:00:14",
@@ -1291,22 +1291,22 @@
     {
       "added_at": "2026-10-09 06:00:14",
       "album": {
-        "name": "VIGENTE",
-        "url": "https://open.spotify.com/album/5DAgbaRJwSxH1EiTAa0JRx"
+        "name": "MALVAS",
+        "url": "https://open.spotify.com/album/6kUKwicaYia3sYbgQyEtb2"
       },
       "artists": [
         {
-          "name": "El David Aguilar",
-          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
         },
         {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+          "name": "Paty Cant\u00fa",
+          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
         }
       ],
-      "duration_ms": 200125,
-      "name": "Lo Que Por Ti Yo Siento",
-      "url": "https://open.spotify.com/track/2ZPxOkXzHTULbQk5qv4B9s"
+      "duration_ms": 183760,
+      "name": "MALVAS",
+      "url": "https://open.spotify.com/track/1MtxOSpyeHEQEUV2NtkK1H"
     }
   ],
   "unique_name": "Oye Pop",

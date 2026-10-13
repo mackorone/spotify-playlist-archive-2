@@ -6964,7 +6964,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 202616,
       "name": "Mood Ring",
       "url": "https://open.spotify.com/track/7rDj3Mst01U7U6GmfHImZT"
@@ -8286,6 +8286,24 @@
       "duration_ms": 271320,
       "name": "porcelaine",
       "url": "https://open.spotify.com/track/18ymUE8BDQDnJIzebhk2PZ"
+    },
+    {
+      "album": {
+        "name": "Postcard",
+        "url": "https://open.spotify.com/album/2sd2am38eV9C5aKSnmZpAg"
+      },
+      "artists": [
+        {
+          "name": "Sophia Bel",
+          "url": "https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186468,
+      "name": "Postcard",
+      "url": "https://open.spotify.com/track/4WQ8w6jr2ZPZ021iUm2J1D"
     },
     {
       "album": {

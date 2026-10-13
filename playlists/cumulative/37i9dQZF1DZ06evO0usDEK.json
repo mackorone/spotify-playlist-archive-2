@@ -411,6 +411,24 @@
     },
     {
       "album": {
+        "name": "Quiet Fire",
+        "url": "https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323093,
+      "name": "Go up Moses",
+      "url": "https://open.spotify.com/track/6RZYinXxoXCrGqinRbqArU"
+    },
+    {
+      "album": {
         "name": "Love Lives Forever",
         "url": "https://open.spotify.com/album/5uBMH0TZQnMyDyMsDpYy1n"
       },
@@ -984,7 +1002,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 570800,
       "name": "Only Heaven Can Wait (For Love) / You Are My Heaven - Live Version",
       "url": "https://open.spotify.com/track/4maILRXT2aYEo6BxTSAk1U"

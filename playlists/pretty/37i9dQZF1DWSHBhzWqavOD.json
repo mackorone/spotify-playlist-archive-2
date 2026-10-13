@@ -1,6 +1,6 @@
 {
   "description": "The Biggest Afrobeats festival in World ",
-  "num_followers": 30553,
+  "num_followers": 30616,
   "original_name": "Afro Nation 2026",
   "owner": {
     "name": "Spotify",
@@ -663,26 +663,6 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
-        "name": "Lud Session #2: Modo Avi\u00e3o / A Tua Voz / 700 Por Hora / Radar / A M\u00fasica Mais Triste do Ano",
-        "url": "https://open.spotify.com/album/0zaigYjLBnB3JcrUwZEfNV"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 559903,
-      "name": "Lud Session #2: Modo Avi\u00e3o / A Tua Voz / 700 Por Hora / Radar / A M\u00fasica Mais Triste do Ano",
-      "url": "https://open.spotify.com/track/7HYdckQd1guaSYVwMQ3SFL"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
         "name": "GOAT",
         "url": "https://open.spotify.com/album/1xqzmgR6M6YqCKS7htHEiJ"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 148656,
       "name": "Coco",
       "url": "https://open.spotify.com/track/5Cs4kQRpfYgcBMFsvezdbZ"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
+        "name": "Lud Session #2: Modo Avi\u00e3o / A Tua Voz / 700 Por Hora / Radar / A M\u00fasica Mais Triste do Ano",
+        "url": "https://open.spotify.com/album/0zaigYjLBnB3JcrUwZEfNV"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 559903,
+      "name": "Lud Session #2: Modo Avi\u00e3o / A Tua Voz / 700 Por Hora / Radar / A M\u00fasica Mais Triste do Ano",
+      "url": "https://open.spotify.com/track/7HYdckQd1guaSYVwMQ3SFL"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -907,6 +907,22 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
+        "name": "Numanice #3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 167027,
+      "name": "Maliciosa - Ao Vivo",
+      "url": "https://open.spotify.com/track/3CJiho39iutZrDxQG5Vubl"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
         "name": "Vuka (feat. Thukuthela)",
         "url": "https://open.spotify.com/album/2kOXA5AceS4b8bfjtZW4nE"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 327451,
       "name": "Vuka (feat. Thukuthela)",
       "url": "https://open.spotify.com/track/24fRfn3FOM4xk02aE4wief"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
-        "name": "Numanice #3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 167027,
-      "name": "Maliciosa - Ao Vivo",
-      "url": "https://open.spotify.com/track/3CJiho39iutZrDxQG5Vubl"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
-        "name": "R2Bees, Vol. 2",
-        "url": "https://open.spotify.com/album/1lAl19ypJvU4DLwV8xMEYf"
-      },
-      "artists": [
-        {
-          "name": "R2Bees",
-          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
-        }
-      ],
-      "duration_ms": 220474,
-      "name": "Life (Walaahi)",
-      "url": "https://open.spotify.com/track/0P29bgcXgz7oG6pvzThEl7"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
         "name": "66",
         "url": "https://open.spotify.com/album/6pTx4o3Ww2KeWMUVtONaGd"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 430714,
       "name": "66",
       "url": "https://open.spotify.com/track/1b4kqxvf4kFuB7ACj9Lvve"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
+        "name": "R2Bees, Vol. 2",
+        "url": "https://open.spotify.com/album/1lAl19ypJvU4DLwV8xMEYf"
+      },
+      "artists": [
+        {
+          "name": "R2Bees",
+          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
+        }
+      ],
+      "duration_ms": 220474,
+      "name": "Life (Walaahi)",
+      "url": "https://open.spotify.com/track/0P29bgcXgz7oG6pvzThEl7"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -1931,6 +1931,34 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
+        "name": "SIYAPHOTHULA (feat. Scotts Maphuma & Dladla Mshunqisi)",
+        "url": "https://open.spotify.com/album/5JVea7nRHkduLTq7fS1Q92"
+      },
+      "artists": [
+        {
+          "name": "Felo Le Tee",
+          "url": "https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Scotts Maphuma",
+          "url": "https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS"
+        },
+        {
+          "name": "Dladla Mshunqisi",
+          "url": "https://open.spotify.com/artist/5M9mFjVaPT2T1HFYFFSoCt"
+        }
+      ],
+      "duration_ms": 401384,
+      "name": "SIYAPHOTHULA (feat. Scotts Maphuma & Dladla Mshunqisi)",
+      "url": "https://open.spotify.com/track/0Mi3Cg5UohmGOHiOnA0jje"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
         "name": "AmaGlobe (feat. Pcee, Scotts Maphuma, Mpho Spizzy, Infinity Musiq & 031 Choppa)",
         "url": "https://open.spotify.com/album/23Lh4eUshuf6DzMR9wcvg0"
       },
@@ -1967,34 +1995,6 @@
       "duration_ms": 416421,
       "name": "AmaGlobe (feat. Pcee, Scotts Maphuma, Mpho Spizzy, Infinity Musiq & 031 Choppa)",
       "url": "https://open.spotify.com/track/3CJJ9hZYgRFqGmEr1o2VVE"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
-        "name": "SIYAPHOTHULA (feat. Scotts Maphuma & Dladla Mshunqisi)",
-        "url": "https://open.spotify.com/album/5JVea7nRHkduLTq7fS1Q92"
-      },
-      "artists": [
-        {
-          "name": "Felo Le Tee",
-          "url": "https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV"
-        },
-        {
-          "name": "DJ Maphorisa",
-          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
-        },
-        {
-          "name": "Scotts Maphuma",
-          "url": "https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS"
-        },
-        {
-          "name": "Dladla Mshunqisi",
-          "url": "https://open.spotify.com/artist/5M9mFjVaPT2T1HFYFFSoCt"
-        }
-      ],
-      "duration_ms": 401384,
-      "name": "SIYAPHOTHULA (feat. Scotts Maphuma & Dladla Mshunqisi)",
-      "url": "https://open.spotify.com/track/0Mi3Cg5UohmGOHiOnA0jje"
     },
     {
       "added_at": "2026-06-30 14:51:43",

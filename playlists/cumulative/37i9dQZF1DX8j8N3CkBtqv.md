@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring W.i.S.H., Aanchal Tyagi, KhoslaRaghu and other exciting artists.
 
-1,627 songs - 3 day 17 hr 41 min
+1,628 songs - 3 day 17 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -957,7 +957,7 @@
 | [Mehfooz Rakh](https://open.spotify.com/track/7lebXT1ac1B47vOO8AW0yn) | [Rono](https://open.spotify.com/artist/7nAIsV0i8kg2XRCK14YUB6), [Swanand Kirkire](https://open.spotify.com/artist/4q7O0NIvhz0G1IgyfOmdcz) | [Mehfooz Rakh](https://open.spotify.com/album/1TeIPtXAsPLdTwGRJXYSlU) | 3:37 | 2025-04-18 | 2025-07-16 |
 | [Mehsoos](https://open.spotify.com/track/1CpPNLb6wX0VRDki8JsFuu) | [The Tapi Project](https://open.spotify.com/artist/1PaDBY2ifUow90EJUJWC9T) | [Mehsoos](https://open.spotify.com/album/1A01ciWQAlggJKclr8GOPX) | 6:35 | 2023-12-08 | 2024-01-20 |
 | [Mein Tera Hojaau](https://open.spotify.com/track/2cbq58YcyyWQx92ccTEWPy) | [The Kabir](https://open.spotify.com/artist/6yPhcGRmraBwXnqANykgQS), [Sayli Kamble](https://open.spotify.com/artist/4bjftmzN2eJwJMxinRq6lD), [BYG BASS](https://open.spotify.com/artist/7qScqy8QkqngHWUluAWVux) | [Mein Tera Hojaau](https://open.spotify.com/album/7IevyEJ5ATBeRpBytWmGbA) | 3:40 | 2025-03-07 | 2025-03-10 |
-| [Mellow](https://open.spotify.com/track/4IEamyPcyegTyqQlCLeNiO) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT), [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Mellow](https://open.spotify.com/album/3lOUKyggkYxAYmlMAkXRGX) | 4:18 | 2026-08-14 |  |
+| [Mellow](https://open.spotify.com/track/4IEamyPcyegTyqQlCLeNiO) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT), [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Mellow](https://open.spotify.com/album/3lOUKyggkYxAYmlMAkXRGX) | 4:18 | 2026-08-14 | 2026-10-13 |
 | [Melt](https://open.spotify.com/track/5I8LXURY4AJdZHtsUfxGlx) | [Aditya Bhardwaj](https://open.spotify.com/artist/4LZrB16vINsCHc28cE6oQo) | [Melt](https://open.spotify.com/album/3Bkkh7N0ia6j5PhpDTQlkt) | 2:52 | 2023-08-25 | 2023-10-07 |
 | [Mera Chaand](https://open.spotify.com/track/1OpaXuFejD7SZihxltCY0i) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Mera Chaand](https://open.spotify.com/album/5t0eb1ckENCqaz7DPkksRY) | 2:55 | 2024-02-09 | 2024-04-27 |
 | [Mera Channa Ve](https://open.spotify.com/track/4bFllAKWZLxpVHkKWthUkh) | [Shivoryx](https://open.spotify.com/artist/0frlLIs2UWXeTwqwH92Apo) | [Mera Channa Ve](https://open.spotify.com/album/0CITkgeTwhMiJPU8T6cwKX) | 2:50 | 2024-03-08 | 2024-04-19 |
@@ -1039,6 +1039,7 @@
 | [Nagma \- X \- Axis](https://open.spotify.com/track/1bBdaFlKJo5VnxhrOo6IaK) | [Chhavi Sodhani](https://open.spotify.com/artist/0fAAEVtf2NBPopVvfKNmkd) | [Nagma \- X \- Axis](https://open.spotify.com/album/1WNeOKWkf2cphwyJXLWfHd) | 3:18 | 2024-08-09 | 2024-09-21 |
 | [Nai Jaana \- Project Himroo](https://open.spotify.com/track/3WBBBPdWyzhodoifU0zBRk) | [Dhrriti Saharan](https://open.spotify.com/artist/3CfM61zeuztKppkmj0CggJ) | [Nai Jaana \- Project Himroo](https://open.spotify.com/album/4mT27h1ipKP0FILUIPEVxQ) | 4:04 | 2026-02-06 | 2026-04-21 |
 | [Nai Khena](https://open.spotify.com/track/58lItK88uURFIlIbFQRmu5) | [Ysoblue](https://open.spotify.com/artist/2ASakRf4a8CynyqnuCMEww), [Yash Narvekar](https://open.spotify.com/artist/4RlnRVxKm3jnUzOP4czbIK) | [Shown In Blue](https://open.spotify.com/album/3W9pJ3PBlER4WIoKbumoOS) | 3:33 | 2024-03-22 | 2024-05-11 |
+| [Nai Lagda](https://open.spotify.com/track/6bAgslLPBHa8H7A73TfhnN) | [Shreya Karmakar](https://open.spotify.com/artist/0acFRXnuE857d9jtr7ZV0F), [Rishabh Panchal](https://open.spotify.com/artist/3gm7tknUplkalTYA6VpEun), [Swarran](https://open.spotify.com/artist/2XbaJKM9GUZmbZd9nbDdsh) | [Nai Lagda](https://open.spotify.com/album/3UY1WAt2dTGTV4K6tjguMK) | 3:34 | 2026-10-09 |  |
 | [Naina](https://open.spotify.com/track/6P6BmJG4p2ZI9TF4nGdujL) | [a\-vil](https://open.spotify.com/artist/698DUf1hymrjYvnRmaNMJF), [SAGE](https://open.spotify.com/artist/595auvHCSqhjlrTAhpFjOs), [Vansh DX](https://open.spotify.com/artist/2sO8oRYnSaKKBRjavZRpE3) | [Naina](https://open.spotify.com/album/0UzqThDiI2aMHMSNIlfUW3) | 2:42 | 2026-07-03 | 2026-09-26 |
 | [Naina](https://open.spotify.com/track/3zKXlnK9Dx3NfIZewGAPQ9) | [Akansha Tripathi](https://open.spotify.com/artist/38XFS9SEu4eGBCguIdmIni), [Parth Shah](https://open.spotify.com/artist/5GJ4KQrfErzSj5Tute2oNf) | [Naina](https://open.spotify.com/album/3EfPWhfVtKhdAJ0gzfntcV) | 1:48 | 2024-10-18 | 2024-12-14 |
 | [Naina](https://open.spotify.com/track/4K0TR5DK2XKXuHdNmSFp2e) | [Bombay the Artist](https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ) | [Naina](https://open.spotify.com/album/1VcvGG0fZipohfDRaoA5gh) | 2:18 | 2025-02-14 | 2025-06-21 |

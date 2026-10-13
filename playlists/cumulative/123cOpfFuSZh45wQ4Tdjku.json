@@ -2087,6 +2087,28 @@
     },
     {
       "album": {
+        "name": "Down Down Down",
+        "url": "https://open.spotify.com/album/0GJGtyGJLXSdUqDJf4mQed"
+      },
+      "artists": [
+        {
+          "name": "ivycomb",
+          "url": "https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo"
+        },
+        {
+          "name": "OodleZz",
+          "url": "https://open.spotify.com/artist/2eCpXBK9mnqr6o9TydXu98"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217148,
+      "name": "Down Down Down",
+      "url": "https://open.spotify.com/track/6u9Nn6X2eqhrtyzoG296kc"
+    },
+    {
+      "album": {
         "name": "Verplex Originals",
         "url": "https://open.spotify.com/album/43xO23OT1dvjB3XtCXuZu9"
       },
@@ -2410,6 +2432,24 @@
       "duration_ms": 144800,
       "name": "Fallen World",
       "url": "https://open.spotify.com/track/71iOt8FGtRxQygbB5RipWm"
+    },
+    {
+      "album": {
+        "name": "False Idol",
+        "url": "https://open.spotify.com/album/3CDGLKH9aLf2fq5Fjyskje"
+      },
+      "artists": [
+        {
+          "name": "ivycomb",
+          "url": "https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274758,
+      "name": "False Idol",
+      "url": "https://open.spotify.com/track/1X1AU4LZYuQAZ0EcE8R0Tg"
     },
     {
       "album": {
@@ -2858,6 +2898,28 @@
       "duration_ms": 231142,
       "name": "Frankie x",
       "url": "https://open.spotify.com/track/6NibLABbjTVawkjQVF9UYq"
+    },
+    {
+      "album": {
+        "name": "Fratricide",
+        "url": "https://open.spotify.com/album/7D2TmpVvx8dinVH8T4ivef"
+      },
+      "artists": [
+        {
+          "name": "ivycomb",
+          "url": "https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo"
+        },
+        {
+          "name": "Moka",
+          "url": "https://open.spotify.com/artist/4W6v3SkHwSbsdCkJrzQLXl"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220190,
+      "name": "Fratricide",
+      "url": "https://open.spotify.com/track/2iCtxcc8oO8GXAsEVMhjMR"
     },
     {
       "album": {

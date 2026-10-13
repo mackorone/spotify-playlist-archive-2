@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 
 > Music from “BanG Dream! “ series!
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,066 likes - 75 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,071 likes - 75 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 18 | [Imprisoned XII](https://open.spotify.com/track/1dVwOcHSisM4Sv3yJ1zgos) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [Imprisoned XII](https://open.spotify.com/album/60bAQ5kEaarkAPoRRy7YT6) | 3:07 |
 | 19 | [WELCOME TO PANDEMONIUM](https://open.spotify.com/track/01Q3nEVbr4cwH2O8BVJlH2) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [WELCOME TO PANDEMONIUM](https://open.spotify.com/album/0LJgQuPcLD2um4w0EChr8J) | 4:14 |
 | 20 | [礎の花冠](https://open.spotify.com/track/6KiEyThg9tYGMNSejoLQpF) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [礎の花冠](https://open.spotify.com/album/3UaqQA5a9DKQYrLdgVsXDV) | 4:06 |
-| 21 | [うちゅうのふしぎ](https://open.spotify.com/track/4Gb3ms7QExqgEo4IdAehqF) | [夢限大みゅーたいぷ](https://open.spotify.com/artist/2EzWYxIHqUD1RWBOuSjxtK) | [うちゅうのふしぎ](https://open.spotify.com/album/4VBM9GAovYWZN8FQKci9RJ) | 2:18 |
+| 21 | [in my words](https://open.spotify.com/track/5KZMmMJLzV4yWWVqEzbN4r) | [夢限大みゅーたいぷ](https://open.spotify.com/artist/2EzWYxIHqUD1RWBOuSjxtK) | [in my words](https://open.spotify.com/album/00hiNFTZ57EOe2VSqULOeJ) | 3:06 |
 | 22 | [Yes! BanG\_Dream!](https://open.spotify.com/track/2xR17B0aHZDTZ9Hfez5Rka) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [バンドリ!「Yes! BanG\_Dream!」](https://open.spotify.com/album/3QZAIjdUw6CI8IEGJ2dADM) | 5:07 |
 | 23 | [壱雫空](https://open.spotify.com/track/4Ov105HP2yCcWhgP6DsaDO) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [壱雫空](https://open.spotify.com/album/4QuwzcnydyFVs20IoD8ttf) | 3:09 |
 | 24 | [Symbol I : △](https://open.spotify.com/track/1rmra0guc6FngerjG8iE2O) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [ELEMENTS](https://open.spotify.com/album/7zyvlQgQ6uS9Hu1jiUssGx) | 5:12 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 26 | [Symbol II : Air](https://open.spotify.com/track/3VGF6a4goaJbVo03CaPXE0) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [ELEMENTS](https://open.spotify.com/album/7zyvlQgQ6uS9Hu1jiUssGx) | 3:32 |
 | 27 | [詩超絆](https://open.spotify.com/track/06gQEKIudRfsor7tdfGJr2) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [迷跡波](https://open.spotify.com/album/6GBBqk1v5okNnioUXqMi7D) | 3:57 |
 | 28 | [Crucifix X](https://open.spotify.com/track/65Ccl0gl2WtWCGNdlC38a7) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [Crucifix X](https://open.spotify.com/album/4ot7hG62XAaF1zX1YG051J) | 4:59 |
-| 29 | [in my words](https://open.spotify.com/track/5KZMmMJLzV4yWWVqEzbN4r) | [夢限大みゅーたいぷ](https://open.spotify.com/artist/2EzWYxIHqUD1RWBOuSjxtK) | [in my words](https://open.spotify.com/album/00hiNFTZ57EOe2VSqULOeJ) | 3:06 |
+| 29 | [うちゅうのふしぎ](https://open.spotify.com/track/4Gb3ms7QExqgEo4IdAehqF) | [夢限大みゅーたいぷ](https://open.spotify.com/artist/2EzWYxIHqUD1RWBOuSjxtK) | [うちゅうのふしぎ](https://open.spotify.com/album/4VBM9GAovYWZN8FQKci9RJ) | 2:18 |
 | 30 | [歩拾道](https://open.spotify.com/track/1Ec86enkGf4rIwfnlIySPf) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [歩拾道](https://open.spotify.com/album/0s7y2LdZmhIXrpTE1x9IBh) | 4:20 |
 | 31 | [Bad Kids All Bet](https://open.spotify.com/track/0y5QgAAEZoqStDtz5XGJlV) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [Bad Kids All Bet](https://open.spotify.com/album/2Yb6OebNGpCjyTf4dddU7A) | 3:48 |
 | 32 | [START!! True dreams](https://open.spotify.com/track/19vnmCWWf8QK0vYnAz8nlh) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [LoveLive! Series 15th Anniversary Tribute Album](https://open.spotify.com/album/4UvWdqO4nQwqeAz4UHBVMi) | 4:02 |

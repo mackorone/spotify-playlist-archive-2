@@ -1,12 +1,12 @@
 {
   "description": "mostly furry",
-  "num_followers": 1286,
+  "num_followers": 1287,
   "original_name": "My favourite furry songs",
   "owner": {
     "name": "Karlito",
     "url": "https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4"
   },
-  "snapshot_id": "AAACDqMqP3lfDojFEI8O4iMcieMANyLy",
+  "snapshot_id": "AAACEQG3rGIBueGmOZbhdEW9kZYF8nIA",
   "tracks": [
     {
       "added_at": "2024-01-31 19:21:57",
@@ -9699,6 +9699,62 @@
       "duration_ms": 128640,
       "name": "Cats With Striped Socks",
       "url": "https://open.spotify.com/track/0LinCTCmFyAT2H27wTu3H4"
+    },
+    {
+      "added_at": "2026-10-12 04:18:08",
+      "album": {
+        "name": "Down Down Down",
+        "url": "https://open.spotify.com/album/0GJGtyGJLXSdUqDJf4mQed"
+      },
+      "artists": [
+        {
+          "name": "ivycomb",
+          "url": "https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo"
+        },
+        {
+          "name": "OodleZz",
+          "url": "https://open.spotify.com/artist/2eCpXBK9mnqr6o9TydXu98"
+        }
+      ],
+      "duration_ms": 217148,
+      "name": "Down Down Down",
+      "url": "https://open.spotify.com/track/6u9Nn6X2eqhrtyzoG296kc"
+    },
+    {
+      "added_at": "2026-10-12 04:19:22",
+      "album": {
+        "name": "False Idol",
+        "url": "https://open.spotify.com/album/3CDGLKH9aLf2fq5Fjyskje"
+      },
+      "artists": [
+        {
+          "name": "ivycomb",
+          "url": "https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo"
+        }
+      ],
+      "duration_ms": 274758,
+      "name": "False Idol",
+      "url": "https://open.spotify.com/track/1X1AU4LZYuQAZ0EcE8R0Tg"
+    },
+    {
+      "added_at": "2026-10-12 04:19:32",
+      "album": {
+        "name": "Fratricide",
+        "url": "https://open.spotify.com/album/7D2TmpVvx8dinVH8T4ivef"
+      },
+      "artists": [
+        {
+          "name": "ivycomb",
+          "url": "https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo"
+        },
+        {
+          "name": "Moka",
+          "url": "https://open.spotify.com/artist/4W6v3SkHwSbsdCkJrzQLXl"
+        }
+      ],
+      "duration_ms": 220190,
+      "name": "Fratricide",
+      "url": "https://open.spotify.com/track/2iCtxcc8oO8GXAsEVMhjMR"
     }
   ],
   "unique_name": "My favourite furry songs",

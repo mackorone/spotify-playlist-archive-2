@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including girl in red, Troye Sivan, Sido, Montez, Marlon Hoffstadt, David Guetta & many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,846 likes - 97 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,842 likes - 97 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 59 | [Unlike You](https://open.spotify.com/track/6e9Cu6KNAimXTlhuDNAWc7) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Still Somewhere Here](https://open.spotify.com/album/1109HrTid5HIXWEFPHKpAh) | 3:54 |
 | 60 | [Ghosts](https://open.spotify.com/track/0KBaCuTluuswEN4ZQs30Gn) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Ghosts](https://open.spotify.com/album/5dchb4R4CXlOSpO0Tw2NMQ) | 3:46 |
 | 61 | [wenigstens für jetzt](https://open.spotify.com/track/0pbdMK8Pix2NfRSkbTVZ72) | [Mika Noé](https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9) | [wenigstens für jetzt](https://open.spotify.com/album/5Pq4onkgUufE1MH3PAXQjH) | 2:26 |
-| 62 | [MANTRAS \- Demo](https://open.spotify.com/track/0Pyn5g5dnmHxRp6cL2uduO) | [Eli Preiss](https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID) | [\(Selbst\)bewusst Deluxe](https://open.spotify.com/album/7kQF1a39e7nczlyu6pCry9) | 1:57 |
+| 62 | [MANTRAS \(Demo\)](https://open.spotify.com/track/0Pyn5g5dnmHxRp6cL2uduO) | [Eli Preiss](https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID) | [\(Selbst\)bewusst Deluxe](https://open.spotify.com/album/7kQF1a39e7nczlyu6pCry9) | 1:57 |
 | 63 | [Cold](https://open.spotify.com/track/1AFF0ITCSnyFfnCa4gvB9M) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564), [Jeannel](https://open.spotify.com/artist/69kqP1mHMwDajWdU2XKZLZ) | [Cold](https://open.spotify.com/album/4Fuz9hNtZGdHExeggwFeha) | 4:10 |
 | 64 | [Giornate perse](https://open.spotify.com/track/76qMY6xy2mqMAAk0ycce3N) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5) | [Giornate perse](https://open.spotify.com/album/3IwLrqrvy5IB8wDMmcJAqH) | 3:39 |
 | 65 | [Goodwife](https://open.spotify.com/track/7eWj1RD9as5EZjjevoxSXg) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [Goodwife](https://open.spotify.com/album/35e4s1PKAh8iwiRWmqg978) | 4:10 |

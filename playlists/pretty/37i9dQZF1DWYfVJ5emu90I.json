@@ -1,6 +1,6 @@
 {
   "description": "Heavy beats for midnight drifting in Tokyo.",
-  "num_followers": 26848,
+  "num_followers": 26856,
   "original_name": "Tokyo Drift: \u30c8\u30fc\u30ad\u30e7\u30fc\u30fb\u30c9\u30ea\u30d5\u30c8",
   "owner": {
     "name": "Spotify",
@@ -979,6 +979,30 @@
     {
       "added_at": "2026-08-19 00:34:26",
       "album": {
+        "name": "Villains feat. edhiii boi, Novel Core",
+        "url": "https://open.spotify.com/album/6pXnLmJflQeP30lfRI8l4m"
+      },
+      "artists": [
+        {
+          "name": "Aile The Shota",
+          "url": "https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju"
+        },
+        {
+          "name": "edhiii boi",
+          "url": "https://open.spotify.com/artist/7oKpMBLgwvatKFjcFV6oHf"
+        },
+        {
+          "name": "Novel Core",
+          "url": "https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD"
+        }
+      ],
+      "duration_ms": 197746,
+      "name": "Villains feat. edhiii boi, Novel Core",
+      "url": "https://open.spotify.com/track/3V6nT2ZCLxT5pvOsaFQxez"
+    },
+    {
+      "added_at": "2026-08-19 00:34:26",
+      "album": {
         "name": "Get Litty?",
         "url": "https://open.spotify.com/album/08SdOsfG9Q7yf7J0eMmi9g"
       },
@@ -995,30 +1019,6 @@
       "duration_ms": 165000,
       "name": "My Fan",
       "url": "https://open.spotify.com/track/1OWaO0dAvexjo2HYYCeyiX"
-    },
-    {
-      "added_at": "2026-08-19 00:34:26",
-      "album": {
-        "name": "DEATH NOTE",
-        "url": "https://open.spotify.com/album/173yOrrgkqrUFwte1Pd7VW"
-      },
-      "artists": [
-        {
-          "name": "OVER KILL",
-          "url": "https://open.spotify.com/artist/6h526FaFVlJhX9hdK3iyl3"
-        },
-        {
-          "name": "Pxrge Trxxxper",
-          "url": "https://open.spotify.com/artist/4IxdeBhAksJLxEMRzvdWie"
-        },
-        {
-          "name": "NEMLAND",
-          "url": "https://open.spotify.com/artist/2Sim83TyMbBiQ9m9uh7V6j"
-        }
-      ],
-      "duration_ms": 174081,
-      "name": "DEATH NOTE",
-      "url": "https://open.spotify.com/track/2OCQMg5OLGIMEWHHZcHABc"
     }
   ],
   "unique_name": "Tokyo Drift: \u30c8\u30fc\u30ad\u30e7\u30fc\u30fb\u30c9\u30ea\u30d5\u30c8",

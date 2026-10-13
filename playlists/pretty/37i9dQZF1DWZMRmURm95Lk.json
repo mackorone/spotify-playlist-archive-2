@@ -1,6 +1,6 @@
 {
   "description": "Beat e rime, oggi come una volta. Claver Gold in cover.",
-  "num_followers": 49155,
+  "num_followers": 49163,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -919,6 +919,22 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
+        "name": "Neffa E I Messaggeri Della Dopa",
+        "url": "https://open.spotify.com/album/30VgvhYsrjnMiDmJ0ZLWRn"
+      },
+      "artists": [
+        {
+          "name": "Neffa",
+          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
+        }
+      ],
+      "duration_ms": 281333,
+      "name": "In Linea",
+      "url": "https://open.spotify.com/track/2iPnztLtoxHIhRyPHtu3No"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
         "name": "Struggle Music",
         "url": "https://open.spotify.com/album/0yzj3wIn7Lx9m6ZbQgVY29"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 216086,
       "name": "Con i soldi in testa",
       "url": "https://open.spotify.com/track/0gwqVCPx5Yezme7Ny6wzMt"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
-        "name": "Neffa E I Messaggeri Della Dopa",
-        "url": "https://open.spotify.com/album/30VgvhYsrjnMiDmJ0ZLWRn"
-      },
-      "artists": [
-        {
-          "name": "Neffa",
-          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
-        }
-      ],
-      "duration_ms": 281333,
-      "name": "In Linea",
-      "url": "https://open.spotify.com/track/2iPnztLtoxHIhRyPHtu3No"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Canerandagio - Parte 1",
-        "url": "https://open.spotify.com/album/6KJJfteoBkSM7g9OUZMUDc"
-      },
-      "artists": [
-        {
-          "name": "Neffa",
-          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
-        },
-        {
-          "name": "Noyz Narcos",
-          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "TROPPAweed (feat. Noyz Narcos)",
-      "url": "https://open.spotify.com/track/3v088yIHQdsiyaPATMhAv9"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
         "name": "VOCE e BATTERIA",
         "url": "https://open.spotify.com/album/3kIyF4C1xQlE3M8Q2GvpL2"
       },
@@ -1215,6 +1195,26 @@
       "duration_ms": 168593,
       "name": "Pedala e batteria (feat. Jovanotti)",
       "url": "https://open.spotify.com/track/7xRWsfn9x3gVhYQdIXjae3"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
+        "name": "Canerandagio - Parte 1",
+        "url": "https://open.spotify.com/album/6KJJfteoBkSM7g9OUZMUDc"
+      },
+      "artists": [
+        {
+          "name": "Neffa",
+          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
+        },
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "TROPPAweed (feat. Noyz Narcos)",
+      "url": "https://open.spotify.com/track/3v088yIHQdsiyaPATMhAv9"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -1379,30 +1379,6 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Teoria Del Contrario Mixtape, Vol. 3",
-        "url": "https://open.spotify.com/album/5P7QlydmH0HKv5u6VOwyOg"
-      },
-      "artists": [
-        {
-          "name": "Dani Faiv",
-          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
-        },
-        {
-          "name": "Marte",
-          "url": "https://open.spotify.com/artist/3IWdXZamAg5bhIa0KyRBNb"
-        },
-        {
-          "name": "Strage",
-          "url": "https://open.spotify.com/artist/4dImCGQSsBAbWPERma9wMG"
-        }
-      ],
-      "duration_ms": 147096,
-      "name": "NO ROCKSTAR (feat. Marte) \u2013 Prod. Strage",
-      "url": "https://open.spotify.com/track/7CbDLCAlOWOyNZSstF7zB9"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
         "name": "Magic boulevard",
         "url": "https://open.spotify.com/album/3x8eBEnzxafgEgDQLvhRRf"
       },
@@ -1435,6 +1411,30 @@
       "duration_ms": 205226,
       "name": "Rapper italiano",
       "url": "https://open.spotify.com/track/3cjrqaNO6bDnnoraiZbJPw"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
+        "name": "Teoria Del Contrario Mixtape, Vol. 3",
+        "url": "https://open.spotify.com/album/5P7QlydmH0HKv5u6VOwyOg"
+      },
+      "artists": [
+        {
+          "name": "Dani Faiv",
+          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
+        },
+        {
+          "name": "Marte",
+          "url": "https://open.spotify.com/artist/3IWdXZamAg5bhIa0KyRBNb"
+        },
+        {
+          "name": "Strage",
+          "url": "https://open.spotify.com/artist/4dImCGQSsBAbWPERma9wMG"
+        }
+      ],
+      "duration_ms": 147096,
+      "name": "NO ROCKSTAR (feat. Marte) \u2013 Prod. Strage",
+      "url": "https://open.spotify.com/track/7CbDLCAlOWOyNZSstF7zB9"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -1611,6 +1611,26 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
+        "name": "Teoria Del Contrario",
+        "url": "https://open.spotify.com/album/5WtI1eNKltxIuj64GX6sKp"
+      },
+      "artists": [
+        {
+          "name": "Dani Faiv",
+          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
+        },
+        {
+          "name": "Pitto Stail",
+          "url": "https://open.spotify.com/artist/24hJr9W031R87ILon5Y4o0"
+        }
+      ],
+      "duration_ms": 171942,
+      "name": "Heart",
+      "url": "https://open.spotify.com/track/4X5uhcK7wjQItrJq34g1LB"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
         "name": "4 MANI",
         "url": "https://open.spotify.com/album/4jHMhHMqNNH5ad00ZlSaAq"
       },
@@ -1635,26 +1655,6 @@
       "duration_ms": 219053,
       "name": "MILANO BY NIGHT (feat. Jake La Furia & Emis Killa)",
       "url": "https://open.spotify.com/track/35eg1LKLGpEjsgbYurh5xL"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
-        "name": "Teoria Del Contrario",
-        "url": "https://open.spotify.com/album/5WtI1eNKltxIuj64GX6sKp"
-      },
-      "artists": [
-        {
-          "name": "Dani Faiv",
-          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
-        },
-        {
-          "name": "Pitto Stail",
-          "url": "https://open.spotify.com/artist/24hJr9W031R87ILon5Y4o0"
-        }
-      ],
-      "duration_ms": 171942,
-      "name": "Heart",
-      "url": "https://open.spotify.com/track/4X5uhcK7wjQItrJq34g1LB"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -2039,18 +2039,18 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "The Waiter",
-        "url": "https://open.spotify.com/album/7pqpBhNzwu0joeYwPGGwZq"
+        "name": "Promo EP",
+        "url": "https://open.spotify.com/album/7MhH7sgC5AzcbpLBwCml3n"
       },
       "artists": [
         {
-          "name": "Dani Faiv",
-          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
+          "name": "OneMic",
+          "url": "https://open.spotify.com/artist/4GnQ4vQjurDOY1b0q9LL25"
         }
       ],
-      "duration_ms": 132640,
-      "name": "Looper",
-      "url": "https://open.spotify.com/track/2xv5MjgDcYFat5mdo8nh7S"
+      "duration_ms": 368156,
+      "name": "Delle Volte",
+      "url": "https://open.spotify.com/track/56lf3YqtKy262x9fUQXAmD"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -2075,18 +2075,18 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Promo EP",
-        "url": "https://open.spotify.com/album/7MhH7sgC5AzcbpLBwCml3n"
+        "name": "The Waiter",
+        "url": "https://open.spotify.com/album/7pqpBhNzwu0joeYwPGGwZq"
       },
       "artists": [
         {
-          "name": "OneMic",
-          "url": "https://open.spotify.com/artist/4GnQ4vQjurDOY1b0q9LL25"
+          "name": "Dani Faiv",
+          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
         }
       ],
-      "duration_ms": 368156,
-      "name": "Delle Volte",
-      "url": "https://open.spotify.com/track/56lf3YqtKy262x9fUQXAmD"
+      "duration_ms": 132640,
+      "name": "Looper",
+      "url": "https://open.spotify.com/track/2xv5MjgDcYFat5mdo8nh7S"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -2143,34 +2143,6 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Teoria Del Contrario Mixtape, Vol. 3",
-        "url": "https://open.spotify.com/album/5P7QlydmH0HKv5u6VOwyOg"
-      },
-      "artists": [
-        {
-          "name": "Dani Faiv",
-          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
-        },
-        {
-          "name": "Kkrisna",
-          "url": "https://open.spotify.com/artist/6mOW02ZcgtNJSF5jP8eqmf"
-        },
-        {
-          "name": "Johnny Marsiglia",
-          "url": "https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb"
-        },
-        {
-          "name": "Strage",
-          "url": "https://open.spotify.com/artist/4dImCGQSsBAbWPERma9wMG"
-        }
-      ],
-      "duration_ms": 173877,
-      "name": "VERBATIM (feat. Kkrisna & Johnny Marsiglia) \u2013 Prod. Strage",
-      "url": "https://open.spotify.com/track/0VtGVvtb1GYKqx6KwO6iG3"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
         "name": "IL CUORE E LA FAME",
         "url": "https://open.spotify.com/album/42x9l82KigFgUQTYGe7xrU"
       },
@@ -2203,6 +2175,34 @@
       "duration_ms": 265288,
       "name": "Anima Nera",
       "url": "https://open.spotify.com/track/3VTAOKO2J31R9hygGe0U5j"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
+        "name": "Teoria Del Contrario Mixtape, Vol. 3",
+        "url": "https://open.spotify.com/album/5P7QlydmH0HKv5u6VOwyOg"
+      },
+      "artists": [
+        {
+          "name": "Dani Faiv",
+          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
+        },
+        {
+          "name": "Kkrisna",
+          "url": "https://open.spotify.com/artist/6mOW02ZcgtNJSF5jP8eqmf"
+        },
+        {
+          "name": "Johnny Marsiglia",
+          "url": "https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb"
+        },
+        {
+          "name": "Strage",
+          "url": "https://open.spotify.com/artist/4dImCGQSsBAbWPERma9wMG"
+        }
+      ],
+      "duration_ms": 173877,
+      "name": "VERBATIM (feat. Kkrisna & Johnny Marsiglia) \u2013 Prod. Strage",
+      "url": "https://open.spotify.com/track/0VtGVvtb1GYKqx6KwO6iG3"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -2295,26 +2295,6 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Poco dopo mezzanotte",
-        "url": "https://open.spotify.com/album/1uopB5lFeCi2xsPukEnLPZ"
-      },
-      "artists": [
-        {
-          "name": "Moder",
-          "url": "https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ"
-        },
-        {
-          "name": "Willie Peyote",
-          "url": "https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC"
-        }
-      ],
-      "duration_ms": 167961,
-      "name": "Settembre",
-      "url": "https://open.spotify.com/track/0N9qDDpB8Pd0q07VpunhlV"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
         "name": "IncrEdible Freestyle, Pt. III",
         "url": "https://open.spotify.com/album/7CsUSjNzWJBwzh6LN7rcrT"
       },
@@ -2335,6 +2315,26 @@
       "duration_ms": 85500,
       "name": "IncrEdible Freestyle, Pt. III",
       "url": "https://open.spotify.com/track/7jOOYmUaBGw6ukA3KLaOhl"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
+        "name": "Poco dopo mezzanotte",
+        "url": "https://open.spotify.com/album/1uopB5lFeCi2xsPukEnLPZ"
+      },
+      "artists": [
+        {
+          "name": "Moder",
+          "url": "https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ"
+        },
+        {
+          "name": "Willie Peyote",
+          "url": "https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC"
+        }
+      ],
+      "duration_ms": 167961,
+      "name": "Settembre",
+      "url": "https://open.spotify.com/track/0N9qDDpB8Pd0q07VpunhlV"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -2571,26 +2571,6 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Fuori di qua! (Stories) [2022 Remastered]",
-        "url": "https://open.spotify.com/album/0SlhHxpp35EFUqgwJUi2Fn"
-      },
-      "artists": [
-        {
-          "name": "Mondo Marcio",
-          "url": "https://open.spotify.com/artist/6Fd10Q3sQq1NsvpFTlvMsN"
-        },
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Mondo Marcio Gue Pequeno (feat. Gu\u00e8) - 2022 Remastered",
-      "url": "https://open.spotify.com/track/2TvY4Lm3sjBfTa71wXdMOU"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
         "name": "Pallottole Sull\u2019Amore (feat. Fabri Fibra)",
         "url": "https://open.spotify.com/album/0Ad8s8Wb02jw9ZpkNErjuX"
       },
@@ -2607,6 +2587,26 @@
       "duration_ms": 235329,
       "name": "Pallottole Sull'Amore (feat. Fabri Fibra)",
       "url": "https://open.spotify.com/track/5ZgSHdkSfuTZcO157LTxuz"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
+        "name": "Fuori di qua! (Stories) [2022 Remastered]",
+        "url": "https://open.spotify.com/album/0SlhHxpp35EFUqgwJUi2Fn"
+      },
+      "artists": [
+        {
+          "name": "Mondo Marcio",
+          "url": "https://open.spotify.com/artist/6Fd10Q3sQq1NsvpFTlvMsN"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Mondo Marcio Gue Pequeno (feat. Gu\u00e8) - 2022 Remastered",
+      "url": "https://open.spotify.com/track/2TvY4Lm3sjBfTa71wXdMOU"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -2883,26 +2883,6 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Mambo del Diablo",
-        "url": "https://open.spotify.com/album/0rc6kCEVH7X6DICSMG8Xgk"
-      },
-      "artists": [
-        {
-          "name": "Jangy Leeon",
-          "url": "https://open.spotify.com/artist/1WTZw0SzZvDGPqO9uYkFx7"
-        },
-        {
-          "name": "Weirdo",
-          "url": "https://open.spotify.com/artist/3P9LwUyXVBkyLlNKfbtYJ6"
-        }
-      ],
-      "duration_ms": 166530,
-      "name": "Mambo del Diablo",
-      "url": "https://open.spotify.com/track/46AUcpztyMKpHcCm0a7CNi"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
         "name": "BLOOD IN BLOOD OUT",
         "url": "https://open.spotify.com/album/7rA3LmwcwvXjoCnxKDgXPI"
       },
@@ -2919,6 +2899,26 @@
       "duration_ms": 156090,
       "name": "ONION",
       "url": "https://open.spotify.com/track/7Mfuyof4zXVZPTJHJxKhb3"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
+        "name": "Mambo del Diablo",
+        "url": "https://open.spotify.com/album/0rc6kCEVH7X6DICSMG8Xgk"
+      },
+      "artists": [
+        {
+          "name": "Jangy Leeon",
+          "url": "https://open.spotify.com/artist/1WTZw0SzZvDGPqO9uYkFx7"
+        },
+        {
+          "name": "Weirdo",
+          "url": "https://open.spotify.com/artist/3P9LwUyXVBkyLlNKfbtYJ6"
+        }
+      ],
+      "duration_ms": 166530,
+      "name": "Mambo del Diablo",
+      "url": "https://open.spotify.com/track/46AUcpztyMKpHcCm0a7CNi"
     },
     {
       "added_at": "2026-05-29 09:57:53",

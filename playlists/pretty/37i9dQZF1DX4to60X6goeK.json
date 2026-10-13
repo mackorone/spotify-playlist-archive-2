@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: SOTA",
-  "num_followers": 76965,
+  "num_followers": 76977,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-10-02 09:59:15",
       "album": {
-        "name": "On The Gas",
-        "url": "https://open.spotify.com/album/6BclAY5tQsJealVwApgrUO"
-      },
-      "artists": [
-        {
-          "name": "MANIA",
-          "url": "https://open.spotify.com/artist/5YBOXdKLNBdfGKGnQEYn3c"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "On The Gas",
-      "url": "https://open.spotify.com/track/2WEgrGbwVSxwph9tYKoVUr"
-    },
-    {
-      "added_at": "2026-10-02 09:59:15",
-      "album": {
         "name": "Beamin\u2019 (K Motionz & skantia Remix)",
         "url": "https://open.spotify.com/album/4gmV6lUCXyhnOcUglQ0qPQ"
       },
@@ -667,18 +651,18 @@
     {
       "added_at": "2026-10-02 09:59:15",
       "album": {
-        "name": "Holy Moly (VIP)",
-        "url": "https://open.spotify.com/album/1IRwkwVuNeReBF1E9ANuxJ"
+        "name": "On The Gas",
+        "url": "https://open.spotify.com/album/6BclAY5tQsJealVwApgrUO"
       },
       "artists": [
         {
-          "name": "Document One",
-          "url": "https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu"
+          "name": "MANIA",
+          "url": "https://open.spotify.com/artist/5YBOXdKLNBdfGKGnQEYn3c"
         }
       ],
-      "duration_ms": 253793,
-      "name": "Holy Moly - VIP",
-      "url": "https://open.spotify.com/track/2lR38u65dPKs0ZJ3BHVoz6"
+      "duration_ms": 178285,
+      "name": "On The Gas",
+      "url": "https://open.spotify.com/track/2WEgrGbwVSxwph9tYKoVUr"
     },
     {
       "added_at": "2026-10-02 09:59:15",
@@ -707,22 +691,18 @@
     {
       "added_at": "2026-10-02 09:59:15",
       "album": {
-        "name": "Do You",
-        "url": "https://open.spotify.com/album/1IC8acDFeKsGmfhwiFsk64"
+        "name": "Holy Moly (VIP)",
+        "url": "https://open.spotify.com/album/1IRwkwVuNeReBF1E9ANuxJ"
       },
       "artists": [
         {
-          "name": "Upgrade (UK)",
-          "url": "https://open.spotify.com/artist/1j95lMtVC9QwnVbifoVy60"
-        },
-        {
-          "name": "Basstripper",
-          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
+          "name": "Document One",
+          "url": "https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu"
         }
       ],
-      "duration_ms": 222171,
-      "name": "Do You",
-      "url": "https://open.spotify.com/track/3yoykYiHLZk6fc0jN6rz9q"
+      "duration_ms": 253793,
+      "name": "Holy Moly - VIP",
+      "url": "https://open.spotify.com/track/2lR38u65dPKs0ZJ3BHVoz6"
     },
     {
       "added_at": "2026-10-02 09:59:15",
@@ -739,6 +719,26 @@
       "duration_ms": 180344,
       "name": "Goose Chase",
       "url": "https://open.spotify.com/track/2qEZgjxNPG4bQ7A22np1Y0"
+    },
+    {
+      "added_at": "2026-10-02 09:59:15",
+      "album": {
+        "name": "Do You",
+        "url": "https://open.spotify.com/album/1IC8acDFeKsGmfhwiFsk64"
+      },
+      "artists": [
+        {
+          "name": "Upgrade (UK)",
+          "url": "https://open.spotify.com/artist/1j95lMtVC9QwnVbifoVy60"
+        },
+        {
+          "name": "Basstripper",
+          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
+        }
+      ],
+      "duration_ms": 222171,
+      "name": "Do You",
+      "url": "https://open.spotify.com/track/3yoykYiHLZk6fc0jN6rz9q"
     },
     {
       "added_at": "2026-10-02 09:59:15",

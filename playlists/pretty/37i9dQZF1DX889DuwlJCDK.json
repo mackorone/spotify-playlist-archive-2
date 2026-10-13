@@ -1,6 +1,6 @@
 {
   "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: CLAN QUEEN",
-  "num_followers": 23183,
+  "num_followers": 23181,
   "original_name": "\u9752\u6625\u3068\u4e00\u77ac",
   "owner": {
     "name": "Spotify",
@@ -459,18 +459,18 @@
     {
       "added_at": "2026-10-06 15:32:56",
       "album": {
-        "name": "AMANO-JAKU?",
-        "url": "https://open.spotify.com/album/2x13fvNwgTlaV6vjIH7efT"
+        "name": "\u541b\u304c\u3044\u308b\u306f\u305a\u306e\u99c5",
+        "url": "https://open.spotify.com/album/5peeLIBVjtnNChCRPjLdU5"
       },
       "artists": [
         {
-          "name": "RETRORIRON",
-          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
+          "name": "SIX LOUNGE",
+          "url": "https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX"
         }
       ],
-      "duration_ms": 264759,
-      "name": "AMANO-JAKU?",
-      "url": "https://open.spotify.com/track/6VJhmMpFarGlye7JgHmGO5"
+      "duration_ms": 241066,
+      "name": "\u541b\u304c\u3044\u308b\u306f\u305a\u306e\u99c5",
+      "url": "https://open.spotify.com/track/1sQUFM2bc6mH9zBySp5td0"
     },
     {
       "added_at": "2026-10-06 15:32:56",
@@ -491,18 +491,18 @@
     {
       "added_at": "2026-10-06 15:32:56",
       "album": {
-        "name": "\u541b\u304c\u3044\u308b\u306f\u305a\u306e\u99c5",
-        "url": "https://open.spotify.com/album/5peeLIBVjtnNChCRPjLdU5"
+        "name": "AMANO-JAKU?",
+        "url": "https://open.spotify.com/album/2x13fvNwgTlaV6vjIH7efT"
       },
       "artists": [
         {
-          "name": "SIX LOUNGE",
-          "url": "https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX"
+          "name": "RETRORIRON",
+          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
         }
       ],
-      "duration_ms": 241066,
-      "name": "\u541b\u304c\u3044\u308b\u306f\u305a\u306e\u99c5",
-      "url": "https://open.spotify.com/track/1sQUFM2bc6mH9zBySp5td0"
+      "duration_ms": 264759,
+      "name": "AMANO-JAKU?",
+      "url": "https://open.spotify.com/track/6VJhmMpFarGlye7JgHmGO5"
     },
     {
       "added_at": "2026-10-06 15:32:56",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-10-06 15:32:56",
       "album": {
-        "name": "FLASHBULB",
-        "url": "https://open.spotify.com/album/2Ab8Cerp6XYaiKEs2K3vPZ"
-      },
-      "artists": [
-        {
-          "name": "Omoinotake",
-          "url": "https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B"
-        }
-      ],
-      "duration_ms": 219266,
-      "name": "FLASHBULB",
-      "url": "https://open.spotify.com/track/5ctRwWDnQxNtAS7wVjbuZj"
-    },
-    {
-      "added_at": "2026-10-06 15:32:56",
-      "album": {
         "name": "\u5016\u305b\u306e\u30ab\u30bf\u30c1",
         "url": "https://open.spotify.com/album/1H0BT2LUwVsSpbc7vPUuNu"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 193649,
       "name": "\u5016\u305b\u306e\u30ab\u30bf\u30c1",
       "url": "https://open.spotify.com/track/2ip8LVjNk8NP9cYyHzGN47"
+    },
+    {
+      "added_at": "2026-10-06 15:32:56",
+      "album": {
+        "name": "FLASHBULB",
+        "url": "https://open.spotify.com/album/2Ab8Cerp6XYaiKEs2K3vPZ"
+      },
+      "artists": [
+        {
+          "name": "Omoinotake",
+          "url": "https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B"
+        }
+      ],
+      "duration_ms": 219266,
+      "name": "FLASHBULB",
+      "url": "https://open.spotify.com/track/5ctRwWDnQxNtAS7wVjbuZj"
     },
     {
       "added_at": "2026-10-06 15:32:56",
@@ -895,6 +895,22 @@
     {
       "added_at": "2026-10-06 15:32:56",
       "album": {
+        "name": "\u6771\u4eac\u30b7\u30e7\u30fc\u30c8\u30b9\u30ea\u30fc\u30d1\u30fc",
+        "url": "https://open.spotify.com/album/1dYjt6GxQJmMpJxHK9s1eR"
+      },
+      "artists": [
+        {
+          "name": "CROWN HEAD",
+          "url": "https://open.spotify.com/artist/0RFzlsPSCSgKapPUDwAgtK"
+        }
+      ],
+      "duration_ms": 154386,
+      "name": "\u6771\u4eac\u30b7\u30e7\u30fc\u30c8\u30b9\u30ea\u30fc\u30d1\u30fc",
+      "url": "https://open.spotify.com/track/3bAWqORaLmBzYiwqPaWAJT"
+    },
+    {
+      "added_at": "2026-10-06 15:32:56",
+      "album": {
         "name": "\u30a8\u30b4",
         "url": "https://open.spotify.com/album/4vc1Ncw9rr38JhtzAKUrkc"
       },
@@ -927,22 +943,6 @@
     {
       "added_at": "2026-10-06 15:32:56",
       "album": {
-        "name": "\u6771\u4eac\u30b7\u30e7\u30fc\u30c8\u30b9\u30ea\u30fc\u30d1\u30fc",
-        "url": "https://open.spotify.com/album/1dYjt6GxQJmMpJxHK9s1eR"
-      },
-      "artists": [
-        {
-          "name": "CROWN HEAD",
-          "url": "https://open.spotify.com/artist/0RFzlsPSCSgKapPUDwAgtK"
-        }
-      ],
-      "duration_ms": 154386,
-      "name": "\u6771\u4eac\u30b7\u30e7\u30fc\u30c8\u30b9\u30ea\u30fc\u30d1\u30fc",
-      "url": "https://open.spotify.com/track/3bAWqORaLmBzYiwqPaWAJT"
-    },
-    {
-      "added_at": "2026-10-06 15:32:56",
-      "album": {
         "name": "INSIDE",
         "url": "https://open.spotify.com/album/4ND5fiPqq9Qm93GK9lGTZr"
       },
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-10-06 15:32:56",
       "album": {
-        "name": "\u30a4\u30af\u30b8\u30ca\u30b7",
-        "url": "https://open.spotify.com/album/3o7fMvUbIBPcXLR7EK0xzL"
-      },
-      "artists": [
-        {
-          "name": "\u4e43\u7d2b",
-          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
-        }
-      ],
-      "duration_ms": 244781,
-      "name": "\u30a4\u30af\u30b8\u30ca\u30b7",
-      "url": "https://open.spotify.com/track/4jeG0pnEjEFIphK0oLnGaW"
-    },
-    {
-      "added_at": "2026-10-06 15:32:56",
-      "album": {
         "name": "\u30d6\u30e9\u30c3\u30c9\u2661\u30b9\u30d1\u30fc\u30af\u30b9",
         "url": "https://open.spotify.com/album/1wbenwd9fJRZZWFJcoze6O"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 145081,
       "name": "\u30d6\u30e9\u30c3\u30c9\u2661\u30b9\u30d1\u30fc\u30af\u30b9",
       "url": "https://open.spotify.com/track/0MtmpkswjRWBAfKk9isee5"
+    },
+    {
+      "added_at": "2026-10-06 15:32:56",
+      "album": {
+        "name": "\u30a4\u30af\u30b8\u30ca\u30b7",
+        "url": "https://open.spotify.com/album/3o7fMvUbIBPcXLR7EK0xzL"
+      },
+      "artists": [
+        {
+          "name": "\u4e43\u7d2b",
+          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
+        }
+      ],
+      "duration_ms": 244781,
+      "name": "\u30a4\u30af\u30b8\u30ca\u30b7",
+      "url": "https://open.spotify.com/track/4jeG0pnEjEFIphK0oLnGaW"
     },
     {
       "added_at": "2026-10-06 15:32:56",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-10-06 15:32:56",
       "album": {
-        "name": "avenue",
-        "url": "https://open.spotify.com/album/3ctgFQlPy4mCq5UClgSV3x"
-      },
-      "artists": [
-        {
-          "name": "Oisicle Melonpan",
-          "url": "https://open.spotify.com/artist/7v7AOgHT3xwF4Z86hcCbsh"
-        }
-      ],
-      "duration_ms": 205200,
-      "name": "\u843d\u4e0b\u3059\u308b\u30c7\u30b8\u30e3\u30f4",
-      "url": "https://open.spotify.com/track/7mwX7Zu6RyxYUVM3lSdRSX"
-    },
-    {
-      "added_at": "2026-10-06 15:32:56",
-      "album": {
         "name": "\u5929\u4f7f\u306e\u306f\u3057\u3054",
         "url": "https://open.spotify.com/album/0oApufYEdDGDYYmQ05fsqG"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 202529,
       "name": "\u5929\u4f7f\u306e\u306f\u3057\u3054",
       "url": "https://open.spotify.com/track/6O8Xcn1WhdJUQz8AFN0ghn"
+    },
+    {
+      "added_at": "2026-10-06 15:32:56",
+      "album": {
+        "name": "avenue",
+        "url": "https://open.spotify.com/album/3ctgFQlPy4mCq5UClgSV3x"
+      },
+      "artists": [
+        {
+          "name": "Oisicle Melonpan",
+          "url": "https://open.spotify.com/artist/7v7AOgHT3xwF4Z86hcCbsh"
+        }
+      ],
+      "duration_ms": 205200,
+      "name": "\u843d\u4e0b\u3059\u308b\u30c7\u30b8\u30e3\u30f4",
+      "url": "https://open.spotify.com/track/7mwX7Zu6RyxYUVM3lSdRSX"
     },
     {
       "added_at": "2026-10-06 15:32:56",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-10-06 15:32:56",
       "album": {
-        "name": "\u9b5a",
-        "url": "https://open.spotify.com/album/1a8sZEko8yhWxhtF1nrVIb"
-      },
-      "artists": [
-        {
-          "name": "Atarayo",
-          "url": "https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh"
-        }
-      ],
-      "duration_ms": 192695,
-      "name": "\u9b5a",
-      "url": "https://open.spotify.com/track/3c98GZdP2qgTOr4zxLLbZL"
-    },
-    {
-      "added_at": "2026-10-06 15:32:56",
-      "album": {
         "name": "\u3044\u304d\u306c\u304f",
         "url": "https://open.spotify.com/album/4bSIbCHmWH2WMPFquDI9Ov"
       },
@@ -1391,6 +1375,22 @@
     {
       "added_at": "2026-10-06 15:32:56",
       "album": {
+        "name": "\u9b5a",
+        "url": "https://open.spotify.com/album/1a8sZEko8yhWxhtF1nrVIb"
+      },
+      "artists": [
+        {
+          "name": "Atarayo",
+          "url": "https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh"
+        }
+      ],
+      "duration_ms": 192695,
+      "name": "\u9b5a",
+      "url": "https://open.spotify.com/track/3c98GZdP2qgTOr4zxLLbZL"
+    },
+    {
+      "added_at": "2026-10-06 15:32:56",
+      "album": {
         "name": "\u30b9\u30dd\u30c3\u30c8\u30e9\u30a4\u30c8",
         "url": "https://open.spotify.com/album/1HxKKs4RPaHC1lvRdjNZJS"
       },
@@ -1403,6 +1403,38 @@
       "duration_ms": 214192,
       "name": "\u30b9\u30dd\u30c3\u30c8\u30e9\u30a4\u30c8",
       "url": "https://open.spotify.com/track/1rHTFH2MejyTw4qMROryZ8"
+    },
+    {
+      "added_at": "2026-10-06 15:32:56",
+      "album": {
+        "name": "PEACH BLACK",
+        "url": "https://open.spotify.com/album/1yAzFM7fpUV6DgKvWsTn4s"
+      },
+      "artists": [
+        {
+          "name": "SWALLOW",
+          "url": "https://open.spotify.com/artist/7muZT7jbH05LsdRmWqWMOs"
+        }
+      ],
+      "duration_ms": 242519,
+      "name": "PEACH BLACK",
+      "url": "https://open.spotify.com/track/1FOf4EDHkeoAIARofhhjYf"
+    },
+    {
+      "added_at": "2026-10-06 15:32:56",
+      "album": {
+        "name": "\u30a4\u30f3\u30d8\u30ea\u30c3\u30c8",
+        "url": "https://open.spotify.com/album/3QXQTn25Nj9PXFKmdAgVzB"
+      },
+      "artists": [
+        {
+          "name": "AHUB",
+          "url": "https://open.spotify.com/artist/3PlNRhsKLFl3TFw5IJIGTs"
+        }
+      ],
+      "duration_ms": 204951,
+      "name": "\u30a4\u30f3\u30d8\u30ea\u30c3\u30c8",
+      "url": "https://open.spotify.com/track/63xiyY5OvnB3eCxkkNKb5n"
     },
     {
       "added_at": "2026-10-06 15:32:56",
@@ -1435,38 +1467,6 @@
       "duration_ms": 244216,
       "name": "\u7d42\u308f\u3089\u306a\u3044\u591c\u306e\u5b88\u308a\u65b9",
       "url": "https://open.spotify.com/track/4NlW2LywhAPqGP3WE6P6VZ"
-    },
-    {
-      "added_at": "2026-10-06 15:32:56",
-      "album": {
-        "name": "\u30a4\u30f3\u30d8\u30ea\u30c3\u30c8",
-        "url": "https://open.spotify.com/album/3QXQTn25Nj9PXFKmdAgVzB"
-      },
-      "artists": [
-        {
-          "name": "AHUB",
-          "url": "https://open.spotify.com/artist/3PlNRhsKLFl3TFw5IJIGTs"
-        }
-      ],
-      "duration_ms": 204951,
-      "name": "\u30a4\u30f3\u30d8\u30ea\u30c3\u30c8",
-      "url": "https://open.spotify.com/track/63xiyY5OvnB3eCxkkNKb5n"
-    },
-    {
-      "added_at": "2026-10-06 15:32:56",
-      "album": {
-        "name": "PEACH BLACK",
-        "url": "https://open.spotify.com/album/1yAzFM7fpUV6DgKvWsTn4s"
-      },
-      "artists": [
-        {
-          "name": "SWALLOW",
-          "url": "https://open.spotify.com/artist/7muZT7jbH05LsdRmWqWMOs"
-        }
-      ],
-      "duration_ms": 242519,
-      "name": "PEACH BLACK",
-      "url": "https://open.spotify.com/track/1FOf4EDHkeoAIARofhhjYf"
     },
     {
       "added_at": "2026-10-06 15:32:56",
@@ -1531,6 +1531,22 @@
       "duration_ms": 271666,
       "name": "\u98a8\u666f\u3092\u898b\u308b\u3042\u306a\u305f\u306e\u77b3\u306b\u3001\u795e\u306f\u3044\u305f",
       "url": "https://open.spotify.com/track/41EL6Hm0jRsdjm3CoGSnRh"
+    },
+    {
+      "added_at": "2026-10-06 15:32:56",
+      "album": {
+        "name": "\u5c0f\u3055\u306a\u50d5\u3089",
+        "url": "https://open.spotify.com/album/5HYVtM8Jfns6vcvKbOzEWx"
+      },
+      "artists": [
+        {
+          "name": "AHUB",
+          "url": "https://open.spotify.com/artist/3PlNRhsKLFl3TFw5IJIGTs"
+        }
+      ],
+      "duration_ms": 196027,
+      "name": "\u5c0f\u3055\u306a\u50d5\u3089",
+      "url": "https://open.spotify.com/track/4NWr9o6nQKwBzYEpoCVzBB"
     },
     {
       "added_at": "2026-10-06 15:32:56",
@@ -1611,22 +1627,6 @@
       "duration_ms": 186166,
       "name": "Party Girl",
       "url": "https://open.spotify.com/track/0aBZ3io7XpDtQZ4ZJeoRhM"
-    },
-    {
-      "added_at": "2026-10-06 15:32:56",
-      "album": {
-        "name": "Secret Empire",
-        "url": "https://open.spotify.com/album/1PGH9NZBuicCrMD4lcbT76"
-      },
-      "artists": [
-        {
-          "name": "CLAN QUEEN",
-          "url": "https://open.spotify.com/artist/7MDWmWGdcgGcxawAnA1FUY"
-        }
-      ],
-      "duration_ms": 190613,
-      "name": "Dirty Little Secrets",
-      "url": "https://open.spotify.com/track/676vJm5y5zB7LOGvVFUfvG"
     }
   ],
   "unique_name": "\u9752\u6625\u3068\u4e00\u77ac",

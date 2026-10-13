@@ -22309,6 +22309,28 @@
     },
     {
       "album": {
+        "name": "Schijn je licht op mij",
+        "url": "https://open.spotify.com/album/0KSSoSWXL7s2IFgdK28Cve"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        },
+        {
+          "name": "ADF Samski",
+          "url": "https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129826,
+      "name": "Schijn je licht op mij",
+      "url": "https://open.spotify.com/track/4h6oCJNPJ06eYT3M9jdCOq"
+    },
+    {
+      "album": {
         "name": "Schijnbaar Niet Waar",
         "url": "https://open.spotify.com/album/18SrsVBd4z2Y7duRaDdvVS"
       },

@@ -4194,7 +4194,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 122703,
       "name": "Joven y Salvaje (with Bb trickz)",
       "url": "https://open.spotify.com/track/2NyVUkfya4KZDw5qd4qWeZ"
@@ -9502,6 +9502,24 @@
       "duration_ms": 241398,
       "name": "What A Night",
       "url": "https://open.spotify.com/track/4XQVjFJZ2zGgtxmEPVYtQ0"
+    },
+    {
+      "album": {
+        "name": "What a View",
+        "url": "https://open.spotify.com/album/5FWMIuW6Ii9GoYDIEiGQ3T"
+      },
+      "artists": [
+        {
+          "name": "Chris de Sarandy",
+          "url": "https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158791,
+      "name": "What a View",
+      "url": "https://open.spotify.com/track/55rppVJPliy2tnox54mJ1f"
     },
     {
       "album": {

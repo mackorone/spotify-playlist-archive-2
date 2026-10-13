@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0w8k0WrDYA.md) - [plain]
 
 > Return to Hawkins, listen to the music from the animated series Stranger Things: Tales From ‘85.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,516 likes - 46 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,540 likes - 46 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0w8k0WrDYA.md) - [plain]
 | 4 | [Twisted Avenues](https://open.spotify.com/track/1vJYGbS8oFR0ah3fHfazKN) | [Motion Pictures](https://open.spotify.com/artist/2NKTKclHt49q0M5cpD7GDn) | [Twisted Avenues \- Single](https://open.spotify.com/album/706GHX0Dcrf93pjuYp3RLf) | 2:22 |
 | 5 | [You're Not Gonna Get It](https://open.spotify.com/track/6vc4n0TIyTDZaOUHPAFjep) | [Epicycle](https://open.spotify.com/artist/4a4KDO7TUEFdczC2zny4mX) | [You're Not Gonna Get It: 1978\-81](https://open.spotify.com/album/2n1aIFAdmZFpwsDAp5mJSi) | 1:45 |
 | 6 | [Unknown Quantity](https://open.spotify.com/track/5HOfgRx293GOv64h3H0JWO) | [Motion Pictures](https://open.spotify.com/artist/2NKTKclHt49q0M5cpD7GDn) | [Twisted Avenues \- Single](https://open.spotify.com/album/706GHX0Dcrf93pjuYp3RLf) | 4:04 |
-| 7 | [Shadows Dancing](https://open.spotify.com/track/2MKyok5tinGfjTanYqj3QD) | [Donnie Barren](https://open.spotify.com/artist/5s72rFnWfMlfz4HlsHm4JQ) | [Garage Tapes \(1983\-86\)](https://open.spotify.com/album/6owPWsRmzb6MEEyEw6AL1M) | 4:20 |
+| 7 | [Shadows Dancing](https://open.spotify.com/track/2MKyok5tinGfjTanYqj3QD) | [Donnie Barren](https://open.spotify.com/artist/5s72rFnWfMlfz4HlsHm4JQ) | [Garage Tapes \(1983\-86\)](https://open.spotify.com/album/6owPWsRmzb6MEEyEw6AL1M) | 4:18 |
 | 8 | [Hollywood](https://open.spotify.com/track/2w1VjLLy0WEICed8AH5INf) | [The Arms of Someone New](https://open.spotify.com/artist/6EsWLHZEHKJ0rM6dM6vtSG) | [Love, Power & Justice](https://open.spotify.com/album/3yXSRsIVY55Xj4Mecv6YLI) | 4:29 |
 | 9 | [Eye to Eye](https://open.spotify.com/track/2nKdfeMf5H8RzFlrovXIV7) | [Jagged Rocks on the Perimeter](https://open.spotify.com/artist/4M9qqqU6LzGM4Fzqzp3NXH) | [Against the Darkened Sky](https://open.spotify.com/album/74WEKfQRnQ4Vk5WMJWGntM) | 5:05 |
 | 10 | [The Warrior](https://open.spotify.com/track/3mbcW1KDbnkdgjq03JHiQ6) | [Patty Smyth](https://open.spotify.com/artist/2dgfCEMSVETFp29mRpiFpz) | [Patty Smyth's Greatest Hits Featuring Scandal](https://open.spotify.com/album/0m1GeQ9X0dRcHknRxKIvUA) | 3:58 |

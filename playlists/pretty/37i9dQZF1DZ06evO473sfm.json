@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Frontera. The essential tracks, all in one playlist.",
-  "num_followers": 625554,
+  "num_followers": 625805,
   "original_name": "This Is Grupo Frontera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asgugAAAAACoFqQlSfx3DfAwwy5f7x6O",
+  "snapshot_id": "asrRgAAAAACG+cCrFf8DeFlInMft0C8g",
   "tracks": [
     {
       "added_at": null,
@@ -907,26 +907,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "IMPOSIBLE",
-        "url": "https://open.spotify.com/album/0vUD23Ea1Dub5SnPFy4usW"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Silvestre Dangond",
-          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
-        }
-      ],
-      "duration_ms": 193788,
-      "name": "IMPOSIBLE",
-      "url": "https://open.spotify.com/track/1Rq1DowZWneBBEfqMJPFm6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ETERNO",
         "url": "https://open.spotify.com/album/6yNzRHzjoxFZ4rpgvCudT7"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 183500,
       "name": "BESES ASI",
       "url": "https://open.spotify.com/track/3fKYOapkQ1pTmHqqFHByUG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "IMPOSIBLE",
+        "url": "https://open.spotify.com/album/0vUD23Ea1Dub5SnPFy4usW"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        }
+      ],
+      "duration_ms": 193788,
+      "name": "IMPOSIBLE",
+      "url": "https://open.spotify.com/track/1Rq1DowZWneBBEfqMJPFm6"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Up and down I\-95\. Cover: Mac Miller
 
-2,189 songs - 4 day 3 hr 28 min
+2,190 songs - 4 day 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [act bad twin! \(feat\. Cash Cobain & Bay Swag\)](https://open.spotify.com/track/1cLjq1FaPI8naEB5xElkFk) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [act bad twin! \(feat\. Cash Cobain & Bay Swag\)](https://open.spotify.com/album/50fHLT2601AXZyUCfOosVB) | 3:37 | 2024-06-14 | 2024-07-06 |
 | [act like](https://open.spotify.com/track/3P3PONWYGlQWSu3rd4wGIl) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [PLAY CASH COBAIN](https://open.spotify.com/album/1nMDe5h9FEfmCSm6nwA66s) | 2:20 | 2024-08-23 | 2024-08-31 |
 | [Act Like You Know \(feat\. Shoreline Mafia\)](https://open.spotify.com/track/6YKZThWeKwTze24UqcCw3T) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ) | [Act Like You Know \(feat\. Shoreline Mafia\)](https://open.spotify.com/album/79g6lh7jLIAAorMCSKUXCI) | 2:39 | 2025-10-03 | 2025-11-08 |
+| [Acting Like You Kanye](https://open.spotify.com/track/0a1SVxFIghCTo0TynJn2rG) | [Raud](https://open.spotify.com/artist/0BgRotGO2vUPyxguQlXsR7) | [Acting Like You Kanye](https://open.spotify.com/album/4feZSrwcYQmTxHcQWvEeYf) | 1:35 | 2026-10-12 |  |
 | [Active](https://open.spotify.com/track/4SQLNBF97lQpxuaG0yeUBP) | [Dee Billz](https://open.spotify.com/artist/2fBU7rOViK7ywwHCIYEa7h) | [Blood, Sweat & Billz](https://open.spotify.com/album/0tONlwqnJyuZWBaHxQw3rK) | 2:01 | 2025-08-29 | 2025-09-06 |
 | [Addicted \(feat\. Fivio Foreign\)](https://open.spotify.com/track/61Y13Iqs8zajUF6ngqOVMf) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [AREA 41](https://open.spotify.com/album/2Hn5BTivLqJy8bkKN3cUCI) | 2:57 | 2026-04-10 | 2026-07-11 |
 | [advance w her!](https://open.spotify.com/track/30tNEwC1enw94vUxFyzHag) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [SEX DRIVE](https://open.spotify.com/album/5cAEY0anGcXg5bneAMAKXh) | 2:43 | 2024-09-06 | 2025-08-02 |

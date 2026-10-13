@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2szZf2.md) - [plain]
 
 > This is MC Dricka\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,460 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,462 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2szZf2.md) - [plain]
 | 49 | [Fala Mal de Mim](https://open.spotify.com/track/5Gcx3VInqp6tm3dMeS2Unm) | [Junim Dantes](https://open.spotify.com/artist/1l2nfwDjukUdCoVPW2ujFy), [MC Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [Secret Dj](https://open.spotify.com/artist/3pkNymZBuSzs0MLLC1odR3) | [Fala Mal de Mim](https://open.spotify.com/album/7lTM5Wy0qg7xLAjIbLxOs5) | 3:10 |
 | 50 | [Não Agrado Todos](https://open.spotify.com/track/0WbHf6LwbAh5k69ppYSwh9) | [MC Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [DJBHBHDJ](https://open.spotify.com/artist/7INZ7w7XryKByx9Aw8g5W0) | [Não Agrado Todos](https://open.spotify.com/album/6YYqLDClhznmF4Xri1Di0a) | 2:05 |
 
-Snapshot ID: `asgugAAAAAD3oUy14mGKhBz+o6+Pwx4A`
+Snapshot ID: `asrRgAAAAACbaCXTgJDeBoR1QOHOP0BN`

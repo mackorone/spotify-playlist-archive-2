@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asmAAAAAAAAblz4QB8b8zd7xaz7q9uuq",
+  "snapshot_id": "asrRgAAAAADojCm3kIXGo1n/sEb62XkT",
   "tracks": [
     {
       "added_at": null,
@@ -391,22 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Supercharger",
-        "url": "https://open.spotify.com/album/4W35ayLEiRSBBaN4Ov1of1"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 275133,
-      "name": "Bulldozer",
-      "url": "https://open.spotify.com/track/6T5xfC1iWSXttGlq3rTtNo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "These Scars Won't Define Us (Tour Version)",
         "url": "https://open.spotify.com/album/3zo4Te2wDclqlGiJtTlZab"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 212325,
       "name": "These Scars Won't Define Us - Tour Version",
       "url": "https://open.spotify.com/track/0nHMHZpK4ybhSzKeOOOqjQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Supercharger",
+        "url": "https://open.spotify.com/album/4W35ayLEiRSBBaN4Ov1of1"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 275133,
+      "name": "Bulldozer",
+      "url": "https://open.spotify.com/track/6T5xfC1iWSXttGlq3rTtNo"
     },
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Burning Red",
-        "url": "https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 288600,
-      "name": "Desire to Fire",
-      "url": "https://open.spotify.com/track/4HVymfRIpYsw37K0at1FbK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Catharsis",
         "url": "https://open.spotify.com/album/5OhAVXSslPqvWkh7XEj4Wq"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 304381,
       "name": "Bastards",
       "url": "https://open.spotify.com/track/1elRpcyrV2KPI973Cevrms"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "UNAT\u00d8NED",
+        "url": "https://open.spotify.com/album/197VDX6RBWHRl7w89XcJWE"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 236531,
+      "name": "UNB\u00d8UND",
+      "url": "https://open.spotify.com/track/1rf6gK95isZRyopJ5RWs2z"
     },
     {
       "added_at": null,
@@ -595,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "UNAT\u00d8NED",
-        "url": "https://open.spotify.com/album/197VDX6RBWHRl7w89XcJWE"
+        "name": "The Burning Red",
+        "url": "https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA"
       },
       "artists": [
         {
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 236531,
-      "name": "UNB\u00d8UND",
-      "url": "https://open.spotify.com/track/1rf6gK95isZRyopJ5RWs2z"
+      "duration_ms": 288600,
+      "name": "Desire to Fire",
+      "url": "https://open.spotify.com/track/4HVymfRIpYsw37K0at1FbK"
     },
     {
       "added_at": null,
@@ -659,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bloodstone & Diamonds",
-        "url": "https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX"
+        "name": "UNAT\u00d8NED",
+        "url": "https://open.spotify.com/album/197VDX6RBWHRl7w89XcJWE"
       },
       "artists": [
         {
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 366467,
-      "name": "Ghosts Will Haunt My Bones",
-      "url": "https://open.spotify.com/track/0VWbvw6PcVSLgKZCpnxBiw"
+      "duration_ms": 221918,
+      "name": "AT\u00d8MIC REVELATI\u00d8NS",
+      "url": "https://open.spotify.com/track/0gGpw7LAY3cXiUfvppLkPg"
     },
     {
       "added_at": null,
@@ -691,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "UNAT\u00d8NED",
-        "url": "https://open.spotify.com/album/197VDX6RBWHRl7w89XcJWE"
+        "name": "Bloodstone & Diamonds",
+        "url": "https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX"
       },
       "artists": [
         {
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 221918,
-      "name": "AT\u00d8MIC REVELATI\u00d8NS",
-      "url": "https://open.spotify.com/track/0gGpw7LAY3cXiUfvppLkPg"
+      "duration_ms": 366467,
+      "name": "Ghosts Will Haunt My Bones",
+      "url": "https://open.spotify.com/track/0VWbvw6PcVSLgKZCpnxBiw"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bloodstone & Diamonds",
-        "url": "https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 509817,
-      "name": "Sail Into The Black",
-      "url": "https://open.spotify.com/track/69V88Pb93ZrKu2M0CTOX3P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "UNAT\u00d8NED",
         "url": "https://open.spotify.com/album/197VDX6RBWHRl7w89XcJWE"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 212323,
       "name": "THESE SCARS W\u00d8N'T DEFINE US",
       "url": "https://open.spotify.com/track/1MEdnIjAeurY3p4qAbFIrT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bloodstone & Diamonds",
+        "url": "https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 509817,
+      "name": "Sail Into The Black",
+      "url": "https://open.spotify.com/track/69V88Pb93ZrKu2M0CTOX3P"
     },
     {
       "added_at": null,
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The More Things Change...",
-        "url": "https://open.spotify.com/album/60l0eb8lzf8jNF0K6XsbWL"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 213800,
-      "name": "Struck a Nerve",
-      "url": "https://open.spotify.com/track/296Tab5qscBCWU8rsOb8uf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "UNAT\u00d8NED",
         "url": "https://open.spotify.com/album/197VDX6RBWHRl7w89XcJWE"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 190576,
       "name": "ADDICTED T\u00d8 PAIN",
       "url": "https://open.spotify.com/track/3aDissFCQVBlEvImNXK8A7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The More Things Change...",
+        "url": "https://open.spotify.com/album/60l0eb8lzf8jNF0K6XsbWL"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 213800,
+      "name": "Struck a Nerve",
+      "url": "https://open.spotify.com/track/296Tab5qscBCWU8rsOb8uf"
     }
   ],
   "unique_name": "This Is Machine Head",

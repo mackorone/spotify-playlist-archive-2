@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Khalil Harrison, Usimamane, Blxckie, Sammie Heavens, Nasty C and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,301 likes - 73 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,339 likes - 74 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,11 +75,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 65 | [Second Place](https://open.spotify.com/track/1vlwDcCgQgWViiZen8JBEJ) | [Joneaux](https://open.spotify.com/artist/5gGz6o2Kqyguz6L1O9jzAv) | [Second Place](https://open.spotify.com/album/1tCBvJ6JKmlbICqytJHBIm) | 4:23 |
 | 66 | [Martell](https://open.spotify.com/track/4ZpyYisj476oBHrNWmmob1) | [Digital Maskandi](https://open.spotify.com/artist/65yZ3NmkReEd509wquNGJr), [Njabulo Langa](https://open.spotify.com/artist/5Be9UGRyJt8MDZKn28Vf25), [Umqansa](https://open.spotify.com/artist/4R8X6daoP3GNTKxWEBRZQL), [Quality Biyela](https://open.spotify.com/artist/2m7CMVHflHjkMjamxzZIkw) | [Digital Maskandi Vol.1](https://open.spotify.com/album/6YidG7mWf8uE2AZG2WGwSe) | 4:12 |
 | 67 | [dizzy](https://open.spotify.com/track/29obLp4cP6PZhjMFujRQsh) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [dizzy](https://open.spotify.com/album/0DKzY4dmVUMI5YzdXFfcfm) | 4:42 |
-| 68 | [Memories](https://open.spotify.com/track/403gawZsw405TxgN5LIuDp) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Memories](https://open.spotify.com/album/7CheQyCUw5eah8GradRZ4q) | 3:04 |
-| 69 | [Art Life & Skateboarding](https://open.spotify.com/track/3XxnMayIsOgMLUHFmw2hXA) | [Lorenzo Senni](https://open.spotify.com/artist/7mKwhB3UiepqzM946jBOyi), [Chad Muska](https://open.spotify.com/artist/6G47Dsrou4xNExtfCULvLY), [Jamie Thomas](https://open.spotify.com/artist/6oFlqOM1Sn4p1u15G7wQSA) | [Art Life & Skateboarding](https://open.spotify.com/album/3AaPNpmijyQekbnuRl7UIO) | 4:30 |
-| 70 | [SECOND CHOICE](https://open.spotify.com/track/0XlVPorVm4pLt7lJNr3I4f) | [Armanii](https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey) | [SECOND CHOICE](https://open.spotify.com/album/0Mc94Okie9yCWJ3hSwdIM2) | 3:12 |
-| 71 | [Mr Right](https://open.spotify.com/track/3rZj4LoO1tK4NsmlVAVe8e) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260) | [Mr Right](https://open.spotify.com/album/6v2bBaHrTPmPy4rWQzMcZT) | 3:16 |
-| 72 | [Príncipe](https://open.spotify.com/track/2b39GNmHpEx0RRbKNJEdlf) | [Blua](https://open.spotify.com/artist/43Vc14K5S0k4Vt34OpVFdM) | [Príncipe](https://open.spotify.com/album/7pgIrWQsslCCYVKvXSxcb9) | 3:01 |
-| 73 | [C'mon Caroline](https://open.spotify.com/track/04KeNT4krk7FCBoGV1j1jh) | [GRANT](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [C'mon Caroline](https://open.spotify.com/album/7ocOBer43mULvqsTrET2Ng) | 3:15 |
+| 68 | [not your wife](https://open.spotify.com/track/6vahp1JzG4nrgq7Acb2QLC) | [Coasters](https://open.spotify.com/artist/4VjyjBUcEwwx4xqtU359Ep) | [not your wife](https://open.spotify.com/album/5AjiZWW1elqJecfnCKMKUA) | 3:45 |
+| 69 | [Memories](https://open.spotify.com/track/403gawZsw405TxgN5LIuDp) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Memories](https://open.spotify.com/album/7CheQyCUw5eah8GradRZ4q) | 3:04 |
+| 70 | [Art Life & Skateboarding](https://open.spotify.com/track/3XxnMayIsOgMLUHFmw2hXA) | [Lorenzo Senni](https://open.spotify.com/artist/7mKwhB3UiepqzM946jBOyi), [Chad Muska](https://open.spotify.com/artist/6G47Dsrou4xNExtfCULvLY), [Jamie Thomas](https://open.spotify.com/artist/6oFlqOM1Sn4p1u15G7wQSA) | [Art Life & Skateboarding](https://open.spotify.com/album/3AaPNpmijyQekbnuRl7UIO) | 4:30 |
+| 71 | [SECOND CHOICE](https://open.spotify.com/track/0XlVPorVm4pLt7lJNr3I4f) | [Armanii](https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey) | [SECOND CHOICE](https://open.spotify.com/album/0Mc94Okie9yCWJ3hSwdIM2) | 3:12 |
+| 72 | [Mr Right](https://open.spotify.com/track/3rZj4LoO1tK4NsmlVAVe8e) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260) | [Mr Right](https://open.spotify.com/album/6v2bBaHrTPmPy4rWQzMcZT) | 3:16 |
+| 73 | [Príncipe](https://open.spotify.com/track/2b39GNmHpEx0RRbKNJEdlf) | [Blua](https://open.spotify.com/artist/43Vc14K5S0k4Vt34OpVFdM) | [Príncipe](https://open.spotify.com/album/7pgIrWQsslCCYVKvXSxcb9) | 3:01 |
+| 74 | [C'mon Caroline](https://open.spotify.com/track/04KeNT4krk7FCBoGV1j1jh) | [GRANT](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [C'mon Caroline](https://open.spotify.com/album/7ocOBer43mULvqsTrET2Ng) | 3:15 |
 
-Snapshot ID: `AAAAAFMMdS+XWuKeE7FOXd+1dgM4ByNK`
+Snapshot ID: `AAAAABPkMZMQQhoIAcJFHYQZAu7O74Z8`

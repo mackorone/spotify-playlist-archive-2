@@ -2264,7 +2264,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 116000,
       "name": "blue",
       "url": "https://open.spotify.com/track/4p9isEOrb1yAvhAcy78Axb"
@@ -14864,6 +14864,24 @@
       "duration_ms": 109687,
       "name": "mt. fuji",
       "url": "https://open.spotify.com/track/2RNNPl9fpAb0ziigldf85I"
+    },
+    {
+      "album": {
+        "name": "Mukashi",
+        "url": "https://open.spotify.com/album/49iuBduhxHVbst8Nv4KFhN"
+      },
+      "artists": [
+        {
+          "name": "Yasumi",
+          "url": "https://open.spotify.com/artist/34l34Oez7Yh2TuELTDmNKZ"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130285,
+      "name": "Mukashi",
+      "url": "https://open.spotify.com/track/4YZC9eHwDEyNCxU95g59Ya"
     },
     {
       "album": {

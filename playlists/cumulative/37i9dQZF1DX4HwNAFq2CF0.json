@@ -748,6 +748,24 @@
     {
       "album": {
         "name": "Language & Perspective",
+        "url": "https://open.spotify.com/album/45Q2zfxADpUcev6U5MS8KA"
+      },
+      "artists": [
+        {
+          "name": "Bad Suns",
+          "url": "https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182518,
+      "name": "Cardiac Arrest",
+      "url": "https://open.spotify.com/track/0VUKyt3fMjws3me8rZJDua"
+    },
+    {
+      "album": {
+        "name": "Language & Perspective",
         "url": "https://open.spotify.com/album/54bO9jrn1NExmpg6Afsc2A"
       },
       "artists": [
@@ -3222,7 +3240,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 186373,
       "name": "T-Shirt",
       "url": "https://open.spotify.com/track/6T0Nh56rt7qHHaG6tAcGiz"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Judeline, Lucho RK, Dani Martín, Morat y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,078 likes - 85 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 416,063 likes - 85 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 67 | [La casa](https://open.spotify.com/track/69iszvTgf6LKGWdNrUs88D) | [Niños](https://open.spotify.com/artist/5yJc14614Bzi1g5WLSNO3U) | [La casa](https://open.spotify.com/album/37ioSxY7uDqvovm6UBe1PL) | 3:40 |
 | 68 | [Aa No Llamar](https://open.spotify.com/track/63gdZiXXDWPMzb5Q18XP6p) | [GOMZ](https://open.spotify.com/artist/7BLezVBmCyG6aFk101o7vA), [Victoria Goytea](https://open.spotify.com/artist/6obhy4JV9P9XaDmUjrIuNw) | [Aa No Llamar](https://open.spotify.com/album/0zGENb8gQN7OBoPMY8PELT) | 3:02 |
 | 69 | [SALIR](https://open.spotify.com/track/3FWwAp9fjcM7MJZDL1Ua02) | [Safree](https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL) | [SALIR](https://open.spotify.com/album/1JjcSssfFE37a4SQTN0Kzg) | 3:01 |
-| 70 | [Lucía](https://open.spotify.com/track/0hnYRG585G2FQY6lZ85ONf) | [Korashe](https://open.spotify.com/artist/0HFSv9JWkZcY2K4yLGNaHS), [Kfé](https://open.spotify.com/artist/21Oja0BVOrXu4kGqK8MfDF) | [Lucía](https://open.spotify.com/album/5nJu1mS4AXeKF6q5nv0paC) | 2:49 |
+| 70 | [Lucía](https://open.spotify.com/track/0hnYRG585G2FQY6lZ85ONf) | [Korashe](https://open.spotify.com/artist/0HFSv9JWkZcY2K4yLGNaHS), [Kfé](https://open.spotify.com/artist/21Oja0BVOrXu4kGqK8MfDF) | [Lucía](https://open.spotify.com/album/5nJu1mS4AXeKF6q5nv0paC) | 2:51 |
 | 71 | [So no va](https://open.spotify.com/track/2eW1rnObrBLEpsPXFYiiOZ) | [Neomai](https://open.spotify.com/artist/0EMCLd5tzoPP35uUw23Pxz) | [So no va](https://open.spotify.com/album/6H3EMFja2m53vWjuI0QegB) | 2:41 |
 | 72 | [PERREOLOGÍA \(Clase1\)](https://open.spotify.com/track/5osm39XTPCHPhkrRRbujYd) | [EL IMA](https://open.spotify.com/artist/00vsUIEaNHw6qoQnh8DQM2) | [PERREOLOGÍA \(Clase1\)](https://open.spotify.com/album/3xbjngRBjXsmACHGrylZ6k) | 2:27 |
 | 73 | [NO VIVIMOS IGUAL](https://open.spotify.com/track/7HHzzMImQvxL3QcGyajGlj) | [Bloodstein](https://open.spotify.com/artist/4zSSxRkfPyASwmON2Nlctw) | [NO VIVIMOS IGUAL](https://open.spotify.com/album/3unhbVH0jU9gTlFTHA8cSa) | 1:56 |

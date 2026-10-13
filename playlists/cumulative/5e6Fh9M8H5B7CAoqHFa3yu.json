@@ -2291,6 +2291,24 @@
     },
     {
       "album": {
+        "name": "Always Me",
+        "url": "https://open.spotify.com/album/5GETAmuKeALaBNvgWCNFv0"
+      },
+      "artists": [
+        {
+          "name": "Cloud Static",
+          "url": "https://open.spotify.com/artist/3c0gCqBOn3TsFMJ0XFVGra"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154800,
+      "name": "Always Me",
+      "url": "https://open.spotify.com/track/2eeZ7feQjjbj7K8mM8ZVyE"
+    },
+    {
+      "album": {
         "name": "Alza Le Mani",
         "url": "https://open.spotify.com/album/3VbUhT0Tn6m6vcdPW3Z0Gt"
       },
@@ -37075,6 +37093,24 @@
     },
     {
       "album": {
+        "name": "Heartland",
+        "url": "https://open.spotify.com/album/3qamfjUyjGNTFBDxI6g9uY"
+      },
+      "artists": [
+        {
+          "name": "W. Charles Hall",
+          "url": "https://open.spotify.com/artist/1YJgR9U2T5deghpvxv7VSj"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246648,
+      "name": "Runnin' Down A Dream",
+      "url": "https://open.spotify.com/track/4cygbs2nGxNUW83x7Gceip"
+    },
+    {
+      "album": {
         "name": "The Wing Chun Album",
         "url": "https://open.spotify.com/album/4Ev2WLIu3iZJp3rWGYVh5m"
       },
@@ -45957,6 +45993,24 @@
     },
     {
       "album": {
+        "name": "T\u00f4 de Boa",
+        "url": "https://open.spotify.com/album/581fmi1sdvGarhkV6mbVEy"
+      },
+      "artists": [
+        {
+          "name": "J. Bernard",
+          "url": "https://open.spotify.com/artist/6cw4bvntntvCFSZ6zS2nx2"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119317,
+      "name": "T\u00f4 de Boa",
+      "url": "https://open.spotify.com/track/15hI0GEN7t3t0NBDeKbfTZ"
+    },
+    {
+      "album": {
         "name": "Felejtsd el!",
         "url": "https://open.spotify.com/album/2BvhBusLCqco5GyiSinxSV"
       },
@@ -50522,6 +50576,32 @@
       "duration_ms": 193847,
       "name": "\u05e9\u05dc\u05d5\u05e9 \u05e9\u05e0\u05d9\u05dd",
       "url": "https://open.spotify.com/track/3MeArNHAOCEo4wLhpg4hnh"
+    },
+    {
+      "album": {
+        "name": "Three Body Solution",
+        "url": "https://open.spotify.com/album/7KvAjtGdHHUo1aFEEO9NC5"
+      },
+      "artists": [
+        {
+          "name": "Ori Ahinoam",
+          "url": "https://open.spotify.com/artist/70OctIUrjKyvFMHEOo4hTw"
+        },
+        {
+          "name": "Alon Lifshitz",
+          "url": "https://open.spotify.com/artist/3tKq0F7PTmGqj1cpN4cIG2"
+        },
+        {
+          "name": "Gal Inbar",
+          "url": "https://open.spotify.com/artist/7yc1iwjMNqWMIWDZR4F5H8"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 450500,
+      "name": "\u05ea\u05de\u05d9\u05d3 \u05d0\u05d5\u05d4\u05d1 \u05d0\u05d5\u05ea\u05d9 - Body 3",
+      "url": "https://open.spotify.com/track/47tDMmD6e4VJyniEzM3TBg"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "The very best acoustic songs from singer-songwriters making waves. Cover: I'm With Her",
-  "num_followers": 155847,
+  "num_followers": 155844,
   "original_name": "Women of Acoustic",
   "owner": {
     "name": "Spotify",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2026-03-08 15:34:05",
       "album": {
-        "name": "Low",
-        "url": "https://open.spotify.com/album/1wMYbFE4Xxeb6qxe2nkeIX"
-      },
-      "artists": [
-        {
-          "name": "Angel Snow",
-          "url": "https://open.spotify.com/artist/4awtkia1cywuwJ2OrxNw6j"
-        }
-      ],
-      "duration_ms": 231841,
-      "name": "Unsteady Ground",
-      "url": "https://open.spotify.com/track/5aU5EVIbdKn6Xg4ujLTrll"
-    },
-    {
-      "added_at": "2026-03-08 15:34:05",
-      "album": {
         "name": "Hard To Look At",
         "url": "https://open.spotify.com/album/22dE6uGzAupKicgRGotoNv"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 149773,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/2rQMHZq7jnK0J2izGbCj0Z"
+    },
+    {
+      "added_at": "2026-03-08 15:34:05",
+      "album": {
+        "name": "Low",
+        "url": "https://open.spotify.com/album/1wMYbFE4Xxeb6qxe2nkeIX"
+      },
+      "artists": [
+        {
+          "name": "Angel Snow",
+          "url": "https://open.spotify.com/artist/4awtkia1cywuwJ2OrxNw6j"
+        }
+      ],
+      "duration_ms": 231841,
+      "name": "Unsteady Ground",
+      "url": "https://open.spotify.com/track/5aU5EVIbdKn6Xg4ujLTrll"
     }
   ],
   "unique_name": "Women of Acoustic",

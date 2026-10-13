@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Arde Bogot\u00e1.",
-  "num_followers": 620680,
+  "num_followers": 620674,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-10-02 11:19:18",
       "album": {
-        "name": "Poes\u00eda B\u00e1sica",
-        "url": "https://open.spotify.com/album/4xhZ3vSDxAYlXCuorMDAbV"
-      },
-      "artists": [
-        {
-          "name": "Extrechinato y Tu",
-          "url": "https://open.spotify.com/artist/5qi25oEuARj6wUbqiMSj0w"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Rojitas",
-      "url": "https://open.spotify.com/track/5Srks36XWpQoF47EYF7ExI"
-    },
-    {
-      "added_at": "2026-10-02 11:19:18",
-      "album": {
         "name": "Feo, Fuerte y Formal",
         "url": "https://open.spotify.com/album/4D4nUPgZckdsczheG6hYIF"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 242266,
       "name": "Feo Fuerte y Formal",
       "url": "https://open.spotify.com/track/24w139jhWNnuQjnlhlzLvi"
+    },
+    {
+      "added_at": "2026-10-02 11:19:18",
+      "album": {
+        "name": "Poes\u00eda B\u00e1sica",
+        "url": "https://open.spotify.com/album/4xhZ3vSDxAYlXCuorMDAbV"
+      },
+      "artists": [
+        {
+          "name": "Extrechinato y Tu",
+          "url": "https://open.spotify.com/artist/5qi25oEuARj6wUbqiMSj0w"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Rojitas",
+      "url": "https://open.spotify.com/track/5Srks36XWpQoF47EYF7ExI"
     },
     {
       "added_at": "2026-10-02 11:19:18",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-10-02 11:19:18",
       "album": {
-        "name": "Calle Melancol\u00eda",
-        "url": "https://open.spotify.com/album/2RlCfIHnXz8h8sc76B8ACD"
-      },
-      "artists": [
-        {
-          "name": "Robe",
-          "url": "https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK"
-        }
-      ],
-      "duration_ms": 380973,
-      "name": "Calle Melancol\u00eda",
-      "url": "https://open.spotify.com/track/3li6qqddV84LgSw9lgh0sG"
-    },
-    {
-      "added_at": "2026-10-02 11:19:18",
-      "album": {
         "name": "Correos",
         "url": "https://open.spotify.com/album/2CT7oREbwTDOSWIMjRCCaY"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 236413,
       "name": "Cigarrito",
       "url": "https://open.spotify.com/track/2Gt5oL4aEufZvJy9KjEkxi"
+    },
+    {
+      "added_at": "2026-10-02 11:19:18",
+      "album": {
+        "name": "Calle Melancol\u00eda",
+        "url": "https://open.spotify.com/album/2RlCfIHnXz8h8sc76B8ACD"
+      },
+      "artists": [
+        {
+          "name": "Robe",
+          "url": "https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK"
+        }
+      ],
+      "duration_ms": 380973,
+      "name": "Calle Melancol\u00eda",
+      "url": "https://open.spotify.com/track/3li6qqddV84LgSw9lgh0sG"
     },
     {
       "added_at": "2026-10-02 11:19:18",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2026-10-02 11:19:18",
       "album": {
+        "name": "La Rosa De Los Vientos",
+        "url": "https://open.spotify.com/album/51ohZ4F4nZ40R8eGyK7tZT"
+      },
+      "artists": [
+        {
+          "name": "La Frontera",
+          "url": "https://open.spotify.com/artist/4WeIMVqCUH09dxtBsstIw3"
+        }
+      ],
+      "duration_ms": 275026,
+      "name": "El Limite",
+      "url": "https://open.spotify.com/track/0NFcUhw2uKzX0zqH81tWOu"
+    },
+    {
+      "added_at": "2026-10-02 11:19:18",
+      "album": {
         "name": "Sin Tiempo",
         "url": "https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 269426,
       "name": "Necesito Respirar",
       "url": "https://open.spotify.com/track/6uK6H8xkSQRA4Y2TfczXs0"
-    },
-    {
-      "added_at": "2026-10-02 11:19:18",
-      "album": {
-        "name": "La Rosa De Los Vientos",
-        "url": "https://open.spotify.com/album/51ohZ4F4nZ40R8eGyK7tZT"
-      },
-      "artists": [
-        {
-          "name": "La Frontera",
-          "url": "https://open.spotify.com/artist/4WeIMVqCUH09dxtBsstIw3"
-        }
-      ],
-      "duration_ms": 275026,
-      "name": "El Limite",
-      "url": "https://open.spotify.com/track/0NFcUhw2uKzX0zqH81tWOu"
     },
     {
       "added_at": "2026-10-02 11:19:18",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2026-10-02 11:19:18",
       "album": {
-        "name": "Bajo Presi\u00f3n",
-        "url": "https://open.spotify.com/album/0UQVnUty5NVhUOH3tKFbSK"
-      },
-      "artists": [
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        }
-      ],
-      "duration_ms": 259881,
-      "name": "Bajo Presi\u00f3n",
-      "url": "https://open.spotify.com/track/01aWWKx7oCpvTFOXmxdHtZ"
-    },
-    {
-      "added_at": "2026-10-02 11:19:18",
-      "album": {
         "name": "Sin Tiempo",
         "url": "https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 296400,
       "name": "Todo Tiene Su Fin",
       "url": "https://open.spotify.com/track/3a6PKtYVIowjsac9DAja3T"
+    },
+    {
+      "added_at": "2026-10-02 11:19:18",
+      "album": {
+        "name": "Bajo Presi\u00f3n",
+        "url": "https://open.spotify.com/album/0UQVnUty5NVhUOH3tKFbSK"
+      },
+      "artists": [
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        }
+      ],
+      "duration_ms": 259881,
+      "name": "Bajo Presi\u00f3n",
+      "url": "https://open.spotify.com/track/01aWWKx7oCpvTFOXmxdHtZ"
     },
     {
       "added_at": "2026-10-02 11:19:18",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2026-10-02 11:19:18",
       "album": {
-        "name": "Fitograf\u00eda",
-        "url": "https://open.spotify.com/album/4zSihveMwgYWHA5Bkw29Ug"
-      },
-      "artists": [
-        {
-          "name": "Fito y Fitipaldis",
-          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
-        }
-      ],
-      "duration_ms": 269373,
-      "name": "Por la boca vive el pez",
-      "url": "https://open.spotify.com/track/1mOOMcUSzzsyzKmlukM1m4"
-    },
-    {
-      "added_at": "2026-10-02 11:19:18",
-      "album": {
         "name": "20 a\u00f1os de canciones",
         "url": "https://open.spotify.com/album/47xgtvfLA126uHFF1Hipi3"
       },
@@ -1703,6 +1687,22 @@
     {
       "added_at": "2026-10-02 11:19:18",
       "album": {
+        "name": "Fitograf\u00eda",
+        "url": "https://open.spotify.com/album/4zSihveMwgYWHA5Bkw29Ug"
+      },
+      "artists": [
+        {
+          "name": "Fito y Fitipaldis",
+          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
+        }
+      ],
+      "duration_ms": 269373,
+      "name": "Por la boca vive el pez",
+      "url": "https://open.spotify.com/track/1mOOMcUSzzsyzKmlukM1m4"
+    },
+    {
+      "added_at": "2026-10-02 11:19:18",
+      "album": {
         "name": "Esencial Estopa",
         "url": "https://open.spotify.com/album/6aYbP8x2bbGRP8Zd0XH4CK"
       },
@@ -1715,6 +1715,22 @@
       "duration_ms": 203213,
       "name": "Como Camar\u00f3n",
       "url": "https://open.spotify.com/track/3fpS8r0JsVTkCOLnq49lH6"
+    },
+    {
+      "added_at": "2026-10-02 11:19:18",
+      "album": {
+        "name": "Matricula De Honor/New Booklet",
+        "url": "https://open.spotify.com/album/4ajHTO6YQLBIgfsF9MpKBv"
+      },
+      "artists": [
+        {
+          "name": "Tequila",
+          "url": "https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "Rock And Roll en la Plaza del Pueblo",
+      "url": "https://open.spotify.com/track/5fCYRuYxc1ox7yWKcKD6tf"
     },
     {
       "added_at": "2026-10-02 11:19:18",
@@ -1739,22 +1755,6 @@
       "duration_ms": 249984,
       "name": "\u00bfVolver\u00e1? (feat. Dani Mart\u00edn, Rulo y la Contrabanda)",
       "url": "https://open.spotify.com/track/56bY8QWkhq11vfMpOIhJli"
-    },
-    {
-      "added_at": "2026-10-02 11:19:18",
-      "album": {
-        "name": "Matricula De Honor/New Booklet",
-        "url": "https://open.spotify.com/album/4ajHTO6YQLBIgfsF9MpKBv"
-      },
-      "artists": [
-        {
-          "name": "Tequila",
-          "url": "https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO"
-        }
-      ],
-      "duration_ms": 180266,
-      "name": "Rock And Roll en la Plaza del Pueblo",
-      "url": "https://open.spotify.com/track/5fCYRuYxc1ox7yWKcKD6tf"
     },
     {
       "added_at": "2026-10-02 11:19:18",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2026-10-02 11:19:18",
       "album": {
-        "name": "Metamorfosis. En Directo Desde El Teatro Arriaga",
-        "url": "https://open.spotify.com/album/5qIHOPv1Ot90WPGIRmsfMr"
-      },
-      "artists": [
-        {
-          "name": "Doctor Deseo",
-          "url": "https://open.spotify.com/artist/41h0P2FVHr6YTMfhjkrnhA"
-        }
-      ],
-      "duration_ms": 329491,
-      "name": "Abr\u00e1zame",
-      "url": "https://open.spotify.com/track/0rEZBTkZP2Q3c8upkx2WPf"
-    },
-    {
-      "added_at": "2026-10-02 11:19:18",
-      "album": {
         "name": "Un Palo Al Agua (20 Grandes Canciones)",
         "url": "https://open.spotify.com/album/1XcBGMLrcNXMHukhrRNHCq"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 273880,
       "name": "Agradecido",
       "url": "https://open.spotify.com/track/4WfsIWwYMxMZhezMSUQZQW"
+    },
+    {
+      "added_at": "2026-10-02 11:19:18",
+      "album": {
+        "name": "Metamorfosis. En Directo Desde El Teatro Arriaga",
+        "url": "https://open.spotify.com/album/5qIHOPv1Ot90WPGIRmsfMr"
+      },
+      "artists": [
+        {
+          "name": "Doctor Deseo",
+          "url": "https://open.spotify.com/artist/41h0P2FVHr6YTMfhjkrnhA"
+        }
+      ],
+      "duration_ms": 329491,
+      "name": "Abr\u00e1zame",
+      "url": "https://open.spotify.com/track/0rEZBTkZP2Q3c8upkx2WPf"
     },
     {
       "added_at": "2026-10-02 11:19:18",

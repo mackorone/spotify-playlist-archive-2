@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > The best of electronic trap 🩷 with ISOxo
 
-[Spotify](https://open.spotify.com/user/spotify) - 872,150 likes - 100 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 872,101 likes - 100 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 67 | [Diamond](https://open.spotify.com/track/3G3oGZa8nfjofmhXokFbtU) | [YDG](https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4) | [Diamond](https://open.spotify.com/album/2gpllHbaGDQFUQZTo69O9j) | 2:42 |
 | 68 | [CONTROL](https://open.spotify.com/track/4ohXPckRwCzszhzjsYczfK) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [CONTROL](https://open.spotify.com/album/19gckw1W9jhm1Acg08yRa6) | 2:25 |
 | 69 | [I Need The](https://open.spotify.com/track/6nQs7YFkvBIR3OpnAXDfLL) | [Phrva](https://open.spotify.com/artist/2gUjbFSv34ZRVw5qkwKTO7), [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [I Need The](https://open.spotify.com/album/4eNcrj00dgzuo9Od6CbO2F) | 3:44 |
-| 70 | [Throw Ya Body](https://open.spotify.com/track/5f3KMJbhhUJl1S3deq0P6C) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Tej](https://open.spotify.com/artist/23wNcGsGxFCpKLs1KoLiHL), [Avani Satra](https://open.spotify.com/artist/0jSQsnwKwjMY1x4xqDZ6Vp) | [Throw Ya Body](https://open.spotify.com/album/4TADJ1eEDYHdmMfUN9fWwg) | 2:51 |
-| 71 | [DOPAMINE++](https://open.spotify.com/track/22ruxNj3CULTE2dAM1r9aw) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [DOPAMINE++](https://open.spotify.com/album/6eMsuTTLUDP2IyUpniYuqF) | 3:22 |
+| 70 | [DOPAMINE++](https://open.spotify.com/track/22ruxNj3CULTE2dAM1r9aw) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [DOPAMINE++](https://open.spotify.com/album/6eMsuTTLUDP2IyUpniYuqF) | 3:22 |
+| 71 | [Throw Ya Body](https://open.spotify.com/track/5f3KMJbhhUJl1S3deq0P6C) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Tej](https://open.spotify.com/artist/23wNcGsGxFCpKLs1KoLiHL), [Avani Satra](https://open.spotify.com/artist/0jSQsnwKwjMY1x4xqDZ6Vp) | [Throw Ya Body](https://open.spotify.com/album/4TADJ1eEDYHdmMfUN9fWwg) | 2:51 |
 | 72 | [YA BODY](https://open.spotify.com/track/07jKK0hViPo33S5Y35QyvB) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd) | [YA BODY](https://open.spotify.com/album/4wpE3IlFOM1T571dAN94xU) | 3:03 |
 | 73 | [BITE \(MY STYLE\)](https://open.spotify.com/track/0prQSBXEepgAXAxFRbiHET) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [BITE \(MY STYLE\)](https://open.spotify.com/album/2WGNVmijdmBF4Qox8aQZWO) | 2:28 |
 | 74 | [Disaster](https://open.spotify.com/track/65Ga5ZT9oE2zZVC1nCHxW7) | [NEOTEK](https://open.spotify.com/artist/44btqMHopGiWCGHMtFw3mv), [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa) | [Disaster](https://open.spotify.com/album/1Ky5TyJ72ScYyLhWgyKH8f) | 2:51 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 96 | [SAVE U](https://open.spotify.com/track/7AoZ39tdZt9OLEsfQ6bdiA) | [SVDKO](https://open.spotify.com/artist/0bhDbXEM9xuKfuQWXmUHHt), [Klo](https://open.spotify.com/artist/2QlABGwVVmqOu8SHMyyZMq) | [SAVE U](https://open.spotify.com/album/1p2cM5KI8zCFBcKwzwdNlM) | 2:41 |
 | 97 | [AHORA](https://open.spotify.com/track/1Re81w8xdZjUNuRu1AUSoL) | [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr), [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [AHORA](https://open.spotify.com/album/4JcvArkgyQyq8C7gAETGgu) | 2:25 |
 | 98 | [Hitz](https://open.spotify.com/track/7mCDRMWEok4y7NHgKSfD2K) | [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa) | [Hitz](https://open.spotify.com/album/4HxksCl9JvGn7Ni77clzS8) | 2:48 |
-| 99 | [2MINUTES](https://open.spotify.com/track/0uMacCT18h0GN7OhvTD8AT) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL), [rossxo](https://open.spotify.com/artist/1q1ZWybfsUJFayBQiDye8W) | [2MINUTES](https://open.spotify.com/album/2v3aGtCv3R0C2cTqa0bMon) | 3:39 |
-| 100 | [POWER](https://open.spotify.com/track/0P5KTcGLQludTZtkKoUOjK) | [nikko](https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq), [Control Freak](https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19) | [POWER](https://open.spotify.com/album/3mcCT5ge4xxobfw0bdeGNm) | 2:24 |
+| 99 | [POWER](https://open.spotify.com/track/0P5KTcGLQludTZtkKoUOjK) | [nikko](https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq), [Control Freak](https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19) | [POWER](https://open.spotify.com/album/3mcCT5ge4xxobfw0bdeGNm) | 2:24 |
+| 100 | [2MINUTES](https://open.spotify.com/track/0uMacCT18h0GN7OhvTD8AT) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL), [rossxo](https://open.spotify.com/artist/1q1ZWybfsUJFayBQiDye8W) | [2MINUTES](https://open.spotify.com/album/2v3aGtCv3R0C2cTqa0bMon) | 3:39 |
 
 Snapshot ID: `AAAAAJLMm4kK1wwbY328uslxBFW2Zj3u`

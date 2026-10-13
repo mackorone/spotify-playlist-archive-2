@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Florence Road
 
-2,380 songs - 5 day 18 hr 57 min
+2,381 songs - 5 day 19 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -476,6 +476,7 @@
 | [critic](https://open.spotify.com/track/6rXaE630jO1Mzc86aJuUN7) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [critic](https://open.spotify.com/album/4v8eiMaBeDhakgqoJh92Fm) | 2:26 | 2026-08-29 |  |
 | [Cross The Line](https://open.spotify.com/track/31Y2CcHh4lcGAmw28LWaiI) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Cross The Line](https://open.spotify.com/album/3ZkRYEmyvckTVsN1PHP44a) | 3:07 | 2023-07-06 | 2023-07-14 |
 | [Cross Your Fingers](https://open.spotify.com/track/2kDS2SAoh9qDZjg1uNxDyz) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Cross Your Fingers](https://open.spotify.com/album/6uHfrz1awx019bmQvuqcax) | 3:49 | 2024-02-15 | 2024-02-23 |
+| [Crown In The Grave](https://open.spotify.com/track/3EiZRLPpax6Jfzr3Ia5dNx) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Crown In The Grave](https://open.spotify.com/album/3OZcfjKKdFHpl787goUIJb) | 4:56 | 2026-10-08 |  |
 | [Crown of Horns](https://open.spotify.com/track/75roxXAbp0Bi2clZghkjAy) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Crown of Horns](https://open.spotify.com/album/5TbeGCTi2n5y7xFuWBAE8D) | 5:45 | 2024-01-18 | 2024-01-26 |
 | [Crucified](https://open.spotify.com/track/16RujY71B7zUln5H6q8CPk) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [Crucified](https://open.spotify.com/album/5Jz2uk2TgskbcQF5maAxeE) | 4:23 | 2026-09-25 |  |
 | [CRUEL](https://open.spotify.com/track/0T70OATh83XtJsQG74lL86) | [LYELL](https://open.spotify.com/artist/3aDih8lIm5GOfAaorpUg5Y) | [CRUEL](https://open.spotify.com/album/7ELoEFG7ec1h7GLDZdFU99) | 2:21 | 2023-11-23 | 2023-12-01 |
@@ -488,7 +489,7 @@
 | [Curse](https://open.spotify.com/track/65VHUZPZKgaG4SJVRkBPzn) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Curse](https://open.spotify.com/album/29w7d7KKgGkgQ4qmu56SQe) | 3:01 | 2024-04-12 | 2025-04-04 |
 | [Cut](https://open.spotify.com/track/5DDN7RGlnJSDGF5abfvoqp) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs), [Lilith Czar](https://open.spotify.com/artist/2tMZ37dVy1DzZjXXCjhgFq) | [VINDICATE](https://open.spotify.com/album/2bvKgi1cdJbaURY2bN7y4p) | 3:59 | 2026-05-23 | 2026-06-26 |
 | [Cut the Cord](https://open.spotify.com/track/3nrPemlBKtA9Ggcnl3JpHu) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [A Fistful of Peaches](https://open.spotify.com/album/66f2AJfIYSpWtiDMac7Wea) | 3:29 | 2023-03-16 | 2023-03-25 |
-| [CUT\_it](https://open.spotify.com/track/20UAoMZQ3XFRrc1U7eGDgB) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [CUT\_it](https://open.spotify.com/album/3wnXc6Rid7z6wGO0XYeVAz) | 3:14 | 2026-08-17 |  |
+| [CUT\_it](https://open.spotify.com/track/20UAoMZQ3XFRrc1U7eGDgB) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [CUT\_it](https://open.spotify.com/album/3wnXc6Rid7z6wGO0XYeVAz) | 3:14 | 2026-08-17 | 2026-10-13 |
 | [C’est Comme Ça](https://open.spotify.com/track/1Nx7KvCw6D3O0W2HwYg9tq) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 2:29 | 2023-04-27 | 2023-05-19 |
 | [Daily Queen](https://open.spotify.com/track/53YiLtXKQXGrUfcK8rd2TF) | [Faustus](https://open.spotify.com/artist/6sqXbSeB9ZEfZSEz6kg95k) | [Daily Queen](https://open.spotify.com/album/6UMrQXSdh75gN7UGGHytO4) | 4:42 | 2024-07-05 | 2024-09-13 |
 | [DALALA](https://open.spotify.com/track/3fOz3ecK1RMlPAZ3PYVqoM) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [HOOMAN AFTER ALL](https://open.spotify.com/album/5nm1PXUkNGH3nsNWL0sOJA) | 3:37 | 2026-09-03 | 2026-09-11 |

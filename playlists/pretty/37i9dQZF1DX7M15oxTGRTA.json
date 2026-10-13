@@ -1,6 +1,6 @@
 {
   "description": "Soul Music daqui e de fora, um toque de sensibilidade. Foto: Cassiano",
-  "num_followers": 191893,
+  "num_followers": 191951,
   "original_name": "Melodia & Nostalgia",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2025-06-03 20:18:35",
       "album": {
-        "name": "Everybody Loves The Sunshine (Reissue)",
-        "url": "https://open.spotify.com/album/5JehGpTedBPXzhUcwXoIlf"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers Ubiquity",
-          "url": "https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7"
-        }
-      ],
-      "duration_ms": 239666,
-      "name": "Everybody Loves The Sunshine",
-      "url": "https://open.spotify.com/track/5le4sn0iMcnKU56bdmNzso"
-    },
-    {
-      "added_at": "2025-06-03 20:18:35",
-      "album": {
         "name": "Talking Book",
         "url": "https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 178200,
       "name": "You Are The Sunshine Of My Life",
       "url": "https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX"
+    },
+    {
+      "added_at": "2025-06-03 20:18:35",
+      "album": {
+        "name": "Everybody Loves The Sunshine (Reissue)",
+        "url": "https://open.spotify.com/album/5JehGpTedBPXzhUcwXoIlf"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers Ubiquity",
+          "url": "https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7"
+        }
+      ],
+      "duration_ms": 239666,
+      "name": "Everybody Loves The Sunshine",
+      "url": "https://open.spotify.com/track/5le4sn0iMcnKU56bdmNzso"
     },
     {
       "added_at": "2025-06-03 20:18:35",
@@ -379,22 +379,6 @@
     {
       "added_at": "2025-06-03 20:18:35",
       "album": {
-        "name": "Rapture",
-        "url": "https://open.spotify.com/album/1C7VOpm96d77zf5yaRqJ2u"
-      },
-      "artists": [
-        {
-          "name": "Anita Baker",
-          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
-        }
-      ],
-      "duration_ms": 266200,
-      "name": "Sweet Love",
-      "url": "https://open.spotify.com/track/6Ycf7Ch2VlEKlORbz7yfpJ"
-    },
-    {
-      "added_at": "2025-06-03 20:18:35",
-      "album": {
         "name": "Karyn White",
         "url": "https://open.spotify.com/album/2Ck4KnfNbVPQqcRkmsDt6F"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 266733,
       "name": "Kiss and Say Goodbye",
       "url": "https://open.spotify.com/track/0rHiGIRASJq8snJGFJMpnI"
+    },
+    {
+      "added_at": "2025-06-03 20:18:35",
+      "album": {
+        "name": "Rapture",
+        "url": "https://open.spotify.com/album/1C7VOpm96d77zf5yaRqJ2u"
+      },
+      "artists": [
+        {
+          "name": "Anita Baker",
+          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
+        }
+      ],
+      "duration_ms": 266200,
+      "name": "Sweet Love",
+      "url": "https://open.spotify.com/track/6Ycf7Ch2VlEKlORbz7yfpJ"
     },
     {
       "added_at": "2025-06-03 20:18:35",
@@ -655,22 +655,6 @@
     {
       "added_at": "2025-06-03 20:18:35",
       "album": {
-        "name": "Very Special",
-        "url": "https://open.spotify.com/album/2mjNADEgtMAoNfXTLcFTn4"
-      },
-      "artists": [
-        {
-          "name": "Debra Laws",
-          "url": "https://open.spotify.com/artist/6iA5wBxxMxUMr9a4fnJd34"
-        }
-      ],
-      "duration_ms": 268173,
-      "name": "Very Special",
-      "url": "https://open.spotify.com/track/6wKAZB2lwOWeqpwquNHThG"
-    },
-    {
-      "added_at": "2025-06-03 20:18:35",
-      "album": {
         "name": "Rapture",
         "url": "https://open.spotify.com/album/1C7VOpm96d77zf5yaRqJ2u"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 250266,
       "name": "Caught Up in the Rapture",
       "url": "https://open.spotify.com/track/1Df1rxgMob1qQudexDEKuu"
+    },
+    {
+      "added_at": "2025-06-03 20:18:35",
+      "album": {
+        "name": "Very Special",
+        "url": "https://open.spotify.com/album/2mjNADEgtMAoNfXTLcFTn4"
+      },
+      "artists": [
+        {
+          "name": "Debra Laws",
+          "url": "https://open.spotify.com/artist/6iA5wBxxMxUMr9a4fnJd34"
+        }
+      ],
+      "duration_ms": 268173,
+      "name": "Very Special",
+      "url": "https://open.spotify.com/track/6wKAZB2lwOWeqpwquNHThG"
     },
     {
       "added_at": "2025-06-03 20:18:35",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2025-06-03 20:18:35",
       "album": {
-        "name": "Betty Wright Live",
-        "url": "https://open.spotify.com/album/1jssvEYMHpe5sR0PwRhUTu"
-      },
-      "artists": [
-        {
-          "name": "Betty Wright",
-          "url": "https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz"
-        }
-      ],
-      "duration_ms": 498866,
-      "name": "Tonight Is the Night - Live",
-      "url": "https://open.spotify.com/track/4vzcQG9LnS00DR6s2fSS3j"
-    },
-    {
-      "added_at": "2025-06-03 20:18:35",
-      "album": {
         "name": "The Jones Girls",
         "url": "https://open.spotify.com/album/4ZhVgoPq9B9emWRsMcT6cD"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 204720,
       "name": "Who Can I Run To",
       "url": "https://open.spotify.com/track/3sFoSCg2KoaCUrOeKYMqvI"
+    },
+    {
+      "added_at": "2025-06-03 20:18:35",
+      "album": {
+        "name": "Betty Wright Live",
+        "url": "https://open.spotify.com/album/1jssvEYMHpe5sR0PwRhUTu"
+      },
+      "artists": [
+        {
+          "name": "Betty Wright",
+          "url": "https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz"
+        }
+      ],
+      "duration_ms": 498866,
+      "name": "Tonight Is the Night - Live",
+      "url": "https://open.spotify.com/track/4vzcQG9LnS00DR6s2fSS3j"
     },
     {
       "added_at": "2025-06-03 20:18:35",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2025-06-03 20:18:35",
       "album": {
-        "name": "Hot Space (2011 Remaster)",
-        "url": "https://open.spotify.com/album/6reTSIf5MoBco62rk8T7Q1"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 209106,
-      "name": "Cool Cat - Remastered 2011",
-      "url": "https://open.spotify.com/track/7nhWtCc3v6Vem80gYPlppQ"
-    },
-    {
-      "added_at": "2025-06-03 20:18:35",
-      "album": {
         "name": "Injoy",
         "url": "https://open.spotify.com/album/1qxa6VbQVlc4PHelzTGXFo"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 287933,
       "name": "Running In And Out Of My Life",
       "url": "https://open.spotify.com/track/3OW48hHrhnd1yjIkPWmnFb"
+    },
+    {
+      "added_at": "2025-06-03 20:18:35",
+      "album": {
+        "name": "Hot Space (2011 Remaster)",
+        "url": "https://open.spotify.com/album/6reTSIf5MoBco62rk8T7Q1"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 209106,
+      "name": "Cool Cat - Remastered 2011",
+      "url": "https://open.spotify.com/track/7nhWtCc3v6Vem80gYPlppQ"
     },
     {
       "added_at": "2025-06-03 20:18:35",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2025-06-03 20:18:35",
       "album": {
-        "name": "Vicious & Fresh",
-        "url": "https://open.spotify.com/album/7HtRGLzPo0eC2wwPwXoYft"
-      },
-      "artists": [
-        {
-          "name": "Liz Hogue",
-          "url": "https://open.spotify.com/artist/6easnQDujkGyX9coigNSjm"
-        }
-      ],
-      "duration_ms": 357560,
-      "name": "Dream Lover",
-      "url": "https://open.spotify.com/track/6h637gCeeBs6cXYbJKoQZg"
-    },
-    {
-      "added_at": "2025-06-03 20:18:35",
-      "album": {
         "name": "Propositions",
         "url": "https://open.spotify.com/album/0ma0R91MtPMQ7mFj5OgY9j"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 347560,
       "name": "Anticipation",
       "url": "https://open.spotify.com/track/2Q9ED4G5mwlAaxvmkYmvLJ"
+    },
+    {
+      "added_at": "2025-06-03 20:18:35",
+      "album": {
+        "name": "Vicious & Fresh",
+        "url": "https://open.spotify.com/album/7HtRGLzPo0eC2wwPwXoYft"
+      },
+      "artists": [
+        {
+          "name": "Liz Hogue",
+          "url": "https://open.spotify.com/artist/6easnQDujkGyX9coigNSjm"
+        }
+      ],
+      "duration_ms": 357560,
+      "name": "Dream Lover",
+      "url": "https://open.spotify.com/track/6h637gCeeBs6cXYbJKoQZg"
     },
     {
       "added_at": "2025-06-03 20:18:35",

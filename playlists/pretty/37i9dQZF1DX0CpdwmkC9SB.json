@@ -1,6 +1,6 @@
 {
   "description": "The biggest festival of the year. The official playlist for Glastonbury 2025.",
-  "num_followers": 244243,
+  "num_followers": 244248,
   "original_name": "Glastonbury 2025",
   "owner": {
     "name": "Spotify",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Something To Me",
-        "url": "https://open.spotify.com/album/6kbGkFNoQrF3EWaQxky9sO"
-      },
-      "artists": [
-        {
-          "name": "Josh Baker",
-          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
-        }
-      ],
-      "duration_ms": 225466,
-      "name": "Something To Me",
-      "url": "https://open.spotify.com/track/2oCShkda3AnUzwPzZPvQyf"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "The Pleasure Principle",
         "url": "https://open.spotify.com/album/5xFlkqLDx3wbgqtvrez1n0"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 238906,
       "name": "Cars",
       "url": "https://open.spotify.com/track/4QQEzkxcONBthDLfzqIh9S"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Something To Me",
+        "url": "https://open.spotify.com/album/6kbGkFNoQrF3EWaQxky9sO"
+      },
+      "artists": [
+        {
+          "name": "Josh Baker",
+          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
+        }
+      ],
+      "duration_ms": 225466,
+      "name": "Something To Me",
+      "url": "https://open.spotify.com/track/2oCShkda3AnUzwPzZPvQyf"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Your New Morning Alarm",
-        "url": "https://open.spotify.com/album/2cIdUSLoAzsR8u8ZW1NMSL"
-      },
-      "artists": [
-        {
-          "name": "Marc Rebillet",
-          "url": "https://open.spotify.com/artist/72udTJKu1pGovvS9aCYGMI"
-        }
-      ],
-      "duration_ms": 57746,
-      "name": "Your New Morning Alarm",
-      "url": "https://open.spotify.com/track/7L1pVDaAATmhv0swJh1B56"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Not Waving, But Drowning",
         "url": "https://open.spotify.com/album/1kokRXXxrJzhxdMo0vsVDV"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 197600,
       "name": "Ottolenghi",
       "url": "https://open.spotify.com/track/64I9byMYBlS1ARsC3vtpgW"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Your New Morning Alarm",
+        "url": "https://open.spotify.com/album/2cIdUSLoAzsR8u8ZW1NMSL"
+      },
+      "artists": [
+        {
+          "name": "Marc Rebillet",
+          "url": "https://open.spotify.com/artist/72udTJKu1pGovvS9aCYGMI"
+        }
+      ],
+      "duration_ms": 57746,
+      "name": "Your New Morning Alarm",
+      "url": "https://open.spotify.com/track/7L1pVDaAATmhv0swJh1B56"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "PAPOTA",
-        "url": "https://open.spotify.com/album/1NDJk94691Vydq1IrIeGC0"
-      },
-      "artists": [
-        {
-          "name": "CA7RIEL & Paco Amoroso",
-          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
-        }
-      ],
-      "duration_ms": 149394,
-      "name": "#TETAS",
-      "url": "https://open.spotify.com/track/2RAKwOzLiXA8AgA1pFIuFe"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "96 Degrees In The Shade",
         "url": "https://open.spotify.com/album/3YoEPzjAMfRO18CVXs2evN"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 267826,
       "name": "1865 (96\u00ba In The Shade)",
       "url": "https://open.spotify.com/track/2Jko3yQgktaKnFcmyLv3g7"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "PAPOTA",
+        "url": "https://open.spotify.com/album/1NDJk94691Vydq1IrIeGC0"
+      },
+      "artists": [
+        {
+          "name": "CA7RIEL & Paco Amoroso",
+          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
+        }
+      ],
+      "duration_ms": 149394,
+      "name": "#TETAS",
+      "url": "https://open.spotify.com/track/2RAKwOzLiXA8AgA1pFIuFe"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Nobody Is Not Loved",
-        "url": "https://open.spotify.com/album/5ZSutAkOkxqNok6aFCqafk"
-      },
-      "artists": [
-        {
-          "name": "Solomun",
-          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
-        }
-      ],
-      "duration_ms": 221090,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/6ekLy1OsrYdLMbcqc0KZ8G"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Foolish Loving Spaces (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0yMTm5gz3ZoUItDgE2kVru"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 161293,
       "name": "Your Girlfriend",
       "url": "https://open.spotify.com/track/3tzU46wNOVaFiYRNtNYY66"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Nobody Is Not Loved",
+        "url": "https://open.spotify.com/album/5ZSutAkOkxqNok6aFCqafk"
+      },
+      "artists": [
+        {
+          "name": "Solomun",
+          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+        }
+      ],
+      "duration_ms": 221090,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6ekLy1OsrYdLMbcqc0KZ8G"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Falling For You",
-        "url": "https://open.spotify.com/album/06IxEeX95EI0GlyfuuPqjS"
-      },
-      "artists": [
-        {
-          "name": "Amelie Lens",
-          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
-        }
-      ],
-      "duration_ms": 235045,
-      "name": "Falling For You",
-      "url": "https://open.spotify.com/track/6KmjD9CaophLMXTCzKoLLZ"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Made of Bricks",
         "url": "https://open.spotify.com/album/11SwLZF0LlX2GUAgN4rJ1b"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 245173,
       "name": "Foundations",
       "url": "https://open.spotify.com/track/6lUk96KJPMHWdhEy6rmwxt"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Falling For You",
+        "url": "https://open.spotify.com/album/06IxEeX95EI0GlyfuuPqjS"
+      },
+      "artists": [
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        }
+      ],
+      "duration_ms": 235045,
+      "name": "Falling For You",
+      "url": "https://open.spotify.com/track/6KmjD9CaophLMXTCzKoLLZ"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Feeling",
-        "url": "https://open.spotify.com/album/15BiKQLRmY8xQIk4arEEsq"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 200626,
-      "name": "Feeling",
-      "url": "https://open.spotify.com/track/5J6TfufAsesi9BPnvlgBl8"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Labour of Lust",
         "url": "https://open.spotify.com/album/1gej2up6QoCmt1GeQSlKx5"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 201339,
       "name": "Mahal",
       "url": "https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/15BiKQLRmY8xQIk4arEEsq"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 200626,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/5J6TfufAsesi9BPnvlgBl8"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2167,22 +2167,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "A Mixtape by Anish Kumar",
-        "url": "https://open.spotify.com/album/2FKcfRXY5LYv0pALiLRh3g"
-      },
-      "artists": [
-        {
-          "name": "Anish Kumar",
-          "url": "https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8"
-        }
-      ],
-      "duration_ms": 252208,
-      "name": "Marabelle",
-      "url": "https://open.spotify.com/track/5pkCK8nUi4yxwNIVi03FIm"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "I Am A Bird Now",
         "url": "https://open.spotify.com/album/24Xm5zS2KvwojChzxLGdn9"
       },
@@ -2199,6 +2183,22 @@
       "duration_ms": 351893,
       "name": "Fistful Of Love",
       "url": "https://open.spotify.com/track/37YJOz90ri4sjyo4uyCLXA"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "A Mixtape by Anish Kumar",
+        "url": "https://open.spotify.com/album/2FKcfRXY5LYv0pALiLRh3g"
+      },
+      "artists": [
+        {
+          "name": "Anish Kumar",
+          "url": "https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8"
+        }
+      ],
+      "duration_ms": 252208,
+      "name": "Marabelle",
+      "url": "https://open.spotify.com/track/5pkCK8nUi4yxwNIVi03FIm"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2363,22 +2363,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "What They Say EP",
-        "url": "https://open.spotify.com/album/0DECxh5mdTBhB2Rw9qE7UI"
-      },
-      "artists": [
-        {
-          "name": "Maya Jane Coles",
-          "url": "https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2"
-        }
-      ],
-      "duration_ms": 400115,
-      "name": "What They Say",
-      "url": "https://open.spotify.com/track/5S7Y5HgQ2HPqiCVkKylT2r"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "I'm Your Mama",
         "url": "https://open.spotify.com/album/0NJV0HLBF9A373sMVcf6g0"
       },
@@ -2391,6 +2375,22 @@
       "duration_ms": 81877,
       "name": "I'm Your Mama",
       "url": "https://open.spotify.com/track/002LS9B1Iu3czYhi0TLDm1"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "What They Say EP",
+        "url": "https://open.spotify.com/album/0DECxh5mdTBhB2Rw9qE7UI"
+      },
+      "artists": [
+        {
+          "name": "Maya Jane Coles",
+          "url": "https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2"
+        }
+      ],
+      "duration_ms": 400115,
+      "name": "What They Say",
+      "url": "https://open.spotify.com/track/5S7Y5HgQ2HPqiCVkKylT2r"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2507,22 +2507,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Yearning for the Infinite",
-        "url": "https://open.spotify.com/album/2qOai8aBLM3813p4luleGt"
-      },
-      "artists": [
-        {
-          "name": "Max Cooper",
-          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
-        }
-      ],
-      "duration_ms": 298986,
-      "name": "Perpetual Motion",
-      "url": "https://open.spotify.com/track/6lURqRzgfuHN5Czub5w9Px"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Traveling Alone",
         "url": "https://open.spotify.com/album/1VW2JPuvgbb02IpOsxHA4R"
       },
@@ -2555,6 +2539,22 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
+        "name": "Yearning for the Infinite",
+        "url": "https://open.spotify.com/album/2qOai8aBLM3813p4luleGt"
+      },
+      "artists": [
+        {
+          "name": "Max Cooper",
+          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
+        }
+      ],
+      "duration_ms": 298986,
+      "name": "Perpetual Motion",
+      "url": "https://open.spotify.com/track/6lURqRzgfuHN5Czub5w9Px"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
         "name": "Mid Air",
         "url": "https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE"
       },
@@ -2583,6 +2583,22 @@
       "duration_ms": 128658,
       "name": "Jerkin'",
       "url": "https://open.spotify.com/track/3AeJxiUEE7wOYKjYt7M7X2"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Come And See",
+        "url": "https://open.spotify.com/album/4DHXkFCDz154lGUlAWvLPE"
+      },
+      "artists": [
+        {
+          "name": "Gurriers",
+          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
+        }
+      ],
+      "duration_ms": 240973,
+      "name": "Approachable",
+      "url": "https://open.spotify.com/track/6wWmhXZFZe39QGyXRHZ1NR"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2635,22 +2651,6 @@
       "duration_ms": 267112,
       "name": "Dream Factory",
       "url": "https://open.spotify.com/track/5eGnL6MWBeRkilfxdGvTbK"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
-        "name": "Come And See",
-        "url": "https://open.spotify.com/album/4DHXkFCDz154lGUlAWvLPE"
-      },
-      "artists": [
-        {
-          "name": "Gurriers",
-          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
-        }
-      ],
-      "duration_ms": 240973,
-      "name": "Approachable",
-      "url": "https://open.spotify.com/track/6wWmhXZFZe39QGyXRHZ1NR"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2743,22 +2743,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Good Time",
-        "url": "https://open.spotify.com/album/3qte9ec3e2N3SNIQk8qLzy"
-      },
-      "artists": [
-        {
-          "name": "Jodie Harsh",
-          "url": "https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i"
-        }
-      ],
-      "duration_ms": 161068,
-      "name": "Good Time",
-      "url": "https://open.spotify.com/track/7quk6gEs1XOu8LOO6iaDZJ"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Surf That Well/SKATE",
         "url": "https://open.spotify.com/album/2PWeMDw3fQHtgVUCSoz4jv"
       },
@@ -2775,18 +2759,18 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Winona",
-        "url": "https://open.spotify.com/album/3BAjbq6blqHla1TgJUT7U7"
+        "name": "Good Time",
+        "url": "https://open.spotify.com/album/3qte9ec3e2N3SNIQk8qLzy"
       },
       "artists": [
         {
-          "name": "DJ BORING",
-          "url": "https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p"
+          "name": "Jodie Harsh",
+          "url": "https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i"
         }
       ],
-      "duration_ms": 511031,
-      "name": "Winona",
-      "url": "https://open.spotify.com/track/4rvnBqTmx66LlCJZLbLAOY"
+      "duration_ms": 161068,
+      "name": "Good Time",
+      "url": "https://open.spotify.com/track/7quk6gEs1XOu8LOO6iaDZJ"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2803,6 +2787,22 @@
       "duration_ms": 427500,
       "name": "NYP2",
       "url": "https://open.spotify.com/track/2pNtIGopqr4wFDhpc9uAMC"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Winona",
+        "url": "https://open.spotify.com/album/3BAjbq6blqHla1TgJUT7U7"
+      },
+      "artists": [
+        {
+          "name": "DJ BORING",
+          "url": "https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p"
+        }
+      ],
+      "duration_ms": 511031,
+      "name": "Winona",
+      "url": "https://open.spotify.com/track/4rvnBqTmx66LlCJZLbLAOY"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2947,22 +2947,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Walking Like We Do",
-        "url": "https://open.spotify.com/album/0Z9W4KdFjlAUNGjXx3CVZU"
-      },
-      "artists": [
-        {
-          "name": "The Big Moon",
-          "url": "https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O"
-        }
-      ],
-      "duration_ms": 307075,
-      "name": "Your Light",
-      "url": "https://open.spotify.com/track/1oA9hE3IxT8moluIvq9Uc8"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Britpop",
         "url": "https://open.spotify.com/album/5y9Fis539BaAsi7MmHKHm2"
       },
@@ -2975,6 +2959,22 @@
       "duration_ms": 202055,
       "name": "Britpop",
       "url": "https://open.spotify.com/track/6yYnmUYPdTM2ExnJpBKMOT"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Walking Like We Do",
+        "url": "https://open.spotify.com/album/0Z9W4KdFjlAUNGjXx3CVZU"
+      },
+      "artists": [
+        {
+          "name": "The Big Moon",
+          "url": "https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O"
+        }
+      ],
+      "duration_ms": 307075,
+      "name": "Your Light",
+      "url": "https://open.spotify.com/track/1oA9hE3IxT8moluIvq9Uc8"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -3179,22 +3179,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Greatest Hits: Dance",
-        "url": "https://open.spotify.com/album/5MOG4UkYIhHJ3G8pFcrXRj"
-      },
-      "artists": [
-        {
-          "name": "K-Klass",
-          "url": "https://open.spotify.com/artist/4O1s9iVG46lSn1mD9ek1ES"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "Rhythm Is a Mystery",
-      "url": "https://open.spotify.com/track/4sOaUILhFZg24oqQkojft0"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Abyss",
         "url": "https://open.spotify.com/album/4u7B3DAWWTgROfynsq9Fnf"
       },
@@ -3207,6 +3191,22 @@
       "duration_ms": 295174,
       "name": "Echo",
       "url": "https://open.spotify.com/track/7ltSWDRkYI2DoFJiv77XUz"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Greatest Hits: Dance",
+        "url": "https://open.spotify.com/album/5MOG4UkYIhHJ3G8pFcrXRj"
+      },
+      "artists": [
+        {
+          "name": "K-Klass",
+          "url": "https://open.spotify.com/artist/4O1s9iVG46lSn1mD9ek1ES"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "Rhythm Is a Mystery",
+      "url": "https://open.spotify.com/track/4sOaUILhFZg24oqQkojft0"
     },
     {
       "added_at": "2025-06-27 23:00:28",

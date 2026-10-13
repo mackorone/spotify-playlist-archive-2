@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 790 songs - 2 day 3 hr 16 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 792 songs - 2 day 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -798,5 +798,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 788 | [Mesh](https://open.spotify.com/track/6q434zzWBD7culnGqk7rc3) | [Toys From Taiwan](https://open.spotify.com/artist/2FOHOwAyJLD2RImyfPimKa) | [Shorts! Vol\. 1](https://open.spotify.com/album/07mB7TcGEStlDvLkMP7ukh) | 1:35 |
 | 789 | [Mark](https://open.spotify.com/track/6BsTlSVCXUdFtRIfrEgNOb) | [Oodelally](https://open.spotify.com/artist/7piVtviIq966XiLLF3luGJ) | [TURN IT DOWN THE NOISE](https://open.spotify.com/album/40djNW271r1VC244DH7Wdf) | 3:03 |
 | 790 | [The Big Picture](https://open.spotify.com/track/3iaik43VOtFnqtExDXi6Dq) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [LIFTED or The Story Is in the Soil, Keep Your Ear to the Ground](https://open.spotify.com/album/0qPgTNLl3ojenY9bE4nzqm) | 8:41 |
+| 791 | [Moonlight](https://open.spotify.com/track/1qcJdr8TYuGjFhjRoYNC3e) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/5X7x18kW3mVIvnuNeedM6b) | 3:22 |
+| 792 | [raindrops \(an angel cried\)](https://open.spotify.com/track/0v2LUO8oTHnkjQ8MmKuXyk) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 0:37 |
 
-Snapshot ID: `AAAJ071wV/CZJ3i0x7mX51RWbmquZM4W`
+Snapshot ID: `AAAJ1SQ0WfTJTit4LTJcf0Xp3n5QLAav`

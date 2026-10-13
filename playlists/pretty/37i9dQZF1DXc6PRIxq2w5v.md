@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: AO Cubo, 2metro, Nesk Only, Brunno Ramos
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,587 likes - 85 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,589 likes - 85 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 37 | [DNA](https://open.spotify.com/track/7e5Sa9V4FkAi8QD4yS2og3) | [Lookas](https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF), [Novidade Urbana](https://open.spotify.com/artist/3DgCbsyCW1JOgEJEe8WrVy) | [DNA](https://open.spotify.com/album/4lSfrYeSmEDqnyBwq9FEUf) | 2:22 |
 | 38 | [Escolhas](https://open.spotify.com/track/1T5KuXYczrKd5I1i8V0teH) | [Boanerges](https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG), [Dima](https://open.spotify.com/artist/5l4II5pfAbJckDwbdDcgih), [MATXS](https://open.spotify.com/artist/7ich7ebAVHUXP7valh455y) | [Escolhas](https://open.spotify.com/album/312VSvz92cT0EP9fgdzu9V) | 3:20 |
 | 39 | [Rio De Águas Vivas](https://open.spotify.com/track/4491TFcmd9GgJNz0Jnlqhx) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8), [Prod Mkzin](https://open.spotify.com/artist/4qV4GKPQMSwtTP1ZAM4z9v) | [Rio De Águas Vivas](https://open.spotify.com/album/74Yrv4ZAKbA9nnEV9NUqYr) | 3:03 |
-| 40 | [Firme](https://open.spotify.com/track/7H8yZQiqSKXLnIQri2pCRw) | [Fe Ribeiro](https://open.spotify.com/artist/58tgIussK95AuRsnDpXnJX), [Ty Fig](https://open.spotify.com/artist/3WWFue7urY227pMKMRCK7S) | [Firme](https://open.spotify.com/album/0D6n7tMdC4tzjlDJp64brI) | 2:36 |
-| 41 | [Bíblia no Jeans](https://open.spotify.com/track/3bZhgep8ZbUA5Sl9jH2CKv) | [Kinho](https://open.spotify.com/artist/66LPSXokrR2pkStUf6Ympt), [TRDD Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Bíblia no Jeans](https://open.spotify.com/album/1p3FBw3lyxNsvspB0k1xjb) | 2:18 |
+| 40 | [Bíblia no Jeans](https://open.spotify.com/track/3bZhgep8ZbUA5Sl9jH2CKv) | [Kinho](https://open.spotify.com/artist/66LPSXokrR2pkStUf6Ympt), [TRDD Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Bíblia no Jeans](https://open.spotify.com/album/1p3FBw3lyxNsvspB0k1xjb) | 2:18 |
+| 41 | [Firme](https://open.spotify.com/track/7H8yZQiqSKXLnIQri2pCRw) | [Fe Ribeiro](https://open.spotify.com/artist/58tgIussK95AuRsnDpXnJX), [Ty Fig](https://open.spotify.com/artist/3WWFue7urY227pMKMRCK7S) | [Firme](https://open.spotify.com/album/0D6n7tMdC4tzjlDJp64brI) | 2:36 |
 | 42 | [Encontrei em Você](https://open.spotify.com/track/5l9BoXPTWOv5O9L9gqRyqI) | [Lucena](https://open.spotify.com/artist/7qcnNboZRaYlD7AEZ7Gd1V), [LLC Flame](https://open.spotify.com/artist/2K7pASLzTcuXPT8ZYbi3M4), [O Peter](https://open.spotify.com/artist/7fRgJdfGkaPPoG8zvIZ87K), [TRDD Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Encontrei em Você](https://open.spotify.com/album/636J2mxV7b6w1HzsiW0BIo) | 2:52 |
 | 43 | [Melhores Dias](https://open.spotify.com/track/1KhJR0Q3RyRTkf2JauNOeB) | [diaszin](https://open.spotify.com/artist/6TegkKajWwBTgIY8N1dv1Z), [ZÉZIIN](https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ), [TRDD Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Melhores Dias](https://open.spotify.com/album/46kA1Tr4KNNzb8FAX5U3AR) | 2:39 |
 | 44 | [Momentos Difíceis](https://open.spotify.com/track/7LAeP3utzgQ3FutmcdDtOY) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Momentos Difíceis](https://open.spotify.com/album/60weoY6jR36SCjEzfmdNpu) | 2:38 |

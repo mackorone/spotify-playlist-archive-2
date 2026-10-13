@@ -1479,6 +1479,24 @@
     },
     {
       "album": {
+        "name": "BIMMA",
+        "url": "https://open.spotify.com/album/6lYIWN98PypZoOdoGyvg2v"
+      },
+      "artists": [
+        {
+          "name": "AME",
+          "url": "https://open.spotify.com/artist/6QoVi8LaBxXTAXZVVfJpLV"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177136,
+      "name": "BIMMA",
+      "url": "https://open.spotify.com/track/0N3ay0NW33bsbfOds4HD4j"
+    },
+    {
+      "album": {
         "name": "Black Butterfly",
         "url": "https://open.spotify.com/album/0t79bLTGTN3IjGFmusISln"
       },
@@ -2708,6 +2726,24 @@
       "duration_ms": 234469,
       "name": "Destino",
       "url": "https://open.spotify.com/track/3ZzXAcYmNtY1LaEXvEKzI8"
+    },
+    {
+      "album": {
+        "name": "Rising",
+        "url": "https://open.spotify.com/album/5hawHjIi7zbq7iEbaArhUL"
+      },
+      "artists": [
+        {
+          "name": "Gravens",
+          "url": "https://open.spotify.com/artist/3ynl82AyQaG2Rw8Kws3f7Y"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235000,
+      "name": "Devil's Blues",
+      "url": "https://open.spotify.com/track/33X5j5PnNGzEx68ASBqaQv"
     },
     {
       "album": {
@@ -8114,6 +8150,28 @@
       "duration_ms": 219919,
       "name": "Shine Again",
       "url": "https://open.spotify.com/track/3gvW1GzMz9ZziCm7oMzxFK"
+    },
+    {
+      "album": {
+        "name": "MOTION CONTROL",
+        "url": "https://open.spotify.com/album/2n3ipDzFDy6mwqojl7B078"
+      },
+      "artists": [
+        {
+          "name": "RealMRCarty",
+          "url": "https://open.spotify.com/artist/4eYsJcc8WUX8DD2U35rgRS"
+        },
+        {
+          "name": "Alber Joe 2-30",
+          "url": "https://open.spotify.com/artist/6qgaa2Ju4yEgADEaYmfuUp"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174048,
+      "name": "SHOW IT",
+      "url": "https://open.spotify.com/track/6PL1s8zAlm3kMfDrcW6vX3"
     },
     {
       "album": {

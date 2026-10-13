@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 
 > This is Generación 12\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,837 likes - 50 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,833 likes - 50 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 | 33 | [Todo Lo Haces Nuevo](https://open.spotify.com/track/5IYKwuRkJ0xiorPxu0PBqV) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Todo Lo Haces Nuevo](https://open.spotify.com/album/3ByUMtraiSJ9t2xD2pcRpn) | 10:12 |
 | 34 | [Pródigo \- En Vivo](https://open.spotify.com/track/7siyw6C0snit7oxmoDWcok) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd), [Pedro Pablo Quintero](https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Obra de Tu Amor](https://open.spotify.com/album/6XYbEcqn7QcbLlJbfwdbS2) | 7:30 |
 | 35 | [Bautízame \(feat\. Fernandinho\)](https://open.spotify.com/track/2XvUUgMxDna4uC9tRko6Eu) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Seamos Luz](https://open.spotify.com/album/2vx7at7h5SV4Oqz8cLNQUm) | 7:13 |
-| 36 | [Yo Te Seguiré](https://open.spotify.com/track/3eKLgOGgDhNGdguyOYs7S0) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Esto Es Un Avivamiento](https://open.spotify.com/album/5PEWSHeJJcpVJ62xlnhpVL) | 4:32 |
+| 36 | [Mientras Viva](https://open.spotify.com/track/46uuCR06kMRhUtsGVkU7Pr) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Mientras Viva \(En Vivo Desde Sudamérica\)](https://open.spotify.com/album/509ue0LQK7UVQieiDCFky2) | 3:28 |
 | 37 | [Nunca Me Avergonzaré](https://open.spotify.com/track/786Dkp6Y8JgvBv4Qu7BUTu) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Todo Lo Haces Nuevo](https://open.spotify.com/album/3ByUMtraiSJ9t2xD2pcRpn) | 4:10 |
 | 38 | [Jesús, Eres el Centro \- En Vivo](https://open.spotify.com/track/5XQH7EKgaMGX6VpeKAX92J) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd), [Pedro Pablo Quintero](https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Obra de Tu Amor](https://open.spotify.com/album/6XYbEcqn7QcbLlJbfwdbS2) | 8:07 |
-| 39 | [Mientras Viva](https://open.spotify.com/track/46uuCR06kMRhUtsGVkU7Pr) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Mientras Viva \(En Vivo Desde Sudamérica\)](https://open.spotify.com/album/509ue0LQK7UVQieiDCFky2) | 3:28 |
+| 39 | [Yo Te Seguiré](https://open.spotify.com/track/3eKLgOGgDhNGdguyOYs7S0) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Esto Es Un Avivamiento](https://open.spotify.com/album/5PEWSHeJJcpVJ62xlnhpVL) | 4:32 |
 | 40 | [Una Nueva Historia \- En Vivo](https://open.spotify.com/track/50XcGSPZ78F7XSxT76WOMH) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Tu Nos Salvarás \(En Vivo\)](https://open.spotify.com/album/3ozR24cLOUrH4snwEt2mbN) | 6:03 |
 | 41 | [Cuanto Más Me Rindo](https://open.spotify.com/track/1QudHdvPhIUELASMoP79FC) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Todo Lo Haces Nuevo](https://open.spotify.com/album/3ByUMtraiSJ9t2xD2pcRpn) | 6:16 |
 | 42 | [Adonai \- En Vivo](https://open.spotify.com/track/0Dd7gc3pVumkdrC6oUA7WP) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd), [Stefy Espinosa](https://open.spotify.com/artist/7aKFNdsCUdhI3JKByk8Gm8), [Lorena Gamba Castellanos](https://open.spotify.com/artist/2BbfuuUGnzw9r4BFTN7iT6), [Daniela Quintero](https://open.spotify.com/artist/3Oiu7Wp2lqFqkoRkcZCcWi) | [Obra de Tu Amor](https://open.spotify.com/album/6XYbEcqn7QcbLlJbfwdbS2) | 5:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 | 49 | [Cristo Te Amo](https://open.spotify.com/track/1zKH07T3xtfjGtTmhBrHhs) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Todo Lo Haces Nuevo](https://open.spotify.com/album/3ByUMtraiSJ9t2xD2pcRpn) | 5:59 |
 | 50 | [Encuentro Glorioso](https://open.spotify.com/track/1J8nUS0I6OiW54SG4syUzO) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Fernando Ramos](https://open.spotify.com/artist/5MJzy9qF9CL7CWapio7IPv), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Mientras Viva \(En Vivo Desde Sudamérica\)](https://open.spotify.com/album/509ue0LQK7UVQieiDCFky2) | 5:49 |
 
-Snapshot ID: `asgugAAAAAAo8BcMuyQhsO3FRBeyn+p6`
+Snapshot ID: `asrRgAAAAAASwkRyfGCRdxwpmIEzf338`

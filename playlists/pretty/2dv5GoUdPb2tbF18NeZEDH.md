@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2dv5GoUdPb2tbF18NeZEDH.md) - [plain]
 
 > Desert queens, vintage california soul and dusty americana nights\. Featured genres: Americana, Desert Folk, Cosmic Country, Alt Country, Folk Rock, Singer\-Songwriter\. Follow insta @glitchandgoldmusic for interviews, Radar features and new discoveries\. Submit on glitchandgold.com
 
-[Glitch&Gold](https://open.spotify.com/user/31jnz6gb3osfynb3qtvugfnc6syq) - 712 likes - 12 songs - 42 min 13 sec
+[Glitch&Gold](https://open.spotify.com/user/31jnz6gb3osfynb3qtvugfnc6syq) - 712 likes - 17 songs - 58 min 36 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,5 +20,10 @@ pretty - [cumulative](/playlists/cumulative/2dv5GoUdPb2tbF18NeZEDH.md) - [plain]
 | 10 | [Wind On Tin](https://open.spotify.com/track/5whapFlXtB97RZg4CldtWB) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Sorceress](https://open.spotify.com/album/2YgkSjAcI8lIJXiRt7BqiD) | 3:06 |
 | 11 | [Another Time](https://open.spotify.com/track/1vAWy6PHVCfjtKNm27TSI7) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Mud Blood Bone](https://open.spotify.com/album/6eT5qu4VM8hXFm2uJ1JiQU) | 3:39 |
 | 12 | [Why’d Ya Do It](https://open.spotify.com/track/1ICWvOqM1GND92d3XWiNo5) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Long Time Coming](https://open.spotify.com/album/5ZI0k3IynnC5C9QKMmY7cB) | 3:37 |
+| 13 | [Supertramp](https://open.spotify.com/track/0XUC0NWE9vAakeCgvaekVs) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Old Time Feeling](https://open.spotify.com/album/157xeDtGxPmnZIQfdJjQFT) | 2:56 |
+| 14 | [Spider](https://open.spotify.com/track/5RyBqIGm2gRGIDSpq0cKFY) | [Esther Rose](https://open.spotify.com/artist/2oHUiSQkf9M1TELQvNJJPs) | [Safe to Run](https://open.spotify.com/album/4I9i05PJiLa0aRyyIsJQxv) | 3:50 |
+| 15 | [Free Wine](https://open.spotify.com/track/3Mk6ghUOomW5Ze4D2981kh) | [Rainbow Girls](https://open.spotify.com/artist/5qV8qZrppecEsKTWwCCtA7) | [Rolling Dumpster Fire](https://open.spotify.com/album/7IIeHi7dtn3oXl9OOcjaUl) | 3:01 |
+| 16 | [Teeth Marks](https://open.spotify.com/track/6L7uYQYLL6veGWP89fFph0) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Teeth Marks](https://open.spotify.com/album/5fXIv2d6FP5hSTYThKREZH) | 3:37 |
+| 17 | [Dark Back](https://open.spotify.com/track/5kgFBa8KteN18oWS138wvT) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Mud Blood Bone](https://open.spotify.com/album/6eT5qu4VM8hXFm2uJ1JiQU) | 2:57 |
 
-Snapshot ID: `AAAFBS/SL0QJ5Tfiz60L5AgFgZQWaLpk`
+Snapshot ID: `AAAFCmi/IEPescHfaO1xsSdUccyyLRRc`

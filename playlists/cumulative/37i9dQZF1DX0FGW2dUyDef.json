@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Dinlemekten vazge\u00e7emediklerin ve en yeni hitler.  Kapak: Ahiyan",
+  "description": "Dinlemekten vazge\u00e7emediklerin ve en yeni hitler.  Kapak: manifest",
   "name": "Hot Hits T\u00fcrkiye",
   "tracks": [
     {
@@ -236,7 +236,7 @@
       ],
       "date_added": "2026-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 178908,
       "name": "Ak\u015fam Oldu Sokaklar Yine Tenha",
       "url": "https://open.spotify.com/track/4tl7cLzKxFAE3lCp41Nkk4"
@@ -2373,6 +2373,28 @@
     },
     {
       "album": {
+        "name": "valiz",
+        "url": "https://open.spotify.com/album/2NuUVdCdwgNBS3YeEFmMb7"
+      },
+      "artists": [
+        {
+          "name": "Yung Ouzo",
+          "url": "https://open.spotify.com/artist/3VooEK5HkkcSc4Tv7FCBzb"
+        },
+        {
+          "name": "Tanerman",
+          "url": "https://open.spotify.com/artist/1X8IDE7vOMFmhR8Hg32EGA"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "en baba r\u00fczgarda yanar ate\u015f (GODBLESS)",
+      "url": "https://open.spotify.com/track/2GJ2xsbWkrQNOgy45RRKU4"
+    },
+    {
+      "album": {
         "name": "En B\u00fcy\u00fck A\u015fk\u0131m (Bir deli y\u00fcrek ac\u0131s\u0131nday\u0131m)",
         "url": "https://open.spotify.com/album/3V9l51t68pj4aP6FCxdybE"
       },
@@ -3466,7 +3488,7 @@
       ],
       "date_added": "2026-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 264829,
       "name": "I\u015f\u0131kl\u0131 Yol",
       "url": "https://open.spotify.com/track/2ZM3RY8gGKVMbfXMhx0wCJ"
@@ -4271,6 +4293,24 @@
     },
     {
       "album": {
+        "name": "K\u0131skan\u00e7",
+        "url": "https://open.spotify.com/album/3AUZa51FrqJIOcUvM8lFom"
+      },
+      "artists": [
+        {
+          "name": "Zeki Arkun",
+          "url": "https://open.spotify.com/artist/0o370GMjPTWUz6gv8lasfs"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155221,
+      "name": "K\u0131skan\u00e7",
+      "url": "https://open.spotify.com/track/7d89xmlIognhoDrp3vTosD"
+    },
+    {
+      "album": {
         "name": "Lan",
         "url": "https://open.spotify.com/album/1LvnmkkATPS4wBrEPMec26"
       },
@@ -4370,6 +4410,24 @@
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj"
+    },
+    {
+      "album": {
+        "name": "Mahalleler",
+        "url": "https://open.spotify.com/album/6N1O1TTR94Fhm3pWeoqQqu"
+      },
+      "artists": [
+        {
+          "name": "Murat Dalk\u0131l\u0131\u00e7",
+          "url": "https://open.spotify.com/artist/6dDaXbE1caD65TONToYXYx"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152678,
+      "name": "Mahalleler",
+      "url": "https://open.spotify.com/track/62sdF5BIMtzpc3DU4CgfU1"
     },
     {
       "album": {
@@ -4584,7 +4642,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 203778,
       "name": "Misafir",
       "url": "https://open.spotify.com/track/71rwEX50AtpDKdGTRguRLs"
@@ -5620,7 +5678,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 265994,
       "name": "Selam",
       "url": "https://open.spotify.com/track/5ujFCaNhNEWlM9TERC0FXm"
@@ -5714,7 +5772,7 @@
       ],
       "date_added": "2026-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 264000,
       "name": "Senden Adam Olmaz",
       "url": "https://open.spotify.com/track/4X9NLFpBdwWWruSSMjkzia"
@@ -6288,6 +6346,24 @@
       "duration_ms": 160998,
       "name": "Toz Pembe",
       "url": "https://open.spotify.com/track/24CSPGkF9QB1zW07dgtZhr"
+    },
+    {
+      "album": {
+        "name": "TRALALA",
+        "url": "https://open.spotify.com/album/4pfxDNLAqfyDk5xVjddGIr"
+      },
+      "artists": [
+        {
+          "name": "manifest",
+          "url": "https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195869,
+      "name": "TRALALA",
+      "url": "https://open.spotify.com/track/6hPPwiXH4Y4kmc121v9Fdg"
     },
     {
       "album": {
@@ -7366,6 +7442,24 @@
       "duration_ms": 154402,
       "name": "\u00dcz\u00fclmedim Ki",
       "url": "https://open.spotify.com/track/3wWFO3qZzgMGLEF1G33ClH"
+    },
+    {
+      "album": {
+        "name": "\u015eahidim",
+        "url": "https://open.spotify.com/album/270obzBQwAa765dPNuDKoa"
+      },
+      "artists": [
+        {
+          "name": "Eypio",
+          "url": "https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182218,
+      "name": "\u015eahidim",
+      "url": "https://open.spotify.com/track/3xnGK6EsiHUrDdHqjrbDC3"
     },
     {
       "album": {

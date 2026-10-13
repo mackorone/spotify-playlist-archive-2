@@ -1,6 +1,6 @@
 {
   "description": "This is the best of ska, new and classic. Sublime on cover ",
-  "num_followers": 414620,
+  "num_followers": 414637,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
@@ -827,6 +827,22 @@
     {
       "added_at": "2026-06-12 06:00:36",
       "album": {
+        "name": "Tutti Frutti",
+        "url": "https://open.spotify.com/album/0ozlC9XMnxo9ksxV8MsHVm"
+      },
+      "artists": [
+        {
+          "name": "Prince Buster",
+          "url": "https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB"
+        }
+      ],
+      "duration_ms": 165168,
+      "name": "Madness",
+      "url": "https://open.spotify.com/track/71pBxayPPUWgs99vFMHaCA"
+    },
+    {
+      "added_at": "2026-06-12 06:00:36",
+      "album": {
         "name": "Beatdown Generation",
         "url": "https://open.spotify.com/album/00mGLtTXb6AxQjwGTec0Ud"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 228040,
       "name": "Life Won't Wait",
       "url": "https://open.spotify.com/track/3vXBoGZnanFF0NSQ5Of8UT"
-    },
-    {
-      "added_at": "2026-06-12 06:00:36",
-      "album": {
-        "name": "Tutti Frutti",
-        "url": "https://open.spotify.com/album/0ozlC9XMnxo9ksxV8MsHVm"
-      },
-      "artists": [
-        {
-          "name": "Prince Buster",
-          "url": "https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB"
-        }
-      ],
-      "duration_ms": 165168,
-      "name": "Madness",
-      "url": "https://open.spotify.com/track/71pBxayPPUWgs99vFMHaCA"
     },
     {
       "added_at": "2026-06-12 06:00:36",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-06-12 06:00:36",
       "album": {
-        "name": "Sonoro",
-        "url": "https://open.spotify.com/album/2Vks2U7oTqxnhPa1D7Arez"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 149026,
-      "name": "Paria",
-      "url": "https://open.spotify.com/track/77SRW1K8lpTUT2AdIVZlxv"
-    },
-    {
-      "added_at": "2026-06-12 06:00:36",
-      "album": {
         "name": "Gemini, Her Majesty",
         "url": "https://open.spotify.com/album/5dYI3qu8vNj3K4qEtWhJVF"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 291147,
       "name": "Ruby Cumulous",
       "url": "https://open.spotify.com/track/5MOKQJ6HMqpEoD04eqVFyB"
+    },
+    {
+      "added_at": "2026-06-12 06:00:36",
+      "album": {
+        "name": "Sonoro",
+        "url": "https://open.spotify.com/album/2Vks2U7oTqxnhPa1D7Arez"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 149026,
+      "name": "Paria",
+      "url": "https://open.spotify.com/track/77SRW1K8lpTUT2AdIVZlxv"
     },
     {
       "added_at": "2026-06-12 06:00:36",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2026-06-12 06:00:36",
       "album": {
-        "name": "Room For Abuse '06",
-        "url": "https://open.spotify.com/album/5Jf3CXEX8DhIxzH3psPoCf"
-      },
-      "artists": [
-        {
-          "name": "[spunge]",
-          "url": "https://open.spotify.com/artist/6vxyuUNiILvDzBfLxgu0KT"
-        }
-      ],
-      "duration_ms": 186804,
-      "name": "Ego",
-      "url": "https://open.spotify.com/track/5vkJkwKAEBUGess9Elg26s"
-    },
-    {
-      "added_at": "2026-06-12 06:00:36",
-      "album": {
         "name": "Right On Time",
         "url": "https://open.spotify.com/album/5n7IeJHvlLtCo3HW5vgCqu"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 219706,
       "name": "No Worries",
       "url": "https://open.spotify.com/track/6jTEMEb03yyQAqnGepk5Kp"
+    },
+    {
+      "added_at": "2026-06-12 06:00:36",
+      "album": {
+        "name": "Room For Abuse '06",
+        "url": "https://open.spotify.com/album/5Jf3CXEX8DhIxzH3psPoCf"
+      },
+      "artists": [
+        {
+          "name": "[spunge]",
+          "url": "https://open.spotify.com/artist/6vxyuUNiILvDzBfLxgu0KT"
+        }
+      ],
+      "duration_ms": 186804,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/5vkJkwKAEBUGess9Elg26s"
     },
     {
       "added_at": "2026-06-12 06:00:36",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2026-06-12 06:00:36",
       "album": {
-        "name": "Lleva",
-        "url": "https://open.spotify.com/album/1BR4Osr3Z5BJ8bssSZS2Hj"
-      },
-      "artists": [
-        {
-          "name": "Los Calzones",
-          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
-        }
-      ],
-      "duration_ms": 214997,
-      "name": "Lleva",
-      "url": "https://open.spotify.com/track/1vqNsN90UbNY7oyIF9VGBn"
-    },
-    {
-      "added_at": "2026-06-12 06:00:36",
-      "album": {
         "name": "Good Times",
         "url": "https://open.spotify.com/album/0N4VKJj7FPmaeueGOv25C9"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 209594,
       "name": "Good Times",
       "url": "https://open.spotify.com/track/7GcBhU9KW2cdxWQ39VY0Ri"
+    },
+    {
+      "added_at": "2026-06-12 06:00:36",
+      "album": {
+        "name": "Lleva",
+        "url": "https://open.spotify.com/album/1BR4Osr3Z5BJ8bssSZS2Hj"
+      },
+      "artists": [
+        {
+          "name": "Los Calzones",
+          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
+        }
+      ],
+      "duration_ms": 214997,
+      "name": "Lleva",
+      "url": "https://open.spotify.com/track/1vqNsN90UbNY7oyIF9VGBn"
     },
     {
       "added_at": "2026-06-12 06:00:36",

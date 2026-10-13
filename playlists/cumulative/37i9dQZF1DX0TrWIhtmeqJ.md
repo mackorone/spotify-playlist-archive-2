@@ -4,7 +4,7 @@
 
 > For the new generation of trendsetters coming through, we move\. Cover: Bricknasty
 
-270 songs - 11 hr 49 min
+271 songs - 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Fantasy](https://open.spotify.com/track/2HhoZOgFf80u5wqErSXBil) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Fantasy](https://open.spotify.com/album/1KofBMfkgQDP3GNfE7E6H8) | 2:02 | 2026-09-17 |  |
 | [fathers sheep](https://open.spotify.com/track/3CylEDYJJCF9z7DzCpRSAk) | [Trtl](https://open.spotify.com/artist/5hl4Ds8m0VaToEbZOQDE32), [jay2dee](https://open.spotify.com/artist/3pN7dGagUKrz2MNHuTEHFA) | [fathers sheep](https://open.spotify.com/album/2yuSTWc7pWiWZHRLsQzpuV) | 1:49 | 2026-04-02 | 2026-07-18 |
 | [Favela](https://open.spotify.com/track/0eTBOGiX3nHdoUkP3QcqDA) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp) | [Favela](https://open.spotify.com/album/5MykttFGutQ8FE4C6bSP7J) | 1:58 | 2026-02-27 | 2026-07-10 |
-| [Fell Again](https://open.spotify.com/track/6S86CLAoA7S19wk8WeQjRs) | [cikho](https://open.spotify.com/artist/3K5lshiZhzx2bvme3n4hTz) | [Fell Again / Stranger What's Your Name?](https://open.spotify.com/album/5ug1JL9PFc1gCxokrSh1yo) | 2:41 | 2026-04-23 |  |
+| [Fell Again](https://open.spotify.com/track/6S86CLAoA7S19wk8WeQjRs) | [cikho](https://open.spotify.com/artist/3K5lshiZhzx2bvme3n4hTz) | [Fell Again / Stranger What's Your Name?](https://open.spotify.com/album/5ug1JL9PFc1gCxokrSh1yo) | 2:41 | 2026-04-23 | 2026-10-13 |
 | [FIGS0 FL0W](https://open.spotify.com/track/5x2UNjWgJev0C1aUARd1TO) | [Figs0](https://open.spotify.com/artist/0pGaXt1m03ZQBxzVqc6oHP) | [FIGS0 FL0W](https://open.spotify.com/album/5UK6akpiiKAhV6uLeKlA3T) | 3:05 | 2026-02-27 | 2026-05-29 |
 | [Figures On The Wall](https://open.spotify.com/track/5gtVkK1PFQ7kMDfddHxMuH) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [Figures On The Wall](https://open.spotify.com/album/6hY9QAvmK9VgXrknFcLFqi) | 3:02 | 2025-10-23 | 2025-11-05 |
 | [FINESSE MY BRO \(FMB\)](https://open.spotify.com/track/2wCPuCekYVOaCxJwOww3IB) | [TR Gobrazy](https://open.spotify.com/artist/2bWovm0DNeEkCevemRHN0C) | [FINESSE MY BRO \(FMB\)](https://open.spotify.com/album/3o2W3umUEXyKz0cnlPqd4q) | 1:29 | 2025-10-23 | 2025-11-21 |
@@ -198,6 +198,7 @@
 | [shake\_leg](https://open.spotify.com/track/0pdPeMA0ZtA5Pgdfkuh3Z7) | [Nori](https://open.spotify.com/artist/7slFzVc5aRrBk0U69aQiXJ) | [shake\_leg](https://open.spotify.com/album/2hcRHv6WmZTPxeGIA5EDxh) | 2:17 | 2026-04-10 | 2026-09-25 |
 | [SHINIGAMI](https://open.spotify.com/track/4BpDKjq7lgHJs1PC69kpWh) | [PIXY](https://open.spotify.com/artist/5AGVMquElW7QIas7i21Xmz) | [SHINIGAMI](https://open.spotify.com/album/73G6D9UNozSCLCxfNnqx2u) | 1:58 | 2026-02-13 | 2026-05-01 |
 | [Shoes Up](https://open.spotify.com/track/0C9iEXm7FXYN6wta1XjRy6) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [Joe Butler](https://open.spotify.com/artist/2KSi09E9Ll6vK9aUcbusFw) | [Shoes Up](https://open.spotify.com/album/4kyRqympwe9wDsLOGhxjnT) | 2:42 | 2026-04-16 | 2026-10-09 |
+| [Shotta's.](https://open.spotify.com/track/0M4R6G6junOgTJDccOEGHo) | [Season 25](https://open.spotify.com/artist/1WtceoonufhxRc6AnUSbat) | [Shotta's.](https://open.spotify.com/album/6z49RFUy6MNYlhMShZ6h4p) | 2:22 | 2026-10-12 |  |
 | [SHOW ME RIGHT!](https://open.spotify.com/track/4Dsr8SRfTTrhNoAeNu8nBE) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [ATTITUDE ERA!](https://open.spotify.com/album/0EvdpMkKgFSH9oz9SHIni5) | 3:18 | 2026-09-10 |  |
 | [SIPPIN](https://open.spotify.com/track/3wh4nXBBLKyLbbjrfp0vR6) | [CEE5IVE](https://open.spotify.com/artist/2ktRMWS8SU1AYM6PkEyb3I) | [ENVY](https://open.spotify.com/album/5cxAbFlyfQ06OScmFgjsr0) | 1:56 | 2026-04-23 | 2026-08-29 |
 | [Siren Song](https://open.spotify.com/track/5paAVu6xnigUiRzIGNNEWN) | [Charlotte Dowsson](https://open.spotify.com/artist/77nzrPGvQ9uNA2XE9N9oTy) | [Siren Song](https://open.spotify.com/album/7MjKeqKVTb6MU0TG4YaOng) | 2:57 | 2026-02-06 | 2026-04-17 |
@@ -266,7 +267,7 @@
 | [whatsmyname.](https://open.spotify.com/track/1unfFHOtE6yRnX6o9bvPy3) | [Twenty'8](https://open.spotify.com/artist/0rQFPuJq7wkvQny90lguiu), [MASTACHEEF](https://open.spotify.com/artist/4WaCPYw2LOzejumrKnnJsk) | [whatsmyname.](https://open.spotify.com/album/198YsoNgf6041tbh9Qi94P) | 2:10 | 2026-09-10 |  |
 | [WHAT’S THE REASON?](https://open.spotify.com/track/3B8ImluWjECLwyWi3Bd455) | [Ledbyher](https://open.spotify.com/artist/4UDkTxtdr3HpZrDRu9727s) | [WHAT’S THE REASON?](https://open.spotify.com/album/4xIUXkQHnrtQN2x1C7Ls1V) | 2:12 | 2025-11-07 | 2026-04-03 |
 | [Whine Am](https://open.spotify.com/track/7GvlEVyj6lqf4FPLeomoHx) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [Whine Am](https://open.spotify.com/album/2I2BeesRbfvWYzqxbrw4ky) | 2:56 | 2026-02-27 | 2026-05-29 |
-| [whine am well ft\. onoola\-sama](https://open.spotify.com/track/4ybF6GxAkdtcHaW37iKsWu) | [Len Lucci](https://open.spotify.com/artist/4RFMoaKlMKR4HLjnM8NOia), [onoola\-sama](https://open.spotify.com/artist/21n9ybnUUCQNOj4Ea8rVxC) | [goldenboy](https://open.spotify.com/album/03zrcHL12iJSAOmMDnHeu3) | 2:49 | 2026-08-14 |  |
+| [whine am well ft\. onoola\-sama](https://open.spotify.com/track/4ybF6GxAkdtcHaW37iKsWu) | [Len](https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s), [onoola\-sama](https://open.spotify.com/artist/21n9ybnUUCQNOj4Ea8rVxC) | [goldenboy](https://open.spotify.com/album/03zrcHL12iJSAOmMDnHeu3) | 2:49 | 2026-08-14 |  |
 | [Whine On Me](https://open.spotify.com/track/7lSwOtmyMx0eWWTSR9KbFb) | [Tight Road Baby](https://open.spotify.com/artist/2EpdHpmTKzN3AhqAByP6pt) | [Toys Out The Pram](https://open.spotify.com/album/60x5A0WgKdGQlfKQYVKP9i) | 2:07 | 2025-12-12 | 2026-03-13 |
 | [WID IT](https://open.spotify.com/track/4geco0FqSze6GLQxnNCxzf) | [JM7](https://open.spotify.com/artist/5JlMu1K8bFk1Q62SRUVckm) | [WID IT](https://open.spotify.com/album/2j1351u0B3Sm4wHl65VtT1) | 3:42 | 2026-01-09 | 2026-03-20 |
 | [WONDERMAN](https://open.spotify.com/track/6vABC09vTTBOXMJRGvfVBt) | [JEDSOUL](https://open.spotify.com/artist/1d31pvQ23phSKJISEqXQLO) | [WONDERMAN](https://open.spotify.com/album/05zjvrwPwTXvfMslUDN2V9) | 4:04 | 2026-09-10 |  |

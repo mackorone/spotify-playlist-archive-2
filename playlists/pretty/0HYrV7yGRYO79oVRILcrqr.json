@@ -6,7 +6,7 @@
     "name": "Audiartist",
     "url": "https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24"
   },
-  "snapshot_id": "AAAMtXg+sa0rS9emrh9GzNIIEkmURgVb",
+  "snapshot_id": "AAAMvD5qcYx7t1Tc2bml5YrUSep1yJNc",
   "tracks": [
     {
       "added_at": "2026-08-25 19:38:02",
@@ -2185,6 +2185,38 @@
       "url": "https://open.spotify.com/track/1CUbH9qBSyMz7cdvUnapiF"
     },
     {
+      "added_at": "2026-10-12 07:57:55",
+      "album": {
+        "name": "Gum On My Shoe",
+        "url": "https://open.spotify.com/album/1pCNAudbov019XN9bmYycg"
+      },
+      "artists": [
+        {
+          "name": "Steve Hines",
+          "url": "https://open.spotify.com/artist/7wnyATyxlbNuEZ8FzjIAvv"
+        }
+      ],
+      "duration_ms": 169200,
+      "name": "Gum On My Shoe",
+      "url": "https://open.spotify.com/track/6RxMgMkrKsNBW6OFClALJf"
+    },
+    {
+      "added_at": "2026-10-12 07:38:46",
+      "album": {
+        "name": "Sunday Scaries",
+        "url": "https://open.spotify.com/album/5nPsYxEOuuykz3HmxkHMdE"
+      },
+      "artists": [
+        {
+          "name": "Philip Lively",
+          "url": "https://open.spotify.com/artist/4arV1CWn3VChyg2DLfBd95"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Sunday Scaries",
+      "url": "https://open.spotify.com/track/0gAWc6xFU6v5No0CE7YYBb"
+    },
+    {
       "added_at": "2026-10-08 16:46:10",
       "album": {
         "name": "I See Scared",
@@ -2247,6 +2279,90 @@
       "duration_ms": 272580,
       "name": "Out of My Mind",
       "url": "https://open.spotify.com/track/1sv5wWAbgZ4g9VJbW70nHO"
+    },
+    {
+      "added_at": "2026-10-12 07:23:07",
+      "album": {
+        "name": "RE",
+        "url": "https://open.spotify.com/album/3fL4bD0V2CrCMv0Hqs0B63"
+      },
+      "artists": [
+        {
+          "name": "Cameron Ravenhill",
+          "url": "https://open.spotify.com/artist/6GStRwlHVeTkevfVsq3BUE"
+        }
+      ],
+      "duration_ms": 203301,
+      "name": "RE",
+      "url": "https://open.spotify.com/track/2CwKc8mmXVIAQ9jDHeZdnV"
+    },
+    {
+      "added_at": "2026-10-12 07:23:44",
+      "album": {
+        "name": "10:35",
+        "url": "https://open.spotify.com/album/0xuJo5o6ywuLQFSgKs1qDy"
+      },
+      "artists": [
+        {
+          "name": "Quentin Wallace",
+          "url": "https://open.spotify.com/artist/4ZsvhCZ5uKfGDtbq0a4SGh"
+        }
+      ],
+      "duration_ms": 183932,
+      "name": "10:35",
+      "url": "https://open.spotify.com/track/0GoJsS7cN416pkGvpnjdzI"
+    },
+    {
+      "added_at": "2026-10-12 07:46:24",
+      "album": {
+        "name": "Pasado de Estilo",
+        "url": "https://open.spotify.com/album/6wH5JF0C9JnuXLPTz7znwD"
+      },
+      "artists": [
+        {
+          "name": "Dani Sugar",
+          "url": "https://open.spotify.com/artist/1ZoIRn3Y4sGWoMEr3j22QN"
+        },
+        {
+          "name": "Angie",
+          "url": "https://open.spotify.com/artist/2DjtxC5D5B1mwdyIIzV2TH"
+        }
+      ],
+      "duration_ms": 173425,
+      "name": "Pasado de Estilo",
+      "url": "https://open.spotify.com/track/1Sps8sD4rL6EOSNEeQ5NHU"
+    },
+    {
+      "added_at": "2026-10-12 12:58:08",
+      "album": {
+        "name": "Renegade",
+        "url": "https://open.spotify.com/album/3vYFD37Z4kBwKK9VypycbE"
+      },
+      "artists": [
+        {
+          "name": "Nitrate",
+          "url": "https://open.spotify.com/artist/6wEVMZieIv9ttCzvuDYev8"
+        }
+      ],
+      "duration_ms": 271952,
+      "name": "You Think You've Got It",
+      "url": "https://open.spotify.com/track/0yMfVMcr9vOBhWj3iU7O8f"
+    },
+    {
+      "added_at": "2026-10-12 21:44:45",
+      "album": {
+        "name": "Eminente",
+        "url": "https://open.spotify.com/album/69FzRRDlBaoWFbVSQBoXRB"
+      },
+      "artists": [
+        {
+          "name": "Axius",
+          "url": "https://open.spotify.com/artist/2rWdPoCs8cj3kjYwr2ydnB"
+        }
+      ],
+      "duration_ms": 170114,
+      "name": "El Peor",
+      "url": "https://open.spotify.com/track/0XTYkteXdSmzBgnc3DhdOx"
     }
   ],
   "unique_name": "\ud83c\udfb8 Rock Music Hits   Blues Rock, Classic Rock, Southern Rock, Hard Rock, Rhythm and Blues (R&B), So",

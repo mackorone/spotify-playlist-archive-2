@@ -265,6 +265,24 @@
     },
     {
       "album": {
+        "name": "Borst Vooruit",
+        "url": "https://open.spotify.com/album/7j0DFfHUKdtkiDk3hgFjmb"
+      },
+      "artists": [
+        {
+          "name": "Casperr",
+          "url": "https://open.spotify.com/artist/1EzhBak6CiANVqE0lLeRwr"
+        }
+      ],
+      "date_added": "2026-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111472,
+      "name": "Borst Vooruit",
+      "url": "https://open.spotify.com/track/2QfJkHE1sxt5q4XYsLhwsx"
+    },
+    {
+      "album": {
         "name": "Ereronde (Deluxe)",
         "url": "https://open.spotify.com/album/4EnUKKxdXG5fcAYee26gta"
       },
@@ -634,7 +652,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-13",
       "duration_ms": 149361,
       "name": "GEKKE GUNZ",
       "url": "https://open.spotify.com/track/5BDr1iWvhH8b4oE192HMpT"

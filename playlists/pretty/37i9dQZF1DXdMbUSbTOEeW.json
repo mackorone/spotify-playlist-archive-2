@@ -1,6 +1,6 @@
 {
   "description": "India\u2019s biggest dance anthems, filling every dance floor right now. Cover: Dhurandhar",
-  "num_followers": 83774,
+  "num_followers": 83784,
   "original_name": "mint india",
   "owner": {
     "name": "Spotify",
@@ -527,30 +527,6 @@
     {
       "added_at": "2026-10-08 06:41:51",
       "album": {
-        "name": "9:45",
-        "url": "https://open.spotify.com/album/5ITQeRYoVu4qRdo9TUTuuR"
-      },
-      "artists": [
-        {
-          "name": "Prabh Singh",
-          "url": "https://open.spotify.com/artist/0VAIiNSKG4DWkSaIy5qWz1"
-        },
-        {
-          "name": "Jay Trak",
-          "url": "https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu"
-        },
-        {
-          "name": "Rooh Sandhu",
-          "url": "https://open.spotify.com/artist/54E3dYx7RpaGZaDVXJTWjr"
-        }
-      ],
-      "duration_ms": 117606,
-      "name": "9:45",
-      "url": "https://open.spotify.com/track/6c4Po8zyQjB4cR5XgLhcGb"
-    },
-    {
-      "added_at": "2026-10-08 06:41:51",
-      "album": {
         "name": "Laal Pari (From \"Housefull 5\")",
         "url": "https://open.spotify.com/album/3Z3pyPT3n8DtJyEtvAnm8L"
       },
@@ -571,6 +547,30 @@
       "duration_ms": 256148,
       "name": "Laal Pari (From \"Housefull 5\")",
       "url": "https://open.spotify.com/track/2oJxsbdvHuzkQ44hoyMsis"
+    },
+    {
+      "added_at": "2026-10-08 06:41:51",
+      "album": {
+        "name": "9:45",
+        "url": "https://open.spotify.com/album/5ITQeRYoVu4qRdo9TUTuuR"
+      },
+      "artists": [
+        {
+          "name": "Prabh Singh",
+          "url": "https://open.spotify.com/artist/0VAIiNSKG4DWkSaIy5qWz1"
+        },
+        {
+          "name": "Jay Trak",
+          "url": "https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu"
+        },
+        {
+          "name": "Rooh Sandhu",
+          "url": "https://open.spotify.com/artist/54E3dYx7RpaGZaDVXJTWjr"
+        }
+      ],
+      "duration_ms": 117606,
+      "name": "9:45",
+      "url": "https://open.spotify.com/track/6c4Po8zyQjB4cR5XgLhcGb"
     },
     {
       "added_at": "2026-10-08 06:41:51",

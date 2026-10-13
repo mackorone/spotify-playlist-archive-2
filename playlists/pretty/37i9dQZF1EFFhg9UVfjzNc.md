@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5JjUlPENcVZsqsYpaLmlDl">Hananiel Eduardo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 770 likes - 124 songs - 12 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 769 likes - 124 songs - 12 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 | 92 | [Só Quero A Ti \- Ao Vivo](https://open.spotify.com/track/1FNCYDOhNVb01oq6ml8ksR) | [Matheus Goulart](https://open.spotify.com/artist/0ktFffygQwR4rvwb44CYMh) | [YESHUA \(Ao Vivo\)](https://open.spotify.com/album/5tnaxda44kE1nD11u9sJh8) | 6:03 |
 | 93 | [És Bem\-Vindo \- Ao Vivo](https://open.spotify.com/track/35SDRXTWiAxqySCJ3KTH3m) | [Giselle Knevitz](https://open.spotify.com/artist/2vJtvgrtI4T6edVZcC29SM), [Amauri Knevitz Jr](https://open.spotify.com/artist/0F62U3eJ9UOEpoOqdiuzGd), [Brasa Church Music](https://open.spotify.com/artist/3dkGpbI5k8lDZ4Sk1ykv4A) | [És Bem\-Vindo \(Ao Vivo\)](https://open.spotify.com/album/5RVH864KmNlqqUii3jyBOg) | 7:46 |
 | 94 | [Nos Rendemos a Ti \(Toma O Teu Lugar\)](https://open.spotify.com/track/6c7Ch0zIb7926oTWhQZA8q) | [Fernanda Ferro](https://open.spotify.com/artist/080EtCY2JWqzfNFmEJUW3x) | [Céu na Terra](https://open.spotify.com/album/6um3WlqCMSWWT8auIqxtlG) | 7:30 |
-| 95 | [Adoração Espontânea \- Ao Vivo](https://open.spotify.com/track/4VgtOEtlLJlpa6okshTlUu) | [Os Bravos](https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm), [JesusCopy Music](https://open.spotify.com/artist/4CDhTrPFRLfba48VJR9L4b), [Laura Souguellis](https://open.spotify.com/artist/0MDyxNYI11EEQWhjsrPFd2) | [Hebreus 1 \(Ao Vivo\)](https://open.spotify.com/album/2iaC0zdDp1yuYAPUBWBjtv) | 21:53 |
-| 96 | [Tudo Novo / Maranata \- Ao Vivo](https://open.spotify.com/track/1lql7PYuQF4vRnBh8QTeKf) | [Rachel Novaes](https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn), [fhop music](https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn) | [Tudo Novo \| 25 anos \- Parte 2: Presença \(Ao Vivo\)](https://open.spotify.com/album/0pUXoscu8IEaVcgsmky1VY) | 10:17 |
+| 95 | [Tudo Novo / Maranata \- Ao Vivo](https://open.spotify.com/track/1lql7PYuQF4vRnBh8QTeKf) | [Rachel Novaes](https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn), [fhop music](https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn) | [Tudo Novo \| 25 anos \- Parte 2: Presença \(Ao Vivo\)](https://open.spotify.com/album/0pUXoscu8IEaVcgsmky1VY) | 10:17 |
+| 96 | [Adoração Espontânea \- Ao Vivo](https://open.spotify.com/track/4VgtOEtlLJlpa6okshTlUu) | [Os Bravos](https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm), [JesusCopy Music](https://open.spotify.com/artist/4CDhTrPFRLfba48VJR9L4b), [Laura Souguellis](https://open.spotify.com/artist/0MDyxNYI11EEQWhjsrPFd2) | [Hebreus 1 \(Ao Vivo\)](https://open.spotify.com/album/2iaC0zdDp1yuYAPUBWBjtv) | 21:53 |
 | 97 | [Que Se Abram Os Portais](https://open.spotify.com/track/1R5utqC4ZIyIyjmmw52OuI) | [Fernanda Ferro](https://open.spotify.com/artist/080EtCY2JWqzfNFmEJUW3x) | [Céu na Terra](https://open.spotify.com/album/6um3WlqCMSWWT8auIqxtlG) | 4:54 |
 | 98 | [Digno É O Cordeiro \- Ao Vivo](https://open.spotify.com/track/06AJxIUDN2zECqL2xgiNWU) | [Brave](https://open.spotify.com/artist/4YtIBGgFkEZ2Sd91Hysx5f), [Hananiel Eduardo](https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM), [Juliana Kontopp](https://open.spotify.com/artist/4wI3Jgf2m5qf5Zb76UzP0J) | [BRAVE Night • Vol 01 \(Ao Vivo\)](https://open.spotify.com/album/2Rh1TvpJG7YWGJHtHrmLat) | 9:51 |
 | 99 | [Meu Amor](https://open.spotify.com/track/2ysfPsrP67ijXTbVlLxM6C) | [Chris Duran](https://open.spotify.com/artist/1cuygaMWRUavQ2vfL4v5ex) | [Eloim em Foz do Iguaçu](https://open.spotify.com/album/2hQUz5MjrqXcr5omp5vKnJ) | 3:36 |
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 | 123 | [Preço de Sangue \- Playback](https://open.spotify.com/track/5FBRavbyHlcwoTOx4jkivK) | [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h), [Salmistas](https://open.spotify.com/artist/1IrtF2Mnk8i4OJY2zgdZiq) | [Preço de Sangue \(Playback\)](https://open.spotify.com/album/4JBN7delSj5edzZlwhBT6K) | 10:05 |
 | 124 | [Vai Acontecer](https://open.spotify.com/track/1l6NBOvI61llAXguX5lYJB) | [Raquel Mello](https://open.spotify.com/artist/3dlQ2CtcGsR7lOtLGATtSd), [ CGM \- Central Gospel Music](https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq) | [O Céu Vai Reagir](https://open.spotify.com/album/5aCATw31quieZfzXQnYp58) | 5:41 |
 
-Snapshot ID: `AcesbAAAAAD0pmRTBXYcAz3MexeGKd4W`
+Snapshot ID: `AceySAAAAABsrVRReas8yGP0c6+0MshY`

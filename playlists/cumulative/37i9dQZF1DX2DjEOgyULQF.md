@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-529 songs - 1 day 0 hr 58 min
+530 songs - 1 day 1 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -381,7 +381,8 @@
 | [Revelation](https://open.spotify.com/track/2kp3xWNh6qEZ8cNLbl5Cko) | [Mindland](https://open.spotify.com/artist/330UIau66ZSsEGlHH5Wwwg) | [Revelation](https://open.spotify.com/album/0B7u4chWcq7fBvU7EAK3Fj) | 3:10 | 2025-06-04 | 2026-04-04 |
 | [Rising Up](https://open.spotify.com/track/52ucjqmX0AZ5NXugBrcJzp) | [Flora Fossils](https://open.spotify.com/artist/76XoeM2KYdI6JJENHKpB6N) | [Rising Up](https://open.spotify.com/album/02AhYeStIFGhVazWU4Xx6Q) | 3:09 | 2025-02-18 | 2026-07-15 |
 | [River Breath](https://open.spotify.com/track/1jbmHQILuPj4Tt9AkyMc55) | [Nature Pulse](https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0) | [River Breath](https://open.spotify.com/album/0RItQrTpmdXnV34eOSVQWP) | 3:30 | 2024-12-12 | 2025-05-22 |
-| [River Essence](https://open.spotify.com/track/1tW3xopLtJrMxf7K8qcjAA) | [John Ocean](https://open.spotify.com/artist/0UWgEdhywZEON8EtIBYGoL) | [River Essence](https://open.spotify.com/album/1WujHhY8Cu2ML4zCes2vhK) | 2:30 | 2026-09-21 |  |
+| [River Essence](https://open.spotify.com/track/1tW3xopLtJrMxf7K8qcjAA) | [John Ocean](https://open.spotify.com/artist/0UWgEdhywZEON8EtIBYGoL) | [River Essence](https://open.spotify.com/album/1WujHhY8Cu2ML4zCes2vhK) | 2:30 | 2026-09-21 | 2026-10-13 |
+| [River Mist](https://open.spotify.com/track/0hK0nt5nprWFYsa6GSHGoa) | [Somnifera](https://open.spotify.com/artist/2AkFwZieZKlkDtvZxaOL2b) | [River Mist](https://open.spotify.com/album/7xoyZiLqDgsYOYu9tW2iPD) | 2:38 | 2026-09-21 |  |
 | [Robin Choir](https://open.spotify.com/track/3Hb6TtTURzwXFaBoMkUj2u) | [Sarah Loca](https://open.spotify.com/artist/5jZXtbPYjWhoom78Eh14Wd) | [Robin Choir](https://open.spotify.com/album/15yfgasrD61BQmsYx3gaez) | 2:59 | 2023-11-24 | 2025-05-22 |
 | [Roots](https://open.spotify.com/track/7dR4I3Gvrx9njBICv4jsz4) | [Colias Fieldii](https://open.spotify.com/artist/2Y77at6ifgThnn4eR1xp4v) | [Roots](https://open.spotify.com/album/51PNlBZV4CCQItG7h7LrcP) | 3:31 | 2023-04-28 | 2024-04-02 |
 | [Rumble in Peace](https://open.spotify.com/track/1KVOysjv01sx4N21q102kJ) | [Lula Dreamer](https://open.spotify.com/artist/3YmfABSTczjkjF8EblWWa8) | [Rumble in Peace](https://open.spotify.com/album/3XRcZrKvzaQO3ONBBXof7N) | 2:58 | 2025-01-31 | 2026-06-27 |
