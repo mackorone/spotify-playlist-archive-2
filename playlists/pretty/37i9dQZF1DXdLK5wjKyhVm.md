@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLK5wjKyhVm.md) - [plain]
 
 > blissed out beats and head nodding grooves \- relax, study and vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,891 likes - 85 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,899 likes - 85 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLK5wjKyhVm.md) - [plain]
 | 21 | [Into The Night](https://open.spotify.com/track/6dCPxaUB17c3u4cr7sQhjh) | [makse](https://open.spotify.com/artist/7mabXst7LjJEh7hBtpVzMj) | [Into The Night](https://open.spotify.com/album/79a9ej1hwZSxbcYZgudb7n) | 2:52 |
 | 22 | [BSQT](https://open.spotify.com/track/4j6Rx04joLZDk8WNXs5Et0) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [BSQT](https://open.spotify.com/album/69Ve7tEe01DUchwpRI1jU1) | 1:55 |
 | 23 | [reconnecting](https://open.spotify.com/track/21x8QFngUHniuJ76OSHKPH) | [Clocktown Stars](https://open.spotify.com/artist/41tAquCucBUKN6L1xeMWns) | [reconnecting](https://open.spotify.com/album/4hMyzhy2Drd1usUwAY6yMl) | 2:12 |
-| 24 | [luna](https://open.spotify.com/track/2iYVFJqf0xytX4otStZztD) | [herbstreit](https://open.spotify.com/artist/0xEjYcNKVqT5QQOpyas94i) | [luna](https://open.spotify.com/album/0Ulqx3t5v6zQUNANppe9C4) | 2:18 |
+| 24 | [luna](https://open.spotify.com/track/2iYVFJqf0xytX4otStZztD) | [herbstreit](https://open.spotify.com/artist/2SStUCSD2CWubs48mXj2D8) | [luna](https://open.spotify.com/album/0Ulqx3t5v6zQUNANppe9C4) | 2:18 |
 | 25 | [Noc turne](https://open.spotify.com/track/0bdMRNjinGp524wzoc0Wwi) | [Zeitgeister](https://open.spotify.com/artist/3ANz9DLRBrXQJwvy3NEkvl) | [Noc turne](https://open.spotify.com/album/5mSF6UngJPQ3vop2P9eiWV) | 2:01 |
 | 26 | [Sugah](https://open.spotify.com/track/6s43acxBgDAjMOXsFy31BY) | [Protier](https://open.spotify.com/artist/0ZmYPydrdLRXjAEM2nCVIp) | [Sugah](https://open.spotify.com/album/486zaGmIow1agmTcbShXVO) | 2:00 |
 | 27 | [the clearing](https://open.spotify.com/track/3oY2RXnYoPhtf6r552KfbN) | [Zoe Reed](https://open.spotify.com/artist/4mZWwBPYRI8NSMUBAH8WFE) | [the clearing](https://open.spotify.com/album/4KtXivGbPCcyyzs8mb54CJ) | 2:28 |

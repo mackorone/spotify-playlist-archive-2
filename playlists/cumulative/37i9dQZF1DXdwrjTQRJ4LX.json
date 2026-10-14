@@ -1051,6 +1051,24 @@
     },
     {
       "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/6Rbw4WtwOycsIFgaDv3Ou9"
+      },
+      "artists": [
+        {
+          "name": "FOREVER \u201899",
+          "url": "https://open.spotify.com/artist/0OmOnAqGKnT8ivoaqn7bMM"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281125,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/5vxtQ6gVT3QHZBobbAu1WG"
+    },
+    {
+      "album": {
         "name": "5 Signs You Are Dealing With A Human Demon",
         "url": "https://open.spotify.com/album/6W3DE1j1qe9uT8JCoNYw4i"
       },
@@ -1382,6 +1400,24 @@
       "duration_ms": 278238,
       "name": "My Melody",
       "url": "https://open.spotify.com/track/4G2JfzFjdM4uD0b55w4k8e"
+    },
+    {
+      "album": {
+        "name": "NAHUI",
+        "url": "https://open.spotify.com/album/7ysdwvr5ySq2WoW8qmwLjR"
+      },
+      "artists": [
+        {
+          "name": "Locked Club",
+          "url": "https://open.spotify.com/artist/1qGCxiHgY9rBU7aNeMo9kc"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219447,
+      "name": "NAHUI",
+      "url": "https://open.spotify.com/track/0lofzwKV9ln9Ed8pwXPNjf"
     },
     {
       "album": {
@@ -2180,6 +2216,28 @@
       "duration_ms": 327887,
       "name": "Us and Them",
       "url": "https://open.spotify.com/track/3U39gNhRzyI4mJh0MbiVRt"
+    },
+    {
+      "album": {
+        "name": "PZDC",
+        "url": "https://open.spotify.com/album/3StaD3vyW5prW5ATzm2xTa"
+      },
+      "artists": [
+        {
+          "name": "Locked Club",
+          "url": "https://open.spotify.com/artist/1qGCxiHgY9rBU7aNeMo9kc"
+        },
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282333,
+      "name": "VCIDFUTUR3",
+      "url": "https://open.spotify.com/track/2DfovLtljUx0auwoDkoGpS"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The latest, greatest cinematic soundtracks from the big and small screen.
 
-993 songs - 1 day 23 hr 14 min
+994 songs - 1 day 23 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -855,6 +855,7 @@
 | [The Risk \- Instrumental](https://open.spotify.com/track/009udixUjGtU5zslULs1fO) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Big Bold Beautiful Journey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/47kkQLC0hzwsp0uFdhikZP) | 3:58 | 2025-10-06 |  |
 | [The Road To Kingdom](https://open.spotify.com/track/1sR38ToFYL9Z0rDGbCBfmk) | [Chris Benstead](https://open.spotify.com/artist/6xe6vPs1LBahT8QcSRleUH) | [The Gentlemen: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/5umPklMWf8wIL4VgA3TLNd) | 4:44 | 2026-09-04 |  |
 | [The Running Man](https://open.spotify.com/track/0tK1y7xGyU25n3eMTHvYkK) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Running Man \(Music from the Motion Picture\)](https://open.spotify.com/album/3POVf5rrFp35InUOY8IV4O) | 4:00 | 2025-11-14 |  |
+| [The Schoolyard](https://open.spotify.com/track/6nmIMfaywkzXuCUcKOVQ9i) | [Hannes De Maeyer](https://open.spotify.com/artist/2xTO7Je4Ur98jTbLTKaIbP) | [Professor T, Seasons 3&4 \(Original Series Soundtrack\)](https://open.spotify.com/album/4p1C3FNhy5EC6Ku4dEjtLv) | 1:25 | 2026-10-09 |  |
 | [The Soul of Racing \(Main Theme\) \- From "Star Wars: Galactic Racer"](https://open.spotify.com/track/7DdAeRJWmIVMzES3he1Zvz) | [Gordy Haab](https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa) | [The Soul of Racing \(Main Theme\) \[From "Star Wars: Galactic Racer"\]](https://open.spotify.com/album/38NOnClJATSTssK1XcWHxi) | 2:14 | 2026-10-09 |  |
 | [The Sound](https://open.spotify.com/track/4m6bEYRJBo9GCcOCkBKnAU) | [Aska Matsumiya](https://open.spotify.com/artist/4Xe7FFX2aXXi3Q5lnfzhUU) | [Betty \(HBO Original Series Soundtrack\)](https://open.spotify.com/album/3EyUG8yv7LIKyHIr1yQ7yT) | 3:15 | 2021-12-20 | 2022-07-09 |
 | [The Stone Room](https://open.spotify.com/track/1H9VDT6atVQFzXMY7k2l0T) | [David Fleming](https://open.spotify.com/artist/5i0L6675x4W9WULHPA2Ks8) | [Widow's Bay \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/46BSzoOHKyg7R4c7TjqCo9) | 1:35 | 2026-05-01 |  |

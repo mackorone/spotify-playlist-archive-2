@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Eerie pieces created by waving hands around Leon Theremin's otherworldly instrument. Clara Rockmore on cover.",
-  "name": "theremin",
+  "description": "noise, industrial, drone, and experimental \ud83e\udddf\u200d\u2642\ufe0f\ud83d\udc79\ud83e\uddcc",
+  "name": "illbient",
   "tracks": [
     {
       "album": {
@@ -24,7 +24,7 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 229666,
       "name": "14 Songs, Op. 34, No. 14. Vocalise: 14 Songs, Op. 34: No. 14, Vocalise (Arr. For theremin and piano)",
       "url": "https://open.spotify.com/track/69QIXVjGq4o35oajsLgrYv"
@@ -50,7 +50,7 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 256760,
       "name": "18 morceaux, Op. 72, No. 2. Berceuse. 18 morceaux, Op. 72: No. 2, Berceuse (Arr. For theremin and piano)",
       "url": "https://open.spotify.com/track/3paKSv3Hjjdfyck1A2O060"
@@ -128,7 +128,7 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 153026,
       "name": "3 Old Viennese Dances: No. 2, Liebesleid (Arr. for Theremin & Piano)",
       "url": "https://open.spotify.com/track/5vPIY9UAHmOux60VpRV26j"
@@ -154,7 +154,7 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 131000,
       "name": "6 Morceaux, Op. 51, No. 6. Valse sentimentale: 6 Morceaux, Op. 51: No. 6, Valse sentimentale (Arr. For theremin and piano)",
       "url": "https://open.spotify.com/track/3QHqvTeZQOQhQwD2Y3YYvy"
@@ -198,10 +198,46 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 129500,
       "name": "A Happy Place",
       "url": "https://open.spotify.com/track/5kQdkVxKCKcDH6yPKXiyTQ"
+    },
+    {
+      "album": {
+        "name": "Minesweeper",
+        "url": "https://open.spotify.com/album/57dq7yo3EfgeiJKChhPvSd"
+      },
+      "artists": [
+        {
+          "name": "DJ /Rupture",
+          "url": "https://open.spotify.com/artist/1xoFENF5cZyTSvcxNL4Ur0"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256586,
+      "name": "A03 Rumbo Babylon, Limb By LImb, Latoya, Tables Will Turn",
+      "url": "https://open.spotify.com/track/4oiTObBPjLu2qOEH3jTRYx"
+    },
+    {
+      "album": {
+        "name": "Actual Sounds + Voices",
+        "url": "https://open.spotify.com/album/4v9S14Y2Qo5nyNoHNY2N0h"
+      },
+      "artists": [
+        {
+          "name": "Meat Beat Manifesto",
+          "url": "https://open.spotify.com/artist/3AO9jmM1JTooPNcu9tTyZx"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347626,
+      "name": "Acid Again",
+      "url": "https://open.spotify.com/track/1HvJQ8mhnjoxjGkaQsHcRA"
     },
     {
       "album": {
@@ -254,6 +290,28 @@
       "duration_ms": 127720,
       "name": "Air",
       "url": "https://open.spotify.com/track/0i68q6EnJMvSMmGyfNWZBm"
+    },
+    {
+      "album": {
+        "name": "Mezzanine",
+        "url": "https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR"
+      },
+      "artists": [
+        {
+          "name": "Massive Attack",
+          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+        },
+        {
+          "name": "Horace Andy",
+          "url": "https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379533,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/7uv632EkfwYhXoqf8rhYrg"
     },
     {
       "album": {
@@ -328,10 +386,32 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 294893,
       "name": "Ave Maria, Op. 52 No. 6, D. 839 (Arr. for Theremin & Piano)",
       "url": "https://open.spotify.com/track/5VwIJShgYEzxbZGPaDx9Uk"
+    },
+    {
+      "album": {
+        "name": "Drums Of Death",
+        "url": "https://open.spotify.com/album/58MtnReunNerULU4GT30Qi"
+      },
+      "artists": [
+        {
+          "name": "DJ Spooky",
+          "url": "https://open.spotify.com/artist/1O8yrjjifkCO8txB4CxuOm"
+        },
+        {
+          "name": "Dave Lombardo",
+          "url": "https://open.spotify.com/artist/1OW9EXz8lzkvtX2tfnUI9r"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333080,
+      "name": "B- Side Wins Again (2005)",
+      "url": "https://open.spotify.com/track/2VGyMgTNswztWmgDoXO5NX"
     },
     {
       "album": {
@@ -404,7 +484,7 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 476933,
       "name": "Bachianas Brasileiras: No. 5, Aria",
       "url": "https://open.spotify.com/track/2QCSXfBGFMHRc0KzjMg27B"
@@ -426,6 +506,28 @@
       "duration_ms": 219013,
       "name": "Back to Black",
       "url": "https://open.spotify.com/track/7qUU7gPJRgN3XkhrkdwCTg"
+    },
+    {
+      "album": {
+        "name": "Come Down Dawn",
+        "url": "https://open.spotify.com/album/4fBvkZkBuPyo3k7ZogKFAo"
+      },
+      "artists": [
+        {
+          "name": "The KLF",
+          "url": "https://open.spotify.com/artist/6dYrdRlNZSKaVxYg5IrvCH"
+        },
+        {
+          "name": "The Justified Ancients of Mu Mu",
+          "url": "https://open.spotify.com/artist/623YeFh2bNivR5ZxQcsjjP"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 464777,
+      "name": "Baltimore to Fair Play",
+      "url": "https://open.spotify.com/track/0TJJcRcGvDs7DxAL79bqFN"
     },
     {
       "album": {
@@ -458,10 +560,76 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 187617,
       "name": "Berlin Ghost Opera",
       "url": "https://open.spotify.com/track/707014S3juTp8VeyuI5t2C"
+    },
+    {
+      "album": {
+        "name": "NONE OF THIS IS REAL",
+        "url": "https://open.spotify.com/album/1ALwbKFmLCyeirBWKC1Kb5"
+      },
+      "artists": [
+        {
+          "name": "DJ Rozwell",
+          "url": "https://open.spotify.com/artist/5ETn9pXrEi2upRr6P87jew"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141168,
+      "name": "Black Knight",
+      "url": "https://open.spotify.com/track/5BZRS4yzZnvYfdyloEfguU"
+    },
+    {
+      "album": {
+        "name": "blue light",
+        "url": "https://open.spotify.com/album/0PEPM03n1XquBGUPH1fFxA"
+      },
+      "artists": [
+        {
+          "name": "angel egg",
+          "url": "https://open.spotify.com/artist/5gV9HuGxJ6BZsekWyNLDOe"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378044,
+      "name": "blue light",
+      "url": "https://open.spotify.com/track/1mg8RnSiNIp7jEspE91Wep"
+    },
+    {
+      "album": {
+        "name": "Children of Possibility",
+        "url": "https://open.spotify.com/album/2GJdJQNe5lCntmUIArrE59"
+      },
+      "artists": [
+        {
+          "name": "One Self",
+          "url": "https://open.spotify.com/artist/6r7dk6cptOXRAk3Bm7iouK"
+        },
+        {
+          "name": "DJ Vadim",
+          "url": "https://open.spotify.com/artist/4vwzEW1kPK1BlgSBGrRyqZ"
+        },
+        {
+          "name": "Yarah Bravo",
+          "url": "https://open.spotify.com/artist/4EcU2HNbZRTLap5UPcfMfb"
+        },
+        {
+          "name": "Blu Rum 13",
+          "url": "https://open.spotify.com/artist/0zlqb27qOo6W4Vougab1Hs"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220412,
+      "name": "Bluebird",
+      "url": "https://open.spotify.com/track/1MvH3FdvO17S2eQ4IeNRCo"
     },
     {
       "album": {
@@ -484,10 +652,28 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 190986,
       "name": "Cantilena No. 3 (Arr. for Theremin, Cello Quartet and Double Bass)",
       "url": "https://open.spotify.com/track/1jirBkHYGkmiZVjGJvHYl4"
+    },
+    {
+      "album": {
+        "name": "Carnation",
+        "url": "https://open.spotify.com/album/3PAqWGvT5UAZFW7zZap4aM"
+      },
+      "artists": [
+        {
+          "name": "D\u017cuma",
+          "url": "https://open.spotify.com/artist/0rB8nf903arqzbvyVzua1a"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146161,
+      "name": "Carnation",
+      "url": "https://open.spotify.com/track/3R1FDwfuFkc9jm2iKe5aic"
     },
     {
       "album": {
@@ -510,10 +696,28 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 182733,
       "name": "Carnival of the Animals, XIII. Le Cygne (the Swan): Le carnaval des animaux: No. 12, Le cygne [arr. For theremin and piano]",
       "url": "https://open.spotify.com/track/711N5UifKDb37inhUFJFtE"
+    },
+    {
+      "album": {
+        "name": "Ghostly Swim",
+        "url": "https://open.spotify.com/album/6E7CrvgZCxWCmcwwXmqDu9"
+      },
+      "artists": [
+        {
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238666,
+      "name": "Cascade",
+      "url": "https://open.spotify.com/track/0hG3VoDtGbHlocx2lopcVl"
     },
     {
       "album": {
@@ -561,6 +765,24 @@
     },
     {
       "album": {
+        "name": "Cocaine Death",
+        "url": "https://open.spotify.com/album/019KF8OUd0xeBRMgictAvy"
+      },
+      "artists": [
+        {
+          "name": "Prurient",
+          "url": "https://open.spotify.com/artist/00NwpiTtYKYzE6yEhSbFIk"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291520,
+      "name": "Cocaine Death",
+      "url": "https://open.spotify.com/track/52hgUDQGClEApO63D6wRrL"
+    },
+    {
+      "album": {
         "name": "Music In and On The Air",
         "url": "https://open.spotify.com/album/3mOQzPO4HMa1mmQggKdGe1"
       },
@@ -584,7 +806,7 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 514733,
       "name": "Concerto for 2 Violins in D minor, BWV 1043: 2nd movement",
       "url": "https://open.spotify.com/track/0vxhF01eweNLunXafcXtP2"
@@ -610,10 +832,50 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 168613,
       "name": "Dance in the Moon",
       "url": "https://open.spotify.com/track/27lBuBbnfrBo6RJ8pIjBcm"
+    },
+    {
+      "album": {
+        "name": "DJ-Kicks (DJ Koze) [DJ Mix]",
+        "url": "https://open.spotify.com/album/7JNYFo117kRhhbuz4ko8yw"
+      },
+      "artists": [
+        {
+          "name": "cLOUDDEAD",
+          "url": "https://open.spotify.com/artist/5LNpPvvMgrH9lgJLFa1uev"
+        },
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213840,
+      "name": "Dead Dogs Two (Boards Of Canada Remix) - mixed",
+      "url": "https://open.spotify.com/track/2mJqCw5sUBSPmvbWCEfYHp"
+    },
+    {
+      "album": {
+        "name": "Cruelty Squad (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/1qa0CfOkGLljkzj1OXrsfa"
+      },
+      "artists": [
+        {
+          "name": "Consumer Softproducts",
+          "url": "https://open.spotify.com/artist/4p9dCOFjZl3a1vWbbLonCI"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73635,
+      "name": "Depression Nap",
+      "url": "https://open.spotify.com/track/6lI9lmrNtiHGZnIt5XADx2"
     },
     {
       "album": {
@@ -687,6 +949,46 @@
     },
     {
       "album": {
+        "name": "Mezzanine",
+        "url": "https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR"
+      },
+      "artists": [
+        {
+          "name": "Massive Attack",
+          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+        },
+        {
+          "name": "Sarah Jay Hawley",
+          "url": "https://open.spotify.com/artist/0egMJiOtObjio7Y9H12r2V"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366893,
+      "name": "Dissolved Girl",
+      "url": "https://open.spotify.com/track/0oeEqyEAavgPfFxDYvjAP6"
+    },
+    {
+      "album": {
+        "name": "Cruelty Squad (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/1qa0CfOkGLljkzj1OXrsfa"
+      },
+      "artists": [
+        {
+          "name": "Consumer Softproducts",
+          "url": "https://open.spotify.com/artist/4p9dCOFjZl3a1vWbbLonCI"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165324,
+      "name": "Divinity of the Office",
+      "url": "https://open.spotify.com/track/5ckZg1YXkJ5Ef6fC7FrTfp"
+    },
+    {
+      "album": {
         "name": "Plays the Theremin",
         "url": "https://open.spotify.com/album/2m3gsqca2ZhFNLppQ7Ciwq"
       },
@@ -702,6 +1004,46 @@
       "duration_ms": 401600,
       "name": "Dle Yaman",
       "url": "https://open.spotify.com/track/5BnztZixJGe0w97y9vvXHa"
+    },
+    {
+      "album": {
+        "name": "Cult Subterranea",
+        "url": "https://open.spotify.com/album/2ztL9NJaFYg8kuYRELX0Ny"
+      },
+      "artists": [
+        {
+          "name": "Celestaphone",
+          "url": "https://open.spotify.com/artist/2Q59pjJ8u0VpM61Mmv8x8H"
+        },
+        {
+          "name": "Dealers of God",
+          "url": "https://open.spotify.com/artist/4rGJMxeYRMVZZ9LzWxdkul"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281142,
+      "name": "Draconian Starseed",
+      "url": "https://open.spotify.com/track/0X1b6EopYBiRnF6ymeAHj7"
+    },
+    {
+      "album": {
+        "name": "Frozen Niagara Falls",
+        "url": "https://open.spotify.com/album/5Pm2WvqxlDttK4hTx1vKe3"
+      },
+      "artists": [
+        {
+          "name": "Prurient",
+          "url": "https://open.spotify.com/artist/00NwpiTtYKYzE6yEhSbFIk"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319045,
+      "name": "Dragonflies to Sew You Up",
+      "url": "https://open.spotify.com/track/2yr8zjsYtBAeZwpvQYC66k"
     },
     {
       "album": {
@@ -772,10 +1114,46 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 229306,
       "name": "El amor brujo (Love, the Magician): Pantomima [Pantomime] [arr. For theremin and piano]",
       "url": "https://open.spotify.com/track/6DJ2k6zqKZ5Bz2R489egao"
+    },
+    {
+      "album": {
+        "name": "Unseen Horror Scenes",
+        "url": "https://open.spotify.com/album/3EBZMX0Iw1fV6cFstCJvse"
+      },
+      "artists": [
+        {
+          "name": "Hocico",
+          "url": "https://open.spotify.com/artist/5cilSDFcAQcLwh0dNqMhrE"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224440,
+      "name": "El Silencio de La Noche",
+      "url": "https://open.spotify.com/track/5VrIQW55mAiqCRralRIYHO"
+    },
+    {
+      "album": {
+        "name": "NONE OF THIS IS REAL",
+        "url": "https://open.spotify.com/album/1ALwbKFmLCyeirBWKC1Kb5"
+      },
+      "artists": [
+        {
+          "name": "DJ Rozwell",
+          "url": "https://open.spotify.com/artist/5ETn9pXrEi2upRr6P87jew"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169456,
+      "name": "Elder Grof",
+      "url": "https://open.spotify.com/track/7JFIiR9Mhm3B1CDlIyd3zU"
     },
     {
       "album": {
@@ -812,7 +1190,7 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 148440,
       "name": "Epilogue (feat. Bill Brovold)",
       "url": "https://open.spotify.com/track/5XNBczbTHqGhgIqCYZJP6d"
@@ -849,6 +1227,42 @@
     },
     {
       "album": {
+        "name": "Re-Entry",
+        "url": "https://open.spotify.com/album/7nfpkKAfqQ5bxzonHNqiYa"
+      },
+      "artists": [
+        {
+          "name": "Techno Animal",
+          "url": "https://open.spotify.com/artist/0wnipczytUzHtDCCoCWV6L"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 585133,
+      "name": "Evil Spirits / Angel Dust",
+      "url": "https://open.spotify.com/track/2ZsTSH8v4xTzjGiDUvYaGe"
+    },
+    {
+      "album": {
+        "name": "Blowback",
+        "url": "https://open.spotify.com/album/76Zg0RE2Fin7AqBSTFFrDF"
+      },
+      "artists": [
+        {
+          "name": "Tricky",
+          "url": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283626,
+      "name": "Excess",
+      "url": "https://open.spotify.com/track/6ILaMbLUj1gsl2m5aqy9s0"
+    },
+    {
+      "album": {
         "name": "Plays the Theremin",
         "url": "https://open.spotify.com/album/2m3gsqca2ZhFNLppQ7Ciwq"
       },
@@ -864,6 +1278,24 @@
       "duration_ms": 194346,
       "name": "Exile",
       "url": "https://open.spotify.com/track/0PhzohQYgvCLUHkjYnp9vB"
+    },
+    {
+      "album": {
+        "name": "Evanescence",
+        "url": "https://open.spotify.com/album/0Vwzlrwn6ENELkr6Qei0Jf"
+      },
+      "artists": [
+        {
+          "name": "Scorn",
+          "url": "https://open.spotify.com/artist/0sKlAr34dAjAdb7a9yriqX"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 437733,
+      "name": "Exodus",
+      "url": "https://open.spotify.com/track/5r6RpYe7eKYBJH1jeVjG88"
     },
     {
       "album": {
@@ -903,6 +1335,24 @@
     },
     {
       "album": {
+        "name": "Tapping The Conversation",
+        "url": "https://open.spotify.com/album/1sRbu7puROqOY0TGzRf3Bu"
+      },
+      "artists": [
+        {
+          "name": "The Bug",
+          "url": "https://open.spotify.com/artist/213i4NKah1DX9q0FNiKsuw"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319520,
+      "name": "Fake Auto Crash",
+      "url": "https://open.spotify.com/track/4uhHsyFqaHszrnRJfeFdMG"
+    },
+    {
+      "album": {
         "name": "Theremin",
         "url": "https://open.spotify.com/album/4FNmgdPScMSs1jx6a64QxY"
       },
@@ -925,6 +1375,46 @@
     },
     {
       "album": {
+        "name": "The Brotherhood Of The Bomb (2023 Remaster)",
+        "url": "https://open.spotify.com/album/5pVwL6obb4ESIDyk9Y2z9e"
+      },
+      "artists": [
+        {
+          "name": "Techno Animal",
+          "url": "https://open.spotify.com/artist/0wnipczytUzHtDCCoCWV6L"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303624,
+      "name": "Freefall - 2023 Remaster",
+      "url": "https://open.spotify.com/track/5wOdZpu0LxWTgBPjEOUB7W"
+    },
+    {
+      "album": {
+        "name": "Angels & Devils",
+        "url": "https://open.spotify.com/album/1VtXF7X88haeELGGHPnn1m"
+      },
+      "artists": [
+        {
+          "name": "The Bug",
+          "url": "https://open.spotify.com/artist/213i4NKah1DX9q0FNiKsuw"
+        },
+        {
+          "name": "Warrior Queen",
+          "url": "https://open.spotify.com/artist/6MGlEnPgJhFkC8P8DdKtsT"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231655,
+      "name": "Fuck You",
+      "url": "https://open.spotify.com/track/011ZZlg30AANbGi7iQnfYK"
+    },
+    {
+      "album": {
         "name": "Plays the Theremin",
         "url": "https://open.spotify.com/album/2m3gsqca2ZhFNLppQ7Ciwq"
       },
@@ -943,6 +1433,24 @@
     },
     {
       "album": {
+        "name": "Dummy",
+        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
+      },
+      "artists": [
+        {
+          "name": "Portishead",
+          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308626,
+      "name": "Glory Box",
+      "url": "https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC"
+    },
+    {
+      "album": {
         "name": "Theremin Discmorphia",
         "url": "https://open.spotify.com/album/1ba187ocIN64czJt2OD5li"
       },
@@ -958,6 +1466,24 @@
       "duration_ms": 195000,
       "name": "Gnossienne 3",
       "url": "https://open.spotify.com/track/60EFJmDKJEmu9xwmM7XBZi"
+    },
+    {
+      "album": {
+        "name": "Geogaddi",
+        "url": "https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214986,
+      "name": "Gyroscope",
+      "url": "https://open.spotify.com/track/2KS7b9EbL3sPGswRf3seAZ"
     },
     {
       "album": {
@@ -1039,6 +1565,24 @@
     },
     {
       "album": {
+        "name": "NONE OF THIS IS REAL",
+        "url": "https://open.spotify.com/album/1ALwbKFmLCyeirBWKC1Kb5"
+      },
+      "artists": [
+        {
+          "name": "DJ Rozwell",
+          "url": "https://open.spotify.com/artist/5ETn9pXrEi2upRr6P87jew"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270877,
+      "name": "I'VE NOT SEEN SUCH BRAVERY",
+      "url": "https://open.spotify.com/track/2QZdVovhWiWUZPD0wAF9qS"
+    },
+    {
+      "album": {
         "name": "It is ok to be sad and dark",
         "url": "https://open.spotify.com/album/3e48GYRqwhPQdpKLfx9uAX"
       },
@@ -1068,7 +1612,7 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 156466,
       "name": "It is ok to be sad and dark",
       "url": "https://open.spotify.com/track/47ETRprpN3ztAywwUAc6Zj"
@@ -1086,7 +1630,7 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 242323,
       "name": "Je Crois Entendre Encore",
       "url": "https://open.spotify.com/track/1ybXUJcVT5W32Kaii6sJJo"
@@ -1148,7 +1692,7 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 168077,
       "name": "Kontula",
       "url": "https://open.spotify.com/track/4CGr7SVFInOu9u0JFKLQ8T"
@@ -1192,6 +1736,24 @@
       "duration_ms": 187720,
       "name": "L'oiseau de feu (The Firebird): Berceuse (arr. for theremin and piano)",
       "url": "https://open.spotify.com/track/7kpHP5EONaM5nBUsAxuvMV"
+    },
+    {
+      "album": {
+        "name": "Nierika",
+        "url": "https://open.spotify.com/album/5tZBcmhyPQRczMN6lT6nXl"
+      },
+      "artists": [
+        {
+          "name": "Jorge Reyes",
+          "url": "https://open.spotify.com/artist/73lAf1b3vgM25fxLa0oIJV"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237040,
+      "name": "La Casa Obscura",
+      "url": "https://open.spotify.com/track/1YJTz6an5c35acvMDZDacT"
     },
     {
       "album": {
@@ -1240,7 +1802,7 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 125746,
       "name": "La vie en rose (Arr. for Theremin & Piano)",
       "url": "https://open.spotify.com/track/6ZNktqtOKZe2her0frw4H3"
@@ -1258,10 +1820,32 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 218240,
       "name": "Lacrimosa",
       "url": "https://open.spotify.com/track/6JOYu6rrJcSMcO4IIdplog"
+    },
+    {
+      "album": {
+        "name": "Loss Prevention Reloaded",
+        "url": "https://open.spotify.com/album/4ro4rk4QsMV3Kp84bBnxOz"
+      },
+      "artists": [
+        {
+          "name": "KFC Murder Chicks",
+          "url": "https://open.spotify.com/artist/2bgBTY9LvajPhwkPoyLGH7"
+        },
+        {
+          "name": "VoidDweller",
+          "url": "https://open.spotify.com/artist/68PSVnZugalmzc5agf8fpk"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202762,
+      "name": "Lawnmower Man",
+      "url": "https://open.spotify.com/track/6Cua5umWkrXKJIKE4e2csW"
     },
     {
       "album": {
@@ -1280,7 +1864,7 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 151200,
       "name": "Les Berceaux, Op. 23 No. 1 (Arr. for Theremin and Piano)",
       "url": "https://open.spotify.com/track/7w2mM8cQGXsMqVaRlrEs4J"
@@ -1310,6 +1894,42 @@
       "duration_ms": 153013,
       "name": "Liebesleid",
       "url": "https://open.spotify.com/track/0LlcUgeHmB8EwrAdETJOQm"
+    },
+    {
+      "album": {
+        "name": "Ghostly Swim",
+        "url": "https://open.spotify.com/album/6E7CrvgZCxWCmcwwXmqDu9"
+      },
+      "artists": [
+        {
+          "name": "Deastro",
+          "url": "https://open.spotify.com/artist/2dL2iXspP57dHMHT36cX5v"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148040,
+      "name": "Light Powered",
+      "url": "https://open.spotify.com/track/2ESSEicqlsNGXhYGVlazAj"
+    },
+    {
+      "album": {
+        "name": "Ghostly Swim 2",
+        "url": "https://open.spotify.com/album/2iCPYVuL7ovocJngeA4QCU"
+      },
+      "artists": [
+        {
+          "name": "Nautiluss",
+          "url": "https://open.spotify.com/artist/6I1pwo5JfNKmX794auk39O"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406169,
+      "name": "Lonely Planet",
+      "url": "https://open.spotify.com/track/7MQJrcNLFfbRfo47vweHuT"
     },
     {
       "album": {
@@ -1360,7 +1980,7 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 164440,
       "name": "Luna Hiena",
       "url": "https://open.spotify.com/track/4h652ABDkLBsAzOolrJ6ke"
@@ -1382,7 +2002,7 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 185293,
       "name": "Lunar Rhapsody",
       "url": "https://open.spotify.com/track/1bsxstU5DmtFcBxDfkyNbq"
@@ -1470,7 +2090,7 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 239258,
       "name": "Mon Coeur S'ouvre a Ta Voix",
       "url": "https://open.spotify.com/track/5igknsjYOjHAqdVQbnJH1C"
@@ -1492,7 +2112,7 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 177666,
       "name": "Moon Moods",
       "url": "https://open.spotify.com/track/7dEzL6ExaXLQKVibtqjxQY"
@@ -1522,7 +2142,7 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 525280,
       "name": "Moritz Eggert: The Son Of the Daughter Of Dracula Versus The Incredible Frankenstein Monster (From Outer Space)",
       "url": "https://open.spotify.com/track/1CL8DcTGkqmXwO8au6LNZQ"
@@ -1551,6 +2171,28 @@
     },
     {
       "album": {
+        "name": "a.s.o.",
+        "url": "https://open.spotify.com/album/491ULACRrTCXK4ZTPwRCPa"
+      },
+      "artists": [
+        {
+          "name": "a.s.o.",
+          "url": "https://open.spotify.com/artist/2a4fzfmDaQvYBhBR5hp2jj"
+        },
+        {
+          "name": "Alias Error",
+          "url": "https://open.spotify.com/artist/2AQ0EB0amswkk6jw45wd6O"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228013,
+      "name": "My Baby's Got It Out For Me",
+      "url": "https://open.spotify.com/track/5tS3Weg9TqWOx6Uv0K6MkL"
+    },
+    {
+      "album": {
         "name": "Mysterons Theme",
         "url": "https://open.spotify.com/album/6Rc5C6X5t1U7zojgkkyVDq"
       },
@@ -1562,10 +2204,28 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 148402,
       "name": "Mysterons Theme",
       "url": "https://open.spotify.com/track/0sliCazBkrrX6OqVkqaW9F"
+    },
+    {
+      "album": {
+        "name": "Re-Entry",
+        "url": "https://open.spotify.com/album/7nfpkKAfqQ5bxzonHNqiYa"
+      },
+      "artists": [
+        {
+          "name": "Techno Animal",
+          "url": "https://open.spotify.com/artist/0wnipczytUzHtDCCoCWV6L"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 840800,
+      "name": "Narco Agent Vs The Medicine Man",
+      "url": "https://open.spotify.com/track/0EGYJydJ7KSYzbc8bh6SXO"
     },
     {
       "album": {
@@ -1636,7 +2296,7 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 236413,
       "name": "Nocturne in C-Sharp Minor, B. 49 (Arr. for Theremin & Piano)",
       "url": "https://open.spotify.com/track/4sWMZ7MWDd2OZCD9FIEEos"
@@ -1676,7 +2336,7 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 146243,
       "name": "Nowhere",
       "url": "https://open.spotify.com/track/04oIpMAiyosg206z164ALM"
@@ -1742,7 +2402,7 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 297040,
       "name": "O Cease Thy Singing, Maiden Fair, Op. 4: No. 4",
       "url": "https://open.spotify.com/track/5rnadrQ6ud2mfwonOcC2s6"
@@ -1760,7 +2420,7 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 244493,
       "name": "O Mio Babbino Caro",
       "url": "https://open.spotify.com/track/2yIjx5dyMvHv7l4VpxpAcI"
@@ -1782,7 +2442,7 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 216021,
       "name": "Oakunar Lynntuja (Strange Birds)",
       "url": "https://open.spotify.com/track/7ns1CAe4jXKSlJ0lz5AZsr"
@@ -1880,7 +2540,7 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 135533,
       "name": "Overture (Reprise)",
       "url": "https://open.spotify.com/track/7sblPlWxkqITqNRLVgDCZT"
@@ -1971,6 +2631,42 @@
     },
     {
       "album": {
+        "name": "Riddim Warfare",
+        "url": "https://open.spotify.com/album/02Ybzj5Jsb4zFmZxsLIP67"
+      },
+      "artists": [
+        {
+          "name": "DJ Spooky",
+          "url": "https://open.spotify.com/artist/1O8yrjjifkCO8txB4CxuOm"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 479693,
+      "name": "Peace In Zaire",
+      "url": "https://open.spotify.com/track/41Ml7yoOoQXZNE0I4Nv740"
+    },
+    {
+      "album": {
+        "name": "Scenic Route - Road Less Travelled, Vol\u200b\u200b\u200b.\u200b\u200b\u200b 2",
+        "url": "https://open.spotify.com/album/1qMuvJRu4Rc7RmZPdafYU8"
+      },
+      "artists": [
+        {
+          "name": "untitled (halo)",
+          "url": "https://open.spotify.com/artist/3r9Q5Yy2TA8QG4CtJlvhIn"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171920,
+      "name": "Pedal Petal",
+      "url": "https://open.spotify.com/track/2vtr9NusUzbtG6Gstg2x2V"
+    },
+    {
+      "album": {
         "name": "Rachmaninov, S.: Vocalise / Saint-Saens, C.: Le Cygne / Falla, M.: El Amor Brujo / Achron, J.: Hebrew Melody (The Art of the Theremin)",
         "url": "https://open.spotify.com/album/4m0wpnl7Db40DawENitc78"
       },
@@ -1990,7 +2686,7 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 165733,
       "name": "Piece en forme de habanera: Vocalise-etude en forme de habanera (Arr. For theremin and piano)",
       "url": "https://open.spotify.com/track/7MHZLkzhdDKi1F46A4F4nW"
@@ -2016,10 +2712,28 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 167253,
       "name": "Porgy and Bess, Act I Scene 1: Summertime (Arr. for Theremin & Piano)",
       "url": "https://open.spotify.com/track/0jioCLgkOZzXhb5yYgdfpL"
+    },
+    {
+      "album": {
+        "name": "Esoteric",
+        "url": "https://open.spotify.com/album/6FisGL31ftnCtuiakeSJiZ"
+      },
+      "artists": [
+        {
+          "name": "Kiss Facility",
+          "url": "https://open.spotify.com/artist/5gHuonqo1YwbLPKQAl7jD5"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199122,
+      "name": "Prayer At The Dinner Table",
+      "url": "https://open.spotify.com/track/3PInc32Bp5hVT0rnPBxwkr"
     },
     {
       "album": {
@@ -2034,10 +2748,28 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 206626,
       "name": "Precious Weeks",
       "url": "https://open.spotify.com/track/3CXOQPeLHu4teBqbV6dLnx"
+    },
+    {
+      "album": {
+        "name": "Lushlife",
+        "url": "https://open.spotify.com/album/6FtTHRQ1AM733k7dJBKDrI"
+      },
+      "artists": [
+        {
+          "name": "Bowery Electric",
+          "url": "https://open.spotify.com/artist/6a27jEzxHDgONdmADAGcej"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280840,
+      "name": "Psalms of Survival",
+      "url": "https://open.spotify.com/track/53trUPXnK5dlAL5HEUKkjt"
     },
     {
       "album": {
@@ -2052,10 +2784,28 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 135106,
       "name": "Quarantine",
       "url": "https://open.spotify.com/track/3c1nWxMzw76sU66l3VN9rL"
+    },
+    {
+      "album": {
+        "name": "The Shape of a Burning Credit Card",
+        "url": "https://open.spotify.com/album/7KqO0KfN6gTMKQ5aZtVJXe"
+      },
+      "artists": [
+        {
+          "name": "KFC Murder Chicks",
+          "url": "https://open.spotify.com/artist/2bgBTY9LvajPhwkPoyLGH7"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148924,
+      "name": "Rage",
+      "url": "https://open.spotify.com/track/0hgYlES7sXpXMH81yYIBFu"
     },
     {
       "album": {
@@ -2070,7 +2820,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 250824,
       "name": "Remembrance",
       "url": "https://open.spotify.com/track/4orEgXNanMh8G0UQHxpmLh"
@@ -2129,6 +2879,60 @@
     },
     {
       "album": {
+        "name": "Tapping The Conversation",
+        "url": "https://open.spotify.com/album/1sRbu7puROqOY0TGzRf3Bu"
+      },
+      "artists": [
+        {
+          "name": "The Bug",
+          "url": "https://open.spotify.com/artist/213i4NKah1DX9q0FNiKsuw"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 463373,
+      "name": "Room 773",
+      "url": "https://open.spotify.com/track/2IYbblfaWqt9zojcRhNCmZ"
+    },
+    {
+      "album": {
+        "name": "Subliminal Sandwich (Extended Version)",
+        "url": "https://open.spotify.com/album/1DJj8wU76RkZ476EvddV1R"
+      },
+      "artists": [
+        {
+          "name": "Meat Beat Manifesto",
+          "url": "https://open.spotify.com/artist/3AO9jmM1JTooPNcu9tTyZx"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250866,
+      "name": "She's Unreal",
+      "url": "https://open.spotify.com/track/6FgY0tpl4Jv714uPuAokeZ"
+    },
+    {
+      "album": {
+        "name": "My Big Hero",
+        "url": "https://open.spotify.com/album/6NR7oWZ1PBixE3cDKCAuuU"
+      },
+      "artists": [
+        {
+          "name": "12 Rounds",
+          "url": "https://open.spotify.com/artist/2sMHGUKPifyKf70itkEsox"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260399,
+      "name": "Something's Burning",
+      "url": "https://open.spotify.com/track/6kENM4XtZiOhZmNusJw1oT"
+    },
+    {
+      "album": {
         "name": "Theremin Ameriqu\u00e9: The American Songbook",
         "url": "https://open.spotify.com/album/3iQE5NRJUsS6bd61fg63xY"
       },
@@ -2140,7 +2944,7 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 163480,
       "name": "Somewhere over the Rainbow",
       "url": "https://open.spotify.com/track/5TFRWQT4v6LVQluDYoIcpe"
@@ -2218,7 +3022,7 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 268080,
       "name": "Suite No. 3 in D, BWV 1068: Air on the G String",
       "url": "https://open.spotify.com/track/3qT7ByaQYNy32JoYyC9f8h"
@@ -2262,7 +3066,7 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 168386,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/4UyTsJd4FAAbrsA8qQ6apq"
@@ -2346,10 +3150,28 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 280586,
       "name": "Tha\u00efs: M\u00e9ditation (Arr. for Theremin and Piano)",
       "url": "https://open.spotify.com/track/5XhWzhaWzjzgPIYnGmGIcP"
+    },
+    {
+      "album": {
+        "name": "Morning Light",
+        "url": "https://open.spotify.com/album/3QsBjnBd0NNeSs2cXdwnSm"
+      },
+      "artists": [
+        {
+          "name": "Locust",
+          "url": "https://open.spotify.com/artist/5kytvmQqoeunOLa2LtIt1N"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234906,
+      "name": "The Daydream Girl from Sealand",
+      "url": "https://open.spotify.com/track/5IfP9DNBMA6LIAadxDFvCv"
     },
     {
       "album": {
@@ -2364,7 +3186,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 176626,
       "name": "The Electrical Life of Louis Wain",
       "url": "https://open.spotify.com/track/3OIr1z2lkcHFukhBUJlYsl"
@@ -2390,10 +3212,28 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 190400,
       "name": "The Firebird: Berceuse (Arr. For theremin and piano)",
       "url": "https://open.spotify.com/track/6W1t6X1d24OQJ2E1tXXFmZ"
+    },
+    {
+      "album": {
+        "name": "Ghostly Swim",
+        "url": "https://open.spotify.com/album/6E7CrvgZCxWCmcwwXmqDu9"
+      },
+      "artists": [
+        {
+          "name": "Flyamsam",
+          "url": "https://open.spotify.com/artist/4QvHpCkjcyXyB5uH1LXTBk"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140680,
+      "name": "The Offbeat",
+      "url": "https://open.spotify.com/track/71EgctNIXkFs6d0v20rX5N"
     },
     {
       "album": {
@@ -2416,10 +3256,28 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 178240,
       "name": "The Swan",
       "url": "https://open.spotify.com/track/7osEgWW0fkuz4mGYzkRGsN"
+    },
+    {
+      "album": {
+        "name": "Thee Way Of The Necromancer",
+        "url": "https://open.spotify.com/album/3EuR25kn1zXn3g8OwHLWsF"
+      },
+      "artists": [
+        {
+          "name": "DJ Rozwell",
+          "url": "https://open.spotify.com/artist/5ETn9pXrEi2upRr6P87jew"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "Thee Way Of The Necromancer",
+      "url": "https://open.spotify.com/track/5OWV0tektJOGT3hyzIjWIB"
     },
     {
       "album": {
@@ -2464,7 +3322,7 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 237333,
       "name": "Theremin in the Rain",
       "url": "https://open.spotify.com/track/1LWMnApLb8gugGjEuufAQ1"
@@ -2486,10 +3344,50 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 462626,
       "name": "Theremin Sonata No. 1: I. Moderato",
       "url": "https://open.spotify.com/track/0nrY6e0615DFib7MHYOqkz"
+    },
+    {
+      "album": {
+        "name": "Pure, Impure",
+        "url": "https://open.spotify.com/album/7C3flv2nzeBoNHVrptYz6o"
+      },
+      "artists": [
+        {
+          "name": "Seefeel",
+          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
+        },
+        {
+          "name": "AFX",
+          "url": "https://open.spotify.com/artist/6ULjGlnhcCwHIJigN47K5U"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 457000,
+      "name": "Time to Find Me - AFX Fast Mix",
+      "url": "https://open.spotify.com/track/4JT4orneDAvaWkjUTuwShZ"
+    },
+    {
+      "album": {
+        "name": "Cortex Rampage",
+        "url": "https://open.spotify.com/album/2Hb4aCgBKlMwuCRWG36Sa8"
+      },
+      "artists": [
+        {
+          "name": "KFC Murder Chicks",
+          "url": "https://open.spotify.com/artist/2bgBTY9LvajPhwkPoyLGH7"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151222,
+      "name": "Tsundere",
+      "url": "https://open.spotify.com/track/0yo08MtxAZHlPp1XnpxxkZ"
     },
     {
       "album": {
@@ -2511,6 +3409,28 @@
     },
     {
       "album": {
+        "name": "Industrial Masters",
+        "url": "https://open.spotify.com/album/4KWWdlTeY0fzPku6gKqOPv"
+      },
+      "artists": [
+        {
+          "name": "Prurient",
+          "url": "https://open.spotify.com/artist/00NwpiTtYKYzE6yEhSbFIk"
+        },
+        {
+          "name": "Salford Electronics",
+          "url": "https://open.spotify.com/artist/27Ew0gaDWiQ9C7XHZ4uBi4"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292266,
+      "name": "Viet Cong Industrial Massacre (feat. Salford Electronics)",
+      "url": "https://open.spotify.com/track/7kR8bLbnjHYpoT4L7AHuMT"
+    },
+    {
+      "album": {
         "name": "Theremin",
         "url": "https://open.spotify.com/album/4FNmgdPScMSs1jx6a64QxY"
       },
@@ -2526,7 +3446,7 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 320760,
       "name": "Vocalise, Op. 34 No. 14 (Arr. for Theremin and Cello Quartet)",
       "url": "https://open.spotify.com/track/3PYVkbZutCbh8OKS2dWlR7"
@@ -2548,7 +3468,7 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 527173,
       "name": "Voice of Theremin",
       "url": "https://open.spotify.com/track/7o0FxcsUn7z7JLellv8W49"
@@ -2566,7 +3486,7 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 199395,
       "name": "Waikiki Spleen",
       "url": "https://open.spotify.com/track/79UG5zCh9xcADra04a1Oy0"
@@ -2625,6 +3545,60 @@
     },
     {
       "album": {
+        "name": "The Fire This Time",
+        "url": "https://open.spotify.com/album/2Py6k66QvFZylLFLzvJiHf"
+      },
+      "artists": [
+        {
+          "name": "Barbed",
+          "url": "https://open.spotify.com/artist/5oj3jSMjyesdRXc9DR7GgU"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425493,
+      "name": "We're Doing Well Now",
+      "url": "https://open.spotify.com/track/2SxTAeu26UscUK6qUR8TXE"
+    },
+    {
+      "album": {
+        "name": "Unseen Horror Scenes",
+        "url": "https://open.spotify.com/album/3EBZMX0Iw1fV6cFstCJvse"
+      },
+      "artists": [
+        {
+          "name": "Hocico",
+          "url": "https://open.spotify.com/artist/5cilSDFcAQcLwh0dNqMhrE"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247826,
+      "name": "Where Darkness Leaks In",
+      "url": "https://open.spotify.com/track/47HpbQqXfeu1HUfgxUlBeL"
+    },
+    {
+      "album": {
+        "name": "Through the Window",
+        "url": "https://open.spotify.com/album/0Ox8aFPdSm6FsSwhSKjmDt"
+      },
+      "artists": [
+        {
+          "name": "Prurient",
+          "url": "https://open.spotify.com/artist/00NwpiTtYKYzE6yEhSbFIk"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 611213,
+      "name": "You Show Great Spirit",
+      "url": "https://open.spotify.com/track/1GBPsqKkxBe1vgWyTWq1tL"
+    },
+    {
+      "album": {
         "name": "The Electrical Life of Louis Wain (Original Motional Picture Soundtrack)",
         "url": "https://open.spotify.com/album/20lEPXGZE0D2vzoHM5psYH"
       },
@@ -2636,7 +3610,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 135946,
       "name": "Young Louis",
       "url": "https://open.spotify.com/track/22LbkDlYI0E4F0ilXy9Mjx"

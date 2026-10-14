@@ -1,12 +1,12 @@
 {
   "description": "Latinoam\u00e9rica baila al ritmo de Judeline.",
-  "num_followers": 519279,
+  "num_followers": 519266,
   "original_name": "El Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABpRU2eop8ZUfqA01JQw7x90zWWl",
+  "snapshot_id": "AAAAABqet2QI3RbSlGbTYbt9AzfJICn9",
   "tracks": [
     {
       "added_at": "2026-10-09 04:59:25",
@@ -41,6 +41,22 @@
       "url": "https://open.spotify.com/track/3r2ZoCWlf9RewWlxxozfQ8"
     },
     {
+      "added_at": "2026-10-13 20:23:58",
+      "album": {
+        "name": "BOTZ",
+        "url": "https://open.spotify.com/album/5n3zMrSedSoon33igy3KB2"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 178466,
+      "name": "BOTZ",
+      "url": "https://open.spotify.com/track/4tpT01PRHuLZI1tAvrJfRf"
+    },
+    {
       "added_at": "2026-10-09 04:59:25",
       "album": {
         "name": "SORDO DE UN PIE",
@@ -59,26 +75,6 @@
       "duration_ms": 174426,
       "name": "VAMOS PALL\u00c1",
       "url": "https://open.spotify.com/track/4knOtGLKWSM0Nzcr0StpuK"
-    },
-    {
-      "added_at": "2026-10-09 04:59:25",
-      "album": {
-        "name": "Solcito",
-        "url": "https://open.spotify.com/album/3BzCHEyuOsxZrWq3M3CsR2"
-      },
-      "artists": [
-        {
-          "name": "Miguel Bueno",
-          "url": "https://open.spotify.com/artist/3frx2nsVBAA3DvbKTE9JeT"
-        },
-        {
-          "name": "Juan Duque",
-          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Solcito",
-      "url": "https://open.spotify.com/track/2BE1Q5N4Enl1eRrM82uzsu"
     },
     {
       "added_at": "2026-10-09 04:59:25",

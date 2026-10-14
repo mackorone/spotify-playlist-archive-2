@@ -1,6 +1,6 @@
 {
   "description": "Popronde is een jaarlijks reizend festival in NL met de grootste talenten. Cover: Wilson A.",
-  "num_followers": 2123,
+  "num_followers": 2124,
   "original_name": "Popronde 2026",
   "owner": {
     "name": "Spotify",
@@ -539,30 +539,6 @@
     {
       "added_at": "2026-10-01 22:00:39",
       "album": {
-        "name": "Blijf Daar",
-        "url": "https://open.spotify.com/album/1uEoO2EDYVGXZdh0LxxXth"
-      },
-      "artists": [
-        {
-          "name": "Merle",
-          "url": "https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0"
-        },
-        {
-          "name": "Ri\u00ebn",
-          "url": "https://open.spotify.com/artist/4PjmObvz1MJuPZQ5HmgTid"
-        },
-        {
-          "name": "Jean Jacques",
-          "url": "https://open.spotify.com/artist/3U02wTIYzwf7JA2zD2SDSR"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "Blijf Daar",
-      "url": "https://open.spotify.com/track/6Zmy3HMWmkSHybHJxdaNq3"
-    },
-    {
-      "added_at": "2026-10-01 22:00:39",
-      "album": {
         "name": "They Want To See You Fall",
         "url": "https://open.spotify.com/album/0FRCYsUqmSaPQfCzmxWxOM"
       },
@@ -591,6 +567,30 @@
       "duration_ms": 150173,
       "name": "Cowboy",
       "url": "https://open.spotify.com/track/7hnrgxMQqNPALrdUyt5FQK"
+    },
+    {
+      "added_at": "2026-10-01 22:00:39",
+      "album": {
+        "name": "Blijf Daar",
+        "url": "https://open.spotify.com/album/1uEoO2EDYVGXZdh0LxxXth"
+      },
+      "artists": [
+        {
+          "name": "Merle",
+          "url": "https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0"
+        },
+        {
+          "name": "Ri\u00ebn",
+          "url": "https://open.spotify.com/artist/4PjmObvz1MJuPZQ5HmgTid"
+        },
+        {
+          "name": "Jean Jacques",
+          "url": "https://open.spotify.com/artist/3U02wTIYzwf7JA2zD2SDSR"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Blijf Daar",
+      "url": "https://open.spotify.com/track/6Zmy3HMWmkSHybHJxdaNq3"
     },
     {
       "added_at": "2026-10-01 22:00:39",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-10-01 22:00:39",
       "album": {
-        "name": "Red Car",
-        "url": "https://open.spotify.com/album/0a2L8sKFL6M1bRMAFUVjRo"
-      },
-      "artists": [
-        {
-          "name": "The Hook",
-          "url": "https://open.spotify.com/artist/66y3ZygySfpK16S3oZvumu"
-        }
-      ],
-      "duration_ms": 149479,
-      "name": "Red Car",
-      "url": "https://open.spotify.com/track/7beZWdJVztwfhrhobHRuYF"
-    },
-    {
-      "added_at": "2026-10-01 22:00:39",
-      "album": {
         "name": "ik wil verliefd zijn op mijn tijd",
         "url": "https://open.spotify.com/album/0LNJLilA2tOIGkNO9OIMQk"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 180000,
       "name": "ik wil verliefd zijn op mijn tijd",
       "url": "https://open.spotify.com/track/1reHtx3YGzOdOYwuOCJi5x"
+    },
+    {
+      "added_at": "2026-10-01 22:00:39",
+      "album": {
+        "name": "Red Car",
+        "url": "https://open.spotify.com/album/0a2L8sKFL6M1bRMAFUVjRo"
+      },
+      "artists": [
+        {
+          "name": "The Hook",
+          "url": "https://open.spotify.com/artist/66y3ZygySfpK16S3oZvumu"
+        }
+      ],
+      "duration_ms": 149479,
+      "name": "Red Car",
+      "url": "https://open.spotify.com/track/7beZWdJVztwfhrhobHRuYF"
     },
     {
       "added_at": "2026-10-01 22:00:39",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-10-01 22:00:39",
       "album": {
-        "name": "Machine (Radio Edit)",
-        "url": "https://open.spotify.com/album/30sf8e2RiUehhuLlgkvWP1"
-      },
-      "artists": [
-        {
-          "name": "The Robots Are Coming",
-          "url": "https://open.spotify.com/artist/7DRcEWHm2imGFbL1ADdl2i"
-        }
-      ],
-      "duration_ms": 213152,
-      "name": "Machine (Radio Edit)",
-      "url": "https://open.spotify.com/track/6NdWQV4xKE0BdOnkbfnnb4"
-    },
-    {
-      "added_at": "2026-10-01 22:00:39",
-      "album": {
         "name": "Hoofd In De Wolken",
         "url": "https://open.spotify.com/album/3KXk59vPwSpuXEXd1kXMu0"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 135374,
       "name": "Hoofd In De Wolken",
       "url": "https://open.spotify.com/track/2g8RVR3sdW8tLPI9xJpVdD"
+    },
+    {
+      "added_at": "2026-10-01 22:00:39",
+      "album": {
+        "name": "Machine (Radio Edit)",
+        "url": "https://open.spotify.com/album/30sf8e2RiUehhuLlgkvWP1"
+      },
+      "artists": [
+        {
+          "name": "The Robots Are Coming",
+          "url": "https://open.spotify.com/artist/7DRcEWHm2imGFbL1ADdl2i"
+        }
+      ],
+      "duration_ms": 213152,
+      "name": "Machine (Radio Edit)",
+      "url": "https://open.spotify.com/track/6NdWQV4xKE0BdOnkbfnnb4"
     },
     {
       "added_at": "2026-10-01 22:00:39",
@@ -835,22 +835,6 @@
     {
       "added_at": "2026-10-01 22:00:39",
       "album": {
-        "name": "Crane",
-        "url": "https://open.spotify.com/album/4TC16w0nLS3pKMJLJ95oQ7"
-      },
-      "artists": [
-        {
-          "name": "Post Ella",
-          "url": "https://open.spotify.com/artist/1y0PcaqzO0RtNXlo5Mqj6e"
-        }
-      ],
-      "duration_ms": 164333,
-      "name": "Crane",
-      "url": "https://open.spotify.com/track/5eICNslaj4U86WXF1g0fHa"
-    },
-    {
-      "added_at": "2026-10-01 22:00:39",
-      "album": {
         "name": "Something to Lose",
         "url": "https://open.spotify.com/album/5XQIG5emze3Wqs82FVzSBC"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 171023,
       "name": "GYL",
       "url": "https://open.spotify.com/track/3kExYLXJZm994hkWmQ9TXD"
+    },
+    {
+      "added_at": "2026-10-01 22:00:39",
+      "album": {
+        "name": "Crane",
+        "url": "https://open.spotify.com/album/4TC16w0nLS3pKMJLJ95oQ7"
+      },
+      "artists": [
+        {
+          "name": "Post Ella",
+          "url": "https://open.spotify.com/artist/1y0PcaqzO0RtNXlo5Mqj6e"
+        }
+      ],
+      "duration_ms": 164333,
+      "name": "Crane",
+      "url": "https://open.spotify.com/track/5eICNslaj4U86WXF1g0fHa"
     },
     {
       "added_at": "2026-10-01 22:00:39",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-10-01 22:00:39",
       "album": {
-        "name": "Odesa Twilight Session (live)",
-        "url": "https://open.spotify.com/album/5xmu7myL5LTNLiSXew1QG2"
-      },
-      "artists": [
-        {
-          "name": "INOYSON",
-          "url": "https://open.spotify.com/artist/5nyFpiqAnifsvfFH199bz5"
-        }
-      ],
-      "duration_ms": 190083,
-      "name": "In My Arms - live",
-      "url": "https://open.spotify.com/track/23Vi9AluCdFYjACTJE4aF5"
-    },
-    {
-      "added_at": "2026-10-01 22:00:39",
-      "album": {
         "name": "leave the party . \u0741\u208a \u22b9 .",
         "url": "https://open.spotify.com/album/2ygqPrtyd9kniEMFrjFo21"
       },
@@ -967,18 +951,18 @@
     {
       "added_at": "2026-10-01 22:00:39",
       "album": {
-        "name": "ireallylikeboys",
-        "url": "https://open.spotify.com/album/6dqcJtGYhhaC2rlYO0SLLF"
+        "name": "Odesa Twilight Session (live)",
+        "url": "https://open.spotify.com/album/5xmu7myL5LTNLiSXew1QG2"
       },
       "artists": [
         {
-          "name": "KUZKO",
-          "url": "https://open.spotify.com/artist/1XwtSHxSZ06XfQ0qah9Rxo"
+          "name": "INOYSON",
+          "url": "https://open.spotify.com/artist/5nyFpiqAnifsvfFH199bz5"
         }
       ],
-      "duration_ms": 149163,
-      "name": "ireallylikeboys",
-      "url": "https://open.spotify.com/track/7mijo4YVQfT89PCDH78h2U"
+      "duration_ms": 190083,
+      "name": "In My Arms - live",
+      "url": "https://open.spotify.com/track/23Vi9AluCdFYjACTJE4aF5"
     },
     {
       "added_at": "2026-10-01 22:00:39",
@@ -1019,18 +1003,18 @@
     {
       "added_at": "2026-10-01 22:00:39",
       "album": {
-        "name": "ZO MOE",
-        "url": "https://open.spotify.com/album/6XEJsdeFhVE9boZbIKXTpI"
+        "name": "ireallylikeboys",
+        "url": "https://open.spotify.com/album/6dqcJtGYhhaC2rlYO0SLLF"
       },
       "artists": [
         {
-          "name": "WABR",
-          "url": "https://open.spotify.com/artist/3oOqFzbLfXGYSCr0nJCtIx"
+          "name": "KUZKO",
+          "url": "https://open.spotify.com/artist/1XwtSHxSZ06XfQ0qah9Rxo"
         }
       ],
-      "duration_ms": 235789,
-      "name": "ZO MOE",
-      "url": "https://open.spotify.com/track/48BI01laihNq62N9Z0pPrb"
+      "duration_ms": 149163,
+      "name": "ireallylikeboys",
+      "url": "https://open.spotify.com/track/7mijo4YVQfT89PCDH78h2U"
     },
     {
       "added_at": "2026-10-01 22:00:39",
@@ -1047,6 +1031,22 @@
       "duration_ms": 223000,
       "name": "The Crow Won't Cry",
       "url": "https://open.spotify.com/track/5V2BQayOMDJ5vrNHVsxdA7"
+    },
+    {
+      "added_at": "2026-10-01 22:00:39",
+      "album": {
+        "name": "ZO MOE",
+        "url": "https://open.spotify.com/album/6XEJsdeFhVE9boZbIKXTpI"
+      },
+      "artists": [
+        {
+          "name": "WABR",
+          "url": "https://open.spotify.com/artist/3oOqFzbLfXGYSCr0nJCtIx"
+        }
+      ],
+      "duration_ms": 235789,
+      "name": "ZO MOE",
+      "url": "https://open.spotify.com/track/48BI01laihNq62N9Z0pPrb"
     },
     {
       "added_at": "2026-10-01 22:00:39",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-10-01 22:00:39",
       "album": {
-        "name": "Vallen",
-        "url": "https://open.spotify.com/album/0xL30vL7g8ofXojja3ulRY"
-      },
-      "artists": [
-        {
-          "name": "YRSA",
-          "url": "https://open.spotify.com/artist/5BLCBw3ZwkvqyUuUtozq2h"
-        }
-      ],
-      "duration_ms": 161226,
-      "name": "Vallen",
-      "url": "https://open.spotify.com/track/7lInMt0BlRakXJaFCEDCXH"
-    },
-    {
-      "added_at": "2026-10-01 22:00:39",
-      "album": {
         "name": "Monster",
         "url": "https://open.spotify.com/album/6OzNNmjK69aZyvguGlrgNn"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 288000,
       "name": "Out Of Place",
       "url": "https://open.spotify.com/track/6trGTlW2J9tEr0c71FupAJ"
+    },
+    {
+      "added_at": "2026-10-01 22:00:39",
+      "album": {
+        "name": "Vallen",
+        "url": "https://open.spotify.com/album/0xL30vL7g8ofXojja3ulRY"
+      },
+      "artists": [
+        {
+          "name": "YRSA",
+          "url": "https://open.spotify.com/artist/5BLCBw3ZwkvqyUuUtozq2h"
+        }
+      ],
+      "duration_ms": 161226,
+      "name": "Vallen",
+      "url": "https://open.spotify.com/track/7lInMt0BlRakXJaFCEDCXH"
     },
     {
       "added_at": "2026-10-01 22:00:39",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-10-01 22:00:39",
       "album": {
-        "name": "Make A Wish",
-        "url": "https://open.spotify.com/album/0NEDeJj0Knbr5yJxs4Dw5z"
-      },
-      "artists": [
-        {
-          "name": "SWANSLAUGHTER",
-          "url": "https://open.spotify.com/artist/7GZdTPMQImAvAXCrVnz9BI"
-        }
-      ],
-      "duration_ms": 114260,
-      "name": "Nothing Means Anything",
-      "url": "https://open.spotify.com/track/0QW8TkIi5e3c5dhBVhA285"
-    },
-    {
-      "added_at": "2026-10-01 22:00:39",
-      "album": {
         "name": "Life",
         "url": "https://open.spotify.com/album/3OtdgROQDSxVNJOPeTLX2y"
       },
@@ -1223,22 +1207,6 @@
       "duration_ms": 129333,
       "name": "Life",
       "url": "https://open.spotify.com/track/0oYLbiAgKfmqB4PWUMumg1"
-    },
-    {
-      "added_at": "2026-10-01 22:00:39",
-      "album": {
-        "name": "Fashion Week",
-        "url": "https://open.spotify.com/album/2kSJHERGTck6gWQYaAKFBF"
-      },
-      "artists": [
-        {
-          "name": "The Awkward",
-          "url": "https://open.spotify.com/artist/2NNlnlNi1c4gEqp3BFQ2Ci"
-        }
-      ],
-      "duration_ms": 199013,
-      "name": "Fashion Week",
-      "url": "https://open.spotify.com/track/3ozXv8t1akzYPkgvkqtpCk"
     },
     {
       "added_at": "2026-10-01 22:00:39",
@@ -1259,18 +1227,34 @@
     {
       "added_at": "2026-10-01 22:00:39",
       "album": {
-        "name": "Warm Light",
-        "url": "https://open.spotify.com/album/6muYDkSY3YNgBlq7UX4ovU"
+        "name": "Fashion Week",
+        "url": "https://open.spotify.com/album/2kSJHERGTck6gWQYaAKFBF"
       },
       "artists": [
         {
-          "name": "Amelie Spinks",
-          "url": "https://open.spotify.com/artist/2msCn66H8nedyo0JqNg9aH"
+          "name": "The Awkward",
+          "url": "https://open.spotify.com/artist/2NNlnlNi1c4gEqp3BFQ2Ci"
         }
       ],
-      "duration_ms": 189000,
-      "name": "Waiting",
-      "url": "https://open.spotify.com/track/73OObOaztvXbVA4kgYukXK"
+      "duration_ms": 199013,
+      "name": "Fashion Week",
+      "url": "https://open.spotify.com/track/3ozXv8t1akzYPkgvkqtpCk"
+    },
+    {
+      "added_at": "2026-10-01 22:00:39",
+      "album": {
+        "name": "Make A Wish",
+        "url": "https://open.spotify.com/album/0NEDeJj0Knbr5yJxs4Dw5z"
+      },
+      "artists": [
+        {
+          "name": "SWANSLAUGHTER",
+          "url": "https://open.spotify.com/artist/7GZdTPMQImAvAXCrVnz9BI"
+        }
+      ],
+      "duration_ms": 114260,
+      "name": "Nothing Means Anything",
+      "url": "https://open.spotify.com/track/0QW8TkIi5e3c5dhBVhA285"
     },
     {
       "added_at": "2026-10-01 22:00:39",
@@ -1287,6 +1271,22 @@
       "duration_ms": 310015,
       "name": "Agony",
       "url": "https://open.spotify.com/track/2YmfhBWkABF1fQURVfPAbH"
+    },
+    {
+      "added_at": "2026-10-01 22:00:39",
+      "album": {
+        "name": "Warm Light",
+        "url": "https://open.spotify.com/album/6muYDkSY3YNgBlq7UX4ovU"
+      },
+      "artists": [
+        {
+          "name": "Amelie Spinks",
+          "url": "https://open.spotify.com/artist/2msCn66H8nedyo0JqNg9aH"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/73OObOaztvXbVA4kgYukXK"
     },
     {
       "added_at": "2026-10-01 22:00:39",
@@ -1375,38 +1375,6 @@
     {
       "added_at": "2026-10-01 22:00:39",
       "album": {
-        "name": "Magnum Opus",
-        "url": "https://open.spotify.com/album/2wIGvz7F1jQqMeZL5dE8tu"
-      },
-      "artists": [
-        {
-          "name": "Keely Westwood",
-          "url": "https://open.spotify.com/artist/6UvI51uzYzaeJCxBcEdAGC"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "Magnum Opus",
-      "url": "https://open.spotify.com/track/1YgvtcSX1pBBDy5RfKkUA1"
-    },
-    {
-      "added_at": "2026-10-01 22:00:39",
-      "album": {
-        "name": "\u0130kimiz Bir Fidan\u0131z",
-        "url": "https://open.spotify.com/album/6u2vTsJZKwSqvtc1QPJBk5"
-      },
-      "artists": [
-        {
-          "name": "Duygu Alkan",
-          "url": "https://open.spotify.com/artist/2s3KgqITgw54THeZStF6MP"
-        }
-      ],
-      "duration_ms": 194925,
-      "name": "\u0130kimiz Bir Fidan\u0131z",
-      "url": "https://open.spotify.com/track/1GbgUy28jOenqqC5oFOgXb"
-    },
-    {
-      "added_at": "2026-10-01 22:00:39",
-      "album": {
         "name": "paths of sand",
         "url": "https://open.spotify.com/album/2DeJRuaRJcXgbhOF14wbiJ"
       },
@@ -1423,6 +1391,22 @@
     {
       "added_at": "2026-10-01 22:00:39",
       "album": {
+        "name": "Magnum Opus",
+        "url": "https://open.spotify.com/album/2wIGvz7F1jQqMeZL5dE8tu"
+      },
+      "artists": [
+        {
+          "name": "Keely Westwood",
+          "url": "https://open.spotify.com/artist/6UvI51uzYzaeJCxBcEdAGC"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "Magnum Opus",
+      "url": "https://open.spotify.com/track/1YgvtcSX1pBBDy5RfKkUA1"
+    },
+    {
+      "added_at": "2026-10-01 22:00:39",
+      "album": {
         "name": "Love Thief",
         "url": "https://open.spotify.com/album/3xMZ7wz3PhInVNCC1eMw0T"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 135884,
       "name": "Love Thief",
       "url": "https://open.spotify.com/track/76qQ0F6b54MnL4FszPMeXk"
+    },
+    {
+      "added_at": "2026-10-01 22:00:39",
+      "album": {
+        "name": "\u0130kimiz Bir Fidan\u0131z",
+        "url": "https://open.spotify.com/album/6u2vTsJZKwSqvtc1QPJBk5"
+      },
+      "artists": [
+        {
+          "name": "Duygu Alkan",
+          "url": "https://open.spotify.com/artist/2s3KgqITgw54THeZStF6MP"
+        }
+      ],
+      "duration_ms": 194925,
+      "name": "\u0130kimiz Bir Fidan\u0131z",
+      "url": "https://open.spotify.com/track/1GbgUy28jOenqqC5oFOgXb"
     },
     {
       "added_at": "2026-10-01 22:00:39",

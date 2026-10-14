@@ -3148,7 +3148,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 518010,
       "name": "Badila",
       "url": "https://open.spotify.com/track/14tR6AnKR90VAahdfIYf9F"
@@ -15224,6 +15224,24 @@
       "duration_ms": 179081,
       "name": "Karam",
       "url": "https://open.spotify.com/track/152cH0gOO3vQVzwtBV93qE"
+    },
+    {
+      "album": {
+        "name": "Kare Toh Kare Kya",
+        "url": "https://open.spotify.com/album/6sq6GjBWpJVl8aLFMbCNNE"
+      },
+      "artists": [
+        {
+          "name": "Vismay Patel",
+          "url": "https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168024,
+      "name": "Kare Toh Kare Kya",
+      "url": "https://open.spotify.com/track/4h6BREdyX8w87XG3agyiyb"
     },
     {
       "album": {

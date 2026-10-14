@@ -5674,7 +5674,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 130212,
       "name": "Deli G\u00f6nl\u00fcm",
       "url": "https://open.spotify.com/track/6HHHI9970DOa8D17Jn1yL3"
@@ -16175,6 +16175,28 @@
     },
     {
       "album": {
+        "name": "Penultimate One",
+        "url": "https://open.spotify.com/album/1PsgSFwk3CkEM4KjxsgyVI"
+      },
+      "artists": [
+        {
+          "name": "Valfi",
+          "url": "https://open.spotify.com/artist/36UGIRe1bc27QQnLgym03q"
+        },
+        {
+          "name": "Murteza",
+          "url": "https://open.spotify.com/artist/3CuN1DrJQyWlGRB2iiyD4x"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228800,
+      "name": "Penultimate One",
+      "url": "https://open.spotify.com/track/6NmGRDtZ3PGJRD5LipK3ov"
+    },
+    {
+      "album": {
         "name": "Pe\u015findeyim",
         "url": "https://open.spotify.com/album/2tfMJWSaSz2HJ0odxMReoT"
       },
@@ -18666,7 +18688,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 298000,
       "name": "Sinekler",
       "url": "https://open.spotify.com/track/2XO0Usf8jmugfS5Ab2SBXN"
@@ -20025,6 +20047,24 @@
     },
     {
       "album": {
+        "name": "Tozbahar",
+        "url": "https://open.spotify.com/album/4zfUlKCSkihmOaTJL3M1oQ"
+      },
+      "artists": [
+        {
+          "name": "Dedikodu",
+          "url": "https://open.spotify.com/artist/22gRkjIbMSNfS6gjtsFEG6"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311637,
+      "name": "Tozbahar",
+      "url": "https://open.spotify.com/track/5Hu2tp1xuzDQDuGgNmCuYD"
+    },
+    {
+      "album": {
         "name": "Tutsak",
         "url": "https://open.spotify.com/album/0uwadfg12Hg5NhOJEFl6ZY"
       },
@@ -20510,6 +20550,28 @@
       "duration_ms": 323216,
       "name": "Uykumdan Beni Uyand\u0131r",
       "url": "https://open.spotify.com/track/3XGUFoQjXVp14aDw5xvmWg"
+    },
+    {
+      "album": {
+        "name": "UYKUSUZ",
+        "url": "https://open.spotify.com/album/6NDQs5lQV9lloSuouCQ7xs"
+      },
+      "artists": [
+        {
+          "name": "Gxblin",
+          "url": "https://open.spotify.com/artist/4tGJWZ4OrCrOMIFTdfhLmv"
+        },
+        {
+          "name": "Elsu",
+          "url": "https://open.spotify.com/artist/4Y19tOCwvdSI5V6wi3KPoy"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176538,
+      "name": "UYKUSUZ",
+      "url": "https://open.spotify.com/track/0p4T9PgZivM17xCKqNoTEb"
     },
     {
       "album": {
@@ -21032,7 +21094,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 187912,
       "name": "Words Come To Me",
       "url": "https://open.spotify.com/track/3bOC4X1qXKmBanvBPE0YzH"
@@ -22020,10 +22082,28 @@
       ],
       "date_added": "2026-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 138345,
       "name": "Yan\u0131mda Kal",
       "url": "https://open.spotify.com/track/0wEsnGypb7XUq82MiMjynU"
+    },
+    {
+      "album": {
+        "name": "Yan\u0131mda Kal (Live - Sunset Sessions)",
+        "url": "https://open.spotify.com/album/1scSqYkjeXYrgycRqQgJrR"
+      },
+      "artists": [
+        {
+          "name": "Reva",
+          "url": "https://open.spotify.com/artist/0wonn88Fok2eDNWMyViwBg"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137266,
+      "name": "Yan\u0131mda Kal - Live - Sunset Sessions",
+      "url": "https://open.spotify.com/track/3FFhN4HBHFUWlypXIJxVKA"
     },
     {
       "album": {
@@ -22470,7 +22550,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 94153,
       "name": "yazar\u0131m dertleri",
       "url": "https://open.spotify.com/track/1mL4lg9xaAecKI3E4QfFil"
@@ -23220,6 +23300,24 @@
       "duration_ms": 206896,
       "name": "Yollar\u0131m\u0131z Ayr\u0131",
       "url": "https://open.spotify.com/track/4q3JPYoVMVFZ7p2AIPbxLe"
+    },
+    {
+      "album": {
+        "name": "Yolun Sonunda",
+        "url": "https://open.spotify.com/album/2IGp3s56T9JY8C3JVJ2Thj"
+      },
+      "artists": [
+        {
+          "name": "\u00d6yk\u00fc \u00c7am",
+          "url": "https://open.spotify.com/artist/68Ph1uHEXYap8KE4we5m3k"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208200,
+      "name": "Yolun Sonunda",
+      "url": "https://open.spotify.com/track/4ff79DnDKr7AEQSGp1EhN9"
     },
     {
       "album": {

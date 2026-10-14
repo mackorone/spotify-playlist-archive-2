@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKHXELrNhC0.md) - [plain]
 
 > This is Céline Dion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 710,858 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 710,983 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKHXELrNhC0.md) - [plain]
 | 41 | [Loved Me Back to Life](https://open.spotify.com/track/1YUOlePfiz9kxJRuwECzjn) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Loved Me Back to Life](https://open.spotify.com/album/0rsJSdnc89hsmJkCV24YQK) | 3:50 |
 | 42 | [If You Asked Me To](https://open.spotify.com/track/6vubJBI43jIr557lvNbzlH) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Celine Dion](https://open.spotify.com/album/7C6LFxLn63uasNoDIQ5khO) | 3:54 |
 | 43 | [The Reason](https://open.spotify.com/track/4CiIB7eCQ7IVmrCFqvi7f9) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Let's Talk About Love](https://open.spotify.com/album/1tfS7Fo1UtAxQSf256fnYs) | 5:00 |
-| 44 | [Alone](https://open.spotify.com/track/7fqgrmaaSmFPZdi1Yh1UKx) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Taking Chances \(Deluxe Edition\)](https://open.spotify.com/album/72NDXSgBvjja4NQSpxONAh) | 3:23 |
-| 45 | [Where Does My Heart Beat Now](https://open.spotify.com/track/0S7Vv5am0xbAXgJ2RFQR8S) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Unison](https://open.spotify.com/album/2EYo2LYm6M9jEpiphoblYl) | 4:32 |
+| 44 | [Where Does My Heart Beat Now](https://open.spotify.com/track/0S7Vv5am0xbAXgJ2RFQR8S) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Unison](https://open.spotify.com/album/2EYo2LYm6M9jEpiphoblYl) | 4:32 |
+| 45 | [Alone](https://open.spotify.com/track/7fqgrmaaSmFPZdi1Yh1UKx) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Taking Chances \(Deluxe Edition\)](https://open.spotify.com/album/72NDXSgBvjja4NQSpxONAh) | 3:23 |
 | 46 | [If That's What It Takes](https://open.spotify.com/track/0VZpmCCcRhT3DC7T03Z2zX) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Falling into You](https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR) | 4:12 |
 | 47 | [D'amour ou d'amitié](https://open.spotify.com/track/1wPxv9P0rfJ3ZwwxmLcLjb) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [On ne change pas](https://open.spotify.com/album/5CYySBXyzQRRls33R3nPxa) | 3:58 |
 | 48 | [Je sais pas](https://open.spotify.com/track/1NwJn3oKyyaEITEEfDek0N) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [D'eux](https://open.spotify.com/album/4BBhjKBUJZxBGsmTCH4BHM) | 4:33 |
-| 49 | [Ashes \- from "Deadpool 2" Motion Picture Soundtrack](https://open.spotify.com/track/7FihoA0WgTT21DkWR7wbYR) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Ashes \(from "Deadpool 2" Motion Picture Soundtrack\)](https://open.spotify.com/album/3NrXBJmXedum2g4vKr3d9y) | 3:19 |
-| 50 | [Hymne à l'amour \(Live aux Jeux Olympiques de Paris 2024 / Live from the Olympic Games Paris 2024\)](https://open.spotify.com/track/4hPz8nqYC8yG7X29imHEv5) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Hymne à l'amour \(Live aux Jeux Olympiques de Paris 2024 / Live from the Olympic Games Paris 2024\)](https://open.spotify.com/album/1ymDzkdTXIvBCeMiA3XIX2) | 3:49 |
+| 49 | [Hymne à l'amour \(Live aux Jeux Olympiques de Paris 2024 / Live from the Olympic Games Paris 2024\)](https://open.spotify.com/track/4hPz8nqYC8yG7X29imHEv5) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Hymne à l'amour \(Live aux Jeux Olympiques de Paris 2024 / Live from the Olympic Games Paris 2024\)](https://open.spotify.com/album/1ymDzkdTXIvBCeMiA3XIX2) | 3:49 |
+| 50 | [Ashes \- from "Deadpool 2" Motion Picture Soundtrack](https://open.spotify.com/track/7FihoA0WgTT21DkWR7wbYR) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Ashes \(from "Deadpool 2" Motion Picture Soundtrack\)](https://open.spotify.com/album/3NrXBJmXedum2g4vKr3d9y) | 3:19 |
 
 Snapshot ID: `AAAAAFshSnqBiYobnqPZ8Fg7Cd7EYdcb`

@@ -1623,6 +1623,32 @@
     },
     {
       "album": {
+        "name": "JINX! (DELUXE)",
+        "url": "https://open.spotify.com/album/4OkxVtkRV61levPOhYbB59"
+      },
+      "artists": [
+        {
+          "name": "Junii",
+          "url": "https://open.spotify.com/artist/0sfpaC9iuqZoAjbX4WQMun"
+        },
+        {
+          "name": "Aero Austaire",
+          "url": "https://open.spotify.com/artist/6gaofWZf1OGPK0Egq9yJEQ"
+        },
+        {
+          "name": "Tamae",
+          "url": "https://open.spotify.com/artist/6W32hq7OVgrNXNCEU4RgfD"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121903,
+      "name": "core",
+      "url": "https://open.spotify.com/track/6wPEISpKBJ3Dam6ffffF6O"
+    },
+    {
+      "album": {
         "name": "Sun Sick",
         "url": "https://open.spotify.com/album/7fYxIGkzp2UptMmNUZpYch"
       },
@@ -5100,6 +5126,24 @@
       "duration_ms": 248472,
       "name": "Lo Tengo",
       "url": "https://open.spotify.com/track/4vMV2D8SgSeGAr8EhxPMHI"
+    },
+    {
+      "album": {
+        "name": "long road",
+        "url": "https://open.spotify.com/album/3WknjuRtqocdw78ww4haRP"
+      },
+      "artists": [
+        {
+          "name": "tina.",
+          "url": "https://open.spotify.com/artist/07BwCkEmgUdl0iuWfVq4mC"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215604,
+      "name": "long road",
+      "url": "https://open.spotify.com/track/3tSsxs9mEIvqrugyxV0nX6"
     },
     {
       "album": {

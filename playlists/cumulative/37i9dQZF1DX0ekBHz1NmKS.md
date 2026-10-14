@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,390 songs - 5 day 3 hr 58 min
+2,392 songs - 5 day 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -544,6 +544,7 @@
 | [EASY ON ME](https://open.spotify.com/track/5F89wBe6CTzxoHCgKwqHdG) | [NAVII](https://open.spotify.com/artist/4WzIyUXg4knXtXjuFxwW9l), [Etta Zelmani](https://open.spotify.com/artist/5DtXIIm0QQSZ9mv6Ie0Ua0) | [EASY ON ME](https://open.spotify.com/album/7rKicak8sRLTjFAmBDIPzb) | 3:01 | 2024-05-02 | 2024-05-24 |
 | [Eazy Breezy](https://open.spotify.com/track/4Tv4dzoB1LKDxdfPzZ5pp2) | [Mwuana](https://open.spotify.com/artist/0ahIOvoOixJ6reWSvAsshX) | [Eazy Breezy](https://open.spotify.com/album/2aN6U5tgjZNUIGCpUbIG5N) | 3:18 | 2025-03-28 | 2025-07-04 |
 | [Echoes](https://open.spotify.com/track/1LXXQd8QKCS6jE7zIsHGo3) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Echoes](https://open.spotify.com/album/5OtGth79HOuvCHHXvbIyT5) | 2:42 | 2025-07-03 | 2026-01-15 |
+| [Echoes In Time](https://open.spotify.com/track/2YwCkmDnYrQPfSooF6SeLZ) | [Sunnan](https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh) | [Spaghetti Soul](https://open.spotify.com/album/45WhoCunwX3krlPZkOoKcX) | 4:07 | 2026-10-08 |  |
 | [Eddie](https://open.spotify.com/track/4LkUiHoUEEYRXPLRIHBYct) | [SIV](https://open.spotify.com/artist/7g1jXjtNKxyfZ2grW439rY) | [Eddie](https://open.spotify.com/album/0CcfTPmWTUUtG6yMdkfgzn) | 2:37 | 2024-08-29 | 2024-09-06 |
 | [Edelweiss](https://open.spotify.com/track/3lnm0gx9usupGiYbwnxH9o) | [Signe & Hjördis](https://open.spotify.com/artist/4pkf3JUp7fOYK7kumrKuqG) | [Edelweiss](https://open.spotify.com/album/1Tzn1c4m7eM9s69pC3znQh) | 2:47 | 2023-03-25 | 2023-09-22 |
 | [EDEN](https://open.spotify.com/track/1tm0wcb70ojuKjvFUo1Tsd) | [ORKID](https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG) | [EDEN](https://open.spotify.com/album/0N9FSY1ZPYkkySGVQYcswA) | 3:22 | 2025-03-27 | 2025-07-04 |
@@ -1271,7 +1272,7 @@
 | [Lova](https://open.spotify.com/track/001iFcI2PVrLteroX4urel) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n), [Cleo](https://open.spotify.com/artist/1SwDFc5jX708XR3XtzLrRs) | [PART TWO](https://open.spotify.com/album/50r1BRsfeBhwmlCH2l4N1j) | 5:02 | 2022-06-02 | 2022-09-26 |
 | [Love](https://open.spotify.com/track/4MrhnXxJ2FZgONBoKRWFAw) | [Greczula](https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4) | [Greczula \(Deluxe Version\)](https://open.spotify.com/album/15G341uaHpzyllZGxgf9Gf) | 2:41 | 2025-12-18 | 2026-04-10 |
 | [Love & Unity](https://open.spotify.com/track/6jxPLl1mecH3MtC0oIPnLg) | [Paulo Mendonca](https://open.spotify.com/artist/5IXO0yGQMScYQMsWg6L8YG) | [Love & Unity](https://open.spotify.com/album/5Ubu5hojBNMwptB1afNQXp) | 3:50 | 2024-04-26 | 2024-05-24 |
-| [Love = Art](https://open.spotify.com/track/1tWIQ6HgVTfQFD1f5WiiIc) | [Greczula](https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4) | [Love = Art](https://open.spotify.com/album/6BXl3jVVPoaoqPMqY4otjX) | 3:19 | 2026-09-24 |  |
+| [Love = Art](https://open.spotify.com/track/1tWIQ6HgVTfQFD1f5WiiIc) | [Greczula](https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4) | [Love = Art](https://open.spotify.com/album/6BXl3jVVPoaoqPMqY4otjX) | 3:19 | 2026-09-24 | 2026-10-14 |
 | [Love And Appreciation](https://open.spotify.com/track/1MfbWqsh6HxRxXd6pJwnXy) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Magic Still Exists](https://open.spotify.com/album/5yD8F2BqQt2xLuMof36IYN) | 5:03 | 2021-12-16 | 2022-02-27 |
 | [Love Economy](https://open.spotify.com/track/3juxxdQ5TckAecsfNgML9J) | [GERD](https://open.spotify.com/artist/1deUwYFF6apHHvv4p3wCjr) | [More Water Than Anything](https://open.spotify.com/album/32x9YOWWj9zqg2hqyWFhPM) | 2:53 | 2026-09-28 |  |
 | [Love is for Losers](https://open.spotify.com/track/0SZkRNtLE3fRXuKMVsd59V) | [LOVIS](https://open.spotify.com/artist/0Ly8O2BUeRbCPapPyb1hBy) | [Love is for Losers](https://open.spotify.com/album/4fnTauHeXz5Ixwkeio9r2j) | 3:20 | 2025-11-27 | 2026-03-06 |
@@ -1984,7 +1985,7 @@
 | [Svårt att förlåta](https://open.spotify.com/track/2YztAZvZvIGpeb0hT2vs7r) | [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [Svårt att förlåta](https://open.spotify.com/album/5w1tBpgMghhcUHI25MUDe3) | 3:09 | 2024-10-04 | 2025-01-29 |
 | [Sweat](https://open.spotify.com/track/2icgt5jY4q7QizU2PFQkJl) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Sweat](https://open.spotify.com/album/41TGksDNlabLcOy0UIMUPT) | 3:19 | 2024-05-23 | 2024-06-21 |
 | [Swedish Girl](https://open.spotify.com/track/4KDxyRMRBTmjZ7sgfqJrPg) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Swedish Girl](https://open.spotify.com/album/2HQ34fRPNtVvWJjXo101Yo) | 2:33 | 2025-05-29 | 2025-10-12 |
-| [Swedish Mermaid](https://open.spotify.com/track/5rpxjL5pKS1tRSCBj35tWo) | [Maja Francis](https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c) | [Swedish Mermaid](https://open.spotify.com/album/1cnTmCiFlz5Vak5tQLtS4v) | 3:29 | 2026-09-03 |  |
+| [Swedish Mermaid](https://open.spotify.com/track/5rpxjL5pKS1tRSCBj35tWo) | [Maja Francis](https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c) | [Swedish Mermaid](https://open.spotify.com/album/1cnTmCiFlz5Vak5tQLtS4v) | 3:29 | 2026-09-03 | 2026-10-14 |
 | [Sweet Emotion](https://open.spotify.com/track/5fb0VfB1Nej93xHP81z73E) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Sweet Emotion](https://open.spotify.com/album/5mILhipavFpMWDb54C4dPh) | 2:37 | 2025-11-20 | 2026-03-20 |
 | [Sweet Jackie](https://open.spotify.com/track/1S4LYxSNKv8NGGl5Jnledy) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Sweet Jackie](https://open.spotify.com/album/5BUAq7X644KHxL5cGWIUVH) | 2:46 | 2021-12-16 | 2022-03-11 |
 | [Sweet Night \- Stripped](https://open.spotify.com/track/4vPVSQ77puCBdSP079AvXG) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Sweet Night \(Stripped\)](https://open.spotify.com/album/79iEMzgCiHW4hsFXwPqP5V) | 3:29 | 2024-01-04 | 2024-03-08 |
@@ -2361,6 +2362,7 @@
 | [YES \(feat\. Namasenda\)](https://open.spotify.com/track/3QSVDpDSz8XcH3Oz7YuHIZ) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i), [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [YES \(feat\. Namasenda\)](https://open.spotify.com/album/4VbClfuZF83eFsdmfqX7TU) | 2:38 | 2023-05-04 | 2023-06-18 |
 | [YOU](https://open.spotify.com/track/2OyauYlmXhB8ffpf4S9mjQ) | [Alissa Reah](https://open.spotify.com/artist/53TuN2OUabI6gDAjd49Fs2) | [YOU](https://open.spotify.com/album/1htfK5RJY2vuj6P4XaofbY) | 3:01 | 2022-03-24 | 2022-07-20 |
 | [You](https://open.spotify.com/track/6GzsiAwzdBGdN1bz8xirCu) | [Mathilda Bohman](https://open.spotify.com/artist/0WWFdINhodlSuohLkvKfez) | [You](https://open.spotify.com/album/5lZCFrw70QDYj3CSNZ7cZ7) | 2:52 | 2024-05-16 | 2024-06-14 |
+| [You Don't Know Me](https://open.spotify.com/track/6R7duyVyvy7S4gNQKitgBY) | [Elise Elvira](https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU) | [You Don't Know Me](https://open.spotify.com/album/7I5xQyjHarN7HwVUR4pqZ1) | 1:51 | 2026-10-08 |  |
 | [You Got The Look](https://open.spotify.com/track/1upR4RGAXKQQMKxjzkZr6g) | [A\*Teens](https://open.spotify.com/artist/5zMgvYBz4AW0gFyPtg7fR9) | [You Got The Look](https://open.spotify.com/album/09yaAfP25nx0lDev4REZ5R) | 3:01 | 2026-06-04 | 2026-09-11 |
 | [You to Me](https://open.spotify.com/track/5xQmNeAKK6Y3p5Y5K2zqIT) | [Andreas Moe](https://open.spotify.com/artist/5kW2ng5av985BfqrOMRpk0) | [You to Me](https://open.spotify.com/album/4abCLxqbInPOw7fiblaLVL) | 2:36 | 2021-12-16 | 2022-01-13 |
 | [You're Gonna Worry About Me One Day](https://open.spotify.com/track/1vBfEbQ0DXkwUEPhYtLnb5) | [Jelly Crystal](https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP) | [Delicious Delusional](https://open.spotify.com/album/2qjNiLhOarJTEWpPvXCJiC) | 3:54 | 2025-03-20 | 2025-05-10 |

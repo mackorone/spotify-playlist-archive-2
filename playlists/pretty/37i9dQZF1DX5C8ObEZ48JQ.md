@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/0NP68X3OIbbv98djUruUKU?si=d70b4bfcc41e4867">ZuluMecca</a>\. Artwork: Isu Kim.
+> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/2wKEplM0fJagFSsFAXGpnD?si=834c32c643624e2d">Love, Tumi</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,660 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,726 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Don't Date Rappers](https://open.spotify.com/track/1jsvnOgBKKWcT5j9xI3Bng) | [ZuluMecca](https://open.spotify.com/artist/0NP68X3OIbbv98djUruUKU), [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88) | [The Limit Does Not Exist](https://open.spotify.com/album/3aiH2eN5sRFWjqCBLVtcqt) | 3:12 |
-| 2 | [Straight up](https://open.spotify.com/track/2wpEkn9Pb9Kw6kpzsywFLu) | [Love, Tumi](https://open.spotify.com/artist/2wKEplM0fJagFSsFAXGpnD), [tylerwrldwide](https://open.spotify.com/artist/5dnCOehLIFKY10S6MbtXKU) | [Straight up](https://open.spotify.com/album/4aupCAqI8biy26PFMcHx4S) | 2:00 |
-| 3 | [ameva](https://open.spotify.com/track/4kXp628ztFFmZ4fdt595PM) | [vuyo viwe](https://open.spotify.com/artist/0izMndRrjUpSI7mig8yIBj) | [there are mirrors everywhere](https://open.spotify.com/album/1kESAdt1UaileXb6PFGsEY) | 5:49 |
-| 4 | [I Quit \(9.2.5\)](https://open.spotify.com/track/0ZdDJRX0cFfknF3ajVxREQ) | [S'BO GYRE](https://open.spotify.com/artist/1E11hcWosnHT7Ib5YgpmOM), [Yolophonik](https://open.spotify.com/artist/3LwIKF4bPDZylPWbHlNeOf), [Audio Addicts](https://open.spotify.com/artist/1tjAECvMdhkOPNEPYCNZol) | [I Quit \(9.2.5\)](https://open.spotify.com/album/7ImfosCQdqSfq0bD742tpQ) | 3:32 |
-| 5 | [Kevin Bacon](https://open.spotify.com/track/4IfYKfLnlTFuNQKUBIRnnV) | [Earldridge](https://open.spotify.com/artist/1071DpFPZNIXO0xPakaNJ6) | [Kevin Bacon](https://open.spotify.com/album/3pfxyDIm0KYeFpoRIqWLyY) | 2:30 |
-| 6 | [Colours](https://open.spotify.com/track/5gD66CA3zM0JzVnnH0E8o9) | [ru.](https://open.spotify.com/artist/73BKSy0q1FSzZReAipLuCt) | [SILK](https://open.spotify.com/album/3MFhVFS624uJf1jj9oTeLo) | 2:28 |
+| 1 | [Straight up](https://open.spotify.com/track/2wpEkn9Pb9Kw6kpzsywFLu) | [Love, Tumi](https://open.spotify.com/artist/2wKEplM0fJagFSsFAXGpnD), [tylerwrldwide](https://open.spotify.com/artist/5dnCOehLIFKY10S6MbtXKU) | [Straight up](https://open.spotify.com/album/4aupCAqI8biy26PFMcHx4S) | 2:00 |
+| 2 | [ameva](https://open.spotify.com/track/4kXp628ztFFmZ4fdt595PM) | [vuyo viwe](https://open.spotify.com/artist/0izMndRrjUpSI7mig8yIBj) | [there are mirrors everywhere](https://open.spotify.com/album/1kESAdt1UaileXb6PFGsEY) | 5:49 |
+| 3 | [I Quit \(9.2.5\)](https://open.spotify.com/track/0ZdDJRX0cFfknF3ajVxREQ) | [S'BO GYRE](https://open.spotify.com/artist/1E11hcWosnHT7Ib5YgpmOM), [Yolophonik](https://open.spotify.com/artist/3LwIKF4bPDZylPWbHlNeOf), [Audio Addicts](https://open.spotify.com/artist/1tjAECvMdhkOPNEPYCNZol) | [I Quit \(9.2.5\)](https://open.spotify.com/album/7ImfosCQdqSfq0bD742tpQ) | 3:32 |
+| 4 | [Kevin Bacon](https://open.spotify.com/track/4IfYKfLnlTFuNQKUBIRnnV) | [Earldridge](https://open.spotify.com/artist/1071DpFPZNIXO0xPakaNJ6) | [Kevin Bacon](https://open.spotify.com/album/3pfxyDIm0KYeFpoRIqWLyY) | 2:30 |
+| 5 | [Colours](https://open.spotify.com/track/5gD66CA3zM0JzVnnH0E8o9) | [ru.](https://open.spotify.com/artist/73BKSy0q1FSzZReAipLuCt) | [SILK](https://open.spotify.com/album/3MFhVFS624uJf1jj9oTeLo) | 2:28 |
+| 6 | [Don't Date Rappers](https://open.spotify.com/track/1jsvnOgBKKWcT5j9xI3Bng) | [ZuluMecca](https://open.spotify.com/artist/0NP68X3OIbbv98djUruUKU), [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88) | [The Limit Does Not Exist](https://open.spotify.com/album/3aiH2eN5sRFWjqCBLVtcqt) | 3:12 |
 | 7 | [Favourite Song](https://open.spotify.com/track/2BYVyxdwJg6izm8kNPBS4T) | [Mage the Producer](https://open.spotify.com/artist/2sAErjecghuJsdRataXRQN), [MYRON](https://open.spotify.com/artist/4zkMLMoQabRa9pPEfaTG2W) | [Favourite Song](https://open.spotify.com/album/29pHBbWaZhsYxncHF91t4c) | 2:31 |
 | 8 | [Fool For You](https://open.spotify.com/track/4id8zQT8oUUWj5IOzq6PkT) | [Kahuti](https://open.spotify.com/artist/38bmHQVnxfWk7eEez4dYJg) | [LOVE me right](https://open.spotify.com/album/0iNZsNobOmDuhPeTgOpzUA) | 3:17 |
 | 9 | [Uthando Lwam](https://open.spotify.com/track/7C5SfxYQAH2kSDuAzwdVNY) | [Vuyina](https://open.spotify.com/artist/7pJgT4zdoIemiYQjpD8QFw) | [Uthando Lwam](https://open.spotify.com/album/1OB2AXKdMFnxDaWTZTiefL) | 3:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 49 | [Ingine Ama](https://open.spotify.com/track/0cWC0krHwSeX53BNGF4vt1) | [HOOD BOYZ](https://open.spotify.com/artist/1yONcOLoE5kSfTqTHmqrdR) | [Ingine Ama](https://open.spotify.com/album/1BryXhNuC0abK1AMltFLYs) | 2:30 |
 | 50 | [Chance](https://open.spotify.com/track/4a5X8q7S7aODHRgKI4ExvM) | [Ema Onigah](https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD) | [ITEM VII](https://open.spotify.com/album/5degYfaTErlrRQWdvEA7UD) | 2:43 |
 
-Snapshot ID: `AAAAAFSJKdS7QnuSRZ3niuZH45vnQGSq`
+Snapshot ID: `AAAAAENJYrWc+CZ99uDrjN3d5Q4Jeh7e`

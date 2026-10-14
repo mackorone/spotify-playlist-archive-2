@@ -1,12 +1,12 @@
 {
   "description": "Les hits marocains du moment. Cover: Stormy",
-  "num_followers": 156089,
+  "num_followers": 156302,
   "original_name": "Hit Maghribi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO6+mIF8u5q8kptImfvnvWNEbMMV",
+  "snapshot_id": "AAAAAE6014ne/3d3as5I4kZBCl+gGo3F",
   "tracks": [
     {
       "added_at": "2026-10-02 00:00:07",
@@ -529,6 +529,22 @@
       "url": "https://open.spotify.com/track/7lpIzkaN94dhq5fuNc7v59"
     },
     {
+      "added_at": "2026-10-13 07:35:11",
+      "album": {
+        "name": "Ach khellah Yetfakarni",
+        "url": "https://open.spotify.com/album/3783OvbEPlHQVwToBsrirf"
+      },
+      "artists": [
+        {
+          "name": "Hatim Ammor",
+          "url": "https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp"
+        }
+      ],
+      "duration_ms": 202162,
+      "name": "Achkhellah Yetfakarni",
+      "url": "https://open.spotify.com/track/3H54lEEiew66nSG4NyatEF"
+    },
+    {
       "added_at": "2026-10-02 00:00:07",
       "album": {
         "name": "SPLIT",
@@ -839,22 +855,6 @@
       "duration_ms": 170172,
       "name": "Sarini",
       "url": "https://open.spotify.com/track/60fjrgy5EwyWmN8PhQVBKY"
-    },
-    {
-      "added_at": "2026-10-02 00:00:07",
-      "album": {
-        "name": "Mab9itich Ch\u00e9rie",
-        "url": "https://open.spotify.com/album/2kHcDM7QiYmdQnuLoEnOaR"
-      },
-      "artists": [
-        {
-          "name": "Mehdi Mozayine",
-          "url": "https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "Mab9itich Ch\u00e9rie",
-      "url": "https://open.spotify.com/track/3gEy9hoCGd5OjufRwlyPCh"
     },
     {
       "added_at": "2026-10-02 00:00:07",

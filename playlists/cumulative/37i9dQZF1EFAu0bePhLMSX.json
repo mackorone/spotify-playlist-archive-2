@@ -1171,6 +1171,24 @@
     },
     {
       "album": {
+        "name": "Dare to Love",
+        "url": "https://open.spotify.com/album/6jerfHX5ZAMHJAewnofvjQ"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Somerville",
+          "url": "https://open.spotify.com/artist/6LQeBFIfD4C22RJVVjQ6S7"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265800,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/4nhkccltUfP0Cuw7bGTtnY"
+    },
+    {
+      "album": {
         "name": "Make A Scene",
         "url": "https://open.spotify.com/album/1jQybCwS6LWLljw1KBSZl2"
       },

@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 1371,
+  "num_followers": 1394,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAHN7mWssK1SSZwKRmsKgAnTt5/KvNm",
+  "snapshot_id": "AAAHOq8vJ+ftdinNbNiAJlgvBTY/dc5i",
   "tracks": [
     {
       "added_at": "2026-08-18 04:07:14",
@@ -863,6 +863,54 @@
       "duration_ms": 213991,
       "name": "Why",
       "url": "https://open.spotify.com/track/5FFX1vAs5yODkw76iHDB6U"
+    },
+    {
+      "added_at": "2026-10-13 21:11:57",
+      "album": {
+        "name": "Take Me Home",
+        "url": "https://open.spotify.com/album/4MT3COGlI2gH0r37eK25g3"
+      },
+      "artists": [
+        {
+          "name": "KXENIA",
+          "url": "https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL"
+        }
+      ],
+      "duration_ms": 196474,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/08R1wbrcqxX6Bp1rZR1XYQ"
+    },
+    {
+      "added_at": "2026-10-13 21:41:00",
+      "album": {
+        "name": "Avocado Eldorado",
+        "url": "https://open.spotify.com/album/4Xm8ZhHuEq9Gr5Msgr1CRs"
+      },
+      "artists": [
+        {
+          "name": "Eric Schenkman",
+          "url": "https://open.spotify.com/artist/2uqNhcHAzAEwtupvfqFYY4"
+        }
+      ],
+      "duration_ms": 186493,
+      "name": "Avocado Eldorado",
+      "url": "https://open.spotify.com/track/5T8utfxKwgAyFSef2lTbN1"
+    },
+    {
+      "added_at": "2026-10-13 22:02:21",
+      "album": {
+        "name": "Save a Prayer",
+        "url": "https://open.spotify.com/album/4fhwVPU30qsmq0cmyNUZg0"
+      },
+      "artists": [
+        {
+          "name": "AG Session",
+          "url": "https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "The Way",
+      "url": "https://open.spotify.com/track/6oP9yeVKCl1cCqS7ue6lkB"
     }
   ],
   "unique_name": "Unsigned Rock",

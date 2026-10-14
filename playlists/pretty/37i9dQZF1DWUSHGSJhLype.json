@@ -1,6 +1,6 @@
 {
   "description": "aqui tem feijoada hot dog com pur\u00ea sushi moqueca a\u00e7a\u00ed cm peixe frito mta coisa / Foto: Grelo",
-  "num_followers": 764661,
+  "num_followers": 764711,
   "original_name": "Puro Suco do Brasil",
   "owner": {
     "name": "Spotify",
@@ -371,6 +371,22 @@
     {
       "added_at": "2026-08-14 13:34:48",
       "album": {
+        "name": "Cortando Ch\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4mTnXTY2tWL8phETnsB5Lk"
+      },
+      "artists": [
+        {
+          "name": "Natanzinho Lima",
+          "url": "https://open.spotify.com/artist/0Il5vC8lqunSFNav4mMLxU"
+        }
+      ],
+      "duration_ms": 193548,
+      "name": "Sonho de Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/6R1baXIg0uOG4g9cwebCjf"
+    },
+    {
+      "added_at": "2026-08-14 13:34:48",
+      "album": {
         "name": "V\u00eddeo Sensual",
         "url": "https://open.spotify.com/album/6goDyWFpXpcU5f5toDyCXn"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 148921,
       "name": "V\u00eddeo Sensual",
       "url": "https://open.spotify.com/track/0gbNLi9uvioDGatRBM8HHo"
-    },
-    {
-      "added_at": "2026-08-14 13:34:48",
-      "album": {
-        "name": "Cortando Ch\u00e3o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4mTnXTY2tWL8phETnsB5Lk"
-      },
-      "artists": [
-        {
-          "name": "Natanzinho Lima",
-          "url": "https://open.spotify.com/artist/0Il5vC8lqunSFNav4mMLxU"
-        }
-      ],
-      "duration_ms": 193548,
-      "name": "Sonho de Amor - Ao Vivo",
-      "url": "https://open.spotify.com/track/6R1baXIg0uOG4g9cwebCjf"
     },
     {
       "added_at": "2026-08-14 13:34:48",

@@ -1,6 +1,6 @@
 {
   "description": "Playlist Takeover by Bligg!",
-  "num_followers": 13659,
+  "num_followers": 13710,
   "original_name": "Alte Schule",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,22 @@
     {
       "added_at": "2026-10-08 22:00:12",
       "album": {
+        "name": "I gega d'Schwiiz (Re-Edition)",
+        "url": "https://open.spotify.com/album/4EjyiXTE1J6j9mBVysYtXI"
+      },
+      "artists": [
+        {
+          "name": "Gimma",
+          "url": "https://open.spotify.com/artist/3lShmS9FBjiOfFURcLkihv"
+        }
+      ],
+      "duration_ms": 209226,
+      "name": "Iisziit",
+      "url": "https://open.spotify.com/track/0FvcJLI5HHopkX9LdrBhsh"
+    },
+    {
+      "added_at": "2026-10-08 22:00:12",
+      "album": {
         "name": "Normal (Deluxe Edition)",
         "url": "https://open.spotify.com/album/08IevNCyhVvlIxarANOlju"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 222173,
       "name": "Relaxtra (feat. Stress & Lexx)",
       "url": "https://open.spotify.com/track/6PUJbyUdWVGXX7RgPkus1y"
-    },
-    {
-      "added_at": "2026-10-08 22:00:12",
-      "album": {
-        "name": "I gega d'Schwiiz (Re-Edition)",
-        "url": "https://open.spotify.com/album/4EjyiXTE1J6j9mBVysYtXI"
-      },
-      "artists": [
-        {
-          "name": "Gimma",
-          "url": "https://open.spotify.com/artist/3lShmS9FBjiOfFURcLkihv"
-        }
-      ],
-      "duration_ms": 209226,
-      "name": "Iisziit",
-      "url": "https://open.spotify.com/track/0FvcJLI5HHopkX9LdrBhsh"
     },
     {
       "added_at": "2026-10-08 22:00:12",
@@ -251,26 +251,6 @@
     {
       "added_at": "2026-10-08 22:00:12",
       "album": {
-        "name": "Eifach N\u00fct",
-        "url": "https://open.spotify.com/album/6b4j22HaunO5TjsIrSGpng"
-      },
-      "artists": [
-        {
-          "name": "PVP",
-          "url": "https://open.spotify.com/artist/5HRA33OVSrSR37rbbFKtNG"
-        },
-        {
-          "name": "Wurzel 5",
-          "url": "https://open.spotify.com/artist/735iLNwRvdc39OXIbF9W4K"
-        }
-      ],
-      "duration_ms": 253051,
-      "name": "Figg Mitt",
-      "url": "https://open.spotify.com/track/5VQvslDviJALtttbwnBX38"
-    },
-    {
-      "added_at": "2026-10-08 22:00:12",
-      "album": {
         "name": "Normal (Deluxe Edition)",
         "url": "https://open.spotify.com/album/08IevNCyhVvlIxarANOlju"
       },
@@ -291,6 +271,26 @@
     {
       "added_at": "2026-10-08 22:00:12",
       "album": {
+        "name": "Eifach N\u00fct",
+        "url": "https://open.spotify.com/album/6b4j22HaunO5TjsIrSGpng"
+      },
+      "artists": [
+        {
+          "name": "PVP",
+          "url": "https://open.spotify.com/artist/5HRA33OVSrSR37rbbFKtNG"
+        },
+        {
+          "name": "Wurzel 5",
+          "url": "https://open.spotify.com/artist/735iLNwRvdc39OXIbF9W4K"
+        }
+      ],
+      "duration_ms": 253051,
+      "name": "Figg Mitt",
+      "url": "https://open.spotify.com/track/5VQvslDviJALtttbwnBX38"
+    },
+    {
+      "added_at": "2026-10-08 22:00:12",
+      "album": {
         "name": "Chromatic",
         "url": "https://open.spotify.com/album/68MQixtX0z4rMf0QqKYIzB"
       },
@@ -307,22 +307,6 @@
     {
       "added_at": "2026-10-08 22:00:12",
       "album": {
-        "name": "Item",
-        "url": "https://open.spotify.com/album/1Amn8s0K5XHm1W45epCLWV"
-      },
-      "artists": [
-        {
-          "name": "Baze",
-          "url": "https://open.spotify.com/artist/0EWsAmk51sjDlGl7PsvqcH"
-        }
-      ],
-      "duration_ms": 219373,
-      "name": "Aus",
-      "url": "https://open.spotify.com/track/4cTrxrkes5tORn4sWmKIB8"
-    },
-    {
-      "added_at": "2026-10-08 22:00:12",
-      "album": {
         "name": "Bitters\u00fcessi Pille",
         "url": "https://open.spotify.com/album/4lD6FRCcEBVlGaGtjUGeUU"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 216626,
       "name": "Annabelle",
       "url": "https://open.spotify.com/track/77GjjpNE6wNhac8fwTTYud"
+    },
+    {
+      "added_at": "2026-10-08 22:00:12",
+      "album": {
+        "name": "Item",
+        "url": "https://open.spotify.com/album/1Amn8s0K5XHm1W45epCLWV"
+      },
+      "artists": [
+        {
+          "name": "Baze",
+          "url": "https://open.spotify.com/artist/0EWsAmk51sjDlGl7PsvqcH"
+        }
+      ],
+      "duration_ms": 219373,
+      "name": "Aus",
+      "url": "https://open.spotify.com/track/4cTrxrkes5tORn4sWmKIB8"
     },
     {
       "added_at": "2026-10-08 22:00:12",
@@ -447,22 +447,6 @@
     {
       "added_at": "2026-10-08 22:00:12",
       "album": {
-        "name": "3",
-        "url": "https://open.spotify.com/album/5E8Bj7SAPRdJWbXg3Jxce0"
-      },
-      "artists": [
-        {
-          "name": "Greis",
-          "url": "https://open.spotify.com/artist/4529nltiXhYqju0EI0SJUp"
-        }
-      ],
-      "duration_ms": 227653,
-      "name": "Teil Vom Problem",
-      "url": "https://open.spotify.com/track/7uHvavuhl528f0aIUYrt7W"
-    },
-    {
-      "added_at": "2026-10-08 22:00:12",
-      "album": {
         "name": "Als ch\u00e4nteds B\u00e4rg\u00e4 versetz\u00e4",
         "url": "https://open.spotify.com/album/3hCDtIE1aAIK90Wf3oIgys"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 314533,
       "name": "Ich weiss scho",
       "url": "https://open.spotify.com/track/7G8OZ2uvpFeMbUfx9TP3Bj"
+    },
+    {
+      "added_at": "2026-10-08 22:00:12",
+      "album": {
+        "name": "3",
+        "url": "https://open.spotify.com/album/5E8Bj7SAPRdJWbXg3Jxce0"
+      },
+      "artists": [
+        {
+          "name": "Greis",
+          "url": "https://open.spotify.com/artist/4529nltiXhYqju0EI0SJUp"
+        }
+      ],
+      "duration_ms": 227653,
+      "name": "Teil Vom Problem",
+      "url": "https://open.spotify.com/track/7uHvavuhl528f0aIUYrt7W"
     },
     {
       "added_at": "2026-10-08 22:00:12",
@@ -515,22 +515,6 @@
     {
       "added_at": "2026-10-08 22:00:12",
       "album": {
-        "name": "From Hell to Heaven and Back",
-        "url": "https://open.spotify.com/album/1vA38gyL67ps4S0Vqa8nHz"
-      },
-      "artists": [
-        {
-          "name": "PVP",
-          "url": "https://open.spotify.com/artist/5HRA33OVSrSR37rbbFKtNG"
-        }
-      ],
-      "duration_ms": 226826,
-      "name": "From Hell to Heaven and Back",
-      "url": "https://open.spotify.com/track/6g936DAdwRwEhzq6ABxxEH"
-    },
-    {
-      "added_at": "2026-10-08 22:00:12",
-      "album": {
         "name": "Jede Tag'n Gleiser",
         "url": "https://open.spotify.com/album/36TdZUObvdhSonV6NGNPQa"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 208146,
       "name": "Muetersprach",
       "url": "https://open.spotify.com/track/4WAn4IttWbxnDDbgXSYZjE"
+    },
+    {
+      "added_at": "2026-10-08 22:00:12",
+      "album": {
+        "name": "From Hell to Heaven and Back",
+        "url": "https://open.spotify.com/album/1vA38gyL67ps4S0Vqa8nHz"
+      },
+      "artists": [
+        {
+          "name": "PVP",
+          "url": "https://open.spotify.com/artist/5HRA33OVSrSR37rbbFKtNG"
+        }
+      ],
+      "duration_ms": 226826,
+      "name": "From Hell to Heaven and Back",
+      "url": "https://open.spotify.com/track/6g936DAdwRwEhzq6ABxxEH"
     },
     {
       "added_at": "2026-10-08 22:00:12",
@@ -719,22 +719,18 @@
     {
       "added_at": "2026-10-08 22:00:12",
       "album": {
-        "name": "Jede Tag'n Gleiser",
-        "url": "https://open.spotify.com/album/36TdZUObvdhSonV6NGNPQa"
+        "name": "Introspektion",
+        "url": "https://open.spotify.com/album/21S84n0cOoQmfDVUyD8TrO"
       },
       "artists": [
         {
-          "name": "Gleiszwei",
-          "url": "https://open.spotify.com/artist/3NjptE7Yo7b2aruvzkCHpr"
-        },
-        {
-          "name": "Bligg",
-          "url": "https://open.spotify.com/artist/1q4LHoD7IzquqGQR4YZRQr"
+          "name": "Taz",
+          "url": "https://open.spotify.com/artist/2aKdREOO8umyTjMapXmKbS"
         }
       ],
-      "duration_ms": 273266,
-      "name": "Bruch e Waag",
-      "url": "https://open.spotify.com/track/7xStlWtb0Wm9Brn2wCwMLj"
+      "duration_ms": 251626,
+      "name": "Brugg",
+      "url": "https://open.spotify.com/track/1HjO1qlADcfS0B11LNMmww"
     },
     {
       "added_at": "2026-10-08 22:00:12",
@@ -759,18 +755,22 @@
     {
       "added_at": "2026-10-08 22:00:12",
       "album": {
-        "name": "Introspektion",
-        "url": "https://open.spotify.com/album/21S84n0cOoQmfDVUyD8TrO"
+        "name": "Jede Tag'n Gleiser",
+        "url": "https://open.spotify.com/album/36TdZUObvdhSonV6NGNPQa"
       },
       "artists": [
         {
-          "name": "Taz",
-          "url": "https://open.spotify.com/artist/2aKdREOO8umyTjMapXmKbS"
+          "name": "Gleiszwei",
+          "url": "https://open.spotify.com/artist/3NjptE7Yo7b2aruvzkCHpr"
+        },
+        {
+          "name": "Bligg",
+          "url": "https://open.spotify.com/artist/1q4LHoD7IzquqGQR4YZRQr"
         }
       ],
-      "duration_ms": 251626,
-      "name": "Brugg",
-      "url": "https://open.spotify.com/track/1HjO1qlADcfS0B11LNMmww"
+      "duration_ms": 273266,
+      "name": "Bruch e Waag",
+      "url": "https://open.spotify.com/track/7xStlWtb0Wm9Brn2wCwMLj"
     },
     {
       "added_at": "2026-10-08 22:00:12",

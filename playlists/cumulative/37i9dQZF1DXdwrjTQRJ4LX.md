@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:62k5LKMhymqlDNo2DWOvvv">Boys Noize</a>'s favorite tracks\. Updated regularly\. Curated by Boys Noize\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-107 songs - 7 hr 49 min
+110 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Gutter Queen](https://open.spotify.com/track/5znfFsMUYC1K25Wshi1Ezr) | [Schacke](https://open.spotify.com/artist/3bphZJ7NojBKcoCeBOSJ5Z) | [5 Signs You Are Dealing With A Human Demon](https://open.spotify.com/album/6W3DE1j1qe9uT8JCoNYw4i) | 4:39 | 2026-03-02 |  |
 | [Headspin](https://open.spotify.com/track/6oOij3J0r4589T6wQ3yf2n) | [Yan Cook](https://open.spotify.com/artist/7b85knFTqgPmQmbUt77rYy) | [Equinox EP](https://open.spotify.com/album/7rbOnxcWoqtnsflyD7W7QZ) | 5:58 | 2026-03-02 | 2026-09-30 |
 | [Heresy \- Nine Inch Noize Version](https://open.spotify.com/track/4paDQCBB9KvSFlvMWUclFV) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Nine Inch Noize](https://open.spotify.com/album/7lcpCG4RBy3njzxHXlhOnp) | 3:57 | 2026-09-29 |  |
+| [Higher](https://open.spotify.com/track/5vxtQ6gVT3QHZBobbAu1WG) | [FOREVER ‘99](https://open.spotify.com/artist/0OmOnAqGKnT8ivoaqn7bMM) | [Higher](https://open.spotify.com/album/6Rbw4WtwOycsIFgaDv3Ou9) | 4:41 | 2026-10-13 |  |
 | [Hooked](https://open.spotify.com/track/7bO1gteSIuXQaNVsFIzxcV) | [Schacke](https://open.spotify.com/artist/3bphZJ7NojBKcoCeBOSJ5Z) | [5 Signs You Are Dealing With A Human Demon](https://open.spotify.com/album/6W3DE1j1qe9uT8JCoNYw4i) | 5:39 | 2026-03-02 | 2026-09-30 |
 | [HOT WIFE](https://open.spotify.com/track/7Ehjne6Dao0AXr5D6GaHSa) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [HOT WIFE](https://open.spotify.com/album/1IUFXmC2AcLCHYZGT0iIVD) | 3:10 | 2026-03-02 | 2026-09-30 |
 | [HOT WIFE \- Fcukers Remix](https://open.spotify.com/track/66b8n7ZJsl7ztsi4rn2jDg) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [HOT WIFE \(Remixes\)](https://open.spotify.com/album/1YkWPne7ZcdAFpdTBMapLA) | 5:10 | 2026-09-29 |  |
@@ -74,6 +75,7 @@
 | [Mania](https://open.spotify.com/track/07Scld4OmuhvuokTkOHneZ) | [Josh Caffé](https://open.spotify.com/artist/3JOct1LuzqDQHeCHuHjpM2) | [Poppa Zesque](https://open.spotify.com/album/6EW1u8G8ZAMKgDYrLVAEpg) | 6:10 | 2026-03-02 | 2026-09-30 |
 | [Mother Bug](https://open.spotify.com/track/6dSWFDuBz3hJKqyFCKryn9) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Harmony](https://open.spotify.com/album/51EmZvgBe2KU6858cvotYi) | 2:42 | 2026-09-29 |  |
 | [My Melody](https://open.spotify.com/track/4G2JfzFjdM4uD0b55w4k8e) | [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Always With Me](https://open.spotify.com/album/4E3yDqnMgUfLxRYH3LDkiE) | 4:38 | 2026-03-02 | 2026-09-30 |
+| [NAHUI](https://open.spotify.com/track/0lofzwKV9ln9Ed8pwXPNjf) | [Locked Club](https://open.spotify.com/artist/1qGCxiHgY9rBU7aNeMo9kc) | [NAHUI](https://open.spotify.com/album/7ysdwvr5ySq2WoW8qmwLjR) | 3:39 | 2026-10-13 |  |
 | [NaON2](https://open.spotify.com/track/6n52tqImnE8q2N0ovByUaN) | [Slikback](https://open.spotify.com/artist/0NwRAG9DawUqqgur9925fA) | [ONE](https://open.spotify.com/album/603JbnqKvvgPTNh6xKDSu2) | 3:12 | 2026-09-29 |  |
 | [New York Is Dead](https://open.spotify.com/track/2gNG3f8tBmJcefPVWjPOMp) | [Black Light Smoke](https://open.spotify.com/artist/6tBzfm9cIQVj3JFJnF2QTm) | [Control](https://open.spotify.com/album/4QwbWJCLB0Yx8z07uMtWLE) | 5:23 | 2026-03-02 | 2026-09-30 |
 | [No Other](https://open.spotify.com/track/5ykKgXjoriGkSfhhQH1smq) | [LA Priest](https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX) | [Into The Sky](https://open.spotify.com/album/3j1aeN9AH2K5AgESFkY8lI) | 3:43 | 2026-09-29 |  |
@@ -113,6 +115,7 @@
 | [Under The Ocean](https://open.spotify.com/track/4JQNvmZIDSG2xWL40txXNf) | [Ellen Allien](https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up) | [Under The Ocean](https://open.spotify.com/album/4m2CIu8Pkh32Z2pgZD0Zli) | 5:13 | 2026-03-02 | 2026-09-30 |
 | [Up Is Down with DJ Genesis](https://open.spotify.com/track/1JIqLhfgaLP1EB4mseWCmP) | [Paranoid London](https://open.spotify.com/artist/0KyUH5WmspOhuIQAnw42Fb), [DJ GENESIS](https://open.spotify.com/artist/066cv8rRZSEaeDRLLLn9WI) | [Arseholes, Liars, and Electronic Pioneers](https://open.spotify.com/album/37hDTCk3GbkSpiu89OMqtz) | 4:42 | 2026-03-02 | 2026-09-30 |
 | [Us and Them](https://open.spotify.com/track/3U39gNhRzyI4mJh0MbiVRt) | [Lacchesi](https://open.spotify.com/artist/5o4fYRhRy7bjAnroRtj5Qs), [Sexyrecs](https://open.spotify.com/artist/5zm0gxEOodkZbb89puWS4f) | [Second Base](https://open.spotify.com/album/70HdDXmMznyTDwWZHPuspy) | 5:27 | 2026-03-02 | 2026-09-30 |
+| [VCIDFUTUR3](https://open.spotify.com/track/2DfovLtljUx0auwoDkoGpS) | [Locked Club](https://open.spotify.com/artist/1qGCxiHgY9rBU7aNeMo9kc), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [PZDC](https://open.spotify.com/album/3StaD3vyW5prW5ATzm2xTa) | 4:42 | 2026-10-13 |  |
 | [Verschwende Deine Jugend](https://open.spotify.com/track/6WaVZgCZAnvXCzaTzYHGdB) | [DAF](https://open.spotify.com/artist/4KtyUYo9zaM9YggIVc7uxx) | [Gold Und Liebe](https://open.spotify.com/album/2GyDcwK4HsfVUqpgZKpyuo) | 3:49 | 2026-09-29 |  |
 | [We Share A Dream](https://open.spotify.com/track/2r1PF6jMKiKTIeb6575SXV) | [Kiss Facility](https://open.spotify.com/artist/5gHuonqo1YwbLPKQAl7jD5) | [We Share A Dream](https://open.spotify.com/album/0TZuDjWPJBTlqs3lvx7QTU) | 4:03 | 2026-09-29 |  |
 

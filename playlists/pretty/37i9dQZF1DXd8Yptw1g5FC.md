@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Sena Gül ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,966 likes - 144 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,951 likes - 144 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 11 | [Karakış](https://open.spotify.com/track/1WZNBiUdfCjJ6LxKuPw1gl) | [Mert Demir](https://open.spotify.com/artist/1Zj4GtouAnxHq4qw7ooLfm), [Kibariye](https://open.spotify.com/artist/1btod3aNfVEYNrEzIQgx90) | [Karakış](https://open.spotify.com/album/2FDPWuKEWcfIgv9JpAR6UW) | 4:06 |
 | 12 | [Reach For The Stars](https://open.spotify.com/track/4KhenOsbUf96WVeAZE2jFO) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [PITCOIN](https://open.spotify.com/album/4Lkkfpt8ZkDmw4viHHi0IM) | 2:59 |
 | 13 | [Sarılsam Üşür müsünüz](https://open.spotify.com/track/4PqfeF0DLN6I6S7ytq0mGI) | [Cem Adrian](https://open.spotify.com/artist/2AWUCT9xtcvkjpFq1ZgpPj) | [Sarılsam Üşür müsünüz](https://open.spotify.com/album/5R13VqBeiOQ2YPvmIbDXrX) | 3:59 |
-| 14 | [Sebep Oldi](https://open.spotify.com/track/4F40Insgc8hIUf1eQfHFiZ) | [Ferhat Göçer](https://open.spotify.com/artist/13jj3uGldU7cSQLaFkf2Zm) | [Sebep Oldi](https://open.spotify.com/album/22GGCUsK9mxFvdR8wa0Wk8) | 2:36 |
+| 14 | [Sebep Oldi](https://open.spotify.com/track/4F40Insgc8hIUf1eQfHFiZ) | [Ferhat Göçer](https://open.spotify.com/artist/13jj3uGldU7cSQLaFkf2Zm), [Yüksel Baltacı](https://open.spotify.com/artist/5tlE5dBPT5muL6dpPSExWw) | [Sebep Oldi](https://open.spotify.com/album/22GGCUsK9mxFvdR8wa0Wk8) | 2:36 |
 | 15 | [FF](https://open.spotify.com/track/5WJSOTl4LAuEipWkTMPSYo) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [She’s the Best](https://open.spotify.com/album/5lxMKFdNAshWkJZsqr1FYD) | 4:22 |
 | 16 | [Zalim](https://open.spotify.com/track/6MDrIw1iD4n2Vctvexvkwo) | [Cenk Eren](https://open.spotify.com/artist/4qPGRByn5RHouibWGQeWc8) | [Zalim](https://open.spotify.com/album/53xrBkaElkJwPIRKSUu4pc) | 2:39 |
 | 17 | [Yaz Rüzgarları](https://open.spotify.com/track/2h6weG0U1lomgWTfiQrRtE) | [Velet](https://open.spotify.com/artist/7bchfd9ZihGesFniE7tM71) | [Kırık Pencere](https://open.spotify.com/album/1G86X3S2WxLux1isDCXWqi) | 1:36 |

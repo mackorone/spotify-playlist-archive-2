@@ -1,6 +1,6 @@
 {
   "description": "Most exciting artists from the Indian Indie scene. Cover: Anubha Bajaj",
-  "num_followers": 205005,
+  "num_followers": 205069,
   "original_name": "RADAR India",
   "owner": {
     "name": "Spotify",
@@ -799,30 +799,6 @@
     {
       "added_at": "2026-10-05 08:00:18",
       "album": {
-        "name": "Woh",
-        "url": "https://open.spotify.com/album/1reZwldnOqKL9BWwwrSH2x"
-      },
-      "artists": [
-        {
-          "name": "Khatth",
-          "url": "https://open.spotify.com/artist/25z03NEKPCRRfHVBCsgOiY"
-        },
-        {
-          "name": "Sthiti",
-          "url": "https://open.spotify.com/artist/61oEn9Hdu2SCqRWT8E8bVw"
-        },
-        {
-          "name": "Shruti Prakash Dash",
-          "url": "https://open.spotify.com/artist/2FeA4uJpvcZ1uemmSaC1Qj"
-        }
-      ],
-      "duration_ms": 194521,
-      "name": "Woh",
-      "url": "https://open.spotify.com/track/1bw0tYUf70kQaVeiPd2U7c"
-    },
-    {
-      "added_at": "2026-10-05 08:00:18",
-      "album": {
         "name": "Aas",
         "url": "https://open.spotify.com/album/3ouQsqA555hLFhrObzNezV"
       },
@@ -843,6 +819,30 @@
       "duration_ms": 190234,
       "name": "Aas",
       "url": "https://open.spotify.com/track/7MLSIlkM9B2NhKMlAFRQc7"
+    },
+    {
+      "added_at": "2026-10-05 08:00:18",
+      "album": {
+        "name": "Woh",
+        "url": "https://open.spotify.com/album/1reZwldnOqKL9BWwwrSH2x"
+      },
+      "artists": [
+        {
+          "name": "Khatth",
+          "url": "https://open.spotify.com/artist/25z03NEKPCRRfHVBCsgOiY"
+        },
+        {
+          "name": "Sthiti",
+          "url": "https://open.spotify.com/artist/61oEn9Hdu2SCqRWT8E8bVw"
+        },
+        {
+          "name": "Shruti Prakash Dash",
+          "url": "https://open.spotify.com/artist/2FeA4uJpvcZ1uemmSaC1Qj"
+        }
+      ],
+      "duration_ms": 194521,
+      "name": "Woh",
+      "url": "https://open.spotify.com/track/1bw0tYUf70kQaVeiPd2U7c"
     },
     {
       "added_at": "2026-10-05 08:00:18",
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-10-05 08:00:18",
       "album": {
-        "name": "Jiya",
-        "url": "https://open.spotify.com/album/7f1k4Bhpsa8jyEcIuOwDVM"
-      },
-      "artists": [
-        {
-          "name": "Anubha Bajaj",
-          "url": "https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H"
-        }
-      ],
-      "duration_ms": 181826,
-      "name": "Jiya",
-      "url": "https://open.spotify.com/track/0N0k2zsecxTf0Z2mRIFryQ"
-    },
-    {
-      "added_at": "2026-10-05 08:00:18",
-      "album": {
         "name": "Haal-e-Dil",
         "url": "https://open.spotify.com/album/08MA1gXMtK4u5dmsyJEURe"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 141716,
       "name": "Piya",
       "url": "https://open.spotify.com/track/067DbzLwQzTCkhz7Aw4GN8"
+    },
+    {
+      "added_at": "2026-10-05 08:00:18",
+      "album": {
+        "name": "Jiya",
+        "url": "https://open.spotify.com/album/7f1k4Bhpsa8jyEcIuOwDVM"
+      },
+      "artists": [
+        {
+          "name": "Anubha Bajaj",
+          "url": "https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H"
+        }
+      ],
+      "duration_ms": 181826,
+      "name": "Jiya",
+      "url": "https://open.spotify.com/track/0N0k2zsecxTf0Z2mRIFryQ"
     },
     {
       "added_at": "2026-10-05 08:00:18",
@@ -1191,22 +1191,18 @@
     {
       "added_at": "2026-10-05 08:00:18",
       "album": {
-        "name": "NYC",
-        "url": "https://open.spotify.com/album/1BZkx0gE9tmfxsv4XTbg93"
+        "name": "Tuu",
+        "url": "https://open.spotify.com/album/4c71J6heXCYsJP6IVrzHFp"
       },
       "artists": [
         {
-          "name": "Mary Ann Alexander",
-          "url": "https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd"
-        },
-        {
-          "name": "Hunna G",
-          "url": "https://open.spotify.com/artist/3K1jwN2afVgJiqwgoT38GP"
+          "name": "Akanksha Bhandari",
+          "url": "https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL"
         }
       ],
-      "duration_ms": 125714,
-      "name": "NYC",
-      "url": "https://open.spotify.com/track/6CXXFkeXci75sGBieR2LKA"
+      "duration_ms": 190000,
+      "name": "Tuu",
+      "url": "https://open.spotify.com/track/4xjl6sWP6L2CxuuJ2Ue3U0"
     },
     {
       "added_at": "2026-10-05 08:00:18",
@@ -1235,18 +1231,22 @@
     {
       "added_at": "2026-10-05 08:00:18",
       "album": {
-        "name": "Tuu",
-        "url": "https://open.spotify.com/album/4c71J6heXCYsJP6IVrzHFp"
+        "name": "NYC",
+        "url": "https://open.spotify.com/album/1BZkx0gE9tmfxsv4XTbg93"
       },
       "artists": [
         {
-          "name": "Akanksha Bhandari",
-          "url": "https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL"
+          "name": "Mary Ann Alexander",
+          "url": "https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd"
+        },
+        {
+          "name": "Hunna G",
+          "url": "https://open.spotify.com/artist/3K1jwN2afVgJiqwgoT38GP"
         }
       ],
-      "duration_ms": 190000,
-      "name": "Tuu",
-      "url": "https://open.spotify.com/track/4xjl6sWP6L2CxuuJ2Ue3U0"
+      "duration_ms": 125714,
+      "name": "NYC",
+      "url": "https://open.spotify.com/track/6CXXFkeXci75sGBieR2LKA"
     },
     {
       "added_at": "2026-10-05 08:00:18",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2026-10-05 08:00:18",
       "album": {
-        "name": "Maan Jao",
-        "url": "https://open.spotify.com/album/44wT6D3aZMj90IkzsftFRF"
-      },
-      "artists": [
-        {
-          "name": "Utsavi Jha",
-          "url": "https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX"
-        }
-      ],
-      "duration_ms": 154616,
-      "name": "Maan Jao",
-      "url": "https://open.spotify.com/track/5HzQLl5EyKpaE2dwgSaK4C"
-    },
-    {
-      "added_at": "2026-10-05 08:00:18",
-      "album": {
         "name": "Megham",
         "url": "https://open.spotify.com/album/6yEQVYaMrYWUOFSDb7DXwl"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 231794,
       "name": "Megham",
       "url": "https://open.spotify.com/track/2nZWrBa9MRHz3vtvvQ2lXs"
+    },
+    {
+      "added_at": "2026-10-05 08:00:18",
+      "album": {
+        "name": "Maan Jao",
+        "url": "https://open.spotify.com/album/44wT6D3aZMj90IkzsftFRF"
+      },
+      "artists": [
+        {
+          "name": "Utsavi Jha",
+          "url": "https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX"
+        }
+      ],
+      "duration_ms": 154616,
+      "name": "Maan Jao",
+      "url": "https://open.spotify.com/track/5HzQLl5EyKpaE2dwgSaK4C"
     },
     {
       "added_at": "2026-10-05 08:00:18",
@@ -1477,24 +1477,24 @@
       "url": "https://open.spotify.com/track/3Uwok7aLLQyXhfqNlekSim"
     },
     {
-      "added_at": "2026-10-05 08:00:18",
+      "added_at": "2026-10-10 03:44:03",
       "album": {
-        "name": "Safar",
-        "url": "https://open.spotify.com/album/1L8LP2ANpB8HpY8a75WbaY"
+        "name": "Piyarva",
+        "url": "https://open.spotify.com/album/5cLlTDQUAfx3qGUcMzt6qb"
       },
       "artists": [
         {
-          "name": "Prateeksha Srivastava",
-          "url": "https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT"
+          "name": "Shreya Jain",
+          "url": "https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD"
         },
         {
-          "name": "Akarsh Shetty",
-          "url": "https://open.spotify.com/artist/0yq4kbIMvSPpCsscjMnTk0"
+          "name": "Nakul Chugh",
+          "url": "https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V"
         }
       ],
-      "duration_ms": 207413,
-      "name": "Safar",
-      "url": "https://open.spotify.com/track/3JcSKPJ9vxMPtDS34jTI3x"
+      "duration_ms": 124366,
+      "name": "Piyarva",
+      "url": "https://open.spotify.com/track/7yhf8seGjPGmtxSFPYdeln"
     }
   ],
   "unique_name": "RADAR India",

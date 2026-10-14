@@ -1,13 +1,81 @@
 {
   "description": "The freshest Hip Hop and R&amp;B. ",
-  "num_followers": 21604,
+  "num_followers": 21602,
   "original_name": "Fresh Out",
   "owner": {
     "name": "EMPIRE",
     "url": "https://open.spotify.com/user/empiredistribution"
   },
-  "snapshot_id": "AAAn23n9qCql3RuB9Tht/HksWTVl1En/",
+  "snapshot_id": "AAAn340yYCZtBqKZiJFO1PNTPEt5tOqp",
   "tracks": [
+    {
+      "added_at": "2026-10-13 19:02:28",
+      "album": {
+        "name": "A Good Day",
+        "url": "https://open.spotify.com/album/6CvhDt8XclejVEWC19b2lX"
+      },
+      "artists": [
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        }
+      ],
+      "duration_ms": 151072,
+      "name": "A Good Day",
+      "url": "https://open.spotify.com/track/0KDgGJf3DYJNzXDIlmRtxJ"
+    },
+    {
+      "added_at": "2026-10-13 19:02:34",
+      "album": {
+        "name": "From The Land",
+        "url": "https://open.spotify.com/album/1o4PtZEOHpKaWqyVwJxPex"
+      },
+      "artists": [
+        {
+          "name": "SOB X RBE",
+          "url": "https://open.spotify.com/artist/2TImI3DW7o5MdRXJs4D37h"
+        },
+        {
+          "name": "DaBoii",
+          "url": "https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0"
+        },
+        {
+          "name": "Slimmy B",
+          "url": "https://open.spotify.com/artist/0BfxMYdkqRuwPXsSwEf5RE"
+        },
+        {
+          "name": "Yhung T.O.",
+          "url": "https://open.spotify.com/artist/1Yss4ClgrS9sIprNlq5O3l"
+        }
+      ],
+      "duration_ms": 174794,
+      "name": "From The Land",
+      "url": "https://open.spotify.com/track/7eq0yp6x0f4oBuL5Ulepvy"
+    },
+    {
+      "added_at": "2026-10-13 19:03:04",
+      "album": {
+        "name": "The World Is Yours",
+        "url": "https://open.spotify.com/album/66x1wyPjR7v3aLbUlPSdQ4"
+      },
+      "artists": [
+        {
+          "name": "Rio Da Yung Og",
+          "url": "https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx"
+        },
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "Who Did The Body",
+      "url": "https://open.spotify.com/track/61zyLIt0Xz3NAUu4KOj6lM"
+    },
     {
       "added_at": "2026-08-31 21:54:29",
       "album": {

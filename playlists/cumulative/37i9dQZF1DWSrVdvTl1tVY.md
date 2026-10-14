@@ -4,7 +4,7 @@
 
 > The biggest house bangers popping off in the UK, let's go! Cover: Patrick Topping
 
-1,576 songs - 3 day 16 hr 45 min
+1,577 songs - 3 day 16 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1273,6 +1273,7 @@
 | [Souvenir](https://open.spotify.com/track/7mFoGLIUn1M7ORFx53eEVa) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [rhys from the sticks](https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa) | [Souvenir](https://open.spotify.com/album/6H5KAhqf2zsAE0y1mMLrgU) | 3:03 | 2026-10-01 |  |
 | [Sparks](https://open.spotify.com/track/0SG7XH1L4gMwcXkLuMjDgq) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [DEL\-30](https://open.spotify.com/artist/3YUMfiE2ROxoup2bHSUXjU), [Mali\-Koa](https://open.spotify.com/artist/45Dc572GdbJ6Guc8X3UW24) | [Sparks](https://open.spotify.com/album/5OkPS4db29TTA4FAMnbTly) | 2:50 | 2022-12-16 | 2023-03-31 |
 | [Speak To My Soul](https://open.spotify.com/track/3FMHCwfDrI4FQQsmk696mJ) | [Krystal Roxx](https://open.spotify.com/artist/79Znj8lVVpXXJ4KHDfCVk0), [James Hurr](https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL), [Tasty Lopez](https://open.spotify.com/artist/6bGjAU1yRMvrVDQsN9Awc0) | [Speak To My Soul](https://open.spotify.com/album/3ZRcAudGD1VUQjAc8uo9Gx) | 2:56 | 2024-04-12 | 2024-11-08 |
+| [Speechless](https://open.spotify.com/track/7cRKNHHv3WvKBYzrzMvEoG) | [Obskür](https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx) | [Speechless](https://open.spotify.com/album/3uRoVXvf3GfjmtlKkBUnNh) | 3:22 | 2026-10-13 |  |
 | [Speedy Gs](https://open.spotify.com/track/5FHLW4748Qp01kvyPjbODM) | [DJ Q](https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1), [Finn](https://open.spotify.com/artist/4p8fvQcLMWToTpmezUb8T5) | [Speedy Gs](https://open.spotify.com/album/34mNJp5MMW4GiyY82f2iEo) | 3:46 | 2022-08-25 | 2023-01-21 |
 | [Spotlight \(feat\. Sarah Ikumu\)](https://open.spotify.com/track/2ccAtGaGO98e5TxDxPCf1R) | [S.A.M.](https://open.spotify.com/artist/5NvOXHyejl7e4KQnuFed5O), [Sarah Ikumu](https://open.spotify.com/artist/6nDkhVNHd7xpZGilqARZoS) | [Spotlight \(feat\. Sarah Ikumu\)](https://open.spotify.com/album/5RM0IfpJdzkJpdii10rRod) | 2:55 | 2022-03-04 | 2022-06-10 |
 | [Stand By Me](https://open.spotify.com/track/1WIn9N73chZCDGJ0PxthIj) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob) | [Stand By Me](https://open.spotify.com/album/2TJaZYw5lPHhXwQsV3kCLu) | 2:54 | 2022-09-22 | 2023-01-06 |
@@ -1509,7 +1510,7 @@
 | [Water](https://open.spotify.com/track/09cgbbadzZSKFd1hGN23p5) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Water](https://open.spotify.com/album/2IbvLEWok7hbkf5BBZaYBg) | 4:16 | 2022-10-07 | 2023-04-07 |
 | [Water](https://open.spotify.com/track/0teQIBf0FA7sIeJumq5UeK) | [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [The Master’s Plan](https://open.spotify.com/album/5i96LUJSu8RuoBRNRL1kyK) | 3:33 | 2024-06-21 | 2025-02-07 |
 | [Waves](https://open.spotify.com/track/2q8EmGuKx14Ihp3sjaLuu1) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob) | [Waves](https://open.spotify.com/album/27sIExXAxl4haMaaAye4wE) | 2:39 | 2023-09-29 | 2024-02-17 |
-| [Waves of Luv](https://open.spotify.com/track/4kmxETbclaI5PF9uqKKM8q) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [Mont Rouge](https://open.spotify.com/artist/29Spoit35xez115MTLfMB4) | [Waves of Luv](https://open.spotify.com/album/58QnUMgXPJy7Dm1pXSardY) | 2:33 | 2026-07-02 |  |
+| [Waves of Luv](https://open.spotify.com/track/4kmxETbclaI5PF9uqKKM8q) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [Mont Rouge](https://open.spotify.com/artist/29Spoit35xez115MTLfMB4) | [Waves of Luv](https://open.spotify.com/album/58QnUMgXPJy7Dm1pXSardY) | 2:33 | 2026-07-02 | 2026-10-14 |
 | [Waymo](https://open.spotify.com/track/0sI1Sx8scXXR3KylkXARzf) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Waymo](https://open.spotify.com/album/24tWMML2bsA27NlVIYafD9) | 3:02 | 2025-07-24 | 2026-01-15 |
 | [We Are](https://open.spotify.com/track/1VRtFiC2jmfXzhbjA1PDZW) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Dodi](https://open.spotify.com/artist/4EnqNMAlxI4dewzlGdBCTE) | [We Are](https://open.spotify.com/album/5sKUassx36dd58XdIp7GEP) | 3:33 | 2026-05-14 | 2026-08-28 |
 | [We Are The People](https://open.spotify.com/track/5SyTXTAj6vVzkGlfLoNoCq) | [TECH IT DEEP](https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw), [Davide T](https://open.spotify.com/artist/1pd2mIBKC4uzLtAEP8qpgw) | [We Are The People](https://open.spotify.com/album/0OAb6fcraycYzYZVTvuVl8) | 2:02 | 2024-07-18 | 2025-02-21 |

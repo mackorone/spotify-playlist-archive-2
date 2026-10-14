@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: Mac Miller
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,385 likes - 107 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,345 likes - 107 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

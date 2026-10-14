@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 
 > Latinoamérica baila al ritmo de Judeline.
 
-[Spotify](https://open.spotify.com/user/spotify) - 519,279 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 519,266 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [La Falda](https://open.spotify.com/track/3RskBcs0Iu92bHl4KmRryd) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [La Falda](https://open.spotify.com/album/0tbf8UBDFwP0zMfcc7zqJh) | 2:35 |
 | 2 | [De Lejitos](https://open.spotify.com/track/3r2ZoCWlf9RewWlxxozfQ8) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [De Lejitos](https://open.spotify.com/album/4LsQOT9fxqBpZLVLV9Ib55) | 3:27 |
-| 3 | [VAMOS PALLÁ](https://open.spotify.com/track/4knOtGLKWSM0Nzcr0StpuK) | [Lucho RK](https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ), [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p) | [SORDO DE UN PIE](https://open.spotify.com/album/6W88MgHDPkCPL64IIH3jir) | 2:54 |
-| 4 | [Solcito](https://open.spotify.com/track/2BE1Q5N4Enl1eRrM82uzsu) | [Miguel Bueno](https://open.spotify.com/artist/3frx2nsVBAA3DvbKTE9JeT), [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Solcito](https://open.spotify.com/album/3BzCHEyuOsxZrWq3M3CsR2) | 2:24 |
+| 3 | [BOTZ](https://open.spotify.com/track/4tpT01PRHuLZI1tAvrJfRf) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [BOTZ](https://open.spotify.com/album/5n3zMrSedSoon33igy3KB2) | 2:58 |
+| 4 | [VAMOS PALLÁ](https://open.spotify.com/track/4knOtGLKWSM0Nzcr0StpuK) | [Lucho RK](https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ), [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p) | [SORDO DE UN PIE](https://open.spotify.com/album/6W88MgHDPkCPL64IIH3jir) | 2:54 |
 | 5 | [Pretty Gyal](https://open.spotify.com/track/2WWjyLZfLZjELRKKLY12b6) | [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi), [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [Vallenatico pa la Disco](https://open.spotify.com/album/2NIdcHU9Bs37j9a7WHtUMH) | 2:50 |
 | 6 | [Mucha Leche En Tu Cumpleaño / Tetas Tetas](https://open.spotify.com/track/1R6x5WechTOVpRlaLPCr71) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Mucha Leche En Tu Cumpleaño / Tetas Tetas](https://open.spotify.com/album/57lGy8zKbBceh3qJTVpAFK) | 2:14 |
 | 7 | [Te Entiendo](https://open.spotify.com/track/03E9tKV8v3R1YQIz3MWlMU) | [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi) | [Te Entiendo](https://open.spotify.com/album/5TFJMVpEISXqooUpJhCuxu) | 3:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 | 99 | [UNA NA MAS](https://open.spotify.com/track/1VQl8TsBw2XMhhgdA3WuFk) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [UNA NA MAS](https://open.spotify.com/album/4KsLRrdsmskz2N1nlFrACQ) | 3:16 |
 | 100 | [Un Pacto](https://open.spotify.com/track/4WQnJ9yzHxpfTIoQf1GKra) | [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM) | [Un Pacto](https://open.spotify.com/album/77WUGINM34mgh0Tq1QssAA) | 2:47 |
 
-Snapshot ID: `AAAAABpRU2eop8ZUfqA01JQw7x90zWWl`
+Snapshot ID: `AAAAABqet2QI3RbSlGbTYbt9AzfJICn9`

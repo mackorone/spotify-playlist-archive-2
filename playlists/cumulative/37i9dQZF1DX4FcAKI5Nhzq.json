@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Future K-Pop hits! (Cover: HWANG MIN HYUN)",
+  "description": "Future K-Pop hits! (Cover: Xdinary Heroes)",
   "name": "K-Pop Rising",
   "tracks": [
     {
@@ -21163,6 +21163,24 @@
     },
     {
       "album": {
+        "name": "IMPULSE",
+        "url": "https://open.spotify.com/album/4NWAatVPLzAD66q90vbPo8"
+      },
+      "artists": [
+        {
+          "name": "Xdinary Heroes",
+          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195540,
+      "name": "Obsessed with Youth",
+      "url": "https://open.spotify.com/track/3UZ9LgHanJWsSQU1uQvrG6"
+    },
+    {
+      "album": {
         "name": "[Dystopia : Road to Utopia]",
         "url": "https://open.spotify.com/album/6ECUAXThxlRHQ1JPUQJQJG"
       },
@@ -31030,7 +31048,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 251334,
       "name": "Us, Now",
       "url": "https://open.spotify.com/track/7hHXvDy58AOKIWZgXeYarw"

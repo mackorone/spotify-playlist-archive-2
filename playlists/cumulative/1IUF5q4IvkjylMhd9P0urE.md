@@ -4,7 +4,7 @@
 
 > Our favourite new music, curated by the XL team.
 
-1,012 songs - 2 day 9 hr 18 min
+1,013 songs - 2 day 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -985,6 +985,7 @@
 | [What You Know About That](https://open.spotify.com/track/58rWfNj08WrCfjd2wOW2uQ) | [Dizzee Rascal](https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv), [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5), [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN), [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes) | [What You Know About That](https://open.spotify.com/album/50fGesOJ2eEDN9KtgdJkDR) | 3:55 | 2024-01-29 | 2024-09-08 |
 | [When You Look At Me](https://open.spotify.com/track/2zNHQEO4JIhnqdbOJmbdUy) | [Ikonika](https://open.spotify.com/artist/1GbZUOowT6BhrI9QVoUniG) | [When You Look At Me](https://open.spotify.com/album/4k91SjR92GNXohghq4f2kc) | 5:40 | 2022-11-08 | 2022-12-20 |
 | [Whenever I Want](https://open.spotify.com/track/28Cg98BS32bN4zUGzVM9Kn) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Whenever I Want](https://open.spotify.com/album/5m1zpQMkKIwT4PaDh9l4rA) | 4:29 | 2023-04-13 | 2023-08-04 |
+| [Where Is Gone?](https://open.spotify.com/track/6ZH1yeWUf3Xp2XO0EZk91i) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Where Is Gone?](https://open.spotify.com/album/74eJeDyGg3BlPsBJIU1Ymi) | 5:16 | 2026-10-13 |  |
 | [Where You Been \(feat\. Len\)](https://open.spotify.com/track/0XvmJxkm6NCCOM5PYgYBSs) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Len](https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s) | [Where You Been \(feat\. Len\)](https://open.spotify.com/album/3IHvjKxvKVbXLMzGNbmLa1) | 2:26 | 2025-06-25 | 2026-09-02 |
 | [where's my head at \_](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ), [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [where's my head at \_](https://open.spotify.com/album/4djI7R2an73EEcJ7eJFX60) | 2:32 | 2023-12-06 | 2024-03-22 |
 | [Where's The Daddy?](https://open.spotify.com/track/2xnFroyqH6GJDkuCUCMTMF) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Where's The Daddy ?](https://open.spotify.com/album/23WBjm2FPx79LEaSKjPWwZ) | 2:52 | 2024-12-09 | 2025-06-26 |

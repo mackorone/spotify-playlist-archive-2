@@ -1,29 +1,13 @@
 {
   "description": "Descubre los temas emergentes del mundo indie. Foto: Marina Herlop.",
-  "num_followers": 200324,
+  "num_followers": 200314,
   "original_name": "Radar Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAGxLT58HFno/x8KYnS5nH3Kb+4d",
+  "snapshot_id": "AAAAAOLi7LSYsLZOsVBENaaHQVvQh7X3",
   "tracks": [
-    {
-      "added_at": "2026-10-08 22:02:11",
-      "album": {
-        "name": "Dja Dja",
-        "url": "https://open.spotify.com/album/2EzFFqkhvaXUaTzcWwWUDZ"
-      },
-      "artists": [
-        {
-          "name": "Marina Herlop",
-          "url": "https://open.spotify.com/artist/4ZG4S6skttdVhHz08AjMhR"
-        }
-      ],
-      "duration_ms": 137719,
-      "name": "Hay \u00e1ngeles",
-      "url": "https://open.spotify.com/track/5QZ9izo8nUUvIxzB8rmfQ6"
-    },
     {
       "added_at": "2026-10-08 22:02:11",
       "album": {
@@ -91,6 +75,22 @@
       "duration_ms": 178230,
       "name": "Enamorada/Borracha",
       "url": "https://open.spotify.com/track/19e8wnUiAMOgEBzx7vlR4m"
+    },
+    {
+      "added_at": "2026-10-08 22:02:11",
+      "album": {
+        "name": "Dja Dja",
+        "url": "https://open.spotify.com/album/2EzFFqkhvaXUaTzcWwWUDZ"
+      },
+      "artists": [
+        {
+          "name": "Marina Herlop",
+          "url": "https://open.spotify.com/artist/4ZG4S6skttdVhHz08AjMhR"
+        }
+      ],
+      "duration_ms": 137719,
+      "name": "Hay \u00e1ngeles",
+      "url": "https://open.spotify.com/track/5QZ9izo8nUUvIxzB8rmfQ6"
     },
     {
       "added_at": "2026-10-08 22:02:11",
@@ -390,6 +390,14 @@
         {
           "name": "Escandaloso Xp\u00f3sito",
           "url": "https://open.spotify.com/artist/0GUmY2qAmker4cB3VnpKVf"
+        },
+        {
+          "name": "GRAVY",
+          "url": "https://open.spotify.com/artist/2KbUHBduxmVybndhBOItql"
+        },
+        {
+          "name": "PatataOnStereo",
+          "url": "https://open.spotify.com/artist/1Oc9GLjfd9AbkyxEwFUxGR"
         },
         {
           "name": "AMYNATA",

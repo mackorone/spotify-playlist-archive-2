@@ -1,6 +1,6 @@
 {
   "description": "\u0639\u064a\u0634 \u0623\u062c\u0645\u0644 \u062d\u0627\u0644\u0629 \u062d\u0628 \ud83e\udef6\u2764\ufe0f\n ",
-  "num_followers": 206192,
+  "num_followers": 206256,
   "original_name": "\u062d\u0628 \u0648\u063a\u0631\u0627\u0645",
   "owner": {
     "name": "Spotify",
@@ -571,26 +571,6 @@
     {
       "added_at": "2026-06-17 12:04:55",
       "album": {
-        "name": "Ahla Wahda",
-        "url": "https://open.spotify.com/album/2NVcbbexvP2V3pDBtvXI6K"
-      },
-      "artists": [
-        {
-          "name": "Disco Misr",
-          "url": "https://open.spotify.com/artist/1HIaYLpcp8yyYRSQFP7vIi"
-        },
-        {
-          "name": "Aziz Maraka",
-          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
-        }
-      ],
-      "duration_ms": 160336,
-      "name": "Ahla Wahda",
-      "url": "https://open.spotify.com/track/6zUTQHFa3gsmWyRxZzYe4e"
-    },
-    {
-      "added_at": "2026-06-17 12:04:55",
-      "album": {
         "name": "Monaya",
         "url": "https://open.spotify.com/album/1ZoNpXuq1Hw04ZWWZVslOX"
       },
@@ -607,18 +587,22 @@
     {
       "added_at": "2026-06-17 12:04:55",
       "album": {
-        "name": "Habaytak Bel Thalata",
-        "url": "https://open.spotify.com/album/09VbBJVSGhQCsONrJQDQWJ"
+        "name": "Ahla Wahda",
+        "url": "https://open.spotify.com/album/2NVcbbexvP2V3pDBtvXI6K"
       },
       "artists": [
         {
-          "name": "Nedaa Shrara",
-          "url": "https://open.spotify.com/artist/73GigUB11JrOl85L4ma1AI"
+          "name": "Disco Misr",
+          "url": "https://open.spotify.com/artist/1HIaYLpcp8yyYRSQFP7vIi"
+        },
+        {
+          "name": "Aziz Maraka",
+          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
         }
       ],
-      "duration_ms": 216656,
-      "name": "Habaytak Bel Thalata",
-      "url": "https://open.spotify.com/track/7suFLDWMo2NTYS4DvDuXtD"
+      "duration_ms": 160336,
+      "name": "Ahla Wahda",
+      "url": "https://open.spotify.com/track/6zUTQHFa3gsmWyRxZzYe4e"
     },
     {
       "added_at": "2026-06-17 12:04:55",
@@ -643,6 +627,22 @@
     {
       "added_at": "2026-06-17 12:04:55",
       "album": {
+        "name": "Habaytak Bel Thalata",
+        "url": "https://open.spotify.com/album/09VbBJVSGhQCsONrJQDQWJ"
+      },
+      "artists": [
+        {
+          "name": "Nedaa Shrara",
+          "url": "https://open.spotify.com/artist/73GigUB11JrOl85L4ma1AI"
+        }
+      ],
+      "duration_ms": 216656,
+      "name": "Habaytak Bel Thalata",
+      "url": "https://open.spotify.com/track/7suFLDWMo2NTYS4DvDuXtD"
+    },
+    {
+      "added_at": "2026-06-17 12:04:55",
+      "album": {
         "name": "Ekhtart Sah",
         "url": "https://open.spotify.com/album/3wfH8A6DyBlbWWyzonseqf"
       },
@@ -655,22 +655,6 @@
       "duration_ms": 209706,
       "name": "Ya Waheshny",
       "url": "https://open.spotify.com/track/4GJKGy6B1G1G4g7fRkKfEh"
-    },
-    {
-      "added_at": "2026-06-17 12:04:55",
-      "album": {
-        "name": "Nancy 9 (Hassa Beek)",
-        "url": "https://open.spotify.com/album/3ZzJduvd3tDXhfQKcKxXyz"
-      },
-      "artists": [
-        {
-          "name": "Nancy Ajram",
-          "url": "https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE"
-        }
-      ],
-      "duration_ms": 226463,
-      "name": "Hassa Beek",
-      "url": "https://open.spotify.com/track/0aeVtB8skJoQdTzXPrDNSz"
     },
     {
       "added_at": "2026-06-17 12:04:55",
@@ -691,18 +675,18 @@
     {
       "added_at": "2026-06-17 12:04:55",
       "album": {
-        "name": "Fe Einy",
-        "url": "https://open.spotify.com/album/6ULzQQv9nJKrpFah0RqHlt"
+        "name": "Nancy 9 (Hassa Beek)",
+        "url": "https://open.spotify.com/album/3ZzJduvd3tDXhfQKcKxXyz"
       },
       "artists": [
         {
-          "name": "Mohammed Saeed",
-          "url": "https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi"
+          "name": "Nancy Ajram",
+          "url": "https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE"
         }
       ],
-      "duration_ms": 188225,
-      "name": "Fe Einy",
-      "url": "https://open.spotify.com/track/2TyixRw1j8Ojuh29akRROH"
+      "duration_ms": 226463,
+      "name": "Hassa Beek",
+      "url": "https://open.spotify.com/track/0aeVtB8skJoQdTzXPrDNSz"
     },
     {
       "added_at": "2026-06-17 12:04:55",
@@ -719,6 +703,22 @@
       "duration_ms": 239920,
       "name": "Kalam",
       "url": "https://open.spotify.com/track/223vFuFO1hTOQv52qGQhnc"
+    },
+    {
+      "added_at": "2026-06-17 12:04:55",
+      "album": {
+        "name": "Fe Einy",
+        "url": "https://open.spotify.com/album/6ULzQQv9nJKrpFah0RqHlt"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Saeed",
+          "url": "https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi"
+        }
+      ],
+      "duration_ms": 188225,
+      "name": "Fe Einy",
+      "url": "https://open.spotify.com/track/2TyixRw1j8Ojuh29akRROH"
     },
     {
       "added_at": "2026-06-17 12:04:55",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-06-17 12:04:55",
       "album": {
-        "name": "Habebna",
-        "url": "https://open.spotify.com/album/6udoWtucgo5nrmcLhRrFNR"
-      },
-      "artists": [
-        {
-          "name": "Ahmed Saad",
-          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
-        }
-      ],
-      "duration_ms": 222546,
-      "name": "Ana Mesheet",
-      "url": "https://open.spotify.com/track/7CpgYXxN83eFYmuMvWKm9R"
-    },
-    {
-      "added_at": "2026-06-17 12:04:55",
-      "album": {
         "name": "\u0623\u064a\u0627\u0645\u064a",
         "url": "https://open.spotify.com/album/7oLkw8eFG4CWj0t7EFRAGY"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 233221,
       "name": "\u0644\u0645\u0633\u062a\u0643",
       "url": "https://open.spotify.com/track/4Wq3uwziBYLuc609Xzf8eS"
+    },
+    {
+      "added_at": "2026-06-17 12:04:55",
+      "album": {
+        "name": "Habebna",
+        "url": "https://open.spotify.com/album/6udoWtucgo5nrmcLhRrFNR"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Saad",
+          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
+        }
+      ],
+      "duration_ms": 222546,
+      "name": "Ana Mesheet",
+      "url": "https://open.spotify.com/track/7CpgYXxN83eFYmuMvWKm9R"
     },
     {
       "added_at": "2026-06-17 12:04:55",
@@ -1009,22 +1009,6 @@
       "url": "https://open.spotify.com/track/2CCuNRmNuZXqlnSLs75qN4"
     },
     {
-      "added_at": "2026-09-17 15:04:32",
-      "album": {
-        "name": "Gawezohany Delwaaty!",
-        "url": "https://open.spotify.com/album/3BSWDsbM2j5A5uzJzNiRRx"
-      },
-      "artists": [
-        {
-          "name": "HADY MOAMER",
-          "url": "https://open.spotify.com/artist/0jPg8Ugy7n2JrD9jBaBptD"
-        }
-      ],
-      "duration_ms": 184830,
-      "name": "Gawezohany Delwaaty!",
-      "url": "https://open.spotify.com/track/7BfuVwoMjLpwjz9MRCEeIe"
-    },
-    {
       "added_at": "2026-06-17 12:04:55",
       "album": {
         "name": "3Einy Shayfa Feky",
@@ -1039,6 +1023,22 @@
       "duration_ms": 199200,
       "name": "3Einy Shayfa Feky",
       "url": "https://open.spotify.com/track/4rw8BWRPe0wlHnJA0T8MkD"
+    },
+    {
+      "added_at": "2026-09-17 15:04:32",
+      "album": {
+        "name": "Gawezohany Delwaaty!",
+        "url": "https://open.spotify.com/album/3BSWDsbM2j5A5uzJzNiRRx"
+      },
+      "artists": [
+        {
+          "name": "HADY MOAMER",
+          "url": "https://open.spotify.com/artist/0jPg8Ugy7n2JrD9jBaBptD"
+        }
+      ],
+      "duration_ms": 184830,
+      "name": "Gawezohany Delwaaty!",
+      "url": "https://open.spotify.com/track/7BfuVwoMjLpwjz9MRCEeIe"
     },
     {
       "added_at": "2026-06-17 12:04:55",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2026-06-17 12:04:55",
       "album": {
-        "name": "Ya Bakhty Beh",
-        "url": "https://open.spotify.com/album/0tFBtGwjlCel82hP0xN1hy"
-      },
-      "artists": [
-        {
-          "name": "Jannat",
-          "url": "https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch"
-        }
-      ],
-      "duration_ms": 195535,
-      "name": "Ya Bakhty Beh",
-      "url": "https://open.spotify.com/track/1CEYTW1P2mKpZgxouGDw8f"
-    },
-    {
-      "added_at": "2026-06-17 12:04:55",
-      "album": {
         "name": "\u064a\u0627\u0647\u0646\u0627\u064a\u0627",
         "url": "https://open.spotify.com/album/5ot4ftP6Cfvu9R7hN3qEIN"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 175460,
       "name": "\u064a\u0627\u0647\u0646\u0627\u064a\u0627",
       "url": "https://open.spotify.com/track/7Ickn6od1uRttDA0OXgQEc"
+    },
+    {
+      "added_at": "2026-06-17 12:04:55",
+      "album": {
+        "name": "Ya Bakhty Beh",
+        "url": "https://open.spotify.com/album/0tFBtGwjlCel82hP0xN1hy"
+      },
+      "artists": [
+        {
+          "name": "Jannat",
+          "url": "https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch"
+        }
+      ],
+      "duration_ms": 195535,
+      "name": "Ya Bakhty Beh",
+      "url": "https://open.spotify.com/track/1CEYTW1P2mKpZgxouGDw8f"
     },
     {
       "added_at": "2026-06-17 12:04:55",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2026-06-17 12:04:55",
       "album": {
+        "name": "Kol El Habiba",
+        "url": "https://open.spotify.com/album/1k485w1wXZn2AM4BCXe6iA"
+      },
+      "artists": [
+        {
+          "name": "Mai Farouk",
+          "url": "https://open.spotify.com/artist/6WDborvz84s4INwkuajFxP"
+        }
+      ],
+      "duration_ms": 287191,
+      "name": "Kol El Habiba",
+      "url": "https://open.spotify.com/track/5E75d0gLJzysLedwDQeWIR"
+    },
+    {
+      "added_at": "2026-06-17 12:04:55",
+      "album": {
         "name": "Tool Mahna Maa Baad (Coke Studio Egypt 2023)",
         "url": "https://open.spotify.com/album/1zwC6c3YBRtzZEPzLBjZgC"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 215040,
       "name": "Tool Mahna Maa Baad (Coke Studio Egypt 2023)",
       "url": "https://open.spotify.com/track/1voa8b59cgkIhPpEnHIk31"
-    },
-    {
-      "added_at": "2026-06-17 12:04:55",
-      "album": {
-        "name": "Kol El Habiba",
-        "url": "https://open.spotify.com/album/1k485w1wXZn2AM4BCXe6iA"
-      },
-      "artists": [
-        {
-          "name": "Mai Farouk",
-          "url": "https://open.spotify.com/artist/6WDborvz84s4INwkuajFxP"
-        }
-      ],
-      "duration_ms": 287191,
-      "name": "Kol El Habiba",
-      "url": "https://open.spotify.com/track/5E75d0gLJzysLedwDQeWIR"
     },
     {
       "added_at": "2026-06-17 12:04:55",
@@ -1401,22 +1401,6 @@
       "url": "https://open.spotify.com/track/1HpyCfUXBqFvUteRkz4eId"
     },
     {
-      "added_at": "2026-09-03 14:50:01",
-      "album": {
-        "name": "\u0634\u0628\u0647\u064a \u0628\u0627\u0644\u0645\u0644\u064a",
-        "url": "https://open.spotify.com/album/6Q6ucbijAN1s3FPZ2Z3AN7"
-      },
-      "artists": [
-        {
-          "name": "Latifa",
-          "url": "https://open.spotify.com/artist/1PuTOfIYIEdoxKNnXJAPZe"
-        }
-      ],
-      "duration_ms": 217078,
-      "name": "\u0634\u0628\u0647\u064a \u0628\u0627\u0644\u0645\u0644\u064a",
-      "url": "https://open.spotify.com/track/6cf3F66Q2Y5Sty4BVElQoc"
-    },
-    {
       "added_at": "2026-06-17 12:04:55",
       "album": {
         "name": "Baheb Maak",
@@ -1431,6 +1415,22 @@
       "duration_ms": 236571,
       "name": "Baheb Maak",
       "url": "https://open.spotify.com/track/6u87eCMHElMpOF9XREyIQk"
+    },
+    {
+      "added_at": "2026-09-03 14:50:01",
+      "album": {
+        "name": "\u0634\u0628\u0647\u064a \u0628\u0627\u0644\u0645\u0644\u064a",
+        "url": "https://open.spotify.com/album/6Q6ucbijAN1s3FPZ2Z3AN7"
+      },
+      "artists": [
+        {
+          "name": "Latifa",
+          "url": "https://open.spotify.com/artist/1PuTOfIYIEdoxKNnXJAPZe"
+        }
+      ],
+      "duration_ms": 217078,
+      "name": "\u0634\u0628\u0647\u064a \u0628\u0627\u0644\u0645\u0644\u064a",
+      "url": "https://open.spotify.com/track/6cf3F66Q2Y5Sty4BVElQoc"
     },
     {
       "added_at": "2026-06-17 12:04:55",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2026-06-17 12:04:55",
       "album": {
+        "name": "\u064a\u0627\u0645\u0627 \u0644\u064a\u0627\u0644\u0649 \u0648\u0627\u0646\u062a \u0645\u0634 \u0645\u0639\u0627\u064a\u0627",
+        "url": "https://open.spotify.com/album/7ANyylaT0Q0s0oiOFk1AZ3"
+      },
+      "artists": [
+        {
+          "name": "Sara Haytham",
+          "url": "https://open.spotify.com/artist/4oI0vKQ28dDOGjKXXaztrK"
+        }
+      ],
+      "duration_ms": 216108,
+      "name": "\u064a\u0627\u0645\u0627 \u0644\u064a\u0627\u0644\u0649 \u0648\u0627\u0646\u062a \u0645\u0634 \u0645\u0639\u0627\u064a\u0627",
+      "url": "https://open.spotify.com/track/6U0bpnpXAxQosoFepgVxMn"
+    },
+    {
+      "added_at": "2026-06-17 12:04:55",
+      "album": {
         "name": "Awel Mara Etabelna",
         "url": "https://open.spotify.com/album/67TRGAtN2Sh2F6DuAeknju"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 218827,
       "name": "Awel Mara Etabelna",
       "url": "https://open.spotify.com/track/1ifVT3ZS6GZEmOhJI050Sq"
-    },
-    {
-      "added_at": "2026-06-17 12:04:55",
-      "album": {
-        "name": "\u064a\u0627\u0645\u0627 \u0644\u064a\u0627\u0644\u0649 \u0648\u0627\u0646\u062a \u0645\u0634 \u0645\u0639\u0627\u064a\u0627",
-        "url": "https://open.spotify.com/album/7ANyylaT0Q0s0oiOFk1AZ3"
-      },
-      "artists": [
-        {
-          "name": "Sara Haytham",
-          "url": "https://open.spotify.com/artist/4oI0vKQ28dDOGjKXXaztrK"
-        }
-      ],
-      "duration_ms": 216108,
-      "name": "\u064a\u0627\u0645\u0627 \u0644\u064a\u0627\u0644\u0649 \u0648\u0627\u0646\u062a \u0645\u0634 \u0645\u0639\u0627\u064a\u0627",
-      "url": "https://open.spotify.com/track/6U0bpnpXAxQosoFepgVxMn"
     },
     {
       "added_at": "2026-06-17 12:04:55",

@@ -4,7 +4,7 @@
 
 > Resonancias extraordinarias de luminiscencia inclasificable\. Con BALTHVS en portada.
 
-322 songs - 17 hr 44 min
+322 songs - 17 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,7 +184,7 @@
 | [MALASNOTICIAS.](https://open.spotify.com/track/5W1bHlFGv5jJw1xyWQJlrJ) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [MALASNOTICIAS.](https://open.spotify.com/album/76HEOpvvIpymofngK3tRSE) | 3:16 | 2026-05-08 |  |
 | [Mango](https://open.spotify.com/track/0J1XAvHf8lhfDJ4MjnPcM6) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Mango](https://open.spotify.com/album/3clTKY9OQcm7aX83a3Aa3K) | 2:54 | 2025-05-23 | 2025-06-21 |
 | [Mas Que El Promedio](https://open.spotify.com/track/6ApvB7HaMhoVNCwLJdgaka) | [Inzul](https://open.spotify.com/artist/6MOWxtx3qLM9FR0EVn4xGp) | [Caprichoso](https://open.spotify.com/album/32dkPrz4Ee0PFQtrZ3JSKi) | 3:21 | 2025-11-21 | 2025-12-13 |
-| [me asfixia LA CIUDAD](https://open.spotify.com/track/51hMMibOQhxk6kWWZdlL7m) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [me asfixia LA CIUDAD](https://open.spotify.com/album/0DpCVfdtF5alKkKMKLCG8V) | 2:03 | 2026-08-14 |  |
+| [me asfixia LA CIUDAD](https://open.spotify.com/track/51hMMibOQhxk6kWWZdlL7m) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [me asfixia LA CIUDAD](https://open.spotify.com/album/0DpCVfdtF5alKkKMKLCG8V) | 2:20 | 2026-08-14 |  |
 | [Me Haces Falta](https://open.spotify.com/track/3vghaAmejoL6hQz1Hb4sRB) | [Branbel](https://open.spotify.com/artist/1VmUUb7wBfRQKnq1hgVaGS) | [Se Es Feliz Sin Mucho](https://open.spotify.com/album/0Y10z2L6Hw3ptR4biyl8bL) | 2:32 | 2026-05-08 | 2026-10-10 |
 | [Me Persigue](https://open.spotify.com/track/1rBEVWJbexy1EjoaT9ZZxA) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip), [Menino Gutto](https://open.spotify.com/artist/4eX5jYwqeLxnUZcBszdrws) | [Me Persigue](https://open.spotify.com/album/6tpSWTW6Vrw3x8hjgqkVM6) | 3:02 | 2023-10-06 | 2023-12-02 |
 | [ME TENGO QUE IR](https://open.spotify.com/track/5AwdJhVYK64TDpfdRa1DyN) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 4:36 | 2023-09-22 | 2024-03-02 |

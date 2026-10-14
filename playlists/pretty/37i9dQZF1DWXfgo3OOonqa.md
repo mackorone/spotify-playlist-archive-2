@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,176 likes - 100 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,143 likes - 100 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cariño](https://open.spotify.com/track/6AHIJQKWEZnKmNCcUeOv7n) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [Kärlek & Brott](https://open.spotify.com/album/3uJLLV1uIsILuh6KWFj78V) | 2:01 |
 | 2 | [Idileey](https://open.spotify.com/track/1LubZfwcC7CCQIbx11IQVU) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Your Turn In Blue \(Deluxe\)](https://open.spotify.com/album/2DKqtn4yr6XxDR2c1o1mHF) | 3:04 |
 | 3 | [STÖRD](https://open.spotify.com/track/5vYeSHa82PMlSSfl3Q8vho) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [STÖRD](https://open.spotify.com/album/4ajmLdPaFRoi2XArBa1WPr) | 2:16 |
-| 4 | [Kejsar](https://open.spotify.com/track/3wXhaFhjQWn5ZNMUE5hpQH) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt), [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [Kejsar](https://open.spotify.com/album/3dZzqosnyYll4mlHLBhXPC) | 2:22 |
-| 5 | [Två Somrar Bort](https://open.spotify.com/track/1hvtRnTfZgu9i5JMKCnQRM) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl), [Lekaye](https://open.spotify.com/artist/1ex9QsvTSM6iNuLh1lkJUM) | [Kärlek & Brott](https://open.spotify.com/album/3uJLLV1uIsILuh6KWFj78V) | 1:58 |
-| 6 | [G](https://open.spotify.com/track/19rLs0037vQJ2ipGsFI2RO) | [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp), [Euroo](https://open.spotify.com/artist/5ZVHfahjeu8Z81RYyhcLDH) | [G](https://open.spotify.com/album/5SYEDVpW8S76Z1IWkkUBcg) | 2:22 |
-| 7 | [1 År](https://open.spotify.com/track/0azLujBhO6TVq4LrblaqU8) | [Luc1ano](https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN), [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv) | [1 År](https://open.spotify.com/album/0C0k64JFYCKK8dD8xGEoYf) | 2:32 |
+| 4 | [Två Somrar Bort](https://open.spotify.com/track/1hvtRnTfZgu9i5JMKCnQRM) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl), [Lekaye](https://open.spotify.com/artist/1ex9QsvTSM6iNuLh1lkJUM) | [Kärlek & Brott](https://open.spotify.com/album/3uJLLV1uIsILuh6KWFj78V) | 1:58 |
+| 5 | [1 År](https://open.spotify.com/track/0azLujBhO6TVq4LrblaqU8) | [Luc1ano](https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN), [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv) | [1 År](https://open.spotify.com/album/0C0k64JFYCKK8dD8xGEoYf) | 2:32 |
+| 6 | [Kejsar](https://open.spotify.com/track/3wXhaFhjQWn5ZNMUE5hpQH) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt), [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [Kejsar](https://open.spotify.com/album/3dZzqosnyYll4mlHLBhXPC) | 2:22 |
+| 7 | [G](https://open.spotify.com/track/19rLs0037vQJ2ipGsFI2RO) | [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp), [Euroo](https://open.spotify.com/artist/5ZVHfahjeu8Z81RYyhcLDH) | [G](https://open.spotify.com/album/5SYEDVpW8S76Z1IWkkUBcg) | 2:22 |
 | 8 | [Came Up](https://open.spotify.com/track/4m2H2BiGrUPHYpuSS9nKau) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Your Turn In Blue \(Deluxe\)](https://open.spotify.com/album/2DKqtn4yr6XxDR2c1o1mHF) | 2:10 |
 | 9 | [LA LIGA](https://open.spotify.com/track/2echXrccqUfuCST3xF5zjX) | [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR), [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [LA LIGA](https://open.spotify.com/album/3EvZfe1UY1mq2hPahgfAGy) | 2:27 |
 | 10 | [Ger dig all min love](https://open.spotify.com/track/6DiEEc4CoHvG6xeZqxHnD3) | [MIGI](https://open.spotify.com/artist/6SQ1V0fuKnQGrLYE37Q1n3), [Firawii](https://open.spotify.com/artist/4brOAaYRExjmIo0GZm7h1W) | [Ger dig all min love](https://open.spotify.com/album/6i8EbfXAy2FaYwWnhAiASn) | 1:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 99 | [Man](https://open.spotify.com/track/0SBv4vF1SfMJHnzSmaElVh) | [JIREEL](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Eyes Don't Lie](https://open.spotify.com/album/1xsEi04labtfeYTv7D6uAZ) | 2:28 |
 | 100 | [Detaljer](https://open.spotify.com/track/7oHcPk86R3L7JrxYJDXjSw) | [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR), [Jay Giovann1](https://open.spotify.com/artist/6FODee3v5qIktg9hw6hGOq) | [Detaljer](https://open.spotify.com/album/5kiCjHesIeEd4gWPmStsbZ) | 2:03 |
 
-Snapshot ID: `AAAAAOlUiMk//QI/FP/ketuuj+VXaIUt`
+Snapshot ID: `AAAAABiKzt1QDltbJlsTpVwYr/n08b48`

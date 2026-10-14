@@ -1,6 +1,6 @@
 {
   "description": "The decade when country and rockabilly came together. Cover: Johnny Cash",
-  "num_followers": 300007,
+  "num_followers": 300008,
   "original_name": "50s Country",
   "owner": {
     "name": "Spotify",
@@ -1219,18 +1219,22 @@
     {
       "added_at": "2026-02-17 04:48:24",
       "album": {
-        "name": "The Essential Eddy Arnold",
-        "url": "https://open.spotify.com/album/1wNnWmnbzgp2KLoNGCAA15"
+        "name": "Vintage Collections",
+        "url": "https://open.spotify.com/album/7JiYSwAMa7hUHWjiD372m5"
       },
       "artists": [
         {
-          "name": "Eddy Arnold",
-          "url": "https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22"
+          "name": "Hank Thompson",
+          "url": "https://open.spotify.com/artist/42tDjhK9kdS7CCHxs8ysz0"
+        },
+        {
+          "name": "Hank Thompson And His Brazos Valley Boys",
+          "url": "https://open.spotify.com/artist/1Ts6EkqOxOsIzMsxFgCSqk"
         }
       ],
-      "duration_ms": 176600,
-      "name": "How's the World Treating You",
-      "url": "https://open.spotify.com/track/7oW8AM8E8DeZknzCSCb3lu"
+      "duration_ms": 177866,
+      "name": "Wildwood Flower - Instrumental",
+      "url": "https://open.spotify.com/track/6zLHRDxxP2EpTuqlJz6no3"
     }
   ],
   "unique_name": "50s Country",

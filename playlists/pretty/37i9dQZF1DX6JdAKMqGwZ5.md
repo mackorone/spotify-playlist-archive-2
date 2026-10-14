@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 
 > Descubre los temas emergentes del mundo indie\. Foto: Marina Herlop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,324 likes - 120 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,314 likes - 120 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Hay ángeles](https://open.spotify.com/track/5QZ9izo8nUUvIxzB8rmfQ6) | [Marina Herlop](https://open.spotify.com/artist/4ZG4S6skttdVhHz08AjMhR) | [Dja Dja](https://open.spotify.com/album/2EzFFqkhvaXUaTzcWwWUDZ) | 2:17 |
-| 2 | [Qué Hay Más Grande Que Este Amor](https://open.spotify.com/track/2PTJGyZ11tvpfDUUp2enxD) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4) | [Camila / Qué Hay Más Grande Que Este Amor](https://open.spotify.com/album/28bcIOav5nLxZln1mZxPTG) | 5:58 |
-| 3 | [Me gusta, me encanta](https://open.spotify.com/track/7wtSmwHVOo47FMMdbdgzg3) | [Amatria](https://open.spotify.com/artist/5aINmhPWfAHvZ5qaMdBezq) | [Me gusta, me encanta](https://open.spotify.com/album/330WIzpvpEa3PXSIjwlzu4) | 2:41 |
-| 4 | [Star](https://open.spotify.com/track/6ZzycZmHaFzfbIBl24BV3N) | [mori](https://open.spotify.com/artist/473Xxv1N3YJJdKxYH0XaiX), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [El Niño Bola](https://open.spotify.com/album/3Bo7xLuNrJhubah3xYLCqv) | 3:31 |
-| 5 | [Enamorada/Borracha](https://open.spotify.com/track/19e8wnUiAMOgEBzx7vlR4m) | [Alba Morena](https://open.spotify.com/artist/6wTv4tZgFHEWy8MyTaP9E5) | [Enamorada/Borracha](https://open.spotify.com/album/1VStzq3uPnaiBPCDzJbW7C) | 2:58 |
+| 1 | [Qué Hay Más Grande Que Este Amor](https://open.spotify.com/track/2PTJGyZ11tvpfDUUp2enxD) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4) | [Camila / Qué Hay Más Grande Que Este Amor](https://open.spotify.com/album/28bcIOav5nLxZln1mZxPTG) | 5:58 |
+| 2 | [Me gusta, me encanta](https://open.spotify.com/track/7wtSmwHVOo47FMMdbdgzg3) | [Amatria](https://open.spotify.com/artist/5aINmhPWfAHvZ5qaMdBezq) | [Me gusta, me encanta](https://open.spotify.com/album/330WIzpvpEa3PXSIjwlzu4) | 2:41 |
+| 3 | [Star](https://open.spotify.com/track/6ZzycZmHaFzfbIBl24BV3N) | [mori](https://open.spotify.com/artist/473Xxv1N3YJJdKxYH0XaiX), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [El Niño Bola](https://open.spotify.com/album/3Bo7xLuNrJhubah3xYLCqv) | 3:31 |
+| 4 | [Enamorada/Borracha](https://open.spotify.com/track/19e8wnUiAMOgEBzx7vlR4m) | [Alba Morena](https://open.spotify.com/artist/6wTv4tZgFHEWy8MyTaP9E5) | [Enamorada/Borracha](https://open.spotify.com/album/1VStzq3uPnaiBPCDzJbW7C) | 2:58 |
+| 5 | [Hay ángeles](https://open.spotify.com/track/5QZ9izo8nUUvIxzB8rmfQ6) | [Marina Herlop](https://open.spotify.com/artist/4ZG4S6skttdVhHz08AjMhR) | [Dja Dja](https://open.spotify.com/album/2EzFFqkhvaXUaTzcWwWUDZ) | 2:17 |
 | 6 | [talento natural](https://open.spotify.com/track/7uDyZWLh4LU9ckWhYCcW4R) | [Victorias](https://open.spotify.com/artist/35lpWLoew70fDB1QQ7pW4I), [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [talento natural](https://open.spotify.com/album/6xUBO12ujC7a5hPpyGqUKm) | 2:24 |
 | 7 | [Da Me](https://open.spotify.com/track/25wuRe51bNX1zQXWKxWm9Y) | [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [Da Me](https://open.spotify.com/album/6bY3R8Ne0tYamDMo16D27k) | 1:56 |
 | 8 | [Romántico](https://open.spotify.com/track/56NhDFVZD3GPUDikDtFkEU) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [Romántico](https://open.spotify.com/album/5m9KRPp1ghFcvtJMqf1HeT) | 2:50 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 | 20 | [Si lo callo muero](https://open.spotify.com/track/2vQTSPelGFnyQN8OiURRxr) | [La Plazuela](https://open.spotify.com/artist/3iNrNJ38T7OEaI1UofQcIB) | [Si lo callo muero](https://open.spotify.com/album/6TzszeuDZHMyg9GBGX9Vvh) | 3:04 |
 | 21 | [Lo que no puedo tener](https://open.spotify.com/track/5HszW9RJ4spRMvREaMwZ0m) | [Comandante Twin](https://open.spotify.com/artist/6MgIZuaJa0swshfLRDZMdw) | [Retrocausalidad](https://open.spotify.com/album/2oRQNlwlr7KJAjddvDFiff) | 4:12 |
 | 22 | [Los rumores eran ciertos](https://open.spotify.com/track/2znmQg6PhbUBgvlUASFAyY) | [Venga, Bea](https://open.spotify.com/artist/1FV2X3n9fruTFxyjLJA6cM), [Jordana B.](https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD) | [Los rumores eran ciertos](https://open.spotify.com/album/1UzLV5aqowdADpEGM99AkU) | 2:43 |
-| 23 | [En ningún lugar](https://open.spotify.com/track/4uC6KYP2VNQTMylNT0QFLF) | [Escandaloso Xpósito](https://open.spotify.com/artist/0GUmY2qAmker4cB3VnpKVf), [AMYNATA](https://open.spotify.com/artist/1OfMb4DATw7yp7zMBjUuLg) | [La Casa House](https://open.spotify.com/album/1e9qOWj1WzFJzmEzNWgvzN) | 2:58 |
+| 23 | [En ningún lugar](https://open.spotify.com/track/4uC6KYP2VNQTMylNT0QFLF) | [Escandaloso Xpósito](https://open.spotify.com/artist/0GUmY2qAmker4cB3VnpKVf), [GRAVY](https://open.spotify.com/artist/2KbUHBduxmVybndhBOItql), [PatataOnStereo](https://open.spotify.com/artist/1Oc9GLjfd9AbkyxEwFUxGR), [AMYNATA](https://open.spotify.com/artist/1OfMb4DATw7yp7zMBjUuLg) | [La Casa House](https://open.spotify.com/album/1e9qOWj1WzFJzmEzNWgvzN) | 2:58 |
 | 24 | [Cara de mentireira](https://open.spotify.com/track/3P74AK43hAi7EEKhE6rdqM) | [ORTIGA](https://open.spotify.com/artist/1lUJB2u64xeYmvpGeoIuR6), [PatataOnStereo](https://open.spotify.com/artist/1Oc9GLjfd9AbkyxEwFUxGR) | [Cara de mentireira](https://open.spotify.com/album/0eptVnMOLACSaGlhfJ5EdW) | 2:22 |
 | 25 | [motel](https://open.spotify.com/track/1xZK25ra2zBnASw5CsKR0d) | [Poster Boy](https://open.spotify.com/artist/2uQ5MPeAoOkb9B6dwBzjze) | [motel](https://open.spotify.com/album/0JLxnA13yoVztj82gK5NU3) | 4:20 |
 | 26 | [Hay Algún Sitio](https://open.spotify.com/track/4MtM2WJhglzbF4cMEVEZXe) | [Me Acuerdo de Todo](https://open.spotify.com/artist/0wrKWOH2hVMJ4mRAYkRz1h), [Bernal](https://open.spotify.com/artist/36qikjyD6tDDJdlbnULZKv) | [Hay Algún Sitio](https://open.spotify.com/album/5SnHO97eQZn5OlOFVz2nHv) | 2:37 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 | 119 | [EL MUNDO ARDER](https://open.spotify.com/track/1ESUvUMBsiOVYqBIvhFuwl) | [BAJANDO AL MERCAO'](https://open.spotify.com/artist/6pnJFEopQYVFQaesKOY5lG) | [EL MUNDO ARDER](https://open.spotify.com/album/6CZwKXTJ26KdM1t0gzp564) | 3:07 |
 | 120 | [2007](https://open.spotify.com/track/1hXsU2SNpddLk7sDHPBt9k) | [MaiteQuiero](https://open.spotify.com/artist/6z3adcBXMsz0Y5VGyWTO69) | [Un Ángel Y Yo](https://open.spotify.com/album/2PmHU4cHEgkH7Z6VV5gIy9) | 3:59 |
 
-Snapshot ID: `AAAAAAGxLT58HFno/x8KYnS5nH3Kb+4d`
+Snapshot ID: `AAAAAOLi7LSYsLZOsVBENaaHQVvQh7X3`

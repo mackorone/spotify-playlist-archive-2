@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the South\. Cover: Gunna
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,268,527 likes - 101 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,268,465 likes - 101 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 23 | [Gas Money](https://open.spotify.com/track/3hSLaxloTiaDQIWCIKNRcU) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Chicken Talkin Bastard](https://open.spotify.com/album/7cChUPYfmnblkqIyV8oP4R) | 1:43 |
 | 24 | [YK Where It's Goin \(feat\. Gunna\)](https://open.spotify.com/track/2bBpDKh5gGUxCRVs74pWoA) | [Hurricane Wisdom](https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Weathering The World](https://open.spotify.com/album/21tXDFL17Oau3TtfZapUgD) | 3:00 |
 | 25 | [Nights Prayed](https://open.spotify.com/track/4QfqgM0TGU65KvdXXI6X7p) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Nights Prayed](https://open.spotify.com/album/2xMpIjf5NOpuzeZRvz3wi8) | 1:57 |
-| 26 | [Way Too Much](https://open.spotify.com/track/5ugBXrVSfcQK66D4s6FRSe) | [Mez](https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Deante' Hitchcock](https://open.spotify.com/artist/5REHfa3YDopGOzrxwTsPvH) | [Way Too Much](https://open.spotify.com/album/1s9nf4fPpZk9M9uPaA7Yfb) | 4:03 |
+| 26 | [Way Too Much](https://open.spotify.com/track/5ugBXrVSfcQK66D4s6FRSe) | [Mez](https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6), [Deante' Hitchcock](https://open.spotify.com/artist/5REHfa3YDopGOzrxwTsPvH), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Way Too Much](https://open.spotify.com/album/1s9nf4fPpZk9M9uPaA7Yfb) | 4:03 |
 | 27 | [Too Bad](https://open.spotify.com/track/3VoUVDtqurOSmVB9W49l4Q) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Too Bad](https://open.spotify.com/album/1pViF08uTEe946q9mJKLxb) | 2:42 |
 | 28 | [LET 'EM KNOW](https://open.spotify.com/track/6AXf9n3qazR1bE1dngnqxi) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [LET 'EM KNOW](https://open.spotify.com/album/7MmMz1SDFpAustlXwduMFa) | 2:59 |
 | 29 | [Sey Mami](https://open.spotify.com/track/0cZmwo85fwCqA1xTF4PPFA) | [Cinco Suave](https://open.spotify.com/artist/1WeKYh21pkgNuU1IfHGZVd) | [Sey Mami](https://open.spotify.com/album/0ksGtmJysm4zKtB0k6Auwr) | 1:48 |

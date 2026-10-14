@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 
 > New dance music from Deep House to Future Rave\. Refreshed Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  Cover: Joey London Style &amp; Pheelo
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 31,329 likes - 376 songs - 19 hr 17 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 31,327 likes - 377 songs - 19 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -384,5 +384,6 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 | 374 | [Light Of The Sun \- RAEM Remix](https://open.spotify.com/track/3Y7E2ZMEX4PjipotDpfj19) | [Flying Decibels](https://open.spotify.com/artist/2iBwfI0vKOJBGeTezkDTwt), [Jana](https://open.spotify.com/artist/2B2gAQkKLuHmpvOq9G5YWI), [RAEM](https://open.spotify.com/artist/1TG0ridFQXJjJp07FExMph) | [Light Of The Sun \(RAEM Remix\)](https://open.spotify.com/album/4HBVcwxucyqQhqHrnB0YZb) | 3:00 |
 | 375 | [Like A Drug](https://open.spotify.com/track/4OPpaJNuTo0j6XyvwDhrxF) | [Ben Wood](https://open.spotify.com/artist/2iDVKvq83UePPjZlTivOcR) | [Like A Drug](https://open.spotify.com/album/6D2mnM4kzrffNbSjNHPaRG) | 2:16 |
 | 376 | [Addicted To Our Chemistry](https://open.spotify.com/track/2Fekdhq7wnbSp8uk8EtkE8) | [Kayote](https://open.spotify.com/artist/5h9NCujJrwNVZz9bDIDbvn), [WhiteCapMusic](https://open.spotify.com/artist/3zapR5nlQJViW68imqxoeB), [mavzy grx](https://open.spotify.com/artist/2V0LlbHf7s77boS37hUkgR) | [Addicted To Our Chemistry](https://open.spotify.com/album/2mwUICka1TnVDUyBwUELYg) | 2:44 |
+| 377 | [Take It Slow \(Bullit\)](https://open.spotify.com/track/3d4xP3sUrLslwXjGsGdgSv) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Watermät](https://open.spotify.com/artist/4a9sClW4YpYQE5jUMAWx5W) | [Take It Slow \(Bullit\)](https://open.spotify.com/album/3Pd6Q22lKUjKnJ3Tysz26h) | 2:56 |
 
-Snapshot ID: `AAAxLkG7nO6PcnoupQcJlonYzKK3ZNdH`
+Snapshot ID: `AAAxL8zebTrqyQ3gbvUhRkoh2CZyAWin`

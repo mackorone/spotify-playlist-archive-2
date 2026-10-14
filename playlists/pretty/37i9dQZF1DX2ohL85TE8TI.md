@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Hot & new K\-Drama OSTs are here! \(Cover: 부활남: 더 레드\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,683,824 likes - 105 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,683,604 likes - 105 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 80 | [Pull You In](https://open.spotify.com/track/7sUXSjHHavQr3HfDJ05TNO) | [JAY](https://open.spotify.com/artist/0cfDzbuRREWQNBbINvCckB) | [Haunted Blade : Hunters \(Original Soundtrack\)](https://open.spotify.com/album/3LkEgTiuou6km548RlMO3c) | 3:40 |
 | 81 | [Dance Tonight](https://open.spotify.com/track/2bAc5lIgEuoDOWtgMiIox7) | [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [Undercover Miss Hong OST Part.4](https://open.spotify.com/album/09ws0yNmhahZcRhVo4B8Pr) | 3:27 |
 | 82 | [오늘 밤은 취해 볼게요](https://open.spotify.com/track/2QfBVi4AgoRP1Hk0rn7A3J) | [ZO ZAZZ](https://open.spotify.com/artist/7oefVAcL2YuRdata5VCUzf) | [오늘 밤은 취해 볼게요 \(영화 보이 \(Original Motion Picture Soundtrack\)\)](https://open.spotify.com/album/4XgHHYUWyvlOKo7oCniMOK) | 3:23 |
-| 83 | [Midnight Glow \(No tail to tell : Original Television Soundtrack\)](https://open.spotify.com/track/2tJPh00tLndW3i8VTYXRMx) | [CHAERYEONG \(ITZY\)](https://open.spotify.com/artist/73nPXEFs9tGCNmSOcqFHPs) | [No tail to tell, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/7DDtjiqvZI9c3TlSYaAdRN) | 3:13 |
+| 83 | [Midnight Glow \(No tail to tell : Original Television Soundtrack\)](https://open.spotify.com/track/2tJPh00tLndW3i8VTYXRMx) | [CHAERYEONG](https://open.spotify.com/artist/73nPXEFs9tGCNmSOcqFHPs) | [No tail to tell, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/7DDtjiqvZI9c3TlSYaAdRN) | 3:13 |
 | 84 | [The Shape of Memories](https://open.spotify.com/track/2R2wug3uKoJ636aSUpTiF4) | [SONG HA YOUNG \(fromis\_9\)](https://open.spotify.com/artist/4W1tNmyyTGHjTBQpiQWRNr) | [Undercover Miss Hong OST Part.1](https://open.spotify.com/album/3DjVm5kGJZu3yiMPFQle5q) | 4:12 |
 | 85 | [Still In Time](https://open.spotify.com/track/2AId5fDE2y1UUbagfZVzIQ) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Spring Fever, Pt\. 7 \(Original Soundtrack\)](https://open.spotify.com/album/3EhkvrtYTudwpxtOnxvWuW) | 2:53 |
 | 86 | [Love Language](https://open.spotify.com/track/6w9SgpKIzB54R2xHml1UPP) | [Kim Min Seok \(MeloMance\)](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Can This Love Be Translated? \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/5Qg2iNuV6zTCGlIYunvvTd) | 3:05 |

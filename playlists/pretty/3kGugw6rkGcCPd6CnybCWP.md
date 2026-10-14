@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,159 likes - 80 songs - 4 hr 36 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,159 likes - 82 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,5 +88,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 78 | [Mountain Air](https://open.spotify.com/track/5RU1dJ8EBcVeYAP45kuBLf) | [SIBBA](https://open.spotify.com/artist/7ifOPuhHHKhlSEZ46341HS) | [Mountain Air](https://open.spotify.com/album/5FqC6izjs3eKsPa7pFul7z) | 4:13 |
 | 79 | [Twin Flame](https://open.spotify.com/track/7MG4BcFdNGBTCMJ0ipypdz) | [Fluxoxo](https://open.spotify.com/artist/74F50m6YsMlAJ2dEdujuDF) | [Twin Flame](https://open.spotify.com/album/6Q35Kr2PkmdVQGJIEyqGKn) | 2:14 |
 | 80 | [Autumn Leaves](https://open.spotify.com/track/0kSmIuMcvpjyYjkCngSb4q) | [Lauren Minear](https://open.spotify.com/artist/5nnohGTyoGL4ZCcudNki7A) | [Autumn Leaves](https://open.spotify.com/album/4q9kf0FvysHkqWnpfi9cSy) | 3:30 |
+| 81 | [core](https://open.spotify.com/track/6wPEISpKBJ3Dam6ffffF6O) | [Junii](https://open.spotify.com/artist/0sfpaC9iuqZoAjbX4WQMun), [Aero Austaire](https://open.spotify.com/artist/6gaofWZf1OGPK0Egq9yJEQ), [Tamae](https://open.spotify.com/artist/6W32hq7OVgrNXNCEU4RgfD) | [JINX! \(DELUXE\)](https://open.spotify.com/album/4OkxVtkRV61levPOhYbB59) | 2:01 |
+| 82 | [long road](https://open.spotify.com/track/3tSsxs9mEIvqrugyxV0nX6) | [tina.](https://open.spotify.com/artist/07BwCkEmgUdl0iuWfVq4mC) | [long road](https://open.spotify.com/album/3WknjuRtqocdw78ww4haRP) | 3:35 |
 
-Snapshot ID: `AAAQNGx1ny1Ir6YBjhXzKsn2ytI/E5dn`
+Snapshot ID: `AAAQNh0sESvhglDdsvjgggpaLzMY4NxV`

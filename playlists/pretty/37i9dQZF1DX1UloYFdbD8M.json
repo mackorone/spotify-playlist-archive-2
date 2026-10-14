@@ -1,13 +1,37 @@
 {
-  "description": "Super Cool Indie Tracks from Gods Own Country\nCover: Ashley Milred",
-  "num_followers": 41896,
+  "description": "Super Cool Indie Tracks from Gods Own Country\nCover: Eechuu",
+  "num_followers": 41906,
   "original_name": "Malayalam Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAfURLVwj0r9GeuQl/wpyROJ++mN",
+  "snapshot_id": "AAAAAMUFvHMVo61UqIBm62px1mm5I9jS",
   "tracks": [
+    {
+      "added_at": "2026-10-12 12:39:20",
+      "album": {
+        "name": "Punchiri",
+        "url": "https://open.spotify.com/album/3dqZQWkJ9uOvWIoz4TK2UY"
+      },
+      "artists": [
+        {
+          "name": "Eechuu",
+          "url": "https://open.spotify.com/artist/4CB5jLRM1EUNK2y6l7kixx"
+        },
+        {
+          "name": "Suhas",
+          "url": "https://open.spotify.com/artist/4p2Sm00Hqt9ICdLO7ASkcO"
+        },
+        {
+          "name": "Chris Wayne",
+          "url": "https://open.spotify.com/artist/5GkVAEDUPPeV3INTYATuzc"
+        }
+      ],
+      "duration_ms": 163759,
+      "name": "Punchiri",
+      "url": "https://open.spotify.com/track/1CJOj6Bs5OIasNTROmfWFJ"
+    },
     {
       "added_at": "2026-07-03 12:10:50",
       "album": {
@@ -33,28 +57,20 @@
       "url": "https://open.spotify.com/track/7K8k99ltDPuwr3jok0O5AE"
     },
     {
-      "added_at": "2026-10-12 12:39:20",
+      "added_at": "2026-10-13 09:29:14",
       "album": {
-        "name": "Punchiri",
-        "url": "https://open.spotify.com/album/3dqZQWkJ9uOvWIoz4TK2UY"
+        "name": "Narayana Narayana",
+        "url": "https://open.spotify.com/album/19kvuez6W6VIxddOtbGHbA"
       },
       "artists": [
         {
-          "name": "Eechuu",
-          "url": "https://open.spotify.com/artist/4CB5jLRM1EUNK2y6l7kixx"
-        },
-        {
-          "name": "Suhas",
-          "url": "https://open.spotify.com/artist/4p2Sm00Hqt9ICdLO7ASkcO"
-        },
-        {
-          "name": "Chris Wayne",
-          "url": "https://open.spotify.com/artist/5GkVAEDUPPeV3INTYATuzc"
+          "name": "Gowry Lekshmi",
+          "url": "https://open.spotify.com/artist/4Te1MOr4Y7E4lMvaeuyEjR"
         }
       ],
-      "duration_ms": 163759,
-      "name": "Punchiri",
-      "url": "https://open.spotify.com/track/1CJOj6Bs5OIasNTROmfWFJ"
+      "duration_ms": 287222,
+      "name": "Narayana Narayana",
+      "url": "https://open.spotify.com/track/5uCQ3xl1mH7idU4rie8V5A"
     },
     {
       "added_at": "2026-08-07 10:43:41",
@@ -221,6 +237,26 @@
       "url": "https://open.spotify.com/track/0xv8wzSoazfqMH4r38jjRD"
     },
     {
+      "added_at": "2026-10-13 12:16:52",
+      "album": {
+        "name": "Magarani",
+        "url": "https://open.spotify.com/album/21aJ0uF7rmYS4KOmh9MZTZ"
+      },
+      "artists": [
+        {
+          "name": "Farhash",
+          "url": "https://open.spotify.com/artist/1ItD3Wb7aZHGyfgNaFU1zq"
+        },
+        {
+          "name": "Ashley Milred",
+          "url": "https://open.spotify.com/artist/0XtbBAgEHkxh36kqmHFXyA"
+        }
+      ],
+      "duration_ms": 173714,
+      "name": "Magarani",
+      "url": "https://open.spotify.com/track/3bIIxKeP66JISKqsL0vocr"
+    },
+    {
       "added_at": "2026-09-17 06:19:34",
       "album": {
         "name": "Lovely Pain (From \"Saina Music Indie\")",
@@ -367,26 +403,6 @@
       "duration_ms": 207596,
       "name": "NEEYAA",
       "url": "https://open.spotify.com/track/6XBl0VM4xnbr1L0SlozVKT"
-    },
-    {
-      "added_at": "2026-03-13 09:09:49",
-      "album": {
-        "name": "Minnal",
-        "url": "https://open.spotify.com/album/7fCcCldrSjMcWLKdHYaYaz"
-      },
-      "artists": [
-        {
-          "name": "Aromal Chekaver",
-          "url": "https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa"
-        },
-        {
-          "name": "copiedthecat",
-          "url": "https://open.spotify.com/artist/1t3dzWfQqSMa3uIziPcWBO"
-        }
-      ],
-      "duration_ms": 171339,
-      "name": "Minnal",
-      "url": "https://open.spotify.com/track/4H0OZy4tS8NozQbyXttkBl"
     },
     {
       "added_at": "2026-09-21 10:32:15",
@@ -1647,50 +1663,6 @@
       "duration_ms": 316123,
       "name": "Kathiradum Ponvayalil",
       "url": "https://open.spotify.com/track/6JfdBgLwXIS6yj7VnRGJJJ"
-    },
-    {
-      "added_at": "2026-04-15 10:19:46",
-      "album": {
-        "name": "Kannondu",
-        "url": "https://open.spotify.com/album/2wS8JGLAiZGZ9EywGix72g"
-      },
-      "artists": [
-        {
-          "name": "Meera E",
-          "url": "https://open.spotify.com/artist/20zEJrH8OrzpCaNyolbiAf"
-        },
-        {
-          "name": "Sadique Pandallur",
-          "url": "https://open.spotify.com/artist/0xmb6mgODCpq8raCqRR3qo"
-        }
-      ],
-      "duration_ms": 168383,
-      "name": "Kannondu",
-      "url": "https://open.spotify.com/track/34ZLhArQEPt66YcZTl0ozj"
-    },
-    {
-      "added_at": "2026-04-15 10:19:46",
-      "album": {
-        "name": "Enikkayi",
-        "url": "https://open.spotify.com/album/5GJfQ6NPe1DHqu6hrB7iMR"
-      },
-      "artists": [
-        {
-          "name": "Sreevignesh Roshin",
-          "url": "https://open.spotify.com/artist/6e6FPxNAE7MqsdLNbTc2e9"
-        },
-        {
-          "name": "Sreya Anna Joseph",
-          "url": "https://open.spotify.com/artist/7kLMjxzItr4NbjZx1I4jqd"
-        },
-        {
-          "name": "Anandhu Pradeep",
-          "url": "https://open.spotify.com/artist/2wjjzWB4hoKBWBKQCjcc9e"
-        }
-      ],
-      "duration_ms": 184324,
-      "name": "Enikkayi",
-      "url": "https://open.spotify.com/track/1kX0hIdABpMCsYKHLiX5TP"
     }
   ],
   "unique_name": "Malayalam Indie",

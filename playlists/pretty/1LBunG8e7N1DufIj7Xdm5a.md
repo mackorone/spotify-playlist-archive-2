@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 289 likes - 4,928 songs - 11 day 3 hr 9 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 289 likes - 4,942 songs - 11 day 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4936,5 +4936,19 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4926 | [crossroads](https://open.spotify.com/track/65P5pZNXqVElz1owJKiE1S) | [Ario Nanaj](https://open.spotify.com/artist/3oxKAakkUQ02MoRb5Z6qrq) | [Echos from the mountains](https://open.spotify.com/album/7IrOHvz02TtBycSBIUg0E7) | 3:30 |
 | 4927 | [The Loop](https://open.spotify.com/track/1w61IX7YfpXAqDIAxZDcVF) | [Chuck Charles](https://open.spotify.com/artist/7nKrg3b8hWbGjW5AZcGWVI) | [The Loop](https://open.spotify.com/album/0Zvp9OI247cWcdcOr3zau1) | 3:30 |
 | 4928 | [Basement Series](https://open.spotify.com/track/3wMPh1kYr8Jx6sCuro6B8R) | [Zeike](https://open.spotify.com/artist/6QgyxO2UBQAFRkUOwneJ7S) | [Not Too Sweet](https://open.spotify.com/album/3m9DNbsESe790WBdY7ybnC) | 2:24 |
+| 4929 | [Strip Tease Blues](https://open.spotify.com/track/7h2R7WzdfGeofOX4W4oVID) | [The Mouksa Underground](https://open.spotify.com/artist/6fb5hopTnfPThIIHk2kiiK), [Jungmayer Louis Mouksa](https://open.spotify.com/artist/4v7SgZcoZS1PGQgkJniXRz) | [Evil Deception](https://open.spotify.com/album/4vhsRjPCqWVPehemf6QTpX) | 2:48 |
+| 4930 | [Sinclair](https://open.spotify.com/track/3B3taY933z0OIe6WlgEVkL) | [Fruition](https://open.spotify.com/artist/3iUbju4Cu6cPX5llxZWMqA) | [Ticking Away](https://open.spotify.com/album/0Ok5eBepW6Tzm2twclmLls) | 4:00 |
+| 4931 | [The Crow](https://open.spotify.com/track/66nqTUqTSYXXzjKCeoZyUD) | [Cold Hearted Cynics](https://open.spotify.com/artist/1noUBn4410GNaUCrzLNSLe) | [The Crow](https://open.spotify.com/album/2OrtL51vg3AEgHLe0wMjTl) | 4:17 |
+| 4932 | [You should be alright](https://open.spotify.com/track/44jUqLRCeiy5quHpRDBCBC) | [DJAR3K](https://open.spotify.com/artist/5ALUe1gls6ACDZjlmpFRo8) | [You should be alright](https://open.spotify.com/album/0mjUtGpq9Hk9u5OP0Y5QRE) | 5:19 |
+| 4933 | [Harbinger](https://open.spotify.com/track/4UZuYXLo1LYIWoJgdixf7W) | [Moujo](https://open.spotify.com/artist/0PbmFiJmYHIFmmYx4It54y) | [Harbinger](https://open.spotify.com/album/6WlcE25tUp8jCYV4Xm5o39) | 2:07 |
+| 4934 | [x sempre](https://open.spotify.com/track/6xJGk3Q7eesrUxQyeqRaCy) | [Autovelox](https://open.spotify.com/artist/6j939hNvhiJsV0LgCuPMbd) | [Balance](https://open.spotify.com/album/0MOSwa4DmYfQHuMmFniHK4) | 3:47 |
+| 4935 | [RAGE](https://open.spotify.com/track/1PvePvTTHv0TaX2lpHN3gR) | [Autovelox](https://open.spotify.com/artist/6j939hNvhiJsV0LgCuPMbd) | [Balance](https://open.spotify.com/album/0MOSwa4DmYfQHuMmFniHK4) | 2:05 |
+| 4936 | [Amarcord](https://open.spotify.com/track/74fatF8aGrn97DyVxVSSf4) | [Autovelox](https://open.spotify.com/artist/6j939hNvhiJsV0LgCuPMbd) | [Balance](https://open.spotify.com/album/0MOSwa4DmYfQHuMmFniHK4) | 2:33 |
+| 4937 | [Midnight train](https://open.spotify.com/track/2lqXzlSBcElCIn9fSHVof3) | [Autovelox](https://open.spotify.com/artist/6j939hNvhiJsV0LgCuPMbd) | [Balance](https://open.spotify.com/album/0MOSwa4DmYfQHuMmFniHK4) | 4:09 |
+| 4938 | [Catene](https://open.spotify.com/track/65QRaMmFkW99QtEJm0njVV) | [Autovelox](https://open.spotify.com/artist/6j939hNvhiJsV0LgCuPMbd), [Cicco](https://open.spotify.com/artist/3hj4GdQf4eDG45DsiGHvnp) | [Balance](https://open.spotify.com/album/0MOSwa4DmYfQHuMmFniHK4) | 3:38 |
+| 4939 | [Balance](https://open.spotify.com/track/10DHiOXwqmKxktaftdMhoD) | [Autovelox](https://open.spotify.com/artist/6j939hNvhiJsV0LgCuPMbd) | [Balance](https://open.spotify.com/album/0MOSwa4DmYfQHuMmFniHK4) | 3:58 |
+| 4940 | [Chaos](https://open.spotify.com/track/4hlp1x1rQuRo8kdYDp025l) | [Autovelox](https://open.spotify.com/artist/6j939hNvhiJsV0LgCuPMbd) | [Balance](https://open.spotify.com/album/0MOSwa4DmYfQHuMmFniHK4) | 3:16 |
+| 4941 | [Siberia](https://open.spotify.com/track/6x1NtLQQGvmXCqLiHMjVuG) | [Autovelox](https://open.spotify.com/artist/6j939hNvhiJsV0LgCuPMbd) | [Balance](https://open.spotify.com/album/0MOSwa4DmYfQHuMmFniHK4) | 4:16 |
+| 4942 | [Left the Building](https://open.spotify.com/track/5v4cWjdgjxFPXiwzcOtz10) | [CTRVL](https://open.spotify.com/artist/4KGZBTFYCnhD0WSoLfcYPD) | [We Feed](https://open.spotify.com/album/6w0YipA4CwwgWSM7zAq9sv) | 4:53 |
 
-Snapshot ID: `AAAKfiKajB6GUxBk9Utlr43YBNWysKS8`
+Snapshot ID: `AAAKjCp/2UyXpzxx12Qq3PH4TWCmE0vO`

@@ -7303,6 +7303,24 @@
     },
     {
       "album": {
+        "name": "got my heart on sale",
+        "url": "https://open.spotify.com/album/2MX5kvtSgs0bNozJd0muIK"
+      },
+      "artists": [
+        {
+          "name": "sensacya",
+          "url": "https://open.spotify.com/artist/57nPyy65axnQdnqKAVA9Mp"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94633,
+      "name": "got my heart on sale",
+      "url": "https://open.spotify.com/track/7LCsLz1YlTzfeAZq79ZEX8"
+    },
+    {
+      "album": {
         "name": "Broken String",
         "url": "https://open.spotify.com/album/2fxjTWt9yhsVVLaDw5089c"
       },

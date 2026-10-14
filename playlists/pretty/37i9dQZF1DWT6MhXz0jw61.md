@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Wale
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,400,833 likes - 101 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,400,781 likes - 101 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 4 | [E.T.](https://open.spotify.com/track/5J4PcF9jlWVNlTkXy8Lxu1) | [Ro$ama](https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr) | [My Forte](https://open.spotify.com/album/1ZIn9urj8CHqNfKzRyIMWg) | 2:31 |
 | 5 | [Rock Bottom](https://open.spotify.com/track/0BkkNgTr07BnCScjB8ajGk) | [AZ Chike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw) | [No Rest for The Wicked](https://open.spotify.com/album/0YlI85OJE1zupVO6kNXVeL) | 2:57 |
 | 6 | [Channel 13](https://open.spotify.com/track/5m7sf4hPlvHByTBbyRNrd1) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [The Divine Feminine \(10th Anniversary\)](https://open.spotify.com/album/1tH421ZieEz6IZ4WVD5OBI) | 4:24 |
-| 7 | [Way Too Much](https://open.spotify.com/track/5ugBXrVSfcQK66D4s6FRSe) | [Mez](https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Deante' Hitchcock](https://open.spotify.com/artist/5REHfa3YDopGOzrxwTsPvH) | [Way Too Much](https://open.spotify.com/album/1s9nf4fPpZk9M9uPaA7Yfb) | 4:03 |
+| 7 | [Way Too Much](https://open.spotify.com/track/5ugBXrVSfcQK66D4s6FRSe) | [Mez](https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6), [Deante' Hitchcock](https://open.spotify.com/artist/5REHfa3YDopGOzrxwTsPvH), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Way Too Much](https://open.spotify.com/album/1s9nf4fPpZk9M9uPaA7Yfb) | 4:03 |
 | 8 | [500 Horses](https://open.spotify.com/track/6hUZIxN8u8VhaEYeEcudXQ) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [PROLIFIC](https://open.spotify.com/album/6NlDs4YE9oo1Gd2R6dcTxJ) | 3:48 |
 | 9 | [Butterflies](https://open.spotify.com/track/3lF4ZPLhWIfbiR2G74PGdn) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Butterflies](https://open.spotify.com/album/6WxOLlIblUtwDp03fLZBmW) | 3:13 |
 | 10 | [Come Back To Me](https://open.spotify.com/track/0hi1Ih9flyXlfBxv9fwtSq) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Come Back To Me](https://open.spotify.com/album/3NwVixCirzTrl8ovF5zSxZ) | 3:06 |

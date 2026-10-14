@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Punjabi Ghazals and Qawwalis. Cover: Satinder Sartaaj",
-  "num_followers": 46296,
+  "num_followers": 46331,
   "original_name": "Punjabi Ghazals & Qawwalis",
   "owner": {
     "name": "Spotify",
@@ -343,26 +343,6 @@
     {
       "added_at": "2026-10-01 13:03:08",
       "album": {
-        "name": "Pinjar",
-        "url": "https://open.spotify.com/album/4WJdoCtxUH7nAaudUbOOPa"
-      },
-      "artists": [
-        {
-          "name": "Wadali Brothers",
-          "url": "https://open.spotify.com/artist/293XZCVDsIPWXKfieaHLuX"
-        },
-        {
-          "name": "Preeti Uttam",
-          "url": "https://open.spotify.com/artist/4soRtfeAZ1TBKGZjtufJMU"
-        }
-      ],
-      "duration_ms": 543346,
-      "name": "Waris Shah Nu",
-      "url": "https://open.spotify.com/track/4tfk5JMKtuPZ9omn8SxxsG"
-    },
-    {
-      "added_at": "2026-10-01 13:03:08",
-      "album": {
         "name": "Mahi Milade",
         "url": "https://open.spotify.com/album/7DCqKLlQpvG9GxNw1qrMDx"
       },
@@ -387,6 +367,26 @@
       "duration_ms": 253779,
       "name": "Mahi Milade",
       "url": "https://open.spotify.com/track/1gLwDAVTqRAOn4pFarYkqF"
+    },
+    {
+      "added_at": "2026-10-01 13:03:08",
+      "album": {
+        "name": "Pinjar",
+        "url": "https://open.spotify.com/album/4WJdoCtxUH7nAaudUbOOPa"
+      },
+      "artists": [
+        {
+          "name": "Wadali Brothers",
+          "url": "https://open.spotify.com/artist/293XZCVDsIPWXKfieaHLuX"
+        },
+        {
+          "name": "Preeti Uttam",
+          "url": "https://open.spotify.com/artist/4soRtfeAZ1TBKGZjtufJMU"
+        }
+      ],
+      "duration_ms": 543346,
+      "name": "Waris Shah Nu",
+      "url": "https://open.spotify.com/track/4tfk5JMKtuPZ9omn8SxxsG"
     },
     {
       "added_at": "2026-10-01 13:03:08",
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-10-01 13:03:08",
       "album": {
-        "name": "Tu Mane Ya Na Mane",
-        "url": "https://open.spotify.com/album/2wobOFgWpnQqSP3HUMfjhI"
-      },
-      "artists": [
-        {
-          "name": "Wadali Brothers",
-          "url": "https://open.spotify.com/artist/293XZCVDsIPWXKfieaHLuX"
-        }
-      ],
-      "duration_ms": 868387,
-      "name": "Tu Mane Ya Na Mane - Edit Version",
-      "url": "https://open.spotify.com/track/1RjvAAfONgaKgseqqRXZ3B"
-    },
-    {
-      "added_at": "2026-10-01 13:03:08",
-      "album": {
         "name": "Flowers Of the Same Tree",
         "url": "https://open.spotify.com/album/4hnhLGtUDSD0Vub1z0XLi6"
       },
@@ -495,22 +479,18 @@
     {
       "added_at": "2026-10-01 13:03:08",
       "album": {
-        "name": "Ranjhe",
-        "url": "https://open.spotify.com/album/621WK57f3crB5uwts4Xrnt"
+        "name": "Tu Mane Ya Na Mane",
+        "url": "https://open.spotify.com/album/2wobOFgWpnQqSP3HUMfjhI"
       },
       "artists": [
         {
-          "name": "Hassrat",
-          "url": "https://open.spotify.com/artist/2RIF6c1ug6C9JPSzxQxcvQ"
-        },
-        {
-          "name": "HARJINDER JOHAL",
-          "url": "https://open.spotify.com/artist/6rTNFKpNmtlsg5l3k3hopY"
+          "name": "Wadali Brothers",
+          "url": "https://open.spotify.com/artist/293XZCVDsIPWXKfieaHLuX"
         }
       ],
-      "duration_ms": 206895,
-      "name": "Ranjhe",
-      "url": "https://open.spotify.com/track/6PR7WNRadxuysmBNcjxr4d"
+      "duration_ms": 868387,
+      "name": "Tu Mane Ya Na Mane - Edit Version",
+      "url": "https://open.spotify.com/track/1RjvAAfONgaKgseqqRXZ3B"
     },
     {
       "added_at": "2026-10-01 13:03:08",
@@ -543,6 +523,26 @@
       "duration_ms": 417213,
       "name": "Kalli Beh Ke Sochni",
       "url": "https://open.spotify.com/track/4sQrADh96OYpGc0rqPJZ64"
+    },
+    {
+      "added_at": "2026-10-01 13:03:08",
+      "album": {
+        "name": "Ranjhe",
+        "url": "https://open.spotify.com/album/621WK57f3crB5uwts4Xrnt"
+      },
+      "artists": [
+        {
+          "name": "Hassrat",
+          "url": "https://open.spotify.com/artist/2RIF6c1ug6C9JPSzxQxcvQ"
+        },
+        {
+          "name": "HARJINDER JOHAL",
+          "url": "https://open.spotify.com/artist/6rTNFKpNmtlsg5l3k3hopY"
+        }
+      ],
+      "duration_ms": 206895,
+      "name": "Ranjhe",
+      "url": "https://open.spotify.com/track/6PR7WNRadxuysmBNcjxr4d"
     },
     {
       "added_at": "2026-10-01 13:03:08",
@@ -587,22 +587,6 @@
     {
       "added_at": "2026-10-01 13:03:08",
       "album": {
-        "name": "Andaaz - E - Sufi",
-        "url": "https://open.spotify.com/album/7c81HIvRMeSp9DdNKBG5GX"
-      },
-      "artists": [
-        {
-          "name": "Kanwar Grewal",
-          "url": "https://open.spotify.com/artist/406oFsSzz2qjU3FD6fozxu"
-        }
-      ],
-      "duration_ms": 318043,
-      "name": "Ranjha",
-      "url": "https://open.spotify.com/track/5acSF43QLkBhy2O3Y5QLLn"
-    },
-    {
-      "added_at": "2026-10-01 13:03:08",
-      "album": {
         "name": "Ishqe De",
         "url": "https://open.spotify.com/album/3xeIWOhVor6b8GbMlmgr5C"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 418333,
       "name": "Uthan Wale Lai Jaange",
       "url": "https://open.spotify.com/track/6zqxy4YhDcsbiN89cqcE8u"
+    },
+    {
+      "added_at": "2026-10-01 13:03:08",
+      "album": {
+        "name": "Andaaz - E - Sufi",
+        "url": "https://open.spotify.com/album/7c81HIvRMeSp9DdNKBG5GX"
+      },
+      "artists": [
+        {
+          "name": "Kanwar Grewal",
+          "url": "https://open.spotify.com/artist/406oFsSzz2qjU3FD6fozxu"
+        }
+      ],
+      "duration_ms": 318043,
+      "name": "Ranjha",
+      "url": "https://open.spotify.com/track/5acSF43QLkBhy2O3Y5QLLn"
     },
     {
       "added_at": "2026-10-01 13:03:08",
@@ -671,6 +671,22 @@
     {
       "added_at": "2026-10-01 13:03:08",
       "album": {
+        "name": "Bemisaal Jagjit Singh",
+        "url": "https://open.spotify.com/album/2YkxjiHsBzCPoRgFwsdXCs"
+      },
+      "artists": [
+        {
+          "name": "Chitra Singh",
+          "url": "https://open.spotify.com/artist/6pDga1iElP4dCa4S5bYvoo"
+        }
+      ],
+      "duration_ms": 320306,
+      "name": "Bawa",
+      "url": "https://open.spotify.com/track/4NrOwtaDJniWjjlmifEyX1"
+    },
+    {
+      "added_at": "2026-10-01 13:03:08",
+      "album": {
         "name": "Qubool Hai",
         "url": "https://open.spotify.com/album/0YqdLvNV20CLUKQAZPfnf6"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 409137,
       "name": "Qubool Hai",
       "url": "https://open.spotify.com/track/3L0pDSx6tBEuBs6f2gk7tQ"
-    },
-    {
-      "added_at": "2026-10-01 13:03:08",
-      "album": {
-        "name": "Bemisaal Jagjit Singh",
-        "url": "https://open.spotify.com/album/2YkxjiHsBzCPoRgFwsdXCs"
-      },
-      "artists": [
-        {
-          "name": "Chitra Singh",
-          "url": "https://open.spotify.com/artist/6pDga1iElP4dCa4S5bYvoo"
-        }
-      ],
-      "duration_ms": 320306,
-      "name": "Bawa",
-      "url": "https://open.spotify.com/track/4NrOwtaDJniWjjlmifEyX1"
     },
     {
       "added_at": "2026-10-01 13:03:08",

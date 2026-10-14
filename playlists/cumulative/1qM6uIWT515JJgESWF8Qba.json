@@ -4439,6 +4439,24 @@
     },
     {
       "album": {
+        "name": "El Poder del Miedo",
+        "url": "https://open.spotify.com/album/2rAAKdhd7RbMimKLMEdPrK"
+      },
+      "artists": [
+        {
+          "name": "David Send",
+          "url": "https://open.spotify.com/artist/31MXafStikNQHwXXa2h61m"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211748,
+      "name": "Qui\u00e9n",
+      "url": "https://open.spotify.com/track/5LNNpntodSuvNVLkHiU7er"
+    },
+    {
+      "album": {
         "name": "Rain Falls In The Night.",
         "url": "https://open.spotify.com/album/6qNaBCOTlr5tsFe5rxsQY8"
       },

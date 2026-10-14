@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 
 > Lo nuevo y lo más escuchado del pop\. Foto: Ian Lucas y Lauty Gram
 
-[Spotify](https://open.spotify.com/user/spotify) - 577,529 likes - 99 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 577,505 likes - 99 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [TKM](https://open.spotify.com/track/6jT6IeSZeSYAl5edo7SpM6) | [Ian Lucas](https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik), [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG) | [TKM](https://open.spotify.com/album/1tV3Gow94mNLEHrOux2qTQ) | 2:09 |
-| 2 | [hIGhLIGhTS](https://open.spotify.com/track/6sgXbGZdNtICgMOTbCgQWm) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [hIGhLIGhTS](https://open.spotify.com/album/2ih1Rsu406R41gFcOp8YZK) | 2:06 |
+| 2 | [hIGhLIGhTS](https://open.spotify.com/track/6sgXbGZdNtICgMOTbCgQWm) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [hIGhLIGhTS](https://open.spotify.com/album/2ih1Rsu406R41gFcOp8YZK) | 2:08 |
 | 3 | [NO ME IMPORTA](https://open.spotify.com/track/33cmCnx3p3wpm1ilojUHkc) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [NO VAYAS A ATENDER CUANDO EL DEMONIO LLAMA](https://open.spotify.com/album/6I0pKnwFMnv4fC5KzEgPnq) | 2:33 |
 | 4 | [SUPERESTRELLA](https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [CUARTO AZUL](https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M) | 3:03 |
 | 5 | [Me Gusta](https://open.spotify.com/track/0QdP6TMTjB0P6rYWpOE1Og) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Me Gusta](https://open.spotify.com/album/7rgMmQT0fYd3UPxV6H8jzg) | 2:37 |
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 | 84 | [CHINO DARIN](https://open.spotify.com/track/6y8q6nycRKybSah8vJoVHf) | [Santi Muk](https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz), [Milan y Capri](https://open.spotify.com/artist/6yC7hWMcr3qbjSzjPronX5) | [CHINO DARIN](https://open.spotify.com/album/47gg0ZTM1o5nXlOMOFY2U3) | 2:26 |
 | 85 | [La Rumbita](https://open.spotify.com/track/59dj8cinaG3Sg0ds1qn1tQ) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Maxi Espindola](https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v) | [La Rumbita](https://open.spotify.com/album/03ZCLwCMJXGCFvaE8KEmnv) | 3:30 |
 | 86 | [Cómo Puede Ser?](https://open.spotify.com/track/45STZOAX95FC1sUTWSe0wP) | [Alan Lez](https://open.spotify.com/artist/2NNTPPCTbWZxnk2bS8gLD6) | [Cómo Puede Ser?](https://open.spotify.com/album/7bigWjdoxWqnKpbBTR8owB) | 2:20 |
-| 87 | [me asfixia LA CIUDAD](https://open.spotify.com/track/51hMMibOQhxk6kWWZdlL7m) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [me asfixia LA CIUDAD](https://open.spotify.com/album/0DpCVfdtF5alKkKMKLCG8V) | 2:03 |
+| 87 | [me asfixia LA CIUDAD](https://open.spotify.com/track/51hMMibOQhxk6kWWZdlL7m) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [me asfixia LA CIUDAD](https://open.spotify.com/album/0DpCVfdtF5alKkKMKLCG8V) | 2:20 |
 | 88 | [Cansada de sanar](https://open.spotify.com/track/2CiSw3DA4Yk1E55vddWtma) | [Ernestina](https://open.spotify.com/artist/5eEAlgLGJ8pCB7uNaxvSUU) | [Cansada de sanar](https://open.spotify.com/album/2MKioB9jM9WNvxPBMhJ9ZE) | 2:20 |
 | 89 | [Me Rehúso](https://open.spotify.com/track/6ifUES3keWjwXgae8pXI3o) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [54+1](https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N) | 3:25 |
 | 90 | [NO SOY COMO ELLAS!](https://open.spotify.com/track/00MyY4Pnrmr57O4eD9IJDs) | [Ambik](https://open.spotify.com/artist/4QIM495B5wWD9B24Fsi4aR) | [NADIE DICE TE AMO](https://open.spotify.com/album/5kusk6cUuRUgUCtdLC0DMT) | 2:34 |

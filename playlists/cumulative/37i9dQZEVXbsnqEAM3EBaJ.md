@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-3,963 songs - 11 day 3 hr 16 min
+3,964 songs - 11 day 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3667,7 +3667,8 @@
 | [Vesper Light \- Audiotree Version](https://open.spotify.com/track/7I2J48BFLe4BLbkDapquMD) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE), [Audiotree](https://open.spotify.com/artist/1j8QyWpOJKAe6Iw2KvEg2j) | [Thrice \| Audiotree from Nothing](https://open.spotify.com/album/3IiAxL0O9RW4zLRWTJkrGL) | 5:44 | 2026-02-13 | 2026-05-23 |
 | [Vibrator \- The Manticore Tapes](https://open.spotify.com/track/3MWH5l5Y2zurMuiErRRcCm) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [The Manticore Tapes](https://open.spotify.com/album/4lA6sBkX6kxj6aoHBqd6eY) | 3:26 | 2025-06-27 | 2025-10-25 |
 | [Vicious Circle \- Live](https://open.spotify.com/track/36WngscEOThJVO36bcMVh3) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Live 76](https://open.spotify.com/album/1ow8kQSYz5M2nqCWWasM0t) | 4:28 | 2023-09-08 | 2023-09-11 |
-| [Victim Of Changes \- 2026 Remixed & Remastered](https://open.spotify.com/track/6z0Hr1uWtn3MXoVqSp83e3) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Sad Wings of Destiny \(50th Anniversary Remixed & Remastered\)](https://open.spotify.com/album/3cMTwZIk74swzrWUSPVzcI) | 7:51 | 2026-10-09 |  |
+| [Victim Of Changes \- 2026 Remixed & Remastered](https://open.spotify.com/track/6z0Hr1uWtn3MXoVqSp83e3) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Sad Wings of Destiny \(50th Anniversary Remixed & Remastered\)](https://open.spotify.com/album/3cMTwZIk74swzrWUSPVzcI) | 7:51 | 2026-10-09 | 2026-10-14 |
+| [Victim of Changes \- Original 1976 Masters](https://open.spotify.com/track/6nRpof5gPgogrU87jsJnhq) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Sad Wings of Destiny \(Original 1976 Masters\)](https://open.spotify.com/album/3xsb7YOwzYShxVLewJ3DNl) | 7:52 | 2026-10-09 |  |
 | [Viejos Cracks.](https://open.spotify.com/track/3dJgbbp01a4DllezbBx0fJ) | [Frainstrumentos](https://open.spotify.com/artist/1XIFZexGu17xwWAjdFBLwI), [Gran Rah](https://open.spotify.com/artist/6JjrF0EnCW3Ylj9gj3FXWZ) | [Los Jackson Frayz](https://open.spotify.com/album/5lluephzF6q1GlIYwRXiDO) | 3:27 | 2026-07-31 | 2026-08-23 |
 | [Villanos](https://open.spotify.com/track/4cAVPMLXIlzVGdJBZtrtcO) | [Cevlade](https://open.spotify.com/artist/7FavRzQTgusKjQCqvO4xXY), [Gran Rah](https://open.spotify.com/artist/6JjrF0EnCW3Ylj9gj3FXWZ), [Claudio Bastardo](https://open.spotify.com/artist/0Nk33fSMhlt1EL2uLH5eTx), [Mr Kallejero](https://open.spotify.com/artist/7nYQmCUBv268sD35UERAzj) | [Villanos](https://open.spotify.com/album/6FZBP5IekKIgCRKL7lnNdN) | 1:37 | 2026-05-30 | 2026-06-21 |
 | [Violin Concerto in D Major, Op\. 35: II\. Canzonetta\. Andante](https://open.spotify.com/track/6AfQARGh5i8w8FPYaTWWKG) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Christian Li](https://open.spotify.com/artist/06h3rv6B0pED0LXjFgODBR), [Royal Liverpool Philharmonic Orchestra](https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3), [Vasily Petrenko](https://open.spotify.com/artist/6H9eOWeGZkU9alBUYqNR7Q) | [Tchaikovsky: Violin Concerto in D Major, Op\. 35: II\. Canzonetta\. Andante](https://open.spotify.com/album/1mhothaRlrdj7qlMeVTKcx) | 6:34 | 2025-01-31 | 2025-02-15 |

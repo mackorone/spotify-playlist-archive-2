@@ -2018,7 +2018,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 227986,
       "name": "Beauty And A Beat",
       "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
@@ -5166,7 +5166,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 151500,
       "name": "Earrings",
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
@@ -9546,7 +9546,7 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-11",
+      "date_removed": null,
       "duration_ms": 171696,
       "name": "It\u2019s \u016a",
       "url": "https://open.spotify.com/track/7flVnLkUPtXnSsfrE3WqQj"
@@ -14034,7 +14034,7 @@
       ],
       "date_added": "2026-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 225868,
       "name": "Patient Zero",
       "url": "https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub"
@@ -17696,7 +17696,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 159007,
       "name": "SWIM",
       "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
@@ -18170,7 +18170,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-13",
+      "date_removed": null,
       "duration_ms": 282463,
       "name": "The Astronaut",
       "url": "https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2"
@@ -21961,6 +21961,24 @@
     },
     {
       "album": {
+        "name": "\u4e16\u7d00\u672b\u7cbe\u9078",
+        "url": "https://open.spotify.com/album/4VmOSnvL2XQXHhtiIiGQjB"
+      },
+      "artists": [
+        {
+          "name": "Andy Hui",
+          "url": "https://open.spotify.com/artist/1q8BvOdpOtapWOIgO26sOn"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228826,
+      "name": "\u4e16\u7d00\u672b\u7159\u82b1",
+      "url": "https://open.spotify.com/track/29tJsVRb0JsCuySgFOKGdi"
+    },
+    {
+      "album": {
         "name": "\u4e2d\u4e8c\u75c5\u4eba (feat. \u5468\u570b\u8ce2)",
         "url": "https://open.spotify.com/album/1LlgBBE71WMXpkuLPcxeKJ"
       },
@@ -25095,6 +25113,24 @@
     },
     {
       "album": {
+        "name": "\u597d\u8a31\u5fd7\u5b89",
+        "url": "https://open.spotify.com/album/7HKyzC27xGmYJM5POUhs3V"
+      },
+      "artists": [
+        {
+          "name": "Andy Hui",
+          "url": "https://open.spotify.com/artist/1q8BvOdpOtapWOIgO26sOn"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194840,
+      "name": "\u611b\u59b3",
+      "url": "https://open.spotify.com/track/5NR4zAujTteQIiqRryVk2v"
+    },
+    {
+      "album": {
         "name": "Most Wanted \u9706\u92d2\u7cbe\u9078",
         "url": "https://open.spotify.com/album/4OX3BsQeHL79gLZJAy1Wtq"
       },
@@ -26348,7 +26384,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 269746,
       "name": "\u6674\u5929",
       "url": "https://open.spotify.com/track/5pIcwtJYNJx93l420oR2Vm"
@@ -27866,7 +27902,7 @@
       ],
       "date_added": "2026-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-13",
+      "date_removed": null,
       "duration_ms": 197333,
       "name": "\u721b\u6ce5",
       "url": "https://open.spotify.com/track/0hC9HupMhDpbMgA3QXx8JZ"

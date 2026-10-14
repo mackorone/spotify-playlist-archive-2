@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 
 > Türkçe pop'un hit şarkıları ve zirveye oynayanlar\.  Kapak: Poizi
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,551,296 likes - 55 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,551,342 likes - 55 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 | 11 | [Her Neyse](https://open.spotify.com/track/4zdefahCXx8wR5FhW6T2Ua) | [Türkü Akbayram](https://open.spotify.com/artist/7pw5x9zobiA9BgVIjPZi1t), [Fırat Tanış](https://open.spotify.com/artist/1AMxbM8JPoryu2bTtRDHZJ) | [Her Neyse](https://open.spotify.com/album/0RSzKZI93eL8IIDJ3BENfu) | 3:00 |
 | 12 | [Sarılsam Üşür müsünüz](https://open.spotify.com/track/4PqfeF0DLN6I6S7ytq0mGI) | [Cem Adrian](https://open.spotify.com/artist/2AWUCT9xtcvkjpFq1ZgpPj) | [Sarılsam Üşür müsünüz](https://open.spotify.com/album/5R13VqBeiOQ2YPvmIbDXrX) | 3:59 |
 | 13 | [Şahsen Ben](https://open.spotify.com/track/6BE7FMDyYtF71h8bVAdyz3) | [Ajda Pekkan](https://open.spotify.com/artist/27XMnTLvCO7t3qGlQyTMkF) | [Şahsen Ben](https://open.spotify.com/album/66z4beQhv7okUsbvFkV3hh) | 4:45 |
-| 14 | [Sebep Oldi](https://open.spotify.com/track/4F40Insgc8hIUf1eQfHFiZ) | [Ferhat Göçer](https://open.spotify.com/artist/13jj3uGldU7cSQLaFkf2Zm) | [Sebep Oldi](https://open.spotify.com/album/22GGCUsK9mxFvdR8wa0Wk8) | 2:36 |
+| 14 | [Sebep Oldi](https://open.spotify.com/track/4F40Insgc8hIUf1eQfHFiZ) | [Ferhat Göçer](https://open.spotify.com/artist/13jj3uGldU7cSQLaFkf2Zm), [Yüksel Baltacı](https://open.spotify.com/artist/5tlE5dBPT5muL6dpPSExWw) | [Sebep Oldi](https://open.spotify.com/album/22GGCUsK9mxFvdR8wa0Wk8) | 2:36 |
 | 15 | [Yangın Yeri](https://open.spotify.com/track/1NR60P6PMHaFJpuATZG7Bg) | [Elif Buse Doğan](https://open.spotify.com/artist/56hgP8k96P8s7hQyMvXCHS) | [Yangın Yeri](https://open.spotify.com/album/7t0enz3EMgiyTsLGkbwzuj) | 2:31 |
 | 16 | [Unutacağım](https://open.spotify.com/track/6ZB2MjZFsNukr71joHmwQd) | [Serkan Nişancı](https://open.spotify.com/artist/5fEL815uzQRkyzW9wOfUTd) | [Unutacağım](https://open.spotify.com/album/4IJjWvJufVG6aFLmks1eMB) | 2:39 |
 | 17 | [Ölmem Ölemem](https://open.spotify.com/track/1mSZ4fTnzsufo1CSImKXqL) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Ölmem Ölemem](https://open.spotify.com/album/5ihLpjdr6kXkdb7GpbCjGB) | 3:44 |

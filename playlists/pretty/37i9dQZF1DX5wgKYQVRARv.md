@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgKYQVRARv.md) - [plain]
 
 > New and recent favorites of Prog Metal\. Cover: Periphery
 
-[Spotify](https://open.spotify.com/user/spotify) - 572,102 likes - 150 songs - 13 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 572,110 likes - 150 songs - 13 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgKYQVRARv.md) - [plain]
 | 43 | [+ ? regnet, the ? + \- instrumentaal](https://open.spotify.com/track/2GAOWwCjEncxfvrHBFm1bw) | [Vildhjarta](https://open.spotify.com/artist/0z4ODfFM8PGE0A9r0tZ75J) | [+ där skogen sjunger under evighetens granar + \(instrumentaal\)](https://open.spotify.com/album/62Q8NsEi1gxJrd1ZRwRAkM) | 3:30 |
 | 44 | [Onsra](https://open.spotify.com/track/2hs76oH0fJ5Hbqc2LhoRFY) | [Oceans Ate Alaska](https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ) | [Onsra](https://open.spotify.com/album/10U8LiPvSiWJJSh0wbAUAv) | 2:53 |
 | 45 | [A World Without Heroes](https://open.spotify.com/track/0kHAefyoCG9uauaDPVKfdI) | [Katatonia](https://open.spotify.com/artist/2CWWgbxApjbyByxBBCvGTm) | [A World Without Heroes](https://open.spotify.com/album/2xtkmBmtF01sbu1vTpM4y4) | 2:46 |
-| 46 | [Apollo](https://open.spotify.com/track/0Xs15rXuXF4jVs5FPTD1p6) | [Wolf & Bear](https://open.spotify.com/artist/7DHLWUbPofoFR1yRFfgL5a) | [Apollo](https://open.spotify.com/album/5AuaCKcgz8d4icvHCm8Upm) | 3:30 |
-| 47 | [The Wounds We Share](https://open.spotify.com/track/3iXz5NVmYv1TQHvDHawB28) | [A Sense of Purpose](https://open.spotify.com/artist/2Y3LACLX6YWynFWWszVZpM) | [The Wounds We Share](https://open.spotify.com/album/4T5J6ZKt8f8ofDr5nYwU0V) | 3:14 |
+| 46 | [The Wounds We Share](https://open.spotify.com/track/3iXz5NVmYv1TQHvDHawB28) | [A Sense of Purpose](https://open.spotify.com/artist/2Y3LACLX6YWynFWWszVZpM) | [The Wounds We Share](https://open.spotify.com/album/4T5J6ZKt8f8ofDr5nYwU0V) | 3:14 |
+| 47 | [Apollo](https://open.spotify.com/track/0Xs15rXuXF4jVs5FPTD1p6) | [Wolf & Bear](https://open.spotify.com/artist/7DHLWUbPofoFR1yRFfgL5a) | [Apollo](https://open.spotify.com/album/5AuaCKcgz8d4icvHCm8Upm) | 3:30 |
 | 48 | [Green Serpent](https://open.spotify.com/track/5qZNn0eOGIMATKu6iDpXHg) | [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [Green Serpent](https://open.spotify.com/album/5Xxp22rj2Q0AMLyzk4VHh9) | 4:01 |
 | 49 | [Don't Wake The Dead](https://open.spotify.com/track/1AxTJaBxuMzdXFhRHQfUMz) | [PAIN](https://open.spotify.com/artist/0hGpZy6ws8FofByMkt0CV1) | [I Am](https://open.spotify.com/album/7sJ0AkZceIdAKYiYYjKlwp) | 4:07 |
 | 50 | [Miasma \(feat\. Winston McCall\)](https://open.spotify.com/track/03jUMnAF30sYJ2EsPB2JtG) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [Miasma \(feat\. Winston McCall\)](https://open.spotify.com/album/3p1wPGFa4pJji35FDnMkmL) | 4:18 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgKYQVRARv.md) - [plain]
 | 67 | [Submission](https://open.spotify.com/track/75vZMlMCz2GUmfPtaDNAA2) | [Wheel](https://open.spotify.com/artist/4msm1QtpV7zMReePhbEQ6H) | [Charismatic Leaders](https://open.spotify.com/album/6cEt44K9fifMdnTxMEyds7) | 10:46 |
 | 68 | [Flow](https://open.spotify.com/track/0FB5RGj1qwh4x8grFbiYDn) | [Bernth](https://open.spotify.com/artist/0Ca8QNi2jA2pemnFC6Rydj), [Syncatto](https://open.spotify.com/artist/3CJshVeVyOmL8H1RlcXiIX) | [Flow](https://open.spotify.com/album/0tJxWTiYYvX7drrvzc2l5G) | 3:05 |
 | 69 | [Mercenary](https://open.spotify.com/track/6gfrg6juktpmPpXHLEJ3Hc) | [Soen](https://open.spotify.com/artist/38uWD5h115pdz278q4rwZW) | [Mercenary](https://open.spotify.com/album/3CSeOvIsqFOmMtiloSMI5c) | 4:10 |
-| 70 | [Through the Sands of Time](https://open.spotify.com/track/4O5eORcT2dZTZ5RWJcELzJ) | [TEMIC](https://open.spotify.com/artist/21VXRBFEQrR6Xrot1y5t7I) | [Terror Management Theory](https://open.spotify.com/album/3bYYm98M9pcR3gZl9AZGEI) | 7:01 |
-| 71 | [Glass](https://open.spotify.com/track/6JQlRaRd38T5DhUaDnR5yG) | [Unprocessed](https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4) | [Glass](https://open.spotify.com/album/65p0SUPb3ZLo9BBgxHAcoc) | 3:46 |
+| 70 | [Glass](https://open.spotify.com/track/6JQlRaRd38T5DhUaDnR5yG) | [Unprocessed](https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4) | [Glass](https://open.spotify.com/album/65p0SUPb3ZLo9BBgxHAcoc) | 3:46 |
+| 71 | [Through the Sands of Time](https://open.spotify.com/track/4O5eORcT2dZTZ5RWJcELzJ) | [TEMIC](https://open.spotify.com/artist/21VXRBFEQrR6Xrot1y5t7I) | [Terror Management Theory](https://open.spotify.com/album/3bYYm98M9pcR3gZl9AZGEI) | 7:01 |
 | 72 | [Vasgyár](https://open.spotify.com/track/2htYmHMRJQsR2qsMnkfOzO) | [Thy Catafalque](https://open.spotify.com/artist/4sgTqbA7htxYkRRJBPZIom) | [XII: A gyönyörű álmok ezután jönnek](https://open.spotify.com/album/5egKYbgsHtB0WSi6tLDAVu) | 6:17 |
 | 73 | [Wildfire](https://open.spotify.com/track/5lF73HA0eQYUBg8DyPESXJ) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Wildfire / Zagreus](https://open.spotify.com/album/3zQmZXV9xdk2AzJRQGVk2a) | 7:05 |
 | 74 | [Night Terror \- Radio Edit](https://open.spotify.com/track/69rXxY0Vbo9Z2BCYfKlWdF) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Night Terror](https://open.spotify.com/album/0hTHZRYNB5s7yteEoYQIzC) | 6:01 |
@@ -147,16 +147,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgKYQVRARv.md) - [plain]
 | 137 | [Shallow Ecstasy](https://open.spotify.com/track/1aFu1TSeBdfx4eknxNWTB9) | [Tómarúm](https://open.spotify.com/artist/6Xv8h8ntefqlic5d3DqzhZ) | [Beyond Obsidian Euphoria](https://open.spotify.com/album/2PoczEqH999hvznpNC5TMs) | 7:02 |
 | 138 | [Fear](https://open.spotify.com/track/4Sly8l7P3M4jyItnrCszeB) | [Tayne](https://open.spotify.com/artist/0YhYfoCTZKEw5VwaC7dasF), [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI), [James Spence](https://open.spotify.com/artist/4xkFkSduLRpzxrVpZMpvVv) | [Fear](https://open.spotify.com/album/1YyIQsF7te1vM4EBz2h1Bg) | 3:52 |
 | 139 | [Third Shot](https://open.spotify.com/track/5x7efls0j9BZt1jgQXU36T) | [Astronoid](https://open.spotify.com/artist/2S13OV7nLeciVigE0Wxo7E) | [Third Shot](https://open.spotify.com/album/0VuG7jFHxSTKxR3ggdKm2v) | 5:12 |
-| 140 | [Salamander in Two Worlds](https://open.spotify.com/track/3ZaIvAnZRhxLNemyyRErHH) | [Sleepytime Gorilla Museum](https://open.spotify.com/artist/74KPeP60dRLSAAk7sFtWTC) | [of the Last Human Being](https://open.spotify.com/album/21sPynlIngwnuIOcltyRjv) | 6:30 |
-| 141 | [Moral and Consequence](https://open.spotify.com/track/3cOfZRIrGGGnNdkndnmtEC) | [Frost\*](https://open.spotify.com/artist/1Ha9FtCeuoajMbOG4Kz2d7) | [Moral and Consequence](https://open.spotify.com/album/04miOpfHNxtzJXZ0KEywz0) | 8:13 |
-| 142 | [Night Drive](https://open.spotify.com/track/7E8a8acAtiOb9PrrzAvzwN) | [Kingcrow](https://open.spotify.com/artist/3nnSgQo8TIgiO5M5pv3mlV) | [Night Drive](https://open.spotify.com/album/2HJNfZHpYBBwMCNIwYYgZ1) | 5:48 |
+| 140 | [Moral and Consequence](https://open.spotify.com/track/3cOfZRIrGGGnNdkndnmtEC) | [Frost\*](https://open.spotify.com/artist/1Ha9FtCeuoajMbOG4Kz2d7) | [Moral and Consequence](https://open.spotify.com/album/04miOpfHNxtzJXZ0KEywz0) | 8:13 |
+| 141 | [Night Drive](https://open.spotify.com/track/7E8a8acAtiOb9PrrzAvzwN) | [Kingcrow](https://open.spotify.com/artist/3nnSgQo8TIgiO5M5pv3mlV) | [Night Drive](https://open.spotify.com/album/2HJNfZHpYBBwMCNIwYYgZ1) | 5:48 |
+| 142 | [Salamander in Two Worlds](https://open.spotify.com/track/3ZaIvAnZRhxLNemyyRErHH) | [Sleepytime Gorilla Museum](https://open.spotify.com/artist/74KPeP60dRLSAAk7sFtWTC) | [of the Last Human Being](https://open.spotify.com/album/21sPynlIngwnuIOcltyRjv) | 6:30 |
 | 143 | [To You, Author of My Fade](https://open.spotify.com/track/0kML9DjM0co9mchI1d3j9g) | [Fires in the Distance](https://open.spotify.com/artist/18uSn0X1chr8YsK4N09OQw) | [To You, Author of My Fade](https://open.spotify.com/album/2apM6rDpbU4nU8nn0338c8) | 9:03 |
 | 144 | [Borderline Syndrome](https://open.spotify.com/track/5iaJDLrxZ80mIvH4oveRZb) | [Monosphere](https://open.spotify.com/artist/0JDTWjgSmPVG76tIIvwPoW) | [Sentience](https://open.spotify.com/album/6iRzTS4biCbb2VukIwB9nT) | 6:48 |
 | 145 | [Piros kocsi, fekete éj](https://open.spotify.com/track/5n4TEThz5HOTIohhi2PBr5) | [Thy Catafalque](https://open.spotify.com/artist/4sgTqbA7htxYkRRJBPZIom) | [Piros kocsi, fekete éj](https://open.spotify.com/album/0jLHOyvimhtp1UQEGfTF9z) | 4:12 |
 | 146 | [Fragile Space](https://open.spotify.com/track/3jqbSOib3SFAp6hYSH0m18) | [Poh Hock](https://open.spotify.com/artist/0KBR26P2goagfV6qJWctFB), [Robert Edens](https://open.spotify.com/artist/2EmddVdQjFPPvnm1Xx5NfK) | [Gallimaufry](https://open.spotify.com/album/5TqrK0OA6CcOtei9BmUHKK) | 4:15 |
 | 147 | [PANIK](https://open.spotify.com/track/3cETXA1GfQYdAajbUDohJZ) | [Nik Nocturnal](https://open.spotify.com/artist/1Gc5ZiJhqjQQcfvMTSCa3q), [Paula Carregosa](https://open.spotify.com/artist/1M4peeoWw6mGPEqnsg1mKl) | [PANIK](https://open.spotify.com/album/1QQOGKzJOjLtCQGPEhQWH0) | 3:34 |
-| 148 | [Last Words](https://open.spotify.com/track/56yYEdtCwFKmDi8AxIE0kr) | [Fear Of Domination](https://open.spotify.com/artist/4KmUqzBGTHWlO46RpvMBUq) | [Last Words](https://open.spotify.com/album/0SEsztV9haMjD25LufYrXr) | 2:58 |
+| 148 | [Envy](https://open.spotify.com/track/3BoLYG2QSpR1bCOhuTUsYR) | [Theraphosa](https://open.spotify.com/artist/6KbRoNB73W0QozKoQ7T2Ge) | [Envy](https://open.spotify.com/album/2VA3u3c4lz0rZMisWxCIqN) | 4:30 |
 | 149 | [Spirit Corrosion](https://open.spotify.com/track/7sQsJItB0PbQ5asT8PPYrk) | [Nailed to Obscurity](https://open.spotify.com/artist/3VKWvDnlwWaBI2uzMTjuSJ) | [Spirit Corrosion](https://open.spotify.com/album/738zzIsYYGg5lcbiApHYXR) | 5:17 |
-| 150 | [Envy](https://open.spotify.com/track/3BoLYG2QSpR1bCOhuTUsYR) | [Theraphosa](https://open.spotify.com/artist/6KbRoNB73W0QozKoQ7T2Ge) | [Envy](https://open.spotify.com/album/2VA3u3c4lz0rZMisWxCIqN) | 4:30 |
+| 150 | [The Pyre](https://open.spotify.com/track/1QPzDg5WQN90mpE32nIyr5) | [A Swarm Of The Sun](https://open.spotify.com/artist/0WYYIH0BaJCvkYFIO5AVTN) | [The Pyre](https://open.spotify.com/album/5sGI2AS7F4DH5N24RiYr5q) | 18:16 |
 
 Snapshot ID: `AAAAAAb7cfEGSeBT6e0KiQZeCDeh0qBv`

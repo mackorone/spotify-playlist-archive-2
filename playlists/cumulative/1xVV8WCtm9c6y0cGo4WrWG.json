@@ -9811,6 +9811,24 @@
     },
     {
       "album": {
+        "name": "Taking the Piss",
+        "url": "https://open.spotify.com/album/2sXufJSLhSAPDZjqkLB42Y"
+      },
+      "artists": [
+        {
+          "name": "100Bandplan",
+          "url": "https://open.spotify.com/artist/54gXMsMsoa0quu4bwTms8v"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145655,
+      "name": "Taking the Piss",
+      "url": "https://open.spotify.com/track/4zzZ7g2AHvhDwS4vg4oPsb"
+    },
+    {
+      "album": {
         "name": "Talk To Me Nuh",
         "url": "https://open.spotify.com/album/2m47uENn2jQv3q5muu3z1S"
       },

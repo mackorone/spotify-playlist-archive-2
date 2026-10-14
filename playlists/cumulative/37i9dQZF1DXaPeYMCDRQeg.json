@@ -619,6 +619,24 @@
     },
     {
       "album": {
+        "name": "THE 11TH HOUR",
+        "url": "https://open.spotify.com/album/2yfx7jI0ibYIHXbvSPSsjB"
+      },
+      "artists": [
+        {
+          "name": "Johnny Venus",
+          "url": "https://open.spotify.com/artist/4Y9QKWtGSeL2NnVokmWAvz"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171672,
+      "name": "AMERICAN DREAM",
+      "url": "https://open.spotify.com/track/5nRFxKgguMpLT5Y5JC9386"
+    },
+    {
+      "album": {
         "name": "Tony! Toni! Tone'! Greatest Hits",
         "url": "https://open.spotify.com/album/1yoA6HcbdX23c4k0MXNq5g"
       },

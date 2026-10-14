@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Z8dYUrW0ZgdSMSVmlWlxR.md) - [plain]
 
 > The best TikTok Gym playlist\. Your new Release Radar\. Anime Hardstyle, AOT, anime phonk, tatli depression, zyzz, xqc, attack on titan, JCORE
 
-[ig @godmodearc](https://open.spotify.com/user/shihu) - 47,795 likes - 238 songs - 11 hr 40 min
+[ig @godmodearc](https://open.spotify.com/user/shihu) - 47,787 likes - 238 songs - 11 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,7 +151,7 @@ pretty - [cumulative](/playlists/cumulative/0Z8dYUrW0ZgdSMSVmlWlxR.md) - [plain]
 | 141 | [Bingley](https://open.spotify.com/track/5TV0LoBHGV2zTZHPdZ9CCO) | [Levenkhan](https://open.spotify.com/artist/0ceEjm8IKMdK5BjMmnGMrd) | [Bingley](https://open.spotify.com/album/2h36aQJtpjKKzX9awMcLSM) | 3:11 |
 | 142 | [young](https://open.spotify.com/track/2QXKdZg3CjYjkCrvnPvRPK) | [$werve](https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj) | [young](https://open.spotify.com/album/28G5LmWVodKOwLNnXNDbAG) | 2:20 |
 | 143 | [Overlord](https://open.spotify.com/track/5cRkdQCbLB2nqx2voHKFpB) | [kirakira](https://open.spotify.com/artist/73dSW1k3dqO5tGxLp3p3MW) | [SAN](https://open.spotify.com/album/5T9y4Wc3JeCU2qJt3dmOdp) | 2:14 |
-| 144 | [TRANSPORT](https://open.spotify.com/track/4ZV5tAIiB9bRYP1VOpMki1) | [MONK](https://open.spotify.com/artist/0ECDOlOt6XQdhgWTEo6hD7) | [TRANSPORT](https://open.spotify.com/album/1sr9EoYosVQOAfz8JsJBW6) | 4:14 |
+| 144 | [TRANSPORT](https://open.spotify.com/track/4ZV5tAIiB9bRYP1VOpMki1) | [MONKTWYNZ](https://open.spotify.com/artist/0ECDOlOt6XQdhgWTEo6hD7) | [TRANSPORT](https://open.spotify.com/album/1sr9EoYosVQOAfz8JsJBW6) | 4:14 |
 | 145 | [Harakiri\(Heldeus\)](https://open.spotify.com/track/6wMiNTAHHOAMsjEoORDwHK) | [Yeeaah Boii](https://open.spotify.com/artist/0r0X4Z8j57TaCa6XJ06Jhu) | [Harakiri\(Heldeus\)](https://open.spotify.com/album/1QpymyKbyH0jdpMvWMl0PC) | 3:46 |
 | 146 | [Punish](https://open.spotify.com/track/7cUuj12VNaNmHo3lKLzqHp) | [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI) | [Punish](https://open.spotify.com/album/562xL2LgK3yEL5pEWxJQea) | 4:32 |
 | 147 | [Tokyo by Night](https://open.spotify.com/track/4ZOWNFETsxpXQVoKntcmTw) | [KERTSCHER](https://open.spotify.com/artist/2C53tNkcdWjM4R3xHVxBvS) | [Tokyo by Night](https://open.spotify.com/album/1MIxTlMXfLkcR9cXHA4AHL) | 3:27 |

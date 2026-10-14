@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-525 songs - 1 day 6 hr 26 min
+527 songs - 1 day 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Comisery](https://open.spotify.com/track/2lDOspc5bBM493KJT7r6it) | [Scott Middlin](https://open.spotify.com/artist/5xQHsYgEBOprSATYk7ygPH) | [Comisery](https://open.spotify.com/album/46AwsxHKeMcmF4ebkExLuC) | 3:13 | 2026-01-28 | 2026-03-10 |
 | [Concrete](https://open.spotify.com/track/2gNXxEN4sBEmKyMYhAW5Fj) | [Blue Remains](https://open.spotify.com/artist/3bso49Yea3qCrqvtiUolUv) | [Concrete](https://open.spotify.com/album/3cDTeTgcq7zXxPqTWHHitB) | 4:19 | 2026-03-10 | 2026-04-16 |
 | [Consumed](https://open.spotify.com/track/26cBcYBLQJou1rYRzQ3ZXM) | [Nicole Saphos Band](https://open.spotify.com/artist/0AArU8kQuAaBB1f1kpDClR) | [Consumed](https://open.spotify.com/album/1iCLFZm1emXsdR8kASqJ7N) | 3:47 | 2026-03-31 | 2026-05-06 |
+| [core](https://open.spotify.com/track/6wPEISpKBJ3Dam6ffffF6O) | [Junii](https://open.spotify.com/artist/0sfpaC9iuqZoAjbX4WQMun), [Aero Austaire](https://open.spotify.com/artist/6gaofWZf1OGPK0Egq9yJEQ), [Tamae](https://open.spotify.com/artist/6W32hq7OVgrNXNCEU4RgfD) | [JINX! \(DELUXE\)](https://open.spotify.com/album/4OkxVtkRV61levPOhYbB59) | 2:01 | 2026-10-13 |  |
 | [Cosmonaut Blues](https://open.spotify.com/track/2Pyj8r96O3ASYRMUHYCTKl) | [Rakowsky](https://open.spotify.com/artist/6vj4Sod1PzG5SmBkrz1oiK) | [Sun Sick](https://open.spotify.com/album/7fYxIGkzp2UptMmNUZpYch) | 3:22 | 2026-08-10 |  |
 | [Courage](https://open.spotify.com/track/48qv827pojV4yv2XdEWTcU) | [Supermarket Underground](https://open.spotify.com/artist/6uABFKFo3LgW834mHlL2S4) | [Supermarket Underground](https://open.spotify.com/album/4z9ZgrunOniEQ64AAP1LYh) | 5:48 | 2026-03-31 | 2026-05-06 |
 | [CRASHOUT](https://open.spotify.com/track/7EPzWnfd7oVBlsQHZQrPsR) | [SALLIE](https://open.spotify.com/artist/11nm1LNMhlPFZyljj3IGrC) | [ASK ME IF I'M OKAY](https://open.spotify.com/album/2UNzkfXa2aUPYjE6jsu3cb) | 3:16 | 2025-11-14 | 2026-01-17 |
@@ -287,6 +288,7 @@
 | [Little Red Corvette](https://open.spotify.com/track/45cnMC7EXUO4CEzKGyg527) | [This Side of Wednesday](https://open.spotify.com/artist/0ft5RSHIKkcsSexjHEIV6V) | [Breath](https://open.spotify.com/album/7brV5bURCt0XvWfjcT9H75) | 3:48 | 2026-03-10 | 2026-04-16 |
 | [Little Self\-Indulgent](https://open.spotify.com/track/6MIEwxpFDX4AeOhYJejFPv) | [Western Jaguar](https://open.spotify.com/artist/71axwQvFwcRQJmwodhoGR3) | [Kaleidoscope](https://open.spotify.com/album/2wkD37IBLLNRoCPfXEMY53) | 3:00 | 2026-01-20 | 2026-03-10 |
 | [Lo Tengo](https://open.spotify.com/track/4vMV2D8SgSeGAr8EhxPMHI) | [VIAN LANE](https://open.spotify.com/artist/6O9j7mNmMn3icFoeQ9l5RW) | [Lo Tengo](https://open.spotify.com/album/1rRk5EmcOPXyNToxAOz540) | 4:08 | 2026-08-28 |  |
+| [long road](https://open.spotify.com/track/3tSsxs9mEIvqrugyxV0nX6) | [tina.](https://open.spotify.com/artist/07BwCkEmgUdl0iuWfVq4mC) | [long road](https://open.spotify.com/album/3WknjuRtqocdw78ww4haRP) | 3:35 | 2026-10-13 |  |
 | [Look at me](https://open.spotify.com/track/59O07Sj5VVQ8SXeuHCltN7) | [LOOSER](https://open.spotify.com/artist/74MOUfrsLMzoBLl5ssKkGk) | [Look at me](https://open.spotify.com/album/65GQNjC1rd9j7mc4rflmQg) | 4:05 | 2025-11-11 | 2026-01-17 |
 | [Lost in a Prayer](https://open.spotify.com/track/4nngNN4918GGctBPfNTDH8) | [Mai Doan](https://open.spotify.com/artist/5uFWFzNpvSy1BEF9hOT7Ps) | [Lost in a Prayer](https://open.spotify.com/album/4x6vhTPnMf5QjV6QQBTSEP) | 3:31 | 2026-08-10 |  |
 | [lost my love](https://open.spotify.com/track/3nh18o0W0aAoXn0SmDec5E) | [Mustafa!](https://open.spotify.com/artist/5pcPIjWVjazBClmhAp7mr4) | [lost my love](https://open.spotify.com/album/7oQ2JJdkZ2enJhA8muW4Cw) | 3:21 | 2026-01-26 | 2026-03-10 |

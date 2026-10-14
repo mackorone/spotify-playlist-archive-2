@@ -4,7 +4,7 @@
 
 > 
 
-3,238 songs - 6 day 22 hr 28 min
+3,240 songs - 6 day 22 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Angelcore](https://open.spotify.com/track/2zlqOFxvFRv8A020h8CBCe) | [BEL AIR WITCH](https://open.spotify.com/artist/5ehyiszRBoCkewPb1mTN6x) | [Bat Outta Hell](https://open.spotify.com/album/6phYV7gVkALNx9lUykh9kG) | 3:16 | 2024-10-05 |  |
 | [Anger In The Nation](https://open.spotify.com/track/76EpojR09zjVX00daVTxsM) | [Barber](https://open.spotify.com/artist/55yd56lRrN815OEFUOrC1W) | [Anger In The Nation](https://open.spotify.com/album/1DaUt4X7ij9DgxmkpJC9dJ) | 2:40 | 2023-03-12 |  |
 | [Anger Is My Acid \(Wrath\)](https://open.spotify.com/track/0HCWlxXCNWTRBXjawcFYwG) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl) | [Anger Is My Acid \(Wrath\)](https://open.spotify.com/album/4f2aGncI7gCK24eY40VgeG) | 3:38 | 2024-03-01 |  |
+| [Anima Libera](https://open.spotify.com/track/77Yx7wLaL6y5FnumkggKXp) | [NightcoreMaker](https://open.spotify.com/artist/0SIPaI4F4s68uuaPihiR29) | [International Nightcore](https://open.spotify.com/album/5cFaO2NWRqxPNBG2x6DLSf) | 3:11 | 2026-10-13 |  |
 | [Animal](https://open.spotify.com/track/7kq3KF19rE2UfIoSivfNtU) | [Killshot](https://open.spotify.com/artist/2m5uCiZcpQ50tXsJrThFoM) | [Animal](https://open.spotify.com/album/7IloSRa7QgsIxfxLjMmOvj) | 3:22 | 2023-07-28 |  |
 | [Annihilation](https://open.spotify.com/track/2YFY2x28M9uAdFd0TQ8VYD) | [Guiberz](https://open.spotify.com/artist/5foXMuzBwyazFvEVJqUcq4), [Killer MC](https://open.spotify.com/artist/31xXjvqT3qFHK8S3RP3SSZ) | [Bounce My Mind](https://open.spotify.com/album/4gKjpvPKdUKhcaild3FQwE) | 2:48 | 2024-05-16 |  |
 | [Annihilation](https://open.spotify.com/track/2XnoL8cLlFHhisXHqdMNsI) | [Noise Of Aggression](https://open.spotify.com/artist/3IUHsnxMykEgZX9K1v94F1) | [Annihilation](https://open.spotify.com/album/5Q84Gm65gDEypiedM76m9a) | 3:08 | 2026-05-11 |  |
@@ -2778,6 +2779,7 @@
 | [THE FIRST STORM](https://open.spotify.com/track/1Id2MPRgJIQtUyR1ElHvsm) | [Collusion](https://open.spotify.com/artist/2YmjCQbg95CCYiC28uBOLW) | [THE FIRST STORM](https://open.spotify.com/album/4I2uq7ERsBvAClx5lwjdb3) | 2:13 | 2025-02-28 |  |
 | [The Fist And The Hammer](https://open.spotify.com/track/1WqPj6LF4DlGyi60JhJ9Bs) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS), [Dither](https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7) | [The Fist And The Hammer](https://open.spotify.com/album/1VqVbRpmGbjx9YUbsjsKvU) | 3:50 | 2023-06-24 |  |
 | [The Fist And The Hammer](https://open.spotify.com/track/1r4sVxB9x95LE028g9exm1) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS), [Dither](https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7) | [The Wreckoning](https://open.spotify.com/album/18Mnzx0terGHSvFhPyzaCB) | 3:50 | 2023-07-14 |  |
+| [The Fix \- S3RL Remix](https://open.spotify.com/track/0AuxOVmVKfLQcU2UB7PgL2) | [Project Shadow](https://open.spotify.com/artist/13w8Mpg0dI7QoaHnqcCPqQ), [Racy](https://open.spotify.com/artist/7IQAf0uDOeCqs18SZN3RI5) | [The Fix \(S3RL Remix\)](https://open.spotify.com/album/2wWy3a11niBIDWJ2irnlCQ) | 5:09 | 2026-10-13 |  |
 | [The Flow](https://open.spotify.com/track/1RSuXbzWO7b34EDGTTRgCg) | [Remzcore](https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp) | [The Flow](https://open.spotify.com/album/5E3eo95AbTEUW5DdiBNOJr) | 2:59 | 2024-04-22 |  |
 | [The Forest](https://open.spotify.com/track/7xYEF0C2n22DpTe2C5N1X5) | [Sunhiausa](https://open.spotify.com/artist/1qDgh7C7FRYAln38RsYZ0x) | [The Forest](https://open.spotify.com/album/20ovZTHJ8M5gBUWZ6P0exH) | 3:35 | 2024-11-15 |  |
 | [The Formation](https://open.spotify.com/track/3noS2Px1AwDwgbYavCw96f) | [Abaddon](https://open.spotify.com/artist/3ujI46PHi7vombfnkjM8C3), [Dark Individual](https://open.spotify.com/artist/7bv5tvdTZlKCbsgMzOVC5i), [Screecher](https://open.spotify.com/artist/0ZTkDaAaIcEnjE0FPq5rBD), [Tharoza](https://open.spotify.com/artist/5RxJJVYFSWDQHI8tRNjFJB), [Rosbeek](https://open.spotify.com/artist/1JBQEf0i8Vl8oPG7iUNzr0) | [The Formation](https://open.spotify.com/album/1hJW4an6Tq5eKRkJ9Pqwkd) | 3:37 | 2026-02-27 |  |

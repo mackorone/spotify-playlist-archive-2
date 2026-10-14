@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Oliver Koletzki
 
-[Spotify](https://open.spotify.com/user/spotify) - 758,066 likes - 90 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 758,089 likes - 90 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Zoid](https://open.spotify.com/track/7fyjsqtTPRanmUEOKV3it7) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Retro/Grade](https://open.spotify.com/artist/32iq9dVu0crRZitszkzGHg) | [Zoid](https://open.spotify.com/album/65GCD6oBhep49YMeMfq5B3) | 6:09 |
-| 2 | [Resist](https://open.spotify.com/track/5Mdrt9NC4iC38cYtYsBeCr) | [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z), [Sama’ Abdulhadi](https://open.spotify.com/artist/52qyXsgOeHZZxHRRxyO8xm) | [Resist](https://open.spotify.com/album/0wzeb2r8ftRqAKNCboBRzn) | 6:06 |
+| 2 | [Resist](https://open.spotify.com/track/5Mdrt9NC4iC38cYtYsBeCr) | [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z), [Sama’ Abdulhadi](https://open.spotify.com/artist/52qyXsgOeHZZxHRRxyO8xm), [Mahmoud Darwish](https://open.spotify.com/artist/6W72OWSfntZcg2pMYIxpRD), [Sa'd Abdulhadi](https://open.spotify.com/artist/2NWdvXDSMTPWL2gRdrZ3o7) | [Resist](https://open.spotify.com/album/0wzeb2r8ftRqAKNCboBRzn) | 6:06 |
 | 3 | [Cold](https://open.spotify.com/track/1AFF0ITCSnyFfnCa4gvB9M) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564), [Jeannel](https://open.spotify.com/artist/69kqP1mHMwDajWdU2XKZLZ) | [Cold](https://open.spotify.com/album/4Fuz9hNtZGdHExeggwFeha) | 4:10 |
 | 4 | [Unlock](https://open.spotify.com/track/75nfksg81xA26Cjk6x90ce) | [TH;EN](https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff) | [Unlock](https://open.spotify.com/album/7dDiSRq5OzOgVRNQOZytF7) | 3:24 |
 | 5 | [In My Mind](https://open.spotify.com/track/19FphEiURddB9emBRVtBCW) | [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK) | [In My Mind](https://open.spotify.com/album/4z68u9dgRfAEmGMmQ0AvLD) | 5:24 |

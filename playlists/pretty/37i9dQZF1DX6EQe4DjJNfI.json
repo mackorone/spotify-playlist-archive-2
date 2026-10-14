@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: LUDMILLA",
-  "num_followers": 192053,
+  "num_followers": 192063,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -403,26 +403,18 @@
     {
       "added_at": "2026-10-09 03:01:23",
       "album": {
-        "name": "N\u00e3o mente pra mim",
-        "url": "https://open.spotify.com/album/5qsmxWdCeVCuPJtzs7NHxr"
+        "name": "Despacha",
+        "url": "https://open.spotify.com/album/1dci5uXicRuc34idbXrxdi"
       },
       "artists": [
         {
-          "name": "Medulla",
-          "url": "https://open.spotify.com/artist/7CVOAoQbR9WM67A4ppOLAN"
-        },
-        {
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
-        },
-        {
-          "name": "Los Brasileros",
-          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
         }
       ],
-      "duration_ms": 202666,
-      "name": "N\u00e3o mente pra mim",
-      "url": "https://open.spotify.com/track/2yeomphV6ibKz3sYj1PJ5M"
+      "duration_ms": 178557,
+      "name": "Despacha",
+      "url": "https://open.spotify.com/track/5m4Ok5eGb7Igrw6d6G4fqr"
     },
     {
       "added_at": "2026-10-09 03:01:23",
@@ -443,18 +435,26 @@
     {
       "added_at": "2026-10-09 03:01:23",
       "album": {
-        "name": "Despacha",
-        "url": "https://open.spotify.com/album/1dci5uXicRuc34idbXrxdi"
+        "name": "N\u00e3o mente pra mim",
+        "url": "https://open.spotify.com/album/5qsmxWdCeVCuPJtzs7NHxr"
       },
       "artists": [
         {
-          "name": "Melly",
-          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+          "name": "Medulla",
+          "url": "https://open.spotify.com/artist/7CVOAoQbR9WM67A4ppOLAN"
+        },
+        {
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        },
+        {
+          "name": "Los Brasileros",
+          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
         }
       ],
-      "duration_ms": 178557,
-      "name": "Despacha",
-      "url": "https://open.spotify.com/track/5m4Ok5eGb7Igrw6d6G4fqr"
+      "duration_ms": 202666,
+      "name": "N\u00e3o mente pra mim",
+      "url": "https://open.spotify.com/track/2yeomphV6ibKz3sYj1PJ5M"
     },
     {
       "added_at": "2026-10-09 03:01:23",
@@ -523,6 +523,22 @@
     {
       "added_at": "2026-10-09 03:01:23",
       "album": {
+        "name": "MOMENTUM",
+        "url": "https://open.spotify.com/album/4GhFPTHkOdxEcz8fSEsQsx"
+      },
+      "artists": [
+        {
+          "name": "Trivia",
+          "url": "https://open.spotify.com/artist/2aedff5jy8iqr4GWGnee1g"
+        }
+      ],
+      "duration_ms": 206331,
+      "name": "Cartas Na Mesa",
+      "url": "https://open.spotify.com/track/5Q19PlPmY4VAordtvqzRqG"
+    },
+    {
+      "added_at": "2026-10-09 03:01:23",
+      "album": {
         "name": "Duas Vezes",
         "url": "https://open.spotify.com/album/65zrJvV4qdmXSr18NeIEJ3"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 160784,
       "name": "Duas Vezes",
       "url": "https://open.spotify.com/track/29jtks0Ub0Ngt5K9WuF8uz"
-    },
-    {
-      "added_at": "2026-10-09 03:01:23",
-      "album": {
-        "name": "MOMENTUM",
-        "url": "https://open.spotify.com/album/4GhFPTHkOdxEcz8fSEsQsx"
-      },
-      "artists": [
-        {
-          "name": "Trivia",
-          "url": "https://open.spotify.com/artist/2aedff5jy8iqr4GWGnee1g"
-        }
-      ],
-      "duration_ms": 206331,
-      "name": "Cartas Na Mesa",
-      "url": "https://open.spotify.com/track/5Q19PlPmY4VAordtvqzRqG"
     },
     {
       "added_at": "2026-10-09 03:01:23",
@@ -835,6 +835,22 @@
     {
       "added_at": "2026-10-09 03:01:23",
       "album": {
+        "name": "Poema Sujo",
+        "url": "https://open.spotify.com/album/0YMVamkJjw75KFVgqJVYUy"
+      },
+      "artists": [
+        {
+          "name": "Bela Maria",
+          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Poema Sujo",
+      "url": "https://open.spotify.com/track/6O3MrX78qrxznXjufyjHct"
+    },
+    {
+      "added_at": "2026-10-09 03:01:23",
+      "album": {
         "name": "Logo Eu",
         "url": "https://open.spotify.com/album/0CkFLpxTGob3oHhv4WO4w6"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 179389,
       "name": "Logo Eu",
       "url": "https://open.spotify.com/track/4SoklFLl7XvQnylDQj5sd3"
-    },
-    {
-      "added_at": "2026-10-09 03:01:23",
-      "album": {
-        "name": "Poema Sujo",
-        "url": "https://open.spotify.com/album/0YMVamkJjw75KFVgqJVYUy"
-      },
-      "artists": [
-        {
-          "name": "Bela Maria",
-          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Poema Sujo",
-      "url": "https://open.spotify.com/track/6O3MrX78qrxznXjufyjHct"
     },
     {
       "added_at": "2026-10-09 03:01:23",

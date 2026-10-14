@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-689 songs - 1 day 17 hr 18 min
+691 songs - 1 day 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Find a New Woman](https://open.spotify.com/track/3WmqYs3BrnWzhwqIDGc5zV) | [Surahn](https://open.spotify.com/artist/7isf2onROC85pAnUK3wXAb) | [Find a New Woman](https://open.spotify.com/album/0496eUt0NO2J8iTYM92KkK) | 3:50 | 2022-03-30 | 2022-04-20 |
 | [Find Somebody to Love](https://open.spotify.com/track/7D4mBnlIlSG7VBvAljjkZS) | [Dante Elephante](https://open.spotify.com/artist/3RdlkFPALHduIIZSinXgJZ) | [Mid\-Century Modern Romance](https://open.spotify.com/album/3lquhZzldiNKkeBxSEDUuJ) | 3:12 | 2025-04-29 | 2025-10-18 |
 | [Fire](https://open.spotify.com/track/4j5x8nURU1SNMFvVxcJj65) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas](https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe) | 4:06 | 2025-04-29 |  |
+| [Fish in the Reeds](https://open.spotify.com/track/3oVnq5uKXr5HQUW3Lt6AfH) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Fish in the Reeds](https://open.spotify.com/album/1Dd5rfQyybKrHArWw6ktG6) | 4:00 | 2026-10-13 |  |
 | [Following the Sun](https://open.spotify.com/track/0l6X7PafPZB83LkWaB4HkN) | [M.I.L.K.](https://open.spotify.com/artist/2ekValwbXG7P55xYXwWOZx) | [Following the Sun](https://open.spotify.com/album/2jaNswLulmmi2sX1Iqxct8) | 4:27 | 2022-03-30 | 2022-04-21 |
 | [fool around](https://open.spotify.com/track/1qabjFO5ij7kHIM91RSeqr) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [strongboi](https://open.spotify.com/album/1SMqO3mYNla8IxJIEFkQ7A) | 4:44 | 2024-12-09 |  |
 | [Fossils](https://open.spotify.com/track/7KLL7EwBo7lMgRIKM74QXC) | [THAO](https://open.spotify.com/artist/4PfWwzCyXuXAjuaisibSKG) | [Fossils](https://open.spotify.com/album/0NMixNMU4F6CTrL04zFtAf) | 4:03 | 2026-07-22 |  |
@@ -407,6 +408,7 @@
 | [New Light](https://open.spotify.com/track/3bH4HzoZZFq8UpZmI2AMgV) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [New Light](https://open.spotify.com/album/5fEgDYFPUcvQy21TYoLEZ0) | 3:36 | 2022-03-30 | 2022-04-21 |
 | [New Light](https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:37 | 2022-07-26 | 2024-04-19 |
 | [New Light](https://open.spotify.com/track/41f8HyuxASzuEcEs01x10O) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Treino Pop 2022](https://open.spotify.com/album/1NeZ6oYVALUuygJwW5zvve) | 3:37 | 2022-11-11 | 2022-11-14 |
+| [New Slack](https://open.spotify.com/track/1baFNFi82Bj5vwv39ugtJn) | [Michael Nau](https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs) | [New Slack](https://open.spotify.com/album/4c7xiN0CIGQFbdqO7KwMKj) | 3:36 | 2026-10-13 |  |
 | [Next to Normal](https://open.spotify.com/track/32hyjj6HoeylRLJDEwLRPM) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Second Nature](https://open.spotify.com/album/23rODwWw3dylrLEzUW1tIw) | 3:10 | 2023-07-25 | 2026-01-15 |
 | [Next To You](https://open.spotify.com/track/6tw9QhbPUAfvbtAi2bDvnQ) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Addicted To You](https://open.spotify.com/album/03mQWhCkJ77Hq9aP8dD21r) | 3:35 | 2022-03-30 | 2022-04-16 |
 | [No Better](https://open.spotify.com/track/0DXlHWi8pqB5R2gfzlZx2i) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Shanti](https://open.spotify.com/album/0u5GdeMzPuGFMbkJgt2RHz) | 4:02 | 2022-03-30 | 2022-04-20 |
@@ -499,7 +501,7 @@
 | [Running Away](https://open.spotify.com/track/0wpjR48SjbwsHxd7CeaRse) | [Joey Dosik](https://open.spotify.com/artist/3kANxNTLNOhxpOPoCbGq9E) | [Game Winner \- EP \(Deluxe Edition\)](https://open.spotify.com/album/3YgyDtXFVN2AVMPZE1GfFV) | 4:31 | 2021-12-16 | 2022-07-29 |
 | [Running Away](https://open.spotify.com/track/34VDj911PQh8B1BXYoOMLq) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Running Away](https://open.spotify.com/album/6cV7QYmHkPFCJaoRCQscpE) | 3:15 | 2023-09-19 |  |
 | [Runway Gurl \- Original Mix](https://open.spotify.com/track/4qEt7wJkdViaMNi2EP0SDk) | [Chuggin Edits](https://open.spotify.com/artist/765A5emJkUUu04hkQaN3Op) | [Get a Room](https://open.spotify.com/album/5GpVL1Hn8CFb2vhhLCQacJ) | 5:34 | 2021-12-16 | 2022-07-29 |
-| [S.O.L.](https://open.spotify.com/track/2FkLjsFnK6H9iuoXNLGfNy) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Olivier St.Louis](https://open.spotify.com/artist/0HHMWJfJPFFuZqnv2rSsyI) | [S.O.L\. EP](https://open.spotify.com/album/2dSeTSbKTzauej8icTIzdk) | 5:49 | 2024-12-09 |  |
+| [S.O.L.](https://open.spotify.com/track/2FkLjsFnK6H9iuoXNLGfNy) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Olivier St.Louis](https://open.spotify.com/artist/0HHMWJfJPFFuZqnv2rSsyI) | [S.O.L\. EP](https://open.spotify.com/album/2dSeTSbKTzauej8icTIzdk) | 5:49 | 2024-12-09 | 2026-10-14 |
 | [Sabor Dulce](https://open.spotify.com/track/2Xlx1ATkGYjYjmNn0w7O59) | [Los Belkings](https://open.spotify.com/artist/6bI3v3BkqFwEbXQfB081Dn) | [Los Belkings \(Ayer y Hoy\)](https://open.spotify.com/album/3vvNY1JAizDCAnMnxUTZie) | 3:28 | 2025-07-23 | 2025-12-30 |
 | [Sad Dream](https://open.spotify.com/track/6k8jlEH1WssLwzXHfZGq3j) | [EchoWave](https://open.spotify.com/artist/6cRSP0k82PWTiEmLPqwrTI) | [Sad Dream](https://open.spotify.com/album/2HIWjaGWNOazjOiF7cpUrr) | 3:40 | 2024-08-14 | 2024-11-12 |
 | [Safe](https://open.spotify.com/track/4ofgRDtuYb7hfBgZLSAw4X) | [Bay Ledges](https://open.spotify.com/artist/7FhRUp59cBzPaxobsRY1Nc) | [Safe](https://open.spotify.com/album/3Y8WcmnrpBlWPFlN3zeFU0) | 3:05 | 2021-12-16 | 2022-07-29 |
@@ -667,7 +669,7 @@
 | [When You Lose Someone](https://open.spotify.com/track/42cVZAhX13JCHwrvlfqLcB) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Sticking With It](https://open.spotify.com/album/4lcsKKAPES2jYFmtSyRH95) | 3:25 | 2023-06-20 | 2024-08-09 |
 | [Where Did You Go?](https://open.spotify.com/track/58mvOmBNIhIehSYvwgRUyN) | [Sam Evian](https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu) | [You, Forever](https://open.spotify.com/album/7uOn3dpPMtthc9fx89AcPX) | 3:19 | 2022-03-30 | 2022-04-21 |
 | [Where You Belong](https://open.spotify.com/track/0WPOxxoEVoglAvhqroDpQA) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [New Me, Same Us](https://open.spotify.com/album/3PuofR78j1BFBGBrNCCYUF) | 3:27 | 2021-12-16 |  |
-| [Where's My Beach Hat](https://open.spotify.com/track/0W7ID3fBwiarBoHqETvlXh) | [FLEECE](https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm) | [TORNADO](https://open.spotify.com/album/1u7lnVv0gqzo6TNSSvjojv) | 3:24 | 2026-03-19 |  |
+| [Where's My Beach Hat](https://open.spotify.com/track/0W7ID3fBwiarBoHqETvlXh) | [FLEECE](https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm) | [TORNADO](https://open.spotify.com/album/1u7lnVv0gqzo6TNSSvjojv) | 3:24 | 2026-03-19 | 2026-10-14 |
 | [Why I Came To California](https://open.spotify.com/track/3UevP4SvSdMJULZZr5ZBkA) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [Why I Came To California](https://open.spotify.com/album/4OM02rEXhwCm8dfTUFGIHO) | 4:39 | 2021-12-16 | 2022-07-29 |
 | [Why Why Why Why Why](https://open.spotify.com/track/4zwq3QUKgMNk0NSLl7fpbP) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [5](https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb) | 3:58 | 2021-12-16 | 2024-12-10 |
 | [Will You Promise](https://open.spotify.com/track/6Ted7KB5tLxmuxHMTOjzj9) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [My Love and Music](https://open.spotify.com/album/2gdtgeYm3JCSFzgxuqN1u0) | 3:46 | 2022-03-30 | 2022-04-17 |

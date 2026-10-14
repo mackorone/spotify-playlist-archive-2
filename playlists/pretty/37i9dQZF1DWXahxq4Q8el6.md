@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXahxq4Q8el6.md) - [plain]
 
 > Uplifting scores and soundtracks to make your heart happy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,666 likes - 67 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,743 likes - 67 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXahxq4Q8el6.md) - [plain]
 | 55 | [Vianne Sets Up Shop \(From "Chocolat" Soundtrack\)](https://open.spotify.com/track/2vPalVURlUvEwv4xsLGbEM) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [Chocolat \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1fs5PH1L35fEbG2csJT3AD) | 1:57 |
 | 56 | [A Golden Childhood](https://open.spotify.com/track/06c5mZyiTC81gCaQ05sCIG) | [Patrick Doyle](https://open.spotify.com/artist/1W42coQfIlt6btgqpfJWYQ) | [Cinderella \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MaXQAzgpi1UGNNia9r7fx) | 3:56 |
 | 57 | [Hope \(From "A Hidden Life" Soundtrack\)](https://open.spotify.com/track/0ByRFYqhIaKQqWXShfoOTw) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2), [James Ehnes](https://open.spotify.com/artist/0b7df8SeNFCgnJj5Wjg5c8), [Andrew Armstrong](https://open.spotify.com/artist/3pi9i7KYNops33AeHXFGMz) | [A Hidden Life \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1JyFpFS3gUIS5F5NCZRsk7) | 2:30 |
-| 58 | [Stationary Cycle](https://open.spotify.com/track/3MZwaRLlfyvPSIP7qHpBO8) | [Theodore Shapiro](https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T), [Mark Graham](https://open.spotify.com/artist/2n2ZWyoCn0jr3I5rhDoFAw) | [The Secret Life of Walter Mitty \(Original Motion Picture Score\)](https://open.spotify.com/album/2pLC40gyEsQljWWBV3zA1T) | 2:43 |
+| 58 | [Stationary Cycle](https://open.spotify.com/track/3MZwaRLlfyvPSIP7qHpBO8) | [Theodore Shapiro](https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T), [Mark Graham](https://open.spotify.com/artist/2n2ZWyoCn0jr3I5rhDoFAw), [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [The Secret Life of Walter Mitty \(Original Motion Picture Score\)](https://open.spotify.com/album/2pLC40gyEsQljWWBV3zA1T) | 2:43 |
 | 59 | [Elisa's Theme](https://open.spotify.com/track/0Cr1H8kCXN5qBAQCHYtVGu) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0) | [The Shape Of Water \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/058fiqH1NYYmur8cicws4l) | 2:36 |
 | 60 | [Score Suite \(From "A Beautiful Day in the Neighborhood" Soundtrack\)](https://open.spotify.com/track/4jVaVybiUiKHPd0SxfU3ZK) | [Nate Heller](https://open.spotify.com/artist/1upi0p1RPmbUDRvbDjxNKn) | [A Beautiful Day in the Neighborhood \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6ivFRy56HgNNiwYeeTdIIa) | 4:46 |
 | 61 | [Leaping Penguins](https://open.spotify.com/track/4axwWfy5bqOQeZ0adeJ6XU) | [George Fenton](https://open.spotify.com/artist/0NdNx5JwLDvas2LsMVTSyQ), [BBC Concert Orchestra](https://open.spotify.com/artist/3dIPaddbWppnquuPkcYVDg) | [Frozen Planet \(Soundtrack from the TV series\)](https://open.spotify.com/album/3A4JADKRXmANcPAPB8UHwn) | 1:28 |

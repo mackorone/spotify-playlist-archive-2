@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-800 songs - 2 day 1 hr 49 min
+802 songs - 2 day 1 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -680,10 +680,12 @@
 | [Tear Down the Sky](https://open.spotify.com/track/4sKd8sVdwGOqQgOWTSuIsU) | [Touch of Red](https://open.spotify.com/artist/07GYobUq3xeoOIhrqJ2Bc1) | [In Our Nature](https://open.spotify.com/album/3OpeVn7ARilpWiXIgZS6j3) | 4:51 | 2026-07-07 |  |
 | [Technicolor Wine](https://open.spotify.com/track/37zitPVqGB50b27TrvHjbg) | [Dizzy Daffodils](https://open.spotify.com/artist/1d6SQiQelLAdAjeiKX9CTm) | [Technicolor Wine](https://open.spotify.com/album/2LuUFZMvR9PSNdv4QDlhNk) | 3:46 | 2025-10-21 | 2025-11-28 |
 | [Tell Me Why](https://open.spotify.com/track/14xVr1mTSAwFY22RgIEzkb) | [Brandon Bing](https://open.spotify.com/artist/3iZ4FWTAjIRDhQI9El9dlR) | [Tell Me Why](https://open.spotify.com/album/02QFtQGt2W4dzCWCaIvQJ7) | 3:21 | 2026-04-12 |  |
+| [Tell Me You Like To Dance](https://open.spotify.com/track/2shi8nwotiKes5rFU50BZ2) | [HEVL](https://open.spotify.com/artist/5Fu10ZnbaiPhMjqFisPH30) | [Tell Me You Like To Dance](https://open.spotify.com/album/3yugy6NH8PCxhNHkN6IGuM) | 3:17 | 2026-10-13 |  |
 | [Temptaitions](https://open.spotify.com/track/3KNHuU49oFzpJYu4KcQRTB) | [Backstrom](https://open.spotify.com/artist/31DB1gJNtSbXs06VuQgx8h), [Bart Topher](https://open.spotify.com/artist/3mvp7QP1kba2iFsaSZOA6a) | [Temptaitions](https://open.spotify.com/album/6O55lTKdy0kkOxnUiSfkoV) | 3:57 | 2025-09-24 | 2025-12-17 |
 | [That's the Story of My Life](https://open.spotify.com/track/4Hy90CTI3ZGt6z6yvAtdGC) | [Exzenya](https://open.spotify.com/artist/5xpe1fPWU3vzvhx9iJcUc0) | [That's the Story of My Life](https://open.spotify.com/album/0i7NwC632Q4RF36P2xXJLh) | 4:12 | 2026-06-01 | 2026-06-18 |
 | [The Best of Me Belongs to You](https://open.spotify.com/track/311iEqzTpmxHiuyTBiv0hq) | [Lucas Orione](https://open.spotify.com/artist/3zMzklK5gKCsSKLvgDxZee) | [The Best of Me Belongs to You](https://open.spotify.com/album/2ZnfjQwHVqvdzQALylLElI) | 3:42 | 2026-04-02 | 2026-04-21 |
 | [The Bond](https://open.spotify.com/track/5WYkSDKAz2B8NA182Di5Go) | [Evon Rose](https://open.spotify.com/artist/3DyWzJwbk4fijpMYOrc7R5) | [The Bond](https://open.spotify.com/album/7Kp7wrTCNan7B0ZW6DjZSR) | 3:29 | 2025-10-04 | 2025-12-17 |
+| [The Climb](https://open.spotify.com/track/44zc9DyvJH506kYjDA11xt) | [Trinity Aliens](https://open.spotify.com/artist/4znIHpAAQa3vn5gglURZov) | [The Climb](https://open.spotify.com/album/3UbYbh2Z3jxP42jKh7X0O2) | 2:59 | 2026-10-13 |  |
 | [The Current](https://open.spotify.com/track/1I48cT7zjIcAbz2FJmnbyf) | [Ugochill](https://open.spotify.com/artist/1kOGUspiJr2BQ7HMDQdTRw) | [The Current](https://open.spotify.com/album/2cO1HjYSTNbwbc65fLAnza) | 4:13 | 2026-09-18 |  |
 | [The Day Before](https://open.spotify.com/track/7yLWTEsJPfXNHst3iDxH0O) | [David van der Ploeg](https://open.spotify.com/artist/6EeouqO5ERRV1HVYfPDOyY) | [The Day Before](https://open.spotify.com/album/5J7VKSO9BJ26nCAOJL2xkP) | 4:04 | 2026-09-07 | 2026-09-20 |
 | [The Death of Venus](https://open.spotify.com/track/6ahpQjmfYTfTE3YVJnivsN) | [The Sway](https://open.spotify.com/artist/6cabGpsisry0tJA3maWIo9) | [Going Blind](https://open.spotify.com/album/6BGcpr68cgLxod7vrRmkeR) | 6:39 | 2026-06-27 |  |

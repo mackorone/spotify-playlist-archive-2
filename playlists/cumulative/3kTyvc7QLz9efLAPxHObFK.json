@@ -2409,6 +2409,24 @@
     },
     {
       "album": {
+        "name": "International Nightcore",
+        "url": "https://open.spotify.com/album/5cFaO2NWRqxPNBG2x6DLSf"
+      },
+      "artists": [
+        {
+          "name": "NightcoreMaker",
+          "url": "https://open.spotify.com/artist/0SIPaI4F4s68uuaPihiR29"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191374,
+      "name": "Anima Libera",
+      "url": "https://open.spotify.com/track/77Yx7wLaL6y5FnumkggKXp"
+    },
+    {
+      "album": {
         "name": "Animal",
         "url": "https://open.spotify.com/album/7IloSRa7QgsIxfxLjMmOvj"
       },
@@ -57514,6 +57532,28 @@
       "duration_ms": 230915,
       "name": "The Fist And The Hammer",
       "url": "https://open.spotify.com/track/1r4sVxB9x95LE028g9exm1"
+    },
+    {
+      "album": {
+        "name": "The Fix (S3RL Remix)",
+        "url": "https://open.spotify.com/album/2wWy3a11niBIDWJ2irnlCQ"
+      },
+      "artists": [
+        {
+          "name": "Project Shadow",
+          "url": "https://open.spotify.com/artist/13w8Mpg0dI7QoaHnqcCPqQ"
+        },
+        {
+          "name": "Racy",
+          "url": "https://open.spotify.com/artist/7IQAf0uDOeCqs18SZN3RI5"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309942,
+      "name": "The Fix - S3RL Remix",
+      "url": "https://open.spotify.com/track/0AuxOVmVKfLQcU2UB7PgL2"
     },
     {
       "album": {

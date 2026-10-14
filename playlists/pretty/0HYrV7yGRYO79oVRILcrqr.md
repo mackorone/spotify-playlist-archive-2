@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,905 likes - 143 songs - 9 hr 7 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,906 likes - 145 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,5 +151,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 141 | [Pasado de Estilo](https://open.spotify.com/track/1Sps8sD4rL6EOSNEeQ5NHU) | [Dani Sugar](https://open.spotify.com/artist/1ZoIRn3Y4sGWoMEr3j22QN), [Angie](https://open.spotify.com/artist/2DjtxC5D5B1mwdyIIzV2TH) | [Pasado de Estilo](https://open.spotify.com/album/6wH5JF0C9JnuXLPTz7znwD) | 2:53 |
 | 142 | [You Think You've Got It](https://open.spotify.com/track/0yMfVMcr9vOBhWj3iU7O8f) | [Nitrate](https://open.spotify.com/artist/6wEVMZieIv9ttCzvuDYev8) | [Renegade](https://open.spotify.com/album/3vYFD37Z4kBwKK9VypycbE) | 4:31 |
 | 143 | [El Peor](https://open.spotify.com/track/0XTYkteXdSmzBgnc3DhdOx) | [Axius](https://open.spotify.com/artist/2rWdPoCs8cj3kjYwr2ydnB) | [Eminente](https://open.spotify.com/album/69FzRRDlBaoWFbVSQBoXRB) | 2:50 |
+| 144 | [The Climb](https://open.spotify.com/track/44zc9DyvJH506kYjDA11xt) | [Trinity Aliens](https://open.spotify.com/artist/4znIHpAAQa3vn5gglURZov) | [The Climb](https://open.spotify.com/album/3UbYbh2Z3jxP42jKh7X0O2) | 2:59 |
+| 145 | [Tell Me You Like To Dance](https://open.spotify.com/track/2shi8nwotiKes5rFU50BZ2) | [HEVL](https://open.spotify.com/artist/5Fu10ZnbaiPhMjqFisPH30) | [Tell Me You Like To Dance](https://open.spotify.com/album/3yugy6NH8PCxhNHkN6IGuM) | 3:17 |
 
-Snapshot ID: `AAAMvD5qcYx7t1Tc2bml5YrUSep1yJNc`
+Snapshot ID: `AAAMvhUNWGtcV+twE0EWzkIAXkKdiwRW`

@@ -1,29 +1,13 @@
 {
   "description": "marrakech season",
-  "num_followers": 313438,
+  "num_followers": 313542,
   "original_name": "Moroccan Moonlight",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADK5Jf82HzS0kFzLr8LgQBAGi8gV",
+  "snapshot_id": "AAAAAKIEgmHAc92/vtkgDGQpSlx9dZhJ",
   "tracks": [
-    {
-      "added_at": "2026-09-10 23:00:37",
-      "album": {
-        "name": "Supersonic",
-        "url": "https://open.spotify.com/album/10aJoyfBqpfg1NA6gLmgep"
-      },
-      "artists": [
-        {
-          "name": "Drumstone",
-          "url": "https://open.spotify.com/artist/7tCFigbe2WuE8DzGoNrMvj"
-        }
-      ],
-      "duration_ms": 342295,
-      "name": "Supersonic",
-      "url": "https://open.spotify.com/track/7AR28GCSNaTSOeO2vTIpEx"
-    },
     {
       "added_at": "2026-09-10 23:00:37",
       "album": {
@@ -107,6 +91,46 @@
     {
       "added_at": "2026-09-10 23:00:37",
       "album": {
+        "name": "Supersonic",
+        "url": "https://open.spotify.com/album/10aJoyfBqpfg1NA6gLmgep"
+      },
+      "artists": [
+        {
+          "name": "Drumstone",
+          "url": "https://open.spotify.com/artist/7tCFigbe2WuE8DzGoNrMvj"
+        }
+      ],
+      "duration_ms": 342295,
+      "name": "Supersonic",
+      "url": "https://open.spotify.com/track/7AR28GCSNaTSOeO2vTIpEx"
+    },
+    {
+      "added_at": "2026-10-13 06:13:19",
+      "album": {
+        "name": "Sauti",
+        "url": "https://open.spotify.com/album/3tIC65kvqHU5C2npreZSSH"
+      },
+      "artists": [
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "Faul & Wad",
+          "url": "https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5"
+        },
+        {
+          "name": "African Children's Choir",
+          "url": "https://open.spotify.com/artist/5nbhCNXWLMuNiXyPwTK0ud"
+        }
+      ],
+      "duration_ms": 208770,
+      "name": "Sauti",
+      "url": "https://open.spotify.com/track/3wlEt7tgbcyowpdlcnCwfz"
+    },
+    {
+      "added_at": "2026-09-10 23:00:37",
+      "album": {
         "name": "Addicted (feat. TIMID.)",
         "url": "https://open.spotify.com/album/1g3CRfapU2HVFs1QK6jNAs"
       },
@@ -135,22 +159,6 @@
       "duration_ms": 134000,
       "name": "Addicted (feat. TIMID.)",
       "url": "https://open.spotify.com/track/3VXJln5ZvlvzbsjJFhRhZE"
-    },
-    {
-      "added_at": "2026-09-10 23:00:37",
-      "album": {
-        "name": "8pm",
-        "url": "https://open.spotify.com/album/0NNBgo3NYs9eUXnEC0wC3a"
-      },
-      "artists": [
-        {
-          "name": "Walid Martinez",
-          "url": "https://open.spotify.com/artist/1JRdXMJIEbwd3vVl0cnxY6"
-        }
-      ],
-      "duration_ms": 354098,
-      "name": "8pm",
-      "url": "https://open.spotify.com/track/3mlUchN9dQr9Ybu3linuGK"
     },
     {
       "added_at": "2026-09-10 23:00:37",
@@ -185,28 +193,52 @@
       "url": "https://open.spotify.com/track/2GwsSbo6IbNDVvcm9rtmal"
     },
     {
-      "added_at": "2026-09-10 23:00:37",
+      "added_at": "2026-10-13 06:13:19",
       "album": {
-        "name": "Wale Wale (feat. Sofiya Nzau) [WITH U Remix - Radio Edit]",
-        "url": "https://open.spotify.com/album/189nxvsd30cgk6lWXrtrXV"
+        "name": "Buyani (\u00dcDOR\u0100 & Native P. Remix)",
+        "url": "https://open.spotify.com/album/6Fdbync8wVOqqWoa6gltIA"
       },
       "artists": [
         {
-          "name": "TRESOR",
-          "url": "https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi"
+          "name": "Studio Bros",
+          "url": "https://open.spotify.com/artist/5TGycVupaB4WmtdWZNC2b3"
         },
         {
-          "name": "WITH U",
-          "url": "https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV"
+          "name": "Toshi",
+          "url": "https://open.spotify.com/artist/2bIg95CGHmriFZX7MsnFRK"
+        },
+        {
+          "name": "\u00dcDOR\u0100",
+          "url": "https://open.spotify.com/artist/4opfpihhGD63A38XX6s9lq"
+        },
+        {
+          "name": "Native P.",
+          "url": "https://open.spotify.com/artist/5L3T44EFiAzvsqmpFMFhSr"
+        }
+      ],
+      "duration_ms": 391000,
+      "name": "Buyani - \u00dcDOR\u0100 & Native P. Remix",
+      "url": "https://open.spotify.com/track/2t28EUokksGpEVkqAuT8zu"
+    },
+    {
+      "added_at": "2026-09-10 23:00:37",
+      "album": {
+        "name": "WACUKA",
+        "url": "https://open.spotify.com/album/4kPcAubNH1FbdaFkoEsALw"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
         },
         {
           "name": "Sofiya Nzau",
           "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
         }
       ],
-      "duration_ms": 208166,
-      "name": "Wale Wale (feat. Sofiya Nzau)",
-      "url": "https://open.spotify.com/track/3gf2xwSXTOTnvVz7VjzbgE"
+      "duration_ms": 190153,
+      "name": "WACUKA",
+      "url": "https://open.spotify.com/track/75n9WHWZAzhB59xSjIHly4"
     },
     {
       "added_at": "2026-09-10 23:00:37",
@@ -239,6 +271,30 @@
     {
       "added_at": "2026-09-10 23:00:37",
       "album": {
+        "name": "Fire Fire",
+        "url": "https://open.spotify.com/album/7rIqdKsiVJ2ZAHtxFJm6jf"
+      },
+      "artists": [
+        {
+          "name": "Shimza",
+          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
+        },
+        {
+          "name": "AR/CO",
+          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
+        },
+        {
+          "name": "Kasango",
+          "url": "https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r"
+        }
+      ],
+      "duration_ms": 150480,
+      "name": "Fire Fire",
+      "url": "https://open.spotify.com/track/35dt2bP4CcBzepyufQbvYZ"
+    },
+    {
+      "added_at": "2026-09-10 23:00:37",
+      "album": {
         "name": "No Bad Vibes",
         "url": "https://open.spotify.com/album/0fniUtJNAYz6eSOE9HJe32"
       },
@@ -259,6 +315,22 @@
     {
       "added_at": "2026-09-10 23:00:37",
       "album": {
+        "name": "8pm",
+        "url": "https://open.spotify.com/album/0NNBgo3NYs9eUXnEC0wC3a"
+      },
+      "artists": [
+        {
+          "name": "Walid Martinez",
+          "url": "https://open.spotify.com/artist/1JRdXMJIEbwd3vVl0cnxY6"
+        }
+      ],
+      "duration_ms": 354098,
+      "name": "8pm",
+      "url": "https://open.spotify.com/track/3mlUchN9dQr9Ybu3linuGK"
+    },
+    {
+      "added_at": "2026-09-10 23:00:37",
+      "album": {
         "name": "Edge of Desire",
         "url": "https://open.spotify.com/album/53b1lFTsC7lV3pieOFYZ9i"
       },
@@ -275,6 +347,26 @@
       "duration_ms": 134905,
       "name": "Edge of Desire",
       "url": "https://open.spotify.com/track/4A56h4B9xUuMMXoKuj18HT"
+    },
+    {
+      "added_at": "2026-10-13 06:13:19",
+      "album": {
+        "name": "Salaam",
+        "url": "https://open.spotify.com/album/5vygAJ5hmJWEhwQjMMRhGX"
+      },
+      "artists": [
+        {
+          "name": "Bedouin",
+          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
+        },
+        {
+          "name": "Hiya",
+          "url": "https://open.spotify.com/artist/3QUG7OWwyrFEc2AwGKyVUH"
+        }
+      ],
+      "duration_ms": 286829,
+      "name": "Salaam",
+      "url": "https://open.spotify.com/track/2I66wEXbWczezAQKSVoyQg"
     },
     {
       "added_at": "2026-09-10 23:00:37",
@@ -351,26 +443,26 @@
     {
       "added_at": "2026-09-10 23:00:37",
       "album": {
-        "name": "Fire Fire",
-        "url": "https://open.spotify.com/album/7rIqdKsiVJ2ZAHtxFJm6jf"
+        "name": "Wale Wale (feat. Sofiya Nzau) [WITH U Remix - Radio Edit]",
+        "url": "https://open.spotify.com/album/189nxvsd30cgk6lWXrtrXV"
       },
       "artists": [
         {
-          "name": "Shimza",
-          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
+          "name": "TRESOR",
+          "url": "https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi"
         },
         {
-          "name": "AR/CO",
-          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
+          "name": "WITH U",
+          "url": "https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV"
         },
         {
-          "name": "Kasango",
-          "url": "https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r"
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
         }
       ],
-      "duration_ms": 150480,
-      "name": "Fire Fire",
-      "url": "https://open.spotify.com/track/35dt2bP4CcBzepyufQbvYZ"
+      "duration_ms": 208166,
+      "name": "Wale Wale (feat. Sofiya Nzau)",
+      "url": "https://open.spotify.com/track/3gf2xwSXTOTnvVz7VjzbgE"
     },
     {
       "added_at": "2026-09-10 23:00:37",
@@ -387,6 +479,50 @@
       "duration_ms": 173637,
       "name": "Salam",
       "url": "https://open.spotify.com/track/2Q0Ulx1pR8gTJoCfxOOVCZ"
+    },
+    {
+      "added_at": "2026-10-13 06:13:19",
+      "album": {
+        "name": "Kalabancoro",
+        "url": "https://open.spotify.com/album/3EzEdhl8VSwHjUkVvlCAA6"
+      },
+      "artists": [
+        {
+          "name": "Ginton",
+          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
+        },
+        {
+          "name": "Richard Bona",
+          "url": "https://open.spotify.com/artist/70wm2qxYZ4i2KqcyyH2GyT"
+        },
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Kalabancoro",
+      "url": "https://open.spotify.com/track/3DidOh90QTm6XAnD40gyJv"
+    },
+    {
+      "added_at": "2026-10-13 06:13:19",
+      "album": {
+        "name": "You Make Me Fall In Love",
+        "url": "https://open.spotify.com/album/0UCdxFzhhm0cllDqyMOg6F"
+      },
+      "artists": [
+        {
+          "name": "Ajna",
+          "url": "https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN"
+        },
+        {
+          "name": "abrahamblue",
+          "url": "https://open.spotify.com/artist/2TzrsJxlKAgMqEY2dSPJ9g"
+        }
+      ],
+      "duration_ms": 210411,
+      "name": "You Make Me Fall In Love",
+      "url": "https://open.spotify.com/track/1AWJX2rUZ66BYv5m3vN9CG"
     },
     {
       "added_at": "2026-09-10 23:00:37",
@@ -455,6 +591,22 @@
       "duration_ms": 214918,
       "name": "Sippin",
       "url": "https://open.spotify.com/track/22rHMXtwCgg0xvDgvDX6S7"
+    },
+    {
+      "added_at": "2026-10-13 06:13:19",
+      "album": {
+        "name": "I Only Smoke When I Drink",
+        "url": "https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "duration_ms": 198425,
+      "name": "I Only Smoke When I Drink",
+      "url": "https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR"
     },
     {
       "added_at": "2026-09-10 23:00:37",
@@ -739,6 +891,30 @@
       "duration_ms": 159120,
       "name": "Forever",
       "url": "https://open.spotify.com/track/32GOfiLnbER2VOOxJkg29P"
+    },
+    {
+      "added_at": "2026-10-13 06:13:19",
+      "album": {
+        "name": "Free Your Mind",
+        "url": "https://open.spotify.com/album/0uo2O3BcYrZJzCnHk0I0BU"
+      },
+      "artists": [
+        {
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        },
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Sybil",
+          "url": "https://open.spotify.com/artist/1EbIfIjVcauDatNO4vagL1"
+        }
+      ],
+      "duration_ms": 201700,
+      "name": "Free Your Mind",
+      "url": "https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa"
     },
     {
       "added_at": "2026-09-10 23:00:37",
@@ -1083,6 +1259,22 @@
       "duration_ms": 374256,
       "name": "Ana - FNX Omar Vibe Mix",
       "url": "https://open.spotify.com/track/05SDCAkjltiLrFf83MVy6a"
+    },
+    {
+      "added_at": "2026-10-13 06:13:19",
+      "album": {
+        "name": "The Ringmaster",
+        "url": "https://open.spotify.com/album/30uB4Apy4yJgDSfE7xyA6n"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        }
+      ],
+      "duration_ms": 180842,
+      "name": "Baian\u00e1",
+      "url": "https://open.spotify.com/track/17B9XlyyYDKkTmPay4z02V"
     },
     {
       "added_at": "2026-09-10 23:00:37",
@@ -1895,26 +2087,6 @@
       "duration_ms": 202000,
       "name": "King Gnawa",
       "url": "https://open.spotify.com/track/143XW6GuhjhSbIiX58zf5X"
-    },
-    {
-      "added_at": "2026-09-10 23:00:37",
-      "album": {
-        "name": "WACUKA",
-        "url": "https://open.spotify.com/album/4kPcAubNH1FbdaFkoEsALw"
-      },
-      "artists": [
-        {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        },
-        {
-          "name": "Sofiya Nzau",
-          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
-        }
-      ],
-      "duration_ms": 190153,
-      "name": "WACUKA",
-      "url": "https://open.spotify.com/track/75n9WHWZAzhB59xSjIHly4"
     }
   ],
   "unique_name": "Moroccan Moonlight",

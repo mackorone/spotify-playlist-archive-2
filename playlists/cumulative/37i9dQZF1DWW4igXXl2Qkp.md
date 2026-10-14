@@ -4,7 +4,7 @@
 
 > The best new hip\-hop tracks from independent artists & labels\. Cover: Raud
 
-2,457 songs - 4 day 8 hr 14 min
+2,458 songs - 4 day 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,7 +231,8 @@
 | [BAD WEATHER](https://open.spotify.com/track/354wJDm1E0pRjsHNIVOgvk) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I) | [BAD WEATHER](https://open.spotify.com/album/3mhxQoTa9VqzVJfYNjavvV) | 1:52 | 2024-04-17 | 2024-04-24 |
 | [bada bing, bada bØØm](https://open.spotify.com/track/0UWHB6M62TXlNBxXDnMvBH) | [diamond\*](https://open.spotify.com/artist/2U3bFzN7xGOhqdATusepqC), [Tezzus](https://open.spotify.com/artist/3YQEnGNd8ooVyyhjnuwQIm) | [nØ idØls](https://open.spotify.com/album/2HW9aqwH82wFcicAvcwRIC) | 2:14 | 2025-10-15 | 2026-03-26 |
 | [Badshiii \(feat\. Taffy\)](https://open.spotify.com/track/79zUFLTb37fewFiqhFwEwW) | [22Daboat](https://open.spotify.com/artist/1zR4EmFIHz7l7k7itugztS), [Taffy](https://open.spotify.com/artist/7hjNO6RQeqZIBZpZQdstUO) | [Badshiii \(feat\. Taffy\)](https://open.spotify.com/album/2QVMLeW2yG9pXhaAytP1Fv) | 2:32 | 2026-02-18 | 2026-03-20 |
-| [Bae Please](https://open.spotify.com/track/0jPPuOqQWHu6C6fNLhWxdl) | [Moneymyface](https://open.spotify.com/artist/3a1IbN5VL3VvvEiLblCDMq) | [Bae Please](https://open.spotify.com/album/2UwCgrB6tP3JSSHcYh57G6) | 1:49 | 2026-09-23 |  |
+| [Bae Please](https://open.spotify.com/track/0jPPuOqQWHu6C6fNLhWxdl) | [Moneymyface](https://open.spotify.com/artist/3a1IbN5VL3VvvEiLblCDMq) | [Bae Please](https://open.spotify.com/album/2UwCgrB6tP3JSSHcYh57G6) | 1:49 | 2026-09-23 | 2026-10-14 |
+| [Bae Please \[Remix\]](https://open.spotify.com/track/0ETXcXvxt8kiDA0bexLHvw) | [Moneymyface](https://open.spotify.com/artist/3a1IbN5VL3VvvEiLblCDMq), [Fox BD](https://open.spotify.com/artist/2yGWnsBhRJCKKjuaiUsoYD) | [Bae Please \[Remix\]](https://open.spotify.com/album/561Lr9ulKjda6MgSXdWsve) | 3:02 | 2026-10-13 |  |
 | [BAFWM](https://open.spotify.com/track/47q42DLArt5uwS8oQso7Yy) | [Big Mali](https://open.spotify.com/artist/7x34WSbxJuJnz7pMPWg4Yz) | [Redemption](https://open.spotify.com/album/3WGdvwAomZimfvzf1GT0Er) | 2:47 | 2022-07-20 | 2022-09-01 |
 | [Bag On Me](https://open.spotify.com/track/4bd0t1JQm2vYGJ5pIT76Bi) | [Cartier](https://open.spotify.com/artist/43Nu4ChA6nE5ENwu8f7Jzf), [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs) | [Bag On Me](https://open.spotify.com/album/0vnKhucD9aWTxUeR1kjit2) | 2:46 | 2025-01-22 | 2025-04-24 |
 | [Bag Walk](https://open.spotify.com/track/7mYZDjq3rOgSSZqMDsqDQ6) | [JEW3LZ](https://open.spotify.com/artist/2TIxX1Qr1jiXwUeYImYNBq), [Baby Stone Gorillas](https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3) | [Bag Walk](https://open.spotify.com/album/74KfS9DQxcBWePL7aYUnpC) | 2:46 | 2025-10-15 | 2026-01-15 |

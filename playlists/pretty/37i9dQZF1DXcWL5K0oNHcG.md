@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: SYNC.EXE Artwork: Joy Yamusangie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,155 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,194 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 14 | [Nine Lights](https://open.spotify.com/track/3dgSxzyLOq3n55JLMaGpzb) | [Leif Kaner\-Lidström](https://open.spotify.com/artist/1zgrVzDDzgoBXdxRdd7TsC) | [In Search Of Beauty](https://open.spotify.com/album/5anLZBAhqEw1h9j0RRwJCL) | 2:33 |
 | 15 | [Use Your Noggin](https://open.spotify.com/track/2OjjAKMeEcpCvd7kJJ4MF4) | [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj) | [Use Your Noggin](https://open.spotify.com/album/6yjp8vbsnuvvRDskpc5eoB) | 3:18 |
 | 16 | [Tiramisu Tempest](https://open.spotify.com/track/7nKzYkxrrwoXN0s8xn4DQS) | [Happy Imaeda](https://open.spotify.com/artist/5SBf5sAXKy4kNlVP3iTULs) | [Tiramisu Tempest](https://open.spotify.com/album/63z6ptPzMvd16DOMMlkZrW) | 2:21 |
-| 17 | [Eternal Spring](https://open.spotify.com/track/0Jd8WLhhbWgDWAPnZuqwCH) | [Jack Wyllie](https://open.spotify.com/artist/0e97XEaqVcQRfIeTLBPDkl), [Duncan Bellamy](https://open.spotify.com/artist/6d5nBcIHQltdskVV1X67jQ), [Lotte Betts\-Dean](https://open.spotify.com/artist/0cbW3Ld9VS7DiYFRwol3Uc) | [Eternal Spring](https://open.spotify.com/album/1lq6DmTvcF4jsrSmW7ckTY) | 5:21 |
+| 17 | [Eternal Spring](https://open.spotify.com/track/0Jd8WLhhbWgDWAPnZuqwCH) | [Jack Wyllie](https://open.spotify.com/artist/0e97XEaqVcQRfIeTLBPDkl), [Portico Quartet](https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx), [Duncan Bellamy](https://open.spotify.com/artist/6d5nBcIHQltdskVV1X67jQ), [Lotte Betts\-Dean](https://open.spotify.com/artist/0cbW3Ld9VS7DiYFRwol3Uc) | [Eternal Spring](https://open.spotify.com/album/1lq6DmTvcF4jsrSmW7ckTY) | 5:21 |
 | 18 | [images on loan](https://open.spotify.com/track/3cCwrAFdIQz8OcDRzGrHfO) | [香田 悠真](https://open.spotify.com/artist/6VzrikesByN5Ogb8A67n47), [Jan Urila Sas](https://open.spotify.com/artist/7BPQ8eUXJcCAVOyJ7vxn5n), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [images on loan](https://open.spotify.com/album/1y3tpf16OEOfBkX3O3fDo0) | 5:39 |
 | 19 | [Microfictions](https://open.spotify.com/track/5pvVm6cqYfFdUz6Wh9HqOn) | [Alden Hellmuth](https://open.spotify.com/artist/1jSsF9gV9tyZp3WfCDgbiF) | [Microfictions](https://open.spotify.com/album/3K1U6ZbFRJkKoIwcPvcf1j) | 5:58 |
 | 20 | [Chance](https://open.spotify.com/track/1vxATOQuc29oW4nQOnbtNE) | [Vimbs Mavimbs](https://open.spotify.com/artist/17miQtSakhWQ0YJQtNdCeN) | [Late Bloomer](https://open.spotify.com/album/7BUfSUXfhfKlyYqAKufExP) | 6:14 |

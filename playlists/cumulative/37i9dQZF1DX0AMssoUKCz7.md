@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the dance party going with the biggest tropical house jams.
 
-769 songs - 1 day 14 hr 40 min
+770 songs - 1 day 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [100 Stars](https://open.spotify.com/track/0G3gzvSEymsgSmyuhO76uB) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr), [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu) | [100 Stars](https://open.spotify.com/album/4eKeWQGwABZf8OB3nypm3C) | 2:18 | 2022-05-06 | 2023-01-14 |
 | [4 Life \(feat\. Graham Candy\)](https://open.spotify.com/track/6OKaib6HaebKVCL5VOoIGR) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Graham Candy](https://open.spotify.com/artist/71KlQX0q5wz5f9iytwPfou) | [Sugar](https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt) | 3:15 | 2022-02-18 | 2022-04-19 |
 | [44th and 8th](https://open.spotify.com/track/3q1dhgO6MmeA7LUoz86BPh) | [Sean Bradford](https://open.spotify.com/artist/6NH017cWdDip8d3zS2lXbD) | [44th and 8th](https://open.spotify.com/album/1AcgYj8rGqP01e3xQe149G) | 3:44 | 2022-01-14 | 2022-04-25 |
-| [5th Avenue](https://open.spotify.com/track/0mpkpO26XkXjT5t3vyl8PA) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [5th Avenue](https://open.spotify.com/album/7s1p2d7VGyvxZKuj9YWxOg) | 3:04 | 2022-04-29 |  |
+| [5th Avenue](https://open.spotify.com/track/0mpkpO26XkXjT5t3vyl8PA) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [5th Avenue](https://open.spotify.com/album/7s1p2d7VGyvxZKuj9YWxOg) | 3:04 | 2022-04-29 | 2026-10-14 |
 | [60s Ghost](https://open.spotify.com/track/26g2tdtXcqCaXaXEayIL4N) | [Jane Good](https://open.spotify.com/artist/1rFqZWRuRsmDNAuSMRGwSE), [Adam Wendler](https://open.spotify.com/artist/3ea4XDPCrAm68rpImApb94) | [60s Ghost](https://open.spotify.com/album/3VLXC0RS09VuvdlMgZj0bO) | 2:35 | 2022-12-23 | 2024-03-23 |
 | [A Little Bit Closer](https://open.spotify.com/track/64MkGYueWHp46dfPtdlZ9p) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [A Little Bit Closer](https://open.spotify.com/album/7qt0giCmuYIsQy7w6dkZbn) | 2:35 | 2022-04-01 | 2026-03-21 |
 | [Above the Clouds](https://open.spotify.com/track/6wHdTGv5xb3HU7As15DLda) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Uncovered](https://open.spotify.com/album/4iu0toRdSjyU0qIdKTWMoY) | 3:30 | 2022-01-14 | 2022-05-04 |
@@ -613,6 +613,7 @@
 | [Sonnentanz](https://open.spotify.com/track/6SDdaZBW69QFZUgpzyPK46) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo) | [Netzwerk \(Deluxe\)](https://open.spotify.com/album/4j9mSsoan95YCTzgxORbvK) | 6:00 | 2022-02-18 | 2022-04-02 |
 | [Soul](https://open.spotify.com/track/14GVXonn2x13wYG00phRjM) | [Thomas Jack](https://open.spotify.com/artist/6JmzdIDSQdeHg0pocIascm) | [Soul](https://open.spotify.com/album/5JYMiZJ6aIRiK1liSUKK5r) | 3:25 | 2024-05-31 |  |
 | [Sound of Your Summer \- SUPER\-Hi Remix](https://open.spotify.com/track/6fUqnrhQGXH7RGbhLgbRyr) | [Quarry](https://open.spotify.com/artist/0gLBsvcwZ3tSBxFaCo3BIp), [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE) | [Sound of Your Summer](https://open.spotify.com/album/1yaTc3a8k9BY5p0V1z2vti) | 3:08 | 2022-11-11 |  |
+| [Soy Plenero](https://open.spotify.com/track/3JoepptdNRYFaKdMgEHinT) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Los Pleneros de la Cresta](https://open.spotify.com/artist/1uZVxckdGGKhFMpCnupXmP) | [Soy Plenero](https://open.spotify.com/album/3FajkSxPacCsIGqEZyaNLI) | 2:25 | 2026-10-09 |  |
 | [Spirits \- Sondr Remix](https://open.spotify.com/track/2X7ImJ12Sd2mwW8m29x7Ka) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Spirits \(Sondr Remix\)](https://open.spotify.com/album/4gKG71SsJaSmJ2hMTkssXS) | 3:04 | 2022-01-14 | 2022-04-20 |
 | [Starboy \- Kygo Remix](https://open.spotify.com/track/6LJFgCd9wU2VptHEwz2Wl3) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [Starboy \(Kygo Remix\)](https://open.spotify.com/album/4rGQxBDZ4hHCKePXaYOTSB) | 4:04 | 2022-01-21 | 2024-07-19 |
 | [Staring At The Sun](https://open.spotify.com/track/2AxFcVih1VdwBdeWsM9ra8) | [the Giver](https://open.spotify.com/artist/7a280rjEjRHBvzYpCbFkc9), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [Staring At The Sun](https://open.spotify.com/album/5mDYhsLEN0bCCS3CedIWej) | 2:58 | 2023-05-26 | 2026-03-21 |

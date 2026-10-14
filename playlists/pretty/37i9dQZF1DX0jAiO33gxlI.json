@@ -1,12 +1,12 @@
 {
   "description": "Os lan\u00e7amentos e melhores sons do rap nacional. Foto: Emicida, Puro Suco",
-  "num_followers": 226159,
+  "num_followers": 226140,
   "original_name": "Presen\u00e7a Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEN1XqncN3E9WXNKM9wZ9RXbaVZS",
+  "snapshot_id": "AAAAAGt8cKhs9zvuoLb2O7Xer/epZHoz",
   "tracks": [
     {
       "added_at": "2026-10-05 16:08:14",
@@ -33,24 +33,64 @@
       "url": "https://open.spotify.com/track/6Kdkt4iI1mKmx2fH8ZrGUd"
     },
     {
-      "added_at": "2026-10-05 16:08:14",
+      "added_at": "2026-10-13 18:06:08",
       "album": {
-        "name": "Suspenso no Espa\u00e7o",
-        "url": "https://open.spotify.com/album/19cKWWTAzr3NNb5TKwwuE6"
+        "name": "2Am In Mooca",
+        "url": "https://open.spotify.com/album/3cbvjSuFmtj5Oq7zkJ3noV"
       },
       "artists": [
         {
-          "name": "Haikaiss",
-          "url": "https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb"
+          "name": "Mrasta",
+          "url": "https://open.spotify.com/artist/4LATAzZazW5gcrunD9TMLs"
         },
         {
-          "name": "013VG",
-          "url": "https://open.spotify.com/artist/38Bh2cWsM0sBYg6EG5gmwc"
+          "name": "Chiocki",
+          "url": "https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z"
         }
       ],
-      "duration_ms": 337144,
-      "name": "Suspenso no Espa\u00e7o",
-      "url": "https://open.spotify.com/track/5TuGChXJhJCJmgJrZQXnrg"
+      "duration_ms": 146909,
+      "name": "2Am In Mooca",
+      "url": "https://open.spotify.com/track/4IlxcFVShAUVS5XoDjyyF9"
+    },
+    {
+      "added_at": "2026-10-13 18:06:08",
+      "album": {
+        "name": "SUBESTIMADO",
+        "url": "https://open.spotify.com/album/46sqPKG2iJ4XhuTJYk23Dw"
+      },
+      "artists": [
+        {
+          "name": "Dpaula",
+          "url": "https://open.spotify.com/artist/21OXt4bahP6ZP1LIRXmpVQ"
+        },
+        {
+          "name": "Agostinhx",
+          "url": "https://open.spotify.com/artist/42KlXyEj8tt6vVyxQjpLaL"
+        },
+        {
+          "name": "GEXIS",
+          "url": "https://open.spotify.com/artist/0v6hypyGUeuKpNnNeL8APU"
+        }
+      ],
+      "duration_ms": 146835,
+      "name": "SUBESTIMADO",
+      "url": "https://open.spotify.com/track/4fVghR16VBFQuS9Ncxm7im"
+    },
+    {
+      "added_at": "2026-10-05 16:08:14",
+      "album": {
+        "name": "Estrategista",
+        "url": "https://open.spotify.com/album/0LKhs58fSh8iSi6jzBputo"
+      },
+      "artists": [
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        }
+      ],
+      "duration_ms": 170454,
+      "name": "Estrategista",
+      "url": "https://open.spotify.com/track/4vJyTO6MtB38IWgJbQkeGc"
     },
     {
       "added_at": "2026-10-05 16:08:14",
@@ -71,6 +111,282 @@
       "duration_ms": 171000,
       "name": "DONA DO MEU FLOW (SINCE 2012)",
       "url": "https://open.spotify.com/track/50e46ChHZ9xt8iqgpEKdfA"
+    },
+    {
+      "added_at": "2026-10-13 18:06:08",
+      "album": {
+        "name": "Papin",
+        "url": "https://open.spotify.com/album/0wJOR24LiC8uAYdJHglC09"
+      },
+      "artists": [
+        {
+          "name": "pibara",
+          "url": "https://open.spotify.com/artist/5Ur7VLsD9hik9MAJWrnx2k"
+        },
+        {
+          "name": "Lucchini",
+          "url": "https://open.spotify.com/artist/2w2YbWSulMlPaCCSjNmMBR"
+        },
+        {
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Papin",
+      "url": "https://open.spotify.com/track/19yMpqeS0UWhbxwTQ4J9kV"
+    },
+    {
+      "added_at": "2026-10-13 18:06:08",
+      "album": {
+        "name": "Toma Tapa",
+        "url": "https://open.spotify.com/album/4dDBinCN2mdFZmqdHb9DHp"
+      },
+      "artists": [
+        {
+          "name": "DJ Cost",
+          "url": "https://open.spotify.com/artist/7Gojo8tyzLgT5p5WdTisIL"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "duration_ms": 103384,
+      "name": "Toma Tapa",
+      "url": "https://open.spotify.com/track/28jFx6fxrbxOIFcf1fIfjn"
+    },
+    {
+      "added_at": "2026-10-13 18:06:08",
+      "album": {
+        "name": "Daria um Filme",
+        "url": "https://open.spotify.com/album/53oomJcea1w6NxO9yb3Nul"
+      },
+      "artists": [
+        {
+          "name": "Ana Rima",
+          "url": "https://open.spotify.com/artist/4o94LXBtkksntdZEJbQWJk"
+        },
+        {
+          "name": "Vitor Vril",
+          "url": "https://open.spotify.com/artist/6zElQx7msv91CIWwIz1YH7"
+        },
+        {
+          "name": "DJMDBEATS",
+          "url": "https://open.spotify.com/artist/50WKQCle6uAWBRfPmcW3Jn"
+        }
+      ],
+      "duration_ms": 161151,
+      "name": "Daria um Filme",
+      "url": "https://open.spotify.com/track/60ebdd8aFtIgcbOM9gpHgA"
+    },
+    {
+      "added_at": "2026-10-05 16:08:14",
+      "album": {
+        "name": "HORIZONTAL!",
+        "url": "https://open.spotify.com/album/12d6fpOm4f7vntkMRBqYiK"
+      },
+      "artists": [
+        {
+          "name": "NOG",
+          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
+        },
+        {
+          "name": "Levinsk",
+          "url": "https://open.spotify.com/artist/54PZ5GR5xLsxj8nZ3EerOT"
+        },
+        {
+          "name": "Teo Guedx",
+          "url": "https://open.spotify.com/artist/5kKjWmIo4xMLjoMUcogE7M"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "HORIZONTAL!",
+      "url": "https://open.spotify.com/track/2K6FdNNrVeTIgMQnmCrz4w"
+    },
+    {
+      "added_at": "2026-10-05 16:08:14",
+      "album": {
+        "name": "Curiosidadista",
+        "url": "https://open.spotify.com/album/1OHHUmEW4CSk5NmZPovKWN"
+      },
+      "artists": [
+        {
+          "name": "Patricio Sid",
+          "url": "https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu"
+        },
+        {
+          "name": "Jean Tassy",
+          "url": "https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU"
+        }
+      ],
+      "duration_ms": 172235,
+      "name": "Miragem",
+      "url": "https://open.spotify.com/track/1L0TyU4DV9y3ReGgjdLZCv"
+    },
+    {
+      "added_at": "2026-10-05 16:08:14",
+      "album": {
+        "name": "O Que Separa Os Homens dos Meninos, Vol. 2",
+        "url": "https://open.spotify.com/album/0uSQmtWJKYpucN9ZZNp8CK"
+      },
+      "artists": [
+        {
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "LP Beatzz",
+          "url": "https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "O QUE SEPARA OS HOMENS DOS MENINOS 2",
+      "url": "https://open.spotify.com/track/3EqNnn97k4qBZY3KrVzMw4"
+    },
+    {
+      "added_at": "2026-10-13 18:06:08",
+      "album": {
+        "name": "Fazendo A Minha (Deluxe)",
+        "url": "https://open.spotify.com/album/6YuTzlPQP2pR0ewsz1FsHJ"
+      },
+      "artists": [
+        {
+          "name": "Kako",
+          "url": "https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm"
+        },
+        {
+          "name": "DJ JR No Beat",
+          "url": "https://open.spotify.com/artist/7eFJ773gGquYX3tKYa6ZUb"
+        }
+      ],
+      "duration_ms": 180705,
+      "name": "QQSEFEZ",
+      "url": "https://open.spotify.com/track/0gL88y64RRmUpuTDRM2OAt"
+    },
+    {
+      "added_at": "2026-10-13 18:06:08",
+      "album": {
+        "name": "O Que Separa Os Homens dos Meninos, Vol. 2",
+        "url": "https://open.spotify.com/album/0uSQmtWJKYpucN9ZZNp8CK"
+      },
+      "artists": [
+        {
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
+        },
+        {
+          "name": "Pecaos",
+          "url": "https://open.spotify.com/artist/1P6YQ0gEs3NawlLhT7KtpG"
+        },
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        },
+        {
+          "name": "2ZDinizz",
+          "url": "https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV"
+        },
+        {
+          "name": "ADL",
+          "url": "https://open.spotify.com/artist/6Ywb1no2hXLazjIs4LUiQD"
+        },
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        },
+        {
+          "name": "LP Beatzz",
+          "url": "https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele"
+        }
+      ],
+      "duration_ms": 278378,
+      "name": "CORRE",
+      "url": "https://open.spotify.com/track/77QhXNyXECvQoFNDVFONu8"
+    },
+    {
+      "added_at": "2026-10-13 18:06:08",
+      "album": {
+        "name": "Perfil Criminal",
+        "url": "https://open.spotify.com/album/1dYmeNuigzhUoUu7C1sYvF"
+      },
+      "artists": [
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        },
+        {
+          "name": "Donai",
+          "url": "https://open.spotify.com/artist/5BCsslqLYOmmqwcPYjMEkC"
+        },
+        {
+          "name": "NEGGS",
+          "url": "https://open.spotify.com/artist/1EX5eHGQ4yd0sFjKKexgC8"
+        },
+        {
+          "name": "Yangprj",
+          "url": "https://open.spotify.com/artist/2XGt0uPGSSQ0ySEj1cPpwv"
+        },
+        {
+          "name": "Vinni OG Beats",
+          "url": "https://open.spotify.com/artist/68mX2E0DwXVeyVSE9SHht2"
+        }
+      ],
+      "duration_ms": 253331,
+      "name": "Perfil Criminal",
+      "url": "https://open.spotify.com/track/6zyLTgEW4CLQ9NCe8BZN1W"
+    },
+    {
+      "added_at": "2026-10-13 18:06:08",
+      "album": {
+        "name": "Malandragem",
+        "url": "https://open.spotify.com/album/0hoxh7rSBr6WqUK8nyAOt2"
+      },
+      "artists": [
+        {
+          "name": "Torya",
+          "url": "https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh"
+        },
+        {
+          "name": "Dj Batata'Killa",
+          "url": "https://open.spotify.com/artist/6tPY0vqcx3cDTF4EUIN1tY"
+        },
+        {
+          "name": "xochuo",
+          "url": "https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P"
+        },
+        {
+          "name": "D\u00e9 Barros",
+          "url": "https://open.spotify.com/artist/1IP5A0i2yKTTZjJ9DTlb4x"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Malandragem",
+      "url": "https://open.spotify.com/track/088q9nqLjv2dz2zI7xq2x7"
+    },
+    {
+      "added_at": "2026-10-05 16:08:14",
+      "album": {
+        "name": "Suspenso no Espa\u00e7o",
+        "url": "https://open.spotify.com/album/19cKWWTAzr3NNb5TKwwuE6"
+      },
+      "artists": [
+        {
+          "name": "Haikaiss",
+          "url": "https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb"
+        },
+        {
+          "name": "013VG",
+          "url": "https://open.spotify.com/artist/38Bh2cWsM0sBYg6EG5gmwc"
+        }
+      ],
+      "duration_ms": 337144,
+      "name": "Suspenso no Espa\u00e7o",
+      "url": "https://open.spotify.com/track/5TuGChXJhJCJmgJrZQXnrg"
     },
     {
       "added_at": "2026-10-05 16:08:14",
@@ -163,46 +479,6 @@
     {
       "added_at": "2026-10-05 16:08:14",
       "album": {
-        "name": "Estrategista",
-        "url": "https://open.spotify.com/album/0LKhs58fSh8iSi6jzBputo"
-      },
-      "artists": [
-        {
-          "name": "3030",
-          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
-        }
-      ],
-      "duration_ms": 170454,
-      "name": "Estrategista",
-      "url": "https://open.spotify.com/track/4vJyTO6MtB38IWgJbQkeGc"
-    },
-    {
-      "added_at": "2026-10-05 16:08:14",
-      "album": {
-        "name": "HORIZONTAL!",
-        "url": "https://open.spotify.com/album/12d6fpOm4f7vntkMRBqYiK"
-      },
-      "artists": [
-        {
-          "name": "NOG",
-          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
-        },
-        {
-          "name": "Levinsk",
-          "url": "https://open.spotify.com/artist/54PZ5GR5xLsxj8nZ3EerOT"
-        },
-        {
-          "name": "Teo Guedx",
-          "url": "https://open.spotify.com/artist/5kKjWmIo4xMLjoMUcogE7M"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "HORIZONTAL!",
-      "url": "https://open.spotify.com/track/2K6FdNNrVeTIgMQnmCrz4w"
-    },
-    {
-      "added_at": "2026-10-05 16:08:14",
-      "album": {
         "name": "Quintess\u00eancia",
         "url": "https://open.spotify.com/album/3s9jg2cYRbArM9qosAenyJ"
       },
@@ -239,26 +515,6 @@
       "duration_ms": 124526,
       "name": "Vadias no comando",
       "url": "https://open.spotify.com/track/5oCts4EfxMLH2BF3kGSCHf"
-    },
-    {
-      "added_at": "2026-10-05 16:08:14",
-      "album": {
-        "name": "Curiosidadista",
-        "url": "https://open.spotify.com/album/1OHHUmEW4CSk5NmZPovKWN"
-      },
-      "artists": [
-        {
-          "name": "Patricio Sid",
-          "url": "https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu"
-        },
-        {
-          "name": "Jean Tassy",
-          "url": "https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU"
-        }
-      ],
-      "duration_ms": 172235,
-      "name": "Miragem",
-      "url": "https://open.spotify.com/track/1L0TyU4DV9y3ReGgjdLZCv"
     },
     {
       "added_at": "2026-10-05 16:08:14",
@@ -335,30 +591,6 @@
       "duration_ms": 195200,
       "name": "Audi Q3",
       "url": "https://open.spotify.com/track/68VRzQQYzfE7hcXFemFruf"
-    },
-    {
-      "added_at": "2026-10-05 16:08:14",
-      "album": {
-        "name": "O Que Separa Os Homens dos Meninos, Vol. 2",
-        "url": "https://open.spotify.com/album/0uSQmtWJKYpucN9ZZNp8CK"
-      },
-      "artists": [
-        {
-          "name": "Sant",
-          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "LP Beatzz",
-          "url": "https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "O QUE SEPARA OS HOMENS DOS MENINOS 2",
-      "url": "https://open.spotify.com/track/3EqNnn97k4qBZY3KrVzMw4"
     },
     {
       "added_at": "2026-10-05 16:08:14",
@@ -947,30 +1179,6 @@
     {
       "added_at": "2026-10-05 16:08:14",
       "album": {
-        "name": "Monza Tubar\u00e3o",
-        "url": "https://open.spotify.com/album/1w4DgabrpI29pCmafHw4ra"
-      },
-      "artists": [
-        {
-          "name": "Piranda",
-          "url": "https://open.spotify.com/artist/0vZqgvkB45xNKj5Kt7Q9JY"
-        },
-        {
-          "name": "Xavier2bit",
-          "url": "https://open.spotify.com/artist/5b3JwpsWnUgqkDNAsoJWwV"
-        },
-        {
-          "name": "Ak\u00e1",
-          "url": "https://open.spotify.com/artist/3r6InLzbGmdEZmD4PLyQvE"
-        }
-      ],
-      "duration_ms": 126315,
-      "name": "Monza Tubar\u00e3o",
-      "url": "https://open.spotify.com/track/3wh8GMV5z2JLLqfMGnNApK"
-    },
-    {
-      "added_at": "2026-10-05 16:08:14",
-      "album": {
         "name": "Verde Kiwi",
         "url": "https://open.spotify.com/album/3yQeUAdEJB5LyulTDFuLBo"
       },
@@ -1227,30 +1435,6 @@
     {
       "added_at": "2026-10-05 16:08:14",
       "album": {
-        "name": "Latinagem",
-        "url": "https://open.spotify.com/album/5KBkhpkLP0MjVFey3Cz7T4"
-      },
-      "artists": [
-        {
-          "name": "Beli Remour",
-          "url": "https://open.spotify.com/artist/6vtzYhjkFNNnKca9BzC3Tc"
-        },
-        {
-          "name": "Prs, o Peres",
-          "url": "https://open.spotify.com/artist/6zA1Us7yWyCj4OXxkgAuqC"
-        },
-        {
-          "name": "Babidi",
-          "url": "https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul"
-        }
-      ],
-      "duration_ms": 169383,
-      "name": "Latinagem",
-      "url": "https://open.spotify.com/track/4cU4Wikey3vykA5ZRtZ0UI"
-    },
-    {
-      "added_at": "2026-10-05 16:08:14",
-      "album": {
         "name": "Paranoia",
         "url": "https://open.spotify.com/album/4pmL18PLUuvemlx21ofpFV"
       },
@@ -1283,38 +1467,6 @@
       "duration_ms": 507750,
       "name": "Rap News: Abril",
       "url": "https://open.spotify.com/track/0jEOm6PuQqPs0ONUUQ5NAx"
-    },
-    {
-      "added_at": "2026-10-05 16:08:14",
-      "album": {
-        "name": "Vai Tomando Mixtape Vol. 2",
-        "url": "https://open.spotify.com/album/5CVFSp03s0SahVsMJHnG22"
-      },
-      "artists": [
-        {
-          "name": "Ex\u00f3dia Entertainment",
-          "url": "https://open.spotify.com/artist/02rQVYHzAkTYPZv6koV920"
-        },
-        {
-          "name": "VND",
-          "url": "https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP"
-        },
-        {
-          "name": "SD9",
-          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
-        },
-        {
-          "name": "Lis Mc",
-          "url": "https://open.spotify.com/artist/5OfwMhn4XgysSIxSxBvTDE"
-        },
-        {
-          "name": "graovizir",
-          "url": "https://open.spotify.com/artist/0OlI7ZNGvQiLMi1bEZgimJ"
-        }
-      ],
-      "duration_ms": 167660,
-      "name": "Filme",
-      "url": "https://open.spotify.com/track/1wBGRA8G60GsxQU4ThDmNx"
     },
     {
       "added_at": "2026-10-05 16:08:14",
@@ -1447,26 +1599,6 @@
     {
       "added_at": "2026-10-05 16:08:14",
       "album": {
-        "name": "CAFETINA",
-        "url": "https://open.spotify.com/album/3dFqe85pW42cBEXyABBlZL"
-      },
-      "artists": [
-        {
-          "name": "Joana Black",
-          "url": "https://open.spotify.com/artist/226S9LHSy8MpKuQ8sgObs6"
-        },
-        {
-          "name": "Gomesz",
-          "url": "https://open.spotify.com/artist/64F5dm6rUZ1e80A7y7PZvw"
-        }
-      ],
-      "duration_ms": 218175,
-      "name": "Dinastia",
-      "url": "https://open.spotify.com/track/4BvlN8yV8cAKpQqyuib83h"
-    },
-    {
-      "added_at": "2026-10-05 16:08:14",
-      "album": {
         "name": "Cara Torta",
         "url": "https://open.spotify.com/album/1dqmxYSc93auK28quJBYBk"
       },
@@ -1491,30 +1623,6 @@
       "duration_ms": 146086,
       "name": "Cara Torta",
       "url": "https://open.spotify.com/track/33MJVawpTHHyAOPDxvWWwv"
-    },
-    {
-      "added_at": "2026-10-05 16:08:14",
-      "album": {
-        "name": "QUE QUE FOI, QUE QUE H\u00c1?",
-        "url": "https://open.spotify.com/album/2TRc6uRNsKjQArpxDUiCoE"
-      },
-      "artists": [
-        {
-          "name": "MV Bill",
-          "url": "https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ"
-        },
-        {
-          "name": "Kmila Cdd",
-          "url": "https://open.spotify.com/artist/5pTtdzoyljdOQnTLVULZvv"
-        },
-        {
-          "name": "DJ Caique",
-          "url": "https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM"
-        }
-      ],
-      "duration_ms": 209142,
-      "name": "QUE QUE FOI, QUE QUE H\u00c1?",
-      "url": "https://open.spotify.com/track/7yjdHapa5SmcTQTpF3ny7V"
     },
     {
       "added_at": "2026-10-05 16:08:14",
@@ -1555,26 +1663,6 @@
       "duration_ms": 74534,
       "name": "M\u00c9RITOCASSINO",
       "url": "https://open.spotify.com/track/04AEnemQmnaTdaMeWfLbJf"
-    },
-    {
-      "added_at": "2026-10-05 16:08:14",
-      "album": {
-        "name": "Super Cr\u00f4nico",
-        "url": "https://open.spotify.com/album/0PX9a8xbZnCLuQPuMyp2rl"
-      },
-      "artists": [
-        {
-          "name": "Cr\u00f4nicas de um Babaca",
-          "url": "https://open.spotify.com/artist/72ee6oTbXukPvwM6BOhVUV"
-        },
-        {
-          "name": "Patricio Sid",
-          "url": "https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu"
-        }
-      ],
-      "duration_ms": 177272,
-      "name": "Super Cr\u00f4nico",
-      "url": "https://open.spotify.com/track/33Wtqpoi0rggUMMBxZYzOX"
     },
     {
       "added_at": "2026-10-05 16:08:14",
@@ -1655,26 +1743,6 @@
     {
       "added_at": "2026-10-05 16:08:14",
       "album": {
-        "name": "P\u00e1tria Que Me Pariu / Cap\u00edtulo 4, Vers\u00edculo 3 (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/08rWRkLEcN4bzIEuFsa9Om"
-      },
-      "artists": [
-        {
-          "name": "Gabriel O Pensador",
-          "url": "https://open.spotify.com/artist/5BWqFYIPTnFx3OPWOoJvmD"
-        },
-        {
-          "name": "Mano Brown",
-          "url": "https://open.spotify.com/artist/0fMjaafeNhHPA6mJ5ZglAJ"
-        }
-      ],
-      "duration_ms": 364263,
-      "name": "P\u00e1tria Que Me Pariu / Cap\u00edtulo 4, Vers\u00edculo 3 - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6xGTW42tyO719OK4XthfD4"
-    },
-    {
-      "added_at": "2026-10-05 16:08:14",
-      "album": {
         "name": "Camping das Minas 2.0",
         "url": "https://open.spotify.com/album/3N4FpTwywyESRY3gs2HNHe"
       },
@@ -1703,22 +1771,6 @@
       "duration_ms": 180017,
       "name": "Bonvivant",
       "url": "https://open.spotify.com/track/1XmkZQN1bjD1yUMjErtEqG"
-    },
-    {
-      "added_at": "2026-10-05 16:08:14",
-      "album": {
-        "name": "R\u00e9u",
-        "url": "https://open.spotify.com/album/5EKi7XmLFOPgXKGdOqAbQX"
-      },
-      "artists": [
-        {
-          "name": "Patricio Sid",
-          "url": "https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu"
-        }
-      ],
-      "duration_ms": 194823,
-      "name": "R\u00e9u",
-      "url": "https://open.spotify.com/track/5jxnEh4V4Ik5Ram95rUbQw"
     }
   ],
   "unique_name": "Presen\u00e7a Hip Hop",

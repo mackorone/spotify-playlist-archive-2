@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 218288,
       "name": "Adler fliegen",
       "url": "https://open.spotify.com/track/0zhifYXC21jjDwivaFBgQU"
@@ -92,7 +92,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 398160,
       "name": "Anaia",
       "url": "https://open.spotify.com/track/3zV5XvBjP9uvQlfW2z7hCC"
@@ -128,7 +128,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 239053,
       "name": "Appalachia",
       "url": "https://open.spotify.com/track/7IxH4gQrVZSZxB3P9sHqB4"
@@ -182,10 +182,28 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 385413,
       "name": "Birna",
       "url": "https://open.spotify.com/track/0VFjKovOdQZje1n3nLwGAb"
+    },
+    {
+      "album": {
+        "name": "Birna",
+        "url": "https://open.spotify.com/album/5clP0vXvX350quRCTw248H"
+      },
+      "artists": [
+        {
+          "name": "Wardruna",
+          "url": "https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385413,
+      "name": "Birna",
+      "url": "https://open.spotify.com/track/2KknwriLntQnzonjPO6quc"
     },
     {
       "album": {
@@ -294,7 +312,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 348196,
       "name": "Crystalline",
       "url": "https://open.spotify.com/track/40Wmu8qja6oJYzDsZ4jek5"
@@ -424,7 +442,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 219306,
       "name": "Ethel",
       "url": "https://open.spotify.com/track/2kDFEgMbmQ0rmt1mAeI7fp"
@@ -532,7 +550,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 347204,
       "name": "Fenris",
       "url": "https://open.spotify.com/track/1QvKHj2NLCuJoFeoe30nLU"
@@ -612,7 +630,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 253413,
       "name": "Future to Come",
       "url": "https://open.spotify.com/track/1ukyoBUPLuLDWiGOP3TDdE"
@@ -720,7 +738,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 189544,
       "name": "Gr\u00e5 Hest",
       "url": "https://open.spotify.com/track/362UfKo2khSB4vGMmChR14"
@@ -760,10 +778,28 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 318200,
       "name": "Hausbrj\u00f3tr - Skullcrusher",
       "url": "https://open.spotify.com/track/2MGn6TkeZqvRMX3uomAHEz"
+    },
+    {
+      "album": {
+        "name": "Runaljod \u2013 Yggdrasil",
+        "url": "https://open.spotify.com/album/7LsNPzgWHwrsLMRsWuiEJa"
+      },
+      "artists": [
+        {
+          "name": "Wardruna",
+          "url": "https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431866,
+      "name": "Helvegen",
+      "url": "https://open.spotify.com/track/0OXEH9T6QSQCrmnjdtpf4P"
     },
     {
       "album": {
@@ -796,7 +832,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 431866,
       "name": "Helvegen",
       "url": "https://open.spotify.com/track/3TEHaGREmft4lec2TrcR8C"
@@ -814,7 +850,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 340133,
       "name": "Hemkomst",
       "url": "https://open.spotify.com/track/1VtAhBhiXduSG6b3ibvcKG"
@@ -850,10 +886,28 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 145826,
       "name": "Hersir",
       "url": "https://open.spotify.com/track/14peV9O1Fm2QpOIzesUudO"
+    },
+    {
+      "album": {
+        "name": "Birna",
+        "url": "https://open.spotify.com/album/5clP0vXvX350quRCTw248H"
+      },
+      "artists": [
+        {
+          "name": "Wardruna",
+          "url": "https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182360,
+      "name": "Hibj\u00f8rnen",
+      "url": "https://open.spotify.com/track/0rsnV9QHbRw30pDKNeIAfz"
     },
     {
       "album": {
@@ -868,10 +922,28 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 182360,
       "name": "Hibj\u00f8rnen",
       "url": "https://open.spotify.com/track/10D9EfOCDrswH6b33eqvQW"
+    },
+    {
+      "album": {
+        "name": "Warriors",
+        "url": "https://open.spotify.com/album/1HAn0kHacJd5gkWZySO27k"
+      },
+      "artists": [
+        {
+          "name": "Feuerschwanz",
+          "url": "https://open.spotify.com/artist/2Ct54gNxKnYLnXk9HhviMI"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199792,
+      "name": "Highlander - English Version",
+      "url": "https://open.spotify.com/track/2Lwi8ICw5GQkNPOs67F2iB"
     },
     {
       "album": {
@@ -922,7 +994,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 850866,
       "name": "How Fare the Gods?",
       "url": "https://open.spotify.com/track/1SZO4SCfBSFhTGMlUpZB1O"
@@ -940,7 +1012,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 850866,
       "name": "How Fare the Gods?",
       "url": "https://open.spotify.com/track/6vhJW2dA7fujOE4B4OvyJR"
@@ -998,7 +1070,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 313469,
       "name": "Huginn ok Muninn",
       "url": "https://open.spotify.com/track/2Xxvm29k94TTwGmAX7UhBA"
@@ -1088,10 +1160,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 389386,
       "name": "Inceptus",
       "url": "https://open.spotify.com/track/42zHLmiOBu81VOUJsdWRHf"
+    },
+    {
+      "album": {
+        "name": "As Bright as a Thousand Suns",
+        "url": "https://open.spotify.com/album/3sydrReFaK4HQwDDYdEnpL"
+      },
+      "artists": [
+        {
+          "name": "Arcana",
+          "url": "https://open.spotify.com/artist/7GVQhnTHmaTrX6bt8eY6Le"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391400,
+      "name": "Inceptus",
+      "url": "https://open.spotify.com/track/1qLqZn1BEBkbLNvM9l67nc"
     },
     {
       "album": {
@@ -1302,6 +1392,24 @@
     {
       "album": {
         "name": "Songs from the Mere",
+        "url": "https://open.spotify.com/album/1XSpNmpchQrrVdZLLNxQ60"
+      },
+      "artists": [
+        {
+          "name": "Wolcensmen",
+          "url": "https://open.spotify.com/artist/2valAzrV6xeHL0weVnIAp8"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378866,
+      "name": "Lady of the Depe",
+      "url": "https://open.spotify.com/track/5AxURv7pyN7vleSordBtuW"
+    },
+    {
+      "album": {
+        "name": "Songs from the Mere",
         "url": "https://open.spotify.com/album/51JRlcqqDvbhL4W5pSWstG"
       },
       "artists": [
@@ -1370,7 +1478,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 92386,
       "name": "Leaving Valhalla",
       "url": "https://open.spotify.com/track/3Ehr8sErsyXW6ymhHyF3jk"
@@ -1388,7 +1496,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 249370,
       "name": "Les",
       "url": "https://open.spotify.com/track/4zrkDm3R7bM53Tvknv5dks"
@@ -1410,6 +1518,24 @@
       "duration_ms": 455190,
       "name": "Lorn and Loath",
       "url": "https://open.spotify.com/track/2fIMFAMxuJEwNBnsD1gI7l"
+    },
+    {
+      "album": {
+        "name": "Fire in the White Stone",
+        "url": "https://open.spotify.com/album/4r6JnshQsW5eaS3ANnL0Sx"
+      },
+      "artists": [
+        {
+          "name": "Wolcensmen",
+          "url": "https://open.spotify.com/artist/2valAzrV6xeHL0weVnIAp8"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 455190,
+      "name": "Lorn and Loath",
+      "url": "https://open.spotify.com/track/6oJ9FaEFwmrS7NgxsEHhFJ"
     },
     {
       "album": {
@@ -1460,7 +1586,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 403626,
       "name": "Malstr\u00f6msbrus",
       "url": "https://open.spotify.com/track/2iaTeZJ8QD2ZS312KQTBgV"
@@ -1514,7 +1640,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 392983,
       "name": "Midvinter",
       "url": "https://open.spotify.com/track/1qlSpiCwjxCsD2VVWpJV1H"
@@ -1698,7 +1824,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 320000,
       "name": "Relics of the Natural Realm",
       "url": "https://open.spotify.com/track/5cbnif2ROYIXzqWWJ6ZUMa"
@@ -1734,7 +1860,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 337133,
       "name": "Ruun II - The Epitaph",
       "url": "https://open.spotify.com/track/2MSPBBEgmtqE7bUu8Kos6T"
@@ -1774,6 +1900,24 @@
       "duration_ms": 292773,
       "name": "R\u00e4ven",
       "url": "https://open.spotify.com/track/1tzL0ZN9RGFPROrFikLVZk"
+    },
+    {
+      "album": {
+        "name": "TR\u00c4",
+        "url": "https://open.spotify.com/album/4ErxOpSGAq7sv6TRfP5Vt9"
+      },
+      "artists": [
+        {
+          "name": "Hedningarna",
+          "url": "https://open.spotify.com/artist/0Y5ldP4uHArYLgHdljfmAu"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292773,
+      "name": "R\u00e4ven",
+      "url": "https://open.spotify.com/track/6CINwNqZb87kcRuzIjFQGt"
     },
     {
       "album": {
@@ -1824,7 +1968,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 160400,
       "name": "R\u00fan",
       "url": "https://open.spotify.com/track/34hYH6o60RtUv5u5UUgnd0"
@@ -1860,7 +2004,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 212479,
       "name": "Saga of the North",
       "url": "https://open.spotify.com/track/5YuyHtVMCHDEcaNGgiTQOL"
@@ -1914,7 +2058,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 196066,
       "name": "Set the Sails",
       "url": "https://open.spotify.com/track/6ZOx4ehXa8K2LESIQzIaqA"
@@ -2084,7 +2228,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 319292,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/7JZxpUYXrzPCwYK4jlOL6M"
@@ -2124,7 +2268,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 428077,
       "name": "Snake Pit Poetry",
       "url": "https://open.spotify.com/track/6R6wY6SsjYZOBFrpYEHUa3"
@@ -2146,10 +2290,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 428077,
       "name": "Snake Pit Poetry",
       "url": "https://open.spotify.com/track/3HLTjYKY7P2O35QyPr70Xz"
+    },
+    {
+      "album": {
+        "name": "Grima",
+        "url": "https://open.spotify.com/album/1FG6xYISfot1Eem2bjCfaK"
+      },
+      "artists": [
+        {
+          "name": "Sowulo",
+          "url": "https://open.spotify.com/artist/4BkdqpIEhl0tKZ5xpAo5pR"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Spatle \u00c6ghwas",
+      "url": "https://open.spotify.com/track/0ehIHRlxsgVEt1QDPhKLwm"
     },
     {
       "album": {
@@ -2272,7 +2434,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 323028,
       "name": "Sun and the Morning Star",
       "url": "https://open.spotify.com/track/5UcGAYuUcxiGt7Wc2SwWBu"
@@ -2316,6 +2478,28 @@
       "duration_ms": 226400,
       "name": "Sverker - Era Metallum - Single Edit",
       "url": "https://open.spotify.com/track/0m5hkGREyOS3xm0KfMT5tl"
+    },
+    {
+      "album": {
+        "name": "Sverker",
+        "url": "https://open.spotify.com/album/4APoIDq4yk7ftOD01vDXJ7"
+      },
+      "artists": [
+        {
+          "name": "Corvus Corax",
+          "url": "https://open.spotify.com/artist/0Qeg2Ytz5AcfvkIO3RYV3z"
+        },
+        {
+          "name": "SAMI YLI-SIRNIO",
+          "url": "https://open.spotify.com/artist/5OpE2VHSQsDY77cYQ6uueg"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226400,
+      "name": "Sverker - Era Metallum - Single Edit",
+      "url": "https://open.spotify.com/track/5weYc6yhJKVo3MSlrUR0UW"
     },
     {
       "album": {
@@ -2476,7 +2660,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 238710,
       "name": "The Wolven Storm (Priscilla's Song)",
       "url": "https://open.spotify.com/track/1mr1cG8dA5ZiydlaEq8vkH"
@@ -2704,7 +2888,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 420792,
       "name": "Valhalla Rising",
       "url": "https://open.spotify.com/track/0GmPknOgicu33WuFr96ei0"
@@ -2935,6 +3119,24 @@
     },
     {
       "album": {
+        "name": "MANN",
+        "url": "https://open.spotify.com/album/7xZHIh8l5X3FlvMReGj0qe"
+      },
+      "artists": [
+        {
+          "name": "Sowulo",
+          "url": "https://open.spotify.com/artist/4BkdqpIEhl0tKZ5xpAo5pR"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256186,
+      "name": "Wulfwiga",
+      "url": "https://open.spotify.com/track/1xLvq1BgssVcFaVsrQ33Tq"
+    },
+    {
+      "album": {
         "name": "Mann",
         "url": "https://open.spotify.com/album/7K6iSnHtArU3SaXBFseCob"
       },
@@ -2946,7 +3148,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 256186,
       "name": "Wulfwiga",
       "url": "https://open.spotify.com/track/37g06WD4w62ipxpBIbQN16"
@@ -3040,7 +3242,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 257579,
       "name": "Ymir",
       "url": "https://open.spotify.com/track/6OMd2Tyoo1t331SqqnTdKR"
@@ -3062,7 +3264,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 257579,
       "name": "Ymir",
       "url": "https://open.spotify.com/track/0bgGgqsmfGk2r177BsCrSI"
@@ -3152,7 +3354,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 193833,
       "name": "\u00d8stavind",
       "url": "https://open.spotify.com/track/27YMR1cUhUKWQavHL6ojOg"

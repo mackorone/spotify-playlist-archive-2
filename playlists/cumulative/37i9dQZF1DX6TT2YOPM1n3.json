@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-05",
-  "description": "Apne mulk ki homegrown hits \ud83c\udfb6 Cover: Izzchughtai, Hasan Raheem, Umair",
+  "description": "Apne mulk ki homegrown hits \ud83c\udfb6 Cover: Asim Azhar",
   "name": "Pakka Hit Hai",
   "tracks": [
     {
@@ -552,6 +552,24 @@
       "duration_ms": 202666,
       "name": "Alif",
       "url": "https://open.spotify.com/track/1IjVbXiyU4MVXWa2Gtkzxv"
+    },
+    {
+      "album": {
+        "name": "Alvida Alvida (From \"Dar-E-Nijaat\")",
+        "url": "https://open.spotify.com/album/1g4s09FqEAVlgGLayTM3D5"
+      },
+      "artists": [
+        {
+          "name": "Nabeel Shaukat Ali",
+          "url": "https://open.spotify.com/artist/1NkQbSzN7LhkURNg2ChZMp"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323333,
+      "name": "Alvida Alvida (From \"Dar-E-Nijaat\")",
+      "url": "https://open.spotify.com/track/06qVuHcsPmojVPO2wbLiDk"
     },
     {
       "album": {
@@ -2686,7 +2704,7 @@
       ],
       "date_added": "2026-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 348961,
       "name": "Hun Ishq Main",
       "url": "https://open.spotify.com/track/4B4aEVKwc2ZQUwkQaodceV"

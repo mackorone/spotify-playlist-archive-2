@@ -4,7 +4,7 @@
 
 > The newest and best Hip\-Hop updated weekly! Cover: Quavo
 
-576 songs - 1 day 5 hr 18 min
+577 songs - 1 day 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -481,6 +481,7 @@
 | [Swing My Way](https://open.spotify.com/track/4wFiEt5XdXVcUAxcMRZnCR) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Swing My Way](https://open.spotify.com/album/48wyjtn53vHqRuQsusH04z) | 2:59 | 2024-12-13 | 2025-06-28 |
 | [Take my time Geeski SH Feb 23](https://open.spotify.com/track/5HX3m4LUWtDjFBtTLd8PHo) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Take my time Geeski SH Feb 23](https://open.spotify.com/album/0cH8XPlr5xRwUWABrGEye6) | 2:54 | 2025-06-06 | 2025-06-08 |
 | [Take The Lead \(feat\. Roy Woods\)](https://open.spotify.com/track/47Ndm1Hv6KoVJ9HeI0Nu9j) | [PARIS.](https://open.spotify.com/artist/5emuVqKy5SWNqFfvvnCxqE), [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Take The Lead \(feat\. Roy Woods\)](https://open.spotify.com/album/3yMZBo6KNLzTP7cdrvzQNa) | 2:16 | 2024-06-21 | 2025-06-07 |
+| [Taking the Piss](https://open.spotify.com/track/4zzZ7g2AHvhDwS4vg4oPsb) | [100Bandplan](https://open.spotify.com/artist/54gXMsMsoa0quu4bwTms8v) | [Taking the Piss](https://open.spotify.com/album/2sXufJSLhSAPDZjqkLB42Y) | 2:25 | 2026-10-13 |  |
 | [Talk To Me Nuh](https://open.spotify.com/track/57OHpXh84fu4FwL02ykMoI) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Talk To Me Nuh](https://open.spotify.com/album/2m47uENn2jQv3q5muu3z1S) | 2:06 | 2026-07-25 | 2026-08-22 |
 | [Talk Truth](https://open.spotify.com/track/2CrlQkUnyKFkY3SrsybnDS) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Talk Truth](https://open.spotify.com/album/1j9rsZkywpPez2M6xjXQCS) | 2:22 | 2023-11-03 | 2024-03-23 |
 | [TASTE](https://open.spotify.com/track/1Pp4ViPEN3SkM4gBW7ZTfF) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [TASTE](https://open.spotify.com/album/0YJXablqMdZ6FRdxwZAbk6) | 2:50 | 2024-08-12 | 2024-09-10 |

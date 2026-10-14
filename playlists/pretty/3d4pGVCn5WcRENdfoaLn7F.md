@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear\. Updated weekly.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 889 likes - 77 songs - 4 hr 24 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 900 likes - 79 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,5 +85,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 75 | [Rams Ram](https://open.spotify.com/track/0plEu3wKASWXx9dul04lDF) | [Cam Get'm](https://open.spotify.com/artist/5fma43UccUMYLftsgZWoWh) | [Rams Ram](https://open.spotify.com/album/1vSFAO5S1fEKOAMkgtCh1T) | 4:27 |
 | 76 | [Photosynthesize](https://open.spotify.com/track/170x4QIJeKPk6MQp87KiU5) | [The Winter Sloths](https://open.spotify.com/artist/3MVGy2ZeJzUFYpP1RdNAGD) | [Photosynthesize](https://open.spotify.com/album/4qSkBNtL1NcdXjEjRLnupg) | 4:43 |
 | 77 | [Hurricane](https://open.spotify.com/track/6VNJ3lVUQe1fxE0Xj0KHGq) | [Groove Vultures](https://open.spotify.com/artist/4mxU5Dnd342CsqAS6viJuj) | [Hurricane](https://open.spotify.com/album/1PJK4bgT3KLWU3Knc1EiCz) | 5:13 |
+| 78 | [All That Glitters](https://open.spotify.com/track/0nbwTQWA3TxU9WzQE7uVwp) | [Jess & The Dropouts](https://open.spotify.com/artist/7CsN7EwwsGjyisVwjiSdKD) | [All That Glitters](https://open.spotify.com/album/4rcRbeJKS242AHZCCIwqbg) | 3:23 |
+| 79 | [Enough](https://open.spotify.com/track/58qcYoVSzf5Pvn2fGBiqaz) | [Eliza G](https://open.spotify.com/artist/5OABUFa0sKo2fj5sMCVAk4) | [Enough](https://open.spotify.com/album/25JEyZBFuByN6mJgvaGVe1) | 3:01 |
 
-Snapshot ID: `AAAD91DQTXpz9CeNgY/cuvpMWbbzBZ3u`
+Snapshot ID: `AAAD+dZTVTBZBW7g1XvlhV/dnSXRUmfT`

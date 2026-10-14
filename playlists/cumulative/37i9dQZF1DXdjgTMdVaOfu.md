@@ -4,7 +4,7 @@
 
 > Music from "The Apothecary Diaries" ©日向夏・イマジカインフォス／「薬屋のひとりごと」製作委員会
 
-166 songs - 7 hr 4 min
+167 songs - 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [雄黄の衣](https://open.spotify.com/track/2yUWu2Cb6cLeZMtYnQnZNc) | [Kevin Penkin](https://open.spotify.com/artist/4S33gEeiCjwfD1FJKfMT3Y) | [TV アニメ『薬屋のひとりごと』第２期 オリジナル・サウンドトラック](https://open.spotify.com/album/1N1qZGt1yWrDiYdrQOJgmI) | 2:03 | 2025-09-16 |  |
 | [雪中花（TVアニメ『薬屋のひとりごと』挿入歌）](https://open.spotify.com/track/2mhBLE7VdxgkMery54dNIk) | [きしかな子](https://open.spotify.com/artist/4EQx960hoDfnN2DLfXxS0u), [内田ましろ](https://open.spotify.com/artist/7arDNJAk4aH7PIG52EWblU), [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [雪中花（TVアニメ『薬屋のひとりごと』挿入歌）](https://open.spotify.com/album/34zfpmqy0jl18dxfTQcjHN) | 2:41 | 2024-03-26 |  |
 | [雪崩](https://open.spotify.com/track/1DIenu7QJPnWzg2oJkQQ9u) | [Alisa Okehazama](https://open.spotify.com/artist/6VMGyvtQPQ1uPvkaSm73aR) | [TV アニメ『薬屋のひとりごと』第２期 オリジナル・サウンドトラック](https://open.spotify.com/album/1N1qZGt1yWrDiYdrQOJgmI) | 3:21 | 2025-09-16 |  |
+| [雲を抜け風下へ私だけ](https://open.spotify.com/track/19XtWJTyMKMfLYUec3FlHx) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [雲を抜け風下へ私だけ](https://open.spotify.com/album/0FyaMUsOnxYdEEHXMWBlm0) | 3:58 | 2026-10-13 |  |
 | [面白そうだ](https://open.spotify.com/track/2L65VKRQtbzk3pka46wAiP) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [TV アニメ『薬屋のひとりごと』第２期 オリジナル・サウンドトラック](https://open.spotify.com/album/1N1qZGt1yWrDiYdrQOJgmI) | 2:36 | 2025-09-16 |  |
 | [頭を抱える](https://open.spotify.com/track/1C8Iq3xyxNQMz85DeZit46) | [Kevin Penkin](https://open.spotify.com/artist/4S33gEeiCjwfD1FJKfMT3Y) | [TV アニメ『薬屋のひとりごと』第２期 オリジナル・サウンドトラック](https://open.spotify.com/album/1N1qZGt1yWrDiYdrQOJgmI) | 2:00 | 2025-09-16 |  |
 | [飛発](https://open.spotify.com/track/3V4yzLJixPAiWGPxajLKWM) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [TV アニメ『薬屋のひとりごと』第２期 オリジナル・サウンドトラック](https://open.spotify.com/album/1N1qZGt1yWrDiYdrQOJgmI) | 1:36 | 2025-09-16 |  |

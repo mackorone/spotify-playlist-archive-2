@@ -922,7 +922,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 235495,
       "name": "ADRENALINE",
       "url": "https://open.spotify.com/track/7nA6qiCTvfAAs236lQTOLk"
@@ -14964,6 +14964,28 @@
       "duration_ms": 243874,
       "name": "Intergalactic Casanova",
       "url": "https://open.spotify.com/track/6lte7l161HTKi4ZLFFGj6x"
+    },
+    {
+      "album": {
+        "name": "Intertwined (feat. Jessie Powell)",
+        "url": "https://open.spotify.com/album/1XHXYQiIAvaB9xPjIyXMv6"
+      },
+      "artists": [
+        {
+          "name": "Vicious Rain",
+          "url": "https://open.spotify.com/artist/5gMc4HiJRY9g63KiaulaBp"
+        },
+        {
+          "name": "Dream State",
+          "url": "https://open.spotify.com/artist/3PPxT6AXgPvvajfvP1LQtw"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235285,
+      "name": "Intertwined (feat. Jessie Powell)",
+      "url": "https://open.spotify.com/track/3nacMJqs7z60ocGlnBqoqh"
     },
     {
       "album": {

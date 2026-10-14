@@ -2167,6 +2167,24 @@
     },
     {
       "album": {
+        "name": "InnerSpeaker",
+        "url": "https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265106,
+      "name": "The Bold Arrow Of Time",
+      "url": "https://open.spotify.com/track/7r7yAFxq6CwakQB5NrJskh"
+    },
+    {
+      "album": {
         "name": "Social Disguises",
         "url": "https://open.spotify.com/album/4EfMewbYdI4dL33rpjDtyG"
       },

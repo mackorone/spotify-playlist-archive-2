@@ -4,7 +4,7 @@
 
 > De stærkeste nye sange fra de seneste par måneder\. Så er du opdateret!
 
-1,313 songs - 2 day 20 hr 22 min
+1,314 songs - 2 day 20 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,7 +227,7 @@
 | [Cry Baby](https://open.spotify.com/track/7oDSG2Q9RBU0QjgtfYQOdD) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Cry Baby](https://open.spotify.com/album/2wPD7JNjWWmAysbcHzD70b) | 2:37 | 2024-08-09 | 2025-01-10 |
 | [Cyklen](https://open.spotify.com/track/6M2N6oak5eZgBamt4QnYzH) | [Pil](https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen) | [Cyklen](https://open.spotify.com/album/4YMu9CztQJLOuvf2MqjU4e) | 3:03 | 2026-03-26 | 2026-04-10 |
 | [Daddy \(feat\. Joey Moe\)](https://open.spotify.com/track/14FIVmmiVMKMohxBHvl8TJ) | [Ankerstjerne](https://open.spotify.com/artist/7JoViNQIqOIaxcBswboN5d), [Joey Moe](https://open.spotify.com/artist/0XuMowqsbFr0TmhOHfmWuc) | [Daddy \(feat\. Joey Moe\)](https://open.spotify.com/album/65ze3ajTZgLutJCihTgkXg) | 2:46 | 2025-08-21 | 2025-09-05 |
-| [Dag Etter](https://open.spotify.com/track/0yXbholP1jDYnkFXo7XwqH) | [URO](https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD) | [Der Bor To Verdener I Mig](https://open.spotify.com/album/4GjijJTBu4uFQtB828W8Rf) | 2:25 | 2026-10-12 |  |
+| [Dag Etter](https://open.spotify.com/track/0yXbholP1jDYnkFXo7XwqH) | [URO](https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD) | [Der Bor To Verdener I Mig](https://open.spotify.com/album/4GjijJTBu4uFQtB828W8Rf) | 2:25 | 2026-10-12 | 2026-10-14 |
 | [Dai Dai](https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Dai Dai](https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8) | 3:43 | 2026-05-14 | 2026-08-21 |
 | [DAISIES](https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:56 | 2025-07-11 | 2025-10-10 |
 | [Damascus \(feat\. Omar Souleyman and Yasiin Bey\)](https://open.spotify.com/track/5dpo5JIcLRrMbaSgTwjCl7) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Omar Souleyman](https://open.spotify.com/artist/11dMqVZY4PHgVL80tejvHK), [Yasiin Bey](https://open.spotify.com/artist/6r2niOTnexy9xss5g8GWXH) | [Damascus \(feat\. Omar Souleyman and Yasiin Bey\)](https://open.spotify.com/album/4mOVYvAg2d2vBaTMqBc1ot) | 4:04 | 2025-12-11 | 2026-02-13 |
@@ -1207,6 +1207,7 @@
 | [TÆT PÅ \(feat\. Delara\)](https://open.spotify.com/track/7v30u3hUBxW0NhbYHazNDg) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB), [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [TÆT PÅ \(feat\. Delara\)](https://open.spotify.com/album/2EJfw8c22rvYkdhdH9RIKx) | 2:17 | 2025-05-08 | 2025-08-17 |
 | [Tættere På Hende](https://open.spotify.com/track/5g3MQe4UctqhsmR67BueRz) | [Ella Augusta](https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz), [Pil](https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen) | [Tættere På Hende](https://open.spotify.com/album/4X4omk579qRX2eKzj8UAa3) | 3:28 | 2026-08-28 |  |
 | [Tømmermænd \- Radio Edit](https://open.spotify.com/track/6rIOedNez2EcpEX0Dxd2B5) | [Katinka](https://open.spotify.com/artist/05tsGKo76eTXi0yrK4e4rZ) | [Tømmermænd \(Radio Edit\)](https://open.spotify.com/album/3gqNQfQmJJ3Vjlvy7gbusk) | 2:53 | 2026-03-05 | 2026-03-20 |
+| [Ude Fra Indre \(feat\. Freyy\)](https://open.spotify.com/track/680scZlQIxfYaYbL7thyQY) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp), [Freyy](https://open.spotify.com/artist/06Fcp7TijSKWCB2NVS0MbS) | [Noahs Ark II](https://open.spotify.com/album/6HWkoZ6FCzS84LBcJaKLlo) | 2:49 | 2026-10-12 |  |
 | [Under Din Sne \(Feat\. MØ\) \- Fra koncertfilmen "3 døgn i Parken"](https://open.spotify.com/track/2HOeXLg6RDlGawWGX7WFCT) | [The Minds Of 99](https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Under Din Sne \(Feat\. MØ\) \- Fra koncertfilmen "3 døgn i Parken"](https://open.spotify.com/album/3Ot6dkpfSysCzGcnBhf0aX) | 4:59 | 2024-12-12 | 2025-02-05 |
 | [Under Overfladen](https://open.spotify.com/track/2EXmj5AkvJLRhPVRUMZqw8) | [Turboweekend](https://open.spotify.com/artist/4v5M2g2hKOoaUceEgJbr80) | [Under Overfladen](https://open.spotify.com/album/2eOjVHqji1tnIcwDGKnM35) | 4:26 | 2025-03-13 | 2025-03-21 |
 | [undressed](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [undressed](https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D) | 3:02 | 2025-03-20 | 2025-06-20 |

@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "All That Glitters",
+        "url": "https://open.spotify.com/album/4rcRbeJKS242AHZCCIwqbg"
+      },
+      "artists": [
+        {
+          "name": "Jess & The Dropouts",
+          "url": "https://open.spotify.com/artist/7CsN7EwwsGjyisVwjiSdKD"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203750,
+      "name": "All That Glitters",
+      "url": "https://open.spotify.com/track/0nbwTQWA3TxU9WzQE7uVwp"
+    },
+    {
+      "album": {
         "name": "All That We Need",
         "url": "https://open.spotify.com/album/3aFfX6KlURt9DGYVDEk0Qq"
       },
@@ -1916,6 +1934,24 @@
       "duration_ms": 253953,
       "name": "elvira",
       "url": "https://open.spotify.com/track/1MN0j7rkRyjKHNnpPrRI6p"
+    },
+    {
+      "album": {
+        "name": "Enough",
+        "url": "https://open.spotify.com/album/25JEyZBFuByN6mJgvaGVe1"
+      },
+      "artists": [
+        {
+          "name": "Eliza G",
+          "url": "https://open.spotify.com/artist/5OABUFa0sKo2fj5sMCVAk4"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181472,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/58qcYoVSzf5Pvn2fGBiqaz"
     },
     {
       "album": {

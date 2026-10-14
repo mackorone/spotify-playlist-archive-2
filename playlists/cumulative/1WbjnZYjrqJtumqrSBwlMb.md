@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,388 songs - 3 day 13 hr 28 min
+1,389 songs - 3 day 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -538,6 +538,7 @@
 | [house settling](https://open.spotify.com/track/10zPOOHRblprd5uilHAXuC) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [I Didn't Mean To Haunt You](https://open.spotify.com/album/3c0NHNo2Gn0X7uARad3hGv) | 4:52 | 2022-11-11 |  |
 | [Houston](https://open.spotify.com/track/5IJ5gi0AuBNpRlfOEqA9Cq) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Loveseat](https://open.spotify.com/album/7oP7ABjXuVjSCiDexJ2bza) | 3:49 | 2024-06-29 |  |
 | [How Do I Make You Love Me?](https://open.spotify.com/track/2Ghp894n1laIf2w98VeAOJ) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 | 2022-01-08 |  |
+| [Human Error](https://open.spotify.com/track/0mQlmaIfCBNRbnNIROGkbJ) | [Olēka](https://open.spotify.com/artist/0lpq5rqUEmlUaVWHS84BpY) | [Human Error](https://open.spotify.com/album/3QzOrFl4k9dh735VKmjyoy) | 4:22 | 2026-10-13 |  |
 | [Hummer](https://open.spotify.com/track/1GfEpihzfbV6HFt21JA1dz) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Hummer](https://open.spotify.com/album/0EdUCo0oxkBCpNK5EM1hfs) | 6:01 | 2026-06-23 | 2026-07-11 |
 | [Huntin’ Wabbitz](https://open.spotify.com/track/2cH8wHImerFokgmhjyhCTU) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 2:42 | 2024-04-05 |  |
 | [Hurricane](https://open.spotify.com/track/44I7sqKYCAa7bQdVywkShO) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Hurricane](https://open.spotify.com/album/4YV1qBdn6O6thyg18kBo0N) | 3:58 | 2023-03-19 |  |

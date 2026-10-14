@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-24",
-  "description": "Boys groups/solo artists shining beyond borders.  \u30b0\u30ed\u30fc\u30d0\u30eb\u306b\u6d3b\u8e8d\u3059\u308b\u30dc\u30fc\u30a4\u30ba\u30b0\u30eb\u30fc\u30d7/\u30bd\u30ed\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: KickFlip & iann dior",
+  "description": "Boys groups/solo artists shining beyond borders.  \u30b0\u30ed\u30fc\u30d0\u30eb\u306b\u6d3b\u8e8d\u3059\u308b\u30dc\u30fc\u30a4\u30ba\u30b0\u30eb\u30fc\u30d7/\u30bd\u30ed\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: NCT WISH ",
   "name": "Boy in the Moon",
   "tracks": [
     {
@@ -356,7 +356,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 251000,
       "name": "99 Degrees",
       "url": "https://open.spotify.com/track/0Adkq5CkilX52wKp7GzRct"
@@ -2490,6 +2490,24 @@
       "duration_ms": 210200,
       "name": "BOW WOW",
       "url": "https://open.spotify.com/track/0HOlnmec9JvZJz201NA7EE"
+    },
+    {
+      "album": {
+        "name": "BOYFRIEND",
+        "url": "https://open.spotify.com/album/20HcvlMoE3Y75MEkG7kATP"
+      },
+      "artists": [
+        {
+          "name": "HOSHI",
+          "url": "https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "BOYFRIEND",
+      "url": "https://open.spotify.com/track/0Yyh9XpPntsMhbJcC80VfH"
     },
     {
       "album": {
@@ -5369,6 +5387,24 @@
     },
     {
       "album": {
+        "name": "Fearless",
+        "url": "https://open.spotify.com/album/3VVF6lIpwTZ8iEYcN0PF5u"
+      },
+      "artists": [
+        {
+          "name": "&TEAM",
+          "url": "https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173205,
+      "name": "Fearless",
+      "url": "https://open.spotify.com/track/678sads3sdt8tInJEM6AYv"
+    },
+    {
+      "album": {
         "name": "Ferris wheel",
         "url": "https://open.spotify.com/album/3BROQVd2b9S6DgTzIrnGf9"
       },
@@ -5514,7 +5550,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 187000,
       "name": "Flame (feat. milet)",
       "url": "https://open.spotify.com/track/167V5iL3BHjy9Fu5EO5hxW"
@@ -6562,7 +6598,7 @@
       ],
       "date_added": "2026-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 153666,
       "name": "Good Boy",
       "url": "https://open.spotify.com/track/7JKfM9CMJyZP18J35XXdMr"
@@ -7400,7 +7436,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 198066,
       "name": "HIGHER",
       "url": "https://open.spotify.com/track/5Lu1DuS8oLcG55GCIajgsb"
@@ -7808,6 +7844,24 @@
       "duration_ms": 138377,
       "name": "I Know",
       "url": "https://open.spotify.com/track/1H6SLuE3e50BS0V8Na1XzQ"
+    },
+    {
+      "album": {
+        "name": "I SPY - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/7DwTwunZVxnPGmpUAxcxEN"
+      },
+      "artists": [
+        {
+          "name": "NCT WISH",
+          "url": "https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "I SPY",
+      "url": "https://open.spotify.com/track/3kcGkOmFXtaFjVdz7ge1WL"
     },
     {
       "album": {
@@ -8524,6 +8578,24 @@
       "duration_ms": 250033,
       "name": "It\u2019s all good",
       "url": "https://open.spotify.com/track/5V6ZKHUuyo9TgpmzMgxV9R"
+    },
+    {
+      "album": {
+        "name": "It\u2019s not a bad life",
+        "url": "https://open.spotify.com/album/3sW7jqivENm0w9uBFP07Ht"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226535,
+      "name": "It\u2019s not a bad life",
+      "url": "https://open.spotify.com/track/4nQPJUvKuq8ZbcjCqbMzu0"
     },
     {
       "album": {
@@ -9582,7 +9654,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 180112,
       "name": "LIVE FAST DIE SLOW",
       "url": "https://open.spotify.com/track/0QLTEaLCsqQrgf54EtPMkt"
@@ -10856,7 +10928,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 208495,
       "name": "Moonwalkin'",
       "url": "https://open.spotify.com/track/46V2ciN6F5bxjQWityNhkY"
@@ -11700,6 +11772,24 @@
       "duration_ms": 166418,
       "name": "O-RLY?",
       "url": "https://open.spotify.com/track/4ZTZa7Fw9nBBzrQxQRly06"
+    },
+    {
+      "album": {
+        "name": "IMPULSE",
+        "url": "https://open.spotify.com/album/4NWAatVPLzAD66q90vbPo8"
+      },
+      "artists": [
+        {
+          "name": "Xdinary Heroes",
+          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195540,
+      "name": "Obsessed with Youth",
+      "url": "https://open.spotify.com/track/3UZ9LgHanJWsSQU1uQvrG6"
     },
     {
       "album": {
@@ -13617,6 +13707,24 @@
     },
     {
       "album": {
+        "name": "2.Multitude: How We Bloom",
+        "url": "https://open.spotify.com/album/5bep5dOZ7SYYp7KI2jUFqe"
+      },
+      "artists": [
+        {
+          "name": "MODYSSEY",
+          "url": "https://open.spotify.com/artist/6R1ubSvhLgLg13yl4n6f5q"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Ridin\u2032 (CAN YOU HEAR THAT)",
+      "url": "https://open.spotify.com/track/14vIZxeOoOinZ0Xg1iL2RQ"
+    },
+    {
+      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/4ichGXKR5PCxKXZBy5Hypk"
       },
@@ -14846,7 +14954,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 186466,
       "name": "So Honey",
       "url": "https://open.spotify.com/track/5oAyDEvsfDuirGzjEh3p3D"
@@ -15194,6 +15302,24 @@
       "duration_ms": 236700,
       "name": "Standing Here",
       "url": "https://open.spotify.com/track/2rUZVuGbji4iSOxDpb9pIC"
+    },
+    {
+      "album": {
+        "name": "HYPERDRIVE",
+        "url": "https://open.spotify.com/album/6CPXqV2etsQDPeBDk71Xcu"
+      },
+      "artists": [
+        {
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Star Trace",
+      "url": "https://open.spotify.com/track/1fI7jgWKJ41xELohFnVFp7"
     },
     {
       "album": {
@@ -17283,6 +17409,24 @@
     },
     {
       "album": {
+        "name": "DEAD:ALIVE",
+        "url": "https://open.spotify.com/album/0gWgNvFV0YTgvjnQtZ6luq"
+      },
+      "artists": [
+        {
+          "name": "SUNGHANBIN",
+          "url": "https://open.spotify.com/artist/2nklCgDz87eN9JcPTlWFEp"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "UNDEAD",
+      "url": "https://open.spotify.com/track/4THREzrCR5aHcBvRWlXRpw"
+    },
+    {
+      "album": {
         "name": "UNDENIABLE",
         "url": "https://open.spotify.com/album/0V1mFnK1IyhIhyOmlDI38b"
       },
@@ -18808,7 +18952,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 164000,
       "name": "YO-I-DON!",
       "url": "https://open.spotify.com/track/5ApeRGjYG4TZAwv9wGlHPc"

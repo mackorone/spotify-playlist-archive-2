@@ -1528,7 +1528,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 178908,
       "name": "Ak\u015fam Oldu Sokaklar Yine Tenha",
       "url": "https://open.spotify.com/track/4tl7cLzKxFAE3lCp41Nkk4"
@@ -23026,7 +23026,7 @@
       ],
       "date_added": "2026-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 209553,
       "name": "Oy Dedim",
       "url": "https://open.spotify.com/track/5oS6MhVXXQ0bdoumQJw2US"
@@ -25998,7 +25998,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-13",
+      "date_removed": null,
       "duration_ms": 241456,
       "name": "Sen Orda Yoksun",
       "url": "https://open.spotify.com/track/0xB1twgXnL1hEwLRWdRUIe"
@@ -27098,7 +27098,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 149711,
       "name": "Snap",
       "url": "https://open.spotify.com/track/2mW1SMo4VbI2MFCTKOBZ6W"
@@ -29322,6 +29322,24 @@
       "duration_ms": 216119,
       "name": "VAMPIR",
       "url": "https://open.spotify.com/track/3I1W0Hr5CLesBAmPKbREsU"
+    },
+    {
+      "album": {
+        "name": "YARAMAZ",
+        "url": "https://open.spotify.com/album/0knYzYewHGHMP43iP3JXch"
+      },
+      "artists": [
+        {
+          "name": "Zeki Arkun",
+          "url": "https://open.spotify.com/artist/0o370GMjPTWUz6gv8lasfs"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203799,
+      "name": "VEDA BUSES\u0130",
+      "url": "https://open.spotify.com/track/0g5PQ6iQKufImz6HZPwEdz"
     },
     {
       "album": {
@@ -32262,7 +32280,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-10",
+      "date_removed": null,
       "duration_ms": 162745,
       "name": "\u00c7\u0131kmaz Bir Sokakta",
       "url": "https://open.spotify.com/track/4SJjMPowhsrYSWgxM61yxm"

@@ -1,6 +1,6 @@
 {
   "description": "Nousussa olevat hitit. \ud83c\udf2a\ufe0f ",
-  "num_followers": 59477,
+  "num_followers": 59472,
   "original_name": "Nousussa",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2026-10-08 21:00:29",
       "album": {
-        "name": "Helahoito",
-        "url": "https://open.spotify.com/album/34zM5zslQ2AsWwAhP9rhqV"
-      },
-      "artists": [
-        {
-          "name": "Benjamin",
-          "url": "https://open.spotify.com/artist/5FgAhHocNrSCn7Ox87uyef"
-        }
-      ],
-      "duration_ms": 191097,
-      "name": "Helahoito",
-      "url": "https://open.spotify.com/track/6uSuEu5nMDNlEZuZOcGxCQ"
-    },
-    {
-      "added_at": "2026-10-08 21:00:29",
-      "album": {
         "name": "Voidaaks rikkoo hiljaisuus",
         "url": "https://open.spotify.com/album/37AvpNQzvi0OuJcdEWpb4E"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 164717,
       "name": "Voidaaks rikkoo hiljaisuus",
       "url": "https://open.spotify.com/track/2g1bCHeYTpcL9mEUJ2Nm5v"
+    },
+    {
+      "added_at": "2026-10-08 21:00:29",
+      "album": {
+        "name": "Helahoito",
+        "url": "https://open.spotify.com/album/34zM5zslQ2AsWwAhP9rhqV"
+      },
+      "artists": [
+        {
+          "name": "Benjamin",
+          "url": "https://open.spotify.com/artist/5FgAhHocNrSCn7Ox87uyef"
+        }
+      ],
+      "duration_ms": 191097,
+      "name": "Helahoito",
+      "url": "https://open.spotify.com/track/6uSuEu5nMDNlEZuZOcGxCQ"
     },
     {
       "added_at": "2026-10-08 21:00:29",
@@ -323,22 +323,6 @@
     {
       "added_at": "2026-10-08 21:00:29",
       "album": {
-        "name": "Toiveuusintoja",
-        "url": "https://open.spotify.com/album/5KzDCx4IE2Sp6a8IrKg3vB"
-      },
-      "artists": [
-        {
-          "name": "Edicti",
-          "url": "https://open.spotify.com/artist/5sYAbWJ14L78hv98klUjqS"
-        }
-      ],
-      "duration_ms": 172344,
-      "name": "Viimeinen kausi",
-      "url": "https://open.spotify.com/track/3ZqhLmHpZVi4SVd2dvjL00"
-    },
-    {
-      "added_at": "2026-10-08 21:00:29",
-      "album": {
         "name": "en tunne",
         "url": "https://open.spotify.com/album/6cDfwvDCGoGFCPRb5A4FHb"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 181607,
       "name": "en tunne",
       "url": "https://open.spotify.com/track/6d3Wi6MvD5bxaPJajXBiZt"
+    },
+    {
+      "added_at": "2026-10-08 21:00:29",
+      "album": {
+        "name": "Toiveuusintoja",
+        "url": "https://open.spotify.com/album/5KzDCx4IE2Sp6a8IrKg3vB"
+      },
+      "artists": [
+        {
+          "name": "Edicti",
+          "url": "https://open.spotify.com/artist/5sYAbWJ14L78hv98klUjqS"
+        }
+      ],
+      "duration_ms": 172344,
+      "name": "Viimeinen kausi",
+      "url": "https://open.spotify.com/track/3ZqhLmHpZVi4SVd2dvjL00"
     },
     {
       "added_at": "2026-10-08 21:00:29",
@@ -407,22 +407,6 @@
     {
       "added_at": "2026-10-08 21:00:29",
       "album": {
-        "name": "Dancing Alone",
-        "url": "https://open.spotify.com/album/4iTpD1smBxizFvBs13HTzI"
-      },
-      "artists": [
-        {
-          "name": "Kiara Nelson",
-          "url": "https://open.spotify.com/artist/1OtLLpkbo3xLGlPUQV4YHa"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "Dancing Alone",
-      "url": "https://open.spotify.com/track/7lcOwbhhqpVRqudzulstWt"
-    },
-    {
-      "added_at": "2026-10-08 21:00:29",
-      "album": {
         "name": "Hei Supermario (feat. Samuell)",
         "url": "https://open.spotify.com/album/3fyr79gc97RFsMlZnefk6Z"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 114206,
       "name": "Hei Supermario (feat. Samuell)",
       "url": "https://open.spotify.com/track/3QWM72gaz0yoRobb9A014a"
+    },
+    {
+      "added_at": "2026-10-08 21:00:29",
+      "album": {
+        "name": "Dancing Alone",
+        "url": "https://open.spotify.com/album/4iTpD1smBxizFvBs13HTzI"
+      },
+      "artists": [
+        {
+          "name": "Kiara Nelson",
+          "url": "https://open.spotify.com/artist/1OtLLpkbo3xLGlPUQV4YHa"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Dancing Alone",
+      "url": "https://open.spotify.com/track/7lcOwbhhqpVRqudzulstWt"
     },
     {
       "added_at": "2026-10-08 21:00:29",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-10-08 21:00:29",
       "album": {
-        "name": "Liian nuorii kuolinilmotuksiin",
-        "url": "https://open.spotify.com/album/5m6lvgjL8XC0YzsylK4kEJ"
-      },
-      "artists": [
-        {
-          "name": "Lilja Lund\u00e9n",
-          "url": "https://open.spotify.com/artist/0wNcJZGfhunx6ws14pNya1"
-        }
-      ],
-      "duration_ms": 187986,
-      "name": "Liian nuorii kuolinilmotuksiin",
-      "url": "https://open.spotify.com/track/5chWNStxbGubQxGS0ueMtd"
-    },
-    {
-      "added_at": "2026-10-08 21:00:29",
-      "album": {
         "name": "Mustikkamaa",
         "url": "https://open.spotify.com/album/3iWUlUxAFnH2tBCLj8aPTl"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 213961,
       "name": "Mustikkamaa",
       "url": "https://open.spotify.com/track/3T0WQKTqMhe7RnA3m0im20"
+    },
+    {
+      "added_at": "2026-10-08 21:00:29",
+      "album": {
+        "name": "Liian nuorii kuolinilmotuksiin",
+        "url": "https://open.spotify.com/album/5m6lvgjL8XC0YzsylK4kEJ"
+      },
+      "artists": [
+        {
+          "name": "Lilja Lund\u00e9n",
+          "url": "https://open.spotify.com/artist/0wNcJZGfhunx6ws14pNya1"
+        }
+      ],
+      "duration_ms": 187986,
+      "name": "Liian nuorii kuolinilmotuksiin",
+      "url": "https://open.spotify.com/track/5chWNStxbGubQxGS0ueMtd"
     },
     {
       "added_at": "2026-10-08 21:00:29",
@@ -759,6 +759,22 @@
     {
       "added_at": "2026-10-08 21:00:29",
       "album": {
+        "name": "Tyhm\u00e4",
+        "url": "https://open.spotify.com/album/5pV0o7QimNEYCw67DFOTJX"
+      },
+      "artists": [
+        {
+          "name": "leba",
+          "url": "https://open.spotify.com/artist/329hEYn8r1SUGkRomjKqRP"
+        }
+      ],
+      "duration_ms": 147254,
+      "name": "Tyhm\u00e4",
+      "url": "https://open.spotify.com/track/55HOqI6aUmBUBe0jHi9cz5"
+    },
+    {
+      "added_at": "2026-10-08 21:00:29",
+      "album": {
         "name": "Ruusunen",
         "url": "https://open.spotify.com/album/6hH5TyKIonQlYPjiijinl9"
       },
@@ -775,18 +791,22 @@
     {
       "added_at": "2026-10-08 21:00:29",
       "album": {
-        "name": "Tyhm\u00e4",
-        "url": "https://open.spotify.com/album/5pV0o7QimNEYCw67DFOTJX"
+        "name": "Pilvenpiirt\u00e4j\u00e4t",
+        "url": "https://open.spotify.com/album/5sWMhpLwiIa2mnzEGRv9bk"
       },
       "artists": [
         {
-          "name": "leba",
-          "url": "https://open.spotify.com/artist/329hEYn8r1SUGkRomjKqRP"
+          "name": "Ruletti",
+          "url": "https://open.spotify.com/artist/4gwwt7saKvdjebQgIHRyaC"
+        },
+        {
+          "name": "Melissa",
+          "url": "https://open.spotify.com/artist/2Ad6Z1GThSF2pyR0A4HKLn"
         }
       ],
-      "duration_ms": 147254,
-      "name": "Tyhm\u00e4",
-      "url": "https://open.spotify.com/track/55HOqI6aUmBUBe0jHi9cz5"
+      "duration_ms": 213934,
+      "name": "Pilvenpiirt\u00e4j\u00e4t",
+      "url": "https://open.spotify.com/track/73I9BEWL543fECv8svC4Ag"
     },
     {
       "added_at": "2026-10-08 21:00:29",
@@ -835,26 +855,6 @@
       "duration_ms": 205000,
       "name": "etk\u00f6 s\u00e4 n\u00e4\u00e4?",
       "url": "https://open.spotify.com/track/0NGBbbo7fPs6tYvMy2uTGS"
-    },
-    {
-      "added_at": "2026-10-08 21:00:29",
-      "album": {
-        "name": "Pilvenpiirt\u00e4j\u00e4t",
-        "url": "https://open.spotify.com/album/5sWMhpLwiIa2mnzEGRv9bk"
-      },
-      "artists": [
-        {
-          "name": "Ruletti",
-          "url": "https://open.spotify.com/artist/4gwwt7saKvdjebQgIHRyaC"
-        },
-        {
-          "name": "Melissa",
-          "url": "https://open.spotify.com/artist/2Ad6Z1GThSF2pyR0A4HKLn"
-        }
-      ],
-      "duration_ms": 213934,
-      "name": "Pilvenpiirt\u00e4j\u00e4t",
-      "url": "https://open.spotify.com/track/73I9BEWL543fECv8svC4Ag"
     }
   ],
   "unique_name": "Nousussa",

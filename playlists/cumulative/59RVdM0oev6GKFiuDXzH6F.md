@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-1,211 songs - 2 day 14 hr 18 min
+1,214 songs - 2 day 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [By Your Side](https://open.spotify.com/track/6Qb2N7m4ZTvthTrTsI99qM) | [NOYSE](https://open.spotify.com/artist/3e1EBvnyj3mke3HnMa5Uq2) | [By Your Side](https://open.spotify.com/album/4mHNM8y1YILeova9UUP9b2) | 2:32 | 2024-01-05 | 2024-09-26 |
 | [Cadidonia](https://open.spotify.com/track/7aGhrdyomZhRlwV1lOAs9P) | [Sr\. Funkie](https://open.spotify.com/artist/5eiKMITkmVJ07m1HoKAx3n) | [You Got Soul](https://open.spotify.com/album/3jpUTkWUzmpBsdHmgd3Yhs) | 4:30 | 2023-02-12 | 2023-04-13 |
 | [Cafe With Gods](https://open.spotify.com/track/392saTzCLJ1EljFjZrOUxy) | [Victor Tellagio](https://open.spotify.com/artist/0Tn4aSU1htOi0pMKKSuVkW) | [Cafe With Gods](https://open.spotify.com/album/2FKP8BYcYE4i9hC8qlyDUg) | 3:54 | 2024-08-01 | 2025-01-09 |
+| [California Dreamin'](https://open.spotify.com/track/26N0VniacJgjiY0AidM1RZ) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Voltech](https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o), [Faiolli](https://open.spotify.com/artist/6oBVe2YK3rG8pS4eLf36wO) | [California Dreamin'](https://open.spotify.com/album/49MDmoQm7bf30Gg2uEANnt) | 2:59 | 2026-10-13 |  |
 | [Call Me Crazy](https://open.spotify.com/track/6CKg1N3GpJMpOB5C8HMtcD) | [Disco Fries](https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U), [LODATO](https://open.spotify.com/artist/2uLjsXkHNJaxZTwVkDZktv) | [Call Me Crazy](https://open.spotify.com/album/0xDjG0HyU8cBswL78MbA6t) | 2:15 | 2024-12-05 | 2025-03-14 |
 | [Calling](https://open.spotify.com/track/66RXdotm5DaizBKalAq3iV) | [Ellis Moss](https://open.spotify.com/artist/0XOfJ1JJXwMVJG26ZZj3UQ) | [Calling](https://open.spotify.com/album/5dl10Bi93YCk2BvuFrCc5r) | 3:16 | 2023-11-17 | 2024-09-26 |
 | [Came To The Club](https://open.spotify.com/track/5sNBD1isXDlrmcpEEw0jZ0) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Late Night Talks](https://open.spotify.com/album/438inawhNtzNDJVbaqKcFk) | 2:45 | 2024-11-15 | 2025-01-09 |
@@ -509,6 +510,7 @@
 | [In Your Mind](https://open.spotify.com/track/1fljgBD0HxUOOtLDQ9WSaM) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU), [Notelle](https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U) | [In Your Mind](https://open.spotify.com/album/1lnxNRd7kCfp1AGkVehKCU) | 2:34 | 2023-09-22 | 2023-12-14 |
 | [In Your Space](https://open.spotify.com/track/472fhwWxePmjpyGxKIO0nO) | [Daniel K Universe](https://open.spotify.com/artist/4JKrPLMOLuuHQntOP9NBWx), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [In Your Space](https://open.spotify.com/album/5oS2qPMThLrerT1wMustjH) | 2:34 | 2024-10-24 | 2025-01-09 |
 | [Infinity \(Bhaskar Remix\)](https://open.spotify.com/track/4ytfVjVEXfJIe0uZj4WoTF) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L) | [Infinity \(Bhaskar Remix\)](https://open.spotify.com/album/1hQ4ooJU4Qof6MDgExzqbI) | 2:56 | 2024-12-19 |  |
+| [Inner Peace](https://open.spotify.com/track/4Ru9INxM1Nknqd7NR8ytl3) | [S3PPA](https://open.spotify.com/artist/0sIB3PokRCqqllNuzZ38NO) | [Inner Peace](https://open.spotify.com/album/73twnUCHEPcl0h8AEUzMyT) | 4:00 | 2026-10-13 |  |
 | [Insane](https://open.spotify.com/track/45nWlWMBYoAGixCKgSLHIy) | [INDOX](https://open.spotify.com/artist/1DPs7yxCNV6k92Srsoem4E) | [Insane](https://open.spotify.com/album/54rH8q9kD4pXHLstcdqw01) | 2:25 | 2023-04-14 | 2023-12-14 |
 | [Insane](https://open.spotify.com/track/4O5ChKGayxRNVVsOZqMdKo) | [Mischa Dash](https://open.spotify.com/artist/45cOTzG7Lg5NqDBn9dzvI2), [Kxne](https://open.spotify.com/artist/2ra4pgvFtoYYzvXir3E4JD) | [Insane](https://open.spotify.com/album/4W0MTbyuwSbEa8r5dqt7wz) | 2:38 | 2023-06-23 | 2023-07-14 |
 | [Inside Out](https://open.spotify.com/track/3t71NTwNK5bjIXYfNZuZND) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Bad Nonno](https://open.spotify.com/artist/1QDt44k077TE9rFciokBSU) | [Inside Out](https://open.spotify.com/album/3FKhVkpnKuHZkNaiEdfFOq) | 2:52 | 2024-01-26 | 2024-09-26 |
@@ -559,6 +561,7 @@
 | [La Fiesta](https://open.spotify.com/track/3iNgpFSd83TnhQsOInuks9) | [Fabi Hernandez](https://open.spotify.com/artist/62x0OBGqCIXKBSbFZVn0np), [Mathieu Ruz](https://open.spotify.com/artist/3ZGI3NmbFQIhEDMiYekU08) | [La Fiesta](https://open.spotify.com/album/6EuzMPXjBD0eBeq2BNoBPX) | 2:53 | 2024-11-25 | 2025-01-09 |
 | [La La La](https://open.spotify.com/track/3XlNN5O7l4eF3zit6WD15t) | [MITCH DB](https://open.spotify.com/artist/6fMSq8NSVe1QWRSTiBCxwL), [Emilio](https://open.spotify.com/artist/5ejQjLfm6RcKIVWYxxupYj) | [La La La](https://open.spotify.com/album/1buI0ChXbJSjJIYrr8Rkpd) | 2:24 | 2025-10-10 |  |
 | [La La La](https://open.spotify.com/track/0kZwdBQo5iJfM9DYsFCYSD) | [TECH IT DEEP](https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw) | [La La La](https://open.spotify.com/album/1yyYH9ehC041fuy4eujShO) | 2:56 | 2023-07-21 | 2023-12-14 |
+| [La Révolution](https://open.spotify.com/track/3P443IW4yLpi7kbD6O6RwR) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [La Révolution](https://open.spotify.com/album/5UNLFMFAZsh7oS55RA2bWU) | 2:12 | 2026-10-13 |  |
 | [La Vida Loca](https://open.spotify.com/track/19QzTHzb0hLAQcuTLhsEJA) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [AMY MIYÚ](https://open.spotify.com/artist/5Cd6yDDRckU2zVyAzAMbLl) | [La Vida Loca](https://open.spotify.com/album/6OXbQEdRNvirPoMuLJYIrs) | 2:10 | 2024-03-08 | 2024-04-13 |
 | [Lady \(Hear Me Tonight\)](https://open.spotify.com/track/0Jag248wCds9vbWJkIorce) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [James Hurr](https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL) | [Lady \(Hear Me Tonight\)](https://open.spotify.com/album/6pmioyGNR4NW5yMx5AU0JB) | 3:31 | 2023-08-18 | 2023-08-28 |
 | [Language](https://open.spotify.com/track/07O910mNQA1fKyTNE6k5ZQ) | [Modeā](https://open.spotify.com/artist/6dsy10LVNALrvHyVEadrsJ) | [Language](https://open.spotify.com/album/1L3Ni94nU5hwBgu2KETmAb) | 3:38 | 2023-11-24 | 2025-01-09 |

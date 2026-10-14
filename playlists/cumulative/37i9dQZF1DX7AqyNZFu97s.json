@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music from independent artists in the UK and Ireland. Cover: studio20",
+  "description": "The best new music from independent artists in the UK and Ireland. Cover: Burglar",
   "name": "Fresh Finds UK & IE",
   "tracks": [
     {
@@ -6764,7 +6764,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 189142,
       "name": "Biting My Tongue",
       "url": "https://open.spotify.com/track/4JIOLJsnwveUV6EkDUy9E8"
@@ -7793,6 +7793,24 @@
     },
     {
       "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/76Uuu3Di9U1nG86ZaIaUYL"
+      },
+      "artists": [
+        {
+          "name": "Wallace",
+          "url": "https://open.spotify.com/artist/2VosWday4AoFOXDJgYoDjm"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303500,
+      "name": "Blues",
+      "url": "https://open.spotify.com/track/2k9EWfbnMIIpmryVcrgzJ4"
+    },
+    {
+      "album": {
         "name": "running out of things to say, running out of things to do",
         "url": "https://open.spotify.com/album/0cpcl7S8hhptUtaitER9Pi"
       },
@@ -8432,6 +8450,24 @@
       "duration_ms": 205368,
       "name": "Boys Don't Cry",
       "url": "https://open.spotify.com/track/5y8rL9fRBAhTGu5AlIhNH7"
+    },
+    {
+      "album": {
+        "name": "bragger's rights",
+        "url": "https://open.spotify.com/album/5860GvDvfLMcoThB5IA5aY"
+      },
+      "artists": [
+        {
+          "name": "favourite daughter",
+          "url": "https://open.spotify.com/artist/5adUhor66Yv7p08ReRM8Nk"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203309,
+      "name": "bragger's rights",
+      "url": "https://open.spotify.com/track/6CgFVHxjhiPpcws6DqD7m6"
     },
     {
       "album": {
@@ -10091,6 +10127,24 @@
     },
     {
       "album": {
+        "name": "Cappadocia",
+        "url": "https://open.spotify.com/album/5UHtiPZppA38pVBLz4K6aJ"
+      },
+      "artists": [
+        {
+          "name": "Burglar",
+          "url": "https://open.spotify.com/artist/1crXzUsGgiuxMRoWyjTl4i"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222440,
+      "name": "Cappadocia",
+      "url": "https://open.spotify.com/track/55yNEtqfQZezNiaJFNCVRJ"
+    },
+    {
+      "album": {
         "name": "Capri-Sun",
         "url": "https://open.spotify.com/album/6TN0q8rUBBC375qtkbbBi9"
       },
@@ -10838,7 +10892,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 214850,
       "name": "Chilli Chilli",
       "url": "https://open.spotify.com/track/68ir1f3abiC2hKTwl4kjrc"
@@ -22908,7 +22962,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 234545,
       "name": "Girly",
       "url": "https://open.spotify.com/track/0Ee9QZaqupZd1BctG6QKfk"
@@ -32101,6 +32155,24 @@
     },
     {
       "album": {
+        "name": "Ireland",
+        "url": "https://open.spotify.com/album/2uzgtFzX2z8L9NnRrSUKgm"
+      },
+      "artists": [
+        {
+          "name": "su i think",
+          "url": "https://open.spotify.com/artist/0naoKcKsqj169ZzvaW4OR1"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176165,
+      "name": "Ireland",
+      "url": "https://open.spotify.com/track/5iXvUuow4NySBMCtWiGz9m"
+    },
+    {
+      "album": {
         "name": "Iris",
         "url": "https://open.spotify.com/album/5MBcOOm1zGSxZK0ttjx2Bu"
       },
@@ -33510,6 +33582,24 @@
       "duration_ms": 110000,
       "name": "JUST FRIENDS?",
       "url": "https://open.spotify.com/track/5UuX41K7fJC2mJaLDbmdns"
+    },
+    {
+      "album": {
+        "name": "just good friends",
+        "url": "https://open.spotify.com/album/6dRbgHRjMXKuIJYDPfbtR0"
+      },
+      "artists": [
+        {
+          "name": "Harry Lyon",
+          "url": "https://open.spotify.com/artist/0FRV027XR7z07bAcqw6PzP"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216896,
+      "name": "just good friends",
+      "url": "https://open.spotify.com/track/7fAHoMg0GK4Otb8w5Gqy4c"
     },
     {
       "album": {
@@ -44944,7 +45034,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 265909,
       "name": "One Day",
       "url": "https://open.spotify.com/track/1fX4HV87bhIAcmgX4aZGN2"
@@ -50264,7 +50354,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 205043,
       "name": "Right Before My Eyes",
       "url": "https://open.spotify.com/track/6TMextiR2B8cX5yp8Vbvsj"
@@ -59136,7 +59226,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 253990,
       "name": "teeth",
       "url": "https://open.spotify.com/track/3M0znkPqbu7s2h4V89FzD7"
@@ -64366,6 +64456,24 @@
       "duration_ms": 227339,
       "name": "Vineyard Towns",
       "url": "https://open.spotify.com/track/1sU7IqBtiDFxRaTIuRtXaW"
+    },
+    {
+      "album": {
+        "name": "vintage vuitton",
+        "url": "https://open.spotify.com/album/6l9qksdtvLKaFg6SZv1Xem"
+      },
+      "artists": [
+        {
+          "name": "earfzilla",
+          "url": "https://open.spotify.com/artist/65SDZetBIC5qK27DoJUx0f"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86964,
+      "name": "vintage vuitton",
+      "url": "https://open.spotify.com/track/6Rvi7T8vQkkIYQcp1DWm3u"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 
 
-598 songs - 1 day 14 hr 39 min
+602 songs - 1 day 14 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,6 +301,7 @@
 | [Insomnia](https://open.spotify.com/track/6JGrKJtW3CxLscWj7OJMYt) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Insomnia](https://open.spotify.com/album/3AKbeXvey1HmmyYEcWZRqq) | 2:45 | 2025-10-15 | 2026-02-18 |
 | [Invisible Forces \- Ishmael Ensemble Remix](https://open.spotify.com/track/2Q3gB3xpEyClhoAYNEl2PA) | [James Heather](https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu), [Ishmael Ensemble](https://open.spotify.com/artist/6LiMIy9kwdQAfMrBInyUvY) | [Reworks: Vol2](https://open.spotify.com/album/3mPD0KqR6ACKk1IUt2jJE3) | 4:43 | 2023-11-24 | 2023-12-20 |
 | [Ironía](https://open.spotify.com/track/7i9wOqXAvvzjvKH0NPdJWR) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [RRRomeo](https://open.spotify.com/album/2tKRKPfHSnY9gXUbO7dO2F) | 5:15 | 2026-10-09 |  |
+| [Is It Over Now?](https://open.spotify.com/track/50M4j3tQNa1K6OVq1ZLva0) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Lost in the View](https://open.spotify.com/album/1vpGoAyG0cM09957pdjc02) | 3:39 | 2026-10-13 |  |
 | [Is It Over Now?](https://open.spotify.com/track/7a1HZI7drZ3Rn0EYGAnrgC) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Is It Over Now?](https://open.spotify.com/album/05d5EqS6Ti2DXSO8WfAkbv) | 3:39 | 2026-05-28 |  |
 | [Is That How You Feel It](https://open.spotify.com/track/1KjMr1ay272SjjNYKf9FY4) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [Remember](https://open.spotify.com/album/7wfRiLLgR2anjPEaesqAtr) | 2:58 | 2023-03-04 | 2023-07-13 |
 | [Its me \( g 8 \)](https://open.spotify.com/track/3dC6yRjocmprQqEYvv72Ft) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Its me \( g 8 \) / Oway \( f 7 \)](https://open.spotify.com/album/6rZTJHYLDsA564tCn9kEJ9) | 5:17 | 2023-10-12 | 2024-01-26 |
@@ -340,6 +341,7 @@
 | [LongTime](https://open.spotify.com/track/4npxGodAWNwUlfGhHFt617) | [Mascolo](https://open.spotify.com/artist/1hssO6mIBREUt4w6riUeBp) | [LongTime](https://open.spotify.com/album/2KQRuR4jBZvb5h5dNunyMO) | 3:31 | 2026-09-23 |  |
 | [Looking Backwards](https://open.spotify.com/track/4xoQLzcgFkUY2wWSgVNhQx) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Looking Backwards](https://open.spotify.com/album/5kDrYvG2IiBESCZ8KcA1QA) | 4:08 | 2026-03-16 | 2026-04-04 |
 | [Loso Na Madesu](https://open.spotify.com/track/7efNNsh9LW6puimq4vaWqw) | [Brian Nasty](https://open.spotify.com/artist/5RpQGZtxRWXdEZpV7gNdvM), [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Loso Na Madesu](https://open.spotify.com/album/2HhTmfLDCNkGwR9UtPXGrx) | 3:07 | 2023-04-04 | 2023-10-04 |
+| [Lost in the View](https://open.spotify.com/track/3Ni8Ttg0e947jzRD217ZEY) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Lost in the View](https://open.spotify.com/album/1vpGoAyG0cM09957pdjc02) | 4:14 | 2026-10-13 |  |
 | [Lost Island](https://open.spotify.com/track/7oZ1Px5qTBgeDS3vo1YMfr) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Lost Island](https://open.spotify.com/album/4ztEDBvcCmE1RRpEMI0KM0) | 4:33 | 2022-05-25 | 2023-03-09 |
 | [Love](https://open.spotify.com/track/2YZlfzBZZ0QK63n4NpQ70Y) | [Ami Taf Ra](https://open.spotify.com/artist/2KiesFSnD8ccUdEeZZOo4q), [Ryan Porter](https://open.spotify.com/artist/1kiNqP5rOEbTchaFXyTY5c) | [Love](https://open.spotify.com/album/5mqsYvkkdJByPEAnVNWZSG) | 6:55 | 2025-07-09 | 2025-09-18 |
 | [Love Come Through](https://open.spotify.com/track/4ly7j7VqnX4RpnXUBBalFz) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Love Come Through](https://open.spotify.com/album/5aOmshhkUIF5SdGB8xgVGI) | 3:19 | 2024-09-24 | 2025-04-01 |
@@ -385,6 +387,7 @@
 | [Mutations \- Empress Of Remix](https://open.spotify.com/track/0vsEjfryxWNGtF0IOi0WMR) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Mutations \(Empress Of Remix\)](https://open.spotify.com/album/3ZSqEx1tLfIZ6Cgrzwj5Zf) | 3:12 | 2024-11-15 | 2025-09-18 |
 | [My Love](https://open.spotify.com/track/6aghmokpyn0soDHkTgaonm) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Posse EP Volume 2](https://open.spotify.com/album/5b8itMHqCiOnN8lN4REU5Y) | 4:15 | 2024-07-15 | 2024-10-24 |
 | [Never Get Enough](https://open.spotify.com/track/1otspdwkfhfBa0pvpllWHR) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Never Get Enough](https://open.spotify.com/album/2G3n76pfioBxtKEUneJyIM) | 3:55 | 2026-09-08 |  |
+| [Never Get Enough](https://open.spotify.com/track/7D0otIBdh3MwgZRirheB1C) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Lost in the View](https://open.spotify.com/album/1vpGoAyG0cM09957pdjc02) | 3:55 | 2026-10-13 |  |
 | [Nice Town \- Original](https://open.spotify.com/track/4dFAznjc12DSXHqofBCPXH) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Pan Amsterdam](https://open.spotify.com/artist/7KPqrVAWjUBAtn8tiZayOE) | [Nice Town](https://open.spotify.com/album/7mdqLOgyacLqWWjP0oFP6e) | 2:47 | 2024-03-13 | 2024-06-13 |
 | [Night Sculpture](https://open.spotify.com/track/6ZCx2AjyhVmQhjOBkgFXnl) | [Forest Swords](https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP) | [Night Sculpture](https://open.spotify.com/album/1DU6Xkh6E2apfVK3pERMWh) | 3:26 | 2023-10-16 | 2023-12-20 |
 | [NNeed U](https://open.spotify.com/track/6V7etlptf86aDDwjOKFEPG) | [Sim Fane](https://open.spotify.com/artist/2kSYc7wBDmCcqXkG0J8oa2) | [NNeed U](https://open.spotify.com/album/1JOFUxYXfdlvz3GfL7LFUD) | 4:44 | 2025-07-14 | 2025-11-07 |
@@ -489,6 +492,7 @@
 | [Speak to Us \(Outro\)](https://open.spotify.com/track/7b7le0h9iQNZxvLunBYWUQ) | [Ami Taf Ra](https://open.spotify.com/artist/2KiesFSnD8ccUdEeZZOo4q) | [Speak to Us \(Outro\)](https://open.spotify.com/album/2Szcwo1SqqZlngQw4MOJns) | 1:57 | 2025-05-14 | 2025-11-07 |
 | [Star](https://open.spotify.com/track/4uHSypi6xnu8YlmLjC3tns) | [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [Un/limited Love](https://open.spotify.com/album/60QrBH7P0Iyne4T999YL0F) | 3:23 | 2023-11-10 | 2023-12-20 |
 | [Staring at the Sun](https://open.spotify.com/track/2bqWo67hUC1mXH3HycjtOj) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA) | [Staring at the Sun](https://open.spotify.com/album/5gwIubJBZvCNmo07RndzDC) | 3:32 | 2026-07-16 |  |
+| [Staring at the Sun](https://open.spotify.com/track/2uVGeSqlfAZnF15koha3HY) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA) | [Lost in the View](https://open.spotify.com/album/1vpGoAyG0cM09957pdjc02) | 3:32 | 2026-10-13 |  |
 | [Stay](https://open.spotify.com/track/1xqkbi0rZNNcbGv8r6kK8p) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Opening The Door](https://open.spotify.com/album/7qWVvcaFH5Wlv0vxBXMOUQ) | 3:48 | 2022-09-16 | 2023-04-06 |
 | [Stay Alive](https://open.spotify.com/track/7doHB4pJIeG8xTl2cigRJu) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Stay Alive](https://open.spotify.com/album/02L1yfDDg8vAiqlHYM0Roi) | 3:53 | 2026-05-28 | 2026-09-24 |
 | [Stay Now](https://open.spotify.com/track/0JG0XzJeONILCRHgKDJX1s) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Stay Now](https://open.spotify.com/album/0EZ6dMa4OWDZdrcm5MLesY) | 3:28 | 2026-09-24 |  |

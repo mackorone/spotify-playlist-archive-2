@@ -617,6 +617,28 @@
     },
     {
       "album": {
+        "name": "2Am In Mooca",
+        "url": "https://open.spotify.com/album/3cbvjSuFmtj5Oq7zkJ3noV"
+      },
+      "artists": [
+        {
+          "name": "Mrasta",
+          "url": "https://open.spotify.com/artist/4LATAzZazW5gcrunD9TMLs"
+        },
+        {
+          "name": "Chiocki",
+          "url": "https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146909,
+      "name": "2Am In Mooca",
+      "url": "https://open.spotify.com/track/4IlxcFVShAUVS5XoDjyyF9"
+    },
+    {
+      "album": {
         "name": "2Beck",
         "url": "https://open.spotify.com/album/1pmvXVfZAjKoSwzjBJ3LyC"
       },
@@ -8551,6 +8573,48 @@
     },
     {
       "album": {
+        "name": "O Que Separa Os Homens dos Meninos, Vol. 2",
+        "url": "https://open.spotify.com/album/0uSQmtWJKYpucN9ZZNp8CK"
+      },
+      "artists": [
+        {
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
+        },
+        {
+          "name": "Pecaos",
+          "url": "https://open.spotify.com/artist/1P6YQ0gEs3NawlLhT7KtpG"
+        },
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        },
+        {
+          "name": "2ZDinizz",
+          "url": "https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV"
+        },
+        {
+          "name": "ADL",
+          "url": "https://open.spotify.com/artist/6Ywb1no2hXLazjIs4LUiQD"
+        },
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        },
+        {
+          "name": "LP Beatzz",
+          "url": "https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278378,
+      "name": "CORRE",
+      "url": "https://open.spotify.com/track/77QhXNyXECvQoFNDVFONu8"
+    },
+    {
+      "album": {
         "name": "Corredor da Morte",
         "url": "https://open.spotify.com/album/2NsekLDIwW9ZnyrDYYcCDa"
       },
@@ -9384,6 +9448,32 @@
       "duration_ms": 309565,
       "name": "Dai a Cesar o Que \u00c9 de Cesar",
       "url": "https://open.spotify.com/track/07UJUwwyi3JLEEtbawn3CL"
+    },
+    {
+      "album": {
+        "name": "Daria um Filme",
+        "url": "https://open.spotify.com/album/53oomJcea1w6NxO9yb3Nul"
+      },
+      "artists": [
+        {
+          "name": "Ana Rima",
+          "url": "https://open.spotify.com/artist/4o94LXBtkksntdZEJbQWJk"
+        },
+        {
+          "name": "Vitor Vril",
+          "url": "https://open.spotify.com/artist/6zElQx7msv91CIWwIz1YH7"
+        },
+        {
+          "name": "DJMDBEATS",
+          "url": "https://open.spotify.com/artist/50WKQCle6uAWBRfPmcW3Jn"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161151,
+      "name": "Daria um Filme",
+      "url": "https://open.spotify.com/track/60ebdd8aFtIgcbOM9gpHgA"
     },
     {
       "album": {
@@ -10706,7 +10796,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 218175,
       "name": "Dinastia",
       "url": "https://open.spotify.com/track/4BvlN8yV8cAKpQqyuib83h"
@@ -14240,7 +14330,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 167660,
       "name": "Filme",
       "url": "https://open.spotify.com/track/1wBGRA8G60GsxQU4ThDmNx"
@@ -18448,7 +18538,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 169383,
       "name": "Latinagem",
       "url": "https://open.spotify.com/track/4cU4Wikey3vykA5ZRtZ0UI"
@@ -19858,6 +19948,36 @@
       "duration_ms": 150560,
       "name": "Mal Acostumado",
       "url": "https://open.spotify.com/track/4YvNr3KfQZA6VHJeMythDl"
+    },
+    {
+      "album": {
+        "name": "Malandragem",
+        "url": "https://open.spotify.com/album/0hoxh7rSBr6WqUK8nyAOt2"
+      },
+      "artists": [
+        {
+          "name": "Torya",
+          "url": "https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh"
+        },
+        {
+          "name": "Dj Batata'Killa",
+          "url": "https://open.spotify.com/artist/6tPY0vqcx3cDTF4EUIN1tY"
+        },
+        {
+          "name": "xochuo",
+          "url": "https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P"
+        },
+        {
+          "name": "D\u00e9 Barros",
+          "url": "https://open.spotify.com/artist/1IP5A0i2yKTTZjJ9DTlb4x"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Malandragem",
+      "url": "https://open.spotify.com/track/088q9nqLjv2dz2zI7xq2x7"
     },
     {
       "album": {
@@ -22018,7 +22138,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 126315,
       "name": "Monza Tubar\u00e3o",
       "url": "https://open.spotify.com/track/3wh8GMV5z2JLLqfMGnNApK"
@@ -27209,6 +27329,32 @@
     },
     {
       "album": {
+        "name": "Papin",
+        "url": "https://open.spotify.com/album/0wJOR24LiC8uAYdJHglC09"
+      },
+      "artists": [
+        {
+          "name": "pibara",
+          "url": "https://open.spotify.com/artist/5Ur7VLsD9hik9MAJWrnx2k"
+        },
+        {
+          "name": "Lucchini",
+          "url": "https://open.spotify.com/artist/2w2YbWSulMlPaCCSjNmMBR"
+        },
+        {
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Papin",
+      "url": "https://open.spotify.com/track/19yMpqeS0UWhbxwTQ4J9kV"
+    },
+    {
+      "album": {
         "name": "Papo de Progresso",
         "url": "https://open.spotify.com/album/53bWlHZoYGtzZbVldzsFvY"
       },
@@ -28686,6 +28832,40 @@
       "duration_ms": 220800,
       "name": "Perfil #99 - Estrela da Manh\u00e3",
       "url": "https://open.spotify.com/track/1dudnhBfQ1OOUIbg5Rittt"
+    },
+    {
+      "album": {
+        "name": "Perfil Criminal",
+        "url": "https://open.spotify.com/album/1dYmeNuigzhUoUu7C1sYvF"
+      },
+      "artists": [
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        },
+        {
+          "name": "Donai",
+          "url": "https://open.spotify.com/artist/5BCsslqLYOmmqwcPYjMEkC"
+        },
+        {
+          "name": "NEGGS",
+          "url": "https://open.spotify.com/artist/1EX5eHGQ4yd0sFjKKexgC8"
+        },
+        {
+          "name": "Yangprj",
+          "url": "https://open.spotify.com/artist/2XGt0uPGSSQ0ySEj1cPpwv"
+        },
+        {
+          "name": "Vinni OG Beats",
+          "url": "https://open.spotify.com/artist/68mX2E0DwXVeyVSE9SHht2"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253331,
+      "name": "Perfil Criminal",
+      "url": "https://open.spotify.com/track/6zyLTgEW4CLQ9NCe8BZN1W"
     },
     {
       "album": {
@@ -30748,7 +30928,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 364263,
       "name": "P\u00e1tria Que Me Pariu / Cap\u00edtulo 4, Vers\u00edculo 3 - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6xGTW42tyO719OK4XthfD4"
@@ -30800,6 +30980,28 @@
       "duration_ms": 143333,
       "name": "Qatar Freestyle (Papatracks #9)",
       "url": "https://open.spotify.com/track/7zYU3eU3vjLs44vUJivpO8"
+    },
+    {
+      "album": {
+        "name": "Fazendo A Minha (Deluxe)",
+        "url": "https://open.spotify.com/album/6YuTzlPQP2pR0ewsz1FsHJ"
+      },
+      "artists": [
+        {
+          "name": "Kako",
+          "url": "https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm"
+        },
+        {
+          "name": "DJ JR No Beat",
+          "url": "https://open.spotify.com/artist/7eFJ773gGquYX3tKYa6ZUb"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180705,
+      "name": "QQSEFEZ",
+      "url": "https://open.spotify.com/track/0gL88y64RRmUpuTDRM2OAt"
     },
     {
       "album": {
@@ -30940,7 +31142,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 209142,
       "name": "QUE QUE FOI, QUE QUE H\u00c1?",
       "url": "https://open.spotify.com/track/7yjdHapa5SmcTQTpF3ny7V"
@@ -33000,7 +33202,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 194823,
       "name": "R\u00e9u",
       "url": "https://open.spotify.com/track/5jxnEh4V4Ik5Ram95rUbQw"
@@ -36101,6 +36303,32 @@
     },
     {
       "album": {
+        "name": "SUBESTIMADO",
+        "url": "https://open.spotify.com/album/46sqPKG2iJ4XhuTJYk23Dw"
+      },
+      "artists": [
+        {
+          "name": "Dpaula",
+          "url": "https://open.spotify.com/artist/21OXt4bahP6ZP1LIRXmpVQ"
+        },
+        {
+          "name": "Agostinhx",
+          "url": "https://open.spotify.com/artist/42KlXyEj8tt6vVyxQjpLaL"
+        },
+        {
+          "name": "GEXIS",
+          "url": "https://open.spotify.com/artist/0v6hypyGUeuKpNnNeL8APU"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146835,
+      "name": "SUBESTIMADO",
+      "url": "https://open.spotify.com/track/4fVghR16VBFQuS9Ncxm7im"
+    },
+    {
+      "album": {
         "name": "Subirusdoistiozin",
         "url": "https://open.spotify.com/album/1bQIRQRTxfnLjBvkPZbavU"
       },
@@ -36212,7 +36440,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 177272,
       "name": "Super Cr\u00f4nico",
       "url": "https://open.spotify.com/track/33Wtqpoi0rggUMMBxZYzOX"
@@ -37844,6 +38072,28 @@
       "duration_ms": 159673,
       "name": "Tokyo Town",
       "url": "https://open.spotify.com/track/5FMyDVGYTlQiAygTAXLWQr"
+    },
+    {
+      "album": {
+        "name": "Toma Tapa",
+        "url": "https://open.spotify.com/album/4dDBinCN2mdFZmqdHb9DHp"
+      },
+      "artists": [
+        {
+          "name": "DJ Cost",
+          "url": "https://open.spotify.com/artist/7Gojo8tyzLgT5p5WdTisIL"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103384,
+      "name": "Toma Tapa",
+      "url": "https://open.spotify.com/track/28jFx6fxrbxOIFcf1fIfjn"
     },
     {
       "album": {

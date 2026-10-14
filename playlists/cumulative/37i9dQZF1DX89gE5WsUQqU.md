@@ -2,14 +2,15 @@
 
 ### [SPOTIFY HOUSE 서울](https://open.spotify.com/playlist/37i9dQZF1DX89gE5WsUQqU)
 
-> 9월 10\-13일, \[SPOTIFY HOUSE 서울\] 라인업 아티스트들의 셋리스트로 뜨거웠던 무대의 여운을 다시 느껴보세요!
+> 9월 10\-13일, \[SPOTIFY HOUSE 서울\] 열기 그대로, 라이브 퍼포먼스 영상과 함께 라인업 아티스트의 셋리스트를 감상해보세요!
 
-304 songs - 16 hr 51 min
+308 songs - 17 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [0+0](https://open.spotify.com/track/3sOAwRg5esaxDcWnUigWPv) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [JAMONG SALGU CLUB](https://open.spotify.com/album/2DV7iVJ7L5DRQijgjyqLyQ) | 3:12 | 2025-11-03 | 2026-08-11 |
 | [2 Chainz & Rollies \(Feat\. Dok2\)](https://open.spotify.com/track/5Kv4Gy3pu0Dk9Zn7zjOrjR) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [DOK2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [AMBITIQN](https://open.spotify.com/album/5iYrf1CKZqWBrrvn3OlnZE) | 4:34 | 2026-09-15 |  |
+| [2 Chainz & Rollies 2026 \- Spotify House Seoul 2026](https://open.spotify.com/track/5QwnfqsQ2Q19d5ERFjvsEU) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [2 Chainz & Rollies 2026 \- Spotify House Seoul 2026](https://open.spotify.com/album/6pX1PVbhuNl5ukBWF1Xm1G) | 3:15 | 2026-10-13 |  |
 | [2022/02/22](https://open.spotify.com/track/3s7jLldjkQKl9qPETqOzEH) | [Chang Kiha](https://open.spotify.com/artist/2kppzekGp379T3M56GYd7d) | [2022/02/22](https://open.spotify.com/album/0eulFYgg8X5fgeqzxXJOtU) | 2:14 | 2025-11-03 | 2025-11-20 |
 | [25 \(Feat\. YANGHONGWON\)](https://open.spotify.com/track/1UhHzGWhYLZqwdcySxRolP) | [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM) | [BEIGE](https://open.spotify.com/album/2evikoMhheFgk9gQB7Vd1S) | 2:48 | 2026-09-15 |  |
 | [2AM \(Feat\. CAMO\)](https://open.spotify.com/track/1C1quK9LCCHeUjrTONTH9C) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [TOYSTORY3](https://open.spotify.com/album/2g9x0qCPJGKzfxqrVcgrVy) | 3:00 | 2026-09-15 |  |
@@ -80,6 +81,7 @@
 | [Do](https://open.spotify.com/track/6tStqbjbMdMRzRWWNvlnqI) | [Chang Kiha](https://open.spotify.com/artist/2kppzekGp379T3M56GYd7d) | [Do / Do or Don't](https://open.spotify.com/album/3se0GBdgs53DJXR7CJb9l6) | 3:41 | 2025-11-03 | 2025-11-20 |
 | [Do It \- Yves Remix](https://open.spotify.com/track/27v8QdBidbC5idqWHqPBBj) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7), [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce) | [Do It \(Yves Remix\)](https://open.spotify.com/album/0GuK2xpYuOvNbFqhRuSRa3) | 3:17 | 2026-09-15 |  |
 | [Do your dance](https://open.spotify.com/track/5POcU3tBNEXuIDgfYo4TEa) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [II \- The 2nd Mini Album](https://open.spotify.com/album/31DduRZUEYnZHXmiDwRb9R) | 2:57 | 2026-08-28 |  |
+| [Do your dance\-Spotify House Seoul 2026](https://open.spotify.com/track/2LOAmah82wn5RBs5jN8o87) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Do your dance\-Spotify House Seoul 2026](https://open.spotify.com/album/2BDTRiM9x9MtUi9idSWILV) | 3:14 | 2026-10-13 |  |
 | [Docking](https://open.spotify.com/track/6o3U4VSdRkB3umd40oRRGj) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [Even If Things Fall Apart](https://open.spotify.com/album/2dPzBNwePaE5rB2t9kpScF) | 3:49 | 2025-11-19 | 2026-08-11 |
 | [Doctor Pepper \(feat\. CL, RiFF RAFF & OG Maco\)](https://open.spotify.com/track/5Djg43OzL7HVYgG0CwJKwI) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Riff Raff](https://open.spotify.com/artist/31IZdHrCZ5pRhLz4zBxN3o), [OG Maco](https://open.spotify.com/artist/0nvvVQhPQGkYTJlThLbJeu) | [Doctor Pepper](https://open.spotify.com/album/0iYiqb6Zx1lK7UW472uxgf) | 3:46 | 2026-09-15 |  |
 | [Doja](https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Doja](https://open.spotify.com/album/6oECjagksATHu2UaclXrq1) | 1:37 | 2025-11-12 | 2026-08-11 |
@@ -157,9 +159,11 @@
 | [Landing in Love](https://open.spotify.com/track/3WvM2dIR9iIxMGNMP7WsNw) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [Take\-off](https://open.spotify.com/album/5NUuj9AlcNI1khPYJJAVtV) | 2:45 | 2025-11-03 | 2026-08-11 |
 | [LEADPOISON \- VIP](https://open.spotify.com/track/6YMQoiEQ52iFkXwmRPOtSA) | [Acyan](https://open.spotify.com/artist/0o70ZPcBroPuIcUOOLWDI4) | [PHANTOMS & FANGS](https://open.spotify.com/album/7N1ssmUi63c7mdzUmy2xka) | 2:58 | 2025-11-19 | 2026-08-11 |
 | [LEGEND](https://open.spotify.com/track/71BlPUFrHUvQOg36AvOyZI) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [LEGEND](https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC) | 3:47 | 2026-09-15 |  |
+| [LEGEND \- Spotify House Seoul 2026](https://open.spotify.com/track/6vwtsAbrQuylF7H1qwRh9O) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [LEGEND \- Spotify House Seoul 2026](https://open.spotify.com/album/64NM9tNz4uaiGdeIdBKoch) | 4:53 | 2026-10-13 |  |
 | [LET GO](https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [LET GO](https://open.spotify.com/album/1QYPAEk2Ksj3WPv3mvoDnL) | 2:54 | 2025-11-19 | 2026-08-11 |
 | [Let Me Love My Youth](https://open.spotify.com/track/4qdBPJta3BVPXCS0wJZ6yO) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [Let Me Love My Youth](https://open.spotify.com/album/3wRgzgnqcva5unpKKmgZ57) | 4:08 | 2025-11-03 | 2026-08-11 |
 | [Let Me Love You](https://open.spotify.com/track/1rpitVTCgfqKNyLtjuHuZh) | [Tiger JK](https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD), [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Let Me Love You](https://open.spotify.com/album/7avF0XIPzKKb1kjlJX0Con) | 2:58 | 2026-09-11 |  |
+| [Let Me Love You \- Spotify House Seoul 2026](https://open.spotify.com/track/6gZEDYogAosSh4V7yXSSM8) | [Tiger JK](https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD), [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Let Me Love You \- Spotify House Seoul 2026](https://open.spotify.com/album/3Rdsci2VdjUAJDoqGYJeUs) | 3:15 | 2026-10-13 |  |
 | [Life is Wet](https://open.spotify.com/track/5LuuUXI3Msm4L2iUNHi3JB) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF), [JMIN](https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo) | [Life is Wet](https://open.spotify.com/album/5UBenAYbpBGhynO1tq6N9Z) | 3:06 | 2026-09-15 |  |
 | [Lifestylin'](https://open.spotify.com/track/5Wx0MxPioZKNauufr8UFRZ) | [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [Raf Sandou](https://open.spotify.com/artist/4FBKTurCVdtC6Fq8mSQgj8), [Jeffrey White](https://open.spotify.com/artist/2CzJxatdtHWmZzJf1iZZBi), [MASON HOME](https://open.spotify.com/artist/6fUWivVaWaEgN2G0m7c0Wa) | [MAINSTREAM](https://open.spotify.com/album/1oE3vYi9tPtKDTXwj9juFF) | 2:47 | 2026-09-15 |  |
 | [Like I Do \(Jay Park Remix\)](https://open.spotify.com/track/0OqKdyxyCl2rlTFmZuK8rR) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [THE ONE YOU WANTED](https://open.spotify.com/album/0hwGsLDlg8Y2Xx9gxRAukv) | 2:10 | 2025-11-19 | 2026-08-11 |

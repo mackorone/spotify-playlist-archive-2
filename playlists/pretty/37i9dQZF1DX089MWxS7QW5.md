@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Tabber\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,451 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,464 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [New Moon](https://open.spotify.com/track/5INGwCiLwh6amw2qomyyNt) | [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU) | [Modern Goth](https://open.spotify.com/album/7nFjSyyFYuQXwHg8QgUuBr) | 2:56 |
-| 2 | [DANCE DANCE](https://open.spotify.com/track/1wTFjzwVs2UzdZgXJggASa) | [Lotian](https://open.spotify.com/artist/3xO1Av6jufEhkA7HBe0CNq), [JUNE](https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6) | [ARCHIVE A\-SIDE](https://open.spotify.com/album/5WmRArJdAJl6PBuEntlFeO) | 3:12 |
+| 2 | [DANCE DANCE](https://open.spotify.com/track/1wTFjzwVs2UzdZgXJggASa) | [LOTIAN](https://open.spotify.com/artist/3xO1Av6jufEhkA7HBe0CNq), [JUNE](https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6) | [ARCHIVE A\-SIDE](https://open.spotify.com/album/5WmRArJdAJl6PBuEntlFeO) | 3:12 |
 | 3 | [7 Days](https://open.spotify.com/track/6KMovXuSUB5emp8sumQzgk) | [LEY\(래이\)](https://open.spotify.com/artist/0EkRudDAaSZ1T7WNlgpZVD) | [7 Days](https://open.spotify.com/album/0MiENDfENgESR8Ueoox0Yw) | 2:22 |
 | 4 | [ew](https://open.spotify.com/track/4Bz9x9jfUk0RwTNwZ6uiGI) | [DPR CREAM](https://open.spotify.com/artist/7bPplWv4cZ1q26UY2Wmcvw) | [ew](https://open.spotify.com/album/5ICf3hoX6MM6quhgh5lOas) | 2:05 |
 | 5 | [WHERE](https://open.spotify.com/track/6FoBAPO9N9Y9rRSPSvmICb) | [JAYN](https://open.spotify.com/artist/47fnCoAB0tj85SzEl9sGKz) | [JAYN](https://open.spotify.com/album/09UjDIpsF3wA0lGix9iaMw) | 3:06 |

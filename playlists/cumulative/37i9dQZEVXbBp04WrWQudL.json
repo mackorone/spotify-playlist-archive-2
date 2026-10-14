@@ -169,6 +169,28 @@
     },
     {
       "album": {
+        "name": "Alabama Vs. Tennessee",
+        "url": "https://open.spotify.com/album/5hJyIvW3vYXrzZ7A5YQIhk"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        },
+        {
+          "name": "Peyton Manning",
+          "url": "https://open.spotify.com/artist/4MMSLWJDd3EAbI2AOdaygo"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242500,
+      "name": "Alabama Vs. Tennessee",
+      "url": "https://open.spotify.com/track/7mTvbEPdmFlwpTUKMMuwG0"
+    },
+    {
+      "album": {
         "name": "All Too Well: The Short Film",
         "url": "https://open.spotify.com/album/3X4GpQK5ZwoWzyLtFe0khh"
       },
@@ -1238,7 +1260,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-11",
+      "date_removed": null,
       "duration_ms": 250144,
       "name": "drop dead",
       "url": "https://open.spotify.com/track/6HcL9Jd6mcH8F9ebUl28J5"
@@ -1256,7 +1278,7 @@
       ],
       "date_added": "2026-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 199324,
       "name": "E A\u00ed Tempo",
       "url": "https://open.spotify.com/track/5iVvBRhx0gHgAVRk2eAQaK"
@@ -1524,7 +1546,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 293376,
       "name": "Gabriela",
       "url": "https://open.spotify.com/track/5x2kR0EpPMXF2C8EnPR7kU"
@@ -1568,7 +1590,7 @@
       ],
       "date_added": "2026-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-07",
+      "date_removed": null,
       "duration_ms": 168298,
       "name": "GET EVEN",
       "url": "https://open.spotify.com/track/3ksPsHjq0rvoM5lfavmExY"
@@ -2150,7 +2172,7 @@
       ],
       "date_added": "2026-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 217342,
       "name": "Kinda Love It",
       "url": "https://open.spotify.com/track/7hMopvztBO3kLujJvrbZPV"
@@ -2630,7 +2652,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-11",
+      "date_removed": null,
       "duration_ms": 255284,
       "name": "Merry Go Round",
       "url": "https://open.spotify.com/track/6t4JEAfgl8oVJUASyxzptH"
@@ -2920,7 +2942,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 171840,
       "name": "Oba",
       "url": "https://open.spotify.com/track/6ynQZ0WrQPhYfkGZGeTB3O"
@@ -3058,7 +3080,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-13",
+      "date_removed": null,
       "duration_ms": 185365,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/22CA8GnsXHYdTmuuF4ZGOb"
@@ -3326,7 +3348,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 197982,
       "name": "Pvta Luna",
       "url": "https://open.spotify.com/track/1zOjLMZbfWmfvYnfjts90x"
@@ -3876,6 +3898,24 @@
       "duration_ms": 226943,
       "name": "Still",
       "url": "https://open.spotify.com/track/0CGGe0SkjsOAUYGuq3Dj7Y"
+    },
+    {
+      "album": {
+        "name": "Stop The Wedding!",
+        "url": "https://open.spotify.com/album/6SoOItn8A9lwORTSuoVa1X"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208298,
+      "name": "Stop The Wedding!",
+      "url": "https://open.spotify.com/track/4aMJ34GZtHbDu5rolkF0Hy"
     },
     {
       "album": {
@@ -4468,7 +4508,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 199381,
       "name": "Zara Larsson - Live at Portola Music Festival 2026",
       "url": "https://open.spotify.com/track/4MjrrYxewQWeWnSmXrCAej"

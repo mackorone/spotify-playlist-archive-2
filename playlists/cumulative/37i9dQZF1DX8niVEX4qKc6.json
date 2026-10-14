@@ -59,6 +59,28 @@
     },
     {
       "album": {
+        "name": "PEL\u00cdCULAS PERDIDAS EN CASA (SESIONES EN VIVO)",
+        "url": "https://open.spotify.com/album/4Y3VS60V0kZiTpWI4bwZXE"
+      },
+      "artists": [
+        {
+          "name": "Delfina Campos",
+          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
+        },
+        {
+          "name": "gatogaso",
+          "url": "https://open.spotify.com/artist/23iyEQEQLFgWEpcDk1cjoK"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184640,
+      "name": "500 a\u00f1os luz - en vivo",
+      "url": "https://open.spotify.com/track/2tgEgIJSMTNvsXQpRofAAv"
+    },
+    {
+      "album": {
         "name": "A la deriva",
         "url": "https://open.spotify.com/album/63EtKfnVExFTiSWXiXgC5e"
       },
@@ -1101,6 +1123,24 @@
     },
     {
       "album": {
+        "name": "+ de cerquita",
+        "url": "https://open.spotify.com/album/5kV4C5LAC0m9LK5QZyrypr"
+      },
+      "artists": [
+        {
+          "name": "Santi Muk",
+          "url": "https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181500,
+      "name": "c\u00e1bala (+ de cerquita)",
+      "url": "https://open.spotify.com/track/22JUUpnbJczTereZi21oBL"
+    },
+    {
+      "album": {
         "name": "Desde Adentro - Impuesto de Fe (En Vivo)",
         "url": "https://open.spotify.com/album/6eWrCdzfRUvNMDYWGHIExi"
       },
@@ -1746,7 +1786,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 101818,
       "name": "Fin de Fiesta",
       "url": "https://open.spotify.com/track/0ZzNRgWM8LkgiHXbr3gfuq"
@@ -2944,7 +2984,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 178000,
       "name": "No Estes Triste - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1HcjUEwxLoDNbLph1P8dsa"
@@ -3338,7 +3378,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 246000,
       "name": "Por una cabeza",
       "url": "https://open.spotify.com/track/3KNDHdOUmzWIqKYodnFX5C"
@@ -3639,6 +3679,24 @@
     },
     {
       "album": {
+        "name": "Ac\u00fasticos (Live)",
+        "url": "https://open.spotify.com/album/4DYcYZyzJXgaKsa63o3LOI"
+      },
+      "artists": [
+        {
+          "name": "JOTTA",
+          "url": "https://open.spotify.com/artist/3bssLS5nuLXRJMvAPBzLN0"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159560,
+      "name": "SHANTI (ac\u00fastico) - Live",
+      "url": "https://open.spotify.com/track/6kUMb18LDiUs3r3qXT4Gd8"
+    },
+    {
+      "album": {
         "name": "Sesi\u00f3n Ac\u00fastica (Unplugged)",
         "url": "https://open.spotify.com/album/6UEXqNcZ9kSoOqsDSG7LVJ"
       },
@@ -3856,6 +3914,24 @@
       "duration_ms": 246858,
       "name": "Tan Solo (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/5YvShwXtxESCHIPNs0xGxW"
+    },
+    {
+      "album": {
+        "name": "Te Recuerdo Amanda",
+        "url": "https://open.spotify.com/album/51z76qtTBzBcX1rRk1YHic"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Ot\u00e1rola",
+          "url": "https://open.spotify.com/artist/01u35WsdKu6ju7jeyDcRZV"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170564,
+      "name": "Te Recuerdo Amanda",
+      "url": "https://open.spotify.com/track/4pLh22qoxG2O0zSpuwbNys"
     },
     {
       "album": {
@@ -4474,7 +4550,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 243605,
       "name": "V\u00edctimas del Cielo",
       "url": "https://open.spotify.com/track/46hRbN7XUKEwcoXB9InpeL"

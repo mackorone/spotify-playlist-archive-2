@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 
 > The best new music by independent artists and labels, featuring  Benji V
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,440 likes - 49 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,464 likes - 49 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [En Mi Habitación](https://open.spotify.com/track/4ygcJsLFljafKEvEz4FBS1) | [Elier Cadena](https://open.spotify.com/artist/5pWiQEw8QVI6HoKCXiFVRH), [Sexta Zona](https://open.spotify.com/artist/0jxoD3F1t3vL7Qqey1JvVq) | [En Mi Habitación](https://open.spotify.com/album/23DO5a4fEGtngr6tppKtb2) | 2:56 |
 | 2 | [Rosa](https://open.spotify.com/track/63zGBvJFD4XX216uGhAgsS) | [Toñito](https://open.spotify.com/artist/3PCmSkdaQPb9fJJYpyWYos) | [Rosa](https://open.spotify.com/album/6jG6vyC8HJl4NbXyixEqTY) | 2:33 |
-| 3 | [Tactical](https://open.spotify.com/track/45YkMxRTodzM6ajceRkG5L) | [Eddy Tovar](https://open.spotify.com/artist/21qyjqzTq09Srl4EOYQ5w1) | [Tactico](https://open.spotify.com/album/5seJo7lzM6biexegsmrvo8) | 3:43 |
+| 3 | [Tactico](https://open.spotify.com/track/45YkMxRTodzM6ajceRkG5L) | [Eddy Tovar](https://open.spotify.com/artist/21qyjqzTq09Srl4EOYQ5w1) | [Tactico](https://open.spotify.com/album/5seJo7lzM6biexegsmrvo8) | 3:43 |
 | 4 | [G8](https://open.spotify.com/track/0R1eZ8uKJA3ELamWZYvhmX) | [Bandera Verde](https://open.spotify.com/artist/4UwI6VNUmqlNpBiVhEbdj0), [Drew !](https://open.spotify.com/artist/1J9c3E0gSQDxWK7PVjK9cp) | [G8](https://open.spotify.com/album/1YbFcyVyvx2gnH3xvNYt5r) | 2:20 |
 | 5 | [Ella Es](https://open.spotify.com/track/1lNYu8zwRXUwI9YtxH0vBV) | [TACH](https://open.spotify.com/artist/2xoC488qPVU6XiNV9vjhGZ) | [Ella Es](https://open.spotify.com/album/5Rgc8Lpwc44vtzn7RR5MZx) | 4:00 |
 | 6 | [Babo](https://open.spotify.com/track/2yupFNl0YX1hjDyObIsU0V) | [Los de la Homan](https://open.spotify.com/artist/0sBUUqn0AaUqAs3Q7hVxCo), [Octavio Ortiz](https://open.spotify.com/artist/1HT3PVc1LcGqfHGqmrhuMw) | [Babo](https://open.spotify.com/album/3PE2O4Do6Ncq4QojLpBBOd) | 2:23 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 | 48 | [POLO](https://open.spotify.com/track/76SKiOuHHvKhHCeWV835Hn) | [Omar Handal](https://open.spotify.com/artist/0w5ka5WHimQ0q45ks2XbMh) | [POLO](https://open.spotify.com/album/44ocQNNvFhGzCbPh9r3ljm) | 3:47 |
 | 49 | [31](https://open.spotify.com/track/43hJrUcamNZAX4EdRSEc5v) | [Los Pilares De Culiacan](https://open.spotify.com/artist/4SRCDftKEFcjil6H0AxKFR) | [31](https://open.spotify.com/album/7H8dyBB47DrD4D9ybIB8hJ) | 3:09 |
 
-Snapshot ID: `AAAAAHuctKIApfgQZ/IET0l4ODP8Rml5`
+Snapshot ID: `AAAAAOnjC3J63PCCA5/6lT0YQ+Zx17f8`

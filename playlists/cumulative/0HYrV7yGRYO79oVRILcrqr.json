@@ -12461,6 +12461,24 @@
     },
     {
       "album": {
+        "name": "Tell Me You Like To Dance",
+        "url": "https://open.spotify.com/album/3yugy6NH8PCxhNHkN6IGuM"
+      },
+      "artists": [
+        {
+          "name": "HEVL",
+          "url": "https://open.spotify.com/artist/5Fu10ZnbaiPhMjqFisPH30"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197926,
+      "name": "Tell Me You Like To Dance",
+      "url": "https://open.spotify.com/track/2shi8nwotiKes5rFU50BZ2"
+    },
+    {
+      "album": {
         "name": "Temptaitions",
         "url": "https://open.spotify.com/album/6O55lTKdy0kkOxnUiSfkoV"
       },
@@ -12534,6 +12552,24 @@
       "duration_ms": 209445,
       "name": "The Bond",
       "url": "https://open.spotify.com/track/5WYkSDKAz2B8NA182Di5Go"
+    },
+    {
+      "album": {
+        "name": "The Climb",
+        "url": "https://open.spotify.com/album/3UbYbh2Z3jxP42jKh7X0O2"
+      },
+      "artists": [
+        {
+          "name": "Trinity Aliens",
+          "url": "https://open.spotify.com/artist/4znIHpAAQa3vn5gglURZov"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179160,
+      "name": "The Climb",
+      "url": "https://open.spotify.com/track/44zc9DyvJH506kYjDA11xt"
     },
     {
       "album": {

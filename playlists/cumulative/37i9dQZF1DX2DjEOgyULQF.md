@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-530 songs - 1 day 1 hr 1 min
+531 songs - 1 day 1 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,7 +281,7 @@
 | [Lotus River Dawn](https://open.spotify.com/track/2V6Ld2fLYbY2MSk3fC1JjX) | [Jade Spirit](https://open.spotify.com/artist/3KNtyFOfcME4NLV6WoPDz6) | [Lotus River Dawn](https://open.spotify.com/album/7oI44hno2Aez1v7PUEGP7s) | 2:20 | 2026-07-03 |  |
 | [Lumenfall](https://open.spotify.com/track/1RKYSkXDcG2xrvTVTl0jP5) | [Paia Mooni](https://open.spotify.com/artist/1eSR2WemgOxjpRlUlzZSwn) | [Lumenfall](https://open.spotify.com/album/5c9FYuBl5lMgNrf9IQBrQZ) | 2:39 | 2026-04-03 | 2026-09-22 |
 | [Lyricon](https://open.spotify.com/track/58bpuOIVh1z048wxmryOv1) | [Gleework](https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc) | [Lyricon](https://open.spotify.com/album/38HetolTHRgUmozgeyGgb1) | 3:12 | 2026-08-19 |  |
-| [Lúnaris](https://open.spotify.com/track/7ottqeiDfzhvwfobW4tfBc) | [Lóni Alma](https://open.spotify.com/artist/4RHP8exT811Zult13Shp7n) | [Lúnaris](https://open.spotify.com/album/3yZZHbaqERyyHeCXwsoPQz) | 2:29 | 2026-08-19 |  |
+| [Lúnaris](https://open.spotify.com/track/7ottqeiDfzhvwfobW4tfBc) | [Lóni Alma](https://open.spotify.com/artist/4RHP8exT811Zult13Shp7n) | [Lúnaris](https://open.spotify.com/album/3yZZHbaqERyyHeCXwsoPQz) | 2:29 | 2026-08-19 | 2026-10-14 |
 | [Manipura](https://open.spotify.com/track/6aIwo3IbhqllcTWPDBsnYY) | [Elijah Edwards](https://open.spotify.com/artist/33e4XNrceV0ftUpzWWJWqS) | [Manipura](https://open.spotify.com/album/7HEjtDjMGvbkHm7mr0RQNR) | 2:45 | 2026-01-08 | 2026-02-05 |
 | [Meadow’s Fountain](https://open.spotify.com/track/4MqoLh3a6mT77Qea8mj0bW) | [Uffe Jörgensen](https://open.spotify.com/artist/56b0WToubUkYRbbBq6ZV9G) | [OHM](https://open.spotify.com/album/0CJf54j8fZnvDTYyDuhveb) | 3:00 | 2023-04-28 | 2025-05-22 |
 | [Meas](https://open.spotify.com/track/6KoQyTkDaxANLiB1K7a8Jw) | [Nolene Britton](https://open.spotify.com/artist/4Ii7tJkcwod6FcfQKbelmT) | [Meas](https://open.spotify.com/album/7F5cog28FZOo0gz0fIuNhz) | 3:24 | 2023-04-28 | 2025-05-22 |
@@ -360,7 +360,7 @@
 | [Prana](https://open.spotify.com/track/2I8w8s0lKS1ZT4onSKB7k7) | [Garden of Lotus](https://open.spotify.com/artist/7I1z8LXW0jX3fyWx7h0PRs) | [Bhakti](https://open.spotify.com/album/01pQqb89FcBuQnE2KDdFyl) | 2:48 | 2023-04-28 | 2025-05-22 |
 | [Quiet Mist](https://open.spotify.com/track/1bGwPUE5Y312J39hfnYhrg) | [Lake Nebula](https://open.spotify.com/artist/2vrz4UIWYTyVEKZ3DubfRU) | [Quiet Mist](https://open.spotify.com/album/7ccIHSSph5aU2ILrApAONS) | 2:19 | 2026-02-23 | 2026-04-04 |
 | [Quiet Radiance](https://open.spotify.com/track/1IAuMjuOkqm4FGV0WvCIvi) | [Lost Lumina](https://open.spotify.com/artist/6hxR80dFvGZxlRm3Sd33KQ) | [Quiet Radiance](https://open.spotify.com/album/55nDL0v3OpLtcAaiAF0jGW) | 2:47 | 2026-08-19 |  |
-| [Quiet Shelter](https://open.spotify.com/track/4hptp8h4v6Y5rbeGETiWtE) | [Softfield](https://open.spotify.com/artist/3fAsMj4bHch8mjQ3wf5BOV) | [Quiet Shelter](https://open.spotify.com/album/3FcwagZjk8Dt01B5MHvk3w) | 2:27 | 2026-09-21 |  |
+| [Quiet Shelter](https://open.spotify.com/track/4hptp8h4v6Y5rbeGETiWtE) | [Softfield](https://open.spotify.com/artist/3fAsMj4bHch8mjQ3wf5BOV) | [Quiet Shelter](https://open.spotify.com/album/3FcwagZjk8Dt01B5MHvk3w) | 2:27 | 2026-09-21 | 2026-10-14 |
 | [Quietude](https://open.spotify.com/track/36nQpufEYzDmPgstzJd6l2) | [Eves Haven](https://open.spotify.com/artist/3aluZDXupxEPepTqjSMdOT) | [Quietude](https://open.spotify.com/album/50IfTSztYG6d57ECN2t1Ub) | 2:48 | 2026-08-19 |  |
 | [Radiant Recovery](https://open.spotify.com/track/6vrIfscwRw6648jkgY5JUO) | [Ambienne](https://open.spotify.com/artist/2TnYJIoylPdjQiWJPYsKhu) | [Radiant Recovery](https://open.spotify.com/album/7laP0oMseLBZjSjM912dh2) | 2:28 | 2025-05-28 | 2026-02-12 |
 | [Radura](https://open.spotify.com/track/1fZ2qoDTQB9VoMhNdb3wsh) | [Silentia Natura](https://open.spotify.com/artist/66451HoublFc32cocZpJjd) | [Radura](https://open.spotify.com/album/5aYpBEovuAH7MSZ5te2yCj) | 2:42 | 2026-07-03 |  |
@@ -381,7 +381,7 @@
 | [Revelation](https://open.spotify.com/track/2kp3xWNh6qEZ8cNLbl5Cko) | [Mindland](https://open.spotify.com/artist/330UIau66ZSsEGlHH5Wwwg) | [Revelation](https://open.spotify.com/album/0B7u4chWcq7fBvU7EAK3Fj) | 3:10 | 2025-06-04 | 2026-04-04 |
 | [Rising Up](https://open.spotify.com/track/52ucjqmX0AZ5NXugBrcJzp) | [Flora Fossils](https://open.spotify.com/artist/76XoeM2KYdI6JJENHKpB6N) | [Rising Up](https://open.spotify.com/album/02AhYeStIFGhVazWU4Xx6Q) | 3:09 | 2025-02-18 | 2026-07-15 |
 | [River Breath](https://open.spotify.com/track/1jbmHQILuPj4Tt9AkyMc55) | [Nature Pulse](https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0) | [River Breath](https://open.spotify.com/album/0RItQrTpmdXnV34eOSVQWP) | 3:30 | 2024-12-12 | 2025-05-22 |
-| [River Essence](https://open.spotify.com/track/1tW3xopLtJrMxf7K8qcjAA) | [John Ocean](https://open.spotify.com/artist/0UWgEdhywZEON8EtIBYGoL) | [River Essence](https://open.spotify.com/album/1WujHhY8Cu2ML4zCes2vhK) | 2:30 | 2026-09-21 | 2026-10-13 |
+| [River Essence](https://open.spotify.com/track/1tW3xopLtJrMxf7K8qcjAA) | [John Ocean](https://open.spotify.com/artist/0UWgEdhywZEON8EtIBYGoL) | [River Essence](https://open.spotify.com/album/1WujHhY8Cu2ML4zCes2vhK) | 2:30 | 2026-09-21 |  |
 | [River Mist](https://open.spotify.com/track/0hK0nt5nprWFYsa6GSHGoa) | [Somnifera](https://open.spotify.com/artist/2AkFwZieZKlkDtvZxaOL2b) | [River Mist](https://open.spotify.com/album/7xoyZiLqDgsYOYu9tW2iPD) | 2:38 | 2026-09-21 |  |
 | [Robin Choir](https://open.spotify.com/track/3Hb6TtTURzwXFaBoMkUj2u) | [Sarah Loca](https://open.spotify.com/artist/5jZXtbPYjWhoom78Eh14Wd) | [Robin Choir](https://open.spotify.com/album/15yfgasrD61BQmsYx3gaez) | 2:59 | 2023-11-24 | 2025-05-22 |
 | [Roots](https://open.spotify.com/track/7dR4I3Gvrx9njBICv4jsz4) | [Colias Fieldii](https://open.spotify.com/artist/2Y77at6ifgThnn4eR1xp4v) | [Roots](https://open.spotify.com/album/51PNlBZV4CCQItG7h7LrcP) | 3:31 | 2023-04-28 | 2024-04-02 |
@@ -425,6 +425,7 @@
 | [Song of the Forest](https://open.spotify.com/track/25pX7clkjhZ0Nd9vsNxWnz) | [Silent Peaks](https://open.spotify.com/artist/78cVzWtdhDa6Mfx5uKo0YV) | [Song of the Forest](https://open.spotify.com/album/0ZpNKgschn5HdrmjXZIh9T) | 3:05 | 2026-04-03 |  |
 | [Soothing Ripples](https://open.spotify.com/track/7GBZtRWRBnA0zhnuNrvoct) | [Applied Rest](https://open.spotify.com/artist/2riZE0wAuN7vPwKnEo8eGX) | [Soothing Ripples](https://open.spotify.com/album/4c2ImLyXKB23EToI6NP8UE) | 2:49 | 2023-04-28 | 2025-03-02 |
 | [Soothing River Currents](https://open.spotify.com/track/5wadEWywibUs6MUP61h8kE) | [Binaural Healing Frequencies](https://open.spotify.com/artist/0O3hasNaQ353zIkDpwn4Ul) | [Soothing River Currents](https://open.spotify.com/album/74sFp2e1f4L9PKjonje0J5) | 2:50 | 2023-12-01 | 2025-02-13 |
+| [Soothing Serenity \(with nature sounds\)](https://open.spotify.com/track/6EPxRu1Z5XoBn0VFe35Jqa) | [Ethereva](https://open.spotify.com/artist/7ENBky1SWWXNoK9pHt5SUh) | [Soothing Serenity \(with nature sounds\)](https://open.spotify.com/album/0cwLt4Iaj7x0bDrEWRwojj) | 2:35 | 2026-09-21 |  |
 | [Sound Of Morning](https://open.spotify.com/track/1Q2DZ6TvsmuZtsOvuqpLnJ) | [Oliver Ólafsson](https://open.spotify.com/artist/0xgumNwunVskpeLSl8FyjU) | [Sound of Morning](https://open.spotify.com/album/2KH6p1kYs3ThudS0qpyr4u) | 2:51 | 2026-04-03 | 2026-06-27 |
 | [Spa Rituals](https://open.spotify.com/track/1t2XiLdfC6zk4cRV2WNxvP) | [Ayivah](https://open.spotify.com/artist/4MFiKatqBIbFbdEZscWA8o) | [Spa Rituals](https://open.spotify.com/album/1HgapXIzrXEU18Wgw5Jhyb) | 2:31 | 2024-02-15 | 2024-04-02 |
 | [Sparkles Between Trees](https://open.spotify.com/track/1KivTompzOiBdFec5jkS8E) | [Ayala Cola](https://open.spotify.com/artist/5z98YuplLBTQttqAgkNyfA) | [Sparkles Between Trees](https://open.spotify.com/album/3lnKB5L6PHUGkFUCc3rskG) | 2:41 | 2026-04-03 |  |

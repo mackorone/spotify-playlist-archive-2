@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0fcSBGKwKuIMqCRmsAru3e">Biff Stannard</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-235 songs - 15 hr 4 min
+236 songs - 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Got the Feelin' \- Radio Edit](https://open.spotify.com/track/0HjeuAy5DCzkwmODn3tYpT) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Five](https://open.spotify.com/album/5qNfTjXiyNX9abxpcpR1jO) | 3:28 | 2025-06-22 |  |
 | [Guilty](https://open.spotify.com/track/7LAmyFCpDakQ3YL92EKE8t) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [The Family Jewels](https://open.spotify.com/album/1CtDa7pVfLF4u2ZadRTWz7) | 3:41 | 2021-12-27 |  |
 | [Headlines \(Friendship Never Ends\)](https://open.spotify.com/track/1oDPAM1Jq4vNBWXlkUKr0C) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Headlines \(Friendship Never Ends\)](https://open.spotify.com/album/4YAKYUz7HDhP8J6TcxjqjE) | 3:29 | 2021-12-27 |  |
+| [Heartbeat](https://open.spotify.com/track/4nhkccltUfP0Cuw7bGTtnY) | [Jimmy Somerville](https://open.spotify.com/artist/6LQeBFIfD4C22RJVVjQ6S7) | [Dare to Love](https://open.spotify.com/album/6jerfHX5ZAMHJAewnofvjQ) | 4:25 | 2026-10-13 |  |
 | [Heartbreak \(Make Me a Dancer\)](https://open.spotify.com/track/6EPzEyUDdQfeaObbIvAlbT) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Make A Scene](https://open.spotify.com/album/1jQybCwS6LWLljw1KBSZl2) | 3:25 | 2024-12-25 |  |
 | [Heartbreak \(Make Me A Dancer\)](https://open.spotify.com/track/6caxigputNu7W9SXMTt31O) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Make A Scene](https://open.spotify.com/album/78y25UZcWa7BugXNRVuXDl) | 3:28 | 2021-12-27 | 2023-12-26 |
 | [Heartbreak \- Make Me A Dancer](https://open.spotify.com/track/1P5sTy1U94jdzcLgeWlIgf) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [Freemasons](https://open.spotify.com/artist/49H2dQUNhIlso7VNkS8nFR) | [Make a Scene](https://open.spotify.com/album/2vLMz7mNDjeAkCstDKiz7p) | 3:26 | 2023-12-25 | 2024-12-26 |

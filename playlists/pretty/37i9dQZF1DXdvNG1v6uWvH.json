@@ -1,6 +1,6 @@
 {
   "description": "Loksins New Music Friday! N\u00fd t\u00f3nlist fr\u00e1 Troye Sivan, girl in red & og m\u00f6rgum fleirum!",
-  "num_followers": 9719,
+  "num_followers": 9720,
   "original_name": "New Music Friday Iceland",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2026-10-09 00:00:16",
       "album": {
-        "name": "Do Better",
-        "url": "https://open.spotify.com/album/4BZGQnej0aqk97EEIwW7dM"
-      },
-      "artists": [
-        {
-          "name": "Jonah Kagen",
-          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Do Better",
-      "url": "https://open.spotify.com/track/20FuukFQQQfJO23T1ni18h"
-    },
-    {
-      "added_at": "2026-10-09 00:00:16",
-      "album": {
         "name": "Tulsa, OK",
         "url": "https://open.spotify.com/album/6X5KWLkivJQ7F89na1AoQC"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 181025,
       "name": "Tulsa, OK",
       "url": "https://open.spotify.com/track/4lyK8sT0dLpxSBv14wtVet"
+    },
+    {
+      "added_at": "2026-10-09 00:00:16",
+      "album": {
+        "name": "Do Better",
+        "url": "https://open.spotify.com/album/4BZGQnej0aqk97EEIwW7dM"
+      },
+      "artists": [
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Do Better",
+      "url": "https://open.spotify.com/track/20FuukFQQQfJO23T1ni18h"
     },
     {
       "added_at": "2026-10-09 00:00:16",
@@ -423,6 +423,22 @@
     {
       "added_at": "2026-10-09 00:00:16",
       "album": {
+        "name": "Ambiguous Desire (Deluxe)",
+        "url": "https://open.spotify.com/album/7rbyJmp77Xj3utqDm71rWO"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 194473,
+      "name": "waiting for me",
+      "url": "https://open.spotify.com/track/7o34qMgjMGWjadKNH1cBvc"
+    },
+    {
+      "added_at": "2026-10-09 00:00:16",
+      "album": {
         "name": "Moving at Light Speed",
         "url": "https://open.spotify.com/album/1iytMWtFrdmv0koG2f6r8L"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 107402,
       "name": "Moving at Light Speed",
       "url": "https://open.spotify.com/track/6jEO5RmiesaiY7zlQDoHq4"
-    },
-    {
-      "added_at": "2026-10-09 00:00:16",
-      "album": {
-        "name": "Ambiguous Desire (Deluxe)",
-        "url": "https://open.spotify.com/album/7rbyJmp77Xj3utqDm71rWO"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 194473,
-      "name": "waiting for me",
-      "url": "https://open.spotify.com/track/7o34qMgjMGWjadKNH1cBvc"
     },
     {
       "added_at": "2026-10-09 00:00:16",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-10-09 00:00:16",
       "album": {
-        "name": "Stalks",
-        "url": "https://open.spotify.com/album/0ljLVwqEMPGaqsG9mtDRHC"
-      },
-      "artists": [
-        {
-          "name": "Twisted Teens",
-          "url": "https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv"
-        }
-      ],
-      "duration_ms": 167831,
-      "name": "Stalks",
-      "url": "https://open.spotify.com/track/3aoIIvR9CkLUJ5aKpnsy5u"
-    },
-    {
-      "added_at": "2026-10-09 00:00:16",
-      "album": {
         "name": "9 to 5",
         "url": "https://open.spotify.com/album/5r5Pa4Ud1lKyt40N3V3XKa"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 119333,
       "name": "9 to 5",
       "url": "https://open.spotify.com/track/3j2AG7SVvIfrEWGvTVErRH"
+    },
+    {
+      "added_at": "2026-10-09 00:00:16",
+      "album": {
+        "name": "Stalks",
+        "url": "https://open.spotify.com/album/0ljLVwqEMPGaqsG9mtDRHC"
+      },
+      "artists": [
+        {
+          "name": "Twisted Teens",
+          "url": "https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv"
+        }
+      ],
+      "duration_ms": 167831,
+      "name": "Stalks",
+      "url": "https://open.spotify.com/track/3aoIIvR9CkLUJ5aKpnsy5u"
     },
     {
       "added_at": "2026-10-09 00:00:16",
@@ -651,18 +651,18 @@
     {
       "added_at": "2026-10-09 00:00:16",
       "album": {
-        "name": "Sleep",
-        "url": "https://open.spotify.com/album/2IU3qR6HVCd0w4cGN6Jf4G"
+        "name": "not your wife",
+        "url": "https://open.spotify.com/album/5AjiZWW1elqJecfnCKMKUA"
       },
       "artists": [
         {
-          "name": "Ex:Re",
-          "url": "https://open.spotify.com/artist/3FIsBWNLmqLvTQnhJLAWUJ"
+          "name": "Coasters",
+          "url": "https://open.spotify.com/artist/4VjyjBUcEwwx4xqtU359Ep"
         }
       ],
-      "duration_ms": 227226,
-      "name": "Sleep",
-      "url": "https://open.spotify.com/track/31hSy1c6SWABIV3W1LqjMz"
+      "duration_ms": 225116,
+      "name": "not your wife",
+      "url": "https://open.spotify.com/track/6vahp1JzG4nrgq7Acb2QLC"
     },
     {
       "added_at": "2026-10-09 00:00:16",
@@ -679,6 +679,22 @@
       "duration_ms": 183011,
       "name": "WILL YOU EVER LET ME KNOW",
       "url": "https://open.spotify.com/track/5gNlATyRF6U7pw42VZ0WkI"
+    },
+    {
+      "added_at": "2026-10-09 00:00:16",
+      "album": {
+        "name": "Sleep",
+        "url": "https://open.spotify.com/album/2IU3qR6HVCd0w4cGN6Jf4G"
+      },
+      "artists": [
+        {
+          "name": "Ex:Re",
+          "url": "https://open.spotify.com/artist/3FIsBWNLmqLvTQnhJLAWUJ"
+        }
+      ],
+      "duration_ms": 227226,
+      "name": "Sleep",
+      "url": "https://open.spotify.com/track/31hSy1c6SWABIV3W1LqjMz"
     },
     {
       "added_at": "2026-10-09 00:00:16",
@@ -731,22 +747,6 @@
     {
       "added_at": "2026-10-09 00:00:16",
       "album": {
-        "name": "Spaghetti Soul",
-        "url": "https://open.spotify.com/album/45WhoCunwX3krlPZkOoKcX"
-      },
-      "artists": [
-        {
-          "name": "Sunnan",
-          "url": "https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh"
-        }
-      ],
-      "duration_ms": 247051,
-      "name": "Echoes In Time",
-      "url": "https://open.spotify.com/track/2YwCkmDnYrQPfSooF6SeLZ"
-    },
-    {
-      "added_at": "2026-10-09 00:00:16",
-      "album": {
         "name": "flughermir",
         "url": "https://open.spotify.com/album/6BMoG57bovFeLAFEJgfQgG"
       },
@@ -783,34 +783,18 @@
     {
       "added_at": "2026-10-09 00:00:16",
       "album": {
-        "name": "not your wife",
-        "url": "https://open.spotify.com/album/5AjiZWW1elqJecfnCKMKUA"
+        "name": "Spaghetti Soul",
+        "url": "https://open.spotify.com/album/45WhoCunwX3krlPZkOoKcX"
       },
       "artists": [
         {
-          "name": "Coasters",
-          "url": "https://open.spotify.com/artist/4VjyjBUcEwwx4xqtU359Ep"
+          "name": "Sunnan",
+          "url": "https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh"
         }
       ],
-      "duration_ms": 225116,
-      "name": "not your wife",
-      "url": "https://open.spotify.com/track/6vahp1JzG4nrgq7Acb2QLC"
-    },
-    {
-      "added_at": "2026-10-09 00:00:16",
-      "album": {
-        "name": "Burgers42",
-        "url": "https://open.spotify.com/album/77XylCmFSpEZ7bI0Hm0fsi"
-      },
-      "artists": [
-        {
-          "name": "NEW LORE",
-          "url": "https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Burgers42",
-      "url": "https://open.spotify.com/track/5Hy3KlVoV1CYZsLEb4C8Q1"
+      "duration_ms": 247051,
+      "name": "Echoes In Time",
+      "url": "https://open.spotify.com/track/2YwCkmDnYrQPfSooF6SeLZ"
     },
     {
       "added_at": "2026-10-09 00:00:16",
@@ -831,18 +815,34 @@
     {
       "added_at": "2026-10-09 00:00:16",
       "album": {
-        "name": "Not Looking Back Anymore",
-        "url": "https://open.spotify.com/album/2ZdQQljfDdwypmYc6GatZ6"
+        "name": "matriarch",
+        "url": "https://open.spotify.com/album/1WuJ9Ms4XK84SAdomR9YFt"
       },
       "artists": [
         {
-          "name": "Sylvie",
-          "url": "https://open.spotify.com/artist/027ntpFbzyT1mGw71h1OaZ"
+          "name": "Wadi",
+          "url": "https://open.spotify.com/artist/0cg1dZt1fxg4ei0nXsrxNg"
         }
       ],
-      "duration_ms": 238813,
-      "name": "Not Looking Back Anymore",
-      "url": "https://open.spotify.com/track/02wdcm2phVbSICnvJJnyNi"
+      "duration_ms": 180952,
+      "name": "matriarch",
+      "url": "https://open.spotify.com/track/1pBDAcfSkTel26prApFd1U"
+    },
+    {
+      "added_at": "2026-10-09 00:00:16",
+      "album": {
+        "name": "Burgers42",
+        "url": "https://open.spotify.com/album/77XylCmFSpEZ7bI0Hm0fsi"
+      },
+      "artists": [
+        {
+          "name": "NEW LORE",
+          "url": "https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Burgers42",
+      "url": "https://open.spotify.com/track/5Hy3KlVoV1CYZsLEb4C8Q1"
     },
     {
       "added_at": "2026-10-09 00:00:16",
@@ -863,6 +863,22 @@
     {
       "added_at": "2026-10-09 00:00:16",
       "album": {
+        "name": "Not Looking Back Anymore",
+        "url": "https://open.spotify.com/album/2ZdQQljfDdwypmYc6GatZ6"
+      },
+      "artists": [
+        {
+          "name": "Sylvie",
+          "url": "https://open.spotify.com/artist/027ntpFbzyT1mGw71h1OaZ"
+        }
+      ],
+      "duration_ms": 238813,
+      "name": "Not Looking Back Anymore",
+      "url": "https://open.spotify.com/track/02wdcm2phVbSICnvJJnyNi"
+    },
+    {
+      "added_at": "2026-10-09 00:00:16",
+      "album": {
         "name": "My Way",
         "url": "https://open.spotify.com/album/1Tf1Mr6JEp2xUdVB61cpBI"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 170144,
       "name": "My Way",
       "url": "https://open.spotify.com/track/4faET9puA0PpJEj3MLXFky"
-    },
-    {
-      "added_at": "2026-10-09 00:00:16",
-      "album": {
-        "name": "matriarch",
-        "url": "https://open.spotify.com/album/1WuJ9Ms4XK84SAdomR9YFt"
-      },
-      "artists": [
-        {
-          "name": "Wadi",
-          "url": "https://open.spotify.com/artist/0cg1dZt1fxg4ei0nXsrxNg"
-        }
-      ],
-      "duration_ms": 180952,
-      "name": "matriarch",
-      "url": "https://open.spotify.com/track/1pBDAcfSkTel26prApFd1U"
     },
     {
       "added_at": "2026-10-09 00:00:16",
@@ -915,6 +915,22 @@
     {
       "added_at": "2026-10-09 00:00:16",
       "album": {
+        "name": "qu\u00e9 envidia me da",
+        "url": "https://open.spotify.com/album/0ARoBGh3vfy8PZ21BW2sD0"
+      },
+      "artists": [
+        {
+          "name": "Jacinto",
+          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
+        }
+      ],
+      "duration_ms": 173397,
+      "name": "qu\u00e9 envidia me da",
+      "url": "https://open.spotify.com/track/3ol4nWfDSJROgB83GDRTvV"
+    },
+    {
+      "added_at": "2026-10-09 00:00:16",
+      "album": {
         "name": "I Love You, That\u2019s All",
         "url": "https://open.spotify.com/album/2zeJJzOz4HYfpFuIDrVDfx"
       },
@@ -927,26 +943,6 @@
       "duration_ms": 223312,
       "name": "I Love You, That\u2019s All",
       "url": "https://open.spotify.com/track/7aDQlqbS2sB5Mu3SaaJ7hv"
-    },
-    {
-      "added_at": "2026-10-09 00:00:16",
-      "album": {
-        "name": "One Day I'll Learn (ft. Young Cocoa)",
-        "url": "https://open.spotify.com/album/2rW6tRZZPnJNC4aroyrI8b"
-      },
-      "artists": [
-        {
-          "name": "Charlie Lim",
-          "url": "https://open.spotify.com/artist/3FodFdWfVWIiER6Cv6YVVQ"
-        },
-        {
-          "name": "Young Cocoa",
-          "url": "https://open.spotify.com/artist/3rdJ1bFvwgZw2XZkimg5dW"
-        }
-      ],
-      "duration_ms": 156805,
-      "name": "One Day I'll Learn (ft. Young Cocoa)",
-      "url": "https://open.spotify.com/track/114M54VHxRmEj9uDprKQC0"
     },
     {
       "added_at": "2026-10-09 00:00:16",
@@ -967,18 +963,22 @@
     {
       "added_at": "2026-10-09 00:00:16",
       "album": {
-        "name": "qu\u00e9 envidia me da",
-        "url": "https://open.spotify.com/album/0ARoBGh3vfy8PZ21BW2sD0"
+        "name": "One Day I'll Learn (ft. Young Cocoa)",
+        "url": "https://open.spotify.com/album/2rW6tRZZPnJNC4aroyrI8b"
       },
       "artists": [
         {
-          "name": "Jacinto",
-          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
+          "name": "Charlie Lim",
+          "url": "https://open.spotify.com/artist/3FodFdWfVWIiER6Cv6YVVQ"
+        },
+        {
+          "name": "Young Cocoa",
+          "url": "https://open.spotify.com/artist/3rdJ1bFvwgZw2XZkimg5dW"
         }
       ],
-      "duration_ms": 173397,
-      "name": "qu\u00e9 envidia me da",
-      "url": "https://open.spotify.com/track/3ol4nWfDSJROgB83GDRTvV"
+      "duration_ms": 156805,
+      "name": "One Day I'll Learn (ft. Young Cocoa)",
+      "url": "https://open.spotify.com/track/114M54VHxRmEj9uDprKQC0"
     },
     {
       "added_at": "2026-10-09 00:00:16",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-10-09 00:00:16",
       "album": {
-        "name": "Kitchen",
-        "url": "https://open.spotify.com/album/0VpOOpDI53treIk8ZLf23h"
-      },
-      "artists": [
-        {
-          "name": "haloplus+",
-          "url": "https://open.spotify.com/artist/224oiUpyCYmxo3WJQW3EPB"
-        }
-      ],
-      "duration_ms": 175578,
-      "name": "Kitchen",
-      "url": "https://open.spotify.com/track/4JJagujzRqfQYMAR4PfUWy"
-    },
-    {
-      "added_at": "2026-10-09 00:00:16",
-      "album": {
         "name": "My Collection",
         "url": "https://open.spotify.com/album/7M3lUo5MsaSFrNjgPIsom9"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 219400,
       "name": "My Collection",
       "url": "https://open.spotify.com/track/592g2X2FjS9101PhGMRmrJ"
+    },
+    {
+      "added_at": "2026-10-09 00:00:16",
+      "album": {
+        "name": "Kitchen",
+        "url": "https://open.spotify.com/album/0VpOOpDI53treIk8ZLf23h"
+      },
+      "artists": [
+        {
+          "name": "haloplus+",
+          "url": "https://open.spotify.com/artist/224oiUpyCYmxo3WJQW3EPB"
+        }
+      ],
+      "duration_ms": 175578,
+      "name": "Kitchen",
+      "url": "https://open.spotify.com/track/4JJagujzRqfQYMAR4PfUWy"
     },
     {
       "added_at": "2026-10-09 00:00:16",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2026-10-09 00:00:16",
       "album": {
-        "name": "Give a Little",
-        "url": "https://open.spotify.com/album/39juknpd3rYUQSBRFxklcM"
+        "name": "Where Do We Go?",
+        "url": "https://open.spotify.com/album/4Pwk2owlHrLpP4ljEly0WY"
       },
       "artists": [
         {
-          "name": "Ronia",
-          "url": "https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z"
+          "name": "Leon Blane",
+          "url": "https://open.spotify.com/artist/2TG1F0M1xO9SkvnjeQkzgu"
         }
       ],
-      "duration_ms": 191893,
-      "name": "Give a Little",
-      "url": "https://open.spotify.com/track/4MjXZqLHPOHefLJ1CGgBqc"
+      "duration_ms": 152112,
+      "name": "Where Do We Go?",
+      "url": "https://open.spotify.com/track/14FYVmr6ktWJJbNJ91Ov94"
     },
     {
       "added_at": "2026-10-09 00:00:16",
@@ -1119,38 +1119,18 @@
     {
       "added_at": "2026-10-09 00:00:16",
       "album": {
-        "name": "Next Summer (feat. Barbro)",
-        "url": "https://open.spotify.com/album/6N4GuTC501Nmk5j1yk9DQe"
+        "name": "Give a Little",
+        "url": "https://open.spotify.com/album/39juknpd3rYUQSBRFxklcM"
       },
       "artists": [
         {
-          "name": "School of X",
-          "url": "https://open.spotify.com/artist/4VL17UwE7ktJcG04WdbR9B"
-        },
-        {
-          "name": "Barbro",
-          "url": "https://open.spotify.com/artist/4xLgZcnFsAbYKBfsQEJGKY"
+          "name": "Ronia",
+          "url": "https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z"
         }
       ],
-      "duration_ms": 159189,
-      "name": "Next Summer (feat. Barbro)",
-      "url": "https://open.spotify.com/track/1ghNNT9YctXZ5buqgBGenL"
-    },
-    {
-      "added_at": "2026-10-09 00:00:16",
-      "album": {
-        "name": "Where Do We Go?",
-        "url": "https://open.spotify.com/album/4Pwk2owlHrLpP4ljEly0WY"
-      },
-      "artists": [
-        {
-          "name": "Leon Blane",
-          "url": "https://open.spotify.com/artist/2TG1F0M1xO9SkvnjeQkzgu"
-        }
-      ],
-      "duration_ms": 152112,
-      "name": "Where Do We Go?",
-      "url": "https://open.spotify.com/track/14FYVmr6ktWJJbNJ91Ov94"
+      "duration_ms": 191893,
+      "name": "Give a Little",
+      "url": "https://open.spotify.com/track/4MjXZqLHPOHefLJ1CGgBqc"
     },
     {
       "added_at": "2026-10-09 00:00:16",
@@ -1171,18 +1151,22 @@
     {
       "added_at": "2026-10-09 00:00:16",
       "album": {
-        "name": "Postponements",
-        "url": "https://open.spotify.com/album/1LSaYxhMy4xppaDit5Dbsc"
+        "name": "Next Summer (feat. Barbro)",
+        "url": "https://open.spotify.com/album/6N4GuTC501Nmk5j1yk9DQe"
       },
       "artists": [
         {
-          "name": "Yvonnes",
-          "url": "https://open.spotify.com/artist/6Zv72Nagsr9RjZYNSD4K4p"
+          "name": "School of X",
+          "url": "https://open.spotify.com/artist/4VL17UwE7ktJcG04WdbR9B"
+        },
+        {
+          "name": "Barbro",
+          "url": "https://open.spotify.com/artist/4xLgZcnFsAbYKBfsQEJGKY"
         }
       ],
-      "duration_ms": 179062,
-      "name": "Postponement",
-      "url": "https://open.spotify.com/track/22sWZmIc99HEFcX72GrjQt"
+      "duration_ms": 159189,
+      "name": "Next Summer (feat. Barbro)",
+      "url": "https://open.spotify.com/track/1ghNNT9YctXZ5buqgBGenL"
     },
     {
       "added_at": "2026-10-09 00:00:16",
@@ -1219,6 +1203,22 @@
     {
       "added_at": "2026-10-09 00:00:16",
       "album": {
+        "name": "Postponements",
+        "url": "https://open.spotify.com/album/1LSaYxhMy4xppaDit5Dbsc"
+      },
+      "artists": [
+        {
+          "name": "Yvonnes",
+          "url": "https://open.spotify.com/artist/6Zv72Nagsr9RjZYNSD4K4p"
+        }
+      ],
+      "duration_ms": 179062,
+      "name": "Postponement",
+      "url": "https://open.spotify.com/track/22sWZmIc99HEFcX72GrjQt"
+    },
+    {
+      "added_at": "2026-10-09 00:00:16",
+      "album": {
         "name": "Laying Down",
         "url": "https://open.spotify.com/album/6aB7po4FUlk7DB0471ku6e"
       },
@@ -1231,6 +1231,22 @@
       "duration_ms": 170380,
       "name": "Laying Down",
       "url": "https://open.spotify.com/track/2vYaRSGzWjD3X17T1ICQvp"
+    },
+    {
+      "added_at": "2026-10-09 00:00:16",
+      "album": {
+        "name": "Orange",
+        "url": "https://open.spotify.com/album/3QQlMbTdcNjXPfqhvwlAIk"
+      },
+      "artists": [
+        {
+          "name": "Mel D",
+          "url": "https://open.spotify.com/artist/5UXFqyAj973tF87Entr44J"
+        }
+      ],
+      "duration_ms": 241721,
+      "name": "Orange",
+      "url": "https://open.spotify.com/track/6J67r21wyslcG1ejmc1yeU"
     },
     {
       "added_at": "2026-10-09 00:00:16",
@@ -1259,18 +1275,18 @@
     {
       "added_at": "2026-10-09 00:00:16",
       "album": {
-        "name": "Orange",
-        "url": "https://open.spotify.com/album/3QQlMbTdcNjXPfqhvwlAIk"
+        "name": "Safe Bet",
+        "url": "https://open.spotify.com/album/1Cd2uRXtyORXJDai5of0iN"
       },
       "artists": [
         {
-          "name": "Mel D",
-          "url": "https://open.spotify.com/artist/5UXFqyAj973tF87Entr44J"
+          "name": "j ember",
+          "url": "https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv"
         }
       ],
-      "duration_ms": 241721,
-      "name": "Orange",
-      "url": "https://open.spotify.com/track/6J67r21wyslcG1ejmc1yeU"
+      "duration_ms": 188086,
+      "name": "Safe Bet",
+      "url": "https://open.spotify.com/track/1M5nsffIhlZC4OtQrNMiwZ"
     },
     {
       "added_at": "2026-10-09 00:00:16",
@@ -1287,22 +1303,6 @@
       "duration_ms": 181840,
       "name": "Steady Baby",
       "url": "https://open.spotify.com/track/4DGKtg1YzmGwbG175DFTYY"
-    },
-    {
-      "added_at": "2026-10-09 00:00:16",
-      "album": {
-        "name": "Safe Bet",
-        "url": "https://open.spotify.com/album/1Cd2uRXtyORXJDai5of0iN"
-      },
-      "artists": [
-        {
-          "name": "j ember",
-          "url": "https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv"
-        }
-      ],
-      "duration_ms": 188086,
-      "name": "Safe Bet",
-      "url": "https://open.spotify.com/track/1M5nsffIhlZC4OtQrNMiwZ"
     },
     {
       "added_at": "2026-10-09 00:00:16",

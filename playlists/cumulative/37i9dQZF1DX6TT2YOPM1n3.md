@@ -2,9 +2,9 @@
 
 ### [Pakka Hit Hai](https://open.spotify.com/playlist/37i9dQZF1DX6TT2YOPM1n3)
 
-> Apne mulk ki homegrown hits 🎶 Cover: Izzchughtai, Hasan Raheem, Umair
+> Apne mulk ki homegrown hits 🎶 Cover: Asim Azhar
 
-349 songs - 23 hr 43 min
+350 songs - 23 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Aisay Kaisay](https://open.spotify.com/track/0mAswKg3RCbmXAV4KYTUxM) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [Aisay Kaisay](https://open.spotify.com/album/20BGLvUZVB6WuQijorqoDb) | 3:18 | 2023-05-04 | 2025-03-29 |
 | [Alfaaz](https://open.spotify.com/track/0tW2gwaRzFQQrgr2UCO56G) | [Hamza Malik](https://open.spotify.com/artist/1GE8jiWTAhX18vP7Wqxig9), [Zain Zohaib](https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP) | [Alfaaz](https://open.spotify.com/album/41jcM2Nk286Rghi16VGTax) | 3:04 | 2026-08-21 |  |
 | [Alif](https://open.spotify.com/track/1IjVbXiyU4MVXWa2Gtkzxv) | [Ahsan Javed](https://open.spotify.com/artist/4FeXPYeo2Ts8EPAwHFJPRE), [Usamasutra](https://open.spotify.com/artist/5zbPdTHqmNPLfJmS3iOJ2L) | [Alif](https://open.spotify.com/album/2KUzNELLaCZrTUuDzd1Gtd) | 3:22 | 2026-07-08 | 2026-09-07 |
+| [Alvida Alvida \(From "Dar\-E\-Nijaat"\)](https://open.spotify.com/track/06qVuHcsPmojVPO2wbLiDk) | [Nabeel Shaukat Ali](https://open.spotify.com/artist/1NkQbSzN7LhkURNg2ChZMp) | [Alvida Alvida \(From "Dar\-E\-Nijaat"\)](https://open.spotify.com/album/1g4s09FqEAVlgGLayTM3D5) | 5:23 | 2026-10-13 |  |
 | [Amplifier](https://open.spotify.com/track/0l1i3nJ4aDMk0inxnvzYTz) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js) | [Amplifier](https://open.spotify.com/album/5EC9dpKhvj5niMAA4HRmfQ) | 3:52 | 2023-05-04 | 2024-04-27 |
 | [Amplifier](https://open.spotify.com/track/3f8t2LZGYtdNQh8SNEiZcG) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js) | [Unforgettable](https://open.spotify.com/album/4sOf4oPLCx7e73JOsRTZQ7) | 3:52 | 2024-03-19 | 2024-04-19 |
 | [ANDAAZ E BAYAN](https://open.spotify.com/track/4b2ZcyejM0nAQi7Cye5Atf) | [Triplethreats](https://open.spotify.com/artist/4C4YTl2LuFcnICCvZo6eTy), [HAVI](https://open.spotify.com/artist/3P8ZD2X9kQJfeVcjr3GLP4) | [ANDAAZ E BAYAN](https://open.spotify.com/album/686Wynn3CFh1L9bX60Dxpi) | 4:08 | 2025-10-18 | 2025-12-03 |
@@ -131,7 +132,7 @@
 | [Hoor](https://open.spotify.com/track/2tmlxsN78o0hR1CXuKhBpT) | [Samar Jafri](https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq) | [Hoor](https://open.spotify.com/album/5bXnPJlYCuUK5JngUgRx3h) | 3:30 | 2026-08-07 |  |
 | [Hum](https://open.spotify.com/track/7oNZfE9wnu7SP55LwNSiKG) | [Murtaza Qizilbash](https://open.spotify.com/artist/6hIXwlI4wny3zYuB6cDBBk) | [Hum](https://open.spotify.com/album/7idG3a5Nmotd02hA6ifD0f) | 4:35 | 2026-01-28 |  |
 | [Humsafar](https://open.spotify.com/track/3gBwuyMuSVK9ubjEhoNooA) | [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q) | [Humsafar \(2011\)](https://open.spotify.com/album/3ZflOKHy3vqNLloGtXjFaH) | 6:21 | 2023-12-29 | 2024-12-20 |
-| [Hun Ishq Main](https://open.spotify.com/track/4B4aEVKwc2ZQUwkQaodceV) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Subah Aye Na](https://open.spotify.com/album/2DWyg29G3hZ8WaHhyzDWuf) | 5:48 | 2026-10-05 |  |
+| [Hun Ishq Main](https://open.spotify.com/track/4B4aEVKwc2ZQUwkQaodceV) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Subah Aye Na](https://open.spotify.com/album/2DWyg29G3hZ8WaHhyzDWuf) | 5:48 | 2026-10-05 | 2026-10-14 |
 | [Hun Ishq Main](https://open.spotify.com/track/5tHkXCQ2abWE8TSPFZiNmU) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Subah Aye Na](https://open.spotify.com/album/5Jk8O4pgq0O6vupKEQ5bly) | 5:48 | 2026-08-07 |  |
 | [Hungama](https://open.spotify.com/track/3v2vP8uet5H9VFbrvXPQWX) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [Hungama](https://open.spotify.com/album/2kgPco3xRTPR1xAOWFt20q) | 2:59 | 2024-01-12 | 2024-04-27 |
 | [Ik Lamha](https://open.spotify.com/track/3foRjN56V1B3ihuiXq0a57) | [Azaan Sami Khan](https://open.spotify.com/artist/6v5vYOydZ5MrA2qr6e4Lkc) | [Main Tera](https://open.spotify.com/album/3vTQGdTHilFb21CPgH4xVd) | 4:18 | 2024-12-04 | 2026-07-09 |

@@ -4,7 +4,7 @@
 
 > Wekelijkse update! Cover: Cloonee
 
-1,554 songs - 3 day 7 hr 10 min
+1,555 songs - 3 day 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -554,7 +554,7 @@
 | [Headphones](https://open.spotify.com/track/0fyXzYbC0YFMBIgdnyWuvs) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Headphones](https://open.spotify.com/album/2LUZIWVNlZLkTABvClwsnv) | 2:14 | 2026-05-14 | 2026-06-26 |
 | [Heart Attack](https://open.spotify.com/track/1i4T9wZQCQDzgPllYePboc) | [Scooter](https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Heart Attack](https://open.spotify.com/album/01tKzSis1CijIgCceiBBHv) | 2:37 | 2025-07-17 | 2025-08-29 |
 | [Heart Cry](https://open.spotify.com/track/0x8JfHXWwXINCf35SposOb) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Heart Cry](https://open.spotify.com/album/43N2ODtbvGYJSZnMWyGmoN) | 3:33 | 2025-07-17 | 2025-08-15 |
-| [Heart Of A Dragon](https://open.spotify.com/track/5FKpVXEuq3qsuKeoAlLpnX) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Ran\-D](https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT), [Floor Jansen](https://open.spotify.com/artist/2ZNTJ9Bu9QMJwBboMSpQgJ) | [Heart Of A Dragon](https://open.spotify.com/album/3ZrBUSijdZYlPvSokYosxa) | 3:50 | 2026-10-08 |  |
+| [Heart Of A Dragon](https://open.spotify.com/track/5FKpVXEuq3qsuKeoAlLpnX) | [Ran\-D](https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Floor Jansen](https://open.spotify.com/artist/2ZNTJ9Bu9QMJwBboMSpQgJ) | [Heart Of A Dragon](https://open.spotify.com/album/3ZrBUSijdZYlPvSokYosxa) | 3:50 | 2026-10-08 |  |
 | [Heart Spin](https://open.spotify.com/track/116fzo1wS2gAtGYYdx30C8) | [Samm](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0), [JUNO \(DE\)](https://open.spotify.com/artist/6H0Lbuc95DxzpDkKdwnYQ3) | [Heart Spin EP](https://open.spotify.com/album/5p7Zfw7MUNPxXg1dWmYSl6) | 4:24 | 2026-05-28 | 2026-06-26 |
 | [Heartbreak Melody](https://open.spotify.com/track/2ZKm0cv6n9G0u0mNNadw8V) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [Heartbreak Melody](https://open.spotify.com/album/3ioWtr8wK5RkIobXeijUK4) | 3:11 | 2025-07-17 | 2025-09-05 |
 | [Heaven](https://open.spotify.com/track/7Ei2LsA34MJPITPv72dvZw) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [GHOST WORLD](https://open.spotify.com/album/5TPfEvaVw0vhEniifuxLeK) | 3:25 | 2025-12-04 | 2025-12-12 |
@@ -1339,6 +1339,7 @@
 | [Taking Over \(feat\. Obi Franky\)](https://open.spotify.com/track/7fnm4mEmlhV9p9s2VhrLab) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO), [Obi Franky](https://open.spotify.com/artist/7wcA5gBY4GRUDwcfyoj0p0) | [Taking Over \(feat\. Obi Franky\)](https://open.spotify.com/album/6eZbHd1fVfXHUuwYnMRJD1) | 3:26 | 2026-02-05 | 2026-03-13 |
 | [Talk To You](https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Talk To You](https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ) | 3:11 | 2026-03-06 | 2026-03-13 |
 | [Talkin'](https://open.spotify.com/track/3M8MsPZ4HGxgM7oKdr5dmj) | [AVALAN ROKSTON](https://open.spotify.com/artist/3WqiBOiSB2FlD25EX9893G), [Avalan](https://open.spotify.com/artist/13v2M5UZ3bbOCGmuvo7uFw), [Rokston](https://open.spotify.com/artist/5XWSzLJ3W6zr7Hf1XhNvPP) | [Talkin'](https://open.spotify.com/album/20fOWyim6AgzQNTU85AVKE) | 2:52 | 2026-05-14 | 2026-06-19 |
+| [Te conocí \- with Nicky Jam](https://open.spotify.com/track/30qIZD62rSNzXMhoLc5dij) | [Zenar](https://open.spotify.com/artist/1VwhS6UWlj4h2z1YLQqHyh), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Te conocí \(with Nicky Jam\)](https://open.spotify.com/album/35iJeh8op5DStnwA1BXPYF) | 3:02 | 2026-10-12 |  |
 | [Techno Rocker](https://open.spotify.com/track/1qEdy4SngOIHrZIwt0vgKQ) | [LYNSY](https://open.spotify.com/artist/5BMrgT9eEWEWWambA5iFjn) | [Techno Rocker](https://open.spotify.com/album/6epLEDtolN7ai7YYceHdXS) | 2:54 | 2026-02-13 | 2026-03-20 |
 | [TECHY MF](https://open.spotify.com/track/3j17V2ltFQ6XBs9tPljYCb) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [TECHY MF](https://open.spotify.com/album/3wdsImiyiJLpawSLSaXscX) | 2:54 | 2025-09-25 | 2025-10-17 |
 | [Tell You](https://open.spotify.com/track/6NNPkxt8BuE0e9RAGeVYhL) | [Prunk](https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG), [Retrouve](https://open.spotify.com/artist/7ImgGmI8gKoPYCmtvBjghb) | [Footprints LP](https://open.spotify.com/album/2bzP70FXhXU3zZ7EepteN9) | 2:40 | 2026-09-10 | 2026-09-18 |

@@ -512,7 +512,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 325173,
       "name": "En Contra",
       "url": "https://open.spotify.com/track/3SzXoz6Vvqt4QmLr3GJnae"
@@ -969,6 +969,24 @@
     },
     {
       "album": {
+        "name": "LA BAH\u00cdA DE LOS MEDICAMENTOS INCONSEGUIBLES",
+        "url": "https://open.spotify.com/album/2DMm9nv7jshzhW74M3B8JI"
+      },
+      "artists": [
+        {
+          "name": "Azud",
+          "url": "https://open.spotify.com/artist/7ACEh6gPdlj5zT4TUlu9GU"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182500,
+      "name": "LO EXTRA\u00d1O",
+      "url": "https://open.spotify.com/track/3pTGGJtwlI1ooTrixhuB7z"
+    },
+    {
+      "album": {
         "name": "Dos",
         "url": "https://open.spotify.com/album/2K6RrzfNNlFq8dUOLkpzL5"
       },
@@ -1352,6 +1370,24 @@
       "duration_ms": 222840,
       "name": "Otra Luna",
       "url": "https://open.spotify.com/track/1rIJLWJngQGHXdoeF5EQre"
+    },
+    {
+      "album": {
+        "name": "Sesi\u00f3n en el Bulo (En Vivo)",
+        "url": "https://open.spotify.com/album/3kILAAcPBeX8iqtJHP4ME7"
+      },
+      "artists": [
+        {
+          "name": "Diego Salvador Gasulla",
+          "url": "https://open.spotify.com/artist/7kUG28uXRyhJNyXCD0WDzY"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199565,
+      "name": "Otro Sol - En Vivo",
+      "url": "https://open.spotify.com/track/6ONVQbAgdYcGJtzALbQOWV"
     },
     {
       "album": {
@@ -2082,7 +2118,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 241280,
       "name": "Uprising Of Kindness",
       "url": "https://open.spotify.com/track/6y5RI29ZM1MmFg3yzD48v2"

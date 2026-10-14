@@ -1,12 +1,12 @@
 {
   "description": "h\u00e5ll det 100.",
-  "num_followers": 333176,
+  "num_followers": 333143,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOlUiMk//QI/FP/ketuuj+VXaIUt",
+  "snapshot_id": "AAAAABiKzt1QDltbJlsTpVwYr/n08b48",
   "tracks": [
     {
       "added_at": "2026-10-08 22:00:33",
@@ -63,26 +63,6 @@
     {
       "added_at": "2026-10-08 22:00:33",
       "album": {
-        "name": "Kejsar",
-        "url": "https://open.spotify.com/album/3dZzqosnyYll4mlHLBhXPC"
-      },
-      "artists": [
-        {
-          "name": "A36",
-          "url": "https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt"
-        },
-        {
-          "name": "VC Barre",
-          "url": "https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU"
-        }
-      ],
-      "duration_ms": 142135,
-      "name": "Kejsar",
-      "url": "https://open.spotify.com/track/3wXhaFhjQWn5ZNMUE5hpQH"
-    },
-    {
-      "added_at": "2026-10-08 22:00:33",
-      "album": {
         "name": "K\u00e4rlek & Brott",
         "url": "https://open.spotify.com/album/3uJLLV1uIsILuh6KWFj78V"
       },
@@ -103,26 +83,6 @@
     {
       "added_at": "2026-10-08 22:00:33",
       "album": {
-        "name": "G",
-        "url": "https://open.spotify.com/album/5SYEDVpW8S76Z1IWkkUBcg"
-      },
-      "artists": [
-        {
-          "name": "Blizzy",
-          "url": "https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp"
-        },
-        {
-          "name": "Euroo",
-          "url": "https://open.spotify.com/artist/5ZVHfahjeu8Z81RYyhcLDH"
-        }
-      ],
-      "duration_ms": 142500,
-      "name": "G",
-      "url": "https://open.spotify.com/track/19rLs0037vQJ2ipGsFI2RO"
-    },
-    {
-      "added_at": "2026-10-08 22:00:33",
-      "album": {
         "name": "1 \u00c5r",
         "url": "https://open.spotify.com/album/0C0k64JFYCKK8dD8xGEoYf"
       },
@@ -139,6 +99,46 @@
       "duration_ms": 152000,
       "name": "1 \u00c5r",
       "url": "https://open.spotify.com/track/0azLujBhO6TVq4LrblaqU8"
+    },
+    {
+      "added_at": "2026-10-08 22:00:33",
+      "album": {
+        "name": "Kejsar",
+        "url": "https://open.spotify.com/album/3dZzqosnyYll4mlHLBhXPC"
+      },
+      "artists": [
+        {
+          "name": "A36",
+          "url": "https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt"
+        },
+        {
+          "name": "VC Barre",
+          "url": "https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU"
+        }
+      ],
+      "duration_ms": 142135,
+      "name": "Kejsar",
+      "url": "https://open.spotify.com/track/3wXhaFhjQWn5ZNMUE5hpQH"
+    },
+    {
+      "added_at": "2026-10-08 22:00:33",
+      "album": {
+        "name": "G",
+        "url": "https://open.spotify.com/album/5SYEDVpW8S76Z1IWkkUBcg"
+      },
+      "artists": [
+        {
+          "name": "Blizzy",
+          "url": "https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp"
+        },
+        {
+          "name": "Euroo",
+          "url": "https://open.spotify.com/artist/5ZVHfahjeu8Z81RYyhcLDH"
+        }
+      ],
+      "duration_ms": 142500,
+      "name": "G",
+      "url": "https://open.spotify.com/track/19rLs0037vQJ2ipGsFI2RO"
     },
     {
       "added_at": "2026-10-08 22:00:33",

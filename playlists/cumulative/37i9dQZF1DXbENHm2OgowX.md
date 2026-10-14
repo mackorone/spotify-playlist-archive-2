@@ -4,7 +4,7 @@
 
 > wandering the forest as the fog floats through the trees
 
-239 songs - 17 hr 22 min
+240 songs - 17 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [morning after midnight](https://open.spotify.com/track/5omO0sQ8qJK64CQrC4GoLY) | [Eleftherios](https://open.spotify.com/artist/6z7DDiVB1Cca0P1VcsvxM9), [Droner](https://open.spotify.com/artist/1XHCSxunHr6IVLuZ7FH5rl) | [morning after midnight](https://open.spotify.com/album/1XpDajCQvExEBbpynkalWP) | 2:16 | 2026-05-15 | 2026-06-13 |
 | [My Blood Still Whispers](https://open.spotify.com/track/2z5V3tZIVIybDqlGa8uHVe) | [The Angelic Process](https://open.spotify.com/artist/4nQSh4CawJC9OZSqwNDS8W) | [Coma Waering](https://open.spotify.com/album/2HFgZ2MeCZKxPFrBGY2ulz) | 4:27 | 2022-02-11 | 2022-03-18 |
 | [My Body Betrayed Me](https://open.spotify.com/track/4qYG7y2tM6tm78Ygx42Ci3) | [Black Wing](https://open.spotify.com/artist/4MVCvqO8AdbUX0S6DuPxqo) | [...Is Doomed](https://open.spotify.com/album/0ZqUMApKpofig9rLkK1fJP) | 5:02 | 2022-02-11 | 2023-01-10 |
+| [my heart](https://open.spotify.com/track/7IveK650zPJHeNx15gBlbE) | [no.way.out](https://open.spotify.com/artist/4gIqPf7TvdoSFkmr8Fzw4D), [never alone](https://open.spotify.com/artist/60I0PPBMwOzOMnYSUrBxHd) | [my heart](https://open.spotify.com/album/3PXDESsfEy8pAmOeanlaOY) | 1:14 | 2026-09-23 |  |
 | [my last days on earth](https://open.spotify.com/track/2yPZ665zeVWZErn9lNVzKF) | [undercurrent.](https://open.spotify.com/artist/1GadL8gKNORWAIsnnaJcpO) | [my last days on earth](https://open.spotify.com/album/0KwmxR4yFvFRmbIACIBH89) | 2:19 | 2026-05-15 | 2026-06-13 |
 | [my little winter](https://open.spotify.com/track/5q0JkT1BM2vitSVjR6YzZ7) | [Willix](https://open.spotify.com/artist/6xWCdgEVD3rUXv3AYA4VPj) | [my little winter](https://open.spotify.com/album/2BRGknJNYI3ThoBZTekbKP) | 3:05 | 2025-06-20 |  |
 | [Near Silence](https://open.spotify.com/track/48TdI8BCUcvBlsfm3oZN1K) | [knownbyC](https://open.spotify.com/artist/3r6IlT9KI2aOfSuBClGBxb) | [Near Silence](https://open.spotify.com/album/3Xv1uvYnSeU8phHkccNZLe) | 3:04 | 2026-03-20 | 2026-06-13 |
@@ -183,7 +184,7 @@
 | [Sea Creatures](https://open.spotify.com/track/3HzVDoiZWZbDBgzyjH3sTO) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Best Indie Folk of 2020, Vol\. 2](https://open.spotify.com/album/0WlaZ7aIunmn5333SI1kGw) | 4:16 | 2022-11-09 | 2022-11-13 |
 | [Sea Creatures](https://open.spotify.com/track/62p6yXgCQ1Ywcw3MU78dZn) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Tourist](https://open.spotify.com/album/0fCaCuGVDA5ggkYJLNcaRX) | 4:16 | 2022-07-08 | 2022-09-12 |
 | [Sea Creatures](https://open.spotify.com/track/73Tl9gM1BeVA1IHvGubOmI) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [You Stay by the Sea \(Deluxe\)](https://open.spotify.com/album/4gyX2p2lAct97JgYtrpbH4) | 4:16 | 2022-09-12 | 2024-04-19 |
-| [searching](https://open.spotify.com/track/7JI8f3m5ur75iRRWZpj8sm) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [searching](https://open.spotify.com/album/2cmVsjln1umP4LzUmn9DbK) | 4:39 | 2025-11-06 |  |
+| [searching](https://open.spotify.com/track/7JI8f3m5ur75iRRWZpj8sm) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [searching](https://open.spotify.com/album/2cmVsjln1umP4LzUmn9DbK) | 4:39 | 2025-11-06 | 2026-10-14 |
 | [see you in heaven](https://open.spotify.com/track/6S8OZCDCnioqfjGNq7vWIc) | [LochHaven](https://open.spotify.com/artist/5u9yfFjiKlQJft9MBAcRcr) | [see you in heaven](https://open.spotify.com/album/7obxzU2lpwpFUJITPoeIQX) | 1:48 | 2025-06-20 |  |
 | [Shadowplay \- 2007 Remaster](https://open.spotify.com/track/4ZuC5MfGjRQs3pZtPxqMYP) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Unknown Pleasures \(Collector's Edition\)](https://open.spotify.com/album/33qkK1brpt6t8unIpeM2Oy) | 3:53 | 2022-02-11 | 2022-11-10 |
 | [Shall We Begin](https://open.spotify.com/track/7cOyWm2g0GNZMbsFIiR2J6) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Shall We Begin](https://open.spotify.com/album/6fAc71Y6Z2tPdEmYeVE9Jg) | 3:27 | 2025-01-31 |  |

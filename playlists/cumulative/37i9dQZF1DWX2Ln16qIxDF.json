@@ -3771,6 +3771,24 @@
     },
     {
       "album": {
+        "name": "BOTZ",
+        "url": "https://open.spotify.com/album/5n3zMrSedSoon33igy3KB2"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178466,
+      "name": "BOTZ",
+      "url": "https://open.spotify.com/track/4tpT01PRHuLZI1tAvrJfRf"
+    },
+    {
+      "album": {
         "name": "boyfree",
         "url": "https://open.spotify.com/album/0HkIVb5IjiPFliBXjLxklw"
       },
@@ -3862,7 +3880,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 265800,
       "name": "Brindis",
       "url": "https://open.spotify.com/track/0s7VQGJmw6OEEaKbcA5es6"
@@ -5094,6 +5112,24 @@
       "duration_ms": 141865,
       "name": "Como Yo :(",
       "url": "https://open.spotify.com/track/01QPvRIYC5QG9E3khE6P9M"
+    },
+    {
+      "album": {
+        "name": "COMPA COLETO (uy_como)",
+        "url": "https://open.spotify.com/album/3B6XXYP4ZsUus3dWtjvcch"
+      },
+      "artists": [
+        {
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200653,
+      "name": "COMPA COLETO (uy_como)",
+      "url": "https://open.spotify.com/track/5bZBRfGoUy5rizZGyjj6NR"
     },
     {
       "album": {
@@ -10633,7 +10669,7 @@
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 126374,
+      "duration_ms": 128860,
       "name": "hIGhLIGhTS",
       "url": "https://open.spotify.com/track/6sgXbGZdNtICgMOTbCgQWm"
     },
@@ -14649,7 +14685,7 @@
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 123545,
+      "duration_ms": 140073,
       "name": "me asfixia LA CIUDAD",
       "url": "https://open.spotify.com/track/51hMMibOQhxk6kWWZdlL7m"
     },
@@ -17310,7 +17346,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 203571,
       "name": "Noche Without You",
       "url": "https://open.spotify.com/track/00FMfKay6lHHQpFLTSaCZe"

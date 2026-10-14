@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de los '70. Foto: Ismael Rivera",
-  "num_followers": 249449,
+  "num_followers": 249485,
   "original_name": "Salsa: Los '70",
   "owner": {
     "name": "Spotify",
@@ -231,6 +231,22 @@
     {
       "added_at": "2024-09-24 20:30:16",
       "album": {
+        "name": "A Man And His Music",
+        "url": "https://open.spotify.com/album/5ooBxlDpe7vgUqHlVekC89"
+      },
+      "artists": [
+        {
+          "name": "Cheo Feliciano",
+          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
+        }
+      ],
+      "duration_ms": 230573,
+      "name": "El Raton",
+      "url": "https://open.spotify.com/track/6Zsm8QFqZ4jQhrVnTkzTqA"
+    },
+    {
+      "added_at": "2024-09-24 20:30:16",
+      "album": {
         "name": "Hector Lavoe El Cantante -The Originals",
         "url": "https://open.spotify.com/album/6RPoqtPA2JdEXv7vAeFtj4"
       },
@@ -439,18 +455,18 @@
     {
       "added_at": "2024-09-24 20:30:16",
       "album": {
-        "name": "A Man And His Music",
-        "url": "https://open.spotify.com/album/5ooBxlDpe7vgUqHlVekC89"
+        "name": "A life time of Hits.. (Live At Centro De Bellas Artes, San Juan, Puerto Rico.)",
+        "url": "https://open.spotify.com/album/6ZcpYhA2AErirv2nt3R7U2"
       },
       "artists": [
         {
-          "name": "Cheo Feliciano",
-          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
+          "name": "Richie Ray & Bobby Cruz",
+          "url": "https://open.spotify.com/artist/56eTRCwZ13vVWAmrG0dMnq"
         }
       ],
-      "duration_ms": 230573,
-      "name": "El Raton",
-      "url": "https://open.spotify.com/track/6Zsm8QFqZ4jQhrVnTkzTqA"
+      "duration_ms": 598853,
+      "name": "Sonido Bestial",
+      "url": "https://open.spotify.com/track/682K8AJvxcAaUWgjuQSmmN"
     },
     {
       "added_at": "2024-09-24 20:30:16",
@@ -471,22 +487,6 @@
       "duration_ms": 216626,
       "name": "Popurri Navide\u00f1o / Estrellas De Oriente (De Tierras Lejanas) / Noche De Paz / La Virgen Maria / La Tierra Mia",
       "url": "https://open.spotify.com/track/7nmQRUWNptOVlHlxDAYMWE"
-    },
-    {
-      "added_at": "2024-09-24 20:30:16",
-      "album": {
-        "name": "A life time of Hits.. (Live At Centro De Bellas Artes, San Juan, Puerto Rico.)",
-        "url": "https://open.spotify.com/album/6ZcpYhA2AErirv2nt3R7U2"
-      },
-      "artists": [
-        {
-          "name": "Richie Ray & Bobby Cruz",
-          "url": "https://open.spotify.com/artist/56eTRCwZ13vVWAmrG0dMnq"
-        }
-      ],
-      "duration_ms": 598853,
-      "name": "Sonido Bestial",
-      "url": "https://open.spotify.com/track/682K8AJvxcAaUWgjuQSmmN"
     },
     {
       "added_at": "2024-09-24 20:30:16",

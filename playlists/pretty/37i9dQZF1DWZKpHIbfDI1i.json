@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. ALMAS, NXNNI y Snow Tha Product",
-  "num_followers": 876049,
+  "num_followers": 876041,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -579,26 +579,6 @@
     {
       "added_at": "2026-10-09 06:00:29",
       "album": {
-        "name": "Yo Era Poes\u00eda",
-        "url": "https://open.spotify.com/album/18ssoZ7EPMn7mLqV0bW2j5"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        },
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 194923,
-      "name": "Yo Era Poes\u00eda",
-      "url": "https://open.spotify.com/track/75icZs6N7GzEAY7FNL8fZV"
-    },
-    {
-      "added_at": "2026-10-09 06:00:29",
-      "album": {
         "name": "No Quiere Salir",
         "url": "https://open.spotify.com/album/2uqpfbEYw8AMnLxGtqMjUg"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 209520,
       "name": "No Quiere Salir",
       "url": "https://open.spotify.com/track/4D7e8opeFSkFhXQXXZey3a"
+    },
+    {
+      "added_at": "2026-10-09 06:00:29",
+      "album": {
+        "name": "Yo Era Poes\u00eda",
+        "url": "https://open.spotify.com/album/18ssoZ7EPMn7mLqV0bW2j5"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 194923,
+      "name": "Yo Era Poes\u00eda",
+      "url": "https://open.spotify.com/track/75icZs6N7GzEAY7FNL8fZV"
     },
     {
       "added_at": "2026-10-09 06:00:29",

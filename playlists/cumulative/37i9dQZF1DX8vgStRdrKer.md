@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-888 songs - 3 day 5 hr 54 min
+889 songs - 3 day 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -508,7 +508,7 @@
 | [Mercy \(Hlabelela\)](https://open.spotify.com/track/03ex4OAmmBM2ci5W0q2kHm) | [Brenden Praise](https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU), [Free 2 Wrshp](https://open.spotify.com/artist/6xu5vAyJJMPc6u2XdxOuAt) | [The Gift, Vol\. 1](https://open.spotify.com/album/2YCDh7g2M3KWcDZUKKRUH1) | 3:06 | 2024-03-01 | 2024-05-24 |
 | [Mess into a Message](https://open.spotify.com/track/76aJBXDHpUhWS3xOeqKlSw) | [Chidiya Ohiagu](https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp) | [Mess into a Message](https://open.spotify.com/album/1adkr7tTpDZWRAmDHoQhLz) | 3:17 | 2024-02-23 | 2024-04-09 |
 | [MIGHTY](https://open.spotify.com/track/3xNjE6DkeGcbY609vKInbD) | [Dapiano](https://open.spotify.com/artist/2WWmcre3dzNsQAHtO83lhD), [TESTIMONY JAGA](https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h) | [MIGHTY](https://open.spotify.com/album/4gTrk7E7BJ6QGusoLQgKt3) | 3:15 | 2025-05-16 | 2025-06-13 |
-| [Mighty Name Of Jesus \(Cover\)](https://open.spotify.com/track/7hTsP9R7JsYif0Xo2q7bgZ) | [Musa Yende](https://open.spotify.com/artist/04lvbGgTkiM8PjDktWQehd) | [Mighty Name Of Jesus \(Cover\)](https://open.spotify.com/album/2DYYOz6tsylNGTGUjCmi3g) | 4:38 | 2026-09-18 |  |
+| [Mighty Name Of Jesus \(Cover\)](https://open.spotify.com/track/7hTsP9R7JsYif0Xo2q7bgZ) | [Musa Yende](https://open.spotify.com/artist/04lvbGgTkiM8PjDktWQehd) | [Mighty Name Of Jesus \(Cover\)](https://open.spotify.com/album/2DYYOz6tsylNGTGUjCmi3g) | 4:38 | 2026-09-18 | 2026-10-14 |
 | [Mighty Warrior](https://open.spotify.com/track/0GcUmKSKiFJ3dkQaAltX4p) | [Toyin Ogunniyi](https://open.spotify.com/artist/485KdhvKOxbZt0CDo0fdAx) | [Mighty Warrior](https://open.spotify.com/album/05odyOKOKwvYwg79vBtki5) | 4:00 | 2025-05-30 | 2025-06-06 |
 | [Miracle](https://open.spotify.com/track/3RWGw0Q3JA9gYtBcor4UQy) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [Miracle](https://open.spotify.com/album/0j428IWZNxi3fAJTahWjil) | 4:12 | 2023-12-01 | 2024-03-16 |
 | [Miracle No Dey Tire Jesus](https://open.spotify.com/track/4BdSQteqYNDGU8oD487KEU) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [Miracle No Dey Tire Jesus](https://open.spotify.com/album/6aA6U5p9m8dREYkv0K8tTT) | 2:46 | 2023-09-15 | 2024-03-16 |
@@ -884,6 +884,7 @@
 | [You Are The Reason](https://open.spotify.com/track/3D2Q41aYlsxIeVVNZelWkd) | [Toyin Ogunniyi](https://open.spotify.com/artist/485KdhvKOxbZt0CDo0fdAx) | [You Are The Reason](https://open.spotify.com/album/0J0hZeitQaKoLa5RPW8ob2) | 3:50 | 2025-06-27 | 2025-09-06 |
 | [You Are There](https://open.spotify.com/track/3EAHBjhFMwuIdAS5FodQTF) | [Yinka Okeleye](https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9), [Olamiji Rasheed](https://open.spotify.com/artist/797ilaBFnTzTvavwB225LX) | [You Are There](https://open.spotify.com/album/0rFk98XNaIJkoPATUDYCjm) | 6:21 | 2026-02-20 | 2026-05-22 |
 | [You Are Worthy](https://open.spotify.com/track/0KvOZwao4GyQ1WZm56EFx0) | [E\-Daniels](https://open.spotify.com/artist/03upCtYnA658rlthncydHW) | [You Are Worthy](https://open.spotify.com/album/6kKGBL4RrqvY1H3LZeDwqn) | 7:20 | 2026-07-03 | 2026-07-29 |
+| [You Are Worthy \- Live](https://open.spotify.com/track/2HDj8uoFY2EnsxaxmIvuHN) | [Sunday Ekaidem](https://open.spotify.com/artist/6XrqMdeVSpWDBzNCzzVKob), [E\-Daniels](https://open.spotify.com/artist/03upCtYnA658rlthncydHW) | [You Are Worthy \(Live\)](https://open.spotify.com/album/7GLUBWewijYpmWRu4G58Go) | 9:17 | 2026-09-25 |  |
 | [You are Yahweh](https://open.spotify.com/track/1FubXlwFRsFyyeqH5KodDG) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [Faith is Rising](https://open.spotify.com/album/18nzvmXhBvp2i4Rj5kgkQs) | 4:39 | 2023-09-15 | 2024-03-16 |
 | [You Do All](https://open.spotify.com/track/4W9LFXWcFmPUbSFaEMKIwE) | [richieo](https://open.spotify.com/artist/1I0DhnrGCFdgRHreaYacf0) | [You Do All](https://open.spotify.com/album/5THGF7t8qOhlRhKX3MtPfl) | 3:21 | 2025-07-04 | 2025-07-25 |
 | [You Do This One](https://open.spotify.com/track/4Y7dlIILrhbjhwzRIMTBlD) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [You Do This One](https://open.spotify.com/album/2xzpQ4JMvJOjh8WintsJ6o) | 3:46 | 2023-10-27 | 2024-03-16 |

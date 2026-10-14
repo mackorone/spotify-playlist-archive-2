@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: Showing Teeth
 
-1,706 songs - 4 day 7 hr 33 min
+1,707 songs - 4 day 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Acrid Canon](https://open.spotify.com/track/0DTKX0zPhXSrvIOHdJxv6q) | [Archspire](https://open.spotify.com/artist/7F9ZL4TJNr8AoU0UUQX8ih) | [Bleed the Future](https://open.spotify.com/album/5lWIRgkSy5WWOMrZ7xxygH) | 4:08 | 2022-07-13 | 2022-07-23 |
 | [Ad Mortem](https://open.spotify.com/track/06p9pcize5jRf60suHxXZv) | [GAI 荄](https://open.spotify.com/artist/4UxSNn8D7I6mwc4ugD0Org), [Pastgloom](https://open.spotify.com/artist/1vtDoKdcE6gdsHnpXTn1OZ), [Windrunner](https://open.spotify.com/artist/7GqHmgqt4wkWHZr8fcc9P7) | [Ad Mortem](https://open.spotify.com/album/7hHvCfJlotChMBl6Z2qR6M) | 5:01 | 2026-03-02 | 2026-03-11 |
 | [Administer the Dagger](https://open.spotify.com/track/76oQEVB2qHnATgoUJNEXgu) | [Misery Index](https://open.spotify.com/artist/1kTUJy3zL57iEANLB9FpIA) | [Complete Control](https://open.spotify.com/album/32W7n2vtVx6QuMCZiMnsSa) | 4:52 | 2022-07-13 | 2022-07-23 |
-| [ADRENALINE](https://open.spotify.com/track/7nA6qiCTvfAAs236lQTOLk) | [blacktoothed](https://open.spotify.com/artist/0guYG99gfJe7LYCF4WR3c6) | [ADRENALINE](https://open.spotify.com/album/6ksVNKzgo9bGS2X5vpCreN) | 3:55 | 2026-09-04 |  |
+| [ADRENALINE](https://open.spotify.com/track/7nA6qiCTvfAAs236lQTOLk) | [blacktoothed](https://open.spotify.com/artist/0guYG99gfJe7LYCF4WR3c6) | [ADRENALINE](https://open.spotify.com/album/6ksVNKzgo9bGS2X5vpCreN) | 3:55 | 2026-09-04 | 2026-10-14 |
 | [Advance Upon Me Brethren \- Redux](https://open.spotify.com/track/1nsnnETeOSRcomryUMJ3Az) | [Reflections](https://open.spotify.com/artist/0DTH9zFyvRb24bb8XN0iEr) | [The Fantasy Effect Redux](https://open.spotify.com/album/2bbHGhYeAS251rpr595BKx) | 4:42 | 2022-04-29 | 2022-07-28 |
 | [Aeon](https://open.spotify.com/track/39aouGYhIeMp9iWc9OEd8Y) | [Crystal Lake](https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX) | [Helix](https://open.spotify.com/album/6Z63V1YXcM6JG7XyWDmevd) | 3:13 | 2022-07-13 | 2022-07-15 |
 | [Aeons of Oblivion](https://open.spotify.com/track/6HcXTUJEOpTbiCPyGtU1sA) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ), [Adam Warren](https://open.spotify.com/artist/7COUdKrNnwWJGxif3XxLDr) | [Aeons of Oblivion](https://open.spotify.com/album/2qplxtai1BdGPrjIjUo1Hr) | 3:41 | 2022-07-13 | 2022-07-23 |
@@ -805,6 +805,7 @@
 | [Innocent Blood \(feat\. Jason Evans\)](https://open.spotify.com/track/6tjKpMR5jdN2WZL13Y65vA) | [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO), [Ingested](https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m), [Jason Evans](https://open.spotify.com/artist/2fEKFTw6F4cCFae5fkw2JL) | [Innocent Blood \(feat\. Jason Evans\)](https://open.spotify.com/album/0W55655OGizdrkUanACsoO) | 3:50 | 2022-07-13 | 2022-07-23 |
 | [Instrument Of War](https://open.spotify.com/track/1p6ZmD7ewbMjiwcM9Uk4U7) | [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A), [Stick To Your Guns](https://open.spotify.com/artist/2sqrupqcoipb7UzVKApEnJ) | [Instrument Of War](https://open.spotify.com/album/2YCs4Epk1PprjDB9U8UnYQ) | 3:09 | 2025-10-03 | 2026-06-16 |
 | [Intergalactic Casanova](https://open.spotify.com/track/6lte7l161HTKi4ZLFFGj6x) | [One Morning Left](https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF) | [Intergalactic Casanova](https://open.spotify.com/album/2vOfczZPhxfUiTydB6hyQr) | 4:03 | 2021-12-17 | 2022-01-15 |
+| [Intertwined \(feat\. Jessie Powell\)](https://open.spotify.com/track/3nacMJqs7z60ocGlnBqoqh) | [Vicious Rain](https://open.spotify.com/artist/5gMc4HiJRY9g63KiaulaBp), [Dream State](https://open.spotify.com/artist/3PPxT6AXgPvvajfvP1LQtw) | [Intertwined \(feat\. Jessie Powell\)](https://open.spotify.com/album/1XHXYQiIAvaB9xPjIyXMv6) | 3:55 | 2026-10-09 |  |
 | [Into Oblivion](https://open.spotify.com/track/1ZlTDTGu86Bxf0RQX2RjMz) | [Miss May I](https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237) | [Curse Of Existence](https://open.spotify.com/album/7GiQ5guVJwb7hScDnhfsAW) | 4:15 | 2022-09-02 | 2023-01-06 |
 | [INTO THE DARK](https://open.spotify.com/track/49h0nGFVuwOa1wgL5kMpVN) | [Void Of Vision](https://open.spotify.com/artist/7bpJe59fkklnlfHPxCMvF1) | [INTO THE DARK](https://open.spotify.com/album/58F7xz9oqfYuj6WpUsbBiE) | 3:41 | 2022-04-08 | 2022-06-24 |
 | [Into the Earth](https://open.spotify.com/track/5XvkXB1vcquootiIcUOoTz) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Into the Earth](https://open.spotify.com/album/0PQMXfwJJUnLa3sPEDPbAL) | 5:12 | 2022-07-13 | 2022-07-23 |

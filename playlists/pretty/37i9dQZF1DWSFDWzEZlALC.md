@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Raum27
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,886 likes - 75 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,872 likes - 75 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Bali Boi](https://open.spotify.com/track/0KgtaX0W8X8qPxP59wea2F) | [RAUM27](https://open.spotify.com/artist/4XYLofF5uTuAHIcuEBdNdr) | [Bali Boi](https://open.spotify.com/album/1CS0gBehDFCmEkNrupUXf4) | 2:30 |
-| 2 | [Nichts ist für immer](https://open.spotify.com/track/6YmrYpOIHC65Qb8PtLc7HO) | [Jonny Mahoro](https://open.spotify.com/artist/6yo5P4iDSOU6JnCRGJfU98) | [Nichts ist für immer](https://open.spotify.com/album/3if8ExXO7UOHQ1qf38bRj9) | 2:17 |
-| 3 | [wenigstens für jetzt](https://open.spotify.com/track/0pbdMK8Pix2NfRSkbTVZ72) | [Mika Noé](https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9) | [wenigstens für jetzt](https://open.spotify.com/album/5Pq4onkgUufE1MH3PAXQjH) | 2:26 |
-| 4 | [Nachgeschmack](https://open.spotify.com/track/0S15EgLEle4KhJvHce5Bls) | [fiora](https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE) | [Nachgeschmack](https://open.spotify.com/album/3jAzCv9K4nuQpLSqSHfI1S) | 2:10 |
-| 5 | [Cry Baby Cry](https://open.spotify.com/track/78MVrtGTJQXI3dRDOugoMG) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Cry Baby Cry](https://open.spotify.com/album/6iIBPT7er93Tii1o764t7j) | 3:08 |
+| 1 | [wenigstens für jetzt](https://open.spotify.com/track/0pbdMK8Pix2NfRSkbTVZ72) | [Mika Noé](https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9) | [wenigstens für jetzt](https://open.spotify.com/album/5Pq4onkgUufE1MH3PAXQjH) | 2:26 |
+| 2 | [Cry Baby Cry](https://open.spotify.com/track/78MVrtGTJQXI3dRDOugoMG) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Cry Baby Cry](https://open.spotify.com/album/6iIBPT7er93Tii1o764t7j) | 3:08 |
+| 3 | [Bali Boi](https://open.spotify.com/track/0KgtaX0W8X8qPxP59wea2F) | [RAUM27](https://open.spotify.com/artist/4XYLofF5uTuAHIcuEBdNdr) | [Bali Boi](https://open.spotify.com/album/1CS0gBehDFCmEkNrupUXf4) | 2:30 |
+| 4 | [Nichts ist für immer](https://open.spotify.com/track/6YmrYpOIHC65Qb8PtLc7HO) | [Jonny Mahoro](https://open.spotify.com/artist/6yo5P4iDSOU6JnCRGJfU98) | [Nichts ist für immer](https://open.spotify.com/album/3if8ExXO7UOHQ1qf38bRj9) | 2:17 |
+| 5 | [Nachgeschmack](https://open.spotify.com/track/0S15EgLEle4KhJvHce5Bls) | [fiora](https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE) | [Nachgeschmack](https://open.spotify.com/album/3jAzCv9K4nuQpLSqSHfI1S) | 2:10 |
 | 6 | [weltohnefarben](https://open.spotify.com/track/0H5hye7VY1TE4XnvzwUf68) | [laela](https://open.spotify.com/artist/6P2ykpNVv4VtvFijpIAEwF) | [Fragmente](https://open.spotify.com/album/34saAcCkHEJ3A25JpDxgRm) | 2:18 |
 | 7 | [ambivalent](https://open.spotify.com/track/7gDZP9lg3moTaYvBDvDJ8P) | [Vince](https://open.spotify.com/artist/1xMPDJvoiQdje0jZ88uqzV) | [ambivalent](https://open.spotify.com/album/1Y86OCfhthlTxQN8q2Fj61) | 1:53 |
 | 8 | [wann hast du zeit?](https://open.spotify.com/track/0fvAYtVN0yyfnLhXzPWWnC) | [SYDOW](https://open.spotify.com/artist/5mbkFxQCZwbv7p5h2S5GVl) | [wann hast du zeit?](https://open.spotify.com/album/5aC7qsRrqXW8ELbtbVcEFb) | 2:28 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Alkoholmarker](https://open.spotify.com/track/2g38XlFv5IdGZ9tT2Y50KY) | [TumirWeh](https://open.spotify.com/artist/0mK80Ptz7OGDPVkyGmVmbS) | [Alkoholmarker](https://open.spotify.com/album/5KCWxacSIYCPEzvR0yDjcI) | 3:25 |
 | 75 | [Levanto](https://open.spotify.com/track/5t9BLe2Z74dNmrV3QZ6qYJ) | [Udo West](https://open.spotify.com/artist/6LjOtJ9U1bUN331ChKrw8q) | [Ganz gewöhnliche Dinge](https://open.spotify.com/album/6ortCFyxjR6AyUMxaGKFxZ) | 3:22 |
 
-Snapshot ID: `AAAAAI0GKudF9RLNXpyV+sgZ71XiQm5P`
+Snapshot ID: `AAAAACJAJXHnzNlcNw0fTI3DiOnOSLW/`

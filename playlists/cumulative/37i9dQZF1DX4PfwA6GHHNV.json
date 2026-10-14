@@ -1890,7 +1890,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 93714,
       "name": "Ela Erra",
       "url": "https://open.spotify.com/track/79vdtGxxlcfXP8vhrM0jtL"
@@ -4360,6 +4360,32 @@
       "duration_ms": 200000,
       "name": "OUTRA VIBE",
       "url": "https://open.spotify.com/track/55lABBf5SmAsYupb0Lt5Ww"
+    },
+    {
+      "album": {
+        "name": "Fazendo A Minha (Deluxe)",
+        "url": "https://open.spotify.com/album/6YuTzlPQP2pR0ewsz1FsHJ"
+      },
+      "artists": [
+        {
+          "name": "Kako",
+          "url": "https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm"
+        },
+        {
+          "name": "Slaasty",
+          "url": "https://open.spotify.com/artist/5f1o3wuKLKC2X4qz3P18f1"
+        },
+        {
+          "name": "DJ JR No Beat",
+          "url": "https://open.spotify.com/artist/7eFJ773gGquYX3tKYa6ZUb"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145531,
+      "name": "Outra Vida",
+      "url": "https://open.spotify.com/track/0sjHWu6zXuG1cXwk1ktWyO"
     },
     {
       "album": {

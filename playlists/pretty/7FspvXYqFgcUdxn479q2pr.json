@@ -1,12 +1,12 @@
 {
   "description": "New dance music from Deep House to Future Rave. Refreshed Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  Cover: Joey London Style &amp; Pheelo",
-  "num_followers": 31329,
+  "num_followers": 31327,
   "original_name": "New Dance Music Friday",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAxLkG7nO6PcnoupQcJlonYzKK3ZNdH",
+  "snapshot_id": "AAAxL8zebTrqyQ3gbvUhRkoh2CZyAWin",
   "tracks": [
     {
       "added_at": "2026-10-08 22:00:03",
@@ -7171,6 +7171,26 @@
       "duration_ms": 164897,
       "name": "Addicted To Our Chemistry",
       "url": "https://open.spotify.com/track/2Fekdhq7wnbSp8uk8EtkE8"
+    },
+    {
+      "added_at": "2026-10-13 12:25:35",
+      "album": {
+        "name": "Take It Slow (Bullit)",
+        "url": "https://open.spotify.com/album/3Pd6Q22lKUjKnJ3Tysz26h"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Waterm\u00e4t",
+          "url": "https://open.spotify.com/artist/4a9sClW4YpYQE5jUMAWx5W"
+        }
+      ],
+      "duration_ms": 176941,
+      "name": "Take It Slow (Bullit)",
+      "url": "https://open.spotify.com/track/3d4xP3sUrLslwXjGsGdgSv"
     }
   ],
   "unique_name": "New Dance Music Friday",

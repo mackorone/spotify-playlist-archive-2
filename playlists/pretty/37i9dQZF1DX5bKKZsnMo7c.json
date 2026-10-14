@@ -1,12 +1,12 @@
 {
   "description": "Dramatic, theatrical pop: Grace Power it's your moment!",
-  "num_followers": 567833,
+  "num_followers": 567810,
   "original_name": "Limelight",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD0oddZ82+R190NWdhiJqJbg0nyo",
+  "snapshot_id": "AAAAAGQtYQtPSlN+d2bTaWnGWwwf0AlX",
   "tracks": [
     {
       "added_at": "2026-09-18 04:00:36",
@@ -157,6 +157,22 @@
       "url": "https://open.spotify.com/track/3zOYmiNOuyDL0ClxJcEJ0T"
     },
     {
+      "added_at": "2026-10-13 22:11:11",
+      "album": {
+        "name": "Expiration Dating",
+        "url": "https://open.spotify.com/album/6FFDFr43db7FFvrpOT6xAg"
+      },
+      "artists": [
+        {
+          "name": "Madelline",
+          "url": "https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL"
+        }
+      ],
+      "duration_ms": 180652,
+      "name": "Expiration Dating",
+      "url": "https://open.spotify.com/track/4RY8NabvRv6Y95x96asZbr"
+    },
+    {
       "added_at": "2026-07-31 04:00:20",
       "album": {
         "name": "Knight of Swords",
@@ -171,6 +187,26 @@
       "duration_ms": 159157,
       "name": "Knight of Swords",
       "url": "https://open.spotify.com/track/4zb9HntzQrJZzljjGSLCM2"
+    },
+    {
+      "added_at": "2026-10-13 22:11:11",
+      "album": {
+        "name": "The Tower",
+        "url": "https://open.spotify.com/album/046KDTMo6eo6LIfFBJKhWK"
+      },
+      "artists": [
+        {
+          "name": "Neoni",
+          "url": "https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5"
+        },
+        {
+          "name": "Lydia the Bard",
+          "url": "https://open.spotify.com/artist/4dYuygkzjqrehCNZMTjkNJ"
+        }
+      ],
+      "duration_ms": 181500,
+      "name": "The Tower",
+      "url": "https://open.spotify.com/track/5vBY4Mey3y3v7PL4skeMJ7"
     },
     {
       "added_at": "2026-09-04 04:02:26",
@@ -299,22 +335,6 @@
       "duration_ms": 212075,
       "name": "Lucky You're A Star",
       "url": "https://open.spotify.com/track/6ohOpO4diHtaf0EPtBpzFg"
-    },
-    {
-      "added_at": "2026-08-22 01:41:56",
-      "album": {
-        "name": "Orion (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/53JPasi27ftf9I3E83m8xa"
-      },
-      "artists": [
-        {
-          "name": "Karin Ann",
-          "url": "https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ"
-        }
-      ],
-      "duration_ms": 152352,
-      "name": "born to be",
-      "url": "https://open.spotify.com/track/4Etdr5XcKHRPQ1zy0x4f2K"
     },
     {
       "added_at": "2026-07-20 18:13:27",
@@ -547,22 +567,6 @@
       "duration_ms": 221000,
       "name": "Vampire at the Beach",
       "url": "https://open.spotify.com/track/4nDtxG33WsZKY34taNrgOR"
-    },
-    {
-      "added_at": "2026-05-29 04:02:54",
-      "album": {
-        "name": "Fallen Angel",
-        "url": "https://open.spotify.com/album/3ZLm8xE9pOYo3HRRI1pXbX"
-      },
-      "artists": [
-        {
-          "name": "Baby J",
-          "url": "https://open.spotify.com/artist/5UDfhBSz4ocUxrVjiBGFTK"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Fallen Angel",
-      "url": "https://open.spotify.com/track/194Q4Tsfip4DMYa8ZuS7Oc"
     },
     {
       "added_at": "2026-06-09 19:57:42",

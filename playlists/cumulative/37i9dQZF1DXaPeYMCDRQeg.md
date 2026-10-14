@@ -4,7 +4,7 @@
 
 > My love language is all of em, do all that $\#\*!
 
-549 songs - 1 day 9 hr 19 min
+550 songs - 1 day 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Already There](https://open.spotify.com/track/67MpXN05qxu09WaM98n6RD) | [Nesta](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx) | [Already There](https://open.spotify.com/album/2Yz7RFQXL1Ug3lkv2OXbgN) | 3:32 | 2021-12-15 | 2022-07-29 |
 | [Always Be My Baby](https://open.spotify.com/track/2aBxt229cbLDOvtL7Xbb9x) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:18 | 2024-01-31 |  |
 | [Always On Time](https://open.spotify.com/track/39w4Xgs8FvY2SJmZsHKn2K) | [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Pain Is Love](https://open.spotify.com/album/2iIIgsaTEtVjDhrV7HKDJC) | 4:04 | 2024-01-31 |  |
+| [AMERICAN DREAM](https://open.spotify.com/track/5nRFxKgguMpLT5Y5JC9386) | [Johnny Venus](https://open.spotify.com/artist/4Y9QKWtGSeL2NnVokmWAvz) | [THE 11TH HOUR](https://open.spotify.com/album/2yfx7jI0ibYIHXbvSPSsjB) | 2:51 | 2026-10-13 |  |
 | [Anniversary](https://open.spotify.com/track/6PViGgcsQhLPSkMxgoRWLl) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Tony! Toni! Tone'! Greatest Hits](https://open.spotify.com/album/1yoA6HcbdX23c4k0MXNq5g) | 4:31 | 2021-12-15 | 2023-02-11 |
 | [ART](https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:28 | 2024-06-03 |  |
 | [ASAP](https://open.spotify.com/track/6xSNxoqUErZbQ0QvMdbuDJ) | [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [ASAP](https://open.spotify.com/album/1xEQHJMmva5DqWvO0i7MKW) | 2:48 | 2026-01-30 | 2026-02-25 |

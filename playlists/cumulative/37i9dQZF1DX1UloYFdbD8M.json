@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Super Cool Indie Tracks from Gods Own Country\nCover: Ashley Milred",
+  "description": "Super Cool Indie Tracks from Gods Own Country\nCover: Eechuu",
   "name": "Malayalam Indie",
   "tracks": [
     {
@@ -2704,7 +2704,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 184324,
       "name": "Enikkayi",
       "url": "https://open.spotify.com/track/1kX0hIdABpMCsYKHLiX5TP"
@@ -5032,7 +5032,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 168383,
       "name": "Kannondu",
       "url": "https://open.spotify.com/track/34ZLhArQEPt66YcZTl0ozj"
@@ -6013,6 +6013,28 @@
     },
     {
       "album": {
+        "name": "Magarani",
+        "url": "https://open.spotify.com/album/21aJ0uF7rmYS4KOmh9MZTZ"
+      },
+      "artists": [
+        {
+          "name": "Farhash",
+          "url": "https://open.spotify.com/artist/1ItD3Wb7aZHGyfgNaFU1zq"
+        },
+        {
+          "name": "Ashley Milred",
+          "url": "https://open.spotify.com/artist/0XtbBAgEHkxh36kqmHFXyA"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173714,
+      "name": "Magarani",
+      "url": "https://open.spotify.com/track/3bIIxKeP66JISKqsL0vocr"
+    },
+    {
+      "album": {
         "name": "Maharani (From \"AYAKTIHIS\")",
         "url": "https://open.spotify.com/album/5V7Cqi80blyOQV1U8MZhCh"
       },
@@ -6690,7 +6712,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 171339,
       "name": "Minnal",
       "url": "https://open.spotify.com/track/4H0OZy4tS8NozQbyXttkBl"
@@ -7238,6 +7260,24 @@
       "duration_ms": 136020,
       "name": "Nammalal Chernnoree Lokam",
       "url": "https://open.spotify.com/track/1iqCmDqwNhnAh8XjcZyCQO"
+    },
+    {
+      "album": {
+        "name": "Narayana Narayana",
+        "url": "https://open.spotify.com/album/19kvuez6W6VIxddOtbGHbA"
+      },
+      "artists": [
+        {
+          "name": "Gowry Lekshmi",
+          "url": "https://open.spotify.com/artist/4Te1MOr4Y7E4lMvaeuyEjR"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287222,
+      "name": "Narayana Narayana",
+      "url": "https://open.spotify.com/track/5uCQ3xl1mH7idU4rie8V5A"
     },
     {
       "album": {

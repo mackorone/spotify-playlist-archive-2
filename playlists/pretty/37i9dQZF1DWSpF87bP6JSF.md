@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSpF87bP6JSF.md) - [plain]
 
 > Los éxitos del pop latino, con Ingratax en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,604,056 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,603,981 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [BONSAI](https://open.spotify.com/track/5UFIoYQw6P0qUVjz8zFele) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [BONSAI](https://open.spotify.com/album/3Iax81L8R4DIwP0EtkLNEi) | 2:54 |
-| 2 | [BbY WOW](https://open.spotify.com/track/3h5T5JypYU7huFiVYhv1dr) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 3:45 |
-| 3 | [Puñaladas \- Remix](https://open.spotify.com/track/37A4xk6GFrKZY1X71NYwMR) | [Lauta](https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Amigo de Artistas](https://open.spotify.com/artist/7j6lJVKmCFlcXtfMDf57gP), [Tote](https://open.spotify.com/artist/4JvhKLSrtJy7jAWYaatd64) | [Puñaladas \(Remix\)](https://open.spotify.com/album/4PoBGDfAuUZXpWBj1cc8Tz) | 3:26 |
+| 1 | [BbY WOW](https://open.spotify.com/track/3h5T5JypYU7huFiVYhv1dr) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 3:45 |
+| 2 | [Puñaladas \- Remix](https://open.spotify.com/track/37A4xk6GFrKZY1X71NYwMR) | [Lauta](https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Amigo de Artistas](https://open.spotify.com/artist/7j6lJVKmCFlcXtfMDf57gP), [Tote](https://open.spotify.com/artist/4JvhKLSrtJy7jAWYaatd64) | [Puñaladas \(Remix\)](https://open.spotify.com/album/4PoBGDfAuUZXpWBj1cc8Tz) | 3:26 |
+| 3 | [BONSAI](https://open.spotify.com/track/5UFIoYQw6P0qUVjz8zFele) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [BONSAI](https://open.spotify.com/album/3Iax81L8R4DIwP0EtkLNEi) | 2:54 |
 | 4 | [Ahí](https://open.spotify.com/track/6DoUDG1GJrJf6eGQLUBBnm) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 2:56 |
 | 5 | [COSITA LINDA](https://open.spotify.com/track/1fDjHyaZnNCPo9QsuFdQVO) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [COSITA LINDA](https://open.spotify.com/album/6dyQjzZ1vQWxU28edG6AOA) | 2:19 |
 | 6 | [Me Mata](https://open.spotify.com/track/2nqwPkQNHUBMlxKRsnWMbY) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Me Mata](https://open.spotify.com/album/6C4UXMBQulZpRfB3DwH89C) | 3:06 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSpF87bP6JSF.md) - [plain]
 | 45 | [Tu lunar](https://open.spotify.com/track/6IVFgWwTxe3pBwNqC1Mpiw) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Tu lunar](https://open.spotify.com/album/5n5GfmjH1zHT8htiBsjKOT) | 2:18 |
 | 46 | [Solo Fumo Cuando Bebo](https://open.spotify.com/track/33o9jl86HWzk8LQ5SEDdln) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Solo Fumo Cuando Bebo](https://open.spotify.com/album/3hyEu4vfr8JKawzreCFRTW) | 2:49 |
 | 47 | [Sexy Magic \(from GTAVI: The Album\)](https://open.spotify.com/track/62hqNk13CuFLOpCw1cPMAF) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Etienne de Crécy ](https://open.spotify.com/artist/78YRbJhMi5kXKruiQGCJo7), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [Sexy Magic \(from GTAVI: The Album\)](https://open.spotify.com/album/0CkBYPmr1j7EEWSQMHDBLg) | 3:15 |
-| 48 | [hIGhLIGhTS](https://open.spotify.com/track/6sgXbGZdNtICgMOTbCgQWm) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [hIGhLIGhTS](https://open.spotify.com/album/2ih1Rsu406R41gFcOp8YZK) | 2:06 |
+| 48 | [hIGhLIGhTS](https://open.spotify.com/track/6sgXbGZdNtICgMOTbCgQWm) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [hIGhLIGhTS](https://open.spotify.com/album/2ih1Rsu406R41gFcOp8YZK) | 2:08 |
 | 49 | [deditos cruzados](https://open.spotify.com/track/45EtLh8CJUOG4GBOVeX4Fx) | [RIZA](https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [deditos cruzados](https://open.spotify.com/album/2HBiV0fwniqS0yCV8ypE2j) | 3:25 |
 | 50 | [Quijote](https://open.spotify.com/track/0qqRX2rp7vuwrNXnBx3X53) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Eternos](https://open.spotify.com/album/556oquvE8lpKicIKB8s7yw) | 4:03 |
 
-Snapshot ID: `AAAAAGxysSXVxBIqWTVUX9LED08SpNMs`
+Snapshot ID: `AAAAABpBGKI6KIk60kE3r6eaPthITP+H`

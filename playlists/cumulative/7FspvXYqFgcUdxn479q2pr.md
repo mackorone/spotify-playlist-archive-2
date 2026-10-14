@@ -4,7 +4,7 @@
 
 > New dance music from Deep House to Future Rave\. Refreshed Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  Cover: Joey London Style &amp; Pheelo
 
-1,287 songs - 2 day 17 hr 8 min
+1,288 songs - 2 day 17 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1063,6 +1063,7 @@
 | [Taambdi Chaamdi \- Vish3sh JerseyClub Remix](https://open.spotify.com/track/0yallEMWAtgLciZwjcHSIk) | [Kratex](https://open.spotify.com/artist/3Gowc3dedLQgQAt4y0gPBo), [Shreyas](https://open.spotify.com/artist/65qLuo5zSTqg8Qb17OCnLu), [Vish3sh](https://open.spotify.com/artist/3llQP9vqxnKp4hmZD6168C) | [Taambdi Chaamdi \- Vish3sh JerseyClub Remix](https://open.spotify.com/album/5D212aZSqIOtK2Y4khG7Eg) | 2:22 | 2024-08-19 | 2024-08-31 |
 | [Take It Slow](https://open.spotify.com/track/617SoNO2LNsU6lTSN3t3t8) | [Alias Club](https://open.spotify.com/artist/7iBfLTLOnJIArlk3IODV95) | [Take It Slow](https://open.spotify.com/album/5lk4rie1rNS4GMw0s0Mjga) | 3:10 | 2024-07-26 | 2024-08-02 |
 | [Take It Slow \(Bullit\)](https://open.spotify.com/track/3WrDF5bzGviLKHizs6yj8j) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Watermät](https://open.spotify.com/artist/4a9sClW4YpYQE5jUMAWx5W) | [Take It Slow \(Bullit\)](https://open.spotify.com/album/5xIwMpVCiIrvWPBHmPVmOk) | 2:56 | 2026-08-14 |  |
+| [Take It Slow \(Bullit\)](https://open.spotify.com/track/3d4xP3sUrLslwXjGsGdgSv) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Watermät](https://open.spotify.com/artist/4a9sClW4YpYQE5jUMAWx5W) | [Take It Slow \(Bullit\)](https://open.spotify.com/album/3Pd6Q22lKUjKnJ3Tysz26h) | 2:56 | 2026-10-13 |  |
 | [Take Me](https://open.spotify.com/track/6lgNrkHi78NwTrrzEQJGPV) | [Greg Welsh](https://open.spotify.com/artist/3RwuZdw5zKqMhspsKibacf) | [Take Me](https://open.spotify.com/album/390Ivb6Tcumox4lrkMXuSl) | 4:05 | 2024-07-08 | 2024-07-13 |
 | [Take Me Away](https://open.spotify.com/track/1cs1kaN1LzB6bthOFH01Q2) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [longstoryshort](https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl) | [Take Me Away](https://open.spotify.com/album/3w0ZKUzyBG3hkwvV3RcOAw) | 2:26 | 2024-08-01 | 2024-08-09 |
 | [Take Me Away \(feat\. 4 Strings\)](https://open.spotify.com/track/6uwZTxW1wBkWNSAqd1noW8) | [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV), [Dr Phunk](https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk), [4 Strings](https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id) | [Take Me Away \(feat\. 4 Strings\)](https://open.spotify.com/album/3vOYtOP8y4n972n5YFZL0O) | 3:02 | 2024-05-23 | 2024-06-01 |

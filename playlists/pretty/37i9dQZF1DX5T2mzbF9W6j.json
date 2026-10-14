@@ -1,6 +1,6 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 113063,
+  "num_followers": 113061,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-10-02 15:28:11",
       "album": {
-        "name": "VOICE",
-        "url": "https://open.spotify.com/album/1jla2nToQeZX2xHYxS8cfo"
-      },
-      "artists": [
-        {
-          "name": "Margaret",
-          "url": "https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ"
-        }
-      ],
-      "duration_ms": 148640,
-      "name": "Mog\u0142e\u015b tu by\u0107",
-      "url": "https://open.spotify.com/track/040ISsaRJlzaQWpqBo81Dx"
-    },
-    {
-      "added_at": "2026-10-02 15:28:11",
-      "album": {
         "name": "Tu M\u00f3j Dom",
         "url": "https://open.spotify.com/album/6mUl6kLv57WEfwkmnIoFXB"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 194630,
       "name": "Moment",
       "url": "https://open.spotify.com/track/5Z1RT5LfXWW7xTiKmYmKkX"
+    },
+    {
+      "added_at": "2026-10-02 15:28:11",
+      "album": {
+        "name": "VOICE",
+        "url": "https://open.spotify.com/album/1jla2nToQeZX2xHYxS8cfo"
+      },
+      "artists": [
+        {
+          "name": "Margaret",
+          "url": "https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ"
+        }
+      ],
+      "duration_ms": 148640,
+      "name": "Mog\u0142e\u015b tu by\u0107",
+      "url": "https://open.spotify.com/track/040ISsaRJlzaQWpqBo81Dx"
     },
     {
       "added_at": "2026-10-02 15:28:11",
@@ -919,6 +919,22 @@
     {
       "added_at": "2026-10-02 15:28:11",
       "album": {
+        "name": "TAK TAK",
+        "url": "https://open.spotify.com/album/67Es1oaMCYOJ5sxffNmGlV"
+      },
+      "artists": [
+        {
+          "name": "Krzysztof Zalewski",
+          "url": "https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK"
+        }
+      ],
+      "duration_ms": 204884,
+      "name": "TAK TAK",
+      "url": "https://open.spotify.com/track/1z6OWmVrMRx32kwDOgtGA9"
+    },
+    {
+      "added_at": "2026-10-02 15:28:11",
+      "album": {
         "name": "Terapia dla par",
         "url": "https://open.spotify.com/album/3pNnMv1yyKgUB5XhBr45De"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 241395,
       "name": "Terapia dla par",
       "url": "https://open.spotify.com/track/5OrUXKWrNXgfI7iLAYymbc"
-    },
-    {
-      "added_at": "2026-10-02 15:28:11",
-      "album": {
-        "name": "TAK TAK",
-        "url": "https://open.spotify.com/album/67Es1oaMCYOJ5sxffNmGlV"
-      },
-      "artists": [
-        {
-          "name": "Krzysztof Zalewski",
-          "url": "https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK"
-        }
-      ],
-      "duration_ms": 204884,
-      "name": "TAK TAK",
-      "url": "https://open.spotify.com/track/1z6OWmVrMRx32kwDOgtGA9"
     },
     {
       "added_at": "2026-10-02 15:28:11",

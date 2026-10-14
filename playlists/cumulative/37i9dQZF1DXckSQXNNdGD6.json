@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "La banda sonora de tu orgullo. Foto: Yoly Saa.",
+  "description": "La banda sonora de tu orgullo. Foto: Dear Joanne.",
   "name": "Glow Espa\u00f1a",
   "tracks": [
     {
@@ -403,6 +403,24 @@
     },
     {
       "album": {
+        "name": "Amiga Date Cuenta",
+        "url": "https://open.spotify.com/album/33N7FXx1MlXodnPkCoNDNn"
+      },
+      "artists": [
+        {
+          "name": "MARLENA",
+          "url": "https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142516,
+      "name": "Amiga Date Cuenta",
+      "url": "https://open.spotify.com/track/4ydC91kRqtm2ZVVcC77cWz"
+    },
+    {
+      "album": {
         "name": "SKXLNSOXED",
         "url": "https://open.spotify.com/album/7fKBNAEVgL5qk18XssWwn1"
       },
@@ -454,7 +472,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 178274,
       "name": "Ansiedad",
       "url": "https://open.spotify.com/track/0VjbhTzBNUNFWeIS2fy0Es"
@@ -661,6 +679,28 @@
     },
     {
       "album": {
+        "name": "A\u00c9REO",
+        "url": "https://open.spotify.com/album/6PEgDdQksRav7vosjgAxtl"
+      },
+      "artists": [
+        {
+          "name": "Jimena Amarillo",
+          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
+        },
+        {
+          "name": "Richard Houghten",
+          "url": "https://open.spotify.com/artist/1CsZ0ihKPWBDUERlQt8ekr"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161100,
+      "name": "A\u00c9REO",
+      "url": "https://open.spotify.com/track/6ZxC73SVxO8BmDMqYwuESq"
+    },
+    {
+      "album": {
         "name": "B2B",
         "url": "https://open.spotify.com/album/3mikcTyYjM5eKBjdrOaPfT"
       },
@@ -705,6 +745,28 @@
     },
     {
       "album": {
+        "name": "Badda",
+        "url": "https://open.spotify.com/album/1VRMMpvRpvknEUhDI60qDq"
+      },
+      "artists": [
+        {
+          "name": "Lapili",
+          "url": "https://open.spotify.com/artist/2LLoV50BjWiUio4K2t4fGN"
+        },
+        {
+          "name": "Los del Control",
+          "url": "https://open.spotify.com/artist/3Nbij6lwrwz0XB7HubxdN2"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139200,
+      "name": "Badda",
+      "url": "https://open.spotify.com/track/5p4We7y6YF1ciG8gLsOE2d"
+    },
+    {
+      "album": {
         "name": "Bailando Con Lobas",
         "url": "https://open.spotify.com/album/5Ix5Fs5vHOBG7ioYC0UDQg"
       },
@@ -720,7 +782,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 218234,
       "name": "Bailando Con Lobas",
       "url": "https://open.spotify.com/track/1A0jF4D7AgHgQgFHHuvlOy"
@@ -810,7 +872,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 187091,
       "name": "Bichifokel",
       "url": "https://open.spotify.com/track/2vm7BVVuxtrEGNa9sV3ceI"
@@ -836,7 +898,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 162789,
       "name": "Bollera",
       "url": "https://open.spotify.com/track/4xHXFX1nXCNGi6pRUKYkub"
@@ -1176,7 +1238,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-04",
+      "date_removed": null,
       "duration_ms": 131376,
       "name": "Con Altura",
       "url": "https://open.spotify.com/track/4Hz4ZddemX2Ij985XRxC2q"
@@ -1741,6 +1803,28 @@
     },
     {
       "album": {
+        "name": "Desconocida",
+        "url": "https://open.spotify.com/album/1syi2G4wHDHxRr7BDDbRzv"
+      },
+      "artists": [
+        {
+          "name": "Joanna Crass",
+          "url": "https://open.spotify.com/artist/5NH7AZYpUjd9UL1vR3KMzD"
+        },
+        {
+          "name": "SAZZA",
+          "url": "https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Desconocida",
+      "url": "https://open.spotify.com/track/7bYigOGZj0kB0Gop3s5JKo"
+    },
+    {
+      "album": {
         "name": "DIENTES",
         "url": "https://open.spotify.com/album/4kOJMB8xMLDScVwLVYFaYK"
       },
@@ -1817,6 +1901,24 @@
     },
     {
       "album": {
+        "name": "Diva Suicida",
+        "url": "https://open.spotify.com/album/0HQOPknOVRqWWqZoiHiEdL"
+      },
+      "artists": [
+        {
+          "name": "Luna Ki",
+          "url": "https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115179,
+      "name": "Diva Suicida",
+      "url": "https://open.spotify.com/track/4eR0zUbiEKVzGpXGV3BZck"
+    },
+    {
+      "album": {
         "name": "Dolor (No Compares)",
         "url": "https://open.spotify.com/album/1LRfWvTPSJR6x4Thyy7znk"
       },
@@ -1882,7 +1984,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 187634,
       "name": "D\u00e9jalo Ir",
       "url": "https://open.spotify.com/track/3dwNV44galFE5WawZyK9Z7"
@@ -2254,7 +2356,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 170360,
       "name": "favorita de la vida",
       "url": "https://open.spotify.com/track/3Ai6dySKDJj7M9D7oz1Yxx"
@@ -2479,6 +2581,28 @@
     },
     {
       "album": {
+        "name": "DANDO CLASE",
+        "url": "https://open.spotify.com/album/0jaKpATjABClztaJtfH12s"
+      },
+      "artists": [
+        {
+          "name": "Kercho",
+          "url": "https://open.spotify.com/artist/2Dg9RuLl8nw2gkoirqZQkR"
+        },
+        {
+          "name": "Benzie",
+          "url": "https://open.spotify.com/artist/3eohCag0W34l6pN5g3woRS"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195153,
+      "name": "Golpeo",
+      "url": "https://open.spotify.com/track/3pyEWCK9U4zgwMI08MdRBy"
+    },
+    {
+      "album": {
         "name": "Gritando Amor",
         "url": "https://open.spotify.com/album/76QEBMEFhoNBb8EWIjiTBY"
       },
@@ -2538,7 +2662,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 159026,
       "name": "Gu\u00e1rdame un sitio",
       "url": "https://open.spotify.com/track/6BvLC6nkFc5NMxarhEo5cy"
@@ -3191,6 +3315,24 @@
     },
     {
       "album": {
+        "name": "LA LUZ QUE NO SE APAGA",
+        "url": "https://open.spotify.com/album/5q2QkhiEkL0dVpjOxyLbtJ"
+      },
+      "artists": [
+        {
+          "name": "Safree",
+          "url": "https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "LA LUZ QUE NO SE APAGA",
+      "url": "https://open.spotify.com/track/1a0ub8scX8B2lRiVUocBpQ"
+    },
+    {
+      "album": {
         "name": "La Magia de Tu Melena",
         "url": "https://open.spotify.com/album/5skve00VQ4XaOUQqqD3XRw"
       },
@@ -3228,6 +3370,24 @@
       "duration_ms": 274887,
       "name": "La M\u00e1s Guapa (feat. Las Cheerlerdas)",
       "url": "https://open.spotify.com/track/4ZZDNasBm2sflO2B8VKghu"
+    },
+    {
+      "album": {
+        "name": "La Nieve (Original song from the film La Bola Negra)",
+        "url": "https://open.spotify.com/album/6dvL5fF1fokV4nwgaw9j2i"
+      },
+      "artists": [
+        {
+          "name": "Guitarricadelafuente",
+          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244197,
+      "name": "La Nieve - Original song from the film La Bola Negra",
+      "url": "https://open.spotify.com/track/6W4fSGsqNmyPTYo29rJ50z"
     },
     {
       "album": {
@@ -3430,7 +3590,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 203586,
       "name": "Lesbian Garros",
       "url": "https://open.spotify.com/track/3xW7zApfPMvHYumqN4ByoC"
@@ -3576,6 +3736,28 @@
       "duration_ms": 200853,
       "name": "Los que me salvaron",
       "url": "https://open.spotify.com/track/4xY1WAvXeGrsB3dA20kxJr"
+    },
+    {
+      "album": {
+        "name": "Los rumores eran ciertos",
+        "url": "https://open.spotify.com/album/1UzLV5aqowdADpEGM99AkU"
+      },
+      "artists": [
+        {
+          "name": "Venga, Bea",
+          "url": "https://open.spotify.com/artist/1FV2X3n9fruTFxyjLJA6cM"
+        },
+        {
+          "name": "Jordana B.",
+          "url": "https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163124,
+      "name": "Los rumores eran ciertos",
+      "url": "https://open.spotify.com/track/2znmQg6PhbUBgvlUASFAyY"
     },
     {
       "album": {
@@ -3910,7 +4092,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-11",
+      "date_removed": null,
       "duration_ms": 180986,
       "name": "Me tir\u00e9 a un Facha",
       "url": "https://open.spotify.com/track/1rqVMhdUJPYvnXF7xHlqWY"
@@ -3990,6 +4172,24 @@
       "duration_ms": 244373,
       "name": "Mi coraz\u00f3n",
       "url": "https://open.spotify.com/track/0B41ToR8B3Y9LgzAp8tNhx"
+    },
+    {
+      "album": {
+        "name": "mi vocablo",
+        "url": "https://open.spotify.com/album/1KnRJGR5GhoGZDotO7ANIO"
+      },
+      "artists": [
+        {
+          "name": "RUSLANA",
+          "url": "https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151999,
+      "name": "mi vocablo",
+      "url": "https://open.spotify.com/track/1durpNnxDajO8jUKJ1eRUW"
     },
     {
       "album": {
@@ -4084,7 +4284,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 170721,
       "name": "Mujer\u00f3n",
       "url": "https://open.spotify.com/track/5vL9Gs5JfUAB0fcwhRJosC"
@@ -4250,7 +4450,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 177078,
       "name": "Nadie Se Muere De Amor",
       "url": "https://open.spotify.com/track/4I0dLeI0AQvec7R8J8o5UR"
@@ -4290,6 +4490,24 @@
       "duration_ms": 183529,
       "name": "Negras Malas, J\u00f3venes y Atormentadas",
       "url": "https://open.spotify.com/track/2PbcErqw3k0KH6tvriBMUL"
+    },
+    {
+      "album": {
+        "name": "Ni\u00f1o gay",
+        "url": "https://open.spotify.com/album/1k2rldyuncylhaaCwj8HXm"
+      },
+      "artists": [
+        {
+          "name": "FUTURACHICAPOP",
+          "url": "https://open.spotify.com/artist/5MSONJTkfk8OSFQYgpz3OJ"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160625,
+      "name": "Ni\u00f1o gay",
+      "url": "https://open.spotify.com/track/3unzx1Vwd1Nf7S47p5fXPs"
     },
     {
       "album": {
@@ -4702,7 +4920,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 129230,
       "name": "OTA",
       "url": "https://open.spotify.com/track/3FjDHcmwRk8gSEfyjwMBnC"
@@ -4746,6 +4964,28 @@
       "duration_ms": 169821,
       "name": "otro verano sin decirte tq",
       "url": "https://open.spotify.com/track/3X8eTBMEHnjmZWp6KeNbCM"
+    },
+    {
+      "album": {
+        "name": "P0RN0",
+        "url": "https://open.spotify.com/album/6B0R5o69CqabFAfU3rIeeL"
+      },
+      "artists": [
+        {
+          "name": "Metrika",
+          "url": "https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy"
+        },
+        {
+          "name": "Chesyprod",
+          "url": "https://open.spotify.com/artist/3dSQm2WdaqG31BS3DylQFD"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138947,
+      "name": "P0RN0",
+      "url": "https://open.spotify.com/track/5LMy35rxqq4OG4VTWRMtz3"
     },
     {
       "album": {
@@ -5476,7 +5716,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-08",
+      "date_removed": null,
       "duration_ms": 191937,
       "name": "Put\u00f3n Verbenero",
       "url": "https://open.spotify.com/track/4J1wiCJoD62Wsibu8We17z"
@@ -5738,7 +5978,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 190086,
       "name": "Ritmo de la noche",
       "url": "https://open.spotify.com/track/5CnUSPfCLU0lpktXeSv6yo"
@@ -5760,6 +6000,24 @@
       "duration_ms": 161059,
       "name": "ROADTRIP",
       "url": "https://open.spotify.com/track/1WZfs7Pl5zlvsqv8yH3RGC"
+    },
+    {
+      "album": {
+        "name": "Rom\u00e1ntico",
+        "url": "https://open.spotify.com/album/5m9KRPp1ghFcvtJMqf1HeT"
+      },
+      "artists": [
+        {
+          "name": "Cari\u00f1o",
+          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170500,
+      "name": "Rom\u00e1ntico",
+      "url": "https://open.spotify.com/track/56NhDFVZD3GPUDikDtFkEU"
     },
     {
       "album": {
@@ -5796,7 +6054,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-09",
+      "date_removed": null,
       "duration_ms": 151570,
       "name": "Sabalenka",
       "url": "https://open.spotify.com/track/6IZUskjG7bR12G0MPo4IfN"
@@ -5944,7 +6202,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 154136,
       "name": "se sube la falda",
       "url": "https://open.spotify.com/track/4e9CBjJ4QlXdi37JmSdBC7"
@@ -6300,7 +6558,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 174135,
       "name": "S\u00c1FICA S\u00c1DICA",
       "url": "https://open.spotify.com/track/26dm2pTMho0XNBf9rNlfZq"
@@ -6778,7 +7036,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 156150,
       "name": "UN TBT ;) (feat. Fraaninii, Beefsoup)",
       "url": "https://open.spotify.com/track/6WpGzioKehmNWFYc3xR8Wy"
@@ -6934,7 +7192,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 151849,
       "name": "Virgen de Magall\u00f3n",
       "url": "https://open.spotify.com/track/6isno2Q3cVT0XA9Adnkanz"
@@ -7082,7 +7340,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 184970,
       "name": "Yo quiero un affaire",
       "url": "https://open.spotify.com/track/3z9X4FONGlgEjttQHW2gLV"

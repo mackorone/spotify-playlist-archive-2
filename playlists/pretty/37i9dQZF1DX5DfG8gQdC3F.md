@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > The latest from Charlotte Cardin, Grimes, Remi Wolf, Gunna, Cardi B, Slayyyter, Troye Sivan, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 598,857 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 598,807 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 77 | [SOdA](https://open.spotify.com/track/2fKrES1nCe7ZRdmsrCQCnJ) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [SOdA](https://open.spotify.com/album/6K4bEAZKn7SvOy7vtcf9fh) | 2:32 |
 | 78 | [WEAPONS](https://open.spotify.com/track/25rKpL9Ckhb56hhPKF6ylf) | [Sara Diamond](https://open.spotify.com/artist/4azg4dtpH6PiewGHFzQEj0) | [WEAPONS](https://open.spotify.com/album/02z4z6swBetgQqEGjVSo7E) | 2:53 |
 | 79 | [Location](https://open.spotify.com/track/6k15cYdLOjmEMSWHHCArUj) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Location](https://open.spotify.com/album/3Kpv3BRmK2PGeGPuvToFrh) | 2:34 |
-| 80 | [Way Too Much](https://open.spotify.com/track/5ugBXrVSfcQK66D4s6FRSe) | [Mez](https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Deante' Hitchcock](https://open.spotify.com/artist/5REHfa3YDopGOzrxwTsPvH) | [Way Too Much](https://open.spotify.com/album/1s9nf4fPpZk9M9uPaA7Yfb) | 4:03 |
+| 80 | [Way Too Much](https://open.spotify.com/track/5ugBXrVSfcQK66D4s6FRSe) | [Mez](https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6), [Deante' Hitchcock](https://open.spotify.com/artist/5REHfa3YDopGOzrxwTsPvH), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Way Too Much](https://open.spotify.com/album/1s9nf4fPpZk9M9uPaA7Yfb) | 4:03 |
 | 81 | [Sweetgrass On The Dash](https://open.spotify.com/track/0T1W65IWttlfznUvNTNCCn) | [Drezus](https://open.spotify.com/artist/08G2YWw73h9tgNN1CcqTOZ) | [Nagamo](https://open.spotify.com/album/77m0ysAphlg39Jnc6CcP92) | 2:55 |
 | 82 | [Ironía](https://open.spotify.com/track/7i9wOqXAvvzjvKH0NPdJWR) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [RRRomeo](https://open.spotify.com/album/2tKRKPfHSnY9gXUbO7dO2F) | 5:15 |
 | 83 | [Bug](https://open.spotify.com/track/30G2j91d9mA5VLNU7PsQGw) | [Gliiico](https://open.spotify.com/artist/0ZNWpCvfaeqJo4sbjlBUmK) | [The Veil \(Deluxe\)](https://open.spotify.com/album/40PLdArhWuT0qaA15yEq7n) | 3:09 |

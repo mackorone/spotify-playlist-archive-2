@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 
 > 
 
-[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 32,028 likes - 98 songs - 5 hr 59 min
+[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 32,029 likes - 102 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,5 +106,9 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 | 96 | [Houston](https://open.spotify.com/track/1O1cqCZMZmtxVV4C8ej03i) | [Ciarán](https://open.spotify.com/artist/5HgoNOsxY7EPHk2MvsECfc) | [Houston](https://open.spotify.com/album/3T1BwJ9nC5UVAPXBhDtr2Q) | 3:43 |
 | 97 | [Moving at Light Speed](https://open.spotify.com/track/6jEO5RmiesaiY7zlQDoHq4) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Button Masher](https://open.spotify.com/artist/3p0OtpbgE6a46IBMirYCe3) | [Moving at Light Speed](https://open.spotify.com/album/1iytMWtFrdmv0koG2f6r8L) | 1:47 |
 | 98 | [Ironía](https://open.spotify.com/track/7i9wOqXAvvzjvKH0NPdJWR) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [RRRomeo](https://open.spotify.com/album/2tKRKPfHSnY9gXUbO7dO2F) | 5:15 |
+| 99 | [Lost in the View](https://open.spotify.com/track/3Ni8Ttg0e947jzRD217ZEY) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Lost in the View](https://open.spotify.com/album/1vpGoAyG0cM09957pdjc02) | 4:14 |
+| 100 | [Staring at the Sun](https://open.spotify.com/track/2uVGeSqlfAZnF15koha3HY) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA) | [Lost in the View](https://open.spotify.com/album/1vpGoAyG0cM09957pdjc02) | 3:32 |
+| 101 | [Never Get Enough](https://open.spotify.com/track/7D0otIBdh3MwgZRirheB1C) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Lost in the View](https://open.spotify.com/album/1vpGoAyG0cM09957pdjc02) | 3:55 |
+| 102 | [Is It Over Now?](https://open.spotify.com/track/50M4j3tQNa1K6OVq1ZLva0) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Lost in the View](https://open.spotify.com/album/1vpGoAyG0cM09957pdjc02) | 3:39 |
 
-Snapshot ID: `AAASNKqe6oS8wquW12D1wcBGBqJv9Y7S`
+Snapshot ID: `AAASNdXW1fIBZHfVwUGo1T+BObkqfOiT`

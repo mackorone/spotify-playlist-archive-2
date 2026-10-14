@@ -1,12 +1,12 @@
 {
   "description": "These are some independent alternative rock bands you need to hear. Updated weekly.",
-  "num_followers": 889,
+  "num_followers": 900,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAD91DQTXpz9CeNgY/cuvpMWbbzBZ3u",
+  "snapshot_id": "AAAD+dZTVTBZBW7g1XvlhV/dnSXRUmfT",
   "tracks": [
     {
       "added_at": "2026-02-16 17:21:01",
@@ -1247,6 +1247,38 @@
       "duration_ms": 313000,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/6VNJ3lVUQe1fxE0Xj0KHGq"
+    },
+    {
+      "added_at": "2026-10-13 22:15:13",
+      "album": {
+        "name": "All That Glitters",
+        "url": "https://open.spotify.com/album/4rcRbeJKS242AHZCCIwqbg"
+      },
+      "artists": [
+        {
+          "name": "Jess & The Dropouts",
+          "url": "https://open.spotify.com/artist/7CsN7EwwsGjyisVwjiSdKD"
+        }
+      ],
+      "duration_ms": 203750,
+      "name": "All That Glitters",
+      "url": "https://open.spotify.com/track/0nbwTQWA3TxU9WzQE7uVwp"
+    },
+    {
+      "added_at": "2026-10-13 22:19:14",
+      "album": {
+        "name": "Enough",
+        "url": "https://open.spotify.com/album/25JEyZBFuByN6mJgvaGVe1"
+      },
+      "artists": [
+        {
+          "name": "Eliza G",
+          "url": "https://open.spotify.com/artist/5OABUFa0sKo2fj5sMCVAk4"
+        }
+      ],
+      "duration_ms": 181472,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/58qcYoVSzf5Pvn2fGBiqaz"
     }
   ],
   "unique_name": "Unsigned Alternative Rock",

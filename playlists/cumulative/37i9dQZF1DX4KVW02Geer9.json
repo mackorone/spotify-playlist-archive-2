@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u30af\u30ed\u30b9\u30aa\u30fc\u30d0\u30fc\u30fb\u30b8\u30e3\u30ba\u306e\u5148\u99c6\u8005\u3001\u66f4\u306b\u6b21\u4e16\u4ee3\u306e\u30b7\u30fc\u30f3\u306e\u6700\u5148\u7aef\u306b\u7acb\u3064\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u66f2\u3092\u3001\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: \u30e1\u30a4\u30fb\u30b7\u30e2\u30cd\u30b9",
+  "description": "\u30af\u30ed\u30b9\u30aa\u30fc\u30d0\u30fc\u30fb\u30b8\u30e3\u30ba\u306e\u5148\u99c6\u8005\u3001\u66f4\u306b\u6b21\u4e16\u4ee3\u306e\u30b7\u30fc\u30f3\u306e\u6700\u5148\u7aef\u306b\u7acb\u3064\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u66f2\u3092\u3001\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: \u6885\u4e95\u7f8e\u54b2",
   "name": "X-Over \u30b8\u30e3\u30ba!",
   "tracks": [
     {
@@ -543,6 +543,24 @@
     },
     {
       "album": {
+        "name": "An Ordinary Dance for Ghosts",
+        "url": "https://open.spotify.com/album/6W8tZkgU76bNk6TnjTnmVX"
+      },
+      "artists": [
+        {
+          "name": "tsuqiyomu",
+          "url": "https://open.spotify.com/artist/0hwEAShEVaObGI3FcfLx0b"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275742,
+      "name": "An Ordinary Dance for Ghosts",
+      "url": "https://open.spotify.com/track/3eKnGdxblIEDh4undUyDBN"
+    },
+    {
+      "album": {
         "name": "The Smooth Sounds of Tres Leches, LHCC Mart Vol. 1",
         "url": "https://open.spotify.com/album/2Dn0m6g80esmI4HJ9URGOR"
       },
@@ -580,6 +598,32 @@
       "duration_ms": 269813,
       "name": "Another New Day - Little Big Beat Studio Live Session",
       "url": "https://open.spotify.com/track/1hh06VO8rHnqp6sFRvkziz"
+    },
+    {
+      "album": {
+        "name": "Another Night (It's Just) ft. Theo Croker, Daru Jones, Oli Rockberger",
+        "url": "https://open.spotify.com/album/0DYW8xek5shDjDAla1Hv7i"
+      },
+      "artists": [
+        {
+          "name": "China Moses",
+          "url": "https://open.spotify.com/artist/2KqBple0Yu8pssNGNvWNmV"
+        },
+        {
+          "name": "Daru Jones",
+          "url": "https://open.spotify.com/artist/3kOGIhN1mgwbrQMgY5KV9U"
+        },
+        {
+          "name": "Theo Croker",
+          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230533,
+      "name": "Another Night (It's Just) ft. Theo Croker, Daru Jones, Oli Rockberger",
+      "url": "https://open.spotify.com/track/0dWT5IDit0SKvC50eKNn1w"
     },
     {
       "album": {
@@ -2809,6 +2853,28 @@
     },
     {
       "album": {
+        "name": "BOSS",
+        "url": "https://open.spotify.com/album/3KYqTpvMaY419SysrsU5Iy"
+      },
+      "artists": [
+        {
+          "name": "Skaai",
+          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
+        },
+        {
+          "name": "Bonbero",
+          "url": "https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167142,
+      "name": "DON\u2019T CARE (feat. Bonbero)",
+      "url": "https://open.spotify.com/track/0eCFH8XjjPvRH4EFpXaop5"
+    },
+    {
+      "album": {
         "name": "DON\u2019T LISTEN",
         "url": "https://open.spotify.com/album/7KXlRAmcindMlfpXMZskIN"
       },
@@ -2824,6 +2890,24 @@
       "duration_ms": 177042,
       "name": "DON\u2019T LISTEN",
       "url": "https://open.spotify.com/track/6T7XVB4A3sDkcD22DgzeqJ"
+    },
+    {
+      "album": {
+        "name": "doodle spring",
+        "url": "https://open.spotify.com/album/33cHBy8VpEfEmWThsH21vZ"
+      },
+      "artists": [
+        {
+          "name": "Misaki Umei",
+          "url": "https://open.spotify.com/artist/0FPmaZxBJK2vpitRLwrSAO"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221826,
+      "name": "doodle spring",
+      "url": "https://open.spotify.com/track/0iMhH8x6MM9jCscW4QTsvx"
     },
     {
       "album": {
@@ -4631,6 +4715,28 @@
     },
     {
       "album": {
+        "name": "Homecoming",
+        "url": "https://open.spotify.com/album/7pj3unbvdE8xgxKPBY5siV"
+      },
+      "artists": [
+        {
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+        },
+        {
+          "name": "eniola",
+          "url": "https://open.spotify.com/artist/5EsMaB2W2psSvdrcbWkhDY"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247567,
+      "name": "Homecoming",
+      "url": "https://open.spotify.com/track/2TjZA5tBaK0JBQyL0cZcDb"
+    },
+    {
+      "album": {
         "name": "Anaconga",
         "url": "https://open.spotify.com/album/7nB9nRoU9HuXjFXbSrANhq"
       },
@@ -5150,6 +5256,32 @@
       "duration_ms": 191000,
       "name": "ILa",
       "url": "https://open.spotify.com/track/4rfNk6NKqmof6v3MvSm2JL"
+    },
+    {
+      "album": {
+        "name": "Amid Kinos",
+        "url": "https://open.spotify.com/album/1YODDYFqXVUWgGNb3ET3Hu"
+      },
+      "artists": [
+        {
+          "name": "\u9999\u7530 \u60a0\u771f",
+          "url": "https://open.spotify.com/artist/6VzrikesByN5Ogb8A67n47"
+        },
+        {
+          "name": "Jan Urila Sas",
+          "url": "https://open.spotify.com/artist/7BPQ8eUXJcCAVOyJ7vxn5n"
+        },
+        {
+          "name": "Shun Ishiwaka",
+          "url": "https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339893,
+      "name": "images on loan",
+      "url": "https://open.spotify.com/track/0P3UTIsPJnnf6b8b0QhgLl"
     },
     {
       "album": {
@@ -6709,6 +6841,24 @@
     },
     {
       "album": {
+        "name": "\u9808\u6c38\u8fb0\u7dd2\u306e\u591c\u30b8\u30e3\u30ba\uff1aMPS\u7de8",
+        "url": "https://open.spotify.com/album/5D7LDQ6O0HuJa6AdVJwtA7"
+      },
+      "artists": [
+        {
+          "name": "Dusko Goykovich",
+          "url": "https://open.spotify.com/artist/5ioiWrUG3Eyd87RqFMbewh"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 631413,
+      "name": "Madison Walk (2026 Remastered)",
+      "url": "https://open.spotify.com/track/1n3JTEvNa5YEaxJwPghgDz"
+    },
+    {
+      "album": {
         "name": "Djesse Vol. 4 (Deluxe)",
         "url": "https://open.spotify.com/album/0ieeyOsOoSmd2b906MrlRO"
       },
@@ -7438,6 +7588,28 @@
       "duration_ms": 317200,
       "name": "movement",
       "url": "https://open.spotify.com/track/7yB54Gb2VGwFdaCVvtfF9V"
+    },
+    {
+      "album": {
+        "name": "Moving at Light Speed",
+        "url": "https://open.spotify.com/album/1iytMWtFrdmv0koG2f6r8L"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "Button Masher",
+          "url": "https://open.spotify.com/artist/3p0OtpbgE6a46IBMirYCe3"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107402,
+      "name": "Moving at Light Speed",
+      "url": "https://open.spotify.com/track/6jEO5RmiesaiY7zlQDoHq4"
     },
     {
       "album": {
@@ -13002,6 +13174,24 @@
       "duration_ms": 167900,
       "name": "\u60d1\u661f",
       "url": "https://open.spotify.com/track/2uA4yw2tDNXdfKLSQ6F0GL"
+    },
+    {
+      "album": {
+        "name": "\u622f\u8a00",
+        "url": "https://open.spotify.com/album/05Pbn1bYbaaxclYTx8ZNER"
+      },
+      "artists": [
+        {
+          "name": "Nariaki",
+          "url": "https://open.spotify.com/artist/6VhZSXucPwAlDJD1j2Zayk"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304259,
+      "name": "\u622f\u8a00",
+      "url": "https://open.spotify.com/track/37LK8K2rZ3lFUPeLPZnXq8"
     },
     {
       "album": {

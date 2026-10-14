@@ -1,6 +1,6 @@
 {
   "description": "R\u00e4nta p\u00e5 r\u00e4nta... \ud83d\udcb8",
-  "num_followers": 348857,
+  "num_followers": 348834,
   "original_name": "Grisch",
   "owner": {
     "name": "Spotify",
@@ -855,6 +855,22 @@
     {
       "added_at": "2025-10-21 12:38:57",
       "album": {
+        "name": "Losing It (Radio Edit)",
+        "url": "https://open.spotify.com/album/2aYokx2jGun9pPjyY5Cc9t"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "duration_ms": 163247,
+      "name": "Losing It - Radio Edit",
+      "url": "https://open.spotify.com/track/2KXwJZv1pRQFQ95Kj60jBN"
+    },
+    {
+      "added_at": "2025-10-21 12:38:57",
+      "album": {
         "name": "One (Your Name)",
         "url": "https://open.spotify.com/album/1yKTmOivL7YInhF7fnxF0C"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 163246,
       "name": "One (Your Name) - Radio Edit",
       "url": "https://open.spotify.com/track/1qZMPmpD1jDcOA7gZ6TCde"
-    },
-    {
-      "added_at": "2025-10-21 12:38:57",
-      "album": {
-        "name": "Losing It (Radio Edit)",
-        "url": "https://open.spotify.com/album/2aYokx2jGun9pPjyY5Cc9t"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        }
-      ],
-      "duration_ms": 163247,
-      "name": "Losing It - Radio Edit",
-      "url": "https://open.spotify.com/track/2KXwJZv1pRQFQ95Kj60jBN"
     },
     {
       "added_at": "2025-10-21 12:38:57",

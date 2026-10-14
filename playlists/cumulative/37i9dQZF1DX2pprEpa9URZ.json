@@ -1040,7 +1040,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 273142,
       "name": "Ay vora",
       "url": "https://open.spotify.com/track/5dk7V45cYJ73eFeBJst2c3"
@@ -8968,6 +8968,24 @@
       "duration_ms": 327750,
       "name": "Seymour",
       "url": "https://open.spotify.com/track/6DfvHDSDHyV9xMJznbq0uv"
+    },
+    {
+      "album": {
+        "name": "tarraco",
+        "url": "https://open.spotify.com/album/5YKO0vznZFLKXxkprBS2vZ"
+      },
+      "artists": [
+        {
+          "name": "bonifas",
+          "url": "https://open.spotify.com/artist/0ytEeOfpWZBbGsCQvq1drN"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336000,
+      "name": "shifted dreams",
+      "url": "https://open.spotify.com/track/1J0RxzMwXhItGdTnb9fnmp"
     },
     {
       "album": {

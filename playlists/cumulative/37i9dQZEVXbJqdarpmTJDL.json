@@ -14645,6 +14645,24 @@
     },
     {
       "album": {
+        "name": "2100 - Gen Eta (Part A)",
+        "url": "https://open.spotify.com/album/1FpUZRZ16Im6de8TfuJjsC"
+      },
+      "artists": [
+        {
+          "name": "Katerina Lioliou",
+          "url": "https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166250,
+      "name": "Den Ehei Na Paei Pouthena",
+      "url": "https://open.spotify.com/track/5arYIWlpbfmfM4PTEOn4pR"
+    },
+    {
+      "album": {
         "name": "RACKATTACK 2",
         "url": "https://open.spotify.com/album/2d5prllsnc3IMl0IHIpsw8"
       },
@@ -16248,7 +16266,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 121250,
       "name": "DRAKOS",
       "url": "https://open.spotify.com/track/4YKJlKApPEaLf7Ba2etctU"
@@ -41527,6 +41545,24 @@
     },
     {
       "album": {
+        "name": "PRIMA",
+        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181270,
+      "name": "Nicole Kidman",
+      "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
+    },
+    {
+      "album": {
         "name": "20 Hronia Vasilis Karras",
         "url": "https://open.spotify.com/album/2JX2sSR0nxvByAdqKJurr3"
       },
@@ -44558,7 +44594,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 113333,
       "name": "Oxi Oxi",
       "url": "https://open.spotify.com/track/4tr7QnnigYv7MfWZECjtTD"

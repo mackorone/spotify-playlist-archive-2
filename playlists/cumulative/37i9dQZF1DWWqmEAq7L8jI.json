@@ -1936,7 +1936,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 175760,
       "name": "cool",
       "url": "https://open.spotify.com/track/5SlNwpcVtrQMhuzl25q50u"
@@ -2168,7 +2168,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 198813,
       "name": "cuerpo",
       "url": "https://open.spotify.com/track/5VLXFC7eczhehufGijWPC0"
@@ -3257,6 +3257,24 @@
     },
     {
       "album": {
+        "name": "En el Medio de la Nada",
+        "url": "https://open.spotify.com/album/20fMgYA6yM8yLD2DKyi7zR"
+      },
+      "artists": [
+        {
+          "name": "Panta",
+          "url": "https://open.spotify.com/artist/2LisI0c79oHAvJ80FoxT0S"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211954,
+      "name": "En el Medio de la Nada",
+      "url": "https://open.spotify.com/track/3q1rB5fL5x8En2ab7KQez7"
+    },
+    {
+      "album": {
         "name": "En la Moto",
         "url": "https://open.spotify.com/album/2IKdzeh2FO1aelXzus5Yyj"
       },
@@ -3760,7 +3778,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 177897,
       "name": "Hasta el Cielo",
       "url": "https://open.spotify.com/track/42rw6xMkcOZPenoUTU5w5z"
@@ -5847,6 +5865,28 @@
     },
     {
       "album": {
+        "name": "Monstruo Rutinario",
+        "url": "https://open.spotify.com/album/4K4ICZgDEaFu40ybpEg4V4"
+      },
+      "artists": [
+        {
+          "name": "tap",
+          "url": "https://open.spotify.com/artist/6LkwKAWamywo0LoglvtREb"
+        },
+        {
+          "name": "Ale Zurita",
+          "url": "https://open.spotify.com/artist/10kKK9vhtKk2vyeizLcNZq"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187830,
+      "name": "Monstruo Rutinario",
+      "url": "https://open.spotify.com/track/0Hy4Wjz7D7kTlKXGkNcN28"
+    },
+    {
+      "album": {
         "name": "MONTERO",
         "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
       },
@@ -6330,6 +6370,24 @@
       "duration_ms": 222083,
       "name": "Ni\u00f1a",
       "url": "https://open.spotify.com/track/7p2DcY1E4IcPxCi1dxYfpX"
+    },
+    {
+      "album": {
+        "name": "no",
+        "url": "https://open.spotify.com/album/0fAmhcIkHRngXZarDizgrB"
+      },
+      "artists": [
+        {
+          "name": "Vicky Riob\u00f3",
+          "url": "https://open.spotify.com/artist/2lMM5KYI7rvZAeg4az7Ak6"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219374,
+      "name": "no",
+      "url": "https://open.spotify.com/track/4Kd5N2w7tiC4a9bs3ISkWs"
     },
     {
       "album": {
@@ -7179,6 +7237,24 @@
     },
     {
       "album": {
+        "name": "Persona Incorrecta",
+        "url": "https://open.spotify.com/album/6h2q4BBUES9mPgwYr0jjxn"
+      },
+      "artists": [
+        {
+          "name": "Lara Esposito",
+          "url": "https://open.spotify.com/artist/2TRCIeKJVIyBWBvzSyck1A"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142053,
+      "name": "Persona Incorrecta",
+      "url": "https://open.spotify.com/track/7kmOrwF1PuNLxtB4sihJJO"
+    },
+    {
+      "album": {
         "name": "Pienso en vos",
         "url": "https://open.spotify.com/album/201ZHs6Fa4gADDu9yZdGkH"
       },
@@ -7335,6 +7411,24 @@
     },
     {
       "album": {
+        "name": "Helarte del Amor <3",
+        "url": "https://open.spotify.com/album/6hZstW25iNR4jf1O3y581G"
+      },
+      "artists": [
+        {
+          "name": "MALUF",
+          "url": "https://open.spotify.com/artist/4ijIESrXcfjLSbZxZbUcly"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137315,
+      "name": "Preludio Para Ahuyentar el Dolor",
+      "url": "https://open.spotify.com/track/024cqlqoyXxokLYAnLyCD4"
+    },
+    {
+      "album": {
         "name": "Primavera",
         "url": "https://open.spotify.com/album/4qT1gN5DsSjcqd89tbjfHy"
       },
@@ -7458,7 +7552,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 220964,
       "name": "PUERTA DEL SOL",
       "url": "https://open.spotify.com/track/6ERdA2L6d0aKnd0Pd7Tqox"
@@ -8726,7 +8820,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 242400,
       "name": "Te Cre\u00ed",
       "url": "https://open.spotify.com/track/1G2ZDpnDiNoS2hLunRxsvL"

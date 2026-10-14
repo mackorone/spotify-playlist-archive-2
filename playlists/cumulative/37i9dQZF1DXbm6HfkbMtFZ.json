@@ -3313,6 +3313,24 @@
     },
     {
       "album": {
+        "name": "Fish in the Reeds",
+        "url": "https://open.spotify.com/album/1Dd5rfQyybKrHArWw6ktG6"
+      },
+      "artists": [
+        {
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240253,
+      "name": "Fish in the Reeds",
+      "url": "https://open.spotify.com/track/3oVnq5uKXr5HQUW3Lt6AfH"
+    },
+    {
+      "album": {
         "name": "Following the Sun",
         "url": "https://open.spotify.com/album/2jaNswLulmmi2sX1Iqxct8"
       },
@@ -7487,6 +7505,24 @@
     },
     {
       "album": {
+        "name": "New Slack",
+        "url": "https://open.spotify.com/album/4c7xiN0CIGQFbdqO7KwMKj"
+      },
+      "artists": [
+        {
+          "name": "Michael Nau",
+          "url": "https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216577,
+      "name": "New Slack",
+      "url": "https://open.spotify.com/track/1baFNFi82Bj5vwv39ugtJn"
+    },
+    {
+      "album": {
         "name": "Second Nature",
         "url": "https://open.spotify.com/album/23rODwWw3dylrLEzUW1tIw"
       },
@@ -9230,7 +9266,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 349026,
       "name": "S.O.L.",
       "url": "https://open.spotify.com/track/2FkLjsFnK6H9iuoXNLGfNy"
@@ -12390,7 +12426,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 204817,
       "name": "Where's My Beach Hat",
       "url": "https://open.spotify.com/track/0W7ID3fBwiarBoHqETvlXh"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: Adrian Khalif
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,521,121 likes - 89 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,521,185 likes - 89 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

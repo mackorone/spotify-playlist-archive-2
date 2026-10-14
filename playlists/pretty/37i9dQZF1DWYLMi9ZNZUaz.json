@@ -1,6 +1,6 @@
 {
   "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: RPT MCK\n",
-  "num_followers": 124655,
+  "num_followers": 124672,
   "original_name": "Hip-hop Vi\u1ec7t",
   "owner": {
     "name": "Spotify",
@@ -87,6 +87,22 @@
     {
       "added_at": "2026-10-08 17:00:40",
       "album": {
+        "name": "Ng\u01b0\u1eddi Im L\u1eb7ng G\u1eb7p Ng\u01b0\u1eddi Hay N\u00f3i",
+        "url": "https://open.spotify.com/album/2E1SVr2mWpBXenivjz5cIh"
+      },
+      "artists": [
+        {
+          "name": "HIEUTHUHAI",
+          "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Ng\u01b0\u1eddi Im L\u1eb7ng G\u1eb7p Ng\u01b0\u1eddi Hay N\u00f3i",
+      "url": "https://open.spotify.com/track/0wvpRHXXuImyrccNEPAXBo"
+    },
+    {
+      "added_at": "2026-10-08 17:00:40",
+      "album": {
         "name": "Ch\u1ecbu C\u00e1ch M\u00ecnh N\u00f3i Thua",
         "url": "https://open.spotify.com/album/6H01GjpEb6taXvwiqEzpFy"
       },
@@ -107,22 +123,6 @@
       "duration_ms": 181558,
       "name": "Ch\u1ecbu C\u00e1ch M\u00ecnh N\u00f3i Thua",
       "url": "https://open.spotify.com/track/3ZbZtdEw9U0uZW4tZItIwq"
-    },
-    {
-      "added_at": "2026-10-08 17:00:40",
-      "album": {
-        "name": "Ng\u01b0\u1eddi Im L\u1eb7ng G\u1eb7p Ng\u01b0\u1eddi Hay N\u00f3i",
-        "url": "https://open.spotify.com/album/2E1SVr2mWpBXenivjz5cIh"
-      },
-      "artists": [
-        {
-          "name": "HIEUTHUHAI",
-          "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Ng\u01b0\u1eddi Im L\u1eb7ng G\u1eb7p Ng\u01b0\u1eddi Hay N\u00f3i",
-      "url": "https://open.spotify.com/track/0wvpRHXXuImyrccNEPAXBo"
     },
     {
       "added_at": "2026-10-08 17:00:40",
@@ -407,22 +407,6 @@
     {
       "added_at": "2026-10-08 17:00:40",
       "album": {
-        "name": "Ch\u01a1i Nh\u01b0 T\u1ee5i M\u1ef9",
-        "url": "https://open.spotify.com/album/7qPMuPHg2shbQIGyxOd09A"
-      },
-      "artists": [
-        {
-          "name": "Andree Right Hand",
-          "url": "https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh"
-        }
-      ],
-      "duration_ms": 160848,
-      "name": "Ch\u01a1i Nh\u01b0 T\u1ee5i M\u1ef9",
-      "url": "https://open.spotify.com/track/255vSRpVq5YYKBJiem1BVx"
-    },
-    {
-      "added_at": "2026-10-08 17:00:40",
-      "album": {
         "name": "WILD WEST",
         "url": "https://open.spotify.com/album/1iVBHUg2oLEsQB0O9qSjGj"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 154285,
       "name": "Young Money",
       "url": "https://open.spotify.com/track/0qMIga6w9V9cOQeXsh6KgJ"
+    },
+    {
+      "added_at": "2026-10-08 17:00:40",
+      "album": {
+        "name": "Ch\u01a1i Nh\u01b0 T\u1ee5i M\u1ef9",
+        "url": "https://open.spotify.com/album/7qPMuPHg2shbQIGyxOd09A"
+      },
+      "artists": [
+        {
+          "name": "Andree Right Hand",
+          "url": "https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh"
+        }
+      ],
+      "duration_ms": 160848,
+      "name": "Ch\u01a1i Nh\u01b0 T\u1ee5i M\u1ef9",
+      "url": "https://open.spotify.com/track/255vSRpVq5YYKBJiem1BVx"
     },
     {
       "added_at": "2026-10-08 17:00:40",
@@ -507,34 +507,6 @@
     {
       "added_at": "2026-10-08 17:00:40",
       "album": {
-        "name": "Em iu",
-        "url": "https://open.spotify.com/album/72I8w6JUIlEKRuoUIwxWmE"
-      },
-      "artists": [
-        {
-          "name": "Andree Right Hand",
-          "url": "https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh"
-        },
-        {
-          "name": "Wxrdie",
-          "url": "https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw"
-        },
-        {
-          "name": "Donald Gold",
-          "url": "https://open.spotify.com/artist/3oB1lv9FWDKbNOUvdTw75Q"
-        },
-        {
-          "name": "2Pillz",
-          "url": "https://open.spotify.com/artist/1VdPXTk7MBqZ3sm57D1b1A"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Em iu",
-      "url": "https://open.spotify.com/track/5cml547MByVlaVrKU2lJTg"
-    },
-    {
-      "added_at": "2026-10-08 17:00:40",
-      "album": {
         "name": "2GOILAYS",
         "url": "https://open.spotify.com/album/00kEhnqwIBY3sNngZHjpRS"
       },
@@ -563,42 +535,30 @@
     {
       "added_at": "2026-10-08 17:00:40",
       "album": {
-        "name": "\u0110\u00f3 Ch\u1ec9 L\u00e0 Th\u00e0nh Ph\u1ed1 C\u1ee7a Anh",
-        "url": "https://open.spotify.com/album/5yZBkOqFJ5hzK3alfJbENs"
+        "name": "Em iu",
+        "url": "https://open.spotify.com/album/72I8w6JUIlEKRuoUIwxWmE"
       },
       "artists": [
         {
-          "name": "Luxuyen",
-          "url": "https://open.spotify.com/artist/0B9sKSEY2YQpILrF2HHng4"
+          "name": "Andree Right Hand",
+          "url": "https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh"
         },
-        {
-          "name": "New$oulz",
-          "url": "https://open.spotify.com/artist/7GKDb02uOcMnDS5fUixNEc"
-        }
-      ],
-      "duration_ms": 113519,
-      "name": "\u0110\u00f3 Ch\u1ec9 L\u00e0 Th\u00e0nh Ph\u1ed1 C\u1ee7a Anh",
-      "url": "https://open.spotify.com/track/2qU7v0idyT8aTp8FVxl23c"
-    },
-    {
-      "added_at": "2026-10-08 17:00:40",
-      "album": {
-        "name": "THE WXRDIES",
-        "url": "https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc"
-      },
-      "artists": [
         {
           "name": "Wxrdie",
           "url": "https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw"
         },
         {
-          "name": "Mcee Blue",
-          "url": "https://open.spotify.com/artist/7iPTxzfZ1OG4gNiWU64nmk"
+          "name": "Donald Gold",
+          "url": "https://open.spotify.com/artist/3oB1lv9FWDKbNOUvdTw75Q"
+        },
+        {
+          "name": "2Pillz",
+          "url": "https://open.spotify.com/artist/1VdPXTk7MBqZ3sm57D1b1A"
         }
       ],
-      "duration_ms": 203687,
-      "name": "M\u1eddi Em",
-      "url": "https://open.spotify.com/track/27AEQr4wqfHyVpwgFgnGs6"
+      "duration_ms": 176000,
+      "name": "Em iu",
+      "url": "https://open.spotify.com/track/5cml547MByVlaVrKU2lJTg"
     },
     {
       "added_at": "2026-10-08 17:00:40",
@@ -623,6 +583,26 @@
     {
       "added_at": "2026-10-08 17:00:40",
       "album": {
+        "name": "THE WXRDIES",
+        "url": "https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc"
+      },
+      "artists": [
+        {
+          "name": "Wxrdie",
+          "url": "https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw"
+        },
+        {
+          "name": "Mcee Blue",
+          "url": "https://open.spotify.com/artist/7iPTxzfZ1OG4gNiWU64nmk"
+        }
+      ],
+      "duration_ms": 203687,
+      "name": "M\u1eddi Em",
+      "url": "https://open.spotify.com/track/27AEQr4wqfHyVpwgFgnGs6"
+    },
+    {
+      "added_at": "2026-10-08 17:00:40",
+      "album": {
         "name": "TO LOVE AND BE LOVED",
         "url": "https://open.spotify.com/album/195fx2E1Yyz5UEiw7mBNuJ"
       },
@@ -639,34 +619,6 @@
       "duration_ms": 340724,
       "name": "Mu\u1ed1n anh \u0111au",
       "url": "https://open.spotify.com/track/7CoOFEoC3xg3iJ2srBsizf"
-    },
-    {
-      "added_at": "2026-10-08 17:00:40",
-      "album": {
-        "name": "C\u00f4ng Ty 4",
-        "url": "https://open.spotify.com/album/0DJ4kSFK3kHAbkkwVHeGoO"
-      },
-      "artists": [
-        {
-          "name": "Andree Right Hand",
-          "url": "https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh"
-        },
-        {
-          "name": "Dangrangto",
-          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
-        },
-        {
-          "name": "TeuYungBoy",
-          "url": "https://open.spotify.com/artist/3oD2yI1g6aT3KawHD8ZYaU"
-        },
-        {
-          "name": "WOKEUP",
-          "url": "https://open.spotify.com/artist/0qAJ604EZMbkbpZ9NN6W6d"
-        }
-      ],
-      "duration_ms": 254491,
-      "name": "C\u00f4ng Ty 4",
-      "url": "https://open.spotify.com/track/7p106V3HRaa0lCVL5oepMg"
     },
     {
       "added_at": "2026-10-08 17:00:40",
@@ -707,6 +659,54 @@
     {
       "added_at": "2026-10-08 17:00:40",
       "album": {
+        "name": "C\u00f4ng Ty 4",
+        "url": "https://open.spotify.com/album/0DJ4kSFK3kHAbkkwVHeGoO"
+      },
+      "artists": [
+        {
+          "name": "Andree Right Hand",
+          "url": "https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh"
+        },
+        {
+          "name": "Dangrangto",
+          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
+        },
+        {
+          "name": "TeuYungBoy",
+          "url": "https://open.spotify.com/artist/3oD2yI1g6aT3KawHD8ZYaU"
+        },
+        {
+          "name": "WOKEUP",
+          "url": "https://open.spotify.com/artist/0qAJ604EZMbkbpZ9NN6W6d"
+        }
+      ],
+      "duration_ms": 254491,
+      "name": "C\u00f4ng Ty 4",
+      "url": "https://open.spotify.com/track/7p106V3HRaa0lCVL5oepMg"
+    },
+    {
+      "added_at": "2026-10-08 17:00:40",
+      "album": {
+        "name": "\u0110\u00f3 Ch\u1ec9 L\u00e0 Th\u00e0nh Ph\u1ed1 C\u1ee7a Anh",
+        "url": "https://open.spotify.com/album/5yZBkOqFJ5hzK3alfJbENs"
+      },
+      "artists": [
+        {
+          "name": "Luxuyen",
+          "url": "https://open.spotify.com/artist/0B9sKSEY2YQpILrF2HHng4"
+        },
+        {
+          "name": "New$oulz",
+          "url": "https://open.spotify.com/artist/7GKDb02uOcMnDS5fUixNEc"
+        }
+      ],
+      "duration_ms": 113519,
+      "name": "\u0110\u00f3 Ch\u1ec9 L\u00e0 Th\u00e0nh Ph\u1ed1 C\u1ee7a Anh",
+      "url": "https://open.spotify.com/track/2qU7v0idyT8aTp8FVxl23c"
+    },
+    {
+      "added_at": "2026-10-08 17:00:40",
+      "album": {
         "name": "THE WXRDIES",
         "url": "https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc"
       },
@@ -719,26 +719,6 @@
       "duration_ms": 190343,
       "name": "L\u1ed1i S\u1ed1ng",
       "url": "https://open.spotify.com/track/457sdcnHnv9zqMfLT6OGLn"
-    },
-    {
-      "added_at": "2026-10-08 17:00:40",
-      "album": {
-        "name": "\u0110\u1ed5i T\u01b0 Th\u1ebf",
-        "url": "https://open.spotify.com/album/5wHxubdBIRpKJVsKquzsnl"
-      },
-      "artists": [
-        {
-          "name": "Donald Gold",
-          "url": "https://open.spotify.com/artist/3oB1lv9FWDKbNOUvdTw75Q"
-        },
-        {
-          "name": "Andree Right Hand",
-          "url": "https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh"
-        }
-      ],
-      "duration_ms": 227555,
-      "name": "\u0110\u1ed5i T\u01b0 Th\u1ebf",
-      "url": "https://open.spotify.com/track/3pmDpi2XUdGGInqXQbOIaM"
     },
     {
       "added_at": "2026-10-08 17:00:40",
@@ -759,6 +739,26 @@
       "duration_ms": 224918,
       "name": "H\u1ed3ng kh\u00f4ng gai",
       "url": "https://open.spotify.com/track/3PJbFJImi0QMxDCUKFBfbU"
+    },
+    {
+      "added_at": "2026-10-08 17:00:40",
+      "album": {
+        "name": "\u0110\u1ed5i T\u01b0 Th\u1ebf",
+        "url": "https://open.spotify.com/album/5wHxubdBIRpKJVsKquzsnl"
+      },
+      "artists": [
+        {
+          "name": "Donald Gold",
+          "url": "https://open.spotify.com/artist/3oB1lv9FWDKbNOUvdTw75Q"
+        },
+        {
+          "name": "Andree Right Hand",
+          "url": "https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh"
+        }
+      ],
+      "duration_ms": 227555,
+      "name": "\u0110\u1ed5i T\u01b0 Th\u1ebf",
+      "url": "https://open.spotify.com/track/3pmDpi2XUdGGInqXQbOIaM"
     },
     {
       "added_at": "2026-10-08 17:00:40",
@@ -975,26 +975,6 @@
     {
       "added_at": "2026-10-08 17:00:40",
       "album": {
-        "name": "ABG",
-        "url": "https://open.spotify.com/album/5wSNbLGJ4o9HcBuwfAf84l"
-      },
-      "artists": [
-        {
-          "name": "nhan.",
-          "url": "https://open.spotify.com/artist/6Ju8OqJkXqr9lRIGx9Vs6t"
-        },
-        {
-          "name": "Xuanpac",
-          "url": "https://open.spotify.com/artist/53aQsVsBVoFXO0FAhgVCPM"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "ABG",
-      "url": "https://open.spotify.com/track/4oHNffwl7J3lMBNjvcYue2"
-    },
-    {
-      "added_at": "2026-10-08 17:00:40",
-      "album": {
         "name": "Em B\u00e9",
         "url": "https://open.spotify.com/album/4h6b472LS8MBZuNZzKQQDN"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 192000,
       "name": "Em B\u00e9",
       "url": "https://open.spotify.com/track/4RZJObXQzsKQLd25LBjBG8"
+    },
+    {
+      "added_at": "2026-10-08 17:00:40",
+      "album": {
+        "name": "ABG",
+        "url": "https://open.spotify.com/album/5wSNbLGJ4o9HcBuwfAf84l"
+      },
+      "artists": [
+        {
+          "name": "nhan.",
+          "url": "https://open.spotify.com/artist/6Ju8OqJkXqr9lRIGx9Vs6t"
+        },
+        {
+          "name": "Xuanpac",
+          "url": "https://open.spotify.com/artist/53aQsVsBVoFXO0FAhgVCPM"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "ABG",
+      "url": "https://open.spotify.com/track/4oHNffwl7J3lMBNjvcYue2"
     },
     {
       "added_at": "2026-10-08 17:00:40",

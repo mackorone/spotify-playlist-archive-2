@@ -1,12 +1,12 @@
 {
   "description": "lo mejor nunca se sube ",
-  "num_followers": 1382897,
+  "num_followers": 1382853,
   "original_name": "Hits de Internet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEQv50yBBtYrbDGA37DLfjtbQEs7",
+  "snapshot_id": "AAAAAKiw8OJBCW5Nmw/GKIqILWOMrVg0",
   "tracks": [
     {
       "added_at": "2026-10-02 03:36:43",
@@ -247,6 +247,22 @@
       "duration_ms": 183529,
       "name": "SUPERESTRELLA",
       "url": "https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47"
+    },
+    {
+      "added_at": "2026-10-13 20:25:09",
+      "album": {
+        "name": "BOTZ",
+        "url": "https://open.spotify.com/album/5n3zMrSedSoon33igy3KB2"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 178466,
+      "name": "BOTZ",
+      "url": "https://open.spotify.com/track/4tpT01PRHuLZI1tAvrJfRf"
     },
     {
       "added_at": "2026-10-02 03:36:43",
@@ -631,26 +647,6 @@
       "duration_ms": 146938,
       "name": "Ba Ba Bad Remix",
       "url": "https://open.spotify.com/track/2RnCVOUcOaPeTlFRW3NHQJ"
-    },
-    {
-      "added_at": "2026-10-02 03:36:43",
-      "album": {
-        "name": "+ Perra + Bitch",
-        "url": "https://open.spotify.com/album/39RFBiFmGH0p3npriZ7PJc"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        },
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 198211,
-      "name": "+ Perra + Bitch",
-      "url": "https://open.spotify.com/track/0T1BVEf9OOT5YolK9xqljP"
     },
     {
       "added_at": "2026-10-02 03:36:43",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 
 > Cele mai noi hituri pop românești\. Cover: Olivia Addams, Liviu Teodorescu
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,214 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,230 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 | 11 | [Morenito](https://open.spotify.com/track/2UgaIRtWxiEmRcv6MXhFVb) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Morenito](https://open.spotify.com/album/4qMgq0Xnm9zk1uKr6YMyRF) | 2:15 |
 | 12 | [Oare m\-ai iubi](https://open.spotify.com/track/5Iey9mQJs232fg3omEnaji) | [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj), [The Motans](https://open.spotify.com/artist/05qpk4JDcLSFNJSsPIZ8Ye) | [Oare m\-ai iubi](https://open.spotify.com/album/4kScXIGavj94pfal8ZuN8e) | 2:52 |
 | 13 | [Dă\-mi, Doamne](https://open.spotify.com/track/3SLgzGLDnVzzbbNXGhf7Pc) | [Florian Rus](https://open.spotify.com/artist/0UPJKLFhLR0GuiBZBLNAsd) | [Dă\-mi, Doamne](https://open.spotify.com/album/12JGM9IULyUP7xduxyTNkt) | 2:43 |
-| 14 | [Dans](https://open.spotify.com/track/0RbvFQL2jCgEOEiqeE9q7Y) | [Emilian](https://open.spotify.com/artist/3jPbwZEofynIfjPNLrXTwd) | [Dans](https://open.spotify.com/album/4rRwt4oR2CSdy9NGfX6ukN) | 2:50 |
+| 14 | [Dans](https://open.spotify.com/track/0RbvFQL2jCgEOEiqeE9q7Y) | [Emilian](https://open.spotify.com/artist/3jPbwZEofynIfjPNLrXTwd) | [Dans](https://open.spotify.com/album/4rRwt4oR2CSdy9NGfX6ukN) | 2:51 |
 | 15 | [Eu dansez](https://open.spotify.com/track/0KTcyozvKumAxjgpTMCR6k) | [Daria Lupi](https://open.spotify.com/artist/3aKBCihX2b5tkHe2vzeJvw) | [17](https://open.spotify.com/album/29l9kuVI2PN1ue2M7NaXaC) | 3:01 |
 | 16 | [Ca Orice Femeie](https://open.spotify.com/track/31weQKR9JQtlo60AMAXwsX) | [ADDA](https://open.spotify.com/artist/1lYjAYTw1QBVxIwVrZ1eTy), [Connect\-R](https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr) | [Ca Orice Femeie](https://open.spotify.com/album/7fKSURIU8Rr4RIfwlLxFOe) | 3:05 |
 | 17 | [Nu se va mai repeta](https://open.spotify.com/track/0zIvHxLp2tmLqIX9cMNdfP) | [Amna](https://open.spotify.com/artist/4yjYHvJbZFQ7sESuV9t3uQ) | [Nu se va mai repeta](https://open.spotify.com/album/7Bltzdl6RsiHdcXt96e7DY) | 2:36 |

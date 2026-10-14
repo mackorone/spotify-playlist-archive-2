@@ -1,6 +1,6 @@
 {
   "description": "Desde septiembre se siente que viene diciembre \ud83e\uddca \ud83c\udf84 En portada: Pastor Lopez, Lisandro Meza y Rodolfo Aicardi",
-  "num_followers": 144076,
+  "num_followers": 144075,
   "original_name": "M\u00fasica Decembrina",
   "owner": {
     "name": "Spotify",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2026-09-24 04:59:11",
       "album": {
+        "name": "Salsa Rom\u00e1ntica: Lo Mejor de la Sabrosura",
+        "url": "https://open.spotify.com/album/4Hoyewq2PnRCaGASIemZOZ"
+      },
+      "artists": [
+        {
+          "name": "La Sabrosura Orquesta",
+          "url": "https://open.spotify.com/artist/5mudirGeAjQgkS2AaIQVCb"
+        }
+      ],
+      "duration_ms": 284666,
+      "name": "Tu Amigo o Tu Amante",
+      "url": "https://open.spotify.com/track/4pvknJEcQuzyCj1b7KIkac"
+    },
+    {
+      "added_at": "2026-09-24 04:59:11",
+      "album": {
         "name": "El Baile del Siglo Con Joe Arroyo",
         "url": "https://open.spotify.com/album/3vQgQ8nrQDTop2ycPhFkTp"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 376372,
       "name": "Rebeli\u00f3n",
       "url": "https://open.spotify.com/track/0b4VE6epbojSyLeyyuEJga"
-    },
-    {
-      "added_at": "2026-09-24 04:59:11",
-      "album": {
-        "name": "Salsa Rom\u00e1ntica: Lo Mejor de la Sabrosura",
-        "url": "https://open.spotify.com/album/4Hoyewq2PnRCaGASIemZOZ"
-      },
-      "artists": [
-        {
-          "name": "La Sabrosura Orquesta",
-          "url": "https://open.spotify.com/artist/5mudirGeAjQgkS2AaIQVCb"
-        }
-      ],
-      "duration_ms": 284666,
-      "name": "Tu Amigo o Tu Amante",
-      "url": "https://open.spotify.com/track/4pvknJEcQuzyCj1b7KIkac"
     },
     {
       "added_at": "2026-09-24 04:59:11",
@@ -1235,6 +1235,26 @@
       "duration_ms": 266949,
       "name": "El Santo Cach\u00f3n",
       "url": "https://open.spotify.com/track/62Dsro7boSt2kTr0YY3OtX"
+    },
+    {
+      "added_at": "2026-09-24 04:59:11",
+      "album": {
+        "name": "Muy Tropical y Bailable",
+        "url": "https://open.spotify.com/album/4FTPpblS9F4DOT7o46A9cU"
+      },
+      "artists": [
+        {
+          "name": "Rodolfo Aicardi",
+          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
+        },
+        {
+          "name": "La Tipica Ra7",
+          "url": "https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG"
+        }
+      ],
+      "duration_ms": 220354,
+      "name": "Ojitos Hechiceros",
+      "url": "https://open.spotify.com/track/6ACbgxx9BXs64G1aWVXJOV"
     },
     {
       "added_at": "2026-09-24 04:59:11",
@@ -1299,26 +1319,6 @@
     {
       "added_at": "2026-09-24 04:59:11",
       "album": {
-        "name": "Muy Tropical y Bailable",
-        "url": "https://open.spotify.com/album/4FTPpblS9F4DOT7o46A9cU"
-      },
-      "artists": [
-        {
-          "name": "Rodolfo Aicardi",
-          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
-        },
-        {
-          "name": "La Tipica Ra7",
-          "url": "https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG"
-        }
-      ],
-      "duration_ms": 220354,
-      "name": "Ojitos Hechiceros",
-      "url": "https://open.spotify.com/track/6ACbgxx9BXs64G1aWVXJOV"
-    },
-    {
-      "added_at": "2026-09-24 04:59:11",
-      "album": {
         "name": "Rep\u00edtela",
         "url": "https://open.spotify.com/album/1S3Ao9VsfFF9v8azLqaM29"
       },
@@ -1355,22 +1355,18 @@
     {
       "added_at": "2026-09-24 04:59:11",
       "album": {
-        "name": "\u00c9xitos los Tupamaros",
-        "url": "https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM"
+        "name": "Pasado y Presente: 14 A\u00f1os de \u00c9xitos",
+        "url": "https://open.spotify.com/album/2sFskvgiMamk6Uhgowq12F"
       },
       "artists": [
         {
-          "name": "Los Tupamaros",
-          "url": "https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo"
-        },
-        {
-          "name": "Rochy",
-          "url": "https://open.spotify.com/artist/1RGijIKY2cwvBGXrYgFPnf"
+          "name": "Los 50 De Joselito",
+          "url": "https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU"
         }
       ],
-      "duration_ms": 244608,
-      "name": "En Mi Pensamiento (Te Necesito)",
-      "url": "https://open.spotify.com/track/4yXMkjU2NQkF2mFipkTF4q"
+      "duration_ms": 162298,
+      "name": "El Ron de Vinola",
+      "url": "https://open.spotify.com/track/0kyzl82KTVUF6WHpCQ0GpI"
     }
   ],
   "unique_name": "M\u00fasica Decembrina",

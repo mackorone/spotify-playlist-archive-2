@@ -2839,6 +2839,24 @@
     },
     {
       "album": {
+        "name": "Pocket",
+        "url": "https://open.spotify.com/album/6CQgriixVxJx5yQA0M882L"
+      },
+      "artists": [
+        {
+          "name": "Nakajin",
+          "url": "https://open.spotify.com/artist/2TIGcMsXemeBUE3CN6c0Uk"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195555,
+      "name": "Pocket",
+      "url": "https://open.spotify.com/track/3Tbep6L6c43YKr23CfXtXP"
+    },
+    {
+      "album": {
         "name": "Porque Te Vas",
         "url": "https://open.spotify.com/album/124bmfhcgLb93nvKeTzAn3"
       },

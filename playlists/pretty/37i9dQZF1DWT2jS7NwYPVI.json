@@ -1,12 +1,12 @@
 {
   "description": "your cheat sheet for all that's on the rise in alt/rock. Cover: Liily",
-  "num_followers": 473526,
+  "num_followers": 473531,
   "original_name": "New Noise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACWp/kPEqPj0tSF66AWBd1yW7cL1",
+  "snapshot_id": "AAAAAFUxmeSUymjKo9khqPPpEqJfQMQk",
   "tracks": [
     {
       "added_at": "2026-10-09 04:03:49",
@@ -301,6 +301,22 @@
       "url": "https://open.spotify.com/track/62EaHHSM3HXk4psY1eS4A8"
     },
     {
+      "added_at": "2026-10-13 20:56:00",
+      "album": {
+        "name": "not your wife",
+        "url": "https://open.spotify.com/album/5AjiZWW1elqJecfnCKMKUA"
+      },
+      "artists": [
+        {
+          "name": "Coasters",
+          "url": "https://open.spotify.com/artist/4VjyjBUcEwwx4xqtU359Ep"
+        }
+      ],
+      "duration_ms": 225116,
+      "name": "not your wife",
+      "url": "https://open.spotify.com/track/6vahp1JzG4nrgq7Acb2QLC"
+    },
+    {
       "added_at": "2026-10-09 04:03:49",
       "album": {
         "name": "Love Psychosis",
@@ -351,7 +367,7 @@
     {
       "added_at": "2026-10-09 04:03:49",
       "album": {
-        "name": "Big Ideas",
+        "name": "Big Ideas (feat. Rachel Brown)",
         "url": "https://open.spotify.com/album/1Q4bb6zNWcyZFMo0uz30jJ"
       },
       "artists": [
@@ -365,7 +381,7 @@
         }
       ],
       "duration_ms": 254802,
-      "name": "Big Ideas",
+      "name": "Big Ideas (feat. Rachel Brown)",
       "url": "https://open.spotify.com/track/0lJ3nlVIpRiLqo3rlS4nw1"
     },
     {

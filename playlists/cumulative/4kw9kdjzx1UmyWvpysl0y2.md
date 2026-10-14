@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,318 songs - 3 day 1 hr 0 min
+1,319 songs - 3 day 1 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [BITTERSWEET](https://open.spotify.com/track/0Ip4mtMZFwXD7EMTLROWw9) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [BITTERSWEET](https://open.spotify.com/album/3ezjk2cPYZe3qvfzxVF1kn) | 2:37 | 2022-01-24 | 2022-04-01 |
 | [Bittersweet](https://open.spotify.com/track/4HVXaQkI6CLCnbr0eKdku4) | [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM), [Drinks On Me](https://open.spotify.com/artist/1cIz2h3ERs72r60yw78Deu) | [Bittersweet](https://open.spotify.com/album/12Fn47QlhEDFYoBZCHp4VY) | 2:45 | 2026-10-01 |  |
 | [Black Sheep](https://open.spotify.com/track/6KTJrH8rLM4TefZcc9XFQF) | [ATLiens](https://open.spotify.com/artist/74RET4rCZPTGzhsLjD0i3g), [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Black Sheep](https://open.spotify.com/album/7wflWRvq8BFK9XbNW8VIYs) | 2:54 | 2024-09-18 | 2024-12-11 |
+| [Black Sheep \- Blankface Remix](https://open.spotify.com/track/7LVNb7j6UtEfeHFzSQf3ar) | [ATLiens](https://open.spotify.com/artist/74RET4rCZPTGzhsLjD0i3g), [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n), [Blankface](https://open.spotify.com/artist/0wBTYeI6551XR1lhbxRQnV) | [Black Sheep \(Remixes\)](https://open.spotify.com/album/6jKvrdoipNxBqKyhFskjFj) | 3:39 | 2026-10-13 |  |
 | [Black Velvet](https://open.spotify.com/track/0UyvpiRpS6aR33jAHweZbL) | [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI), [Ninet Tayeb](https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4) | [Black Velvet](https://open.spotify.com/album/2sLR9P3xAhR74bmiyK6V8i) | 4:08 | 2022-08-12 | 2022-10-27 |
 | [BLEEP BLOOP](https://open.spotify.com/track/3HVXJpaAL8ebZxd1oo8Bzc) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [BLEEP BLOOP](https://open.spotify.com/album/2pYDaq6cycAXPtCShZk0zY) | 2:32 | 2023-06-05 | 2023-09-01 |
 | [Blinding](https://open.spotify.com/track/7EumtlWTL8XRzS0ZEDoE4i) | [DNMO](https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz), [Wolfy Lights](https://open.spotify.com/artist/1VzKsrHWSH4Ij7dTWfPe7z) | [Blinding](https://open.spotify.com/album/39eGOxLGyql1izxsJjK7lS) | 3:43 | 2023-05-05 | 2023-07-29 |

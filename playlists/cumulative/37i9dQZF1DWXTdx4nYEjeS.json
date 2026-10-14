@@ -132,7 +132,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 213600,
       "name": "50 Horas",
       "url": "https://open.spotify.com/track/5xiH2wHtpuOaNbxm9PAofT"
@@ -1114,7 +1114,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 312442,
       "name": "Amor (Ft. Mon Laferte) - Mtv Unplugged",
       "url": "https://open.spotify.com/track/2fscHtYDKLd7xYRCTe3prP"
@@ -1530,7 +1530,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 245572,
       "name": "Apasionado",
       "url": "https://open.spotify.com/track/7nNe66m3zuscn2Tn4nJwAs"
@@ -3212,6 +3212,24 @@
       "duration_ms": 215906,
       "name": "Canci\u00f3n para Mi Muerte",
       "url": "https://open.spotify.com/track/0t0Kl5jxxV3s8bdpILkgmd"
+    },
+    {
+      "album": {
+        "name": "Volver Bien",
+        "url": "https://open.spotify.com/album/09ny3Rwqr7IST1CgXLuKd0"
+      },
+      "artists": [
+        {
+          "name": "Fabrizio Calabrese",
+          "url": "https://open.spotify.com/artist/3pgxCCjLDqoTV1QzekREmx"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176982,
+      "name": "Canci\u00f3n Para Sanar",
+      "url": "https://open.spotify.com/track/0A2rSFzqtBBAyb0QVTMyUf"
     },
     {
       "album": {
@@ -5112,7 +5130,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 163546,
       "name": "Desastres Fabulosos",
       "url": "https://open.spotify.com/track/2YqZAHrkZm0VQJNQfNRWdl"
@@ -6420,6 +6438,24 @@
       "duration_ms": 212400,
       "name": "El Pibe de los Astilleros",
       "url": "https://open.spotify.com/track/2aWd3hLrewRnRA9gYcl9WS"
+    },
+    {
+      "album": {
+        "name": "El Prado",
+        "url": "https://open.spotify.com/album/054TXvnUpxU6UaVMj3fuke"
+      },
+      "artists": [
+        {
+          "name": "Daniel Cohen",
+          "url": "https://open.spotify.com/artist/76jyaEDOp9q0qO993cbMXh"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209204,
+      "name": "El Prado",
+      "url": "https://open.spotify.com/track/4f85jyGE4Fym8P5nMa9ny1"
     },
     {
       "album": {
@@ -7838,7 +7874,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 168333,
       "name": "Fizz",
       "url": "https://open.spotify.com/track/6LTyESjGFAp6x2yXoo4wbm"
@@ -13893,6 +13929,24 @@
     },
     {
       "album": {
+        "name": "Paloma",
+        "url": "https://open.spotify.com/album/3CBNhpXtYb4v6ob62ZSzq9"
+      },
+      "artists": [
+        {
+          "name": "Leirbag",
+          "url": "https://open.spotify.com/artist/1cK5cTyqeu7GF2NmsvgpaT"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Paloma",
+      "url": "https://open.spotify.com/track/5JvjBTW2or27DOIoEmdrfZ"
+    },
+    {
+      "album": {
         "name": "Romaphonic Sessions",
         "url": "https://open.spotify.com/album/4WBgkA2GTBT6Vc2Eo7hjpl"
       },
@@ -14924,6 +14978,24 @@
       "duration_ms": 228911,
       "name": "Porque Te Vas",
       "url": "https://open.spotify.com/track/0gIYEcz6TwJBFyQVcZa169"
+    },
+    {
+      "album": {
+        "name": "Helarte del Amor <3",
+        "url": "https://open.spotify.com/album/6hZstW25iNR4jf1O3y581G"
+      },
+      "artists": [
+        {
+          "name": "MALUF",
+          "url": "https://open.spotify.com/artist/4ijIESrXcfjLSbZxZbUcly"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137315,
+      "name": "Preludio Para Ahuyentar el Dolor",
+      "url": "https://open.spotify.com/track/024cqlqoyXxokLYAnLyCD4"
     },
     {
       "album": {
@@ -20686,6 +20758,28 @@
       "duration_ms": 246857,
       "name": "\u00c1ngel Del Pasado",
       "url": "https://open.spotify.com/track/12hH9wErOXz1ZeOPJ8P33Q"
+    },
+    {
+      "album": {
+        "name": "\u00daltima foto",
+        "url": "https://open.spotify.com/album/530eSUqXhg1c1UF5tZ3kKb"
+      },
+      "artists": [
+        {
+          "name": "jjjuli\u00e1n",
+          "url": "https://open.spotify.com/artist/1QQyeUqjjqvo9CNTIkzTAE"
+        },
+        {
+          "name": "Giu Azul",
+          "url": "https://open.spotify.com/artist/2WeIvQUrTkrmwhB3ZmQwXf"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187550,
+      "name": "\u00daltima foto",
+      "url": "https://open.spotify.com/track/2t2sGnJsjZjlmpXejQuSDX"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWXTdx4nYEjeS"

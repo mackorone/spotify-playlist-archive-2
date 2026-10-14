@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Judeline, Lucho RK, Dani Martín, Morat y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,063 likes - 85 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 416,064 likes - 85 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 63 | [Ainda Bem](https://open.spotify.com/track/3A33gURpnH6wPS2a1Ddqpu) | [Niño Josele](https://open.spotify.com/artist/7KPoRAFSOQXa0jX1Pad5wT), [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Bajañí](https://open.spotify.com/album/6xLBG6wMo1cQqPnBKz0upy) | 5:04 |
 | 64 | [talento natural](https://open.spotify.com/track/7uDyZWLh4LU9ckWhYCcW4R) | [Victorias](https://open.spotify.com/artist/35lpWLoew70fDB1QQ7pW4I), [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [talento natural](https://open.spotify.com/album/6xUBO12ujC7a5hPpyGqUKm) | 2:24 |
 | 65 | [Jaula de cristal](https://open.spotify.com/track/6uqg9BwCCibBrKKWHpAQDR) | [Rouss](https://open.spotify.com/artist/3Xa0w2RUuQw38J199xgj2A), [Biela](https://open.spotify.com/artist/3V4eTmIv1fY1zTRSOFOjEH) | [Jaula de cristal](https://open.spotify.com/album/5tQDCFrl4OF39xyNQqE9H6) | 3:17 |
-| 66 | [En ningún lugar](https://open.spotify.com/track/4uC6KYP2VNQTMylNT0QFLF) | [Escandaloso Xpósito](https://open.spotify.com/artist/0GUmY2qAmker4cB3VnpKVf), [AMYNATA](https://open.spotify.com/artist/1OfMb4DATw7yp7zMBjUuLg) | [La Casa House](https://open.spotify.com/album/1e9qOWj1WzFJzmEzNWgvzN) | 2:58 |
+| 66 | [En ningún lugar](https://open.spotify.com/track/4uC6KYP2VNQTMylNT0QFLF) | [Escandaloso Xpósito](https://open.spotify.com/artist/0GUmY2qAmker4cB3VnpKVf), [GRAVY](https://open.spotify.com/artist/2KbUHBduxmVybndhBOItql), [PatataOnStereo](https://open.spotify.com/artist/1Oc9GLjfd9AbkyxEwFUxGR), [AMYNATA](https://open.spotify.com/artist/1OfMb4DATw7yp7zMBjUuLg) | [La Casa House](https://open.spotify.com/album/1e9qOWj1WzFJzmEzNWgvzN) | 2:58 |
 | 67 | [La casa](https://open.spotify.com/track/69iszvTgf6LKGWdNrUs88D) | [Niños](https://open.spotify.com/artist/5yJc14614Bzi1g5WLSNO3U) | [La casa](https://open.spotify.com/album/37ioSxY7uDqvovm6UBe1PL) | 3:40 |
 | 68 | [Aa No Llamar](https://open.spotify.com/track/63gdZiXXDWPMzb5Q18XP6p) | [GOMZ](https://open.spotify.com/artist/7BLezVBmCyG6aFk101o7vA), [Victoria Goytea](https://open.spotify.com/artist/6obhy4JV9P9XaDmUjrIuNw) | [Aa No Llamar](https://open.spotify.com/album/0zGENb8gQN7OBoPMY8PELT) | 3:02 |
 | 69 | [SALIR](https://open.spotify.com/track/3FWwAp9fjcM7MJZDL1Ua02) | [Safree](https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL) | [SALIR](https://open.spotify.com/album/1JjcSssfFE37a4SQTN0Kzg) | 3:01 |

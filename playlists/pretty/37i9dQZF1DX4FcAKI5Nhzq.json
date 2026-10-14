@@ -1,13 +1,29 @@
 {
-  "description": "Future K-Pop hits! (Cover: HWANG MIN HYUN)",
-  "num_followers": 882822,
+  "description": "Future K-Pop hits! (Cover: Xdinary Heroes)",
+  "num_followers": 882782,
   "original_name": "K-Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB+gM2uquOb1sOmKBLO5AO182ByH",
+  "snapshot_id": "AAAAAN3GOORx9rEt1C/bnnAKSx1eQOMU",
   "tracks": [
+    {
+      "added_at": "2026-10-13 09:31:18",
+      "album": {
+        "name": "IMPULSE",
+        "url": "https://open.spotify.com/album/4NWAatVPLzAD66q90vbPo8"
+      },
+      "artists": [
+        {
+          "name": "Xdinary Heroes",
+          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
+        }
+      ],
+      "duration_ms": 195540,
+      "name": "Obsessed with Youth",
+      "url": "https://open.spotify.com/track/3UZ9LgHanJWsSQU1uQvrG6"
+    },
     {
       "added_at": "2026-10-08 02:08:32",
       "album": {
@@ -835,22 +851,6 @@
       "duration_ms": 145000,
       "name": "The Symphony of Fxxkboys (minlee Remix)",
       "url": "https://open.spotify.com/track/7etsBgkoZX9jywsQqXOj6Z"
-    },
-    {
-      "added_at": "2026-10-08 02:08:32",
-      "album": {
-        "name": "\uacb0\ud63c\uc758 \uc644\uc131 Original Sound Track Part.2",
-        "url": "https://open.spotify.com/album/22MrFdUTUvpJ0XZztCf3Uy"
-      },
-      "artists": [
-        {
-          "name": "OHYUL of LNGSHOT",
-          "url": "https://open.spotify.com/artist/19lETOCO5Jc7arA9DaLID8"
-        }
-      ],
-      "duration_ms": 251334,
-      "name": "Us, Now",
-      "url": "https://open.spotify.com/track/7hHXvDy58AOKIWZgXeYarw"
     }
   ],
   "unique_name": "K-Pop Rising",

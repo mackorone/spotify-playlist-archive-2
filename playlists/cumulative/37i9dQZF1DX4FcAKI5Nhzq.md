@@ -2,9 +2,9 @@
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K\-Pop hits! \(Cover: HWANG MIN HYUN\)
+> Future K\-Pop hits! \(Cover: Xdinary Heroes\)
 
-1,818 songs - 4 day 0 hr 53 min
+1,819 songs - 4 day 0 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1127,6 +1127,7 @@
 | [O.O.O \(Over&Over&Over\)](https://open.spotify.com/track/6k3U1g0Tu11V1AcVzSt6re) | [Girls Planet 999](https://open.spotify.com/artist/1dTvYIUWdOcBXYyUWhi91W) | [Girls Planet 999 \- O.O.O \(Over&Over&Over\)](https://open.spotify.com/album/2IZkygDdvEokN7CCSjrck6) | 4:07 | 2021-10-30 | 2022-01-13 |
 | [OBEY](https://open.spotify.com/track/6Er2MCGafVTPHoVG0EHIoB) | [JAY](https://open.spotify.com/artist/0cfDzbuRREWQNBbINvCckB) | [207](https://open.spotify.com/album/6WqqNtsorg6GQPifhsg7c0) | 2:51 | 2025-07-31 | 2025-09-11 |
 | [Obliviate](https://open.spotify.com/track/4cyVnu1W88UuIdNusX8D1A) | [Lovelyz](https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK) | [Lovelyz 7th Mini Album \[Unforgettable\]](https://open.spotify.com/album/5M1EFepUUqZig7XzN6qtB8) | 3:22 | 2020-10-13\* | 2021-01-11 |
+| [Obsessed with Youth](https://open.spotify.com/track/3UZ9LgHanJWsSQU1uQvrG6) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [IMPULSE](https://open.spotify.com/album/4NWAatVPLzAD66q90vbPo8) | 3:15 | 2026-10-13 |  |
 | [Odd Eye](https://open.spotify.com/track/28Jwll1H52Hr4JzQ6vMoul) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Dystopia : Road to Utopia\]](https://open.spotify.com/album/6ECUAXThxlRHQ1JPUQJQJG) | 3:04 | 2021-01-27 | 2021-05-18 |
 | [Ode to Love](https://open.spotify.com/track/08aIVRb9ucpxKdAJb50HAx) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Ode to Love \- The 1st Album](https://open.spotify.com/album/2OYOvhfBYA43XD7nd366iX) | 3:11 | 2026-04-20 | 2026-05-28 |
 | [Off\-Line](https://open.spotify.com/track/4MGJsDj4jKDh4XPV8h3BAo) | [Rad Museum](https://open.spotify.com/artist/6UdKtISMXYKSR8jcgtFePo), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [RAD](https://open.spotify.com/album/2GPaZ2S7JNb8VPPLffpjgv) | 4:07 | 2022-03-24 | 2022-05-04 |
@@ -1649,7 +1650,7 @@
 | [Upside Down](https://open.spotify.com/track/41KiFWhvIgjdVura4h93Zh) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [The Story](https://open.spotify.com/album/4tk1TxAS90si1va7jPWqGg) | 3:15 | 2022-05-24 | 2022-06-18 |
 | [US](https://open.spotify.com/track/28toOHNKaU968fvVoKA9pQ) | [Moon Jong Up](https://open.spotify.com/artist/3I9hRYYNJvENa3EcJ6c5cd) | [Moon Jong Up \- 1st Mini Album "US"](https://open.spotify.com/album/5v8Uj3vFwXfdu8eKiyhUuX) | 2:59 | 2021-07-13 | 2021-09-18 |
 | [Us](https://open.spotify.com/track/5r5skMXXVwTbQy6r6NgQD9) | [NOWZ](https://open.spotify.com/artist/1iZwr6w3TWPNezX8yCtRBg) | [Us](https://open.spotify.com/album/1LRDEk3bmvqWGBvRMCfzgb) | 3:35 | 2026-05-13 | 2026-06-13 |
-| [Us, Now](https://open.spotify.com/track/7hHXvDy58AOKIWZgXeYarw) | [OHYUL of LNGSHOT](https://open.spotify.com/artist/19lETOCO5Jc7arA9DaLID8) | [결혼의 완성 Original Sound Track Part.2](https://open.spotify.com/album/22MrFdUTUvpJ0XZztCf3Uy) | 4:11 | 2026-07-08 |  |
+| [Us, Now](https://open.spotify.com/track/7hHXvDy58AOKIWZgXeYarw) | [OHYUL of LNGSHOT](https://open.spotify.com/artist/19lETOCO5Jc7arA9DaLID8) | [결혼의 완성 Original Sound Track Part.2](https://open.spotify.com/album/22MrFdUTUvpJ0XZztCf3Uy) | 4:11 | 2026-07-08 | 2026-10-14 |
 | [UxYOUxU](https://open.spotify.com/track/7FMjQgcvSnAbLDFWNcL1Xu) | [CHUEI LI YU](https://open.spotify.com/artist/6d08w23ccJlF5f0I7tKlGl) | [SWEET DREAM](https://open.spotify.com/album/78sWCAEgt78WNRfwkGijgX) | 2:25 | 2025-12-05 | 2026-02-11 |
 | [V \(Peace\) \(feat\. AKMU\)](https://open.spotify.com/track/0qsv5I5fEnRoX2Enb3mBNr) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [Zip](https://open.spotify.com/album/0T3dxtCegtw8C07ZMvwIfv) | 2:28 | 2023-12-08 | 2024-02-15 |
 | [VAMOS](https://open.spotify.com/track/3JNgIY0WqPk3qgQapkFumz) | [OMEGA X](https://open.spotify.com/artist/2FJYWlqgtoiBtXpOy9GGIF) | [1st Mini Album 'VAMOS'](https://open.spotify.com/album/1RUIMYrQC6RBohtz83WP7a) | 3:30 | 2021-07-14 | 2021-09-07 |

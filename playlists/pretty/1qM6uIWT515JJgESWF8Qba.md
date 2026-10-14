@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 591 likes - 59 songs - 3 hr 47 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 599 likes - 60 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,5 +67,6 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 | 57 | [Falling](https://open.spotify.com/track/4LlmiQt2LyQA0MaAkIi3HN) | [Lime](https://open.spotify.com/artist/3CkGw7rwzPbj59O3hKH1SB) | [Falling](https://open.spotify.com/album/7hRFFZjliY9n18r3d9XCCT) | 3:03 |
 | 58 | [Right Decision \- Remastered](https://open.spotify.com/track/3UGPBZMouJqeuPoRNNyVNz) | [Sloppy Joe's](https://open.spotify.com/artist/4hlgTRrWdANjE7noHSfG72) | [Right Decision \(Remastered\)](https://open.spotify.com/album/5Q5EZatUiY8iMKRVYgcJ60) | 4:28 |
 | 59 | [Fairytale](https://open.spotify.com/track/3Py8FYfHyuzT9awE3LewQh) | [Dangerous Times for the Dead](https://open.spotify.com/artist/3oYyw3Wy4IuN27X2eIFVWD) | [Fairytale](https://open.spotify.com/album/0zyc2DisFokldezxabrmhY) | 3:42 |
+| 60 | [Quién](https://open.spotify.com/track/5LNNpntodSuvNVLkHiU7er) | [David Send](https://open.spotify.com/artist/31MXafStikNQHwXXa2h61m) | [El Poder del Miedo](https://open.spotify.com/album/2rAAKdhd7RbMimKLMEdPrK) | 3:31 |
 
-Snapshot ID: `AAACUTrl51sSF9QDFnQwH9iIc3LacH0P`
+Snapshot ID: `AAACUgiV621pTsqoabGxii6q3pMAv5Ec`

@@ -1,6 +1,6 @@
 {
   "description": "Hypnotic melodic and afro <a href=\"spotify:genre:house\">house</a> to light up the night.",
-  "num_followers": 594651,
+  "num_followers": 594673,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2026-10-09 04:01:40",
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/0nnSX8cnMsGV9pcQxyTND9"
-      },
-      "artists": [
-        {
-          "name": "Shimza",
-          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
-        },
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        }
-      ],
-      "duration_ms": 182479,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/4d8031x6HPpjQtH98BmRio"
-    },
-    {
-      "added_at": "2026-10-09 04:01:40",
-      "album": {
         "name": "On The Nature of Daylight",
         "url": "https://open.spotify.com/album/3pKgMneLiOBin4ygIyoKki"
       },
@@ -1323,6 +1303,26 @@
       "duration_ms": 311015,
       "name": "On The Nature of Daylight",
       "url": "https://open.spotify.com/track/5heSNnVgYDTDeDOBolDoZu"
+    },
+    {
+      "added_at": "2026-10-09 04:01:40",
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/0nnSX8cnMsGV9pcQxyTND9"
+      },
+      "artists": [
+        {
+          "name": "Shimza",
+          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
+        },
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "duration_ms": 182479,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/4d8031x6HPpjQtH98BmRio"
     },
     {
       "added_at": "2026-10-09 04:01:40",
@@ -1355,22 +1355,26 @@
     {
       "added_at": "2026-10-09 04:01:40",
       "album": {
-        "name": "Heart Spin EP",
-        "url": "https://open.spotify.com/album/5p7Zfw7MUNPxXg1dWmYSl6"
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/3LOuosVLxpQ5k5Fs6TDj3z"
       },
       "artists": [
+        {
+          "name": "Ajna",
+          "url": "https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN"
+        },
         {
           "name": "Samm",
           "url": "https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0"
         },
         {
-          "name": "JUNO (DE)",
-          "url": "https://open.spotify.com/artist/6H0Lbuc95DxzpDkKdwnYQ3"
+          "name": "Chelsea Como",
+          "url": "https://open.spotify.com/artist/5LjlABsYnzlQCHIqAgK2Ac"
         }
       ],
-      "duration_ms": 264000,
-      "name": "Heart Spin",
-      "url": "https://open.spotify.com/track/116fzo1wS2gAtGYYdx30C8"
+      "duration_ms": 376271,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/3sdKayfObt6VePZL7AhiU5"
     },
     {
       "added_at": "2026-10-09 04:01:40",
@@ -1403,26 +1407,22 @@
     {
       "added_at": "2026-10-09 04:01:40",
       "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/3LOuosVLxpQ5k5Fs6TDj3z"
+        "name": "Heart Spin EP",
+        "url": "https://open.spotify.com/album/5p7Zfw7MUNPxXg1dWmYSl6"
       },
       "artists": [
-        {
-          "name": "Ajna",
-          "url": "https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN"
-        },
         {
           "name": "Samm",
           "url": "https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0"
         },
         {
-          "name": "Chelsea Como",
-          "url": "https://open.spotify.com/artist/5LjlABsYnzlQCHIqAgK2Ac"
+          "name": "JUNO (DE)",
+          "url": "https://open.spotify.com/artist/6H0Lbuc95DxzpDkKdwnYQ3"
         }
       ],
-      "duration_ms": 376271,
-      "name": "Timeless",
-      "url": "https://open.spotify.com/track/3sdKayfObt6VePZL7AhiU5"
+      "duration_ms": 264000,
+      "name": "Heart Spin",
+      "url": "https://open.spotify.com/track/116fzo1wS2gAtGYYdx30C8"
     },
     {
       "added_at": "2026-10-09 04:01:40",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2026-10-09 04:01:40",
       "album": {
-        "name": "GROOVINU",
-        "url": "https://open.spotify.com/album/6qB8AEEnqVOOUsTHu6cIks"
-      },
-      "artists": [
-        {
-          "name": "Sara Costa",
-          "url": "https://open.spotify.com/artist/4QdM9MXZoixsfLRhqlJF49"
-        }
-      ],
-      "duration_ms": 166162,
-      "name": "GROOVINU",
-      "url": "https://open.spotify.com/track/6lGOcjBAzM0paksRI8FIkH"
-    },
-    {
-      "added_at": "2026-10-09 04:01:40",
-      "album": {
         "name": "Mulalo",
         "url": "https://open.spotify.com/album/4xWjt3o0s8X3L61UHleJYZ"
       },
@@ -1547,22 +1531,38 @@
     {
       "added_at": "2026-10-09 04:01:40",
       "album": {
-        "name": "Jingo",
-        "url": "https://open.spotify.com/album/71SPavyVb5rk56A8wRx2xy"
+        "name": "GROOVINU",
+        "url": "https://open.spotify.com/album/6qB8AEEnqVOOUsTHu6cIks"
       },
       "artists": [
         {
-          "name": "Ginton",
-          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
-        },
-        {
-          "name": "Austin Millz",
-          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
+          "name": "Sara Costa",
+          "url": "https://open.spotify.com/artist/4QdM9MXZoixsfLRhqlJF49"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Jingo",
-      "url": "https://open.spotify.com/track/3BXDFXG7Reepaek3iJxmwG"
+      "duration_ms": 166162,
+      "name": "GROOVINU",
+      "url": "https://open.spotify.com/track/6lGOcjBAzM0paksRI8FIkH"
+    },
+    {
+      "added_at": "2026-10-09 04:01:40",
+      "album": {
+        "name": "Madan",
+        "url": "https://open.spotify.com/album/1IrBQwlHJFx67eZEmbONVa"
+      },
+      "artists": [
+        {
+          "name": "Caiiro",
+          "url": "https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY"
+        },
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 224812,
+      "name": "Madan",
+      "url": "https://open.spotify.com/track/5UIBtSYRtX3JmBzqSbd9G1"
     },
     {
       "added_at": "2026-10-09 04:01:40",
@@ -1583,6 +1583,26 @@
       "duration_ms": 167355,
       "name": "PARTYGYAL",
       "url": "https://open.spotify.com/track/46Cu4xavDB7pcejde1ldMA"
+    },
+    {
+      "added_at": "2026-10-09 04:01:40",
+      "album": {
+        "name": "Jingo",
+        "url": "https://open.spotify.com/album/71SPavyVb5rk56A8wRx2xy"
+      },
+      "artists": [
+        {
+          "name": "Ginton",
+          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
+        },
+        {
+          "name": "Austin Millz",
+          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Jingo",
+      "url": "https://open.spotify.com/track/3BXDFXG7Reepaek3iJxmwG"
     },
     {
       "added_at": "2026-10-09 04:01:40",
@@ -1627,30 +1647,6 @@
     {
       "added_at": "2026-10-09 04:01:40",
       "album": {
-        "name": "Piece Of Me",
-        "url": "https://open.spotify.com/album/4wEdCOFLRFC8fmgb8t0IuO"
-      },
-      "artists": [
-        {
-          "name": "Wilfy D",
-          "url": "https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR"
-        },
-        {
-          "name": "Crazy Cousinz",
-          "url": "https://open.spotify.com/artist/6VXB0WH4MfmhZyongoEYZr"
-        },
-        {
-          "name": "Amaeya",
-          "url": "https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56"
-        }
-      ],
-      "duration_ms": 189651,
-      "name": "Piece Of Me",
-      "url": "https://open.spotify.com/track/65EwgM3cxN9aPUDKopCFif"
-    },
-    {
-      "added_at": "2026-10-09 04:01:40",
-      "album": {
         "name": "Back On 74 (Rework)",
         "url": "https://open.spotify.com/album/5EN57EnOfeu9KPeTFBXr2W"
       },
@@ -1671,22 +1667,26 @@
     {
       "added_at": "2026-10-09 04:01:40",
       "album": {
-        "name": "Madan",
-        "url": "https://open.spotify.com/album/1IrBQwlHJFx67eZEmbONVa"
+        "name": "Piece Of Me",
+        "url": "https://open.spotify.com/album/4wEdCOFLRFC8fmgb8t0IuO"
       },
       "artists": [
         {
-          "name": "Caiiro",
-          "url": "https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY"
+          "name": "Wilfy D",
+          "url": "https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR"
         },
         {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+          "name": "Crazy Cousinz",
+          "url": "https://open.spotify.com/artist/6VXB0WH4MfmhZyongoEYZr"
+        },
+        {
+          "name": "Amaeya",
+          "url": "https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56"
         }
       ],
-      "duration_ms": 224812,
-      "name": "Madan",
-      "url": "https://open.spotify.com/track/5UIBtSYRtX3JmBzqSbd9G1"
+      "duration_ms": 189651,
+      "name": "Piece Of Me",
+      "url": "https://open.spotify.com/track/65EwgM3cxN9aPUDKopCFif"
     },
     {
       "added_at": "2026-10-09 04:01:40",
@@ -1731,26 +1731,6 @@
     {
       "added_at": "2026-10-09 04:01:40",
       "album": {
-        "name": "WTFA EP",
-        "url": "https://open.spotify.com/album/0C0YmBIeJsnwi542g8IO5k"
-      },
-      "artists": [
-        {
-          "name": "Bora Uzer",
-          "url": "https://open.spotify.com/artist/71WhzQzCSYszOnrfCEbZge"
-        },
-        {
-          "name": "Dennis Cruz",
-          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
-        }
-      ],
-      "duration_ms": 251480,
-      "name": "Wtfa",
-      "url": "https://open.spotify.com/track/49dsbe6B35KEXuaAGNUove"
-    },
-    {
-      "added_at": "2026-10-09 04:01:40",
-      "album": {
         "name": "Dance Baby",
         "url": "https://open.spotify.com/album/6qWx2Uq17g7PlhuQCw7KHA"
       },
@@ -1767,6 +1747,26 @@
       "duration_ms": 222439,
       "name": "Dance Baby",
       "url": "https://open.spotify.com/track/605GkjW7WFEB6una1Uciar"
+    },
+    {
+      "added_at": "2026-10-09 04:01:40",
+      "album": {
+        "name": "WTFA EP",
+        "url": "https://open.spotify.com/album/0C0YmBIeJsnwi542g8IO5k"
+      },
+      "artists": [
+        {
+          "name": "Bora Uzer",
+          "url": "https://open.spotify.com/artist/71WhzQzCSYszOnrfCEbZge"
+        },
+        {
+          "name": "Dennis Cruz",
+          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
+        }
+      ],
+      "duration_ms": 251480,
+      "name": "Wtfa",
+      "url": "https://open.spotify.com/track/49dsbe6B35KEXuaAGNUove"
     },
     {
       "added_at": "2026-10-09 04:01:40",
@@ -1839,26 +1839,6 @@
     {
       "added_at": "2026-10-09 04:01:40",
       "album": {
-        "name": "Repeat",
-        "url": "https://open.spotify.com/album/4rRMaeeAaqfbT5WXEnv6lv"
-      },
-      "artists": [
-        {
-          "name": "Vanco",
-          "url": "https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9"
-        },
-        {
-          "name": "DEELA",
-          "url": "https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4"
-        }
-      ],
-      "duration_ms": 200275,
-      "name": "Repeat",
-      "url": "https://open.spotify.com/track/5s8W9kVGieuKlxDsECr7aP"
-    },
-    {
-      "added_at": "2026-10-09 04:01:40",
-      "album": {
         "name": "Waya",
         "url": "https://open.spotify.com/album/1KDIQD5as4eTpPS8YfgKfB"
       },
@@ -1883,6 +1863,26 @@
       "duration_ms": 222096,
       "name": "Waya",
       "url": "https://open.spotify.com/track/4Dd72AtS6qXYPNSLE8cpMq"
+    },
+    {
+      "added_at": "2026-10-09 04:01:40",
+      "album": {
+        "name": "Repeat",
+        "url": "https://open.spotify.com/album/4rRMaeeAaqfbT5WXEnv6lv"
+      },
+      "artists": [
+        {
+          "name": "Vanco",
+          "url": "https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9"
+        },
+        {
+          "name": "DEELA",
+          "url": "https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4"
+        }
+      ],
+      "duration_ms": 200275,
+      "name": "Repeat",
+      "url": "https://open.spotify.com/track/5s8W9kVGieuKlxDsECr7aP"
     },
     {
       "added_at": "2026-10-09 04:01:40",
@@ -2411,6 +2411,22 @@
     {
       "added_at": "2026-10-09 04:01:40",
       "album": {
+        "name": "8pm",
+        "url": "https://open.spotify.com/album/0NNBgo3NYs9eUXnEC0wC3a"
+      },
+      "artists": [
+        {
+          "name": "Walid Martinez",
+          "url": "https://open.spotify.com/artist/1JRdXMJIEbwd3vVl0cnxY6"
+        }
+      ],
+      "duration_ms": 354098,
+      "name": "8pm",
+      "url": "https://open.spotify.com/track/3mlUchN9dQr9Ybu3linuGK"
+    },
+    {
+      "added_at": "2026-10-09 04:01:40",
+      "album": {
         "name": "Casablanca",
         "url": "https://open.spotify.com/album/2G4vviYLIiVAspd8iGdihA"
       },
@@ -2427,22 +2443,6 @@
       "duration_ms": 285148,
       "name": "Casablanca",
       "url": "https://open.spotify.com/track/1Am4yQgjawTWCy3dZsNWpJ"
-    },
-    {
-      "added_at": "2026-10-09 04:01:40",
-      "album": {
-        "name": "8pm",
-        "url": "https://open.spotify.com/album/0NNBgo3NYs9eUXnEC0wC3a"
-      },
-      "artists": [
-        {
-          "name": "Walid Martinez",
-          "url": "https://open.spotify.com/artist/1JRdXMJIEbwd3vVl0cnxY6"
-        }
-      ],
-      "duration_ms": 354098,
-      "name": "8pm",
-      "url": "https://open.spotify.com/track/3mlUchN9dQr9Ybu3linuGK"
     },
     {
       "added_at": "2026-10-09 04:01:40",
@@ -2539,26 +2539,6 @@
     {
       "added_at": "2026-10-09 04:01:40",
       "album": {
-        "name": "Turned A Key",
-        "url": "https://open.spotify.com/album/24ZQse3rQUV1g1p9Qt1Vg9"
-      },
-      "artists": [
-        {
-          "name": "Peace Control",
-          "url": "https://open.spotify.com/artist/3rzbheJbLKamFWE8v9fPRh"
-        },
-        {
-          "name": "Luca Saporito",
-          "url": "https://open.spotify.com/artist/5j0QAbips8lkIhtCwUYkBh"
-        }
-      ],
-      "duration_ms": 199125,
-      "name": "Turned A Key",
-      "url": "https://open.spotify.com/track/5dwI3JHau2HD1r5ZEKTkIx"
-    },
-    {
-      "added_at": "2026-10-09 04:01:40",
-      "album": {
         "name": "Let's Get Down",
         "url": "https://open.spotify.com/album/0zCxFXy6hVSLLmXPDKfb0R"
       },
@@ -2575,6 +2555,26 @@
       "duration_ms": 195692,
       "name": "Let's Get Down",
       "url": "https://open.spotify.com/track/5jEgK8fb8NT3DlFqG7dqRx"
+    },
+    {
+      "added_at": "2026-10-09 04:01:40",
+      "album": {
+        "name": "Turned A Key",
+        "url": "https://open.spotify.com/album/24ZQse3rQUV1g1p9Qt1Vg9"
+      },
+      "artists": [
+        {
+          "name": "Peace Control",
+          "url": "https://open.spotify.com/artist/3rzbheJbLKamFWE8v9fPRh"
+        },
+        {
+          "name": "Luca Saporito",
+          "url": "https://open.spotify.com/artist/5j0QAbips8lkIhtCwUYkBh"
+        }
+      ],
+      "duration_ms": 199125,
+      "name": "Turned A Key",
+      "url": "https://open.spotify.com/track/5dwI3JHau2HD1r5ZEKTkIx"
     },
     {
       "added_at": "2026-10-09 04:01:40",

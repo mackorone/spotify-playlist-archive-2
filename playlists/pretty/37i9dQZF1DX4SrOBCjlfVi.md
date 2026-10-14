@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Offset, Gunna, Cardi B and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 395,024 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 395,095 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 23 | [Just Do Me](https://open.spotify.com/track/7B637jy1cfwRbSqeNBDf3t) | [Jdot Breezy](https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ) | [Just Do Me](https://open.spotify.com/album/62F1uh5qyXxMabJN090ui6) | 2:27 |
 | 24 | [Real 4 Sale](https://open.spotify.com/track/043oUtCSbEKwYl4Pz4cTSo) | [Scorey](https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb) | [Real 4 Sale](https://open.spotify.com/album/0Fy4RvhnajQ7iKm6rTu58X) | 1:53 |
 | 25 | [Peter Pusher](https://open.spotify.com/track/124z6rPUOTiY2BPSmQFYTM) | [Sk8star](https://open.spotify.com/artist/2PAnRRa7mwTO0WArmY1vCc) | [Peter Pusher](https://open.spotify.com/album/06Y0rbJpazdNw6JrDIc3TZ) | 1:58 |
-| 26 | [Way Too Much](https://open.spotify.com/track/5ugBXrVSfcQK66D4s6FRSe) | [Mez](https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Deante' Hitchcock](https://open.spotify.com/artist/5REHfa3YDopGOzrxwTsPvH) | [Way Too Much](https://open.spotify.com/album/1s9nf4fPpZk9M9uPaA7Yfb) | 4:03 |
+| 26 | [Way Too Much](https://open.spotify.com/track/5ugBXrVSfcQK66D4s6FRSe) | [Mez](https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6), [Deante' Hitchcock](https://open.spotify.com/artist/5REHfa3YDopGOzrxwTsPvH), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Way Too Much](https://open.spotify.com/album/1s9nf4fPpZk9M9uPaA7Yfb) | 4:03 |
 | 27 | [BUNK](https://open.spotify.com/track/3jU9KYS2RPPUKaVPBAf7Xk) | [Mark Lux](https://open.spotify.com/artist/29fuOxHZkxmYqLIpBjE7V5) | [BUNK](https://open.spotify.com/album/5dq2DpY9osvpzoRjTko6vG) | 2:20 |
 | 28 | [Location](https://open.spotify.com/track/6k15cYdLOjmEMSWHHCArUj) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Location](https://open.spotify.com/album/3Kpv3BRmK2PGeGPuvToFrh) | 2:34 |
 | 29 | [CHINEKE](https://open.spotify.com/track/4RFnoxzyWttQn50uCTWy0h) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [THE BRIDGE](https://open.spotify.com/album/136DnJdQKnudDjbqn97oNV) | 2:37 |

@@ -1,13 +1,29 @@
 {
   "description": "My love language is all of em, do all that $#*!",
-  "num_followers": 643575,
+  "num_followers": 643659,
   "original_name": "Love Language",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALnLhJFvA8RZwAr2scY42vHKzfRh",
+  "snapshot_id": "AAAAAOFTIm1DNcQFpU/asSn6+NDwMKQw",
   "tracks": [
+    {
+      "added_at": "2026-10-13 17:29:37",
+      "album": {
+        "name": "THE 11TH HOUR",
+        "url": "https://open.spotify.com/album/2yfx7jI0ibYIHXbvSPSsjB"
+      },
+      "artists": [
+        {
+          "name": "Johnny Venus",
+          "url": "https://open.spotify.com/artist/4Y9QKWtGSeL2NnVokmWAvz"
+        }
+      ],
+      "duration_ms": 171672,
+      "name": "AMERICAN DREAM",
+      "url": "https://open.spotify.com/track/5nRFxKgguMpLT5Y5JC9386"
+    },
     {
       "added_at": "2026-10-09 23:08:48",
       "album": {

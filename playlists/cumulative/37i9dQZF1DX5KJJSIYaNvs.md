@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover \- Palak Muchhal
 
-755 songs - 1 day 20 hr 45 min
+756 songs - 1 day 20 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -416,7 +416,7 @@
 | [Maine Muddat Se](https://open.spotify.com/track/6mK4Uv9uRkLe8cAVKBS5bo) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo), [Waseem Bareilvi](https://open.spotify.com/artist/1wIQIyU6gTvJoTc51SNg5j) | [Maine Muddat Se](https://open.spotify.com/album/6iVUYxNaoPaVqNdv7danmp) | 4:17 | 2025-01-15 | 2025-04-25 |
 | [Mainu Ki Pata](https://open.spotify.com/track/1A9fAmJca9d0HlN39iwY4h) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Mainu Ki Pata](https://open.spotify.com/album/1DOe8ovWwYeiUUhpLWC1lx) | 3:30 | 2026-07-01 | 2026-09-08 |
 | [Majnu](https://open.spotify.com/track/070tyz0zU3uDJjwbsivZtu) | [Sukriti Kakar](https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM), [Prakriti Kakar](https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86), [Mellow D](https://open.spotify.com/artist/7tH8oZj2nLERlp2hE5QNjp), [The Rish](https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI) | [Majnu](https://open.spotify.com/album/0Nh2YR5SASmzVn3nkBUobO) | 3:16 | 2021-12-10 | 2022-02-02 |
-| [Malang](https://open.spotify.com/track/5tKrD1fGCAx02LVqE5HvS0) | [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [PARINDA](https://open.spotify.com/album/3FDa4TQ4GuEDQIZkXTJcKI) | 2:27 | 2026-08-14 |  |
+| [Malang](https://open.spotify.com/track/5tKrD1fGCAx02LVqE5HvS0) | [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [PARINDA](https://open.spotify.com/album/3FDa4TQ4GuEDQIZkXTJcKI) | 2:27 | 2026-08-14 | 2026-10-14 |
 | [Manike \(From "Thank God"\)](https://open.spotify.com/track/0zlGnseLGzRIBA0TJcb3Bo) | [Yohani](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo), [Surya Ragunaathan](https://open.spotify.com/artist/0GiAC4VvvYCypjRH6IiasK) | [Manike \(From "Thank God"\)](https://open.spotify.com/album/30CfQvXOWrJx6kCglMcbo3) | 3:17 | 2022-11-09 | 2025-01-09 |
 | [Manmaani](https://open.spotify.com/track/71F3RWCBhiCixxN3fMmxqc) | [AKASA](https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s) | [Manmaani](https://open.spotify.com/album/3pd5cpY9hUSI7ZCE3STwwT) | 3:54 | 2023-09-27 | 2023-11-30 |
 | [Manwa Bhaagey](https://open.spotify.com/track/5sVlW4pj3NDIYKNftGwRlZ) | [Vasuda Sharma](https://open.spotify.com/artist/2ED6kjY3EyIRkxM2HAbrCL) | [Manwa Bhaagey](https://open.spotify.com/album/13X5ctGRnJaAvO3WyXsoF6) | 4:17 | 2023-08-03 | 2023-11-30 |
@@ -507,6 +507,7 @@
 | [O Saki Saki \(From "Batla House"\)](https://open.spotify.com/track/5djZm1zFGcJUSUqbBjrAZH) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Mesmeric Voice \- Tulsi Kumar](https://open.spotify.com/album/4ImAT6aKzDUu41c3cetBOE) | 3:11 | 2022-11-30 | 2023-01-04 |
 | [Ok Not Ok](https://open.spotify.com/track/6qvR2L1SsTQ6QrTWqk1LOb) | [Roshanara](https://open.spotify.com/artist/7emzpBPOKHKxut0AQZzjzz) | [Ok Not Ok](https://open.spotify.com/album/5TuEKJJ43BSwUK2FhlPRSJ) | 2:52 | 2025-05-01 | 2025-06-13 |
 | [Old Friend](https://open.spotify.com/track/61hFBKZns0L2XuRYEYxZO4) | [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP), [Vinay Kaushal](https://open.spotify.com/artist/397mfo5Gp4jT72aYLnnSDZ) | [Old Friend](https://open.spotify.com/album/2Sq9Ckc3hdJQTcwYeHBwT9) | 4:01 | 2026-08-05 | 2026-09-10 |
+| [One Look](https://open.spotify.com/track/2EMwDegLiuoZY59NDCE0ph) | [Saloni](https://open.spotify.com/artist/0FBuuG9cTMxcXgo4y7tudu) | [One Look](https://open.spotify.com/album/7GiLfKOB2tUK9yM7ureibs) | 2:09 | 2026-10-09 |  |
 | [Oo Antava Oo Oo Antava](https://open.spotify.com/track/3szxldqiYs7nkvtmooRod8) | [Indravathi Chauhan](https://open.spotify.com/artist/1cNcHeOmjm7yKUYWhrmjMM) | [Pushpa \- The Rise](https://open.spotify.com/album/4tXcR4YBqi96HgZlMCBY7v) | 3:43 | 2022-01-04 | 2024-02-02 |
 | [Oot Patangi](https://open.spotify.com/track/3MFeWkN6J07QTwwIHWTBYC) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Oot Patangi](https://open.spotify.com/album/70SKb5B68vfWO4nPrGkoNv) | 3:07 | 2021-12-10 | 2022-02-02 |
 | [Out of Love](https://open.spotify.com/track/6x4fJlgsoGqklYyMQN7vLN) | [Raashi Sood](https://open.spotify.com/artist/0ZEiDnkNsdY6IXWUjWuBU2), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [Out of Love](https://open.spotify.com/album/1bv1UnuDeOnL6odVRPJksM) | 3:17 | 2022-07-05 | 2023-01-04 |

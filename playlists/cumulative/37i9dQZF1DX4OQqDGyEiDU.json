@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Explore the current wave of VOCALOID culture. Cover: Hatsune Miku \u00a9\ufe0e CFM",
+  "description": "Explore the current wave of VOCALOID culture. Cover: PinocchioP",
   "name": "VOCALOID now",
   "tracks": [
     {
@@ -402,7 +402,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 135363,
       "name": "All Mine (with Hatsune Miku, MOLIY, & jon-YAKITORY)",
       "url": "https://open.spotify.com/track/0q9RzA7nCzsa8fQX7myDYw"
@@ -2332,7 +2332,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 188307,
       "name": "L.U.C.K.Y.G.I.R.L",
       "url": "https://open.spotify.com/track/4MbrJOif1xDWeJl3kci3LL"
@@ -4968,7 +4968,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-20",
+      "date_removed": null,
       "duration_ms": 122482,
       "name": "\u3044\u307e\u3059\u3050\u8f2a\u5efb",
       "url": "https://open.spotify.com/track/2YZa7FpeKe423Wvme0yKNf"
@@ -5024,6 +5024,32 @@
       "duration_ms": 163000,
       "name": "\u3046\u3089\u3084\u307f\u3057\u3044 - feat. Kai,\u521d\u97f3\u30df\u30af,\u53ef\u4e0d",
       "url": "https://open.spotify.com/track/0m5i8xeVVUeDs3m3A2V6es"
+    },
+    {
+      "album": {
+        "name": "\u3048\u306d\u307f\u3043 (feat. \u521d\u97f3\u30df\u30af & \u91cd\u97f3\u30c6\u30c8)",
+        "url": "https://open.spotify.com/album/5TpRHLrUSXcEPQvjV4WGcg"
+      },
+      "artists": [
+        {
+          "name": "PinocchioP",
+          "url": "https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        },
+        {
+          "name": "Teto Kasane",
+          "url": "https://open.spotify.com/artist/1whAPNHAalmyNIsfapcIcR"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181333,
+      "name": "\u3048\u306d\u307f\u3043 (feat. \u521d\u97f3\u30df\u30af & \u91cd\u97f3\u30c6\u30c8)",
+      "url": "https://open.spotify.com/track/0hS31wkSGx2b5D7AQc0fYT"
     },
     {
       "album": {
@@ -7338,7 +7364,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 180306,
       "name": "\u30b7\u30d3\u30eb\u30a2\u30a4",
       "url": "https://open.spotify.com/track/08uJ0SODhKBGBqtm39PZsQ"
@@ -11538,7 +11564,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-01",
+      "date_removed": null,
       "duration_ms": 198733,
       "name": "\u53ef\u611b\u3044\u3042\u306e\u5b50\u304c\u6c17\u306b\u3090\u3089\u306a\u3044",
       "url": "https://open.spotify.com/track/2cljEZhP1PZcYHsitlCyW5"
@@ -13680,7 +13706,7 @@
       ],
       "date_added": "2026-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 206600,
       "name": "\u77e5\u3089\u3093\u304c\u306a\uff01 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/7LqhDtY3bdnhng57oYJOfE"
@@ -13752,7 +13778,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-01",
+      "date_removed": null,
       "duration_ms": 195693,
       "name": "\u7ae5\u8a71\u306b\u306a\u3063\u305f\u3089\u3044\u3044\u306e\u306b",
       "url": "https://open.spotify.com/track/0ZWQbOQpHp9UzpduRGfISw"

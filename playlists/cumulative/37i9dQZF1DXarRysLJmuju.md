@@ -4,7 +4,7 @@
 
 > Today’s pop, plugged into the culture w/ Britney
 
-3,495 songs - 7 day 9 hr 42 min
+3,497 songs - 7 day 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1991,6 +1991,7 @@
 | [Melrose](https://open.spotify.com/track/6yaIAV2KtoXufowCjrbxmP) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Melrose](https://open.spotify.com/album/4c4dsFrjHca8YKm1JOVVkY) | 2:28 | 2024-09-27 | 2024-10-12 |
 | [Meltdown](https://open.spotify.com/track/52Rfxu5AUNMV1qhhC2ZCkb) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Meltdown](https://open.spotify.com/album/5YFjep71L0CSTopsrhZ56q) | 2:33 | 2023-04-28 | 2023-06-10 |
 | [Memories](https://open.spotify.com/track/2GXkfq4zMW42QbwATAIeiJ) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Memories](https://open.spotify.com/album/0xjqoGk8yDHR6Nn0c2VLqa) | 3:15 | 2025-07-25 | 2025-08-18 |
+| [Memories](https://open.spotify.com/track/403gawZsw405TxgN5LIuDp) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Memories](https://open.spotify.com/album/7CheQyCUw5eah8GradRZ4q) | 3:04 | 2026-10-13 |  |
 | [Memories](https://open.spotify.com/track/5UXJzLFdBn6u9FJTCnoHrH) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Superache](https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI) | 4:08 | 2023-02-17 | 2023-04-01 |
 | [memories \- demo](https://open.spotify.com/track/2xbPbYI0ggFDLZNt2uQRC7) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [songs that got lost in translation](https://open.spotify.com/album/7DNKJTacqnSTbhjbWq1Ihx) | 2:40 | 2024-01-19 | 2024-03-16 |
 | [Memory Lane](https://open.spotify.com/track/7hHrs2q5c5rtzHLJ2DKHTT) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Memory Lane & Winter Song](https://open.spotify.com/album/5IvpvVd9LKgHACcUSHL5Y8) | 3:12 | 2023-11-24 | 2023-12-02 |
@@ -2774,6 +2775,7 @@
 | [Sorry Mom](https://open.spotify.com/track/10Fl76ACsl7eeyUYd1HcoV) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [Sorry Mom](https://open.spotify.com/album/1I2gWmQw3tXZVm3zjhZa90) | 2:45 | 2025-05-16 | 2025-07-12 |
 | [Sorry To Me Too](https://open.spotify.com/track/4SDccIA3pVkjaZsivDPaV5) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Sorry To Me Too](https://open.spotify.com/album/6tIdThlPKMAhHuB3wKSuNS) | 3:29 | 2022-11-12 | 2022-12-17 |
 | [Sorry You're Not Sorry](https://open.spotify.com/track/5ZugCbT4LxmvgzgusvzvBU) | [Cherry Bomb](https://open.spotify.com/artist/2MpXbvJeuKYA2qyxdB0eCM) | [Sorry You're Not Sorry](https://open.spotify.com/album/5maDinbDKH5eS7n3boHnjY) | 4:00 | 2026-06-12 | 2026-06-26 |
+| [Soul On Fire](https://open.spotify.com/track/55HJyam6jY3Z0cMvoHhXPI) | [Chris Grey](https://open.spotify.com/artist/0F3maSKfGGVtfATaAyeyPG), [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Soul On Fire](https://open.spotify.com/album/7i7EnZAR8DWx2iuRDfQvN8) | 2:47 | 2026-10-13 |  |
 | [Sour \(ft\. Ana Garrow\)](https://open.spotify.com/track/6QtB3ouZgi7Rhh0tj4azTK) | [DCR MILDA](https://open.spotify.com/artist/5AS0k6J1K3MrVUtKKahv64), [Ana Herrera](https://open.spotify.com/artist/3Uj9frkffmawt9xwKaQAGi) | [Sour \(ft\. Ana Garrow\)](https://open.spotify.com/album/6YC5HapPDj0f2nw0AenIZF) | 2:39 | 2026-09-18 | 2026-10-02 |
 | [source of life](https://open.spotify.com/track/6ngCpcD8t3eo8sd3n5YzCV) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [ESTRUS](https://open.spotify.com/album/6di14tEch7EQ0jMglRwcf6) | 2:11 | 2026-09-18 |  |
 | [southbound](https://open.spotify.com/track/4jiwz2tQZo21Z4NQwz4zUt) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [southbound / test drive](https://open.spotify.com/album/4Uh9XOh5hmX0Cw7JREc0AU) | 2:17 | 2025-03-21 | 2025-05-24 |

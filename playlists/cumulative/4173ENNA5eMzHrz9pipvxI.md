@@ -4,7 +4,7 @@
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Zenar &amp; Nick Jam
 
-2,086 songs - 4 day 4 hr 26 min
+2,087 songs - 4 day 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1745,6 +1745,7 @@
 | [Takata](https://open.spotify.com/track/4yHWFJAaXTvk7LibzjyEv6) | [Le Twins](https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb) | [Takata](https://open.spotify.com/album/557rBxVHIxdUYxfi508M4w) | 3:34 | 2023-02-02 | 2023-02-18 |
 | [Take Control](https://open.spotify.com/track/70z6wZYx5VAM7cw1PrhgxT) | [Wave Wave](https://open.spotify.com/artist/2jeqYJH4s0yEiqBpfer8s9) | [Take Control](https://open.spotify.com/album/4fOXUCgiZkpH22kvDXXgzE) | 3:03 | 2024-05-17 | 2024-05-24 |
 | [Take It Slow \(Bullit\)](https://open.spotify.com/track/3WrDF5bzGviLKHizs6yj8j) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Watermät](https://open.spotify.com/artist/4a9sClW4YpYQE5jUMAWx5W) | [Take It Slow \(Bullit\)](https://open.spotify.com/album/5xIwMpVCiIrvWPBHmPVmOk) | 2:56 | 2026-08-14 |  |
+| [Take It Slow \(Bullit\)](https://open.spotify.com/track/3d4xP3sUrLslwXjGsGdgSv) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Watermät](https://open.spotify.com/artist/4a9sClW4YpYQE5jUMAWx5W) | [Take It Slow \(Bullit\)](https://open.spotify.com/album/3Pd6Q22lKUjKnJ3Tysz26h) | 2:56 | 2026-10-13 |  |
 | [Take Me Away](https://open.spotify.com/track/1cs1kaN1LzB6bthOFH01Q2) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [longstoryshort](https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl) | [Take Me Away](https://open.spotify.com/album/3w0ZKUzyBG3hkwvV3RcOAw) | 2:26 | 2024-08-01 | 2024-08-09 |
 | [Take Me Away \(feat\. 4 Strings\)](https://open.spotify.com/track/6uwZTxW1wBkWNSAqd1noW8) | [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV), [Dr Phunk](https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk), [4 Strings](https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id) | [Take Me Away \(feat\. 4 Strings\)](https://open.spotify.com/album/3vOYtOP8y4n972n5YFZL0O) | 3:02 | 2024-05-23 | 2024-06-01 |
 | [Take Me Away \(Into The Night\)](https://open.spotify.com/track/5luQZ72hkZ7Y3tpDzbeZ7E) | [Cuebrick](https://open.spotify.com/artist/2ONoOunWxnWn1DikA6rjBM), [Melody Mane](https://open.spotify.com/artist/48gbf4ARAxb4gb6dsQrSF7) | [Take Me Away \(Into The Night\)](https://open.spotify.com/album/4KRBdJXmN50QXMq76FC5fc) | 2:33 | 2022-06-03 | 2022-06-11 |

@@ -1,6 +1,6 @@
 {
   "description": "the best of the deep end. cover: Saint\u00e9",
-  "num_followers": 109221,
+  "num_followers": 109222,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
@@ -459,6 +459,22 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
+        "name": "Failed Voice Notes",
+        "url": "https://open.spotify.com/album/0ECdefTy0wLvhGK2ctYtGe"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "duration_ms": 193732,
+      "name": "FVN 07: Afraid I'll Change",
+      "url": "https://open.spotify.com/track/1Yu2BiCWTNznlk36CkRvCJ"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
         "name": "I Love You",
         "url": "https://open.spotify.com/album/6yAjcw3OQin9aBXTDI0k0A"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 208866,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/7haHJ5kRXm1yeUP5OEqA61"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
-        "name": "Failed Voice Notes",
-        "url": "https://open.spotify.com/album/0ECdefTy0wLvhGK2ctYtGe"
-      },
-      "artists": [
-        {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
-        }
-      ],
-      "duration_ms": 193732,
-      "name": "FVN 07: Afraid I'll Change",
-      "url": "https://open.spotify.com/track/1Yu2BiCWTNznlk36CkRvCJ"
     },
     {
       "added_at": "2025-10-10 12:01:08",

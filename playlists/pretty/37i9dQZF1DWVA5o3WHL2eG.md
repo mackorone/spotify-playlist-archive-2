@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: LIA LIA
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,701 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,702 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 8 | [Geile Sau trotzdem](https://open.spotify.com/track/2zMwwhmXuhYwvdc5uil9nJ) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h), [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn) | [Geile Sau trotzdem](https://open.spotify.com/album/4pGhn3nmFJbByCvY2UrIxR) | 2:01 |
 | 9 | [Fous!](https://open.spotify.com/track/5TjBYNNSQD5djlxGOwilDo) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Fous!](https://open.spotify.com/album/7r9AubIxGLReZWAyNYExck) | 2:06 |
 | 10 | [vergötter mich \(mit bürgermeisterin von wien\)](https://open.spotify.com/track/4bMPMbobqUqDf99x2CQhNg) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC), [yola](https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF), [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [harte mackerinnen ep](https://open.spotify.com/album/4VodSIlJvAw3EcrKg8PgVC) | 2:41 |
-| 11 | [Der einzige Ort](https://open.spotify.com/track/2mxxVYy22sJBNOXkKd8Ob2) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [Der einzige Ort](https://open.spotify.com/album/4XEoS4uSjP9r3nY5thup6g) | 2:18 |
-| 12 | [hot girl](https://open.spotify.com/track/52nPmTmfUBQGqjWAtzsW52) | [Zsá Zsá](https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ) | [hot girl](https://open.spotify.com/album/76c3oagYjnDPwnlGlxETNe) | 1:28 |
+| 11 | [hot girl](https://open.spotify.com/track/52nPmTmfUBQGqjWAtzsW52) | [Zsá Zsá](https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ) | [hot girl](https://open.spotify.com/album/76c3oagYjnDPwnlGlxETNe) | 1:28 |
+| 12 | [Der einzige Ort](https://open.spotify.com/track/2mxxVYy22sJBNOXkKd8Ob2) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [Der einzige Ort](https://open.spotify.com/album/4XEoS4uSjP9r3nY5thup6g) | 2:18 |
 | 13 | [eigentlich](https://open.spotify.com/track/3yAHXk7dPNgbWEWiTLNQAz) | [Lilli](https://open.spotify.com/artist/0EdqMUSITvHwlyAc5SwPcK) | [eigentlich](https://open.spotify.com/album/3Min0vu9TVb5r6A1kETvai) | 2:24 |
 | 14 | [Boogiepop Blitzkrieg Blob](https://open.spotify.com/track/0InsWMLpmFodDsg4fPTn2e) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [Armor](https://open.spotify.com/album/6PV9UuqMA3mB9acdDj06DX) | 1:40 |
 | 15 | [Enter Ecstasy](https://open.spotify.com/track/5KmIER0T9L2CQQUjMpgYnd) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [Enter Ecstasy](https://open.spotify.com/album/6zoM49cN5dlEPyDyCfzoGm) | 3:03 |
@@ -44,14 +44,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 34 | [Neues Leben](https://open.spotify.com/track/0ur7C1YPpvtcrUMTQD9Zq5) | [Ebow](https://open.spotify.com/artist/0A6JvVRIH3NZRto4r1OUrA), [Joy Denalane](https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH) | [Typologie eines Lebens](https://open.spotify.com/album/03TXUJcq5aC52Eusx5g6VB) | 3:01 |
 | 35 | [Breaking Me](https://open.spotify.com/track/3xsZ4lrQu8mzzFy6sv50aS) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Breaking Me](https://open.spotify.com/album/02Gp8gQ0QBXh6Fa2BVCosy) | 2:37 |
 | 36 | [Save You](https://open.spotify.com/track/0yRy7vY6LV9071w4kS0MCO) | [Anna Ullrich](https://open.spotify.com/artist/50KbwRJgMFxSmT50FamuDN) | [Save You](https://open.spotify.com/album/6F5GN6Jhh60wjYQ28IIrR9) | 4:09 |
-| 37 | [Silver Screen](https://open.spotify.com/track/3IzKadWjjSBDA5WpINZO2r) | [Hanna Rautzenberg](https://open.spotify.com/artist/4KsVHZ3XBKV7bIXF8x8q3y) | [Silver Screen](https://open.spotify.com/album/5dAU1B52eefzuiJHBlHroP) | 2:37 |
-| 38 | [Nur zu Besuch \(feat\. Emma Rose\)](https://open.spotify.com/track/5LMrjomC6YqJslM3yjE3Bj) | [Lina Maly](https://open.spotify.com/artist/0VVKg6krYM45eGuevSlcRk), [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [Nur zu Besuch \(feat\. Emma Rose\)](https://open.spotify.com/album/6qcFf9GgBhfz4NXeT384CK) | 3:09 |
-| 39 | [crocodile tears](https://open.spotify.com/track/7KLVwQ5aDg5V2SI6cknRrn) | [piya](https://open.spotify.com/artist/0cEl0cfqLbO7XsDrzJXrzh) | [crocodile tears](https://open.spotify.com/album/34EWrOMyFRJWTiP3BRtV6o) | 2:50 |
+| 37 | [crocodile tears](https://open.spotify.com/track/7KLVwQ5aDg5V2SI6cknRrn) | [piya](https://open.spotify.com/artist/0cEl0cfqLbO7XsDrzJXrzh) | [crocodile tears](https://open.spotify.com/album/34EWrOMyFRJWTiP3BRtV6o) | 2:50 |
+| 38 | [Silver Screen](https://open.spotify.com/track/3IzKadWjjSBDA5WpINZO2r) | [Hanna Rautzenberg](https://open.spotify.com/artist/4KsVHZ3XBKV7bIXF8x8q3y) | [Silver Screen](https://open.spotify.com/album/5dAU1B52eefzuiJHBlHroP) | 2:37 |
+| 39 | [Nur zu Besuch \(feat\. Emma Rose\)](https://open.spotify.com/track/5LMrjomC6YqJslM3yjE3Bj) | [Lina Maly](https://open.spotify.com/artist/0VVKg6krYM45eGuevSlcRk), [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [Nur zu Besuch \(feat\. Emma Rose\)](https://open.spotify.com/album/6qcFf9GgBhfz4NXeT384CK) | 3:09 |
 | 40 | [be something](https://open.spotify.com/track/5uv6ABamjf6Xzjc5Kb2Z3W) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [BODYSCANNER](https://open.spotify.com/album/60qluYjAHDpgyFzVV0gXdG) | 4:54 |
 | 41 | [nebelschwadengrau](https://open.spotify.com/track/3BmSV3De4VMcUpICTFjlFQ) | [maja kemper](https://open.spotify.com/artist/18mccMGkbMAxvuQ5D6a7lk) | [nebelschwadengrau](https://open.spotify.com/album/4dfRHYoDIZuCZ5nYfYhbSu) | 3:16 |
-| 42 | [The Pretender](https://open.spotify.com/track/2oGgKnec1RtBsC2N1izzAY) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Apply Autonomy](https://open.spotify.com/album/1NsZcfFWbnBl1Na5dFY2bh) | 3:32 |
-| 43 | [Brombeeren unter Dornen](https://open.spotify.com/track/6sPXIAy2v5wKKIbswlkV9h) | [Luna Simao](https://open.spotify.com/artist/7zXcUC3oYfken45edomJZC) | [Wenn ich ehrlich bin](https://open.spotify.com/album/5oSiw98KsjZSFc8jxArj6i) | 2:36 |
-| 44 | [What I Need](https://open.spotify.com/track/05lkFXYG6D3iUmEsmxjUMf) | [Lahra](https://open.spotify.com/artist/3VJmc3ZrfHTausmE3eTwYJ) | [What I Need](https://open.spotify.com/album/21AfNPpOR90xByW1wCbDo8) | 3:38 |
+| 42 | [What I Need](https://open.spotify.com/track/05lkFXYG6D3iUmEsmxjUMf) | [Lahra](https://open.spotify.com/artist/3VJmc3ZrfHTausmE3eTwYJ) | [What I Need](https://open.spotify.com/album/21AfNPpOR90xByW1wCbDo8) | 3:38 |
+| 43 | [The Pretender](https://open.spotify.com/track/2oGgKnec1RtBsC2N1izzAY) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Apply Autonomy](https://open.spotify.com/album/1NsZcfFWbnBl1Na5dFY2bh) | 3:32 |
+| 44 | [Brombeeren unter Dornen](https://open.spotify.com/track/6sPXIAy2v5wKKIbswlkV9h) | [Luna Simao](https://open.spotify.com/artist/7zXcUC3oYfken45edomJZC) | [Wenn ich ehrlich bin](https://open.spotify.com/album/5oSiw98KsjZSFc8jxArj6i) | 2:36 |
 | 45 | [Kippe danach](https://open.spotify.com/track/1Qibw04eDR9tZu8rwDBU5U) | [Amélia](https://open.spotify.com/artist/54FK3m7jbipAgbP1gx8fUa) | [Kippe danach](https://open.spotify.com/album/5jhQj3mNO5bCkGpwMm9GjV) | 2:36 |
 | 46 | [Roter Faden](https://open.spotify.com/track/4o7GbCUuZuVaqsoWLgW8lk) | [Pippa](https://open.spotify.com/artist/3YnovPMNx58Jp0JCpNUz6x) | [Roter Faden](https://open.spotify.com/album/5mNOzWnP54Xccnm4UDSpUe) | 3:18 |
 | 47 | [Spirit](https://open.spotify.com/track/3JoamIoZCD6RMwmep3nPhF) | [Tamara Wirth](https://open.spotify.com/artist/0Gvk0fAmhSNDBiLzbLHcWI) | [Esoteric Reality EP](https://open.spotify.com/album/3T1RZ0oe4hvSccrC7Qcg60) | 6:34 |

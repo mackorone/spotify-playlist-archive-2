@@ -537,6 +537,24 @@
     },
     {
       "album": {
+        "name": "Creature",
+        "url": "https://open.spotify.com/album/4BJQthhHrClWTquQnTTlMZ"
+      },
+      "artists": [
+        {
+          "name": "Eden Roze",
+          "url": "https://open.spotify.com/artist/4GghHLohPHrzB04jas3TIr"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230192,
+      "name": "Creature",
+      "url": "https://open.spotify.com/track/4KZaPLldsGdZ9wFBaodhu0"
+    },
+    {
+      "album": {
         "name": "MMXXII",
         "url": "https://open.spotify.com/album/6vRRH7PlhC05goJHMlpwGN"
       },
@@ -552,7 +570,7 @@
       ],
       "date_added": "2026-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 217107,
       "name": "Crying (In September)",
       "url": "https://open.spotify.com/track/6DhVlfBpDjqnGQHx2LhxK2"
@@ -754,6 +772,24 @@
       "duration_ms": 171200,
       "name": "Family of Two",
       "url": "https://open.spotify.com/track/7iJtJc3gbbLehTGp0HatSn"
+    },
+    {
+      "album": {
+        "name": "Fear",
+        "url": "https://open.spotify.com/album/5PcV3AxCIWaXY4t2f26cbb"
+      },
+      "artists": [
+        {
+          "name": "Revolana",
+          "url": "https://open.spotify.com/artist/10GMiQxPVYdUZ5OceNBtNC"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151124,
+      "name": "Fear",
+      "url": "https://open.spotify.com/track/5JDoCALAWk9tryxgXaNHtN"
     },
     {
       "album": {
@@ -960,7 +996,7 @@
       ],
       "date_added": "2026-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 129959,
       "name": "Girls and the Curse",
       "url": "https://open.spotify.com/track/0eO1FG7sNpB9PSHShDlQZG"
@@ -1344,7 +1380,7 @@
       ],
       "date_added": "2026-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 248468,
       "name": "I'm Bored x",
       "url": "https://open.spotify.com/track/1fRonpKCl5SRNccAHOEvl0"
@@ -2458,7 +2494,7 @@
       ],
       "date_added": "2026-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 191503,
       "name": "Sound In My Head",
       "url": "https://open.spotify.com/track/2lV3asnM691mdX5c2DqInZ"
@@ -2718,7 +2754,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 266032,
       "name": "System Fallin",
       "url": "https://open.spotify.com/track/21SPd4SsKN5BpE5QL0NwHU"
@@ -2830,7 +2866,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 208000,
       "name": "The Emigrants",
       "url": "https://open.spotify.com/track/330lJbLiWL32mTDpYS8SWL"
@@ -3149,6 +3185,24 @@
     },
     {
       "album": {
+        "name": "BLUUM",
+        "url": "https://open.spotify.com/album/25Vbkajnx5j1erzMf4YQlj"
+      },
+      "artists": [
+        {
+          "name": "BLUUM",
+          "url": "https://open.spotify.com/artist/0xDzbSKeVo7PNMUYWjHzyy"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124294,
+      "name": "Tough Break, Kid",
+      "url": "https://open.spotify.com/track/41qZd7CdsZfUkmepv2Kh6r"
+    },
+    {
+      "album": {
         "name": "TRICK and TREAT",
         "url": "https://open.spotify.com/album/1WPgTdmt0CCN1Ff81i4igu"
       },
@@ -3204,6 +3258,24 @@
       "duration_ms": 181260,
       "name": "Unknown destinies",
       "url": "https://open.spotify.com/track/3NOVahQAgF72ycqqORcrMl"
+    },
+    {
+      "album": {
+        "name": "Up & Down",
+        "url": "https://open.spotify.com/album/0JPabOkFfoioyJkk5DXl9N"
+      },
+      "artists": [
+        {
+          "name": "Biernacki",
+          "url": "https://open.spotify.com/artist/1uPEP1OPYU5FmVjv64zv1g"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201191,
+      "name": "Up & Down",
+      "url": "https://open.spotify.com/track/684NwcQYvTJx8IcHX0ypX8"
     },
     {
       "album": {
@@ -3330,7 +3402,7 @@
       ],
       "date_added": "2026-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 340957,
       "name": "Welcome To The Show",
       "url": "https://open.spotify.com/track/5qddgMqAL4NQga5zns6Ghw"

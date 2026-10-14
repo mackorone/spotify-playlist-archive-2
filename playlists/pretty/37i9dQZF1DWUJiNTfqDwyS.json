@@ -1,6 +1,6 @@
 {
   "description": "A collection of the best Metal covers out there. Cover: Ghost",
-  "num_followers": 392460,
+  "num_followers": 392459,
   "original_name": "Metal Covers",
   "owner": {
     "name": "Spotify",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-03-20 16:45:24",
       "album": {
-        "name": "The Sickness",
-        "url": "https://open.spotify.com/album/6IvosVciDOQ9NAPaKwhtLY"
-      },
-      "artists": [
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        }
-      ],
-      "duration_ms": 258053,
-      "name": "Shout 2000",
-      "url": "https://open.spotify.com/track/3iTGqLgYo57UjTHAieDOlA"
-    },
-    {
-      "added_at": "2026-03-20 16:45:24",
-      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/7rLUzHOq0d0mRGGEIqKfli"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 380640,
       "name": "Simple Man - 2005 Remaster",
       "url": "https://open.spotify.com/track/0OKl4ySuPS2VCuB0gby2pj"
+    },
+    {
+      "added_at": "2026-03-20 16:45:24",
+      "album": {
+        "name": "The Sickness",
+        "url": "https://open.spotify.com/album/6IvosVciDOQ9NAPaKwhtLY"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "duration_ms": 258053,
+      "name": "Shout 2000",
+      "url": "https://open.spotify.com/track/3iTGqLgYo57UjTHAieDOlA"
     },
     {
       "added_at": "2026-03-20 16:45:24",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-03-20 16:45:24",
       "album": {
-        "name": "The Burning Red",
-        "url": "https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 211973,
-      "name": "Message in a Bottle",
-      "url": "https://open.spotify.com/track/6Iy5KEB1kO2BVOGnAgVV65"
-    },
-    {
-      "added_at": "2026-03-20 16:45:24",
-      "album": {
         "name": "Rebels",
         "url": "https://open.spotify.com/album/1rtB3hzE9dbjJMP7dYy9rF"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 278280,
       "name": "Rebel Yell",
       "url": "https://open.spotify.com/track/2nbXgSw0D7llrE4N06FZcQ"
+    },
+    {
+      "added_at": "2026-03-20 16:45:24",
+      "album": {
+        "name": "The Burning Red",
+        "url": "https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 211973,
+      "name": "Message in a Bottle",
+      "url": "https://open.spotify.com/track/6Iy5KEB1kO2BVOGnAgVV65"
     },
     {
       "added_at": "2026-03-20 16:45:24",

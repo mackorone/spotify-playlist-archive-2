@@ -1,13 +1,61 @@
 {
-  "description": "Your favorite holiday tunes, like you've never heard before. Cover: Ravyn Lenae",
-  "num_followers": 723572,
+  "description": "Your favorite holiday tunes, like you've never heard before. Cover: Lykke Li",
+  "num_followers": 723569,
   "original_name": "Spotify Singles: Holiday Collection",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAnt5bC6G3GytdvxMIfqwecPWhDT",
+  "snapshot_id": "AAAAAGnyUI2GSd1uUyGSJ4xzhpb6e+5m",
   "tracks": [
+    {
+      "added_at": "2026-10-14 04:00:20",
+      "album": {
+        "name": "Have Yourself a Merry Little Christmas - Spotify Singles Holiday",
+        "url": "https://open.spotify.com/album/7t09nW9EJhj2oaOH8QbHxV"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 195901,
+      "name": "Have Yourself a Merry Little Christmas - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/6liolbDYbru5D2WdNOWpoQ"
+    },
+    {
+      "added_at": "2026-10-14 04:00:20",
+      "album": {
+        "name": "2000 Miles - Spotify Singles Holiday",
+        "url": "https://open.spotify.com/album/4dEwGrcucC4SyfXviDQSlf"
+      },
+      "artists": [
+        {
+          "name": "Freya Skye",
+          "url": "https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn"
+        }
+      ],
+      "duration_ms": 208880,
+      "name": "2000 Miles - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/1HftwnsmpwF97Q3hnbyYWg"
+    },
+    {
+      "added_at": "2026-10-14 04:00:20",
+      "album": {
+        "name": "Merry Christmas Darling (Spotify Singles Holiday)",
+        "url": "https://open.spotify.com/album/4fFQ7GjtFMfBs31YZbowFU"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 157927,
+      "name": "Merry Christmas Darling - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/4ukTFyAEnLtqAYC1uw57aD"
+    },
     {
       "added_at": "2025-10-15 06:21:28",
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3741Fu.md) - [plain]
 
 > This is Daphne Oram\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 269 likes - 34 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 268 likes - 34 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

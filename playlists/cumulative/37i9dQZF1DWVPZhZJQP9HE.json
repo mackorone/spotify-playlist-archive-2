@@ -5443,6 +5443,24 @@
     },
     {
       "album": {
+        "name": "Kaadhal Oonjal",
+        "url": "https://open.spotify.com/album/1RyifnqlJGF7oXbVMt4Xqd"
+      },
+      "artists": [
+        {
+          "name": "Siri Xander",
+          "url": "https://open.spotify.com/artist/1YN9DIwQxOUnAzfgOWWiNR"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147428,
+      "name": "Kaadhal Oonjal",
+      "url": "https://open.spotify.com/track/6HAHxE7PdIEk52Ra9ZuIFw"
+    },
+    {
+      "album": {
         "name": "Kaadhal Pozhigiradhu Kaatrum Ninaigiradhae (From \"Irandaam kaadhal\")",
         "url": "https://open.spotify.com/album/6O26zFJwro5cCzZqZ4iF4p"
       },
@@ -14854,7 +14872,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 179999,
       "name": "Tamil Ponnu",
       "url": "https://open.spotify.com/track/4qfKvIrREb7l1LJYjD4PeG"
@@ -15366,6 +15384,24 @@
       "duration_ms": 179666,
       "name": "Thanni Can Poda Vandhavan - From \"Think Specials\"",
       "url": "https://open.spotify.com/track/5tlJtQt2I8AsvfgKmJ9eab"
+    },
+    {
+      "album": {
+        "name": "Thannigazhai",
+        "url": "https://open.spotify.com/album/2D8jvOg1LFBAkOXe7bEOLh"
+      },
+      "artists": [
+        {
+          "name": "Siri Xander",
+          "url": "https://open.spotify.com/artist/1YN9DIwQxOUnAzfgOWWiNR"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77862,
+      "name": "Thannigazhai",
+      "url": "https://open.spotify.com/track/04gxnLQykQm3FI0KdZTDMx"
     },
     {
       "album": {
@@ -18206,7 +18242,7 @@
       ],
       "date_added": "2026-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 257659,
       "name": "Yenge Povadhu",
       "url": "https://open.spotify.com/track/4RNEGz8jiPA7i2VB42ul74"

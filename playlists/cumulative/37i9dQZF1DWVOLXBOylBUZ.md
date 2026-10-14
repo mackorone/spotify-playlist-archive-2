@@ -4,7 +4,7 @@
 
 > Latinoamérica baila al ritmo de Judeline.
 
-1,492 songs - 3 day 4 hr 59 min
+1,493 songs - 3 day 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [Bota Niña](https://open.spotify.com/track/2EbRFerXy6IPM3EfAOqZkB) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Bota Niña](https://open.spotify.com/album/3RCMoOMrcSNTHKPVDQRERR) | 3:29 | 2024-01-12 | 2024-05-18 |
 | [BOTAPAFO](https://open.spotify.com/track/6MNmlP5YeBIRleseep005A) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [HOPI SENDÉ](https://open.spotify.com/album/0Xe21PnOMP2JbgaUXZkyNM) | 1:58 | 2025-10-24 | 2026-04-25 |
 | [Bottega](https://open.spotify.com/track/2wmusRbeSfEkMKjT3wG57l) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Siempre Blessd](https://open.spotify.com/album/4PR6koe67C7YosjAYriYh4) | 2:35 | 2022-11-04 | 2023-03-11 |
+| [BOTZ](https://open.spotify.com/track/4tpT01PRHuLZI1tAvrJfRf) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [BOTZ](https://open.spotify.com/album/5n3zMrSedSoon33igy3KB2) | 2:58 | 2026-10-13 |  |
 | [BRILLAR](https://open.spotify.com/track/47UXfLTmgDbUMCOsvMhow0) | [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [BRILLAR](https://open.spotify.com/album/4Ks3FX1TliFM3R8hBIhlTy) | 2:26 | 2024-08-30 | 2024-12-07 |
 | [Brilloteo](https://open.spotify.com/track/5og72cF0YUrp8YYqlYmnyQ) | [Hecky](https://open.spotify.com/artist/62LTdoyTuT7z5r75cUozX7) | [Brilloteo](https://open.spotify.com/album/6SxIhRH3CIpxWsd2DMWX2J) | 2:35 | 2023-12-01 | 2024-03-09 |
 | [Brisa](https://open.spotify.com/track/5xhFO6kaUjGcSezSp5hIhG) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Brisa](https://open.spotify.com/album/4ZYTZPdMVeOcEaKRhRKFbE) | 4:19 | 2022-04-29 | 2022-09-20 |
@@ -1239,7 +1240,7 @@
 | [So no va](https://open.spotify.com/track/2eW1rnObrBLEpsPXFYiiOZ) | [Neomai](https://open.spotify.com/artist/0EMCLd5tzoPP35uUw23Pxz) | [So no va](https://open.spotify.com/album/6H3EMFja2m53vWjuI0QegB) | 2:41 | 2026-10-09 |  |
 | [Socios](https://open.spotify.com/track/6akOd56SylaQz9qHRxZk9a) | [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [Mazorkeo.com](https://open.spotify.com/album/6mnMcAWoYAIUD856ylBIId) | 1:49 | 2024-11-22 | 2025-03-08 |
 | [Sola](https://open.spotify.com/track/6ypxZlBgfczJnNLWvx0ytg) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [Sola](https://open.spotify.com/album/4CMuT50pdU5XwFls4pgLCZ) | 2:13 | 2025-04-11 | 2025-07-26 |
-| [Solcito](https://open.spotify.com/track/2BE1Q5N4Enl1eRrM82uzsu) | [Miguel Bueno](https://open.spotify.com/artist/3frx2nsVBAA3DvbKTE9JeT), [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Solcito](https://open.spotify.com/album/3BzCHEyuOsxZrWq3M3CsR2) | 2:24 | 2025-03-21 |  |
+| [Solcito](https://open.spotify.com/track/2BE1Q5N4Enl1eRrM82uzsu) | [Miguel Bueno](https://open.spotify.com/artist/3frx2nsVBAA3DvbKTE9JeT), [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Solcito](https://open.spotify.com/album/3BzCHEyuOsxZrWq3M3CsR2) | 2:24 | 2025-03-21 | 2026-10-14 |
 | [SOLEAO](https://open.spotify.com/track/3jAshemiRYWukWLtT3Ivrb) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [SOLEAO](https://open.spotify.com/album/1UMdrgq8ZuZRrJv7ZLvjpP) | 3:38 | 2025-05-30 | 2026-05-30 |
 | [Solita y SueltAAA](https://open.spotify.com/track/3gtZLsncEuG3gNO4Qswhuf) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [AfroLOVA' 23](https://open.spotify.com/album/4eycRqS93AqCf74BVzj6JP) | 2:35 | 2023-07-21 | 2023-10-14 |
 | [Solo $exo](https://open.spotify.com/track/79Mko9WRph1VIsxiUom4zv) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Icy Hot](https://open.spotify.com/album/2rebo6PvPbmBY3KGYT8KzG) | 3:09 | 2023-02-17 | 2023-07-22 |

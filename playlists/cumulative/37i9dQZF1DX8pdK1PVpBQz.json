@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels. Cover: FUKHED",
+  "description": "The best new music by independent artists and labels. Cover: zaqquack",
   "name": "Fresh Finds AU & NZ",
   "tracks": [
     {
@@ -7526,7 +7526,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 179000,
       "name": "Better This Way",
       "url": "https://open.spotify.com/track/1xltPxGpn4bG5mXNViFNKv"
@@ -20811,6 +20811,24 @@
     },
     {
       "album": {
+        "name": "Dovetail",
+        "url": "https://open.spotify.com/album/2uyNpB07GijQB1Bj9iWZR2"
+      },
+      "artists": [
+        {
+          "name": "ANT ENOCH",
+          "url": "https://open.spotify.com/artist/0ex51vgneM2buiVP366poW"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148677,
+      "name": "Dovetail",
+      "url": "https://open.spotify.com/track/59Mm6qA9SrbM5a0ZUYXKTv"
+    },
+    {
+      "album": {
         "name": "Down",
         "url": "https://open.spotify.com/album/6yqKDcyPsnXruH0BRQ2DyR"
       },
@@ -27322,7 +27340,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 283529,
       "name": "Four Leaf Clovers",
       "url": "https://open.spotify.com/track/3du7P6Uzv852NDaEdnmCu6"
@@ -32091,6 +32109,24 @@
     },
     {
       "album": {
+        "name": "Hard People",
+        "url": "https://open.spotify.com/album/7wRDi8WDuECaOkpPtaTCEY"
+      },
+      "artists": [
+        {
+          "name": "Immy Owusu",
+          "url": "https://open.spotify.com/artist/5gmKrR6QTu7AfVN7u1uPwO"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233733,
+      "name": "Hard People",
+      "url": "https://open.spotify.com/track/4Ckc3MCu4zURLpbZWR4Q1w"
+    },
+    {
+      "album": {
         "name": "Stars Fall 2",
         "url": "https://open.spotify.com/album/1KfnMVlXQIugKjeRKGjvSM"
       },
@@ -35840,6 +35876,24 @@
       "duration_ms": 196932,
       "name": "I don't want you to be happy",
       "url": "https://open.spotify.com/track/0bpLmhqL8noZJlu1tbHMYX"
+    },
+    {
+      "album": {
+        "name": "i dont like that",
+        "url": "https://open.spotify.com/album/5pTwEfOJJoBeMhW1UqUZP6"
+      },
+      "artists": [
+        {
+          "name": "zaqquack",
+          "url": "https://open.spotify.com/artist/6AR7FcpA1dXUbl23rPOSfn"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100858,
+      "name": "i dont like that",
+      "url": "https://open.spotify.com/track/4gwlS11GtPmraiGKNOFLSW"
     },
     {
       "album": {
@@ -46998,7 +47052,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 175103,
       "name": "Magic Man",
       "url": "https://open.spotify.com/track/1kegdFmzGcUPUM35xJXzmK"
@@ -53938,7 +53992,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 299200,
       "name": "nothing to you (ft. cass)",
       "url": "https://open.spotify.com/track/35qOOhEq1jqt8b2RAuqsj9"
@@ -61344,6 +61398,24 @@
       "duration_ms": 113388,
       "name": "Raincoat",
       "url": "https://open.spotify.com/track/4GsiP7CtrpFuq5KBcTBg4Y"
+    },
+    {
+      "album": {
+        "name": "Rainy Day",
+        "url": "https://open.spotify.com/album/5n0lBX2vu3Pq5h2fVSPlEw"
+      },
+      "artists": [
+        {
+          "name": "xingfu",
+          "url": "https://open.spotify.com/artist/1QlJTlOwG3BQ26qXdoxz4y"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202115,
+      "name": "Rainy Day",
+      "url": "https://open.spotify.com/track/5AtThj2EGj3cWUAyoiKeXj"
     },
     {
       "album": {
@@ -70664,6 +70736,24 @@
       "duration_ms": 205529,
       "name": "Starting Over",
       "url": "https://open.spotify.com/track/0KtiONnwQ1jQtLnHaXBSku"
+    },
+    {
+      "album": {
+        "name": "Starving",
+        "url": "https://open.spotify.com/album/15ANbVSjHkg70LoAVretP3"
+      },
+      "artists": [
+        {
+          "name": "Meiia",
+          "url": "https://open.spotify.com/artist/5OBiDKrpXYlW6VBbJC7ODP"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Starving",
+      "url": "https://open.spotify.com/track/1WBqDYKMDN4XqEDDlBcnvq"
     },
     {
       "album": {
@@ -80608,7 +80698,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 126811,
       "name": "VENTIN",
       "url": "https://open.spotify.com/track/2NMa13i7VhlDEwiwM4Hwgk"

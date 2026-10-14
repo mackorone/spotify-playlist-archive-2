@@ -1,6 +1,6 @@
 {
   "description": "\u00a1M\u00fasica que representa a Cuba! Cover: Wampi",
-  "num_followers": 168730,
+  "num_followers": 168743,
   "original_name": "Hecho en Cuba",
   "owner": {
     "name": "Spotify",
@@ -343,6 +343,26 @@
     {
       "added_at": "2026-10-01 23:46:58",
       "album": {
+        "name": "El Sano",
+        "url": "https://open.spotify.com/album/70vYsvr1Ob0IKzweSNuJpy"
+      },
+      "artists": [
+        {
+          "name": "El Taiger",
+          "url": "https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf"
+        },
+        {
+          "name": "Lex White",
+          "url": "https://open.spotify.com/artist/1RzvhumWtiuw4dJiiuD7Mr"
+        }
+      ],
+      "duration_ms": 199307,
+      "name": "El Sano",
+      "url": "https://open.spotify.com/track/3CsaEEDEFo6uwt7SwSyexu"
+    },
+    {
+      "added_at": "2026-10-01 23:46:58",
+      "album": {
         "name": "Pa Que Escondernos (Remix)",
         "url": "https://open.spotify.com/album/7f0xsZHs2qaZA9C61W4rl7"
       },
@@ -367,26 +387,6 @@
       "duration_ms": 254836,
       "name": "Pa Que Escondernos - Remix",
       "url": "https://open.spotify.com/track/3mX4eNCbBMFOXQuD5AbXsB"
-    },
-    {
-      "added_at": "2026-10-01 23:46:58",
-      "album": {
-        "name": "El Sano",
-        "url": "https://open.spotify.com/album/70vYsvr1Ob0IKzweSNuJpy"
-      },
-      "artists": [
-        {
-          "name": "El Taiger",
-          "url": "https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf"
-        },
-        {
-          "name": "Lex White",
-          "url": "https://open.spotify.com/artist/1RzvhumWtiuw4dJiiuD7Mr"
-        }
-      ],
-      "duration_ms": 199307,
-      "name": "El Sano",
-      "url": "https://open.spotify.com/track/3CsaEEDEFo6uwt7SwSyexu"
     },
     {
       "added_at": "2026-10-01 23:46:58",
@@ -523,6 +523,38 @@
     {
       "added_at": "2026-10-01 23:46:58",
       "album": {
+        "name": "Taxi Rutero",
+        "url": "https://open.spotify.com/album/10Kjb9SrS23ELP1Lvyf0jZ"
+      },
+      "artists": [
+        {
+          "name": "Wampi",
+          "url": "https://open.spotify.com/artist/31BgFzpxI5OFoq7R5xjtwf"
+        },
+        {
+          "name": "El Dray",
+          "url": "https://open.spotify.com/artist/300pxhl4nt1dFDwNcOYYIT"
+        },
+        {
+          "name": "DJ Conds",
+          "url": "https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw"
+        },
+        {
+          "name": "Seikan Anikila",
+          "url": "https://open.spotify.com/artist/3G1cOL5DbH7yejpGAs3Ni8"
+        },
+        {
+          "name": "Adonis MC",
+          "url": "https://open.spotify.com/artist/593Of0KHzqbTfImhHskrJr"
+        }
+      ],
+      "duration_ms": 192941,
+      "name": "Taxi Rutero",
+      "url": "https://open.spotify.com/track/5oHyyhoSSwYdDlrzWzCZfP"
+    },
+    {
+      "added_at": "2026-10-01 23:46:58",
+      "album": {
         "name": "Fantasia",
         "url": "https://open.spotify.com/album/6GPX8ih1SqGIY87K4dcJ2Y"
       },
@@ -555,38 +587,6 @@
       "duration_ms": 218971,
       "name": "Fantasia - Prod. by Dave Produce x Michel Boutic",
       "url": "https://open.spotify.com/track/1fm0VuzsnXbS1ovFLYol67"
-    },
-    {
-      "added_at": "2026-10-01 23:46:58",
-      "album": {
-        "name": "Taxi Rutero",
-        "url": "https://open.spotify.com/album/10Kjb9SrS23ELP1Lvyf0jZ"
-      },
-      "artists": [
-        {
-          "name": "Wampi",
-          "url": "https://open.spotify.com/artist/31BgFzpxI5OFoq7R5xjtwf"
-        },
-        {
-          "name": "El Dray",
-          "url": "https://open.spotify.com/artist/300pxhl4nt1dFDwNcOYYIT"
-        },
-        {
-          "name": "DJ Conds",
-          "url": "https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw"
-        },
-        {
-          "name": "Seikan Anikila",
-          "url": "https://open.spotify.com/artist/3G1cOL5DbH7yejpGAs3Ni8"
-        },
-        {
-          "name": "Adonis MC",
-          "url": "https://open.spotify.com/artist/593Of0KHzqbTfImhHskrJr"
-        }
-      ],
-      "duration_ms": 192941,
-      "name": "Taxi Rutero",
-      "url": "https://open.spotify.com/track/5oHyyhoSSwYdDlrzWzCZfP"
     },
     {
       "added_at": "2026-10-01 23:46:58",
@@ -783,30 +783,6 @@
     {
       "added_at": "2026-10-01 23:46:58",
       "album": {
-        "name": "MARIDON",
-        "url": "https://open.spotify.com/album/2u1vOUpHwt0zGSZPmMsOnH"
-      },
-      "artists": [
-        {
-          "name": "Dale Pututi & Nesty",
-          "url": "https://open.spotify.com/artist/2RAbA5yism1Fw9Cl4bxDDP"
-        },
-        {
-          "name": "Nesty",
-          "url": "https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg"
-        },
-        {
-          "name": "Dale Pututi",
-          "url": "https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z"
-        }
-      ],
-      "duration_ms": 169611,
-      "name": "MARIDON",
-      "url": "https://open.spotify.com/track/631ybVLS21A3wY9zmHOsrw"
-    },
-    {
-      "added_at": "2026-10-01 23:46:58",
-      "album": {
         "name": "Uff",
         "url": "https://open.spotify.com/album/45te0DqNJr2j75nyaXzFSZ"
       },
@@ -831,6 +807,30 @@
       "duration_ms": 197894,
       "name": "Uff - Prod. by Dj Honda",
       "url": "https://open.spotify.com/track/7tqyxyev63WRu0k3hxbc7p"
+    },
+    {
+      "added_at": "2026-10-01 23:46:58",
+      "album": {
+        "name": "MARIDON",
+        "url": "https://open.spotify.com/album/2u1vOUpHwt0zGSZPmMsOnH"
+      },
+      "artists": [
+        {
+          "name": "Dale Pututi & Nesty",
+          "url": "https://open.spotify.com/artist/2RAbA5yism1Fw9Cl4bxDDP"
+        },
+        {
+          "name": "Nesty",
+          "url": "https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg"
+        },
+        {
+          "name": "Dale Pututi",
+          "url": "https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z"
+        }
+      ],
+      "duration_ms": 169611,
+      "name": "MARIDON",
+      "url": "https://open.spotify.com/track/631ybVLS21A3wY9zmHOsrw"
     },
     {
       "added_at": "2026-10-01 23:46:58",
@@ -863,26 +863,6 @@
     {
       "added_at": "2026-10-01 23:46:58",
       "album": {
-        "name": "UN TIEMPO",
-        "url": "https://open.spotify.com/album/629OQNREnZdJKsPtbvp0CI"
-      },
-      "artists": [
-        {
-          "name": "Yorshi & Yosan",
-          "url": "https://open.spotify.com/artist/6P1Br4Y7er2VNYiozFC1GO"
-        },
-        {
-          "name": "Charaway",
-          "url": "https://open.spotify.com/artist/2vjXRf6qBN4ckt5Tbt4lvy"
-        }
-      ],
-      "duration_ms": 178909,
-      "name": "UN TIEMPO",
-      "url": "https://open.spotify.com/track/6RhoTSeKVDKan32JCh80fV"
-    },
-    {
-      "added_at": "2026-10-01 23:46:58",
-      "album": {
         "name": "POQUITICO",
         "url": "https://open.spotify.com/album/6qHvjG50ACS7ELdCLBmOFT"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 198000,
       "name": "POQUITICO",
       "url": "https://open.spotify.com/track/1WOwgd7rhOlidOhkn2rcp7"
+    },
+    {
+      "added_at": "2026-10-01 23:46:58",
+      "album": {
+        "name": "UN TIEMPO",
+        "url": "https://open.spotify.com/album/629OQNREnZdJKsPtbvp0CI"
+      },
+      "artists": [
+        {
+          "name": "Yorshi & Yosan",
+          "url": "https://open.spotify.com/artist/6P1Br4Y7er2VNYiozFC1GO"
+        },
+        {
+          "name": "Charaway",
+          "url": "https://open.spotify.com/artist/2vjXRf6qBN4ckt5Tbt4lvy"
+        }
+      ],
+      "duration_ms": 178909,
+      "name": "UN TIEMPO",
+      "url": "https://open.spotify.com/track/6RhoTSeKVDKan32JCh80fV"
     },
     {
       "added_at": "2026-10-01 23:46:58",

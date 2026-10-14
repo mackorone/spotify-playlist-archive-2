@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,371 likes - 53 songs - 3 hr 6 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,394 likes - 56 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,5 +61,8 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 51 | [Bruised](https://open.spotify.com/track/6UuPO0N88i85SYd7EMObNz) | [Drawing on Scars](https://open.spotify.com/artist/6cQZAXvhiIhuzJlN7XmeKu), [Jodie Reid](https://open.spotify.com/artist/08oMRYJ7LRlDPN7QXE5l9u) | [Expectations](https://open.spotify.com/album/033LD9aposOxTkMpv8eU9h) | 3:49 |
 | 52 | [Los Cuadros](https://open.spotify.com/track/2sS07vonHvpJnpki5a8NQ1) | [Zarza](https://open.spotify.com/artist/2uOCM25IUsCJXRZenMEr7l) | [Los Cuadros / La Mujer de Blanco: Parte I](https://open.spotify.com/album/210YJMofBY2znygVZXbV3g) | 4:41 |
 | 53 | [Why](https://open.spotify.com/track/5FFX1vAs5yODkw76iHDB6U) | [Hazy Lane](https://open.spotify.com/artist/5NmnqhUJhyRm9Cp2zvhIu0) | [Why](https://open.spotify.com/album/1rVmJDMzgfXv1enZfIWeUZ) | 3:33 |
+| 54 | [Take Me Home](https://open.spotify.com/track/08R1wbrcqxX6Bp1rZR1XYQ) | [KXENIA](https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL) | [Take Me Home](https://open.spotify.com/album/4MT3COGlI2gH0r37eK25g3) | 3:16 |
+| 55 | [Avocado Eldorado](https://open.spotify.com/track/5T8utfxKwgAyFSef2lTbN1) | [Eric Schenkman](https://open.spotify.com/artist/2uqNhcHAzAEwtupvfqFYY4) | [Avocado Eldorado](https://open.spotify.com/album/4Xm8ZhHuEq9Gr5Msgr1CRs) | 3:06 |
+| 56 | [The Way](https://open.spotify.com/track/6oP9yeVKCl1cCqS7ue6lkB) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [Save a Prayer](https://open.spotify.com/album/4fhwVPU30qsmq0cmyNUZg0) | 3:20 |
 
-Snapshot ID: `AAAHN7mWssK1SSZwKRmsKgAnTt5/KvNm`
+Snapshot ID: `AAAHOq8vJ+ftdinNbNiAJlgvBTY/dc5i`

@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 122528,
+  "num_followers": 122513,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAV00lEDaPs9QIriE8cD/FmDOndpFSh",
+  "snapshot_id": "AAAV1GNRyUOwgxteH+JdkcIQTLBew3F+",
   "tracks": [
+    {
+      "added_at": "2026-10-13 14:23:51",
+      "album": {
+        "name": "Black Sheep (Remixes)",
+        "url": "https://open.spotify.com/album/6jKvrdoipNxBqKyhFskjFj"
+      },
+      "artists": [
+        {
+          "name": "ATLiens",
+          "url": "https://open.spotify.com/artist/74RET4rCZPTGzhsLjD0i3g"
+        },
+        {
+          "name": "GG Magree",
+          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
+        },
+        {
+          "name": "Blankface",
+          "url": "https://open.spotify.com/artist/0wBTYeI6551XR1lhbxRQnV"
+        }
+      ],
+      "duration_ms": 219624,
+      "name": "Black Sheep - Blankface Remix",
+      "url": "https://open.spotify.com/track/7LVNb7j6UtEfeHFzSQf3ar"
+    },
     {
       "added_at": "2026-10-09 13:50:23",
       "album": {

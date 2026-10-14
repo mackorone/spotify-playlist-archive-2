@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "Ya",
+        "url": "https://open.spotify.com/album/4oOwV097Vrv9e17oHilbvK"
+      },
+      "artists": [
+        {
+          "name": "Joana Carrasco",
+          "url": "https://open.spotify.com/artist/7MEva1IHEaKDRD87RPyrQL"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145250,
+      "name": "26 de Febrero",
+      "url": "https://open.spotify.com/track/1NT9jtnBcEX3Aw3TkLXRb7"
+    },
+    {
+      "album": {
         "name": "Gozar Hasta Que Me Ausente",
         "url": "https://open.spotify.com/album/7lv24E1PaqBcJdGopRCziP"
       },
@@ -1317,6 +1335,28 @@
     },
     {
       "album": {
+        "name": "El Quechua en Su Voz",
+        "url": "https://open.spotify.com/album/3ztmX744llimGwM6jgdjoH"
+      },
+      "artists": [
+        {
+          "name": "La Shiji",
+          "url": "https://open.spotify.com/artist/6v70gSeSuMwlmBnDB9U5GO"
+        },
+        {
+          "name": "La Siete de Agosto",
+          "url": "https://open.spotify.com/artist/108NAaFJAyXypSZwteqWg6"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287808,
+      "name": "El Quechua en Su Voz",
+      "url": "https://open.spotify.com/track/5FybsNkOOFol6yA7ZrpCAZ"
+    },
+    {
+      "album": {
         "name": "El tiempo de las cosas que frenan",
         "url": "https://open.spotify.com/album/6nytaOB8Hmrfr3nw7rdhlY"
       },
@@ -2416,6 +2456,28 @@
       "duration_ms": 425500,
       "name": "Noche - Remix",
       "url": "https://open.spotify.com/track/11C0KSr18vSPcaRbyEHYqt"
+    },
+    {
+      "album": {
+        "name": "Despertar en el verde",
+        "url": "https://open.spotify.com/album/4JaRQjr96eE4yG8TABViEY"
+      },
+      "artists": [
+        {
+          "name": "Kazz Juglar",
+          "url": "https://open.spotify.com/artist/4A8GoqVvPUSqA8yUtHEOtp"
+        },
+        {
+          "name": "Milagros Blanco",
+          "url": "https://open.spotify.com/artist/4GDMljGJC2Oj2evwaulOOx"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243858,
+      "name": "N\u00f3made",
+      "url": "https://open.spotify.com/track/5JKAic4y5UWRQwFOVkrhDB"
     },
     {
       "album": {

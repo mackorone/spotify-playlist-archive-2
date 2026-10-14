@@ -1,6 +1,6 @@
 {
   "description": "All the best soul disco sounds for getting down.",
-  "num_followers": 552092,
+  "num_followers": 552100,
   "original_name": "Soulful Disco",
   "owner": {
     "name": "Spotify",
@@ -855,6 +855,22 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
+        "name": "The Ultimate Bee Gees",
+        "url": "https://open.spotify.com/album/3JXTUy5Ccdpe79HUgUiMF9"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 256453,
+      "name": "You Should Be Dancing - 2009 Remastered Version",
+      "url": "https://open.spotify.com/track/5VAKsbOWGdBbg1VFlu9W8o"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
         "name": "Collections",
         "url": "https://open.spotify.com/album/4Rk1aQOMmwSqGl6fqMhCiz"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 336293,
       "name": "Let's Groove",
       "url": "https://open.spotify.com/track/6ZFMq8W8dyUbTee0GDb08X"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
-        "name": "The Ultimate Bee Gees",
-        "url": "https://open.spotify.com/album/3JXTUy5Ccdpe79HUgUiMF9"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 256453,
-      "name": "You Should Be Dancing - 2009 Remastered Version",
-      "url": "https://open.spotify.com/track/5VAKsbOWGdBbg1VFlu9W8o"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -949,22 +949,6 @@
       "url": "https://open.spotify.com/track/23chygECXqQIz7l80H87lS"
     },
     {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
-        "name": "Boogie Wonderland: The Best Of Earth, Wind & Fire",
-        "url": "https://open.spotify.com/album/0jk3NWc3eDE2X2i0B3p8lb"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 215200,
-      "name": "September",
-      "url": "https://open.spotify.com/track/5hHm4e3dYYduLfxPnOY1TA"
-    },
-    {
       "added_at": "2021-07-04 17:34:32",
       "album": {
         "name": "Bridget Jones\u2019s Baby (Original Motion Picture Soundtrack)",
@@ -979,6 +963,22 @@
       "duration_ms": 217320,
       "name": "Ain't No Stoppin' Us Now - Single Version",
       "url": "https://open.spotify.com/track/18piene9mIdOJA2dura9LH"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
+        "name": "Boogie Wonderland: The Best Of Earth, Wind & Fire",
+        "url": "https://open.spotify.com/album/0jk3NWc3eDE2X2i0B3p8lb"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 215200,
+      "name": "September",
+      "url": "https://open.spotify.com/track/5hHm4e3dYYduLfxPnOY1TA"
     },
     {
       "added_at": "2020-04-14 18:41:41",

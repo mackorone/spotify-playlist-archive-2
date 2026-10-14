@@ -368,7 +368,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 154573,
       "name": "Cafetin",
       "url": "https://open.spotify.com/track/4KKTQJYBJ71nVKTjYPtaX0"
@@ -582,6 +582,24 @@
       "duration_ms": 208384,
       "name": "Confidencias",
       "url": "https://open.spotify.com/track/5clL06dw4iPrD3w6MIDYtf"
+    },
+    {
+      "album": {
+        "name": "El Oficio",
+        "url": "https://open.spotify.com/album/1HNw87bKQYaJlpvE5pHvat"
+      },
+      "artists": [
+        {
+          "name": "Esteban Fioroni Cuarteto",
+          "url": "https://open.spotify.com/artist/1kk6yA8gr4qKhDUuWQghd0"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202547,
+      "name": "Corte yumba",
+      "url": "https://open.spotify.com/track/6RzXNLbBOXke7Q4tU7i8gd"
     },
     {
       "album": {
@@ -1553,6 +1571,32 @@
     },
     {
       "album": {
+        "name": "Los Cosos De Al Lao",
+        "url": "https://open.spotify.com/album/2MyjNX3yIfqtV5z8kCYrt1"
+      },
+      "artists": [
+        {
+          "name": "Nano Ferioli",
+          "url": "https://open.spotify.com/artist/6ygBJ4N4HwPHpbQC334jO3"
+        },
+        {
+          "name": "Chino Laborde",
+          "url": "https://open.spotify.com/artist/5OrKrSqxhTFrtScoJhqLrP"
+        },
+        {
+          "name": "Daniel Ruggiero",
+          "url": "https://open.spotify.com/artist/2UD4URrkIUokDksTRHVGHR"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173250,
+      "name": "Los Cosos De Al Lao",
+      "url": "https://open.spotify.com/track/6lSFSxNsi3G9hP7Me4OrCw"
+    },
+    {
+      "album": {
         "name": "El Album Blanco",
         "url": "https://open.spotify.com/album/5yQ4bqbHYzGZfYqg9ZiaAa"
       },
@@ -1680,7 +1724,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 237226,
       "name": "Malevaje",
       "url": "https://open.spotify.com/track/4LVQ2CuYGgKgQA3vsI0NyG"
@@ -1982,7 +2026,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 230160,
       "name": "Mimi Pinson (with Gran Orquesta T\u00edpica OTRA)",
       "url": "https://open.spotify.com/track/0OEcBnaJWvbx804nDaufHp"
@@ -2134,7 +2178,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 253769,
       "name": "Payada Gardel-Razzano",
       "url": "https://open.spotify.com/track/0JHgMRz4WxRkIsdeorFzxX"
@@ -2218,6 +2262,28 @@
       "duration_ms": 154794,
       "name": "Por una Cabeza",
       "url": "https://open.spotify.com/track/3Z34yqQzVeD8wExZGCw9po"
+    },
+    {
+      "album": {
+        "name": "Por una cabeza",
+        "url": "https://open.spotify.com/album/4NqumQuJIyd8SkWl1dgcJD"
+      },
+      "artists": [
+        {
+          "name": "Malena Rossi",
+          "url": "https://open.spotify.com/artist/6GwKc5935Tysrb29PTVojz"
+        },
+        {
+          "name": "Leo Chaura",
+          "url": "https://open.spotify.com/artist/4T4g62LC61mwhuFHlOrwFP"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170844,
+      "name": "Por una cabeza",
+      "url": "https://open.spotify.com/track/4Mk4pi9vV5mugchDu6dw1O"
     },
     {
       "album": {
@@ -2668,6 +2734,24 @@
       "duration_ms": 241546,
       "name": "Soledad",
       "url": "https://open.spotify.com/track/0H4KhjWDe4TftcaXr6dFru"
+    },
+    {
+      "album": {
+        "name": "Modelo Tango Vol. 1",
+        "url": "https://open.spotify.com/album/2AdWz9yOdPuQoBV0wvPRe2"
+      },
+      "artists": [
+        {
+          "name": "Modelo Tango Orquesta",
+          "url": "https://open.spotify.com/artist/6lP1pz8i0YUOR2TuRrzAoq"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171040,
+      "name": "Suerte Loca",
+      "url": "https://open.spotify.com/track/1aabpHMVK2A5i2I6g0TBKj"
     },
     {
       "album": {

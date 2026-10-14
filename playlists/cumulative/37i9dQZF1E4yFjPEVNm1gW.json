@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-29",
-  "description": "With Yeat, Autumn!, Cuo Zay and more",
+  "description": "With Yeat, Autumn!, Favo and more",
   "name": "Taewitdak Radio",
   "tracks": [
     {
@@ -198,7 +198,7 @@
       ],
       "date_added": "2026-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 120140,
       "name": "AIN'T HEARD KAP!",
       "url": "https://open.spotify.com/track/3ZgxCyTqQFZFT71N0Y3jW6"
@@ -3515,6 +3515,28 @@
     },
     {
       "album": {
+        "name": "MAYDAY",
+        "url": "https://open.spotify.com/album/03xSKQAIGmyIIW85DPzhZu"
+      },
+      "artists": [
+        {
+          "name": "yettie",
+          "url": "https://open.spotify.com/artist/7D8l506OLRQH4ic6s4vs5L"
+        },
+        {
+          "name": "yvngGuda",
+          "url": "https://open.spotify.com/artist/1SovUsFMkRuWWExNh7I80p"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154395,
+      "name": "MAYDAY",
+      "url": "https://open.spotify.com/track/2x9Z5WPzag9NtOf5KX4yit"
+    },
+    {
+      "album": {
         "name": "1, 2, 3, X!",
         "url": "https://open.spotify.com/album/2qxBwpY8my1hy1wO1k3ZuO"
       },
@@ -3928,7 +3950,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 114216,
       "name": "nine",
       "url": "https://open.spotify.com/track/5yCYHKE6erkEF3M0eaBfBc"
@@ -4742,7 +4764,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-10",
+      "date_removed": null,
       "duration_ms": 147842,
       "name": "Rip Demons",
       "url": "https://open.spotify.com/track/2D0tttu95wwqN7RLJa9DW5"
@@ -5340,7 +5362,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 125217,
       "name": "Still the Same",
       "url": "https://open.spotify.com/track/5dTmaw1TwugkUZk1SHqStE"
@@ -6682,6 +6704,28 @@
       "duration_ms": 150358,
       "name": "you aint livin",
       "url": "https://open.spotify.com/track/38sNbOEGJ7enWMdB36U5Uw"
+    },
+    {
+      "album": {
+        "name": "you said its that",
+        "url": "https://open.spotify.com/album/7G3rpZyZZRTP6IfaAemMIV"
+      },
+      "artists": [
+        {
+          "name": "lueaston",
+          "url": "https://open.spotify.com/artist/3gWWiWZFco4lAEQzziflQm"
+        },
+        {
+          "name": "Lilzayda9",
+          "url": "https://open.spotify.com/artist/5HiNr975I2N6WZVDxqKLZl"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122801,
+      "name": "you said its that",
+      "url": "https://open.spotify.com/track/35GEqisilvl0kdwPYTN8UU"
     },
     {
       "album": {

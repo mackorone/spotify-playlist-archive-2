@@ -4,11 +4,12 @@
 
 > Featuring Cameron Winter and the concert of a lifetime 🌟  <a href="https://loremandfriends.substack.com/p/even\-if\-you\-cant\-read\-you\-can\-still">\(p.s\. read our substack!\)</a>
 
-4,030 songs - 9 day 5 hr 7 min
+4,032 songs - 9 day 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#miles](https://open.spotify.com/track/1hboZZxKIEjLHRIkhx4Soi) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [\#miles](https://open.spotify.com/album/2PCs0ZB8bHofV9khzpRmal) | 1:55 | 2022-07-06 | 2022-08-06 |
+| [$0 \- Live at Carnegie Hall](https://open.spotify.com/track/2zDeZ7u3xsilDm86u1bDBf) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Live at Carnegie Hall](https://open.spotify.com/album/5FjFRlo7diqzHNpVz5wJCt) | 8:42 | 2026-10-13 |  |
 | [$20](https://open.spotify.com/track/1yCpIUNj2Lastwc0NrrhGP) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/3ChFT9NdwI13XCF2Bs0aaq) | 3:20 | 2023-01-18 | 2023-03-25 |
 | [$20](https://open.spotify.com/track/6KHYVC9avWQMH40pidRtcG) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/6NXpVVeILNHgAdJ3jdwsWg) | 3:20 | 2023-01-18 | 2023-03-04 |
 | ['98 NISSAN](https://open.spotify.com/track/566uttKKrPrKvM5uN3Mx69) | [Josh Fudge](https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp) | ['98 NISSAN](https://open.spotify.com/album/3QfGua1rhcFaoMQdKgJPCS) | 2:07 | 2022-07-15 | 2022-08-27 |
@@ -804,7 +805,7 @@
 | [Coyote, You're My Star](https://open.spotify.com/track/2tZ4GQajl2yetk2EA8SvMW) | [Dana and Alden](https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr) | [Coyote, You're My Star](https://open.spotify.com/album/61wuHnPthO5vApg52y9n30) | 2:05 | 2024-04-26 | 2024-06-26 |
 | [Crab](https://open.spotify.com/track/6v1d0oFmJnq0Md14QjTnAB) | [Pool Girl](https://open.spotify.com/artist/7t7suXYznGBtoP2uCT0Wv2) | [Crab](https://open.spotify.com/album/5ciVjsvsNYHZEkUaNZW75B) | 3:15 | 2026-07-31 |  |
 | [Cracker Island \(feat\. Thundercat\)](https://open.spotify.com/track/2W3ZpQg9i6lE6kmHbcdu9N) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Cracker Island \(feat\. Thundercat\)](https://open.spotify.com/album/3488fiYQcGSfkKKpr3ttCD) | 3:33 | 2022-06-22 | 2022-07-16 |
-| [Cranberry](https://open.spotify.com/track/6NXm804iftHe3VKuKHSH4O) | [girlsweetvoiced](https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT) | [Lovesweet](https://open.spotify.com/album/6N28jc2uCBf2mswIramLRa) | 3:14 | 2026-07-24 |  |
+| [cranberry](https://open.spotify.com/track/6NXm804iftHe3VKuKHSH4O) | [girlsweetvoiced](https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT) | [Lovesweet](https://open.spotify.com/album/6N28jc2uCBf2mswIramLRa) | 3:14 | 2026-07-24 |  |
 | [Crash](https://open.spotify.com/track/7E7GPiPflBrSPzMuyUgLoa) | [ALX](https://open.spotify.com/artist/1RE4ryNw7e9GftMcUeYKrR) | [The Fantasy](https://open.spotify.com/album/2lPCxGLtLatyT7lAV4ZEBp) | 2:19 | 2020-05-28 | 2020-07-01 |
 | [Crawling](https://open.spotify.com/track/5gVu2dpIYNh64WzlqthDyr) | [Haley Bridge](https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos) | [Crawling](https://open.spotify.com/album/6heE5ZRt9Ur9EOb8TsGbWB) | 2:08 | 2026-08-14 |  |
 | [Crazy](https://open.spotify.com/track/3Vxc7fLBmG8vNk6G6Va9Nz) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK), [The Jordanaires](https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv) | [The Definitive Collection](https://open.spotify.com/album/3g5uyAp8sS8LnnCxh9y2em) | 2:42 | 2022-03-22 | 2022-04-21 |
@@ -1876,6 +1877,7 @@
 | [Jacknife](https://open.spotify.com/track/6qZIy961yxJZpFkgsq8Vm2) | [Belaganas](https://open.spotify.com/artist/4dxp2iZCasMOmCDFztR22q) | [Smile More](https://open.spotify.com/album/3kybax0X96QAkAWWeoGO54) | 2:43 | 2021-03-14 | 2021-06-05 |
 | [jak sparrow](https://open.spotify.com/track/1iBwtHJ1lsGI757v3W8G9b) | [Justend](https://open.spotify.com/artist/2UsrZRPk97l70i7PlXQ8hp) | [jak sparrow](https://open.spotify.com/album/3ln84SvLEm4PKYVztnhwyC) | 1:50 | 2023-04-14 | 2023-05-20 |
 | [Jalousie](https://open.spotify.com/track/3U5x1rplpJNKR3Xg88EfLi) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Brol](https://open.spotify.com/album/6KSvWFf4g4PrIldtchJsTC) | 3:45 | 2019-07-30\* | 2019-10-03 |
+| [Jamie](https://open.spotify.com/track/30LhXbIEA2tqqL0yHXIRu9) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Mud](https://open.spotify.com/album/19cvoEE5d3pMkxLFL5TsAG) | 5:06 | 2026-10-13 |  |
 | [Janie](https://open.spotify.com/track/1ZPct0Fm4bWqtdfmf1Cspt) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Willoughby Tucker, I'll Always Love You](https://open.spotify.com/album/3iSPMfhw4P30tFrROrbkFm) | 5:00 | 2025-08-08 | 2025-11-07 |
 | [January](https://open.spotify.com/track/3BrzbwnNH9wHa8Pc5Dj5mA) | [Billy La Signy](https://open.spotify.com/artist/29rsmw9LXEX0mg35mo4bI3), [Postcard Boy](https://open.spotify.com/artist/0PlXYPmSA81NdpOCHwkQB7), [Tom Verberne](https://open.spotify.com/artist/6VBC0wHJglsZSqSUCfbepv) | [January](https://open.spotify.com/album/5JsnnaCU7sDbg1wRvDiEz6) | 2:41 | 2020-08-21 | 2020-09-15 |
 | [January Sweetheart](https://open.spotify.com/track/0CJ1MCIRQQ4j23VX6fp4KB) | [Samba Jean\-Baptiste](https://open.spotify.com/artist/7nfBxjb99prCqaT3wk87u5), [Rockie Rode](https://open.spotify.com/artist/51qSyIFxFxgwZVU7zI90rE) | [January Sweetheart](https://open.spotify.com/album/2DmxoaPuKOTZwQJvZWTYKP) | 1:57 | 2026-05-22 |  |

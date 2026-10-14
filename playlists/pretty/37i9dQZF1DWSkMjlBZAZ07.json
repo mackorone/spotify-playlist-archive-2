@@ -1,6 +1,6 @@
 {
   "description": "Brighten your day with a mix of folksy mood boosters.",
-  "num_followers": 1865705,
+  "num_followers": 1865643,
   "original_name": "Happy Folk",
   "owner": {
     "name": "Spotify",
@@ -403,6 +403,22 @@
     {
       "added_at": "2026-10-09 04:02:12",
       "album": {
+        "name": "Paradise Valley",
+        "url": "https://open.spotify.com/album/712VoD72K500yLhhgqCyVe"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 254058,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/0QTCTu0CXv4X1JEE4gNpGv"
+    },
+    {
+      "added_at": "2026-10-09 04:02:12",
+      "album": {
         "name": "In These Silent Days",
         "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 230098,
       "name": "You and Me On The Rock (feat. Lucius)",
       "url": "https://open.spotify.com/track/61X73CJcpwGIxgQgKEXbw0"
-    },
-    {
-      "added_at": "2026-10-09 04:02:12",
-      "album": {
-        "name": "Paradise Valley",
-        "url": "https://open.spotify.com/album/712VoD72K500yLhhgqCyVe"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 254058,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/0QTCTu0CXv4X1JEE4gNpGv"
     },
     {
       "added_at": "2026-10-09 04:02:12",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-10-09 04:02:12",
       "album": {
-        "name": "Is Joy Easy",
-        "url": "https://open.spotify.com/album/23uW61OOJRys1JRjSXhuQk"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 210373,
-      "name": "Is Joy Easy",
-      "url": "https://open.spotify.com/track/7M2ctqqmAlCUWE8SJHQ8Vo"
-    },
-    {
-      "added_at": "2026-10-09 04:02:12",
-      "album": {
         "name": "Letting Go",
         "url": "https://open.spotify.com/album/17bBeC2mAYnF4K9KL5ZvrI"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 210381,
       "name": "Letting Go",
       "url": "https://open.spotify.com/track/2XHznZZIWLkh7xO3WQAjpp"
+    },
+    {
+      "added_at": "2026-10-09 04:02:12",
+      "album": {
+        "name": "Is Joy Easy",
+        "url": "https://open.spotify.com/album/23uW61OOJRys1JRjSXhuQk"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 210373,
+      "name": "Is Joy Easy",
+      "url": "https://open.spotify.com/track/7M2ctqqmAlCUWE8SJHQ8Vo"
     },
     {
       "added_at": "2026-10-09 04:02:12",
@@ -775,18 +775,18 @@
     {
       "added_at": "2026-10-09 04:02:12",
       "album": {
-        "name": "Back In My Body",
-        "url": "https://open.spotify.com/album/650dwl8YqfDFTFJwAhoCO3"
+        "name": "Here Goes Nothing",
+        "url": "https://open.spotify.com/album/59k3cmuaTlZ1Ei1T93zmeA"
       },
       "artists": [
         {
-          "name": "Patrick Droney",
-          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
+          "name": "Late Night Thoughts",
+          "url": "https://open.spotify.com/artist/71o2qG4Qam85pPaPlw4zhN"
         }
       ],
-      "duration_ms": 195265,
-      "name": "Back In My Body",
-      "url": "https://open.spotify.com/track/6wjyoBBpG0GWZAZk0rIqPo"
+      "duration_ms": 236474,
+      "name": "Here Goes Nothing",
+      "url": "https://open.spotify.com/track/7vU4qjZlGitheGQBuGYOZY"
     },
     {
       "added_at": "2026-10-09 04:02:12",
@@ -807,18 +807,18 @@
     {
       "added_at": "2026-10-09 04:02:12",
       "album": {
-        "name": "Here Goes Nothing",
-        "url": "https://open.spotify.com/album/59k3cmuaTlZ1Ei1T93zmeA"
+        "name": "Back In My Body",
+        "url": "https://open.spotify.com/album/650dwl8YqfDFTFJwAhoCO3"
       },
       "artists": [
         {
-          "name": "Late Night Thoughts",
-          "url": "https://open.spotify.com/artist/71o2qG4Qam85pPaPlw4zhN"
+          "name": "Patrick Droney",
+          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
         }
       ],
-      "duration_ms": 236474,
-      "name": "Here Goes Nothing",
-      "url": "https://open.spotify.com/track/7vU4qjZlGitheGQBuGYOZY"
+      "duration_ms": 195265,
+      "name": "Back In My Body",
+      "url": "https://open.spotify.com/track/6wjyoBBpG0GWZAZk0rIqPo"
     },
     {
       "added_at": "2026-10-09 04:02:12",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2026-10-09 04:02:12",
       "album": {
+        "name": "The Game",
+        "url": "https://open.spotify.com/album/4tyKptv4UIL5W2KFORmUhv"
+      },
+      "artists": [
+        {
+          "name": "Calder Allen",
+          "url": "https://open.spotify.com/artist/1XlVbGlQaBoESaJ43y2sCD"
+        }
+      ],
+      "duration_ms": 298720,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/276ZfAgAGiqQqF1Iub8adH"
+    },
+    {
+      "added_at": "2026-10-09 04:02:12",
+      "album": {
         "name": "Watch Out for the Wolf",
         "url": "https://open.spotify.com/album/65IhXgviKunwZuTCnb2UOY"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 233333,
       "name": "Victory",
       "url": "https://open.spotify.com/track/2f6pqUyFcs3NUSoz49H9nw"
-    },
-    {
-      "added_at": "2026-10-09 04:02:12",
-      "album": {
-        "name": "The Game",
-        "url": "https://open.spotify.com/album/4tyKptv4UIL5W2KFORmUhv"
-      },
-      "artists": [
-        {
-          "name": "Calder Allen",
-          "url": "https://open.spotify.com/artist/1XlVbGlQaBoESaJ43y2sCD"
-        }
-      ],
-      "duration_ms": 298720,
-      "name": "Good Times",
-      "url": "https://open.spotify.com/track/276ZfAgAGiqQqF1Iub8adH"
     },
     {
       "added_at": "2026-10-09 04:02:12",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2026-10-09 04:02:12",
       "album": {
-        "name": "Almost Home",
-        "url": "https://open.spotify.com/album/3wa5A9GyJM4jd3vCvfIby5"
-      },
-      "artists": [
-        {
-          "name": "Keston Cobblers Club",
-          "url": "https://open.spotify.com/artist/38DmNaPnPBoXtbpFgXZNL8"
-        }
-      ],
-      "duration_ms": 169177,
-      "name": "Almost Home",
-      "url": "https://open.spotify.com/track/4AsUAGWIMsZ7Xl5Hc1Fk4p"
-    },
-    {
-      "added_at": "2026-10-09 04:02:12",
-      "album": {
         "name": "The Order Of Time",
         "url": "https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k"
       },
@@ -1319,18 +1303,18 @@
     {
       "added_at": "2026-10-09 04:02:12",
       "album": {
-        "name": "My Home Is You",
-        "url": "https://open.spotify.com/album/3gxvQCTnw0tl5h6sgAnfnb"
+        "name": "Almost Home",
+        "url": "https://open.spotify.com/album/3wa5A9GyJM4jd3vCvfIby5"
       },
       "artists": [
         {
-          "name": "The Strumbellas",
-          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
+          "name": "Keston Cobblers Club",
+          "url": "https://open.spotify.com/artist/38DmNaPnPBoXtbpFgXZNL8"
         }
       ],
-      "duration_ms": 203148,
-      "name": "My Home Is You",
-      "url": "https://open.spotify.com/track/25tf3JcjG8097N3jEPgVAL"
+      "duration_ms": 169177,
+      "name": "Almost Home",
+      "url": "https://open.spotify.com/track/4AsUAGWIMsZ7Xl5Hc1Fk4p"
     },
     {
       "added_at": "2026-10-09 04:02:12",
@@ -1351,6 +1335,22 @@
     {
       "added_at": "2026-10-09 04:02:12",
       "album": {
+        "name": "My Home Is You",
+        "url": "https://open.spotify.com/album/3gxvQCTnw0tl5h6sgAnfnb"
+      },
+      "artists": [
+        {
+          "name": "The Strumbellas",
+          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
+        }
+      ],
+      "duration_ms": 203148,
+      "name": "My Home Is You",
+      "url": "https://open.spotify.com/track/25tf3JcjG8097N3jEPgVAL"
+    },
+    {
+      "added_at": "2026-10-09 04:02:12",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4OUg8wmqAxUfSN05i4um9Y"
       },
@@ -1363,22 +1363,6 @@
       "duration_ms": 228586,
       "name": "All We Ever Knew - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0PHm9MrfZdEUasfd1XC0n2"
-    },
-    {
-      "added_at": "2026-10-09 04:02:12",
-      "album": {
-        "name": "Hummingbird",
-        "url": "https://open.spotify.com/album/09tCVx2tXdXeOD9EPMtFtU"
-      },
-      "artists": [
-        {
-          "name": "Traveller",
-          "url": "https://open.spotify.com/artist/4kZAv5F7ojPi4hfxi7zy0l"
-        }
-      ],
-      "duration_ms": 192743,
-      "name": "Hummingbird",
-      "url": "https://open.spotify.com/track/6VJESmw3puw9eFpmglP2dM"
     },
     {
       "added_at": "2026-10-09 04:02:12",
@@ -1399,18 +1383,18 @@
     {
       "added_at": "2026-10-09 04:02:12",
       "album": {
-        "name": "Hold Me",
-        "url": "https://open.spotify.com/album/4gVu2VoV5kV8g6ihNLWfFS"
+        "name": "Hummingbird",
+        "url": "https://open.spotify.com/album/09tCVx2tXdXeOD9EPMtFtU"
       },
       "artists": [
         {
-          "name": "The Strumbellas",
-          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
+          "name": "Traveller",
+          "url": "https://open.spotify.com/artist/4kZAv5F7ojPi4hfxi7zy0l"
         }
       ],
-      "duration_ms": 172446,
-      "name": "Hold Me",
-      "url": "https://open.spotify.com/track/5P8ldnOsScd9aMlQMKucb6"
+      "duration_ms": 192743,
+      "name": "Hummingbird",
+      "url": "https://open.spotify.com/track/6VJESmw3puw9eFpmglP2dM"
     },
     {
       "added_at": "2026-10-09 04:02:12",
@@ -1427,6 +1411,22 @@
       "duration_ms": 165925,
       "name": "Swing",
       "url": "https://open.spotify.com/track/3Z2kf97u27vENbQRADp5nO"
+    },
+    {
+      "added_at": "2026-10-09 04:02:12",
+      "album": {
+        "name": "Hold Me",
+        "url": "https://open.spotify.com/album/4gVu2VoV5kV8g6ihNLWfFS"
+      },
+      "artists": [
+        {
+          "name": "The Strumbellas",
+          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
+        }
+      ],
+      "duration_ms": 172446,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/5P8ldnOsScd9aMlQMKucb6"
     },
     {
       "added_at": "2026-10-09 04:02:12",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2026-10-09 04:02:12",
       "album": {
-        "name": "Oncoming Clouds",
-        "url": "https://open.spotify.com/album/6G9nFGCkm389KVfnwRBWux"
-      },
-      "artists": [
-        {
-          "name": "Tom West",
-          "url": "https://open.spotify.com/artist/4IszB4IvfBur47pa0bm1sr"
-        }
-      ],
-      "duration_ms": 207069,
-      "name": "Easy, Love",
-      "url": "https://open.spotify.com/track/6m2cCJT4K54P5nLfRLyJud"
-    },
-    {
-      "added_at": "2026-10-09 04:02:12",
-      "album": {
         "name": "Mountain Man",
         "url": "https://open.spotify.com/album/69Vry8bfaTqkz88FDDEbNG"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 238426,
       "name": "Mountain Man",
       "url": "https://open.spotify.com/track/63YnmHKlutFFkgfFB0OcPU"
+    },
+    {
+      "added_at": "2026-10-09 04:02:12",
+      "album": {
+        "name": "Oncoming Clouds",
+        "url": "https://open.spotify.com/album/6G9nFGCkm389KVfnwRBWux"
+      },
+      "artists": [
+        {
+          "name": "Tom West",
+          "url": "https://open.spotify.com/artist/4IszB4IvfBur47pa0bm1sr"
+        }
+      ],
+      "duration_ms": 207069,
+      "name": "Easy, Love",
+      "url": "https://open.spotify.com/track/6m2cCJT4K54P5nLfRLyJud"
     },
     {
       "added_at": "2026-10-09 04:02:12",

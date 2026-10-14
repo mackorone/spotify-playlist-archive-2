@@ -4,7 +4,7 @@
 
 > Deep electronic and organic house sounds, inspired by the folk music of Africa, Latin America and the Middle East.
 
-535 songs - 2 day 4 hr 25 min
+536 songs - 2 day 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Astra \- Radio Edit](https://open.spotify.com/track/5Es2GK0dinhhKsYkOzULt7) | [The Advocate](https://open.spotify.com/artist/2BoWW5buEf2tz4NlKVknvm) | [Astra](https://open.spotify.com/album/5CzOMBtlHBqqpoGWQNWtC8) | 4:00 | 2021-05-08 | 2021-05-23 |
 | [Atlas](https://open.spotify.com/track/5ZPLRCJauBNOxzacXmVNjR) | [Acid Arab](https://open.spotify.com/artist/3ShO8tPKqXUUpOA0urOWW7), [Cem Yıldız](https://open.spotify.com/artist/3SASCp3Mzy7lT50cZn11yr) | [Atlas](https://open.spotify.com/album/66MArV9C0dNXz5P76eN4Kb) | 3:04 | 2024-11-15 | 2025-12-23 |
 | [Aurora \- Holger Hecler Remix](https://open.spotify.com/track/6YwpZJNXcY6yM9k0EP4fEs) | [KMLN](https://open.spotify.com/artist/1BtFGRlmJS53FJaX8ESSS7), [Roderic](https://open.spotify.com/artist/7wSzFq5CoNoCpzazDphDJs), [Holger Hecler](https://open.spotify.com/artist/1ygMrB9ThD8b7ySv4B2MzY) | [Aurora](https://open.spotify.com/album/5T8SMKPvH2PEbaR7oNL696) | 8:19 | 2019-08-02\* | 2021-07-09 |
-| [Ay vora](https://open.spotify.com/track/5dk7V45cYJ73eFeBJst2c3) | [Essex](https://open.spotify.com/artist/4EWhkFsBgnPWEf3BtZ5ECG) | [Ay vora](https://open.spotify.com/album/4qpPzg1NDlN4JZQQh9HtWB) | 4:33 | 2022-09-09 |  |
+| [Ay vora](https://open.spotify.com/track/5dk7V45cYJ73eFeBJst2c3) | [Essex](https://open.spotify.com/artist/4EWhkFsBgnPWEf3BtZ5ECG) | [Ay vora](https://open.spotify.com/album/4qpPzg1NDlN4JZQQh9HtWB) | 4:33 | 2022-09-09 | 2026-10-14 |
 | [Aye Aye](https://open.spotify.com/track/3ZnHoSCItVMbFU8FhdjS7B) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Cameron Jack](https://open.spotify.com/artist/3ZziXomLvLKvBpTDzxcypH) | [Aye Aye](https://open.spotify.com/album/5RK1I6kgXh0Hkkl034kltc) | 4:00 | 2022-08-12 | 2022-10-01 |
 | [Ayutthaya](https://open.spotify.com/track/1KYLEmYHG5gHEJI0JkxiWN) | [Slow Nomaden](https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K) | [Ayutthaya](https://open.spotify.com/album/13gq4q74QlFEL33Bq0RYHg) | 5:27 | 2021-12-30 | 2022-04-20 |
 | [B2](https://open.spotify.com/track/47qlsYAT0K6eBp20vVmWKP) | [Shkoon](https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv) | [B2](https://open.spotify.com/album/6CwnhpETbjFTuvGYDac7WF) | 6:41 | 2019-12-12 | 2021-10-16 |
@@ -433,6 +433,7 @@
 | [Set The Controls For The Heart Of The Sun \- Original Mix](https://open.spotify.com/track/51mYZbYgAHEnFkn1d4pOOD) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Set The Controls For The Heart Of The Sun](https://open.spotify.com/album/67GFqXv5kM2TaZ4ZNaOv1s) | 7:35 | 2019-08-02\* | 2019-09-20 |
 | [Seymour](https://open.spotify.com/track/5AzouEvFfanX3ldNVHSv82) | [Omeria](https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl) | [Seymour](https://open.spotify.com/album/6078zrNUWo4oCNus4USYnL) | 5:27 | 2020-05-15 | 2022-07-29 |
 | [Seymour](https://open.spotify.com/track/6DfvHDSDHyV9xMJznbq0uv) | [Omeria](https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Seymour](https://open.spotify.com/album/2EkkCltldcB3bHm4V9PlmO) | 5:27 | 2022-06-14 | 2023-11-16 |
+| [shifted dreams](https://open.spotify.com/track/1J0RxzMwXhItGdTnb9fnmp) | [bonifas](https://open.spotify.com/artist/0ytEeOfpWZBbGsCQvq1drN) | [tarraco](https://open.spotify.com/album/5YKO0vznZFLKXxkprBS2vZ) | 5:36 | 2026-09-16 |  |
 | [Shiratani](https://open.spotify.com/track/4y4JxupRZfTQoaxdz8lj1j) | [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB) | [Walking the World EP](https://open.spotify.com/album/7MzkyvQL1nWGnVj6y4BmHH) | 8:15 | 2020-08-08 | 2020-11-21 |
 | [Show Me](https://open.spotify.com/track/7rPKSjPgwWDc8S9toczFgV) | [Arodes](https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47), [TH;EN](https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff), [Henri Bergmann](https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo), [Beobê](https://open.spotify.com/artist/1SNjvPpsWFYWGpJW5wPeeK) | [Show Me](https://open.spotify.com/album/5Ta8jERROmZgTiCGAt6Mkn) | 2:50 | 2025-03-28 | 2026-08-20 |
 | [Show Me Love](https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Show Me Love](https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6) | 2:56 | 2025-02-07 | 2025-05-03 |

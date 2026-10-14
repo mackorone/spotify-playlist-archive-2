@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest in hip\-hop, refreshed weekly\. Cover: Cardi B
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,507 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,524 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 21 | [WIDE AWAKE](https://open.spotify.com/track/31TmmGdzPeZIjgYMocMwCV) | [Surf7](https://open.spotify.com/artist/1GqOAHeo3iMrmaisKTANNj) | [WIDE AWAKE](https://open.spotify.com/album/0rTo6AkxqufZSzkA40KObG) | 2:02 |
 | 22 | [Location](https://open.spotify.com/track/6k15cYdLOjmEMSWHHCArUj) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Location](https://open.spotify.com/album/3Kpv3BRmK2PGeGPuvToFrh) | 2:34 |
 | 23 | [Come Back To Me](https://open.spotify.com/track/0hi1Ih9flyXlfBxv9fwtSq) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Come Back To Me](https://open.spotify.com/album/3NwVixCirzTrl8ovF5zSxZ) | 3:06 |
-| 24 | [Way Too Much](https://open.spotify.com/track/5ugBXrVSfcQK66D4s6FRSe) | [Mez](https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Deante' Hitchcock](https://open.spotify.com/artist/5REHfa3YDopGOzrxwTsPvH) | [Way Too Much](https://open.spotify.com/album/1s9nf4fPpZk9M9uPaA7Yfb) | 4:03 |
+| 24 | [Way Too Much](https://open.spotify.com/track/5ugBXrVSfcQK66D4s6FRSe) | [Mez](https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6), [Deante' Hitchcock](https://open.spotify.com/artist/5REHfa3YDopGOzrxwTsPvH), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Way Too Much](https://open.spotify.com/album/1s9nf4fPpZk9M9uPaA7Yfb) | 4:03 |
 | 25 | [RUNWAY KILLER](https://open.spotify.com/track/4J3KSbDGoSj1iWq5aWBY88) | [Johnny Venus](https://open.spotify.com/artist/4Y9QKWtGSeL2NnVokmWAvz) | [THE 11TH HOUR](https://open.spotify.com/album/2yfx7jI0ibYIHXbvSPSsjB) | 3:38 |
 | 26 | [STATIC](https://open.spotify.com/track/06jJ94bMXKhgOhTniBtSEv) | [Ovrkast.](https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Nali](https://open.spotify.com/artist/3CMbroLqMKEfk0BMcfz5h9) | [STRIKING](https://open.spotify.com/album/1qD7ujFQ06byTA6jObEPOx) | 3:36 |
 | 27 | [BUNK](https://open.spotify.com/track/3jU9KYS2RPPUKaVPBAf7Xk) | [Mark Lux](https://open.spotify.com/artist/29fuOxHZkxmYqLIpBjE7V5) | [BUNK](https://open.spotify.com/album/5dq2DpY9osvpzoRjTko6vG) | 2:20 |

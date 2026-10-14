@@ -75,6 +75,22 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
+        "name": "GGZ",
+        "url": "https://open.spotify.com/album/41MRGU73ataKlGfJZU1G6r"
+      },
+      "artists": [
+        {
+          "name": "Yade Lauren",
+          "url": "https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT"
+        }
+      ],
+      "duration_ms": 160943,
+      "name": "GGZ",
+      "url": "https://open.spotify.com/track/3iyMNlT06VVYsraeRvMR0w"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
         "name": "The Resistance EP",
         "url": "https://open.spotify.com/album/0XVdoQdXfMMkKs7HWPkl6l"
       },
@@ -91,22 +107,6 @@
       "duration_ms": 394896,
       "name": "The Resistance (feat. Theo Nasa)",
       "url": "https://open.spotify.com/track/4CoAqkFt9rCpZq92hFGmCF"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
-        "name": "GGZ",
-        "url": "https://open.spotify.com/album/41MRGU73ataKlGfJZU1G6r"
-      },
-      "artists": [
-        {
-          "name": "Yade Lauren",
-          "url": "https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT"
-        }
-      ],
-      "duration_ms": 160943,
-      "name": "GGZ",
-      "url": "https://open.spotify.com/track/3iyMNlT06VVYsraeRvMR0w"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -363,6 +363,22 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
+        "name": "Izakaya",
+        "url": "https://open.spotify.com/album/7yXBPRj57bW9fqLiO48Xdx"
+      },
+      "artists": [
+        {
+          "name": "Sigourney K",
+          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+        }
+      ],
+      "duration_ms": 144803,
+      "name": "Izakaya",
+      "url": "https://open.spotify.com/track/5KBiKj20CpdoV8gGGIUPj2"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
         "name": "Googoo Gaga",
         "url": "https://open.spotify.com/album/4I5vkWWnFX4Z3KmBX1MQS4"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 305480,
       "name": "Googoo Gaga",
       "url": "https://open.spotify.com/track/39ZeNweIWO4XcNPY0nmImS"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
-        "name": "Izakaya",
-        "url": "https://open.spotify.com/album/7yXBPRj57bW9fqLiO48Xdx"
-      },
-      "artists": [
-        {
-          "name": "Sigourney K",
-          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
-        }
-      ],
-      "duration_ms": 144803,
-      "name": "Izakaya",
-      "url": "https://open.spotify.com/track/5KBiKj20CpdoV8gGGIUPj2"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -499,34 +499,6 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "Like an Amplifier (with Goggi)",
-        "url": "https://open.spotify.com/album/2u1dfmBdBVjfsgqNmwaYqO"
-      },
-      "artists": [
-        {
-          "name": "MATTN",
-          "url": "https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio"
-        },
-        {
-          "name": "Luca Testa",
-          "url": "https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7"
-        },
-        {
-          "name": "DJ Terry",
-          "url": "https://open.spotify.com/artist/49vRRr0jNCPO794NATNr3j"
-        },
-        {
-          "name": "GOGGI",
-          "url": "https://open.spotify.com/artist/7ELcfkiBGy09Snj06Nvy6g"
-        }
-      ],
-      "duration_ms": 144375,
-      "name": "Like An Amplifier (with Goggi)",
-      "url": "https://open.spotify.com/track/0gASACsvexZ5fyj3C97dP7"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
         "name": "Meisjes Spelen Niet Buiten (Soundtrack Sugar)",
         "url": "https://open.spotify.com/album/3jNd80vZPVvHtGoRDgnkMv"
       },
@@ -559,6 +531,34 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
+        "name": "Like an Amplifier (with Goggi)",
+        "url": "https://open.spotify.com/album/2u1dfmBdBVjfsgqNmwaYqO"
+      },
+      "artists": [
+        {
+          "name": "MATTN",
+          "url": "https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio"
+        },
+        {
+          "name": "Luca Testa",
+          "url": "https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7"
+        },
+        {
+          "name": "DJ Terry",
+          "url": "https://open.spotify.com/artist/49vRRr0jNCPO794NATNr3j"
+        },
+        {
+          "name": "GOGGI",
+          "url": "https://open.spotify.com/artist/7ELcfkiBGy09Snj06Nvy6g"
+        }
+      ],
+      "duration_ms": 144375,
+      "name": "Like An Amplifier (with Goggi)",
+      "url": "https://open.spotify.com/track/0gASACsvexZ5fyj3C97dP7"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
         "name": "Crunchy, Sad and Strangely Happy",
         "url": "https://open.spotify.com/album/5H8PXFJLDgF5rWvQyiLbyx"
       },
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "Wanneer Is Het Genoeg?",
-        "url": "https://open.spotify.com/album/1LXLl2ab3cKsGVbZTq0Jbc"
-      },
-      "artists": [
-        {
-          "name": "OLIVIA",
-          "url": "https://open.spotify.com/artist/0r4SuP92ATT2wpKCT7blnM"
-        }
-      ],
-      "duration_ms": 165436,
-      "name": "Wanneer Is Het Genoeg?",
-      "url": "https://open.spotify.com/track/1oRNJWXfWfnHs1JdL9gdmh"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
         "name": "Feel At Home",
         "url": "https://open.spotify.com/album/6r4EIWWuvehofN8G6BCpFG"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 145822,
       "name": "Feel At Home",
       "url": "https://open.spotify.com/track/4RZHzZtfExcjFAqgFtwwrZ"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
+        "name": "Wanneer Is Het Genoeg?",
+        "url": "https://open.spotify.com/album/1LXLl2ab3cKsGVbZTq0Jbc"
+      },
+      "artists": [
+        {
+          "name": "OLIVIA",
+          "url": "https://open.spotify.com/artist/0r4SuP92ATT2wpKCT7blnM"
+        }
+      ],
+      "duration_ms": 165436,
+      "name": "Wanneer Is Het Genoeg?",
+      "url": "https://open.spotify.com/track/1oRNJWXfWfnHs1JdL9gdmh"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "We Doen Alsof",
-        "url": "https://open.spotify.com/album/59pkwsQ2UfKwtR5o9TPeNW"
-      },
-      "artists": [
-        {
-          "name": "Wende",
-          "url": "https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G"
-        }
-      ],
-      "duration_ms": 210040,
-      "name": "We Doen Alsof",
-      "url": "https://open.spotify.com/track/54JVTO9jnEayXd0DZgaut0"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
         "name": "Naakt",
         "url": "https://open.spotify.com/album/19jvbtwOnz4DG4TPqBKavL"
       },
@@ -735,18 +719,18 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "De Verdrietige Meneer",
-        "url": "https://open.spotify.com/album/4xP3o67XVgqNPJpQXCVfUp"
+        "name": "We Doen Alsof",
+        "url": "https://open.spotify.com/album/59pkwsQ2UfKwtR5o9TPeNW"
       },
       "artists": [
         {
-          "name": "Else Lena",
-          "url": "https://open.spotify.com/artist/6z3MeKgMc8aefi1TRFlvbe"
+          "name": "Wende",
+          "url": "https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G"
         }
       ],
-      "duration_ms": 199928,
-      "name": "De Verdrietige Meneer",
-      "url": "https://open.spotify.com/track/5WuICyjAjSNZQi3pGbAu3z"
+      "duration_ms": 210040,
+      "name": "We Doen Alsof",
+      "url": "https://open.spotify.com/track/54JVTO9jnEayXd0DZgaut0"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -763,6 +747,22 @@
       "duration_ms": 228800,
       "name": "Mama",
       "url": "https://open.spotify.com/track/43lD6s1AJLws5e2EEk8fjY"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
+        "name": "De Verdrietige Meneer",
+        "url": "https://open.spotify.com/album/4xP3o67XVgqNPJpQXCVfUp"
+      },
+      "artists": [
+        {
+          "name": "Else Lena",
+          "url": "https://open.spotify.com/artist/6z3MeKgMc8aefi1TRFlvbe"
+        }
+      ],
+      "duration_ms": 199928,
+      "name": "De Verdrietige Meneer",
+      "url": "https://open.spotify.com/track/5WuICyjAjSNZQi3pGbAu3z"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -899,6 +899,22 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
+        "name": "Not That Deep",
+        "url": "https://open.spotify.com/album/6VdsRupAtI9jB2hngxJfrm"
+      },
+      "artists": [
+        {
+          "name": "Alice Mae",
+          "url": "https://open.spotify.com/artist/1BH0GCT0bBB4uiWFX1aruD"
+        }
+      ],
+      "duration_ms": 217360,
+      "name": "Not That Deep",
+      "url": "https://open.spotify.com/track/4u0tXLPqbUcNTUWSznp4Dj"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
         "name": "Spaans Benauwd",
         "url": "https://open.spotify.com/album/20a8FZXUJTaAS0SZQsP4LQ"
       },
@@ -915,18 +931,18 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "Not That Deep",
-        "url": "https://open.spotify.com/album/6VdsRupAtI9jB2hngxJfrm"
+        "name": "Haw Plak",
+        "url": "https://open.spotify.com/album/5CStVl839vp0z6yfPEIrLk"
       },
       "artists": [
         {
-          "name": "Alice Mae",
-          "url": "https://open.spotify.com/artist/1BH0GCT0bBB4uiWFX1aruD"
+          "name": "MAYTE",
+          "url": "https://open.spotify.com/artist/0qSW0N5julVXfIQ3Ql4tHj"
         }
       ],
-      "duration_ms": 217360,
-      "name": "Not That Deep",
-      "url": "https://open.spotify.com/track/4u0tXLPqbUcNTUWSznp4Dj"
+      "duration_ms": 187609,
+      "name": "Haw Plak",
+      "url": "https://open.spotify.com/track/6Z9uHnajMeoLVIaEwnyTX6"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -963,18 +979,18 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "Haw Plak",
-        "url": "https://open.spotify.com/album/5CStVl839vp0z6yfPEIrLk"
+        "name": "Coup de foudre (Instant Crush)",
+        "url": "https://open.spotify.com/album/7lq7auvASDjzFOVpXw8pXV"
       },
       "artists": [
         {
-          "name": "MAYTE",
-          "url": "https://open.spotify.com/artist/0qSW0N5julVXfIQ3Ql4tHj"
+          "name": "Louise Barreau",
+          "url": "https://open.spotify.com/artist/6F16dQmgChvL40O8paV1cg"
         }
       ],
-      "duration_ms": 187609,
-      "name": "Haw Plak",
-      "url": "https://open.spotify.com/track/6Z9uHnajMeoLVIaEwnyTX6"
+      "duration_ms": 280254,
+      "name": "Coup de foudre - Instant Crush",
+      "url": "https://open.spotify.com/track/2WQDLmbsTVcXGPoVFykZ5U"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -991,22 +1007,6 @@
       "duration_ms": 190129,
       "name": "Exit Wounds",
       "url": "https://open.spotify.com/track/2wISrbI8SMX0UsMJiLcXyO"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
-        "name": "Coup de foudre (Instant Crush)",
-        "url": "https://open.spotify.com/album/7lq7auvASDjzFOVpXw8pXV"
-      },
-      "artists": [
-        {
-          "name": "Louise Barreau",
-          "url": "https://open.spotify.com/artist/6F16dQmgChvL40O8paV1cg"
-        }
-      ],
-      "duration_ms": 280254,
-      "name": "Coup de foudre - Instant Crush",
-      "url": "https://open.spotify.com/track/2WQDLmbsTVcXGPoVFykZ5U"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -1043,38 +1043,6 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "De dagen",
-        "url": "https://open.spotify.com/album/5yJXfOssStBnFWjsSkP1ra"
-      },
-      "artists": [
-        {
-          "name": "Yentl en de Boer",
-          "url": "https://open.spotify.com/artist/5wMKGwFrXxoqKjTfrKOglE"
-        }
-      ],
-      "duration_ms": 290231,
-      "name": "De mug",
-      "url": "https://open.spotify.com/track/4DNWdKw2I0BqIvH9pwYr9H"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
-        "name": "Tantalus",
-        "url": "https://open.spotify.com/album/3dUid78dLPunJ0tlPA9KyB"
-      },
-      "artists": [
-        {
-          "name": "Emma Hessels",
-          "url": "https://open.spotify.com/artist/2EBGNZQqTRCOmaLi10FQ2g"
-        }
-      ],
-      "duration_ms": 204466,
-      "name": "Tantalus",
-      "url": "https://open.spotify.com/track/70DPeIayf5xI8Lp8XqBdvZ"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
         "name": "Fuck You <3",
         "url": "https://open.spotify.com/album/6tP32hnUOIge0kFArr66aE"
       },
@@ -1087,6 +1055,22 @@
       "duration_ms": 158053,
       "name": "Fuck You <3",
       "url": "https://open.spotify.com/track/2OtKijVqgCHJICLDZYbVyN"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
+        "name": "De dagen",
+        "url": "https://open.spotify.com/album/5yJXfOssStBnFWjsSkP1ra"
+      },
+      "artists": [
+        {
+          "name": "Yentl en de Boer",
+          "url": "https://open.spotify.com/artist/5wMKGwFrXxoqKjTfrKOglE"
+        }
+      ],
+      "duration_ms": 290231,
+      "name": "De mug",
+      "url": "https://open.spotify.com/track/4DNWdKw2I0BqIvH9pwYr9H"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -1107,18 +1091,18 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "Branches to the Sky",
-        "url": "https://open.spotify.com/album/7HoGHUIwguJMBk1fAiOg0V"
+        "name": "Tantalus",
+        "url": "https://open.spotify.com/album/3dUid78dLPunJ0tlPA9KyB"
       },
       "artists": [
         {
-          "name": "Jessy Yasmeen",
-          "url": "https://open.spotify.com/artist/2xp9ArvFcCoeXjTG2sWVNJ"
+          "name": "Emma Hessels",
+          "url": "https://open.spotify.com/artist/2EBGNZQqTRCOmaLi10FQ2g"
         }
       ],
-      "duration_ms": 183605,
-      "name": "Branches to the Sky",
-      "url": "https://open.spotify.com/track/60p4RZZYqC3T7KptYYvRL8"
+      "duration_ms": 204466,
+      "name": "Tantalus",
+      "url": "https://open.spotify.com/track/70DPeIayf5xI8Lp8XqBdvZ"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -1135,6 +1119,22 @@
       "duration_ms": 203227,
       "name": "Make A Living",
       "url": "https://open.spotify.com/track/5F9rXjjmy8zY1VCZgaNZhZ"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
+        "name": "Branches to the Sky",
+        "url": "https://open.spotify.com/album/7HoGHUIwguJMBk1fAiOg0V"
+      },
+      "artists": [
+        {
+          "name": "Jessy Yasmeen",
+          "url": "https://open.spotify.com/artist/2xp9ArvFcCoeXjTG2sWVNJ"
+        }
+      ],
+      "duration_ms": 183605,
+      "name": "Branches to the Sky",
+      "url": "https://open.spotify.com/track/60p4RZZYqC3T7KptYYvRL8"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "Page Of Cups (Reversed)",
-        "url": "https://open.spotify.com/album/6L32wCheBG0rQDjQa9xSdr"
-      },
-      "artists": [
-        {
-          "name": "Ciska Ciska",
-          "url": "https://open.spotify.com/artist/6V1Hbm6ydOli9zOuVmZFmC"
-        }
-      ],
-      "duration_ms": 150213,
-      "name": "Indoctrinate Me",
-      "url": "https://open.spotify.com/track/12HecHt9HGPDhfy0KUaKfu"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
         "name": "Touch Me",
         "url": "https://open.spotify.com/album/4RPE5w6vUuIv47QtIuvrrJ"
       },
@@ -1235,18 +1219,18 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "Already Lost",
-        "url": "https://open.spotify.com/album/1kJQ94lCIMCwT6fZjnMbLY"
+        "name": "Page Of Cups (Reversed)",
+        "url": "https://open.spotify.com/album/6L32wCheBG0rQDjQa9xSdr"
       },
       "artists": [
         {
-          "name": "Caro",
-          "url": "https://open.spotify.com/artist/7uV6WztwBfEmbGrVPANEaW"
+          "name": "Ciska Ciska",
+          "url": "https://open.spotify.com/artist/6V1Hbm6ydOli9zOuVmZFmC"
         }
       ],
-      "duration_ms": 218926,
-      "name": "Already Lost",
-      "url": "https://open.spotify.com/track/1CgcCBvTQ7MREi3RQxsYRf"
+      "duration_ms": 150213,
+      "name": "Indoctrinate Me",
+      "url": "https://open.spotify.com/track/12HecHt9HGPDhfy0KUaKfu"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -1263,6 +1247,22 @@
       "duration_ms": 182000,
       "name": "Mi No Sabi",
       "url": "https://open.spotify.com/track/12Ck6WW19yoEM6pfd6zf4V"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
+        "name": "Already Lost",
+        "url": "https://open.spotify.com/album/1kJQ94lCIMCwT6fZjnMbLY"
+      },
+      "artists": [
+        {
+          "name": "Caro",
+          "url": "https://open.spotify.com/artist/7uV6WztwBfEmbGrVPANEaW"
+        }
+      ],
+      "duration_ms": 218926,
+      "name": "Already Lost",
+      "url": "https://open.spotify.com/track/1CgcCBvTQ7MREi3RQxsYRf"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
+        "name": "STAR VIVA",
+        "url": "https://open.spotify.com/album/2XMuXw1xBx0o3ERV3op3E0"
+      },
+      "artists": [
+        {
+          "name": "Judy Blank",
+          "url": "https://open.spotify.com/artist/2Kqa4BYcpEq4KXX9fYmRpH"
+        }
+      ],
+      "duration_ms": 169304,
+      "name": "MATAMOS TIEMPO",
+      "url": "https://open.spotify.com/track/5bw9K71y47BzBXbbc8vNd5"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
         "name": "The Writer (Choir versions Live in the St Antonius Church)",
         "url": "https://open.spotify.com/album/3I1SZQyMrFUI79zw5Ve0Qp"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 195464,
       "name": "Fanatical radical - Choir versions Live in the St Antonius Church",
       "url": "https://open.spotify.com/track/2JNcsFTuUvTSoKsin1lyTZ"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
-        "name": "STAR VIVA",
-        "url": "https://open.spotify.com/album/2XMuXw1xBx0o3ERV3op3E0"
-      },
-      "artists": [
-        {
-          "name": "Judy Blank",
-          "url": "https://open.spotify.com/artist/2Kqa4BYcpEq4KXX9fYmRpH"
-        }
-      ],
-      "duration_ms": 169304,
-      "name": "MATAMOS TIEMPO",
-      "url": "https://open.spotify.com/track/5bw9K71y47BzBXbbc8vNd5"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
+        "name": "D2F",
+        "url": "https://open.spotify.com/album/0InYtaSoh2CujSwhbtvTPi"
+      },
+      "artists": [
+        {
+          "name": "JANE",
+          "url": "https://open.spotify.com/artist/4ElOcm04vCIg9rGUWsJ9qe"
+        }
+      ],
+      "duration_ms": 123273,
+      "name": "D2F",
+      "url": "https://open.spotify.com/track/2IKd0FDhxhLZAhTCqfxfx7"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
         "name": "The House",
         "url": "https://open.spotify.com/album/20JwXguQZQ56bQYkY0B6zE"
       },
@@ -1663,18 +1679,18 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "D2F",
-        "url": "https://open.spotify.com/album/0InYtaSoh2CujSwhbtvTPi"
+        "name": "Compass",
+        "url": "https://open.spotify.com/album/5Iw4woqMi3eGtO3RBikx1e"
       },
       "artists": [
         {
-          "name": "JANE",
-          "url": "https://open.spotify.com/artist/4ElOcm04vCIg9rGUWsJ9qe"
+          "name": "Sandrien",
+          "url": "https://open.spotify.com/artist/1OhQuHtue5ufdnIbP4RpH7"
         }
       ],
-      "duration_ms": 123273,
-      "name": "D2F",
-      "url": "https://open.spotify.com/track/2IKd0FDhxhLZAhTCqfxfx7"
+      "duration_ms": 390000,
+      "name": "Compass",
+      "url": "https://open.spotify.com/track/7JEPByXX8vpwUJ2dDSZT7m"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -1723,22 +1739,6 @@
       "duration_ms": 171358,
       "name": "BB ILY",
       "url": "https://open.spotify.com/track/1iYu4iQ2dfLQuNxpZAbKtt"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
-        "name": "Compass",
-        "url": "https://open.spotify.com/album/5Iw4woqMi3eGtO3RBikx1e"
-      },
-      "artists": [
-        {
-          "name": "Sandrien",
-          "url": "https://open.spotify.com/artist/1OhQuHtue5ufdnIbP4RpH7"
-        }
-      ],
-      "duration_ms": 390000,
-      "name": "Compass",
-      "url": "https://open.spotify.com/track/7JEPByXX8vpwUJ2dDSZT7m"
     },
     {
       "added_at": "2026-10-06 22:00:25",

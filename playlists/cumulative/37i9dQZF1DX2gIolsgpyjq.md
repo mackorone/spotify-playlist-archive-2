@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Nordics](https://open.spotify.com/playlist/37i9dQZF1DX2gIolsgpyjq)
 
-> The best new music by independent artists in the Nordics\. Cover: lára
+> The best new music by independent artists in the Nordics\. Cover: mikey
 
-1,732 songs - 3 day 18 hr 55 min
+1,735 songs - 3 day 19 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [3 days](https://open.spotify.com/track/76hFGJEkcSdG1PhO6QSD0e) | [alma](https://open.spotify.com/artist/12ohBmDYK1nr9HyfpxE6RF), [TANTAN](https://open.spotify.com/artist/1cievhIWm14RMdJPC57gYi) | [POINT 23](https://open.spotify.com/album/2bsj0qo3zY2lY6vYPOogmX) | 2:50 | 2026-04-28 | 2026-06-24 |
 | [3000](https://open.spotify.com/track/2K2kvzUvkoX9vSy7Sg6Z5h) | [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov), [Miso Extra](https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg) | [3000](https://open.spotify.com/album/0REUr33wXm6LWBoI8KpAfg) | 2:01 | 2025-09-11 | 2025-10-24 |
 | [4 AM](https://open.spotify.com/track/1vj5nnNBEb5FtuTAWVYW3p) | [ABSA](https://open.spotify.com/artist/5PmcTypQOqWbhp6kDeuU2K) | [4 AM](https://open.spotify.com/album/2Cwzzk8owwPB5B15aiIcLm) | 2:23 | 2024-02-08 | 2024-02-23 |
-| [420](https://open.spotify.com/track/7KnDzDjrjeUgNF19I45zlP) | [Leandro Carrere](https://open.spotify.com/artist/33fPfSLLolVKvp8dR5y09r), [Bruno](https://open.spotify.com/artist/1Z5Q3hr2iNj6NHPKPVWtoL) | [420](https://open.spotify.com/album/6YIhxv8aA10qUYGX7qfsQY) | 3:38 | 2026-07-08 |  |
+| [420](https://open.spotify.com/track/7KnDzDjrjeUgNF19I45zlP) | [Leandro Carrere](https://open.spotify.com/artist/33fPfSLLolVKvp8dR5y09r), [Bruno](https://open.spotify.com/artist/1Z5Q3hr2iNj6NHPKPVWtoL) | [420](https://open.spotify.com/album/6YIhxv8aA10qUYGX7qfsQY) | 3:38 | 2026-07-08 | 2026-10-14 |
 | [4:30 sunrise](https://open.spotify.com/track/7odU8oA1YDbpCPVXRmLbhE) | [k's scenario](https://open.spotify.com/artist/3y8iWAfSqtRPnpkUMWGXeH) | [Patterns](https://open.spotify.com/album/70oGq4YODFIfHMPAaodtL4) | 1:16 | 2024-05-02 | 2024-05-24 |
 | [8](https://open.spotify.com/track/0rPPmYtouQQIuNa9Wlx7fw) | [ALEA](https://open.spotify.com/artist/3ClSyO6X7HY6Buro8tJ27I) | [8](https://open.spotify.com/album/4FNqABpNWgJyuwHhJJddVu) | 1:54 | 2024-10-24 | 2024-12-05 |
 | [9\-2\-5](https://open.spotify.com/track/66nIyYOKdy7yu2QjNagnop) | [Boko Yout](https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP) | [9\-2\-5](https://open.spotify.com/album/1SjROMfa8GKI69Q9QH1Xsn) | 3:12 | 2025-07-03 | 2025-09-05 |
@@ -501,7 +501,7 @@
 | [Flo](https://open.spotify.com/track/6FuBQqmogF3HgVjfy6Nx8F) | [Månen](https://open.spotify.com/artist/2DttCqdRB5rCVCPJgv7YBd) | [Flo](https://open.spotify.com/album/41haJ7pEnUnqoTCp0cUqk2) | 2:19 | 2025-07-03 | 2025-09-05 |
 | [Float Away](https://open.spotify.com/track/6OMHusMo9jZemASNaFSd4X) | [bob junior](https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne), [Jennessa Cairo](https://open.spotify.com/artist/2c2zQ7hv1bVv6JF2aF5dxn) | [Float Away](https://open.spotify.com/album/4GDvgtNZKYKZMbcxpCoyAr) | 2:06 | 2024-05-02 | 2025-01-03 |
 | [floater friend](https://open.spotify.com/track/2LOgNm6SUXZBiucfL3dBeT) | [cathrine doll](https://open.spotify.com/artist/34IHawqPllizVsoq3udkZE) | [floater friend](https://open.spotify.com/album/2T9SFX98jcl7690IzVok08) | 3:34 | 2025-11-06 | 2026-02-13 |
-| [Flock Of Swans Fly in V's](https://open.spotify.com/track/5fvkdCParRnWBRzze91RS6) | [Murex](https://open.spotify.com/artist/3v73yV0xtIge5cSlUF0Dby) | [Flock Of Swans Fly in V's](https://open.spotify.com/album/7x2Wr7Abyr1fZslYVUxriM) | 2:36 | 2026-07-28 |  |
+| [Flock Of Swans Fly in V's](https://open.spotify.com/track/5fvkdCParRnWBRzze91RS6) | [Murex](https://open.spotify.com/artist/3v73yV0xtIge5cSlUF0Dby) | [Flock Of Swans Fly in V's](https://open.spotify.com/album/7x2Wr7Abyr1fZslYVUxriM) | 2:36 | 2026-07-28 | 2026-10-14 |
 | [flooding colors](https://open.spotify.com/track/1TOzhmcJwkvspQekRDurZo) | [Jaycov](https://open.spotify.com/artist/6kbM2bCTPewpVWA4jXP7UV) | [flooding colors](https://open.spotify.com/album/49cWz4e0g3V6ATxO4l3b1q) | 3:14 | 2025-01-23 | 2025-03-28 |
 | [Flowers at a Funeral](https://open.spotify.com/track/3tW7YR0lQoJds70KsLP0i7) | [NOEL](https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p) | [Flowers at a Funeral](https://open.spotify.com/album/4YXKLLSnxHt1Kvgb2OQLvg) | 3:27 | 2024-08-22 | 2024-11-08 |
 | [flwrs](https://open.spotify.com/track/1bPojPxNJqF9I45D8c2KXv) | [pelleklund](https://open.spotify.com/artist/6Es6ICW5sEgL7nOnWam1ep) | [flwrs](https://open.spotify.com/album/2AaiZhXUfE3QWvSU98mrB3) | 2:08 | 2025-04-24 | 2025-07-04 |
@@ -635,7 +635,7 @@
 | [Helix](https://open.spotify.com/track/5COA0GM1rhpcZYZQ1FKsHx) | [Yony x Malla](https://open.spotify.com/artist/6eeNVSWhipIRmCDMal0zRT) | [Android](https://open.spotify.com/album/2ZSYedTofYAc6wT1aEM1Ed) | 2:19 | 2024-02-08 | 2024-02-16 |
 | [HELL OF IT](https://open.spotify.com/track/24emDl2Ko1Jkyz1C1T01Fe) | [8lanco](https://open.spotify.com/artist/63Qoo1vrRqWqEq4JC1dtZs) | [HELL OF IT](https://open.spotify.com/album/1tUzg6mBlT6Jwy67VLN29t) | 2:52 | 2024-10-03 | 2024-11-08 |
 | [Hello](https://open.spotify.com/track/4PTh4Tu8zgGZKTLD9uWwM0) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [Hello](https://open.spotify.com/album/3bkxRtwYubbi6EVygo6HRt) | 2:55 | 2025-03-13 | 2025-05-02 |
-| [Hello Kitty](https://open.spotify.com/track/5Qe1ATk7do6QocoKqGklW5) | [Clutter](https://open.spotify.com/artist/5HnivENHHPzXpjX0SIRVGq) | [Hello Kitty](https://open.spotify.com/album/5cEFQvbjxLJHtgki72W6BW) | 2:44 | 2026-09-15 |  |
+| [Hello Kitty](https://open.spotify.com/track/5Qe1ATk7do6QocoKqGklW5) | [Clutter](https://open.spotify.com/artist/5HnivENHHPzXpjX0SIRVGq) | [Hello Kitty](https://open.spotify.com/album/5cEFQvbjxLJHtgki72W6BW) | 2:44 | 2026-09-15 | 2026-10-14 |
 | [Hentai](https://open.spotify.com/track/26WtuoQBI0qpIcHSQwQdvR) | [Ängie](https://open.spotify.com/artist/3pgtze01npIBY3DCDD5flw) | [Hentai](https://open.spotify.com/album/74PsmrdPgEsmIQY7FLhOKR) | 3:27 | 2024-10-24 | 2024-12-05 |
 | [Her \(Never Like This\)](https://open.spotify.com/track/6YnsAiMmdM4KwlcAF2ynyw) | [Florian Hope](https://open.spotify.com/artist/4ugVS3CJ6GIxUX24WXXrcN) | [Her \(Never Like This\)](https://open.spotify.com/album/67PHWWXqPg7eKB8kUodhw5) | 2:40 | 2025-05-29 | 2025-07-18 |
 | [Heroin](https://open.spotify.com/track/2v0gnbezyKtEasSFs6BlRy) | [SANDY](https://open.spotify.com/artist/5twIPSpy3iyEBW2PmC4chL) | [Heroin](https://open.spotify.com/album/2HckI1fsA3RnwLE8Rot4TP) | 3:08 | 2024-10-31 | 2024-12-05 |
@@ -707,6 +707,7 @@
 | [I Know U Can Do It](https://open.spotify.com/track/2yBBWkH5lyOAuEGruZikX7) | [Øyunn](https://open.spotify.com/artist/0h2Fx0No5huvQ7liqFOobL) | [I Know U Can Do It](https://open.spotify.com/album/2fM5gS0X85TNMxD9EXl8u5) | 3:01 | 2025-10-30 | 2026-02-13 |
 | [I Know, It's for the Better](https://open.spotify.com/track/66TZajdc6UWW6RGf2dilSa) | [MAIH](https://open.spotify.com/artist/5LqSpFsPhYIT2TjfE0y4zI) | [I Know, It's for the Better](https://open.spotify.com/album/6Xs8sKWiysw54dko2unHhy) | 2:40 | 2025-05-22 | 2025-06-20 |
 | [i like u...](https://open.spotify.com/track/1igY8lMxx6INXLCJK5xjbR) | [ORZC](https://open.spotify.com/artist/37oTmLY6rQTgMe4v8afZqE) | [i like u...](https://open.spotify.com/album/4CAslFQh9bAEgBPOuVyebG) | 2:35 | 2024-08-01 | 2024-09-20 |
+| [I love being sad](https://open.spotify.com/track/2GZRpTxf2Rh8eZVwttrTHe) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Andersson Funeral Home](https://open.spotify.com/album/2Tmvd1TjxBVtSDwNc9CeAe) | 2:35 | 2026-10-13 |  |
 | [I love being sad](https://open.spotify.com/track/5Mcj19iLQqbwAf1uun8Td7) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [I love being sad](https://open.spotify.com/album/2iAOojxL36gOF93qPbn36B) | 2:35 | 2026-02-12 | 2026-04-02 |
 | [I Love U Loving Me](https://open.spotify.com/track/1YJJJNcE1wI882U2XdbPiw) | [ROVAS](https://open.spotify.com/artist/2RS4b1iY3UXPXr1tsDQdRc) | [I Love U Loving Me](https://open.spotify.com/album/1d44k1mPERbvMSaTQBnfb9) | 2:31 | 2024-08-22 | 2024-09-27 |
 | [I made my baby cry](https://open.spotify.com/track/0UuFazFQ0cPYxAgFG4R739) | [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [I made my baby cry](https://open.spotify.com/album/63juu0SyImhGnHK8S9HtUZ) | 2:55 | 2024-09-19 | 2024-11-15 |
@@ -958,6 +959,7 @@
 | [Marigold](https://open.spotify.com/track/0ial8d0UqAOVetenDTpcI7) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Marigold](https://open.spotify.com/album/0P4fFsIA6Y95WLKRg6UHW1) | 3:40 | 2025-01-16 | 2025-03-28 |
 | [Mary's Lifestyle \(pbeatgirl version\)](https://open.spotify.com/track/2eBbYbvZhTdEnH1BcOyOnz) | [tibia](https://open.spotify.com/artist/14oZZcBTkCjGNKFIZ8N58t), [pbeatgirl](https://open.spotify.com/artist/4dupX4HZsvDVV26tiJ20a3) | [Mary's Lifestyle \(pbeatgirl version\)](https://open.spotify.com/album/34mBMKQEpltIkQYDK1XkmE) | 2:54 | 2025-06-26 | 2025-09-02 |
 | [Massacre](https://open.spotify.com/track/473ImsIIIX3XxE5fr79wQ3) | [Murex](https://open.spotify.com/artist/3v73yV0xtIge5cSlUF0Dby) | [Massacre](https://open.spotify.com/album/2z3jdGl1joL7e7yhJLi9Nr) | 2:55 | 2026-05-19 | 2026-07-22 |
+| [Massacre](https://open.spotify.com/track/5WwO0YxeCle0i9hbavx2yY) | [Murex](https://open.spotify.com/artist/3v73yV0xtIge5cSlUF0Dby) | [Inventio](https://open.spotify.com/album/0ZicqrgX0XyaFYe9xJbO4Z) | 2:55 | 2026-10-13 |  |
 | [Maybe](https://open.spotify.com/track/6Ot12y6i3DK8HoGKh7pgz0) | [BELLANI](https://open.spotify.com/artist/3UNt97eGmLa7Q1Qp2VkXDD) | [Maybe](https://open.spotify.com/album/4Yjn4iipDcFyRuD6WCnkzJ) | 2:35 | 2024-05-16 | 2024-05-24 |
 | [me without you](https://open.spotify.com/track/71kFzVuZATF4HXpK8DH11F) | [LonelyTwin](https://open.spotify.com/artist/2Nf6fS8HByhmGlwDPPZhHM) | [me without you](https://open.spotify.com/album/06TnNAtIbzRUfLdZX35D4Z) | 3:52 | 2025-03-13 | 2025-04-04 |
 | [Meant For Two](https://open.spotify.com/track/1KsAHz3g6CyMh7xMWR7zOH) | [Anders Hojer](https://open.spotify.com/artist/2i1X0uaBs6LHLWVctFo1xY) | [Meant For Two](https://open.spotify.com/album/668uSPmsbIPfQ3g9VpbMjE) | 3:24 | 2025-01-23 | 2025-02-21 |
@@ -1266,6 +1268,7 @@
 | [Rivers Don't Speak](https://open.spotify.com/track/1qf3auAlvL3BNTTgvBistk) | [Alexander Grandjean](https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp) | [Rivers Don't Speak](https://open.spotify.com/album/7bmD1ZPyifBcTIbpxgufq1) | 3:35 | 2024-08-01 | 2024-10-04 |
 | [Riviera](https://open.spotify.com/track/5vDuD9ndOBRnV61bHHr9Gg) | [OBESTALLT](https://open.spotify.com/artist/4pXCzsrekbc42Kbme1cvpi) | [Riviera](https://open.spotify.com/album/315GjUSP75Jcfklq5O5hc8) | 4:58 | 2025-06-05 | 2025-07-18 |
 | [Robot](https://open.spotify.com/track/5g3G4clUYxB0ojG3lWAMjh) | [Clutter](https://open.spotify.com/artist/5HnivENHHPzXpjX0SIRVGq) | [Robot](https://open.spotify.com/album/2HMCM3H6dFifSjfitumXpv) | 2:58 | 2026-08-11 | 2026-09-16 |
+| [Robot](https://open.spotify.com/track/7fcImuN03RTejoZx3Y7Z4e) | [Clutter](https://open.spotify.com/artist/5HnivENHHPzXpjX0SIRVGq) | [Sugar Rush](https://open.spotify.com/album/5VzKsz1G19SNoEqMAG0eJA) | 2:58 | 2026-10-13 |  |
 | [Rock and Roll, Summer](https://open.spotify.com/track/2wpi25Kv4W62DdDU8jrAFt) | [tibia](https://open.spotify.com/artist/14oZZcBTkCjGNKFIZ8N58t) | [See what heaven looks like now](https://open.spotify.com/album/46MlUsV2c7Jxi8tQItfT57) | 3:10 | 2025-03-13 | 2026-01-01 |
 | [Rock My World](https://open.spotify.com/track/1TAnJWnyTvbyclRUtIh9sh) | [cortex](https://open.spotify.com/artist/7h1gWbG7KDMC8NduLP3H2i) | [Rock My World](https://open.spotify.com/album/149IT1kXp0gMhQQXO5cBYT) | 2:14 | 2025-07-17 | 2025-09-17 |
 | [Rollin](https://open.spotify.com/track/3QpC95Mb7OZK8NhdYtmNPh) | [Pish](https://open.spotify.com/artist/031RVClqaUebiDDv8bSDvh) | [Rollin](https://open.spotify.com/album/6TV0ssgPMPB7ej0WhN08j5) | 3:47 | 2024-02-22 | 2024-03-29 |

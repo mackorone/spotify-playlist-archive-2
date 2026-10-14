@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/59RVdM0oev6GKFiuDXzH6F.md) - [plain]
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 4,151 likes - 332 songs - 17 hr 41 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 4,151 likes - 335 songs - 17 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -340,5 +340,8 @@ pretty - [cumulative](/playlists/cumulative/59RVdM0oev6GKFiuDXzH6F.md) - [plain]
 | 330 | [Thrift Shop](https://open.spotify.com/track/5BGZUi1XcpPAqAl7YiOcSi) | [Bomber](https://open.spotify.com/artist/3PbIzHuNB1r5G01ZRPvfVa), [No Pleasure](https://open.spotify.com/artist/615b6isStrn5YQ4q0aEDak) | [Thrift Shop](https://open.spotify.com/album/6ruXqYhcpPhe7pS1gOVOwx) | 2:03 |
 | 331 | [FREAK](https://open.spotify.com/track/2SQfzpWeQsrzaSbZhCkPyK) | [LEFTI](https://open.spotify.com/artist/7o5gxy3lEGcP62TNIppa7w), [Snrs](https://open.spotify.com/artist/61mK2JbF5F6tqgZOJMWloW) | [FREAK](https://open.spotify.com/album/6dGmAasVCrZmZ36oLiy6tG) | 2:49 |
 | 332 | [Fire](https://open.spotify.com/track/3v0utGTRNffVp0bOGfODGJ) | [JareB34R](https://open.spotify.com/artist/0KmTlaMXh9XDQA7Re0iom4) | [Fire](https://open.spotify.com/album/0HIGf1n5LyHPrEI50uc5Zu) | 4:07 |
+| 333 | [La Révolution](https://open.spotify.com/track/3P443IW4yLpi7kbD6O6RwR) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [La Révolution](https://open.spotify.com/album/5UNLFMFAZsh7oS55RA2bWU) | 2:12 |
+| 334 | [California Dreamin'](https://open.spotify.com/track/26N0VniacJgjiY0AidM1RZ) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Voltech](https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o), [Faiolli](https://open.spotify.com/artist/6oBVe2YK3rG8pS4eLf36wO) | [California Dreamin'](https://open.spotify.com/album/49MDmoQm7bf30Gg2uEANnt) | 2:59 |
+| 335 | [Inner Peace](https://open.spotify.com/track/4Ru9INxM1Nknqd7NR8ytl3) | [S3PPA](https://open.spotify.com/artist/0sIB3PokRCqqllNuzZ38NO) | [Inner Peace](https://open.spotify.com/album/73twnUCHEPcl0h8AEUzMyT) | 4:00 |
 
-Snapshot ID: `AAAR79OEy7m47sT57W2WeR81mgVgNuQV`
+Snapshot ID: `AAAR8i633Wv5gAwDJr8R4kyeuCnx+pqU`

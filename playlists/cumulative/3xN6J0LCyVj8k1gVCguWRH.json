@@ -6655,6 +6655,24 @@
     },
     {
       "album": {
+        "name": "Another Love",
+        "url": "https://open.spotify.com/album/7KEQ3ethl1yMn9jTsPnjxQ"
+      },
+      "artists": [
+        {
+          "name": "Ivana June",
+          "url": "https://open.spotify.com/artist/0uKpC8kiMcqAxihriuu7cP"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186072,
+      "name": "Another Love",
+      "url": "https://open.spotify.com/track/472QKQdZWuuFkzoQ1XOb0A"
+    },
+    {
+      "album": {
         "name": "Another Lover",
         "url": "https://open.spotify.com/album/3h0AoGNgnedGaQmMuIllEU"
       },
@@ -16534,7 +16552,7 @@
       ],
       "date_added": "2026-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 253359,
       "name": "Caf\u00e9 Frio Fuma\u00e7a",
       "url": "https://open.spotify.com/track/5h6CsIRsOTmaAyiK3w4rTB"
@@ -22900,7 +22918,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 185754,
       "name": "Corduroy Jeans",
       "url": "https://open.spotify.com/track/2ZvxbTQ9yCqJBk3nzqUjU6"
@@ -23866,7 +23884,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 155715,
       "name": "CROPTOP",
       "url": "https://open.spotify.com/track/1IjX6oxcupWm1kJKjY33iY"
@@ -40328,7 +40346,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-03",
+      "date_removed": null,
       "duration_ms": 222452,
       "name": "friends with benefits",
       "url": "https://open.spotify.com/track/41BiRr0pGfZEkF1eMS4ep6"
@@ -41908,7 +41926,7 @@
       ],
       "date_added": "2026-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 164000,
       "name": "Getaway",
       "url": "https://open.spotify.com/track/1VHvrSXpyLIZeGnhz1hsHv"
@@ -52493,6 +52511,28 @@
     },
     {
       "album": {
+        "name": "i would i would i would",
+        "url": "https://open.spotify.com/album/66alI6a44tlkCcBQMu0nMr"
+      },
+      "artists": [
+        {
+          "name": "Bab\u00e9 Sila",
+          "url": "https://open.spotify.com/artist/1aFdFoqPMVFCNCGl5Y2p8v"
+        },
+        {
+          "name": "Solray Rock",
+          "url": "https://open.spotify.com/artist/3VOK5yzI3BfUY7XRsopkGp"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "i would i would i would",
+      "url": "https://open.spotify.com/track/4nPXE9zJS1ZunjHntVymSI"
+    },
+    {
+      "album": {
         "name": "Possible Light, Pt. 1",
         "url": "https://open.spotify.com/album/3nbY5t3o7x8y6FK56tMt0t"
       },
@@ -59280,7 +59320,7 @@
       ],
       "date_added": "2026-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 207560,
       "name": "La curva del sol",
       "url": "https://open.spotify.com/track/4WM490443Be2o7UIumWQ2h"
@@ -63810,7 +63850,7 @@
       ],
       "date_added": "2026-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 187159,
       "name": "Lo que me gusta",
       "url": "https://open.spotify.com/track/1AkWVJbt0n53gp0UQl7Snw"
@@ -85626,7 +85666,7 @@
       ],
       "date_added": "2026-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 218208,
       "name": "Pretty Girls Cry",
       "url": "https://open.spotify.com/track/56ioej6lR4Vfksq8e9Ho5h"
@@ -88976,6 +89016,28 @@
       "duration_ms": 163262,
       "name": "Remonter (feat. AV Allure)",
       "url": "https://open.spotify.com/track/3jSX5IHVxwsob6bvVs0rms"
+    },
+    {
+      "album": {
+        "name": "Remota Mem\u00f3ria",
+        "url": "https://open.spotify.com/album/78KlQANZQ0tvoojiugG60M"
+      },
+      "artists": [
+        {
+          "name": "Binho",
+          "url": "https://open.spotify.com/artist/7CfxqmvqZYrdTXzFC53v9G"
+        },
+        {
+          "name": "Patricia Morais",
+          "url": "https://open.spotify.com/artist/6Dimy0Gs4sfKmqSgCFzDTC"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230597,
+      "name": "Remota Mem\u00f3ria",
+      "url": "https://open.spotify.com/track/0ywK3VpbDG66sUjTfVHFTH"
     },
     {
       "album": {
@@ -92832,7 +92894,7 @@
       ],
       "date_added": "2026-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 226732,
       "name": "Save Tonight",
       "url": "https://open.spotify.com/track/5FI0ZwoNoaeBlXEVD7iuQQ"
@@ -97664,7 +97726,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 250650,
       "name": "So Many Doors - Radio Edit",
       "url": "https://open.spotify.com/track/6JAlqstsXjZjYe0dybA0nQ"
@@ -102506,7 +102568,7 @@
       ],
       "date_added": "2026-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 231000,
       "name": "Summer Of Sin",
       "url": "https://open.spotify.com/track/6V9lclmlt0BJ9CGs6Eiui2"
@@ -107774,7 +107836,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 229538,
       "name": "The Habit Machine",
       "url": "https://open.spotify.com/track/4WcsXz04Jdjoi3dMjR4sj5"
@@ -118440,7 +118502,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 219375,
       "name": "Water On My Tongue",
       "url": "https://open.spotify.com/track/3xeLPu03i9VceaCFxlV3o9"
@@ -120118,7 +120180,7 @@
       ],
       "date_added": "2026-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 248041,
       "name": "Whatever Feels Good",
       "url": "https://open.spotify.com/track/4wRkx2gnPKtL7Qp99qPGcI"
@@ -125996,6 +126058,24 @@
       "duration_ms": 247780,
       "name": "\u0e40\u0e2a\u0e35\u0e22\u0e07\u0e08\u0e32\u0e01\u0e17\u0e30\u0e40\u0e25\u0e25\u0e36\u0e01",
       "url": "https://open.spotify.com/track/7tiVoYAGfDeHwGOaSRirOn"
+    },
+    {
+      "album": {
+        "name": "\u2018Til It\u2019s Over",
+        "url": "https://open.spotify.com/album/5syKShA2SrHJQHz01EEsMe"
+      },
+      "artists": [
+        {
+          "name": "Sarah Lake",
+          "url": "https://open.spotify.com/artist/5CFrJThh3hNdK5iDk7iLZq"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218540,
+      "name": "\u2018Til It\u2019s Over",
+      "url": "https://open.spotify.com/track/5r9UCu3MQkMRVuB2DCBjz9"
     },
     {
       "album": {

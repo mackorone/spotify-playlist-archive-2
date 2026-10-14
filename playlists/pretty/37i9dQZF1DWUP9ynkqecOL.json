@@ -1,12 +1,12 @@
 {
   "description": "tradici\u00f3n, modernidad y frescura. Sonido argentino, del futuro.",
-  "num_followers": 26718,
+  "num_followers": 26722,
   "original_name": "de mis pagos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPzx1R4QpoQy08Vb4qUJ7E8H+8Wm",
+  "snapshot_id": "AAAAAII2GunnqptPH2VBLmJDLbYCczk8",
   "tracks": [
     {
       "added_at": "2026-10-02 13:01:30",
@@ -227,6 +227,26 @@
       "duration_ms": 208433,
       "name": "Sol de Mayo",
       "url": "https://open.spotify.com/track/6GNBSRNCK9ICj4cjOboZjs"
+    },
+    {
+      "added_at": "2026-10-13 18:44:34",
+      "album": {
+        "name": "Despertar en el verde",
+        "url": "https://open.spotify.com/album/4JaRQjr96eE4yG8TABViEY"
+      },
+      "artists": [
+        {
+          "name": "Kazz Juglar",
+          "url": "https://open.spotify.com/artist/4A8GoqVvPUSqA8yUtHEOtp"
+        },
+        {
+          "name": "Milagros Blanco",
+          "url": "https://open.spotify.com/artist/4GDMljGJC2Oj2evwaulOOx"
+        }
+      ],
+      "duration_ms": 243858,
+      "name": "N\u00f3made",
+      "url": "https://open.spotify.com/track/5JKAic4y5UWRQwFOVkrhDB"
     },
     {
       "added_at": "2026-10-02 13:01:30",
@@ -493,6 +513,22 @@
       "url": "https://open.spotify.com/track/4tsVNk3h7QUEz8KhOHPpaY"
     },
     {
+      "added_at": "2026-10-13 18:22:34",
+      "album": {
+        "name": "Ya",
+        "url": "https://open.spotify.com/album/4oOwV097Vrv9e17oHilbvK"
+      },
+      "artists": [
+        {
+          "name": "Joana Carrasco",
+          "url": "https://open.spotify.com/artist/7MEva1IHEaKDRD87RPyrQL"
+        }
+      ],
+      "duration_ms": 145250,
+      "name": "26 de Febrero",
+      "url": "https://open.spotify.com/track/1NT9jtnBcEX3Aw3TkLXRb7"
+    },
+    {
       "added_at": "2026-10-02 13:01:30",
       "album": {
         "name": "Perdonarte, \u00bfPara Qu\u00e9? / Como lo Hizo",
@@ -587,6 +623,26 @@
       "duration_ms": 103664,
       "name": "Madrina",
       "url": "https://open.spotify.com/track/2Rff0KNafA07AtSntxWT8F"
+    },
+    {
+      "added_at": "2026-10-13 13:33:35",
+      "album": {
+        "name": "El Quechua en Su Voz",
+        "url": "https://open.spotify.com/album/3ztmX744llimGwM6jgdjoH"
+      },
+      "artists": [
+        {
+          "name": "La Shiji",
+          "url": "https://open.spotify.com/artist/6v70gSeSuMwlmBnDB9U5GO"
+        },
+        {
+          "name": "La Siete de Agosto",
+          "url": "https://open.spotify.com/artist/108NAaFJAyXypSZwteqWg6"
+        }
+      ],
+      "duration_ms": 287808,
+      "name": "El Quechua en Su Voz",
+      "url": "https://open.spotify.com/track/5FybsNkOOFol6yA7ZrpCAZ"
     },
     {
       "added_at": "2026-10-02 13:01:30",

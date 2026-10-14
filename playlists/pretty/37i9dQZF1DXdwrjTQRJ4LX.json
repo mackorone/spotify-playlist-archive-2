@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:artist:62k5LKMhymqlDNo2DWOvvv\">Boys Noize</a>'s favorite tracks. Updated regularly. Curated by Boys Noize. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 15802,
+  "num_followers": 15814,
   "original_name": "Boys Noize's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGrh75yNRfwloIqT8+mY/YabrGTO",
+  "snapshot_id": "AAAAAKToKQh70/gitD7tt5ikFqJQH3rS",
   "tracks": [
     {
       "added_at": "2026-09-29 13:24:30",
@@ -27,6 +27,22 @@
       "duration_ms": 176958,
       "name": "1+1+1",
       "url": "https://open.spotify.com/track/5HH66Sx5PCkl4xw8TwZq3g"
+    },
+    {
+      "added_at": "2026-10-13 15:30:53",
+      "album": {
+        "name": "NAHUI",
+        "url": "https://open.spotify.com/album/7ysdwvr5ySq2WoW8qmwLjR"
+      },
+      "artists": [
+        {
+          "name": "Locked Club",
+          "url": "https://open.spotify.com/artist/1qGCxiHgY9rBU7aNeMo9kc"
+        }
+      ],
+      "duration_ms": 219447,
+      "name": "NAHUI",
+      "url": "https://open.spotify.com/track/0lofzwKV9ln9Ed8pwXPNjf"
     },
     {
       "added_at": "2026-09-29 13:24:30",
@@ -105,6 +121,26 @@
       "url": "https://open.spotify.com/track/4hmySwS8KkDWfiiAFmlSyE"
     },
     {
+      "added_at": "2026-10-13 15:30:53",
+      "album": {
+        "name": "PZDC",
+        "url": "https://open.spotify.com/album/3StaD3vyW5prW5ATzm2xTa"
+      },
+      "artists": [
+        {
+          "name": "Locked Club",
+          "url": "https://open.spotify.com/artist/1qGCxiHgY9rBU7aNeMo9kc"
+        },
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        }
+      ],
+      "duration_ms": 282333,
+      "name": "VCIDFUTUR3",
+      "url": "https://open.spotify.com/track/2DfovLtljUx0auwoDkoGpS"
+    },
+    {
       "added_at": "2026-09-29 13:24:30",
       "album": {
         "name": "Area 4",
@@ -119,6 +155,22 @@
       "duration_ms": 227070,
       "name": "DZ7",
       "url": "https://open.spotify.com/track/6b70LEXsTxbB09i9ODOlfU"
+    },
+    {
+      "added_at": "2026-10-13 15:30:53",
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/6Rbw4WtwOycsIFgaDv3Ou9"
+      },
+      "artists": [
+        {
+          "name": "FOREVER \u201899",
+          "url": "https://open.spotify.com/artist/0OmOnAqGKnT8ivoaqn7bMM"
+        }
+      ],
+      "duration_ms": 281125,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/5vxtQ6gVT3QHZBobbAu1WG"
     },
     {
       "added_at": "2026-09-29 13:24:30",

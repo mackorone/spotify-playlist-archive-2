@@ -1288,7 +1288,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 222406,
       "name": "El Amor en Mi Vida",
       "url": "https://open.spotify.com/track/2uBYq9tm9G5UapyQmbeU6K"
@@ -2308,6 +2308,24 @@
       "duration_ms": 191245,
       "name": "Lluvia",
       "url": "https://open.spotify.com/track/4yqC8seNrokRL0vkYy43ow"
+    },
+    {
+      "album": {
+        "name": "El Orden Implicado",
+        "url": "https://open.spotify.com/album/0FJfFCQ6mMxMyu7RZLqfxF"
+      },
+      "artists": [
+        {
+          "name": "M\u00e1ximo Disfrute",
+          "url": "https://open.spotify.com/artist/0JAOb3tfbVRRNNDqZiL2Pc"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173714,
+      "name": "Lo que el Aire Quiere Hablar",
+      "url": "https://open.spotify.com/track/6zrlZOUsvdhiDTJjhuilnv"
     },
     {
       "album": {

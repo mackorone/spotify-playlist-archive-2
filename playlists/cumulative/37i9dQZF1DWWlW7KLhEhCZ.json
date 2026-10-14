@@ -11037,6 +11037,52 @@
     },
     {
       "album": {
+        "name": "CYPHER LETAL",
+        "url": "https://open.spotify.com/album/2D25SJVgfUHE6IVBT3hCnB"
+      },
+      "artists": [
+        {
+          "name": "LETAL SUPPLY",
+          "url": "https://open.spotify.com/artist/5ZdoNe9mQCwCvQ2GPjiT3N"
+        },
+        {
+          "name": "Gapes",
+          "url": "https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu"
+        },
+        {
+          "name": "Fuub",
+          "url": "https://open.spotify.com/artist/47KYl2Wi5f5jmldU2F13An"
+        },
+        {
+          "name": "Chusk Beats",
+          "url": "https://open.spotify.com/artist/79qVL3lKg1t5k6lTcSoB78"
+        },
+        {
+          "name": "Guiba 011",
+          "url": "https://open.spotify.com/artist/2XYCgzyEiW1tpzj819lzr5"
+        },
+        {
+          "name": "Barsi",
+          "url": "https://open.spotify.com/artist/4VH0ZVjaSqnZbzFV08uWJV"
+        },
+        {
+          "name": "Ozaru",
+          "url": "https://open.spotify.com/artist/4mEiOyDai3zpHDhQhszrbA"
+        },
+        {
+          "name": "\u00c9oDan",
+          "url": "https://open.spotify.com/artist/2wJTFunFUfIEZBoSRtgGzl"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262500,
+      "name": "CYPHER LETAL",
+      "url": "https://open.spotify.com/track/6z9LSfwhEXGexsNEjBBLXF"
+    },
+    {
+      "album": {
         "name": "Cypher Phonk 2023",
         "url": "https://open.spotify.com/album/0o1AbP3aiMku0tXRQYdT3p"
       },
@@ -37022,7 +37068,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-14",
       "duration_ms": 119178,
       "name": "RIHANNA",
       "url": "https://open.spotify.com/track/0JYbce5IDgDjcuigRSyJ74"

@@ -1,12 +1,12 @@
 {
   "description": "The best new hip-hop tracks from independent artists & labels. Cover: Raud",
-  "num_followers": 295504,
+  "num_followers": 295564,
   "original_name": "Fresh Finds Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADKwrEJUMaIRkmroISxXqPuJtqkn",
+  "snapshot_id": "AAAAACQG6C9JfSAru+D8Mp2PbNMl9/iN",
   "tracks": [
     {
       "added_at": "2026-10-08 20:39:24",
@@ -255,6 +255,26 @@
       "duration_ms": 112155,
       "name": "HAIRSTYLE",
       "url": "https://open.spotify.com/track/1t9lHXZO3EZIGVB1LguYyc"
+    },
+    {
+      "added_at": "2026-10-13 17:19:33",
+      "album": {
+        "name": "Bae Please [Remix]",
+        "url": "https://open.spotify.com/album/561Lr9ulKjda6MgSXdWsve"
+      },
+      "artists": [
+        {
+          "name": "Moneymyface",
+          "url": "https://open.spotify.com/artist/3a1IbN5VL3VvvEiLblCDMq"
+        },
+        {
+          "name": "Fox BD",
+          "url": "https://open.spotify.com/artist/2yGWnsBhRJCKKjuaiUsoYD"
+        }
+      ],
+      "duration_ms": 182571,
+      "name": "Bae Please [Remix]",
+      "url": "https://open.spotify.com/track/0ETXcXvxt8kiDA0bexLHvw"
     },
     {
       "added_at": "2026-10-08 20:39:24",
@@ -939,22 +959,6 @@
       "duration_ms": 138624,
       "name": "DEAD FRIENDS",
       "url": "https://open.spotify.com/track/69gc1bWsss5VqIISqDZCFI"
-    },
-    {
-      "added_at": "2026-10-08 20:39:24",
-      "album": {
-        "name": "Bae Please",
-        "url": "https://open.spotify.com/album/2UwCgrB6tP3JSSHcYh57G6"
-      },
-      "artists": [
-        {
-          "name": "Moneymyface",
-          "url": "https://open.spotify.com/artist/3a1IbN5VL3VvvEiLblCDMq"
-        }
-      ],
-      "duration_ms": 109752,
-      "name": "Bae Please",
-      "url": "https://open.spotify.com/track/0jPPuOqQWHu6C6fNLhWxdl"
     },
     {
       "added_at": "2026-10-08 20:39:24",

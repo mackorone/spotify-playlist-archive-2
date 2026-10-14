@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-910 songs - 1 day 21 hr 17 min
+911 songs - 1 day 21 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -355,6 +355,7 @@
 | [Good With It](https://open.spotify.com/track/3YOaNc8IzHkGCKqoP4ePBa) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO), [SOUNDR](https://open.spotify.com/artist/0YnlfML5Nu6DrpCshXMH0X) | [Good With It](https://open.spotify.com/album/0RtdWilPUDpbDjs4Gc8yV5) | 3:52 | 2022-12-02 | 2023-04-28 |
 | [Goodbye My Love](https://open.spotify.com/track/1PQtTEWRmKgjCR3W30J48X) | [Irokz](https://open.spotify.com/artist/2vKxv2oKVSEJZ1VmuLUOvY) | [Goodbye My Love](https://open.spotify.com/album/30GcMOqdVkrHDDsgyAacuj) | 3:18 | 2025-05-16 |  |
 | [Got A Feeling](https://open.spotify.com/track/3LgEiXnBZGyhBFcoyG5Hql) | [Raul Ojamaa](https://open.spotify.com/artist/6Z3GmozKVgFxFcP2Qzp0Fp), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp), [Soundy](https://open.spotify.com/artist/3b7sLRj01Y93l1Dn186h0W), [NOËP](https://open.spotify.com/artist/0SjnenkLIpqRE9SUzogeOp) | [Got A Feeling](https://open.spotify.com/album/6MjM00oS1aMPvQcbppe89q) | 2:48 | 2024-03-01 | 2024-09-29 |
+| [got my heart on sale](https://open.spotify.com/track/7LCsLz1YlTzfeAZq79ZEX8) | [sensacya](https://open.spotify.com/artist/57nPyy65axnQdnqKAVA9Mp) | [got my heart on sale](https://open.spotify.com/album/2MX5kvtSgs0bNozJd0muIK) | 1:34 | 2026-10-13 |  |
 | [Gotta Leave](https://open.spotify.com/track/7qYMTZaUo4lrul29krnUBK) | [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Broken String](https://open.spotify.com/album/2fxjTWt9yhsVVLaDw5089c) | 2:36 | 2024-04-19 | 2024-11-20 |
 | [GRAVE](https://open.spotify.com/track/6HkXTvTkPrgvZLgmsdM7aN) | [HOWL](https://open.spotify.com/artist/3NyPbU40Aed5xYRjuITmGJ), [Idle Days](https://open.spotify.com/artist/6wx2DYiNYOG3HGQYQSBb9j) | [GRAVE](https://open.spotify.com/album/0xV9TQ7uAualR9FJCq4tpC) | 3:37 | 2024-07-25 | 2025-01-19 |
 | [Grey](https://open.spotify.com/track/18qcT6OvETarEtu2ZAZdRo) | [Carpö](https://open.spotify.com/artist/37XIfiBkXkVPCL3h6pKS2q), [MIHXI](https://open.spotify.com/artist/3flHDpJb60qURPhjCAmuhw), [Endpoint](https://open.spotify.com/artist/1A97b3GlGllZ5BotcYtzD5) | [Grey](https://open.spotify.com/album/5f5rP12PmCuKQIwcGfmfCs) | 3:23 | 2023-05-17 | 2023-08-10 |

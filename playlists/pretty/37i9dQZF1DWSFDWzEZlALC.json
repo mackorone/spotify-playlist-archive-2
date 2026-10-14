@@ -1,13 +1,45 @@
 {
   "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Raum27",
-  "num_followers": 459886,
+  "num_followers": 459872,
   "original_name": "Wilde Herzen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI0GKudF9RLNXpyV+sgZ71XiQm5P",
+  "snapshot_id": "AAAAACJAJXHnzNlcNw0fTI3DiOnOSLW/",
   "tracks": [
+    {
+      "added_at": "2026-10-08 22:02:20",
+      "album": {
+        "name": "wenigstens f\u00fcr jetzt",
+        "url": "https://open.spotify.com/album/5Pq4onkgUufE1MH3PAXQjH"
+      },
+      "artists": [
+        {
+          "name": "Mika No\u00e9",
+          "url": "https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9"
+        }
+      ],
+      "duration_ms": 146333,
+      "name": "wenigstens f\u00fcr jetzt",
+      "url": "https://open.spotify.com/track/0pbdMK8Pix2NfRSkbTVZ72"
+    },
+    {
+      "added_at": "2026-10-08 22:02:20",
+      "album": {
+        "name": "Cry Baby Cry",
+        "url": "https://open.spotify.com/album/6iIBPT7er93Tii1o764t7j"
+      },
+      "artists": [
+        {
+          "name": "Provinz",
+          "url": "https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx"
+        }
+      ],
+      "duration_ms": 188800,
+      "name": "Cry Baby Cry",
+      "url": "https://open.spotify.com/track/78MVrtGTJQXI3dRDOugoMG"
+    },
     {
       "added_at": "2026-10-08 22:02:20",
       "album": {
@@ -43,22 +75,6 @@
     {
       "added_at": "2026-10-08 22:02:20",
       "album": {
-        "name": "wenigstens f\u00fcr jetzt",
-        "url": "https://open.spotify.com/album/5Pq4onkgUufE1MH3PAXQjH"
-      },
-      "artists": [
-        {
-          "name": "Mika No\u00e9",
-          "url": "https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9"
-        }
-      ],
-      "duration_ms": 146333,
-      "name": "wenigstens f\u00fcr jetzt",
-      "url": "https://open.spotify.com/track/0pbdMK8Pix2NfRSkbTVZ72"
-    },
-    {
-      "added_at": "2026-10-08 22:02:20",
-      "album": {
         "name": "Nachgeschmack",
         "url": "https://open.spotify.com/album/3jAzCv9K4nuQpLSqSHfI1S"
       },
@@ -71,22 +87,6 @@
       "duration_ms": 130000,
       "name": "Nachgeschmack",
       "url": "https://open.spotify.com/track/0S15EgLEle4KhJvHce5Bls"
-    },
-    {
-      "added_at": "2026-10-08 22:02:20",
-      "album": {
-        "name": "Cry Baby Cry",
-        "url": "https://open.spotify.com/album/6iIBPT7er93Tii1o764t7j"
-      },
-      "artists": [
-        {
-          "name": "Provinz",
-          "url": "https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx"
-        }
-      ],
-      "duration_ms": 188800,
-      "name": "Cry Baby Cry",
-      "url": "https://open.spotify.com/track/78MVrtGTJQXI3dRDOugoMG"
     },
     {
       "added_at": "2026-10-08 22:02:20",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZHn4SQHDIn.md) - [plain]
 
 > All in us! ITZY is back!
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,846 likes - 145 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,841 likes - 145 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZHn4SQHDIn.md) - [plain]
 | 10 | [TUNNEL VISION \- CIFIKA Remix](https://open.spotify.com/track/7zVmlpkJuPcI8sYb3Aez0K) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3), [CIFIKA](https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ) | [TUNNEL VISION \(Remixes\)](https://open.spotify.com/album/0OuWGSNT7p16Oa4HpTG4gF) | 3:16 |
 | 11 | [TUNNEL VISION \- English Ver.](https://open.spotify.com/track/0Y4jcOrsSxggxuebceYnSW) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [TUNNEL VISION \(Remixes\)](https://open.spotify.com/album/0OuWGSNT7p16Oa4HpTG4gF) | 3:04 |
 | 12 | [Ice Cream](https://open.spotify.com/track/6aIHCKcJFU19cUc02RI7zL) | [YUNA](https://open.spotify.com/artist/6FsEIvsTuqjpejg2jDbYdv) | [Ice Cream](https://open.spotify.com/album/18GSUtlVqx9QRVKBCXtSYd) | 2:51 |
-| 13 | [Midnight Glow \(No tail to tell : Original Television Soundtrack\)](https://open.spotify.com/track/2tJPh00tLndW3i8VTYXRMx) | [CHAERYEONG \(ITZY\)](https://open.spotify.com/artist/73nPXEFs9tGCNmSOcqFHPs) | [No tail to tell, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/7DDtjiqvZI9c3TlSYaAdRN) | 3:13 |
+| 13 | [Midnight Glow \(No tail to tell : Original Television Soundtrack\)](https://open.spotify.com/track/2tJPh00tLndW3i8VTYXRMx) | [CHAERYEONG](https://open.spotify.com/artist/73nPXEFs9tGCNmSOcqFHPs) | [No tail to tell, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/7DDtjiqvZI9c3TlSYaAdRN) | 3:13 |
 | 14 | [How I Love You](https://open.spotify.com/track/3eVKqI1WekNvjUrOdap7vp) | [LIA \(ITZY\)](https://open.spotify.com/artist/19Io533x1pKQu6ZuisGek5) | [IDOL I Pt\. 6 \(Original Soundtrack\)](https://open.spotify.com/album/2sh8Y5CknR4LgFyYs20Y1M) | 3:48 |
 | 15 | [ROCK & ROLL](https://open.spotify.com/track/1GLaxuQ5M92J2rxQFO541O) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Collector](https://open.spotify.com/album/57c4boNwQniM54V9Zv7zhh) | 3:05 |
 | 16 | [I\. I\. Know Me](https://open.spotify.com/track/0vB9kOqmrTzT8grUQPmXWZ) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Collector](https://open.spotify.com/album/57c4boNwQniM54V9Zv7zhh) | 3:38 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZHn4SQHDIn.md) - [plain]
 | 34 | [One Day](https://open.spotify.com/track/1TmUlYvtxNvj8jFEoRsHzw) | [LIA \(ITZY\)](https://open.spotify.com/artist/19Io533x1pKQu6ZuisGek5) | [Ms\. Incognito, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/60T71YohZmrn0ibsHHFc8W) | 3:29 |
 | 35 | [Air](https://open.spotify.com/track/2HhIndg75YiKjuUgGiMjSA) | [YEJI](https://open.spotify.com/artist/3skli1w2n0nOZ4qkDbvV2m) | [Air](https://open.spotify.com/album/4ILxYaUCwfA9EJ36wPwTWz) | 3:14 |
 | 36 | [Why Not](https://open.spotify.com/track/3UglLo3ovkcEgGgOqIL6xb) | [LIA \(ITZY\)](https://open.spotify.com/artist/19Io533x1pKQu6ZuisGek5) | [The Fiery Priest 2 \(Original Soundtrack\)](https://open.spotify.com/album/1uIS3JdcmAvXplOIQGSFKK) | 2:58 |
-| 37 | [21](https://open.spotify.com/track/2PPWmaG3n3r0CO42zfpBsd) | [CHAERYEONG \(ITZY\)](https://open.spotify.com/artist/73nPXEFs9tGCNmSOcqFHPs) | [Who Is She OST Part.1](https://open.spotify.com/album/5AqjwQPTDMDQMux3k7zC9P) | 2:56 |
+| 37 | [21](https://open.spotify.com/track/2PPWmaG3n3r0CO42zfpBsd) | [CHAERYEONG](https://open.spotify.com/artist/73nPXEFs9tGCNmSOcqFHPs) | [Who Is She OST Part.1](https://open.spotify.com/album/5AqjwQPTDMDQMux3k7zC9P) | 2:56 |
 | 38 | [WOODAHE](https://open.spotify.com/track/5zqwFI0qVuC5sDN5v96hLp) | [LIA \(ITZY\)](https://open.spotify.com/artist/19Io533x1pKQu6ZuisGek5), [Choo young woo](https://open.spotify.com/artist/46ALFLjuto4s9T9TA6HJi2) | [The Tale of Lady Ok \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/4bn8lLRe75VygKRdJ9zA3L) | 3:30 |
 | 39 | [GOLD](https://open.spotify.com/track/1dqN2j0jL4qB72CNgCdQ09) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GOLD](https://open.spotify.com/album/4CRfobFgSG0GOzplgTI79s) | 3:07 |
 | 40 | [Why Not](https://open.spotify.com/track/415dzQamP5pJ8dMfNVfUHL) | [LIA \(ITZY\)](https://open.spotify.com/artist/19Io533x1pKQu6ZuisGek5) | [The Fiery Priest 2 \(Original Soundtrack\) Part.3](https://open.spotify.com/album/7D0gQELLdvfMjodh6xNUA8) | 2:58 |
